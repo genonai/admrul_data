@@ -1,0 +1,142 @@
+{
+  "law_id": "2200000102429",
+  "mst": "2200000102429",
+  "law_name": "상속포기의 신고에 관한 예규(재특 2003-1)",
+  "law_abbr": "",
+  "law_type": "재판예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2200000102429",
+  "promulgation_no": "907",
+  "promulgation_date": "20030902",
+  "enforcement_date": "20030915",
+  "revision_date": "20030902",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "대법원(대법원)",
+    "담당자명": "",
+    "행정규칙종류코드": "B0013",
+    "행정규칙명": "상속포기의 신고에 관한 예규(재특 2003-1)",
+    "발령일자": "20030902",
+    "행정규칙종류": "재판예규",
+    "제개정구분코드": "200401",
+    "조문형식여부": "N",
+    "소관부처명": "대법원",
+    "전화번호": "",
+    "제개정구분명": "제정",
+    "소관부처코드": "9740000",
+    "생성일자": "20241125",
+    "행정규칙ID": "2113987",
+    "시행일자": "20030915",
+    "담당부서기관코드": "",
+    "발령번호": "907",
+    "행정규칙일련번호": "2200000102429",
+    "상위부처명": "대법원"
+  },
+  "amendment_text": "",
+  "revision_reason": "현행 실무에서 후순위 상속인이 상속포기신고를 할 때에 선순위 상속인의 상속포기에 관한 심판서 등을 추가로 요구하고 있으나, 상속포기신고 수리심판에는 확정적 효력이 없기 때문에 가사 선순위 상속인의 상속포기신고를 수리하는 심판이 있었다고 하더라도 후순위 상속인이 법률적으로 피상속인의 상속인으로 확정되었다고 단정할 수 없음에도 위와 같은 실무로 인하여 대다수 사건에서 법원 및 후순위 상속인들의 업무부담을 불필요하게 가중시키고 있으므로, 후순위 상속인은 선순위 상속인의 포기 여부에 무관하게 상속포기를 할 수 있도록 규정하는 예규를 제정함",
+  "body": {
+    "format": "articles",
+    "article_count": 3,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 예규는 상속포기의 신고에 관하여 필요한 사항을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:상속포기의신고에관한예규(재특2003-1)#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "무능력자의 상속포기신고",
+        "chapter": "",
+        "content": "제2조 (무능력자의 상속포기신고) ① 상속포기의 신고인이 미성년자, 금치산자 또는 한정치산자(이하 \"무능력자\"라고 한다)인 경우에는 법정대리인이 신고를 대리한다.② 무능력자와 그 법정대리인이 공동으로 상속인이 되는 경우에 무능력자가 상속포기의 신고를 하기 위하여는 민법 제921조의 규정에 따른 특별대리인을 선임하여야 한다. 다만, 무능력자와 그 법정대리인을 포함하여 공동상속인 전원이 함께 상속포기의 신고를 하는 경우에는 그러하지 아니하다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "민법 제921조",
+            "line_text": "제2조 (무능력자의 상속포기신고) ① 상속포기의 신고인이 미성년자, 금치산자 또는 한정치산자(이하 \"무능력자\"라고 한다)인 경우에는 법정대리인이 신고를 대리한다.② 무능력자와 그 법정대리인이 공동으로 상속인이 되는 경우에 무능력자가 상속포기의 신고를 하기 위하여는 민법 제921조의 규정에 따른 특별대리인을 선임하여야 한다. 다만, 무능력자와 그 법정대리인을 포함하여 공동상속인 전원이 함께 상속포기의 신고를 하는 경우에는 그러하지 아니하다.",
+            "target_law_name": "민법",
+            "target_article_no": "제921조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/민법/제921조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:상속포기의신고에관한예규(재특2003-1)#JO0002",
+            "reference_id": "law:민법#JO0921"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:상속포기의신고에관한예규(재특2003-1)#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "후순위 상속인의 상속포기신고",
+        "chapter": "",
+        "content": "제3조 (후순위 상속인의 상속포기신고) 피상속인의 상속인이 될 자격이 있는 사람(배우자, 직계비속, 직계존속, 형제자매, 4촌 이내 방계혈족)은 상속이 개시된 이후에는 선순위 상속인이 상속포기신고를 하지 아니한 경우라도 선순위 상속인보다 먼저 또는 선순위 상속인과 동시에 상속포기의 신고를 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:상속포기의신고에관한예규(재특2003-1)#JO0003"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "제921조",
+        "line_text": "",
+        "target_law_name": "민법",
+        "target_article_no": "제921조",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/법령/민법/제921조",
+        "resolve_method": "text_supplement"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "99991231",
+      "promulgation_no": "9999",
+      "content": "부 칙제1조(시행일) 이 예규는 2003. 9. 15.부터 시행한다.제2조(폐지예규) \"미성년자와 그 후견인의 공동상속재산에 관하여 미성년자가 그 지분을 포기할 경우의 절차( 재민 62-11)\"를 폐지한다."
+    }
+  ],
+  "appendices": [],
+  "attachments": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 2,
+    "by_category": {
+      "법령": 2
+    },
+    "by_relation_type": {
+      "citation": 2
+    },
+    "articles_total": 3,
+    "articles_with_relations": 1,
+    "unmatched_relations": 1,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/상속포기의 신고에 관한 예규(재특 2003-1)"
+  },
+  "provision_id": "admrul:상속포기의신고에관한예규(재특2003-1)#DOC"
+}
