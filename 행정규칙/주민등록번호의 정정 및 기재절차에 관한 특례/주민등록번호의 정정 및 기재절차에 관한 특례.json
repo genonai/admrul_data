@@ -1,0 +1,162 @@
+{
+  "law_id": "2200000101801",
+  "mst": "2200000101801",
+  "law_name": "주민등록번호의 정정 및 기재절차에 관한 특례",
+  "law_abbr": "",
+  "law_type": "가족관계등록예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2200000101801",
+  "promulgation_no": "670",
+  "promulgation_date": "20040331",
+  "enforcement_date": "20040331",
+  "revision_date": "20040331",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "대법원(대법원)",
+    "담당자명": "",
+    "행정규칙종류코드": "B0015",
+    "행정규칙명": "주민등록번호의 정정 및 기재절차에 관한 특례",
+    "발령일자": "20040331",
+    "행정규칙종류": "가족관계등록예규",
+    "제개정구분코드": "200401",
+    "조문형식여부": "N",
+    "소관부처명": "대법원",
+    "전화번호": "",
+    "제개정구분명": "제정",
+    "소관부처코드": "9740000",
+    "생성일자": "20241125",
+    "행정규칙ID": "2113583",
+    "시행일자": "20040331",
+    "담당부서기관코드": "",
+    "발령번호": "670",
+    "행정규칙일련번호": "2200000101801",
+    "상위부처명": "대법원"
+  },
+  "amendment_text": "",
+  "revision_reason": "오기 또는 누락된 주민등록번호를 간이한 절차로 정정할 수 있게 함으로써, 국민에게 편의를 도모하고 호적관서의 업무를 편리하게 하고자 함.",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "1. 목적정보처리시스템에 의하여 작성된 호적에 관하여 오기 또는 누락된 주민등록번호를 정비하기 위한 절차를 정함을 목적으로 한다.2. 목록송부법원행정처장은 정보처리시스템에 의하여 작성된 호적에 관하여 주민등록번호가 누락되었거나, 부여체계에 맞지 않는 주민등록번호를 추출한 목록을 시(구)·읍·면의 장에게 송부한다.3. 정정ㆍ기재방법가. 시(구)·읍·면의 장은 송부 받은 목록에 의하여 자체적으로 주민등록번호를 정비하되, 호적법 제22조 제2항 단서 규정을 준용하여 호적에 주민등록번호를 직권정정ㆍ기재한다. 이 경우에는 호적법시행규칙 제68조 제1호를 적용하여 직권정정ㆍ기재서 작성을 생략한다.나. 신분사항란의 기재례는 다음과 같다.[그림]4. 보고시(구)·읍·면의 장은 직권정정·기재한 호적이 있는 경우에, 매월 호적법시행규칙 제80조의 규정에 의하여 감독법원에 신고서류를 송부할 때 별지 서식  의 주민등록번호 직권정정·기재호적목록을 출력하고 목록순서에 따라 직권 정정·기재에 따른 소명자료를 첨부하여 송부하여야 한다.5. 감독법원의 조치법원은 시(구)·읍·면의 장으로부터 송부받은 주민등록번호 직권정정·기재호적목록과 소명자료를 지체없이 확인 대조하여야 하고, 조사가 완료된 때에는 목록을 본적지신고서류 편철부에 편철·보존하며 첨부된 소명자료는 즉시 폐기하여 개인정보가 유출되지 않도록 주의하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "제22조",
+            "line_text": "",
+            "target_law_name": "호적법",
+            "target_article_no": "제22조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/호적법/제22조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:주민등록번호의정정및기재절차에관한특례#DOC",
+            "reference_id": "law:호적법#JO0022"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "제68조",
+            "line_text": "",
+            "target_law_name": "호적법시행규칙",
+            "target_article_no": "제68조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/호적법시행규칙/제68조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:주민등록번호의정정및기재절차에관한특례#DOC",
+            "reference_id": "law:호적법시행규칙#JO0068"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "제80조",
+            "line_text": "",
+            "target_law_name": "매월 호적법시행규칙",
+            "target_article_no": "제80조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/매월 호적법시행규칙/제80조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:주민등록번호의정정및기재절차에관한특례#DOC",
+            "reference_id": "law:매월호적법시행규칙#JO0080"
+          }
+        ],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/flDownload.do?flSeq=145614083&gubun=ESTABLISHRULEIMG",
+            "seq": ""
+          }
+        ],
+        "provision_id": "admrul:주민등록번호의정정및기재절차에관한특례#DOC"
+      }
+    ]
+  },
+  "addenda": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "기타",
+      "title": "[별지서식] 주민등록번호 직권정정ㆍ기재 호적 목록",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614085",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145614085",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:주민등록번호의정정및기재절차에관한특례#BYL0001",
+      "filename": "기타1_[별지서식] 주민등록번호 직권정정ㆍ기재 호적 목록.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 3,
+    "by_category": {
+      "법령": 3
+    },
+    "by_relation_type": {
+      "citation": 3
+    },
+    "articles_total": 1,
+    "articles_with_relations": 1,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 1,
+    "attachments_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/주민등록번호의 정정 및 기재절차에 관한 특례"
+  },
+  "provision_id": "admrul:주민등록번호의정정및기재절차에관한특례#DOC"
+}
