@@ -1,0 +1,140 @@
+{
+  "law_id": "2200000103471",
+  "mst": "2200000103471",
+  "law_name": "검사공무원 관직지정",
+  "law_abbr": "",
+  "law_type": "행정예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2200000103471",
+  "promulgation_no": "402",
+  "promulgation_date": "19991213",
+  "enforcement_date": "19991213",
+  "revision_date": "19991213",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "대법원(대법원)",
+    "담당자명": "",
+    "행정규칙종류코드": "B0012",
+    "행정규칙명": "검사공무원 관직지정",
+    "발령일자": "19991213",
+    "행정규칙종류": "행정예규",
+    "제개정구분코드": "200403",
+    "조문형식여부": "N",
+    "소관부처명": "대법원",
+    "전화번호": "",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "9740000",
+    "생성일자": "20241125",
+    "행정규칙ID": "2114785",
+    "시행일자": "19991213",
+    "담당부서기관코드": "",
+    "발령번호": "402",
+    "행정규칙일련번호": "2200000103471",
+    "상위부처명": "대법원"
+  },
+  "amendment_text": "",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "물품관리법 제48조, 동시행령 제50조, 동시행규칙 제68조에 의하여 물품관리관, 물품출납공무원, 물품운용관의 장부와 물품에 대한 검사공무원 지명을 다음과 같이 관직을 지정함으로써 지명에 갈음함.1. 법원행정처 :송무국장2. 사법연수원 :수석교수3. 법원공무원교육원 :수석교수4. 법원도서관 :정리과장5. 고등법원 및 특허법원 :수석부장판사6. 지방법원,가정법원 및 행정법원 :수석부장판사7. 지 원 :지원장",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "제48조",
+            "line_text": "",
+            "target_law_name": "물품관리법",
+            "target_article_no": "제48조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/물품관리법/제48조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:검사공무원관직지정#DOC",
+            "reference_id": "law:물품관리법#JO0048"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "제50조",
+            "line_text": "",
+            "target_law_name": "동시행령",
+            "target_article_no": "제50조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/동시행령/제50조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:검사공무원관직지정#DOC",
+            "reference_id": "admrul:동시행령#JO0050"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "제68조",
+            "line_text": "",
+            "target_law_name": "동시행규칙",
+            "target_article_no": "제68조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/동시행규칙/제68조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:검사공무원관직지정#DOC",
+            "reference_id": "admrul:동시행규칙#JO0068"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:검사공무원관직지정#DOC"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19991213",
+      "promulgation_no": "402",
+      "content": "부   칙(1999. 12. 13. 제402호)이 예규는 1999. 12. 13.부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "attachments": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 3,
+    "by_category": {
+      "법령": 1,
+      "행정규칙": 2
+    },
+    "by_relation_type": {
+      "citation": 3
+    },
+    "articles_total": 1,
+    "articles_with_relations": 1,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/검사공무원 관직지정"
+  },
+  "provision_id": "admrul:검사공무원관직지정#DOC"
+}
