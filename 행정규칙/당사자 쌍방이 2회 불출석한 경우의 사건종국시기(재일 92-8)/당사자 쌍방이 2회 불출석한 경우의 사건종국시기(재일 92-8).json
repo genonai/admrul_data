@@ -1,42 +1,42 @@
 {
-  "law_id": "2200000092745",
-  "mst": "2200000092745",
+  "law_id": "2200000103135",
+  "mst": "2200000103135",
   "law_name": "당사자 쌍방이 2회 불출석한 경우의 사건종국시기(재일 92-8)",
   "law_abbr": "",
   "law_type": "재판예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
-  "adm_uid": "admrul:2200000092745",
-  "promulgation_no": "359",
-  "promulgation_date": "19921118",
-  "enforcement_date": "99991231",
-  "revision_date": "19921118",
-  "revision_type": "제정",
-  "is_current": false,
+  "adm_uid": "admrul:2200000103135",
+  "promulgation_no": "871-17",
+  "promulgation_date": "20020627",
+  "enforcement_date": "20020701",
+  "revision_date": "20020627",
+  "revision_type": "일부개정",
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "대법원(대법원)",
     "담당자명": "",
     "행정규칙종류코드": "B0013",
     "행정규칙명": "당사자 쌍방이 2회 불출석한 경우의 사건종국시기(재일 92-8)",
-    "발령일자": "19921118",
+    "발령일자": "20020627",
     "행정규칙종류": "재판예규",
-    "제개정구분코드": "200401",
+    "제개정구분코드": "200403",
     "조문형식여부": "N",
     "소관부처명": "대법원",
     "전화번호": "",
-    "제개정구분명": "제정",
+    "제개정구분명": "일부개정",
     "소관부처코드": "9740000",
     "생성일자": "20241125",
     "행정규칙ID": "2114515",
-    "시행일자": "99991231",
+    "시행일자": "20020701",
     "담당부서기관코드": "",
-    "발령번호": "359",
-    "행정규칙일련번호": "2200000092745",
+    "발령번호": "871-17",
+    "행정규칙일련번호": "2200000103135",
     "상위부처명": "대법원"
   },
   "amendment_text": "",
-  "revision_reason": "",
+  "revision_reason": "민사소송법, 민사집행법, 민사소송규칙 및 민사집행규칙 그 밖의 법령의 제·개정에 맞추어 관련 송무예규(일반송무 및 민사소송편)를 정비하고자 함",
   "body": {
     "format": "articles",
     "article_count": 1,
@@ -45,34 +45,78 @@
         "article_no": "전문",
         "article_title": "",
         "chapter": "",
-        "content": "현행 민사소송법에는 당사자 쌍방이 2회 불출석한 것만으로는 아무런 효력이 생기지 아니하고, 1월내에 기일지정신청이 없거나 그 기일지정신청에 의하여 정한 기일 또는 그 후의 기일에 쌍방이 불출석한 때에 비로소 소 취하의 효력이 생기는 것이어서, 사건종국시기도 쌍방이 2회 불출석한 후 1월이 경과한 날 또는 1월내의 기일지정신청에 의하여 정한 기일이나 그 후의 기일에 쌍방이 불출석한 때가 되어야 할 것입니다.또한 위 1월내의 기일지정신청은 민사소송규칙 제53조, 법원사무규칙 제40조의 규정에 해당하는 것이 아니므로 업무처리에 착오없기 바랍니다.",
+        "content": "현행 민사소송법에는 당사자 쌍방이 2회 불출석한 것만으로는 아무런 효력이 생기지 아니하고, 1월내에 기일지정신청이 없거나 그 기일지정신청에 의하여 정한 기일 또는 그 후의 기일에 쌍방이 불출석한 때에 비로소 소 취하의 효력이 생기는 것이어서, 사건종국시기도 쌍방이 2회 불출석한 후 1월이 경과한 날 또는 1월내의 기일지정신청에 의하여 정한 기일이나 그 후의 기일에 쌍방이 불출석한 때가 되어야 할 것입니다.또한 위 1월내의 기일지정신청은 민사소송규칙 제68조, 법원사무규칙 제40조의 규정에 해당하는 것이 아니므로 업무처리에 착오없기 바랍니다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "제68조",
+            "line_text": "",
+            "target_law_name": "민사소송규칙",
+            "target_article_no": "제68조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/민사소송규칙/제68조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:당사자쌍방이2회불출석한경우의사건종국시기(재일92-8)#DOC",
+            "reference_id": "admrul:민사소송규칙#JO0068"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "제40조",
+            "line_text": "",
+            "target_law_name": "법원사무규칙",
+            "target_article_no": "제40조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/법원사무규칙/제40조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:당사자쌍방이2회불출석한경우의사건종국시기(재일92-8)#DOC",
+            "reference_id": "admrul:법원사무규칙#JO0040"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:당사자쌍방이2회불출석한경우의사건종국시기(재일92-8)#DOC"
       }
     ]
   },
-  "addenda": [],
+  "addenda": [
+    {
+      "promulgation_date": "20020627",
+      "promulgation_no": "871",
+      "content": "부   칙(2002. 6. 27. 제871호)이 예규는 2002. 7. 1.부터 시행한다."
+    }
+  ],
   "appendices": [],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 2,
+    "by_category": {
+      "행정규칙": 2
+    },
+    "by_relation_type": {
+      "citation": 2
+    },
     "articles_total": 1,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 0,
+    "addenda_count": 1,
     "appendices_count": 0,
     "attachments_count": 0
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/당사자 쌍방이 2회 불출석한 경우의 사건종국시기(재일 92-8)"
   },
-  "provision_id": "admrul:당사자쌍방이2회불출석한경우의사건종국시기(재일92-8)#DOC",
-  "is_future": false
+  "provision_id": "admrul:당사자쌍방이2회불출석한경우의사건종국시기(재일92-8)#DOC"
 }
