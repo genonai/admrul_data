@@ -1,0 +1,158 @@
+{
+  "law_id": "2200000102719",
+  "mst": "2200000102719",
+  "law_name": "법원외의 매각장소 지정(재민 64-5)",
+  "law_abbr": "",
+  "law_type": "재판예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2200000102719",
+  "promulgation_no": "866-34",
+  "promulgation_date": "20020626",
+  "enforcement_date": "20020701",
+  "revision_date": "20020626",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "대법원(대법원)",
+    "담당자명": "",
+    "행정규칙종류코드": "B0013",
+    "행정규칙명": "법원외의 매각장소 지정(재민 64-5)",
+    "발령일자": "20020626",
+    "행정규칙종류": "재판예규",
+    "제개정구분코드": "200403",
+    "조문형식여부": "N",
+    "소관부처명": "대법원",
+    "전화번호": "",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "9740000",
+    "생성일자": "20241125",
+    "행정규칙ID": "2114191",
+    "시행일자": "20020701",
+    "담당부서기관코드": "",
+    "발령번호": "866-34",
+    "행정규칙일련번호": "2200000102719",
+    "상위부처명": "대법원"
+  },
+  "amendment_text": "",
+  "revision_reason": "민사집행법, 민사집행규칙 그 밖의 법령의 제·개정에 맞추어 관련 송무예규(강제집행 및 임의경매편)를 정비하고자 함",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "문.집행관사무소가 법원구내에 없는 경우에는 민사집행법 제107조 단서에 의하여 일일이 허가를 얻을 것이 아니라 동법 제106조 제4호의 기재만으로 집행관사무소 기타 장소에서 매각절차를 함이 여하답.집행관사무소가 법원구내에 없다 하여 민사집행법 제107조의 규정을 무시하고 미리 매각장소를 법원내가 아닌 다른 장소로 정할 수 없다.참  조민사집행법\n제106조 경매기일의 공고내용에는 다음 각호의 사항을 적어야 한다.4. 매각기일의 일시·장소, 매각기일을 진행할 집행관의 성명 및 기간입찰의 방법으로 매각할 경우에는 입찰기간·장소\n제107조 매각기일은 법원 안에서 진행하여야 한다. 다만, 집행관은 법원의 허가를 얻어 다른 장소에서 매각기일을 진행할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "제107조",
+            "line_text": "",
+            "target_law_name": "민사집행법",
+            "target_article_no": "제107조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/민사집행법/제107조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:법원외의매각장소지정(재민64-5)#DOC",
+            "reference_id": "law:민사집행법#JO0107"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "동법",
+            "line_text": "",
+            "target_law_name": "법원외의 매각장소 지정(재민 64-5)",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/법원외의 매각장소 지정(재민 64-5)",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:법원외의매각장소지정(재민64-5)#DOC",
+            "reference_id": "admrul:법원외의매각장소지정(재민64-5)#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "제106조",
+            "line_text": "",
+            "target_law_name": "조민사집행법",
+            "target_article_no": "제106조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/조민사집행법/제106조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:법원외의매각장소지정(재민64-5)#DOC",
+            "reference_id": "law:조민사집행법#JO0106"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "제107조",
+            "line_text": "",
+            "target_law_name": "민사집행법",
+            "target_article_no": "제107조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/민사집행법/제107조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:법원외의매각장소지정(재민64-5)#DOC",
+            "reference_id": "law:민사집행법#JO0107"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:법원외의매각장소지정(재민64-5)#DOC"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20020626",
+      "promulgation_no": "866",
+      "content": "부   칙(2002. 6. 26. 제866호)이 예규는 2002. 7. 1.부터 시행한다. 다만, 2002. 7. 1. 전에 접수된 사건에 대하여는 이 예규를 적용하지 아니한다."
+    }
+  ],
+  "appendices": [],
+  "attachments": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 4,
+    "by_category": {
+      "법령": 3,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 3,
+      "internal_ref": 1
+    },
+    "articles_total": 1,
+    "articles_with_relations": 1,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/법원외의 매각장소 지정(재민 64-5)"
+  },
+  "provision_id": "admrul:법원외의매각장소지정(재민64-5)#DOC"
+}
