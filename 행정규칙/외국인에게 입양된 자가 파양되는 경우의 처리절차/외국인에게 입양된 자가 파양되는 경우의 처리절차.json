@@ -1,0 +1,122 @@
+{
+  "law_id": "2200000102169",
+  "mst": "2200000102169",
+  "law_name": "외국인에게 입양된 자가 파양되는 경우의 처리절차",
+  "law_abbr": "",
+  "law_type": "가족관계등록예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2200000102169",
+  "promulgation_no": "622",
+  "promulgation_date": "20020123",
+  "enforcement_date": "19980614",
+  "revision_date": "20020123",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "대법원(대법원)",
+    "담당자명": "",
+    "행정규칙종류코드": "B0015",
+    "행정규칙명": "외국인에게 입양된 자가 파양되는 경우의 처리절차",
+    "발령일자": "20020123",
+    "행정규칙종류": "가족관계등록예규",
+    "제개정구분코드": "200403",
+    "조문형식여부": "N",
+    "소관부처명": "대법원",
+    "전화번호": "",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "9740000",
+    "생성일자": "20241125",
+    "행정규칙ID": "2113805",
+    "시행일자": "19980614",
+    "담당부서기관코드": "",
+    "발령번호": "622",
+    "행정규칙일련번호": "2200000102169",
+    "상위부처명": "대법원"
+  },
+  "amendment_text": "",
+  "revision_reason": "섭외사법이 국제사법으로 전면 개정됨에 따라 관련 예규들이 인용하는 법명칭과 법조문이 일치하지 않게 되었으므로, 그 개정된 내용에 맞추어 이를 정리하기 위함.",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "한국인이 미국인의 양자가 되어 미국의 국적을 취득한 후라면 양자는 우리 국적을 상실( 국적법 제15조 제2항 제2호)한 것이므로 파양하더라도 우리 호적에는 파양의 기재를 할 것이 아니라 국적회복의 절차를 취해야 될 것이고, 외국 국적 취득 전이라면 파양신고는 미국 당국에서 발행한 그 국적 취득 전이라는 증명서와 미국법에 의하여 파양이 허용되는 증명서( 국제사법 제43조)를 첨부하여 신고함이 타당하다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "제15조",
+            "line_text": "",
+            "target_law_name": "국적법",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국적법/제15조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:외국인에게입양된자가파양되는경우의처리절차#DOC",
+            "reference_id": "law:국적법#JO0015"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "제43조",
+            "line_text": "",
+            "target_law_name": "국제사법",
+            "target_article_no": "제43조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국제사법/제43조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:외국인에게입양된자가파양되는경우의처리절차#DOC",
+            "reference_id": "law:국제사법#JO0043"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:외국인에게입양된자가파양되는경우의처리절차#DOC"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "99991231",
+      "promulgation_no": "9999",
+      "content": "부  칙(1998. 6. 3. 제556호)이 예규는 1998.  6. 14.부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "attachments": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 2,
+    "by_category": {
+      "법령": 2
+    },
+    "by_relation_type": {
+      "citation": 2
+    },
+    "articles_total": 1,
+    "articles_with_relations": 1,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/외국인에게 입양된 자가 파양되는 경우의 처리절차"
+  },
+  "provision_id": "admrul:외국인에게입양된자가파양되는경우의처리절차#DOC"
+}
