@@ -1,0 +1,140 @@
+{
+  "law_id": "2200000102921",
+  "mst": "2200000102921",
+  "law_name": "문서송부촉탁 등에 따라 법원에 문서의 인증등본이 제출된 경우의 업무처리요령(재일 2002-6)",
+  "law_abbr": "",
+  "law_type": "재판예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2200000102921",
+  "promulgation_no": "875",
+  "promulgation_date": "20020627",
+  "enforcement_date": "20020701",
+  "revision_date": "20020627",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "대법원(대법원)",
+    "담당자명": "",
+    "행정규칙종류코드": "B0013",
+    "행정규칙명": "문서송부촉탁 등에 따라 법원에 문서의 인증등본이 제출된 경우의 업무처리요령(재일 2002-6)",
+    "발령일자": "20020627",
+    "행정규칙종류": "재판예규",
+    "제개정구분코드": "200403",
+    "조문형식여부": "N",
+    "소관부처명": "대법원",
+    "전화번호": "",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "9740000",
+    "생성일자": "20241125",
+    "행정규칙ID": "2114361",
+    "시행일자": "20020701",
+    "담당부서기관코드": "",
+    "발령번호": "875",
+    "행정규칙일련번호": "2200000102921",
+    "상위부처명": "대법원"
+  },
+  "amendment_text": "",
+  "revision_reason": "예규의 적용범위를 문서제출명령, 문서송부촉탁, 일부문서송부촉탁에 따라 법원에 문서의 인증등본이 제출된 경우로 확대하고, 개정 민사소송규칙 제115조에 맞추어 업무처리방식을 명확하게 정함",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "1. 민사소송법 제347조 제1항, 제352조, 민사소송규칙 제113조의 규정에 따라 법원에 문서의 인증등본이 제출된 경우 참여사무관 등은 곧바로 신청인에게 그 사실을 통지하여 제출된 문서 중 서증으로 제출하고자 하는 문서를 지정하여 서증부호와 번호를 정리한 목록을 제출하게 한다.2. 참여사무관 등은 제출된 인증등본 중 신청인이 서증으로 제출하고자 지정하지 아니한 문서 또는 지정하였으나 증거로 채택되지 아니한 문서는 재판장의 지시를 받아 신청인에게 교부하거나 폐기한다.3. 제출된 인증등본 중 서증으로 채택된 문서는 그 인증등본에 직접 서증부호와 번호를 부기한다.4. 신청인이 서증으로 제출하고자 지정하여 서증부호와 번호를 부여한 문서가 증거로 채택되지 아니한 때에는 다음과 같은 방법으로 서증목록에 기재한다.가.  \"서증번호\" 란에는 신청인이 부여한 서증번호를 적는다.나.  \"기일 및 장수\" ,  \"서증명\" ,  \"기일\" 란에는 채택된 서증과 동일하게 적고,  \"인부요지\" 란에  \"기각\" 이라고 적는다.다. 그 문서를 신청인에게 교부하거나 폐기한 때에는  \"비고\" 란에  \"신청인교부\" ,  \"폐기\" 와 같이 적는다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "제347조",
+            "line_text": "",
+            "target_law_name": "민사소송법",
+            "target_article_no": "제347조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/민사소송법/제347조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:문서송부촉탁등에따라법원에문서의인증등본이제출된경우의업무처리요령(재일2002-6)#DOC",
+            "reference_id": "law:민사소송법#JO0347"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "제352조",
+            "line_text": "",
+            "target_law_name": "민사소송법",
+            "target_article_no": "제352조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/민사소송법/제352조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:문서송부촉탁등에따라법원에문서의인증등본이제출된경우의업무처리요령(재일2002-6)#DOC",
+            "reference_id": "law:민사소송법#JO0352"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "제113조",
+            "line_text": "",
+            "target_law_name": "민사소송규칙",
+            "target_article_no": "제113조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/민사소송규칙/제113조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:문서송부촉탁등에따라법원에문서의인증등본이제출된경우의업무처리요령(재일2002-6)#DOC",
+            "reference_id": "admrul:민사소송규칙#JO0113"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:문서송부촉탁등에따라법원에문서의인증등본이제출된경우의업무처리요령(재일2002-6)#DOC"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20020627",
+      "promulgation_no": "875",
+      "content": "부  칙(2002. 6. 27. 제875호)이 예규는 2002. 7. 1.부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "attachments": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 3,
+    "by_category": {
+      "법령": 2,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 3
+    },
+    "articles_total": 1,
+    "articles_with_relations": 1,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/문서송부촉탁 등에 따라 법원에 문서의 인증등본이 제출된 경우의 업무처리요령(재일 2002-6)"
+  },
+  "provision_id": "admrul:문서송부촉탁등에따라법원에문서의인증등본이제출된경우의업무처리요령(재일2002-6)#DOC"
+}
