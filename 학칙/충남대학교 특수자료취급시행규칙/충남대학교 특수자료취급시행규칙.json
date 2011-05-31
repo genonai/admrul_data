@@ -1,24 +1,24 @@
 {
-  "law_id": "2200000078751",
-  "mst": "2200000078751",
+  "law_id": "2200000078527",
+  "mst": "2200000078527",
   "law_name": "충남대학교 특수자료취급시행규칙",
   "law_abbr": "",
   "law_type": "학교규정",
   "doc_target": "school",
   "doc_kind": "학칙",
-  "adm_uid": "school:2200000078751",
+  "adm_uid": "school:2200000078527",
   "promulgation_no": "1484",
   "promulgation_date": "20110531",
   "enforcement_date": "20110531",
   "revision_date": "20110531",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "충남대학교",
     "담당자명": "조항빈",
     "행정규칙종류코드": "B0026",
-    "행정규칙명": "충남대학교 특수자료취급시행규칙",
+    "행정규칙명": "충남대학교 특수자료취급 시행규칙",
     "발령일자": "20110531",
     "행정규칙종류": "학교규정",
     "제개정구분코드": "200403",
@@ -27,14 +27,14 @@
     "전화번호": "0428215103",
     "제개정구분명": "일부개정",
     "소관부처코드": "7001105",
-    "생성일자": "20190612",
-    "행정규칙ID": "2107694",
+    "생성일자": "20190404",
+    "행정규칙ID": "2107590",
     "담당부서기관코드": "7001105",
     "발령번호": "1484",
-    "행정규칙일련번호": "2200000078751"
+    "행정규칙일련번호": "2200000078527"
   },
   "amendment_text": "",
-  "revision_reason": "..",
+  "revision_reason": ",,",
   "body": {
     "format": "articles",
     "article_count": 12,
@@ -53,7 +53,7 @@
         "article_no": "제2조",
         "article_title": "용어의 정의",
         "chapter": "",
-        "content": "제2조(용어의 정의) \"특수자료\"라 함은 간행물, 녹음테이프, 영상물, 전자출판물 등 일체의 대중전달 매개체로서 관련기관에서 비밀로 분류한 것을 제외한 다음 각호에 해당하는 자료를 말한다. <개정 2011.5.31>1. 북한 또는 반국가단체에서 제작, 발행한 정치적·이념적 자료2. 북한 및 반국가단체와 그 구성원의 활동을 찬양, 선전하는 내용3. 공산주의 이념이나 체제를 찬양, 선전하는 내용4. 대한민국의 정통성을 부인하거나 자유민주주의 체제를 부정하는 내용 등",
+        "content": "제2조(용어의 정의) “특수자료”라 함은 간행물, 녹음테이프, 영상물, 전자출판물 등 일체의 대중전달 매개체로서 관련기관에서 비밀로 분류한 것을 제외한 다음 각호에 해당하는 자료를 말한다. <개정 2011.5.31>1. 북한 또는 반국가단체에서 제작, 발행한 정치적·이념적 자료2. 북한 및 반국가단체와 그 구성원의 활동을 찬양, 선전하는 내용3. 공산주의 이념이나 체제를 찬양, 선전하는 내용4. 대한민국의 정통성을 부인하거나 자유민주주의 체제를 부정하는 내용 등",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -188,7 +188,206 @@
       "content": "부칙 <제1484호,2011.5.31>이 규칙은 공포한 날부터 시행한다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "특수자료 취급기관 인가신청서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=41525453",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=41525453",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "school:충남대학교특수자료취급시행규칙#BJ0001",
+      "filename": "별지1_특수자료 취급기관 인가신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "서약서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=41525455",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=41525455",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "school:충남대학교특수자료취급시행규칙#BJ0002",
+      "filename": "별지2_서약서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "특수자료 등록대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=41525457",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=41525457",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "school:충남대학교특수자료취급시행규칙#BJ0003",
+      "filename": "별지3_특수자료 등록대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "관리번호",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=41525459",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=41525459",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "school:충남대학교특수자료취급시행규칙#BJ0004",
+      "filename": "별지4_관리번호.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별지",
+      "title": "특수자료",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=41525461",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=41525461",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "school:충남대학교특수자료취급시행규칙#BJ0005",
+      "filename": "별지5_특수자료.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별지",
+      "title": "서약서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=41525463",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=41525463",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "school:충남대학교특수자료취급시행규칙#BJ0006",
+      "filename": "별지6_서약서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "별지",
+      "title": "특수자료 열람ㆍ대출대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=41525465",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=41525465",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "school:충남대학교특수자료취급시행규칙#BJ0007",
+      "filename": "별지7_특수자료 열람ㆍ대출대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0008",
+      "branch": "00",
+      "kind": "별지",
+      "title": "특수자료 복사ㆍ양도대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=41525467",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=41525467",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "school:충남대학교특수자료취급시행규칙#BJ0008",
+      "filename": "별지8_특수자료 복사ㆍ양도대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0009",
+      "branch": "00",
+      "kind": "별지",
+      "title": "현황",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=41525469",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=41525469",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "school:충남대학교특수자료취급시행규칙#BJ0009",
+      "filename": "별지9_현황.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
@@ -207,6 +406,5 @@
   "source": {
     "source_url": "https://www.law.go.kr/학칙공단/충남대학교 특수자료취급시행규칙"
   },
-  "provision_id": "school:충남대학교특수자료취급시행규칙#DOC",
-  "is_future": false
+  "provision_id": "school:충남대학교특수자료취급시행규칙#DOC"
 }
