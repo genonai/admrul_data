@@ -1,0 +1,1352 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+
+<html lang="ko">
+<head>
+<link rel="SHORTCUT ICON" href="/images/main/nts_icon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=euc-kr">
+<meta name="google-site-verification" content="OAqw_NxaI8UB6JOSBlMRgQjh1rXrBvj6VQhJ1H7e4FI">
+<title>:: 국세청 홈페이지 ::</title>
+<link href="css/main.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://search.nts.go.kr/RSA/js/repiaWordData.js"></script>
+<script type="text/javascript" src="js/main.js"></script> <!-- 기본 -->
+<script type="text/javascript" src="js/rcmdWord_new.js"></script><!-- 추천검색어 JS -->
+<script type="text/javascript" src="/inc/activeXScript.js"></script><!--캠페인 방송듣기-->
+<script type="text/javascript" src="js/fixed.js"></script> <!-- 퀵메뉴 JS -->
+<script type="text/javascript" src="js/banner_2_1.js"></script> <!-- 베너존 Content JS-->
+<script type="text/javascript">
+// 초기화 함수
+function init()
+{
+	imgOver();
+	Start();
+	// rcmd load init start // 
+	rcmd_default_set(document.search_form1.qt, 200);
+	if (t_ == 1 && c_ == 1) {
+		wd_ ();
+		setTimeout ("wi_()", TimeOut);
+	}
+	menuSetting(); // 빠른 메뉴 설정
+	document.getElementById("scroll_div").innerHTML = scroll_content[0]; // 베너존 초기화
+	document.getElementById("SearchString").innerHTML = initText; // 인기검색어 초기화 : main.js
+	document.getElementById("hotKeyword").innerHTML  = text;	// 인기검색어 레이어 팝업 내용 넣기 : main.js
+	//alert("aa");
+}
+function click()
+{
+	if ((event.button==2) || (event.button==2))
+	{
+		alert('죄송합니다. 오른쪽 마우스 금지입니다.');
+	}
+}	
+//*****  쿠키 관련 함수 ***** //
+function controlCookie1()
+{
+		setCookie1("popup_test1","y", 1)
+		//window.close();
+}
+function setCookie1(name, value, expire)
+{
+	var expire_date = new Date()
+	expire_date = new Date(expire_date.getTime() + 60*60*24*1000)
+	document.cookie = name + "=" + escape(value) + "; expires=" + expire_date.toGMTString() +"; path=/"; 
+	document.getElementById("divPopup").style.display = "none";
+}
+function getCookie(name)
+{
+	var Found = false ;
+	var start, end ;
+	var i = 0 ;
+	while(i <= document.cookie.length) 
+	{
+		start = i ;
+		end = start + name.length ;
+		
+		if(document.cookie.substring(start, end) == name)
+		{
+			Found = true;
+			break;
+		}
+		i++ ;
+	}
+	
+	if(Found == true)
+	{
+		start = end + 1 ;
+		end = document.cookie.indexOf(";", start) ;
+		
+		if(end < start) 
+			end = document.cookie.length ;
+			
+		return document.cookie.substring(start, end) ;
+	}
+	
+	return "";
+}
+//*****  쿠키 관련 함수 END ***** //
+//*****  새창 팝업 관련 함수  ***** //
+
+//*****  새창 팝업 관련 함수 END ***** //
+//*****  자동완성어 관련 함수  ***** //
+function hideToolTip()
+{
+	tooltip.style.display = "none";
+}
+function showToolTip()
+{
+	tooltip.style.display = "";
+}
+function wordSearch(StrValue)
+{
+	document.search_form1.qt.value = StrValue;
+	main_search1();
+}
+function main_search1()
+{
+	if (document.search_form1.qt.value =="")
+	{
+		alert("검색어를 입력하세요.");
+	}
+	else
+	{
+		document.search_form1.action="http://search.nts.go.kr/RSA/front/Search.jsp";
+		document.search_form1.submit();
+	}
+}
+function enter_search(Ev){
+	var evCode;
+	if (navigator.appName.indexOf("Microsoft") > -1)
+	{
+		evCode = event.keyCode;
+	}
+	else
+	{
+		evCode = Ev.which;
+	}
+	if (evCode == 13){
+		main_search1();		  
+	}
+	else
+	{
+		return;
+	}
+}
+//*****  자동완성어 관련 함수 END ***** //
+//***** 로테이션 관련 ****//
+var Loop1 = true; // 좌측중간3텝
+var Loop2 = true; // 좌측아래 주요세금정보
+var Loop3 = true; // 우측아래 베너존
+var Loop4 = true; // 우측위 팝업존
+var Loop5 = true; // 인기검색어
+var Duration = 3000;
+var timmer;
+// 루프 비활성화 하기
+function pause(selector) {
+	switch (selector)
+	{
+		case 1 :
+			Loop1 = false;
+			break;
+		case 2 :
+			Loop2 = false;
+			break;
+		case 3 :
+			Loop3 = false;
+			break;
+		case 4 :
+			Loop4 = false;
+			break;
+		case 5 :
+			Loop5 = false;
+			break;
+	}
+}
+//  루프 활성화 하기
+function play(selector)
+{
+	switch (selector)
+	{
+		case 1 :
+			Loop1 = true;
+			break;
+		case 2 :
+			Loop2 = true;
+			break;
+		case 3 :
+			Loop3 = true;
+			break;
+		case 4 :
+			Loop4 = true;
+			break;
+		case 5 :
+			Loop5 = true;
+			break;
+	}
+}
+// 루프 최초 시작
+function Start()
+{
+	timmer = setTimeout("DoStart()", Duration);
+}
+// LooP 함수 
+function DoStart(){
+	if(Loop1)
+		//Left3TabMove();
+/*
+	if(Loop2)
+		attachup2();
+*/
+	if(Loop3)
+		scroll_ch1(2);
+	if(Loop4)
+		PopCon('N');
+	if(Loop5)
+		SearchRotation();
+	timmer = setTimeout("DoStart()", Duration);
+}
+//LEFT 3TAB 메뉴 컨트럴
+function Left3TabMove() 
+{
+	var Obj = NowConent();
+		
+	var idx = 0;
+	
+	switch (Obj.id)
+	{
+		case "content1" :
+			idx = 1;
+			break;
+		case  "content2" :
+			idx = 2;
+			break;
+		case  "content3" :
+			idx = 3;
+			break;
+	}
+	
+	idx++;
+	if(idx > 3)
+		idx = 1;
+	viewContent(idx);
+	imgOverSummary(idx);
+}
+function attachup1(){
+	var Obj = NowConent();
+	var UL= Obj.getElementsByTagName('ul');
+	var LIs = UL[0].getElementsByTagName('li');
+	var li_1 = LIs[0].cloneNode(true);
+	LIs[0].parentNode.appendChild(li_1);
+	LIs[0].parentNode.removeChild(LIs[0]);   
+} 
+function attachdown1(){
+	var Obj = NowConent();
+	var UL = Obj.getElementsByTagName('ul');
+	var LIs = UL[0].getElementsByTagName('li');   
+	var li_1 = LIs[LIs.length-1].cloneNode(true);
+	LIs[0].parentNode.insertBefore(li_1,LIs[0]);
+	LIs[0].parentNode.removeChild(LIs[LIs.length-1]);
+}
+//주요 세금 정보 컨트럴
+function attachup2(){
+	var Obj = document.getElementById("list1");
+	var UL= Obj.getElementsByTagName('ul');
+	var LIs = UL[0].getElementsByTagName('li');
+	var li_1 = LIs[0].cloneNode(true);
+	LIs[0].parentNode.appendChild(li_1);
+	LIs[0].parentNode.removeChild(LIs[0]);   
+} 
+function attachdown2(){
+	var Obj = document.getElementById("list1");
+	var UL= Obj.getElementsByTagName('ul');
+	var LIs = UL[0].getElementsByTagName('li');   
+	var li_1 = LIs[LIs.length-1].cloneNode(true);
+	LIs[0].parentNode.insertBefore(li_1,LIs[0]);
+	LIs[0].parentNode.removeChild(LIs[LIs.length-1]);   
+}
+// 팝업존 컨트럴
+var curpop = 1;
+var poplen = "2";
+poplen = Number(poplen) + 1;
+function PopCon(vl)
+{
+	for(i=0; i < poplen ; i++)
+	{
+		var pop = document.getElementById("pop"+(i+1));
+		pop.style.display = "none";
+	}
+	if(vl == 'N')
+	{
+		if(curpop == poplen)
+			curpop = 1;
+		else
+			curpop++;
+	}
+	else if(vl == 'P')
+	{
+		if(curpop == 1)
+			curpop = 4;
+		else
+			curpop--;
+	}
+	else
+	{
+		curpop = vl;
+	}
+	pop = document.getElementById("pop"+curpop);
+	pop.style.display = "block";
+	PopIconSelector(curpop);
+}
+function PopIconSelector(num)
+{
+	for(i=0; i < poplen; i++)
+	{
+		var popicon = document.getElementById("popicon"+(i+1));
+		popicon.src = "/images/main/"+(i+1)+"_off.gif";
+	}
+	popicon = document.getElementById("popicon"+num);
+	popicon.src = "/images/main/"+ num +"_on.gif";
+}
+//***** 로테이션 관련 END ****//
+//주요뉴스 
+function viewContents(i)
+{
+	document.getElementById('contents1').style.display = "none";
+	document.getElementById('contents2').style.display = "none";
+	document.getElementById('contents3').style.display = "none";
+	document.getElementById('contents4').style.display = "none";
+	document.getElementById('contents5').style.display = "none";
+	document.getElementById('contents'+i).style.display = "";
+}
+// 빠른 메뉴 설정 자바스크립트들
+// 설정 페이지에 설정된 메뉴 체크
+function menuSetting() {
+			var menu_checked = new Array(7)
+			menu_checked[0] = "33"
+			menu_checked[1] = "36"
+			menu_checked[2] = "35"
+			menu_checked[3] = "37"
+			menu_checked[4] = "39"
+			menu_checked[5] = "40"
+			menu_checked[6] = "41"
+			menu_checked[7] = "73"
+			for (var i = 0; i <= 7; i++) {
+				//alert(menu_checked[i]);
+				var obj = document.getElementById("msetup" + menu_checked[i]);
+				if (obj) {
+					obj.checked = true;
+				}
+			}
+}
+	// 빠른 메뉴 설정 갯수 체크
+function getCheckCount(obj) {
+		var zz=0;
+		var MaxNo = 8;
+		var Max=7
+		var i;
+		for(i=0; i<document.theForm.main_icon_setup.length;i++) {
+			if(document.theForm.main_icon_setup[i].checked == true) {
+				zz++;
+			}
+		}
+		if (zz ==" ") {
+			alert("선택해 주세요");
+			return false; 
+		}
+		if(zz >  MaxNo ) {
+			alert("최대 " + MaxNo + " 개 까지만 선택할 수 있습니다.");
+			obj.checked = false;  
+			return false;
+		}
+		return true;
+}
+// 설정 완료
+function goSubmit() {
+		document.theForm.menuStartCheck.value = "2";
+		return confirm("설정을 완료하시겠습니까?");
+}
+// 기본 설정
+function goDefault() {
+		if (confirm("기본설정을 하시겠습니까?")) {
+			var f = document.theForm;
+			f.reset();
+			
+			document.getElementById("msetup35").checked = "checked";
+			document.getElementById("msetup33").checked = "checked";
+			document.getElementById("msetup36").checked = "checked";
+			document.getElementById("msetup37").checked = "checked";
+			document.getElementById("msetup39").checked = "checked";
+			document.getElementById("msetup40").checked = "checked";
+			document.getElementById("msetup41").checked = "checked";
+			document.getElementById("msetup73").checked = "checked";
+			document.theForm.action="/index.asp";
+			document.theForm.submit();
+		}
+}
+// 취소
+function goReset() {
+		var f = document.theForm;
+		f.reset(); // 초기화
+		menuSetting(); // 메뉴 다시 세팅
+}
+function PostMove(postUrl, key) {
+	window.open("http://www.nts.go.kr" + postUrl + "&mbsinfoKey=" + key, 'nts');
+}
+//==== ie6 Flicker Bug 관련 함수 ====
+function get_navigator_check_ie6()
+{
+	var ver=navigator.appVersion ;
+	if (navigator.appName.indexOf("Microsoft")!=-1 && ver.indexOf("MSIE 4")==-1 && ver.indexOf("MSIE 3")==-1)
+	{
+		
+		if (ver.indexOf("MSIE 6")!=-1)
+		{
+			try
+			{
+				document.execCommand('BackgroundImageCache', false, true);
+			}
+			catch (e)
+			{
+			}
+		}
+	}		
+}
+get_navigator_check_ie6();
+//=================================
+</script>
+</head>
+<body onLoad="init()">
+	<form name="pageMove" id="pageMove" method="post" action="index.asp">
+	<input type="hidden" name="mbsinfoKey" id="mbsinfoKey">
+	<input type="submit" style="display:none;">
+	</form>
+	
+	<div id="wrap">
+		 <div id="accessibility">
+			<ul>
+				<li><a href="#gnb">주메뉴 바로가기</a></li>
+				<li><a href="#quick1">퀵메뉴바로가기</a></li>
+				<li><a href="#container">본문내용 바로가기</a></li>
+				<li><a href="#footer">바닥글바로가기</a></li>
+			</ul>
+	</div><!--//accessibility-->
+		<hr>
+		<div id="header">
+		<form id="search_form1" name="search_form1" method="get" action="m_list.asp">
+		  <h1><a href="/"><img src="/images/common/img_logo_01.gif" alt="국세청로고"></a></h1>
+		  <div class="search_box">
+				<fieldset>
+					<legend>통합검색</legend>
+					<label for="search" class="hide">검색항목선택</label>
+						<select title="검색항목선택" name="menu" id="search">
+							<option value="통합검색">통합검색</option>
+							<option value="메뉴검색">메뉴검색</option>
+							<option value="웹페이지">웹페이지</option>
+							<option value="세무서식">세무서식</option>
+							<option value="첨부문서">첨부문서</option>
+							<option value="정부기관">정부기관</option>
+							<option value="영문홈페이지">영문홈페이지</option>
+						</select>
+						<label for="searchValue" class="hide">검색어입력</label>					
+						<input name="qt" id="searchValue" type="text" maxlength="25" onFocus="return setTextBox_(0, event);" onMouseDown="setTextBox_(1,event);" onKeyDown="setTextBox_(1,event);" onChange="javascript:search_promo_off();" onKeyPress="enter_search(event);" class="ip" title="검색어입력" >
+						<input type="image" src="images/main/btn_search.gif" alt="검색" title="검색" onClick="main_search1()">						
+				</fieldset>
+			</div><!--//search_box-->		
+			</form>
+			 <div class="search_list" id="formauto" style=" display:none;">
+				<dl id="rcmdTable">
+					<dt>검색어자동완성</dt>
+					<!--style="overflow-x:hidden;"-->
+					<dd id="rcmdResult" style="overflow:scroll;">
+					</dd>
+				</dl>					
+				<span><a href="#none" onClick="ac_hide_()"><img src="images/main/btn_close1.gif" alt="닫기"></a></span>								
+			</div><!--//search_list-->	
+			<div id="divq"> </div><!--통합검색 -->
+			<div id="quick"  style="position: absolute; top: 245px; left: 910px; text-align: left; width: 107px;"></div><!--통합검색 -->
+					
+			<div class="lnb">
+				<ul>
+				  <li class="none"><a href="/kids/" target="_blank" title="어린이사이트 새창열림"><img src="images/main/btn_child.gif" alt="어린이사이트"></a></li>
+					<li class="none"><a href="/youth/" target="_blank" title="청소년사이트 새창열림"><img src="images/main/btn_youth.gif" alt="청소년사이트"></a></li>
+					<li><a href="/museum/" target="_blank" title="조세박물관사이트 새창열림"><img src="images/main/lnb_01.gif" alt="조세박물관 사이트"></a></li>
+					<li><a href="/csr/" target="_blank" title="사회공헌사이트 새창열림"><img src="images/main/lnb_02.gif" alt="사회공헌 사이트"></a></li>
+					<li><a href="/taxfuture/" target="_blank" title="사회공헌사이트 새창열림"><img src="images/main/lnb_06.gif" alt="대한민국세미래"></a></li>
+					<li><a href="../site/site_02.asp"><img src="images/main/lnb_03.gif" alt="사이트맵"></a></li>   
+					<li class="none">
+					  <img src="images/main/lnb_04.gif" alt="영문/중국어사이트 바로가기" border="0" usemap="#Map">
+						<map name="Map">
+							<area shape="rect" coords="1,-5,55,9" href="/eng/" target="_blank" title="영문사이트 새창열림" alt="영문 사이트">
+							<area shape="rect" coords="1,9,55,25" href="/chinese/" target="_blank" title="중국어 새창열림" alt="중국어 사이트">
+					   </map>
+					 </li>
+				</ul>
+			</div><!--//lnb-->
+		  
+		   <div class="best_search">
+				<div class="title">
+				<a href="#none" onMouseOver="pause(5);openDiv('hotDiv');" onFocus="pause(5);openDiv('hotDiv');" onMouseOut="play(5)" onBlur="play(5)" id="SearchString">
+				<span>&nbsp;</span></a>
+				</div>
+				
+				<dl id="hotDiv" style="display:none;" onMouseOver="openDiv('hotDiv')" onMouseOut="closeDiv('hotDiv')">				
+					<dt><img src="/images/main/hotkeyword.gif" alt="인기검색어"></dt>
+					<dd>
+						<ol id="hotKeyword">
+							<li>&nbsp;</li>						  
+						</ol>
+					</dd>
+				</dl>
+			</div><!--//best_search-->
+			
+			<div id="gnb">
+				<ul class="gnb" >
+					<li id="menu_1" class="mr25"><a href="/news/news_01.asp" onMouseOver="displaySub(1);" onFocus="displaySub(1);" onMouseOut="CloseSub(1);" onblur="" style="cursor: pointer;"><img name="news00" src="images/main/gnb01.gif" alt="국세청뉴스"></a>
+						<ul id="subnav_list1" class="topmenu_sub msub01" style="display:none;" onMouseOver="displaySub(1)" onMouseOut="CloseSub(1)">
+							<li><a href="/news/news_01.asp"><img name="news01" src="images/main/navi_header_news_01.gif" alt="주요뉴스"></a></li>
+							<li><a href="/news/news_03_01.asp"><img  name="news02" src="images/main/navi_header_news_03.gif" alt="보도자료"></a></li>
+							<li><a href="/news/news_11.asp"><img  name="news03" src="images/main/navi_header_news_11.gif" alt="인터뷰·기고"></a></li>
+							<li><a href="/news/news_03_03.asp"><img  name="news04" src="images/main/navi_header_news_10.gif" alt="그건이렇습니다."></a></li>
+							<li><a href="/news/news_04_01.asp"><img  name="news05" src="images/main/navi_header_news_04.gif" alt="국세청뉴스레터"></a></li>
+							<li><a href="/news/news_06.asp"><img  name="news06" src="images/main/navi_header_news_06.gif" alt="공지사항"></a></li>
+							<li><a href="/news/news_07_01.asp"><img  name="news07" src="images/main/navi_header_news_07.gif" alt="고시·공고"></a></li>
+							<li><a href="/news/news_08_02.asp"><img  name="news08" src="images/main/navi_header_news_08.gif" alt="훈령·고시행정예고"></a></li>
+							<li><a href="/news/news_09.asp"><img name="news09" src="images/main/navi_header_news_09.gif" alt="국세매거진"></a></li>
+							<li class="bottom">&nbsp;</li>
+						</ul>
+					</li>
+					<li id="menu_2" class="mr25"><a href="/info/info_14_01.asp" onMouseOver="displaySub(2);" onFocus="displaySub(2);" onMouseOut="CloseSub(2);" onblur="" style="cursor: pointer;"><img name="info00" src="images/main/gnb02.gif" alt="국세정보"></a>
+						<ul id="subnav_list2" class="topmenu_sub msub02" style="display:none;" onMouseOver="displaySub(2)" onMouseOut="CloseSub(2)">
+							<li><a href="http://taxinfo.nts.go.kr/index.jsp" target="_blank" title="새창열림"><img name="info01"  src="images/main/navi_header_20.gif" alt="국세법령정보(새창열림)"></a></li>
+							<li><a href="/info/info_14_01.asp"><img name="info02" src="images/main/navi_header_info_14.gif" alt="세법해석질의안내"></a></li>
+							<li><a href="/info/info_01_01.asp"><img name="info03" src="images/main/navi_header_info_01.gif" alt="사업자등록"></a></li>
+							<li><a href="/info/info_02.asp"><img  name="info04" src="images/main/navi_header_info_02.gif" alt="세무서식"></a></li>
+							<li><a href="/info/info_03_01.asp"><img name="info05" src="images/main/navi_header_info_12.gif" alt="국세청프로그램"></a></li>
+							<li><a href="/info/info_03_02.asp"><img name="info06" src="images/main/navi_header_info_13.gif" alt="국세통계"></a></li>
+							<li><a href="/info/info_04_01.asp"><img name="info07" src="images/main/navi_header_info_04.gif" alt="국세청발간책자"></a></li>
+							<li><a  href="http://taxinfo.nts.go.kr/docs/customer/dictionary/wordList.jsp" target="_blank" title="새창으로열림" onClick="openPopup(this.href, { width:800, height:550, scroll:1, name:'total11_title1' }); return false;">
+							<img name="info08" src="images/main/navi_header_info_00.gif" alt="세무용어사전(새창열림)"></a></li>
+							<li><a href="/info/info_05_01_01.asp"><img name="info09" src="images/main/navi_header_info_05.gif" alt="국제조세정보"></a></li>
+							<li><a href="/info/info_06_01.asp"><img name="info10" src="images/main/navi_header_info_06.gif" alt="납세서비스"></a></li>
+							<li><a href="/info/info_07_02.asp"><img name="info11" src="images/main/navi_header_info_07.gif" alt="정보공개방"></a></li>
+							<li><a href="/info/info_08_01.asp"><img name="info12" src="images/main/navi_header_info_08.gif" alt="국회관련정보공개"></a></li>
+							<li class="bottom">&nbsp;</li>
+						</ul>
+					</li>
+					<li id="menu_3" class="mr25"><a href="/cal/cal_01_01.asp" onMouseOver="displaySub(3);" onFocus="displaySub(3);" onMouseOut="CloseSub(3);" onblur="" style="cursor: pointer;"><img name="cal00" src="images/main/gnb03.gif" alt="조회·계산"></a>
+						<ul id="subnav_list3" class="topmenu_sub msub03" style="display:none;" onMouseOver="displaySub(3)" onMouseOut="CloseSub(3)">
+							<li><a href="/cal/cal_01_01.asp"><img name="cal01"  src="images/main/navi_header_cal_01.gif" alt="기준시가"></a></li>
+							<li><a href="/cal/cal_check_02.asp"><img name="cal02" src="images/main/navi_header_cal_02.gif" alt="사업자과세유형·휴폐업"></a></li>
+							<li><a href="/wtsnts_inc/jxstart.asp?ReturnNo=2&amp;Depth1=300&amp;Depth2=300&amp;Depth3=100&amp;Depth4=0"><img name="cal03" src="images/main/navi_header_cal_03.gif" alt="부가가치세조회"></a></li>
+							<li><a href="/cal/cal_04_01.asp"><img name="cal04" src="images/main/navi_header_cal_04.gif" alt="기준경비율·표준소득률"></a></li>
+							<li><a href="cal/cal_05.asp"><img name="cal05" src="images/main/navi_header_cal_05.gif" alt="연말정산자동계산"></a></li>
+							<li><a href="/cal/cal_06.asp"><img name="cal06" src="images/main/navi_header_cal_06.gif" alt="근로소득간이세액표"></a></li>
+							<li><a href="/wtsnts_inc/jxstart.asp?ReturnNo=1&amp;Depth1=300&amp;Depth2=700&amp;Depth3=0&amp;Depth4=0"><img name="cal07" src="images/main/navi_header_cal_07.gif" alt="국세환급금찾기"></a></li>
+							<li><a href="/cal/cal_09.asp"><img src="/images/common/navi_header_cal_08.gif" alt="불복청구진행상황"></a></li>
+							<li class="bottom">&nbsp;</li>
+						</ul>
+					</li>
+					<li id="menu_4" class="mr25"><a href="/tax/tax_01.asp?cinfo_key=MINF8420100716140904&amp;flag=01&amp;menu_a=100&amp;menu_b=100" onMouseOver="displaySub(4);" onFocus="displaySub(4);" onMouseOut="CloseSub(4);" onblur="" style="cursor: pointer;"><img name="tax00" src="images/main/gnb04.gif" alt="신고납부"></a>
+						<ul id="subnav_list4" class="topmenu_sub msub04" style="display:none;" onMouseOver="displaySub(4)" onMouseOut="CloseSub(4)">
+							<li><a href="/tax/tax_01.asp?cinfo_key=MINF8420100716140904&amp;flag=01&amp;menu_a=100&amp;menu_b=100"><img name="tax01" src="images/main/navi_header_tax_01.gif" alt="종합소득세"></a></li>
+							<li><a href="/tax/tax_02.asp?cinfo_key=MINF5020100716140930&amp;flag=02&amp;menu_a=200&amp;menu_b=100"><img name="tax02" src="images/main/navi_header_tax_12.gif" alt="사업장현황신고"></a></li>
+							<li><a href="/tax/tax_03.asp?cinfo_key=MINF7820100716140953&amp;flag=03&amp;menu_a=300&amp;menu_b=100"><img name="tax03" src="images/main/navi_header_tax_02.gif" alt="원천징수(연말정산)안내"></a></li>
+							<li><a href="/tax/tax_04.asp?cinfo_key=MINF8520100716141006&amp;flag=04&amp;menu_a=400&amp;menu_b=100"><img name="tax04" src="images/main/navi_header_tax_03.gif" alt="부가가치세"></a></li>
+							<li><a href="/tax/tax_05.asp?cinfo_key=MINF7520100716141019&amp;flag=05&amp;menu_a=500&amp;menu_b=100"><img name="tax05" src="images/main/navi_header_tax_04.gif" alt="법인세"></a></li>
+							<li><a href="/tax/tax_06.asp?cinfo_key=MINF5320100716141031&amp;flag=06&amp;menu_a=600&amp;menu_b=100"><img name="tax06" src="images/main/navi_header_tax_13.gif" alt="공익법인"></a></li>
+							<li><a href="/tax/tax_13.asp?cinfo_key=MINF6720110317160435&amp;menu_a=1400&amp;menu_b=100&amp;flag=13"><img name="tax07" src="images/main/navi_header_tax_14.gif" alt="해외금융계좌신고"></a></li>
+							<li><a href="/tax/tax_07.asp?cinfo_key=MINF5620100716141142&amp;flag=07&amp;menu_a=700&amp;menu_b=100"><img name="tax08" src="images/main/navi_header_tax_05.gif" alt="양도소득세"></a></li>
+							<li><a href="/tax/tax_08.asp?cinfo_key=MINF7020100719122727&amp;flag=08&amp;menu_a=800&amp;menu_b=100"><img name="tax09" src="images/main/navi_header_tax_11.gif" alt="상속세"></a></li>
+							<li><a href="/tax/tax_09.asp?cinfo_key=MINF8920100719122742&amp;flag=09&amp;menu_a=900&amp;menu_b=100"><img name="tax10" src="images/main/navi_header_tax_06.gif" alt="증여세"></a></li>
+							<li><a href="/tax/tax_10.asp?cinfo_key=MINF6920100719122833&amp;flag=10&amp;menu_a=1000&amp;menu_b=100"><img name="tax11" src="images/main/navi_header_tax_07.gif" alt="종합부동산세"></a></li>
+							<li><a href="/tax/tax_12.asp"><img name="tax12" src="images/main/navi_header_tax_08.gif" alt="주류제조"></a></li>
+							<li><a href="/tax/tax_09_01.asp"><img name="tax13" src="images/main/navi_header_tax_09.gif" alt="월별세무일정"></a></li>
+							<li><a href="/tax/tax_10_01.asp"><img name="tax14" src="images/main/navi_header_tax_10.gif" alt="납부안내"></a></li>
+							<li class="bottom">&nbsp;</li>
+						</ul>
+					</li>
+					<li id="menu_5" class="mr25"><a href="/about/about_01_10.asp" onMouseOver="displaySub(5);" onFocus="displaySub(5);" onMouseOut="CloseSub(5);" onblur="" style="cursor: pointer;"><img name="abt00" src="images/main/gnb05.gif" alt="국세청소개"></a>
+						<ul id="subnav_list5" class="topmenu_sub msub05" style="display:none;" onMouseOver="displaySub(5)" onMouseOut="CloseSub(5)">
+							<li><a href="/about/about_01_10.asp"><img name="abt01" src="images/main/navi_header_about_01.gif" alt="우리청안내"></a></li>
+							<li><a href="/about/about_05_01.asp"><img name="abt02" src="images/main/navi_header_about_05.gif" alt="청·차장소개"></a></li>
+							<li><a href="/about/about_02_01.asp"><img name="abt03" src="images/main/navi_header_about_02.gif" alt="국세공무원소개"></a></li>
+							<li><a href="/about/about_03_01.asp"><img name="abt04" src="images/main/navi_header_about_03.gif" alt="전국 세무관서"></a></li>
+							<li><a href="/about/about_04_01.asp"><img  name="abt05" src="images/main/navi_header_about_04.gif" alt="관련기관안내"></a></li>
+							<li class="bottom">&nbsp;</li>
+						</ul>
+					</li>
+					<li id="menu_6" class="mr25"><a href="/civil/civil_epeople_06.asp" onMouseOver="displaySub(6);" onFocus="displaySub(6);" onMouseOut="CloseSub(6);" onblur="" style="cursor: pointer;"><img name="civil00" src="images/main/gnb06.gif" alt="국민신문고"></a>
+						<ul id="subnav_list6" class="topmenu_sub msub06" style="display:none;" onMouseOver="displaySub(6)" onMouseOut="CloseSub(6)">
+							<li><a href="/civil/civil_epeople_06.asp">
+							<img name="civil01" src="/images/main/navi_header_epeople_06.gif" alt="고객의소리(고충,건의,불만,칭찬)"></a></li>								
+							<li><a href="/civil/civil_01.asp"><img name="civil03" src="/images/main/navi_header_epeople_08.gif" alt="세금고충처리방"></a></li>
+							<li><a href="/civil/civil_epeople_07.asp"><img name="civil04" src="/images/main/navi_header_epeople_09.gif" alt="근로장려금 부정수급자 신고"></a></li>
+							<li><a href="/civil/civil_epeople_08.asp"><img name="civil05" src="/images/main/navi_header_epeople_10.gif" alt="지급명세서미제출신고"></a></li>
+							<li><a href="/civil/civil_04_08_01.asp"><img name="civil06" src="/images/main/navi_header_epeople_11.gif" alt="주류모니터링및가짜양주고발"></a></li>
+							<li><a href="/civil/civil_04_10_01.asp"><img name="civil07" src="/images/main/navi_header_epeople_12.gif" alt="임대료부당인상신고"></a></li>
+							<li><a href="/civil/civil_04_11_05.asp"><img name="civil08" src="/images/main/navi_header_epeople_13.gif" alt="고액상습체납자은닉재산신고"></a></li>
+							<li><a href="/civil/civil_epeople_09.asp"><img name="civil09" src="/images/main/navi_header_epeople_14.gif" alt="감사관Hot-Line"></a></li>
+							<li><a href="/civil/civil_05_06_04.asp"><img name="civil10" src="/images/main/navi_header_epeople_15.gif" alt="CLEAN신고센터"></a></li>
+							<li><a href="/civil/civil_05_05.asp"><img name="civil11" src="/images/main/navi_header_epeople_16.gif" alt="불친절신고"></a></li>
+							<li><a href="/civil/etc_03_01.asp"><img name="civil12" src="/images/main/navi_header_epeople_17.gif" alt="예산낭비신고센터"></a></li>
+							<li><a href="/civil/civil_02.asp"><img name="civil02" src="/images/main/navi_header_epeople_07.gif" alt="국민제안"></a></li>
+							<li><a href="/civil/civil_05_01.asp"><img name="civil13" src="/images/main/navi_header_epeople_18.gif" alt="설문조사"></a></li>
+							<li><a href="/civil/civil_05_03.asp"><img name="civil15" src="/images/main/navi_header_epeople_20.gif" alt="정책포럼"></a></li>
+							<li class="bottom">&nbsp;</li>
+						</ul>
+					</li>
+					<li id="menu_7" class="mr25"><a href="/civil/civil_10_01.asp" onMouseOver="displaySub(7);" onFocus="displaySub(7);" onMouseOut="CloseSub(7);" onblur="" style="cursor: pointer;"><img name="min00" src="images/main/gnb07.gif" alt="전자민원"></a>
+						<ul id="subnav_list7" class="topmenu_sub msub07" style="display:none;" onMouseOver="displaySub(7)" onMouseOut="CloseSub(7)">
+							<li><a href="/civil/civil_10_01.asp"><img name="min01" src="/images/main/navi_header_civil_15.gif" alt="방문상담예약"></a></li>
+							<li><a href="/civil/civil_08_01.asp"><img name="min02" src="/images/main/navi_header_civil_16.gif" alt="민원증명발급"></a></li>
+							<li><a href="/civil/civil_17_01.asp"><img name="min03" src="/images/main/navi_header_civil_29.gif" alt="영세납세자도움방"></a></li>
+							<li><a href="/civil/civil_18_01.asp"><img name="min04" src="/images/main/navi_header_civil_30.gif" alt="모범납세자 추천(신청)"></a></li>
+							<li><a href="/civil/civil_03_08.asp"><img name="min05" src="/images/main/navi_header_civil_17.gif" alt="정보공개(청구)"></a></li>
+							<li><a href="/civil/civil_05_04_write.asp"><img name="min06" src="/images/main/navi_header_civil_27.gif" alt="세법령개정의견"></a></li>
+							<li><a href="/civil/civil_09.asp"><img name="min07" src="/images/main/navi_header_civil_09.gif" alt="고용창출계획서제출"></a></li>
+							<li class="bottom">&nbsp;</li>
+						</ul>
+					</li>
+					<!-- -->
+					<li id="menu_8" class="mr25"><a href="/civil/civil_04_05_01.asp" onMouseOver="displaySub(8);" onFocus="displaySub(8);" onMouseOut="CloseSub(8);" onblur="" style="cursor: pointer;"><img name="evas00" src="images/main/gnb08.gif" alt="탈세제보"></a>
+						<ul id="subnav_list8" class="topmenu_sub msub08" style="display:none;" onMouseOver="displaySub(8)" onMouseOut="CloseSub(8)">
+							<li><a href="/civil/civil_04_05_01.asp"><img name="evas01" src="/images/main/navi_header_civil_23.gif" alt="거짓(세금)계산서수수"></a></li>
+							<li><a href="/civil/civil_04_15_01.asp"><img name="evas02" src="/images/main/navi_header_civil_21.gif" alt="대부업자탈세신고"></a></li>
+							<li><a href="/civil/civil_16_01.asp"><img name="evas03" src="/images/main/navi_header_civil_26.gif" alt="학원비부조리신고센터"></a></li>
+							<li><a href="/civil/civil_04_06_01.asp"><img name="evas04" src="/images/main/navi_header_civil_19.gif" alt="신용카드결제거부및위장가맹점신고"></a></li>
+							<li><a href="/civil/civil_04_03_01.asp"><img name="evas05" src="/images/main/navi_header_civil_20.gif" alt="명의위장사업자신고"></a></li>
+							<li><a href="/civil/civil_04_09_01.asp"><img name="evas06" src="/images/main/navi_header_civil_25.gif" alt="부동산투기신고"></a></li>						
+							<li><a href="/civil/civil_04_13_01.asp"><img name="evas07" src="/images/main/navi_header_civil_22.gif" alt="해외탈루소득신고"></a></li>						
+							<li><a href="/civil/civil_04_02_05.asp"><img name="evas08" src="/images/main/navi_header_civil_24.gif" alt="그외탈세(수입누락ㆍ허위경비등)"></a></li>
+							<li class="bottom">&nbsp;</li>
+						</ul>
+					</li>
+					<!-- -->
+					<li id="menu_9" class="ml40"><a href="#subnav_list8" onMouseOver="displaySub(9)" onFocus="displaySub(9)" onMouseOut="CloseSub(9)" onBlur=""><img src="images/main/navi_service_up.jpg" alt="패밀리 사이트 주요 서비스"></a>
+						<div id="subnav_list9" class="msub09" style="display:none;" onMouseOut="CloseSub(9)" onMouseOver="displaySub(9);">
+							<dl>
+								<dt><a href="http://call.nts.go.kr/" target="_blank" title="새창열림"><img src="images/main/familysite01.gif" alt="고객만족센터"></a></dt>
+								<!--
+								<dd><a href="http://call.nts.go.kr/h04_voc/h04_voc_civil.jsp" target="_blank"  title="새창열림" >고객의소리<br><span>(고충,건의,불만,칭찬)</span></a></dd>
+								-->
+								<dd><a href="http://call.nts.go.kr/"  target="_blank"  title="새창열림" >세무상담<span>(Q&amp;A)</span></a></dd>
+								<dd><a href="http://call.nts.go.kr/"  target="_blank"  title="새창열림" >세무상담사례</a></dd>
+								<dd><a href="http://call.nts.go.kr/"  target="_blank"  title="새창열림" >자주묻는상담<span>(FAQ)</span></a></dd>
+								<dd><a href="http://call.nts.go.kr/"  target="_blank"  title="새창열림" >이용안내 </a></dd>	
+							</dl>
+							<dl>
+								<dt><a href="http://www.hometax.go.kr/" target="_blank" title="새창열림"><img src="images/main/familysite02.gif" alt="홈택스"></a></dt>
+								<dd><a href="http://www.hometax.go.kr/" target="_blank" title="새창열림">민원증명서발급</a></dd>
+								<dd><a href="http://www.hometax.go.kr/" target="_blank" title="새창열림">전자신고</a></dd>
+								<dd><a href="http://www.hometax.go.kr/" target="_blank" title="새창열림">전자고지</a></dd>
+								<dd><a href="http://www.hometax.go.kr/" target="_blank" title="새창열림">전자납부</a></dd>
+								<dd><a href="http://www.hometax.go.kr/" target="_blank" title="새창열림">과세자료제출</a></dd>
+								<dd><a href="http://www.hometax.go.kr/" target="_blank" title="새창열림">신고납부확인</a></dd>
+								<dd><a href="http://www.hometax.go.kr/" target="_blank" title="새창열림">조회/계산</a></dd>
+								<dd><a href="http://www.hometax.go.kr/" target="_blank" title="새창열림">세무대리정보관리</a></dd>
+								<dd><a href="http://www.hometax.go.kr/" target="_blank" title="새창열림">자주묻는상담<span>(FAQ)</span></a></dd>
+							</dl>
+							<dl>
+								<dt><a href="http://www.taxsave.go.kr/" target="_blank" title="새창열림"><img src="images/main/familysite03.gif" alt="현금영수증"></a></dt>
+								<dd><a href="http://www.taxsave.go.kr/" target="_blank" title="새창열림">제도소개</a></dd>
+								<dd><a href="http://www.taxsave.go.kr/" target="_blank" title="새창열림">소비자</a></dd>
+								<dd><a href="http://www.taxsave.go.kr/" target="_blank" title="새창열림">사업자</a></dd>
+								<dd><a href="http://www.taxsave.go.kr/" target="_blank" title="새창열림">소비자<br><span>-자주묻는상담(FAQ)</span></a></dd>
+								<dd><a href="http://www.taxsave.go.kr/" target="_blank" title="새창열림">사업자<br><span>-자주묻는상담(FAQ)</span></a></dd>
+								<dd><a href="http://www.taxsave.go.kr/" target="_blank" title="새창열림">로그인/회원가입</a></dd>
+								<dd><a href="http://www.taxsave.go.kr/" target="_blank" title="새창열림">이용안내</a></dd>
+							</dl>
+							<dl>
+								<dt><a href="http://www.yesone.go.kr/" target="_blank" title="새창열림"><img src="images/main/familysite04.gif" alt="연말정산간소화"></a></dt>
+								<dd><a href="http://www.yesone.go.kr/" target="_blank" title="새창열림">로그인</a></dd>
+								<dd><a href="http://www.yesone.go.kr/" target="_blank" title="새창열림">소득공제자료<br>조회/출력</a></dd>
+								<dd><a href="http://www.yesone.go.kr/" target="_blank" title="새창열림">소득공제자료<br>제공동의</a></dd>
+								<dd><a href="http://www.yesone.go.kr/" target="_blank" title="새창열림">납세자코너</a></dd>
+							</dl>
+							<dl>
+								<dt><a href="http://www.esero.go.kr" target="_blank"  title="새창열림"><img src="images/main/familysite05.gif" alt="전자세금계산서"></a></dt>
+								<dd><a href="http://www.esero.go.kr/ebill.ep.home.taxBillSystem.cmd.FindTaxBillSystem.xx"target="_blank" title="새창열림">제도소개</a></dd>
+								<dd><a href="http://www.esero.go.kr/ebill.ep.home.taxBillIsu.cmd.FindTaxBillIsu.xx"target="_blank" title="새창열림">서비스소개</a></dd>
+								<dd><a href="http://www.esero.go.kr/ebill.ep.home.mberInfo.cmd.FindMberInfo.xx"target="_blank" title="새창열림">이용안내</a></dd>
+								<dd><a href="http://www.esero.go.kr/ebill.ep.home.notice.cmd.FindNoticeList.xx"target="_blank" title="새창열림">정보광장</a></dd>
+								<dd><a href="http://www.esero.go.kr/ebill.ep.home.lbrtyBbs.cmd.FindLbrtyBbsList.xx"target="_blank" title="새창열림">참여광장</a></dd>
+								<dd><a href="http://www.esero.go.kr/ebill.ep.home.user.cmd.LoginMgmt.xx"target="_blank" title="새창열림">로그인</a></dd>
+							</dl>
+							<dl>
+								<dt><a href="http://taxinfo.nts.go.kr/" target="_blank" title="새창열림"><img src="images/main/familysite06.gif" alt="국세법령정보"></a></dt>
+								<dd><a href="http://taxinfo.nts.go.kr/" target="_blank" title="새창열림">법령 </a></dd>
+								<dd><a href="http://taxinfo.nts.go.kr/" target="_blank" title="새창열림">질의ㆍ판례</a></dd>
+								<dd><a href="http://taxinfo.nts.go.kr/" target="_blank" title="새창열림">조문별정보</a></dd>
+								<dd><a href="http://taxinfo.nts.go.kr/" target="_blank" title="새창열림">별표ㆍ서식</a></dd>
+								<dd><a href="http://taxinfo.nts.go.kr/" target="_blank" title="새창열림">전자도서관</a></dd>
+								<dd><a href="http://taxinfo.nts.go.kr/" target="_blank" title="새창열림">게시판</a></dd>
+							</dl>
+							<dl>
+								<dt><a href="http://www.eitc.go.kr/" target="_blank" title="새창열림"><img src="images/main/familysite07.gif" alt="근로장려세제"></a></dt>
+								<dd><a href="http://www.eitc.go.kr/" target="_blank" title="새창열림">근로장려세제안내</a></dd>
+								<dd><a href="http://www.eitc.go.kr/" target="_blank" title="새창열림">근로장려금<br>신청서비스</a></dd>
+								<dd><a href="http://www.eitc.go.kr/" target="_blank" title="새창열림">알림마당</a></dd>
+							</dl>
+							<dl>
+								<dt><a href="http://npoinfo.hometax.go.kr/" target="_blank" title="새창열림"><img src="images/main/familysite08.gif" alt="공익법인"></a></dt>
+								<dd><a href="http://npoinfo.hometax.go.kr/" target="_blank" title="새창열림">결산공시시스템</a></dd>
+								<dd style="margin-bottom:60px;">&nbsp;</dd>
+								<dt><a href="http://www.icl.go.kr/" target="_blank" title="새창열림"><img src="images/main/familysite09.gif" alt="취업후 학자금 상환"></a></dt>
+								<dd><a href="http://www.icl.go.kr/rsa/rsuca01jAction.do?method=rsucaj001view" target="_blank" title="새창열림">서비스안내</a></dd>
+								<dd><a href="http://www.icl.go.kr/rs/rsrba01jAction.do?method=rsrbaj001list" target="_blank" title="새창열림">학자금상환신고납부</a></dd>
+								<dd><a href="http://www.icl.go.kr/rs/rsqab04jAction.do?method=rsqabj015add" target="_blank" title="새창열림">원천공제신고납부</a></dd>
+								<dd><a href="http://www.icl.go.kr/rsa/rsubb01jAction.do?method=rsubbj001list" target="_blank" title="새창열림">알림마당</a></dd>
+							</dl>
+						</div><!--familysitemap-->
+					</li>
+				</ul>
+			</div><!--//gnb-->		
+			<div id="quick1" >
+					<div><a href="#none" onMouseOver="CloseSub(8)" onFocus="CloseSub(8)" onClick="openQuick()"><img src="images/main/quick_out_01.gif" alt="홈페이지도우미" id="img_quick" name="img_quick"></a></div>
+					<ul style="display:none;" id="g1">
+						<li><a href="/site/site_01.asp"><img src="images/main/quick_1.gif" alt="홈페이지의구분"></a></li>
+						<li><a href="/site/site_01_02.asp"><img src="images/main/quick_2.gif" alt="메뉴찾기안내"></a></li>
+						<li><a href="/site/site_01_03.asp"><img src="images/main/quick_3.gif" alt="이용방법안내"></a></li>
+						<li><a href="/site/site_01_04.asp" ><img src="images/main/quick_4.gif" alt="이용불편신고"></a></li>
+						
+					</ul>
+			</div><!--//quick-->
+			
+			  
+			<div class="tv">
+				<br>
+				<p><a href="http://webtv.nts.go.kr" target="_blank"><img src="images/main/img_tv.gif" alt="보고듣는 국세정보 국세청 Web-TV"></a></p>
+			</div>
+			<!--//tv-->
+			<div class="main_title">
+					
+						<object type="application/x-shockwave-flash" width="500" height="50" title="법과 원칙이 바로선 반듯한 국세청 국민이 신뢰하는 선진일류 국세청이 되겠습니다.">
+					<param name="movie" value="flash/main/main_tilte_text.swf">
+					<param name="wmode" value="transparent">
+					<p class="tac">
+					이컨텐츠는 플래쉬(flash)로 제작되었습니다. 이컨텐츠를 보려면
+					<a href="http://www.adobe.com/kr/products/flashplayer/" target="_blank" title="새창으로열림">
+					Flash Player</a>(무료)가필요합니다.
+					</p>				 
+					</object>
+					
+			</div><!--//main_title-->
+
+			
+			
+			<div class="icon_list">
+				<ul>
+					<li><a href="/tax/tax_01.asp?cinfo_key=MINF8420100716140904&amp;flag=01&amp;menu_a=100&amp;menu_b=100" target="_self"><img src="images/main/main_icon_setup/main_icon_setup_a_33.gif" alt="종합소득세" border="0"></a></li>
+					<li><a href="/tax/tax_04.asp?cinfo_key=MINF8520100716141006&amp;flag=04&amp;menu_a=400&amp;menu_b=100" target="_self"><img src="images/main/main_icon_setup/main_icon_setup_b_36.gif" alt="부가가치세" border="0"></a></li>
+					<li><a href="/tax/tax_03.asp?cinfo_key=MINF7820100716140953&amp;flag=03&amp;menu_a=300&amp;menu_b=100" target="_self"><img src="images/main/main_icon_setup/main_icon_setup_c_35.gif" alt="원천세(연말정산)안내" border="0"></a></li>
+					<li><a href="/tax/tax_05.asp?cinfo_key=MINF7520100716141019&amp;flag=05&amp;menu_a=500&amp;menu_b=100" target="_self"><img src="images/main/main_icon_setup/main_icon_setup_d_37.gif" alt="법인세" border="0"></a></li>
+					<li><a href="/tax/tax_07.asp?cinfo_key=MINF5620100716141142&amp;flag=07&amp;menu_a=700&amp;menu_b=100" target="_self"><img src="images/main/main_icon_setup/main_icon_setup_e_39.gif" alt="양도소득세" border="0"></a></li>
+					<li><a href="/tax/tax_08.asp?cinfo_key=MINF7020100719122727&amp;flag=08&amp;menu_a=800&amp;menu_b=100" target="_self"><img src="images/main/main_icon_setup/main_icon_setup_f_40.gif" alt="상속세" border="0"></a></li>
+					<li><a href="/tax/tax_09.asp?cinfo_key=MINF8920100719122742&amp;flag=09&amp;menu_a=900&amp;menu_b=100" target="_self"><img src="images/main/main_icon_setup/main_icon_setup_g_41.gif" alt="증여세" border="0"></a></li>
+					<li><a href="/civil/civil_04_02_05.asp?minfoKey=MINF6620080211222318" target="_self"><img src="images/main/main_icon_setup/main_icon_setup_h_73.gif" alt="그외탈세(수입누락ㆍ허위경비등)" border="0"></a></li>
+				</ul>
+			</div><!--//icon_list-->
+			<div class="setup">
+				<p class="icon"><img src="images/main/icon_setup.gif" alt="설정아이콘"><a href="#setup_list" onClick="MM_showHideLayers('setup_list','','show','catekey','','hide','key','','hide'); div_close(); return false;">설정</a></p>
+				<div id="setup_wrap">
+				<div id="setup_list" style="z-index:50">
+					<form method="post" action="/index.asp" name="theForm" onSubmit="return goSubmit();">
+					<input type="hidden" id="menuStartCheck" name="menuStartCheck" value="1">
+					<fieldset>
+						<legend>빠른서비스설정</legend>
+							<p class="txt"><img src="images/main/txt_setup.gif" alt="빠른서비스설정">&nbsp;&nbsp;&nbsp;&nbsp;자주 찾는 정보 7개를 선택하여 설정하시면, 빠른 서비스를 이용하실 수 있습니다.</p>
+							 <ul>
+									<li>
+									<dl>
+										<dt><img src="/images/main/tit_setup01.gif" alt="국세청뉴스"></dt>
+										<dd><input type="checkbox" id="msetup1" name="main_icon_setup" onClick="getCheckCount(this);" value="1|주요뉴스|news/news_01.asp">
+										<label for="msetup1"> 주요뉴스</label></dd>
+										<dd><input type="checkbox" id="msetup2" name="main_icon_setup" onClick="getCheckCount(this);" value="2|보도자료|/news/news_03_01.asp"><label for="msetup2"> 보도자료</label></dd>
+										<dd><input type="checkbox" id="msetup3" name="main_icon_setup" onClick="getCheckCount(this);" value="3|인터뷰·기고|/news/news_11.asp"><label for="msetup3"> 인터뷰·기고</label></dd>
+										<dd><input type="checkbox" id="msetup4" name="main_icon_setup" onClick="getCheckCount(this);" value="4|그건이렇습니다.|/news/news_03_03.asp"><label for="msetup4"> 그건이렇습니다</label></dd>
+										<dd><input type="checkbox" id="msetup5" name="main_icon_setup" onClick="getCheckCount(this);" value="5|국세청뉴스레터|/news/news_04_01.asp"><label for="msetup5"> 국세청뉴스레터</label></dd>
+										<dd><input type="checkbox" id="msetup6" name="main_icon_setup" onClick="getCheckCount(this);" value="6|공지사항|/news/news_06.asp" ><label for="msetup6" > 공지사항</label></dd>
+										<dd><input type="checkbox" id="msetup7" name="main_icon_setup" onClick="getCheckCount(this);" value="7|고시공고|/news/news_07_01.asp"><label for="msetup7" > 고시·공고</label></dd>
+										<dd><input type="checkbox" id="msetup8" name="main_icon_setup" onClick="getCheckCount(this);" value="8|훈령'고시행정예고|/news/news_08_02.asp"><label for="msetup8"> 훈령·고시행정예고</label></dd>
+										<dd><input type="checkbox" id="msetup9" name="main_icon_setup" onClick="getCheckCount(this);" value="9|국세매거진|/news/news_09.asp"><label for="msetup9"> 국세매거진</label></dd>
+									</dl>
+									<dl>
+										<dt><img src="/images/main/tit_setup05.gif" alt="조회·계산"></dt>
+										<dd><input type="checkbox" id="msetup10" name="main_icon_setup" onClick="getCheckCount(this);" value="10|기준시가|/cal/cal_01_01.asp"><label for="msetup10"> 기준시가</label></dd>
+										<dd><input type="checkbox" id="msetup11" name="main_icon_setup" onClick="getCheckCount(this);" value="11|사업자과세유형'휴폐업|/cal/cal_check_02.asp"><label for="msetup11"> 사업자과세유형·휴폐업</label></dd>
+										<dd><input type="checkbox" id="msetup12" name="main_icon_setup" onClick="getCheckCount(this);" value="12|부가가치세 조회|/wtsnts_inc/jxstart.asp?ReturnNo=2&amp;Depth1=300&amp;Depth2=300&amp;Depth3=100&amp;Depth4=0"><label for="msetup12"> 부가가치세조회</label></dd>
+										<dd><input type="checkbox" id="msetup13" name="main_icon_setup" onClick="getCheckCount(this);" value="13|기준경비율'표준소득률|/cal/cal_04_01.asp"><label for="msetup13"> 기준경비율·표준소득률</label></dd>
+										<dd><input type="checkbox" id="msetup14" name="main_icon_setup" onClick="getCheckCount(this);" value="14|연말정산자동계산|/cal/cal_05.asp"><label for="msetup14"> 연말정산자동계산</label></dd>
+										<dd><input type="checkbox" id="msetup15" name="main_icon_setup" onClick="getCheckCount(this);" value="15|근로소득간이세액표|/cal/cal_06.asp"><label for="msetup15"> 근로소득간이세액표</label></dd>
+										<dd><input type="checkbox" id="msetup16" name="main_icon_setup" onClick="getCheckCount(this);" value="16|국세환급금찾기|/wtsnts_inc/jxstart.asp?ReturnNo=1&amp;Depth1=300&amp;Depth2=700&amp;Depth3=0&amp;Depth4=0"><label for="msetup16"> 국세환급금찾기</label></dd>
+										<dd><input type="checkbox" id="msetup80" name="main_icon_setup" onClick="getCheckCount(this);" value="80|불복청구진행상황|/cal/cal_09.asp"><label for="msetup80"> 불복청구진행상황</label></dd>
+									</dl>
+								</li>								
+								<li>
+									<dl>
+										<dt><img src="/images/main/tit_setup03.gif" alt="국세정보"></dt>
+										<dd><input type="checkbox" id="msetup17" name="main_icon_setup" onClick="getCheckCount(this);" value="17|국세법령정보|http://taxinfo.nts.go.kr|_blank"><label for="msetup17"> 국세법령정보</label></dd>
+										<dd><input type="checkbox" id="msetup18" name="main_icon_setup" onClick="getCheckCount(this);" value="18|세법해석민원질의|/info/info_14_01.asp"><label for="msetup18"> 세법해석민원질의</label></dd>
+										<dd><input type="checkbox" id="msetup19" name="main_icon_setup" onClick="getCheckCount(this);" value="19|사업자등록안내|/info/info_01_01.asp"><label for="msetup19"> 사업자등록안내</label></dd>
+										<dd><input type="checkbox" id="msetup20" name="main_icon_setup" onClick="getCheckCount(this);" value="20|세무서식|/info/info_02.asp"><label for="msetup20"> 세무서식</label></dd>
+										<dd><input type="checkbox" id="msetup21" name="main_icon_setup" onClick="getCheckCount(this);" value="21|국세청프로그램|/info/info_03_01.asp"><label for="msetup21"> 국세청프로그램</label></dd>
+										<dd><input type="checkbox" id="msetup22" name="main_icon_setup" onClick="getCheckCount(this);" value="22|국세통계|/info/info_03_02.asp"><label for="msetup22"> 국세통계</label></dd>
+										<dd><input type="checkbox" id="msetup23" name="main_icon_setup" onClick="getCheckCount(this);" value="23|국세청발간책자|/info/info_04_01.asp"><label for="msetup23"> 국세청발간책자</label></dd>
+										<dd><input type="checkbox" id="msetup24" name="main_icon_setup" onClick="getCheckCount(this);" value="24|세무용어사전|http://taxinfo.nts.go.kr/docs/customer/dictionary/wordList.jsp|_blank"><label for="msetup24"> 세무용어사전</label></dd>
+										<dd><input type="checkbox" id="msetup25" name="main_icon_setup" onClick="getCheckCount(this);" value="25|국제조세정보|/info/info_05_01_01.asp"><label for="msetup25"> 국제조세정보</label></dd>
+										<dd><input type="checkbox" id="msetup26" name="main_icon_setup" onClick="getCheckCount(this);" value="26|납세서비스|/info/info_06_01.asp"><label for="msetup26"> 납세서비스</label></dd>
+										<dd><input type="checkbox" id="msetup27" name="main_icon_setup" onClick="getCheckCount(this);" value="27|정보공개방|/info/info_07_02.asp"><label for="msetup27"> 정보공개방</label></dd>
+									</dl>
+									<dl>
+										<dt><img src="/images/main/tit_setup08.gif" alt="국세청소개"></dt>
+										<dd><input type="checkbox" id="msetup28" name="main_icon_setup" onClick="getCheckCount(this);" value="28|우리청안내|/about/about_01_01.asp"><label for="msetup28"> 우리청안내</label></dd>
+										<dd><input type="checkbox" id="msetup29" name="main_icon_setup" onClick="getCheckCount(this);" value="29|청'차장소개|/about/about_05_01.asp"><label for="msetup29"> 청·차장소개</label></dd>
+										<dd><input type="checkbox" id="msetup30" name="main_icon_setup" onClick="getCheckCount(this);" value="30|국세공무원소개|/about/about_02_01.asp"><label for="msetup30"> 국세공무원소개</label></dd>
+										<dd><input type="checkbox" id="msetup31" name="main_icon_setup" onClick="getCheckCount(this);" value="31|전국세무관서|/about/about_03_01.asp"><label for="msetup31"> 전국세무관서</label></dd>
+										<dd><input type="checkbox" id="msetup32" name="main_icon_setup" onClick="getCheckCount(this);" value="32|관련기관안내|/about/about_04_01.asp"><label for="msetup32"> 관련기관안내</label></dd>
+									</dl>
+								</li>
+								<li>
+									<dl>
+										<dt><img src="/images/main/tit_setup07.gif" alt="신고·납부"></dt>
+										<dd><input type="checkbox" id="msetup33" name="main_icon_setup" onClick="getCheckCount(this);" value="33|종합소득세|/tax/tax_01.asp?cinfo_key=MINF8420100716140904&amp;flag=01&amp;menu_a=100&amp;menu_b=100"><label for="msetup33"> 종합소득세</label></dd>
+										<dd><input type="checkbox" id="msetup34" name="main_icon_setup" onClick="getCheckCount(this);" value="34|사업장현황신고|/tax/tax_02.asp?cinfo_key=MINF5020100716140930&amp;flag=02&amp;menu_a=200&amp;menu_b=100"><label for="msetup34"> 사업장현황신고</label></dd>
+										<dd><input type="checkbox" id="msetup35" name="main_icon_setup" onClick="getCheckCount(this);" value="35|원천징수(연말정산)안내|/tax/tax_03.asp?cinfo_key=MINF7820100716140953&amp;flag=03&amp;menu_a=300&amp;menu_b=100"><label for="msetup35"> 원천징수(연말정산)안내</label></dd>
+										<dd><input type="checkbox" id="msetup36" name="main_icon_setup" onClick="getCheckCount(this);" value="36|부가가치세|/tax/tax_04.asp?cinfo_key=MINF8520100716141006&amp;flag=04&amp;menu_a=400&amp;menu_b=100"><label for="msetup36"> 부가가치세</label></dd>
+										<dd><input type="checkbox" id="msetup37" name="main_icon_setup" onClick="getCheckCount(this);" value="37|법인세|/tax/tax_05.asp?cinfo_key=MINF7520100716141019&amp;flag=05&amp;menu_a=500&amp;menu_b=100"><label for="msetup37"> 법인세</label></dd>
+										<dd><input type="checkbox" id="msetup38" name="main_icon_setup" onClick="getCheckCount(this);" value="38|공익법인|/tax/tax_06.asp?cinfo_key=MINF5320100716141031&amp;flag=06&amp;menu_a=600&amp;menu_b=100"><label for="msetup38"> 공익법인</label></dd>
+										<dd><input type="checkbox" id="msetup78" name="main_icon_setup" onClick="getCheckCount(this);" value="78|해외금융계좌신고|/tax/tax_13.asp?cinfo_key=MINF6720110317160435&amp;menu_a=1400&amp;menu_b=100&amp;flag=13"><label for="msetup78"> 해외금융계좌신고</label></dd>
+										<dd><input type="checkbox" id="msetup39" name="main_icon_setup" onClick="getCheckCount(this);" value="39|양도소득세|/tax/tax_07.asp?cinfo_key=MINF5620100716141142&amp;flag=07&amp;menu_a=700&amp;menu_b=100"><label for="msetup39"> 양도소득세</label></dd>
+										<dd><input type="checkbox" id="msetup40" name="main_icon_setup" onClick="getCheckCount(this);" value="40|상속세|/tax/tax_08.asp?cinfo_key=MINF7020100719122727&amp;flag=08&amp;menu_a=800&amp;menu_b=100"><label for="msetup40"> 상속세</label></dd>
+										<dd><input type="checkbox" id="msetup41" name="main_icon_setup" onClick="getCheckCount(this);" value="41|증여세|/tax/tax_09.asp?cinfo_key=MINF8920100719122742&amp;flag=09&amp;menu_a=900&amp;menu_b=100"><label for="msetup41"  > 증여세</label></dd>
+										<dd><input type="checkbox" id="msetup42" name="main_icon_setup" onClick="getCheckCount(this);" value="42|종합부동산세|/tax/tax_10.asp?cinfo_key=MINF6920100719122833&amp;flag=10&amp;menu_a=1000&amp;menu_b=100"><label for="msetup42"> 종합부동산세</label></dd>
+										<dd><input type="checkbox" id="msetup43" name="main_icon_setup" onClick="getCheckCount(this);" value="43|주류제조|/tax/tax_12.asp"><label for="msetup43"> 주류제조</label></dd>
+										<dd><input type="checkbox" id="msetup44" name="main_icon_setup" onClick="getCheckCount(this);" value="44|월별세무일정|/tax/tax_09_01.asp"><label for="msetup44"> 월별세무일정</label></dd>
+										<dd><input type="checkbox" id="msetup45" name="main_icon_setup" onClick="getCheckCount(this);" value="45|납부안내|/tax/tax_10_01.asp"><label for="msetup45"> 납부안내</label></dd>
+									</dl>
+									<dl>
+										<dt><img src="/images/main/tit_setup06.gif" alt="사이트안내"></dt>
+										<dd><input type="checkbox" id="msetup46" name="main_icon_setup" onClick="getCheckCount(this);" value="46|홈페이지도우미|/site/site_01.asp"><label for="msetup46"> 홈페이지도우미</label></dd>
+										<dd><input type="checkbox" id="msetup47" name="main_icon_setup" onClick="getCheckCount(this);" value="47|국세청위젯안내|/site/widget.asp"><label for="msetup47"> 국세청위젯안내</label></dd>
+										<dd><input type="checkbox" id="msetup48" name="main_icon_setup" onClick="getCheckCount(this);" value="48|사이트맵|/site/site_02.asp"><label for="msetup48"> 사이트맵</label></dd>
+									</dl>
+								</li>
+								<li>
+									<dl>
+										<dt><img src="/images/main/tit_setup02.gif" alt="국민신문고"></dt>
+										<dd><input type="checkbox" id="msetup49" name="main_icon_setup" onClick="getCheckCount(this);" value="49|고객의소리(고충,건의,불만,칭찬)|/civil/civil_epeople_06.asp"><label for="msetup49"> 고객의소리(고충,건의,<br>불만,칭찬)</label></dd>
+										<dd><input type="checkbox" id="msetup51" name="main_icon_setup" onClick="getCheckCount(this);" value="51|세금고충처리방|/civil/civil_01.asp"><label for="msetup51"> 세금고충처리방</label></dd>
+										<dd><input type="checkbox" id="msetup52" name="main_icon_setup" onClick="getCheckCount(this);" value="52|근로장려금부정수급자신고|/civil/civil_epeople_07.asp"><label for="msetup52"> 근로장려금<br>부정수급자신고</label></dd>
+										<dd><input type="checkbox" id="msetup53" name="main_icon_setup" onClick="getCheckCount(this);" value="53|지급명세서미제출신고|/civil/civil_epeople_08.asp"><label for="msetup53"> 지급명세서미제출신고</label></dd>
+										<dd><input type="checkbox" id="msetup54" name="main_icon_setup" onClick="getCheckCount(this);" value="54|주류모니터링및가짜양주고발|/civil/civil_04_08_01.asp"><label for="msetup54"> 주류모니터링및<br>가짜양주고발</label></dd>
+										<dd><input type="checkbox" id="msetup55" name="main_icon_setup" onClick="getCheckCount(this);" value="55|임대료부당인상신고|/civil/civil_04_10_01.asp"><label for="msetup55"> 임대료부당인상신고</label></dd>
+										<dd><input type="checkbox" id="msetup56" name="main_icon_setup" onClick="getCheckCount(this);" value="56|고액상습체납자은닉재산신고|/civil/civil_04_11_05.asp"><label for="msetup56"> 고액상습체납자<br>은닉재산신고</label></dd>
+										<dd><input type="checkbox" id="msetup57" name="main_icon_setup" onClick="getCheckCount(this);" value="57|감사관Hot-Line|/civil/civil_epeople_09.asp"><label for="msetup57"> 감사관Hot-Line</label></dd>
+										<dd><input type="checkbox" id="msetup58" name="main_icon_setup" onClick="getCheckCount(this);" value="58|CLEAN신고센터|/civil/civil_05_06_04.asp"><label for="msetup58"> CLEAN신고센터</label></dd>
+										<dd><input type="checkbox" id="msetup59" name="main_icon_setup" onClick="getCheckCount(this);" value="59|불친철신고|/civil/civil_05_05.asp"><label for="msetup59"> 불친철신고</label></dd>
+										<dd><input type="checkbox" id="msetup60" name="main_icon_setup" onClick="getCheckCount(this);" value="60|예산낭비신고센터|/civil/etc_03_01.asp"><label for="msetup60"> 예산낭비신고센터</label></dd>
+										
+										<dd><input type="checkbox" id="msetup50" name="main_icon_setup" onClick="getCheckCount(this);" value="50|국민제안|/civil/civil_02.asp"><label for="msetup50"> 국민제안</label></dd>
+										<dd><input type="checkbox" id="msetup61" name="main_icon_setup" onClick="getCheckCount(this);" value="61|설문조사|/civil/civil_05_01.asp"><label for="msetup61"> 설문조사</label></dd>										
+										<dd><input type="checkbox" id="msetup63" name="main_icon_setup" onClick="getCheckCount(this);" value="63|정책포럼|/civil/civil_05_03.asp"><label for="msetup63"> 정책포럼</label></dd>
+									</dl>
+								</li>
+								<li>
+									<dl>
+										<dt><img src="/images/main/tit_setup04.gif" alt="전자민원"></dt>
+										<dd><input type="checkbox" id="msetup64" name="main_icon_setup" onClick="getCheckCount(this);" value="64|방문상담예약|/civil/civil_10_01.asp?minfoKey=MINF8420090323164902&amp;top_code=&amp;sub_code="><label for="msetup64"> 방문상담예약</label></dd>
+										<dd><input type="checkbox" id="msetup65" name="main_icon_setup" onClick="getCheckCount(this);" value="65|민원증명발급|/civil/civil_08_01.asp"><label for="msetup65"> 민원증명발급</label></dd>
+										<dd><input type="checkbox" id="msetup79" name="main_icon_setup" onClick="getCheckCount(this);" value="79|영세납세자도움방|/civil/civil_17_01.asp"><label for="msetup79"> 영세납세자도움방</label></dd>
+										<dd><input type="checkbox" id="msetup81" name="main_icon_setup" onClick="getCheckCount(this);" value="81|모범납세자추천(신청)|/civil/civil_18_01.asp"><label for="msetup81"> 모범납세자추천(신청)</label></dd>
+										<dd><input type="checkbox" id="msetup66" name="main_icon_setup" onClick="getCheckCount(this);" value="66|정보공개(청구)|/civil/civil_03_01.asp"><label for="msetup66"> 정보공개(청구)</label></dd>
+										<dd><input type="checkbox" id="msetup76" name="main_icon_setup" onClick="getCheckCount(this);" value="76|세법령개정의견|/civil/civil_05_04_write.asp"><label for="msetup76"> 세법령개정의견</label></dd>
+									</dl>
+									<dl>
+										<dt><img src="/images/main/tit_setup10.gif" alt="탈세제보"></dt>
+										<dd><input type="checkbox" id="msetup72" name="main_icon_setup" onClick="getCheckCount(this);" value="72|거짓(세금)계산서수수|/civil/civil_04_05_01.asp?minfoKey=MINF7120080211222350&amp;top_code=&amp;sub_code="><label for="msetup72"> 거짓(세금)계산서수수</label></dd>
+										<dd><input type="checkbox" id="msetup70" name="main_icon_setup" onClick="getCheckCount(this);" value="70|대부업자탈세|/civil/civil_04_15_01.asp?minfoKey=MINF8820090428144819&amp;top_code=&amp;sub_code="><label for="msetup70"> 대부업자탈세</label></dd>
+										<dd><input type="checkbox" id="msetup75" name="main_icon_setup" onClick="getCheckCount(this);" value="75|학원비부조리 신고센터|/civil/civil_16_01.asp?minfoKey=MINF5320100913133928&amp;top_code=&amp;sub_code="><label for="msetup75"> 학원비부조리신고센터</label></dd>
+										<dd><input type="checkbox" id="msetup68" name="main_icon_setup" onClick="getCheckCount(this);" value="68|신용카드결제거부및위장가맹점|/civil/civil_04_06_01.asp?minfoKey=MINF8620080228145715&amp;top_code=&amp;sub_code="><label for="msetup68"> 신용카드결제거부및<br>위장가맹점</label></dd>
+										<dd><input type="checkbox" id="msetup69" name="main_icon_setup" onClick="getCheckCount(this);" value="69|명의위장사업자|/civil/civil_04_03_01.asp?minfoKey=MINF4820080211222501&amp;top_code=&amp;sub_code="><label for="msetup69"> 명의위장사업자</label></dd>
+										<dd><input type="checkbox" id="msetup74" name="main_icon_setup" onClick="getCheckCount(this);" value="74|부동산투기|/civil/civil_04_09_01.asp?minfoKey=MINF6920080211222443&amp;top_code=&amp;sub_code="><label for="msetup74"> 부동산투기</label></dd>
+										
+										<dd><input type="checkbox" id="msetup71" name="main_icon_setup" onClick="getCheckCount(this);" value="71|해외탈루소득|/civil/civil_04_13_01.asp?minfoKey=MINF7420090413152308&amp;top_code=&amp;sub_code="><label for="msetup71"> 해외탈루소득</label></dd>
+										
+										<dd><input type="checkbox" id="msetup73" name="main_icon_setup" onClick="getCheckCount(this);checkedOnly();" value="73|그외탈세(수입누락ㆍ허위경비등)|/civil/civil_04_02_05.asp?minfoKey=MINF6620080211222318&amp;top_code=&amp;sub_code="><label for="msetup73"> 그외탈세(수입누락ㆍ<br>허위경비등)</label></dd>
+										
+										
+										
+									</dl>
+								</li>
+							</ul>
+							<script type="text/javascript">
+								function checkedOnly()
+								{
+									document.getElementById("msetup73").checked = true;
+								}
+							</script>
+							<p class="btn">
+								<a href="#none" onClick="goDefault(); return false;">
+									<img src="/images/main/btn_setup01.gif" alt="기본설정">
+								</a>
+								<input type="image" src="/images/main/btn_setup02.gif" alt="설정완료">
+								<img  src="/images/main/btn_setup04.gif" alt="취소" onClick="goReset(); MM_showHideLayers('setup_list','','hide','catekey','','show','key','','show'); div_open();" style="cursor: pointer;">
+							</p>
+							<p class="close">
+								<a href="#none" onClick="goReset(); MM_showHideLayers('setup_list','','hide','catekey','','show','key','','show'); div_open();"><img src="images/main/btn_close.gif" alt="닫기"></a>
+							</p>
+						</fieldset>
+				   </form>
+				</div><!--//setup_list-->
+				</div><!--//setup_wrap-->
+			</div><!--//setup-->
+		</div><!--//header-->
+		<hr>
+		<div id="container">
+			<div class="left">
+				<div class="summary_link box">
+				<h3><a href="#content1" onclick="viewContent(1);imgOverSummary(1);return false;" onmouseOver="pause(1)" onmouseout="play(1)" onFocus="pause(1)" onblur="play(1)"><img src="images/main/sum01_on.gif" alt="국세정보" id="content1_tab"></a></h3>
+						<div id="content1">
+							<ul >
+								<li><a href="/info/info_01_01.asp" onMouseOver="pause(1)" onFocus="pause(1)" onMouseOut="play(1)" onBlur="play(1)">사업자등록안내</a></li>
+								<li><a href="/info/info_02.asp" onMouseOver="pause(1)" onFocus="pause(1)" onMouseOut="play(1)" onBlur="play(1)">세무서식</a></li>
+								<li><a href="/info/info_03_01.asp" onMouseOver="pause(1)" onFocus="pause(1)" onMouseOut="play(1)" onBlur="play(1)">국세청프로그램</a></li>
+								<li><a href="/info/info_04_01.asp" onMouseOver="pause(1)" onFocus="pause(1)" onMouseOut="play(1)" onBlur="play(1)">국세청발간책자</a></li>
+								<li><a href="/info/info_07_02.asp" onMouseOver="pause(1)" onFocus="pause(1)" onMouseOut="play(1)" onBlur="play(1)">정보공개방</a></li>
+								<li><a href="/info/info_03_02.asp" onMouseOver="pause(1)" onFocus="pause(1)" onMouseOut="play(1)" onBlur="play(1)">국세통계</a></li>
+								<li><a href="/info/info_06_01.asp" onMouseOver="pause(1)" onFocus="pause(1)" onMouseOut="play(1)" onBlur="play(1)">납세서비스</a></li>
+								<li><a href="http://taxinfo.nts.go.kr/docs/customer/dictionary/wordList.jsp" onClick="openPopup(this.href, { width:800, height:550, scroll:1, name:'total11_title1' }); return false;" onMouseOver="pause(1)" onFocus="pause(1)" onMouseOut="play(1)" onBlur="play(1)">세무용어사전</a></li>
+							</ul>
+						</div>  
+					<h3><a href="#content2" onclick="viewContent(2);imgOverSummary(2);return false;" onMouseOver=";pause(1);" onmouseout="play(1)" onFocus="pause(1)" onblur="play(1)"><img src="images/main/sum02_off.gif" alt="신고납부" id="content2_tab" ></a></h3>
+					<div id="content2" style="display:none;" >					
+					<ul >
+						<li><a href="/tax/tax_10_01.asp" onMouseOver="pause(1)" onFocus="pause(1)" onMouseOut="play(1)" onBlur="play(1)">납부서작성요령</a></li>
+						<li><a href="/tax/tax_09_01.asp" onMouseOver="pause(1)" onFocus="pause(1)" onMouseOut="play(1)" onBlur="play(1)">월별세무신고</a></li>				
+						<li><a href="/tax/tax_01.asp?cinfo_key=MINF8420100716140904&amp;flag=01&amp;menu_a=100&amp;menu_b=100" onMouseOver="pause(1)" onFocus="pause(1)" onMouseOut="play(1)" onBlur="play(1)">종합소득세</a></li>
+						<li><a href="/tax/tax_04.asp?cinfo_key=MINF8520100716141006&amp;flag=04&amp;menu_a=400&amp;menu_b=100" onMouseOver="pause(1)" onFocus="pause(1)" onMouseOut="play(1)" onBlur="play(1)">부가가치세</a></li>
+						<li><a href="/tax/tax_07.asp?cinfo_key=MINF5620100716141142&amp;flag=07&amp;menu_a=700&amp;menu_b=100" onMouseOver="pause(1)" onFocus="pause(1)" onMouseOut="play(1)" onBlur="play(1)">양도소득세</a></li>
+						<li><a href="/tax/tax_08.asp?cinfo_key=MINF7020100719122727&amp;flag=08&amp;menu_a=800&amp;menu_b=100" onMouseOver="pause(1)" onFocus="pause(1)" onMouseOut="play(1)" onBlur="play(1)">상속/증여세</a></li>
+						<li><a href="/tax/tax_03.asp?cinfo_key=MINF7820100716140953&amp;flag=03&amp;menu_a=300&amp;menu_b=100" onMouseOver="pause(1)" onFocus="pause(1)" onMouseOut="play(1)" onBlur="play(1)">원천징수(연말정산)안내</a></li>
+						<li><a href="/tax/tax_05.asp?cinfo_key=MINF7520100716141019&amp;flag=05&amp;menu_a=500&amp;menu_b=100" onMouseOver="pause(1)" onFocus="pause(1)" onMouseOut="play(1)" onBlur="play(1)"> 법인세</a></li>
+					</ul>	
+					</div>
+					<h3><a href="#content3" onclick="viewContent(3);imgOverSummary(3);return false;" onMouseOver="pause(1)" onmouseout="play(1)" onFocus="pause(1)" onblur="play(1)"><img src="images/main/sum03_off.gif" alt="국제조세정보" id="content3_tab" ></a></h3>
+						<div id="content3" style="display:none;">				
+							<ul >
+								<li><a href="/info/info_05_02_01.asp" onMouseOver="pause(1)" onFocus="pause(1)" onMouseOut="play(1)" onBlur="play(1)">외국법인등 납세안내</a></li>
+								<li><a href="/info/info_05_03_01.asp" onMouseOver="pause(1)" onFocus="pause(1)" onMouseOut="play(1)" onBlur="play(1)">해외진출기업 세무안내</a></li>
+								<li><a href="/info/info_05_05_01.asp" onMouseOver="pause(1)" onFocus="pause(1)" onMouseOut="play(1)" onBlur="play(1)">국제조세자료실</a></li>
+								<li><a href="/info/info_05_06_01.asp" onMouseOver="pause(1)" onFocus="pause(1)" onMouseOut="play(1)" onBlur="play(1)">조세조약</a></li>
+							</ul>
+						</div>	
+					<span class="top"><a href="#none" onClick="attachdown1()" onMouseOver="pause(1)" onFocus="pause(1)" onMouseOut="play(1)" onBlur="play(1)"><img src="images/main/btn_top.gif" alt="위로보기"></a> </span> 
+					<span class="down"><a href="#none" onClick="attachup1()" onMouseOver="pause(1)" onFocus="pause(1)" onMouseOut="play(1)" onBlur="play(1)"><img src="images/main/btn_down.gif" alt="아래로보기"></a> </span>
+				</div>
+				<div class="aside_link box">
+					<h3><img src="images/main/h3_tax.gif" alt="주요세금정보바로가기"></h3>
+					<div class="box">	
+					<div id="list1">
+						<ul >
+							<li><a href="/civil/civil_09.asp" onMouseOver="pause(2);SwapImg('link10','tax10_on.gif');" onFocus="pause(2);SwapImg('link10','tax10_on.gif');" onMouseOut="play(2);SwapImg('link10','tax10_off.gif');" onBlur="play(2);SwapImg('link10','tax10_off.gif');">
+							<img src="images/main/tax10_off.gif" alt="고용창출계획서제출" name="link10"></a></li>
+							<li><a href="/tax/tax_10_03.asp" onMouseOver="pause(2);SwapImg('link03','tax03_on.gif');" onFocus="pause(2);SwapImg('link03','tax03_on.gif');" onMouseOut="play(2);SwapImg('link03','tax03_off.gif');" onBlur="play(2);SwapImg('link03','tax03_off.gif');"><img src="images/main/tax03_off.gif"  alt="국세 신용카드 납부" name="link03"></a></li>
+							<!--
+							<li><a href="/Link2.html" onClick="window.open(this.href,'','left=30, top=420, width=250, height=150, scrollbars=no');return false;" onMouseOver="pause(2);SwapImg('link02','tax02_on.gif');" onFocus="pause(2);SwapImg('link02','tax02_on.gif');" onMouseOut="play(2);SwapImg('link02','tax02_off.gif');" onBlur="play(2);SwapImg('link02','tax02_off.gif');">
+							<img src="images/main/tax02_off.gif" alt="국세환급금 찾아주기" name="link02"></a></li>
+							-->
+							<li><a href="/Link.html" onClick="window.open(this.href,'','top=600, left=30, width=250, height=150, scrollbars=no');return false;" onMouseOver="pause(2);SwapImg('link07','tax07_on.gif');" onFocus="pause(2);SwapImg('link07','tax07_on.gif');" onMouseOut="play(2);SwapImg('link07','tax07_off.gif');" onBlur="play(2);SwapImg('link07','tax07_off.gif');"><img src="images/main/tax07_off.gif" alt="사업경영자의 유익한 세금정보" name="link07"></a></li>
+							<li><a href="/linkpopup/linkpopup_2.htm" onClick="window.open(this.href,'','top=50, left=50, width=575, height=728, scrollbars=no');return false;" onMouseOver="pause(2);SwapImg('link06','tax06_on.gif');" onFocus="pause(2);SwapImg('link06','tax06_on.gif');" onMouseOut="play(2);SwapImg('link06','tax06_off.gif');" onBlur="play(2);SwapImg('link06','tax06_off.gif');"><img src="images/main/tax06_off.gif"  alt="모범납세자 우대제도" name="link06"></a></li>
+							<li><a href="/_type3/Tax_Inquiry/Tax_Inquiry.html" onClick="window.open(this.href,'세무조사길라잡이','top=50, left=50, width=700, height=700, scrollbars=no');return false;" onMouseOver="pause(2);SwapImg('link05','tax05_on.gif');" onFocus="pause(2);SwapImg('link05','tax05_on.gif');" onMouseOut="play(2);SwapImg('link05','tax05_off.gif');" onBlur="play(2);SwapImg('link05','tax05_off.gif');"><img src="images/main/tax05_off.gif" alt="세무조사 길라잡이" name="link05"></a></li>
+							<li><a href="/info/info_14_01.asp" onMouseOver="pause(2);SwapImg('link04','tax04_on.gif');" onFocus="pause(2);SwapImg('link04','tax04_on.gif');" onMouseOut="play(2);SwapImg('link04','tax04_off.gif');" onBlur="play(2);SwapImg('link04','tax04_off.gif');"><img src="images/main/tax04_off.gif" alt="세법해석 질의안내" name="link04"></a></li>
+							
+							<li><a href="/menu/popup/popup20090708.htm" onClick="window.open(this.href,'학원부조리신고센터','top=50, left=50, width=410, height=500, scrollbars=no');return false;" onMouseOver="pause(2);SwapImg('link08','tax08_on.gif');" onFocus="pause(2);SwapImg('link08','tax08_on.gif');" onMouseOut="play(2);SwapImg('link08','tax08_off.gif');" onBlur="play(2);SwapImg('link08','tax08_off.gif');"><img src="images/main/tax08_off.gif" alt="학원비부조리 신고센터" name="link08"></a></li>
+							<li><a href="/tax/tax_13.asp?cinfo_key=MINF6720110317160435&amp;menu_a=1400&amp;menu_b=100&amp;flag=13" onMouseOver="pause(2);SwapImg('link09','tax09_on.gif');" onFocus="pause(2);SwapImg('link09','tax09_on.gif');" onMouseOut="play(2);SwapImg('link09','tax09_off.gif');" onBlur="play(2);SwapImg('link09','tax09_off.gif');"><img src="images/main/tax09_off.gif" alt="해외금융계좌 신고" name="link09"></a></li>
+						</ul>
+						<!--
+						<span class="top"><a href="#none" onMouseOver="pause(2)" onFocus="pause(2)" onMouseOut="play(2)" onBlur="play(2)" title="위로 더보기" onClick="attachdown2()"><img src="images/main/btn_up_01.gif" alt="위로 더보기" ></a></span>
+						<span class="down"><a href="#none" onMouseOver="pause(2)" onFocus="pause(2)" onMouseOut="play(2)" onBlur="play(2)" title="아래로 더보기" onClick="attachup2()"><img src="images/main/btn_down_01.gif" alt="아래로 더보기"></a></span>
+						-->
+						</div>
+				   </div>
+			</div><!--aside_link-->	
+			
+			</div><!--//left-->		
+			<div class="center">				
+				<div class="notice">  
+					
+					<!--주요뉴스-->
+					<div id="cont_news">
+	<div id="tab_news1">
+		<h3><a href="/news/news_01.asp" onmouseover="viewContents(1)" onfocus="viewContents(1)"><img src="images/main/notice01_on.gif" alt="주요뉴스"  class="imgover" ></a></h3>
+		<ul id="contents1" >
+			<li>
+			<table cellpadding="0" cellspacing="0" width="100%" style="height:55px;">
+				<tr>
+					<td class="none" valign="top">
+						<span class="img"><img src="http://file.nts.go.kr/wtsnts_upload/MINF8020080220125134/8520120327171654_16.gif" alt="2011년 귀속 기준경비율 및 단순경비율 조..." width="63" height="47"></span>
+						<dl>
+							<dt><a href="http://www.nts.go.kr/news/news_01.asp?minfoKey=MINF7620080211201947&amp;mbsinfoKey=MBS20120327170755360&amp;type=LR"  target=_self >2011년 귀속 기준경비율 및 단순경비율 조...</a></dt>
+							<dd>국세청은 금년 5월 종합소득세 확정신고시 장부를 작성하지 않은 사업자의 소득금액을 계산하는데 적용하는 단순경비율과 기준경비율을 다음과 같이 조정하였다.
+소규모 영세사업자...</dd>
+						</dl>
+					</td>
+				</tr>
+			</table>
+			</li>
+			<li>
+				<table cellpadding="0" cellspacing="0" width="100%">
+					
+					<tr>
+						<td class="n_subject"><a href="/news/news_01.asp?minfoKey=MINF7620080211201947&amp;mbsinfoKey=MBS20120313084517490&amp;type=LR" target=_self>전통시장에서 발급받은 현금영수증 등 소득공제 확대</a></td>
+						<td align="right">2012-03-13</td>
+					</tr>
+					
+					<tr>
+						<td class="n_subject"><a href="/news/news_01.asp?minfoKey=MINF7620080211201947&amp;mbsinfoKey=MBS20120307081053373&amp;type=LR" target=_self>‘국경없는 세금전쟁’드라마 상영 등을 통한 성실납세문화 조성</a></td>
+						<td align="right">2012-03-07</td>
+					</tr>
+					
+				</table>
+			</li>
+		</ul>
+	</div>
+
+
+
+
+
+<div id="tab_news2">
+    <h3><a href="/news/news_06.asp"  onmouseover="viewContents(2)" onfocus="viewContents(2)"><img src="images/main/notice02_off.gif" alt="공지사항"  class="imgover"></a></h3>
+    <ul id="contents2" style="display:none;">
+		<li>
+			<table cellpadding="0" cellspacing="0" width="100%">
+				
+				<tr>
+					<td class="n_subject"><a href="/news/news_06.asp?minfoKey=MINF5320080211205338&amp;mbsinfoKey=MBS20120402133014907&amp;type=LR" >국세청 인사('12.4.3일자 직제개편에 따른 승진·전보)</a></td>
+					<td align="right">2012-04-02</td>
+				</tr>
+				
+				<tr>
+					<td class="n_subject"><a href="/news/news_06.asp?minfoKey=MINF5320080211205338&amp;mbsinfoKey=MBS20120320092108897&amp;type=LR" >제46회 납세자의날 「성실납세 감사」이벤트 당첨자 발표</a></td>
+					<td align="right">2012-03-20</td>
+				</tr>
+				
+				<tr>
+					<td class="n_subject"><a href="/news/news_06.asp?minfoKey=MINF5320080211205338&amp;mbsinfoKey=MBS20120306092554457&amp;type=LR" >일자리창출 기업 등에 대한 세정지원 안내</a></td>
+					<td align="right">2012-03-06</td>
+				</tr>
+				
+				<tr>
+					<td class="n_subject"><a href="/news/news_06.asp?minfoKey=MINF5320080211205338&amp;mbsinfoKey=MBS20120306100514303&amp;type=LR" >세법령 개정 건의 의견제출 안내</a></td>
+					<td align="right">2012-03-06</td>
+				</tr>
+				
+				<tr>
+					<td class="n_subject"><a href="/news/news_06.asp?minfoKey=MINF5320080211205338&amp;mbsinfoKey=MBS20120304133342050&amp;type=LR" >제46회 납세자의 날 수상 모범납세자 소개</a></td>
+					<td align="right">2012-03-05</td>
+				</tr>
+				
+			</table>
+		</li>
+    </ul>
+</div>
+
+
+
+
+	
+<div id="tab_news3">
+    <h3><a href="/news/news_03_01.asp"  onmouseover="viewContents(3)" onfocus="viewContents(3)"><img src="images/main/notice03_off.gif" alt="보도자료" class="imgover" ></a></h3>
+    <ul id="contents3" style="display:none;">
+		<li>
+			<table cellpadding="0" cellspacing="0" width="100%">
+				
+				<tr>
+					<td class="n_subject"><a href="/news/news_03_01.asp?minfoKey=MINF8420080211204826&amp;mbsinfoKey=MBS20120327135345567&amp;type=LR" >2011년 귀속 기준경비율 및 단순경비율 조정</a></td>
+					<td align="right">2012-03-27</td>
+				</tr>
+				
+				<tr>
+					<td class="n_subject"><a href="/news/news_03_01.asp?minfoKey=MINF8420080211204826&amp;mbsinfoKey=MBS20120312132321733&amp;type=LR" >전통시장 사용 현금영수증 등 소득공제 확대</a></td>
+					<td align="right">2012-03-12</td>
+				</tr>
+				
+				<tr>
+					<td class="n_subject"><a href="/news/news_03_01.asp?minfoKey=MINF8420080211204826&amp;mbsinfoKey=MBS20120306145134113&amp;type=LR" >- 제46회 납세자의 날 기념 - 국민과 소통하는 성실납세문화 조...</a></td>
+					<td align="right">2012-03-06</td>
+				</tr>
+				
+				<tr>
+					<td class="n_subject"><a href="/news/news_03_01.asp?minfoKey=MINF8420080211204826&amp;mbsinfoKey=MBS20120305141216270&amp;type=LR" >「제46회 납세자의 날」에 모범납세자 603명 포상</a></td>
+					<td align="right">2012-03-05</td>
+				</tr>
+				
+				<tr>
+					<td class="n_subject"><a href="/news/news_03_01.asp?minfoKey=MINF8420080211204826&amp;mbsinfoKey=MBS20120229114321180&amp;type=LR" >근로장려금! 올해는 이렇게 확대됩니다</a></td>
+					<td align="right">2012-02-29</td>
+				</tr>
+				
+			</table>
+		</li>
+    </ul>
+</div>
+
+
+
+
+
+
+<div id="tab_news4">
+<h3><a href="/news/news_07_01.asp"  onmouseover="viewContents(4)" onfocus="viewContents(4)"><img src="images/main/notice04_off.gif" alt="고시/공고"class="imgover" ></a></h3>
+    <ul id="contents4" style="display:none;">
+		<li>
+			<table cellpadding="0" cellspacing="0" width="100%">
+				
+				<tr>
+					<td class="n_subject"><a href="/news/news_07_01.asp?minfoKey=MINF5320080211205417&amp;mbsinfoKey=MBS20120330141642470&amp;type=LR" >납부대행수수료에 대한 고시</a></td>
+					<td align="right">2012-03-30</td>
+				</tr>
+				
+				<tr>
+					<td class="n_subject"><a href="/news/news_07_01.asp?minfoKey=MINF5320080211205417&amp;mbsinfoKey=MBS20120328101701070&amp;type=LR" >2012년도 국세청 기록관리기준표 고시</a></td>
+					<td align="right">2012-03-28</td>
+				</tr>
+				
+				<tr>
+					<td class="n_subject"><a href="/news/news_07_02.asp?minfoKey=MINF6920080211205430&amp;mbsinfoKey=MBS20120323165516723&amp;type=LR" >국세청 일반계약직공무원 경력경쟁채용 공고</a></td>
+					<td align="right">2012-03-23</td>
+				</tr>
+				
+				<tr>
+					<td class="n_subject"><a href="/news/news_07_02.asp?minfoKey=MINF6920080211205430&amp;mbsinfoKey=MBS20120323163748700&amp;type=LR" >주류제조관리사 자격시험에 관한 공고</a></td>
+					<td align="right">2012-03-23</td>
+				</tr>
+				
+				<tr>
+					<td class="n_subject"><a href="/news/news_07_02.asp?minfoKey=MINF6920080211205430&amp;mbsinfoKey=MBS20120316111754667&amp;type=LR" >2012년 기간제 근로자 채용 공고(기획조정관실)</a></td>
+					<td align="right">2012-03-16</td>
+				</tr>
+				
+			</table>
+		</li>
+    </ul>
+</div>
+
+
+
+
+<div id="tab_news5">
+    <h3><a href="/news/news_08_02.asp" onmouseover="viewContents(5)" onfocus="viewContents(5)"><img src="images/main/notice05_off.gif" alt="행정예고" class="imgover"></a></h3>
+    <ul id="contents5" style="display:none;">
+		<li>
+			<table cellpadding="0" cellspacing="0" width="100%">
+				
+				<tr>
+					<td class="n_subject"><a href="/news/news_08_02.asp?minfoKey=MINF6720080211205648&amp;mbsinfoKey=MBS20120329134945017&amp;type=LR" >해외금융계좌 신고의무 위반행위에 관한 제보 처리 및 포상금 지...</a></td>
+					<td align="right">2012-03-29</td>
+				</tr>
+				
+				<tr>
+					<td class="n_subject"><a href="/news/news_08_02.asp?minfoKey=MINF6720080211205648&amp;mbsinfoKey=MBS20120323113933033&amp;type=LR" >매입비용·임차료의 범위와 증명서류의 종류 고시(안) 행정예고</a></td>
+					<td align="right">2012-03-23</td>
+				</tr>
+				
+				<tr>
+					<td class="n_subject"><a href="/news/news_08_02.asp?minfoKey=MINF6720080211205648&amp;mbsinfoKey=MBS20120315214846083&amp;type=LR" >종합소득세 전자신고시 제출기한을 연장하는 서류 고시개정(안) ...</a></td>
+					<td align="right">2012-03-16</td>
+				</tr>
+				
+				<tr>
+					<td class="n_subject"><a href="/news/news_08_02.asp?minfoKey=MINF6720080211205648&amp;mbsinfoKey=MBS20120308130906387&amp;type=LR" >근로장려금 신청자격 확인을 위한 임차주택 전세금 평가방법 고...</a></td>
+					<td align="right">2012-03-08</td>
+				</tr>
+				
+				<tr>
+					<td class="n_subject"><a href="/news/news_08_03.asp?minfoKey=MINF8920080211205703&amp;mbsinfoKey=MBS20120305144501443&amp;type=LR" >조세범처벌법상 과태료 양정규정 개정(안) 행정예고</a></td>
+					<td align="right">2012-03-05</td>
+				</tr>
+				
+			</table>
+		</li>
+    </ul>
+<span class="more" ><a href="#none" onclick="moreContent()"><img src="images/main/btn_more.gif" alt="더보러가기"></a></span>
+</div>
+
+
+
+</div>
+				</div><!--//notice-->
+
+				<div class="aside_link1">
+					<ul>
+						<!-- <li class="mr10"><a href="/about/about_01_11.asp"><img src="images/main/aside01.gif" alt="세미래콜센터126 사이트 바로가기"></a></li> -->
+						<li class="mr10"><a href="/true/beautiful.html" onClick="window.open(this.href,'','left=20, top=20, width=870, height=700, scrollbars=yes');return false;"><img src="images/main/aside06.gif" alt="2012 아름다운 납세자"></a></li>
+						<li><a href="/info/info_07_05.asp"><img src="images/main/aside02_01.gif" alt="고액ㆍ상습체납자 명단공개"></a></li>
+					</ul>
+				</div><!--//aside_link-->
+				<div class="box" style="height:35px; width:470px; margin-top:7px;"><a href="/about/about_01_11.asp"><img src="images/main/aside07.gif" alt="세미래콜센터126 국세관련 모든 상담은 국번없이 126 전국 어디서나 편리하게 상담받으세요"></a></div>
+				<div class="hits_box box" style="margin-top:8px;">
+					<ul>
+						<li><a href="/cal/cal_check_02.asp"><img src="images/main/hits01.gif" alt="사업자과세 유형,휴폐업"></a></li>
+						<li><a href="/cal/cal_01_01.asp"><img src="images/main/hits02.gif" alt="기준시가"></a></li>
+						<li><a href="/cal/cal_05.asp"><img src="images/main/hits03.gif" alt="연말정산자동계산"></a></li>
+						<li><a href="/cal/cal_06.asp"><img src="images/main/hits04.gif" alt="근로소득간이세액표"></a></li>
+						<li><a href="/cal/cal_04_01.asp"><img src="images/main/hits05.gif" alt="기준경비율,표준소득률"></a></li>
+						<li class="none"><a href="/wtsnts_inc/jxstart.asp?ReturnNo=1&amp;Depth1=300&amp;Depth2=700&amp;Depth3=0&amp;Depth4=0"><img src="images/main/hits06.gif" alt="국세환급금 찾기"></a></li>
+					</ul>
+				</div>
+				<!-- 
+				<div class="hits_box box">
+					<h4><a href="/cal/cal_01_01.asp"><img src="images/main/h4_hits.gif" alt="조회와계산"></a></h4>
+					<ul>
+						<li><a href="/cal/cal_check_02.asp"><img src="images/main/hits01.gif" alt="사업자과세 유형,휴폐업"></a></li>
+						<li><a href="/cal/cal_01_01.asp"><img src="images/main/hits02.gif" alt="기준시가"></a></li>
+						<li><a href="/cal/cal_05.asp"><img src="images/main/hits03.gif" alt="연말정산자동계산"></a></li>
+						<li><a href="/cal/cal_06.asp"><img src="images/main/hits04.gif" alt="근로소득간이세액표"></a></li>
+						<li><a href="/cal/cal_04_01.asp"><img src="images/main/hits05.gif" alt="기준경비율,표준소득률"></a></li>
+						<li class="none"><a href="/wtsnts_inc/jxstart.asp?ReturnNo=1&amp;Depth1=300&amp;Depth2=700&amp;Depth3=0&amp;Depth4=0"><img src="images/main/hits06.gif" alt="국세환급금 찾기"></a></li>
+					</ul>
+				</div>
+				 --><!--hits_box-->
+
+				<div class="aside_link1">
+					<ul>
+						<li class="mr10"><a href="/site/site_05.asp"><img src="images/main/aside03_01.gif" alt="모바일국세청"></a><a href="http://blog.naver.com/ntscafe" target="_blank" title="새창열림"><img src="images/main/aside03_02.gif" alt="국세청블로그"></a></li>
+						<li><a href="http://twitter.com/#!/ntskorea" target="_blank" title="새창열림"><img src="images/main/aside04_01.gif" alt="국세청 트위터 사이트 바로가기"></a><a href="http://www.facebook.com/ntsKorea" target="_blank" title="새창열림"><img src="images/main/aside04_02.gif" alt="국세청 페이스북 사이트 바로가기"></a></li>
+					</ul>
+				</div><!--//aside_link-->
+
+				
+			</div><!--//center-->   
+			<!-- 팝업존 -->
+			<div class="right">
+		<!-- 이미지 들어가는 부분 -->
+	
+			<div class="popup_box box">
+			<div class="pupup">	
+			
+						<ul id="pop1" style="display:block;" >
+							<li class="img"><a href="/civil/civil_09.asp" target=_self title="새창열림"><img src="http://file.nts.go.kr/wtsnts_upload/popupzone20120306.jpg" alt="고용창출계획서제출 일자리 창출 기업 등에 대한 세정" width="210" height="120"></a></li>
+						</ul>
+				
+						<ul id="pop2" style="display:none;" >
+							<li class="img"><a href="/news/news_06.asp?minfoKey=MINF5320080211205338&amp;mbsinfoKey=MBS20120304133342050&amp;type=LR" target=_self title="새창열림"><img src="http://file.nts.go.kr/wtsnts_upload/popupzone20120305.jpg" alt="제46회 납세자의 날 모범납세자 소개" width="210" height="120"></a></li>
+						</ul>
+				
+						<ul id="pop3" style="display:none;" >
+							<li class="img"><a href="/civil/civil_epeople_09.asp" target=_self title="새창열림"><img src="http://file.nts.go.kr/wtsnts_upload/popupzone20101004-1.jpg" alt="청렴한 국세청 감사관 Hot-line" width="210" height="120"></a></li>
+						</ul>
+				
+				</div>
+				<div class="list">
+					<ol>
+																		
+							<li><a href="#none" onClick="PopCon('1')" onMouseOver="pause(4)" onFocus="pause(4)" onMouseOut="play(4)" onBlur="play(4)"><img id="popicon1" name="popicon1" src="/images/main/1_on.gif" alt="1번팝업"></a></li>
+																		
+							<li><a href="#none" onClick="PopCon('2')" onMouseOver="pause(4)" onFocus="pause(4)" onMouseOut="play(4)" onBlur="play(4)"><img id="popicon2" name="popicon2" src="/images/main/2_off.gif" alt="2번팝업"></a></li>
+																		
+							<li><a href="#none" onClick="PopCon('3')" onMouseOver="pause(4)" onFocus="pause(4)" onMouseOut="play(4)" onBlur="play(4)"><img id="popicon3" name="popicon3" src="/images/main/3_off.gif" alt="3번팝업"></a></li>
+						
+					</ol>
+					<ul>
+						<li><a href="#none" onClick=""><img src="images/main/btn_prev.gif" alt="이전" onClick="PopCon('P')"></a></li>
+						<li><a href="#none"><img src="images/main/btn_stop.gif" alt="멈춤" onClick="pause(4)"></a></li>							
+						<li><a href="#none"><img src="images/main/btn_play.gif" alt="시작" onClick="play(4)"></a></li>
+						<li><a href="#none" onClick=""><img src="images/main/btn_next.gif" alt="다음" onClick="PopCon('N')"></a></li>
+						</ul>
+				</div>										
+			</div>			
+				<div class="family_link box">
+					<h4><img src="images/main/h4_familysite.gif" alt="패밀리사이트"></h4>
+					<ul>
+						<li class="mr6"><a href="http://call.nts.go.kr/" target="_blank" title="새창열림"><img src="images/main/family01.gif" alt="국세청고객만족센터"></a></li>
+						<li><a href="http://www.hometax.go.kr/" target="_blank" title="새창열림"><img src="images/main/family02.gif" alt="홈택스"></a></li>
+						<li class="mr6"><a href="http://www.taxsave.go.kr/" target="_blank" title="새창열림"><img src="images/main/family03.gif" alt="현금영수증"></a></li>
+						<li><a href="http://www.eitc.go.kr/" target="_blank" title="새창열림"><img src="images/main/family04.gif" alt="근로장려세제"></a></li>
+						<li class="mr6"><a href="http://taxinfo.nts.go.kr/index.jsp" target="_blank"title="새창열림"><img src="images/main/family05.gif" alt="국세법령정보시스템"></a></li>
+						<li><a href="http://www.esero.go.kr/" target="_blank" title="새창열림"><img src="images/main/family06.gif" alt="전자세금계산서"></a></li>
+						<li class="mr6"><a href="http://www.yesone.go.kr/" target="_blank" title="새창열림"><img src="images/main/family07.gif" alt="연말정산간소화"></a></li>
+						<li><a href="http://www.yesone.go.kr/call/" target="_blank" title="새창열림"><img src="images/main/family08.gif" alt="연말정산맨투맨상담"></a></li>
+						<li class="mr6"><a href="http://npoinfo.nts.go.kr/" target="_blank" title="새창열림"><img src="images/main/family09.gif" alt="공익법인 공시시스템"></a></li>
+						<li><a href="http://www.icl.go.kr/" target="_blank" title="새창열림"><img src="images/main/family10.gif" alt="취업후 학자금 상환"></a></li>
+					</ul>			   
+				</div><!--//family_link-->
+								
+				
+				<div class="banner box">
+					<h5 ><img src="images/main/h5_banner.gif" alt="베너존"></h5>								
+					<div id="scroll_div"></div>
+					<span class="prev"><a href="#none"onclick="scroll_ch1(1)"><img src="images/main/btn_prev1.gif" alt="이전"></a></span>
+					<span class="next"><a href="#none" onClick="scroll_ch1(2)"><img src="images/main/btn_next1.gif" alt="다음"></a></span>
+					<span class="play">
+						<a href="#none" title="멈춤"><img src="images/main/btn_stop.gif" alt="멈춤" onClick="pause(3)"></a>
+						<a href="#none" title="재생"><img src="images/main/btn_play.gif" alt="재생" onClick="play(3)"></a>
+					</span>	
+					
+					<span class="more">
+						<a href="/popup/banner_index/banner_01.html" target="_blank" title="새창으로열림" onClick="openPopup(this.href, { width:720, height:620, scroll:1, name:'total11_title1' }); return false;"><img src="images/main/btn_more1.gif" alt="전체보기"></a> 
+					</span>
+				</div>
+			</div><!--//right-->
+		</div><!--//container-->
+	 </div><!--//wrap-->
+	<hr>
+	<img src="/count.asp" border="0" style="width:0px; height:0px;" alt="메인 카운터">
+	<div class="footer_wrap" style="width:100%;">
+		<div id="footer">
+			<h6><img src="images/main/footer_logo.gif" alt="국세청로고"></h6>
+			<ul>
+				<li><a href="/site/site_01.asp"><img src="/images/main/footer01.gif" alt="홈페이지 도우미"></a></li>
+				<li><a href="/site/site_01_04.asp"><img src="/images/main/footer02.gif" alt="홈페이지 이용 불편 신고"></a></li>
+				<li><a href="/about/about_04_01.asp"><img src="/images/main/footer03.gif" alt="관련기관 안내"></a></li>
+				<li><a href="/about/popup/popup_about_01_03_01_info.html#tel" onclick="window.open(this.href,'','left=20, top=35,scrollbars=yes,menubar=no,width=717,height=600');return false;"><img src="/images/main/footer04.gif" alt="전화번호 안내"></a></li>
+				<li><a href="/about/about_01_09.asp"><img src="/images/main/footer05.gif" alt="찾아오시는 길"></a></li>
+				<li><a href="/popup/policy/policy_01.html" onclick="window.open(this.href,'','left=20, top=35,scrollbars=yes,menubar=no,width=717,height=610');return false;"><img src="/images/main/footer06.gif" alt="개인정보번호"></a></li>
+				<li><a href="/popup/copy/copy_01.html" onclick="window.open(this.href,'','left=20, top=35,scrollbars=yes,menubar=no,width=717,height=630');return false;"><img src="/images/main/footer07.gif" alt="저작권정책"></a></li>
+				<li><a href="/about/about_02_03.asp"><img src="/images/main/footer08.gif" alt="국세공무원행동강령"></a></li>
+				<li><a href="mainInc/RssView.asp" target="_blank" title="새창으로열림" onClick="openPopup(this.href, { width:716, height:640, scroll:1, name:'total11_title1' }); return false;"><img src="/images/main/footer_rss.gif" alt="Rss 2.0"></a></li>
+			</ul>
+			<address><img src="images/main/footer_address.gif" alt="서울특별시 종로구 종로5길 86(수송동) 우편번호110-705 대표전화:국번없이 126"></address>
+		</div><!--//footer-->
+	 </div><!--//footer_wrap-->
+	
+	<!--div id="reSizeDiv" style="position:absolute;top:265px;left:36%;display:block; z-index:0">
+		<img src="/images/popupzone/popuplayer_20120305.jpg" alt="제46회 납세자의날 성실납세 감사이벤트 | 응모기간 : 2012. 3. 5(월) ~ 3. 18(일)" border="0" usemap="#event">
+	</div-->
+	
+	<map name="event">
+		<area shape="rect" coords="279, 2, 293, 15" href="javascript:div_close()" alt="닫기">
+		<area shape="rect" coords="189, 85, 287, 108" href="/news/news_06.asp?minfoKey=MINF5320080211205338&amp;mbsinfoKey=MBS20120302143124150&amp;type=LR" alt="자세히 보기">
+	</map> 
+	
+		
+	<script type="text/javascript">
+	//setTimeout("reSizeCheck()", 1000);
+	function div_close()
+	{
+		if (document.getElementById("reSizeDiv") != undefined)
+		{
+			document.getElementById("reSizeDiv").style.display = "none";
+		}
+		
+	}
+
+	function div_open()
+	{
+		if (document.getElementById("reSizeDiv") != undefined)
+		{
+			document.getElementById("reSizeDiv").style.display = "block";
+		}
+	}
+
+	function reSizeCheck()
+	{
+		var offSize = document.body.offsetWidth;
+		if(offSize < 1240)
+			document.getElementById("reSizeDiv").style.display = "none";
+		else
+			document.getElementById("reSizeDiv").style.display = "block";
+		setTimeout("reSizeCheck()", 1000);
+	}
+</script>
+</body>
+</html>
