@@ -1,25 +1,25 @@
 {
-  "law_id": "2200000092329",
-  "mst": "2200000092329",
+  "law_id": "2200000102907",
+  "mst": "2200000102907",
   "law_name": "미등기 건물의 처분제한등기에 관한 업무처리지침",
   "law_abbr": "",
   "law_type": "등기예규",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
-  "adm_uid": "admrul:2200000092329",
-  "promulgation_no": "1065",
-  "promulgation_date": "20021101",
-  "enforcement_date": "99991231",
-  "revision_date": "20021101",
+  "adm_uid": "admrul:2200000102907",
+  "promulgation_no": "1469",
+  "promulgation_date": "20120629",
+  "enforcement_date": "20120629",
+  "revision_date": "20120629",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "대법원(대법원)",
     "담당자명": "",
     "행정규칙종류코드": "B0014",
     "행정규칙명": "미등기 건물의 처분제한등기에 관한 업무처리지침",
-    "발령일자": "20021101",
+    "발령일자": "20120629",
     "행정규칙종류": "등기예규",
     "제개정구분코드": "200403",
     "조문형식여부": "N",
@@ -29,14 +29,14 @@
     "소관부처코드": "9740000",
     "생성일자": "20241125",
     "행정규칙ID": "2114349",
-    "시행일자": "99991231",
+    "시행일자": "20120629",
     "담당부서기관코드": "",
-    "발령번호": "1065",
-    "행정규칙일련번호": "2200000092329",
+    "발령번호": "1469",
+    "행정규칙일련번호": "2200000102907",
     "상위부처명": "대법원"
   },
   "amendment_text": "",
-  "revision_reason": "2002. 11. 1.부터 시행되는 상가건물임대차보호법 중 관련 내용을 예규에 반영하고자 함.",
+  "revision_reason": "",
   "body": {
     "format": "articles",
     "article_count": 1,
@@ -45,9 +45,69 @@
         "article_no": "전문",
         "article_title": "",
         "chapter": "",
-        "content": "1. 미등기건물에 대하여 집행법원으로부터 처분제한의 등기촉탁이 있는 경우 다음 각 호에 서면을 첨부한 때에 한하여 그 건물에 대한 소유권보존등기를 하고 처분제한에 의하여 소유권의 등기를 한다는 뜻을 기록한다.가. 소유자의 주소 및 주민등록번호(부동산등기용등록번호)를 증명하는 서면나. 집행법원에서 인정한 건물의 소재와 지번·구조·면적을 증명하는 서면. 단, 구분건물의 일부 건물에 대한 처분제한의 등기촉탁 의 경우에는 1동 건물의 전부에 대한 구조·면적을 증명하는 서면 및 1동 건물의 소재도, 각 층의 평면도와 구분한 건물의 평면도를 첨부 하여야 한다.2. 위 1. 나. 단서와 같이 1동 건물의 일부 구분건물에 대하여 처분제한등기 촉탁이 있는 경우 등기관은 처분제한의 목적물인 구분건물의 소유권보존등기와 나머지 구분건물의 표시에 관한 등기를 하여야 한다.3. 처분제한등기촉탁서에 건축법상 사용승인을 받아야할 건물로서 사용승인을 받지 않았다는 취지가 기재된 등기촉탁이 있는 경우에는 별지 1. 기재례와 같이 등기하고, 이 후 사용승인이 이루어져 위 등기의 말소등기신청이 있는 경우에는 별지 2. 기재례와 같이 등기한다.4. 위와 같은 처분제한등기의 촉탁에 의하여 등기관이 직권으로 소유권보존등기를 완료한 때에는 등기권리자에게 할 등기필의 통지와 지방세법 제151조의2의 규정에 의한 등록세미납통지를 누락하지 않도록 한다.5. 이후 동일 지상에 다시 건물에 관한 소유권보존등기신청이 있는 경우에는 건물의 소재도 등 등기된 건물과 동일성이 인정되지 아니함을 소명하는 서면의 제출이 있는 경우에 한하여 등기한다.6. 위 집행법원의 처분제한의 등기에는 경매개시결정의 등기, 가압류등기, 처분금지가처분등기 뿐만 아니라 회사정리절차개시결정·화의개시결정(보전처분 포함)의 기입등기 및 주택임차권등기 및 상가건물임차권등기가 포함된다.",
+        "content": "1. 미등기건물에 대하여 법원으로부터 처분제한의 등기촉탁이 있는 경우 다음 각 호의 정보를 첨부정보로서 제공한 때 한하여 그 건물에 대한 소유권보존등기를 하고 처분제한에 의하여 소유권의 등기를 한다는 뜻을 기록한다.가. 소유자의 주소 및 주민등록번호(부동산등기용등록번호)를 증명하는 정보나. 법원에서 인정한 건물의 소재와 지번·구조·면적을 증명하는 정보. 단, 구분건물의 일부 건물에 대한 처분제한의 등기촉탁의 경우에는 1동 건물의 전부에 대한 구조·면적을 증명하는 정보 및 1동 건물의 소재도, 각 층의 평면도와 구분한 건물의 평면도를 첨부정보로서 등기소에 제공하여야 한다. (건물의 표시를 증명하는 정보로서 건축물대장 정보를 등기소에 제공한 경우에는 도면을 제공할 필요가 없음)2. 위 1. 나. 단서와 같이 1동 건물의 일부 구분건물에 대하여 처분제한등기 촉탁이 있는 경우 등기관은 처분제한의 목적물인 구분건물의 소유권보존등기와 나머지 구분건물의 표시에 관한 등기를 하여야 한다.3. 처분제한등기촉탁서에 건축법상 사용승인을 받아야 할 건물로서 사용승인을 받지 않았다는 뜻이 기록된 등기촉탁이 있는 경우에는 별지 1. 기록례주)와 같이 등기하고, 이 후 사용승인이 이루어져 위 등기의 말소등기신청이 있는 경우에는 별지 2. 기록례주)와 같이 등기한다.4. 위와 같은 처분제한등기의 촉탁에 의하여 등기관이 직권으로 소유권보존등기를 마쳤을 때에는 등기권리자에게 할 등기완료통지와 지방세법 제33조의 규정에 의한 등록면허세미납통지를 누락하지 않도록 한다.5. 이후 동일 지상에 다시 건물에 관한 소유권보존등기신청이 있는 경우에는 건물의 소재도 등 등기된 건물과 동일성이 인정되지 아니함을 소명하는 서면의 제출이 있는 경우에 한하여 등기한다.6. 위 법원의 처분제한의 등기에는 경매개시결정의 등기, 가압류등기, 처분금지가처분등기 뿐만 아니라 회생절차개시결정ㆍ파산선고(보전처분 포함)의 기입등기 및 주택임차권등기 및 상가건물임차권등기가 포함된다.주 : 위 기록례는 부동산등기기재례집 제10항, 제11항 참조",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "별지 1",
+            "line_text": "",
+            "target_law_name": "미등기 건물의 처분제한등기에 관한 업무처리지침",
+            "target_article_no": "별지1",
+            "target_article_title": "",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": false,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000102907&bylNo=&bylBrNo=",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:미등기건물의처분제한등기에관한업무처리지침#DOC",
+            "reference_id": "admrul:미등기건물의처분제한등기에관한업무처리지침#BJ0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "별지 2",
+            "line_text": "",
+            "target_law_name": "미등기 건물의 처분제한등기에 관한 업무처리지침",
+            "target_article_no": "별지2",
+            "target_article_title": "",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": false,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000102907&bylNo=&bylBrNo=",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:미등기건물의처분제한등기에관한업무처리지침#DOC",
+            "reference_id": "admrul:미등기건물의처분제한등기에관한업무처리지침#BJ0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "제33조",
+            "line_text": "",
+            "target_law_name": "지방세법",
+            "target_article_no": "제33조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/지방세법/제33조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:미등기건물의처분제한등기에관한업무처리지침#DOC",
+            "reference_id": "law:지방세법#JO0033"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:미등기건물의처분제한등기에관한업무처리지침#DOC"
       }
@@ -55,25 +115,32 @@
   },
   "addenda": [
     {
-      "promulgation_date": "20021101",
-      "promulgation_no": "1065",
-      "content": "부   칙(2002. 11. 1. 등기예규 제1065호)(시행일) 이 예규는 2002. 11. 1.부터 시행한다."
+      "promulgation_date": "99991231",
+      "promulgation_no": "9997",
+      "content": "부  칙(2012. 6. 29. 등기예규 제1469호)이 예규는 즉시 시행한다."
+    },
+    {
+      "promulgation_date": "99991231",
+      "promulgation_no": "9998",
+      "content": "부  칙(2002. 11. 1. 등기예규 제1065호)이 예규는 2002. 11. 1.부터 시행한다."
     },
     {
       "promulgation_date": "99991231",
       "promulgation_no": "9999",
-      "content": "부    칙① (시행일) 이 예규는 2002. 7. 1.부터 시행한다.② (다른 예규의 폐지) 미등기부동산에 대한 가압류·가처분 등기촉탁과 첨부서면(등기예규 제153호), 미등기인 1동 건물의 일부 구분건물에 대한 소유권의 처분제한의 등기촉탁이 있는 경우(등기예규 제603호)를 각 폐지한다."
+      "content": "부  칙1. (시행일) 이 예규는 2002. 7. 1.부터 시행한다.2. (다른 예규의 폐지) 미등기부동산에 대한 가압류ㆍ가처분 등기촉탁과 첨부서면( 등기예규 제153호), 미등기인 1동 건물의 일부 구분건물에 대한 소유권의 처분제한의 등기촉탁이 있는 경우( 등기예규 제603호)를 각 폐지한다."
     }
   ],
   "appendices": [],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 1,
+    "relations_total": 3,
     "by_category": {
+      "별지": 2,
       "법령": 1
     },
     "by_relation_type": {
+      "appendix_ref": 2,
       "citation": 1
     },
     "articles_total": 1,
@@ -81,13 +148,12 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 2,
-    "appendices_count": 2,
+    "addenda_count": 3,
+    "appendices_count": 0,
     "attachments_count": 0
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/미등기 건물의 처분제한등기에 관한 업무처리지침"
   },
-  "provision_id": "admrul:미등기건물의처분제한등기에관한업무처리지침#DOC",
-  "is_future": false
+  "provision_id": "admrul:미등기건물의처분제한등기에관한업무처리지침#DOC"
 }
