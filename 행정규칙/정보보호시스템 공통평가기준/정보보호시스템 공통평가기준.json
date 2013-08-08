@@ -1,0 +1,248 @@
+{
+  "law_id": "2000000098408",
+  "mst": "2000000098408",
+  "law_name": "정보보호시스템 공통평가기준",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2000000098408",
+  "promulgation_no": "2013-51",
+  "promulgation_date": "20130808",
+  "enforcement_date": "20130808",
+  "revision_date": "20130808",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "과학기술정보통신부(정보보호산업과)",
+    "담당자명": "",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "정보보호시스템 공통평가기준",
+    "발령일자": "20130808",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "미래창조과학부",
+    "전화번호": "044-202-6455",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1721000",
+    "생성일자": "20200824",
+    "행정규칙ID": "2001179",
+    "시행일자": "20130808",
+    "담당부서기관코드": "",
+    "발령번호": "2013-51",
+    "행정규칙일련번호": "2000000098408",
+    "상위부처명": "과학기술정보통신부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정이유\nㅇ정부조직개편으로 인한 소관 부처 변경\n◇ 주요내용\nㅇ「정부조직법」개정(2013.3.23) 및「미래창조과학부와 그 소속기관 직제」제정(2013.3.23)에 따른 소관 부처 명칭 변경",
+  "body": {
+    "format": "articles",
+    "article_count": 5,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 기준은 「국가정보화 기본법」 제38조제1항 및 동법 시행령 제35조의 규정에 의하여 정보보호시스템을 평가하기 위한 요구사항에 대해 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제38조제1항",
+            "line_text": "",
+            "target_law_name": "국가정보화 기본법",
+            "target_article_no": "제38조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가정보화 기본법/제38조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정보보호시스템공통평가기준#JO0001",
+            "reference_id": "law:국가정보화기본법#JO0038"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "동법 시행령",
+            "line_text": "",
+            "target_law_name": "국가정보화 기본법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가정보화 기본법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정보보호시스템공통평가기준#JO0001",
+            "reference_id": "law:국가정보화기본법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제35조",
+            "line_text": "",
+            "target_law_name": "국가정보화 기본법 시행령",
+            "target_article_no": "제35조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가정보화 기본법 시행령/제35조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정보보호시스템공통평가기준#JO0001",
+            "reference_id": "law:국가정보화기본법시행령#JO0035"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:정보보호시스템공통평가기준#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적용 범위",
+        "chapter": "",
+        "content": "제2조(적용 범위) 이 기준은「국가정보화 기본법」제38조제1항 및 동법 시행령 제35조에서 규정한 정보보호시스템을 평가하는 데 적용한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제38조제1항",
+            "line_text": "",
+            "target_law_name": "국가정보화 기본법",
+            "target_article_no": "제38조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가정보화 기본법/제38조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정보보호시스템공통평가기준#JO0002",
+            "reference_id": "law:국가정보화기본법#JO0038"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "동법 시행령",
+            "line_text": "",
+            "target_law_name": "국가정보화 기본법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가정보화 기본법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정보보호시스템공통평가기준#JO0002",
+            "reference_id": "law:국가정보화기본법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제35조",
+            "line_text": "",
+            "target_law_name": "국가정보화 기본법 시행령",
+            "target_article_no": "제35조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가정보화 기본법 시행령/제35조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정보보호시스템공통평가기준#JO0002",
+            "reference_id": "law:국가정보화기본법시행령#JO0035"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:정보보호시스템공통평가기준#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "용어 정의",
+        "chapter": "",
+        "content": "제3조(용어 정의) 이 기준에서 사용하는 용어의 정의는 다음과 같다.1. 삭제2. 삭제3. 삭제4. 삭제5. 삭제6. 삭제7. \"엘리먼트\"라 함은 컴포넌트를 구성하는 분할할 수 없는 보안요구사항의 최소 단위를 말한다.8. \"컴포넌트\"라 함은 보호프로파일, 보안목표명세서에 포함될 수 있는 보안요구사항의 가장 작은 선택 단위로서 엘리먼트의 모음을 말한다.9. \"패밀리\"라 함은 같은 보안목적을 가지지만 강조점이나 엄격함이 서로 다른 컴포넌트의 모음을 말한다.10. \"클래스\"라 함은 같은 보안목적을 가지는 패밀리의 모음을 말한다.11. \"보호프로파일\"이라 함은 평가대상 범주를 위한 특정 소비자의 요구에 부합하는 구현에 독립적인 보안요구사항의 집합을 말한다.12. \"보안목표명세서\"라 함은 식별된 평가대상의 평가를 위한 근거로 사용되는 보안요구사항과 구현 명세의 집합을 말한다.13. \"평가보증등급\"이라 함은 공통평가기준에서 미리 정의된 보증수준을 가지는 보증 컴포넌트로 이루어진 패키지를 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:정보보호시스템공통평가기준#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "평가기준 구조",
+        "chapter": "",
+        "content": "제4조(평가기준 구조) 공통평가기준은 별첨과 같이 총 3부로 구성된다.1. 1부는 정보보호시스템 보안성 평가의 원칙과 일반개념을 정의하고 평가의 일반적인 모델을 설명하는 소개부분으로, IT 보안목적을 표현하고 IT 보안요구사항을 선택·정의하며, 제품 및 시스템의 상위수준 명세를 작성하기 위한 구조를 소개한다.2. 2부는 보안기능요구사항을 표준화된 방법으로 표현한 것으로 기능 컴포넌트들의 집합으로 구성되며, 기능 클래스, 기능 패밀리, 기능 컴포넌트로 분류된다.3. 3부는 보증요구사항을 표준화된 방법으로 표현한 것으로 보증 컴포넌트들의 집합으로 구성되고, 보증 클래스, 보증 패밀리, 보증 컴포넌트로 분류되며, 보호프로파일 및 보안목표명세서에 대한 평가기준을 정의한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:정보보호시스템공통평가기준#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "평가보증등급",
+        "chapter": "",
+        "content": "제5조(평가보증등급) ①정보보호제품의 보증수준을 정하기 위한 공통평가기준에서 미리 정의된 보증등급으로, EAL1, EAL2, EAL3, EAL4, EAL5, EAL6, EAL7의 7개의 등급으로 구분된다. EAL1은  최저의 평가보증등급이고, EAL7은 최고의 평가보증등급이다.②기존의 평가보증등급에 포함되지 않은 보증 컴포넌트나 계층적으로 더 높은 다른 보증 컴포넌트를 포함하여 제1항에 명시된 평가보증등급 외의 등급을 생성할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:정보보호시스템공통평가기준#JO0005"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20080716",
+      "promulgation_no": "2008-26",
+      "content": "부칙 <제2008-26호,2008. 7. 16.>이 기준은 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20090901",
+      "promulgation_no": "2009-52",
+      "content": "부칙 <제2009-52호,2009. 9. 1.>이 기준은 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20130808",
+      "promulgation_no": "2013-51",
+      "content": "부칙 <제2013-51호,2013. 8. 8.>이 기준은 고시한 날부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "[고시]미래창조과학부고시제2013-51호(정보보호시스템_공통평가기준).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=14797384",
+      "file_store_url": "",
+      "filename": "[고시]미래창조과학부고시제2013-51호(정보보호시스템_공통평가기준).hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 6,
+    "by_category": {
+      "법령": 6
+    },
+    "by_relation_type": {
+      "citation": 6
+    },
+    "articles_total": 5,
+    "articles_with_relations": 2,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 3,
+    "appendices_count": 0,
+    "attachments_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/정보보호시스템 공통평가기준"
+  },
+  "provision_id": "admrul:정보보호시스템공통평가기준#DOC"
+}
