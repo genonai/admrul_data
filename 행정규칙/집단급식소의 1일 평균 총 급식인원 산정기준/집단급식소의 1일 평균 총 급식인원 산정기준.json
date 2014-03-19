@@ -1,0 +1,209 @@
+{
+  "law_id": "2200000002181",
+  "mst": "2200000002181",
+  "law_name": "집단급식소의 1일 평균 총 급식인원 산정기준",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2200000002181",
+  "promulgation_no": "2014-38",
+  "promulgation_date": "20140319",
+  "enforcement_date": "20140319",
+  "revision_date": "20140319",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "기후에너지환경부(생활폐기물과)",
+    "담당자명": "",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "집단급식소의 1일 평균 총 급식인원 산정기준",
+    "발령일자": "20140319",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200401",
+    "조문형식여부": "Y",
+    "소관부처명": "기후에너지환경부",
+    "전화번호": "044-201-7422",
+    "제개정구분명": "제정",
+    "소관부처코드": "1482000",
+    "생성일자": "20180517",
+    "행정규칙ID": "2069445",
+    "시행일자": "20140319",
+    "담당부서기관코드": "",
+    "발령번호": "2014-38",
+    "행정규칙일련번호": "2200000002181",
+    "상위부처명": "기후에너지환경부"
+  },
+  "amendment_text": "",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 3,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 고시는 「폐기물관리법」시행령 제8조의4제1호에 따른 집단급식소의 1일 평균 총 급식인원을 산정하기 위하여 필요한 방법을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제8조의4제1호",
+            "line_text": "",
+            "target_law_name": "폐기물관리법 시행령",
+            "target_article_no": "제8조의4",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/폐기물관리법 시행령/제8조의4",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:집단급식소의1일평균총급식인원산정기준#JO0001",
+            "reference_id": "law:폐기물관리법시행령#JO0008_04"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:집단급식소의1일평균총급식인원산정기준#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "산정기준",
+        "chapter": "",
+        "content": "제2조(산정기준) 집단급식소에서의 1일 평균 총 급식인원은 식품위생법 제88조 및 같은 법 시행규칙 제94조제1항에 따른 ‘집단급식소 설치·운영 신고서(별지 제68호서식)’의 1일 급식인원 항목의 총합으로 산정한다.※예시 : 아침(30인), 점심(40인), 저녁(50인) 인 경우, 1일 평균 총 급식인원은 120명",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제88조",
+            "line_text": "",
+            "target_law_name": "식품위생법",
+            "target_article_no": "제88조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식품위생법/제88조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:집단급식소의1일평균총급식인원산정기준#JO0002",
+            "reference_id": "law:식품위생법#JO0088"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별지 제68호서식",
+            "line_text": "",
+            "target_law_name": "집단급식소의 1일 평균 총 급식인원 산정기준",
+            "target_article_no": "별지68",
+            "target_article_title": "",
+            "appendix_no": "68",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": false,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000002181&bylNo=&bylBrNo=",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:집단급식소의1일평균총급식인원산정기준#JO0002",
+            "reference_id": "admrul:집단급식소의1일평균총급식인원산정기준#BJ0068"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「식품위생법」 제94조",
+            "line_text": "제2조(산정기준) 집단급식소에서의 1일 평균 총 급식인원은 식품위생법 제88조 및 같은 법 시행규칙 제94조제1항에 따른 ‘집단급식소 설치·운영 신고서(별지 제68호서식)’의 1일 급식인원 항목의 총합으로 산정한다.※예시 : 아침(30인), 점심(40인), 저녁(50인) 인 경우, 1일 평균 총 급식인원은 120명",
+            "target_law_name": "식품위생법",
+            "target_article_no": "제94조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식품위생법/제94조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:집단급식소의1일평균총급식인원산정기준#JO0002",
+            "reference_id": "law:식품위생법#JO0094"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:집단급식소의1일평균총급식인원산정기준#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제3조(재검토기한) 「훈령·예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제248호)에 따라 이 고시 발령 후의 법령이나 현실여건의 변화 등을 검토하여 이 고시의 폐지, 개정 등의 조치를 하여야 하는 기한은 2017년 03월 15일까지로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「훈령·예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령·예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령·예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:집단급식소의1일평균총급식인원산정기준#JO0003",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:집단급식소의1일평균총급식인원산정기준#JO0003"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20140319",
+      "promulgation_no": "2014-38",
+      "content": "부칙 <제2014-38호,2014. 3. 19.>이 고시는 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "집단급식소의 1일 평균 총 급식인원 산정기준.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=16818751",
+      "file_store_url": "",
+      "filename": "집단급식소의 1일 평균 총 급식인원 산정기준.hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 5,
+    "by_category": {
+      "법령": 3,
+      "별지": 1,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 4,
+      "appendix_ref": 1
+    },
+    "articles_total": 3,
+    "articles_with_relations": 3,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/집단급식소의 1일 평균 총 급식인원 산정기준"
+  },
+  "provision_id": "admrul:집단급식소의1일평균총급식인원산정기준#DOC"
+}
