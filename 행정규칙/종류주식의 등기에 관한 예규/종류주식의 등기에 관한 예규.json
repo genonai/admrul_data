@@ -1,0 +1,208 @@
+{
+  "law_id": "2200000101809",
+  "mst": "2200000101809",
+  "law_name": "종류주식의 등기에 관한 예규",
+  "law_abbr": "",
+  "law_type": "등기예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2200000101809",
+  "promulgation_no": "1535",
+  "promulgation_date": "20141105",
+  "enforcement_date": "20141121",
+  "revision_date": "20141105",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "대법원(대법원)",
+    "담당자명": "",
+    "행정규칙종류코드": "B0014",
+    "행정규칙명": "종류주식의 등기에 관한 예규",
+    "발령일자": "20141105",
+    "행정규칙종류": "등기예규",
+    "제개정구분코드": "200401",
+    "조문형식여부": "N",
+    "소관부처명": "대법원",
+    "전화번호": "",
+    "제개정구분명": "제정",
+    "소관부처코드": "9740000",
+    "생성일자": "20241125",
+    "행정규칙ID": "2112169",
+    "시행일자": "20141121",
+    "담당부서기관코드": "",
+    "발령번호": "1535",
+    "행정규칙일련번호": "2200000101809",
+    "상위부처명": "대법원"
+  },
+  "amendment_text": "",
+  "revision_reason": "1. 제정이유\n○ 종류주식을 도입한 상법과 이를 공시할 수 있는 등기방안을 마련한 상업등기규칙(대법원규칙 제2560호, 2014. 10. 2. 전부개정, 2014. 11. 21. 시행) 개정에 따른 등기신청방법과 등기관의 심사에 관한 업무처리 기준을 정하고자 함\n2. 주요내용\n○ 발행주식의 종류를 명시함(제2조)\n○ 종류주식에 대한 등기신청과 등기관의 심사방법을 규정함(제3조 및 제4조)\n○ 「상업등기규칙」 부칙 제2조에 따른 이기신청을 규정함(제5조 등)",
+  "body": {
+    "format": "articles",
+    "article_count": 5,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 예규는 주식회사가 상법에 따라 발행한 종류주식에 대한 등기신청방법과 이에 대한 등기관의 심사방법을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:종류주식의등기에관한예규#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "발행주식의 종류",
+        "chapter": "",
+        "content": "제2조 (발행주식의 종류) 주식회사가 한 종류의 주식만을 발행한 경우에는 보통주식으로 등기하고, 상법 제344조 제1항에 따라 2가지 이상의 주식을 발행한 경우에는 그 하나는 보통주식으로 나머지 주식은 정관에 기재되어 있는 명칭으로 등기한다.【정관에 기재되어 있는 종류주식의 예시】 우선주식, 상환전환우선주식, 제1종 종류주식, 제2종 종류주식, 갑 종류주식, 을 종류주식, 무의결권 배당우선(존속기한부) 전환주식",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "상법 제344조",
+            "line_text": "제2조 (발행주식의 종류) 주식회사가 한 종류의 주식만을 발행한 경우에는 보통주식으로 등기하고, 상법 제344조 제1항에 따라 2가지 이상의 주식을 발행한 경우에는 그 하나는 보통주식으로 나머지 주식은 정관에 기재되어 있는 명칭으로 등기한다.【정관에 기재되어 있는 종류주식의 예시】 우선주식, 상환전환우선주식, 제1종 종류주식, 제2종 종류주식, 갑 종류주식, 을 종류주식, 무의결권 배당우선(존속기한부) 전환주식",
+            "target_law_name": "상법",
+            "target_article_no": "제344조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/상법/제344조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:종류주식의등기에관한예규#JO0002",
+            "reference_id": "law:상법#JO0344"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:종류주식의등기에관한예규#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "종류주식에 대한 등기신청",
+        "chapter": "",
+        "content": "제3조 (종류주식에 대한 등기신청) ① 종류주식의 발행에 따른 등기를 신청하는 경우에는 정관에 기재되어 있는 종류주식의 내용(주주총회 또는 이사회가 정관의 범위 내에서 그 주식의 내용을 세부적으로 정한 경우에는 그 내용을 말한다)에 관한 등기도 함께 신청하여야 한다. 다만, 보통주식의 경우에는 그러하지 아니하다.② 종류주식의 말소등기를 신청하는 경우에는 그 주식의 내용에 관한 말소등기도 함께 신청하여야 한다. 종류주식의 상환 또는 전환에 따른 말소등기를 신청하는 경우에도 같다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:종류주식의등기에관한예규#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "등기관의 심사방법",
+        "chapter": "",
+        "content": "제4조 (등기관의 심사방법) 등기관은 종류주식의 명칭이 정관에 기재되어 있는 명칭과 일치하는지 여부 및 주주총회 또는 이사회가 정하여 발행한 종류주식의 수와 내용이 정관의 범위 내인지 여부를 조사하여야 한다. 이 때 정관에 종류주식의 발행가능 총수가 기재되어 있다 하더라도 등기사항이 아님을 유의하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:종류주식의등기에관한예규#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "「상업등기규칙」 부칙 제2조에 따른 이기신청",
+        "chapter": "",
+        "content": "제5조 (「상업등기규칙」 부칙 제2조에 따른 이기신청) ① 이 예규 시행 전에 등기된 종류주식이 「상업등기규칙」(대법원규칙 제2560호)에 따른 방식과 달리 기록된 경우에는 종류주식을 발행할 당시의 정관과 주주총회의사록 또는 이사회의사록을 첨부하여 이기신청을 할 수 있다. 다만, 등기기록상 명확한 경우에는 대표자의 확인서로 갈음한다.② 제1항에 따른 이기신청의 등기원인은 「상업등기규칙」 부칙 제2조에 따른 이기로 한다.③ 제1항의 경우 등기신청수수료와 등록면허세는 부과의 대상이 되지 않는다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:종류주식의등기에관한예규#JO0005"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "제344조",
+        "line_text": "",
+        "target_law_name": "상법",
+        "target_article_no": "제344조",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/법령/상법/제344조",
+        "resolve_method": "text_supplement"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "「상업등기규칙」",
+        "line_text": "",
+        "target_law_name": "상업등기규칙",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/법령/상업등기규칙",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "「상업등기규칙」",
+        "line_text": "",
+        "target_law_name": "상업등기규칙",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/법령/상업등기규칙",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "행정규칙",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "제2조",
+        "line_text": "",
+        "target_law_name": "상업등기규칙",
+        "target_article_no": "제2조",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/행정규칙/상업등기규칙/제2조",
+        "resolve_method": "text_supplement"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "99991231",
+      "promulgation_no": "9999",
+      "content": "부   칙제1조(시행일) 이 예규는 2014년 11월 21일부터 시행한다.제2조(과태료) 이 예규에 근거한 이기신청은 과태료 부과통지의 대상에 해당되지 아니 한다."
+    }
+  ],
+  "appendices": [],
+  "attachments": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 5,
+    "by_category": {
+      "법령": 4,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 5
+    },
+    "articles_total": 5,
+    "articles_with_relations": 1,
+    "unmatched_relations": 4,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/종류주식의 등기에 관한 예규"
+  },
+  "provision_id": "admrul:종류주식의등기에관한예규#DOC"
+}
