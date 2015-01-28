@@ -1,51 +1,51 @@
 {
-  "law_id": "2100000098770",
-  "mst": "2100000098770",
+  "law_id": "2100000098836",
+  "mst": "2100000098836",
   "law_name": "환경감시단 운영세칙",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
-  "adm_uid": "admrul:2100000098770",
-  "promulgation_no": "30",
-  "promulgation_date": "20110114",
-  "enforcement_date": "20110114",
-  "revision_date": "20110114",
+  "adm_uid": "admrul:2100000098836",
+  "promulgation_no": "54",
+  "promulgation_date": "20150128",
+  "enforcement_date": "20150128",
+  "revision_date": "20150128",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
     "현행여부": "Y",
-    "담당부서기관명": "낙동강유역환경청(환경감시단)",
-    "담당자명": "박민우",
+    "담당부서기관명": "한강유역환경청(환경감시단)",
+    "담당자명": "전현희",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "환경감시단 운영세칙",
-    "발령일자": "20110114",
+    "발령일자": "20150128",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
-    "소관부처명": "낙동강유역환경청",
-    "전화번호": "055-211-1335",
+    "소관부처명": "한강유역환경청",
+    "전화번호": "031-790-2517",
     "제개정구분명": "일부개정",
     "소관부처코드": "1482000",
     "생성일자": "20171017",
-    "행정규칙ID": "59626",
-    "시행일자": "20110114",
-    "담당부서기관코드": "1480589",
-    "발령번호": "30",
-    "행정규칙일련번호": "2100000098770",
+    "행정규칙ID": "59656",
+    "시행일자": "20150128",
+    "담당부서기관코드": "1480588",
+    "발령번호": "54",
+    "행정규칙일련번호": "2100000098836",
     "상위부처명": "기후에너지환경부"
   },
   "amendment_text": "",
-  "revision_reason": "",
+  "revision_reason": "◇ 개정이유\n○ 환경감시단 조직 정비계획(‘15.1.16)에 따라 업무수행체계 등 일부 변경사항을 반영하기 위함\n◇ 주요 개정내용\n○ 업무가 유사한 환경조사1, 2, 3과를 환경조사과로 통합(제2조제1항)\n- 환경감시단에는 환경조사과, 환경사범수사과를 둠\n○ 각 과별 관할구역(제3조) 및 업무수행체계(제5조) 조정\n- 환경조사1, 2, 3과로 분류되어있는 관할구역 및 업무분장 등을 환경조사과에서 모두 담당\n○ 환경조사과 통합에 따른 일부 문구 수정",
   "body": {
     "format": "articles",
-    "article_count": 11,
+    "article_count": 16,
     "articles": [
       {
         "article_no": "제1조",
         "article_title": "목적",
-        "chapter": "제1장  총      칙",
-        "content": "제1조(목적) 이 규정은 「환경감시단 업무처리 규정(환경부훈령 제720호, ‘07. 6. 22)」 제20조에서 위임된 사항 중 환경감시단의 운영 등에 관하여 필요한 사항을 정한다.",
+        "chapter": "제1장  총   칙",
+        "content": "제1조(목적) 이 운영세칙은 환경부 「환경감시단 업무처리규정 제20조」 규정에 의하여 한강유역환경청 환경감시단 운영 등에 관한 필요한 사항을 규정함을 목적으로 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -53,9 +53,9 @@
       },
       {
         "article_no": "제2조",
-        "article_title": "과 설치",
-        "chapter": "제1장  총      칙",
-        "content": "제2조(과 설치) 환경감시단에는 분장사무를 효율적으로 추진하기 위하여 환경감시과, 환경수사과(이하 \"과\"라 한다)를 둔다.",
+        "article_title": "과의 설치·운영",
+        "chapter": "제1장  총   칙",
+        "content": "제2조(과의 설치·운영) ①환경감시단 소관 사무를 원활히 추진하기 위해 환경감시단에는 환경조사과, 환경사범수사과(이하 '과' 라 한다)를 둔다.②각 과장은 행정사무관·공업사무관·보건사무관·환경사무관·시설사무관·전산사무관·수사사무관·검찰사무관으로 보한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -64,8 +64,8 @@
       {
         "article_no": "제3조",
         "article_title": "관할구역",
-        "chapter": "제1장  총      칙",
-        "content": "제3조(관할구역) 환경감시단 관할구역은 부산광역시, 울산광역시, 경상남도(남해, 하동군 제외)로 한다.",
+        "chapter": "제1장  총   칙",
+        "content": "제3조(관할구역) 환경감시단 관할구역은 서울특별시, 인천광역시, 경기도, 강원도, 충청북도 일부(충주시·제천시·괴산군·음성군·단양군)로 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -73,9 +73,9 @@
       },
       {
         "article_no": "제4조",
-        "article_title": "업무수행체계",
-        "chapter": "제2장  업무수행체제 등",
-        "content": "제4조(업무수행체계)①각 과장은 소관업무 전반에 대하여 환경감시단장의 감독을 받아 업무를 수행한다.②각 과의 사무를 체계적으로 수행하기 위하여 별표1와 같이 사무를 분장한다.③환경감시단장은 효율적인 업무수행을 위하여 환경감시과는 기획·감시팀, 환경수사과는 수사·조사팀을 둔다.④특별지도·점검 관련 사항에 대해서는 환경감시과에서 통합·조정할 수 있다.",
+        "article_title": "지휘·통솔",
+        "chapter": "제1장  총   칙",
+        "content": "제4조(지휘·통솔)  ①환경감시단장은 한강유역환경청장의 명을 받아 각 과별 업무전반에 대하여 지휘·통솔한다.② 특별지도·점검은 관할구역에 대해 환경조사과장 책임 하에 추진한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -83,19 +83,62 @@
       },
       {
         "article_no": "제5조",
-        "article_title": "특별지도·점검계획수립",
-        "chapter": "제2장  업무수행체제 등",
-        "content": "제5조(특별지도·점검계획수립)①각 과장은 특별지도·점검 및 수사 등 소관업무에 관한 세부추진계획을 수립·시행하여야 한다.②각 과장은 소관업무에 대한 추진상황 등을 종합하여 매월 1회(익월 10일까지) 환경감시단장에게 보고하여야 한다.③제2항의 규정에 의한 보고서 내용에는 다음 각 호의 사항이 포함되어야 한다.1. 특별지도·점검 실적2. 환경사범 수사실적3. 향후 특별점검 및 수사계획4. 현안사항 등",
+        "article_title": "업무수행체계",
+        "chapter": "제2장 업무수행체계 등",
+        "content": "제5조(업무수행체계)①각 과장은 소관업무 전반에 대하여 환경감시단장의 지휘를 받아 업무를 수행한다.②점검은 특별지도·점검과 기획점검으로 구분하여 시행하되 세부내용은 다음과 같다.1. 특별지도·점검 : 대기·수질·폐기물배출업소 등에 대한 지도·점검2. 기획점검 : 특별지도·점검 이외 언론보도 등 환경오염 관련 자료의 분석, 정보수집 등에 의한 지도·점검 및 수사③각 과의 특별지도·점검 및 기획점검사무를 체계적으로 수행하기 위하여 별표1과 같이 사무를 분장한다.④일일 지도·점검대상 업소 선정 및 결과보고 등은 별표2에 따라 과장의 지시를 받아 추진한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제3항",
+            "link_text": "별표1",
+            "line_text": "",
+            "target_law_name": "환경감시단 운영세칙",
+            "target_article_no": "별표1",
+            "target_article_title": "환경감시단 각 과별 사무분장(제5조관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000098836&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:환경감시단운영세칙#JO0005",
+            "reference_id": "admrul:환경감시단운영세칙#BYL0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제4항",
+            "link_text": "별표2",
+            "line_text": "",
+            "target_law_name": "환경감시단 운영세칙",
+            "target_article_no": "별표2",
+            "target_article_title": "일일 점검지시 및 결과보고 서식(제5조관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000098836&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:환경감시단운영세칙#JO0005",
+            "reference_id": "admrul:환경감시단운영세칙#BYL0002"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:환경감시단운영세칙#JO0005"
       },
       {
         "article_no": "제6조",
-        "article_title": "특별지도·점검의 방법 등",
-        "chapter": "제2장  업무수행체제 등",
-        "content": "제6조(특별지도·점검의 방법 등) ①특별지도·점검대상사업장 선정은 「환경오염물질 배출시설 등에 관한 통합 지도·점검규정(환경부훈령 제872호, ‘09.9.8)」 별표 1에 따른다.②특별지도·점검의 방법 및 요령은 「환경오염물질 배출시설 등에 관한 통합지도·점검 규정(환경부훈령 제872호, ‘09.9.8)」 제11조에 따른다.③제2항의 규정에 의해 특별·지도점검을 실시한 때에는 사업장 명칭, 소재지, 대표자, 업종, 종별, 등급 등의 일반현황이 포함된 관리대장을 작성하여 사후관리 하여야 한다.④제2항에 규정에 의한 특별지도·점검 결과 법령 위반사실을 적발한 때에는 위반 내용을 명시하여 당해 시설을 관할하는 관리기관에 통보하여야 한다.⑤관할기관으로부터 통보된 행정처분 사항에 대하여는 행정처분 대장을 작성하여 전산관리 하여야 한다.⑥환경관리 취약업소 및 영세업소에 대하여 정밀지도·점검과 병행하여 기술지원을 할 수 있다.",
+        "article_title": "특별지도·점검계획수립",
+        "chapter": "제2장 업무수행체계 등",
+        "content": "제6조(특별지도·점검계획수립)①각 과장은 특별지도·점검 및수사 등 소관업무에 관한 세부추진계획을 수립·시행하여야 한다.②각 과장은 특별지도·점검 등 소관업무에 대한 주간 또는 월간 추진사항 및 계획을 환경감시단장에게 보고할 수 있다.③제2항의 규정에 의한 보고서 내용에는 다음 각 호의 사항이 포함되어야 한다.1. 특별지도·점검 실적2. 환경사범인지·수사·송치내역3. 특별지도·점검 및 환경사범수사계획4. 현안사항 등",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -103,29 +146,86 @@
       },
       {
         "article_no": "제7조",
-        "article_title": "배출업소 점검 관련 자료수집",
-        "chapter": "제2장  업무수행체제 등",
-        "content": "제7조(배출업소 점검 관련 자료수집)환경감시과장은 특별지도·점검 등을 효율적으로 수행하기 위하여 배출업소 지도·점검 관련 자료와 정보를 수집하여 정기 또는 수시로 환경감시단장에게 보고하여야 한다.",
+        "article_title": "연간특별지도·점검계획의 수립",
+        "chapter": "제2장 업무수행체계 등",
+        "content": "제7조(연간특별지도·점검계획의 수립)①환경조사과장은 환경감시단 관할구역내 당해 연도 특별지도·점검계획을 수립하여 1.20일까지 한강유역환경청장에게 보고하여야 한다.②특별지도·점검대상사업장 선정기준은 「환경오염물질배출시설 등에 관한 통합지도·점검규정」 별표 1에 따른다.③특별지도·점검대상사업장 현황에는 다음 각 호의 사항이 포함되어야 한다.1. 사업장 명칭, 소재지, 대표자, 업종, 종별, 등급, 오염물질의 종류 및 일간 배출량, 주생산품 및 연간 생산량 등 일반현황2. 최근 2년간 지도·점검 실적 및 행정처분 현황3. 선정사유4. 기타 주요사항",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "「환경오염물질배출시설 등에 관한 통합지도·점검규정」",
+            "line_text": "",
+            "target_law_name": "환경오염물질배출시설 등에 관한 통합지도·점검규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/환경오염물질배출시설 등에 관한 통합지도·점검규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:환경감시단운영세칙#JO0007",
+            "reference_id": "admrul:환경오염물질배출시설등에관한통합지도점검규정#DOC"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "환경오염물질배출시설 등에 관한 통합지도·점검규정",
+            "target_article_no": "별표1",
+            "target_article_title": "",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": false,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/환경오염물질배출시설 등에 관한 통합지도·점검규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:환경감시단운영세칙#JO0007",
+            "reference_id": "law:환경오염물질배출시설등에관한통합지도점검규정#BYL0001"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:환경감시단운영세칙#JO0007"
       },
       {
         "article_no": "제8조",
-        "article_title": "비상연락체계 구축",
-        "chapter": "제2장  업무수행체제 등",
-        "content": "제8조(비상연락체계 구축)환경감시단장은 소속공무원 및 관계기관에 대한 상시 비상연락체계를 유지하여야 한다.",
+        "article_title": "특별지도·점검",
+        "chapter": "제2장 업무수행체계 등",
+        "content": "제8조(특별지도·점검)①특별지도·점검은 제7조 규정에 의한 연간 지도·점검계획에 의하여 실시하되 사업장의 규모, 위반횟수 및 지역특성 등을 감안하여 달리실시 할 수 있다.②환경감시단장은 각 과별 특별지도·점검이 지역별, 업종별 균등히 추진될 수 있도록 지도·점검 진행사항을 확인할 수 있다.③환경관리 취약업소 및 영세업소에 대하여 특별지도·점검과 병행하여 기술지원을 실시 할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "환경감시단 운영세칙",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/환경감시단 운영세칙/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:환경감시단운영세칙#JO0008",
+            "reference_id": "admrul:환경감시단운영세칙#JO0007"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:환경감시단운영세칙#JO0008"
       },
       {
         "article_no": "제9조",
-        "article_title": "관계기관 협조",
-        "chapter": "제2장  업무수행체제 등",
-        "content": "제9조(관계기관 협조)①환경감시단장은 특별지도·점검을 위하여 관계기관에 필요한 자료를 요청할 수 있다.②환경감시단장은 특별지도·점검 시 채취한 시료에 대해서는 관할 유역(지방)환경청 및 시·도 보건환경연구원 등에 검사를 의뢰할 수 있다.",
+        "article_title": "점검결과 통보 및 사후관리",
+        "chapter": "제2장 업무수행체계 등",
+        "content": "제9조(점검결과 통보 및 사후관리)①환경감시단장은 배출시설 등에 대한 법령위반사실을 적발한 때에는 위반내용, 위반확인서 및 증빙자료 등을 첨부하여 당해 시설을 관할하는 지방자치단체에 통보하여야 한다.②제1항의 규정에 의하여 행정처분이 완료된 배출업소에 대하여는 행정처분대장을 작성하고 전산관리 하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -133,9 +233,9 @@
       },
       {
         "article_no": "제10조",
-        "article_title": "인사 및 복무관리",
-        "chapter": "제3장  공무원 등의 복무 및 교육관리",
-        "content": "제10조(인사 및 복무관리)①환경감시단장은 감시단에 파견된 근무자 등 소속공무원의 인사 및 복무에 관한 다음 각 호의 사항을 관장한다.1. 6급 이하 소속공무원의 내부 부서 전보에 관한 사항2. 5급 이하 소속공무원의 출장·휴가·외출 등 복무전반에 관한 사항②환경감시단장은 각 과장에게 6급 이하 소속공무원의 출장·휴가·외출 등 복무전반에 관한 사항을 위임할 수 있다.",
+        "article_title": "배출업소 점검 관련 자료수집",
+        "chapter": "제2장 업무수행체계 등",
+        "content": "제10조(배출업소 점검 관련 자료수집)①환경조사과장은 특별지도·점검 등을 효율적으로 수행하기 위하여 배출업소 지도·점검 관련 자료와 정보를 수집하여 정기 또는 수시로 환경감시단장에게 보고하여야 한다.②제1항의 규정에 의해 보고서에는 다음 각 호의 사항이 포함되어야 한다.1. 관할구역의 오염도 변화 추이2. 특정지역의 오염도 증가시 그 사유3. 관할 지방자치단체의 의견4. 기타 지역동향",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -143,48 +243,156 @@
       },
       {
         "article_no": "제11조",
-        "article_title": "직원교육",
-        "chapter": "제3장  공무원 등의 복무 및 교육관리",
-        "content": "제11조(직원교육)①환경감시단장은 소속직원의 자질향상, 부조리 예방 및 기밀누설방지 등을 위하여 각종 교육계획을 수립·시행하여야 하며, 각 과장으로 하여금 소속직원에 대하여 월 1회 이상 직장교육을 실시하도록 할 수 있다.②환경감시단장은 소속직원의 전문지식을 함양시키기 위하여 국립환경인력개발원 등 연수기관에 위탁교육을 요청할 수 있다.",
+        "article_title": "비상연락체계 구축",
+        "chapter": "제2장 업무수행체계 등",
+        "content": "제11조(비상연락체계 구축)①환경감시단장은 소속공무원 및 관계기관에 대한 상시 비상연락체계를 유지하여야 한다.②환경감시단장은 상수원 수질보전을 위하여 긴급한 특별지도·점검에   대처할 수 있도록 소속공무원으로 비상 대기조를 편성·운영 하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
         "provision_id": "admrul:환경감시단운영세칙#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "관계기관 협조",
+        "chapter": "제2장 업무수행체계 등",
+        "content": "제12조(관계기관 협조)①환경감시단장은 특별지도·점검을 위하여 관계기관에 필요한 자료를 요청 할 수 있다.②환경감시단장은 특별지도·점검시 채취한 시료에 대해서는 관할지방환경청 및 시·도 보건환경연구원 등에 검사를 의뢰할 수 있다.③제2항의 규정에 의한 검사기관은 의뢰 받은 시료의 검사결과를 지체  없이 환경감시단으로 통보하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:환경감시단운영세칙#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "복무관리",
+        "chapter": "제3장  공무원 등 인사 및 복무관리",
+        "content": "제13조(복무관리)①환경감시단장은 소속공무원의 복무관리에 관한 다음 각 호의 사항을 관장한다.1. 6급 이하 소속공무원의 각 과별 전보에 관한 사항2. 과장급 공무원의 출장·휴가·외출 등 복무전반에 관한 사항3. 파견공무원의 복귀·파견기간 연장 등 근무전반에 관한 사항②환경감시단장은 소속공무원의 복무관리에 관한 사항 중 다음사항은 각 과장에게 위임할 수 있다.1. 6급 이하 소속공무원의 출장·휴가·외출 및 초과근무 등 복무관리에 관한 사항③비정규직 임용 등에 관한 사항은 비정규직운영규정(한강유역환경청 예규제2호)에 정하는 바에 따른다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:환경감시단운영세칙#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "직원교육",
+        "chapter": "제3장  공무원 등 인사 및 복무관리",
+        "content": "제14조(직원교육)①환경감시단장은 소속직원의 자질향상과 전문지식 함양을 위하여 각종 교육계획을 수립·시행하여야 한다.② 특별지도·점검 및 수사업무를 담당하는 일반직 직원은 전문지식 함량을 위해 연간 30시간 이상 상시학습 교육을 이수하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:환경감시단운영세칙#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "사무실 설치·운영",
+        "chapter": "제4장 사무실의 설치·운영",
+        "content": "제15조(사무실 설치·운영)환경감시단 각 과별 사무실은 한강환경유역청 내에 설치·운영한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:환경감시단운영세칙#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "사무실 관리 등",
+        "chapter": "제4장 사무실의 설치·운영",
+        "content": "제16조(사무실 관리 등)각 과장은 사무실 에너지 절약, 보안관리 등을 철저히  하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:환경감시단운영세칙#JO0016"
       }
     ]
   },
   "addenda": [
     {
-      "promulgation_date": "20110114",
-      "promulgation_no": "30",
-      "content": "부칙 <제30호,2011. 1. 14.>①(시행일)이 규정은 발령한 날부터 시행한다."
+      "promulgation_date": "20150128",
+      "promulgation_no": "54",
+      "content": "부칙 <제54호,2015. 1. 28.>①(시행일)이 규정은 발령한 날부터 시행한다."
     }
   ],
-  "appendices": [],
-  "attachments": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "환경감시단 각 과별 사무분장(제5조관련)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000098836&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31558722",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31558722",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:환경감시단운영세칙#BYL0001",
+      "filename": "별표1_환경감시단 각 과별 사무분장(제5조관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "일일 점검지시 및 결과보고 서식(제5조관련)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000098836&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31558728",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31558728",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:환경감시단운영세칙#BYL0002",
+      "filename": "별표2_일일 점검지시 및 결과보고 서식(제5조관련).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "「환경감시단 운영세칙」개정(안) 보고.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=31542622",
+      "file_store_url": "",
+      "filename": "「환경감시단 운영세칙」개정(안) 보고.hwp"
+    },
+    {
+      "name": "환경감시단 운영세칙(훈령54호, 2015.01.28).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=31542623",
+      "file_store_url": "",
+      "filename": "환경감시단 운영세칙(훈령54호, 2015.01.28).hwp"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 2,
+    "relations_total": 5,
     "by_category": {
-      "별표": 1,
-      "행정규칙": 1
+      "별표": 3,
+      "행정규칙": 2
     },
     "by_relation_type": {
-      "appendix_ref": 1,
+      "appendix_ref": 3,
+      "citation": 1,
       "internal_ref": 1
     },
-    "articles_total": 11,
-    "articles_with_relations": 2,
+    "articles_total": 16,
+    "articles_with_relations": 3,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
     "addenda_count": 1,
-    "appendices_count": 1,
+    "appendices_count": 2,
     "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/환경감시단 운영세칙"
   },
-  "provision_id": "admrul:환경감시단운영세칙#DOC",
-  "is_future": false
+  "provision_id": "admrul:환경감시단운영세칙#DOC"
 }
