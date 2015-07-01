@@ -1,0 +1,332 @@
+{
+  "law_id": "2200000102059",
+  "mst": "2200000102059",
+  "law_name": "인정사망에 따른 가족관계등록사무 처리지침",
+  "law_abbr": "",
+  "law_type": "가족관계등록예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2200000102059",
+  "promulgation_no": "477",
+  "promulgation_date": "20150610",
+  "enforcement_date": "20150701",
+  "revision_date": "20150610",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "대법원(대법원)",
+    "담당자명": "",
+    "행정규칙종류코드": "B0015",
+    "행정규칙명": "인정사망에 따른 가족관계등록사무 처리지침",
+    "발령일자": "20150610",
+    "행정규칙종류": "가족관계등록예규",
+    "제개정구분코드": "200403",
+    "조문형식여부": "N",
+    "소관부처명": "대법원",
+    "전화번호": "",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "9740000",
+    "생성일자": "20241125",
+    "행정규칙ID": "2112707",
+    "시행일자": "20150701",
+    "담당부서기관코드": "",
+    "발령번호": "477",
+    "행정규칙일련번호": "2200000102059",
+    "상위부처명": "대법원"
+  },
+  "amendment_text": "",
+  "revision_reason": "1. 개정이유\n○ 2015. 2. 3.「가족관계의 등록 등에 관한 법률」개정으로 재외국민 가족관계등록사무소 및 가족관계등록관이 재외국민의 등록사건 처리를 전담하게 되었는바, 개정 법률의 내용에 따라 동 예규의 내용을 개정\n2. 주요내용\n○ 재외국민에 대한 인정사망 통보에 대해서 재외국민 가족관계등록사무소 및 가족관계등록관이 처리할 수 있도록 근거 규정을 마련함(제3조제2항, 제3조5항, 제4조제1항)",
+  "body": {
+    "format": "articles",
+    "article_count": 6,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 예규는 「가족관계의 등록 등에 관한 법률」  (이하 \"법\"이라 한  다) 제87조의 수해, 화재, 그 밖의 재난으로 인하여 사망(인정사망)한 경우 이와 관련된 사항의 사무처리에 관하여 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「가족관계의 등록 등에 관한 법률」",
+            "line_text": "제1조 (목적) 이 예규는 「가족관계의 등록 등에 관한 법률」  (이하 \"법\"이라 한  다) 제87조의 수해, 화재, 그 밖의 재난으로 인하여 사망(인정사망)한 경우 이와 관련된 사항의 사무처리에 관하여 규정함을 목적으로 한다.",
+            "target_law_name": "가족관계의 등록 등에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/가족관계의 등록 등에 관한 법률",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:인정사망에따른가족관계등록사무처리지침#JO0001",
+            "reference_id": "law:가족관계의등록등에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「가족관계의 등록 등에 관한 법률」 제87조",
+            "line_text": "제1조 (목적) 이 예규는 「가족관계의 등록 등에 관한 법률」  (이하 \"법\"이라 한  다) 제87조의 수해, 화재, 그 밖의 재난으로 인하여 사망(인정사망)한 경우 이와 관련된 사항의 사무처리에 관하여 규정함을 목적으로 한다.",
+            "target_law_name": "가족관계의 등록 등에 관한 법률",
+            "target_article_no": "제87조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/가족관계의 등록 등에 관한 법률/제87조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:인정사망에따른가족관계등록사무처리지침#JO0001",
+            "reference_id": "law:가족관계의등록등에관한법률#JO0087"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:인정사망에따른가족관계등록사무처리지침#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "그 밖의 재난의 의의",
+        "chapter": "",
+        "content": "제2조 (그 밖의 재난의 의의) 법 제87조의 \"그 밖의 재난\"은 다수인을 동시에  사망하게 하는 사건으로 해일, 태풍, 지진, 화산폭발, 건물 및 산의 붕괴·폭발, 선박, 항공기, 열차 등의 사고를 말하는 것으로 자살자 또는 변사자 등은 이에 해당하지 않는다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:인정사망에따른가족관계등록사무처리지침#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "사망통보",
+        "chapter": "",
+        "content": "제3조 (사망통보) ① 법 제87조에 따라 사망자를 조사한 관공서가 사망지 또는 사망자 등록기준지의 시(구)·읍·면의 장에게 사망의 통보를 할 때에는 법  제84조제2항에 기재된 사항과 사망자의 생년월일과 주소를 기재하여야 한다.② 외국에서 법 제87조에 따른 사망이 있었고 그 사망자의 가족관계등록 여부가 판명되지 아니한 경우에 제1항 통보는 대법원 소재지 관할 시(구)의 장 또는 법 제4조의2제2항의 재외국민 가족관계등록사무소(이하 ‘재외국민 가족관계등록사무소’라 한다)의 장에게 한다.③ 제1항에 따른 통보는 사체가 발견된 자(사망자를 인식할 수 없는 때를 포함한다. 이하 \"시신 확인 사망자\"라 한다) 뿐만 아니라, 사체 발견 등의 확증은 없으나 주위의 여러 상황을 고려하여 볼 때 사망이 확실하거나 그 개연성이 매우 높다고 판단한 때(이하 \"시신 미확인 사망자\"라 한다)에는, 유족의 의사와 관계없이 사망통보를 하여야 한다.④ 법 제85조에 규정된 자가 개별적으로 사망신고를 하여 이미 수리된 때에는 제1항의 사망통보를 하지 아니한다.⑤ 사망자를 조사한 관공서가 사망통보를 한 후, 사망자의 가족관계등록 여부가 분명해진 때에는 그 관공서는 지체 없이 그 취지를 종전에 사망통보를 했던 시(구)ㆍ읍ㆍ면의 장 또는 재외국민 가족관계등록사무소의 가족관계등록관에게 통보하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:인정사망에따른가족관계등록사무처리지침#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "시장 등의 처리",
+        "chapter": "",
+        "content": "제4조 (시장 등의 처리) ① 사망의 통보를 받은 시(구)ㆍ읍ㆍ면의 장 또는 재외국민 가족관계등록사무소의 가족관계등록관은 이를  수리하여 사망자의 가족관계등록부에 이를 기록하고 가족관계등록부를 폐쇄하여야 한다.② 사망자가 가족관계등록이 되어 있는지가  분명하지 아니하여 가족관계등록부에  기록을 할 수 없는 신고서류는 「가족관계의 등록 등에 관한 규칙」  제69조에 따라 처리하고 가족관계등록부의 존재가 판명된 때에는 제1항에 따라 처리한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:인정사망에따른가족관계등록사무처리지침#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "실종선고의 청구",
+        "chapter": "",
+        "content": "제5조 (실종선고의 청구) 인정사망 후에도 이해관계인은 사망으로 보게 되는   「민법」 제28조의 효과를 받기 위하여 실종선고의 청구를 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「민법」 제28조",
+            "line_text": "제5조 (실종선고의 청구) 인정사망 후에도 이해관계인은 사망으로 보게 되는   「민법」 제28조의 효과를 받기 위하여 실종선고의 청구를 할 수 있다.",
+            "target_law_name": "민법",
+            "target_article_no": "제28조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/민법/제28조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:인정사망에따른가족관계등록사무처리지침#JO0005",
+            "reference_id": "law:민법#JO0028"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:인정사망에따른가족관계등록사무처리지침#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "신고의무자 등의 사망신고",
+        "chapter": "",
+        "content": "제6조 (신고의무자 등의 사망신고) ① 시신 미확인 사망자에 대하여 조사 관공서가 사망통보를 하지 아니한 동안이라도, 사망신고의무자 등은 개별적으로 사망의 사실을 증명하는 서면(진단서, 검안서, 관공서 작성의 사망증명서, 국립과학수사연구소의 사망확인 공문, 인우인 2명 이상이 작성한 사망증명서 등)을 첨부하여 사망의 신고를 할 수 있다.② 제1항의 서면 중 관공서 작성의 서면이 사본인 경우에는 원본을 보관하는 관공서의 장의 직인이 찍힌 원본 대조필의 인증이 있어야 한다.③ 시신 확인 사망자에 대하여는 외국의 관공서에서 발급하는 사망사실의 증명서면을 첨부하여 사망신고를 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:인정사망에따른가족관계등록사무처리지침#JO0006"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "「가족관계의 등록 등에 관한 법률」",
+        "line_text": "",
+        "target_law_name": "가족관계의 등록 등에 관한 법률",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/법령/가족관계의 등록 등에 관한 법률",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "제87조",
+        "line_text": "",
+        "target_law_name": "가족관계의 등록 등에 관한 법률",
+        "target_article_no": "제87조",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/법령/가족관계의 등록 등에 관한 법률/제87조",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "제87조",
+        "line_text": "",
+        "target_law_name": "가족관계의 등록 등에 관한 법률",
+        "target_article_no": "제87조",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/법령/가족관계의 등록 등에 관한 법률/제87조",
+        "resolve_method": "text_supplement"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "제87조",
+        "line_text": "",
+        "target_law_name": "가족관계의 등록 등에 관한 법률",
+        "target_article_no": "제87조",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/법령/가족관계의 등록 등에 관한 법률/제87조",
+        "resolve_method": "text_supplement"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "제87조",
+        "line_text": "",
+        "target_law_name": "가족관계의 등록 등에 관한 법률",
+        "target_article_no": "제87조",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/법령/가족관계의 등록 등에 관한 법률/제87조",
+        "resolve_method": "text_supplement"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "「가족관계의 등록 등에 관한 규칙」",
+        "line_text": "",
+        "target_law_name": "가족관계의 등록 등에 관한 규칙",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/법령/가족관계의 등록 등에 관한 규칙",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "제69조",
+        "line_text": "",
+        "target_law_name": "가족관계의 등록 등에 관한 규칙",
+        "target_article_no": "제69조",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/법령/가족관계의 등록 등에 관한 규칙/제69조",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "「민법」",
+        "line_text": "",
+        "target_law_name": "민법",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/법령/민법",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "제28조",
+        "line_text": "",
+        "target_law_name": "민법",
+        "target_article_no": "제28조",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/법령/민법/제28조",
+        "resolve_method": "html"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20150610",
+      "promulgation_no": "477",
+      "content": "부   칙(2015. 6. 10. 제477호)이 예규는 2015년 7월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "99991231",
+      "promulgation_no": "9999",
+      "content": "부   칙이 예규는 2008년 1월 1일부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "attachments": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 12,
+    "by_category": {
+      "법령": 12
+    },
+    "by_relation_type": {
+      "citation": 12
+    },
+    "articles_total": 6,
+    "articles_with_relations": 2,
+    "unmatched_relations": 9,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 2,
+    "appendices_count": 0,
+    "attachments_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/인정사망에 따른 가족관계등록사무 처리지침"
+  },
+  "provision_id": "admrul:인정사망에따른가족관계등록사무처리지침#DOC"
+}
