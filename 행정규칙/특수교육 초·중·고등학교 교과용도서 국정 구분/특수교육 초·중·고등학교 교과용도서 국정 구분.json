@@ -1,38 +1,38 @@
 {
-  "law_id": "2200000080653",
-  "mst": "2200000080653",
+  "law_id": "2200000044612",
+  "mst": "2200000044612",
   "law_name": "특수교육 초·중·고등학교 교과용도서 국정 구분",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
-  "adm_uid": "admrul:2200000080653",
-  "promulgation_no": "2022-36",
-  "promulgation_date": "20221229",
-  "enforcement_date": "20270228",
-  "revision_date": "20221229",
-  "revision_type": "타법폐지",
-  "is_current": false,
+  "adm_uid": "admrul:2200000044612",
+  "promulgation_no": "2016-87",
+  "promulgation_date": "20160112",
+  "enforcement_date": "20160112",
+  "revision_date": "20160112",
+  "revision_type": "제정",
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "교육부(교육콘텐츠정책과)",
     "담당자명": "",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "특수교육 초·중·고등학교 교과용도서 국정 구분",
-    "발령일자": "20221229",
+    "발령일자": "20160112",
     "행정규칙종류": "고시",
-    "제개정구분코드": "200410",
-    "조문형식여부": "Y",
+    "제개정구분코드": "200401",
+    "조문형식여부": "N",
     "소관부처명": "교육부",
     "전화번호": "044-203-6474",
-    "제개정구분명": "타법폐지",
+    "제개정구분명": "제정",
     "소관부처코드": "1342000",
     "생성일자": "20230310",
     "행정규칙ID": "2091652",
-    "시행일자": "20270228",
+    "시행일자": "20160112",
     "담당부서기관코드": "",
-    "발령번호": "2022-36",
-    "행정규칙일련번호": "2200000080653",
+    "발령번호": "2016-87",
+    "행정규칙일련번호": "2200000044612",
     "상위부처명": "교육부"
   },
   "amendment_text": "",
@@ -45,23 +45,40 @@
         "article_no": "전문",
         "article_title": "",
         "chapter": "",
-        "content": "교육부고시 제2016-87호(2016.1.12.)의 교과용도서 구분 고시는 2027년 2월 28일로 폐지한다.",
+        "content": "1. 초등학교[그림] 2. 중학교[그림] 3. 고등학교[그림]",
         "enforcement_date": "",
         "relations": [],
-        "images": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=23315386",
+            "seq": "23315386"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=23315408",
+            "seq": "23315408"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=23315431",
+            "seq": "23315431"
+          }
+        ],
         "provision_id": "admrul:특수교육초중고등학교교과용도서국정구분#DOC"
       }
     ]
   },
-  "addenda": [
+  "addenda": [],
+  "appendices": [],
+  "attachments": [
     {
-      "promulgation_date": "20221229",
-      "promulgation_no": "2022-36",
-      "content": "부칙 (특수교육 교과용도서 구분 고시)<제2022-36호, 2022. 12. 29.>1. 및 2. 생략3. 교육부고시 제2016-87호(2016. 1. 12.)의 교과용도서 구분 고시는 2027년 2월 28일로 폐지한다."
+      "name": "특수교육 초·중·고등학교 교과용도서 국정 구분.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=23315362",
+      "file_store_url": "",
+      "filename": "특수교육 초·중·고등학교 교과용도서 국정 구분.hwp"
     }
   ],
-  "appendices": [],
-  "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
     "relations_total": 0,
@@ -72,13 +89,12 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 0,
     "appendices_count": 0,
     "attachments_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/특수교육 초·중·고등학교 교과용도서 국정 구분"
   },
-  "provision_id": "admrul:특수교육초중고등학교교과용도서국정구분#DOC",
-  "is_future": false
+  "provision_id": "admrul:특수교육초중고등학교교과용도서국정구분#DOC"
 }
