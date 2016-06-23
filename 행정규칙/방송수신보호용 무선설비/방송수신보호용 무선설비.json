@@ -1,0 +1,226 @@
+{
+  "law_id": "2100000050691",
+  "mst": "2100000050691",
+  "law_name": "방송수신보호용 무선설비",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000050691",
+  "promulgation_no": "2016-4",
+  "promulgation_date": "20160623",
+  "enforcement_date": "20160623",
+  "revision_date": "20160623",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "중앙전파관리소(전파관리과)",
+    "담당자명": "신용석",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "방송수신보호용 무선설비",
+    "발령일자": "20160623",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "중앙전파관리소",
+    "전화번호": "02-3400-2242",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1710000",
+    "생성일자": "20200102",
+    "행정규칙ID": "2071613",
+    "시행일자": "20160623",
+    "담당부서기관코드": "1710152",
+    "발령번호": "2016-4",
+    "행정규칙일련번호": "2100000050691",
+    "상위부처명": "미래창조과학부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정이유\n국민이 이해하기 어려운 한자어를 이해하기 쉽도록 개선하여 국민의 알권리를 보장하고 법률용어의 한글화를 촉진하기 위한 전파법(법률 제13519호, 2015.12.1. 공포, 2016.6.2. 시행) 및  같은 법 시행령(2016.6.23. 시행)이 개정됨에 따라 법률용어를 정비하고, 고시의 목적 신설 및 조문체계를 정비하기 위함\n◇ 주요내용\n가. 제1조 고시의 목적을 신설하고, 조문 체계 변경\n나. “공중선”을  “안테나”로 함\n다. “공중선전력”을 “안테나공급전력”으로 함",
+  "body": {
+    "format": "articles",
+    "article_count": 5,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 고시는 전파법시행령(이하 \"시행령\"이라 한다) 제59조제2항의 규정에 의하여 \"통상적으로 수신이 가능한 방송의 기준과 수신장애 제거의 기준을 위한 방송수신보호용 무선설비\"에 관한 사항을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:방송수신보호용무선설비#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "대상",
+        "chapter": "",
+        "content": "제2조(대상) 소출력TV중계설비",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:방송수신보호용무선설비#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "설치조건",
+        "chapter": "",
+        "content": "제3조(설치조건) 소출력TV중계설비는 다음 각 호의 설치조건에 적합하여야 한다. 다만, 전파의 효율적 이용을 위해 특히 필요하다고 인정하는 경우에는 그 조건을 달리할 수 있다.1. 방송 공동수신 안테나 시설의 설치에 의한 난시청 해소가 곤란할 것2. 수신장애 가구수가 300가구 이상일 것3.「신고하지 아니하고 개설할 수 있는 무선국용 무선기기」제4조 제6호에 따른 방송중계업무용 무선기기의 설치가 곤란할 것4. 기존 방송국에 혼신을 발생시키지 않을 것5. 수신장애를 발생시킨 건축물에 설치할 것",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「신고하지 아니하고 개설할 수 있는 무선국용 무선기기」",
+            "line_text": "",
+            "target_law_name": "신고하지 아니하고 개설할 수 있는 무선국용 무선기기",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/신고하지 아니하고 개설할 수 있는 무선국용 무선기기",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:방송수신보호용무선설비#JO0003",
+            "reference_id": "admrul:신고하지아니하고개설할수있는무선국용무선기기#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "신고하지 아니하고 개설할 수 있는 무선국용 무선기기",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/신고하지 아니하고 개설할 수 있는 무선국용 무선기기/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:방송수신보호용무선설비#JO0003",
+            "reference_id": "admrul:신고하지아니하고개설할수있는무선국용무선기기#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:방송수신보호용무선설비#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "기술적 조건",
+        "chapter": "",
+        "content": "제4조(기술적 조건) 소출력TV중계설비는 다음 각 호의 기술적 조건에 적합하여야 한다.1. 사용주파수대역은 470～698㎒ 대역 일 것2. 안테나공급전력은 1W이내일 것. 다만, 지형여건상 특히 필요한 경우에는 이를 증감할 수 있다.3. 안테나의 수평면 주복사각도의 폭과 수직지향은 수신장애지역에 한정되도록 할 것",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:방송수신보호용무선설비#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제5조(재검토기한) 「행정규제기본법」 및 「훈령·예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제334호)에 따라 이 고시에 대하여 2016년 7월 1일 기준으로 매3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「행정규제기본법」",
+            "line_text": "",
+            "target_law_name": "행정규제기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/행정규제기본법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:방송수신보호용무선설비#JO0005",
+            "reference_id": "law:행정규제기본법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「훈령·예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령·예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령·예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:방송수신보호용무선설비#JO0005",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:방송수신보호용무선설비#JO0005"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20110124",
+      "promulgation_no": "2011-3",
+      "content": "부칙 <제2011-3호,2011. 1. 24.>이 지침은 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20140718",
+      "promulgation_no": "2014-3",
+      "content": "부칙 <제2014-3호,2014. 7. 18.>이 규정은 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20150415",
+      "promulgation_no": "2015-3",
+      "content": "부칙 <제2015-3호,2015. 4. 15.>이 고시는 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20160623",
+      "promulgation_no": "2016-4",
+      "content": "부칙 <제2016-4호,2016. 6. 23.>이 고시는 고시한 날부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "방송수신보호용 무선설비(고시) 일부 개정(안) 전문.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=25012784",
+      "file_store_url": "",
+      "filename": "방송수신보호용 무선설비(고시) 일부 개정(안) 전문.hwp"
+    },
+    {
+      "name": "방송수신보호용 무선설비(고시) 일부 개정(안).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=25012785",
+      "file_store_url": "",
+      "filename": "방송수신보호용 무선설비(고시) 일부 개정(안).hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 4,
+    "by_category": {
+      "행정규칙": 3,
+      "법령": 1
+    },
+    "by_relation_type": {
+      "citation": 4
+    },
+    "articles_total": 5,
+    "articles_with_relations": 2,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 4,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/방송수신보호용 무선설비"
+  },
+  "provision_id": "admrul:방송수신보호용무선설비#DOC"
+}
