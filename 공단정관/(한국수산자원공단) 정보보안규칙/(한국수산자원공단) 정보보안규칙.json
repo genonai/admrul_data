@@ -1,0 +1,188 @@
+{
+  "law_id": "2200000120559",
+  "mst": "2200000120559",
+  "law_name": "(한국수산자원공단) 정보보안규칙",
+  "law_abbr": "",
+  "law_type": "공단규정",
+  "doc_target": "pi",
+  "doc_kind": "공단정관",
+  "adm_uid": "pi:2200000120559",
+  "promulgation_no": "155",
+  "promulgation_date": "20161228",
+  "enforcement_date": "20161228",
+  "revision_date": "20161228",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "한국수산자원공단 기획조정실",
+    "담당자명": "이승희",
+    "행정규칙종류코드": "B0029",
+    "행정규칙명": "(한국수산자원공단) 정보보안규칙",
+    "발령일자": "20161228",
+    "행정규칙종류": "공단규정",
+    "제개정구분코드": "200401",
+    "조문형식여부": "Y",
+    "소관부처명": "한국수산자원공단",
+    "전화번호": "051-740-2518",
+    "제개정구분명": "제정",
+    "소관부처코드": "B554038",
+    "생성일자": "20260514",
+    "행정규칙ID": "2129179",
+    "담당부서기관코드": "",
+    "발령번호": "155",
+    "행정규칙일련번호": "2200000120559"
+  },
+  "amendment_text": "",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 6,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 한국수산자원공단(이하 \"공단\"이라 한다) 정보보안업무의 효율적인 수행을 위하여 「국가 정보보안 기본지침」 및 「해양수산부 정보보안업무규정」 제3조에 따라 정보보안업무에 필요한 세부적인 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「해양수산부 정보보안업무규정」",
+            "line_text": "",
+            "target_law_name": "해양수산부 정보보안업무규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/해양수산부 정보보안업무규정",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국수산자원공단)정보보안규칙#JO0001",
+            "reference_id": "admrul:해양수산부정보보안업무규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제3조",
+            "line_text": "",
+            "target_law_name": "해양수산부 정보보안업무규정",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/해양수산부 정보보안업무규정/제3조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국수산자원공단)정보보안규칙#JO0001",
+            "reference_id": "admrul:해양수산부정보보안업무규정#JO0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국수산자원공단)정보보안규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "책무",
+        "chapter": "",
+        "content": "제2조(책무) 이사장은 국가안보 및 국가이익 관련 정보(전자정보를 포함한다. 이하같다)와 정보통신망을 보호하기 위한 보안대책을 마련하여야 하며 정보보안에 대한 책임을 진다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국수산자원공단)정보보안규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "정보보안담당관",
+        "chapter": "",
+        "content": "제3조(정보보안담당관) ① 이사장은 효율적ㆍ체계적인 정보보안 업무를 수행하기 위하여 정보보안 전문지식을 보유한 인력을 확보하고 관련 전담조직을 구성ㆍ운영하여야 한다.② 제1항과 관련하여 정보보안 업무를 총괄하는 ‘정보보안담당관’을 보안업무 담당 부서장으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국수산자원공단)정보보안규칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "부서별 정보보안담당자",
+        "chapter": "",
+        "content": "제4조(부서별 정보보안담당자) ① 이사장은 정보보안담당관이 그 임무를 효율적으로 수행하게 하기 위하여 부서별 정보보안담당자를 지정하여 소관부서의 정보보안업무를 수행하게 할 수 있다.② 부서별 정보보안담당자는 정보보안담당관이 부여한 사항에 대하여 소관부서의 정보보안업무를 수행하여야 한다.③ 부서별 정보보안담당자는 부서장이 지정하고 정보보안담당관에게 통보하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국수산자원공단)정보보안규칙#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "정보통신시설 보호",
+        "chapter": "",
+        "content": "제5조(정보통신시설 보호) 이사장은 다음 각 호의 중요 정보통신시설 및 장소를 「보안규칙」 제8조에 따른 보호구역으로 설정 관리하여야 한다.1. 전산기계실2. 그 밖에 보안관리가 필요하다고 인정되는 정보시스템 설치 장소",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국수산자원공단)정보보안규칙#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "준용",
+        "chapter": "",
+        "content": "제6조(준용) 그 밖에 정보보안업무와 관련하여 이 규칙에서 정하지 않은 사항은 「해양수산부 정보보안업무규정」 을 준용한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「해양수산부 정보보안업무규정」",
+            "line_text": "",
+            "target_law_name": "해양수산부 정보보안업무규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/해양수산부 정보보안업무규정",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국수산자원공단)정보보안규칙#JO0006",
+            "reference_id": "admrul:해양수산부정보보안업무규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국수산자원공단)정보보안규칙#JO0006"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20161228",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2016.12.28.>이 규칙은 2016년 12월 28일부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "attachments": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 3,
+    "by_category": {
+      "행정규칙": 3
+    },
+    "by_relation_type": {
+      "citation": 3
+    },
+    "articles_total": 6,
+    "articles_with_relations": 2,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/학칙공단/(한국수산자원공단) 정보보안규칙"
+  },
+  "provision_id": "pi:(한국수산자원공단)정보보안규칙#DOC"
+}
