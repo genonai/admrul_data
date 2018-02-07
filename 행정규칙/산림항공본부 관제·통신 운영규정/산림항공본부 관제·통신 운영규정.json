@@ -1,0 +1,275 @@
+{
+  "law_id": "2100000188510",
+  "mst": "2100000188510",
+  "law_name": "산림항공본부 관제·통신 운영규정",
+  "law_abbr": "",
+  "law_type": "훈령",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000188510",
+  "promulgation_no": "268",
+  "promulgation_date": "20180207",
+  "enforcement_date": "20180207",
+  "revision_date": "20180207",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "산림항공본부(산림항공과)",
+    "담당자명": "이영",
+    "행정규칙종류코드": "B0001",
+    "행정규칙명": "산림항공본부 관제·통신 운영규정",
+    "발령일자": "20180207",
+    "행정규칙종류": "훈령",
+    "제개정구분코드": "200401",
+    "조문형식여부": "N",
+    "소관부처명": "산림항공본부",
+    "전화번호": "033-769-6036",
+    "제개정구분명": "제정",
+    "소관부처코드": "1400000",
+    "생성일자": "20200420",
+    "행정규칙ID": "71773",
+    "시행일자": "20180207",
+    "담당부서기관코드": "1400611",
+    "발령번호": "268",
+    "행정규칙일련번호": "2100000188510",
+    "상위부처명": "산림청"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정이유\n산림청 종합감사 결과에 따라 “산림항공본부 운항규정”의 무선통신운영 부분을 분리하여 별도 “관제·통신운영 규정”으로 신규 제정함\n◇ 주요 개정 내용\n가. 총칙 추가\n나. 산림항공 관제·통신 운용\n- 관제실 위치 및 관제실 통신시설 기준 추가\n- 문구수정, 통신망 분류 구체화, 산림항공 업무용 주파수 추가\n다. 무선국 운영 및 관리\n- 문구 수정\n라. 긴급통신 및 조난상황 조치 절차\n- 문구 수정, 조난 확인 및 신고 전화번호 삽입\n마. 산림항공지원포털(항공관제) 운영 및 기록관리\n- 산림항공지원포털용 단말기 사용 및 관리 명확화\n바. 기록유지\n- 산림항공 무선교신일지 보존기간 변경에서 2년→1년으로 변경\n- 무선교신일지 서식은 산불관리통합규정에 있는 서식을 산림항공본부에 맞게 변경",
+  "body": {
+    "format": "articles",
+    "article_count": 0,
+    "articles": [],
+    "unmatched_relations": [
+      {
+        "relation_type": "appendix_ref",
+        "delegation_type": null,
+        "target_category": "별지",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "별지 제1호 서식",
+        "line_text": "",
+        "target_law_name": "산림항공본부 관제·통신 운영규정",
+        "target_article_no": "별지1",
+        "target_article_title": "산림항공 무선통신용 호출명칭(2.3.5 관련)",
+        "appendix_no": "1",
+        "appendix_branch": "",
+        "appendix_kind": "별지",
+        "appendix_found": true,
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=61786771",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "appendix_ref",
+        "delegation_type": null,
+        "target_category": "별지",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "별지 제2호 서식",
+        "line_text": "",
+        "target_law_name": "산림항공본부 관제·통신 운영규정",
+        "target_article_no": "별지2",
+        "target_article_title": "항공관제기관 및 수색구조기관 연락처(3.2.2 관련)",
+        "appendix_no": "2",
+        "appendix_branch": "",
+        "appendix_kind": "별지",
+        "appendix_found": true,
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=61786779",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "appendix_ref",
+        "delegation_type": null,
+        "target_category": "별지",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "별지 제2호 서식",
+        "line_text": "",
+        "target_law_name": "산림항공본부 관제·통신 운영규정",
+        "target_article_no": "별지2",
+        "target_article_title": "항공관제기관 및 수색구조기관 연락처(3.2.2 관련)",
+        "appendix_no": "2",
+        "appendix_branch": "",
+        "appendix_kind": "별지",
+        "appendix_found": true,
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=61786779",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "appendix_ref",
+        "delegation_type": null,
+        "target_category": "별지",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "별지 제3호 서식",
+        "line_text": "",
+        "target_law_name": "산림항공본부 관제·통신 운영규정",
+        "target_article_no": "별지3",
+        "target_article_title": "산림항공지원포털용 단말기 수리내역서(4.1.2 관련)",
+        "appendix_no": "3",
+        "appendix_branch": "",
+        "appendix_kind": "별지",
+        "appendix_found": true,
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=61786831",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "appendix_ref",
+        "delegation_type": null,
+        "target_category": "별지",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "별지 제4호 서식",
+        "line_text": "",
+        "target_law_name": "산림항공본부 관제·통신 운영규정",
+        "target_article_no": "별지4",
+        "target_article_title": "산림항공 무선교신일지(4.2.1 관련)",
+        "appendix_no": "4",
+        "appendix_branch": "",
+        "appendix_kind": "별지",
+        "appendix_found": true,
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=61786839",
+        "resolve_method": "html"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20180207",
+      "promulgation_no": "268",
+      "content": "부칙 <제268호,2018. 2. 7.>제1조 (시행일) 이 규정은 공포한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "산림항공 무선통신용 호출명칭(2.3.5 관련)",
+      "enforcement_date": "",
+      "content": "(별지 제1호 서식)\n산림항공 무선통신용 호출명칭(2.3.5 관련)\n구  분\n호출명칭\n비  고\n관제실\n산항○○(기관명)\n산림항공기\n포펫○○○(호기명)\n유조차량\n산항○○유조차(기관명)\n기관장\n산항○○1호(기관명)\n공중진화대원\n산항○○진화대(기관명)\n현장지휘본부\n산림○○(기관명)\n※ 지방청(관리소), 시·군·구",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=61786771",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=61786771",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:산림항공본부관제통신운영규정#BJ0001",
+      "filename": "별지1_산림항공 무선통신용 호출명칭(2.3.5 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "항공관제기관 및 수색구조기관 연락처(3.2.2 관련)",
+      "enforcement_date": "",
+      "content": "(별지 제2호 서식)\n항공관제기관 및 수색구조기관 연락처(3.2.2 관련)\n기 관 명\n관련 부서\n연 락 처\n항공교통센터\n항공정보과\n(인천FIC)\n032-880-0251~2\n중앙방공통제소\n(MCRC)\n오산(워치맨)\n031-661-6728\n대구(아카시아)\n053-989-5136\n해양경찰청\n상황센터(ELT)\n044-205-2542\n044-868-1768\n소   방\n상황실\n119",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=61786779",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=61786779",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:산림항공본부관제통신운영규정#BJ0002",
+      "filename": "별지2_항공관제기관 및 수색구조기관 연락처(3.2.2 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "산림항공지원포털용 단말기 수리내역서(4.1.2 관련)",
+      "enforcement_date": "",
+      "content": "(별지 제3호 서식)\n산림항공지원포털용 단말기 수리내역서(4.1.2 관련)\n\n접수번호\n산림항공지원포털용 단말기 수리내역서\n의뢰자 소속\n의뢰자\n(각 관리소)\n전화번호\n사무실:\n휴대폰:\n접수자(본부)\n접수일자\n단말기번호\n배송일자\n수 리 구 분\n□ 로그인    □ 파손   □ 액정   □ 분실   □ 기타(            )\n장애내역\n(※구체적으로)\n수리내역\n(※업체)\n수리일자\n20  .  .  .\n수리자\n(※조치사항)\n위와 같이 수리내역을 확인합니다.\n년      월      일\n확인자 :              서명 또는 (인)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=61786831",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=61786831",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:산림항공본부관제통신운영규정#BJ0003",
+      "filename": "별지3_산림항공지원포털용 단말기 수리내역서(4.1.2 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "산림항공 무선교신일지(4.2.1 관련)",
+      "enforcement_date": "",
+      "content": "(별지 제4호 서식)\n산림항공 무선교신일지(4.2.1 관련)\n담 당\n과장/소장\n□ 20   년   월    일   요일\n호\n행선지\n호\n행선지\n호\n행선지\n호\n행선지\n호\n행선지\n임    무\n임    무\n임    무\n임    무\n임    무\n승 무 원\n승 무 원\n승 무 원\n승 무 원\n승 무 원\n통 신 망\n이상유무\n통 신 망\n이상유무\n통 신 망\n이상유무\n통 신 망\n이상유무\n통 신 망\n이상유무\n시    간\n교신내용\n시    간\n교신내용\n시    간\n교신내용\n시    간\n교신내용\n시    간\n교신내용",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=61786839",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=61786839",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:산림항공본부관제통신운영규정#BJ0004",
+      "filename": "별지4_산림항공 무선교신일지(4.2.1 관련).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "개정이유서(관제통신 운영규정).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=61727681",
+      "file_store_url": "",
+      "filename": "개정이유서(관제통신 운영규정).hwp"
+    },
+    {
+      "name": "산림항공본부 관제.통신 운영 규정(제정 2018-02-07).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=61727683",
+      "file_store_url": "",
+      "filename": "산림항공본부 관제.통신 운영 규정(제정 2018-02-07).hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 5,
+    "by_category": {
+      "별지": 5
+    },
+    "by_relation_type": {
+      "appendix_ref": 5
+    },
+    "articles_total": 0,
+    "articles_with_relations": 0,
+    "unmatched_relations": 5,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 4,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/산림항공본부 관제·통신 운영규정"
+  },
+  "provision_id": "admrul:산림항공본부관제통신운영규정#DOC"
+}
