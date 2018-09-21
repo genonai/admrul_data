@@ -1,0 +1,124 @@
+{
+  "law_id": "2100000156629",
+  "mst": "2100000156629",
+  "law_name": "서비스업 분류 고시",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000156629",
+  "promulgation_no": "2018-390",
+  "promulgation_date": "20180921",
+  "enforcement_date": "20180921",
+  "revision_date": "20180921",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국가데이터처(통계기준과)",
+    "담당자명": "이은정",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "서비스업 분류 고시",
+    "발령일자": "20180921",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "N",
+    "소관부처명": "국가데이터처",
+    "전화번호": "042-481-2053",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1241000",
+    "생성일자": "20210922",
+    "행정규칙ID": "64753",
+    "시행일자": "20180921",
+    "담당부서기관코드": "1240467",
+    "발령번호": "2018-390",
+    "행정규칙일련번호": "2100000156629",
+    "상위부처명": "국가데이터처"
+  },
+  "amendment_text": "",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "1. (분류 명칭) 서비스업 분류 2. (분류 목적) 통계법\n제22조(표준분류)에 따라, 서비스업과 관련한 통계작성 및 정책집행 등 행정목적에 활용 3. (분류 원칙·기준) 한국표준산업분류 총설에서 규정하고 있는 분류 원칙 및 분류 기준을 적용 4. (분류 구성) 서비스업이란 한국표준산업분류에서 대분류 기준으로 다음에 해당하는 16개 대분류(E, G ~ U) 부문으로 구성[그림]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "제22조",
+            "line_text": "",
+            "target_law_name": "통계법",
+            "target_article_no": "제22조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/통계법/제22조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:서비스업분류고시#DOC",
+            "reference_id": "law:통계법#JO0022"
+          }
+        ],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=36725331",
+            "seq": "36725331"
+          }
+        ],
+        "provision_id": "admrul:서비스업분류고시#DOC"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20180921",
+      "promulgation_no": "2018-390",
+      "content": "부칙 <제2018-390호,2018. 9. 21.>제1조(시행일) 이 고시는 2018년 9월 21일부터 시행한다.제2조(재검토 기한) 통계청장은 이 고시에 대하여 2018년 9월 21일 기준으로 매 3년이 되는 시점(매 3년째의 9월 20일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다."
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "통계청 고시 제2018-390호(서비스업 범위 개정고시).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=36703222",
+      "file_store_url": "",
+      "filename": "통계청 고시 제2018-390호(서비스업 범위 개정고시).hwp"
+    },
+    {
+      "name": "산업분류 10차 개정 반영 서비스업 범위 개정고시(안).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=36703223",
+      "file_store_url": "",
+      "filename": "산업분류 10차 개정 반영 서비스업 범위 개정고시(안).hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 1,
+    "by_category": {
+      "법령": 1
+    },
+    "by_relation_type": {
+      "citation": 1
+    },
+    "articles_total": 1,
+    "articles_with_relations": 1,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/서비스업 분류 고시"
+  },
+  "provision_id": "admrul:서비스업분류고시#DOC"
+}
