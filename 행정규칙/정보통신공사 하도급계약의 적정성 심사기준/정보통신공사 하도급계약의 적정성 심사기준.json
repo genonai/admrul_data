@@ -1,0 +1,524 @@
+{
+  "law_id": "2100000157409",
+  "mst": "2100000157409",
+  "law_name": "정보통신공사 하도급계약의 적정성 심사기준",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000157409",
+  "promulgation_no": "2018-61",
+  "promulgation_date": "20180927",
+  "enforcement_date": "20180927",
+  "revision_date": "20180927",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "과학기술정보통신부(네트워크정책과)",
+    "담당자명": "손진희",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "정보통신공사 하도급계약의 적정성 심사기준",
+    "발령일자": "20180927",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "과학기술정보통신부",
+    "전화번호": "044-202-6424, 6427",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1721000",
+    "생성일자": "20181001",
+    "행정규칙ID": "46384",
+    "시행일자": "20180927",
+    "담당부서기관코드": "1721088",
+    "발령번호": "2018-61",
+    "행정규칙일련번호": "2100000157409",
+    "상위부처명": "과학기술정보통신부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정이유\n○「정보통신공사업법 시행령」일부개정(대통령령 제28801호, 2018. 4. 17. 개정, 2018. 10. 18. 시행)에 따라 공사의 하도급(재하도급) 사전 승낙 신청 시 ‘하도급계약 승낙신청서’의 첨부서류가 변경됨에 따라 이를 반영하기 위함\n◇ 개정내용\n○ 하도급 계약내용 승낙과 관련하여 발주자가 확인 및 검토해야 하는 서류를 하도급(재하도급)계약서안 사본 및 하수급인(재하수급인) 등록수첩 사본으로 명칭을 변경함",
+  "body": {
+    "format": "articles",
+    "article_count": 11,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 기준은 정보통신공사업법 제31조의6, 같은 법 시행령 제32조의2의 규정에 의하여 발주자가 부적당한 하수급인 또는 하도급계약내용의 변경을 요구하기 위하여 하도급계약의 적정성을 심사하는데 필요한 방법·절차 등을 정하는 것을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제31조의6",
+            "line_text": "",
+            "target_law_name": "정보통신공사업법",
+            "target_article_no": "제31조의6",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/정보통신공사업법/제31조의6",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:정보통신공사하도급계약의적정성심사기준#JO0001",
+            "reference_id": "law:정보통신공사업법#JO0031_06"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「정보통신공사업법」 제32조의2",
+            "line_text": "제1조(목적) 이 기준은 정보통신공사업법 제31조의6, 같은 법 시행령 제32조의2의 규정에 의하여 발주자가 부적당한 하수급인 또는 하도급계약내용의 변경을 요구하기 위하여 하도급계약의 적정성을 심사하는데 필요한 방법·절차 등을 정하는 것을 목적으로 한다.",
+            "target_law_name": "정보통신공사업법",
+            "target_article_no": "제32조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/정보통신공사업법/제32조의2",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:정보통신공사하도급계약의적정성심사기준#JO0001",
+            "reference_id": "law:정보통신공사업법#JO0032_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:정보통신공사하도급계약의적정성심사기준#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) 이 기준에서 사용하는 용어의 정의는 다음과 같다.1. \"하도급부분금액\"이라 함은 당해 하도급하고자 하는 공사부분에 대하여 수급인의 도급금액산출내역서상의 계약단가(직·간접 노무비, 재료비 및 경비를 포함한다)를 기준으로 산출한 금액에 일반관리비·이윤 및 부가가치세를 포함한 금액을 말하며, 수급인이 직접 지급하는 자재의 비용과 관계 법령에 따라 수급인이 부담하는 금액은 제외한다.2. \"하도급계약금액\"이라 함은 수급인이 하수급인과 하도급계약을 맺으면서 지급하기로 계약한 금액을 말한다.3. \"부분하도급율\"이라 함은 하도급계약금액을 하도급부분금액으로 나눈 비율을 말한다.4. \"발주자\"라 함은 당해 정보통신공사를 정보통신공사업자에게 도급하는 자를 말한다. 다만, 수급인으로서 도급받은 정보통신공사를 하도급 하는 자는 제외한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:정보통신공사하도급계약의적정성심사기준#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "하도급심사기준의 열람",
+        "chapter": "",
+        "content": "제3조(하도급심사기준의 열람) 발주자는 입찰에 참가하는 자(수의계약 대상자를 포함한다)가 열람할 수 있도록 다음 각 호의 서류를 비치하고, 입찰에 참가하는 자가 하도급계약의 심사에 관한 사항에 대한 설명을 요청할 때에는 성실히 이에 응하여야 한다.1. 하도급 세부심사기준2. 심사에 필요한 서류의 양식 및 작성요령3. 기타 필요한 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:정보통신공사하도급계약의적정성심사기준#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "하도급심사대상 공사",
+        "chapter": "",
+        "content": "제4조(하도급심사대상 공사) ①발주자는 제5조의 규정에 의한 하도급 관련 서류의 검토결과 정보통신공사업법(이하\"법\"이라 한다) 제31조의6제1항제2호에 해당하는 경우에는 하도급계약의 적정성 여부에 대하여 심사할 수 있다.②발주자는 제1항의 규정에 의한 하도급계약의 적정성 여부를 심사할 경우 별표1의 하도급 심사항목 및 배점기준을 이용하여 실시한다. 다만, 정보통신공사의 시공품질 확보를 위해 필요한 경우 각 심사항목 및 분야별 배점한도를 조정 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "제5조",
+            "line_text": "",
+            "target_law_name": "정보통신공사 하도급계약의 적정성 심사기준",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/정보통신공사 하도급계약의 적정성 심사기준/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정보통신공사하도급계약의적정성심사기준#JO0004",
+            "reference_id": "admrul:정보통신공사하도급계약의적정성심사기준#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "제31조의6제1항제2호",
+            "line_text": "",
+            "target_law_name": "정보통신공사업법",
+            "target_article_no": "제31조의6",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/정보통신공사업법/제31조의6",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:정보통신공사하도급계약의적정성심사기준#JO0004",
+            "reference_id": "law:정보통신공사업법#JO0031_06"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "별표1",
+            "line_text": "",
+            "target_law_name": "정보통신공사 하도급계약의 적정성 심사기준",
+            "target_article_no": "별표1",
+            "target_article_title": "정보통신공사업 하도급 심사항목 및 배점기준(제6조 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000157409&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정보통신공사하도급계약의적정성심사기준#JO0004",
+            "reference_id": "admrul:정보통신공사하도급계약의적정성심사기준#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:정보통신공사하도급계약의적정성심사기준#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "하도급 관련서류의 검토",
+        "chapter": "",
+        "content": "제5조(하도급 관련서류의 검토) ①발주자는 법 제31조제3항에 의하여 수급인으로부터 하도급 계약내용의 승낙을 신청받은 경우에는 정보통신공사 하도급·재하도급 계약승낙신청서에 다음 각 호의 서류가 포함되어 있는지를 확인하고 그 내용을 검토하여야 한다.1. 하도급(재하도급)계약서안 사본2. 하수급인(재하수급인)의 등록수첩 사본②제1항의 규정에 의한 하도급통지내용의 검토결과 제4조의 하도급심사대상 공사에 해당하는 경우에는 수급인에게 다음 각호의 서류를 추가로 제출할 것을 요구할 수 있다.1. 별지 제1호 서식의 하도급심사 자기평가표 1부2. 자기평가표의 사실 확인을 위하여 필요한 서류 1부",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "정보통신공사 하도급계약의 적정성 심사기준",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/정보통신공사 하도급계약의 적정성 심사기준/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정보통신공사하도급계약의적정성심사기준#JO0005",
+            "reference_id": "admrul:정보통신공사하도급계약의적정성심사기준#JO0004"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "별지 제1호 서식",
+            "line_text": "",
+            "target_law_name": "정보통신공사 하도급계약의 적정성 심사기준",
+            "target_article_no": "별지1",
+            "target_article_title": "하도급심사 자기평가표",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=36835361",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정보통신공사하도급계약의적정성심사기준#JO0005",
+            "reference_id": "admrul:정보통신공사하도급계약의적정성심사기준#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:정보통신공사하도급계약의적정성심사기준#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "삭제",
+        "chapter": "",
+        "content": "제6조 <삭제>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:정보통신공사하도급계약의적정성심사기준#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "삭제",
+        "chapter": "",
+        "content": "제7조 <삭제>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:정보통신공사하도급계약의적정성심사기준#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "감리자등의 의견수렴",
+        "chapter": "",
+        "content": "제8조(감리자등의 의견수렴) 발주자는 필요하다고 인정하는 경우에는 하도급계약의 적정성에 대하여 당해 공사의 감리자 및 설계자의 의견을 들을 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:정보통신공사하도급계약의적정성심사기준#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "하수급인의 변경요구등",
+        "chapter": "",
+        "content": "제9조(하수급인의 변경요구등) ①발주자는 다음 각 호의 경우에는 수급인에 대하여 하도급계약내용 또는 하수급인의 변경을 요구할 수 있다.1. 제4조제2항의 규정에 의한 하도급계약금액의 적정성, 하수급인의 사업수행능력 등을 심사한 결과 항목별 심사점수의 합계가 90점 미만인 경우2. 제5조의 규정에 의한 하도급심사자료를 제출하지 아니하거나 허위로 제출한 경우②발주자는 제1항의 규정에 의한 변경요구를 하고자 하는 경우에는 수급인으로부터 하도급계약 승낙신청을 받은 날 또는 그 사유가 있음을 안 날로부터 30일 이내에 서면으로 이를 요구하여야 한다.③수급인은 제2항의 규정에 따라 하도급계약내용 또는 하수급인의 변경 요구를 받은 경우에는 특별한 사유가 없는 한 이에 응하여야 한다.④발주자는 수급인이 특별한 사유없이 제3항의 요구에 응하지 아니하여 공사결과에 중대한 영향을 초래할 우려가 있다고 인정하는 때에는 법 제31조의6제3항의 규정에 의하여 정보통신공사의 도급계약을 해지할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제1항",
+            "link_text": "제4조제2항",
+            "line_text": "",
+            "target_law_name": "정보통신공사 하도급계약의 적정성 심사기준",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/정보통신공사 하도급계약의 적정성 심사기준/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정보통신공사하도급계약의적정성심사기준#JO0009",
+            "reference_id": "admrul:정보통신공사하도급계약의적정성심사기준#JO0004"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제1항",
+            "link_text": "제5조",
+            "line_text": "",
+            "target_law_name": "정보통신공사 하도급계약의 적정성 심사기준",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/정보통신공사 하도급계약의 적정성 심사기준/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정보통신공사하도급계약의적정성심사기준#JO0009",
+            "reference_id": "admrul:정보통신공사하도급계약의적정성심사기준#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제4항",
+            "link_text": "제31조의6제3항",
+            "line_text": "",
+            "target_law_name": "정보통신공사업법",
+            "target_article_no": "제31조의6",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/정보통신공사업법/제31조의6",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:정보통신공사하도급계약의적정성심사기준#JO0009",
+            "reference_id": "law:정보통신공사업법#JO0031_06"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:정보통신공사하도급계약의적정성심사기준#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "재심사",
+        "chapter": "",
+        "content": "제10조(재심사) ①수급인이 제9조의 규정에 의한 발주자의 통보에 대하여 부당하다고 인정하는 경우에는 10일 이내에 관련서류를 보완 또는 추가하여 재심사를 요구할 수 있다.②제1항의 규정에 의한 재심사요구에 대하여 발주자는 이를 심사한 후 7일이내에 그 결과를 수급인에게 통지하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "제9조",
+            "line_text": "",
+            "target_law_name": "정보통신공사 하도급계약의 적정성 심사기준",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/정보통신공사 하도급계약의 적정성 심사기준/제9조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정보통신공사하도급계약의적정성심사기준#JO0010",
+            "reference_id": "admrul:정보통신공사하도급계약의적정성심사기준#JO0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:정보통신공사하도급계약의적정성심사기준#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "규제의 재검토",
+        "chapter": "",
+        "content": "제11조(규제의 재검토) 과학기술정보통신부장관은 「행정규제기본법」제8조 및 「훈령·예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제248호)에 따라 이 고시에 대하여 2014년 12월 1일을 기준으로 매 3년마다(매 3년이 되는 해의 기준일과 같은 날 전까지를 말한다) 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "「행정규제기본법」",
+            "line_text": "",
+            "target_law_name": "행정규제기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/행정규제기본법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정보통신공사하도급계약의적정성심사기준#JO0011",
+            "reference_id": "law:행정규제기본법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "제8조",
+            "line_text": "",
+            "target_law_name": "행정규제기본법",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/행정규제기본법/제8조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정보통신공사하도급계약의적정성심사기준#JO0011",
+            "reference_id": "law:행정규제기본법#JO0008"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "「훈령·예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령·예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령·예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정보통신공사하도급계약의적정성심사기준#JO0011",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:정보통신공사하도급계약의적정성심사기준#JO0011"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20141202",
+      "promulgation_no": "2014-88",
+      "content": "부칙 <제2014-88호,2014. 12. 2.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20170712",
+      "promulgation_no": "2017-40",
+      "content": "부칙 <제2017-40호,2017. 7. 12.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20180927",
+      "promulgation_no": "2018-61",
+      "content": "부칙 <제2018-61호,2018. 9. 27.>이 고시는 고시한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "정보통신공사업 하도급 심사항목 및 배점기준(제6조 관련)",
+      "enforcement_date": "",
+      "content": "〔별표 1〕\n정보통신공사업 하도급 심사항목 및 배점기준(제6조 관련)\nI. 하도급계약금액의 적정성(50)\n┌─────┬───────┬───────────────────────────────────────────────┐\n│판단항목  │세부 판단 항목│세부 판단 기준 및 방법                                                                        │\n├─────┼───────┼───────────────────────────────────────────────┤\n│하도급    │하도급공사의  │                                                                                              │\n│계약금액의│낙찰비율      │  30­2(  82    -   하도급    )×   100                                                       │\n│적정성    │(30점)        │                    계약금액                                                                  │\n│(50점)    │              │        ────  ──────                                                                │\n│          │              │          100       하도급                                                                    │\n│          │              │                    부분금액                                                                  │\n│          │              │                                                                                              │\n│          ├───────┼───────────────────────┬───────────────────────┤\n│          │원도급공사의  │① 적격심사 대상공사                          │② 최저가낙찰제 대상공사                      │\n│          │낙찰비율      │                                              │                                              │\n│          │(20점)        │  20­1/2(  88    -   원도급금액  )×   100   │  20­1/2(  75    -   원도급금액  )×   100   │\n│          │              │          ────  ───────            │          ────  ───────            │\n│          │              │            100       예정가격                │            100       예정가격                │\n│          │              │                                              │                                              │\n│          │              │ ※ 88% 이상은 만점으로 함                    │ ※ 75% 이상은 만점으로 함                    │\n└─────┴───────┴───────────────────────┴───────────────────────┘\nII. 수행능력의 적정성(50)\n┌─────┬───────┬─────────────────────────────────────┐\n│판단항목  │세부 판단 항목│세부 판단 기준 및 방법                                                    │\n├─────┼───────┼─────────────────────────────────────┤\n│하수급인의│하수급인의    │① 당해 공사규모에 대한 하수급인의 시공능력평가 공시액                    │\n│사업수행  │시공능력평가액│┌────┬─────┬─────┬─────┬─────┐              │\n│능력      │(20점)        ││2배이상 │1.5배～2배│1배～1.5배│0.5배～1배│0.5배미만 │              │\n│(50점)    │              │├────┼─────┼─────┼─────┼─────┤              │\n│          │              ││20점    │18점      │16점      │14점      │12점      │              │\n│          │              │└────┴─────┴─────┴─────┴─────┘              │\n│          ├───────┼─────────────────────────────────────┤\n│          │하수급인의    │② 하수급인의 최근 5년간 시공실적 합산액                                  │\n│          │시공경험      │┌────┬─────┬─────┬─────┬─────┐              │\n│          │(15점)        ││2배이상 │1.5배～2배│1배～1.5배│0.5배～1배│0.5배미만 │              │\n│          │              │├────┼─────┼─────┼─────┼─────┤              │\n│          │              ││15점    │14점      │13점      │12점      │11점      │              │\n│          │              │└────┴─────┴─────┴─────┴─────┘              │\n│          ├───────┼─────────────────────────────────────┤\n│          │공사업        │③ 정보통신공사업 영위기간                                                │\n│          │영위기간      │┌────┬─────────┬────────┬────┐              │\n│          │(5점)         ││10년이상│5년이상～10년미만 │1년이상～5년미만│1년미만 │              │\n│          │              │├────┼─────────┼────────┼────┤              │\n│          │              ││5점     │4점               │3점             │2점     │              │\n│          │              │└────┴─────────┴────────┴────┘              │\n│          ├───────┼─────────────────────────────────────┤\n│          │하도급공사의  │④ 공사의 하자담보책임 기간(「정보통신공사업법 시행령 제37조에 따른 공사  │\n│          │하자담보      │의 종류별 하자담보책임 기간)                                              │\n│          │책임 기간     │┌─────┬─────┬─────┐                                    │\n│          │(5점)         ││1년인 공종│3년인 공종│5년인 공종│                                    │\n│          │              │├─────┼─────┼─────┤                                    │\n│          │              ││5점       │4점       │3점       │                                    │\n│          │              │└─────┴─────┴─────┘                                    │\n│          ├───────┼─────────────────────────────────────┤\n│          │하수급인의    │⑤ 하수급인이 당해 공사현장 소재 시·도 업체인 경우, 당해 공사현장 소재 시│\n│          │시공여건      │(서울특별시 및 광역시 포함)·군 또는 인접 시·군 공사현장에서 동종의      │\n│          │(5점)         │공사를 수행하는 경우                                                      │\n├─────┼───────┼─────────────────────────────────────┤\n│기타      │법 위반여부   │⑥ 최근1년간 정보통신공사업법 위반여부(영업정지 또는 과징금에 한함)       │\n│          │(-1점)        │                                                                          │\n└─────┴───────┴─────────────────────────────────────┘\n※ 시공실적 인정방법 : 적격심사와 동일한 방법으로 시공실적을 인정\n※ 소숫점이하의 처리 : 소숫점 첫째자리에서 반올림",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000157409&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=36835355",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=36835355",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:정보통신공사하도급계약의적정성심사기준#BYL0001",
+      "filename": "별표1_정보통신공사업 하도급 심사항목 및 배점기준(제6조 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "서식",
+      "title": "하도급심사 자기평가표",
+      "enforcement_date": "",
+      "content": "〔별지 제1호 서식〕\n하도급심사 자기평가표\n??????????????????????????????????????????????????????????????????????\n┏━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━┓\n┃1. 수급인 관련 사항       ┃2. 하수급인 관련 사항                     ┃\n┠─────┬───────╂─────┬───────────────┨\n┃공 사 명  │              ┃하 도 급  │                              ┃\n┃          │              ┃공 사 명  │                              ┃\n┠─────┼───────╂─────┼───────────────┨\n┃수 급 자  │       (전화) ┃하수급인  │        (전화)                ┃\n┠─────┼───────╂─────┼───────────────┨\n┃계약금액  │원            ┃하도급액  │원                            ┃\n┠─────┼───────╂─────┼───────────────┨\n┃계약기간  │              ┃하 도 급  │                              ┃\n┃          │              ┃기    간  │                              ┃\n┠─────┼───────╂─────┼───────────────┨\n┃하자담보  │              ┃하자담보  │                              ┃\n┃책임기간  │              ┃책임기간  │                              ┃\n┠─────┼───────╂─────┼───────────────┨\n┃낙찰율    │         %    ┃부분      │         %                    ┃\n┃          │              ┃하도급율  │(하도급 부분금액 :        원) ┃\n┗━━━━━┷━━━━━━━┻━━━━━┷━━━━━━━━━━━━━━━┛\n\n\n\n3. 평가결과\n\n(단위 : 점)\n┏━━━━━━━━━━━━━━━━━━┯━━━━┯━━━━┯━━━━━━━┓\n┃심  사  요  소                      │배점한도│자기평점│심사평점      ┃\n┠──────────────────┼────┼────┼───────┨\n┃계                                  │100     │        │              ┃\n┠──────────────────┼────┼────┼───────┨\n┃1. 하도급계약금액의 적정성          │50      │        │              ┃\n┃ 가. 하도급공사의 낙찰비율          │(30)    │        │              ┃\n┃ 나. 원도급공사의 낙찰비율          │(20)    │        │              ┃\n┠──────────────────┼────┼────┼───────┨\n┃2. 하수급인의 사업수행능력          │50      │        │              ┃\n┃ 가. 하수급인의 시공능력평가액      │(20)    │        │              ┃\n┃ 나. 하수급인의 시공경험            │(15)    │        │              ┃\n┃ 다. 정보통신공사업 영위기간        │(5)     │        │              ┃\n┃ 라. 하도급공사의 하자담보 책임기간 │(5)     │        │              ┃\n┃ 마. 하수급공사의 시공여건          │(5)     │        │              ┃\n┃ 바. 공사업법 위반여부              │(감점 1)│        │              ┃\n┗━━━━━━━━━━━━━━━━━━┷━━━━┷━━━━┷━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=36835361",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=36835361",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:정보통신공사하도급계약의적정성심사기준#BJ0001",
+      "filename": "서식1_하도급심사 자기평가표.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "정보통신공사 하도급계약의 적정성 심사기준 일부개정.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=36836502",
+      "file_store_url": "",
+      "filename": "정보통신공사 하도급계약의 적정성 심사기준 일부개정.hwp"
+    },
+    {
+      "name": "180418-정보통신공사 하도급계약의 적정성 심사기준(고시) 조문별 개정이유서(안).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=36819819",
+      "file_store_url": "",
+      "filename": "180418-정보통신공사 하도급계약의 적정성 심사기준(고시) 조문별 개정이유서(안).hwp"
+    },
+    {
+      "name": "정보통신공사 하도급계약의 적정성 심사기준(개정전).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=36819820",
+      "file_store_url": "",
+      "filename": "정보통신공사 하도급계약의 적정성 심사기준(개정전).hwp"
+    },
+    {
+      "name": "정보통신공사 하도급계약의 적정성 심사기준(개정후).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=36819821",
+      "file_store_url": "",
+      "filename": "정보통신공사 하도급계약의 적정성 심사기준(개정후).hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 14,
+    "by_category": {
+      "법령": 6,
+      "행정규칙": 6,
+      "별표": 1,
+      "별지": 1
+    },
+    "by_relation_type": {
+      "citation": 7,
+      "internal_ref": 5,
+      "appendix_ref": 2
+    },
+    "articles_total": 11,
+    "articles_with_relations": 6,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 3,
+    "appendices_count": 2,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/정보통신공사 하도급계약의 적정성 심사기준"
+  },
+  "provision_id": "admrul:정보통신공사하도급계약의적정성심사기준#DOC"
+}
