@@ -1,0 +1,832 @@
+{
+  "law_id": "2200000141303",
+  "mst": "2200000141303",
+  "law_name": "부산관광공사 민원처리규정",
+  "law_abbr": "",
+  "law_type": "공단규정",
+  "doc_target": "public",
+  "doc_kind": "공공기관",
+  "adm_uid": "public:2200000141303",
+  "promulgation_no": "88",
+  "promulgation_date": "20181001",
+  "enforcement_date": "20181001",
+  "revision_date": "20181001",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "부산관광공사",
+    "담당자명": "경영지원팀",
+    "행정규칙종류코드": "B0029",
+    "행정규칙명": "부산관광공사 민원처리규정",
+    "발령일자": "20181001",
+    "행정규칙종류": "공단규정",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "부산관광공사",
+    "전화번호": "051-780-2111",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "B552974",
+    "생성일자": "20250327",
+    "행정규칙ID": "2107982",
+    "담당부서기관코드": "",
+    "발령번호": "88",
+    "행정규칙일련번호": "2200000141303"
+  },
+  "amendment_text": "",
+  "revision_reason": "사규 현행화",
+  "body": {
+    "format": "articles",
+    "article_count": 31,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조(목적) 이 규정은「민원 처리에 관한 법률」과 같은 법 시행령 및 시행규칙에 따라 부산관광공사(이하“공사”이라 한다)의 민원을 효율적으로 처리하는데 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "민원 처리에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/민원 처리에 관한 법률 시행령",
+            "resolve_method": "render",
+            "source_provision_id": "public:부산관광공사민원처리규정#JO0001",
+            "reference_id": "law:민원처리에관한법률시행령#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:부산관광공사민원처리규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "제1장 총칙",
+        "content": "제2조(정의) 이 규정에서 사용하는 용어의 뜻은 다음과 같다.1. \"민원\"이란 민원인이 공사에 대하여 처분 등 특정한 행위를 요구하는 것을 말하며, 그 종류는 다음 각 목과 같다.가. 일반민원(1) 법정민원: 법령·훈령·예규·고시·자치법규 등(이하 “관계법령 등”이라 한다)에서 정한 일정 요건에 따라 인가·허가·승인·특허·면허 등을 신청하거나 장부·대장 등에 등록·등재를 신청 또는 신고하거나 특정한 사실 또는 법률관계에 관한 확인 또는 증명을 신청하는 민원(2) 질의민원: 법령·제도·절차 등의 행정업무에 관하여 설명이나 해석을 요구하는 민원(3) 건의민원: 행정제도 및 운영의 개선을 요구하는 민원(4) 기타민원: 법정민원, 질의민원, 건의민원 및 고충민원 외에 공사에 단순한 행정절차 또는 형식요건 등에 대한 상담·설명을 요구하거나 일상생활에서 발생하는 불편사항에 대하여 알리는 등 공사에 특정한 행위를 요구하는 민원나. 고충민원: 공사의 위법·부당하거나 소극적인 처분 및 불합리한 행정제도로 인한 권리 침해, 불편 또는 부담을 주는 사항에 관한 민원2. \"민원인\"이란 공사에 민원을 제기하는 개인·법인 또는 단체를 말한다. 다만, 행정기관(사경제의 주체로서 제기하는 경우는 제외), 공사와 사법상 계약관계(민원과 직접 관련된 계약관계만 해당)에 있는 자, 성명·주소 등이 불명확한 자 등은 제외한다.3. \"복합민원\"이란 하나의 민원 목적을 실현하기 위하여 여러 관계 부서의 인가·허가·승인·추천·협의 또는 확인 등을 거쳐 처리되는 민원을 말한다.4. \"다수인관련민원\"이란 5세대(世帶) 이상의 공동이해와 관련되어 5명 이상이 연명으로 제출하는 민원을 말한다.5. \"전자문서\"란 컴퓨터 등 정보처리능력을 지닌 장치에 의하여 전자적인 형태로 작성되어 송수신되거나 저장되는 표준화된 정보를 말한다.6. \"전자민원창구\"란 민원인이 공사를 직접 방문하지 아니하고도 민원사항 등을 처리할 수 있도록 인터넷 홈페이지에 설치·운영되는 창구를 말한다.7. “민원관리부서”란 직제규정에서 정하는 바에 따라 민원업무를 종합 관리하는 부서를 말한다.8. “민원처리부서”란 당해 민원을 직접 처리하는 부서를 말하며 지정은 민원관리부서가 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:부산관광공사민원처리규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "적용 범위",
+        "chapter": "제1장 총칙",
+        "content": "제3조(적용 범위) 민원에 관하여 다른 규정에 특별한 조항이 있는 경우를 제외하고는이 규정에서 정하는 바에 따른다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:부산관광공사민원처리규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "민원 처리의 원칙",
+        "chapter": "제1장 총칙",
+        "content": "제4조(민원 처리의 원칙) ① 관계법령 등에서 정한 처리기간이 남아 있다거나 그 민원과 관련 없는 이유로 민원 처리를 지연시켜서는 아니 된다.② 다른 규정에 특별 조항이 있는 경우를 제외하고는 민원 처리의 절차 등을 강화하여서는 아니 된다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:부산관광공사민원처리규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "민원인 등의 정보 보호",
+        "chapter": "제1장 총칙",
+        "content": "제5조(민원인 등의 정보 보호) ① 민원 처리와 관련하여 알게 된 민원의 내용과 민원인 및 민원의 내용에 포함되어 있는 특정인의 개인정보 등이 누설되지 아니하도록 필요한 조치를 강구하여야 하며, 수집된 정보가 민원 처리의 목적 외의 용도로 사용되지 아니하도록 하여야 한다.② 개인정보보호 관리부서의 장은 정보 보호의 실태를 확인·점검하고, 민원처리 담당자에게 연 1회 이상 정보 보호에 필요한 교육을 실시하여야 한다.③ 개인정보보호 관리부서의 장은 제2항에 따른 확인·점검 결과 법령위반 사실을 발견하거나 정보 보호 조치가 미흡하다고 판단되는 경우에는 지체 없이 이를 시정하고, 민원처리 담당자에 대하여 징계 또는 그 밖에 필요한 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:부산관광공사민원처리규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "민원의 신청",
+        "chapter": "제2장 접수 및 처리",
+        "content": "제6조(민원의 신청) 민원의 신청은 문서(전자문서를 포함)로 한다. 다만, 민원인 또는그 위임을 받은 사람이 직접 방문할 필요가 없는 민원은 팩스·인터넷 등 정보통신망또는 우편 등으로 신청할 수 있고, 기타민원인 경우는 구술(口述) 또는 전화로 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:부산관광공사민원처리규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "민원의 접수",
+        "chapter": "제2장 접수 및 처리",
+        "content": "제7조(민원의 접수) ① 민원은 민원관리부서(전자민원창구 포함)에서 접수하여야 하며, 다른 법률이나 규정에 특별한 조항이 있는 경우를 제외하고는 그 접수를 보류하거나 거부할 수 없으며, 접수된 민원문서를 부당하게 되돌려 보내서는 아니 된다.② 민원을 접수하였을 때에는 그 순서에 따라 민원처리부(별지 제1호 서식)에 기록하고 해당 민원인에게 접수증(별지 제2호 서식)을 발급하여야 한다. 다만, 기타민원과 민원인이 직접 방문하지 아니하고 신청한 민원, 처리기간이 ‘즉시’인 민원 및 접수증을 갈음하는 문서를 주는 민원 등은 접수증 교부를 생략 할 수 있다.③ 민원을 접수하였을 때에는 구비서류의 완비 여부, 처리 기준과 절차, 예상 처리소요기간, 필요한 현장 확인 또는 조사 예정시기 등을 해당 민원인에게 안내하여야 한다.④ 필요하다고 인정되는 경우에는 해당 민원인 본인 또는 그 위임을 받은 사람이 맞는지 확인할 수 있다. 민원인의 위임을 받은 사람이 맞는지 확인할 때에는 그 신원을 확인할 수 있는 신분증명서와 위임장(별지 제3호 서식) 등으로 확인하여야 한다.⑤ 제2항에도 불구하고 민원의 접수 편의와 효율적인 자료관리 등을 위하여 필요하다고 인정할 때에는 제2항의 서식을 전자적 시스템으로 작성·관리할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "별지 제1호 서식",
+            "line_text": "",
+            "target_law_name": "부산관광공사 민원처리규정",
+            "target_article_no": "별지1",
+            "target_article_title": "민원처리부",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150466119",
+            "resolve_method": "render",
+            "source_provision_id": "public:부산관광공사민원처리규정#JO0007",
+            "reference_id": "public:부산관광공사민원처리규정#BJ0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "별지 제2호 서식",
+            "line_text": "",
+            "target_law_name": "부산관광공사 민원처리규정",
+            "target_article_no": "별지2",
+            "target_article_title": "접수증",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150466123",
+            "resolve_method": "render",
+            "source_provision_id": "public:부산관광공사민원처리규정#JO0007",
+            "reference_id": "public:부산관광공사민원처리규정#BJ0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제4항",
+            "link_text": "별지 제3호 서식",
+            "line_text": "",
+            "target_law_name": "부산관광공사 민원처리규정",
+            "target_article_no": "별지3",
+            "target_article_title": "위임장",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150466127",
+            "resolve_method": "render",
+            "source_provision_id": "public:부산관광공사민원처리규정#JO0007",
+            "reference_id": "public:부산관광공사민원처리규정#BJ0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:부산관광공사민원처리규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "불필요한 서류 요구의 금지",
+        "chapter": "제2장 접수 및 처리",
+        "content": "제8조(불필요한 서류 요구의 금지) ① 민원을 접수·처리할 때에 민원인에게 관계법령 등에서 정한 구비서류 외의 서류를 추가로 요구하여서는 아니 된다.② 동일한 민원서류 또는 구비서류를 복수로 받는 경우에는 특별한 사유가 없으면 원본과 함께 그 사본의 제출을 허용하여야 한다.③ 민원을 접수·처리할 때에 다음 각호의 어느 하나에 해당하는 경우에는 민원인에게 관련 증명서류 또는 구비서류의 제출을 요구할 수 없으며, 그 민원을 처리하는 담당자가 직접 이를 확인·처리하여야 한다.1. 민원인이 소지한 주민등록증·여권·자동차운전면허증 등 행정기관이 발급한 증명서로 그 민원의 처리에 필요한 내용을 확인할 수 있는 경우2. 공사의 공부 또는 행정정보로 그 민원의 처리에 필요한 내용을 확인할 수 있는 경우④ 원래의 민원의 내용 변경 또는 갱신 신청을 받았을 때에는 특별한 사유가 없으면 이미 제출되어 있는 관련 증명서류 또는 구비서류를 다시 요구하여서는 아니 된다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:부산관광공사민원처리규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "민원편람의 비치 등 신청편의 제공",
+        "chapter": "제2장 접수 및 처리",
+        "content": "제9조(민원편람의 비치 등 신청편의 제공) ① 민원의 신청에 필요한 사항을 게시(인터넷 등을 통한 게시를 포함)하거나 편람을 비치하는 등 민원인에게 민원 신청의 편의를 제공하여야 한다.② 민원편람에 민원의 종류별로 신청서식, 구비서류, 민원처리부서, 협조부서, 처리절차, 처리기간, 심사기준, 수수료, 그 밖에 민원에 관한 안내에 필요한 사항을 분명히 적어야 한다.③ 민원처리기준표(별표 1)에 민원의 처리기간, 구비서류, 처리절차, 신청방법 등에 관한 사항을 종합적으로 작성하여야 한다.④ 민원인의 편의를 위하여 민원인이 민원 신청에 필요한 사항을 담당자에게 구술하고, 담당자가 이를 문서로 작성하여 민원인이 서명한 때에는 이를 민원문서로 접수할 수 있다.⑤ 민원의 신청 및 접수·처리 과정에서 장애인, 임산부, 노약자 등에 대한 편의를 제공하기 위하여 노력하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제3항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "부산관광공사 민원처리규정",
+            "target_article_no": "별표1",
+            "target_article_title": "민원처리기준표",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000141303&bylNo=0001&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "public:부산관광공사민원처리규정#JO0009",
+            "reference_id": "public:부산관광공사민원처리규정#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:부산관광공사민원처리규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "민원문서의 이송",
+        "chapter": "제2장 접수 및 처리",
+        "content": "제10조(민원문서의 이송) ① 접수된 민원문서가 소관이 아닌 경우 1근무시간 이내에 민원관리부서를 거쳐 민원처리부서로 이송하여야 한다. 다만, 민원처리부서가 상당히 떨어져 있는 등 특별한 사유가 있어 1근무시간 이내에 이송하기 어려운 경우에는 3근무시간 이내에 이송할 수 있다.② 공사 소관이 아닌 민원문서를 접수한 경우에는 8근무시간 이내에 소관 행정기관에 이송하고, 그 사실을 민원인에게 통지하여야 한다.③ 제1항 및 제2항의 규정에도 불구하고 접수된 민원문서가 전자문서인 경우에는 지체 없이 소관 기관 또는 부서에 전자적 방법으로 이송하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:부산관광공사민원처리규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "일반민원의 처리기간 등",
+        "chapter": "제2장 접수 및 처리",
+        "content": "제11조(일반민원의 처리기간 등) ①법정민원의 종류별 소요 처리기간은 관련법령이 정한 바에 의한다.② 제도·절차 등 법령 외의 사항에 관하여 설명이나 해석을 요구하는 질의민원은 7일 이내에 처리하여야 한다.③ 건의민원을 접수한 경우에는 특별한 사유가 없으면 14일 이내에 처리하여야 한다.④ 기타민원을 접수한 경우에는 특별한 사유가 없으면 즉시 처리하여야 한다. 단, 업무의 특성을 고려하여 기타민원의 처리기간 및 처리절차 등을 달리 정하여 운영할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:부산관광공사민원처리규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "고충민원의 처리기간 등",
+        "chapter": "제2장 접수 및 처리",
+        "content": "제12조(고충민원의 처리기간 등) ① 고충민원을 접수한 때에는 특별한 사유가 없으면7일 이내에 처리하여야 한다.② 민원인이 동일한 내용의 고충민원을 다시 제출한 경우에는 감사부서 등으로 하여금 이를 조사하도록 하여야 한다.③ 제1항에 따라 처리하는 고충민원의 내용이 정당한 사유가 있다고 인정될 때에는 지체 없이 원처분(原處分)의 취소·변경 등 적절한 조치를 하고, 이를 민원인에게 통지하여야 한다.④ 고충민원의 처리를 위하여 필요한 경우 14일의 범위에서 실지조사 등을 할 수 있다. 다만, 부득이한 사유로 14일 내에 실지조사 등을 완료하기 어렵다고 인정되는 경우에는 7일의 범위에서 그 기간을 한 차례만 연장할 수 있다.⑤ 제4항에 따른 실지조사 등에 걸린 기간은 제1항에 따른 처리기간에 산입하지 아니한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:부산관광공사민원처리규정#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "처리기간의 계산",
+        "chapter": "제2장 접수 및 처리",
+        "content": "제13조(처리기간의 계산) ① 민원의 처리기간을 ‘즉시’로 정한 경우에는 정당한 사유가있는 경우를 제외하고는 3근무시간 이내에 처리하여야 한다.② 민원의 처리기간을 5일 이하로 정한 경우에는 민원의 접수시각부터 “시간” 단위로 계산하되, 1일은 8시간의 근무시간을 기준으로 한다.③ 민원의 처리기간을 6일 이상으로 정한 경우에는 \"일\" 단위로 계산하고 첫날을 산입한다.④ 민원의 처리기간을 주·월·연으로 정한 경우에는 첫날을 산입하고, 최종의 월에 해당일이 없는 때에는 그 월의 말일로 기간이 만료한다.⑤ 민원의 처리기간에 공휴일과 토요일은 산입(算入)하지 아니한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:부산관광공사민원처리규정#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "처리기간에 산입하지 아니하는 기간",
+        "chapter": "제2장 접수 및 처리",
+        "content": "제14조(처리기간에 산입하지 아니하는 기간) 다음 각호에 관하여는 민원의 처리기간에 산입하지 아니 한다1. 신청서의 보완에 소요되는 기간2. 접수·경유·협의 및 처리를 위해 원격지 부서로 문서 이송하는데 소요되는 기간3. 다수인 민원의 대표자를 선정하는 데 소요되는 기간4. 의견청취가 실시되는 경우 그에 소요되는 기간5. 실험·검사·감정, 전문적인 기술검토 등에 소요되는 기간6. 선행사무의 완결을 조건으로 하는 경우 그에 소요되는 기간",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:부산관광공사민원처리규정#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "처리기간의 연장 등",
+        "chapter": "제2장 접수 및 처리",
+        "content": "제15조(처리기간의 연장 등) ① 부득이한 사유로 처리기간 내에 민원을 처리하기 어렵다고 인정되는 경우에는 그 민원의 처리기간의 범위에서 그 처리기간을 한 차례연장할 수 있다. 다만, 연장된 처리기간 내에 처리하기 어려운 경우에는 민원인의 동의를 받아 그 민원의 처리기간의 범위에서 처리기간을 한 차례만 다시 연장할 수 있다.② 제1항에 따라 처리기간을 연장하였을 때에는 처리기간의 연장 사유와 처리완료 예정일을 지체 없이 민원인에게 문서로 통지(별지 제4호 서식)하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제2항",
+            "link_text": "별지 제4호 서식",
+            "line_text": "",
+            "target_law_name": "부산관광공사 민원처리규정",
+            "target_article_no": "별지4",
+            "target_article_title": "민원 처리기간 연장 통지서",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150466131",
+            "resolve_method": "render",
+            "source_provision_id": "public:부산관광공사민원처리규정#JO0015",
+            "reference_id": "public:부산관광공사민원처리규정#BJ0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:부산관광공사민원처리규정#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "처리진행상황 등의 통지",
+        "chapter": "제2장 접수 및 처리",
+        "content": "제16조(처리진행상황 등의 통지) ① 민원이 접수된 날부터 30일이 지났으나 처리가 완료되지 아니한 경우 또는 민원인의 명시적인 요청이 있는 경우에는 그 처리진행상황과 처리완료 예정일 등을 민원인에게 문서로 통지하여야 한다.② 제1항에 따른 통지는 민원이 접수된 날부터 30일이 지날 때마다 통지하는 것을 원칙으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:부산관광공사민원처리규정#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "관계 부서 간의 협조",
+        "chapter": "제2장 접수 및 처리",
+        "content": "제17조(관계 부서 간의 협조) ① 민원처리부서는 민원을 처리할 때 관계 부서의 협조가 필요한 경우에는 민원을 접수한 후 지체 없이 민원관리부서를 경유하여 협조를요청하여야 하며, 요청받은 부서는 그 회신기간 내에 이를 처리하여야 한다.② 협조를 요청받은 부서가 처리기간을 연장하려는 경우에는 회신기간이 끝나기 전에 그 연장사유·처리진행상황 및 회신예정일 등을 민원관리부서에 통보하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:부산관광공사민원처리규정#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "민원 처리의 예외",
+        "chapter": "제2장 접수 및 처리",
+        "content": "제18조(민원 처리의 예외) 접수된 민원(법정민원을 제외)이 다음 각호의 어느 하나에 해당하는 경우에는 그 민원을 처리하지 아니할 수 있다. 이 경우 그 사유를 해당 민원인에게 통지하여야 한다.1. 고도의 정치적 판단을 요하거나 국가기밀 또는 공무상 비밀에 관한 사항2. 수사, 재판 및 형집행에 관한 사항 또는 감사원의 감사가 착수된 사항3. 행정심판, 행정소송, 헌법재판소의 심판, 감사원의 심사청구 등 불복구제절차가진행 중인 사항4. 법령에 따라 화해·알선·조정·중재 등 이해 조정을 목적으로 행하는 절차가 진행 중인 사항5. 판결·결정·재결·화해·조정·중재 등에 따라 확정된 권리관계에 관한 사항6. 사인 간의 권리관계 또는 개인의 사생활에 관한 사항7. 공사의 소속 직원에 대한 인사행정상의 행위에 관한 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:부산관광공사민원처리규정#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "민원문서의 보완·취하 등",
+        "chapter": "제2장 접수 및 처리",
+        "content": "제19조(민원문서의 보완·취하 등) ① 접수한 민원문서에 보완이 필요한 경우에는 민원문서를 접수한 때부터 8근무시간 이내에 상당한 기간을 정하여 민원인에게 보완을 요구하여야 한다. 다만, 현지조사 등 정당한 사유로 8근무시간이 지난 후 보완하여야 할 사항이 발견된 경우에는 즉시 보완을 요구하여야 한다.② 민원인은 해당 민원의 처리가 종결되기 전에는 그 신청의 내용을 보완하거나 변경 또는 취하할 수 있다. 다만, 다른 법률이나 규정에 특별한 규정이 있거나 그 민원의 성질상 보완·변경 또는 취하할 수 없는 경우에는 그러하지 아니하다.③ 민원인에게 민원문서의 보완을 요구하는 경우에는 문서 또는 구술 등으로 하되, 민원인이 특별히 요청한 경우에는 문서로 하여야 한다.④ 제1항에 따라 보완 요구를 받은 민원인이 보완 요구를 받은 기간 내에 보완을 할 수 없음을 이유로 보완에 필요한 기간을 분명하게 밝혀 기간 연장을 요청하는 경우에는 이를 고려하여 다시 보완기간을 정하여야 한다. 이 경우 민원인의 기간 연장 요청은 2회로 한정한다.⑤ 보완기간 내에 민원문서를 보완하지 아니한 경우에는 10일 이내의 기간을 정하여 다시 보완을 요구할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:부산관광공사민원처리규정#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "민원문서의 반려 등",
+        "chapter": "제2장 접수 및 처리",
+        "content": "제20조(민원문서의 반려 등) ① 제19조에 따른 기간 내에 민원문서를 보완하지 아니한 경우에는 그 이유를 분명히 밝혀 접수된 민원문서를 되돌려 보낼 수 있다.② 민원인의 소재지가 분명하지 아니하여 제19조에 따른 보완요구가 2회에 걸쳐 반송된 경우에는 민원인이 민원을 취하한 것으로 보아 이를 종결처리 할 수 있다.③ 민원인이 민원을 취하하여 민원문서의 반환을 요청한 경우에는 다른 법령에 특별한 규정이 있는 경우를 제외하고는 그 민원문서를 민원인에게 돌려주어야 한다.④ 민원인에게 직접 교부할 필요가 있는 허가서·신고필증·증명서 등의 문서를 정당한 사유 없이 처리완료 예정일로부터 15일이 지날 때까지 민원인 또는 그 위임을 받은 자가 수령하지 아니한 경우에는 이를 폐기하고 해당 민원을 종결처리할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제1항",
+            "link_text": "제19조",
+            "line_text": "",
+            "target_law_name": "부산관광공사 민원처리규정",
+            "target_article_no": "제19조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/부산관광공사 민원처리규정/제19조",
+            "resolve_method": "render",
+            "source_provision_id": "public:부산관광공사민원처리규정#JO0020",
+            "reference_id": "public:부산관광공사민원처리규정#JO0019"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제2항",
+            "link_text": "제19조",
+            "line_text": "",
+            "target_law_name": "부산관광공사 민원처리규정",
+            "target_article_no": "제19조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/부산관광공사 민원처리규정/제19조",
+            "resolve_method": "render",
+            "source_provision_id": "public:부산관광공사민원처리규정#JO0020",
+            "reference_id": "public:부산관광공사민원처리규정#JO0019"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:부산관광공사민원처리규정#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "반복 및 중복 민원의 처리",
+        "chapter": "제2장 접수 및 처리",
+        "content": "제21조(반복 및 중복 민원의 처리) ① 민원인이 동일한 내용의 민원을 정당한 사유 없이 3회 이상 반복하여 제출한 경우에는 2회 이상 그 처리결과를 통지하고, 그 후에 접수되는 민원에 대하여는 종결처리할 수 있다.② 민원인이 2개 이상의 기관에 제출한 동일한 내용의 민원을 다른 기관으로부터 이송받은 경우에도 제1항을 준용하여 처리할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:부산관광공사민원처리규정#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "다수인 민원의 처리",
+        "chapter": "제2장 접수 및 처리",
+        "content": "제22조(다수인 민원의 처리) ① 다수인관련민원을 신청하는 민원인은 연명부를 원본으로 제출하여야 한다.② 다수인관련민원이 발생한 경우에는 신속·공정·적법하게 해결될 수 있도록 조치하여야 한다.③ 3명 이상의 민원인이 대표자를 정하지 아니하고 같은 민원문서를 연명으로 제출한 경우에는 일정한 기간을 정하여 민원인 중에서 3명 이내의 대표자를 선정하여 통보할 것을 요청할 수 있다.④ 제3항에 따라 대표자로 선정하여 통보할 것을 요청 받은 3명 이상의 민원인이 정해진 기간 내에 대표자를 선정하여 통보하지 아니한 경우에는 3명 이상의 민원인 중 3명 이내를 대표자로 직접 선정할 수 있다.⑤ 제3항 및 제4항에 따라 선정된 대표자를 해당 민원의 민원인으로 본다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:부산관광공사민원처리규정#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "복합민원의 처리",
+        "chapter": "제2장 접수 및 처리",
+        "content": "제23조(복합민원의 처리) ① 민원관리부서는 복합민원을 처리할 주무부서를 지정하고 그 부서로 하여금 관계 부서 간의 협조를 통하여 민원을 한꺼번에 처리하게 할 수 있다.② 복합민원과 관련된 모든 민원문서를 지정된 주무부서에 한꺼번에 제출하게 할 수 있다.③ 복합민원을 심의하기 위하여 민원관리부서의 장이 위원장이 되고, 관계 부서의 실무책임자가 위원이 되는 고객의소리(VOC) 실무위원회의를 설치·운영할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:부산관광공사민원처리규정#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "처리상황의 확인·점검",
+        "chapter": "제2장 접수 및 처리",
+        "content": "제24조(처리상황의 확인·점검) ① 민원관리부서의 장은 민원의 처리상황과 운영실태를 매월 1회 이상 확인·점검하여야 한다.② 제1항에 따른 확인·점검 결과 법령 위반 사실을 발견하거나 민원 처리가 미흡하다고 판단되는 경우에는 지체 없이 이를 시정하고, 그 민원 처리와 관련 있는 직원 등에 대하여 징계 의뢰 또는 그 밖에 필요한 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:부산관광공사민원처리규정#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "민원심사관의 지정",
+        "chapter": "제2장 접수 및 처리",
+        "content": "제25조(민원심사관의 지정) ① 민원 처리상황의 확인·점검 등을 위하여 민원관리부서의 장을 민원심사관으로 지정 한다.② 민원심사관의 업무가 지나치게 많거나 특별히 전문성이 필요하다고 판단되는 경우에는 분임 민원심사관을 지정하여 민원심사관의 업무를 나눠 맡도록 할 수 있다.③ 민원심사관(분임 민원심사관을 포함)은 민원의 처리상황을 수시로 확인·점검하여 처리기간이 지난 민원을 발견한 경우에는 지체 없이 민원처리부서의 장에게 독촉장(별지 제5호 서식)을 발급하여야 한다.④ 민원심사관은 다수인관련민원의 처리상황을 확인·점검하고 그 결과를 사장에게 수시로 보고하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제25조",
+            "source_clause": "제25조제3항",
+            "link_text": "별지 제5호 서식",
+            "line_text": "",
+            "target_law_name": "부산관광공사 민원처리규정",
+            "target_article_no": "별지5",
+            "target_article_title": "독촉장",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150466137",
+            "resolve_method": "render",
+            "source_provision_id": "public:부산관광공사민원처리규정#JO0025",
+            "reference_id": "public:부산관광공사민원처리규정#BJ0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:부산관광공사민원처리규정#JO0025"
+      },
+      {
+        "article_no": "제26조",
+        "article_title": "처리결과의 통지",
+        "chapter": "제2장 접수 및 처리",
+        "content": "제26조(처리결과의 통지) ① 접수된 민원에 대한 처리를 완료한 때에는 그 결과를 지체 없이 민원인에게 교부하거나 정보통신망 또는 우편 등의 방법으로 통지하여야 한다. 다만, 기타민원의 경우와 통지에 신속을 요하거나 민원인이 요청하거나 동의한 경우에는 구술 또는 전화로 통지할 수 있다.② 제1항에 따라 민원의 처리결과를 통지할 때에 민원의 내용을 거부하는 경우에는 거부 이유와 구제절차를 함께 통지하여야 한다.③ 민원인에게 직접 교부할 필요가 있는 때에는 그 민원인 또는 그 위임을 받은 자임을 확인한 후에 이를 교부하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:부산관광공사민원처리규정#JO0026"
+      },
+      {
+        "article_no": "제27조",
+        "article_title": "처리민원의 사후관리",
+        "chapter": "제2장 접수 및 처리",
+        "content": "제27조(처리민원의 사후관리) 처리한 민원에 대하여 민원인의 만족 여부 및 개선사항 등을 조사하여 업무에 반영할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:부산관광공사민원처리규정#JO0027"
+      },
+      {
+        "article_no": "제28조",
+        "article_title": "민원 1회방문 처리제의 시행",
+        "chapter": "제2장 접수 및 처리",
+        "content": "제28조(민원 1회방문 처리제의 시행) 복합민원을 처리할 때에 공사 내부에서 할 수 있는 자료의 확인, 관계 부서와의 협조 등에 따른 모든 절차를 담당 직원이 직접 진행하도록 하는 민원 1회방문 처리제를 확립함으로써 불필요한 사유로 민원인이 공사 다시 방문하지 아니하도록 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:부산관광공사민원처리규정#JO0028"
+      },
+      {
+        "article_no": "제29조",
+        "article_title": "거부처분에 대한 이의신청",
+        "chapter": "제2장 접수 및 처리",
+        "content": "제29조(거부처분에 대한 이의신청) ① 법정민원에 대한 거부처분에 불복하는 민원인은그 거부처분을 받은 날부터 60일 이내에 이의신청서(별지 제6호서식)을 제출하여야 한다.② 이의신청을 받은 날부터 10일 이내에 그 이의신청에 대하여 인용 여부를 결정하고 그 결과를 민원인에게 지체 없이 문서로 통지하여야 한다. 다만, 부득이한 사유로 정하여진 기간 이내에 인용 여부를 결정할 수 없을 때에는 그 기간의 만료일 다음 날부터 기산하여 10일 이내의 범위에서 연장할 수 있으며, 연장 사유 및 기간 등을 민원인에게 통지(별지 제4호 서식)하여야 한다.③ 이의신청에 대한 결과를 통지할 때에는 결정 이유, 원래의 거부처분에 대한 불복방법 및 불복절차를 구체적으로 분명하게 밝혀야 한다.④ 이의신청에 대한 처리상황을 이의신청처리대장(별지 제7호 서식)에 기록·유지하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제29조",
+            "source_clause": "제29조제1항",
+            "link_text": "별지 제6호서식",
+            "line_text": "",
+            "target_law_name": "부산관광공사 민원처리규정",
+            "target_article_no": "별지6",
+            "target_article_title": "거부처분 이의신청서",
+            "appendix_no": "6",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150466141",
+            "resolve_method": "render",
+            "source_provision_id": "public:부산관광공사민원처리규정#JO0029",
+            "reference_id": "public:부산관광공사민원처리규정#BJ0006"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제29조",
+            "source_clause": "제29조제2항",
+            "link_text": "별지 제4호 서식",
+            "line_text": "",
+            "target_law_name": "부산관광공사 민원처리규정",
+            "target_article_no": "별지4",
+            "target_article_title": "민원 처리기간 연장 통지서",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150466131",
+            "resolve_method": "render",
+            "source_provision_id": "public:부산관광공사민원처리규정#JO0029",
+            "reference_id": "public:부산관광공사민원처리규정#BJ0004"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제29조",
+            "source_clause": "제29조제4항",
+            "link_text": "별지 제7호 서식",
+            "line_text": "",
+            "target_law_name": "부산관광공사 민원처리규정",
+            "target_article_no": "별지7",
+            "target_article_title": "이의신청처리대장",
+            "appendix_no": "7",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150466145",
+            "resolve_method": "render",
+            "source_provision_id": "public:부산관광공사민원처리규정#JO0029",
+            "reference_id": "public:부산관광공사민원처리규정#BJ0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:부산관광공사민원처리규정#JO0029"
+      },
+      {
+        "article_no": "제30조",
+        "article_title": "전자민원창구",
+        "chapter": "제2장 접수 및 처리",
+        "content": "제30조(전자민원창구) ① 민원인이 해당 기관을 직접 방문하지 아니하고도 민원사항 등을 처리할 수 있도록 인터넷에 전자민원창구 설치·운영 한다.② 전자민원창구를 통하여 다음 각호의 사항을 처리할 수 있다.1. 민원의 신청·접수, 민원문서의 이송 및 처리결과의 통지2. 처리기간 연장의 통지, 처리진행상황과 처리완료예정일 등 민원의 처리상황 안내3. 관계법령·규정 및 제9조제1항에 따른 민원편람 및 민원처리기준표 등 민원 처리와관련된 정보의 제공③ 제1항에 따라 민원을 처리할 때에는 개인정보 보호 등을 위하여 보안 강화 및 그 밖에 필요한 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제30조",
+            "source_clause": "제30조제2항",
+            "link_text": "제9조제1항",
+            "line_text": "",
+            "target_law_name": "부산관광공사 민원처리규정",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/부산관광공사 민원처리규정/제9조",
+            "resolve_method": "render",
+            "source_provision_id": "public:부산관광공사민원처리규정#JO0030",
+            "reference_id": "public:부산관광공사민원처리규정#JO0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:부산관광공사민원처리규정#JO0030"
+      },
+      {
+        "article_no": "제31조",
+        "article_title": "담당자의 명시",
+        "chapter": "제2장 접수 및 처리",
+        "content": "제31조(담당자의 명시) 민원인에게 처리기간 연장의 통지, 민원문서의 보완 요구, 처리진행상황의 통지, 처리결과의 통지 등을 할 때에는 그 담당자의 소속·성명 및 연락처를 안내하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:부산관광공사민원처리규정#JO0031"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20181001",
+      "promulgation_no": "00088",
+      "content": "부    칙 <제88호, 2018.10.1.>이 규정은 공포한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "민원처리기준표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000141303&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150466115",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150466115",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:부산관광공사민원처리규정#BYL0001",
+      "filename": "별표1_민원처리기준표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "서식",
+      "title": "민원처리부",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150466119",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150466119",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:부산관광공사민원처리규정#BJ0001",
+      "filename": "서식1_민원처리부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "서식",
+      "title": "접수증",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150466123",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150466123",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:부산관광공사민원처리규정#BJ0002",
+      "filename": "서식2_접수증.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "서식",
+      "title": "위임장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150466127",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150466127",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:부산관광공사민원처리규정#BJ0003",
+      "filename": "서식3_위임장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "서식",
+      "title": "민원 처리기간 연장 통지서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150466131",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150466131",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:부산관광공사민원처리규정#BJ0004",
+      "filename": "서식4_민원 처리기간 연장 통지서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "서식",
+      "title": "독촉장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150466137",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150466137",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:부산관광공사민원처리규정#BJ0005",
+      "filename": "서식5_독촉장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "서식",
+      "title": "거부처분 이의신청서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150466141",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150466141",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:부산관광공사민원처리규정#BJ0006",
+      "filename": "서식6_거부처분 이의신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "서식",
+      "title": "이의신청처리대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150466145",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150466145",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:부산관광공사민원처리규정#BJ0007",
+      "filename": "서식7_이의신청처리대장.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 13,
+    "by_category": {
+      "법령": 1,
+      "별지": 8,
+      "별표": 1,
+      "학칙공단": 3
+    },
+    "by_relation_type": {
+      "citation": 1,
+      "appendix_ref": 9,
+      "internal_ref": 3
+    },
+    "articles_total": 31,
+    "articles_with_relations": 8,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 8,
+    "attachments_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/학칙공단/부산관광공사 민원처리규정"
+  },
+  "provision_id": "public:부산관광공사민원처리규정#DOC"
+}
