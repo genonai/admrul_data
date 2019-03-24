@@ -1,0 +1,228 @@
+{
+  "law_id": "2100000175599",
+  "mst": "2100000175599",
+  "law_name": "특고압 전선로 인체보호기준",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000175599",
+  "promulgation_no": "2019-19",
+  "promulgation_date": "20190123",
+  "enforcement_date": "20190324",
+  "revision_date": "20190123",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "기후에너지환경부(계통운영혁신과)",
+    "담당자명": "문경준",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "특고압 전선로 인체보호기준",
+    "발령일자": "20190123",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200401",
+    "조문형식여부": "Y",
+    "소관부처명": "산업통상부",
+    "전화번호": "044-203-3939",
+    "제개정구분명": "제정",
+    "소관부처코드": "1482000",
+    "생성일자": "20260616",
+    "행정규칙ID": "66264",
+    "시행일자": "20190324",
+    "담당부서기관코드": "1482000",
+    "발령번호": "2019-19",
+    "행정규칙일련번호": "2100000175599",
+    "상위부처명": "기후에너지환경부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제·개정 이유\n① 특고압 전선로 설치시 적용되는 여러 규정을 모아 종합적으로 규율함으로써 특고압 전선로 설치시 인체보호를 강조할 필요\n② 소음·일조장해 등 특고압 전선로의 설치로 인해 발생할 수 있는 다양한 전기환경 요소를 반영할 필요\n③ 「특고압 전선로 인체보호기준」을 제정함으로써 특고압 전선로 설치시 안전성을 강화하고 불안감을 해소할 필요\n◇ 주요내용\n① 특고압 전선로에서 발생하는 극저주파 전자계 노출 기준 마련(제3조)\n② 특고압 전선로에서 발생하는 소음·진동 기준 마련(제4조)\n③ 특고압 전선로로 인한 일조장해 기준 마련(제5조)",
+  "body": {
+    "format": "articles",
+    "article_count": 6,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 고시는 「전기사업법」 제67조제2항의 규정에 의하여 특고압 전선로 인체보호기준(이하 \"인체보호기준\"이라 한다)에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「전기사업법」",
+            "line_text": "",
+            "target_law_name": "전기사업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전기사업법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:특고압전선로인체보호기준#JO0001",
+            "reference_id": "law:전기사업법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제67조제2항",
+            "line_text": "",
+            "target_law_name": "전기사업법",
+            "target_article_no": "제67조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전기사업법/제67조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:특고압전선로인체보호기준#JO0001",
+            "reference_id": "law:전기사업법#JO0067"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:특고압전선로인체보호기준#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) 이 기준에서 사용하는 용어의 정의는 다음 각 호와 같다.1. \"전자계\"라 함은 전계와 자계의 총칭을 말한다.2. \"전계\"라 함은 전하(電荷)에 의해 변화된 그 주위의 공간 상태를 말한다.3. \"자계\"라 함은 자석상호간, 전류상호간, 또는 자석과 전류사이에 힘이 작용하는 공간 상태를 말한다.4. \"전계강도\"라 함은 전계 내의 한 점에 있는 단위 양전하에 작용하는 힘을 말한다.5. \"자속밀도\"라 함은 운동하는 전하의 운동속도에 비례하는 힘을 유발하는 벡터량을 말한다.6. \"자계강도\"라 함은 선형적이고 등방성을 갖는 매질내의 자속밀도를 주어진 주파수에 대한 매질의 투자율로 나눈 것을 말한다.7. \"실효치\"라 함은 정현파 신호의 크기 제곱의 시간에 따른 평균값의 평방근을 말한다.8. \"일반인\"이라 함은 전자기장에 노출되고 있는 사실을 모르거나 조치를 취할 수 없는 자를 말하며 의료목적으로 노출 받는 자는 제외한다.9. \"전신노출\"이라 함은 인체의 전부가 전자기장에 노출되는 것을 말한다.10. \"전선로\"라 함은 발전소·변전소·개폐소, 이에 준하는 곳, 전기사용장소 상호간의 전선(전차선을 제외한다) 및 이를 지지하거나 수용하는 시설물을 말한다.11. \"특고압\"이라 함은 7kV를 초과하는 전압을 말한다.12. \"소음\"이라 함은 기계·기구·시설, 그 밖의 물체의 사용으로 인하여 발생하는 강한 소리를 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:특고압전선로인체보호기준#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "전자계 기준",
+        "chapter": "",
+        "content": "제3조(전자계 기준) 특고압 전선로에서 발생하는 극저주파 전자계의 일반인에 대한 전신노출은 지표상 1m에서 전계강도 3.5kV/m, 자속밀도 [그림] μT값을 초과하지 않아야 한다. 이때 전계강도와 자속밀도는 실효치로 하며 자속밀도는 자계강도에 자유공간의 투자율(4π×10-7)을 곱한 것이고, 측정값은 시간평균을 취하지 않은 최대값으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=40265184",
+            "seq": "40265184"
+          }
+        ],
+        "provision_id": "admrul:특고압전선로인체보호기준#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "소음·진동 기준",
+        "chapter": "",
+        "content": "제4조(소음·진동 기준) 특고압 전선로로부터의 소음은 「소음·진동 관리법」 시행규칙 제20조제3항에 따른 생활소음·진동의 규제기준 이하가 되도록 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제20조제3항",
+            "line_text": "",
+            "target_law_name": "소음·진동 관리법 시행규칙",
+            "target_article_no": "제20조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소음·진동 관리법 시행규칙/제20조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:특고압전선로인체보호기준#JO0004",
+            "reference_id": "law:소음진동관리법시행규칙#JO0020"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:특고압전선로인체보호기준#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "일조장해 기준",
+        "chapter": "",
+        "content": "제5조(일조장해 기준) 특고압 전선로는 선로 설치에도 불구하고 동지(冬至)를 기준으로 9시에서 15시 사이에 2시간 이상 계속하여 일조면적을 확보할 수 있도록 하여야 한다. 이 때 일조면적은 건물의 주 채광창의 전체 면적에 대하여 60% 이상이 되도록 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:특고압전선로인체보호기준#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제6조(재검토기한) 「훈령·예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제334호)에 따라 이 고시에 대하여 2019년 1월 1일을 기준으로 3년마다(매 3년이 되는 해의 12월 31일까지를 말한다) 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「훈령·예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령·예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령·예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:특고압전선로인체보호기준#JO0006",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:특고압전선로인체보호기준#JO0006"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20190123",
+      "promulgation_no": "2019-19",
+      "content": "부칙 <제2019-19호,2019. 1. 23.>제1조(시행일) 이 고시는 공포 후 3개월이 경과한 날로부터 시행한다.제2조(기설 특고압 전선로에 관한 경과조치) 이 고시 시행 당시 이미 설치된 특고압 전선로에 대하여는 제3조, 제4조 및 제5조의 규정을 적용하지 아니할 수 있다."
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "190123_조문별 제개정 이유서(특고압 전선로 인체보호기준).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=40260890",
+      "file_store_url": "",
+      "filename": "190123_조문별 제개정 이유서(특고압 전선로 인체보호기준).hwp"
+    },
+    {
+      "name": "190123_특고압 전선로 인체보호기준 제정안 전문.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=40260891",
+      "file_store_url": "",
+      "filename": "190123_특고압 전선로 인체보호기준 제정안 전문.hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 4,
+    "by_category": {
+      "법령": 3,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 4
+    },
+    "articles_total": 6,
+    "articles_with_relations": 3,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/특고압 전선로 인체보호기준"
+  },
+  "provision_id": "admrul:특고압전선로인체보호기준#DOC"
+}
