@@ -1,0 +1,310 @@
+{
+  "law_id": "2200000102309",
+  "mst": "2200000102309",
+  "law_name": "송달통지서 전산화에 따른 업무처리지침(재일 2006-2)",
+  "law_abbr": "",
+  "law_type": "재판예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2200000102309",
+  "promulgation_no": "1719",
+  "promulgation_date": "20190508",
+  "enforcement_date": "20190508",
+  "revision_date": "20190508",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "대법원(대법원)",
+    "담당자명": "",
+    "행정규칙종류코드": "B0013",
+    "행정규칙명": "송달통지서 전산화에 따른 업무처리지침(재일 2006-2)",
+    "발령일자": "20190508",
+    "행정규칙종류": "재판예규",
+    "제개정구분코드": "200403",
+    "조문형식여부": "N",
+    "소관부처명": "대법원",
+    "전화번호": "",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "9740000",
+    "생성일자": "20241125",
+    "행정규칙ID": "2111535",
+    "시행일자": "20190508",
+    "담당부서기관코드": "",
+    "발령번호": "1719",
+    "행정규칙일련번호": "2200000102309",
+    "상위부처명": "대법원"
+  },
+  "amendment_text": "",
+  "revision_reason": "1. 개정이유\n○ 항소기각결정과 같이 결정으로 종국되는 재판의 경우 결정문이 당사자에게 송달된 이후 불복기간이 도과하여야 확정되는바, 이에 대한 송달현황목록을 편철함으로써 검찰청에 확정일자에 대한 정보를 제공하기 위함\n2. 주요내용\n○ 형사사건의 재판이 결정으로 종국되는 경우 그 결정의 송달현황목록을 기록 말미에 편철하도록 함(제4조제3항)",
+  "body": {
+    "format": "articles",
+    "article_count": 5,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 예규는 「민사소송법」제176조제2항에서 정한 우편에 의한 송달에 있어서 송달실시기관이 「민사소송규칙」제53조 단서에 따라 송달에 관한 사유를 전자통신매체에 의하여 법원에 통지할 수 있는 대상과 그 송달결과정보의 관리 및 활용에 관한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「민사소송법」 제176조",
+            "line_text": "제1조 (목적) 이 예규는 「민사소송법」제176조제2항에서 정한 우편에 의한 송달에 있어서 송달실시기관이 「민사소송규칙」제53조 단서에 따라 송달에 관한 사유를 전자통신매체에 의하여 법원에 통지할 수 있는 대상과 그 송달결과정보의 관리 및 활용에 관한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "민사소송법",
+            "target_article_no": "제176조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/민사소송법/제176조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:송달통지서전산화에따른업무처리지침(재일2006-2)#JO0001",
+            "reference_id": "law:민사소송법#JO0176"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:송달통지서전산화에따른업무처리지침(재일2006-2)#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "용어",
+        "chapter": "",
+        "content": "제2조 (용어) 1. \"종이송달통지서\"라 함은 송달실시기관이 「민사소송규칙」제53조 본문에 따라 송달에 관한 사유를 법원에 통지하기 위하여 작성한 서면을 말한다.2. \"전자송달통지서\"라 함은 송달실시기관이 「민사소송규칙」제53조 단서에 따라 송달에 관한 사유를 전자통신매체를 이용하여 법원에 통지하기 위하여 생성한 정보를 말한다.3. \"송달현황목록\"이라 함은 전자송달통지서에 의한 송달결과정보를 사건별·기일별 등으로 출력한 목록을 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:송달통지서전산화에따른업무처리지침(재일2006-2)#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "적용대상",
+        "chapter": "",
+        "content": "제3조 (적용대상) ① 민사소송법 제176조제2항에서 정한 우편에 의한 송달에 있어서 송달에 관한 사유의 통지는 전자송달통지서에 의한다.② 제1항의 규정에도 불구하고 법원은 송달에 관한 정보의 관리를 위하여 필요하다고 인정하는 때에는 우편집배원으로 하여금 종이송달통지서에 의하여 송달에 관한 사유를 통지하게 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "민사소송법 제176조",
+            "line_text": "제3조 (적용대상) ① 민사소송법 제176조제2항에서 정한 우편에 의한 송달에 있어서 송달에 관한 사유의 통지는 전자송달통지서에 의한다.② 제1항의 규정에도 불구하고 법원은 송달에 관한 정보의 관리를 위하여 필요하다고 인정하는 때에는 우편집배원으로 하여금 종이송달통지서에 의하여 송달에 관한 사유를 통지하게 할 수 있다.",
+            "target_law_name": "민사소송법",
+            "target_article_no": "제176조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/민사소송법/제176조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:송달통지서전산화에따른업무처리지침(재일2006-2)#JO0003",
+            "reference_id": "law:민사소송법#JO0176"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:송달통지서전산화에따른업무처리지침(재일2006-2)#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "송달현황목록의 편철방법",
+        "chapter": "",
+        "content": "제4조 (송달현황목록의 편철방법) ① 상소(항고 또는 재항고를 포함)된 경우에는 원심법원은 해당 심급의 전체 송달현황목록을 기록 말미에 편철한다.② 공시송달을 명하는 경우에는 그 근거자료가 되는 송달현황목록을 기록에 편철한다.③ 형사사건의 재판이 결정으로 종국되는 경우 그 결정의 송달현황목록을 기록 말미에 편철한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:송달통지서전산화에따른업무처리지침(재일2006-2)#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "송달결과정보의 보존기간",
+        "chapter": "",
+        "content": "제5조 (송달결과정보의 보존기간) 전자송달통지서에 의한 송달결과정보는 해당 사건이 완결된 날로부터 10년간 보존한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:송달통지서전산화에따른업무처리지침(재일2006-2)#JO0005"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "「민사소송법」",
+        "line_text": "",
+        "target_law_name": "민사소송법",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/법령/민사소송법",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "제176조제2항",
+        "line_text": "",
+        "target_law_name": "민사소송법",
+        "target_article_no": "제176조",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/법령/민사소송법/제176조",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "「민사소송규칙」",
+        "line_text": "",
+        "target_law_name": "민사소송규칙",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/법령/민사소송규칙",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "제53조",
+        "line_text": "",
+        "target_law_name": "민사소송규칙",
+        "target_article_no": "제53조",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/법령/민사소송규칙/제53조",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "「민사소송규칙」",
+        "line_text": "",
+        "target_law_name": "민사소송규칙",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/법령/민사소송규칙",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "제53조",
+        "line_text": "",
+        "target_law_name": "민사소송규칙",
+        "target_article_no": "제53조",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/법령/민사소송규칙/제53조",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "「민사소송규칙」",
+        "line_text": "",
+        "target_law_name": "민사소송규칙",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/법령/민사소송규칙",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "제53조",
+        "line_text": "",
+        "target_law_name": "민사소송규칙",
+        "target_article_no": "제53조",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/법령/민사소송규칙/제53조",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "제176조제2항",
+        "line_text": "",
+        "target_law_name": "민사소송법",
+        "target_article_no": "제176조",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/법령/민사소송법/제176조",
+        "resolve_method": "text_supplement"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20060619",
+      "promulgation_no": "1081",
+      "content": "부  칙(2006. 6. 19. 제1081호)제1조(시행일) 이 예규는 2006. 7. 1.부터 시행한다.제2조(적용제외) 삭제(2007. 3. 7. 제1117호)"
+    },
+    {
+      "promulgation_date": "20070307",
+      "promulgation_no": "1117",
+      "content": "부  칙(2007. 3. 7. 제1117호)제1조(시행일) 이 예규는 2007. 3. 12.부터 시행한다."
+    },
+    {
+      "promulgation_date": "20190508",
+      "promulgation_no": "1719",
+      "content": "부  칙(2019. 5. 8. 제1719호)제1조(시행일) 이 예규는 즉시 시행한다.제2조(경과조치) 이 예규는 이 예규 시행 당시 계속 중인 사건에도 적용한다."
+    }
+  ],
+  "appendices": [],
+  "attachments": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 11,
+    "by_category": {
+      "법령": 11
+    },
+    "by_relation_type": {
+      "citation": 11
+    },
+    "articles_total": 5,
+    "articles_with_relations": 2,
+    "unmatched_relations": 9,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 3,
+    "appendices_count": 0,
+    "attachments_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/송달통지서 전산화에 따른 업무처리지침(재일 2006-2)"
+  },
+  "provision_id": "admrul:송달통지서전산화에따른업무처리지침(재일2006-2)#DOC"
+}
