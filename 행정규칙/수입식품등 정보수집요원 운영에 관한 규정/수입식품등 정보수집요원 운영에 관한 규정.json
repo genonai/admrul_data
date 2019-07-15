@@ -1,0 +1,818 @@
+{
+  "law_id": "2100000180333",
+  "mst": "2100000180333",
+  "law_name": "수입식품등 정보수집요원 운영에 관한 규정",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000180333",
+  "promulgation_no": "2019-60",
+  "promulgation_date": "20190715",
+  "enforcement_date": "20190715",
+  "revision_date": "20190715",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "식품의약품안전처(수입식품정책과)",
+    "담당자명": "김현정",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "수입식품등 정보수집요원 운영에 관한 규정",
+    "발령일자": "20190715",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "식품의약품안전처",
+    "전화번호": "043-719-2157",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1471000",
+    "생성일자": "20200102",
+    "행정규칙ID": "51691",
+    "시행일자": "20190715",
+    "담당부서기관코드": "1471225",
+    "발령번호": "2019-60",
+    "행정규칙일련번호": "2100000180333",
+    "상위부처명": "식품의약품안전처"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제·개정 이유\n「수입식품안전관리 특별법」에서 일반인들이 이해하기 쉽도록 모니터라는 용어가 정보수집으로 변경됨에 따라 하위 고시에서도 용어를 정보수집으로 변경·개정하려는 것임\n\n◇ 주요내용\n정보수집으로 용어 변경(제명, 안 제1조부터 제3조, 제6조부터 제7조, 제9조, 제11조, 별표 1, 별지 제4호서식)",
+  "body": {
+    "format": "articles",
+    "article_count": 12,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 고시는 「수입식품안전관리 특별법」(이하 \"법\"이라 한다) 제39조제3항 및 같은 법 시행규칙 제49조제2항에 따른 수입식품등 정보수집요원 운영에 관한 세부사항을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제39조제3항",
+            "line_text": "",
+            "target_law_name": "수입식품안전관리 특별법",
+            "target_article_no": "제39조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수입식품안전관리 특별법/제39조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0001",
+            "reference_id": "law:수입식품안전관리특별법#JO0039"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행규칙",
+            "line_text": "",
+            "target_law_name": "수입식품안전관리 특별법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수입식품안전관리 특별법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0001",
+            "reference_id": "law:수입식품안전관리특별법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제49조제2항",
+            "line_text": "",
+            "target_law_name": "수입식품안전관리 특별법 시행규칙",
+            "target_article_no": "제49조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수입식품안전관리 특별법 시행규칙/제49조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0001",
+            "reference_id": "law:수입식품안전관리특별법시행규칙#JO0049"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) 이 고시에서 사용하는 용어의 뜻은 다음 각 호와 같다.1. \"정보수집요원\"이란 해외정보리포터 및 해외인터넷정보수집요원을 말한다.2. \"해외정보리포터\"란 법 제39조제2항제1호 및 제3호의 업무를 수행하는 수입식품등 정보수집요원을 말한다.3. \"해외인터넷정보수집요원\"이란 법 제39조제2항제2호 및 제3호의  업무를 수행하는 수입식품등 정보수집요원을 말한다.4. \"수시정보\"란 해외정보리포터가 식품 등에 관한 현지의 언론, 업계, 학계 및 소비자단체 등의 발표 자료와 여론 동향을 수시로 수집하여 보고하는 정보를 말한다.5. \"심층정보\"란 해외정보리포터가 식품의약품안전처장이 특정 정보에 대하여 조사하도록 요청한 사항을 상세하게 수집하여 보고하는 정보를 말한다.6. \"해외정보 보고시스템\"이란 해외정보리포터가 식품 등 해외위해  정보를 웹사이트상에서 실시간으로 직접 보고 할 수 있는 시스템을 말한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "수입식품안전관리 특별법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수입식품안전관리 특별법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0002",
+            "reference_id": "law:수입식품안전관리특별법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제39조제2항제1호 및 제3호",
+            "line_text": "",
+            "target_law_name": "수입식품안전관리 특별법",
+            "target_article_no": "제39조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수입식품안전관리 특별법/제39조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0002",
+            "reference_id": "law:수입식품안전관리특별법#JO0039"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "수입식품안전관리 특별법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수입식품안전관리 특별법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0002",
+            "reference_id": "law:수입식품안전관리특별법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제39조제2항제2호 및 제3호",
+            "line_text": "",
+            "target_law_name": "수입식품안전관리 특별법",
+            "target_article_no": "제39조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수입식품안전관리 특별법/제39조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0002",
+            "reference_id": "law:수입식품안전관리특별법#JO0039"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "정보수집요원의 선발",
+        "chapter": "",
+        "content": "제3조(정보수집요원의 선발) ① 식품의약품안전처장은 법 제39조의 수입식품등 안전 정보 수집을 위하여 관련 정보수집요원을 선발할 수 있다.② 제1항에 따른 정보수집요원을 선발하려는 경우에는 공고 내용과 선발 방법 등이 포함된 정보수집요원 선발 계획을 수립하여야 한다.③ 제2항의 수립된 계획에 따라 선발 내용을 식품의약품안전처 홈페이지 등의 정보통신망 등을 이용하여 7일 이상 공고하여야 한다.④ 해외정보리포터는 서류심사 및 제4조에 따른 해외정보리포터평가위원회(이하 \"평가위원회\"라 한다)심사를 통하여 선발하여야 한다.⑤ 해외인터넷정보수집요원은 「식품의약품안전처 무기계약 및 기간제근로자 운영규정」에 따라 서류심사 및 면접심사를 통하여 선발하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "수입식품안전관리 특별법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수입식품안전관리 특별법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0003",
+            "reference_id": "law:수입식품안전관리특별법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "제39조",
+            "line_text": "",
+            "target_law_name": "수입식품안전관리 특별법",
+            "target_article_no": "제39조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수입식품안전관리 특별법/제39조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0003",
+            "reference_id": "law:수입식품안전관리특별법#JO0039"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제5항",
+            "link_text": "「식품의약품안전처 무기계약 및 기간제근로자 운영규정」",
+            "line_text": "",
+            "target_law_name": "식품의약품안전처 무기계약 및 기간제근로자 운영규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/식품의약품안전처 무기계약 및 기간제근로자 운영규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0003",
+            "reference_id": "admrul:식품의약품안전처무기계약및기간제근로자운영규정#DOC"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제4조",
+            "line_text": "제3조(정보수집요원의 선발) ① 식품의약품안전처장은 법 제39조의 수입식품등 안전 정보 수집을 위하여 관련 정보수집요원을 선발할 수 있다.② 제1항에 따른 정보수집요원을 선발하려는 경우에는 공고 내용과 선발 방법 등이 포함된 정보수집요원 선발 계획을 수립하여야 한다.③ 제2항의 수립된 계획에 따라 선발 내용을 식품의약품안전처 홈페이지 등의 정보통신망 등을 이용하여 7일 이상 공고하여야 한다.④ 해외정보리포터는 서류심사 및 제4조에 따른 해외정보리포터평가위원회(이하 \"평가위원회\"라 한다)심사를 통하여 선발하여야 한다.⑤ 해외인터넷정보수집요원은 「식품의약품안전처 무기계약 및 기간제근로자 운영규정」에 따라 서류심사 및 면접심사를 통하여 선발하여야 한다.",
+            "target_law_name": "수입식품등 정보수집요원 운영에 관한 규정",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수입식품등 정보수집요원 운영에 관한 규정/제4조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0003",
+            "reference_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "해외정보리포터평가위원회 운영",
+        "chapter": "",
+        "content": "제4조(해외정보리포터평가위원회 운영) ① 식품의약품안전처장은 해외정보리포터의 선발과 해외정보리포터가 제출한 보고서에 대한 평가 및 수당지급 등에 관한 사항을 심의하기 위하여 평가위원회를 구성하여 운영하여야 한다.② 평가위원회는 다음 각 호에 해당하는 자로 위원장을 포함하여 10명 이내로 구성하여야 한다.1. 식품의약품안전처 위해정보 관련 부서의 과장 및 사무관(연구관) 등 내부 전문가2. 식품 등의 관련 학과 교수, 식품 등의 관련 단체 및 기관 등 외부 전문가3. 그 밖에 해외정보리포터 운영을 위하여 식품의약품안전처장이 필요하다고 인정하여 위촉한 전문가③ 평가위원회의 운영에 필요한 임기, 회의 및 수당 등의 사항은 관련 부서에서 따로 정할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "위촉 국가 및 인원",
+        "chapter": "",
+        "content": "제5조(위촉 국가 및 인원) 해외정보리포터의 위촉 국가 및 인원은 자유무역협정 발효 국가와 국가별 수입식품 현황 등을 고려하여 예산 범위 안에서 정할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "정보의 수집 범위",
+        "chapter": "",
+        "content": "제6조(정보의 수집 범위) ① 해외정보리포터는 식품 등의 안전에 관한 수시정보와 심층정보를 수집하며, 정보의 수집 범위는 다음 각 호와 같다.1. 해외에서 이슈가 되고 있는 식품 등의 안전 정보가. 정부 또는 기업의 식품 등 안전관리 정책 동향나. 식품 등으로 인해 발생된 질병 및 사망 사건 정보다. 식품 등의 위해물질 정보라. 식품 등의 회수 및 부적합 정보마. 식품 등으로 발생된 이상사례 정보2. 식품 등의 관련 학회 동향 및 연구 논문 정보3. 식품의약품안전처장이 조사를 요청한 특정 정보② 제1항에도 불구하고 다음 각 호에 해당하는 정보는 정보의 수집 범위에서 제외한다. 다만, 제1항제3호의 정보는 그러하지 아니하다.1. 현지의 음식점 및 시장 등에서 조리되어 당해 장소에서 판매되는 식품 등으로 인하여 발생한 사건 정보2. 소규모 도시에 국한된 정보3. 단순한 인터넷정보(다만, 최초보고서는 제외한다)4. 식품의약품안전처장이 수집하여 해외정보리포터에 공유한 정보와 중복되는 정보5. 정보의 출처가 명확하지 않은 정보③ 해외인터넷정보수집요원은 해외인터넷사이트에서 판매하는 수입식품등에 대한 유해물질 함유 여부 및 허위·과대광고 등에 대한 정보를 수집하며, 정보의 수집 범위는 다음 각 호와 같다.1. 사용이 금지된 성분을 함유하고 있는 수입식품등의 정보2. 질병의 예방 및 치료에 효능·효과가 있거나 의약품 또는 건강기능식품으로 오인·혼동할 우려가 있는 내용을 광고하는 정보3. 제품의 명칭, 원료, 영양가, 용도, 제조방법 및 기능 등을 사실과 다르게 광고하는 정보4. 영업등록을 하지 않고 수입식품등을 인터넷 구매 대행하거나 수입신고를 하지 아니한 수입식품등을 판매·유통하는 인터넷 사이트의 정보5. 식품의약품안전처장이 조사를 요청한 특정 정보",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "정보의 보고",
+        "chapter": "",
+        "content": "제7조(정보의 보고) ① 해외정보리포터는 제6조제1항제1호 및 제2호에 따른 수시정보에 대하여는 별지 제1호서식의 최초보고서를 작성하여 해외정보 보고시스템에 등록하고, 식품의약품안전처장이 구체적인  정보를 추가로 요청하는 경우에는 그 요청을 받은 날부터 7일 이내에 별지 제2호서식의 종합보고서를 작성하여 해외정보 보고시스템에   등록하여야 한다.② 해외정보리포터는 제6조제1항제3호에 따른 심층정보에 대하여는 별지 제3호서식의 심층보고서를 작성하여 해외정보 보고시스템에   등록하여야 한다.③ 해외정보리포터는 긴급한 조치가 필요하다고 판단되는 정보를 수집하였거나 현지의 부득이한 사정 등으로 해외정보 보고시스템을 통한 보고가 어려운 경우에는 관련 부서에 전자메일, 팩스, 전화 등을 이용하여 우선 보고한 후 해외정보 보고시스템에 사후 등록을 할 수 있다.④ 해외인터넷정보수집요원은 제6조제3항에 따른 정보를 수집한 경우 별지 제4호서식의 정보수집 보고서를 작성하여 관련 부서에 보고하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "제6조제1항제1호 및 제2호",
+            "line_text": "",
+            "target_law_name": "수입식품등 정보수집요원 운영에 관한 규정",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수입식품등 정보수집요원 운영에 관한 규정/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0007",
+            "reference_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0006"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "수입식품등 정보수집요원 운영에 관한 규정",
+            "target_article_no": "별지1",
+            "target_article_title": "수입식품등 안전정보 최초보고서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43522064",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0007",
+            "reference_id": "admrul:수입식품등정보수집요원운영에관한규정#BJ0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "수입식품등 정보수집요원 운영에 관한 규정",
+            "target_article_no": "별지2",
+            "target_article_title": "수입식품등 안전정보 종합보고서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43522068",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0007",
+            "reference_id": "admrul:수입식품등정보수집요원운영에관한규정#BJ0002"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "제6조제1항제3호",
+            "line_text": "",
+            "target_law_name": "수입식품등 정보수집요원 운영에 관한 규정",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수입식품등 정보수집요원 운영에 관한 규정/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0007",
+            "reference_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0006"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "별지 제3호서식",
+            "line_text": "",
+            "target_law_name": "수입식품등 정보수집요원 운영에 관한 규정",
+            "target_article_no": "별지3",
+            "target_article_title": "수입식품등 안전정보 심층보고서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43522076",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0007",
+            "reference_id": "admrul:수입식품등정보수집요원운영에관한규정#BJ0003"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제4항",
+            "link_text": "제6조제3항",
+            "line_text": "",
+            "target_law_name": "수입식품등 정보수집요원 운영에 관한 규정",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수입식품등 정보수집요원 운영에 관한 규정/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0007",
+            "reference_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0006"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제4항",
+            "link_text": "별지 제4호서식",
+            "line_text": "",
+            "target_law_name": "수입식품등 정보수집요원 운영에 관한 규정",
+            "target_article_no": "별지4",
+            "target_article_title": "해외인터넷사이트 정보수집 보고서",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43522086",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0007",
+            "reference_id": "admrul:수입식품등정보수집요원운영에관한규정#BJ0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "정보의 평가",
+        "chapter": "",
+        "content": "제8조(정보의 평가) ① 해외정보리포터가 제출한 정보는 평가위원회에서 별표 1의 평가기준 및 등급에 따라 정보 등급을 결정한다.② 수시정보는 최초보고서와 그에 따른 종합보고서를 1건으로 평가하고 종합보고서가 등록되지 않은 수시정보는 평가대상에서 제외한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "수입식품등 정보수집요원 운영에 관한 규정",
+            "target_article_no": "별표1",
+            "target_article_title": "수입식품등 안전정보의 평가기준 및 등급(제8조 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000180333&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0008",
+            "reference_id": "admrul:수입식품등정보수집요원운영에관한규정#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "수당의 지급",
+        "chapter": "",
+        "content": "제9조(수당의 지급) ① 식품의약품안전처장은 해외정보리포터에 대하여 별표 2의 지급기준에 따라 정보 수당을 지급할 수 있다. 다만, 수시정보 수당은 매월 3건까지 지급할 수 있으며 3건을 초과한 경우에는 그 중 해외정보리포터에게 유리한 보고서 3건을 선택하여 수당을 지급할 수 있다.② 식품의약품안전처장은 해외정보리포터가 화상회의시스템을 통한 회의에 참석하는 경우에는 별표 2의 지급기준에 따라 회의 참석 수당을 지급할 수 있다.③ 식품의약품안전처장은 해외인터넷정보수집요원의 수당을 예산의 범위 내에서 월별로 지급한다.④ 제1항 및 제2항에 따른 수당은 월별 또는 분기별로 합산하여 지급할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제1항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "수입식품등 정보수집요원 운영에 관한 규정",
+            "target_article_no": "별표2",
+            "target_article_title": "정보 수당 지급기준(제9조 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000180333&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0009",
+            "reference_id": "admrul:수입식품등정보수집요원운영에관한규정#BYL0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제2항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "수입식품등 정보수집요원 운영에 관한 규정",
+            "target_article_no": "별표2",
+            "target_article_title": "정보 수당 지급기준(제9조 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000180333&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0009",
+            "reference_id": "admrul:수입식품등정보수집요원운영에관한규정#BYL0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "활동 평가 등",
+        "chapter": "",
+        "content": "제10조(활동 평가 등) ① 식품의약품안전처장은 매년 해외정보리포터의 정보 수집 활동 등에 대하여 별표 3의 평가기준에 따라 평가를 실시할 수 있다.② 식품의약품안전처장은 제1항에 따른 평가 결과 우수한 해외정보 리포터에 대하여 포상할 수 있고, 2회 이상 60점 미만인 해외정보리포터에 대하여는 해촉할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "수입식품등 정보수집요원 운영에 관한 규정",
+            "target_article_no": "별표3",
+            "target_article_title": "해외정보리포터 활동 평가기준(제10조 관련)",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000180333&bylNo=0003&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0010",
+            "reference_id": "admrul:수입식품등정보수집요원운영에관한규정#BYL0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "위촉 기간 등",
+        "chapter": "",
+        "content": "제11조(위촉 기간 등) ① 해외정보리포터의 위촉 기간은 위촉일부터 1년으로 하며, 식품의약품안전처와 해외정보리포터간의 상호협의 하에 위촉 기간을 조정할 수 있다.② 해외정보리포터가 위촉 기간을 연장하고자 하는 경우에는 위촉 기간 만료 30일전까지 해외정보 보고시스템에 위촉 연장에 대한 내용을  등록하여야 하고, 위촉을 해지하고자 하는 경우에는 위촉 해지 30일전까지 식품의약품안전처장에게 서면으로 위촉 해지 의사를 통보하여야 한다.③ 해외인터넷정보수집요원의 계약 기간 및 계약 해지에 관한 사항은「식품의약품안전처 무기계약 및 기간제근로자 운영규정」에 따라야 한다.④ 식품의약품안전처장은 정당한 사유 없이 이 규정에서 정한 의무를 성실하게 수행하지 아니하거나 정보 수집 활동이 현저히 저조한 정보수집요원에 대하여는 위촉 및 계약을 해지할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제3항",
+            "link_text": "「식품의약품안전처 무기계약 및 기간제근로자 운영규정」",
+            "line_text": "",
+            "target_law_name": "식품의약품안전처 무기계약 및 기간제근로자 운영규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/식품의약품안전처 무기계약 및 기간제근로자 운영규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0011",
+            "reference_id": "admrul:식품의약품안전처무기계약및기간제근로자운영규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "재검토 기한",
+        "chapter": "",
+        "content": "제12조(재검토 기한) 식품의약품안전처장은 이 고시에 대하여 2016년 7월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수입식품등정보수집요원운영에관한규정#JO0012"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20160204",
+      "promulgation_no": "2016-7",
+      "content": "부칙 <제2016-7호,2016. 2. 4.>이 고시는 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20190715",
+      "promulgation_no": "2019-60",
+      "content": "부칙 <제2019-60호,2019. 7. 15.>이 고시는 공포한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "수입식품등 안전정보의 평가기준 및 등급(제8조 관련)",
+      "enforcement_date": "",
+      "content": "[별표 1]\n수입식품등 안전정보의 평가기준 및 등급(제8조 관련)\n1. 정보 평가기준\n┏━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━┓\n┃평가요소│평가항목                                              │점수┃\n┠────┼───────────────────────────┼──┨\n┃필요성  │. 중ㆍ장기적으로 수입식품등 안전관리 정책에 부합하는  │40점┃\n┃        │내용인가?                                             │    ┃\n┃        │. 정보의 제출시기가 적절한가?                         │    ┃\n┃        │. 상황을 계속 주시하거나 참고할 필요가 있는가?        │    ┃\n┠────┼───────────────────────────┼──┨\n┃활용성  │. 정보의 활용가능성이 높은가?                         │40점┃\n┃        │. 정보의 내용이 명확하게 이해할 수 있도록 번역ㆍ정    │    ┃\n┃        │리되어 있는가?                                        │    ┃\n┃        │. 증빙자료는 구체적이고 충실한가?                     │    ┃\n┠────┼───────────────────────────┼──┨\n┃충실성  │. 정보의 내용이 보고서 작성양식에서 요구하는 내용을   │20점┃\n┃        │빠짐없이 반영하여 충실히 작성되었는가?                │    ┃\n┗━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━┛\n※ 정보 활용사례\n­ 수입ㆍ판매 중단, 수거ㆍ검사, 회수ㆍ폐기 등의 조치\n­ 기준ㆍ규격 제ㆍ개정\n­ 정책 및 가이드라인 제안\n­ 시험법 개발\n­ 정보수집 및 위해정보 데이터베이스 구축 등\n2. 정보 등급\n┏━━━━━━┯━━━━━━┓\n┃보고서 등급 │점수        ┃\n┠──────┼──────┨\n┃매우우수    │90점 ~ 100점┃\n┠──────┼──────┨\n┃우수        │70점 ~ 89점 ┃\n┠──────┼──────┨\n┃보통        │50점 ~ 69점 ┃\n┠──────┼──────┨\n┃미흡        │30점 ~ 49점 ┃\n┠──────┼──────┨\n┃매우미흡    │30점 미만   ┃\n┗━━━━━━┷━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000180333&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43521573",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43521573",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수입식품등정보수집요원운영에관한규정#BYL0001",
+      "filename": "별표1_수입식품등 안전정보의 평가기준 및 등급(제8조 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "정보 수당 지급기준(제9조 관련)",
+      "enforcement_date": "",
+      "content": "[별표 2]\n정보 수당 지급기준(제9조 관련)\n1. 보고서 제출\n(단위 : 원)\n┏━━━━━━┯━━━━━━━┯━━━━━━━┓\n┃보고서 등급 │수시정보(1건) │심층정보(1건) ┃\n┠──────┼───────┼───────┨\n┃매우우수    │110,000       │360,000       ┃\n┠──────┼───────┼───────┨\n┃우수        │90,000        │280,000       ┃\n┠──────┼───────┼───────┨\n┃보통        │70,000        │200,000       ┃\n┠──────┼───────┼───────┨\n┃미흡        │50,000        │120,000       ┃\n┠──────┼───────┼───────┨\n┃매우미흡    │미지급        │미지급        ┃\n┗━━━━━━┷━━━━━━━┷━━━━━━━┛\n※ 수시보고 수당은 월 최대 2건까지 지급할 수 있음\n2. 회의 참석\n가. 화상회의시스템을 통한 회의에 참석할 경우 1회당 100,000원을 지급함\n나. 참석시간이 2시간 이상일 경우, 1일 1회에 한하여 50,000원을 추가 지급함",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000180333&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43521857",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43521857",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수입식품등정보수집요원운영에관한규정#BYL0002",
+      "filename": "별표2_정보 수당 지급기준(제9조 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "해외정보리포터 활동 평가기준(제10조 관련)",
+      "enforcement_date": "",
+      "content": "[별표 3]\n해외정보리포터 활동 평가기준(제10조 관련)\n┏━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃평가항목  │평가지표 및 배점                                              ┃\n┠─────┼─────────────┬─────────────────┨\n┃수시정보  │수시정보 제출건수         │점수                              ┃\n┃(40점)    ├─────────────┼─────────────────┨\n┃          │22건 이상                 │30                                ┃\n┃          ├─────────────┼─────────────────┨\n┃          │21건 ∼ 13건              │20                                ┃\n┃          ├─────────────┼─────────────────┨\n┃          │12건 ∼ 7건               │10                                ┃\n┃          ├─────────────┼─────────────────┨\n┃          │6건 ∼ 1건                │5                                 ┃\n┃          ├─────────────┼─────────────────┨\n┃          │미제출                    │0                                 ┃\n┃          ├─────────────┴─────────────────┨\n┃          │ * 우수보고서 제출 가산점수 : 우수 이상 보고서 1건당 1점 가산 ┃\n┃          │(최대 10건에 한함)                                            ┃\n┠─────┼─────────────┬─────────────────┨\n┃심층정보  │심층정보 제출율(%)        │점수                              ┃\n┃(50점)    ├─────────────┼─────────────────┨\n┃          │70% 이상                  │40                                ┃\n┃          ├─────────────┼─────────────────┨\n┃          │69% ∼ 50%                │30                                ┃\n┃          ├─────────────┼─────────────────┨\n┃          │49% ∼ 20%                │20                                ┃\n┃          ├─────────────┼─────────────────┨\n┃          │19% ∼ 0%                 │10                                ┃\n┃          ├─────────────┼─────────────────┨\n┃          │미제출                    │0                                 ┃\n┃          ├─────────────┴─────────────────┨\n┃          │ * 우수보고서 제출 가산점수 : 우수 이상 보고서 1건당 1점 가산 ┃\n┃          │(최대 10건에 한함)                                            ┃\n┠─────┼─────────────┬─────────────────┨\n┃교육ㆍ회의│연간 교육ㆍ회의 참석 횟수 │점수                              ┃\n┃(10점)    ├─────────────┼─────────────────┨\n┃          │2회 이상                  │10                                ┃\n┃          ├─────────────┼─────────────────┨\n┃          │1회                       │5                                 ┃\n┃          ├─────────────┼─────────────────┨\n┃          │불참                      │0                                 ┃\n┗━━━━━┷━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━┛\n* 1년간 활동 실적을 평가하여 60점 미만인 경우에는 경고를 하며, 경고 후 정보 보고 활동 등이 개선되지 않을 시에는 활동 의사와 상관없이 해촉함",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000180333&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43522040",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43522040",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수입식품등정보수집요원운영에관한규정#BYL0003",
+      "filename": "별표3_해외정보리포터 활동 평가기준(제10조 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "수입식품등 안전정보 최초보고서",
+      "enforcement_date": "",
+      "content": "[별지 제1호서식]\n┏━━━━━━━━━━━━━━━━━━━━┓\n┃수입식품등 안전정보 최초보고서          ┃\n┃                                        ┃\n┃20  .   .   .                           ┃\n┠────────────────────┨\n┃보고자                                  ┃\n┠─────────┬┬────────┬┨\n┃성    명          ││국가/지역(도시) │┃\n┠─────────┼┼────────┼┨\n┃전화번호          ││전자메일        │┃\n┠─────────┴┴────────┴┨\n┃조사내용                                ┃\n┠─────────┬──────────┨\n┃제  목            │                    ┃\n┠─────────┼──────────┨\n┃정보내용          │                    ┃\n┃(서술식)          │                    ┃\n┠─────────┼──────────┨\n┃정보출처기관      │                    ┃\n┠─────────┼──────────┨\n┃발표(방송)일자    │                    ┃\n┠─────────┼──────────┨\n┃제품              │                    ┃\n┠─────────┼──────────┨\n┃원인              │                    ┃\n┠─────────┼──────────┨\n┃물질 함유량       │                    ┃\n┠─────────┼──────────┨\n┃제조회사(판매회사)│                    ┃\n┠─────────┼──────────┨\n┃현재피해내용      │                    ┃\n┠─────────┼──────────┨\n┃정보출처          │                    ┃\n┠─────────┼──────────┨\n┃첨부파일          │                    ┃\n┗━━━━━━━━━┷━━━━━━━━━━┛\n※ 추가 자료가 있는 경우 별도 첨부",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43522064",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43522064",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수입식품등정보수집요원운영에관한규정#BJ0001",
+      "filename": "별지1_수입식품등 안전정보 최초보고서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "수입식품등 안전정보 종합보고서",
+      "enforcement_date": "",
+      "content": "[별지 제2호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃수입식품등 안전정보 종합보고서                          ┃\n┃20  .   .   .                                           ┃\n┠────────────────────────────┨\n┃보고자                                                  ┃\n┠────┬─────────────┬────────┬┨\n┃성    명│                          │국가/지역(도시) │┃\n┠────┼─────────────┼────────┼┨\n┃전화번호│                          │전자메일        │┃\n┠────┴─────────────┴────────┴┨\n┃조사내용                                                ┃\n┠────┬───────────────────────┨\n┃제  목  │                                              ┃\n┠────┼───────────────────────┨\n┃정보요지│                                              ┃\n┠────┼────────────┬──────────┨\n┃추가정보│발표(보도)사항 정리     │                    ┃\n┃        ├────────────┼──────────┨\n┃        │정부관계자 및 소비자 등 │                    ┃\n┃        │인터뷰 내용             │                    ┃\n┃        ├────────────┼──────────┨\n┃        │소비자 동향 등          │                    ┃\n┠────┼────────────┴──────────┨\n┃종합의견│                                              ┃\n┠────┼───────────────────────┨\n┃첨부파일│                                              ┃\n┗━━━━┷━━━━━━━━━━━━━━━━━━━━━━━┛\n※ 추가 자료가 있는 경우 별도 첨부",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43522068",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43522068",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수입식품등정보수집요원운영에관한규정#BJ0002",
+      "filename": "별지2_수입식품등 안전정보 종합보고서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "수입식품등 안전정보 심층보고서",
+      "enforcement_date": "",
+      "content": "[별지 제3호서식]\n┏━━━━━━━━━━━━━━━━━━┓\n┃수입식품등 안전정보 심층보고서      ┃\n┃20  .   .   .                       ┃\n┠──────────────────┨\n┃보고자                              ┃\n┠───────┬┬────────┬┨\n┃성    명      ││국가/지역(도시) │┃\n┠───────┼┼────────┼┨\n┃전화번호      ││전자메일        │┃\n┠───────┴┴────────┴┨\n┃조사내용                            ┃\n┠───────┬──────────┨\n┃제  목        │                    ┃\n┠───────┼──────────┨\n┃주요내용      │                    ┃\n┠───────┼──────────┨\n┃향후전망      │                    ┃\n┠───────┼──────────┨\n┃기타          │                    ┃\n┃(참고사항 등) │                    ┃\n┠───────┼──────────┨\n┃정보출처      │                    ┃\n┠───────┼──────────┨\n┃첨부파일      │                    ┃\n┗━━━━━━━┷━━━━━━━━━━┛\n※ 추가 자료가 있는 경우 별도 첨부",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43522076",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43522076",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수입식품등정보수집요원운영에관한규정#BJ0003",
+      "filename": "별지3_수입식품등 안전정보 심층보고서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "해외인터넷사이트 정보수집 보고서",
+      "enforcement_date": "",
+      "content": "[별지 제4호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃해외인터넷사이트 정보수집 보고서                                                          ┃\n┃                                                                                          ┃\n┠─────────────────────────────────────────────┨\n┃보고자                                                                                    ┃\n┠───────┬┬────┬───────────────────────────────┨\n┃성    명      ││작 성 일│                                                              ┃\n┠───────┼┼────┼───────────────────────────────┨\n┃소    속      ││전화번호│                                                              ┃\n┠───────┴┴────┴───────────────────────────────┨\n┃조사내용                                                                                  ┃\n┠───────┬─────────────────────────────────────┨\n┃정보 구분     │ [ ] 사용 금지된 성분 함유 수입식품등                                     ┃\n┃              │ [ ] 질병 예방ㆍ치료, 의약품 또는 건강기능식품으로 오인할 우려가 있는 광고┃\n┃              │ [ ] 제품의 명칭, 원료, 제조방법 및 기능 등을 사실과 다르게 광고          ┃\n┃              │ [ ] 불법 인터넷 구매대행 또는 불법 제품 판매ㆍ유통 인터넷사이트          ┃\n┠───────┼─────────────────────────────────────┨\n┃인터넷        │                                                                          ┃\n┃사이트명      │                                                                          ┃\n┠───────┼─────────────────────────────────────┨\n┃제품내역      │                                                                          ┃\n┠───────┼─────────────────────────────────────┨\n┃정보수집 내용 │                                                                          ┃\n┠───────┼─────────────────────────────────────┨\n┃조치사항      │                                                                          ┃\n┠───────┼─────────────────────────────────────┨\n┃기타          │                                                                          ┃\n┃(참고사항 등) │                                                                          ┃\n┠───────┼─────────────────────────────────────┨\n┃첨부파일      │                                                                          ┃\n┗━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n※ 추가 자료가 있는 경우 별도 첨부",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43522086",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43522086",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수입식품등정보수집요원운영에관한규정#BJ0004",
+      "filename": "별지4_해외인터넷사이트 정보수집 보고서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "수입식품등 모니터요원 운영에 관한 규정 일부개정고시(제2019-60호).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=43561954",
+      "file_store_url": "",
+      "filename": "수입식품등 모니터요원 운영에 관한 규정 일부개정고시(제2019-60호).hwp"
+    },
+    {
+      "name": "수입식품등 모니터요원 운영에 관한 규정_개정 전문(제2019-60호).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=43561955",
+      "file_store_url": "",
+      "filename": "수입식품등 모니터요원 운영에 관한 규정_개정 전문(제2019-60호).hwp"
+    },
+    {
+      "name": "190715 조문별제개정이유서_수입식품등 모니터요원 운영에 관한 규정.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=43561956",
+      "file_store_url": "",
+      "filename": "190715 조문별제개정이유서_수입식품등 모니터요원 운영에 관한 규정.hwp"
+    },
+    {
+      "name": "수입식품등 모니터요원 운영에 관한 규정_개정 전문(제2019-60호).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=43561957",
+      "file_store_url": "",
+      "filename": "수입식품등 모니터요원 운영에 관한 규정_개정 전문(제2019-60호).hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 23,
+    "by_category": {
+      "법령": 9,
+      "행정규칙": 6,
+      "별지": 4,
+      "별표": 4
+    },
+    "by_relation_type": {
+      "citation": 11,
+      "internal_ref": 4,
+      "appendix_ref": 8
+    },
+    "articles_total": 12,
+    "articles_with_relations": 8,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 2,
+    "appendices_count": 7,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/수입식품등 정보수집요원 운영에 관한 규정"
+  },
+  "provision_id": "admrul:수입식품등정보수집요원운영에관한규정#DOC"
+}
