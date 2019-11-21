@@ -1,0 +1,472 @@
+{
+  "law_id": "2100000184155",
+  "mst": "2100000184155",
+  "law_name": "먹는물관련 검사기관의 측정·분석능력 평가에 관한 규정",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000184155",
+  "promulgation_no": "2019-53",
+  "promulgation_date": "20191121",
+  "enforcement_date": "20191121",
+  "revision_date": "20191121",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국립환경과학원(물이용연구과)",
+    "담당자명": "최인철",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "먹는물관련 검사기관의 측정·분석능력 평가에 관한 규정",
+    "발령일자": "20191121",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국립환경과학원",
+    "전화번호": "032-560-8350",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1482000",
+    "생성일자": "20230102",
+    "행정규칙ID": "2047086",
+    "시행일자": "20191121",
+    "담당부서기관코드": "1480764",
+    "발령번호": "2019-53",
+    "행정규칙일련번호": "2100000184155",
+    "상위부처명": "기후에너지환경부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제·개정 이유\n○「먹는물관련 검사기관의 측정·분석능력 평가에 관한 규정」(국립환경과학원고시 제2018-27호) 운영상 나타난 미진한 부분을 개선하기 위함\n◇ 주요내용\n○ 상위법(먹는물관리법)에 부합하도록 내용을 수정\n- 시행규칙 개정에 따른 근거조항 수정(35조제6항→35조제8항)\n- 적용대상에 지정신청 기관과 기지정된 기관을 모두 포함하도록 수정\n○ 시험법과 평가항목이 합리적으로 적용될 수 있도록 수정\n- 수처리제검사기관에 대해서는 「수처리제의 기준과 규격 및 표시기준(환경부고시)」의 시험방법과 기준항목을 적용할 수 있도록 내용 추가\n○ 정수기성능검사기관 지정신청 기관의 측정ㆍ분석능력평가 면제 내용 삭제\n- 제4조제2항의 “먹는물수질검사기관으로 지정받은 기관이 정수기성능검사기관 지정을 신청한 경우에는 분석능력평가를 면제받을 수 있다.” 삭제\n○ 혼동을 줄 수 있는 표현을 의미 전달이 명확하게 되도록 수정\n- “과학원장” → “국립환경과학원장”\n- “현장평가” → “현지평가”\n- “신청기관” → “평가대상기관”",
+  "body": {
+    "format": "articles",
+    "article_count": 5,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규정은「먹는물관리법」제43조 및 동법 시행규칙 제35조제8항에 따라 먹는물 수질검사기관등의 지정을 신청한 기관과 먹는물 수질검사기관등으로 지정되거나 지정된 것으로 보는 기관에 대한 측정·분석능력 평가에 필요한 사항을 정하는데 목적이 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제43조",
+            "line_text": "",
+            "target_law_name": "먹는물관리법",
+            "target_article_no": "제43조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/먹는물관리법/제43조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:먹는물관련검사기관의측정분석능력평가에관한규정#JO0001",
+            "reference_id": "law:먹는물관리법#JO0043"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "동법 시행규칙",
+            "line_text": "",
+            "target_law_name": "먹는물관리법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/먹는물관리법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:먹는물관련검사기관의측정분석능력평가에관한규정#JO0001",
+            "reference_id": "law:먹는물관리법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제35조제8항",
+            "line_text": "",
+            "target_law_name": "먹는물관리법 시행규칙",
+            "target_article_no": "제35조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/먹는물관리법 시행규칙/제35조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:먹는물관련검사기관의측정분석능력평가에관한규정#JO0001",
+            "reference_id": "law:먹는물관리법시행규칙#JO0035"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:먹는물관련검사기관의측정분석능력평가에관한규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적용범위",
+        "chapter": "",
+        "content": "제2조(적용범위) 이 규정은 수처리제검사기관, 정수기성능검사기관 및 먹는물 수질검사기관(바이러스 및 원생동물 검사분야 제외)에 대하여 적용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:먹는물관련검사기관의측정분석능력평가에관한규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "시험법의 적용",
+        "chapter": "",
+        "content": "제3조(시험법의 적용) 측정·분석능력 평가용 표준시료의 분석은 「환경분야 시험·검사등에 관한 법률」제6조제1항제6호에 따른 먹는물수질공정시험기준을 따른다. 다만, 수처리제검사기관에 대해서는「수처리제의 기준과 규격 및 표시기준(환경부고시)」을 적용할 수 있으며, 이때 적용하는 시험법은 평가용 표준시료, 보유장비 등을 고려하여 평가시행 기관이 정할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「환경분야 시험·검사등에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "환경분야 시험·검사등에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/환경분야 시험·검사등에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:먹는물관련검사기관의측정분석능력평가에관한규정#JO0003",
+            "reference_id": "law:환경분야시험검사등에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제6조제1항제6호",
+            "line_text": "",
+            "target_law_name": "환경분야 시험·검사등에 관한 법률",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/환경분야 시험·검사등에 관한 법률/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:먹는물관련검사기관의측정분석능력평가에관한규정#JO0003",
+            "reference_id": "law:환경분야시험검사등에관한법률#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:먹는물관련검사기관의측정분석능력평가에관한규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "측정·분석능력평가",
+        "chapter": "",
+        "content": "제4조(측정·분석능력평가) ① 국립환경과학원장은 다음 각 호의 어느 하나에 해당하는 기관에 대하여 측정·분석능력평가(이하 \"분석능력평가\"라 한다)를 실시할 수 있다. 다만,「환경분야 시험·검사등에 관한 법률」제18조의2 및 동법 시행령 제13조의2에 따라 정도관리를 받는 기관은 제외한다.1. 지방환경관서의 장이 측정·분석능력평가를 의뢰한 먹는물 수질검사기관 또는 먹는물 수질검사기관의 지정을 신청한 기관2. 수처리제검사기관 또는 수처리제검사기관의 지정을 신청한 기관3. 정수기성능검사기관 또는 정수기성능검사기관의 지정을 신청한 기관② 분석능력평가는 지정분야에 따라 평가용 표준시료(평가시료)를 배부하여 실시하며, 분야별 평가항목 및 평가기준은 별표 1과 같다.③ 분석능력평가에 소요되는 기간은 민원처리기간에 포함되지 않으며, 평가대상기관은 측정분석기록물(별표 2)을 작성하여 시료의 배부일로부터 30일 이내에 제출하여야 한다. 국립환경과학원장은 본 항의 기간내에 표준시료 측정분석기록물을 제출하지 않을 경우에는 부적합으로 판정한다.④ 국립환경과학원장은 별지 제1호 서식에 따라 평가대상기관의 분석능력을 평가하고 해당분야의 종합평가가 모두 적합인 경우에 적합으로 판정한다.⑤ 국립환경과학원장은 필요 시 현지평가를 수행할 수 있으며 평가기준은 별지 제1호에 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "제18조의2",
+            "line_text": "",
+            "target_law_name": "환경분야 시험·검사등에 관한 법률",
+            "target_article_no": "제18조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/환경분야 시험·검사등에 관한 법률/제18조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:먹는물관련검사기관의측정분석능력평가에관한규정#JO0004",
+            "reference_id": "law:환경분야시험검사등에관한법률#JO0018_02"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "동법 시행령",
+            "line_text": "",
+            "target_law_name": "환경분야 시험·검사등에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/환경분야 시험·검사등에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:먹는물관련검사기관의측정분석능력평가에관한규정#JO0004",
+            "reference_id": "law:환경분야시험검사등에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "제13조의2",
+            "line_text": "",
+            "target_law_name": "환경분야 시험·검사등에 관한 법률 시행령",
+            "target_article_no": "제13조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/환경분야 시험·검사등에 관한 법률 시행령/제13조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:먹는물관련검사기관의측정분석능력평가에관한규정#JO0004",
+            "reference_id": "law:환경분야시험검사등에관한법률시행령#JO0013_02"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "먹는물관련 검사기관의 측정·분석능력 평가에 관한 규정",
+            "target_article_no": "별표1",
+            "target_article_title": "측정·분석능력 평가항목과 평가기준",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000184155&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:먹는물관련검사기관의측정분석능력평가에관한규정#JO0004",
+            "reference_id": "admrul:먹는물관련검사기관의측정분석능력평가에관한규정#BYL0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제3항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "먹는물관련 검사기관의 측정·분석능력 평가에 관한 규정",
+            "target_article_no": "별표2",
+            "target_article_title": "측정분석기록물",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000184155&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:먹는물관련검사기관의측정분석능력평가에관한규정#JO0004",
+            "reference_id": "admrul:먹는물관련검사기관의측정분석능력평가에관한규정#BYL0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제4항",
+            "link_text": "별지 제1호 서식",
+            "line_text": "",
+            "target_law_name": "먹는물관련 검사기관의 측정·분석능력 평가에 관한 규정",
+            "target_article_no": "별지1",
+            "target_article_title": "(먹는물수질검사기관, 수처리제검사기관, 정수기성능검사기관) 측정·분석능력 평가서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=52251821",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:먹는물관련검사기관의측정분석능력평가에관한규정#JO0004",
+            "reference_id": "admrul:먹는물관련검사기관의측정분석능력평가에관한규정#BJ0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제5항",
+            "link_text": "별지 제1호",
+            "line_text": "",
+            "target_law_name": "먹는물관련 검사기관의 측정·분석능력 평가에 관한 규정",
+            "target_article_no": "별지1",
+            "target_article_title": "(먹는물수질검사기관, 수처리제검사기관, 정수기성능검사기관) 측정·분석능력 평가서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=52251821",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:먹는물관련검사기관의측정분석능력평가에관한규정#JO0004",
+            "reference_id": "admrul:먹는물관련검사기관의측정분석능력평가에관한규정#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:먹는물관련검사기관의측정분석능력평가에관한규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "재검토 기한",
+        "chapter": "",
+        "content": "제5조(재검토 기한) 국립환경과학원장은「훈령·예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2020년 1월 1일 기준으로 매3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「훈령·예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령·예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령·예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:먹는물관련검사기관의측정분석능력평가에관한규정#JO0005",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:먹는물관련검사기관의측정분석능력평가에관한규정#JO0005"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20100824",
+      "promulgation_no": "2010-32",
+      "content": "부칙 <제2010-32호,2010. 8. 24.>제1조(시행시기) 이 고시는 고시한 날부터 시행한다.제2조(다른 지침의 관계) 국립환경과학원 예규 412호 「먹는물검사기관, 수처리제검사 및 정수기성능검사기관의 지정 등에 관한 규정」는 폐지한다."
+    },
+    {
+      "promulgation_date": "20110829",
+      "promulgation_no": "2011-21",
+      "content": "부칙 <제2011-21호,2011. 8. 29.>제1조(시행시기) 이 고시는 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20140721",
+      "promulgation_no": "2014-19",
+      "content": "부칙 <제2014-19호,2014. 7. 25.>제1조(시행시기) 이 고시는 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20171228",
+      "promulgation_no": "2017-63",
+      "content": "부칙 <제2017-63호,2017. 12. 28.>제1조(시행시기) 이 고시는 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20191121",
+      "promulgation_no": "2019-53",
+      "content": "부칙 <제2019-53호,2019. 11. 21.>제1조(시행시기) 이 고시는 고시한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "측정·분석능력 평가항목과 평가기준",
+      "enforcement_date": "",
+      "content": "[별표 1]\n측정?분석능력 평가항목과 평가기준\n1. 평가항목\n먹는물관련 검사기관별 측정?분석능력 평가 항목은 표 1과 같다.\n표 1. 검사기관별 측정?분석능력 평가 항목\n┌────┬──┬───────────┬───────────┬───────────┐\n│분야    │연번│먹는물수질검사기관    │정수기성능검사기관    │수처리제검사기관      │\n├────┼──┼───────────┼───────────┼───────────┤\n│이화학  │1   │먹는물 수질기준 항목  │먹는물 수질기준 항목  │수처리제 성분규격 기  │\n│분  야  │    │중 이온류, 금속류,    │중 이온류, 금속류,    │준 항목 또는 먹는물   │\n│        │    │유기인계농약, 휘발성  │유기인계농약, 휘발성  │수질기준 항목 중 이   │\n│        │    │유기화합물을 포함한   │유기화합물을 포함한   │온류, 금속류를 포함한 │\n│        │    │8항목                 │8항목                 │5항목                 │\n├────┼──┼───────────┼───────────┼───────────┤\n│미생물  │1   │총대장균군            │-                     │-                     │\n│분  야  ├──┼───────────┼───────────┼───────────┤\n│        │2   │대장균                │-                     │-                     │\n│        ├──┼───────────┼───────────┼───────────┤\n│        │3   │분원성연쇄상구균      │-                     │-                     │\n│        ├──┼───────────┼───────────┼───────────┤\n│        │4   │녹농균                │-                     │-                     │\n│        ├──┼───────────┼───────────┼───────────┤\n│        │5   │살모넬라              │-                     │-                     │\n│        ├──┼───────────┼───────────┼───────────┤\n│        │6   │쉬겔라                │-                     │-                     │\n│        ├──┼───────────┼───────────┼───────────┤\n│        │7   │아황산환원혐기성      │-                     │-                     │\n│        │    │포자형성균            │                      │                      │\n└────┴──┴───────────┴───────────┴───────────┘\n※ 평가항목은 먹는물 수질검사기관등의 지정기준(먹는물관리법 시행규칙 제35조제1항 별표8 관련)에 따라 시설 및 장비를 준하여 분석할 수 있는 항목에 한정하며 평가 항목은 배포 당일에 공지한다.\n2. 평가기준\n가. 이화학분야의 항목별 평가는 먹는물수질공정시험기준의 항목별 정도관리 목표 값의 정확도(허용오차범위) 기준 이내면 적합 기준 초과면 부적합으로 판정하고, 종합평가는 전 항목이 적합하면 적합으로 판정한다.\n나. 미생물분야의 항목별 평가는 미생물 종류 판별여부와 각 항목의 단계별 측정결과 판정의 정확성으로 적?부를 판정하며, 종합평가는 전 항목이 적합하면 적합으로 판정한다. 다만, 아황산환원혐기성포자형성균은 현지평가시 분석수행 절차로 판정한다.\n※ 정확도(%)란 시험분석 결과가 참값에 얼마나 근접하는가를 나타내는 것으로 결과값(CM)과 인증값(CC)과의 상대백분율로 구한다. 계산식 : 정확도(%) = CM/CC×100",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000184155&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=52251719",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=52251719",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:먹는물관련검사기관의측정분석능력평가에관한규정#BYL0001",
+      "filename": "별표1_측정·분석능력 평가항목과 평가기준.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "측정분석기록물",
+      "enforcement_date": "",
+      "content": "[별표 2]\n측정분석기록물\n1. 측정분석기록물 제출 목록\n측정ㆍ분석능력을 평가하기 위해 검사기관이 제출해야하는 측정분석기록물은 표 1과 같다.\n표 1. 측정분석기록물\n┌──┬────┬──────────────────────────────┐\n│연번│제출목록│목록설명                                                    │\n├──┼────┼──────────────────────────────┤\n│1   │인력현황│분석자, 책임자를 구분한 기술인력                            │\n├──┼────┼──────────────────────────────┤\n│2   │장비현황│제조사, 모델명, 촬영사진을 포함한 분석장비 현황             │\n├──┼────┼──────────────────────────────┤\n│3   │분석결과│항목, 정도관리 결과, 분석값(바탕시료 포함), 분석자의 서명,  │\n│    │        │시험일자, 시험방법, 검정곡선, 분석기기 조작조건, 분석순서   │\n│    │        │(시퀀싱) 등을 포함한 자료                                   │\n└──┴────┴──────────────────────────────┘\n※ 국립환경과학원장은 표1의 목록 이외의 측정분석능력평가에 필요한 자료를 신청기관에 요청할 수 있다.",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000184155&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=52251791",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=52251791",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:먹는물관련검사기관의측정분석능력평가에관한규정#BYL0002",
+      "filename": "별표2_측정분석기록물.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "(먹는물수질검사기관, 수처리제검사기관, 정수기성능검사기관) 측정·분석능력 평가서",
+      "enforcement_date": "",
+      "content": "[별지 제1호 서식]\n\n□ 먹는물수질검사기관\n\n□ 수처리제검사기관     측정?분석능력 평가서\n\n□ 정수기성능검사기관\n\n\n1. 이화학분야\n┌────────────────────────┬────┐\n│검  토  내  용                                  │적합여부│\n├────────────────────────┼────┤\n│□ 제출서류, 시험방법 등에 대한 평가결과        │        │\n├────────────────────────┼────┤\n│ 1. 분석자 및 시험일자에 대한 평가              │        │\n├────────────────────────┼────┤\n│  o 분석자의 일치 여부                          │        │\n├────────────────────────┼────┤\n│  o 분석자와 책임자의 서명 여부                 │        │\n├────────────────────────┼────┤\n│  o 분석일자가 수정되지 않고 적정여부           │        │\n├────────────────────────┼────┤\n│ 2. 시험방법에 대한 평가                        │        │\n├────────────────────────┼────┤\n│  o 공정시험기준의 방법 준수 여부               │        │\n├────────────────────────┼────┤\n│  o 적합한 장비 사용 여부                       │        │\n├────────────────────────┼────┤\n│  o 바탕시료값의 적정 여부                      │        │\n├────────────────────────┼────┤\n│  o 결과값이 검정곡선 농도범위에 포함되는지 여부│        │\n├────────────────────────┼────┤\n│  o 시험결과 표시방법 및 농도단위의 적정성 여부 │        │\n├────────────────────────┼────┤\n│  o 희석배수 대비 결과값의 적정성 여부          │        │\n├────────────────────────┼────┤\n│  o 원자료 대비 결과값의 적정성 여부            │        │\n├────────────────────────┼────┤\n│□ 평가용 시료의 결과                           │        │\n├──────┬──────┬──────────┼────┤\n│시 험 항 목 │공정시험기준│측정결과            │        │\n│            │정확도(%)   │정확도(%)           │        │\n├──────┼──────┼──────────┼────┤\n│            │            │                    │        │\n├──────┼──────┼──────────┼────┤\n│            │            │                    │        │\n├──────┼──────┼──────────┼────┤\n│            │            │                    │        │\n├──────┼──────┼──────────┼────┤\n│            │            │                    │        │\n├──────┼──────┼──────────┼────┤\n│            │            │                    │        │\n├──────┼──────┼──────────┼────┤\n│            │            │                    │        │\n├──────┼──────┼──────────┼────┤\n│            │            │                    │        │\n├──────┴──────┴──────────┼────┤\n│?   종 합 평 가                                │        │\n└────────────────────────┴────┘\n※ 정확도(%)란 시험분석 결과가 참값에 얼마나 근접하는가를 나타내는 것으로 결과값(CM)과 인증값(CC)과의 상대백분율로 구한다. 계산식 : 정확도(%) = CM/CC×100\n2. 미생물분야\n┌──┬─────────────────────┬────┬────┐\n│연번│시 험 항 목                               │분석결과│적합여부│\n├──┼────────┬────────────┼────┼────┤\n│1   │총대장균군      │추정시험                │        │        │\n│    │                ├────────────┼────┤        │\n│    │                │확정시험                │        ├────┤\n│    │                │                        │        │        │\n│    │                ├────────────┼────┼────┤\n│    │                │완전시험                │        │        │\n├──┼────────┼────────────┼────┼────┤\n│2   │대장균          │추정시험                │        │        │\n│    │                ├────────────┼────┼────┤\n│    │                │확정시험                │        │        │\n├──┼────────┼────────────┼────┼────┤\n│3   │분원성연쇄상구균│추정시험                │        │        │\n│    │                ├────────────┼────┼────┤\n│    │                │확정시험                │        │        │\n├──┼────────┼────────────┼────┼────┤\n│4   │녹농균          │추정시험                │        │        │\n│    │                ├────────────┼────┼────┤\n│    │                │확정시험                │        │        │\n│    │                ├────────────┼────┼────┤\n│    │                │확인시험                │        │        │\n├──┼────────┼────────────┼────┼────┤\n│5   │살모넬라        │추정시험                │        │        │\n│    │                ├────────────┼────┼────┤\n│    │                │확인시험                │        │        │\n├──┼────────┼────────────┼────┼────┤\n│6   │쉬겔라          │추정시험                │        │        │\n│    │                ├────────────┼────┼────┤\n│    │                │확인시험                │        │        │\n├──┼────────┼────────────┼────┼────┤\n│7   │아황산환원혐기성│아포형성시험            │        │        │\n│    │포자형성균      ├────────────┼────┼────┤\n│    │                │배양 및 아황산환원력시험│        │        │\n├──┴────────┴────────────┴────┼────┤\n│ 종 합 평 가                                              │        │\n└─────────────────────────────┴────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=52251821",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=52251821",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:먹는물관련검사기관의측정분석능력평가에관한규정#BJ0001",
+      "filename": "별지1_(먹는물수질검사기관, 수처리제검사기관, 정수기성능검사기관) 측정·분석능력 평가서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "조문별제개정이유서(먹는물관련 검사기관 측정분석능력 평가).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=52185271",
+      "file_store_url": "",
+      "filename": "조문별제개정이유서(먹는물관련 검사기관 측정분석능력 평가).hwp"
+    },
+    {
+      "name": "먹는물관련 검사기관의 측정·분석능력 평가에 관한 규정(국립환경과학원 고시 제2019-53호).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=52185273",
+      "file_store_url": "",
+      "filename": "먹는물관련 검사기관의 측정·분석능력 평가에 관한 규정(국립환경과학원 고시 제2019-53호).hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 13,
+    "by_category": {
+      "법령": 8,
+      "별표": 2,
+      "별지": 2,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 9,
+      "appendix_ref": 4
+    },
+    "articles_total": 5,
+    "articles_with_relations": 4,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 5,
+    "appendices_count": 3,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/먹는물관련 검사기관의 측정·분석능력 평가에 관한 규정"
+  },
+  "provision_id": "admrul:먹는물관련검사기관의측정분석능력평가에관한규정#DOC"
+}
