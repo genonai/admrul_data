@@ -1,0 +1,370 @@
+{
+  "law_id": "2100000184068",
+  "mst": "2100000184068",
+  "law_name": "보호실 출입문 자동제어시스템 운영지침",
+  "law_abbr": "",
+  "law_type": "예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000184068",
+  "promulgation_no": "1241",
+  "promulgation_date": "20191129",
+  "enforcement_date": "20191201",
+  "revision_date": "20191129",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "법무부(이민조사과)",
+    "담당자명": "남명우",
+    "행정규칙종류코드": "B0002",
+    "행정규칙명": "보호실 출입문 자동제어시스템 운영지침",
+    "발령일자": "20191129",
+    "행정규칙종류": "예규",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "법무부",
+    "전화번호": "02-2110-4081",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1270000",
+    "생성일자": "20230102",
+    "행정규칙ID": "45920",
+    "시행일자": "20191201",
+    "담당부서기관코드": "1272310",
+    "발령번호": "1241",
+    "행정규칙일련번호": "2100000184068",
+    "상위부처명": "법무부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정이유\n현행 「보호실 출입문 자동제어시스템 운영지침」은 법무부 출입국·외국인정책본부의 소속기관 명칭 변경을 반영하지 못하고 있어 이를 반영하고, 「외국인보호규칙 시행세칙」상의 용어와 통일하고자 함\n※ ‘19. 9월 제도개선 수정채택 사항\n◇ 주요내용\n가. 소속기관 및 과장, 선임 근무자, 근무자의 용어 수정 및 통일\n- (현행) ‘16. 7. 26. 출입국기관의 변경되었음에도, 이를 반영하지 못하고 있으며, “보호과장”, “근무자” 등을 사용하여 「외국인보호규칙」등과 다른 용어를 사용하고 있음\n- (개선) 기관명은 “지방출입국·외국인관서”로, 기관장은 “청장등”, 보호과장은 “담당과장”, 근무자는 “보호근무자”로 상위 법령 상의 용어로 수정 및 통일하고자 함\n나. 직제 상 보호과가 없거나, 상황실(감시실)이 없는 기관도 적용될 수 있도록 명확히 함(안 제2조 제3호 후단 신설)\n- (현행) 상황실(감시실)이 없는 기관이 있어, 해당 규정이 적용되지 않을 수 있다는 문제점이 있음\n- (개선) 상황실(감시실)이 없는 경우 이와 유사한 기능을 하는 장소에 설치하도록 하고, 이하 그 장소를 상황실(감시실)로 보도록 함\n다. 재검토기한 갱신(안 제15조)\n- 규정 개정에 따라 재검토기한을 2020년 1월 1일로 갱신함",
+  "body": {
+    "format": "articles",
+    "article_count": 15,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 지침은 「출입국관리법」 제2조 제10호의2의 지방출입국ㆍ외국인관서(이하 \"지방출입국ㆍ외국인관서\"라 한다)에 \"보호실 출입문 자동제어시스템\"을 설치하고, 운영 및 관리를 위하여 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「출입국관리법」",
+            "line_text": "",
+            "target_law_name": "출입국관리법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/출입국관리법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:보호실출입문자동제어시스템운영지침#JO0001",
+            "reference_id": "law:출입국관리법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "출입국관리법",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/출입국관리법/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:보호실출입문자동제어시스템운영지침#JO0001",
+            "reference_id": "law:출입국관리법#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:보호실출입문자동제어시스템운영지침#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "제1장 총칙",
+        "content": "제2조(정의) 이 지침에서 사용하는 용어의 뜻은 다음과 같다.1. \"제어시스템\"이란 보호실 또는 보호동의 효율적인 출입통제 및 계호를 위하여 설치한 전자잠금ㆍ통신ㆍ영상확인시스템을 유기적으로 제어할 수 있는 운영 조작 장치를 말한다.2. \"전자잠금시스템\"이란 보호실 출입문에 전자적 잠금장치를 부착하여 보호업무를 담당하는 출입국관리공무원(이하 \"보호근무자\"라 한다)가 원격 또는 현장에서 개폐할 수 있는 장치를 말한다.3. \"통신시스템\"이란 내부통신을 위해 보호실 내에 설치하는 통신기(자기)와 상황실(감시실)에 설치하는 통신기(모기)로 구성되며, 보호실과 상황실(감시실) 간 개별 또는 그룹 통화와 전체 방송이 가능한 장치를 말한다. 상황실(감시실)이 없는 지방출입국ㆍ외국인관서는 이와 유사한 기능을 하는 장소에 설치하며, 이하 상황실(감시실)은 그 장소를 의미하는 것으로 본다.4. \"영상확인시스템\"이란 전자잠금장치를 작동할 때 복도에 설치한 CCTV 카메라가 해당 출입문을 미리 설정된 상태로 확대하여 촬영한 영상을 모니터에 출력하고 DVR(Digital Video Recorder)에 저장하는 장치를 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:보호실출입문자동제어시스템운영지침#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "적용범위",
+        "chapter": "제1장 총칙",
+        "content": "제3조(적용범위) 이 지침은 지방출입국ㆍ외국인관서의 외국인보호실에 설치하는 출입문 자동제어시스템의 설치, 운영 및 관리에 관한 사항에 대하여 적용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:보호실출입문자동제어시스템운영지침#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "시스템의 설치ㆍ운영",
+        "chapter": "제2장 시스템 설치ㆍ운영",
+        "content": "제4조(시스템의 설치ㆍ운영) 외국인보호규칙 제2조 제2호의 보호외국인(이하 \"보호외국인\"이라 한다)과 보호시설의 안전강화 및 보호업무 환경개선을 위하여 사무소 등에 보호실 출입문 자동제어시스템을 설치하여 운영한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "외국인보호규칙",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/외국인보호규칙/제2조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:보호실출입문자동제어시스템운영지침#JO0004",
+            "reference_id": "admrul:외국인보호규칙#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:보호실출입문자동제어시스템운영지침#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "시스템의 구성",
+        "chapter": "제2장 시스템 설치ㆍ운영",
+        "content": "제5조(시스템의 구성) 보호실 출입문 자동제어시스템은 다음 각 호와 같은 시스템으로 구성하며 전체를 제어할 수 있는 중앙통제장치를 상황실에 두고, 일정 구역을 제어할 수 있는 구역통제장치를 감시실에 둔다.1. 제어시스템2. 전자잠금시스템3. 통신시스템4. 영상확인시스템",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:보호실출입문자동제어시스템운영지침#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "전자잠금장치의 설치",
+        "chapter": "제2장 시스템 설치ㆍ운영",
+        "content": "제6조(전자잠금장치의 설치) ① 출입문에 설치하는 전자잠금장치는 잠금상태에서 보호외국인이 임의로 문을 열 수 없어야 하며, 외부 충격으로 문이 열리거나 파손되는 것으로부터 보호될 수 있도록 견고하게 설치하여야 한다.② 전자잠금장치는 정전이나 단선 등으로 전기 공급이 차단되는 경우에도 출입문이 계속 잠금상태를 유지할 수 있도록 설치하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:보호실출입문자동제어시스템운영지침#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "보호실 출입문 개폐",
+        "chapter": "제2장 시스템 설치ㆍ운영",
+        "content": "제7조(보호실 출입문 개폐) ① 보호근무자가 보호실 출입문을 개방할 때에는 미리 보호실 앞에서 보호실 내 보호외국인의 동정을 관찰한 후 안전한 때에 개방하여야 한다.② 보호근무자가 특별한 주의가 필요한 외국인이 보호되어있는 보호실의 출입문을 개방할 때에는 부득이하다고 인정되는 경우를 제외하고는 원격개방을 하여서는 아니 된다.③ 보호실 출입문은 비상시 등 부득이한 경우를 제외하고는 각 출입문별 개폐를 원칙으로 하고, 일부 또는 전체를 동시에 개폐하여서는 아니 된다.④ 보호근무자가 보호실 출입문을 개방할 때에는 보호외국인이 사전에 준비할 수 있도록 구두 또는 보호실 내 통신장치를 이용하여 미리 고지한 후 개방할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:보호실출입문자동제어시스템운영지침#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "동정감시",
+        "chapter": "제2장 시스템 설치ㆍ운영",
+        "content": "제8조(동정감시) 보호근무자는 보호실 출입문에 자동제어시스템이 설치되었다는 이유로 보호실, 복도 등의 감시구역에 대한 동정감시를 게을리 하여서는 아니 된다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:보호실출입문자동제어시스템운영지침#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "자리를 비울 때의 조치",
+        "chapter": "제2장 시스템 설치ㆍ운영",
+        "content": "제9조(자리를 비울 때의 조치) 보호근무자는 보호외국인이 보호되어 있는 때에는 상황실 또는 감시실을 비워두어서는 아니 된다. 다만, 불가피하게 비워두어야만 하는 특별한 사정이 있는 경우에는 제어시스템을 잠금상태로 전환하는 등 비인가자가 조작할 수 없도록 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:보호실출입문자동제어시스템운영지침#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "관리 의무",
+        "chapter": "제3장 시스템 관리",
+        "content": "제10조(관리 의무) ① 보호업무를 담당하는 과장(이하 \"담당과장\"이라 한다)은 보호실 출입문 자동제어시스템이 항상 정상적으로 작동하도록 철저히 관리하여야 한다.② 보호근무자는 보호실에 설치된 통신시스템 및 전자잠금장치의 훼손 또는 고장을 예방하기 위하여 정상작동 여부를 수시로 확인하여야 하며, 보호외국인에게 전자잠금장치의 안전사항을 알리고, 파손한 사람에게는 변상조치를 하는 등 적절히 대처하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:보호실출입문자동제어시스템운영지침#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "열쇠 관리",
+        "chapter": "제3장 시스템 관리",
+        "content": "제11조(열쇠 관리) ① 보호근무자 중 선임자(이하 \"상황실장\"이라 한다)은 보호근무자가 필요한 경우 현장에서 보호실 출입문을 개방할 수 있도록 자동(카드)열쇠와 수동열쇠를 지급하여야 하며, 지급되는 자동(카드)열쇠 및 수동열쇠는 해당 근무구역에서만 작동되도록 하여야 한다. 다만, 비상 시 감시구역 조정 등 불가피한 경우에는 작동범위를 근무구역 이외의 구역으로 확대할 수 있다.② 수동열쇠는 정전 또는 무정전 전원장치(UPS)의 비상전원 공급이 차단된 경우 등 전자적 잠금장치가 작동하지 않을 때에 사용한다. 다만, 상황실장이 필요하다고 인정하는 경우에는 수동열쇠를 사용할 수 있다.③ 보호근무자는 자동(카드)열쇠 또는 수동열쇠를 분실하거나 탈취당하지 않도록 주의를 다하여 관리하여야 하고, 이를 분실하거나 탈취당하여 회수할 수 없는 경우에는 즉시 상황실장에게 보고하여야 하며, 보고를 받은 상황실장은 지체없이 해당 자동(카드)열쇠를 사용할 수 없도록 하는 등 안전조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:보호실출입문자동제어시스템운영지침#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "고장 시 조치",
+        "chapter": "제3장 시스템 관리",
+        "content": "제12조(고장 시 조치) ① 보호근무자가 고장을 발견한 때에는 즉시 상황에 따른 응급조치를 한 후 전문업체에 수리를 의뢰하여야 하며, 비전문가가 임의로 장비를 분해하거나 수리하게 하여서는 아니 된다.② 보호근무자는 고장을 수리할 때까지 해당 출입문에 대하여 수동열쇠를 사용하는 등 안전문제가 발생하지 않도록 적절히 조치를 하여야 하며, 고장 및 수리 내역을 근무일지에 기록하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:보호실출입문자동제어시스템운영지침#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "자체계획 수립",
+        "chapter": "제3장 시스템 관리",
+        "content": "제13조(자체계획 수립) 외국인보호규칙 제2조 제3호의 청장등(이하 \"청장등\"이라 한다)은 보호실 출입문 자동제어시스템의 운영ㆍ관리 및 비상상황 발생 등에 대비하여 해당 보호시설의 실정에 적합한 자체 세부지침을 수립하여 시행하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조",
+            "source_clause": "제13조",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "외국인보호규칙",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/외국인보호규칙/제2조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:보호실출입문자동제어시스템운영지침#JO0013",
+            "reference_id": "admrul:외국인보호규칙#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:보호실출입문자동제어시스템운영지침#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "준용규정",
+        "chapter": "제3장 시스템 관리",
+        "content": "제14조(준용규정) 이 지침에서 규정한 것을 제외하고는 「외국인 보호규칙」 및 「외국인보호규칙시행세칙」의 규정에 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조",
+            "link_text": "「외국인 보호규칙」",
+            "line_text": "",
+            "target_law_name": "외국인 보호규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/외국인 보호규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:보호실출입문자동제어시스템운영지침#JO0014",
+            "reference_id": "law:외국인보호규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제14조",
+            "source_clause": "제14조",
+            "link_text": "「외국인보호규칙시행세칙」",
+            "line_text": "",
+            "target_law_name": "외국인보호규칙시행세칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/외국인보호규칙시행세칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:보호실출입문자동제어시스템운영지침#JO0014",
+            "reference_id": "admrul:외국인보호규칙시행세칙#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:보호실출입문자동제어시스템운영지침#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "재검토기한",
+        "chapter": "제3장 시스템 관리",
+        "content": "제15조(재검토기한) 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 예규 발령 후의 법령이나 현실여건의 변화 등을 검토하여 이 예규의 폐지, 개정 등의 조치를 하여야 하는 기한은 2020년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다.)까지로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제15조",
+            "source_clause": "제15조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:보호실출입문자동제어시스템운영지침#JO0015",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:보호실출입문자동제어시스템운영지침#JO0015"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20141014",
+      "promulgation_no": "1068",
+      "content": "부칙 <제1068호,2014. 10. 14.>제1조(시행일) 이 지침은 2014년 10월 15일부터 시행한다.제2조(경과조치) 이 지침의 시행일 현재 보호실 출입문 자동제어시스템이 설치되지 않은 외국인 보호시설은 설치가 완료된 날부터 이 지침을 적용한다."
+    },
+    {
+      "promulgation_date": "20191129",
+      "promulgation_no": "1241",
+      "content": "부칙 <제1241호,2019. 11. 29.>제1조(시행일) 이 지침은 2019년 12월 1일부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "예규 제1241호-보호실 출입문 자동제어시스템 운영지침 개정(안).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=51490189",
+      "file_store_url": "",
+      "filename": "예규 제1241호-보호실 출입문 자동제어시스템 운영지침 개정(안).hwp"
+    },
+    {
+      "name": "예규 제1241호-보호실 출입문 자동제어시스템 운영지침.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=51490191",
+      "file_store_url": "",
+      "filename": "예규 제1241호-보호실 출입문 자동제어시스템 운영지침.hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 7,
+    "by_category": {
+      "법령": 3,
+      "행정규칙": 4
+    },
+    "by_relation_type": {
+      "citation": 7
+    },
+    "articles_total": 15,
+    "articles_with_relations": 5,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 2,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/보호실 출입문 자동제어시스템 운영지침"
+  },
+  "provision_id": "admrul:보호실출입문자동제어시스템운영지침#DOC"
+}
