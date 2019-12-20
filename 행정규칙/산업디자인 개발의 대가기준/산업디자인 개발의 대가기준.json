@@ -1,0 +1,706 @@
+{
+  "law_id": "2100000210438",
+  "mst": "2100000210438",
+  "law_name": "산업디자인 개발의 대가기준",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000210438",
+  "promulgation_no": "2019-212",
+  "promulgation_date": "20191220",
+  "enforcement_date": "20191220",
+  "revision_date": "20191220",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "산업통상부(산업혁신성장실)",
+    "담당자명": "지영",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "산업디자인 개발의 대가기준",
+    "발령일자": "20191220",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200401",
+    "조문형식여부": "Y",
+    "소관부처명": "산업통상부",
+    "전화번호": "044-203-4552",
+    "제개정구분명": "제정",
+    "소관부처코드": "1451000",
+    "생성일자": "20220407",
+    "행정규칙ID": "81440",
+    "시행일자": "20191220",
+    "담당부서기관코드": "1450283",
+    "발령번호": "2019-212",
+    "행정규칙일련번호": "2100000210438",
+    "상위부처명": "산업통상부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n○ 산업디자인 분야는 공공기관 등에서 적용할 수 있는 디자인 용역 사업의 적정 대가를 계산하는 기준(이하 \"대가기준\")이 부재하여 「산업디자인진흥법」제9조의2에 의한 산업디자인 개발의 대가기준을 마련하고 산업디자인 개발의 대가 산정 기준에 관한 사항을 정하려는 것임\n◇ 제ㆍ개정 내용\n○ 산업디자인 개발의 대가기준 적용 범위를 정함(제2조)\n○ 산업디자인 개발의 대가 산출의 기본 원칙을 정함(제3조)\n○ 산업디자인 개발의 대가의 조정에 관련된 사항을 정함(제4조)\n○ 표준품셈의 관리와 관련된 사항을 정함(제3장)",
+  "body": {
+    "format": "articles",
+    "article_count": 18,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조(목적) 이 기준은 「산업디자인진흥법」(이하 \"법\"이라 한다) 제9조2에 따라 산업디자인 개발의 대가(이하 \"대가\"라 한다) 기준을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「산업디자인진흥법」",
+            "line_text": "",
+            "target_law_name": "산업디자인진흥법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업디자인진흥법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:산업디자인개발의대가기준#JO0001",
+            "reference_id": "law:산업디자인진흥법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제9조",
+            "line_text": "",
+            "target_law_name": "산업디자인진흥법",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업디자인진흥법/제9조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:산업디자인개발의대가기준#JO0001",
+            "reference_id": "law:산업디자인진흥법#JO0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:산업디자인개발의대가기준#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적용",
+        "chapter": "제1장 총칙",
+        "content": "제2조(적용) 법 제9조의2 제1항 및 제4항에 따라‘국가기관 등’(이하\"발주청\"이라 한다)이 산업디자인의 개발에 관한 계약(이하 \"계약\"이라 한다)을 체결할 경우에는 이 기준에 따라 대가를 산출한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "산업디자인진흥법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업디자인진흥법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:산업디자인개발의대가기준#JO0002",
+            "reference_id": "law:산업디자인진흥법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제9조의2",
+            "line_text": "",
+            "target_law_name": "산업디자인진흥법",
+            "target_article_no": "제9조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업디자인진흥법/제9조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:산업디자인개발의대가기준#JO0002",
+            "reference_id": "law:산업디자인진흥법#JO0009_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:산업디자인개발의대가기준#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "대가 산출의 기본원칙",
+        "chapter": "제1장 총칙",
+        "content": "제3조(대가 산출의 기본원칙) ① 대가 산출은 실비정액가산방식을 원칙으로 한다. 여기서 \"실비정액가산방식\"이란 직접인건비, 직접경비, 제경비, 창작료와 부가가치세를 합산하여 대가를 산출하는 방식을 말한다.② 계약당사자간의 협의에 의하여 제1항의 실비정액가산방식과 달리 대가를 산출하는 경우에는 계약서에 그 사유를 명시하여야 한다.③ 부가가치세는 「부가가치세법」에 의해 정하는 바에 따라 계상한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제3항",
+            "link_text": "「부가가치세법」",
+            "line_text": "",
+            "target_law_name": "부가가치세법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/부가가치세법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:산업디자인개발의대가기준#JO0003",
+            "reference_id": "law:부가가치세법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:산업디자인개발의대가기준#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "대가의 조정",
+        "chapter": "제1장 총칙",
+        "content": "제4조(대가의 조정) ① 계약을 체결한 이후 다음 각 호의 어느 하나에 해당하는 사유가 발생한 경우에는 대가를 조정한다.1. 발주청의 사정으로 인하여 일정이 조정되는 경우2. 발주청의 요구에 따라 업무 내용이 변경된 경우② 제1항에 규정된 사항에 대해서는 「국가를 당사자로 하는 계약에 관한 법률」, 「지방자치단체를 당사자로 하는 계약에 관한 법률」의 금액 조정에 관한 규정을 준용한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "「국가를 당사자로 하는 계약에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "국가를 당사자로 하는 계약에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가를 당사자로 하는 계약에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:산업디자인개발의대가기준#JO0004",
+            "reference_id": "law:국가를당사자로하는계약에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "「지방자치단체를 당사자로 하는 계약에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "지방자치단체를 당사자로 하는 계약에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/지방자치단체를 당사자로 하는 계약에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:산업디자인개발의대가기준#JO0004",
+            "reference_id": "law:지방자치단체를당사자로하는계약에관한법률#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:산업디자인개발의대가기준#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "대가의 준용",
+        "chapter": "제1장 총칙",
+        "content": "제5조(대가의 준용) 산업디자인 개발에 관하여 다른 법령에 특별한 규정이 있는 경우를 제외하고는 이 기준에서 정하는 바에 따른다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:산업디자인개발의대가기준#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "직접인건비",
+        "chapter": "제2장 실비정액가산방식",
+        "content": "제6조(직접인건비) 직접인건비란 해당 산업디자인 개발 사업의 업무에 직접 종사하는 디자이너의 인건비로서 투입된 인원수에 디자이너의 등급별 노임단가를 곱하여 계산한다. 이 경우 디자이너의 투입 인원수 및 등급별 노임단가의 산출은 다음 각 호를 적용한다.1. 투입인원수를 산출하는 경우에는 산업통상자원부장관이 인가한 표준품셈을 우선 적용한다. 다만 인가된 표준품셈이 존재하지 않거나 업무의 특성상 필요한 경우에는 견적 등 적절한 산출방식을 적용할 수 있다.2. 노임단가를 산출하는 경우에는 기본급, 퇴직급여충당금, 회사가 부담하는 산업재해보상보험료, 국민연금, 건강보험료, 고용보험료, 퇴직연금급여 등이 포함된 비용으로서 사단법인 한국디자인산업연합회가 「통계법」에 따라 조사 및 공표한 임금실태조사보고서에 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「통계법」",
+            "line_text": "",
+            "target_law_name": "통계법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/통계법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:산업디자인개발의대가기준#JO0006",
+            "reference_id": "law:통계법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:산업디자인개발의대가기준#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "직접경비",
+        "chapter": "제2장 실비정액가산방식",
+        "content": "제7조(직접경비) 직접경비란 당해 업무 수행과 관련이 있는 경비로서 항목은 별표 1과 같으며, 그 실제 소요비용을 말한다. 다만, 직접경비는 계약 종료 후 정산할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "산업디자인 개발의 대가기준",
+            "target_article_no": "별표1",
+            "target_article_title": "직접경비 항목",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000210438&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:산업디자인개발의대가기준#JO0007",
+            "reference_id": "admrul:산업디자인개발의대가기준#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:산업디자인개발의대가기준#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "제경비",
+        "chapter": "제2장 실비정액가산방식",
+        "content": "제8조(제경비) ① 제경비란 직접인건비와 직접경비에 포함되지 아니하고 산업디자인 개발 사업자의 행정운영을 위한 기획, 경영, 총무 분야에서 발생하는 간접 경비로서 항목은 별표 2와 같으며, 직접인건비의 110~120%로 계산한다.② 제1항에 따른 제경비 항목 중 산업디자인개발 사업 수행을 위해 직접적인 필요에 따라 발생한 항목에 대해서는 직접경비로 계상할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "산업디자인 개발의 대가기준",
+            "target_article_no": "별표2",
+            "target_article_title": "제경비 항목",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000210438&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:산업디자인개발의대가기준#JO0008",
+            "reference_id": "admrul:산업디자인개발의대가기준#BYL0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:산업디자인개발의대가기준#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "창작료",
+        "chapter": "제2장 실비정액가산방식",
+        "content": "제9조(창작료) ① 창작료란 산업디자인 개발 사업자가 개발ㆍ보유한 컨텐츠의 사용 및 지식 축적을 위한 대가이자 해당 사업을 통해 산출되는 결과물에 대한 창작적 가치 및 창작 활동의 대가로서 창작 개발비, 연수비, 이윤 등을 포함한다.② 창작료는 직접인건비와 제경비를 합한 금액의 20~40%로 계산한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:산업디자인개발의대가기준#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "디자이너 등급 및 자격기준",
+        "chapter": "제2장 실비정액가산방식",
+        "content": "제10조(디자이너 등급 및 자격기준) 디자이너의 등급 및 자격기준은 별표 3과 같다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "산업디자인 개발의 대가기준",
+            "target_article_no": "별표3",
+            "target_article_title": "디자이너 등급 인정 기준",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000210438&bylNo=0003&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:산업디자인개발의대가기준#JO0010",
+            "reference_id": "admrul:산업디자인개발의대가기준#BYL0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:산업디자인개발의대가기준#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "디자이너 노임단가의 적용기준",
+        "chapter": "제2장 실비정액가산방식",
+        "content": "제11조(디자이너 노임단가의 적용기준) ① 디자이너 노임단가의 적용기준은 1일 8시간으로 하며, 1개월의 일수는「근로기준법」 및 「통계법」에 따라 사단법인 한국디자인산업연합회가 조사ㆍ공표하는 임금실태조사보고서에 따른다. 다만 토요 휴무제를 시행하는 경우와 1일 8시간을 초과하는 경우에는 「근로기준법」을 적용한다.② 출장일수는 근무일수에 가산하며, 이 경우 산업디자인 개발 사업자의 사업소를 출발한 날로부터 귀사한 날까지를 계산한다.③ 산업디자인 개발 사업 수행기간 중 「민방위기본법」또는「향토예비군설치법」에 따른 훈련기간은 해당 산업디자인개발 업무를 수행한 일수에 산입한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "「근로기준법」",
+            "line_text": "",
+            "target_law_name": "근로기준법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/근로기준법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:산업디자인개발의대가기준#JO0011",
+            "reference_id": "law:근로기준법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "「통계법」",
+            "line_text": "",
+            "target_law_name": "통계법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/통계법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:산업디자인개발의대가기준#JO0011",
+            "reference_id": "law:통계법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "「근로기준법」",
+            "line_text": "",
+            "target_law_name": "근로기준법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/근로기준법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:산업디자인개발의대가기준#JO0011",
+            "reference_id": "law:근로기준법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제3항",
+            "link_text": "「민방위기본법」",
+            "line_text": "",
+            "target_law_name": "민방위기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/민방위기본법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:산업디자인개발의대가기준#JO0011",
+            "reference_id": "law:민방위기본법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제3항",
+            "link_text": "「향토예비군설치법」",
+            "line_text": "",
+            "target_law_name": "향토예비군설치법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/향토예비군설치법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:산업디자인개발의대가기준#JO0011",
+            "reference_id": "law:향토예비군설치법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:산업디자인개발의대가기준#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "관리기관 지정 등",
+        "chapter": "제3장 표준품셈의 관리",
+        "content": "제12조(관리기관 지정 등) ① 산업통상자원부 장관은 제6조에 따른 표준품셈의 인가, 관리 등을 위해 사단법인 한국디자인산업연합회를 산업디자인 표준품셈 관리기관(이하 ‘관리기관’이라 한다)으로 지정한다.② 관리기관의 장은 표준품셈의 제정 및 개정, 연구, 조사, 해석 및 보급 등 표준품셈에 대한 전반적인 업무를 효율적으로 운영하기 위한 운영지침을 마련하여 산업통상자원부장관의 승인을 받아야 한다.③ 산업통상자원부장관은 관리기관이 고의로 인한 업무태만 또는 공신력에 있어 물의를 야기하는 등 지속적인 업무수행이 부적절하다고 인정될 때에는 관리기관의 지정을 철회하거나 취소할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "산업디자인 개발의 대가기준",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/산업디자인 개발의 대가기준/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:산업디자인개발의대가기준#JO0012",
+            "reference_id": "admrul:산업디자인개발의대가기준#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:산업디자인개발의대가기준#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "표준품셈의 제ㆍ개정 계획보고 등",
+        "chapter": "제3장 표준품셈의 관리",
+        "content": "제13조(표준품셈의 제ㆍ개정 계획보고 등) ① 관리기관의 장은 관계기관의 의견을 수렴하여 다음 각호의 사항이 포함된 품셈의 제ㆍ개정 등에 대한 추진계획을 수립하여 매년 3월말까지 산업통상자원부장관에게 제출하여야 한다.1. 표준품셈의 제ㆍ개정 등을 위한 추진일정2. 표준품셈 제ㆍ개정 항목 선정 및 조사방법3. 표준품셈 심의위원회 구성 및 운영방법4. 기타 표준품셈의 제ㆍ개정 등에 필요한 사항② 관리기관의 장은 제1항의 규정에 따라 제출한 추진계획이 변경 된 경우 변경된 내용을 지체없이 산업통상자원부장관에게 보고하여야 한다.③ 산업통상자원부장관은 제1항의 규정에 의거 제출된 사항을 검토하여 변경이 필요한 경우에는 관리기관의 장에게 이를 요구할 수 있다. 이 경우 관리기관의 장은 특별한 사유가 없는 한 이를 반영하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:산업디자인개발의대가기준#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "심의위원회 구성 및 운영 등",
+        "chapter": "제3장 표준품셈의 관리",
+        "content": "제14조(심의위원회 구성 및 운영 등) ① 관리기관은 표준품셈의 심의를 위하여 표준품셈심의위원회(이하 \"위원회\"라 한다)를 둔다.② 위원회의 위원장은 관리기관의 장이 지정하는 자로 한다.③ 위원회는 산업통상자원부 및 관련부처 담당 공무원을 포함하여 구성한다. 다만, 해당 품셈의 전문분야에 따라 위원을 달리 구성할 수 있다.1. 발주청 및 산업디자인 관련 기관에 소속되어 있는 자로서 해당 분야에 전문 지식이 있는 자2. 산업디자인 관련 업체, 학계 및 단체에서 재직중인 전문가3. 위원장이 해당 전문분야의 전문가로 인정하여 지정하는 자",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:산업디자인개발의대가기준#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "위원회 심의 등",
+        "chapter": "제3장 표준품셈의 관리",
+        "content": "제15조(위원회 심의 등) ① 위원회는 다음 각 호를 심의한다.1. 표준품셈 제ㆍ개정 대상 항목의 선정2. 표준품셈 제ㆍ개정 결과에 대한 심의3. 그 밖에 표준품셈 업무에 관한 사항② 위원회는 위원장이 소집하며, 출석위원 3분의 2 이상의 찬성으로 의결한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:산업디자인개발의대가기준#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "품셈의 확정",
+        "chapter": "제3장 표준품셈의 관리",
+        "content": "제16조(품셈의 확정) ① 제15조에 따라 위원회가 심의ㆍ의결한 품셈은 관리기관의 장이 산업통상자원부 장관에게 보고 후 공표함으로써 산업통상자원부장관이 인가한 것으로 본다.② 제1항에 따라 인가된 표준품셈은 다음연도 1월 1일부터 시행함을 원칙으로 한다. 다만, 적용의 시급성 등 필요에 따라 그 시행일을 달리할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제1항",
+            "link_text": "제15조",
+            "line_text": "",
+            "target_law_name": "산업디자인 개발의 대가기준",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/산업디자인 개발의 대가기준/제15조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:산업디자인개발의대가기준#JO0016",
+            "reference_id": "admrul:산업디자인개발의대가기준#JO0015"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:산업디자인개발의대가기준#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "사업비의 지원",
+        "chapter": "제3장 표준품셈의 관리",
+        "content": "제17조(사업비의 지원) 산업통상자원부장관은 제6조 제2호에 의한 전문기관의 노임단가 조사 및 이 장에 의한 관리기관의 품셈의 제정, 개정, 연구, 조사, 해석, 보급 및 위원회 운영 등 업무의 원활한 운영관리를 위하여 사업비를 지원할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제17조",
+            "source_clause": "제17조",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "산업디자인 개발의 대가기준",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/산업디자인 개발의 대가기준/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:산업디자인개발의대가기준#JO0017",
+            "reference_id": "admrul:산업디자인개발의대가기준#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:산업디자인개발의대가기준#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "재검토기한",
+        "chapter": "제3장 표준품셈의 관리",
+        "content": "제18조(재검토기한) 산업통상자원부장관은「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 고시에 대하여 2019년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제18조",
+            "source_clause": "제18조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:산업디자인개발의대가기준#JO0018",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:산업디자인개발의대가기준#JO0018"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20191220",
+      "promulgation_no": "2019-212",
+      "content": "부칙 <제2019-212호, 2019. 12. 20.>제1조(시행일) 이 기준은 고시하는 날로부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "직접경비 항목",
+      "enforcement_date": "",
+      "content": "< 별표 1> 직접경비 항목\n┌─────────┬─────────────────────────────────────────┐\n│직접경비 항목(안) │정의                                                                              │\n├─────────┼─────────────────────────────────────────┤\n│인쇄비            │제출문서의 인쇄비 및 복사비 등을 포함한 비용                                      │\n├─────────┼─────────────────────────────────────────┤\n│자료조사비        │문헌, 전문도서 구입 및 시장조사비, 각종 리서치비 등을 포함한 비용                 │\n├─────────┼─────────────────────────────────────────┤\n│위탁비(외주비)    │프로젝트 내용의 일부를 외부에 위탁하는 경우에 소요되는 비용                       │\n├─────────┼─────────────────────────────────────────┤\n│모형제작비        │Mock-up 및 프로토타입 등의 모형을 제작할 때 소요되는 비용                         │\n├─────────┼─────────────────────────────────────────┤\n│시험 및 인증비    │결과물에 대한 각종 시험 비용 및 인증 비용                                         │\n├─────────┼─────────────────────────────────────────┤\n│여비              │운임(철도, 선박, 항공, 자동차), 현지교통비, 숙박비 등을 포함한 비용               │\n├─────────┼─────────────────────────────────────────┤\n│장비비            │해당 프로젝트 수행을 위해 특별히 구입 및 임대하는 장비의 비용                     │\n├─────────┼─────────────────────────────────────────┤\n│전문가활용비      │해당 프로젝트에 소요되는 전문가 자문 및 활용 비용                                 │\n├─────────┼─────────────────────────────────────────┤\n│재료비            │해당 프로젝트에 직접적으로 소요되는 재료의 비용                                   │\n├─────────┼─────────────────────────────────────────┤\n│특허출원비        │실용신안, 특허, 상표출원 등에 소요되는 비용                                       │\n├─────────┼─────────────────────────────────────────┤\n│지식재산권구입비  │이미지/사진 구입비용, 특허 사용료, 노-하우 사용료, 폰트 구입비용 등을 포함한 비용 │\n├─────────┼─────────────────────────────────────────┤\n│회의비            │프로젝트에서 직접적으로 소요되는 식사비등을 포함한 비용                           │\n├─────────┼─────────────────────────────────────────┤\n│소프트웨어 사용료 │해당 프로젝트 수행을 위해 특별히 요구되는 소프트웨어의 사용 비용                  │\n├─────────┼─────────────────────────────────────────┤\n│사진촬영비        │작가료, 모델료, 스튜디오 렌트료 등을 포함한 촬영 비용                             │\n└─────────┴─────────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000210438&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=114735939",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=114735939",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:산업디자인개발의대가기준#BYL0001",
+      "filename": "별표1_직접경비 항목.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "제경비 항목",
+      "enforcement_date": "",
+      "content": "<별표 2> 제경비 항목\n┌────────────────┬─────────────────────────────────────────────┐\n│제경비 항목(안)                 │정의                                                                                      │\n├────────────────┼─────────────────────────────────────────────┤\n│임원·서무·경리 직원 등의 급여 │해당 프로젝트에 직접 투입되지 않는 임직원에 대한 인건비                                   │\n├────────────────┼─────────────────────────────────────────────┤\n│임차료                          │사무실, 차량, 장비, 장치 등 임대 사용으로 소요되는 비용                                   │\n├────────────────┼─────────────────────────────────────────────┤\n│사무용 소모품비 및 비품비       │업무수행에 필요한 각종 소모품 및 비품 비용                                                │\n├────────────────┼─────────────────────────────────────────────┤\n│기계기구의 수선 및 상각비       │업무수행에 소요되는 장치 및 장비의 가치하락에 따른 비용                                   │\n├────────────────┼─────────────────────────────────────────────┤\n│통신운반비                      │우편 및 배송에 따른 각종 비용                                                             │\n├────────────────┼─────────────────────────────────────────────┤\n│세금과 공과                     │기업 운영으로 발생되는 세금 및 공과금 비용                                                │\n├────────────────┼─────────────────────────────────────────────┤\n│운영활동비용                    │교통비, 통신비, 광열수도비(전기·가스·수도비) 등의 비용                                  │\n├────────────────┼─────────────────────────────────────────────┤\n│복리후생비                      │직원의 작업능률향상을 위한 간접비용 및 근무, 위생, 보건, 위안 등에 소요되는 경조금, 식비, │\n│                                │부서단합비, 포상비 등의 비용                                                              │\n├────────────────┼─────────────────────────────────────────────┤\n│소프트웨어 유지관리비           │업무수행에 필요한 각종 소프트웨어 사용에 소요되는 비용                                    │\n└────────────────┴─────────────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000210438&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=114735943",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=114735943",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:산업디자인개발의대가기준#BYL0002",
+      "filename": "별표2_제경비 항목.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "디자이너 등급 인정 기준",
+      "enforcement_date": "",
+      "content": "┌──────┬──────────────┬────────────────────────────┬─────────────┐\n│분류        │경력기준                    │학력기준                                                │자격기준                  │\n├──────┼──────────────┼────────────────────────────┼─────────────┤\n│총괄디자이너│실무경력 20년 이상          │                                                        │                          │\n├──────┼──────────────┼────────────────────────────┼─────────────┤\n│특급디자이너│실무경력 16년~20년 미만     │                                                        │                          │\n├──────┼──────────────┼────────────────────────────┼─────────────┤\n│고급디자이너│실무경력 12년~16년 미만     │                                                        │·기술사 자격소지자       │\n├──────┼──────────────┼────────────────────────────┼─────────────┤\n│중급디자이너│실무경력 8년~12년 미만      │                                                        │                          │\n├──────┼──────────────┼────────────────────────────┼─────────────┤\n│초급디자이너│실무경력 4년~8년 미만       │                                                        │                          │\n│            │(디자인 박사 학위 2년 인정, │                                                        │                          │\n│            │디자인 석사 학위 1년 인정)  │                                                        │                          │\n├──────┼──────────────┼─┬──────────────────────────┼─────────────┤\n│보조디자이너│보조디자이너 자격 취득 후   │디│·석사 이상의 학위 소지자(석사, 박사)               │·기사 자격 소지자        │\n│            │실무 경력 1년~4년 미만      │자│·학사학위 소지자                                   │                          │\n│            │                            │인│·전문학사 소지자로 2년 이상의 실무 경력자          │·산업기사 자격 소지자로  │\n│            │                            │전│·특성화고 졸업자(디자인전공)로 4년 이상의          │2년 이상  실무 경력자     │\n│            │                            │공│ 실무 경력자                                        │                          │\n│            │                            │자│                                                    │·기능사 자격 소지자로    │\n│            │                            ├─┼──────────────────────────┤ 4년 이상 실무 경력자     │\n│            │                            │준│·학사학위 소지자로 1년 이상의 실무 경력자          │                          │\n│            │                            │전│·전문학사 소지자로 3년 이상의 실무 경력자          │                          │\n│            │                            │공│·특성화고 졸업자(미술전공)로 5년 이상의 실무       │                          │\n│            │                            │자│경력자                                              │                          │\n│            │                            ├─┼──────────────────────────┤                          │\n│            │                            │비│·석사 이상의 학위 소지자(학사 비전공)로 1년 이상의 │                          │\n│            │                            │전│실무 경력자                                         │                          │\n│            │                            │공│·학사학위 소지자로 2년 이상의 실무 경력자          │                          │\n│            │                            │자│·전문학사 소지자로 4년 이상의 실무 경력자          │                          │\n│            │                            │  │·일반고 졸업자로 6년 이상의 실무 경력자            │                          │\n└──────┴──────────────┴─┴──────────────────────────┴─────────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000210438&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=114735947",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=114735947",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:산업디자인개발의대가기준#BYL0003",
+      "filename": "별표3_디자이너 등급 인정 기준.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "산업디자인 개발의 대가기준_고시(전문).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=114730589",
+      "file_store_url": "",
+      "filename": "산업디자인 개발의 대가기준_고시(전문).hwp"
+    },
+    {
+      "name": "조문별제개정이유서(대가기준).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=114730591",
+      "file_store_url": "",
+      "filename": "조문별제개정이유서(대가기준).hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 20,
+    "by_category": {
+      "법령": 13,
+      "별표": 3,
+      "행정규칙": 4
+    },
+    "by_relation_type": {
+      "citation": 14,
+      "appendix_ref": 3,
+      "internal_ref": 3
+    },
+    "articles_total": 18,
+    "articles_with_relations": 13,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 3,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/산업디자인 개발의 대가기준"
+  },
+  "provision_id": "admrul:산업디자인개발의대가기준#DOC"
+}
