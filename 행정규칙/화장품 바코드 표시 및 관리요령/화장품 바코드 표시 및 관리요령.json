@@ -1,0 +1,396 @@
+{
+  "law_id": "2100000187191",
+  "mst": "2100000187191",
+  "law_name": "화장품 바코드 표시 및 관리요령",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000187191",
+  "promulgation_no": "2020-12",
+  "promulgation_date": "20200225",
+  "enforcement_date": "20200225",
+  "revision_date": "20200225",
+  "revision_type": "타법개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "식품의약품안전처(화장품정책과)",
+    "담당자명": "신용관",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "화장품 바코드 표시 및 관리요령",
+    "발령일자": "20200225",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200409",
+    "조문형식여부": "Y",
+    "소관부처명": "식품의약품안전처",
+    "전화번호": "043-719-3405",
+    "제개정구분명": "타법개정",
+    "소관부처코드": "1471000",
+    "생성일자": "20220726",
+    "행정규칙ID": "34091",
+    "시행일자": "20200225",
+    "담당부서기관코드": "1471189",
+    "발령번호": "2020-12",
+    "행정규칙일련번호": "2100000187191",
+    "상위부처명": "식품의약품안전처"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제·개정 이유\n○ 위임 근거 법령 및 인용하고 있는 타 법령 등의 개정사항을 반영하여 조문 및 용어 등을 정비하려는 것임\n◇ 제·개정 내용\n○ ‘화장품 제조판매업자’가 ‘화장품책임판매업자’로 개정(법률 제15488호, 2018.3.13. 공포, 2019.3.14. 시행)된 사항 등을 반영하여 용어를 정비함",
+  "body": {
+    "format": "articles",
+    "article_count": 7,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 고시는 「화장품법 시행규칙」 제19조제4항제1호의 규정에 의하여 국내 제조 및 수입되는 화장품에 대하여 표준바코드를 표시하게 함으로써 화장품 유통현대화의 기반을 조성하여 유통비용을 절감하고 거래의 투명성을 확보함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「화장품법 시행규칙」",
+            "line_text": "",
+            "target_law_name": "화장품법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/화장품법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:화장품바코드표시및관리요령#JO0001",
+            "reference_id": "law:화장품법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제19조제4항제1호",
+            "line_text": "",
+            "target_law_name": "화장품법 시행규칙",
+            "target_article_no": "제19조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/화장품법 시행규칙/제19조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:화장품바코드표시및관리요령#JO0001",
+            "reference_id": "law:화장품법시행규칙#JO0019"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:화장품바코드표시및관리요령#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) 이 고시에 사용되는 용어의 정의는 다음과 같다.1. \"화장품코드\"라 함은 개개의 화장품을 식별하기 위하여 고유하게 설정된 번호로써 국가식별코드, 화장품제조업자 등의 식별코드, 품목코드 및 검증번호(Check Digit)를 포함한 12 또는 13자리의 숫자를 말한다.2. \"바코드\"라 함은 화장품 코드를 포함한 숫자나 문자 등의 데이터를 일정한 약속에 의해 컴퓨터에 자동 입력시키기 위한 다음 각 목의 하나에 여백 및 광학적문자판독(Optical Character Recognition) 폰트의 글자로 구성되어 정보를 표현하는 수단으로서, 스캐너가 읽을 수 있도록 인쇄된 심벌(마크)을 말한다.가. 여러 종류의 폭을 갖는 백과 흑의 평형 막대의 조합나. 일정한 배열로 이루어져 있는 사각형 모듈 집합으로 구성된 데이터 매트릭스",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:화장품바코드표시및관리요령#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "표시대상",
+        "chapter": "",
+        "content": "제3조(표시대상) ① 화장품바코드 표시대상품목은 국내에서 제조되거나 수입되어 국내에 유통되는 모든 화장품(기능성화장품 포함)을 대상으로 한다.② 제1항 규정에 불구하고 내용량이 15밀리리터 이하 또는 15그램 이하인 제품의 용기 또는 포장이나 견본품, 시공품 등 비매품에 대하여는 화장품바코드 표시를 생략할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:화장품바코드표시및관리요령#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "표시의무자",
+        "chapter": "",
+        "content": "제4조(표시의무자) 화장품바코드 표시는 국내에서 화장품을 유통ㆍ판매하고자 하는 화장품책임판매업자가 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:화장품바코드표시및관리요령#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "바코드의 종류 및 구성체계 등",
+        "chapter": "",
+        "content": "제5조(바코드의 종류 및 구성체계 등) ① 화장품바코드는 국제표준바코드인 GS1 체계 중 EAN-13, ITF-14, GS1-128, UPC-A 또는 GS1 DataMatrix 중 하나를 사용하여야 한다. 다만, 화장품 판매업소를 통하지 않고 소비자의 가정을 직접 방문하여 판매하는 등 폐쇄된 유통경로를 이용하는 경우에는 자체적으로 마련한 바코드를 사용할 수 있다.② 화장품바코드 구성체계 등은 별표 1과 같다.③ 화장품책임판매업자 등이 화장품코드를 설정함에 있어 바코드 오독방지와 신뢰성 향상을 위해 설정된 마지막 자리의 검증번호를 정하기 위한 계산법은 별표 2와 같다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "화장품 바코드 표시 및 관리요령",
+            "target_article_no": "별표1",
+            "target_article_title": "화장품 바코드의 구성체계(제5조제2항 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000187191&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:화장품바코드표시및관리요령#JO0005",
+            "reference_id": "admrul:화장품바코드표시및관리요령#BYL0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제3항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "화장품 바코드 표시 및 관리요령",
+            "target_article_no": "별표2",
+            "target_article_title": "검증번호 계산법(제5조제3항 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000187191&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:화장품바코드표시및관리요령#JO0005",
+            "reference_id": "admrul:화장품바코드표시및관리요령#BYL0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:화장품바코드표시및관리요령#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "바코드표시",
+        "chapter": "",
+        "content": "제6조(바코드표시) ① 화장품책임판매업자 등은 화장품 품목별ㆍ포장단위별로 개개의 용기 또는 포장에 제5조의 규정에 의한 바코드 심벌을 표시하여야 한다.② 제1항의 규정에 의한 바코드를 표시함에 있어 바코드의 인쇄크기,  색상 및 위치는 별표 3과 같다. 다만, 용기포장의 디자인에 따라 판독이 가능하도록 바코드의 인쇄크기와 색상을 자율적으로 정할 수 있다.③ 화장품바코드 표시는 유통단계에서 쉽게 훼손되거나 지워지지 않도록 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "제5조",
+            "line_text": "",
+            "target_law_name": "화장품 바코드 표시 및 관리요령",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/화장품 바코드 표시 및 관리요령/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:화장품바코드표시및관리요령#JO0006",
+            "reference_id": "admrul:화장품바코드표시및관리요령#JO0005"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "화장품 바코드 표시 및 관리요령",
+            "target_article_no": "별표3",
+            "target_article_title": "화장품바코드의 인쇄크기, 색상 및 위치(제6조제2항 관련)",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000187191&bylNo=0003&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:화장품바코드표시및관리요령#JO0006",
+            "reference_id": "admrul:화장품바코드표시및관리요령#BYL0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:화장품바코드표시및관리요령#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제7조(재검토기한) 식품의약품안전처장은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2016년 7월 1일 기준으로 매3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:화장품바코드표시및관리요령#JO0007",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:화장품바코드표시및관리요령#JO0007"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20011207",
+      "promulgation_no": "2001-68",
+      "content": "부칙 <제2001-68호,2001. 12. 7.>①(시행일) 이 고시는 2002년  1월  1일부터 시행한다.②(화장품 제조업자 및 수입자 등에 대한 경과조치) 이 고시 시행일 이전에 화장품 제조업자(수입자)가 제조(수입)한 제품에 대하여는 제6조의 규정에 의한 화장품바코드 표시를 2003년 1월 1일부터 적용한다."
+    },
+    {
+      "promulgation_date": "20090824",
+      "promulgation_no": "2009-150",
+      "content": "부칙 <제2009-150호,2009. 8. 24.>이 고시는 2009년 8월 24일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20120823",
+      "promulgation_no": "2012-103",
+      "content": "부칙 (의료기관 조제실 제제 관리 기준 등 고시 일부개정)<제2012-103호,2012. 8. 23.>제1조(시행일) 이 고시는 2012년 8월 24일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20130405",
+      "promulgation_no": "2013-172",
+      "content": "부칙 (정부조직개편에 따른 소관명칭 변경을 위한 민원의 전자적 신청 및 처리에 관한 규정 등 일부개정) <제2013-172호,2013. 4. 5.>제1조(시행일) 이 고시는 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20160517",
+      "promulgation_no": "2016-41",
+      "content": "부칙 <제2016-41호,2016. 5. 17.>이 고시는 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20180315",
+      "promulgation_no": "2018-17",
+      "content": "부칙 <제2018-17호,2018. 3. 15.>이 고시는 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20200225",
+      "promulgation_no": "2020-12",
+      "content": "부칙 (인용조문 정비 등을 위한 35개 고시의 일부개정고시)<제2020-12호,2020. 2. 25.>이 고시는 고시한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "화장품 바코드의 구성체계(제5조제2항 관련)",
+      "enforcement_date": "",
+      "content": "[별표 1]\n화장품 바코드의 구성체계(제5조제2항 관련)\n┍━━━━━━┯━━━━━━┯━━━━━━┯━━━━━━━━┯━━━━━━┯━━━━━━━━┑\n│바코드명    │EAN-13      │ITF-14      │GS1-128         │UPC-A       │GS1 DataMatrix  │\n├──────┼──────┼──────┼────────┼──────┼────────┤\n│번호체계    │GTIN-13     │GTIN-14     │GS1 응용식별자* │GTIN-12     │GS1 응용식별자* │\n├──────┼──────┼──────┼────────┼──────┼────────┤\n│최대사용가능│숫자 13자리 │숫자 14자리 │숫자, 문자 포함 │숫자 12자리 │숫자, 문자 포함 │\n│자 리 수    │            │            │48자리수 이하   │            │2,335자리수 이하│\n┕━━━━━━┷━━━━━━┷━━━━━━┷━━━━━━━━┷━━━━━━┷━━━━━━━━┙\n* GS1 응용식별자(Application Identifier): 바코드에 부가정보 입력 시 정보의 종류와 형식을 지정해 주는 일종의 구분자로, GS1 국제기준에 따라 사전 정의된 2∼4자리 숫자(일반적으로 괄호 안에 표시)\n1. GTIN-13 및 GTIN-14 번호체계\n1) GTIN-13 번호체계\n┍━━━━┯━━━━━━┯━━━━━━┯━━━━┯━━━━┑\n│자리수  │3           │4~6         │5~3     │1       │\n┝━━━━┿━━━━━━┿━━━━━━┿━━━━┿━━━━┥\n│내  용  │국가식별코드│업체식별코드│품목코드│검증번호│\n├────┼──────┼──────┼────┼────┤\n│부여 예 │880         │1234        │12345   │7       │\n┕━━━━┷━━━━━━┷━━━━━━┷━━━━┷━━━━┙\n* 업체식별코드 자릿수가 4자리인 경우 품목코드 자릿수는 5자리\n* 업체식별코드 자릿수가 5자리인 경우 품목코드 자릿수는 4자리\n* 업체식별코드 자릿수가 6자리인 경우 품목코드 자릿수는 3자리\n2) GTIN-14 번호체계\n┍━━━━┯━━━━┯━━━━┯━━━━┯━━━━┯━━━━┑\n│자리수  │1       │3       │4~6     │5~3     │1       │\n┝━━━━┿━━━━┿━━━━┿━━━━┿━━━━┿━━━━┥\n│내  용  │물류식별│국가식별│업체식별│품목코드│검증번호│\n├────┼────┼────┼────┼────┼────┤\n│부여 예 │1~8     │880     │1234    │12345   │4       │\n┕━━━━┷━━━━┷━━━━┷━━━━┷━━━━┷━━━━┙\n* 업체식별코드 자릿수가 4자리인 경우 품목코드 자릿수는 5자리\n* 업체식별코드 자릿수가 5자리인 경우 품목코드 자릿수는 4자리\n* 업체식별코드 자릿수가 6자리인 경우 품목코드 자릿수는 3자리\n2. GS1-128 및 GS1 DataMatrix 바코드 체계\nGTIN-13과 GTIN-14 기본번호체계에 GS1 응용식별자를 활용하여 부가정보를 추가한다.\n* GS1 응용식별자는 GS1 국제표준규격을 준수하여 적용해야 함\n* GS1 DataMatrix는 ECC(Error Checking and Correction) 200버전을 나타내며 GS1 국제표준규격을 준수해야 함\n1) GS1-128 바코드\n\n* GS1-128 바코드에 GS1 응용식별자\n체계에 따라 3개 데이터 입력 예\n1) 화장품코드 8801234123457\n2) 사용기한   2022년 12월 25일\n3) 제조번호   GS1-128\n\n2) GS1 DataMatrix 바코드\n\n* GS1 DataMatrix 바코드에 GS1 응용식별자 체계에 따라 3개 데이터 입력\n예\n1) 화장품코드 8801234123457\n2) 사용기한   2022년 12월 25일\n3) 제조번호   GS1-128\n",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000187191&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117794399",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117794399",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:화장품바코드표시및관리요령#BYL0001",
+      "filename": "별표1_화장품 바코드의 구성체계(제5조제2항 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "검증번호 계산법(제5조제3항 관련)",
+      "enforcement_date": "",
+      "content": "[별표 2]\n검증번호 계산법(제5조제3항 관련)\n가. GTIN-13\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃        8 8 0        1 2 3 4 5      6 7 8 9         ○                    ┃\n┃    국가식별코드    업체식별코드    품목코드    체크디지트                ┃\n┃                                                                          ┃\n┃ 이 코드에 우측으로부터 번호를 붙인다.                                    ┃\n┃  코  드 :  8   ⑧   0   ①   2   ③   4   ⑤   6   ⑦   8   ⑨   ○      ┃\n┃  항위치 :  13  12   11  10   9   8    7   6    5   4    3   2    1  ←   ┃\n┃  위의 항위치에 근거하여 다음과 같이 계산한다.                            ┃\n┃ ① 짝수번째에 있는 숫자를 전부 더한다.(○ 표시)                          ┃\n┃    9 + 7 + 5 + 3 + 1 + 8 = 33                                            ┃\n┃ ② 위의 결과 ①×3 = 33×3 = 99                                          ┃\n┃ ③ 체크디지트항을 제외한 홀수번째의 위치에 있는 숫자를 모두 더한다.      ┃\n┃    8 + 6 + 4 + 2 + 0 + 8 = 28                                            ┃\n┃   ②에서 얻어진 99와 ③에서 얻어진 28을 더하면 127이 된다.               ┃\n┃   마지막으로 10의 배수인 숫자로 127을 뺀다.                              ┃\n┃   단, 이 경우 10의 배수는 127보다 큰 바로 다음의 10의 배수를 말한다.(130)┃\n┃   130-127=3 → 체크디지트                                                ┃\n┃   만약 계산을 하여 “0”이 나오면 체크디지트는 “0”이 된다.             ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n나. GTIN-14\n상기방식 ①에 물류식별코드를 넣어 합산하며 나머지 방식은 동일하다.\n다. UPC-A\nUPC 체크디지트는 모듈러스 10 ( Modulus 10 ) 방식에 의한다.\n예 )  6  1 4 1 4 1  0 0 0 2 7  ○\n이 코드 의 좌측부터 우측으로 번호를 붙인다.\n위의 항위치에 근거하여 다음과 같이 계산한다.\n1단계 : 홀수번째 숫자를 전부 더한다.\n6+4+4+0+0+7 = 21\n2단계 : 위의 결과에 3을 곱한다.\n┌───┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┐\n│UPC   │6 │1 │4 │1 │4 │1 │0 │0 │0 │2 │7 │○│\n├───┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┤\n│항위치│1 │2 │3 │4 │5 │6 │7 │8 │9 │10│11│12│\n├───┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┤\n│                                                      │\n└───────────────────────────┘\n21 X 3 = 63\n3단계 : 체크디지트항을 제외한 짝수번째 숫자를 모두 합산한다.\n1+1+1+0+2 = 5\n4단계 : 2단계와 3단계의 값을 더한다.\n63+5 = 68\n5단계 :  4단계의 결과치에 더하여 10의 배수를 만들 수 있는 숫자가 구하는 체크 디지트가 된다.\n68 + ○ = 70\n그러므로 61414100027○ 의 체크디지트는 “2”가 되며, 완성된 12자리 UPC는 다음과 같다.\n6 14141 00027 2",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000187191&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117794405",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117794405",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:화장품바코드표시및관리요령#BYL0002",
+      "filename": "별표2_검증번호 계산법(제5조제3항 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "화장품바코드의 인쇄크기, 색상 및 위치(제6조제2항 관련)",
+      "enforcement_date": "",
+      "content": "[별표 3]\n화장품바코드의 인쇄크기, 색상 및 위치(제6조제2항 관련)\n┍━━━━┯━━━━━━━━━━┯━━━━━━━━━━┯━━━━━━━━━━┯━━━━━━━━━━┯━━━━━━━━━━┑\n│구분    │EAN-13              │ITF-14              │GS1-128             │UPC-A               │GS1 DataMatrix      │\n┝━━━━┿━━━━━━━━━━┿━━━━━━━━━━┿━━━━━━━━━━┿━━━━━━━━━━┿━━━━━━━━━━┥\n│인쇄크기│- 3.73㎝×2.6㎝     │- 15.24㎝×4.14㎝   │- 가로: 데이터량에  │- 3.73㎝×2.59㎝    │- 밀도              │\n│        │- 0.3배∼2.0배      │- 0.5배∼1.2배      │따라 유동적임       │- 0.3배∼2.0배      │(X-dimension)       │\n│        │                    │                    │- 세로: 2㎝∼3.8㎝  │                    │0.25㎜ 이상 권고    │\n├────┼──────────┼──────────┼──────────┼──────────┼──────────┤\n│인쇄색상│- 막대 상호간 명암  │- 막대 상호간 명암  │- 막대 상호간 명암  │- 막대 상호간 명암  │- 막대 상호간 명암  │\n│        │대조율 75%이상      │대조율 75%이상      │대조율 75%이상      │대조율 75%이상      │대조율 75%이상      │\n├────┼──────────┼──────────┼──────────┼──────────┼──────────┤\n│인쇄위치│- 판독이 용이한     │- 박스 최소 2면     │- 박스 최소 2면     │- 판독이 용이한     │- 판독이 용이한     │\n│        │위치                │  (인접면) 이상     │  (인접면) 이상     │위치                │위치                │\n│        │                    │                    │                    │                    │- 곡면 30°이내     │\n┕━━━━┷━━━━━━━━━━┷━━━━━━━━━━┷━━━━━━━━━━┷━━━━━━━━━━┷━━━━━━━━━━┙",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000187191&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117794411",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117794411",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:화장품바코드표시및관리요령#BYL0003",
+      "filename": "별표3_화장품바코드의 인쇄크기, 색상 및 위치(제6조제2항 관련).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "화장품 바코드 표시 및 관리요령(식약처 고시 제2020-12호, 20.2.25)(최종).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=70352767",
+      "file_store_url": "",
+      "filename": "화장품 바코드 표시 및 관리요령(식약처 고시 제2020-12호, 20.2.25)(최종).hwp"
+    },
+    {
+      "name": "개정이유서(화장품 바코드 표시 및 관리요령).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=70352769",
+      "file_store_url": "",
+      "filename": "개정이유서(화장품 바코드 표시 및 관리요령).hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 7,
+    "by_category": {
+      "법령": 2,
+      "별표": 3,
+      "행정규칙": 2
+    },
+    "by_relation_type": {
+      "citation": 3,
+      "appendix_ref": 3,
+      "internal_ref": 1
+    },
+    "articles_total": 7,
+    "articles_with_relations": 4,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 7,
+    "appendices_count": 3,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/화장품 바코드 표시 및 관리요령"
+  },
+  "provision_id": "admrul:화장품바코드표시및관리요령#DOC"
+}
