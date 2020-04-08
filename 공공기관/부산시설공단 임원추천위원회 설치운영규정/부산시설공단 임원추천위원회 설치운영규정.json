@@ -1,49 +1,49 @@
 {
-  "law_id": "2200000063573",
-  "mst": "2200000063573",
+  "law_id": "2200000107965",
+  "mst": "2200000107965",
   "law_name": "부산시설공단 임원추천위원회 설치운영규정",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
-  "adm_uid": "public:2200000063573",
-  "promulgation_no": "2011-08",
-  "promulgation_date": "20110614",
-  "enforcement_date": "20110614",
-  "revision_date": "20110614",
+  "adm_uid": "public:2200000107965",
+  "promulgation_no": "2020-06",
+  "promulgation_date": "20200408",
+  "enforcement_date": "20200408",
+  "revision_date": "20200408",
   "revision_type": "제정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "부산시설공단",
-    "담당자명": "강성은",
+    "담당자명": "설재원",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "부산시설공단 임원추천위원회 설치운영규정",
-    "발령일자": "20110614",
+    "발령일자": "20200408",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200401",
     "조문형식여부": "Y",
     "소관부처명": "부산시설공단",
-    "전화번호": "051-860-7646",
+    "전화번호": "051-860-7648",
     "제개정구분명": "제정",
     "소관부처코드": "B552587",
-    "생성일자": "20170807",
-    "행정규칙ID": "2101288",
-    "담당부서기관코드": "B552587",
-    "발령번호": "2011-08",
-    "행정규칙일련번호": "2200000063573"
+    "생성일자": "20221004",
+    "행정규칙ID": "2124921",
+    "담당부서기관코드": "",
+    "발령번호": "2020-06",
+    "행정규칙일련번호": "2200000107965"
   },
   "amendment_text": "",
   "revision_reason": "",
   "body": {
     "format": "articles",
-    "article_count": 30,
+    "article_count": 31,
     "articles": [
       {
         "article_no": "제1조",
         "article_title": "목적",
         "chapter": "",
-        "content": "제1조(목적) 이 규정은 지방공기업법(이하 \"법\"이라 한다.) 제58조 및 같은법 시행령 제56조의2 내지 제56조의4 규정에 따라 부산시설공단(이하 \"공단\"이라 한다)의 이사장, 이사 및 감사(조례와 정관으로 당연히 임명되는 자를 제외한다. 이하 \"임원\"이라 한다)의 후보를 추천하기 위한 공단 임원추천위원회(이하 \"위원회\"라 한다)의 구성 및 운영에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+        "content": "제1조(목적) 이 규정은 지방공기업법(이하 “법”이라 한다.) 제58조 및 같은법 시행령 제56조의2  내지 제56조의4 규정에 따라 부산시설공단(이하 “공단”이라 한다)의 이사장, 이사 및 감사(조례와 정관으로 당연히 임명되는 자를 제외한다. 이하 “임원”이라 한다)의 후보를 추천하기 위한 공단 임원추천위원회(이하 “위원회”라 한다)의 구성 및 운영에 관하여 필요한 사항을 규정함을 목적으로 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -63,9 +63,52 @@
         "article_no": "제3조",
         "article_title": "직무수행 및 자격 요건",
         "chapter": "",
-        "content": "제3조(직무수행 및 자격 요건) ① 공단은 법 제59조의 제3항의 규정에 따라 임원에 대한 직무수행요건은 별표1과 같이 한다. <개정 2011.6.14.>②직위별 자격요건은 다음 각 호의 사항을 고려하여 별표2와 같이 한다. <개정 2011.6.14.>1. 전문가적 능력, 전략적 리더쉽, 문제해결 능력, 조직관리 능력, 의사소통 능력, 협상 능력, 위기관리 능력 등 임원으로서의 일반적인 기본역량2. 시설물 관리 및 대시민 서비스, 경영혁신 등에 대한 전문 역량",
+        "content": "제3조(직무수행 및 자격 요건) ①공단은 법 제59조의 제3항의 규정에 따라 임원에 대한 직무수행요건은 별표1과 같이 한다.〈개정 2011.6.14〉②직위별 자격요건은 다음 각 호의 사항을 고려하여 별표2와 같이 한다.〈개정 2011.6.14., 2020.4.8.〉③노동자이사의 경우 공단 직원으로서 3년 이상 재직 중인 자여야 한다.<신설 2020.4.8.>1. 전문가적 능력, 전략적 리더쉽, 문제해결 능력, 조직관리 능력,     의사소통 능력, 협상 능력, 위기관리 능력 등 임원으로서의 일반적인   기본역량2. 시설물 관리 및 대시민 서비스, 경영혁신 등에 대한 전문 역량",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "별표1",
+            "line_text": "",
+            "target_law_name": "부산시설공단 임원추천위원회 설치운영규정",
+            "target_article_no": "별표1",
+            "target_article_title": "직무수행요건",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000107965&bylNo=0001&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "public:부산시설공단임원추천위원회설치운영규정#JO0003",
+            "reference_id": "public:부산시설공단임원추천위원회설치운영규정#BYL0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "별표2",
+            "line_text": "",
+            "target_law_name": "부산시설공단 임원추천위원회 설치운영규정",
+            "target_article_no": "별표2",
+            "target_article_title": "직위별 자격요건",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000107965&bylNo=0002&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "public:부산시설공단임원추천위원회설치운영규정#JO0003",
+            "reference_id": "public:부산시설공단임원추천위원회설치운영규정#BYL0002"
+          }
+        ],
         "images": [],
         "provision_id": "public:부산시설공단임원추천위원회설치운영규정#JO0003"
       },
@@ -73,7 +116,7 @@
         "article_no": "제4조",
         "article_title": "위원회의 구성 및 운영",
         "chapter": "",
-        "content": "제4조(위원회의 구성 및 운영) ① 공단은 임원의 임기 만료가 예정되어 있는 경우에는 해당 임기 만료의 2월 이전에 위원회를 구성한다. 다만, 결원 등 그 밖의 사유로 임원을 새로이 임명하고자 할 때에는 지체 없이 위원회를 구성하여야 한다.② 위원회는 임원의 후보자 추천이 필요할 때마다 새로이 구성하는 것을 원칙으로 한다. 다만, 임원의 결원이 동시 발생 또는 최초 결원발생예정일로부터 3개월 이내에 집중되는 경우에는 동일한 위원으로 위원회를 구성하여 운영할 수 있다.③ 위원회는 7인으로 구성하되, 다음 각 호의 자로 한다.1. 부산광역시장(이하 \"시장\"이라 한다)이 추천하는 자 2인2. 부산광역시 의회가 추천하는 자 3인3. 공단 이사회가 추천하는 자 2인④ 제3항의 규정에 의한 위원회의 위원은 다음 각 호의 어느 하나에 해당하는 자 중에서 추천하여야 한다.1. 경영전문가2. 경제 관련단체의 임원3. 4급 이상 공무원으로 퇴직한 자4. 공인회계사5. 공기업경영에 관한 지식과 경험이 있다고 인정되는 자⑤ 제3항의 규정에 의하여 위원회 위원의 추천요구를 받은 기관에서는 특별한 사유가 없는 한 지체 없이 위원회의 위원을 추천하여야 한다.⑥ 공단 임·직원(공모절차를 통해 임명된 비상임이사 및 비상임감사를 제외 한다.) 및 부산광역시 소속 공무원(시·군·구 의회 의원을 포함한다.)은 위원회의 위원이 될 수 없다. <개정 2011.6.14.>",
+        "content": "제4조(위원회의 구성 및 운영) ①공단은 임원의 임기 만료가 예정되어 있는 경우에는 해당 임기 만료의 2월 이전에 위원회를 구성한다. 다만, 결원 등 그 밖의 사유로 임원을 새로이 임명하고자 할 때에는 지체 없이 위원회를 구성하여야 한다.②위원회는 임원의 후보자 추천이 필요할 때마다 새로이 구성하는 것을 원칙으로 한다. 다만, 임원의 결원이 동시 발생 또는 최초 결원발생예정일로부터 3개월 이내에 집중되는 경우에는 동일한 위원으로 위원회를 구성하여 운영할 수 있다.③위원회는 7인으로 구성하되, 다음 각 호의 자로 한다.1. 부산광역시장(이하 “시장”이라 한다)이 추천하는 자 2인2. 부산광역시 의회가 추천하는 자 3인3. 공단 이사회가 추천하는 자 2인④제3항의 규정에 의한 위원회의 위원은 다음 각 호의 어느 하나에 해당하는 자 중에서 추천하여야 한다.1. 경영전문가2. 경제 관련단체의 임원3. 4급 이상 공무원으로 퇴직한 자4. 공인회계사5. 공기업경영에 관한 지식과 경험이 있다고 인정되는 자⑤제3항의 규정에 의하여 위원회 위원의 추천요구를 받은 기관에서는 특별한 사유가 없는 한 지체 없이 위원회의 위원을 추천하여야 한다.⑥공단 임·직원(공모절차를 통해 임명된 비상임이사 및 비상임감사를 제외 한다.) 및 부산광역시 소속 공무원(시·군·구 의회 의원을 포함한다.)은 위원회의 위원이 될 수 없다.〈개정 2011.6.14〉",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -103,7 +146,7 @@
         "article_no": "제7조",
         "article_title": "위원회 위원의 임무",
         "chapter": "",
-        "content": "제7조(위원회 위원의 임무) 위원회 위원의 임무는 다음 각 호와 같다.1. 관계법령 및 공단의 규정에서 정한 심사기준에 따라 임원후보자 심사2. 이사장 및 비상임이사, 비상임감사 후보를 시장에게 추천 <개정 2011.6.14.>3. 상임이사 후보를 이사장에게 추천",
+        "content": "제7조(위원회 위원의 임무) 위원회 위원의 임무는 다음 각 호와 같다.1. 관계법령 및 공단의 규정에서 정한 심사기준에 따라 임원후보자      심사2. 이사장 및 비상임이사, 비상임감사 후보를 시장에게 추천〈개정       2011.6.14〉3. 상임이사 후보를 이사장에게 추천",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -123,7 +166,7 @@
         "article_no": "제9조",
         "article_title": "간사",
         "chapter": "",
-        "content": "제9조(간사) ① 위원회의 사무를 처리하기 위하여 간사를 둔다.② 간사는 공단의 임원 인사업무를 담당하고 있는 파트장이 되며, 위원장의 명을 받아 위원회의 사무를 처리한다.③ 간사의 직무는 다음 각호와 같다.1. 위원회의 회의록 작성 및 관리2. 위원회의 소집 및 심사결과 처리3. 기타 위원회의 의사관리에 필요한 사항",
+        "content": "제9조(간사) ①위원회의 사무를 처리하기 위하여 간사를 둔다.②간사는 공단의 임원 인사업무를 담당하고 있는 팀장이 되며, 위원장의 명을 받아 위원회의 사무를 처리한다.③간사의 직무는 다음 각호와 같다.1. 위원회의 회의록 작성 및 관리2. 위원회의 소집 및 심사결과 처리3. 기타 위원회의 의사관리에 필요한 사항",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -133,7 +176,7 @@
         "article_no": "제10조",
         "article_title": "대행 전문기관",
         "chapter": "",
-        "content": "제10조(대행 전문기관) ① 위원회는 임원후보의 모집·조사 등의 업무를전문기관에 대행시킬 수 있다.② 대행 전문기관은 인재채용·인재추천·인사컨설팅 등 인사 관련업무를 전문적으로 수행하는 기관으로서 이와 관련된 상당한 업무수행실적이 있는 법인으로 한다.",
+        "content": "제10조(대행 전문기관) ①위원회는 임원후보의 모집·조사 등의 업무를전문기관에 대행시킬 수 있다.②대행 전문기관은 인재채용·인재추천·인사컨설팅 등 인사 관련업무를 전문적으로 수행하는 기관으로서 이와 관련된 상당한 업무수행실적이 있는 법인으로 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -143,7 +186,7 @@
         "article_no": "제11조",
         "article_title": "임원후보자 모집의 원칙",
         "chapter": "",
-        "content": "제11조(임원후보자 모집의 원칙) 위원회는 임원후보를 공개모집하여야 한다. 다만, 조례 또는 정관으로 정하는 바에 따라 당연히 이사 또는 감사로 선임되는 사람은 제외할 수 있다.",
+        "content": "제11조(임원후보자 모집의 원칙) ①위원회는 임원후보를 공개모집하여야 한다. 다만, 조례 또는 정관으로 정하는 바에 따라 당연히 이사 또는 감사로 선임되는 사람은 제외할 수 있다.② 노동자이사의 경우에는 공단 재직자를 대상으로 선거를 실시하여 후보를 선출하여야 한다. <신설 2020.4.8.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -183,7 +226,7 @@
         "article_no": "제15조",
         "article_title": "공고매체",
         "chapter": "",
-        "content": "제15조(공고매체) 위원회는 임원후보를 공개모집하는 경우 부산광역시와  공단의 인터넷 홈페이지, 지방공기업 경영정보포털사이트 및 1개 이상의 전국을 보급지역으로 하는 일간신문 또는 부산광역시를 주된 보급지역으로 하는 일간신문에 모집공고를 하여야 한다.",
+        "content": "제15조(공고매체) 위원회는 임원후보를 공개모집하는 경우 부산광역시와  공단의 인터넷 홈페이지, 지방공기업 경영정보포털사이트 및 1개 이상의 전국을 보급지역으로 하는 일간신문 또는 부산광역시를 주된 보급지역으로 하는 일간신문에 모집공고를 하여야 한다. 다만, 공단 재직자를 대상으로 노동자이사 후보를 모집하는 경우에는 공고방법을 위원회에서 달리 정할 수 있다. <단서신설 2020.4.8.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -193,7 +236,7 @@
         "article_no": "제16조",
         "article_title": "공고내용",
         "chapter": "",
-        "content": "제16조(공고내용) 위원회는 임용예정직위, 선발인원, 응모자격, 직무수행 요건, 임용계약 및 보수, 지원서 접수, 시험방법, 합격자 결정 및 발표에 관한 사항 등을 공고하여야 한다.",
+        "content": "제16조(공고내용) 위원회는 임용예정직위, 선발인원, 응모자격, 직무수행 요건, 임용계약 및 보수, 지원서 접수, 시험방법, 합격자 결정 및 발표에 관한 사항 등을 공고하여야 한다. 다만, 노동자이사의 공고내용은 위원회에서 별도로 정할 수 있다. <단서신설 2020.4.8.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -203,7 +246,7 @@
         "article_no": "제17조",
         "article_title": "재공고 및 변경공고",
         "chapter": "",
-        "content": "제17조(재공고 및 변경공고) ① 위원회는 최초 공개모집에서 응모자수가 결원예정직위수의 2배수에 미달하거나, 추천위원회의 심사결과 적격자가 없는 경우, 임명권자가 임원후보의 재추천을 요구할 때에는 최초의 공개모집과 동일한 절차와 방법에 따라 재공고을 실시하여야 한다.② 위원회는 재공고를 실시하였는데도 불구하고 응모자가 결원예정직위수의 2배수에 미달하는 때에는 공개모집에 응모한 자 중에서 업무수행에 필요한 학식과 경험이 풍부하고 능력을 갖춘 자를 임원후보로 추천할 수 있다.③ 위원회는 불가피한 사유로 이미 공고한 내용을 변경하는 경우에는 시험기일 7일 전까지 변경공고를 하여야 한다.",
+        "content": "제17조(재공고 및 변경공고) ①위원회는 최초 공개모집에서 응모자수가 결원예정직위수의 2배수에 미달하거나, 추천위원회의 심사결과 적격자가 없는 경우, 임명권자가 임원후보의 재추천을 요구할 때에는 최초의 공개모집과 동일한 절차와 방법에 따라 재공고을 실시하여야 한다.②위원회는 재공고를 실시하였는데도 불구하고 응모자가 결원예정직위수의 2배수에 미달하는 때에는 공개모집에 응모한 자 중에서 업무수행에 필요한 학식과 경험이 풍부하고 능력을 갖춘 자를 임원후보로 추천할 수 있다.③위원회는 불가피한 사유로 이미 공고한 내용을 변경하는 경우에는 시험기일 7일 전까지 변경공고를 하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -213,7 +256,7 @@
         "article_no": "제18조",
         "article_title": "응시원서 접수",
         "chapter": "",
-        "content": "제18조(응시원서 접수) ① 위원회는 위원장 주관으로 공단의 간사로 하여금 응시원서 접수처리를 실무지원토록 할 수 있다.② 응시원서는 가능한 지원자의 편의를 위하여 인터넷을 통해 접수하되, 필요시 방문접수, FAX 또는 우편 등을 통하여 접수할 수 있다.",
+        "content": "제18조(응시원서 접수) ①위원회는 위원장 주관으로 공단의 간사로 하여금 응시원서 접수처리를 실무지원토록 할 수 있다.②응시원서는 가능한 지원자의 편의를 위하여 인터넷을 통해 접수하되, 필요시 방문접수, FAX 또는 우편 등을 통하여 접수할 수 있다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -225,7 +268,29 @@
         "chapter": "",
         "content": "제19조(응모자 제출서류) 위원회는 임원후보자를 심사하기 위하여 응모할 자에게 다음 각 호의 서류 등을 요구할 수 있다.1. 지원서(별지 제4호 서식)2. 직무수행계획서(기관운영방침 및 경영혁신계획 포함)3. 자기소개서4. 최종학력증명서, 경력증명서, 관련 자격증5. 기타 위원회에서 적정한 심사를 위해 필요하다고 요구하는 자료",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제19조",
+            "source_clause": "제19조",
+            "link_text": "별지 제4호 서식",
+            "line_text": "",
+            "target_law_name": "부산시설공단 임원추천위원회 설치운영규정",
+            "target_article_no": "별지4",
+            "target_article_title": "지원서",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119913161",
+            "resolve_method": "render",
+            "source_provision_id": "public:부산시설공단임원추천위원회설치운영규정#JO0019",
+            "reference_id": "public:부산시설공단임원추천위원회설치운영규정#BJ0004"
+          }
+        ],
         "images": [],
         "provision_id": "public:부산시설공단임원추천위원회설치운영규정#JO0019"
       },
@@ -243,9 +308,31 @@
         "article_no": "제21조",
         "article_title": "심사기준",
         "chapter": "",
-        "content": "제21조(심사기준) ① 위원회는 다음 각 호의 요건을 고려하여 후보자 심사기준에 따라 임원후보를 심사한다.1. 해당분야에 대한 전문적 지식과 경험을 평가할 수 있는 사항2. 경력·학위 등 경영·경제에 관한 지식을 객관적으로 평가할 수 있는 사항3. 과거의 경영실적·경영기간 등 경영경험을 객관적으로 평가할 수 있는 사항4. 기타 해당 임원으로서의 자질과 능력을 평가할 수 있는 사항② 제1항의 규정에 의한 심사항목별 세부심사기준은 별표3과 같다.",
+        "content": "제21조(심사기준) ①위원회는 다음 각 호의 요건을 고려하여 후보자 심사기준에 따라 임원후보를 심사한다.1. 해당분야에 대한 전문적 지식과 경험을 평가할 수 있는 사항2. 경력·학위 등 경영·경제에 관한 지식을 객관적으로 평가할 수 있는 사항3. 과거의 경영실적·경영기간 등 경영경험을 객관적으로 평가할 수 있는 사항4. 기타 해당 임원으로서의 자질과 능력을 평가할 수 있는 사항②제1항의 규정에 의한 심사항목별 세부심사기준은 별표3과 같다.③노동자이사의 심사기준은 자격, 투표 결과 등으로 한다. <신설 2020.4.8.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제21조",
+            "source_clause": "제21조제2항",
+            "link_text": "별표3",
+            "line_text": "",
+            "target_law_name": "부산시설공단 임원추천위원회 설치운영규정",
+            "target_article_no": "별표3",
+            "target_article_title": "심사항목별 세부심사기준",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000107965&bylNo=0003&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "public:부산시설공단임원추천위원회설치운영규정#JO0021",
+            "reference_id": "public:부산시설공단임원추천위원회설치운영규정#BYL0003"
+          }
+        ],
         "images": [],
         "provision_id": "public:부산시설공단임원추천위원회설치운영규정#JO0021"
       },
@@ -253,19 +340,94 @@
         "article_no": "제22조",
         "article_title": "심사절차 및 방법",
         "chapter": "",
-        "content": "제22조(심사절차 및 방법) ① 위원회는 공단이 정한 임원의 직무수행 요건에 따라 응모자를 대상으로 1차 서류심사를 실시하여 면접시험 대상자를 결정한다.② 위원회는 서류심사 합격자를 대상으로 지원서, 직무수행계획서, 자기소개서 등을 참고하여 2차 면접심사를 실시한다. 다만 위원회가 면접을 실시하지 않기로 결정하는 경우에는 면접을 실시하지 않을 수 있다.③ 최종 임원후보자는 면접심사 결과(면접을 실시하지 않는 경우에는 서류심사 결과에 의한다) 고득점자 순으로 결정하되 최종 후보자 수는 위원회에서 정한다.④ 서류 및 면접심사시 응모자 1인에 대한 위원별 평가점수는 100점 만점으로 하고, 위원별 점수는 산술평균한 점수로 결정한다. 다만, 평가의 공정성을 위해 필요한 경우 위원별 최고점수 및 최저점수 각1개를 제외한 점수를 산술평균한 점수로 결정할 수 있으며, 소수점은 둘째자리까지 반올림하여 표시하고 나머지는 절사하며, 동점자의 경우에는 투표로써 순위를 결정한다.⑤ 서류심사는 절대평가하고, 면접심사는 응모자의 능력을 정확히 파악한 후 상대평가 한다.⑥ 제5항의 규정에 의한 임원후보 심사표는 별지 제1호 서식에 의한다.",
+        "content": "제22조(심사절차 및 방법) ①위원회는 공단이 정한 임원의 직무수행 요건에 따라 응모자를 대상으로 1차 서류심사를 실시하여 면접시험 대상자를 결정한다.②위원회는 서류심사 합격자를 대상으로 지원서, 직무수행계획서, 자기소개서 등을 참고하여 2차 면접심사를 실시한다. 다만 위원회가 면접을 실시하지 않기로 결정하는 경우에는 면접을 실시하지 않을 수 있다.③최종 임원후보자는 면접심사 결과(면접을 실시하지 않는 경우에는 서류심사 결과에 의한다) 고득점자 순으로 결정하되 최종 후보자 수는 위원회에서 정한다.④서류 및 면접심사시 응모자 1인에 대한 위원별 평가점수는 100점 만점으로 하고, 위원별 점수는 산술평균한 점수로 결정한다. 다만, 평가의 공정성을 위해 필요한 경우 위원별 최고점수 및 최저점수 각1개를 제외한 점수를 산술평균한 점수로 결정할 수 있으며, 소수점은 둘째자리까지 반올림하여 표시하고 나머지는 절사하며, 동점자의 경우에는 투표로써 순위를 결정한다.⑤서류심사는 절대평가하고, 면접심사는 응모자의 능력을 정확히 파악한 후 상대평가 한다.⑥제5항의 규정에 의한 임원후보 심사표는 별지 제1호 서식에 의한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제6항",
+            "link_text": "별지 제1호 서식",
+            "line_text": "",
+            "target_law_name": "부산시설공단 임원추천위원회 설치운영규정",
+            "target_article_no": "별지1",
+            "target_article_title": "임원후보 심사표",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119913145",
+            "resolve_method": "render",
+            "source_provision_id": "public:부산시설공단임원추천위원회설치운영규정#JO0022",
+            "reference_id": "public:부산시설공단임원추천위원회설치운영규정#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:부산시설공단임원추천위원회설치운영규정#JO0022"
+      },
+      {
+        "article_no": "제22조의2",
+        "article_title": "선거관리위원회 설치·운영",
+        "chapter": "",
+        "content": "제22조의2(선거관리위원회 설치·운영) ①위원회는 노동자이사 후보 선거를 공정하게 관리하기 위하여 산하에 선거관리 위원회(이하 선관위)를 설치·운영한다.1. 선관위원장 : 위원회 위원 중 호선2. 선관위원 : 노사대표 각 3명②선관위 운영 및 선거에 필요한 세부적인 사항은 별도의 내규로 정한다.[본조신설 2020.4.8.]",
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "public:부산시설공단임원추천위원회설치운영규정#JO0022"
+        "provision_id": "public:부산시설공단임원추천위원회설치운영규정#JO0022_02"
       },
       {
         "article_no": "제23조",
         "article_title": "임원후보의 추천",
         "chapter": "",
-        "content": "제23조(임원후보의 추천) ① 위원회가 임원후보를 추천하고자 하는 때에는 공단이 정한 임원의 직무수행요건에 따라 후보자를 추천하되, 특별한 사유가 없는 한 결원예정직위에 대하여 2배수 이상을 추천하여야 하며, 특별한 사유가 있는 경우에는 그 사유를 명시하여 2배수 미만으로 후보자를 선정·추천할 수 있다.② 위원회가 임원후보 추천대상자를 의결한 때에는 이사장 및 감사와 비상임이사의 경우는 시장, 상임이사의 경우에는 이사장에게 즉시 통보하여야 한다.③ 후보자 추천시에는 별지 제2호 서식에 의한 임원후보자 추천서와 별지 제3호 서식에 의한 임원후보자 선발경과 요약서를 작성하여 후보자가 제출한 서류와 함께 제출하여야 한다.④ 임원을 연임시키려는 경우에는 위원회의 심의를 거쳐야 한다. 다만 비상임이사 비상임감사를 연임시키려는 경우에는 위원회의의 심의를 생략할 수 있다.",
+        "content": "제23조(임원후보의 추천) ①위원회가 임원후보를 추천하고자 하는 때에는 공단이 정한 임원의 직무수행요건에 따라 후보자를 추천하되, 특별한 사유가 없는 한 결원예정직위에 대하여 2배수 이상을 추천하여야 하며, 특별한 사유가 있는 경우에는 그 사유를 명시하여 2배수 미만으로 후보자를 선정·추천할 수 있다.②노동자이사 후보를 추천하고자 할 경우에는 선거 결과를 최대한 반영하여야 한다. <신설 2020.4.8.>③위원회가 임원후보 추천대상자를 의결한 때에는 이사장 및 감사와 비상임이사의 경우는 시장, 상임이사의 경우에는 이사장에게 즉시 통보하여야 한다.④후보자 추천시에는 별지 제2호 서식에 의한 임원후보자 추천서와 별지 제3호 서식에 의한 임원후보자 선발경과 요약서를 작성하여 후보자가 제출한 서류와 함께 제출하여야 한다.⑤임원을 연임시키려는 경우에는 위원회의 심의를 거쳐야 한다. 다만 비상임이사 비상임감사를 연임시키려는 경우에는 위원회의의 심의를 생략할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제23조",
+            "source_clause": "제23조제4항",
+            "link_text": "별지 제2호 서식",
+            "line_text": "",
+            "target_law_name": "부산시설공단 임원추천위원회 설치운영규정",
+            "target_article_no": "별지2",
+            "target_article_title": "임원후보자 추천서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119913151",
+            "resolve_method": "render",
+            "source_provision_id": "public:부산시설공단임원추천위원회설치운영규정#JO0023",
+            "reference_id": "public:부산시설공단임원추천위원회설치운영규정#BJ0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제23조",
+            "source_clause": "제23조제4항",
+            "link_text": "별지 제3호 서식",
+            "line_text": "",
+            "target_law_name": "부산시설공단 임원추천위원회 설치운영규정",
+            "target_article_no": "별지3",
+            "target_article_title": "임원후보자 선발경과 요약서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119913155",
+            "resolve_method": "render",
+            "source_provision_id": "public:부산시설공단임원추천위원회설치운영규정#JO0023",
+            "reference_id": "public:부산시설공단임원추천위원회설치운영규정#BJ0003"
+          }
+        ],
         "images": [],
         "provision_id": "public:부산시설공단임원추천위원회설치운영규정#JO0023"
       },
@@ -273,7 +435,7 @@
         "article_no": "제24조",
         "article_title": "임원의 임명",
         "chapter": "",
-        "content": "제24조(임원의 임명) ① 임용권자인 시장 또는 이사장은 임원으로 추천된 후보가 법 제60조의 규정에 의한 임원 결격사유에 해당하거나 공단의 경영에 현저하게 부적당하다고 인정되는 때에는 위원회에 임원후보의 재추천을 요구할 수 있다. 이 경우 위원회는 지체 없이 임원 후보를 재추천하여야 한다.② 임용권자인 시장 및 이사장은 위원회의 심의결과에 이의가 없는 경우에는 지체 없이 추천자 중에서 임명하여야 한다.",
+        "content": "제24조(임원의 임명) ①임용권자인 시장 또는 이사장은 임원으로 추천된 후보가 법 제60조의 규정에 의한 임원 결격사유에 해당하거나 공단의 경영에 현저하게 부적당하다고 인정되는 때에는 위원회에 임원후보의 재추천을 요구할 수 있다. 이 경우 위원회는 지체 없이 임원 후보를 재추천하여야 한다.②임용권자인 시장 및 이사장은 위원회의 심의결과에 이의가 없는 경우에는 지체 없이 추천자 중에서 임명하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -343,12 +505,211 @@
   },
   "addenda": [
     {
-      "promulgation_date": "20110614",
-      "promulgation_no": "2011-08",
-      "content": "부칙 <제2011-08호,2011.6.14>이 규정은 2011년 4월 1일부터 시행한다."
+      "promulgation_date": "20200408",
+      "promulgation_no": "202006",
+      "content": "부칙 <제202006호,2020.4.8>이 규정은 공포한 날부터 시행한다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "직무수행요건",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000107965&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119913123",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119913123",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:부산시설공단임원추천위원회설치운영규정#BYL0001",
+      "filename": "별표1_직무수행요건.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "직위별 자격요건",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000107965&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119913137",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119913137",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:부산시설공단임원추천위원회설치운영규정#BYL0002",
+      "filename": "별표2_직위별 자격요건.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "심사항목별 세부심사기준",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000107965&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119913141",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119913141",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:부산시설공단임원추천위원회설치운영규정#BYL0003",
+      "filename": "별표3_심사항목별 세부심사기준.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "임원후보 심사표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119913145",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119913145",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:부산시설공단임원추천위원회설치운영규정#BJ0001",
+      "filename": "별지1_임원후보 심사표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "임원후보자 추천서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119913151",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119913151",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:부산시설공단임원추천위원회설치운영규정#BJ0002",
+      "filename": "별지2_임원후보자 추천서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "임원후보자 선발경과 요약서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119913155",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119913155",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:부산시설공단임원추천위원회설치운영규정#BJ0003",
+      "filename": "별지3_임원후보자 선발경과 요약서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "지원서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119913161",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119913161",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:부산시설공단임원추천위원회설치운영규정#BJ0004",
+      "filename": "별지4_지원서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별첨",
+      "title": "임원추천후보자 인적사항",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119913167",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119913167",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:부산시설공단임원추천위원회설치운영규정#BYL0001",
+      "filename": "별첨1_임원추천후보자 인적사항.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별첨",
+      "title": "임원 세부추천사유",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119913171",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119913171",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:부산시설공단임원추천위원회설치운영규정#BYL0002",
+      "filename": "별첨2_임원 세부추천사유.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
@@ -360,7 +721,7 @@
     "by_relation_type": {
       "appendix_ref": 7
     },
-    "articles_total": 30,
+    "articles_total": 31,
     "articles_with_relations": 5,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
@@ -372,6 +733,5 @@
   "source": {
     "source_url": "https://www.law.go.kr/학칙공단/부산시설공단 임원추천위원회 설치운영규정"
   },
-  "provision_id": "public:부산시설공단임원추천위원회설치운영규정#DOC",
-  "is_future": false
+  "provision_id": "public:부산시설공단임원추천위원회설치운영규정#DOC"
 }
