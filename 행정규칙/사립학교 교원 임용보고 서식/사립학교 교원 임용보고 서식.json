@@ -1,0 +1,292 @@
+{
+  "law_id": "2100000194100",
+  "mst": "2100000194100",
+  "law_name": "사립학교 교원 임용보고 서식",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000194100",
+  "promulgation_no": "2020-232",
+  "promulgation_date": "20200901",
+  "enforcement_date": "20200901",
+  "revision_date": "20200901",
+  "revision_type": "전부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "교육부(대학정책과, 교원정책과)",
+    "담당자명": "오선진",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "사립학교 교원 임용보고 서식",
+    "발령일자": "20200901",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200402",
+    "조문형식여부": "Y",
+    "소관부처명": "교육부",
+    "전화번호": "044-203-6938",
+    "제개정구분명": "전부개정",
+    "소관부처코드": "1342000",
+    "생성일자": "20230310",
+    "행정규칙ID": "2039485",
+    "시행일자": "20200901",
+    "담당부서기관코드": "1342000",
+    "발령번호": "2020-232",
+    "행정규칙일련번호": "2100000194100",
+    "상위부처명": "교육부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 추진배경\nㅇ「훈령·예규 등의 발령 및 관리에 관한 규정」제7조에 따라 훈령·예규 등에 대한 재검토기한 설정 필요\n- 현재 서식 형태로만 고시되어 있어 조문형식으로 전부개정 필요\n[그림]\n제7조(훈령·예규등의 존속기한 등의 설정) ① 중앙행정기관의 장은 훈령·예규등을 제정하는 경우 3년의 범위에서 존속기한을 설정하여 해당 훈령·예규 등에 명시하여야 한다. 다만, 다음 각호의 어느 하나에 해당하는 훈령·예규등의 경우에는 3년의 범위에서 재검토기한을 설정할 수 있다.\n1. 법령의 위임에 따라 발령되는 훈령·예규등\n\n◇ 주요내용\nㅇ 일반적으로 행정규칙은 3년 이내 존속기한 설정이 원칙이나,\n- 동 고시는「사립학교법 시행령」제23조에 직접적인 위임 규정이 있으므로 3년 이내의 재검토기한 설정 가능\n※ 기한이 도래하기 전에 개정·폐지 등 검토하고, 필요 시 효력 지속 유지\n[그림]\n제23조(교원의 임용 보고) 법 제54조제1항에 따라 교원의 임용 보고를 할 경우에는 교육부장관이 정하여 고시하는 서식에 따른다. 다만, 고등학교 이하 각급학교 교원의 임용 보고는 관할청이 정하여 고시하는 서류를 첨부하게 할 수 있다.\n",
+  "body": {
+    "format": "articles",
+    "article_count": 4,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 고시는 「사립학교법」제54조제1항 및 같은법 시행령 제23조에 따라 사립학교 교원의 임용 보고 서식을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제54조제1항",
+            "line_text": "",
+            "target_law_name": "사립학교법",
+            "target_article_no": "제54조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/사립학교법/제54조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:사립학교교원임용보고서식#JO0001",
+            "reference_id": "law:사립학교법#JO0054"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은법 시행령",
+            "line_text": "",
+            "target_law_name": "사립학교법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/사립학교법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:사립학교교원임용보고서식#JO0001",
+            "reference_id": "law:사립학교법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제23조",
+            "line_text": "",
+            "target_law_name": "사립학교법 시행령",
+            "target_article_no": "제23조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/사립학교법 시행령/제23조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:사립학교교원임용보고서식#JO0001",
+            "reference_id": "law:사립학교법시행령#JO0023"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:사립학교교원임용보고서식#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "사립학교 교원 임용보고 작성서식",
+        "chapter": "",
+        "content": "제2조(사립학교 교원 임용보고 작성서식) 사립학교 교원 임용보고 작성서식은 별지 제1호 서식으로 한다. 다만, 고등학교 이하 각급학교 교원의 임용 보고는 관할청이 정하여 고시하는 서류를 첨부하게 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별지 제1호 서식",
+            "line_text": "",
+            "target_law_name": "사립학교 교원 임용보고 서식",
+            "target_article_no": "별지1",
+            "target_article_title": "사립학교 교원 임용보고 서식",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=80479429",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:사립학교교원임용보고서식#JO0002",
+            "reference_id": "admrul:사립학교교원임용보고서식#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:사립학교교원임용보고서식#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "사립대학 강사 및 겸임교원 등 임용보고 작성서식",
+        "chapter": "",
+        "content": "제3조(사립대학 강사 및 겸임교원 등 임용보고 작성서식) 사립대학 강사 및 겸임교원 등 임용보고 작성서식은 별지 제2호 서식으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "별지 제2호 서식",
+            "line_text": "",
+            "target_law_name": "사립학교 교원 임용보고 서식",
+            "target_article_no": "별지2",
+            "target_article_title": "사립대학 강사 및 겸임교원 등 임용보고 서식",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=80479441",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:사립학교교원임용보고서식#JO0003",
+            "reference_id": "admrul:사립학교교원임용보고서식#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:사립학교교원임용보고서식#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제4조(재검토기한) 교육부장관은 이 고시에 대하여 「훈령·예규 등의 발령 및 관리에 관한 규정」에 따라 2020년 9월 1일 기준으로 매 3년이 되는 시점(매 3년째의 8월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「훈령·예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령·예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령·예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:사립학교교원임용보고서식#JO0004",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:사립학교교원임용보고서식#JO0004"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20200901",
+      "promulgation_no": "2020-232",
+      "content": "부칙 <제2020-232호,2020. 9. 1.>이 고시는 2020년 9월 1일부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "사립학교 교원 임용보고 서식",
+      "enforcement_date": "",
+      "content": "[별지 1]\n사립학교 교원 임용보고 서식\n1. 임용 교원 명단\n\n법인명\n학교명\n임용\n코드\n성명\n생년\n월일\n계열\n학(부&#8228;과)\n직위\n임용\n일자\n임용\n종료일\n국적\n2. 인사위원회 개최결과\n\n소집일\n개최일\n위원수\n참석인원\n의결정족수\n찬성(명)\n반대(명)\n비고\n(특이사항)\n3. 징계위원회 개최결과\n\n소집일\n개최일\n위원수\n참석인원\n의결정족수\n찬성(명)\n반대(명)\n비고\n(특이사항)\n4. 이사회 개최결과\n\n소집일\n개최일\n위원수\n참석인원\n의결정족수\n찬성\n반대\n비고\n(특이사항)\n※ 교원의 임용권이 학교장에 위임된 경우 관련 규정 :\n5. 해당 교원에게 통보 방법\n1) 해당 교원에게 정규교원으로 임용사항을 통보하였는지? (예, 아니오)\n2) 해당 교원에게 임용사항을 통보하였다면 통보방법은? (문서통보, 임명장수여 등)\n사립학교법 제54조 및 사립학교법시행령 제23조에 의거 임용보고 합니다.\n년     월      일\n임용권자(임용제청권자)        (인)\n□ 작성요령\no 임용코드는 신규임용 01, 승진임용 02, 재임용 03, 의원면직 04, 직권면직 05, 해임&#8228;파면 06, 재임용 탈락 07, 정년 &#8228; 명예퇴직 08, 사망퇴직 09, 전보 10, 전직 11, 휴직&#8228;복직 12, 당연퇴직 13, 계약만료(재임용 신청자는 제외) 14\no 생년월일은 년, 월, 일 순으로 --> “00-00-00”표기함\no 계열구분 (의예과, 치의예과, 한의예과, 수의예과 등은 자연과학계열 포함)\n⇒ 단, 고등학교이하 각급학교는 임용 과목을 기재함\n-인문 &#8228; 사회계열 : 어학, 문학, 사회 및 신학 등\n-자연과학계열 : 어학, 해양, 농학, 수산, 간호, 보건, 약학 및 한약학 등\n-공학계열 : 공학 등\n-예 &#8228;체능계열 : 음악, 미술, 체육 및 무용 등\n-의학계열 : 의학, 치의학, 한의학 및 수의학 등\n-기타 : 계열구분이 불가능할 경우\no 직위는 “교수, 부교수, 조교수”로 구분함(유·초·중등은 교사, 교감, 교장, 원감, 원장)\no 임용 일자는 년, 월, 일 순으로 -->“00-00-00”표기함 (실제 임용 &#8228; 면직일자)\no 임용 종료일자는 년, 월, 일 순으로 --> “00-00-00”표기함\no 이사회 의결일자는 년, 월, 일 순으로 --> “00-00-00”표기함\no 교원인사위 일자는 년, 월, 일 순으로 --> “00-00-00”표기함\no 국적은 -->대한민국, 미국, 영국 등 실제 국적으로 표기함",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=80479429",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=80479429",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:사립학교교원임용보고서식#BJ0001",
+      "filename": "별지1_사립학교 교원 임용보고 서식.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "사립대학 강사 및 겸임교원 등 임용보고 서식",
+      "enforcement_date": "",
+      "content": "[별지 2]\n사립대학 강사 및 겸임교원 등 임용보고 서식\n\n법인명\n대학명\n임용\n코드\n성명\n생년\n월일\n전업/비전업\n계열\n학(부&#8228;과)\n직위\n임용\n일자\n임용\n종료일\n국적\n\n□ 작성요령\no 작성대상은 고등교육법 제14조의2에 따른 “강사” 및 제17조제2항에 따른 “겸임교원 등” 임\no 임용코드는 신규임용 01, 재임용 02, 의원면직 03, 직권면직 04, 재임용 탈락 05, 정년 06, 사망퇴직 07, 당연퇴직 08, 계약만료(재임용 신청자는 제외) 09\no 생년월일은 년, 월, 일 순으로 --> “00-00-00”표기함\no 전업/비전업\n- 전업 : 다른 직장(자영업 포함) 없이 강사만을 직업으로 하는 자\n- 비전업 : 다른 직장(자영업 포함)이 있는 자\n※ 석&#8228;박사 재학생이라는 이유로 비전업으로 분류하는 것 금지, 국민연금&#8228;산재보험&#8228;고용보험 가입여부만으로 전업/비전업 구분 금지\no 계열구분 (의예과, 치의예과, 한의예과, 수의예과 등은 자연과학계열 포함)\n-인문 &#8228; 사회계열 : 어학, 문학, 사회 및 신학 등\n-자연과학계열 : 어학, 해양, 농학, 수산, 간호, 보건, 약학 및 한약학 등\n-공학계열 : 공학 등\n-예 &#8228;체능계열 : 음악, 미술, 체육 및 무용 등\n-의학계열 : 의학, 치의학, 한의학 및 수의학 등\n-기타 : 계열구분이 불가능할 경우\no 임용 일자는 년, 월, 일 순으로 -->“00-00-00”표기함 (실제 임용 &#8228; 면직일자)\no 임용 종료일자는 년, 월, 일 순으로 --> “00-00-00”표기함\no 국적은 -->대한민국, 미국, 영국 등으로 실제 국적을 표시함\n사립학교법 제54조 및 사립학교법시행령 제23조에 의거 임용보고 합니다.\n년     월      일\n임용권자(임용제청권자)        (인)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=80479441",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=80479441",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:사립학교교원임용보고서식#BJ0002",
+      "filename": "별지2_사립대학 강사 및 겸임교원 등 임용보고 서식.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "(붙임) 사립학교 교원 임용보고 서식 고시 전부개정(안) - 복사본.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=80411621",
+      "file_store_url": "",
+      "filename": "(붙임) 사립학교 교원 임용보고 서식 고시 전부개정(안) - 복사본.hwp"
+    },
+    {
+      "name": "(붙임) 사립학교 교원 임용보고 서식 고시 전부개정(안) - 복사본 (2).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=80411623",
+      "file_store_url": "",
+      "filename": "(붙임) 사립학교 교원 임용보고 서식 고시 전부개정(안) - 복사본 (2).hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 6,
+    "by_category": {
+      "법령": 3,
+      "별지": 2,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 4,
+      "appendix_ref": 2
+    },
+    "articles_total": 4,
+    "articles_with_relations": 4,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 2,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/사립학교 교원 임용보고 서식"
+  },
+  "provision_id": "admrul:사립학교교원임용보고서식#DOC"
+}
