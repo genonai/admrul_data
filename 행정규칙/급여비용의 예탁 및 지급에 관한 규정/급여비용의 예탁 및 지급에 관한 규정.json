@@ -1,0 +1,1398 @@
+{
+  "law_id": "2100000193832",
+  "mst": "2100000193832",
+  "law_name": "급여비용의 예탁 및 지급에 관한 규정",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000193832",
+  "promulgation_no": "2020-227",
+  "promulgation_date": "20201008",
+  "enforcement_date": "20201008",
+  "revision_date": "20201008",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "보건복지부(기초의료보장과)",
+    "담당자명": "백선인",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "급여비용의 예탁 및 지급에 관한 규정",
+    "발령일자": "20201008",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "보건복지부",
+    "전화번호": "044-202-3099",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1352000",
+    "생성일자": "20220728",
+    "행정규칙ID": "37500",
+    "시행일자": "20201008",
+    "담당부서기관코드": "1352581",
+    "발령번호": "2020-227",
+    "행정규칙일련번호": "2100000193832",
+    "상위부처명": "보건복지부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제·개정 이유\n가. 의료급여비용 심사절차 개선을 위하여 건강보험심사평가원에서 산정특례 대상자의 자격 점검을 심사 전 시행할 수 있도록 관련 근거를 마련하고자 함\n◇ 주요내용\n가. 산정특례 자격 연계 및 심사 전 점검 관련 조항 신설(제18조제1항, 제2항)\n나. 심사 전 반송 대상을 주민등록오류 건 외 산정특례 자격 등 청구 오류 건으로 변경(제18조제3항)",
+  "body": {
+    "format": "articles",
+    "article_count": 31,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장  총  칙",
+        "content": "제1조(목적) 이 규정은 「의료급여법 시행규칙」 제21조제5항, 제23조, 제28조 제7항 및 제31조제2항의 규정에 의한 급여비용의 예탁금결정액의 예탁, 급여비용의 지급에 필요한 세부절차 및 방법, 급여비용의 가감지급기준에 관한 사항을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「의료급여법 시행규칙」",
+            "line_text": "",
+            "target_law_name": "의료급여법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/의료급여법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0001",
+            "reference_id": "law:의료급여법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제21조제5항",
+            "line_text": "",
+            "target_law_name": "의료급여법 시행규칙",
+            "target_article_no": "제21조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/의료급여법 시행규칙/제21조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0001",
+            "reference_id": "law:의료급여법시행규칙#JO0021"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제23조",
+            "line_text": "",
+            "target_law_name": "의료급여법 시행규칙",
+            "target_article_no": "제23조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/의료급여법 시행규칙/제23조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0001",
+            "reference_id": "law:의료급여법시행규칙#JO0023"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제28조 제7항 및 제31조제2항",
+            "line_text": "",
+            "target_law_name": "의료급여법 시행규칙",
+            "target_article_no": "제28조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/의료급여법 시행규칙/제28조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0001",
+            "reference_id": "law:의료급여법시행규칙#JO0028"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제28조 제7항 및 제31조제2항",
+            "line_text": "",
+            "target_law_name": "의료급여법 시행규칙",
+            "target_article_no": "제31조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/의료급여법 시행규칙/제31조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0001",
+            "reference_id": "law:의료급여법시행규칙#JO0031"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "제1장  총  칙",
+        "content": "제2조(정의) 이 규정에서 사용하는 용어의 정의는 다음과 같다.1. \"현물급여비용\"이라 함은 건강보험심사평가원(이하 \"심사평가원\"이라 한다)의 의료급여비용심사결과통보서에 의하여 의료급여기관에 지급하기로 결정된 기관부담금에서 대지급금을 제외한 금액을 말한다.2. \"임신ㆍ출산 진료비용\"이라 함은 의료급여법 시행규칙(이하 \"시행규칙\"이라 한다) 제8조의2에 따라 임산부에게 지원되는 비용을 말한다.3. \"건강생활유지비용\"이라 함은 시행규칙 제28조제7항제1호에 따라 수급권자의 본인부담금 지원을 위한 비용을 말한다.4. \"급여비용\"이라 함은 제1호의 규정에 의한 현물급여비용과 제2호 및 제3호의 규정에 의한 임신ㆍ출산 진료비용과 건강생활유지비용(이하 \"본인부담금지원비용\"이라 한다)을 말한다.5. \"급여비용예탁금\"이라 함은 제4호의 규정에 의한 급여비용의 지급을 위하여 국민건강보험공단(이하 \"공단\"이라 한다)이 특별시장ㆍ광역시장ㆍ도지사(이하 \"시ㆍ도지사\"라 한다)로부터 예탁받은 금액(이하 \"예탁금\"이라 한다)을 말한다.6. \"월별예탁금결정액\"이라 함은 시행규칙 제31조제1항제7호의 규정에 의한 시ㆍ도별 건강생활유지비예탁금결정액을 말한다.7. \"분기별예탁금결정액\"이라 함은 시행규칙 제28조제7항제1호의 규정에 의한 시ㆍ도의 분기별 본인부담금지원비용예탁금결정액을 말한다.8. \"전월예탁금잔액\"이라 함은 전월 예탁금에서 의료급여기관에 지급 또는 환수한 금액을 가감한 금액을 말한다.9. \"확인번호\"라 함은 공단의 수급권자의 자격관리를 위한 시스템(이하 \"의료급여 자격관리시스템\"이라 한다)에서 공단에서 임신ㆍ출산 진료비 및 건강생활유지비 차감, 급여일수 관리 등을 통해 의료급여기관에 지원하는 프로그램 등을 통해 정상적으로 절차가 이루어진 경우에 부여하는 번호를 말한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제28조제7항제1호",
+            "line_text": "",
+            "target_law_name": "의료급여법 시행규칙",
+            "target_article_no": "제28조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/의료급여법 시행규칙/제28조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0002",
+            "reference_id": "law:의료급여법시행규칙#JO0028"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제31조제1항제7호",
+            "line_text": "",
+            "target_law_name": "의료급여법 시행규칙",
+            "target_article_no": "제31조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/의료급여법 시행규칙/제31조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0002",
+            "reference_id": "law:의료급여법시행규칙#JO0031"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제28조제7항제1호",
+            "line_text": "",
+            "target_law_name": "의료급여법 시행규칙",
+            "target_article_no": "제28조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/의료급여법 시행규칙/제28조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0002",
+            "reference_id": "law:의료급여법시행규칙#JO0028"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "적용범위 등",
+        "chapter": "제1장  총  칙",
+        "content": "제3조(적용범위 등) 이 규정의 적용범위는 다음 각 호와 같다.1. 예탁금의 수납2. 급여비용의 지급3. 예탁금의 보관ㆍ운용과정에서 발생된 이자수입4. 급여비용의 예탁 및 지급과정에서 발생되는 송금수수료, 전산통신망이용료 등의 직접경비",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "위탁기관 등",
+        "chapter": "제1장  총  칙",
+        "content": "제4조(위탁기관 등) 공단은 제3조 각호의 업무를 수행하기 위하여 국민건강보험법 제89조제1항의 규정에 의한 금융기관 또는 체신관서(이하 \"위탁금융기관\"이라 한다)와 위탁계약을 체결할 수 있다. 이 경우 위탁계약의 내용은 공단의 \"사이버통합자금관리시스템\"의 방식에 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제3조",
+            "line_text": "",
+            "target_law_name": "급여비용의 예탁 및 지급에 관한 규정",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/급여비용의 예탁 및 지급에 관한 규정/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0004",
+            "reference_id": "admrul:급여비용의예탁및지급에관한규정#JO0003"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제89조제1항",
+            "line_text": "",
+            "target_law_name": "국민건강보험법",
+            "target_article_no": "제89조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국민건강보험법/제89조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0004",
+            "reference_id": "law:국민건강보험법#JO0089"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "계좌의 설치",
+        "chapter": "제1장  총  칙",
+        "content": "제5조(계좌의 설치) ① 공단은 제4조의 위탁금융기관중 중앙모점을 지정하여 예탁금수납계좌(이하 \"수납계좌\"라 한다)를 설치하여야 한다② 공단은 제1항의 규정에 의한 수납계좌의 설치 또는 변경을 행한 경우에는 이를 즉시 보건복지부장관, 시ㆍ도지사 등에게 통보하여야 한다.③ 공단은 급여비용의 지급을 위하여 위탁금융기관 중앙모점에 지급용 자금을 관리하기 위한 급여비용지급계좌(이하 \"지급계좌\"라 한다)를 설치하여야 한다.④ 공단은 의료급여기관의 계좌불명 등의 사유로 급여비용이 지급되지 않은 자금을 관리하기 위한 미입금반송관리계좌를 위탁금융기관 중앙모점에 설치하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "급여비용의 예탁 및 지급에 관한 규정",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/급여비용의 예탁 및 지급에 관한 규정/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0005",
+            "reference_id": "admrul:급여비용의예탁및지급에관한규정#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "급여비용의 회계연도 소속 구분",
+        "chapter": "제1장  총  칙",
+        "content": "제6조(급여비용의 회계연도 소속 구분) 급여비용의 회계연도 소속 구분은 다음 각호의 1과 같다.1. 예탁금은 공단의 수납계좌에 입금된 날이 속하는 연도2. 현물급여비용은 심사평가원으로부터 시행규칙 제21조제2항의 규정에 의한 의료급여비용심사결과통보서 및 전산기록장치를 인수받은 날이 속하는 연도3. 의료급여기관에 지급하는 본인부담금지원비용은 공단에서 급여비용의 지급액을 결정한 날이 속하는 연도4. 보장기관의 수급권자 확인에 의하여 지급하는 급여비용은 공단에서 급여비용의 지급액을 결정한 날이 속하는 연도5. 건강생활유지비용 잔액을 수급권자에게 지급하는 급여비용은 공단에서 급여비용의 지급액을 결정한 날이 속하는 연도",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제21조제2항",
+            "line_text": "",
+            "target_law_name": "의료급여법 시행규칙",
+            "target_article_no": "제21조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/의료급여법 시행규칙/제21조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0006",
+            "reference_id": "law:의료급여법시행규칙#JO0021"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "예탁금의 관리",
+        "chapter": "제1장  총  칙",
+        "content": "제7조(예탁금의 관리) ① 공단은 예탁금을 시ㆍ도별로 구분ㆍ계리하여야 한다② 공단은 예탁금의 관리와 그 회계를 건강보험재정 및 공단의 회계와 별도로 구분ㆍ처리하여야 한다. 이 경우 급여비용의 예탁과 그 지급에 관한 회계처리는 공단의 \"회계규정\"을 준용한다.③ 급여비용의 회계처리방식은 자산의 증감과 부채의 증감으로 표시한다.④ 공단은 예탁금을 의료급여법(이하 \"법\"이라 한다) 제26조제3항에 규정된 방법으로 관리ㆍ운용할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제4항",
+            "link_text": "제26조제3항",
+            "line_text": "",
+            "target_law_name": "급여비용의 예탁 및 지급에 관한 규정",
+            "target_article_no": "제26조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/급여비용의 예탁 및 지급에 관한 규정/제26조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0007",
+            "reference_id": "admrul:급여비용의예탁및지급에관한규정#JO0026"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "예탁금의 수납확인 및 대장정리",
+        "chapter": "제1장  총  칙",
+        "content": "제8조(예탁금의 수납확인 및 대장정리) ① 공단은 월별 또는 분기별 예탁금결정액 통보내역과 수납된 예탁금을 대조확인하고, 수납내역에 이상이 없는 경우에는 수납내역을 각 시ㆍ도별 예탁금 원장에 반영ㆍ전산관리하여야 한다② 공단은 각 시ㆍ도별 급여비용지급내역을 예탁금 원장에 반영하고 시ㆍ도별 일일 예탁금잔액을 관리하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "예탁금의 이자관리",
+        "chapter": "제1장  총  칙",
+        "content": "제9조(예탁금의 이자관리) ① 공단은 예탁금에서 발생된 수입이자에 대하여는 연도말 결산시점에 정산하고, 시ㆍ도별 배분금액을 해당 시ㆍ도의 예탁금에 반영하여야 한다. 이 경우 공단은 시ㆍ도별 결산이자 발생내역서를 해당 시ㆍ도에 송부하여야 한다② 제1항의 규정에 의한 배분금액은 회계연도 예탁금총액에 대한 시ㆍ도별 예탁금납부금액의 비율에 예탁금 수입이자총액을 곱하여 산출한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "착오지급시 정산",
+        "chapter": "제1장  총  칙",
+        "content": "제10조(착오지급시 정산) 공단은 급여비용이 착오로 지급된 경우에는 해당 의료급여기관에 즉시 그 지급액의 반환을 요청하여야 하며, 이를 이행하지 않는 의료급여기관에 대하여는 차후 지급할 급여비용과 상계정산하여 지급할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "급여비용의 결산",
+        "chapter": "제1장  총  칙",
+        "content": "제11조(급여비용의 결산) ① 결산은 당해 연도의 급여비용의 지급실적과 예탁금의 운용현황을 명확히 파악할 수 있도록 회계연도말을 기준으로 실시한다. 다만, 업무상 필요한 경우 등에는 분기별로 가결산을 실시할 수 있다② 공단은 결산시에 각 시ㆍ도의 급여비용 지급내역별로 정산을 실시하되, 분기별ㆍ연도별 정산을 원칙으로 한다. 이 경우 미지급금액은 정산기간중 지급결정액과 그 기간 중 지급된 지급액을 확정하여 계산한다.③ 공단은 결산서에 다음 각호의 서류를 첨부하여 회계연도 종료 후 2개월 이내에 보건복지부장관 및 시ㆍ도지사에게 통보하여야 한다.1. 대차대조표(총괄, 시ㆍ도별)2. 예금잔액 증명서3. 각 계정명세서4. 합계잔액시산표(총괄)5. 제2항의 연도별 정산서",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "급여비용 지급관련 직접경비",
+        "chapter": "제1장  총  칙",
+        "content": "제12조(급여비용 지급관련 직접경비) 제3조제5호의 규정에 의한 직접경비는 다음 각호의 1에 정한 기준에 의하여 예탁금에서 집행ㆍ반영한다.1. 계좌입금을 위한 송금수수료(타행환 수수료 포함)는 시ㆍ도별 발생건수를 기준으로 한다.2. 펌 뱅킹(Firm Banking)을 위한 전산통신망 이용요금은 시ㆍ도별 송신건수를 기준으로 배분하되 전산통신망 제공업체의 고지에 의하여 납부하고, 납부일을 기준으로 한다.3. 예탁금 부족으로 인하여 미지급액이 발생한 경우에는 예탁금 예탁 즉시 정산한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제12조",
+            "source_clause": "제12조",
+            "link_text": "제3조제5호",
+            "line_text": "",
+            "target_law_name": "급여비용의 예탁 및 지급에 관한 규정",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/급여비용의 예탁 및 지급에 관한 규정/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0012",
+            "reference_id": "admrul:급여비용의예탁및지급에관한규정#JO0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "문서의 관리 등",
+        "chapter": "제1장  총  칙",
+        "content": "제13조(문서의 관리 등) 예탁금의 예탁과 지출에 관한 문서의 관리는 공단의 사무관리규정을 준용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "현물급여비용 예탁금결정액의 통보 및 납부 등",
+        "chapter": "제2장  현물급여비용의 예탁 및 지급에 관한 규정",
+        "content": "제14조(현물급여비용 예탁금결정액의 통보 및 납부 등) ① 보건복지부장관은 매분기별 각 시ㆍ도에 국고보조금을 교부할 때 월별 현물급여비용 예탁금을 결정하여 해당 시ㆍ도지사와 공단이사장에게 통보하여야 한다. 이 경우 월별 예탁금결정액 통보는 별지 제1호서식에 의한다② 제1항의 규정에 의한 현물급여비용예탁금납부통보서를 받은 시ㆍ도지사는 매월 20일까지 해당 예탁금을 제5조제1항의 규정에 의한 공단의 수납계좌에 입금하여야 한다. 이 경우 각 시ㆍ도지사는 국고보조금과 지방자치단체출연금의 내역을 공단에 통보하여야 한다.③ 시ㆍ도지사는 제1항의 규정에 의한 월별 예탁금결정액을 지정예탁일까지 납부하지 못한 경우에는 그 사유를 보건복지부장관 및 공단이사장에게 통보하여야 한다.④ 공단은 시ㆍ도지사가 정당한 사유없이 현물급여비용을 예탁하지 않을 경우에는 그 시ㆍ도의 해당 현물급여비용의 지급을 중단할 수 있다.⑤ 공단은 시ㆍ도별 현물급여비용 예탁금 납부현황과 현물급여비용 지급현황을 공단의 홈페이지에 공개하여 관계기관 및 이해관계인 등으로 하여금 이를 참고하게 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제1항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "급여비용의 예탁 및 지급에 관한 규정",
+            "target_article_no": "별지1",
+            "target_article_title": "현물급여비용예탁금납부통보서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117894185",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0014",
+            "reference_id": "admrul:급여비용의예탁및지급에관한규정#BJ0001"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제2항",
+            "link_text": "제5조제1항",
+            "line_text": "",
+            "target_law_name": "급여비용의 예탁 및 지급에 관한 규정",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/급여비용의 예탁 및 지급에 관한 규정/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0014",
+            "reference_id": "admrul:급여비용의예탁및지급에관한규정#JO0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "시ㆍ군ㆍ구별 출연금의 결정통보 등",
+        "chapter": "제2장  현물급여비용의 예탁 및 지급에 관한 규정",
+        "content": "제15조(시ㆍ군ㆍ구별 출연금의 결정통보 등) ① 제14조제1항의 규정에 의한 현물급여비용예탁금결정액을 통보받은 시ㆍ도지사는 관할 시ㆍ군ㆍ구의 수급권자수, 전년도 진료비 등을 감안하여 \"지방재정법시행령 제33조제1항의 규정에 의한 지방자치단체 경비부담의 기준 등에 관한 규칙\" 별표에 규정된 시ㆍ군ㆍ구별 부담비율에 따라 해당 시ㆍ군ㆍ구별 출연금을 지체없이 결정ㆍ통보하여야 한다② 시장ㆍ군수ㆍ구청장은 제1항의 규정에 의하여 통보받은 출연금을 제14조제2항의 규정에 의한 시ㆍ도의 현물급여비용 예탁기일 3일전까지 시ㆍ도에 설치된 기금에 출연하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제1항",
+            "link_text": "제14조제1항",
+            "line_text": "",
+            "target_law_name": "급여비용의 예탁 및 지급에 관한 규정",
+            "target_article_no": "제14조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/급여비용의 예탁 및 지급에 관한 규정/제14조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0015",
+            "reference_id": "admrul:급여비용의예탁및지급에관한규정#JO0014"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제1항",
+            "link_text": "제33조제1항",
+            "line_text": "",
+            "target_law_name": "지방재정법시행령",
+            "target_article_no": "제33조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/지방재정법시행령/제33조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0015",
+            "reference_id": "law:지방재정법시행령#JO0033"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제2항",
+            "link_text": "제14조제2항",
+            "line_text": "",
+            "target_law_name": "급여비용의 예탁 및 지급에 관한 규정",
+            "target_article_no": "제14조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/급여비용의 예탁 및 지급에 관한 규정/제14조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0015",
+            "reference_id": "admrul:급여비용의예탁및지급에관한규정#JO0014"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "현물급여비용의 지급원칙",
+        "chapter": "제2장  현물급여비용의 예탁 및 지급에 관한 규정",
+        "content": "제16조(현물급여비용의 지급원칙) ① 공단은 시행규칙 제21조제3항의 규정에 따라 해당 시ㆍ도별 현물급여비용 예탁금의 범위 안에서 현물급여비용을 지급하여야 한다② 공단은 현물급여비용에 대하여 심사평가원이 통보한 심사결정내역과 보장기관이 지급 또는 환수 결정한 내용에 따라 지급할 금액에서 현물급여비용 대지급금을 제외한 현물급여비용을 지급한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제1항",
+            "link_text": "제21조제3항",
+            "line_text": "",
+            "target_law_name": "의료급여법 시행규칙",
+            "target_article_no": "제21조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/의료급여법 시행규칙/제21조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0016",
+            "reference_id": "law:의료급여법시행규칙#JO0021"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "현물급여비용의 가감지급",
+        "chapter": "제2장  현물급여비용의 예탁 및 지급에 관한 규정",
+        "content": "제17조(현물급여비용의 가감지급) 시행규칙 제23조의 규정에 의한 현물급여비용의 가산 또는 감액지급에 관한 기준은 국민건강보험법시행규칙 제11조의 규정에 의하여 보건복지부장관이 고시한 \"요양급여의적정성평가및요양급여비용의가감지급기준\"에 의한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제17조",
+            "source_clause": "제17조",
+            "link_text": "제23조",
+            "line_text": "",
+            "target_law_name": "의료급여법 시행규칙",
+            "target_article_no": "제23조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/의료급여법 시행규칙/제23조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0017",
+            "reference_id": "law:의료급여법시행규칙#JO0023"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제17조",
+            "source_clause": "제17조",
+            "link_text": "제11조",
+            "line_text": "",
+            "target_law_name": "국민건강보험법시행규칙",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국민건강보험법시행규칙/제11조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0017",
+            "reference_id": "law:국민건강보험법시행규칙#JO0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "현물급여비용의 지급절차 등",
+        "chapter": "제2장  현물급여비용의 예탁 및 지급에 관한 규정",
+        "content": "제18조(현물급여비용의 지급절차 등) ① 공단은 의료급여에 관한 산정특례 대상자 자격정보를 심사평가원에 제공할 수 있다.② 심사평가원은 현물급여비용 심사청구건에 관하여 의료급여 산정특례 대상자의 자격정보를 연계하여 점검할 수 있다.③ 심사평가원은 현물급여비용의 심사청구건에 대한 심사결정이 완료된 때에는 지체 없이 의료급여비용심사결과통보서와 심사결정내역화일을 공단에 송부하여야 한다. 다만, 전자문서교환방식(EDI)청구건중 오류건에 대하여는 심사결정전에 의료급여기관에 반송하여 새로이 청구하도록 안내하여야 한다.④ 공단은 심사평가원으로부터 제3항의 의료급여비용심사결과통보서를 송부받은 때에는 심사결정내역화일과 공단의 자격내역을 연계ㆍ점검하여 정상지급건과 자격확인대상 지급보류건, 무자격자 진료 지급불능건으로 현물급여비용의 지급여부를 구분ㆍ처리하고, 그 자격점검결과를 지체없이 전산화일로 심사평가원에 송부하여야 한다. 다만, 의료급여 자격관리시스템을 활용하여 확인번호를 부여받은 건에 대하여는 현물급여비용을 지급하고 사후 정산한다.⑤ 심사평가원은 의료급여비용심사결과통보서에 제4항의 규정에 의하여 공단으로부터 통보받은 지급불능건과 지급보류건의 내역을 표기하여 의료급여기관 및 시장ㆍ군수ㆍ구청장에게 통보하여야 한다. 이 경우 지급불능건에 대하여는 의료급여기관으로 하여금 새로이 청구하도록 안내하여야 한다.⑥ 공단은 수급권자 자격점검결과 정상지급건에 대하여는 다음 각호의 절차에 의하여 현물급여비용을 지급하여야 한다.1. 현물급여비용총괄표, 은행별지급의뢰서총괄표 및 계좌송금의뢰총괄표를 통하여 지급건수 및 금액, 원천징수세액, 본인부담금환급금, 채권압류금액 등을 확인한 후 현물급여비용의 지급액을 결정한다.2. 제1호의 지급결정액중 증감사유가 발생하는 경우 이를 가감한 후 위탁금융기관에 송금을 의뢰한다.3. 공단은 현물급여비용을 지급할 때에는 별지 제2호서식(의료급여비용지급통보서)을 의료급여기관에, 별지 제3호서식(의료급여비용지급결과통보서)을 시장ㆍ군수ㆍ구청장에게 송부하고, 의료급여기관별 소득세(주민세)원천징수액 집계표(차수별, 월별)를 별도로 관리하여야 한다.⑦ 공단은 현물급여비용 지급대상건중 예탁금 부족으로 지급하지 못한 미지급내역을 각 시ㆍ도 및 의료급여기관별로 관리하여야 한다.⑧ 공단은 제4항의 규정에 의한 수급권자 자격점검결과 지급보류건에 대하여는 별지 제2호서식(현물급여비용지급통보서)에 지급보류 및 지급불능사유를 표기하여 의료급여기관에 통보하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제6항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "급여비용의 예탁 및 지급에 관한 규정",
+            "target_article_no": "별지2",
+            "target_article_title": "의료급여비용 지급 통보서(의료급여기관용)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117894189",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0018",
+            "reference_id": "admrul:급여비용의예탁및지급에관한규정#BJ0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제6항",
+            "link_text": "별지 제3호서식",
+            "line_text": "",
+            "target_law_name": "급여비용의 예탁 및 지급에 관한 규정",
+            "target_article_no": "별지3",
+            "target_article_title": "의료급여비용지급결과통보서(보장기관통보용-시ㆍ군ㆍ구)",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117894195",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0018",
+            "reference_id": "admrul:급여비용의예탁및지급에관한규정#BJ0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제8항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "급여비용의 예탁 및 지급에 관한 규정",
+            "target_article_no": "별지2",
+            "target_article_title": "의료급여비용 지급 통보서(의료급여기관용)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117894189",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0018",
+            "reference_id": "admrul:급여비용의예탁및지급에관한규정#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "지급보류건 등의 처리",
+        "chapter": "제2장  현물급여비용의 예탁 및 지급에 관한 규정",
+        "content": "제19조(지급보류건 등의 처리) 제18조제4항의 규정에 의한 자격확인대상 지급보류건과 행려환자의 현물급여비용청구건의 지급절차는 다음 각호와 같다.1. 공단은 의료급여비용의 지급을 보류하고, 별지 제4호서식(의료급여비용수급권확인및결정내역통보서)을 시장ㆍ군수ㆍ구청장에게 통보하여야 한다.2. 시장ㆍ군수ㆍ구청장은 의료급여비용수급권확인및결정내역서를 통보받은 날로부터 7일 이내에 그 수급권자의 자격을 확인하고, 그 결과를 공단에 통보하여야 한다.3. 공단은 시장ㆍ군수ㆍ구청장이 통보한 결정내역에 따라 제18조제6항의 절차를 적용하여 현물급여비용을 지급한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제19조",
+            "source_clause": "제19조",
+            "link_text": "제18조제4항",
+            "line_text": "",
+            "target_law_name": "급여비용의 예탁 및 지급에 관한 규정",
+            "target_article_no": "제18조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/급여비용의 예탁 및 지급에 관한 규정/제18조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0019",
+            "reference_id": "admrul:급여비용의예탁및지급에관한규정#JO0018"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제19조",
+            "source_clause": "제19조",
+            "link_text": "별지 제4호서식",
+            "line_text": "",
+            "target_law_name": "급여비용의 예탁 및 지급에 관한 규정",
+            "target_article_no": "별지4",
+            "target_article_title": "의료급여비 수급권 확인 및 결정내역 통보서",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117894199",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0019",
+            "reference_id": "admrul:급여비용의예탁및지급에관한규정#BJ0004"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제19조",
+            "source_clause": "제19조",
+            "link_text": "제18조제6항",
+            "line_text": "",
+            "target_law_name": "급여비용의 예탁 및 지급에 관한 규정",
+            "target_article_no": "제18조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/급여비용의 예탁 및 지급에 관한 규정/제18조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0019",
+            "reference_id": "admrul:급여비용의예탁및지급에관한규정#JO0018"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "건강보험과 현물급여비용의 정산",
+        "chapter": "제2장  현물급여비용의 예탁 및 지급에 관한 규정",
+        "content": "제20조(건강보험과 현물급여비용의 정산) 공단은 시장ㆍ군수ㆍ구청장이 건강보험 급여비용과의 정산으로 인하여 지급결정 통보한 건강보험 급여비용 정산액을 해당 시ㆍ도의 예탁금에서 지급한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "현물급여비용의 지급 순위",
+        "chapter": "제2장  현물급여비용의 예탁 및 지급에 관한 규정",
+        "content": "제21조(현물급여비용의 지급 순위) 공단은 현물급여비용에 대하여 시ㆍ도별로 의료급여비용심사청구 접수일을 기준으로 현물급여비용을 지급하되, 예탁금잔액의 부족으로 동일일자 현물급여비용을 전액 지급할 수 없는 경우에는 소액 현물급여비용을 우선 지급할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "본인부담금환급금의 지급",
+        "chapter": "제2장  현물급여비용의 예탁 및 지급에 관한 규정",
+        "content": "제22조(본인부담금환급금의 지급) ① 공단은 법 제11조제3항의 규정에 의한 본인부담금환급금이 발생한 경우에는 시ㆍ도별 예탁금잔액에 반영하고 그 발생내역을 해당 시ㆍ도지사에게 통보하여야한다② 공단은 시ㆍ군ㆍ구별로 본인부담금환급금 발생내역을 통보하고, 시장ㆍ군수ㆍ구청장은 그 내역을 확인하여 수급권자에게 반환하여야 한다.③ 제2항의 규정에 의하여 수급권자에게 반환된 본인부담금환급금액은 다음달 시ㆍ도에서 예탁할 예탁금결정액과 정산한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제1항",
+            "link_text": "제11조제3항",
+            "line_text": "",
+            "target_law_name": "국민건강보험법시행규칙",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국민건강보험법시행규칙/제11조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0022",
+            "reference_id": "law:국민건강보험법시행규칙#JO0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "현물급여비용 대지급금의 통보 등",
+        "chapter": "제2장  현물급여비용의 예탁 및 지급에 관한 규정",
+        "content": "제23조(현물급여비용 대지급금의 통보 등) 공단은 의료급여비용심사차수별 현물급여비용대지급금 내역을 시장ㆍ군수ㆍ구청장에게 통보하고 시장ㆍ군수ㆍ구청장은 그 내역을 확인하여 의료급여기관에 지급하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "현물급여비용의 정산",
+        "chapter": "제2장  현물급여비용의 예탁 및 지급에 관한 규정",
+        "content": "제24조(현물급여비용의 정산) ① 공단은 매월 또는 분기별 예탁된 시ㆍ도별 예탁금중에서 예탁금 지급내역을 매월 단위로 정산한 후 예탁금액, 지급액, 미지급액, 예탁금잔액 등 그 정산내역을 해당 시ㆍ도지사에게 통보하여야 한다② 공단은 매분기말 현재 시ㆍ도에서 예탁한 예탁금의 지급내역을 정산하여 그 결과를 매분기 다음달 말일까지 보건복지부장관에게 보고하고 시ㆍ도지사에게 통보하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "현물급여비용의 상계환수",
+        "chapter": "제2장  현물급여비용의 예탁 및 지급에 관한 규정",
+        "content": "제25조(현물급여비용의 상계환수) ① 공단은 시장ㆍ군수ㆍ구청장이 의료급여기관에 지급할 현물급여비용에서 상계환수를 요청한 금액에 대하여 현물급여비용 지급시 상계환수하고, 예탁금에 반영하여야 한다② 공단은 심사평가원이 통보한 심사결정내용중 의료급여기관에서 환수할 금액에 대하여 해당 의료급여기관에 현물급여비용 지급시 차감하여 지급하고 예탁금에 반영하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0025"
+      },
+      {
+        "article_no": "제26조",
+        "article_title": "본인부담금지원비용예탁금결정액의 통보 및 납부 등",
+        "chapter": "제3장  본인부담금지원비용의 예탁 및 지급에 관한 규정",
+        "content": "제26조(본인부담금지원비용예탁금결정액의 통보 및 납부 등) ① 보건복지부장관은 매분기별 각 시ㆍ도에 국고보조금을 교부할 때 분기별 예탁금을 결정하여 해당 시ㆍ도지사와 공단이사장에게 통보하여야 한다. 이 경우 분기별 예탁금결정액 통보는 별지 제5호서식에 의한다② 제1항의 규정에 의한 본인부담금지원비용예탁금납부통보서를 받은 시ㆍ도지사는 매분기 전월 말일까지 해당 예탁금을 제5조제1항의 규정에 의한 공단의 수납계좌에 입금하여야 하며 이 경우 각 시ㆍ도지사는 국고보조금과 지방자치단체출연금의 내역을 공단에 통보하여야 한다. 다만, 1분기는 국고보조금 교부 결정 즉시 예탁하여야 한다.③ 제2항의 매분기 전월 말일이 토요일, 공휴일인 경우 그 전일까지 해당 예탁금을 제5조제1항의 규정에 의한 공단의 수납계좌에 입금한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제26조",
+            "source_clause": "제26조제1항",
+            "link_text": "별지 제5호서식",
+            "line_text": "",
+            "target_law_name": "급여비용의 예탁 및 지급에 관한 규정",
+            "target_article_no": "별지5",
+            "target_article_title": "본인부담금지원비용예탁금납부통보서",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117894205",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0026",
+            "reference_id": "admrul:급여비용의예탁및지급에관한규정#BJ0005"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제26조",
+            "source_clause": "제26조제2항",
+            "link_text": "제5조제1항",
+            "line_text": "",
+            "target_law_name": "급여비용의 예탁 및 지급에 관한 규정",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/급여비용의 예탁 및 지급에 관한 규정/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0026",
+            "reference_id": "admrul:급여비용의예탁및지급에관한규정#JO0005"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제26조",
+            "source_clause": "제26조제3항",
+            "link_text": "제5조제1항",
+            "line_text": "",
+            "target_law_name": "급여비용의 예탁 및 지급에 관한 규정",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/급여비용의 예탁 및 지급에 관한 규정/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0026",
+            "reference_id": "admrul:급여비용의예탁및지급에관한규정#JO0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0026"
+      },
+      {
+        "article_no": "제27조",
+        "article_title": "시ㆍ군ㆍ구별 출연금의 결정통보 등",
+        "chapter": "제3장  본인부담금지원비용의 예탁 및 지급에 관한 규정",
+        "content": "제27조(시ㆍ군ㆍ구별 출연금의 결정통보 등) 제26조제1항의 규정에 의한 건강생활유지비용예탁금결정액을 통보받은 시ㆍ도지사는 관할 시ㆍ군ㆍ구의 수급권자수 등을 감안하여 \"지방재정법시행령 제33조제1항의 규정에 의한 지방자치단체경비 부담의 기준 등에 관한 규칙\" 별표에 규정된 시ㆍ군ㆍ구별 부담비율에 따라 해당 시ㆍ군ㆍ구별 출연금을 시장ㆍ군수ㆍ구청장에게 지체 없이 결정ㆍ통보하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제27조",
+            "source_clause": "제27조",
+            "link_text": "제26조제1항",
+            "line_text": "",
+            "target_law_name": "급여비용의 예탁 및 지급에 관한 규정",
+            "target_article_no": "제26조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/급여비용의 예탁 및 지급에 관한 규정/제26조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0027",
+            "reference_id": "admrul:급여비용의예탁및지급에관한규정#JO0026"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제27조",
+            "source_clause": "제27조",
+            "link_text": "제33조제1항",
+            "line_text": "",
+            "target_law_name": "지방재정법시행령",
+            "target_article_no": "제33조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/지방재정법시행령/제33조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0027",
+            "reference_id": "law:지방재정법시행령#JO0033"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0027"
+      },
+      {
+        "article_no": "제28조",
+        "article_title": "본인부담금지원비용의 지급원칙",
+        "chapter": "제3장  본인부담금지원비용의 예탁 및 지급에 관한 규정",
+        "content": "제28조(본인부담금지원비용의 지급원칙) ① 공단은 해당 시ㆍ도별 본인부담금지원비용 예탁금의 범위 안에서 임신ㆍ출산 진료비용 및 건강생활유지비용을 의료급여기관에 지급하여야 한다② 의료급여기관에서 수급권자에 대한 진료 또는 조제 후 수급권자의 본인부담금을 본인부담금지원비용에서 차감할 것을 청구하여 의료급여 자격관리시스템 등을 통해 확인번호가 부여된 경우 그 내용에 따라 지급한다.③ 공단은 건강생활유지비용을 지급하는 경우 의료급여기관에 별지 제6호 및 제7호 서식(건강생활유지비용지급통보서, 건강생활유지비용 개인별 지급통보서)을 송부하고 별지 제8호 서식(건강생활유지비용 지급결과통보서)을 보장기관에 송부한다.④ 공단은 임신ㆍ출산 진료비용을 지급하는 경우 의료급여기관에 별지 제9호 및 제10호 서식(임신ㆍ출산 진료비용지급통보서, 임신ㆍ출산 진료비용 개인별 지급통보서)을 송부하고 별지 제11호 서식(임신ㆍ출산 진료비용 지급결과통보서)을 보장기관에 송부한다.⑤ 공단은 의료급여기관별 소득세(주민세)원천징수액 집계표(차수별, 월별)를 별도로 관리하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제28조",
+            "source_clause": "제28조제3항",
+            "link_text": "별지 제6호",
+            "line_text": "",
+            "target_law_name": "급여비용의 예탁 및 지급에 관한 규정",
+            "target_article_no": "별지6",
+            "target_article_title": "건강생활유지비용 지급통보서(의료급여기관용)",
+            "appendix_no": "6",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117894209",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0028",
+            "reference_id": "admrul:급여비용의예탁및지급에관한규정#BJ0006"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제28조",
+            "source_clause": "제28조제3항",
+            "link_text": "별지 제8호 서식",
+            "line_text": "",
+            "target_law_name": "급여비용의 예탁 및 지급에 관한 규정",
+            "target_article_no": "별지8",
+            "target_article_title": "건강생활유지비용지급결과 통보서(보장기관용)",
+            "appendix_no": "8",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117894217",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0028",
+            "reference_id": "admrul:급여비용의예탁및지급에관한규정#BJ0008"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제28조",
+            "source_clause": "제28조제4항",
+            "link_text": "별지 제9호",
+            "line_text": "",
+            "target_law_name": "급여비용의 예탁 및 지급에 관한 규정",
+            "target_article_no": "별지9",
+            "target_article_title": "임신·출산 진료비용 지급통보서(의료급여기관용)",
+            "appendix_no": "9",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117894221",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0028",
+            "reference_id": "admrul:급여비용의예탁및지급에관한규정#BJ0009"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제28조",
+            "source_clause": "제28조제4항",
+            "link_text": "별지 제11호 서식",
+            "line_text": "",
+            "target_law_name": "급여비용의 예탁 및 지급에 관한 규정",
+            "target_article_no": "별지11",
+            "target_article_title": "임신·출산 진료비용 지급결과 통보서(보장기관용)",
+            "appendix_no": "11",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117894229",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0028",
+            "reference_id": "admrul:급여비용의예탁및지급에관한규정#BJ0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0028"
+      },
+      {
+        "article_no": "제29조",
+        "article_title": "본인부담금지원비용의 정산",
+        "chapter": "제3장  본인부담금지원비용의 예탁 및 지급에 관한 규정",
+        "content": "제29조(본인부담금지원비용의 정산) ① 공단은 매분기별 예탁된 시ㆍ도별 본인부담금지원비용 예탁금 중에서 지급내역을 매분기 단위로 정산한 후 예탁금액, 지급액, 예탁금잔액 등 그 정산내역을 보건복지부장관, 해당 시ㆍ도지사에게 통보하여야 한다② 공단은 수급권자별 건강생활유지비용 잔액을 이월하여 관리하되 매회계년도말을 기준으로 하여 다음연도 상반기 중 보건복지부 장관이 정하는 날까지 수급권자별 잔액정산내역을 보장기관에 통보하고, 보장기관은 통보를 받은 날로부터 1월 이내에 수급권자에게 지급하여야 한다. 다만, 자격상실 등의 사유가 발생한 경우 해당 반기별로 정산하여 지급한다.③ 공단은 임신ㆍ출산 진료비 지원기간중 사용하지 않은 잔액은 지급하지 아니한다. 다만, 건강보험가입자로 자격이 전환되는 경우 매월말일기준 다음월 15일까지 보장기관에 수급권자별 정산내역을 통보 하고, 보장기관은 수급권자에게 지체없이 지급하여야 한다.④ 공단은 수급권자별 건강생활유지비용 차감내역 및 잔액 등 정산내역을 매년도말을 기준으로 보장기관에 통보하고, 보장기관은 해당 수급권자에게 동 내용을 통보하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0029"
+      },
+      {
+        "article_no": "제30조",
+        "article_title": "다른 기준의 준용",
+        "chapter": "제3장  본인부담금지원비용의 예탁 및 지급에 관한 규정",
+        "content": "제30조(다른 기준의 준용) 제3장 \"본인부담금지원비용 예탁 및 지급에 관한 규정\"에서 규정하지 아니한 기타 사항은 제2장 \"현물급여비용의 예탁 및 지급에 관한 규정\"을 준용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0030"
+      },
+      {
+        "article_no": "제31조",
+        "article_title": "재검토기한",
+        "chapter": "제3장  본인부담금지원비용의 예탁 및 지급에 관한 규정",
+        "content": "제31조(재검토기한) 보건복지부장관은 이 고시에 대하여 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2020년 7월 1일을 기준으로 매3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제31조",
+            "source_clause": "제31조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0031",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:급여비용의예탁및지급에관한규정#JO0031"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20070530",
+      "promulgation_no": "201",
+      "content": "부칙 <제201호,2007. 5. 30.>이 고시는 2007년 6월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20090824",
+      "promulgation_no": "2009-150",
+      "content": "부칙 <제2009-150호,2009. 8. 24.>이 고시는 2009년 8월 24일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20100226",
+      "promulgation_no": "2010-37",
+      "content": "부칙 <제2010-37호,2010. 2. 26.>이 고시는 2010년 3월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20120823",
+      "promulgation_no": "2012-103",
+      "content": "부칙 (의료기관 조제실 제제 관리 기준 등 고시 일부개정)<제2012-103호,2012. 8. 23.>제1조(시행일) 이 고시는 2012년 8월 24일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20150626",
+      "promulgation_no": "2015-264",
+      "content": "부칙 <제2015-264호,2015. 6. 26.>이 고시는 2015년 8월 24일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20200701",
+      "promulgation_no": "2020-140",
+      "content": "부칙 (일몰기한 정비를 위한 69개 보건복지부고시의 일괄개정고시)<제2020-140호,2020. 7. 1.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20201008",
+      "promulgation_no": "2020-227",
+      "content": "부칙 <제2020-227호,2020. 10. 8.>이 고시는 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "현물급여비용예탁금납부통보서",
+      "enforcement_date": "",
+      "content": "〔별지 제1호 서식〕\n현물급여비용예탁금납부통보서\n┏━━━━━━┯━━━━━━━┯━━━━━━━━━━━┯━━┓\n┃납부의무자  │월별 예탁금액 │납부장소              │비고┃\n┃            ├─┬─┬───┤(금융기관명, 계좌번호)│    ┃\n┃            │월│월│월    │                      │    ┃\n┠──────┼─┼─┼───┼───────────┼──┨\n┃서울특별시장│  │  │      │                      │    ┃\n┠──────┼─┼─┼───┼───────────┼──┨\n┃부산광역시장│  │  │      │                      │    ┃\n┠──────┼─┼─┼───┼───────────┼──┨\n┃대구광역시장│  │  │      │                      │    ┃\n┠──────┼─┼─┼───┼───────────┼──┨\n┃인천광역시장│  │  │      │                      │    ┃\n┠──────┼─┼─┼───┼───────────┼──┨\n┃광주광역시장│  │  │      │                      │    ┃\n┠──────┼─┼─┼───┼───────────┼──┨\n┃대전광역시장│  │  │      │                      │    ┃\n┠──────┼─┼─┼───┼───────────┼──┨\n┃울산광역시장│  │  │      │                      │    ┃\n┠──────┼─┼─┼───┼───────────┼──┨\n┃경기도지사  │  │  │      │                      │    ┃\n┠──────┼─┼─┼───┼───────────┼──┨\n┃강원도지사  │  │  │      │                      │    ┃\n┠──────┼─┼─┼───┼───────────┼──┨\n┃충청북도지사│  │  │      │                      │    ┃\n┠──────┼─┼─┼───┼───────────┼──┨\n┃충청남도지사│  │  │      │                      │    ┃\n┠──────┼─┼─┼───┼───────────┼──┨\n┃전라북도지사│  │  │      │                      │    ┃\n┠──────┼─┼─┼───┼───────────┼──┨\n┃전라남도지사│  │  │      │                      │    ┃\n┠──────┼─┼─┼───┼───────────┼──┨\n┃경상북도지사│  │  │      │                      │    ┃\n┠──────┼─┼─┼───┼───────────┼──┨\n┃경상남도지사│  │  │      │                      │    ┃\n┠──────┼─┼─┼───┼───────────┼──┨\n┃제주도지사  │  │  │      │                      │    ┃\n┗━━━━━━┷━┷━┷━━━┷━━━━━━━━━━━┷━━┛\n210㎜×297㎜(일반용지60g/㎡(재활용품))\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117894185",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117894185",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:급여비용의예탁및지급에관한규정#BJ0001",
+      "filename": "별지1_현물급여비용예탁금납부통보서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "의료급여비용 지급 통보서(의료급여기관용)",
+      "enforcement_date": "",
+      "content": "\n(별지 제2호 서식)                                                      (전 면)\n\n발    신 국민건강보험공단                             의료급여비용 지급 통보서(의료급여기관용)\n┌──────────┬───────┐\n(사업자등록번호 : 105 - 82 - 11133)                                             │①지급 구분         │              │\n서울특별시 마포구 독막길24 (건강보험회관)   121-749                           ├──────────┼───────┤\n심평원 지급차수:                    공단 지급차수:                                       │의료급여기관기호    │              │\n└──────────┴───────┘\n지원:            심평원 심사차수:            접수번호:                  묶음번호 :                                                      대 표 자   귀 하\n┏━━━━┯━━━━━━┯━━━━━━━┯━━━━━━━┯━━━━━━━━━━━━━━━┯━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃지  급  │심사결정    │지급보류액    │예탁부족      │원천징수세액                  │본인부담금│100분이 100 미만 본인부담의 심사결정내역                ┃\n┃        │기금부담금  │              │미지급금      ├─────┬────┬────┤환급금    ├───────┬───────┬────────────┨\n┃내  역  │            │              │              │소득세    │주민세  │세액 계 │          │100분의 100   │본인부담금    │기관부담금              ┃\n┃        │            │              │              │          │        │        │          │미만 총액     │              │                        ┃\n┃        ├──────┼───────┼───────┼─────┼────┼────┼─────┼───────┼───────┼────────────┨\n┃        │            │              │              │          │        │        │          │              │              │                        ┃\n┃        ├──────┴──┬────┼────┬──┼─────┼────┼────┴─────┼───────┼───────┼────────────┨\n┃        │환수상계액        │과다본인│검사기관│절사│당 차 수  │이전차수│지급액합계          │              │              │                        ┃\n┃        ├──┬────┬─┤부담공제│지급액  │금액│실지급액  │미지급금│                    ├───────┼───────┼────────────┨\n┃        │가  │나      │다│금    액│        │    │          │지 급 액│                    │              │              │                        ┃\n┃        ├──┼────┼─┼────┼────┼──┼─────┼────┼──────────┼───────┼───────┼────────────┨\n┃        │    │        │  │        │        │    │          │        │                    │              │              │                        ┃\n┗━━━━┷━━┷━━━━┷━┷━━━━┷━━━━┷━━┷━━━━━┷━━━━┷━━━━━━━━━━┷━━━━━━━┷━━━━━━━┷━━━━━━━━━━━━┛\n귀 원의 의료급여비는 은행:         예금주:          지급계좌:                    로       년\n월   일 지급결정 하였으며, 장애인 의료비는 해당 보장 기관에서 같은 계좌로 입금토록 통보하였습니다.\n┏━━━━━┯━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━┯━━━━┯━━━┯━━━━┓\n┃심평원    │해   당 │의  료  급  여  비  용  심  사  결  정  내  역                    │지  급  결  정  내  역                │예탁부족│당차수│이전차수┃\n┃지급차수  │시도명칭├───┬───────┬─────┬──────┬───┬────┼─────┬────┬───┬────┤미지급금│실지급│미지급금┃\n┃          │        │건수  │총의료급여비용│본인부담금│기관부담금  │장애인│절사    │기금부담금│본인부담│대불금│검사기관│        │결정액│지 급 액┃\n┃          │        │      │              │          │            │의료비│금액    │          │금환급금│      │지 급 액│        │      │        ┃\n┠─────┴────┼───┼───────┼─────┼──────┼───┼────┼─────┼────┼───┼────┼────┼───┼────┨\n┃합   계             │      │              │          │            │      │        │          │        │      │        │        │      │        ┃\n┠─────┬────┼───┼───────┼─────┼──────┼───┼────┼─────┼────┼───┼────┼────┼───┼────┨\n┃          │        │      │              │          │            │      │        │          │        │      │        │        │      │        ┃\n┠─────┼────┼───┼───────┼─────┼──────┼───┼────┼─────┼────┼───┼────┼────┼───┼────┨\n┃          │        │      │              │          │            │      │        │          │        │      │        │        │      │        ┃\n┠─────┼────┼───┼───────┼─────┼──────┼───┼────┼─────┼────┼───┼────┼────┼───┼────┨\n┃          │        │      │              │          │            │      │        │          │        │      │        │        │      │        ┃\n┠─────┼────┼───┼───────┼─────┼──────┼───┼────┼─────┼────┼───┼────┼────┼───┼────┨\n┃          │        │      │              │          │            │      │        │          │        │      │        │        │      │        ┃\n┠─────┼────┼───┼───────┼─────┼──────┼───┼────┼─────┼────┼───┼────┼────┼───┼────┨\n┃          │        │      │              │          │            │      │        │          │        │      │        │        │      │        ┃\n┣━━━━━┷━━━━┷━━━┷━━━━━━━┷━━━━━┷━━━━━━┷━━━┷━━━━┷━━━━━┷━━━━┷━━━┷━━━━┷━━━━┷━━━┷━━━━┫\n┃②의료급여비용지급보류내역(지급보류건중 지급불능내역)                                                                                                       ┃\n┣━━━━━━┭────┬──────┬─────────────────┬───────────────┬──────┬──┬───────────────┨\n┃명세서 번호 │진료    │수진자 성명 │진료비명세서                      │심사결정                      │검사기관    │사유│보 류 (불 능) 내 용           ┃\n┃            │구분    │            ├───────┬─────┬───┼─────────┬─────┤지급액      │    │                              ┃\n┃            │        │            │총의료급여비용│본인부담금│청구액│본인부담금        │기관부담금│            │    │                              ┃\n┠──────┼────┼──────┼───────┼─────┼───┼─────────┼─────┼──────┼──┼───────────────┨\n┃            │        │            │              │          │      │                  │          │            │    │                              ┃\n┠──────┼────┼──────┼───────┼─────┼───┼─────────┼─────┼──────┼──┼───────────────┨\n┃            │        │            │              │          │      │                  │          │            │    │                              ┃\n┠──────┼────┼──────┼───────┼─────┼───┼─────────┼─────┼──────┼──┼───────────────┨\n┃            │        │            │              │          │      │                  │          │            │    │                              ┃\n┗━━━━━━┷━━━━┷━━━━━━┷━━━━━━━┷━━━━━┷━━━┷━━━━━━━━━┷━━━━━┷━━━━━━┷━━┷━━━━━━━━━━━━━━━┛\n┏━━━━┓\n국민건강보험공단이사장┃직인생략┃\n┗━━━━┛\n\n297㎜×210㎜(일반용지 60ｇ/㎡(재활용품))\n\n\n(후 면)\n┌───────────────────────────────────────────────────────────┬──────────────────────────────────────────────┐\n│의료급여비용 지급통보서 주요내용 안내                                                                                 │ ? 절사금액: 국고금단수계산법에 의해 의료급여비용명세서별로 단수 처리한 금액               │\n│≪1. 의료급여비용 심사?지급 절차≫                                                                                   │ ? 환수상계금액 : 보장기관에서 의료급여기관에 대하여 환수의뢰한 금액 중 지급액과 전산      │\n│ ?심평원 : 의료급여비용 청구서를 접수, 심사하고 심사내역(의료급여비용 심사결과 통                                    │상계환 금액(중복청구진료비, 초심?재심?실사환수 금액, 원외처방 약제비 정산액 등)           │\n│지서)을 의료급여기관에 통보합니다.                                                                                    │    - 가 : 환수상계금액과 공단지급액이 귀속년도가 같은 경우의 정산금, 원천징                │\n│ ?공  단 : 심사평가원으로부터 심사결과 자료를 인수받아 지급불능 및 지급보류에 해                                     │수과표는 공단지급액과 환수상계금액의 차액이 됨                                              │\n│당하는 내역을 제외하고 의료급여비용 지급신청계좌로 입금 후 송금내역을                                                 │    - 나 : 환수상계금액과 공단지급액이 귀속년도가 다른 경우의 정산금, 원천징                │\n│통보합니다.                                                                                                           │수과표는 각각의 금액으로 하여 계산하되, 원천징수세액 표기는 각각의 금                       │\n│┌────────────────────────────────────────────┐                          │액에 대한 차감으로 표기하며 지급조서에서는 과년도분의 경우 세액 환급                        │\n││※ 의료급여비용 수령계좌 변경신고 요령: 계좌번호, 예금주 등이 변경되었을 때에는 변경사항│                          │으로 표기                                                                                   │\n││신고서와 개설자(법인) 인감증명서를 제출하여 주시기 바랍니다                             │                          │    - 다 : 과표에 영향을 미치지 않는 환수 상계금액                                          │\n│└────────────────────────────────────────────┘                          │ ? 당차수 실지급액 : 심사결정 기금부담금 - 지급보류액 - 지급불능액 - 예탁부족 미지         │\n│《2. 의료급여비용 지급통보서의 주요항목에 대한 설명》                                                                 │급금 - 원천징수세액 -  본인부담금환급금 - 검사기관 지급액 - 절사금액                        │\n│┌─────────────────────────────────────┐                                        │ ? 이전차수 미지급금 지급액 : 예탁금 잔액부족으로 지급하지 못한 이전차수 미지              │\n││청구액과 송금액의 차액내역을 상세히 알고자 할 때에는 심평원에 접수된      │                                        │급금 중 당차수 지급 금액                                                                    │\n││접수번호에 해당하는 “심사결과통보서”와 공단에서 보내드린 “의료급여비용 │                                        │ ? 지급액 합계 : 당차수 실지급액 ＋ 이전차수 미지급금 지급액                               │\n││지급통보서”를 함께 확인하시기 바랍니다.                                  │                                        │ ? 원천징수세액 : 과세표준액(과표)을 기준으로 공단이 원천징수한 세액(대상기관만 해당)      │\n│└─────────────────────────────────────┘                                        │┌────────────────────────────────┐                        │\n│ ? 의료급여비용 지급불능 및 보류내역                                                                                 ││?소득세: 과세표준액의 100분의3, ?주민세: 소득세액의 100분의 10│                        │\n│    - 심사평가원에서 심사결정한 건 중에서 공단의 수급자격 점검 결과 지급                                              │└────────────────────────────────┘                        │\n│보류(초심) 및 불능 결정한 개인별 내역                                                                                 │┌─────────────────────────────────────┐              │\n│┌────────────────────────┬────────────────────────────────┐││원천징수 업무: 의료법에 의한 의사, 치과의사 또는 한의사, 약사, 조산사 등  │              │\n││초  심                                          │1차지급보류건중                                                 │││개인이 설립한 의료급여기관(법인설립의료급여기관, 보건기관은 제외)에 대한  │              │\n│├─────────────┬──────────┼──────────────────┬─────────────┤││의료급여비용 지급시 소득세 관계법령이 정하는 바에 따라 공단에서 소득세    │              │\n││지급보류                  │지급불능            │지급불능                            │지 급 보 류               │││(주민세)를 원천징수하여 세무당국에 납부하고 있습니다.                     │              │\n│├──┬──────────┼──┬───────┼──┬───────────────┼──┬──────────┤│└─────────────────────────────────────┘              │\n││항목│내 역               │항목│내 역         │항목│내          역                │항목│내    역            ││《3. 지급보류 건 중 지급 건에 대한 설명》                                                   │\n│├──┼──────────┼──┼───────┼──┼───────────────┼──┼──────────┤│  ? 지급보류 건에 대하여 보장기관에서의 확인 결과 통보에 따라 지급하는 건임                │\n││30  │주민등록번호 상이   │31  │책정전 진료   │51  │청구시효소멸건 청구 급여비    │55  │보장기관 상이       ││    - “①지급 구분란” : “지급보류 건 중 지급”으로 표기                                  │\n││33  │보호종별 상이       │32  │책정제외후진료│52  │책정전 진료비 청구 급여비     │57  │종별 상이           ││    - “②지급 보류 건 중 지급 불능 내역”란 : 지급보류 건 중 보장기관 확인 결과            │\n││34  │보장기관 상이       │    │              │53  │책정제외후 진료비 청구 급여비 │58  │종별및보장기관 상이 ││지급이 불가능하다고 통보된 건                                                               │\n││35  │행려환자            │    │              │54  │행려환자 적용대상제외 급여비  │    │                    ││? 대불금과 장애인 의료비는 심사결정된 금액을 시?군?구에서 지급합니다                     │\n││40  │종별및보장기관 상이 │    │              │59  │종별 및 보장기관 상이         │    │                    ││?민원안내                                                                                  │\n││    │                    │    │              │60  │주민등록번호 상이             │    │                    ││  - 서울, 강원지역 소재 요양기관 : 국민건강보험공단 서울지역본부 【☏ 02)2126-8912～7】     │\n│└──┴──────────┴──┴───────┴──┴───────────────┴──┴──────────┘│    : 서울특별시 영등포구 여의도동 12번지 CCMM빌딩 6층, 우 150-869                          │\n│ ※ - 유형별 사유중 진료비 지급보류건(30?33?34, 35, 40)은 보장기관에서 자격유                                       │  - 부산, 울산, 경남지역 소재 요양기관 : 국민건강보험공단 부산지역본부【☏051)801-0581～4】 │\n│무를 확인하여 공단으로 통보하면 그 결과에 따라 공단에서 진료비를 지급할                                               │    : 부산광역시 부산진구 전포2동 874-14번지 우 614-706                                     │\n│예정입니다.                                                                                                           │  - 대구, 경북지역 소재 요양기관 : 국민건강보험공단 대구지역본부【☏ 053)650-8880～4】      │\n│    - 유형별 사유중 지급불능건은 의료급여비용 지급불능 사유가 보완되도록 의료급여비                                   │    : 대구광역시 달서구 두류2동 148-3번지 우 704-731                                        │\n│용 청구명세서를 재작성한 후 소명자료가 있을 경우 이를 명세서에 첨부하여 차기 의료                                     │  - 광주, 전남?북, 제주도 소재 요양기관 : 국민건강보험공단 광주지역본부【☏ 062)250-5583】 │\n│급여비용 청구분과 함께 “심사평가원”에 청구하여야 합니다.                                                            │    : 광주광역시 북구 두암동 882-25번지 우 500-884                                          │\n│ ? 심평원 심사차수 : 심사평가원에서 심사한 차수                                                                      │  - 대전, 충남?북, 소재 요양기관 : 국민건강보험공단 대전지역본부【☏ 042)605-7151～4】     │\n│ ? 심평원 지급차수 : 심사평가원에서 지급결정한 차수                                                                  │    : 대전광역시 동구 삼성2동 332-3번지 우 300-712                                          │\n│     ☞ 이전차수 미지급금 지급시⇒ 시도별 심평원 지급차수란에 이전 심평원 지급차수 표기                               │  - 인천, 경기지역 소재 요양기관 : 국민건강보험공단 경인지역본부【☏ 031)230-7911～5】      │\n│ ? 공  단 지급차수 : 공단에서 의료급여비용 계좌입금 차수                                                             │    : 경기도 수원시 팔달구 인계동 1134-6번지 우 442-835                                     │\n│ ? 총의료급여비용 : 심사평가원에서 심사결정한 총진료비 건수 및 금액                                                  │                                                                                            │\n│                 ＝ 기관부담금＋본인부담금＋건강생활유지비+장애인의료비＋절사금액                                     │                                                                                            │\n│          세부적인 심사조정내역은 심사평가원에서 통보하는 “의료급여비용(약제비)                                      │                                                                                            │\n│심사결과 통지서에 기재됨                                                                                              │                                                                                            │\n│ ? 심사결정 기관부담금 : 심사평가원에서 심사결정한 기관부담금                                                        │                                                                                            │\n│ ? 예탁부족 미지급금 : 해당 시?도의 예탁금 잔액 부족으로 지급하지 못하는 금액                                       │                                                                                            │\n│ ? 본인부담금환급금: 심사조정결과 의료급여기관이 본인에게 과다 부담시킨 금액                                         │                                                                                            │\n│을 의료급여기관에 지급할 의료급여비용중에서 차감하여 본인(수급권자)에게 돌려                                          │                                                                                            │\n│줄 진료비                                                                                                             │                                                                                            │\n│ ? 검사기관 지급액: 수탁 검사기관에 직접 지급하는 검사료 총액                                                        │                                                                                            │\n└───────────────────────────────────────────────────────────┴──────────────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117894189",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117894189",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:급여비용의예탁및지급에관한규정#BJ0002",
+      "filename": "별지2_의료급여비용 지급 통보서(의료급여기관용).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "의료급여비용지급결과통보서(보장기관통보용-시ㆍ군ㆍ구)",
+      "enforcement_date": "",
+      "content": "\n(별지 제3호 서식)\n\n발  신                            의료급여비용지급결과통보서(보장기관통보용-시ㆍ군ㆍ구)\n국민건강보험공단\n\n(사업자등록번호 : 105-82-11133)\n우) 121-749 서울특별시 마포구 독막길24 (염리동 168-9, 건강보험회관)\n\n보장기관 명칭 :                                   귀하\n공단지급차수 :\n공단 지급결정일 :\n\n┏━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━┯━━━┯━━━━━━━━━━━━━┓\n┃이전차수│의료급여비용심사결정내역                        │의료급여비용지급결정내역                                  │예탁부족  │지급액│100분의 100미만           ┃\n┃미지급금├───┬────┬─────┬─────┬───┼───┬───────┬────────┬────────┤미지급금  │합  계│본인부담의                ┃\n┃지 급 액│건 수 │총의료급│기관부담금│장애인의료비│절 사 │건 수 │기금부담금    │장애인의료비    │본인부담금환급금│          │      │심사결정내역              ┃\n┃        │      │여비용  │          │          │금 액 │      │              │                │(1,000원미만)   │          │      ├─────────────┨\n┃        │      │        │          │          │      │      │              │                │                ├─────┤      │총  액                    ┃\n┃        │      │        │          │          │      │      │              │                │                │당 차 수  │      ├─────────────┨\n┃        │      │        │          ├─────┤      │      ├───────┼────────┼────────┤실지급액  │      │본인부담금                ┃\n┃        │      │        │          │본인부담금│      │      │대  불  금    │본인부담금환급금│본인부담금환급금│          │      ├─────────────┨\n┃        │      │        │          │          │      │      │              │(1,000원이상)   │(단    수)      │          │      │기관부담금                ┃\n┠┬┬┬─┼┬┬─┼┬┬┬─┼┬─┬┬─┼┬─┬┬─┼┬──┼┬┬─┼┬────┬┬┼┬┬┬─────┼┬┬──────┼┬─┬─┬┼┬┬┬┼─────────────┨\n┃│││  │││  ││││  ││  ││  ││  ││  ││    │││  ││        ││││││          │││            ││  │  ││││││                          ┃\n┃│││  │││  ││││  ││  ││  ││  ││  ││    │││  ││        ││││││          │││            ││  │  │││││┝━━━━━━━━━━━━━┫\n┃│││  │││  ││││  ││  ││  ├┼─┼┼─┤│    │││  ├┼────┼┼┼┼┼┼─────┼┼┼──────┼┼─┼─┼┤││││                          ┃\n┃│││  │││  ││││  ││  ││  ││  ││  ││    │││  ││        ││││││          │││            ││  │  │││││┝━━━━━━━━━━━━━┫\n┃│││  │││  ││││  ││  ││  ││  ││  ││    │││  ││        ││││││          │││            ││  │  ││││││                          ┃\n┗┷┷┷━┷┷┷━┷┷┷┷━┷┷━┷┷━┷┷━┷┷━┷┷━━┷┷┷━┷┷━━━━┷┷┷┷┷┷━━━━━┷┷┷━━━━━━┷┷━┷━┷┷┷┷┷┷━━━━━━━━━━━━━┛\n※ 대지급금과 장애인의료비는 별도 통보되는 『대지급금 및 장애인의료비 발생 내역』을 참조하여 보장기관에서 지급하여야합니다.\n※ 지급보류건은 수급권 불일치 청구건으로 보장기관에서는 공단에서 송부하는 『의료급여비용 수급권  확인 및 결정내역 통보서』에 의해 확인 후 결정내역을 공단 지역본\n부로 통보하여야  지급 할 수 있습니다.\n┏━━━━┓\n국민건강보험공단이사장┃직인생략┃\n┗━━━━┛\n\n297㎜×210㎜(일반용지 60ｇ/㎡(재활용품))\n\n? 이전차수 미지급금 지급액 : 예탁금 잔액 부족으로 지급하지 못한 이전차수         ? 예탁부족 미지급금 : 당차수 지급결정액 중 예탁금 부족으로 지급하지 못한 금액\n미지급금중 당차수 지급 금액                                                                       = 심사결정 기관부담금  - 지급결정 기금부담금 - 지급결정 대불금\n? 총의료급여비용 : 심사평가원에서 심사결정한 총진료비 건수 및 금액               ? 당차수 실지급액 : 의료급여비용 지급결정내역의 기금부담금-본인부담금환급금\n＝ 기관부담금+본인부담금+장애인의료비＋절사금액                  ? 지급액 합계 : 이전차수 미지급금 지급액 ＋ 당차수 실지급액\n? 기관부담금 : 심사평가원에서 심사결정한 보장기관 부담금(기금부담금+대불금)\n? 장애인의료비 : 장애인복지법 제33조에 의해 장애인 수급권자(의료급여 2종) 본\n인부담금중 장애인의료비에서 부담하는 금액으로 시ㆍ군ㆍ\n구에서 별도 지급 대상\n? 본인부담금 : 의료급여법시행규칙 제21조에 의해 수급권자(의료급여 2종) 본        ┌────────────────────────────────────────┐\n인이 의료급여기관에 납부한 금액                                                   │※ 본인부담금 환급금은 전액 예탁금과 정산되었으며, 보장기관에서는 본인부담금 환 │\n? 절사금액 : 국고금단수계산법 제1조에 의해 의료급여비용명세서별로 단수 처        │급금중 1,000원이상에 해당하는 금액만큼 시ㆍ도로부터 자금을 배정받아 수급권자    │\n리한 금액                                                                         │에게 지급하시기 바랍니다.                                                       │\n? 기금부담금 : 의료급여법 제10조에 의해 의료급여기금에서 부담하는 금액           │  (개인별 본인부담금 환급금 내역은 별도 송부하는 본인부담금 환급금 명세서 참조) │\n? 대  불  금 : 의료급여법 제20조에 의해 수급권자(의료급여 2종) 본인부담금        └────────────────────────────────────────┘\n중 의료급여기금에서 부담하는 금액\n? 본인부담금환급금 : 심사조정결과 의료급여기관이 본인에게 과다 부담시킨          ● 공단 지역본부 안내\n금액을 의료급여법 제11조에 의해 의료급여기관에 지급                               서울지역본부 ☏ 【02) 2126-8912∼7】          광주지역본부 ☏ 【062) 250-5583】\n할 급여비용 중에서 차감하여 수급권자 본인에게 반환하                              부산지역본부 ☏ 【051) 801-0581∼4】          대전지역본부 ☏ 【042) 605-7151∼4】\n는 금액                                                                           대구지역본부 ☏ 【053) 650-8880∼4】          경인지역본부 ☏ 【031) 230-7911∼5】\n\n\n\n297㎜×210㎜(일반용지 60ｇ/㎡(재활용품))\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117894195",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117894195",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:급여비용의예탁및지급에관한규정#BJ0003",
+      "filename": "별지3_의료급여비용지급결과통보서(보장기관통보용-시ㆍ군ㆍ구).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "의료급여비 수급권 확인 및 결정내역 통보서",
+      "enforcement_date": "",
+      "content": "\n(별지 제4호 서식)                                                                                                        (전 면)\n┌──────┬─────────────────┐\n│공단접수번호│                                  │       의료급여비 수급권 확인 및 결정내역 통보서\n└──────┴─────────────────┘\n주소:                                                                                                                               우편번호:                                                   전화번호:\n\n수신:국민건강보험공단00지사장                                                 보장기관기호:                                         지급차수:                                                   업무구분:                                   페이지:\n접수일:\n┏━━━━┯━━━━━━━━━━━━━┯━━━━┯━━━━━━━━━┯━━━┯━━┯━━━━━━━━━━━━━━┯━━━━━━━━┯━━━━━━━━━━━━┯━━┯━━━┯━━┯━━━━━━━━━┯━━┯━━━━━┯━━┯━━━━━━━━━━━━━━━━━┓\n┃심사지원│의료급여기관기호(전화번호)│보류번호│수 진 자          │세대주│종별│처  방  전                  │진료개시일      │자격점검결과            │장애│만  성│정액│심사결정급여비용  │식대│C/T, MRI, │확인│의료급여비결정내역(종별상이청구건)┃\n┠────┼─────────────┤        ├──┬──────┤      │    ├────┬────┬────┼──┬──┬──┼────┬────┬──┤여부│질환자│정율├─────┬───┤    │PET 등    │사항├─────┬───┬───┬───┨\n┃서식명  │의료급여기관명            │        │성명│주민등록번호│      │    │원내직접│보건기관│의료급여│내원│투약│진료│자격확인│청구내역│D/B │    │      │    │총의료급여│기  관│    │          │    │총의료급여│본  인│기  관│장애인┃\n┃        │                          │        │    │            │      │    │조제횟수│건    수│기관건수│    │    │기간│유   형 │        │내역│    │      │    │비      용│부담금│    │          │    │비      용│부담금│부담금│의료비┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┬┬───┼┬─┬┼──┼─────┼──┼┬┬───┼┬─┬┼┬┬─┼┬┬─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┠────┼─────────────┼────┼──┼──────┼───┼──┼────┼────┼────┼──┼──┼──┼────┼────┼──┼──┼───┼──┼┼┼───┼┼─┼┼──┼─────┼──┼┼┼───┼┼─┼┼┼┼─┼┼┼─┨\n┃        │                          │        │    │            │      │    │        │        │        │    │    │    │        │        │    │    │      │    │││      ││  ││    │          │    │││      ││  ││││  │││  ┃\n┗━━━━┷━━━━━━━━━━━━━┷━━━━┷━━┷━━━━━━┷━━━┷━━┷━━━━┷━━━━┷━━━━┷━━┷━━┷━━┷━━━━┷━━━━┷━━┷━━┷━━━┷━━┷┷┷━━━┷┷━┷┷━━┷━━━━━┷━━┷┷┷━━━┷┷━┷┷┷┷━┷┷┷━┛\n┏━━┓\n시장ㆍ군수ㆍ구청장┃직인┃\n┗━━┛\n\n297㎜×210㎜(일반용지 60ｇ/㎡(재활용품))\n\n\n(후 면)\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃본 통보서는 의료급여기관에서 심사청구한 의료급여비 명세서상의 자격내역과 우리공단 수급권자 자격D/B내역이 상이하여 급여비용 지급을 보류한 수급권 불일치 내역입니다. 따라서, 보장                                             ┃\n┃기관(시ㆍ군ㆍ구)에서는 수급권자 자격내역을 확인ㆍ정확하게 작성하시어, 그 결과를 통보받은 날로부터 7일 이내〔「급여비용의예탁및지급에관한규정」 제19조(지급보류 등의 처리)〕에 공단                                          ┃\n┃지사로 통보하여 주시기 바랍니다.                                                                                                                                                                                            ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n┏━━━━┓\n┃작성요령┃\n┗━━━━┛\n【확인사항】\n\n- 보장기관에서는 아래 유형별 작성요령을 참고하여 해당 수급권자의 자격 등을 확인한 후 앞면의 ‘확인사항’ 및 ‘의료급여비결정내역’란을 정확히 기재하고\n\n- 보장기관 자격변경건은 자격정리후 변경내역을 전송하고, 공단자격D/B 변경건은 관련 첨부서류(‘기재사항변경통보서’ 또는 자격상실, 취득통보서)를 공단으로 통보하여야 함\n┏━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━┓\n┃확인 유형                   │사             례                                                   │‘확인사항’ 기재방법                 │세부 작성요령 및 조치사항             │'의료급여비 결정내역'기재방법           ┃\n┠──────────────┼──────────────────────────────────┼───────────────────┼───────────────────┼────────────────────┨\n┃30                          │의료급여기관에서 수진자 주민등록번호를 착오 기재한 경우             │‘청구내역의 주민번호 수정’          │확인된 주민등록번호 기재              │* 종별 기재시 (장애인여부 우선 확인)    ┃\n┃(주민등록번호 상이)         ├──────────────────────────────────┼───────────────────┼───────────────────┤                                        ┃\n┃                            │의료급여기관에서 청구한 주민등록번호와 보장기관명부상 주민등록번호  │‘공단자격D/B 수정’으로 기재         │‘기재사항변경통보서’ 작성 첨부      │ㆍ1종대상을 2종대상으로 청구한 경우:    ┃\n┃                            │가 일치한 경우                                                      │                                      │                                      │  ‘심결금액 지급’으로 기재            ┃\n┃                            ├──────────────────────────────────┼───────────────────┼───────────────────┤                                        ┃\n┃                            │의료급여기관에서 행려환자(4종)를 1,2종대상자로 착오 기재한 경우     │‘행려자 지급대상’으로 기재          │-                                     │ ㆍ2종대상을 1종이나 4종으로 청구한     ┃\n┃                            ├──────────────────────────────────┼───────────────────┼───────────────────┤경우: 2종 수급권자를 기준으로 한 기     ┃\n┃                            │의료급여기관에서 수급권자의 주민등록번호와 종별을 동시에 착오기재한 │‘청구내역의 주민번호 및 종별 수정’  │확인된 주민등록번호와 종별 기재       │관부담금, 본인부담금, 장애인의료비      ┃\n┃                            │경우                                                                │으로 기재                             │                                      │를 산정하여 기재                        ┃\n┃                            ├──────────────────────────────────┼───────────────────┼───────────────────┤                                        ┃\n┃                            │성명으로 주민등록번호 확인이 불가능한 경우                          │‘확인불가’로 기재                   │-                                     │                                        ┃\n┃                            ├──────────────────────────────────┼───────────────────┼───────────────────┤                                        ┃\n┃                            │진료기간(입내원)내에 보장기관이나 종별이 변경된 경우                │‘지급불가’로 기재                   │ -                                    │                                        ┃\n┃                            ├──────────────────────────────────┼───────────────────┼───────────────────┤                                        ┃\n┃                            │청구한 주민번호는 일치하나 보장기관기호가 상이한 경우               │‘공단자격 D/B수정’, ‘보장기관기    │ -                                    │                                        ┃\n┃                            │                                                                    │호상이’ 기재                         │                                      │                                        ┃\n┠──────────────┼──────────────────────────────────┼───────────────────┼───────────────────┼────────────────────┨\n┃33                          │의료급여기관에서 2종수급권자의 종별을 1종수급권자로 착오 청구한 경우│‘청구내역의 종별 수정’으로 기재     │종별 기재                             │*종별 기재시 (장애인여부 우선 확인)     ┃\n┃(수급권자 종별 상이)        ├──────────────────────────────────┼───────────────────┼───────────────────┤                                        ┃\n┃                            │진료기간(입내원)내에 수급권자의 보장기관이나 종별이 변경된 경우     │‘지급불가’로 기재                   │-                                     │2종수급권자를 기준으로한 기관부담금,    ┃\n┃                            ├──────────────────────────────────┼───────────────────┼───────────────────┤본인부담금, 장애인의료비를 산정하여     ┃\n┃                            │의료급여기관에서 청구한 종별과 진료기간(입내원)에 수급권자가 소속된 │‘공단자격D/B수정’으로 기재          │‘기재사항변경통보서’ 또는 ‘자격상실│기재                                    ┃\n┃                            │보장기관의 종별이 일치한 경우                                       │                                      │ㆍ취득통보서’ 작성 첨부              │                                        ┃\n┠──────────────┼──────────────────────────────────┼───────────────────┼───────────────────┼────────────────────┨\n┃34                          │의료급여기관에서 소속 보장기관기호를 착오기재한 경우                │‘청구내역의 보장기관기호 수정’으로  │-                                     │-                                       ┃\n┃(보장기관기호 상이)         │                                                                    │기재                                  │                                      │                                        ┃\n┃                            ├──────────────────────────────────┼───────────────────┼───────────────────┤                                        ┃\n┃                            │의료급여기관에서 청구한 보장기관기호와 진료기간(입내원)에 수급권자  │‘공단자격D/B수정’으로 기재          │‘자격상실ㆍ취득통보서’ 작성 첨부    │                                        ┃\n┃                            │가 소속된 보장기관기호가 일치한 경우                                │                                      │                                      │                                        ┃\n┃                            ├──────────────────────────────────┼───────────────────┤                                      │                                        ┃\n┃                            │진료기간(입내원)내에 보장기관이나 종별이 변경된 경우                │‘지급불가’로 기재                   │                                      │                                        ┃\n┠──────────────┼──────────────────────────────────┼───────────────────┼───────────────────┼────────────────────┨\n┃35                          │의료급여기관에서 행려환자(4종)로 맞게 청구한 경우                   │‘지급대상’으로 기재                 │-                                     │* 종별 기재시 (장애인여부 우선 확인)    ┃\n┃(행려환자 확인대상)         ├──────────────────────────────────┼───────────────────┼───────────────────┤ㆍ1종대상을 4종대상으로 청구한 경우:    ┃\n┃                            │행려환자 아님에도 행려환자로 청구된 경우 (1,2종 수급권자도 아닌 경우)│‘지급불가’로 기재                   │-                                     │ ‘심결금액 지급’으로 기재             ┃\n┃                            ├──────────────────────────────────┼───────────────────┼───────────────────┤ ㆍ2종대상을 4종대상으로 청구한 경우:   ┃\n┃                            │의료급여 수급권자 (1,2종)를 행려자로 착오기재한 경우                │‘확인종별 ’기재                     │ 종별 기재                            │2종 수급권자를 기준으로 한 기관부       ┃\n┃                            ├──────────────────────────────────┼───────────────────┼───────────────────┤담금, 본인부담금, 장애인의료비를 산     ┃\n┃                            │진료기간(입내원)내에 수급권자의 보장기관이나 종별이 변경된 경우     │‘지급불가’로 기재                   │ -                                    │정하여 기재                             ┃\n┠──────────────┼──────────────────────────────────┼───────────────────┼───────────────────┼────────────────────┨\n┃40                          │의료급여기관에서 수급권자의 종별과 보장기관기호를 동시에 착오기재한 │종별상이(33), 보장기관기호상이(34)    │종별상이(33), 보장기관기호상이(34)    │종별상이(33)와 동일한 방법으로 처리     ┃\n┃(종별 및 기관기호 동시 상이)│경우                                                                │와 동일한 방법으로 기재               │와 동일한 방법으로 처리               │                                        ┃\n┗━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117894199",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117894199",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:급여비용의예탁및지급에관한규정#BJ0004",
+      "filename": "별지4_의료급여비 수급권 확인 및 결정내역 통보서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별지",
+      "title": "본인부담금지원비용예탁금납부통보서",
+      "enforcement_date": "",
+      "content": "〔별지 제5호 서식〕\n본인부담금지원비용예탁금납부통보서\n┏━━━━━━┯━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━┯━━┓\n┃납부의무자  │분기 예탁금액                     │납부장소              │비고┃\n┃            ├─────────┬───────┤(금융기관명, 계좌번호)│    ┃\n┃            │임신?출산 진료비 │건강생활유지비│                      │    ┃\n┠──────┼─────────┼───────┼───────────┼──┨\n┃서울특별시장│                  │              │납부장소              │    ┃\n┠──────┼─────────┼───────┤                      ├──┨\n┃부산광역시장│                  │              │임신?출산 진료비     │    ┃\n┠──────┼─────────┼───────┤(금융기관명,계좌번호) ├──┨\n┃대구광역시장│                  │              │                      │    ┃\n┠──────┼─────────┼───────┤건강생활유지비        ├──┨\n┃인천광역시장│                  │              │(금융기관명,계좌번호) │    ┃\n┠──────┼─────────┼───────┤                      ├──┨\n┃광주광역시장│                  │              │                      │    ┃\n┠──────┼─────────┼───────┤                      ├──┨\n┃대전광역시장│                  │              │                      │    ┃\n┠──────┼─────────┼───────┤                      ├──┨\n┃울산광역시장│                  │              │                      │    ┃\n┠──────┼─────────┼───────┤                      ├──┨\n┃경기도지사  │                  │              │                      │    ┃\n┠──────┼─────────┼───────┤                      ├──┨\n┃강원도지사  │                  │              │                      │    ┃\n┠──────┼─────────┼───────┤                      ├──┨\n┃충청북도지사│                  │              │                      │    ┃\n┠──────┼─────────┼───────┤                      ├──┨\n┃충청남도지사│                  │              │                      │    ┃\n┠──────┼─────────┼───────┤                      ├──┨\n┃전라북도지사│                  │              │                      │    ┃\n┠──────┼─────────┼───────┤                      ├──┨\n┃전라남도지사│                  │              │                      │    ┃\n┠──────┼─────────┼───────┤                      ├──┨\n┃경상북도지사│                  │              │                      │    ┃\n┠──────┼─────────┼───────┤                      ├──┨\n┃경상남도지사│                  │              │                      │    ┃\n┠──────┼─────────┼───────┤                      ├──┨\n┃제주도지사  │                  │              │                      │    ┃\n┗━━━━━━┷━━━━━━━━━┷━━━━━━━┷━━━━━━━━━━━┷━━┛\n210㎜×297㎜(일반용지60g/㎡(재활용품))\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117894205",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117894205",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:급여비용의예탁및지급에관한규정#BJ0005",
+      "filename": "별지5_본인부담금지원비용예탁금납부통보서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별지",
+      "title": "건강생활유지비용 지급통보서(의료급여기관용)",
+      "enforcement_date": "",
+      "content": "\n(별지 제6호 서식)\n\n발    신 국민건강보험공단                           건강생활유지비용 지급통보서(의료급여기관용)\n┌─────────┬───┐\n(사업자등록번호 : 105-82-11133)                                         │①지급 구분       │      │\n서울특별시 마포구 독막길24 (건강보험회관)   121-749                   ├─────────┼───┤\n│의료급여기관기호  │      │\n└─────────┴───┘\n지원:            심평원 심사차수:            접수번호:                  묶음번호 :\n┏━━━┯━━━━━━━━┯━━━━┯━━━━━━━━━━━━┯━━━━━┯━━━┯━━━━┯━━━━┯━━━┓\n┃지 급 │지급결정        │예탁부족│원천징수세액            │환수상계액│환급액│당차수  │이전차수│지급액┃대 표 자   귀 하\n┃내 역 │건강생활유지비용│미지급금├───┬───┬────┼─┬─┬─┤      │실지급액│미지급금│합  계┃                                ┃\n┃      │                │        │소득세│주민세│세액합계│가│나│다│      │        │지 급 액│      ┃\n┃      ├────────┼────┼───┼───┼────┼─┼─┼─┼───┼────┼────┼───┨                                ┃\n┃      │                │        │      │      │        │  │  │  │      │        │        │      ┃\n┗━━━┷━━━━━━━━┷━━━━┷━━━┷━━━┷━━━━┷━┷━┷━┷━━━┷━━━━┷━━━━┷━━━┛\n귀 원의 건강생활유지비는 은행:         예금주:          지급계좌:                    로       년   월   일 지급결정 하였습니다.\n┏━━━━┯━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━┳━━━━━━┳━━━━━━━━┳━━━┓\n┃공단    │해   당 ┃지   급   내    역                                                      ┃예탁부족┃당 차 수    ┃이전차수미지급금┃지급액┃\n┃지급차수│시도명칭┠────────┬───────────────┬───────────┨미지급금┃실지급결정액┃지 급 액        ┃합 계 ┃\n┃        │        ┃건  수          │건강생활유지비용              │절사금액              ┃        ┃            ┃                ┃      ┃\n┣━━━━┷━━━━╋━━━━━━━━┿━━━━━━━━━━━━━━━┿━━━━━━━━━━━╉────╊━━━━━━╋━━━━━━━━╋━━━┫\n┃합   계           ┃                │                              │                      ┃        ┃            ┃                ┃      ┃\n┠────┬────╂────────┼───────────────┼───────────╂────╂──────╂────────╂───┨\n┃        │        ┃                │                              │                      ┃        ┃            ┃                ┃      ┃\n┠────┼────╂────────┼───────────────┼───────────╂────╂──────╂────────╂───┨\n┃        │        ┃                │                              │                      ┃        ┃            ┃                ┃      ┃\n┠────┼────╂────────┼───────────────┼───────────╂────╂──────╂────────╂───┨\n┃        │        ┃                │                              │                      ┃        ┃            ┃                ┃      ┃\n┠────┼────╂────────┼───────────────┼───────────╂────╂──────╂────────╂───┨\n┃        │        ┃                │                              │                      ┃        ┃            ┃                ┃      ┃\n┠────┼────╂────────┼───────────────┼───────────╂────╂──────╂────────╂───┨\n┃        │        ┃                │                              │                      ┃        ┃            ┃                ┃      ┃\n┠────┼────╂────────┼───────────────┼───────────╂────╂──────╂────────╂───┨\n┃        │        ┃                │                              │                      ┃        ┃            ┃                ┃      ┃\n┠────┼────╂────────┼───────────────┼───────────╂────╂──────╂────────╂───┨\n┃        │        ┃                │                              │                      ┃        ┃            ┃                ┃      ┃\n┠────┼────╂────────┼───────────────┼───────────╂────╂──────╂────────╂───┨\n┃        │        ┃                │                              │                      ┃        ┃            ┃                ┃      ┃\n┣━━━━┿━━━━╋━━━━━━━━┿━━━━━━━━━━━━━━━┿━━━━━━━━━━━╋━━━━╋━━━━━━╋━━━━━━━━╋━━━┫\n┃        │        ┃                │                              │                      ┃        ┃            ┃                ┃      ┃\n┠────┼────╂────────┼───────────────┼───────────╂────╂──────╂────────╂───┨\n┃        │        ┃                │                              │                      ┃        ┃            ┃                ┃      ┃\n┠────┼────╂────────┼───────────────┼───────────╂────╂──────╂────────╂───┨\n┃        │        ┃                │                              │                      ┃        ┃            ┃                ┃      ┃\n┣━━━━┿━━━━╋━━━━━━━━┿━━━━━━━━━━━━━━━┿━━━━━━━━━━━╋━━━━╋━━━━━━╋━━━━━━━━╋━━━┫\n┃        │        ┃                │                              │                      ┃        ┃            ┃                ┃      ┃\n┠────┴────┸────────┴───────────────┴───────────┸────┸──────┸────────┸───┨\n┃환수상계액, 환급금 등 정산 내역                                                                                                               ┃\n┠─────────┰────────┬────┬──────────┬────────────┬──────────┰────────────┨\n┃해당 시도명칭     ┃성  명          │진료일자│건강생활유지비      │진료확인번호            │취소번호            ┃사  유                  ┃\n┠────┬────╂────────┼────┼──────────┼────────────┼──────────╂────────────┨\n┃        │        ┃                │        │                    │                        │                    ┃                        ┃\n┗━━━━┷━━━━┻━━━━━━━━┷━━━━┷━━━━━━━━━━┷━━━━━━━━━━━━┷━━━━━━━━━━┻━━━━━━━━━━━━┛\n┏━━━━┓\n국민건강보험공단이사장┃직인생략┃\n┗━━━━┛\n\n297㎜×210㎜(일반용지 60ｇ/㎡(재활용품))\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117894209",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117894209",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:급여비용의예탁및지급에관한규정#BJ0006",
+      "filename": "별지6_건강생활유지비용 지급통보서(의료급여기관용).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "별지",
+      "title": "건강생활유지비용 개인별 지급통보서(의료급여기관용)",
+      "enforcement_date": "",
+      "content": "\n(별지 제7호 서식)\n\n건강생활유지비용 개인별 지급통보서(의료급여기관용)\n\n\n┌────────┬──┐\n│①지급 구분     │    │\n├────────┼──┤                                                                          │\n│의료급여기관기호│    │\n└────────┴──┘\n\n┏━━┯━━━━━━━┯━━━━━━┯━━━━━┯━━━━┯━━━━━━┯━━━━━━━━┯━━━━┓\n┃연번│공단 지급차수 │해당시도명칭│수진자성명│진료일자│진료확인번호│건강생활유지비용│비   고 ┃\n┠──┼───────┼──────┼─────┼────┼──────┼────────┼────┨\n┃    │              │            │          │        │            │                │        ┃\n┠──┼───────┼──────┼─────┼────┼──────┼────────┼────┨\n┃    │              │            │          │        │            │                │        ┃\n┠──┼───────┼──────┼─────┼────┼──────┼────────┼────┨\n┃    │              │            │          │        │            │                │        ┃\n┠──┼───────┼──────┼─────┼────┼──────┼────────┼────┨\n┃    │              │            │          │        │            │                │        ┃\n┠──┼───────┼──────┼─────┼────┼──────┼────────┼────┨\n┃    │              │            │          │        │            │                │        ┃\n┠──┼───────┼──────┼─────┼────┼──────┼────────┼────┨\n┃    │              │            │          │        │            │                │        ┃\n┠──┼───────┼──────┼─────┼────┼──────┼────────┼────┨\n┃    │              │            │          │        │            │                │        ┃\n┠──┼───────┼──────┼─────┼────┼──────┼────────┼────┨\n┃    │              │            │          │        │            │                │        ┃\n┠──┼───────┼──────┼─────┼────┼──────┼────────┼────┨\n┃    │              │            │          │        │            │                │        ┃\n┠──┼───────┼──────┼─────┼────┼──────┼────────┼────┨\n┃    │              │            │          │        │            │                │        ┃\n┠──┼───────┼──────┼─────┼────┼──────┼────────┼────┨\n┃    │              │            │          │        │            │                │        ┃\n┠──┼───────┼──────┼─────┼────┼──────┼────────┼────┨\n┃    │              │            │          │        │            │                │        ┃\n┠──┼───────┼──────┼─────┼────┼──────┼────────┼────┨\n┃    │              │            │          │        │            │                │        ┃\n┠──┼───────┼──────┼─────┼────┼──────┼────────┼────┨\n┃    │              │            │          │        │            │                │        ┃\n┠──┼───────┼──────┼─────┼────┼──────┼────────┼────┨\n┃    │              │            │          │        │            │                │        ┃\n┠──┼───────┼──────┼─────┼────┼──────┼────────┼────┨\n┃    │              │            │          │        │            │                │        ┃\n┠──┼───────┼──────┼─────┼────┼──────┼────────┼────┨\n┃    │              │            │          │        │            │                │        ┃\n┠──┼───────┼──────┼─────┼────┼──────┼────────┼────┨\n┃    │              │            │          │        │            │                │        ┃\n┠──┼───────┼──────┼─────┼────┼──────┼────────┼────┨\n┃    │              │            │          │        │            │                │        ┃\n┗━━┷━━━━━━━┷━━━━━━┷━━━━━┷━━━━┷━━━━━━┷━━━━━━━━┷━━━━┛\n┏━━━━┓\n국민건강보험공단이사장┃직인생략┃\n┗━━━━┛\n\n297㎜×210㎜(일반용지 60ｇ/㎡(재활용품))\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117894213",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117894213",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:급여비용의예탁및지급에관한규정#BJ0007",
+      "filename": "별지7_건강생활유지비용 개인별 지급통보서(의료급여기관용).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0008",
+      "branch": "00",
+      "kind": "별지",
+      "title": "건강생활유지비용지급결과 통보서(보장기관용)",
+      "enforcement_date": "",
+      "content": "\n(별지 제8호 서식)\n\n건강생활유지비용지급결과 통보서(보장기관용)\n\n보장기관명칭 :\n공단지급차수 :\n공단 지급결정일 :\n\n\n┏━━━━┯━━━━━━━━━━━━━━━━┯━━━━━┯━━━┯━━━━━┯━━━━┯━━━━┓\n┃이전차수│건강생활유지비용 지급결정 내역  │환수상계액│환급액│예탁금부족│당 차 수│지 급 액┃\n┃미지급금├──┬────────┬────┤          │      │미지급금  │실지급액│합    계┃\n┃지 급 액│건수│건강생활유지비용│절사금액│          │      │          │        │        ┃\n┠────┼──┼────────┼────┼─────┼───┼─────┼────┼────┨\n┃        │    │                │        │          │      │          │        │        ┃\n┗━━━━┷━━┷━━━━━━━━┷━━━━┷━━━━━┷━━━┷━━━━━┷━━━━┷━━━━┛\n┏━━━━┓\n국민건강보험공단이사장┃직인생략┃\n┗━━━━┛\n\n297㎜×210㎜(일반용지 60ｇ/㎡(재활용품))\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117894217",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117894217",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:급여비용의예탁및지급에관한규정#BJ0008",
+      "filename": "별지8_건강생활유지비용지급결과 통보서(보장기관용).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0009",
+      "branch": "00",
+      "kind": "별지",
+      "title": "임신·출산 진료비용 지급통보서(의료급여기관용)",
+      "enforcement_date": "",
+      "content": "\n(별지 제9호 서식)\n\n발    신 국민건강보험공단                       임신?출산 진료비용 지급통보서(의료급여기관용)\n┌─────────┬───┐\n(사업자등록번호 : 105-82-11133)                                     │①지급 구분       │      │\n서울특별시 마포구 독막길24 (건강보험회관)   121-749               ├─────────┼───┤\n│의료급여기관기호  │      │\n└─────────┴───┘\n\n┏━━━┯━━━━━━┯━━━━┯━━━━━━━━━━━━┯━━━━━┯━━━┯━━━━┯━━━━┯━━━┓\n┃지 급 │지급결정    │예탁부족│원천징수세액            │환수상계액│환급액│당차수  │이전차수│지급액┃대 표 자   귀 하\n┃내 역 │임신?출산  │미지급금├───┬───┬────┼─┬─┬─┤      │실지급액│미지급금│합  계┃                                ┃\n┃      │진료비용    │        │소득세│주민세│세액합계│가│나│다│      │        │지 급 액│      ┃\n┃      ├──────┼────┼───┼───┼────┼─┼─┼─┼───┼────┼────┼───┨                                ┃\n┃      │            │        │      │      │        │  │  │  │      │        │        │      ┃\n┗━━━┷━━━━━━┷━━━━┷━━━┷━━━┷━━━━┷━┷━┷━┷━━━┷━━━━┷━━━━┷━━━┛\n귀 원의 임신?출산 진료비는 은행:         예금주:          지급계좌:                    로       년   월   일 지급결정 하였습니다.\n┏━━━━┯━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━┳━━━━━━┳━━━━━━━━┳━━━┓\n┃지급차수│해   당 ┃지   급   내    역                                                  ┃예탁부족┃당 차 수    ┃이전차수미지급금┃지급액┃\n┃        │시도명칭┠──────┬───────────────┬───────────┨미지급금┃실지급결정액┃지 급 액        ┃합 계 ┃\n┃        │        ┃건  수      │임신?출산 진료비용           │절사금액              ┃        ┃            ┃                ┃      ┃\n┣━━━━┷━━━━╋━━━━━━┿━━━━━━━━━━━━━━━┿━━━━━━━━━━━╉────╊━━━━━━╋━━━━━━━━╋━━━┫\n┃합   계           ┃            │                              │                      ┃        ┃            ┃                ┃      ┃\n┠────┬────╂──────┼───────────────┼───────────╂────╂──────╂────────╂───┨\n┃        │        ┃            │                              │                      ┃        ┃            ┃                ┃      ┃\n┠────┼────╂──────┼───────────────┼───────────╂────╂──────╂────────╂───┨\n┃        │        ┃            │                              │                      ┃        ┃            ┃                ┃      ┃\n┠────┼────╂──────┼───────────────┼───────────╂────╂──────╂────────╂───┨\n┃        │        ┃            │                              │                      ┃        ┃            ┃                ┃      ┃\n┠────┼────╂──────┼───────────────┼───────────╂────╂──────╂────────╂───┨\n┃        │        ┃            │                              │                      ┃        ┃            ┃                ┃      ┃\n┠────┼────╂──────┼───────────────┼───────────╂────╂──────╂────────╂───┨\n┃        │        ┃            │                              │                      ┃        ┃            ┃                ┃      ┃\n┠────┼────╂──────┼───────────────┼───────────╂────╂──────╂────────╂───┨\n┃        │        ┃            │                              │                      ┃        ┃            ┃                ┃      ┃\n┠────┼────╂──────┼───────────────┼───────────╂────╂──────╂────────╂───┨\n┃        │        ┃            │                              │                      ┃        ┃            ┃                ┃      ┃\n┠────┼────╂──────┼───────────────┼───────────╂────╂──────╂────────╂───┨\n┃        │        ┃            │                              │                      ┃        ┃            ┃                ┃      ┃\n┣━━━━┿━━━━╋━━━━━━┿━━━━━━━━━━━━━━━┿━━━━━━━━━━━╋━━━━╋━━━━━━╋━━━━━━━━╋━━━┫\n┃        │        ┃            │                              │                      ┃        ┃            ┃                ┃      ┃\n┠────┼────╂──────┼───────────────┼───────────╂────╂──────╂────────╂───┨\n┃        │        ┃            │                              │                      ┃        ┃            ┃                ┃      ┃\n┠────┼────╂──────┼───────────────┼───────────╂────╂──────╂────────╂───┨\n┃        │        ┃            │                              │                      ┃        ┃            ┃                ┃      ┃\n┣━━━━┿━━━━╋━━━━━━┿━━━━━━━━━━━━━━━┿━━━━━━━━━━━╋━━━━╋━━━━━━╋━━━━━━━━╋━━━┫\n┃        │        ┃            │                              │                      ┃        ┃            ┃                ┃      ┃\n┠────┴────┸──────┴───────────────┴───────────┸────┸──────┸────────┸───┨\n┃환수상계액, 환급금 등 정산 내역                                                                                                           ┃\n┠─────────┰──────┬────┬──────────┬────────────┬──────────┰────────────┨\n┃해당 시도명칭     ┃성  명      │진료일자│임신?출산          │진료확인번호            │취소번호            ┃사  유                  ┃\n┃                  ┃            │        │진료비              │                        │                    ┃                        ┃\n┠────┬────╂──────┼────┼──────────┼────────────┼──────────╂────────────┨\n┃        │        ┃            │        │                    │                        │                    ┃                        ┃\n┣━━━━┿━━━━╋━━━━━━┿━━━━┿━━━━━━━━━━┿━━━━━━━━━━━━┿━━━━━━━━━━╋━━━━━━━━━━━━┫\n┃        │        ┃            │        │                    │                        │                    ┃                        ┃\n┗━━━━┷━━━━┻━━━━━━┷━━━━┷━━━━━━━━━━┷━━━━━━━━━━━━┷━━━━━━━━━━┻━━━━━━━━━━━━┛\n┏━━━━┓\n국민건강보험공단이사장┃직인생략┃\n┗━━━━┛\n\n297㎜×210㎜(일반용지 60ｇ/㎡(재활용품))\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117894221",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117894221",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:급여비용의예탁및지급에관한규정#BJ0009",
+      "filename": "별지9_임신·출산 진료비용 지급통보서(의료급여기관용).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0010",
+      "branch": "00",
+      "kind": "별지",
+      "title": "임신·출산 진료비용 개인별 지급통보서(의료급여기관용)",
+      "enforcement_date": "",
+      "content": "\n(별지 제10호 서식)\n\n임신?출산 진료비용 개인별 지급통보서(의료급여기관용)\n\n\n┌────────┬─┐\n│①지급 구분     │  │\n├────────┼─┤                                                                              │\n│의료급여기관기호│  │\n└────────┴─┘\n\n┏━━┯━━━━━━┯━━━━━━┯━━━━━┯━━━━┯━━━━━━┯━━━━━━━━━━┯━━━━┓\n┃연번│지급차수    │해당시도명칭│수진자성명│진료일자│진료확인번호│임신?출산 진료비용 │비   고 ┃\n┠──┼──────┼──────┼─────┼────┼──────┼──────────┼────┨\n┃    │            │            │          │        │            │                    │        ┃\n┠──┼──────┼──────┼─────┼────┼──────┼──────────┼────┨\n┃    │            │            │          │        │            │                    │        ┃\n┠──┼──────┼──────┼─────┼────┼──────┼──────────┼────┨\n┃    │            │            │          │        │            │                    │        ┃\n┠──┼──────┼──────┼─────┼────┼──────┼──────────┼────┨\n┃    │            │            │          │        │            │                    │        ┃\n┠──┼──────┼──────┼─────┼────┼──────┼──────────┼────┨\n┃    │            │            │          │        │            │                    │        ┃\n┠──┼──────┼──────┼─────┼────┼──────┼──────────┼────┨\n┃    │            │            │          │        │            │                    │        ┃\n┠──┼──────┼──────┼─────┼────┼──────┼──────────┼────┨\n┃    │            │            │          │        │            │                    │        ┃\n┠──┼──────┼──────┼─────┼────┼──────┼──────────┼────┨\n┃    │            │            │          │        │            │                    │        ┃\n┠──┼──────┼──────┼─────┼────┼──────┼──────────┼────┨\n┃    │            │            │          │        │            │                    │        ┃\n┠──┼──────┼──────┼─────┼────┼──────┼──────────┼────┨\n┃    │            │            │          │        │            │                    │        ┃\n┠──┼──────┼──────┼─────┼────┼──────┼──────────┼────┨\n┃    │            │            │          │        │            │                    │        ┃\n┠──┼──────┼──────┼─────┼────┼──────┼──────────┼────┨\n┃    │            │            │          │        │            │                    │        ┃\n┠──┼──────┼──────┼─────┼────┼──────┼──────────┼────┨\n┃    │            │            │          │        │            │                    │        ┃\n┠──┼──────┼──────┼─────┼────┼──────┼──────────┼────┨\n┃    │            │            │          │        │            │                    │        ┃\n┠──┼──────┼──────┼─────┼────┼──────┼──────────┼────┨\n┃    │            │            │          │        │            │                    │        ┃\n┠──┼──────┼──────┼─────┼────┼──────┼──────────┼────┨\n┃    │            │            │          │        │            │                    │        ┃\n┠──┼──────┼──────┼─────┼────┼──────┼──────────┼────┨\n┃    │            │            │          │        │            │                    │        ┃\n┠──┼──────┼──────┼─────┼────┼──────┼──────────┼────┨\n┃    │            │            │          │        │            │                    │        ┃\n┠──┼──────┼──────┼─────┼────┼──────┼──────────┼────┨\n┃    │            │            │          │        │            │                    │        ┃\n┗━━┷━━━━━━┷━━━━━━┷━━━━━┷━━━━┷━━━━━━┷━━━━━━━━━━┷━━━━┛\n┏━━━━┓\n국민건강보험공단이사장┃직인생략┃\n┗━━━━┛\n\n297㎜×210㎜(일반용지 60ｇ/㎡(재활용품))\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117894225",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117894225",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:급여비용의예탁및지급에관한규정#BJ0010",
+      "filename": "별지10_임신·출산 진료비용 개인별 지급통보서(의료급여기관용).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0011",
+      "branch": "00",
+      "kind": "별지",
+      "title": "임신·출산 진료비용 지급결과 통보서(보장기관용)",
+      "enforcement_date": "",
+      "content": "\n(별지 제11호 서식)\n\n임신?출산 진료비용 지급결과 통보서(보장기관용)\n\n보장기관명칭 :\n공단지급차수 :\n공단 지급결정일 :\n\n\n┏━━━━┯━━━━━━━━━━━━━━━━━━┯━━━━━┯━━━┯━━━━━┯━━━━┯━━━━┓\n┃이전차수│임신?출산 진료비용 지급결정 내역   │환수상계액│환급액│예탁금부족│당 차 수│지 급 액┃\n┃미지급금├──┬──────────┬────┤          │      │미지급금  │실지급액│합    계┃\n┃지 급 액│건수│임신?출산 진료비용 │절사금액│          │      │          │        │        ┃\n┠────┼──┼──────────┼────┼─────┼───┼─────┼────┼────┨\n┃        │    │                    │        │          │      │          │        │        ┃\n┗━━━━┷━━┷━━━━━━━━━━┷━━━━┷━━━━━┷━━━┷━━━━━┷━━━━┷━━━━┛\n┏━━━━┓\n국민건강보험공단이사장┃직인생략┃\n┗━━━━┛\n\n297㎜×210㎜(일반용지 60ｇ/㎡(재활용품))\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117894229",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=117894229",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:급여비용의예탁및지급에관한규정#BJ0011",
+      "filename": "별지11_임신·출산 진료비용 지급결과 통보서(보장기관용).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "「급여비용의 예탁 및 지급에 관한 규정」 일부개정 고시(전문)(제2020-227호, 2020.10.8.).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=79550461",
+      "file_store_url": "",
+      "filename": "「급여비용의 예탁 및 지급에 관한 규정」 일부개정 고시(전문)(제2020-227호, 2020.10.8.).hwp"
+    },
+    {
+      "name": "(양식)조문별제개정이유서_행정규칙_급여비용의 예탁 및 지급에 관한 규정.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=79550463",
+      "file_store_url": "",
+      "filename": "(양식)조문별제개정이유서_행정규칙_급여비용의 예탁 및 지급에 관한 규정.hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 39,
+    "by_category": {
+      "법령": 16,
+      "행정규칙": 13,
+      "별지": 10
+    },
+    "by_relation_type": {
+      "citation": 17,
+      "internal_ref": 12,
+      "appendix_ref": 10
+    },
+    "articles_total": 31,
+    "articles_with_relations": 18,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 7,
+    "appendices_count": 11,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/급여비용의 예탁 및 지급에 관한 규정"
+  },
+  "provision_id": "admrul:급여비용의예탁및지급에관한규정#DOC"
+}
