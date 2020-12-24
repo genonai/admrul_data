@@ -1,0 +1,1746 @@
+{
+  "law_id": "2200000117971",
+  "mst": "2200000117971",
+  "law_name": "서울물재생시설공단 회계규정",
+  "law_abbr": "",
+  "law_type": "공단규정",
+  "doc_target": "public",
+  "doc_kind": "공공기관",
+  "adm_uid": "public:2200000117971",
+  "promulgation_no": "13",
+  "promulgation_date": "20201224",
+  "enforcement_date": "20201224",
+  "revision_date": "20201224",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "기획조정팀",
+    "담당자명": "고준호",
+    "행정규칙종류코드": "B0029",
+    "행정규칙명": "서울물재생시설공단 회계규정",
+    "발령일자": "20201224",
+    "행정규칙종류": "공단규정",
+    "제개정구분코드": "200401",
+    "조문형식여부": "Y",
+    "소관부처명": "서울물재생시설공단",
+    "전화번호": "02-3410-9733",
+    "제개정구분명": "제정",
+    "소관부처코드": "B554408",
+    "생성일자": "20230810",
+    "행정규칙ID": "2127643",
+    "담당부서기관코드": "",
+    "발령번호": "13",
+    "행정규칙일련번호": "2200000117971"
+  },
+  "amendment_text": "",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 142,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장  총   칙",
+        "content": "제1조(목적) 이 규정은 「지방공기업법」 (이하 “공기업법”이라 한다)과 「서울특별시 서울물재생시설공단 설립 및 운영에 관한 조례」(이하 “조례”라 한다)에 의거 서울물재생시설공단(이하 “공단”이라 한다)의 재무 및 회계에 관한 운영절차와 적정한 회계절차를 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「지방공기업법」",
+            "line_text": "",
+            "target_law_name": "지방공기업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/지방공기업법",
+            "resolve_method": "render",
+            "source_provision_id": "public:서울물재생시설공단회계규정#JO0001",
+            "reference_id": "law:지방공기업법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「서울특별시 서울물재생시설공단 설립 및 운영에 관한 조례」",
+            "line_text": "",
+            "target_law_name": "서울특별시 서울물재생시설공단 설립 및 운영에 관한 조례",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/서울특별시 서울물재생시설공단 설립 및 운영에 관한 조례",
+            "resolve_method": "render",
+            "source_provision_id": "public:서울물재생시설공단회계규정#JO0001",
+            "reference_id": "law:서울특별시서울물재생시설공단설립및운영에관한조례#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적용범위",
+        "chapter": "제1장  총   칙",
+        "content": "제2조(적용범위) ① 공단의 회계처리는 관계 법령에 특별히 정한 경우를 제외하고는 이 규정의 정하는 바에 의한다. 그 이외에는 일반기업회계기준(이하 “기업회계기준”이라 한다) 또는 일반적으로 공정타당하다고 인정되는 회계관습에 따른다.② 본 규정의 적용범위는 내규로 정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "회계년도",
+        "chapter": "제1장  총   칙",
+        "content": "제3조(회계년도) 공단의 회계년도는 매년 1월1일부터 12월31일까지로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "회계년도 소속 구분",
+        "chapter": "제1장  총   칙",
+        "content": "제4조(회계년도 소속 구분) 수익 및 비용의 계상과 자산, 부채 및 자본의 증감 변동에 관하여는 그 원인이 되는 사실이 발생한 날 또는 실현된 날을 기준으로 하여 연도소속을 구분한다. 다만, 그 사실이 발생한 날을 정할 수 없는 경우에는 그 사실을 확인한 날 또는 실현된 날을 기준으로 하여 연도소속을 구분한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "회계처리의 기준",
+        "chapter": "제1장  총   칙",
+        "content": "제5조(회계처리의 기준) 공단의 회계처리 및 보고는 다음 각 호에 의한다.1. 회계처리 및 보고는 신뢰할 수 있도록 객관적인 자료와 증거에 의하여 공정하게 처리하여야 한다.2. 재무제표의 양식 및 과목과 회계용어는 이해하기 쉽도록 간단명료하게 처리하여야 한다.3. 중요한 회계방침과 회계처리기준, 과목 및 금액에 관하여는 그 내용을 재무제표상에 충분히 표시하여야 한다.4. 회계처리에 관한 기준 및 추정은 기간별 비교가 가능하도록 매기 계속하여 적용하고 정당한 사유없이 이를 변경하여서는 아니된다.5. 회계처리와 재무제표 작성에 있어서 과목과 금액은 그 중요성에 따라 실용적인 방법에 의하여 결정하여야 한다.6. 회계처리과정에서 2 이상의 선택가능한 방법이 있는 경우에는 재무적 기초를 견고히 하는 관점에 따라 처리하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "회계단위",
+        "chapter": "제1장  총   칙",
+        "content": "제6조(회계단위) ① 공단의 회계단위는 총계정원장의 설치단위로 한다.② 각 회계단위의 총괄은 본사의 회계총괄부서에서 한다.③ 제1항에 규정한 회계단위 이외의 소속회계는 직제에 따라 소속된 회계단위에서 관장한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "회계 관계업무의 위임",
+        "chapter": "제1장  총   칙",
+        "content": "제7조(회계 관계업무의 위임) ① 이사장은 회계업무를 수행하기 위하여 필요하다고 인정할 때에는 회계업무 에 관한 사무를 위임할 수 있다.② 제1항의 규정에 의한 사무의 위임은 그 직을 지정함으로서 이에 갈음할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "회계담당",
+        "chapter": "제1장  총   칙",
+        "content": "제8조(회계담당) ①회계에 관한 독립의 업무를 담당하기 위하여 회계단위별로 다음의 회계담당을 둘 수 있다.1. 수입에 관한 업무를 담당하는 수입담당2. 지출에 관한 업무를 담당하는 지출담당3. 계약, 기타의 지출원인행위를 담당하는 지출원인행위 담당 또는 계약을 담당하는 계약담당4. 유가증권을 관리하는 유가증권 관리담당5. 재고자산, 비유동자산 및 물품 기타자산을 관리하는 각 자산관리 담당② 제1항의 규정에 의한 회계담당은 대리 또는 분임대리를 둘 수 있다.③ 제1항 제1호와 제2호 및 제2호와 제3호의 회계담당은 겸직할 수 없다. 다만, 정원의 과소등으로 겸직이 불가피할 경우에는 그러하지 아니할 수 있다.④ 제1항 각 호의 회계담당은 내규로 정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "회계관계직의 임면 통보",
+        "chapter": "제1장  총   칙",
+        "content": "제9조(회계관계직의 임면 통보) 회계관계직의 임면이 있는 때에는 필요한 거래점 등 관계기관에 그 사실을 즉시 통보하고 필요한 조치를 취하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "회계관계직원의 직인사용 등",
+        "chapter": "제1장  총   칙",
+        "content": "제10조(회계관계직원의 직인사용 등) ① 제8조의 규정에 의한 회계담당은 회계업무를 처리함에 있어서 그 업무 또는 직무를 표시하는 인장(이하 직인 이라 한다)을 사용할 수 있다.② 직인의 사용절차 등에 관한 사항은 문서규정이 정하는 바에 의한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "제8조",
+            "line_text": "",
+            "target_law_name": "서울물재생시설공단 회계규정",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/서울물재생시설공단 회계규정/제8조",
+            "resolve_method": "render",
+            "source_provision_id": "public:서울물재생시설공단회계규정#JO0010",
+            "reference_id": "public:서울물재생시설공단회계규정#JO0008"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "회계서류 보관",
+        "chapter": "제1장  총   칙",
+        "content": "제11조(회계서류 보관) 회계서류의 보관, 열람, 보존, 편철, 대출 및 복사는 문서규정의 정하는 바에 준한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "시행내규",
+        "chapter": "제1장  총   칙",
+        "content": "제12조(시행내규) 이 규정의 시행에 필요한 사항은 내규로 정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "거래의 처리",
+        "chapter": "제1절  통   칙",
+        "content": "제13조(거래의 처리) 모든 거래는 전표에 의하여 처리되어야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "계정과목",
+        "chapter": "제1절  통   칙",
+        "content": "제14조(계정과목) ① 계정과목은 손익계산서 계정과 재무상태표 계정으로 구분한다.② 계정과목은 중요성의 원칙에 따라 설정하고 명료성, 계속성, 비교성이 유지되어야 한다.③ 계정과목의 배열 및 해소는 기업회계기준에 정하는 바에 의한다.④ 계정과목은 회계년도 중에는 특별한 경우를 제외하고는 개정할 수 없다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "계산의 원칙",
+        "chapter": "제2절  회계기준과 절차",
+        "content": "제15조(계산의 원칙) 계산은 다음 각 호의 원칙에 의한다.1. 비용은 발생사실에 의하여 계상한다.2. 수익은 발생사실에 근거하여 실현시기를 기준으로 계상한다.3. 손익계산은 포괄주의에 의한다. 다만, 당기의 경영성과를 명백히 하기 위하여 당기업적주의에 의거 경상손익을 구분 계산하여야 한다.4. 자산가액은 특별한 경우를 제외하고는 취득가액에 의한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "수익과 비용의 대응",
+        "chapter": "제2절  회계기준과 절차",
+        "content": "제16조(수익과 비용의 대응) 손익계산은 경영성과를 명확히 하기 위하여 비용과 수익을 그 발생원칙에 따라 분류하고 발생한 기간에 정당하게 배분되도록 수익과 이에 대응하는 모든 비용을 정확히 계상하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "총액계상",
+        "chapter": "제2절  회계기준과 절차",
+        "content": "제17조(총액계상) ① 비용과 수익은 총액에 의하여 계상하여야 하며, 비용항목과 수익항목을 직접 상계함으로써 그 전부 또는 일부를 손익계상에서 제외하여서는 아니 된다.② 자산, 부채 및 자본은 총액에 의하여 계상함을 원칙으로 하고 자산의 항목과 부채 또는 자본의 항목을 상계함으로써 그 전부 또는 일부를 재무상태표에서 제외하여서는 아니 된다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "자본적 지출과 수익적 지출의 구분",
+        "chapter": "제2절  회계기준과 절차",
+        "content": "제18조(자본적 지출과 수익적 지출의 구분) 자본적 지출과 수익적 지출의 구분이 분명하지 아니한 경우에는 「법인세법」에 정하는 바에 의하여 구분한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제18조",
+            "source_clause": "제18조",
+            "link_text": "「법인세법」",
+            "line_text": "",
+            "target_law_name": "법인세법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/법인세법",
+            "resolve_method": "render",
+            "source_provision_id": "public:서울물재생시설공단회계규정#JO0018",
+            "reference_id": "law:법인세법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "종류",
+        "chapter": "제3절  전   표",
+        "content": "제19조(종류) ① 전표는 입금전표, 출금전표, 대체전표로 구분한다.② 전표의 기표 등 세부절차는 내규로 정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "종류",
+        "chapter": "제4절  장   부",
+        "content": "제20조(종류) ① 회계장부는 주요부와 보조부로 구분한다.② 주요부는 총계정원장으로 하고 보조부는 각 계정원장 및 명세장으로 한다. 다만, 전표 및 일계표를 일자순으로 철하여 분개장에 갈음할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "전산화에 따른 회계장부의 생략",
+        "chapter": "제4절  장   부",
+        "content": "제21조(전산화에 따른 회계장부의 생략) ① 회계업무의 전산화에 따라 이 규정에 따른 장부의 비치 등은 생략할 수 있다.② 제1항의 규정에 따라 장부의 비치를 생략한 경우에도 감독기관이나 이해관계자의 요구가 있으면 회계 장부와 내용이 동일한 대용장부를 신속히 제공할 수 있는 필요한 조치를 취하여야 한다.③ 제1항의 규정에 의하여 생략할 수 있는 장부의 종류는 내규로 정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "장부의 기재요령 등",
+        "chapter": "제4절  장   부",
+        "content": "제22조(장부의 기재요령 등) 장부의 기입, 마감, 폐쇄, 갱신, 이월, 오기, 정정, 검열요령 등에 관하여는 내규로 정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "증빙서류의 범위",
+        "chapter": "제5절  증빙서",
+        "content": "제23조(증빙서류의 범위) ① 증빙서류는 거래사실의 경위를 입증하며 기장의 증거가 되는 서류로서 그 범위 는 제25조의 각 호를 말한다.② 제1항에 의하여 정하지 아니한 증빙서라 할지라도 특히 필요하다고 인정되는 경우에는 이를 증빙서로 첨부하여야 한다.③ 증빙서류의 부기증명을 요하는 사항은 관계증빙서류의 여백에 주기하고 날인 한다.④ 증빙서류는 원본으로 구비하여야 한다. 다만 원본에 의하기가 곤란한 경우에는 그 사본으로 갈음하고 원본대조자가 이에 확인표시를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제23조",
+            "source_clause": "제23조제1항",
+            "link_text": "제25조",
+            "line_text": "",
+            "target_law_name": "서울물재생시설공단 회계규정",
+            "target_article_no": "제25조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/서울물재생시설공단 회계규정/제25조",
+            "resolve_method": "render",
+            "source_provision_id": "public:서울물재생시설공단회계규정#JO0023",
+            "reference_id": "public:서울물재생시설공단회계규정#JO0025"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "증빙서류의 생략",
+        "chapter": "제5절  증빙서",
+        "content": "제24조(증빙서류의 생략) ① 오기정정 또는 결산시 계정간 대체 등과 같이 단순히 계산적 조작의 필요에 의 하여 발생한 준거래에 있어서는 그 전표로써 증빙서류에 갈음할 수 있다. 다만, 이 경우에는 전표의 적요란에 사유 및 산출내역을 기재하여야 한다.② 급여대장, 인부사역부 등 지출에 필요한 증빙서류를 첨부하기 곤란한 경우에는 지출결의서의 적요란에 대조필로서 갈음할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "증빙서류의 작성",
+        "chapter": "제5절  증빙서",
+        "content": "제25조(증빙서류의 작성) 증빙서류는 다음 각 호에 의하여 작성하여야 한다.1. 지출결의서가. 지출결의서의 지출금액은 정정하지 못한다.나. 적요란에는 지급의 뜻, 공사명, 품명 및 수량, 산출내역, 부분급 내용과 지급회수, 선금급및 개산급의 표시 등 필요한 사항을 명기하여야 한다.다. 금액은 한문 또는 한글로 표시하여야 한다.2. 영수증서가. 정당한 채권자가 지출결의서의 영수란에 기명 날인하거나 합계금액의 정정이 없는 별지 영수증서(입금표 포함)에 기명날인한 것이어야 한다.나. 채권자, 또는 채권자가 지정하는 자가 지정하는 예금계좌 또는 우편대체계좌에 지급하는 경우에는 금융기관이 발행하는 입금증명 또는 체신관서가 발행하는 영수증을 가목에 의한 영수증으로 본다.다. 신용카드를 사용하는 사업체에 지급하는 접대성 경비는 원칙적으로 신용카드를 사용하여야 한다.3. 청구서가. 청구서의 합계금액은 정정하지 못하며, 그 명세는 계약서 등 다른 관계서류의 명세와 일치하여야 한다.4. 계약서가. 계약서의 합계금액은 정정하지 못한다.나. 계약서와 그 부속서류는 그 내용이 서로 부합되어야 한다.5. 기타 증빙서류가. 기타 증빙서류의 작성에 관하여 필요한 사항은 회계관행에 따른다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0025"
+      },
+      {
+        "article_no": "제26조",
+        "article_title": "금전의 범위",
+        "chapter": "제1절  통   칙",
+        "content": "제26조(금전의 범위) ① 금전은 현금, 예금, 수표, 우편환증서를 말한다.② 당일로 현금화할 수 있는 어음과 기타 유가증권 등 제증서도 금전에 준하여 취급한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0026"
+      },
+      {
+        "article_no": "제27조",
+        "article_title": "금전수납사무의 대행",
+        "chapter": "제1절  통   칙",
+        "content": "제27조(금전수납사무의 대행) 이사장은 금융기관을 지정하여 금전의 수납에 관한 사무를 대행하게 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0027"
+      },
+      {
+        "article_no": "제28조",
+        "article_title": "출납마감",
+        "chapter": "제1절  통   칙",
+        "content": "제28조(출납마감) 출납의 마감시간은 내규로 정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0028"
+      },
+      {
+        "article_no": "제29조",
+        "article_title": "금전의 과부족처리",
+        "chapter": "제1절  통   칙",
+        "content": "제29조(금전의 과부족처리) ① 금전의 부족을 발견하였을 때에는 즉시 해당금액을 가지급으로 처리하고 그 경위를 조사하여 이사장과 감사에게 보고하여야 한다.② 제1항의 가지급 처리 후 1월이 경과하여도 그 원인을 발견하지 못한 때에는 취급자가 즉시 변상조치를 하여야 한다.③ 금전의 과여를 발견하였을 때에는 가수금으로 처리하고 그 원인을 규명하여 정리하여야 한다.④ 제3항의 가수금 처리 후 3월이 경과하여도 그 내용이 판명되지 아니한 때에는 이사장에게 보고하고 영업외수익으로 처리한다.⑤ 제1항 및 제4항 중 다음 각 호의 경우에는 회계총괄부서장에게 보고하는 것으로 갈음할 수 있다.1. 사전에 재무팀과 협의를 거친 자동이체에 의해 발생한 금전의 부족2. 100만원 미만의 금액",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0029"
+      },
+      {
+        "article_no": "제30조",
+        "article_title": "자금의 차입",
+        "chapter": "제1절  통   칙",
+        "content": "제30조(자금의 차입) 자금의 차입, 상환, 대여 및 투자와 지급보증행위는 이사회의 의결을 거쳐 이사장의 명의로 행한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0030"
+      },
+      {
+        "article_no": "제31조",
+        "article_title": "수입사무의 분리",
+        "chapter": "제2절  수   입",
+        "content": "제31조(수입사무의 분리) ① 공단의 자체수입에 해당하는 사무를 위하여 납입의 고지 등 징수결정은 각 부서별로 하고 입금은 예금계좌로 입금함을 원칙으로 한다.② 정부 또는 지방자치단체의 대행사업에 따른 수입금 처리 등은 지방공기업 예산편성기준 및 해당기관과의 협약 등에 따른다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0031"
+      },
+      {
+        "article_no": "제32조",
+        "article_title": "수입금의 징수",
+        "chapter": "제2절  수   입",
+        "content": "제32조(수입금의 징수) ① 수입금을 징수 결정하고자 할 때에는 수입결의서에 의하여야 하며 납입의무자에게 납입고지서를 발부하여야 한다.② 다음 각 호의 경우에는 납입고지서에 의하지 아니하고 수납할 수 있다.1. 위약금 및 해약금2. 변상금3. 과태료4. 반납금5. 이자수입6. 기타 관계법령 및 계약 등에 의한 확정수입",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0032"
+      },
+      {
+        "article_no": "제33조",
+        "article_title": "전자적 고지",
+        "chapter": "제2절  수   입",
+        "content": "제33조(전자적 고지) ①납입고지서 등은 「전자정부법」 및 같은법 시행령의 규정에 따라 정보통신망을 이용한 전자적 방법에 의하여 고지·통지할 수 있다.② 징수관은 법령 등에서 임대료·사용료·과태료 및 과징금 등을 현금·수입인지 그 밖의 형태로 납부하도록 규정하고 있는 경우에도 「전자정부법」 및 같은법 시행령의 규정에 의한 정보통신망을 이용하여 이를 납부하게 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제33조",
+            "source_clause": "제33조제1항",
+            "link_text": "같은법 시행령",
+            "line_text": "",
+            "target_law_name": "전자정부법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전자정부법 시행령",
+            "resolve_method": "render",
+            "source_provision_id": "public:서울물재생시설공단회계규정#JO0033",
+            "reference_id": "law:전자정부법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제33조",
+            "source_clause": "제33조제2항",
+            "link_text": "같은법 시행령",
+            "line_text": "",
+            "target_law_name": "전자정부법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전자정부법 시행령",
+            "resolve_method": "render",
+            "source_provision_id": "public:서울물재생시설공단회계규정#JO0033",
+            "reference_id": "law:전자정부법시행령#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0033"
+      },
+      {
+        "article_no": "제34조",
+        "article_title": "납입고지의 기한",
+        "chapter": "제2절  수   입",
+        "content": "제34조(납입고지의 기한) ① 법령 또는 계약 등의 정하는 바에 의하여 납입기한이 정하여진 수입금을 납입고지할 때에는 납입개시 5일전에 납입고지서를 발행하여야 한다.② 납입고지서의 납입기한은 특별한 사유가 있는 경우를 제외하고는 고지일로부터 15일 이내로 한다.③ 납입기한이 공휴일인 경우에는 그 다음날로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0034"
+      },
+      {
+        "article_no": "제35조",
+        "article_title": "장부정리",
+        "chapter": "제2절  수   입",
+        "content": "제35조(장부정리) 수입금을 징수결정하고 납입고지서를 발부하였을 때에는 수입금 징수부에 기재하여 수입금 징수의 전말을 명백히 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0035"
+      },
+      {
+        "article_no": "제36조",
+        "article_title": "납입영수증 보관",
+        "chapter": "제2절  수   입",
+        "content": "제36조(납입영수증 보관) 수입금이 납입되었을 때에는 일계표, 납입고지서 원본, 납입영수증서, 거래점과의 대조확인서 등을 증빙서류로 보관하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0036"
+      },
+      {
+        "article_no": "제37조",
+        "article_title": "과오납금 처리",
+        "chapter": "제2절  수   입",
+        "content": "제37조(과오납금 처리) 수입담당자는 다음 각 호의 사유로 인하여 수입금이 과오납된 사실을 발견하였을 때에는 지체 없이 수입금에 환급조치를 취하여야 한다.1. 수입금 납입고지서 또는 수입금 납부서의 오기로 인한 때2. 수입금 납입고지서의 중복발행으로 인한 때3. 수입금 납입고지서의 기재금액보다 초과징수하였을 때",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0037"
+      },
+      {
+        "article_no": "제38조",
+        "article_title": "납입의 독촉",
+        "chapter": "제2절  수   입",
+        "content": "제38조(납입의 독촉) 납입기한이 경과하여도 납입하지 아니하는 납입의무자에 대하여는 납기 경과후 15일 이내에 독촉장을 발행한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0038"
+      },
+      {
+        "article_no": "제39조",
+        "article_title": "불납한 경우의 처리",
+        "chapter": "제2절  수   입",
+        "content": "제39조(불납한 경우의 처리) 불납한 내용을 조사한 결과 납입의 가망이 없거나 납입을 태만히 한 자에 대하여는 다음 각 호와 같이 처리한다.1. 검사원의 변상 판정분에 대하여는 국세체납분의 예에 의하여 처리한다.2. 기타의 수입에 대하여는 체납자 또는 재정보증인의 재산상황 등을 조사하여 제소 등의 절차를 취한다.3. 해당 보증금이 있을 경우에는 보증금과 상계한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0039"
+      },
+      {
+        "article_no": "제40조",
+        "article_title": "불납금의 결손처리",
+        "chapter": "제2절  수   입",
+        "content": "제40조(불납금의 결손처리) 시효의 완성 등 사유로 인하여 징수결정액에 대한 불납금을 결손처리 하고자 할 때에는 이사회의 의결을 받아야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0040"
+      },
+      {
+        "article_no": "제41조",
+        "article_title": "금전지출의 원칙",
+        "chapter": "제3절  지   출",
+        "content": "제41조(금전지출의 원칙) ① 지출은 수표 및 현금에 의하여 수취인별로 채권자가 지정하는 금융기관의 예금계좌 또는 체신관서의 우편대체계좌에 입금함을 원칙으로 한다. 다만, 다음 각 호에 해당하는 경우에는 그러하지 아니 할 수 있다.1. 계좌입금이 불가능한 경우2. 인건비, 여비, 기관상용의 경비를 지출하는 경우3. 1건당 10만원 미만을 지출하는 경우",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0041"
+      },
+      {
+        "article_no": "제42조",
+        "article_title": "지출원인행위의 준칙",
+        "chapter": "제3절  지   출",
+        "content": "제42조(지출원인행위의 준칙) 지출원인행위는 예산범위내에서 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0042"
+      },
+      {
+        "article_no": "제43조",
+        "article_title": "지출원인행위 결의서 작성",
+        "chapter": "제3절  지   출",
+        "content": "제43조(지출원인행위 결의서 작성) 지출원인행위를 할 때에는 지출결의서를 작성하여야 한다. 다만, 지출결의서에 의하기 곤란한 경우에는 내부결재 문서로써 이에 갈음할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0043"
+      },
+      {
+        "article_no": "제44조",
+        "article_title": "지출원인행위의 증감, 취소",
+        "chapter": "제3절  지   출",
+        "content": "제44조(지출원인행위의 증감, 취소) 지출원인행위자는 계약의 해제, 계약금액의 변경 등으로 인하여 그 지출 원인 행위액을 취소하거나 증감하고자 할 때에는 당초의 지출원인행위 취소결의서 또는 지출원인행위 증감결의서를 작성하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0044"
+      },
+      {
+        "article_no": "제45조",
+        "article_title": "지출원인행위 서류의 송부",
+        "chapter": "제3절  지   출",
+        "content": "제45조(지출원인행위 서류의 송부) 지출원인 행위자는 지출원인행위가 끝나면 지출원인행위 관계서류를 지출담당에게 송부하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0045"
+      },
+      {
+        "article_no": "제46조",
+        "article_title": "지출원인행위 서류의 심사",
+        "chapter": "제3절  지   출",
+        "content": "제46조(지출원인행위 서류의 심사) ① 지출담당은 지출원인행위자로부터 지출원인행위 관계서류를 받았을 때에는 이를 심사하여야 한다.② 제1항의 심사결과 부적정한 때에는 관계서류를 지출원인행위자에 반송하여 그 시정을 요구하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0046"
+      },
+      {
+        "article_no": "제47조",
+        "article_title": "지출증빙서의 검사보고",
+        "chapter": "제3절  지   출",
+        "content": "제47조(지출증빙서의 검사보고) 이사장은 지출업무의 적정을 유지하기 위하여 수시로 지출에 관한 증빙서를 검사하게 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0047"
+      },
+      {
+        "article_no": "제48조",
+        "article_title": "선금급과 개산급의 지급",
+        "chapter": "제3절  지   출",
+        "content": "제48조(선금급과 개산급의 지급) ① 지출담당은 업무의 성질상 필요하다고 인정된 경우에 한하여 선금급 또는 개산급을 지급할 수 있다.② 지출담당은 선금급 또는 개산급의 지급에 따른 업무가 완료되면 이를 정산하고 선금급 또는 개산급을 정리하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0048"
+      },
+      {
+        "article_no": "제49조",
+        "article_title": "선금급의 지급범위",
+        "chapter": "제3절  지   출",
+        "content": "제49조(선금급의 지급범위) 선금급으로 지급할 수 있는 경비는 다음 각 호와 같다.1. 외국에서 직접 구입하는 기계, 도서, 표본 또는 실험용 재료의 대가2. 보험료3. 정기간행물의 대가4. 토지 또는 건물의 임대료와 용선료5. 운임6. 국가, 지방자치단체 또는 다른 투자기관에 대하여 지급하는 경비7. 외국에서 연구, 연수 또는 종사하는 자에 대하여 지급하는 제경비8. 위탁비, 사례금9. 공단이 매수하거나 수용하는 토지 또는 그 토지상에 있는 물건의 대금, 보상금 또는 이전료10. 공단에 초청한 외국인에게 국내에서 지급하는 경비11. 기타 이사장의 승인을 받은 경비",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0049"
+      },
+      {
+        "article_no": "제50조",
+        "article_title": "개산급의 지급범위",
+        "chapter": "제3절  지   출",
+        "content": "제50조(개산급의 지급범위) 개산급을 지급할 수 있는 범위는 다음 각 호와 같다.1. 여비 및 접대비2. 국가기관 또는 다른 정부 투자기관에 대하여 지급하는 경비3. 기타 기준을 정하여 이사장의 승인을 받은 경비",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0050"
+      },
+      {
+        "article_no": "제51조",
+        "article_title": "잔고 조회",
+        "chapter": "제3절  지   출",
+        "content": "제51조(잔고 조회) 자금업무를 수행하는 직원은 년2회 이상 거래점의 잔고증명을 받아 예금원장과 대조하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0051"
+      },
+      {
+        "article_no": "제52조",
+        "article_title": "유가증권의 취득",
+        "chapter": "제4절  유가증권 취급",
+        "content": "제52조(유가증권의 취득) 유가증권의 취득, 매도, 상환, 담보 제공 등을 할 때에는 종별, 수량, 금액 및 사유를 표시하여 이사회의 결의를 거쳐야 한다. 다만, 이사회의 위임을 받은 경우에는 그러하지 아니한다",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0052"
+      },
+      {
+        "article_no": "제53조",
+        "article_title": "유가증권의 관리",
+        "chapter": "제4절  유가증권 취급",
+        "content": "제53조(유가증권의 관리) ① 유가증권은 소유유가증권과 보관유가증권으로 구분하고 금전에 관한 규정을 준용하여 관리한다.② 이행보증보험증권 및 지급보증서는 보관유가증권에 준하여 별도 관리하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0053"
+      },
+      {
+        "article_no": "제54조",
+        "article_title": "유가증권의 가액",
+        "chapter": "제4절  유가증권 취급",
+        "content": "제54조(유가증권의 가액) ① 소유유가증권의 장부가액은 취득가액으로 한다. 다만, 선이자를 공제한 가액으로 취득한 경우에는 공제한 가액을 취득가액으로 한다.② 보관유가증권의 장부가액은 액면가액으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0054"
+      },
+      {
+        "article_no": "제55조",
+        "article_title": "유가증권 관리대장의 비치",
+        "chapter": "제4절  유가증권 취급",
+        "content": "제55조(유가증권 관리대장의 비치) 유가증권 관리 담당은 유가증권의 관리에 관한 장부를 비치하고 거래의 내용을 기록, 보관하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0055"
+      },
+      {
+        "article_no": "제56조",
+        "article_title": "자산의 구분",
+        "chapter": "제1절  통   칙",
+        "content": "제56조(자산의 구분) ① 자산은 유동자산, 비유동자산으로 분류한다.② 자산은 업무용 자산과 비업무용 자산으로 구분하여 관리하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0056"
+      },
+      {
+        "article_no": "제57조",
+        "article_title": "재무상태표의 작성 기준",
+        "chapter": "제1절  통   칙",
+        "content": "제57조(재무상태표의 작성 기준) 재무상태표는 다음 각호에 따라 작성하여야 한다.1. 재무상태표는 자산·부채 및 자본으로 구분하고 자산은 유동자산 및 비유동자산으로 부채는 유동부채 및 비유동부채로, 자본은 자본금·자본잉여금·자본조정·기타포괄손익누계액 및 이익잉여금으로 각각 구분한다.2. 자산, 부채 및 자본은 총액에 의하여 기재함을 원칙으로 하고 자산의 항목과 부채 또는 자본의 항목과를 상계함으로써 그 전부 또는 일부를 재무상태표에서 제외하여서는 아니 된다.3. 자산과 부채는 1년을 기준으로 하여 유동자산 또는 비유동자산, 유동부채 또는 비유동부채로 구분하는 것을 원칙으로 한다.4. 재무상태표에 기재하는 자산과 부채의 항목배열은 「유동성배열법」에 의함을 원칙으로 한다.5. 자본거래에서 발생한 자본잉여금과 손익거래에서 발생한 이익잉여금을 혼돈하여 표시하여서는 안된다.6. 가지급금 또는 가수금 등의 미결산 항목은 그 내용을 나타내는 적절한 과목으로 표시하고 대조계정 등 의 비망계정은 재무상태표의 자산 또는 부채항목으로 표시하여서는 안 된다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제57조",
+            "source_clause": "제57조",
+            "link_text": "「유동성배열법」",
+            "line_text": "제57조(재무상태표의 작성 기준) 재무상태표는 다음 각호에 따라 작성하여야 한다.1. 재무상태표는 자산·부채 및 자본으로 구분하고 자산은 유동자산 및 비유동자산으로 부채는 유동부채 및 비유동부채로, 자본은 자본금·자본잉여금·자본조정·기타포괄손익누계액 및 이익잉여금으로 각각 구분한다.2. 자산, 부채 및 자본은 총액에 의하여 기재함을 원칙으로 하고 자산의 항목과 부채 또는 자본의 항목과를 상계함으로써 그 전부 또는 일부를 재무상태표에서 제외하여서는 아니 된다.3. 자산과 부채는 1년을 기준으로 하여 유동자산 또는 비유동자산, 유동부채 또는 비유동부채로 구분하는 것을 원칙으로 한다.4. 재무상태표에 기재하는 자산과 부채의 항목배열은 「유동성배열법」에 의함을 원칙으로 한다.5. 자본거래에서 발생한 자본잉여금과 손익거래에서 발생한 이익잉여금을 혼돈하여 표시하여서는 안된다.6. 가지급금 또는 가수금 등의 미결산 항목은 그 내용을 나타내는 적절한 과목으로 표시하고 대조계정 등 의 비망계정은 재무상태표의 자산 또는 부채항목으로 표시하여서는 안 된다.",
+            "target_law_name": "유동성배열법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/유동성배열법",
+            "resolve_method": "text_parse",
+            "source_provision_id": "public:서울물재생시설공단회계규정#JO0057",
+            "reference_id": "law:유동성배열법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0057"
+      },
+      {
+        "article_no": "제58조",
+        "article_title": "자산의 평가기준",
+        "chapter": "제1절  통   칙",
+        "content": "제58조(자산의 평가기준) ① 재무상태표에 기재하는 자산의 가액은 당해자산의 취득원가를 기초로 하여 계상함을 원칙으로 한다. 다만, 제79조에 의하여 자산을 재평가한 경우에는 그 재평가액을 기초로 하여 계상하여야 하며, 교환·현물출자·증여 기타 무상으로 취득한 자산의 가액은 공정가액을 취득원가로 한다. 다만, 토지·건물을 제외한 동종의 유형자산간의 교환시 취득가액은 양도한 자산의 장부가액으로 할 수 있다.② 자산의 취득원가는 자산의 종류에 상응한 원가배분의 원칙에 의하여 각 회계년도에 배분하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제58조",
+            "source_clause": "제58조제1항",
+            "link_text": "제79조",
+            "line_text": "",
+            "target_law_name": "유동성배열법",
+            "target_article_no": "제79조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/유동성배열법/제79조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "public:서울물재생시설공단회계규정#JO0058",
+            "reference_id": "law:유동성배열법#JO0079"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0058"
+      },
+      {
+        "article_no": "제59조",
+        "article_title": "채권의 소멸시기",
+        "chapter": "제1절  통   칙",
+        "content": "제59조(채권의 소멸시기) ① 채권의 회계처리상 소멸시기는 관계법령이 정하는 소멸시효에 의한다. 다만, 다음 각 호의1에 해당하는 경우에는 소멸시효의 완성전이라도 당해 채권이 소멸한 것으로 처리할 수 있다.1. 법인인 채무자가 해산하거나 그 사업을 중지하여 재개의 가능성이 없고 압류할 수 있는 재산의 가격이 강제집행비용 및 우선채권의 합계액을 초과하지 아니할 때2. 법인이 채무자에게 회사 정리절차가 개시되어 당해 채권을 감면하는 정리계획이 확정된 때3. 압류할 수 있는 재산의 가격이 강제집행비용 또는 우선채권의 합계액을 초과하지 아니할 때4. 채무자가 서명하고 그 상속재산의 가액이 강제집행 비용 또는 우선채권의 합계액을 초과하지 아니할 때5. 채권액이 추심 비용보다 소액일 때6. 기타 부득이한 사유가 있다고 이사장이 인정한 경우② 연대 채무자 또는 보증인 등 따로 채무를 이행하여야 할 자가 있는 경우에는 제1항 단서 제1호 내지 제4호의 규정을 적용하지 아니한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0059"
+      },
+      {
+        "article_no": "제60조",
+        "article_title": "부외자산",
+        "chapter": "제1절  통   칙",
+        "content": "제60조(부외자산) 현실적으로 사용 또는 점유하고 있으나, 증여, 잉여 또는 수익적 지출로 처리되어 재무상태표 자산의 부에 계상되어 있지 아니한 자산 및 소유권이 타인에게 속해있는 임차자산, 담보자산, 국유 자산 등은 부외자산에 준하여 관리한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0060"
+      },
+      {
+        "article_no": "제61조",
+        "article_title": "부외자산의 자산등재 가액",
+        "chapter": "제1절  통   칙",
+        "content": "제61조(부외자산의 자산등재 가액) ① 기증, 증여 등에 의하여 무상으로 취득한 자산은 취득 당시의 시가로 평가하여 자산으로 등재할 수 있다. 이 경우 자본적 성격을 띤 비유동자산 또는 특정저장품에 등재한 가액은 기타 자본잉여금으로 계상한다.② 수익적 지출에 의하여 비용 처리된 자산으로서 사용 후 반납된 것은 그 상태를 감안하여 재생후 재입고 시키거나 폐기처리하여야 한다. 이 경우 재활용의 가치가 있는 것은 재생 후 그 상태에 따른 평가액을 입고가액으로 할 수 있으며, 평가액에서 재생비용을 공제한 가액을 평가액으로 하고 이를 영업외수익으로 계상한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0061"
+      },
+      {
+        "article_no": "제62조",
+        "article_title": "관리대장",
+        "chapter": "제1절  통   칙",
+        "content": "제62조(관리대장) ① 자산의 관리를 위하여 자산별 대장을 비치하고 취득, 처분, 이관 등의 내용을 발생순으로 기장 정리하여야 한다.② 제1항의 장부의 범위, 양식 기타 자산관리에 필요한 사항은 내규로 정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0062"
+      },
+      {
+        "article_no": "제63조",
+        "article_title": "유동자산의 분류",
+        "chapter": "제2절  유동자산",
+        "content": "제63조(유동자산의 분류) 유동자산은 당좌자산, 재고자산으로 분류한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0063"
+      },
+      {
+        "article_no": "제64조",
+        "article_title": "당좌자산",
+        "chapter": "제2절  유동자산",
+        "content": "제64조(당좌자산) ① 당좌자산의 과목은 다음과 같이 세분한다.1. 현금 및 현금성 자산 : 통화 및 타인발행수표 등 통화대용증권과 당좌예금, 보통예금 및 현금등가물로 한다. 이 경우 현금등가물이라 함은 큰 거래비용 없이 현금으로 전환이 용이하고 이자율 변동에 따른 가 치변동의 위험이 중요하지 않은 유가증권 및 단기 금융상품으로서 취득당시 만기가 3개월 이내에 도래하는 것을 말한다.2. 단기금융상품 : 금융기관이 취급하는 정기예금 정기적금 사용이 제한되어 있는 예금 및 기타 정형화된 상품 등으로 단기적 자금운용목적으로 소유하거나 기한이 1년 이내에 도래하는 것으로 하고, 사용이 제한되어 있는 예금에 대해서는 그 내용을 주석으로 기재한다.3. 유가증권-국채증서, 지방채증서, 공채증서, 사채권, 주권 등을 말한다.4. 단기대여금-회수기한이 1년내에 도래하는 대여금을 말한다.5. 미수금-모든 상거래에서 발생한 미수채권을 말한다.6. 미수수익-당기에 속하는 수익중 미수액을 말한다.7. 선급금 : 상품, 제품 등의 매입을 위하여 선급한 금액을 말한다.8. 선급비용 : 선급된 비용 중 1년 이내에 비용으로 되는 것을 말한다.9. 기타의 당좌자산 : 제1호 내지 제8호에 속하지 아니하는 당좌자산으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0064"
+      },
+      {
+        "article_no": "제65조",
+        "article_title": "재고자산의 범위",
+        "chapter": "제2절  유동자산",
+        "content": "제65조(재고자산의 범위) 재고자산은 사업수행을 위하여 취득 보관하고 있는 물품으로서 소모품, 소모공구, 기구비품, 수선용 부분품 및 기타 저장품으로서 상당액 이상의 것을 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0065"
+      },
+      {
+        "article_no": "제66조",
+        "article_title": "재고자산의 관리",
+        "chapter": "제2절  유동자산",
+        "content": "제66조(재고자산의 관리) ① 재고자산은 적정 수준을 정하여 관리의 합리화를 기하여야 한다.② 재고자산의 수불은 입, 출고 전표에 의하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0066"
+      },
+      {
+        "article_no": "제67조",
+        "article_title": "재고자산의 출납기준",
+        "chapter": "제2절  유동자산",
+        "content": "제67조(재고자산의 출납기준) 재고자산의 출납기준은 다음 각 호에 의한다.1. 수량의 출납 기록 및 계산은 계속 기록법에 의한다.2. 가액의 출납 기록 및 계산은 개별법에 의한다.3. 현품의 출납은 선입선출법에 의한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0067"
+      },
+      {
+        "article_no": "제68조",
+        "article_title": "재고자산의 취득가액",
+        "chapter": "제2절  유동자산",
+        "content": "제68조(재고자산의 취득가액) ① 재고자산의 취득가액은 다음 각 호에 의한다.1. 구매에 의한 것은 구매가격에, 구매에 수반하여 발생한 제부대비를 가산한 금액, 다만, 부대비를 직접 가산하기 곤란한 경우에는 따로 항목을 결정하여 일괄처리할 수 있다.2. 제작품인 경우에는 당해 제작품의 완성에 직접 또는 간접으로 소요된 일체의 비용3. 제1호 및 제2호의 자산을 중고품 또는 불용품으로 대체하는 경우와 무상취득 자산은 정당히 평가된 가격 또는 시가에 의한다.② 제1항의 규정에 의한 물품 중 외자로 도입된 물품에 대하여는 그 대금에 관세, 보험료, 운임, 하역비, 구매 수수료 및 기타 제비용을 합산한 금액으로 한다.③ 재무상태표 가액은 제1항 및 제2항의 규정에 의한 취득가액으로 한다. 다만, 취득가액이 현저하게 저락하여 회복될 가능성이 없다고 인정될 경우에는 시가로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0068"
+      },
+      {
+        "article_no": "제69조",
+        "article_title": "자연감모",
+        "chapter": "제2절  유동자산",
+        "content": "제69조(자연감모) 자연감모로 처리 할 수 있는 자산의 종류, 품명, 자연감모의 율에 관하여는 이사회의 승인을 받아 정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0069"
+      },
+      {
+        "article_no": "제70조",
+        "article_title": "비유동자산",
+        "chapter": "제3절  비유동자산",
+        "content": "제70조(비유동자산) 비유동자산은 투자자산, 유형자산, 무형자산, 기타비유동자산으로 분류한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0070"
+      },
+      {
+        "article_no": "제71조",
+        "article_title": "투자자산의 분류",
+        "chapter": "제3절  비유동자산",
+        "content": "제71조(투자자산의 분류) 투자자산의 과목은 다음과 같이 세분한다.1. 장기금융상품 - 유동자산에 속하지 아니하는 금융상품으로 하고 사용이 제한되어 있는 예금에 대해서 는 그 내용을 주석으로 기재한다.2. 투자유가증권 - 유동자산에 속하지 아니하는 유가증권으로서 투자목적으로 소유하는 주식, 사채 및 국공채를 말한다.3. 출자금 - 투자의 목적으로 소유하는 출자금을 말한다.4. 장기대여금 - 유동자산에 속하지 아니하는 장기의 대여금을 말한다.5. 장기매출채권 - 유동자산에 속하지 아니하는 일반적 거래에서 발생한 장기의 외상매출금 및 받을 어음을 말한다.6. 임원, 종업원 장기대여금 - 유동자산에 속하지 아니하는 임원, 종업원에 대한 장기대여금7. 기타의 투자자산 - 제1호 내지 제7호에 속하지 아니하는 투자자산으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0071"
+      },
+      {
+        "article_no": "제72조",
+        "article_title": "유형자산의 범위",
+        "chapter": "제3절  비유동자산",
+        "content": "제72조(유형자산의 범위) 유형자산의 범위와 과목은 다음과 같다.1. 토지 - 대지, 임야, 전답, 잡종지 등으로 한다.2. 건물 - 건물과 냉난방, 조명, 통풍 및 기타의 건물 부속설비 등으로 한다.3. 구축물 - 선거, 교량, 안벽, 부교, 제도, 저수지, 갱도, 굴뚝, 정원설비 및 기타토목설비 또는 공작물 등으로 한다.4. 기계장치 - 기계장치, 운송설비(콘베이어, 호이스트, 기중기)와 기타의 부속설비로 한다.5. 선박 - 선박과 기타의 수상운반구로 한다.6. 차량운반구 - 철도차량, 자동차 및 기타의 육상 운반구 등으로 한다.7. 공기구 및 비품 - 내용년수 1년 이상이며 품목별 개별 취득원가 100만원 이상의 자산으로 한다. 다만, 본호의 기준 이하의 물품이라도 유형자산에 속한 물품은 본호의 규정에 의거 회계처리하여야 한다.8. 건설중인 자산 - 유형자산의 건설을 위한 재료비, 노무비 및 경비로 하되 건설을 위하여 지출한 도급액 또는 취득한 기계 등을 포함한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0072"
+      },
+      {
+        "article_no": "제73조",
+        "article_title": "무형자산의 범위",
+        "chapter": "제3절  비유동자산",
+        "content": "제73조(무형자산의 범위) 무형자산이란 구체적인 존재형태를 가지지 않은 다음의 고정 자산을 말한다.1. 법률상의 권리 또는 이에 준하는 특허권, 실용신안권, 의장권, 상표권과 광업권, 어업권2. 법률상의 권리는 아니나 장래의 수익을 예상할 수 있는 경영상의 유리한 관계 혹은 사회적 사실관계로 서 실지로 어떠한 경제가치가 인정되는 영업권3. 임차료 또는 지대를 지급하고 타인이 소유하는 토지를 사용 수익할 수 있는 차지권4. 신제품, 신기술 등의 개발과 관련하여 발생한 비용(소프트웨어 개발과 관련된 비용을 포함한다)으로서 개별적으로 식별가능하고 미래의 경제적 효익을 확실하게 기대할 수 있는 개발비5. 기타의 무형자산은 제1호 내지 제4호에 속하지 아니하는 무형자산으로서 독점적 배타적으로 이용할 수 있는 권리로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0073"
+      },
+      {
+        "article_no": "제74조",
+        "article_title": "기타비유동자산의 범위",
+        "chapter": "제3절  비유동자산",
+        "content": "제74조(기타비유동자산의 범위) ① 기타비유동자산은 투자자산, 유형자산, 무형자산에 속하지 않는 비유동자산을 포함한다.② 기타비유동자산에 속하는 과목의 분류는 지방공기업 및 기업회계기준에 따른다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0074"
+      },
+      {
+        "article_no": "제75조",
+        "article_title": "유형자산의 취득",
+        "chapter": "제3절  비유동자산",
+        "content": "제75조(유형자산의 취득) 유형자산의 취득은 유형자산을 신설, 증설 또는 개조하기 위한 구입, 공사, 제작, 교환, 무상양수 등을 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0075"
+      },
+      {
+        "article_no": "제76조",
+        "article_title": "유형자산의 관리위임",
+        "chapter": "제3절  비유동자산",
+        "content": "제76조(유형자산의 관리위임) ① 유형자산은 재산과 물품으로 구분하여 이사장이 필요하다고 인정할 경우에는 그 관리 및 회계처리 업무를 자산관리담당자에게 위임할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0076"
+      },
+      {
+        "article_no": "제77조",
+        "article_title": "유형자산의 취득가액",
+        "chapter": "제3절  비유동자산",
+        "content": "제77조(유형자산의 취득가액) 유형자산의 취득가액은 구입원가 도는 제작원가에 자산을 사용할 수 있도록 준비하며 직접 관련되는 다음 각 호의 지출액을 가산하여 산출한 취득원가로 한다.1. 설치비2. 취득세, 등록세 등 유형자산의 취득과 직접 관련된 제세공과금3. 기타 구입부대 비용",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0077"
+      },
+      {
+        "article_no": "제78조",
+        "article_title": "유형자산의 처분 결정",
+        "chapter": "제3절  비유동자산",
+        "content": "제78조(유형자산의 처분 결정) ①유형자산을 처분하고자 할 때에는 당해 유형자산에 대하여 불용결정을 하여야 한다.② 유형자산의 불용결정을 할 경우에는 이사회의 의결을 거쳐야 한다. 다만, 이사회는 일정한 금액을 정하여 이사장에게 위임할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0078"
+      },
+      {
+        "article_no": "제79조",
+        "article_title": "자산재평가",
+        "chapter": "제3절  비유동자산",
+        "content": "제79조(자산재평가) ① 유형자산의 재평가는 자산재평가법, 감정평가에 관한 법률 및 기타 관계법률이 정하는 바에 의한다.② 제1항의 자산재평가를 실시하고자 하는 경우에는 시장에게 자산 재평가 계획서를 제출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0079"
+      },
+      {
+        "article_no": "제80조",
+        "article_title": "임대차",
+        "chapter": "제3절  비유동자산",
+        "content": "제80조(임대차) 유형자산을 임·대차 하고자 하는 경우에 중요한 사항은 이사회의 의결을 얻어야 한다. 계약 조건을 변경하는 때에도 또한 같다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0080"
+      },
+      {
+        "article_no": "제81조",
+        "article_title": "관리대장",
+        "chapter": "제3절  비유동자산",
+        "content": "제81조(관리대장) 재고자산, 유형자산, 부외자산의 관리를 위하여 자산별 대장을 비치하고 취득, 처분, 교환 등의 내용을 발생순으로 기장 정리하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0081"
+      },
+      {
+        "article_no": "제82조",
+        "article_title": "장부 및 부속서류",
+        "chapter": "제3절  비유동자산",
+        "content": "제82조(장부 및 부속서류) 유형자산에 관한 장부 및 부속서류는 다음 각 호와 같다.1. 유형자산 총괄대장2. 유형자산대장 (사용부서)3. 유형자산 감가상각대장4. 토지, 건물의 도면5. 기타 부속서류",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0082"
+      },
+      {
+        "article_no": "제83조",
+        "article_title": "취득일",
+        "chapter": "제3절  비유동자산",
+        "content": "제83조(취득일) ① 유형자산의 취득일은 취득에 관한 조서작성일로 한다.② 재고자산의 취득일은 검수에 관한 조서작성일로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0083"
+      },
+      {
+        "article_no": "제84조",
+        "article_title": "유형자산의 관리",
+        "chapter": "제3절  비유동자산",
+        "content": "제84조(유형자산의 관리) ① 유형자산을 취득 및 처분할 때에는 유형자산담당부서의 장은 관계증빙서가 첨부된 보고서를 작성하여 필요한 사항을 확인한 후 따로 정하는 바에 의하여 자산취득 절차를 취하여야 한다.② 유형자산을 취득하였을 때에는 검수원의 검사를 받아야 한다.③ 유형자산 담당자는 유형자산대장 및 관계증빙서류를 비치하고 항시 기록 유지하여야 한다.④ 유형자산을 관리함에 있어 유형자산을 식별번호를 부여하여 관리함을 원칙으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0084"
+      },
+      {
+        "article_no": "제85조",
+        "article_title": "감가상각의 범위",
+        "chapter": "제3절  비유동자산",
+        "content": "제85조(감가상각의 범위) ① 모든 비유동자산은 감가상각을 하여야 한다. 다만 비상각자산과 대치자산은 제외한다.② 제1항의 비상각자산은 토지, 건설중인 자산, 투자자산, 임목 등을 말하며 대치자산의 범위는 따로 정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0085"
+      },
+      {
+        "article_no": "제86조",
+        "article_title": "감가상각방법",
+        "chapter": "제3절  비유동자산",
+        "content": "제86조(감가상각방법) ① 감가상각방법은 유형자산에 대하여는 정률법, 무형자산은 정액법에 의한다. 단, 건물 및 구축물은 정액법에 의한다.② 감가상각의 기장처리방법은 유형자산에 있어서는 간접법, 무형자산은 직접법에 의한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0086"
+      },
+      {
+        "article_no": "제87조",
+        "article_title": "감가상각의 실시",
+        "chapter": "제3절  비유동자산",
+        "content": "제87조(감가상각의 실시) 감가상각의 실시시기는 회계년도말을 기준으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0087"
+      },
+      {
+        "article_no": "제88조",
+        "article_title": "내용연수, 상각률 및 잔존가액",
+        "chapter": "제3절  비유동자산",
+        "content": "제88조(내용연수, 상각률 및 잔존가액) 비유동자산의 내용년수, 상각률은 「법인세법」의 정하는 바에 의한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제88조",
+            "source_clause": "제88조",
+            "link_text": "「법인세법」",
+            "line_text": "",
+            "target_law_name": "법인세법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/법인세법",
+            "resolve_method": "render",
+            "source_provision_id": "public:서울물재생시설공단회계규정#JO0088",
+            "reference_id": "law:법인세법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0088"
+      },
+      {
+        "article_no": "제89조",
+        "article_title": "잔존 내용년수의 추정",
+        "chapter": "제3절  비유동자산",
+        "content": "제89조(잔존 내용년수의 추정) ① 내용년수의 전부 또는 일부가 경과한 비유동자산을 취득하였거나 자산재평가법에 의하여 재평가한 때에는 그 자산의 잔존 내용년수에 경과년수의 100분의 25에 상당하는 년수를 가산한 것을 잔존 내용년수로 한다.② 제1항의 경우 1년 미만의 단수가 있을 때에는 그 단수는 없는 것으로 한다.③ 경과된 내용년수가 명확하지 못한 자산을 구입한 경우에는 잔존 내용년수를 결정하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0089"
+      },
+      {
+        "article_no": "제90조",
+        "article_title": "신규취득자산의 상각",
+        "chapter": "제3절  비유동자산",
+        "content": "제90조(신규취득자산의 상각) 년도중에 취득한 유형자산은 월할상각 한다. 이 경우 1월 미만의 기간은 1월로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0090"
+      },
+      {
+        "article_no": "제91조",
+        "article_title": "법인세법의 준용",
+        "chapter": "제3절  비유동자산",
+        "content": "제91조(법인세법의 준용) 이 규정에서 감가상각에 관하여 정하지 아니한 사항은 「법인세법」이 정하는 바에 의한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제91조",
+            "source_clause": "제91조",
+            "link_text": "「법인세법」",
+            "line_text": "",
+            "target_law_name": "법인세법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/법인세법",
+            "resolve_method": "render",
+            "source_provision_id": "public:서울물재생시설공단회계규정#JO0091",
+            "reference_id": "law:법인세법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0091"
+      },
+      {
+        "article_no": "제92조",
+        "article_title": "부채의 분류",
+        "chapter": "제5장 부채 및 자본회계",
+        "content": "제92조(부채의 분류) 부채는 유동부채와 비유동부채로 분류한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0092"
+      },
+      {
+        "article_no": "제93조",
+        "article_title": "유동부채의 범위",
+        "chapter": "제5장 부채 및 자본회계",
+        "content": "제93조(유동부채의 범위) 유동부채의 과목은 다음과 같이 세분한다.1. 단기차입금 : 1년내에 상환될 차입금, 금융기관의 당좌차월2. 미지급금 : 모든 상거래 이외에서 발생한 채무(미지급 비용을 제외한다)로 한다.3. 선수금 : 수주공사, 수주품 및 기타 일반적 상거래에서 발생한 선수액으로 한다.4. 예수금 : 일반적 상거래 이외에서 발생한 일시적 제예수액으로 한다.5. 미지급 비용 : 발생된 비용으로서 지급되지 아니한 것으로 한다.6. 미지급 법인세 : 법인세 등의 미지급액으로 한다.7. 유동성 장기부채 : 비유동부채 중 1년내에 상환될 것으로 한다.8. 선수수익 : 받은 수익 중 차기 이후에 속하는 금액으로 한다.9. 기타의 유동부채 : 제1호 내지 제8호에 속하지 아니하는 유동부채로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0093"
+      },
+      {
+        "article_no": "제94조",
+        "article_title": "비유동부채의 범위",
+        "chapter": "제5장 부채 및 자본회계",
+        "content": "제94조(비유동부채의 범위) 비유동부채의 과목은 다음과 같이 세분한다.1. 장기차입금 : 1년후 상환되는 차입금으로 한다.2. 장기성 매입 : 채무1년후에 지급기일이 도래하는 어음상의 채무로 한다.3. 충당부채가. 충당부채는 과거사건이나 거래의 결과에 의한 현재의무로서, 지출의 시기 또는 금액이 불확실하지만 그 의무를 이행하기 위하여 자원이 유출될 가능성이 매우 높고 또한 당해 금액을 신뢰성있게 추정할 수 있는 의무를 말한다.나. 충당부채는 퇴직급여충당부채 등을 포함하는 것으로 한다.다. 퇴직급여충당부채는 회계연도말 현재 전 임직원이 일시에 퇴직할 경우 지급하여야할 퇴직금에 상당하는 금액으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0094"
+      },
+      {
+        "article_no": "제95조",
+        "article_title": "자본",
+        "chapter": "제5장 부채 및 자본회계",
+        "content": "제95조(자본) 자본은 자산총액에서 부채총액을 뺀 순자산으로 하며, 자본금·자본잉여금·자본조정·기타 포괄손익누계액 및 이익잉여금으로 구분한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0095"
+      },
+      {
+        "article_no": "제96조",
+        "article_title": "손익계산서 작성 기준",
+        "chapter": "제6장 수익 및 비용회계",
+        "content": "제96조(손익계산서 작성 기준) 손익계산서는 다음 각 호에 따라 작성하여야 한다.1. 모든 수익과 비용은 그것이 발생한 기간에 정당하게 배분되도록 처리하여야 한다. 다만, 수익은 실현시기를 기준으로 계상하고, 미실현수익은 당기의 손익계산에 산입하지 아니함을 원칙으로 한다.2. 수익과 비용은 그 발생원천에 따라 명확하게 분류하고 각 수익항목과 이에 관련되는 비용항목을 대응 표시하여야 한다.3. 수익과 비용은 총액에 의하여 기재함을 원칙으로 하고, 수익항목과 비용항목을 직접 상계함으로써 그 전부 또는 일부를 손익계산서에서 제외하여서는 아니 된다.4. 손익계산서는 매출총손익, 영업손익, 법인세 차감전 손익과 당기순손익으로 구분 표시하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0096"
+      },
+      {
+        "article_no": "제97조",
+        "article_title": "영업손익계산",
+        "chapter": "제6장 수익 및 비용회계",
+        "content": "제97조(영업손익계산) 영업손익은 영업수익에서 영업비용을 차감하여 표시한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0097"
+      },
+      {
+        "article_no": "제98조",
+        "article_title": "영업수익",
+        "chapter": "제6장 수익 및 비용회계",
+        "content": "제98조(영업수익) 영업수익은 자체사업에서 발생되는 시설물의 임대료, 광고료, 부대사업수입 등으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0098"
+      },
+      {
+        "article_no": "제99조",
+        "article_title": "영업비용",
+        "chapter": "제6장 수익 및 비용회계",
+        "content": "제99조(영업비용) 영업비용은 관리비와 업무자산의 감가상각비 등으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0099"
+      },
+      {
+        "article_no": "제100조",
+        "article_title": "영업외수익",
+        "chapter": "제6장 수익 및 비용회계",
+        "content": "제100조(영업외수익) 영업외수익은 이자수익과 유가증권처분이익, 유가증권평가이익, 외환차익, 외화환산차익, 유형자산처분이익, 투자자산처분이익, 사채상환이익, 법인세환급액, 기타의 영업외 수익으로 분류하여 계상한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0100"
+      },
+      {
+        "article_no": "제101조",
+        "article_title": "영업외비용",
+        "chapter": "제6장 수익 및 비용회계",
+        "content": "제101조(영업외비용) 영업외비용은 이자비용, 유가증권처분손실, 유가증권평가손실, 외환차손, 외화환산차손, 유형자산처분손실, 투자자산처분손실, 사채상환손실, 법인세추납액, 기타의 영업외비용으로 분류하여 계상한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0101"
+      },
+      {
+        "article_no": "제102조",
+        "article_title": "법인세 차감전 순손익",
+        "chapter": "제6장 수익 및 비용회계",
+        "content": "제102조(법인세 차감전 순손익) 법인세 차감전 순손익은 영업손익에 영업외수익을 가산하고 영업외비용을 차감하여 표시한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0102"
+      },
+      {
+        "article_no": "제103조",
+        "article_title": "당기순손익계산",
+        "chapter": "제6장 수익 및 비용회계",
+        "content": "제103조(당기순손익계산) 당기순손익은 법인세 차감전 순손익에서 당기부담분에 속하는 법인세 등을 차감하여 표시하되 이연법인세규정을 적용하여야 할 경우에는 이연법인세를 가감하여 표시한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0103"
+      },
+      {
+        "article_no": "제104조",
+        "article_title": "국고보조금 등",
+        "chapter": "제6장 수익 및 비용회계",
+        "content": "제104조(국고보조금 등) 국고보조금 또는 기타의 보조금을 받았을 경우에는 기업회계기준에서 정하는 바에 의하여 처리한다.1. 자산의 취득 등 자본적 지출에 충당하는 경우에는 해당 자산에 차감하는 형식으로 표시한다.2. 수익적 지출 또는 결손보전에 충당하는 경우에는 영업외수익으로 계상한다.3. 특별히 지정된 독립의 사업 또는 국가의 대행사업을 영업으로 하여 이에 충당하는 경우에는 영업수익으로 계상한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0104"
+      },
+      {
+        "article_no": "제105조",
+        "article_title": "수익적 지출과 자본적 지출의 기준",
+        "chapter": "제6장 수익 및 비용회계",
+        "content": "제105조(수익적 지출과 자본적 지출의 기준) ① 유형자산에 대한 다음 각 호의 지출은 이를 수익적 지출로 한다.1. 경상적 수리를 목적으로 한 지출2. 원상을 유지하기 위한 지출3. 매기 교체되는 양이 표준화되어 있는 대치자산의 취득을 위한 지출② 다음 각 호의 지출은 이를 자본적 지출로 한다.1. 유형자산의 증설 또는 개량으로 인하여 기존 비유동자산의 내용년수가 연장되거나 가치가 현저하게 증가되는 경우의 지출2. 기존 유형자산의 용도변경을 위한 지출3. 유형자산의 신설을 위하여 기존 유형자산을 철거하기 위한 지출4. 재해 등으로 인하여 본래의 용도에 이용가치가 없어진 자산의 복귀를 위한 지출③ 제1항 및 제2항의 규정에 의하여 그 구분이 분명하지 아니하는 경우는 「법인세법 시행령」 및 「법인세법 시행규칙」이 정하는 바에 의한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제105조",
+            "source_clause": "제105조제3항",
+            "link_text": "「법인세법 시행령」",
+            "line_text": "",
+            "target_law_name": "법인세법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/법인세법 시행령",
+            "resolve_method": "render",
+            "source_provision_id": "public:서울물재생시설공단회계규정#JO0105",
+            "reference_id": "law:법인세법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제105조",
+            "source_clause": "제105조제3항",
+            "link_text": "「법인세법 시행규칙」",
+            "line_text": "",
+            "target_law_name": "법인세법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/법인세법 시행규칙",
+            "resolve_method": "render",
+            "source_provision_id": "public:서울물재생시설공단회계규정#JO0105",
+            "reference_id": "law:법인세법시행규칙#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0105"
+      },
+      {
+        "article_no": "제106조",
+        "article_title": "예산의 내용",
+        "chapter": "제1절  통   칙",
+        "content": "제106조(예산의 내용) ① 예산은 예산총칙, 추정손익계산서 및 추정재무상태표, 자금운용계획으로 한다.② 추정손익계산서와 추정재무상태표는 각각 관항으로 구분한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0106"
+      },
+      {
+        "article_no": "제107조",
+        "article_title": "예산의 기능별 구분",
+        "chapter": "제1절  통   칙",
+        "content": "제107조(예산의 기능별 구분) 예산은 기능별로 손익예산, 자본예산 등으로 구분하여 운용할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0107"
+      },
+      {
+        "article_no": "제108조",
+        "article_title": "예산관리자",
+        "chapter": "제1절  통   칙",
+        "content": "제108조(예산관리자) 공단의 예산총괄담당부서의 장을 예산관리자로 하고 공단의 각 부서의 장을 부문예산 관리자로 한다. 다만, 1개의 부서내에 2개 이상의 회계단위가 있을 때에는 그 부서의 장을 부문 예산관리자로 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0108"
+      },
+      {
+        "article_no": "제109조",
+        "article_title": "예산의 전용",
+        "chapter": "제1절  통   칙",
+        "content": "제109조(예산의 전용) 이사장은 예산집행상 불가피하다고 인정하는 경우에는 비용 예산서의 목간의 금액을 전용할 수 있다. 다만, 예외사항의 적용은 예산총칙을 준용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0109"
+      },
+      {
+        "article_no": "제110조",
+        "article_title": "예산의 이월",
+        "chapter": "제1절  통   칙",
+        "content": "제110조(예산의 이월) 예산은 다음년도에 이월하여 사용할 수 없다. 다만, 자본예산과 손익예산의 사업예산 중 지출원인행위를 한 공사비와 지출원인행위를 하지 아니한 그 부대경비는 예산총칙이 정하는 바에 이월 사용할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0110"
+      },
+      {
+        "article_no": "제111조",
+        "article_title": "예산편성지침",
+        "chapter": "제2절  예산의 편성",
+        "content": "제111조(예산편성지침) 예산관리자는 예산편성지침을 기준으로 자체예산편성지침을 작성하여 이를 부문예산 관리자에게 통보하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0111"
+      },
+      {
+        "article_no": "제112조",
+        "article_title": "예산요구서의 제출 및 예산안 제출",
+        "chapter": "제2절  예산의 편성",
+        "content": "제112조(예산요구서의 제출 및 예산안 제출) ① 부문예산관리자는 예산편성지침에 의거 소관 소요예산 요구서를 작성하여 소정 기일내에 예산관리자에게 제출하여야 한다.② 예산관리자는 각 부문별 예산요구서를 종합 사정하여 예산안을 편성한 후 조례의 정한 바에 따라 이사회의 의결을 거쳐 시장에게 제출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0112"
+      },
+      {
+        "article_no": "제113조",
+        "article_title": "예산안의 첨부 서류",
+        "chapter": "제2절  예산의 편성",
+        "content": "제113조(예산안의 첨부 서류) 예산안의 첨부서류는 예산편성 지침의 정하는 바에 의한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0113"
+      },
+      {
+        "article_no": "제114조",
+        "article_title": "예산의 성립",
+        "chapter": "제2절  예산의 편성",
+        "content": "제114조(예산의 성립) ① 예산은 이사회의 의결로써 성립된다.② 제1항에 의한 예산승인을 받았을 때에는 예산관리자는 지체없이 이를 부문예산관리자에게 부문별 예산을 통지하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0114"
+      },
+      {
+        "article_no": "제115조",
+        "article_title": "사업시행계획서",
+        "chapter": "제2절  예산의 편성",
+        "content": "제115조(사업시행계획서) ① 부문예산관리자는 예산승인을 받은 후 지체없이 분기별 사업시행계획서를 작성하여 예산관리자에게 제출하고, 예산관리자는 이를 종합심의 조정하여 부문예산관리자에게 통보한다.② 분기별 사업시행계획은 상당한 이유가 있는 경우에는 이를 변경할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0115"
+      },
+      {
+        "article_no": "제116조",
+        "article_title": "예비비",
+        "chapter": "제2절  예산의 편성",
+        "content": "제116조(예비비) ① 예측할 수 없는 예산외의 지출 또는 예산초과 지출에 충당하기 위하여 비용예산에 예비비를 계상한다.② 예비비는 사업비별로 계상하여 예비비를 사용코자 할 때에는 사용계획서를 작성하여 예산총칙이 정하는 바에 따라 집행한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0116"
+      },
+      {
+        "article_no": "제117조",
+        "article_title": "추가경정예산",
+        "chapter": "제2절  예산의 편성",
+        "content": "제117조(추가경정예산) ① 예산이 성립된 후의 사업계획의 변경 또는 기타 불가피한 사유로 이미 성립된 예산을 변경할 필요가 있을 때에는 추가경정예산을 편성할 수 있다.② 제1항의 추가경정예산의 편성 및 집행절차는 본 예산에 준하여 처리한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0117"
+      },
+      {
+        "article_no": "제118조",
+        "article_title": "예산불성립시의 예산편성",
+        "chapter": "제2절  예산의 편성",
+        "content": "제118조(예산불성립시의 예산편성) ① 예산이 부득이한 사유로 인하여 회계년도 개시전까지 성립되지 아니한 때에는 당해 회계년도 예산안에 계상된 것으로서 다음 각 호의 경우에는 전년도 실적 범위 내에서 집행할 수 있다.1. 임직원의 보수와 영업활동에 필요한 기본경비2. 시설의 유지비3. 지불이자② 제1항에 의하여 집행된 예산은 당해년도 예산이 성립되면 그 성립된 예산에 의하여 집행된 것으로 본다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0118"
+      },
+      {
+        "article_no": "제119조",
+        "article_title": "예산통제",
+        "chapter": "제3절  예산의 통제",
+        "content": "제119조(예산통제) ① 예산통제는 금액통제를 원칙으로 하되 필요에 따라서 사업, 항목, 물량, 단가 또는 원단위로 통제할 수 있다.② 예산통제의 기준시점은 지출원인행위 시점을 기준으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0119"
+      },
+      {
+        "article_no": "제120조",
+        "article_title": "예산관리부의 비치",
+        "chapter": "제3절  예산의 통제",
+        "content": "제120조(예산관리부의 비치) 예산관리자 또는 부문 예산관리자는 예산관리총괄부 또는 예산관리부를 비치하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0120"
+      },
+      {
+        "article_no": "제121조",
+        "article_title": "예산추산",
+        "chapter": "제3절  예산의 통제",
+        "content": "제121조(예산추산) 각 사업부서는 예산집행전 예산관계자에게 예산추산을 받아야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0121"
+      },
+      {
+        "article_no": "제122조",
+        "article_title": "실행예산편성",
+        "chapter": "제4절  예산의 집행",
+        "content": "제122조(실행예산편성) ① 예산이 성립되면 예산관리자는 분기별 실행예산을 편성, 운용할 수 있다.② 예산관리자는 분기별 또는 월별 사업시행계획의 변경에 따라 실행예산의 편성을 조정할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0122"
+      },
+      {
+        "article_no": "제123조",
+        "article_title": "예산집행실적 보고",
+        "chapter": "제4절  예산의 집행",
+        "content": "제123조(예산집행실적 보고) 예산관리자는 매분기 말일을 기준으로 예산집행실적을 이사장에게 보고하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0123"
+      },
+      {
+        "article_no": "제124조",
+        "article_title": "결산",
+        "chapter": "제1절  통   칙",
+        "content": "제124조(결산) ① 결산은 당해년도의 경영성과와 재무상태를 명확히 파악할 수 있도록 명료하게 하여야 한다.② 결산은 회계연도 말을 기준으로 하여 실시한다. 다만, 필요한 경우에는 제계정정리 등의 절차를 생략한 가결산 및 회계연도 중에 결산에 준하는 임시결산을 실시할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0124"
+      },
+      {
+        "article_no": "제125조",
+        "article_title": "결산지침",
+        "chapter": "제1절  통   칙",
+        "content": "제125조(결산지침) ① 결산 총괄책임자는 결산일 15일전 결산에 대한 기준과 절차를 정한 결산지침을 작성 시달한다.② 제1항의 결산지침에는 다음 사항을 명기하여야 한다.1. 회계단위별 결산 일정2. 결산에 관한 기준과 원칙3. 결산정리에 관련된 사항4. 결산에 관한 제규정의 준수사항5. 경영분석자료6. 기타 결산에 필요한 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0125"
+      },
+      {
+        "article_no": "제126조",
+        "article_title": "결산정리",
+        "chapter": "제1절  통   칙",
+        "content": "제126조(결산정리) 결산에 앞서 자산, 부채 및 자본과 손익에 관련되는 항목 중 결산에 필요한 사항을 정리하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0126"
+      },
+      {
+        "article_no": "제127조",
+        "article_title": "결산시행",
+        "chapter": "제1절  통   칙",
+        "content": "제127조(결산시행) 결산은 회계단위별로 실시하고 본사에서 총괄하여 결산보고서를 작성한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0127"
+      },
+      {
+        "article_no": "제128조",
+        "article_title": "결산승인",
+        "chapter": "제1절  통   칙",
+        "content": "제128조(결산승인) ① 「지방공기업법」에 의한 결산서류를 작성하여 회계년도 종료 후 3개월 이내에 이사회의 승인을 얻어야 한다.② 결산이 확정된 때에는 결산서에 다음 각호 의 서류를 첨부하여 3월이내 결산결과를 시장에게 보고하여 승인을 얻어야 한다.1. 사업계획 대 실적분석보고서2. 재무제표 및 부속서류3. 예비비 사용 및 예산전용의 금액과 이유를 명시한 조서4. 기타 결산의 내용을 명확하게 함을 필요한 서류",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제128조",
+            "source_clause": "제128조제1항",
+            "link_text": "「지방공기업법」",
+            "line_text": "",
+            "target_law_name": "지방공기업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/지방공기업법",
+            "resolve_method": "render",
+            "source_provision_id": "public:서울물재생시설공단회계규정#JO0128",
+            "reference_id": "law:지방공기업법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0128"
+      },
+      {
+        "article_no": "제129조",
+        "article_title": "결산서의 비치, 공시 및 공고",
+        "chapter": "제1절  통   칙",
+        "content": "제129조(결산서의 비치, 공시 및 공고) 결산서류의 비치, 공시 및 공고에 관한 사항은 지방공기업법, 정관과 법인세법의 정하는 바에 의한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0129"
+      },
+      {
+        "article_no": "제130조",
+        "article_title": "미결산계정의 정리",
+        "chapter": "제2절 결산정리",
+        "content": "제130조(미결산계정의 정리) 결산 시에는 연도 이월이 불가피한 사항을 제외하고는 모든 미결산 계정을 정리하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0130"
+      },
+      {
+        "article_no": "제131조",
+        "article_title": "손익계산기록의 수정",
+        "chapter": "제2절 결산정리",
+        "content": "제131조(손익계산기록의 수정) 미경과비용, 미경과 수익, 미지급비용, 미수수익 등 손익에 관련된 사항은 결산 전에 정산하여 수정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0131"
+      },
+      {
+        "article_no": "제132조",
+        "article_title": "자산계산기록의 수정",
+        "chapter": "제2절 결산정리",
+        "content": "제132조(자산계산기록의 수정) 공단이 소유하고 있는 자산의 현재 가치를 명료히 표시하기 위하여 채권 및 재고자산 가액의 확정 등 자산계산에 필요한 수정을 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0132"
+      },
+      {
+        "article_no": "제133조",
+        "article_title": "부채계산기록의 수정",
+        "chapter": "제2절 결산정리",
+        "content": "제133조(부채계산기록의 수정) 공단이 변제하여야 할 부채의 현재 총가액을 명료히 표시하기 위하여 채무의 확정, 외화부채 등의 평가, 부채성충당금의 정리 기타 부채계산에 필요한 수정을 하여 부채의 과소 또는 과대 표시를 하지 아니하도록 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0133"
+      },
+      {
+        "article_no": "제134조",
+        "article_title": "불확정채권, 채무의 정리",
+        "chapter": "제2절 결산정리",
+        "content": "제134조(불확정채권, 채무의 정리) 불확정채권은 귀속의 사유가 확정되지 아니하는 한 계상하지 아니하고 불확정 채무에 대하여는 면책의 사유가 확정되지 아니하는 한 계상하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0134"
+      },
+      {
+        "article_no": "제135조",
+        "article_title": "대손충당금",
+        "chapter": "제2절 결산정리",
+        "content": "제135조(대손충당금) 대여금, 미수금 기타 이에 준하는 정상적인 영업거래에서 발생한 채권에 대하여는 장부 가액의 합계액의 100분의 1에 상당하는 금액을 한도로 하여 대손충당금으로 계상할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0135"
+      },
+      {
+        "article_no": "제136조",
+        "article_title": "장부의 마감 및 이월",
+        "chapter": "제3절  결산실시",
+        "content": "제136조(장부의 마감 및 이월) ① 결산 정리후의 총계정원장에 의하여 시산표를 작성하고 제장부를 마감한다.② 결산 정리 후의 총계정원장의 각 잔액은 신 장부에 이월한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0136"
+      },
+      {
+        "article_no": "제137조",
+        "article_title": "재무제표 및 부속명세서",
+        "chapter": "제3절  결산실시",
+        "content": "제137조(재무제표 및 부속명세서) ① 재무제표는 재무상태표, 손익계산서, 이익잉여금 처분계산서(또는 결손금 처리 계산서), 자본변동표, 현금흐름표 및 주석으로 하되 용도에 따라 다른 내용의 재무제표를 작성하여서는 아니된다. 다만, 특별한 목적을 위하여 불가피한 경우에는 시장의 승인을 받아 재무제표를 작성할 수 있다.② 제1항의 재무제표 작성은 본 규정 및 일반적으로 인정된 기업회계기준에 준용 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0137"
+      },
+      {
+        "article_no": "제138조",
+        "article_title": "잉여금의 처분",
+        "chapter": "제3절  결산실시",
+        "content": "제138조(잉여금의 처분) 당기말 미처분 이익잉여금의 처분은 다음 순서에 의한다. 다만, 법령에 따로 규정된 경우에는 그러하지 아니한다.1. 이월결손금의 보전2. 서울특별시 일반회계에의 납입",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0138"
+      },
+      {
+        "article_no": "제139조",
+        "article_title": "결손금의 처리",
+        "chapter": "제3절  결산실시",
+        "content": "제139조(결손금의 처리) 매 사업년도 결손이 생긴 경우에는 다음연도로 이월한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0139"
+      },
+      {
+        "article_no": "제140조",
+        "article_title": "계약요구",
+        "chapter": "제9장  계   약",
+        "content": "제140조(계약요구) ① 공사, 용역 및 물품제조, 구매에 대한 계약요구시 각 사업부서는 예산추산 후 계약부서로 계약을 요구하여야 한다.② 전 항의 요구는 계약심사기간, 적격심사기간 등을 감안하여 적어도 40일전에 하여야 하며, 부득이 수의계약에 의할 경우는 10일전에 요구하여야 한다.③ 산출기초조사서를 첨부하여 전자결재를 득한 구매 요구 시에는 산출기초조사서의 조사자와 확인자의 서명을 생략하여 계약 의뢰할 수 있으며, 공사, 용역, 제조를 요하는 계약을 의뢰할 경우 지침서, 과업지시서, 사양서, 설계도면, 설계서 또는 원가내역서, 청렴계약이행서약서 등의 기초자료를 첨부하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0140"
+      },
+      {
+        "article_no": "제141조",
+        "article_title": "결과통보",
+        "chapter": "제9장  계   약",
+        "content": "제141조(결과통보) 계약부서는 계약체결 결과를 사업부서에 통보한다. 단, 표준계약서를 작성하여 부본을 발송하거나 표준계약서를 작성하지 않은 계약건은 통보를 생략할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0141"
+      },
+      {
+        "article_no": "제142조",
+        "article_title": "지방계약법령 등의 준용",
+        "chapter": "제9장  계   약",
+        "content": "제142조(지방계약법령 등의 준용) 공단 계약업무에 관한 사항은 지방자치단체를 당사자로 하는 계약에 관한 법률, 동시행령 및 동시행규칙을 준용한다. 다만, 공단 경영합리화 차원에서 공단의 일부 업무를 분사 회사에 위탁할 경우에는 수의계약방식에 의할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:서울물재생시설공단회계규정#JO0142"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20201224",
+      "promulgation_no": "00013",
+      "content": "부    칙 <제13호,2020.12.24>① (시행일) 이 규정은 2021년 1월 1일부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "attachments": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 14,
+    "by_category": {
+      "법령": 11,
+      "학칙공단": 3
+    },
+    "by_relation_type": {
+      "citation": 12,
+      "internal_ref": 2
+    },
+    "articles_total": 142,
+    "articles_with_relations": 11,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/학칙공단/서울물재생시설공단 회계규정"
+  },
+  "provision_id": "public:서울물재생시설공단회계규정#DOC"
+}
