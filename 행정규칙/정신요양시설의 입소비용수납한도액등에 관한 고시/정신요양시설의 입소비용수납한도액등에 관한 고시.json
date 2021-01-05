@@ -1,0 +1,237 @@
+{
+  "law_id": "2100000202753",
+  "mst": "2100000202753",
+  "law_name": "정신요양시설의 입소비용수납한도액등에 관한 고시",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000202753",
+  "promulgation_no": "2021-2",
+  "promulgation_date": "20210105",
+  "enforcement_date": "20210105",
+  "revision_date": "20210105",
+  "revision_type": "타법개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "보건복지부(정신건강정책과)",
+    "담당자명": "윤정환",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "정신요양시설의 입소비용수납한도액등에 관한 고시",
+    "발령일자": "20210105",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200409",
+    "조문형식여부": "Y",
+    "소관부처명": "보건복지부",
+    "전화번호": "044-202-3859",
+    "제개정구분명": "타법개정",
+    "소관부처코드": "1352000",
+    "생성일자": "20220826",
+    "행정규칙ID": "26379",
+    "시행일자": "20210105",
+    "담당부서기관코드": "1352757",
+    "발령번호": "2021-2",
+    "행정규칙일련번호": "2100000202753",
+    "상위부처명": "보건복지부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n○ 일몰기한이 설정되지 않은 보건복지부 소관 고시에 대하여 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」제7조에 따라 일몰규정을 신설하고자 함\n◇ 주요내용\n가. 일몰기한이 미설정된 고시에 대하여 일몰기한(재검토기한) 설정",
+  "body": {
+    "format": "articles",
+    "article_count": 3,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "비용수납한도액",
+        "chapter": "",
+        "content": "제1조(비용수납한도액) ① 「정신보건법」 제51조 및 「정신요양시설의 설치기준 및 운영에 관한규칙」 제11조의 규정에 의하여 정신요양시설의 설치ㆍ운영 자는 입소자(국민기초생활보장법에 의한 수급자는 제외한다)로부터 입소비용을 수납할 수 있② 제1항에 의한 입소비용 수납 한도액은 다음과 같이 산출한다.가. 당해 연도 월 입소비용한도액은 「국민기초생활보장법」 제6조 제2항에 의하여 전년도 보건복지가족부장관이 월 최저생계비로 고시한 금액 중 6인가구 현금급여기준을 가구원수(6인)로 나누어진 금액을 한도액으로 한다.나. 가항의 나누어진 금액 중 백원단위 금액은 절사한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조제1항",
+            "link_text": "「정신보건법」",
+            "line_text": "",
+            "target_law_name": "정신보건법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/정신보건법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정신요양시설의입소비용수납한도액등에관한고시#JO0001",
+            "reference_id": "law:정신보건법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조제1항",
+            "link_text": "제51조",
+            "line_text": "",
+            "target_law_name": "정신보건법",
+            "target_article_no": "제51조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/정신보건법/제51조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정신요양시설의입소비용수납한도액등에관한고시#JO0001",
+            "reference_id": "law:정신보건법#JO0051"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조제2항",
+            "link_text": "「국민기초생활보장법」",
+            "line_text": "",
+            "target_law_name": "국민기초생활보장법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활보장법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정신요양시설의입소비용수납한도액등에관한고시#JO0001",
+            "reference_id": "law:국민기초생활보장법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조제2항",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "국민기초생활보장법",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활보장법/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정신요양시설의입소비용수납한도액등에관한고시#JO0001",
+            "reference_id": "law:국민기초생활보장법#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:정신요양시설의입소비용수납한도액등에관한고시#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "비용의 수납",
+        "chapter": "",
+        "content": "제2조(비용의 수납) 정신요양시설의 설치ㆍ운영자는 제1조에서 정한 비용 수납 한도액 범위안에서 입소비용을 수납할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1조",
+            "line_text": "",
+            "target_law_name": "정신요양시설의 입소비용수납한도액등에 관한 고시",
+            "target_article_no": "제1조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/정신요양시설의 입소비용수납한도액등에 관한 고시/제1조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정신요양시설의입소비용수납한도액등에관한고시#JO0002",
+            "reference_id": "admrul:정신요양시설의입소비용수납한도액등에관한고시#JO0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:정신요양시설의입소비용수납한도액등에관한고시#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제3조(재검토기한) 보건복지부장관은 이 고시에 대하여 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2021년 1월 1일을 기준으로 매3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정신요양시설의입소비용수납한도액등에관한고시#JO0003",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:정신요양시설의입소비용수납한도액등에관한고시#JO0003"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20010119",
+      "promulgation_no": "2001-1",
+      "content": "부칙 <제2001-1호,2001. 1. 19.>이 고시는 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20090902",
+      "promulgation_no": "2009-171",
+      "content": "부칙 <제2009-171호,2009. 9. 2.>제1조(시행일) 이 고시는 2009년 10월 1일부터 시행한다.제2조(입소자에 관한 경과조치) 이 고시 시행당시 입소된 자에 대하여는 제1항의 규정에도 불구하고 입소비용 적용을 2010년 1월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20210105",
+      "promulgation_no": "2021-2",
+      "content": "부칙 (일몰기한 정비를 위한 27개 보건복지부고시의 일괄개정고시)<제2021-2호, 2021. 1. 5.>이 고시는 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "210105_고시발령_정신요양시설_입소비용_수납한도액_.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=104759771",
+      "file_store_url": "",
+      "filename": "210105_고시발령_정신요양시설_입소비용_수납한도액_.hwp"
+    },
+    {
+      "name": "(조문별제개정이유서) 일몰기한 정비를 위한 27개 보건복지부고시의 일괄개정고시.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=104759773",
+      "file_store_url": "",
+      "filename": "(조문별제개정이유서) 일몰기한 정비를 위한 27개 보건복지부고시의 일괄개정고시.hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 6,
+    "by_category": {
+      "법령": 4,
+      "행정규칙": 2
+    },
+    "by_relation_type": {
+      "citation": 5,
+      "internal_ref": 1
+    },
+    "articles_total": 3,
+    "articles_with_relations": 3,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 3,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/정신요양시설의 입소비용수납한도액등에 관한 고시"
+  },
+  "provision_id": "admrul:정신요양시설의입소비용수납한도액등에관한고시#DOC"
+}
