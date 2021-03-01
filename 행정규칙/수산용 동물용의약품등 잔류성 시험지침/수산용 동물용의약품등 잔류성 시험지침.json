@@ -1,0 +1,324 @@
+{
+  "law_id": "2100000198550",
+  "mst": "2100000198550",
+  "law_name": "수산용 동물용의약품등 잔류성 시험지침",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000198550",
+  "promulgation_no": "2021-21",
+  "promulgation_date": "20210224",
+  "enforcement_date": "20210301",
+  "revision_date": "20210224",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국립수산물품질관리원(수산방역과)",
+    "담당자명": "이창호",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "수산용 동물용의약품등 잔류성 시험지침",
+    "발령일자": "20210224",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국립수산물품질관리원",
+    "전화번호": "051-400-5651",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1192000",
+    "생성일자": "20210304",
+    "행정규칙ID": "2060527",
+    "시행일자": "20210301",
+    "담당부서기관코드": "1192074",
+    "발령번호": "2021-21",
+    "행정규칙일련번호": "2100000198550",
+    "상위부처명": "해양수산부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정 이유\n「수산생물질병 관리법 시행령」 및 「동물 약국 및 동물용 의약품등의 제조업ㆍ수입자와 판매업의 시설 기준령」일부개정(‘20.12.29.개정, ’21.3.1.시행)으로 \"수산생물 방역\" 및 \"수산용 동물용의약품등 관리\" 업무 소관이 국립수산과학원에서 국립수산물품질관리원으로 변경됨에 따라 업무 관련 행정규칙의 기관명, 기관장명 등을 정비하고자 함\n\n◇ 주요내용\n가. 수산생물 검ㆍ방역 통합에 따른 업무 소관 기관(장)명 개정\n\"방역\" 및 \"수산동물용의약품등 관리\" 업무 소관 기관 변경에 따라 기관명 등을 국립수산과학원(장)에서 국립수산물품질관리원(장)으로 변경",
+  "body": {
+    "format": "articles",
+    "article_count": 4,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 지침은 「약사법」제31조, 제42조, 제85조제1항, 「동물용의약품등 취급규칙」 제7조제1항 및 제2항, 「수산용 동물용의약품등 안전성·유효성 심사에 관한 규정」제7조제1항제7호에 따라 제출되는 수산용 동물용의약품등의 잔류성시험에 관한 세부사항을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「약사법」",
+            "line_text": "",
+            "target_law_name": "약사법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/약사법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산용동물용의약품등잔류성시험지침#JO0001",
+            "reference_id": "law:약사법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제31조",
+            "line_text": "",
+            "target_law_name": "약사법",
+            "target_article_no": "제31조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/약사법/제31조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산용동물용의약품등잔류성시험지침#JO0001",
+            "reference_id": "law:약사법#JO0031"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제42조",
+            "line_text": "",
+            "target_law_name": "약사법",
+            "target_article_no": "제42조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/약사법/제42조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산용동물용의약품등잔류성시험지침#JO0001",
+            "reference_id": "law:약사법#JO0042"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제85조제1항",
+            "line_text": "",
+            "target_law_name": "약사법",
+            "target_article_no": "제85조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/약사법/제85조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산용동물용의약품등잔류성시험지침#JO0001",
+            "reference_id": "law:약사법#JO0085"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「동물용의약품등 취급규칙」",
+            "line_text": "",
+            "target_law_name": "동물용의약품등 취급규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/동물용의약품등 취급규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산용동물용의약품등잔류성시험지침#JO0001",
+            "reference_id": "law:동물용의약품등취급규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제7조제1항 및 제2항",
+            "line_text": "",
+            "target_law_name": "동물용의약품등 취급규칙",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/동물용의약품등 취급규칙/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산용동물용의약품등잔류성시험지침#JO0001",
+            "reference_id": "law:동물용의약품등취급규칙#JO0007"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「수산용 동물용의약품등 안전성·유효성 심사에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "수산용 동물용의약품등 안전성·유효성 심사에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수산용 동물용의약품등 안전성·유효성 심사에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산용동물용의약품등잔류성시험지침#JO0001",
+            "reference_id": "admrul:수산용동물용의약품등안전성유효성심사에관한규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제7조제1항제7호",
+            "line_text": "",
+            "target_law_name": "수산용 동물용의약품등 안전성·유효성 심사에 관한 규정",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수산용 동물용의약품등 안전성·유효성 심사에 관한 규정/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산용동물용의약품등잔류성시험지침#JO0001",
+            "reference_id": "admrul:수산용동물용의약품등안전성유효성심사에관한규정#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수산용동물용의약품등잔류성시험지침#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) 이 지침에서 사용하는 용어의 뜻은 다음 각 호와 같다.1. \"잔류성시험\"이란 식용동물에 적용될 수산용 동물용의약품의 투여경로, 투여용량, 투여기간, 도축시기와 체내 잔류량과의 상관관계를 검토하여 수산용 동물용의약품의 안전사용기준을 설정하는 시험을 말한다.2. \"시험약물\"이란 알, 어류, 패류, 갑각류 등 모든 식용수산동물의 치료, 예방 또는 진단목적이나 생리기능의 조절을 위하여 투여되거나 적용되는 물질을 말한다.3. \"휴약기간\"이란 약물의 최종 투여 시기부터 함유된 잔류물질의 농도가 수산용 동물용의약품의 최대잔류허용한계 이하임을 보증할 수 있는 시기까지의 기간을 말한다.4. \"잔류물질\"이란 식용동물의 모든 가식부분에 존재하는 원약물 및 그 대사물질들을 말하며 공시약물과 관련된 불순물들도 포함한다.5. \"잔류분석\"이란 숙련된 분석자에 의해 분석대상물질의 잔류농도를 정량적으로 분석하는 시험을 말한다.6. \"분석대상물질\"이란 검출, 확인 및 정량되어야 할 시료 중의 잔류물질을 말하며 분석 시 분석대상물질로부터 생성된 유도체를 포함한다.7. \"잔류분석법\"이란 잔류분석을 목적으로 실험기구 및 장비를 사용하여 잔류물질의 검출·정량이 가능하고 상당한 검출감도, 정확도 및 반복성(실험실내 재현성) 등을 갖는 시험법을 말한다.8. \"특이성\"이란 측정하고자 하는 분석대상물질과 다른 물질을 구별할 수 있는 잔류분석법의 측정능력을 말한다.9. \"정확도\"란 일정농도의 분석대상물질이 첨가된 시료에 대해 잔류분석법에 의해 얻은 평균측정값과 참값 간에 일치하는 정도를 말한다.10. \"반복성\"이란 동일한 시료 및 분석법을 이용하여 같은 실험실, 장비 및 분석자에 의해 연속적으로 측정하여 얻은 분석결과 간의 일치하는 정도를 말하며, 동일한 측정조건에서 반복 시험하여 얻은 정밀도를 의미한다.11. \"재현성\"이란 동일한 시료 및 분석법을 이용하여 서로 다른 실험실, 장비 및 분석자에 의해 측정된 분석결과 간의 일치하는 정도를 말한다. 실험실내 재현성은 같은 실험실에서 이미 결정된 조건하에서 시간간격을 두고 측정하여 얻은 정밀도를 말한다.12. \"검출한계\"란 어느 주어진 분석법으로 시료에 대한 잔류분석 전 과정을 실시한 후 분석대상물질의 유무를 확인할 수 있는 최소 검출량을 말한다.13. \"정량한계\"란 어느 주어진 분석법으로 시료에 대한 잔류분석 전 과정을 실시한 후 분석대상물질을 합리적인 신뢰성을 가지고 정량할 수 있는 최소 검출량을 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수산용동물용의약품등잔류성시험지침#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "시험방법 등",
+        "chapter": "",
+        "content": "제3조(시험방법 등) 시험방법 등에 관한 구체적인 사항은 별표와 같다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수산용동물용의약품등잔류성시험지침#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제4조(재검토기한) 국립수산물품질관리원장은「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2021년 1월 1일 기준으로 매3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산용동물용의약품등잔류성시험지침#JO0004",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수산용동물용의약품등잔류성시험지침#JO0004"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20130520",
+      "promulgation_no": "2013-10",
+      "content": "부칙 <제2013-10호,2013. 5. 20.>이 고시는 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20160822",
+      "promulgation_no": "2016-19",
+      "content": "부칙 <제2016-19호,2016. 8. 22.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20200527",
+      "promulgation_no": "2020-5",
+      "content": "부칙 <제2020-5호,2020. 5. 27.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20210224",
+      "promulgation_no": "2021-21",
+      "content": "부칙<제2021-21호, 2021. 2. 24.>이 고시는 2021년 3월 1일부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별지",
+      "title": "수산용 동물용의약품등의 잔류성 시험방법",
+      "enforcement_date": "",
+      "content": "[별지]\n수산용 동물용의약품등의 잔류성 시험방법\n이 시험방법은 수산용 동물용의약품의 품목허가 신청 등의 목적으로 실시되는 안전성 평가를 위한 잔류성시험에 대하여 표준적인 실시방법으로 제시하여 수산용 동물용의약품등의 안전성의 적정한 평가에 이바지함을 목적으로 한다.\nⅠ. 잔류성 시험\n1. 어류 : 시험약물이 적용될 시험어류(패류와 갑각류를 포함한다)는 사료 및 수산용 동물용의약품의 사용경력 및 시험 개시 전에서의 사용방법 등이 명확한 것을 사용한다. 시험약물이 암컷 및 수컷에 동시에 적용되는 경우에는 시험어류에 암컷 및 수컷이 포함되도록 하며, 시험기간 중의 사육수온은 각각의 시험어류의 적정수온 및 비교수온을 기준으로 하여 다음의 범위내의 것을 한다.\n가. 해산어류(넙치, 돔류, 방어, 복어 등) : 적정수온 22±3℃, 비교수온 13±3℃\n나. 담수산 온수성 어류(잉어류, 메기 등) : 적정수온 25±3℃, 비교수온 13±3℃\n다. 담수산 냉수성 어류(무지개 송어 등) : 적정수온 15±3℃, 비교수온 22±3℃\n라. 열대성 어류(틸라피아, 뱀장어 등) : 적정수온 28±3℃, 비교수온 20±3℃\n마. 어  란 : 대상어종의 사육 적정수온\n바. 패류 (전복 등): 적정수온 22±3℃, 비교수온 13±3℃\n사. 갑각류 (새우 등): 적정수온 25±3℃, 비교수온 13±3℃\n2. 시험어류 수 : 사용되는 시험어류의 수는 수산용 동물용의약품의 잔류를 측정하는데 필요한 표본을 얻는데 충분한 수 이어야 한다. 단, 휴약기간을 설정할 목적으로 매 측정시간별 시료가 채취되어야 할 시험어류의 수는 다음의 범위를 기준으로 한다.\n가. 어    류 : 매 출하시기별 최소 15마리\n나. 패    류 : 매 출하시기별 최소 15마리\n다. 갑 각 류 : 매 출하시기별 최소 15마리\n3. 투여경로 : 투여경로는 임상적용 투여경로에 따른다. 그 경로가 복잡한 투여 경로일 경우에는 다른 투여방법을 선택한 이유가 명백해야 하고 투여 후 가장 장기간 잔류하는 것으로 예상되는 투여법을 선택한다.\n4. 용량단계 : 최소 2단계 이상의 투여군과 대조군을 사용한다. 최대 임상투여 용량을 최저용량으로 하는 2단계 이상의 실험군을 설정한다.\n5. 투여기간 : 임상적용의 최장 투여기간으로 한다. 단, 임상적용기간이 장기인 경우에는 잔류량이 일정치에 도달하는 것을 명백히 밝혀진 후 투여기간을 단축할 수 있다.\n6. 시료채취\n가. 잔류물질의 함유 여부를 확실히 하기 위하여 필요한 채취시점을 설정한다.\n나. 시험어류를 출하하여 얻는 시료의 채취 시기는 공시약물의 투여종료 후에 소실기에 들어간 시점과 조직 중에 잔류물이 검출되지 않게 된 시점과 그 사이에 적어도 1번의 채취시점을 설정한다.\n다. 출하를 필요로 하지 않고 얻는 시료(혈액, 알 등)의 채취시기는 가능한 한 빈도를 많이 설정한다.\n라. 시료의 채취부위는 잔류의 우려가 있는 시험어류의 가식부위(근육, 피부, 연조직, 알, 등)로 한다.\n마. 어패류양식장 등에 사용되는 약물로서 어체에 흡수될 가능성이 있는 것에 대하여는 혈액 및 알 등을 채취한다. 이 때 잔류가 인정되지 않으면 다른 가식부위의 채취를 실시할 필요는 없다.\n바. 시료의 채취에 대하여는 동일기관 또는 조직 중에서도 채취부위에 따라 잔류물질의 농도가 다른 경우가 있으므로 충분히 유의한다.\n사. 시료는 잔류분석에 충분히 필요한 양을 채취한 후 0∼5℃에서 보관하고 즉시 분석에 제공한다. 또 장기 보존할 경우에는 동결보존하나 동결ㆍ해동과정에서 잔류물질이 분해되지 않도록 유의한다.\nⅡ. 잔류분석법\n1. 분석법의 요건: 잔류분석을 위해서는 상당한 검출감도, 정확도, 반복성(실험실내 재현성) 등을 갖는 잔류분석법을 확립하여 사용한다. 잔류분석법은 다음의 범위내의 것을 기준으로 한다.\n가. 정확도\n┌───────────────┬─────────┐\n│농 도                         │허용범위(변이계수)│\n├───────────────┼─────────┤\n│ 1) 1㎍/kg이하                │ - 50내지  +20%   │\n│ 2) 1㎍/kg이상,  10㎍/kg이하  │ - 40내지  +20%   │\n│ 3) 10㎍/kg이상, 100㎍/kg이하 │ - 30내지  +10%   │\n│ 4) 100㎍/kg이상              │ - 20내지  +10%   │\n└───────────────┴─────────┘\n※ 회수율(%) = 측정값 / 참값 × 100\n나. 반복성(실험실내 재현성)\n┌───────────────┬─────────┐\n│농 도                         │허용범위(변이계수)│\n├───────────────┼─────────┤\n│ 1) 1㎍/kg이하                │ 35%              │\n│ 2) 1㎍/kg이상,  10㎍/kg이하  │ 30%              │\n│ 3) 10㎍/kg이상, 100㎍/kg이하 │ 20%              │\n│ 4) 100㎍/kg이상              │ 15%              │\n└───────────────┴─────────┘\n※ 변이계수(CV, %) = 표준편차/평균치×100\n다. 검출한계 : 대상 시험약물의 투여이력이 없는 시료(n≥20)를 잔류분석법으로 시험하여 얻은 평균 측정값에 표준편차의 3배를 더하여 산출하거나 이와 동등한 수준의 합리적인 신뢰도를 갖는 방법으로 산출한다.\n라. 정량한계 : 대상 시험약물의 투여이력이 없는 시료(n≥20)를 잔류분석법으로 시험하여 얻은 평균 측정값에 표준편차의 10배를 더하여 산출하거나 이와 동등한 수준의 합리적인 신뢰도를 갖는 방법으로 산출한다. 정량한계는 약물의 최대잔류허용한계치 1/2이하까지 정량할 수 있어야 한다.\n2. 시료분석 : 같은 시료에 대하여 잔류분석을 2회 이상 반복한다.\n3. 분석결과 :\n가. 분석치는 회수율에 의한 보정은 하지 않는다.\n나. 분석치가 정량한계(A ppm) 미만일 때는 0 ppm으로 기재하지 않고 \"A ppm 이하\"로 기재한다.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=96785627",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=96785627",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수산용동물용의약품등잔류성시험지침#BJ0000",
+      "filename": "별지0_수산용 동물용의약품등의 잔류성 시험방법.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "27.조문별제개정이유서_수산용 동물용의약품등 잔류성 시험지침.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=96499723",
+      "file_store_url": "",
+      "filename": "27.조문별제개정이유서_수산용 동물용의약품등 잔류성 시험지침.hwp"
+    },
+    {
+      "name": "고시 20 수산용 동물용의약품등 잔류성 시험지침 일부개정안(전문).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=96499725",
+      "file_store_url": "",
+      "filename": "고시 20 수산용 동물용의약품등 잔류성 시험지침 일부개정안(전문).hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 9,
+    "by_category": {
+      "법령": 6,
+      "행정규칙": 3
+    },
+    "by_relation_type": {
+      "citation": 9
+    },
+    "articles_total": 4,
+    "articles_with_relations": 2,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 4,
+    "appendices_count": 1,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/수산용 동물용의약품등 잔류성 시험지침"
+  },
+  "provision_id": "admrul:수산용동물용의약품등잔류성시험지침#DOC"
+}
