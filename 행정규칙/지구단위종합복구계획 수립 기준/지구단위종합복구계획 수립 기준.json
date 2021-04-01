@@ -1,0 +1,513 @@
+{
+  "law_id": "2100000199492",
+  "mst": "2100000199492",
+  "law_name": "지구단위종합복구계획 수립 기준",
+  "law_abbr": "",
+  "law_type": "예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000199492",
+  "promulgation_no": "154",
+  "promulgation_date": "20210401",
+  "enforcement_date": "20210401",
+  "revision_date": "20210401",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "행정안전부(복구지원과)",
+    "담당자명": "변환동",
+    "행정규칙종류코드": "B0002",
+    "행정규칙명": "지구단위종합복구계획 수립 기준",
+    "발령일자": "20210401",
+    "행정규칙종류": "예규",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "행정안전부",
+    "전화번호": "044-205-5315",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1741000",
+    "생성일자": "20220702",
+    "행정규칙ID": "45527",
+    "시행일자": "20210401",
+    "담당부서기관코드": "1741269",
+    "발령번호": "154",
+    "행정규칙일련번호": "2100000199492",
+    "상위부처명": "행정안전부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정이유\n「자연재해대책법」개정(‘12.8.23.)에 따른 「지구단위종합복구계획 수립 기준」제정(’14.8.7.) 이후 제도 운영과정에서 나타난 미비점 개선 및 제도적 보완사항을 반영하고, 지구단위종합복구계획 수립을 위한 세부 절차ㆍ방법 등을 구체화하려는 것임\n◇ 주요내용\n가. \"지구단위종합복구\" 정의 마련으로 피해지역 재난회복력 강화 개념 등을 포함한 개념 재정립(안 제2조)\n나. 중앙대책본부장이 지구단위종합복구계획을 수립하는 방법(유형) 확대(안 제3조)\n- 종전의 지대본부장의 요청에 의한 수립 유형에 중앙조사단 현지 조사 및 그 밖에 중앙대책본부장의 판단에 의한 수립 방법을 포함\n다. 지구단위종합복구계획 수립 대상지 지구 경계 설정 시 피해지역의‘토지의 용도별 이용상태 및 구성비’를 고려토록 개선(안 제5조)\n라. 지구단위종합복구계획서 작성시 방재계획, 이주대책계획 등 관련 계획 및 기준 등과의 연계성 강화(안 제6조)\n마. 지구단위종합복구계획서 서식 신설(안 별지 제1호서식)",
+  "body": {
+    "format": "articles",
+    "article_count": 10,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 예규는 「자연재해대책법」 제46조 및 제46조의3에 따라 지구단위종합복구계획을 수립하는데 필요한 세부적인 절차와 방법을 정하는데 그 목적이 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「자연재해대책법」",
+            "line_text": "",
+            "target_law_name": "자연재해대책법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연재해대책법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:지구단위종합복구계획수립기준#JO0001",
+            "reference_id": "law:자연재해대책법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제46조 및 제46조의3",
+            "line_text": "",
+            "target_law_name": "자연재해대책법",
+            "target_article_no": "제46조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연재해대책법/제46조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:지구단위종합복구계획수립기준#JO0001",
+            "reference_id": "law:자연재해대책법#JO0046"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제46조 및 제46조의3",
+            "line_text": "",
+            "target_law_name": "자연재해대책법",
+            "target_article_no": "제46조의3",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연재해대책법/제46조의3",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:지구단위종합복구계획수립기준#JO0001",
+            "reference_id": "law:자연재해대책법#JO0046_03"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:지구단위종합복구계획수립기준#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) 이 예규에서 사용하는 용어의 뜻은 다음 각 호와 같다.1. \"지구단위종합복구\"란 자연재해로 인한 피해가 복합적으로 발생한 지역을 하나의 지구로 묶어서 지역, 지형적 특성, 시설물간 연계성, 피해지역 재난회복력 강화 등을 고려하여 종합적으로 복구하는 것을 말한다.2. \"지구단위종합복구계획\"이란 피해가 복합적으로 발생된 일정지역을 지구단위지역으로 획정하고 시설물 간 연계를 고려하여 종합적으로 복구할 수 있도록 수립하는 계획을 말한다.3. \"지구단위종합복구사업\"이란 지구단위종합복구계획으로 수립된 피해지역에 대하여 시설물간 방재성능을 고려해 설계ㆍ시공ㆍ감리 등을 일괄적으로 시행하는 사업을 말한다.4. \"중앙복구계획 수립\"이란 「자연재해대책법」 제46조에 따라 중앙재난안전대책본부장(이하 \"중앙대책본부장\"이라 한다)이 복구계획을 중앙재난안전대책본부회의에 상정하여 심의ㆍ확정하는 것을 말한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「자연재해대책법」",
+            "line_text": "",
+            "target_law_name": "자연재해대책법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연재해대책법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:지구단위종합복구계획수립기준#JO0002",
+            "reference_id": "law:자연재해대책법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제46조",
+            "line_text": "",
+            "target_law_name": "자연재해대책법",
+            "target_article_no": "제46조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연재해대책법/제46조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:지구단위종합복구계획수립기준#JO0002",
+            "reference_id": "law:자연재해대책법#JO0046"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:지구단위종합복구계획수립기준#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "지구단위종합복구계획 수립기관 및 역할",
+        "chapter": "",
+        "content": "제3조(지구단위종합복구계획 수립기관 및 역할) ① 중앙대책본부장은 다음 각 호에 따라 지구단위종합복구계획을 수립할 수 있다.1. 지역재난안전대책본부장(이하 \"지역대책본부장\"이라 한다.)이 요청하여 수립하는 경우2. 중앙재난피해합동조사단장이 피해조사 시 필요하다고 판단하여 수립하는 경우3. 그 밖에 중앙대책본부장이 피해 규모 등 제반 사항을 고려하여 필요하다고 판단하여 수립하는 경우② 중앙대책본부장 및 지역대책본부장의 역할은 다음 각 호와 같다.1. 중앙대책본부장가. 피해조사를 위한 중앙합동조사단의 구성ㆍ운영나. 지구단위종합복구계획 수립 대상지 선정다. 복구계획 수립 관련 지역대책본부장 업무지원라. 지구단위종합복구계획 심의ㆍ확정마. 확정된 지구단위종합복구계획 해당 지역대책본부장 통보바. 대내외 기관 협조, 언론 홍보2. 지역대책본부장가. 대상지 시설별 피해조사 및 재해대장 작성나. 지구단위종합복구계획서 작성다. 지구단위종합복구계획 수립 요청라. 재난관리시스템(NDMS) 전산입력ㆍ처리",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:지구단위종합복구계획수립기준#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "지구단위종합복구계획 수립 대상지역",
+        "chapter": "",
+        "content": "제4조(지구단위종합복구계획 수립 대상지역) 지구단위종합복구계획을 수립하는 대상지역은 「자연재해대책법」제46조의3제1항 및 같은 법 시행령 제33조의4에 따르며, 자연재해로 인해 집단이주단지 조성이 필요한 피해지역을 지구단위종합복구계획 수립 대상지역으로 포함할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제46조의3제1항",
+            "line_text": "",
+            "target_law_name": "자연재해대책법",
+            "target_article_no": "제46조의3",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연재해대책법/제46조의3",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:지구단위종합복구계획수립기준#JO0004",
+            "reference_id": "law:자연재해대책법#JO0046_03"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "자연재해대책법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연재해대책법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:지구단위종합복구계획수립기준#JO0004",
+            "reference_id": "law:자연재해대책법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제33조의4",
+            "line_text": "",
+            "target_law_name": "자연재해대책법 시행령",
+            "target_article_no": "제33조의4",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연재해대책법 시행령/제33조의4",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:지구단위종합복구계획수립기준#JO0004",
+            "reference_id": "law:자연재해대책법시행령#JO0033_04"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:지구단위종합복구계획수립기준#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "지구단위종합복구계획 수립 대상지 선정 등",
+        "chapter": "",
+        "content": "제5조(지구단위종합복구계획 수립 대상지 선정 등) ① 중앙대책본부장 및 지역대책본부장은 피해발생일로부터 재해 발생 현황, 재해 원인 분석 등 재해 상황을 상세히 기록하여 보관해야 하며, 피해규모와 유형 등을 지속적으로 관찰하여 지구단위종합복구계획을 수립할 필요성이 있는지 판단해야 한다.② 지역대책본부장은 피해가 집중적으로 발생한 지역을 지형도(축척 1/25,000 또는 1/50,000 등) 또는 기본공간정보ㆍ수치지형도(축척 1/5,000) 등 공간정보를 활용하여 현장을 조사하고 주요 시설에 대한 피해발생여부, 피해규모, 피해양상 등을 파악해야 한다.③ 지역대책본부장은 피해조사 결과 피해규모 및 유형이 제4조의 지구단위종합복구계획 수립 대상지 조건에 부합하는지를 검토하여 지구단위종합복구계획 수립 대상지로 선정한다.④ 지역대책본부장은 제3항에 따라 선정한 지구를 지형도 또는 기본공간정보ㆍ수치지형도에 표시해야 하며, 지구 경계 설정 시 고려할 사항은 다음 각 호와 같다.1. 피해규모ㆍ유형, 동일 수계ㆍ유역2. 지형적으로 임야(능선), 하천, 도로, 행정구역3. 토지의 용도별 이용상태, 토양 및 지질, 재해위험요인4. 기타 지구 경계를 명확히 할 수 있는 요인⑤ 피해액의 산정은 선정한 지구 내 피해를 시설별ㆍ부처별로 분류하고 공공시설과 사유시설의 피해액을 합한 값으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제3항",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "지구단위종합복구계획 수립 기준",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/지구단위종합복구계획 수립 기준/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:지구단위종합복구계획수립기준#JO0005",
+            "reference_id": "admrul:지구단위종합복구계획수립기준#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:지구단위종합복구계획수립기준#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "지구단위종합복구계획 수립",
+        "chapter": "",
+        "content": "제6조(지구단위종합복구계획 수립) ① 중앙대책본부장 및지역대책본부장은  선정한 지구 내 각각의 시설 피해에 대하여 피해액과 복구비를 산정하고 제4조의 지구단위종합복구계획 수립 대상지 조건에 부합하는지 여부를 우선적으로 판단해야 한다.② 지역대책본부장은 지구단위종합복구계획 수립이 필요하다고 판단할 경우 다음 각 호에 따라 복구계획서를 작성하여 중앙복구계획 수립 전까지 중앙대책본부장에게 지구단위종합복구계획 수립을 요청할 수 있다.1. 지역대책본부장은 지구단위종합복구계획을 수립하고자 하는 경우 지구별로 별지 제1호서식에 따른 지구단위종합복구계획서를 작성하여야 한다.2. 지구단위종합복구계획 수립 시 지구 내 공공시설을 하나의 지구로 묶어서 한 건으로 복구계획을 수립한다.3. 지구단위종합복구계획서 작성 시 다음의 관련 계획 및 기준 등과의 연계성을 검토해야 한다.가. 자연재해저감 종합계획나. 지역별 방재성능목표다. 지구단위 홍수방어기준라. 자연재해위험개선지구 정비계획 및 풍수해 생활권 종합정비계획마. 우수유출저감대책 및 우수유출저감시설 사업계획바. 하천기본계획, 소하천정비종합계획사. 도시ㆍ군관리계획, 지역개발종합계획, 도시재생활성화계획아. 소규모 위험시설 정비 중기계획자. 농어촌 정비 종합계획차. 이주대책계획③ 제2항에 따라 지구단위종합복구계획 수립을 요청받은 중앙대책본부장은 대상조건 및 필요성이 인정되면 현지조사를 거쳐 지구단위종합복구계획을 수립한다.④ 중앙대책본부장은 지구단위종합복구계획을 중앙재난안전대책본부회의 심의를 거쳐 확정하고 그 결과를 해당 지방자치단체의 장에게 신속히 통보해야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "지구단위종합복구계획 수립 기준",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/지구단위종합복구계획 수립 기준/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:지구단위종합복구계획수립기준#JO0006",
+            "reference_id": "admrul:지구단위종합복구계획수립기준#JO0004"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "지구단위종합복구계획 수립 기준",
+            "target_article_no": "별지1",
+            "target_article_title": "지구단위종합복구계획서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=98716089",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:지구단위종합복구계획수립기준#JO0006",
+            "reference_id": "admrul:지구단위종합복구계획수립기준#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:지구단위종합복구계획수립기준#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "지구단위복구비용의 산정 등",
+        "chapter": "",
+        "content": "제7조(지구단위복구비용의 산정 등) 지구단위종합복구계획 수립 지구 내에 포함된 시설의 복구비용은 「자연재난 구호 및 복구비용 부담기준 등에 관한 규정」 제10조제1항에 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "「자연재난 구호 및 복구비용 부담기준 등에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "자연재난 구호 및 복구비용 부담기준 등에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연재난 구호 및 복구비용 부담기준 등에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:지구단위종합복구계획수립기준#JO0007",
+            "reference_id": "law:자연재난구호및복구비용부담기준등에관한규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "제10조제1항",
+            "line_text": "",
+            "target_law_name": "자연재난 구호 및 복구비용 부담기준 등에 관한 규정",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연재난 구호 및 복구비용 부담기준 등에 관한 규정/제10조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:지구단위종합복구계획수립기준#JO0007",
+            "reference_id": "law:자연재난구호및복구비용부담기준등에관한규정#JO0010"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:지구단위종합복구계획수립기준#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "피해ㆍ복구액 조정",
+        "chapter": "",
+        "content": "제8조(피해ㆍ복구액 조정) 중앙대책본부장은 다음 각 호의 어느 하나에 해당하는 경우에는 피해ㆍ복구액을 조정할 수 있다. 이 경우 지역대책본부장은 특별한 사유가 없으면 조정결과에 따라 조치해야 한다.1. 지역대책본부장이 요청한 지구단위종합복구계획의 피해ㆍ복구 물량과 단가 산정이 잘못된 경우2. 「자연재난 구호 및 복구비용 부담기준 등에 관한 규정」 제6조에 따라 국고 지원에서 제외되는 사항을 복구계획에 포함한 경우3. 지구 선정, 복구공법 등이 현지 여건과 맞지 않은 경우4. 국가재정 여건에 따라 사업대상과 규모에 대한 조정이 필요한 경우",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "「자연재난 구호 및 복구비용 부담기준 등에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "자연재난 구호 및 복구비용 부담기준 등에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연재난 구호 및 복구비용 부담기준 등에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:지구단위종합복구계획수립기준#JO0008",
+            "reference_id": "law:자연재난구호및복구비용부담기준등에관한규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "자연재난 구호 및 복구비용 부담기준 등에 관한 규정",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연재난 구호 및 복구비용 부담기준 등에 관한 규정/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:지구단위종합복구계획수립기준#JO0008",
+            "reference_id": "law:자연재난구호및복구비용부담기준등에관한규정#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:지구단위종합복구계획수립기준#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "다른 기준과의 관계",
+        "chapter": "",
+        "content": "제9조(다른 기준과의 관계) 지구단위종합복구계획 수립에 관하여 다른 법령에 특별한 규정이 없는 경우를 제외하고는 이 기준을 적용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:지구단위종합복구계획수립기준#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제10조(재검토기한) 행정안전부장관은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 예규에 대하여 2021년 7월 1일을 기준으로 3년마다(매 3년째의 6월 30일까지를 말한다.) 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:지구단위종합복구계획수립기준#JO0010",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:지구단위종합복구계획수립기준#JO0010"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20190430",
+      "promulgation_no": "69",
+      "content": "부칙 <제69호,2019. 4. 30.>제1조(시행일) 이 예규는 발령한 날부터 시행한다.제2조(예규의 폐지) 이 예규의 발령과 동시에 「지구단위종합복구계획 수립 기준」(국민안전처예규 제14호)은 폐지한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "지구단위종합복구계획서",
+      "enforcement_date": "",
+      "content": "■ 지구단위종합복구계획 수립 기준[별지 제1호서식]\n○○지구 지구단위종합복구계획서\n\n○○○○(시?도)\n(시?군?구 명)\n\n┌───┬────┐\n│작성자│직·성명│\n└───┴────┘\n용지규격 : 257㎜×364㎜[일반용지 120g/㎡(재활용품)], B4종으로 작성\n┏━┓\n┃1 ┃   위치도\n┗━┛━━━━━━\n축척표시(1/50,000, 1/25,000 등)\n┌┐\n││\n└┘\n※ 지도(축척 1/50,000 또는 1/25,000) 또는 기본공간정보?수치지형도에 지구단위종합복구계획을 수립하고자 하는 대상 지구의 위치와 경계를 표시\n┏━┓\n┃2 ┃   피해내용\n┗━┛━━━━━━━\n□ 피해원인\n○ 구체적이고 논리적으로 피해원인과 그 특성을 설명하고 내외적인 요인을 분석하여 작성\n○ ……………\n○ ……………\n※ 호우기간 :    .  .  .  ～    .  .  .\n강 우 량 : ○○○mm (최대 시우량 ○○○mm)\n□ 피해현황(피해액 00,000백만원)\n○ 인  명 : 00명(사망 0, 실종 0, 부상 0, 이재민 0)\n○ 주  택 : 00동(전파 00, 반파 00)\n○ 도  로 : 00km(지방도 00, 군도 00, 농어촌도로 00)\n○ 하  천 : 00km(지방하천 00, 소하천00)\n○ 산사태 : 00개소, 00ha\n○ 소규모, 기타 : 00개소\n□ 과거 피해현황\n━━━━━━━┯━━━━━━━┯━━━━━━━━━━┯━━━━━━━━━━\n발생일시    │피해규모      │피해원인            │기상 관측값\n━━━━━━━┿━━━━━━━┿━━━━━━━━━━┿━━━━━━━━━━\n2012.8.30.  │?제방유실 6km│외수범람과 내수배제 │?일 강우량 300mm\n(태풍 루사) │?도로유실 1km│불량 등             │?최대 시우량 80mm\n───────┼───────┼──────────┼──────────\n…          │…            │…                  │…\n━━━━━━━┷━━━━━━━┷━━━━━━━━━━┷━━━━━━━━━━\n※ 최근 10년 이내 지구 내 도로, 하천, 산사태 등 주요 시설에 대한 피해 발생 시 작성\n┏━┓\n┃3 ┃   피해 현황도\n┗━┛━━━━━━━━\n┌┐\n││\n└┘\n※ 영상지도(국토교통부 전국정사영상지도 및 3차원 공간정보) 또는 위성지도를 활용하고 피해 발생 현황을 한눈에 알아보기 쉽도록 피해 발생 지역의 현장 사진을 사용하여 현황도를 작성\n┏━┓\n┃4 ┃   지구단위종합복구계획\n┗━┛━━━━━━━━━━━━━\n□ 지구단위종합복구의 필요성\n○ 자연재해저감종합계획, 자연재해위험개선지구 등 정비계획 포함여부, 피해재발 가능성, 사업추진 지역여건 등을 객관적으로 작성\n○ …………\n○ ……………\n□ 지구단위종합복구 계획\n○ 지 구 명 : ○○지구\n○ 위    치 : ○○시도 ○○시군구 ○○읍면동 ○○리 일원\n○ 지구면적 : ○○㎢\n○ 복구방침 : …………\n[단위 : 백만원]\n━━━━┯━━━━┯━━━━┯━━━━┯━━━━━\n시설명│시설구분│전체현황│복구물량│복구금액\n━━━━┿━━━━┿━━━━┿━━━━┿━━━━━\n계    │        │        │        │30,000\n────┼────┼────┼────┼─────\n○○천│지방하천│15km    │9km     │18,000\n────┼────┼────┼────┼─────\n사방댐│산사태  │        │3개소   │1,000\n────┼────┼────┼────┼─────\n…    │…      │…      │…      │…\n────┼────┼────┼────┼─────\n…    │…      │…      │…      │…\n━━━━┷━━━━┷━━━━┷━━━━┷━━━━━\n※ 지구단위종합복구계획으로 복구계획을 수립하고자 하는 내용 작성\n□ 복구비 산출근거\n━━━━━━━━━━━━┯━━━━┯━━━━━━━━━━━┯━━━\n시설명                │단위    │복구계획              │비고\n(시설구분)            │        ├──┬───┬────┤\n│        │물량│단가  │금액    │\n│        │    │(천원)│(백만원)│\n━━━━━━━━━━━━┷━━━━┿━━┿━━━┿━━━━┿━━━\n합  계                          │    │      │        │\n──────┬─────┬────┼──┼───┼────┼───\n○○천    │계        │개소/m  │    │      │        │\n(지방하천)├─────┼────┼──┼───┼────┼───\n│호안공    │m2      │    │      │        │\n├─────┼────┼──┼───┼────┼───\n│구조물공  │개소    │    │      │        │\n──────┼─────┼────┼──┼───┼────┼───\n○○교    │계        │개소/m  │    │      │        │\n(군도)    ├─────┼────┼──┼───┼────┼───\n│SLAB      │개소    │    │      │        │\n├─────┼────┼──┼───┼────┼───\n│교대?교각│개소    │    │      │        │\n├─────┼────┼──┼───┼────┼───\n│부대시설  │개소    │    │      │        │\n──────┼─────┼────┼──┼───┼────┼───\n산사태    │계        │개소    │    │      │        │\n├─────┼────┼──┼───┼────┼───\n│사방댐    │개소    │    │      │        │\n├─────┼────┼──┼───┼────┼───\n│야계사방  │개소/km │    │      │        │\n──────┴─────┼────┼──┼───┼────┼───\n농  로 (소규모)       │개소/m  │    │      │        │\n━━━━━━━━━━━━┷━━━━┷━━┷━━━┷━━━━┷━━━\n※ ㆍ 시설별, 공종별로 복구비 산출근거를 명시\nㆍ 별도 제출서류 : 재해대장, 신규단가 관련 서류, 하천기본계획 등 참고자료\n□ 기대효과\n○ 지역특성을 고려한 지역개발종합계획과의 연계성 등 기대효과 작성\n○ ……………\n┏━┓\n┃5 ┃   종합복구 계획도\n┗━┛━━━━━━━━━━\n┌───────────┐\n│종합복구 계획도(전체) │\n┌┤                      ├┐\n││                      ││\n│└───────────┘│\n│                          │\n└─────────────┘\n※ 영상지도(국토교통부 전국정사영상지도 및 3차원 공간정보) 또는 위성지도를 활용하고 지구 내 전체 복구계획을 나타낼 수 있도록 종합복구계획도 작성\n┌────────────┐\n│피해?복구단면도(시설별)│\n┌┤                        ├────────────────────────┐\n││                        │                                                │\n│└────────────┘                                                │\n│“각 시설별로 피해단면도와 복구단면도를 작성하되, 피해단면은 흑색으로, 복구 │\n│계획 단면은 적색으로 알아보기 쉽도록 No-scale로 Drawing”                   │\n└──────────────────────────────────────┘\n┌────────────┐\n│종합복구 계획도(시설별) │\n┌┤                        ├──────────────────────────┐\n││                        │                                                    │\n│└────────────┘                                                    │\n│“각 시설별로 영상지도(국토교통부 전국정사영상지도 및 3차원 공간정보) 또는 위성 │\n│지도를 활용하고 종합복구 계획도 작성”                                          │\n└────────────────────────────────────────┘\n※ 도로?하천?산사태 등 주요 시설별로 작성함을 원칙으로 하되, 현장 여건에 따라 지역대책본부장이 판단하여 시설별로 작성\n┏━┓\n┃6 ┃   피해사진\n┗━┛━━━━━━━\n┌────────────────────────────────┐\n│“시설별로 사진을 촬영하여 첨부하고 현장에 대한 부연설명 작성” │\n├────┬───────────────────────────┤\n│사진설명│                                                      │\n└────┴───────────────────────────┘\n┌────────────────────────────────┐\n│“시설별로 사진을 촬영하여 첨부하고 현장에 대한 부연설명 작성” │\n├────┬───────────────────────────┤\n│사진설명│                                                      │\n└────┴───────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=98716089",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=98716089",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:지구단위종합복구계획수립기준#BJ0001",
+      "filename": "별지1_지구단위종합복구계획서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "지구단위종합복구계획 수립 기준 일부개정 전문.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=98402471",
+      "file_store_url": "",
+      "filename": "지구단위종합복구계획 수립 기준 일부개정 전문.hwp"
+    },
+    {
+      "name": "제개정 이유서.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=98402473",
+      "file_store_url": "",
+      "filename": "제개정 이유서.hwp"
+    },
+    {
+      "name": "지구단위종합복구계획 수립 기준(행정안전부예규)(제69호)(20190430).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=98402475",
+      "file_store_url": "",
+      "filename": "지구단위종합복구계획 수립 기준(행정안전부예규)(제69호)(20190430).hwp"
+    },
+    {
+      "name": "별지 제1호서식.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=98402477",
+      "file_store_url": "",
+      "filename": "별지 제1호서식.hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 16,
+    "by_category": {
+      "법령": 12,
+      "행정규칙": 3,
+      "별지": 1
+    },
+    "by_relation_type": {
+      "citation": 13,
+      "internal_ref": 2,
+      "appendix_ref": 1
+    },
+    "articles_total": 10,
+    "articles_with_relations": 8,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 1,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/지구단위종합복구계획 수립 기준"
+  },
+  "provision_id": "admrul:지구단위종합복구계획수립기준#DOC"
+}
