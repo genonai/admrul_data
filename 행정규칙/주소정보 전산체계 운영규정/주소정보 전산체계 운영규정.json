@@ -1,0 +1,936 @@
+{
+  "law_id": "2100000174765",
+  "mst": "2100000174765",
+  "law_name": "주소정보 전산체계 운영규정",
+  "law_abbr": "",
+  "law_type": "훈령",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000174765",
+  "promulgation_no": "196",
+  "promulgation_date": "20210609",
+  "enforcement_date": "20210609",
+  "revision_date": "20210609",
+  "revision_type": "폐지제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "행정안전부(주소정보혁신과)",
+    "담당자명": "최인량",
+    "행정규칙종류코드": "B0001",
+    "행정규칙명": "주소정보 전산체계 운영규정",
+    "발령일자": "20210609",
+    "행정규칙종류": "훈령",
+    "제개정구분코드": "200407",
+    "조문형식여부": "Y",
+    "소관부처명": "행정안전부",
+    "전화번호": "044-205-3561",
+    "제개정구분명": "폐지제정",
+    "소관부처코드": "1741000",
+    "생성일자": "20220118",
+    "행정규칙ID": "33497",
+    "시행일자": "20210609",
+    "담당부서기관코드": "1741227",
+    "발령번호": "196",
+    "행정규칙일련번호": "2100000174765",
+    "상위부처명": "행정안전부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\nㅇ도로명주소법 개정(’21.6.9.시행)에 따라 동법 시행령 제53조제3항에서 위임한 사항과 그 시행에 필요한 사항을 규정하고, 운영과정에서 나타난 미비점 등을 개선ㆍ보완하려는 것임.\n◇ 주요내용\n가. 제명 및 형식\n○ 주소정보를 생성ㆍ관리하는 시스템의 운영 규정임을 반영하여 제명을 「주소정보 전산체계 운영규정」으로 명확히 하고, 동 규정의 성격ㆍ내용을 고려하여 훈령으로 변경함\n나. 주소정보 전산체계 구성(제3조~제11조)\n○ 사용하는 프로그램 목록을 6가지로 규정하고, 그 기능을 정의함\n- 중앙ㆍ시도ㆍ시군구주소정보관리시스템, 주소정보현장지원시스템, 주소정보누리집, 주소정보활용지원시스템\n다. 주소정보관리시스템 운영(제12조~제15조)\n○ 시스템 운영 관리책임자 및 보안담당자, 사용자를 지정하여 운영 권한 및 책임을 명확히 하고, 시스템 장애 및 오류 발생 시 즉시 행안부 통보 및 정비 내역 보존, 주기적 백업을 실시하도록 규정함\n라. 주소정보 데이터 관리(제16조~제19조)\n○ 효율적 관리 및 안정적 운영을 위한 전산체계 사용 코드 및 데이터 목록을 현 실정에 맞게 규정함\n○ 데이터 정합성 유지 및 오류 방지를 위해 행정안전부 공공데이터관리지침 준수, 데이터 정비기준 수립 및 시행하도록 함\n마. 주소정보 전산체계 유지ㆍ관리(제20조~제26조)\n○ 주소정보 유지관리 업무 범위, 시스템의 보안관리 기준, 응용 프로그램 개발 및 보안 관련 사항 등을 규정하도록 함",
+  "body": {
+    "format": "articles",
+    "article_count": 26,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총 칙",
+        "content": "제1조(목적) 이 규정은 「도로명주소법 시행령」 제53조제3항에 따라 주소정보관리시스템의 구축, 자료의 관리 및 공유 등에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「도로명주소법 시행령」",
+            "line_text": "",
+            "target_law_name": "도로명주소법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도로명주소법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주소정보전산체계운영규정#JO0001",
+            "reference_id": "law:도로명주소법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제53조제3항",
+            "line_text": "",
+            "target_law_name": "도로명주소법 시행령",
+            "target_article_no": "제53조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도로명주소법 시행령/제53조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주소정보전산체계운영규정#JO0001",
+            "reference_id": "law:도로명주소법시행령#JO0053"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:주소정보전산체계운영규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "용어의 정의",
+        "chapter": "제1장 총 칙",
+        "content": "제2조(용어의 정의) 이 규정에서 사용하는 용어의 정의는 다음과 같다.1. \"주소정보 전산체계\"란 주소정보관리시스템과 이 시스템 자료의 관리ㆍ안내ㆍ활용지원 등에 사용되는 시스템 전반을 말한다.2. \"관리책임자\"란 주소정보 전산체계에 대한 관리권한을 부여 받아 자원관리 및 보안관제를 실시하는 자를 말한다.3. \"사용자\"란 주소정보 전산체계를 관리하는 기관의 장으로부터 주소정보 전산체계에 접근 또는 사용 허가를 받은 자를 말한다.4. \"인터넷망\"이란 인터넷을 사용할 수 있도록 연결되어 있는 망을 말한다.5. \"행정망\"이란 인터넷망과 분리된 내부의 전산망을 말한다.6. \"저장매체\"란 디스켓, CD, 외장형 하드디스크, USB메모리 등 정보를 저장할 수 있는 것으로 주소정보 전산체계와 분리할 수 있는 저장장치를 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:주소정보전산체계운영규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "주소정보 전산체계의 구성",
+        "chapter": "제2장 주소정보 전산체계의 설치",
+        "content": "제3조(주소정보 전산체계의 구성) ① 주소정보에 관한 전산체계는 주소정보관리시스템, 주소정보활용지원시스템, 주소정보누리집, 주소정보현장지원시스템으로 구성한다.② 주소정보관리시스템은 중앙주소정보관리시스템, 시ㆍ도주소정보관리시스템, 시ㆍ군ㆍ구주소정보관리시스템으로 구성한다.③ 주소정보 전산체계에 필요한 프로그램은 행정안전부장관이 개발하여 보급한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:주소정보전산체계운영규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "주소정보 전산체계의 설치",
+        "chapter": "제2장 주소정보 전산체계의 설치",
+        "content": "제4조(주소정보 전산체계의 설치) ① 주소정보 전산체계는 다음 각 호에 따라 설치하여 운영한다.1. 중앙주소정보관리시스템, 주소정보활용시스템, 주소정보누리집: 국가정보자원관리원2. 시ㆍ도주소정보관리시스템: 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도 및 특별자치도(이하 \"시ㆍ도\"라 한다)3. 시ㆍ군ㆍ구주소정보관리시스템: 시ㆍ군ㆍ구(자치구를 말한다. 이하 같다.)4. 주소정보현장지원시스템 : 시ㆍ도 및 시ㆍ군ㆍ구② 주소정보관리시스템은 행정망을 사용하고, 주소정보현장지원시스템, 주소정보활용지원시스템, 주소정보누리집은 인터넷망을 사용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:주소정보전산체계운영규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "프로그램 목록",
+        "chapter": "제2장 주소정보 전산체계의 설치",
+        "content": "제5조(프로그램 목록) ① 주소정보 전산체계에서 사용하는 프로그램 목록은 다음 각 호와 같다.1. 중앙주소정보관리시스템: 별표 12. 주소정보활용지원시스템: 별표 23. 주소정보누리집: 별표 34. 시ㆍ도주소정보관리시스템: 별표 45. 시ㆍ군ㆍ구주소정보관리시스템: 별표 56. 주소정보현장지원시스템 : 별표 6② 제1항에 따른 프로그램 목록의 이름을 설정하는 기준은 별표7와 같다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "주소정보 전산체계 운영규정",
+            "target_article_no": "별표1",
+            "target_article_title": "중앙주소정보관리시스템 프로그램 목록(Web)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000174765&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주소정보전산체계운영규정#JO0005",
+            "reference_id": "admrul:주소정보전산체계운영규정#BYL0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "주소정보 전산체계 운영규정",
+            "target_article_no": "별표2",
+            "target_article_title": "주소정보활용지원시스템 프로그램 목록",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000174765&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주소정보전산체계운영규정#JO0005",
+            "reference_id": "admrul:주소정보전산체계운영규정#BYL0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "주소정보 전산체계 운영규정",
+            "target_article_no": "별표3",
+            "target_article_title": "주소정보누리집 프로그램 목록",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000174765&bylNo=0003&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주소정보전산체계운영규정#JO0005",
+            "reference_id": "admrul:주소정보전산체계운영규정#BYL0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "별표 4",
+            "line_text": "",
+            "target_law_name": "주소정보 전산체계 운영규정",
+            "target_article_no": "별표4",
+            "target_article_title": "시·도주소정보관리시스템 프로그램 목록(Web)",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000174765&bylNo=0004&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주소정보전산체계운영규정#JO0005",
+            "reference_id": "admrul:주소정보전산체계운영규정#BYL0004"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "별표 5",
+            "line_text": "",
+            "target_law_name": "주소정보 전산체계 운영규정",
+            "target_article_no": "별표5",
+            "target_article_title": "시·군·구주소정보관리시스템 프로그램 목록(Web)",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000174765&bylNo=0005&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주소정보전산체계운영규정#JO0005",
+            "reference_id": "admrul:주소정보전산체계운영규정#BYL0005"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "별표 6",
+            "line_text": "",
+            "target_law_name": "주소정보 전산체계 운영규정",
+            "target_article_no": "별표6",
+            "target_article_title": "주소정보현장지원시스템 프로그램 목록",
+            "appendix_no": "6",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000174765&bylNo=0006&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주소정보전산체계운영규정#JO0005",
+            "reference_id": "admrul:주소정보전산체계운영규정#BYL0006"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "별표7",
+            "line_text": "",
+            "target_law_name": "주소정보 전산체계 운영규정",
+            "target_article_no": "별표7",
+            "target_article_title": "프로그램 명칭 설정 기준",
+            "appendix_no": "7",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000174765&bylNo=0007&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주소정보전산체계운영규정#JO0005",
+            "reference_id": "admrul:주소정보전산체계운영규정#BYL0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:주소정보전산체계운영규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "중앙주소정보관리시스템",
+        "chapter": "제3장 주소정보 전산체계별 기능",
+        "content": "제6조(중앙주소정보관리시스템) ① 중앙주소정보관리시스템은 행정안전부장관이 운영한다.② 중앙주소정보관리시스템은 다음 각 호의 기능을 수행한다.1. 시ㆍ도 주소정보의 취합관리 및 주소정보누리집에 제공2. 주소정보 제공을 위한 기술지원 서비스3. 주소정보 품질 관리4. 주소정보 관리 및 주기적인 백업 및 보안 업무5. 주소정보 관련 코드 관리",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:주소정보전산체계운영규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "시ㆍ도주소정보관리시스템",
+        "chapter": "제3장 주소정보 전산체계별 기능",
+        "content": "제7조(시ㆍ도주소정보관리시스템) ① 시ㆍ도주소정보관리시스템은 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사 및 특별자치도지사(이하 \"시ㆍ도지사\"라 한다)가 운영한다.② 시ㆍ도주소정보관리시스템은 다음 각 호의 기능을 수행한다.1. 시ㆍ군ㆍ구 주소정보의 취합관리 및 중앙주소정보관리시스템에 제공2. 주소정보 관리 및 주기적인 백업 및 보안 업무",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:주소정보전산체계운영규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "시ㆍ군ㆍ구주소정보관리시스템",
+        "chapter": "제3장 주소정보 전산체계별 기능",
+        "content": "제8조(시ㆍ군ㆍ구주소정보관리시스템) ① 시ㆍ군ㆍ구주소정보관리시스템은 시장ㆍ군수ㆍ자치구청장(이하 \"시ㆍ군ㆍ구청장\"라 한다)이 운영한다.② 시ㆍ군ㆍ구주소정보관리시스템은 다음 각 호의 기능을 수행한다.1. 도로명(도로구간, 기초번호 포함) 부여ㆍ변경ㆍ폐지ㆍ정정2. 도로명주소(상세주소 포함) 부여ㆍ변경ㆍ폐지ㆍ정정3. 사물주소 부여ㆍ변경ㆍ폐지ㆍ정정4. 국가지점번호, 국가기초구역, 주소정보안내시설 관리5. 주소정보 오류 정정6. 주소정보기본도 및 도로명주소대장 관리7. 주소정보 관리 및 주기적인 백업, 보안 업무",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:주소정보전산체계운영규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "주소정보활용지원시스템",
+        "chapter": "제3장 주소정보 전산체계별 기능",
+        "content": "제9조(주소정보활용지원시스템) ① 주소정보활용지원시스템은 행정안전부 장관이 운영한다.② 주소정보활용지원시스템은 다음 각 호의 기능을 수행한다.1. 국가지점번호 조회2. 국가기초구역 조회3. 구역정보 조회(경찰, 소방, 학교, 통계, 법정리, 읍ㆍ면ㆍ동, 통ㆍ리)4. 드론 배달점 조회5. 자율주행로봇 경로 조회6. 기타 주소정보 운영ㆍ관리 업무에 필요하다고 정하는 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:주소정보전산체계운영규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "주소정보누리집",
+        "chapter": "제3장 주소정보 전산체계별 기능",
+        "content": "제10조(주소정보누리집) ① 주소정보누리집은 행정안전부장관이 운영한다.② 주소정보누리집의 인터넷주소는 \"www.juso.go.kr\" 로 한다.③ 주소정보누리집은 다음 각 호의 기능을 수행한다.1. 도로명 및 도로명주소(지번) 검색(지도 안내)2. 지번의 도로명주소 전환 지원3. 도로명주소 통계 제공4. 도로명주소 안내도 제공5. 도로명주소 홍보 자료 제공6. 주소기반 산업 지원 서비스(기업 소개, 정보제공 등)7. 주소정책 안내 및 불편신고 접수",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:주소정보전산체계운영규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "주소정보현장지원시스템",
+        "chapter": "제3장 주소정보 전산체계별 기능",
+        "content": "제11조(주소정보현장지원시스템) ① 주소정보현장지원시스템은 시ㆍ도지사 또는 시ㆍ군ㆍ구청장이 운영한다.② 주소정보현장지원시스템은 다음 각 호의 기능을 수행한다.1. 주소정보시설의 점검 및 정비, 위치관리 등2. 민원접수 내역 조회",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:주소정보전산체계운영규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "주소정보 전산체계 운영책임",
+        "chapter": "제4장 주소정보 전산체계의 시스템 운영",
+        "content": "제12조(주소정보 전산체계 운영책임) ① 제6조부터 제11조까지에 따라 주소정보 전산체계를 운영하는 기관의 장(이하 \"운영기관장\"이라 한다. 이하 같다)은 관계 공무원을 주소정보 전산체계 관리책임자로 지정하여 관리하도록 하여야 한다.② 운영기관장은 주소정보 전산체계의 증설과 관리, 기타 작업을 위해 시스템 운영을 중지해야 할 경우, 공개된 서비스의 영향이 최소화 되도록 작업 일정과 방법 등을 정하여 행정안전부장관에게 통보하여야 한다.③ 관리책임자는 보안관리를 위하여 보안담당자를 지정하고 주기적으로 보안점검을 실시하고 미흡한 부분을 보완하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "제6조부터 제11조",
+            "line_text": "",
+            "target_law_name": "주소정보 전산체계 운영규정",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/주소정보 전산체계 운영규정/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주소정보전산체계운영규정#JO0012",
+            "reference_id": "admrul:주소정보전산체계운영규정#JO0006"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "제6조부터 제11조",
+            "line_text": "",
+            "target_law_name": "주소정보 전산체계 운영규정",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/주소정보 전산체계 운영규정/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주소정보전산체계운영규정#JO0012",
+            "reference_id": "admrul:주소정보전산체계운영규정#JO0006"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "제6조부터 제11조",
+            "line_text": "",
+            "target_law_name": "주소정보 전산체계 운영규정",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/주소정보 전산체계 운영규정/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주소정보전산체계운영규정#JO0012",
+            "reference_id": "admrul:주소정보전산체계운영규정#JO0007"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "제6조부터 제11조",
+            "line_text": "",
+            "target_law_name": "주소정보 전산체계 운영규정",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/주소정보 전산체계 운영규정/제8조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주소정보전산체계운영규정#JO0012",
+            "reference_id": "admrul:주소정보전산체계운영규정#JO0008"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "제6조부터 제11조",
+            "line_text": "",
+            "target_law_name": "주소정보 전산체계 운영규정",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/주소정보 전산체계 운영규정/제9조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주소정보전산체계운영규정#JO0012",
+            "reference_id": "admrul:주소정보전산체계운영규정#JO0009"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "제6조부터 제11조",
+            "line_text": "",
+            "target_law_name": "주소정보 전산체계 운영규정",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/주소정보 전산체계 운영규정/제10조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주소정보전산체계운영규정#JO0012",
+            "reference_id": "admrul:주소정보전산체계운영규정#JO0010"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "제6조부터 제11조",
+            "line_text": "",
+            "target_law_name": "주소정보 전산체계 운영규정",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/주소정보 전산체계 운영규정/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주소정보전산체계운영규정#JO0012",
+            "reference_id": "admrul:주소정보전산체계운영규정#JO0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:주소정보전산체계운영규정#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "주소정보 전산체계 사용자 관리",
+        "chapter": "제4장 주소정보 전산체계의 시스템 운영",
+        "content": "제13조(주소정보 전산체계 사용자 관리) ① 관리책임자는 해당 주소정보 전산체계의 사용자를 등록ㆍ관리하여야 한다. 다만, 주소정보누리집의 사용자는 등록ㆍ관리하지 않을 수 있다.② 관리책임자는 제1항에 따라 등록된 사용자의 업무 변경, 인사이동, 퇴직 등으로 업무분장에 변동이 있을 경우, 즉시 주소정보 전산체계의 사용 권한을 변경하거나 폐지하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:주소정보전산체계운영규정#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "장애처리 및 복구",
+        "chapter": "제4장 주소정보 전산체계의 시스템 운영",
+        "content": "제14조(장애처리 및 복구) ① 관리책임자는 주소정보의 구축이나 관리과정에서 장애 또는 오류가 발생한 때에는 지체없이 이를 복구하여야 한다.② 시ㆍ도주소정보관리시스템 및 시ㆍ군ㆍ구주소정보관리시스템 관리책임자는 제1항에 따른 장애 또는 오류가 발생한 경우에는 이를 행정안전부장관에게 통보하고 필요한 조치를 수행하여야 한다.③ 제2항에 따라 통보를 받은 행정안전부장관은 장애 또는 오류가 정비될 수 있도록 필요한 조치를 지원할 수 있다.④ 시ㆍ도지사, 시ㆍ군ㆍ구청장은 제1항에 따라 전산자료를 정비한 때에는 그 정비내역을 보존하여야 한다.⑤ 시ㆍ도지사, 시ㆍ군ㆍ구청장은 행정안전부장관에게 정비사항을 통보받은 때에는 이를 지체없이 시ㆍ도주소정보관리시스템 및 시ㆍ군ㆍ구주소정보관리시스템에 반영하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:주소정보전산체계운영규정#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "백업",
+        "chapter": "제4장 주소정보 전산체계의 시스템 운영",
+        "content": "제15조(백업) ① 운영기관장은 자료손실에 대비한 주기적인 백업을 실시하여야 한다.② 제1항에 따라 주소정보를 백업해야 하는 주요항목은 다음과 같다.1. 행정안전부장관 : 주소정보 전산체계의 응용프로그램 소스 및 관련 산출물, 주소정보 관련 데이터베이스 및 타일맵2. 시ㆍ도지사 : 시ㆍ도 주소정보 데이터베이스 및 응용프로그램3. 시ㆍ군ㆍ구청장 : 시ㆍ군ㆍ구 주소정보 데이터베이스 및 응용프로그램",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:주소정보전산체계운영규정#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "코드관리",
+        "chapter": "제5장 주소정보 전산체계의 데이터 관리",
+        "content": "제16조(코드관리) ① 운영기관장은 주소정보 전산체계의 효율적인 관리를 위하여 주소정보관리시스템에 사용되는 코드를 다음 각 호의 분류에 따라 관리하여야 한다.1. 공통코드2. 현장지원시스템3. 안내시설4. 활용지원시스템5. 상세주소6. 국가지점번호7. 기타② 제1항 1호에 따라 관리 코드의 목록은 별표8와 같다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제2항",
+            "link_text": "별표8",
+            "line_text": "",
+            "target_law_name": "주소정보 전산체계 운영규정",
+            "target_article_no": "별표8",
+            "target_article_title": "데이터 코드 목록",
+            "appendix_no": "8",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000174765&bylNo=0008&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주소정보전산체계운영규정#JO0016",
+            "reference_id": "admrul:주소정보전산체계운영규정#BYL0008"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:주소정보전산체계운영규정#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "데이터 목록관리",
+        "chapter": "제5장 주소정보 전산체계의 데이터 관리",
+        "content": "제17조(데이터 목록관리) ① 운영기관장은 주소정보의 안정적인 운영를 위하여 주소정보관리시스템의 데이터베이스 목록을 관리하여야 한다.② 관리하는 데이터베이스의 목록은 행정안전부 기관메타시스템을 이용하여 관리한다.③ 제1항에 따른 데이터베이스 목록의 이름을 설정하는 기준은 별표9와 같다,",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제3항",
+            "link_text": "별표9",
+            "line_text": "",
+            "target_law_name": "주소정보 전산체계 운영규정",
+            "target_article_no": "별표9",
+            "target_article_title": "데이터베이스 명칭 설정 기준",
+            "appendix_no": "9",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000174765&bylNo=0009&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주소정보전산체계운영규정#JO0017",
+            "reference_id": "admrul:주소정보전산체계운영규정#BYL0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:주소정보전산체계운영규정#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "통계관리",
+        "chapter": "제5장 주소정보 전산체계의 데이터 관리",
+        "content": "제18조(통계관리) 운영기관장은 주소정보 관리 및 유통을 위한 통계를 관리하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:주소정보전산체계운영규정#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "품질관리",
+        "chapter": "제5장 주소정보 전산체계의 데이터 관리",
+        "content": "제19조(품질관리) ① 운영기관장은 행정안전부 공공데이터관리지침에 따라 주소정보의 정합성을 유지하고 오류 등을 방지하기 위해 노력하여야 한다.② 행정안전부장관은 주소정보 전산자료 정비를 위해 정비기준을 마련하여 시행할 수 있다.③ 시ㆍ도지사, 시ㆍ군ㆍ구청장은 제2항에 따른 정비기준을 확인하고, 관련 자료를 조사(필요한 현장조사를 포함한다)하여 그 사항을 정비하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:주소정보전산체계운영규정#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "유지관리 등",
+        "chapter": "제6장 주소정보 체계유지 관리",
+        "content": "제20조(유지관리 등) ① 주소정보 전산체계의 효율적인 운영을 위한 유지관리 업무는 다음 각 호와 같다.1. 주소정보관리시스템의 응용프로그램, 네트워크, 주변기기 등 전산자원의 운영 및 유지관리2. 데이터베이스의 구축 및 유지관리3. 자료손실에 대비한 주기적인 백업 및 보안 유지4. 주소정보관리시스템 표준프로그램의 개발 및 보급5. 주소정보관리시스템의 주기적 운영 실태 파악 및 평가6. 사용자를 위한 교육프로그램 운영 및 기술지원7. 사용자 및 민원인 문의사항 등에 대한 접수 및 처리8. 자료 제공 요청에 대한 협조9. 기타 주소정보 운영ㆍ관리 업무에 필요하다고 정하는 사항② 주소정보 전산체계 유지관리 및 운영을 위한 업무 수행공간은 시건장치와 통제가 가능한 기관 내 공간을 사용하거나, CCTVㆍ시건장치 등 비인가자 출입통제 대책이 마련된 외부 사무실을 사용하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:주소정보전산체계운영규정#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "시스템 보안",
+        "chapter": "제6장 주소정보 체계유지 관리",
+        "content": "제21조(시스템 보안) 제12조제3항에 따라 지정된 보안담당자는 운영시스템 보호를 위하여 다음의 사항을 준수하여야 한다.1. 정보시스템의 서비스 포트를 주기적으로 점검하고 불필요한 포트는 제거한다.2. 정보시스템의 효율적인 통제ㆍ관리, 사고 발생 시 추적 등을 위하여 사용자의 시스템 접근기록을 1년 이상 보관하여 관리한다.3. 보안상 취약한 원격연결서비스(rlogin, rsh, telnet, ftp 등)를 제거하는 등 사용을 원천적으로 금지한다.4. 중요 업무용 정보시스템의 관리용 서비스는 원격관리를 차단하거나, 기관 내부망의 담당자 IP, MAC 주소에서만 접근하여야 한다.5. 누리집 관리자 화면은 기관 내부망의 관리자 IP, MAC 주소에서만 접근이 가능하고 접속을 위한 인증절차를 거쳐야 한다.6. CD-RW 등의 보조매체 기록장치는 보안담당자의 승인하에 제한된 PC에서만 사용하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제21조",
+            "source_clause": "제21조",
+            "link_text": "제12조제3항",
+            "line_text": "",
+            "target_law_name": "주소정보 전산체계 운영규정",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/주소정보 전산체계 운영규정/제12조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주소정보전산체계운영규정#JO0021",
+            "reference_id": "admrul:주소정보전산체계운영규정#JO0012"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:주소정보전산체계운영규정#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "네트워크 보안",
+        "chapter": "제6장 주소정보 체계유지 관리",
+        "content": "제22조(네트워크 보안) ① 내부망에서 활용되는 정보시스템은 인터넷 연결을 금지하는 것을 원칙으로 하며, 웹하드, P2P, 웹오피스, 클라우드 서비스, 메신저 등 인터넷 자료공유사이트로의 접속을 방화벽 등을 이용해 원천 차단한다.② 정보시스템의 모든 원격작업을 금지하여야 하나, 불가피한 경우에는 보안담당자의 승인을 거쳐 보안대책을 마련한 후 한시적으로 허용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:주소정보전산체계운영규정#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "응용프로그램 개발 및 보안",
+        "chapter": "제6장 주소정보 체계유지 관리",
+        "content": "제23조(응용프로그램 개발 및 보안) ① 행정안전부장관은 데이터베이스 품질을 고려하여 응용프로그램이 개발되도록 관리하여야 한다.② 주소정보 전산체계의 개발 및 운영은 보안 취약점이 없도록 소프트웨어 개발 보안(시큐어코딩) 원칙을 준수한다.③ 행정안전부장관은 주소정보 전산체계의 개발 및 개선 결과를 주소정보 전산체계에 반영하는 경우, 프로그램 변경이력을 관리하여야 하고, 시ㆍ도지사, 시ㆍ군ㆍ구청장에게 개발 및 개선 내용을 공지해야 한다.④ 주소정보관리시스템은 단일 버전의 프로그램으로 총괄적으로 조정하여 이를 시ㆍ도주소정보관리시스템, 시ㆍ군ㆍ구주소정보관리시스템에 배포하여야 한다.⑤ 행정안전부장관의 승인을 받지 않은 프로그램 또는 도구 등을 주소정보 전산체계에 설치할 수 없다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:주소정보전산체계운영규정#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "주소정보도움센터",
+        "chapter": "제6장 주소정보 체계유지 관리",
+        "content": "제24조(주소정보도움센터) ① 행정안전부장관은 주소정보 전산체계의 사용자 지원을 위하여 주소정보도움센터를 둘 수 있다.② 주소정보도움센터는 다음 각 호의 업무를 수행한다.1. 주소정보 관련 민원상담 및 응대2. 도움센터 민원상담 결과 및 통계3. 주소정보 관련 기술지원",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:주소정보전산체계운영규정#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "주소정보 사용자 매뉴얼",
+        "chapter": "제7장 기타",
+        "content": "제25조(주소정보 사용자 매뉴얼) ① 행정안전부장관은 주소정보 전산체계 운영 등에 관하여 이 규정에서 정하지 아니한 사항과 사용방법을 『주소정보 사용자 매뉴얼』로 하여 작성할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:주소정보전산체계운영규정#JO0025"
+      },
+      {
+        "article_no": "제26조",
+        "article_title": "재검토 기한",
+        "chapter": "제7장 기타",
+        "content": "제26조(재검토 기한) 행정안전부장관은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 훈령에 대하여 2021년 7월 1일 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제26조",
+            "source_clause": "제26조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주소정보전산체계운영규정#JO0026",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:주소정보전산체계운영규정#JO0026"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20210609",
+      "promulgation_no": "196",
+      "content": "부칙 <제196호, 2021. 6. 9.>제1조(시행일) 이 규정은 2021년 6월 9일부터 시행한다.제2조(종전 규정의 폐지) 도로명주소 정보체계 운영규정(행정안전부 예규 제54호, 2019년 1월 1일 시행)은 폐지한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "중앙주소정보관리시스템 프로그램 목록(Web)",
+      "enforcement_date": "",
+      "content": "[별표 1]\n중앙주소정보관리시스템 프로그램 목록(Web)\n┌────────┬──┬───┬──────────────────┬─────┬───┐\n│업무기능        │번호│구분  │프로그램                            │프로그램ID│비 고 │\n├────────┼──┼───┼──────────────────┼─────┼───┤\n│공통업무        │1   │화면  │로그인화면                          │UW-S-0101 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │2   │화면  │메인화면                            │UW-S-0201 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │3   │화면  │업무구성도                          │UW-S-0202 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │4   │화면  │지도보기                            │UW-S-0301 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │5   │화면  │지도보기  - 정보보기 - 건물         │UW-S-0302 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │6   │화면  │지도보기  - 정보보기 - 도로구간     │UW-S-0303 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │7   │화면  │지도보기  - 정보보기 - 시설물       │UW-S-0304 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │8   │화면  │지도보기-연혁보기                   │UW-S-0305 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │9   │화면  │주소검색                            │UW-S-0401 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │10  │화면  │주소검색  - 기타                    │UW-S-0402 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │11  │화면  │지번검색                            │UW-S-0403 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │12  │화면  │주민정보조회                        │UW-S-0404 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │13  │화면  │도로명검색                          │UW-S-0405 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │14  │화면  │민원조회                            │UW-S-0406 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │15  │화면  │건축물대장조회                      │UW-S-0407 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │16  │화면  │건물이력/주소연혁조회  - 건물이력   │UW-S-0501 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │17  │화면  │건물이력/주소연혁조회  - 주소연혁   │UW-S-0502 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │18  │화면  │사용자정보수정                      │UW-S-0601 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │19  │화면  │도로명판  설치가 필요한 도로명      │UW-S-0701 │     │\n│                │    │      │부여현황                            │          │      │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │20  │화면  │건물번호판  설치(등록)가 필요한     │UW-S-0702 │     │\n│                │    │      │도로명주소 현황                     │          │      │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │21  │화면  │도로명  변경에 의한 교체 필요       │UW-S-0703 │     │\n│                │    │      │도로안내시설 현황                   │          │      │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │22  │화면  │건물명  불일치 목록 팝업            │UW-S-0704 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │23  │화면  │지번  불일치 목록 팝업              │UW-S-0705 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │24  │화면  │건축물대장  말소 목록 팝업          │UW-S-0706 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │25  │화면  │집합건물  상세주소 목록 팝업        │UW-S-0707 │     │\n├────────┼──┼───┼──────────────────┼─────┼───┤\n│주소사용        │26  │화면  │전자지도접수관리                    │UW-S-1410 │     │\n│지원업무        ├──┼───┼──────────────────┼─────┼───┤\n│                │27  │화면  │전자지도제공                        │UW-S-1420 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │28  │화면  │국민불편  - 건물군 내 도로명        │UW-S-1511 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │29  │화면  │국민불편  - 긴 종속구간             │UW-S-1512 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │30  │화면  │국민불편  - 7자 이상 도로명         │UW-S-1513 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │31  │화면  │국민불편  - 3자리 이상 부번         │UW-S-1514 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │32  │화면  │국민불편  - 숫자 중복 도로명        │UW-S-1515 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │33  │화면  │국민불편  - 2차 종속구간            │UW-S-1516 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │34  │화면  │국민불편  - 정비 실적 통계          │UW-S-1517 │     │\n├────────┼──┼───┼──────────────────┼─────┼───┤\n│도로업무        │35  │화면  │광역도로조서                        │UW-S-3240 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │36  │화면  │도로관리주체변경                    │UW-S-8900 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │37  │화면  │도로명폐지대장                      │UW-S-3331 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │38  │화면  │도로명폐지대장  상세정보            │UW-S-3332 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │39  │화면  │명예도로명부여대장                  │UW-S-3341 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │40  │화면  │영문도로명변경                      │UW-S-9000 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │41  │화면  │신규광역도로관리                    │UW-S-9002 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │42  │화면  │변경광역도로관리                    │UW-S-9003 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │43  │화면  │도로현행화신청관리                  │UW-S-9001 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │44  │보고서│도로구간조서  보고서                │UW-R-3210 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │45  │보고서│도로구간별기초번호부여조서  보고서  │UW-R-3230 │     │\n├────────┼──┼───┼──────────────────┼─────┼───┤\n│안내시설관리    │46  │화면  │도로시설물  목록                    │UW-S-9900 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │47  │화면  │도로시설물  등록/상세조회/수정      │UW-S-9901 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │48  │화면  │도로시설물위치관리                  │UW-S-9902 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │49  │화면  │일반용  도로명판 목록               │UW-S-9100 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │50  │화면  │일반용  도로명판 등록/상세조회/수정 │UW-S-9101 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │51  │화면  │일반용  도로명판 일괄등록/일괄변경  │UW-S-9102 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │52  │화면  │이면도로용  도로명판 목록           │UW-S-9200 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │53  │화면  │이면도로용  도로명판                │UW-S-9201 │     │\n│                │    │      │등록/상세조회/수정                  │          │      │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │54  │화면  │이면도로용  도로명판                │UW-S-9202 │     │\n│                │    │      │일괄등록/일괄변경                   │          │      │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │55  │화면  │예고용  도로명판 목록               │UW-S-9300 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │56  │화면  │예고용  도로명판 등록/상세조회/수정 │UW-S-9301 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │57  │화면  │예고용  도로명판 일괄등록/일괄변경  │UW-S-9302 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │58  │화면  │건물번호판  목록                    │UW-S-9400 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │59  │화면  │건물번호판  등록/상세조회/수정      │UW-S-9401 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │60  │화면  │건물번호판  일괄등록/일괄변경       │UW-S-9402 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │61  │화면  │건물번호판위치관리                  │UW-S-9403 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │62  │화면  │기초번호판  목록                    │UW-S-9500 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │63  │화면  │기초번호판  등록/상세조회/수정      │UW-S-9501 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │64  │화면  │기초번호판  일괄등록/일괄변경       │UW-S-9502 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │65  │화면  │지역안내판  목록                    │UW-S-9600 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │66  │화면  │지역안내판  등록/상세조회/수정      │UW-S-9601 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │67  │화면  │지역안내판  일괄등록/일괄변경       │UW-S-9602 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │68  │화면  │도로안내시설  위치조회              │UW-S-9700 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │69  │화면  │건물  주출입구조회                  │UW-S-9701 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │70  │화면  │도로명조회                          │UW-S-9702 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │71  │화면  │원/근이미지관리                     │UW-S-9703 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │72  │화면  │일제점검현황                        │UW-S-9704 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │73  │화면  │도움말보기                          │UW-S-9705 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │74  │화면  │안내시설  DB정비현황 - 안내시설     │UW-S-9800 │     │\n│                │    │      │정비실적                            │          │      │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │75  │화면  │안내시설  DB정비현황 - 안내시설     │UW-S-9801 │     │\n│                │    │      │정비대상현황                        │          │      │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │76  │화면  │안내시설  DB정비현황 - 안내시설     │UW-S-9802 │     │\n│                │    │      │오류율                              │          │      │\n├────────┼──┼───┼──────────────────┼─────┼───┤\n│기타시설물 업무 │77  │화면  │명예 도로명판 목록                  │UW-S-4510 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │78  │화면  │명예  도로명판 등록/상세조회/수정   │UW-S-4511 │     │\n├────────┼──┼───┼──────────────────┼─────┼───┤\n│일제조사        │79  │화면  │일제점검현황                        │UW-S-8800 │     │\n├────────┼──┼───┼──────────────────┼─────┼───┤\n│통계업무        │80  │화면  │건물및도로현황                      │UW-S-5100 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │81  │화면  │도로명주소주요통계                  │UW-S-5300 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │82  │화면  │도로명  현황                        │UW-S-5301 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │83  │화면  │건물번호  현황                      │UW-S-5302 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │84  │화면  │건물  현황                          │UW-S-5303 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │85  │화면  │스마트KAIS이용현황                  │UW-S-5400 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │86  │화면  │도로명판확충실적                    │UW-S-5500 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │87  │화면  │도로명판확충실적  통계자료보기      │UW-S-5501 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │88  │화면  │도로명판확충실적  오류자료보기      │UW-S-5502 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │89  │화면  │도로명주소  안내시설 연보 - 총괄    │UW-S-5601 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │90  │화면  │도로명주소  안내시설 연보 - 도로명판│UW-S-5602 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │91  │화면  │도로명주소 안내시설 연보 -          │UW-S-5603 │     │\n│                │    │      │벽면형도로명판                      │          │      │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │92  │화면  │도로명주소 안내시설 연보 -          │UW-S-5604 │     │\n│                │    │      │이면도로용                          │          │      │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │93  │화면  │도로명주소 안내시설 연보 -          │UW-S-5605 │     │\n│                │    │      │예고용도로명판                      │          │      │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │94  │화면  │도로명주소 안내시설 연보 -          │UW-S-5606 │     │\n│                │    │      │건물번호판                          │          │      │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │95  │화면  │도로명주소 안내시설 연보 -          │UW-S-5607 │     │\n│                │    │      │자율형건물번호판                    │          │      │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │96  │화면  │도로명주소 안내시설 연보 -          │UW-S-5608 │     │\n│                │    │      │기초번호판                          │          │      │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │97  │화면  │도로명주소 안내시설 연보 -          │UW-S-5609 │     │\n│                │    │      │명예도로명판                        │          │      │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │98  │화면  │도로명주소 안내시설 연보 -          │UW-S-5610 │     │\n│                │    │      │지역안내판                          │          │      │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │99  │화면  │도로명주소 안내시설 연보 -          │UW-S-5611 │     │\n│                │    │      │도로위계별현황                      │          │      │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │100 │화면  │도로명주소 안내시설 연보 -          │UW-S-5612 │     │\n│                │    │      │유형별설치현황및추가설치소요량      │          │      │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │101 │화면  │도로명주소 안내시설 연보 -          │UW-S-5613 │     │\n│                │    │      │교차로별설치현황및추가설치소요량    │          │      │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │102 │화면  │도로명주소  안내시설 연보 -         │UW-S-5614 │     │\n│                │    │      │통계자료다운로드                    │          │      │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │103 │화면  │도로명주소안내시설연보-과거통계조회(│UW-S-5615 │     │\n│                │    │      │~18년05월)                          │          │      │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │104 │화면  │광역도로별시설물현황                │UW-S-5700 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │105 │화면  │교차로  및 도로명판 개요            │UW-S-5800 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │106 │화면  │RASS통계                            │UW-S-6640 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │107 │화면  │도로명주소안내시설현황              │UW-S-5201 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │108 │화면  │도로명주소안내시설현황  이전통계    │UW-S-5202 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │109 │화면  │도로명주소안내시설현황  보고현황    │UW-S-5203 │     │\n├────────┼──┼───┼──────────────────┼─────┼───┤\n│운영관리        │110 │화면  │사용자관리                          │UW-S-7100 │     │\n│                ├──┼───┼──────────────────┼─────┼───┤\n│                │111 │화면  │공지사항                            │UW-S-7400 │     │\n└────────┴──┴───┴──────────────────┴─────┴───┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000174765&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=112214783",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=112214783",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:주소정보전산체계운영규정#BYL0001",
+      "filename": "별표1_중앙주소정보관리시스템 프로그램 목록(Web).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "주소정보활용지원시스템 프로그램 목록",
+      "enforcement_date": "",
+      "content": "[별표 2]\n┌───────┬──┬─────────────┬─────┬───┐\n│업무구분      │번호│프로그램                  │프로그램ID│비  고│\n├───────┼──┼─────────────┼─────┼───┤\n│활용지원시스템│1   │로그인                    │W-250-111 │      │\n│              ├──┼─────────────┼─────┼───┤\n│              │2   │비밀번호 초기화           │W-250-112 │      │\n│              ├──┼─────────────┼─────┼───┤\n│              │3   │사용자 권한등록           │W-250-113 │      │\n│              ├──┼─────────────┼─────┼───┤\n│              │4   │비밀번호  변경(분기,최초) │W-250-114 │      │\n│              ├──┼─────────────┼─────┼───┤\n│              │5   │메인화면                  │W-250-120 │      │\n│              ├──┼─────────────┼─────┼───┤\n│              │6   │도로명주소 검색           │W-250-121 │      │\n│              ├──┼─────────────┼─────┼───┤\n│              │7   │지점번호 검색             │W-250-126 │      │\n│              ├──┼─────────────┼─────┼───┤\n│              │8   │통리기본도                │W-250-131 │      │\n│              ├──┼─────────────┼─────┼───┤\n│              │9   │영역  시뮬레이션          │W-250-151 │      │\n│              ├──┼─────────────┼─────┼───┤\n│              │10  │자료실 목록               │W-250-184 │      │\n│              ├──┼─────────────┼─────┼───┤\n│              │11  │자료실 등록               │W-250-185 │      │\n│              ├──┼─────────────┼─────┼───┤\n│              │12  │자료실 조회               │W-250-186 │      │\n│              ├──┼─────────────┼─────┼───┤\n│              │13  │비밀번호 변경             │W-250-191 │      │\n│              ├──┼─────────────┼─────┼───┤\n│              │14  │승인관리                  │W-250-192 │      │\n│              ├──┼─────────────┼─────┼───┤\n│              │15  │공간정보관리              │W-250-193 │      │\n│              ├──┼─────────────┼─────┼───┤\n│              │16  │공간정보갱신              │W-250-194 │      │\n└───────┴──┴─────────────┴─────┴───┘\n주소정보활용지원시스템 프로그램 목록",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000174765&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=112214791",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=112214791",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:주소정보전산체계운영규정#BYL0002",
+      "filename": "별표2_주소정보활용지원시스템 프로그램 목록.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "주소정보누리집 프로그램 목록",
+      "enforcement_date": "",
+      "content": "[별표 3]\n┌─────────┬──┬─────────────────────────┬───────┬───┐\n│업무구분          │번호│프로그램                                          │프로그램ID    │비  고│\n├─────────┼──┼─────────────────────────┼───────┼───┤\n│메인화면          │1   │메인화면                                          │W-210-001     │      │\n├─────────┼──┼─────────────────────────┼───────┼───┤\n│도로명주소 소개   │2   │도로명주소란?                                     │W-210-002     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │3   │주소 표기 방법                                    │W-210-003     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │4   │주소 부여 방법                                    │W-210-004     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │5   │주소 보는 방법                                    │W-210-005     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │6   │주소 영문표기 방법                                │W-210-006     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │7   │상세주소란?                                       │W-210-007     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                  │8   │아름다운 건물번호판                               │W-210-008~010 │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │9   │아름다운 길                                       │W-210-011     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │10  │홍보자료 자료실                                   │W-210-012     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │11  │홍보자료 상세                                     │W-210-013     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │12  │홍보자료 홍보미디어                               │W-210-014     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │13  │홍보자료 포스터                                   │W-210-015     │      │\n├─────────┼──┼─────────────────────────┼───────┼───┤\n│주소활용서비스    │14  │도로명 정보 조회                                  │W-210-016     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │15  │도로명주소 지도 보기                              │W-210-017     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │16  │도로명주소 고시정보 조회                          │W-210-018     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │17  │도로명주소 안내도 다운로드                        │W-210-019     │      │\n├─────────┼──┼─────────────────────────┼───────┼───┤\n│주소전환서비스    │18  │50건 이하 주소전환                                │W-210-020     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │19  │3,000건 이하 주소전환                             │W-210-021~022 │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │20  │100만건 이하 주소전환                             │W-210-023~024 │      │\n├─────────┼──┼─────────────────────────┼───────┼───┤\n│주소통계서비스    │21  │주소통계정보                                      │W-210-025     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │22  │도로명주소통계                                    │W-210-026     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │23  │도로명통계                                        │W-210-027     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │24  │기초구역통계                                      │W-210-028     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │25  │우리 집 주소는?                                   │W-210-029     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │26  │주소, 얼마나 생길까요?                            │W-210-030     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │27  │순우리말 도로명은?                                │W-210-031     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │28  │우리나라 끝을 지키는 도로명은?                    │W-210-032     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │29  │주소정보이용추이                                  │W-210-033     │      │\n├─────────┼──┼─────────────────────────┼───────┼───┤\n│고객지원          │30  │도움센터(Q&A)                                     │W-210-034~036 │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │31  │도움센터(Q&A)  나의 문의내역                      │W-210-037     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │32  │주소동일성 영문증명서 발급                        │W-210-038~040 │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │33  │공지사항 목록                                     │W-210-041     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │34  │공지사항 상세                                     │W-210-042     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                  │35  │언론보도 목록                                     │W-210-043     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │36  │언론보도 상세                                     │W-210-044     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │37  │자주묻는질문(FAQ)                                 │W-210-045     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │38  │불편신고 게시판                                   │W-210-046     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │39  │불편신고 게시판 나의 문의내역                     │W-210-047     │      │\n├─────────┼──┼─────────────────────────┼───────┼───┤\n│명예도로          │40  │명예도로 조회                                     │W-210-048     │      │\n├─────────┼──┼─────────────────────────┼───────┼───┤\n│법령정보          │41  │법령정보                                          │W-210-049     │      │\n├─────────┼──┼─────────────────────────┼───────┼───┤\n│담당자연락처      │42  │담당자연락처                                      │W-210-050     │      │\n├─────────┼──┼─────────────────────────┼───────┼───┤\n│통합검색          │43  │통합검색                                          │W-210-051     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │44  │주소변동 통합검색                                 │W-210-052     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │45  │주소변동 이력보기                                 │W-210-053     │      │\n├─────────┼──┼─────────────────────────┼───────┼───┤\n│영문홈페이지      │46  │영문홈페이지                                      │W-210-054     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                  │47  │통합검색                                          │W-210-055     │      │\n├─────────┼──┼─────────────────────────┼───────┼───┤\n│Introduction of   │48  │About  Road Name Address                          │W-210-056     │      │\n│Road Name         ├──┼─────────────────────────┼───────┼───┤\n│Address           │49  │Format  of Road Name Address                      │W-210-057     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │50  │Assignment  of Road Name Address                  │W-210-058     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │51  │Interpretation  of Road Name Address              │W-210-059     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │52  │EnglishNotationofRoadNameAddress                  │W-210-060     │      │\n├─────────┼──┼─────────────────────────┼───────┼───┤\n│Map Service       │53  │Map Service                                       │W-210-061     │      │\n├─────────┼──┼─────────────────────────┼───────┼───┤\n│사이트 맵         │54  │사이트 맵                                         │W-210-062     │      │\n├─────────┼──┼─────────────────────────┼───────┼───┤\n│건물번호판        │55  │건물번호판 부착사진 등록 메인                     │W-210-063     │      │\n│부착사진 등록     ├──┼─────────────────────────┼───────┼───┤\n│                 │56  │건물번호판 부착사진 등록                          │W-210-064     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │57  │건물번호판 부착사진 등록내역                      │W-210-065     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │58  │건물번호판 부착사진 상세                          │W-210-066     │      │\n├─────────┼──┼─────────────────────────┼───────┼───┤\n│관리자페이지      │59  │로그인화면                                        │W-211-001     │      │\n│로그인화면        │    │                                                  │              │      │\n├─────────┼──┼─────────────────────────┼───────┼───┤\n│게시판관리        │60  │도로명주소 도움센터(Q&A) 목록                     │W-211-002     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │61  │도로명주소 도움센터(Q&A) 상세                     │W-211-003     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │62  │도로명주소 도움센터(Q&A) 글쓰기                   │W-211-004     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │63  │공지사항 목록                                     │W-211-005     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │64  │공지사항 상세                                     │W-211-006     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │65  │공지사항 글쓰기                                   │W-211-007     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │66  │언론보도 목록                                     │W-211-008     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │67  │언론보도 상세                                     │W-211-009     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │68  │언론보도 글쓰기                                   │W-211-010     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │69  │자주묻는질문(FAQ) 목록                            │W-211-011     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │70  │자주묻는질문(FAQ) 상세                            │W-211-012     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │71  │자주묻는질문(FAQ) 글쓰기                          │W-211-013     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │72  │아름다운 길 목록                                  │W-211-014     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │73  │아름다운 길 상세                                  │W-211-015     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │74  │아름다운 길 글쓰기                                │W-211-016     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │75  │홍보자료-자료실 목록                              │W-211-017     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │76  │홍보자료-자료실 상세                              │W-211-018     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │77  │홍보자료-자료실 글쓰기                            │W-211-019     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │78  │홍보자료-홍보미디어 목록                          │W-211-020     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │79  │홍보자료-홍보미디어 상세                          │W-211-021     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │80  │홍보자료-홍보미디어 글쓰기                        │W-211-022     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │81  │전국 도로명 부여사유                              │W-211-023     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │82  │접속관리                                          │W-211-024     │      │\n├─────────┼──┼─────────────────────────┼───────┼───┤\n│현황관리          │83  │100만건 이하 주소전환 관리                        │W-211-025     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │84  │주소동일성 영문증명서 발급관리 목록               │W-211-026     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │85  │주소동일성 영문증명서 발급관리 상세               │W-211-027     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │86  │도로명주소 안내지도 관리                          │W-211-028     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │87  │담당자 연락처 관리 목록                           │W-211-029     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │88  │담당자 연락처 수정                                │W-211-030     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                  │89  │시설물 조회                                       │W-211-031     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │90  │시설물 상세                                       │W-211-032     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │91  │공통코드 조회                                     │W-211-033     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │92  │만족도조사 현황                                   │W-211-034     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │93  │만족도조사 현황 상세                              │W-211-035     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │94  │관할주민센터 정보관리                             │W-211-036     │      │\n├─────────┼──┼─────────────────────────┼───────┼───┤\n│개발자센터메인화면│95  │개발자센터메인화면                                │W-220-050     │      │\n├─────────┼──┼─────────────────────────┼───────┼───┤\n│개발+             │96  │제안하기  - 목록                                  │W-220-051     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │97  │제안하기  - 등록                                  │W-220-052     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │98  │제안하기  - 상세보기                              │W-220-053     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │99  │제안하기  - 나의글보기                            │W-220-054     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │100 │묻고답하기  - 목록                                │W-220-055     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │101 │묻고답하기  - 등록                                │W-220-056     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                  │102 │묻고답하기  - 상세보기                            │W-220-057     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │103 │묻고답하기  - 나의문의내역                        │W-220-058     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │104 │Tech & Tips - 목록                                │W-220-059     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │105 │Tech & Tips - 등록                                │W-220-060     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │106 │Tech & Tips - 상세보기                            │W-220-061     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │107 │Tech & Tips - 나의글보기                          │W-220-062     │      │\n├─────────┼──┼─────────────────────────┼───────┼───┤\n│주소검색솔루션    │108 │주소검색솔루션                                    │W-220-063     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                  │109 │PC용 주소검색기                                   │W-220-102     │      │\n├─────────┼──┼─────────────────────────┼───────┼───┤\n│오픈API           │110 │API활용 체험 - 메인                               │W-220-064     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │111 │API활용 체험 - 도로명주소API - 팝업API            │W-220-065     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │112 │API활용 체험 - 도로명주소API - 검색API            │W-220-066     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │113 │API활용 체험 - 영문주소API - 팝업API              │W-220-067     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │114 │API활용 체험 - 영문주소API - 검색API              │W-220-068     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │115 │API활용 체험 - 좌표제공API - 팝업API              │W-220-069     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │116 │API활용 체험 - 좌표제공API - 검색API              │W-220-070     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                  │117 │도로명주소API                                     │W-220-071     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │118 │영문주소API                                       │W-220-072     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │119 │좌표제공API                                       │W-220-073     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │120 │모바일용API                                       │W-220-074     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │121 │API 신청하기 - 등록                               │W-220-075     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │122 │API 신청하기 - 목록                               │W-220-076     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │123 │API 신청하기 - 상세보기                           │W-220-077     │      │\n├─────────┼──┼─────────────────────────┼───────┼───┤\n│주소DB연계        │124 │도로명주소 연계                                   │W-220-078     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │125 │행정정보공동이용센터  중계                        │W-220-079     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │126 │도로명주소 연계 신청하기 - 등록                   │W-220-080     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │127 │도로명주소 연계 신청하기 - 목록                   │W-220-081     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │128 │도로명주소 연계 신청하기 - 상세보기               │W-220-082     │      │\n├─────────┼──┼─────────────────────────┼───────┼───┤\n│주소DB제공        │129 │도로명주소DB 활용방법 - 메인                      │W-220-083     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │130 │도로명주소DB 활용방법 - 건물DB                    │W-220-084     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │131 │도로명주소DB 활용방법 - 주소DB                    │W-220-085     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │132 │도로명주소DB 활용방법 - 사서함주소DB              │W-220-086     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │133 │도로명주소DB 활용방법 - 위치정보요약DB            │W-220-087     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │134 │도로명주소DB 활용방법 - 영문주소DB                │W-220-088     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │135 │도로명주소DB 활용방법 - 네비게이션용DB            │W-220-103     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │136 │도로명주소DB 활용방법 - 상세주소DB                │W-220-105     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │137 │도로명주소DB 활용방법 - 기초번호위치정보DB        │W-220-107     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │138 │도로명주소DB 다운로드 - 메인                      │W-220-089     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │139 │도로명주소DB 다운로드 - 건물DB                    │W-220-090     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │140 │도로명주소DB 다운로드 - 주소DB                    │W-220-091     │      │\n│                 ├──┼─────────────────────────┼───────┼───┤\n│                 │141 │도로명주소DB 다운로드 - 사서함주소DB              │W-220-092     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │142 │도로명주소DB 다운로드 - 위치정보요약DB            │W-220-093     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │143 │도로명주소DB 다운로드 - 영문주소DB                │W-220-094     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │144 │도로명주소DB 다운로드 - 네비게이션용DB            │W-220-104     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │145 │도로명주소DB 다운로드 - 상세주소DB                │W-220-106     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │146 │도로명주소DB 다운로드 - 기초번호위치정보DB        │W-220-108     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │147 │전자지도 다운로드 - 메인                          │W-220-095     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │148 │전자지도 다운로드 - 도로명주소 전자지도 - 등록    │W-220-096     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │149 │전자지도 다운로드 - 도로명주소 전자지도 - 목록    │W-220-097     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │150 │전자지도 다운로드 - 도로명주소 전자지도 - 상세보기│W-220-098     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │151 │전자지도 다운로드 - 민원행정기관 전자지도         │W-220-099     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │152 │전자지도 다운로드 - 도로명주소 배경지도           │W-220-100     │      │\n│                  ├──┼─────────────────────────┼───────┼───┤\n│                  │153 │전자지도 다운로드 - 기초구역도                    │W-220-101     │      │\n└─────────┴──┴─────────────────────────┴───────┴───┘\n주소정보누리집 프로그램 목록",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000174765&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=112214795",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=112214795",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:주소정보전산체계운영규정#BYL0003",
+      "filename": "별표3_주소정보누리집 프로그램 목록.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별표",
+      "title": "시·도주소정보관리시스템 프로그램 목록(Web)",
+      "enforcement_date": "",
+      "content": "[별표 4]\n시?도주소정보관리시스템 프로그램 목록(Web)\n┌────────┬──┬───┬────────────────────┬─────┬───┐\n│업무기능        │번호│구분  │프로그램                                │프로그램ID│비 고 │\n├────────┼──┼───┼────────────────────┼─────┼───┤\n│공통업무        │1   │화면  │로그인화면                              │UW-S-0101 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │2   │화면  │메인화면                                │UW-S-0201 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │3   │화면  │업무구성도                              │UW-S-0202 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │4   │화면  │지도보기                                │UW-S-0301 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │5   │화면  │지도보기  - 정보보기 - 건물             │UW-S-0302 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │6   │화면  │지도보기  - 정보보기 - 도로구간         │UW-S-0303 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │7   │화면  │지도보기  - 정보보기 - 시설물           │UW-S-0304 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │8   │화면  │지도보기-연혁보기                       │UW-S-0305 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │9   │화면  │주소검색                                │UW-S-0401 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │10  │화면  │주소검색  - 기타                        │UW-S-0402 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │11  │화면  │지번검색                                │UW-S-0403 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │12  │화면  │주민정보조회                            │UW-S-0404 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │13  │화면  │도로명검색                              │UW-S-0405 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │14  │화면  │민원조회                                │UW-S-0406 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │15  │화면  │건축물대장조회                          │UW-S-0407 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │16  │화면  │건물이력/주소연혁조회  - 건물이력       │UW-S-0501 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │17  │화면  │건물이력/주소연혁조회  - 주소연혁       │UW-S-0502 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │18  │화면  │사용자정보수정                          │UW-S-0601 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │19  │화면  │도로명판 설치가 필요한 도로명 부여현황  │UW-S-0701 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │20  │화면  │건물번호판 설치(등록)가 필요한          │UW-S-0702 │     │\n│                │    │      │도로명주소 현황                         │          │      │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │21  │화면  │도로명 변경에 의한 교체 필요            │UW-S-0703 │     │\n│                │    │      │도로안내시설 현황                       │          │      │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │22  │화면  │건물명 불일치 목록 팝업                 │UW-S-0704 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │23  │화면  │지번 불일치 목록 팝업                   │UW-S-0705 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │24  │화면  │건축물대장 말소 목록 팝업               │UW-S-0706 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │25  │화면  │집합건물 상세주소 목록 팝업             │UW-S-0707 │     │\n├────────┼──┼───┼────────────────────┼─────┼───┤\n│주소사용        │26  │화면  │전자지도접수관리                        │UW-S-1410 │     │\n│지원업무        ├──┼───┼────────────────────┼─────┼───┤\n│                │27  │화면  │전자지도제공                            │UW-S-1420 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │28  │화면  │국민불편 - 건물군 내 도로명             │UW-S-1511 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │29  │화면  │국민불편 - 긴 종속구간                  │UW-S-1512 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │30  │화면  │국민불편 - 7자 이상 도로명              │UW-S-1513 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │31  │화면  │국민불편 - 3자리 이상 부번              │UW-S-1514 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │32  │화면  │국민불편 - 숫자 중복 도로명             │UW-S-1515 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │33  │화면  │국민불편 - 2차 종속구간                 │UW-S-1516 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │34  │화면  │국민불편 - 정비 실적 통계               │UW-S-1517 │     │\n├────────┼──┼───┼────────────────────┼─────┼───┤\n│도로업무        │35  │화면  │광역도로조서                            │UW-S-3240 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │36  │화면  │도로관리주체변경                        │UW-S-8900 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │37  │화면  │도로명폐지대장                          │UW-S-3331 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │38  │화면  │도로명폐지대장  상세정보                │UW-S-3332 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │39  │화면  │명예도로명부여대장                      │UW-S-3341 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │40  │화면  │영문도로명변경                          │UW-S-9000 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │41  │화면  │신규광역도로관리                        │UW-S-9002 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │42  │화면  │변경광역도로관리                        │UW-S-9003 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │43  │화면  │도로현행화신청관리                      │UW-S-9001 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │44  │보고서│도로구간조서  보고서                    │UW-R-3210 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │45  │보고서│도로구간별기초번호부여조서  보고서      │UW-R-3230 │     │\n├────────┼──┼───┼────────────────────┼─────┼───┤\n│안내시설관리    │46  │화면  │도로시설물 목록                         │UW-S-9900 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │47  │화면  │도로시설물 등록/상세조회/수정           │UW-S-9901 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │48  │화면  │도로시설물위치관리                      │UW-S-9902 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │49  │화면  │일반용 도로명판 목록                    │UW-S-9100 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │50  │화면  │일반용 도로명판 등록/상세조회/수정      │UW-S-9101 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │51  │화면  │일반용 도로명판 일괄등록/일괄변경       │UW-S-9102 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │52  │화면  │이면도로용 도로명판 목록                │UW-S-9200 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │53  │화면  │이면도로용 도로명판 등록/상세조회/수정  │UW-S-9201 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │54  │화면  │이면도로용 도로명판 일괄등록/일괄변경   │UW-S-9202 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │55  │화면  │예고용  도로명판 목록                   │UW-S-9300 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │56  │화면  │예고용  도로명판 등록/상세조회/수정     │UW-S-9301 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │57  │화면  │예고용  도로명판 일괄등록/일괄변경      │UW-S-9302 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │58  │화면  │건물번호판  목록                        │UW-S-9400 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │59  │화면  │건물번호판  등록/상세조회/수정          │UW-S-9401 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │60  │화면  │건물번호판  일괄등록/일괄변경           │UW-S-9402 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │61  │화면  │건물번호판위치관리                      │UW-S-9403 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │62  │화면  │기초번호판  목록                        │UW-S-9500 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │63  │화면  │기초번호판  등록/상세조회/수정          │UW-S-9501 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │64  │화면  │기초번호판  일괄등록/일괄변경           │UW-S-9502 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │65  │화면  │지역안내판  목록                        │UW-S-9600 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │66  │화면  │지역안내판  등록/상세조회/수정          │UW-S-9601 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │67  │화면  │지역안내판  일괄등록/일괄변경           │UW-S-9602 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │68  │화면  │도로안내시설  위치조회                  │UW-S-9700 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │69  │화면  │건물  주출입구조회                      │UW-S-9701 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │70  │화면  │도로명조회                              │UW-S-9702 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │71  │화면  │원/근이미지관리                         │UW-S-9703 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │72  │화면  │일제점검현황                            │UW-S-9704 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │73  │화면  │도움말보기                              │UW-S-9705 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │74  │화면  │안내시설 DB정비현황 ? 안내시설 정비실적│UW-S-9800 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │75  │화면  │안내시설 DB정비현황 - 안내시설          │UW-S-9801 │     │\n│                │    │      │정비대상현황                            │          │      │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │76  │화면  │안내시설 DB정비현황 - 안내시설 오류율   │UW-S-9802 │     │\n├────────┼──┼───┼────────────────────┼─────┼───┤\n│기타시설물 업무 │77  │화면  │명예 도로명판 목록                      │UW-S-4510 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │78  │화면  │명예 도로명판 등록/상세조회/수정        │UW-S-4511 │     │\n├────────┼──┼───┼────────────────────┼─────┼───┤\n│일제조사        │79  │화면  │일제점검현황                            │UW-S-8800 │     │\n├────────┼──┼───┼────────────────────┼─────┼───┤\n│통계업무        │80  │화면  │건물및도로현황                          │UW-S-5100 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │81  │화면  │도로명주소주요통계                      │UW-S-5300 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │82  │화면  │도로명  현황                            │UW-S-5301 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │83  │화면  │건물번호  현황                          │UW-S-5302 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │84  │화면  │건물  현황                              │UW-S-5303 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │85  │화면  │스마트KAIS이용현황                      │UW-S-5400 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │86  │화면  │도로명판확충실적                        │UW-S-5500 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │87  │화면  │도로명판확충실적  통계자료보기          │UW-S-5501 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │88  │화면  │도로명판확충실적  오류자료보기          │UW-S-5502 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │89  │화면  │도로명주소 안내시설 연보 - 총괄         │UW-S-5601 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │90  │화면  │도로명주소 안내시설 연보 - 도로명판     │UW-S-5602 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │91  │화면  │도로명주소 안내시설 연보 -              │UW-S-5603 │     │\n│                │    │      │벽면형도로명판                          │          │      │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │92  │화면  │도로명주소 안내시설 연보 - 이면도로용   │UW-S-5604 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │93  │화면  │도로명주소 안내시설 연보 -              │UW-S-5605 │     │\n│                │    │      │예고용도로명판                          │          │      │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │94  │화면  │도로명주소 안내시설 연보 - 건물번호판   │UW-S-5606 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │95  │화면  │도로명주소 안내시설 연보 -              │UW-S-5607 │     │\n│                │    │      │자율형건물번호판                        │          │      │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │96  │화면  │도로명주소 안내시설 연보 - 기초번호판   │UW-S-5608 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │97  │화면  │도로명주소 안내시설 연보 -              │UW-S-5609 │     │\n│                │    │      │명예도로명판                            │          │      │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │98  │화면  │도로명주소 안내시설 연보 - 지역안내판   │UW-S-5610 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │99  │화면  │도로명주소 안내시설 연보 -              │UW-S-5611 │     │\n│                │    │      │도로위계별현황                          │          │      │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │100 │화면  │도로명주소 안내시설 연보 -              │UW-S-5612 │     │\n│                │    │      │유형별설치현황및추가설치소요량          │          │      │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │101 │화면  │도로명주소 안내시설 연보 -              │UW-S-5613 │     │\n│                │    │      │교차로별설치현황및추가설치소요량        │          │      │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │102 │화면  │도로명주소 안내시설 연보 -              │UW-S-5614 │     │\n│                │    │      │통계자료다운로드                        │          │      │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │103 │화면  │도로명주소안내시설연보-과거통계조회(~1  │UW-S-5615 │     │\n│                │    │      │8년05월)                                │          │      │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │104 │화면  │광역도로별시설물현황                    │UW-S-5700 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │105 │화면  │교차로  및 도로명판 개요                │UW-S-5800 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │106 │화면  │RASS통계                                │UW-S-6640 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │107 │화면  │도로명주소안내시설현황                  │UW-S-5201 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │108 │화면  │도로명주소안내시설현황  이전통계        │UW-S-5202 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │109 │화면  │도로명주소안내시설현황  보고현황        │UW-S-5203 │     │\n├────────┼──┼───┼────────────────────┼─────┼───┤\n│운영관리        │110 │화면  │사용자관리                              │UW-S-7100 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │111 │화면  │공지사항                                │UW-S-7400 │     │\n└────────┴──┴───┴────────────────────┴─────┴───┘\n시?도주소정보관리시스템 프로그램 목록(CS)\n┌──────┬──┬───────────────────┬─────┬───┐\n│업무기능    │번호│프로그램                              │프로그램ID│비 고 │\n├──────┼──┼───────────────────┼─────┼───┤\n│메인        │1   │메인화면                              │UC-S-0010 │     │\n│            ├──┼───────────────────┼─────┼───┤\n│            │2   │레이어                                │UC-S-0030 │     │\n│            ├──┼───────────────────┼─────┼───┤\n│            │3   │연계레이어                            │UC-S-0040 │     │\n│            ├──┼───────────────────┼─────┼───┤\n│            │4   │인덱스맵                              │UC-S-0050 │     │\n│            ├──┼───────────────────┼─────┼───┤\n│            │5   │지번  검색                            │UC-S-0060 │     │\n│            ├──┼───────────────────┼─────┼───┤\n│            │6   │새주소  검색                          │UC-S-0070 │     │\n│            ├──┼───────────────────┼─────┼───┤\n│            │7   │건물지번  검색                        │UC-S-0071 │     │\n│            ├──┼───────────────────┼─────┼───┤\n│            │8   │간편  검색                            │UC-S-0075 │     │\n│            ├──┼───────────────────┼─────┼───┤\n│            │9   │도로명  검색                          │UC-S-0072 │     │\n│            ├──┼───────────────────┼─────┼───┤\n│            │10  │로마자  표기 방법 안내                │UC-S-0076 │     │\n│            ├──┼───────────────────┼─────┼───┤\n│            │11  │기초구간  검색                        │UC-S-0073 │     │\n├──────┼──┼───────────────────┼─────┼───┤\n│자료관리    │12  │매칭테이블  제공                      │UC-S-0320 │     │\n│            ├──┼───────────────────┼─────┼───┤\n│            │13  │주소사용자  정보 추출(도로명코드기준) │UC-S-0325 │     │\n│            ├──┼───────────────────┼─────┼───┤\n│            │14  │주소사용자  정보 추출(도로명주소기준) │UC-S-0326 │     │\n│            ├──┼───────────────────┼─────┼───┤\n│            │15  │속성보기(레이어)                      │UC-S-0330 │     │\n│            ├──┼───────────────────┼─────┼───┤\n│            │16  │정보보기                              │UC-S-0340 │     │\n│            ├──┼───────────────────┼─────┼───┤\n│            │17  │북마크  관리                          │UC-S-0350 │     │\n│            ├──┼───────────────────┼─────┼───┤\n│            │18  │도면(간편)  출력                      │UC-S-0353 │     │\n├──────┼──┼───────────────────┼─────┼───┤\n│레이어 관리 │19  │출력  미리보기 (간편출력)             │UC-S-0354 │     │\n│            ├──┼───────────────────┼─────┼───┤\n│            │20  │경계별전자지도추출                    │UC-S-0355 │     │\n│            ├──┼───────────────────┼─────┼───┤\n│            │21  │경계별도로명주소추출                  │UC-S-0356 │     │\n│            ├──┼───────────────────┼─────┼───┤\n│            │22  │개발예정지구  내 주소안내시설 현황    │UC-S-0359 │     │\n├──────┼──┼───────────────────┼─────┼───┤\n│자료정비    │23  │위치정확도  정비 전 자료 관리         │UC-S-0358 │     │\n│            ├──┼───────────────────┼─────┼───┤\n│            │24  │레이어  스냅 설정                     │UC-S-0360 │     │\n│            ├──┼───────────────────┼─────┼───┤\n│            │25  │레이어  순서 설정                     │UC-S-0370 │     │\n│            ├──┼───────────────────┼─────┼───┤\n│            │26  │레이어  심볼설정                      │UC-S-0380 │     │\n│            ├──┼───────────────────┼─────┼───┤\n│            │27  │영문도로명  변환                      │UC-S-0357 │     │\n└──────┴──┴───────────────────┴─────┴───┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000174765&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=112214805",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=112214805",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:주소정보전산체계운영규정#BYL0004",
+      "filename": "별표4_시·도주소정보관리시스템 프로그램 목록(Web).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별표",
+      "title": "시·군·구주소정보관리시스템 프로그램 목록(Web)",
+      "enforcement_date": "",
+      "content": "[별표 5]\n시?군?구주소정보관리시스템 프로그램 목록(Web)\n┌────────┬──┬───┬────────────────────┬─────┬───┐\n│업무기능        │번호│구분  │프로그램                                │프로그램ID│비 고 │\n├────────┼──┼───┼────────────────────┼─────┼───┤\n│공통업무        │1   │화면  │로그인화면                              │UW-S-0101 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │2   │화면  │메인화면                                │UW-S-0201 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │3   │화면  │업무구성도                              │UW-S-0202 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │4   │화면  │지도보기                                │UW-S-0301 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │5   │화면  │지도보기 - 정보보기 - 건물              │UW-S-0302 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │6   │화면  │지도보기 - 정보보기 - 도로구간          │UW-S-0303 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │7   │화면  │지도보기 - 정보보기 - 시설물            │UW-S-0304 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │8   │화면  │지도보기-연혁보기                       │UW-S-0305 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │9   │화면  │주소검색                                │UW-S-0401 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │10  │화면  │주소검색 - 기타                         │UW-S-0402 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │11  │화면  │지번검색                                │UW-S-0403 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │12  │화면  │주민정보조회                            │UW-S-0404 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │13  │화면  │도로명검색                              │UW-S-0405 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │14  │화면  │민원조회                                │UW-S-0406 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │15  │화면  │건축물대장조회                          │UW-S-0407 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │16  │화면  │건물이력/주소연혁조회 - 건물이력        │UW-S-0501 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │17  │화면  │건물이력/주소연혁조회 - 주소연혁        │UW-S-0502 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │18  │화면  │사용자정보수정                          │UW-S-0601 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │19  │화면  │도로명판 설치가 필요한 도로명 부여현황  │UW-S-0701 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │20  │화면  │건물번호판 설치(등록)가 필요한          │UW-S-0702 │     │\n│                │    │      │도로명주소 현황                         │          │      │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │21  │화면  │도로명 변경에 의한 교체 필요            │UW-S-0703 │     │\n│                │    │      │도로안내시설 현황                       │          │      │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │22  │화면  │건물명 불일치 목록 팝업                 │UW-S-0704 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │23  │화면  │지번 불일치 목록 팝업                   │UW-S-0705 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │24  │화면  │건축물대장 말소 목록 팝업               │UW-S-0706 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │25  │화면  │집합건물 상세주소 목록 팝업             │UW-S-0707 │     │\n├────────┼──┼───┼────────────────────┼─────┼───┤\n│지원업무        │26  │화면  │민원접수내역관리                        │UW-S-1110 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │27  │화면  │새올신청관리                            │UW-S-1120 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │28  │화면  │고지내역관리                            │UW-S-1211 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │29  │화면  │고지내역관리-대상자조회                 │UW-S-1212 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │30  │화면  │고시내역관리                            │UW-S-1220 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │31  │화면  │일괄고시처리                            │UW-S-1221 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │32  │화면  │등기촉탁신청관리                        │UW-S-1300 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │33  │화면  │전자지도접수관리                        │UW-S-1410 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │34  │화면  │전자지도제공                            │UW-S-1420 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │35  │화면  │정비대상자료조회                        │UW-S-1430 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │36  │화면  │주소사용자정보추출                      │UW-S-1440 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │37  │화면  │국민불편 - 건물군 내 도로명             │UW-S-1511 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │38  │화면  │국민불편 - 긴 종속구간                  │UW-S-1512 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │39  │화면  │국민불편 - 7자 이상 도로명              │UW-S-1513 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │40  │화면  │국민불편 - 3자리 이상 부번              │UW-S-1514 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │41  │화면  │국민불편 - 숫자 중복 도로명             │UW-S-1515 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │42  │화면  │국민불편 - 2차 종속구간                 │UW-S-1516 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │43  │화면  │국민불편 - 정비 실적 통계               │UW-S-1517 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │44  │보고서│도로명주소 고지문                       │UW-R-1210 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │45  │보고서│등기명의인 표시변경 등기촉탁서          │UW-R-1310 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │46  │보고서│등기명의인 표시변경 등기촉탁대장        │UW-R-1320 │     │\n├────────┼──┼───┼────────────────────┼─────┼───┤\n│건물업무        │47  │화면  │건물번호신청관리                        │UW-S-2110 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │48  │화면  │도로명주소대장신청                      │UW-S-2130 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │49  │화면  │도로명주소대장기재내용정정신청          │UW-S-2140 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │50  │화면  │주소일괄변경신청                        │UW-S-2150 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │51  │화면  │건물현행화신청관리                      │UW-S-2210 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │52  │화면  │토지이동내역조회                        │UW-S-2220 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │53  │화면  │건물명변경                              │UW-S-2230 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │54  │화면  │도로명주소개별대장                      │UW-S-2311 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │55  │화면  │도로명주소개별대장 상세조회 -앞면       │UW-S-2312 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │56  │화면  │도로명주소개별대장 상세조회 -뒷면       │UW-S-2313 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │57  │화면  │도로명주소폐지대장                      │UW-S-2321 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │58  │화면  │도로명주소폐지대장 상세조회             │UW-S-2322 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │59  │화면  │다중건물번호폐지신청                    │UW-S-2401 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │60  │보고서│건물번호부여/변경신청서                 │UW-R-2110 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │61  │보고서│도로명주소대장신청서                    │UW-R-2120 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │62  │보고서│도로명주소기재내용정정신청서            │UW-R-2130 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │63  │보고서│주소일괄변경신청서                      │UW-R-2140 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │64  │보고서│주소일괄변경대위신청서                  │UW-R-2150 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │65  │보고서│도로명주소개별 대장 보고서              │UW-R-2310 │     │\n├────────┼──┼───┼────────────────────┼─────┼───┤\n│도로업무        │66  │화면  │도로명신청관리                          │UW-S-3110 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │67  │화면  │도로구간조서                            │UW-S-3211 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │68  │화면  │도로구간조서 상세정보                   │UW-S-3212 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │69  │화면  │도로구간(변동)조서                      │UW-S-3221 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │70  │화면  │도로구간(변동)조서 상세정보             │UW-S-3222 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │71  │화면  │도로구간별기초번호부여조서              │UW-S-3231 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │72  │화면  │도로구간별기초번호부여조서 상세정보     │UW-S-3232 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │73  │화면  │광역도로조서                            │UW-S-3240 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │74  │화면  │도로명주소총괄대장                      │UW-S-3311 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │75  │화면  │도로명주소총괄대장 상세조회 -앞면       │UW-S-3312 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │76  │화면  │도로명주소총괄대장 상세조회 -뒷면       │UW-S-3313 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │77  │화면  │도로명부여대장                          │UW-S-3321 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │78  │화면  │도로명부여대장 상세정보                 │UW-S-3322 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │79  │화면  │도로명폐지대장                          │UW-S-3331 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │80  │화면  │도로명폐지대장 상세정보                 │UW-S-3332 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │81  │화면  │명예도로명부여대장                      │UW-S-3341 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │82  │화면  │명예도로명부여대장 상세정보             │UW-S-3342 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │83  │화면  │미개통구간현황                          │UW-S-9004 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │84  │화면  │도로일괄폐지신청                        │UW-S-9011 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │85  │보고서│도로명부여신청서                        │UW-R-3110 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │86  │보고서│도로명변경신청서                        │UW-R-3120 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │87  │보고서│도로명주소총괄 대장 보고서              │UW-R-3310 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │88  │보고서│도로명부여대장 보고서                   │UW-R-3320 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │89  │보고서│도로명폐지대장 보고서                   │UW-R-3330 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │90  │보고서│명예도로명부여대장 보고서               │UW-R-3340 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │91  │보고서│도로구간조서 보고서                     │UW-R-3210 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │92  │보고서│도로구간(변동)조서 보고서               │UW-R-3220 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │93  │보고서│도로구간별기초번호부여조서 보고서       │UW-R-3230 │     │\n├────────┼──┼───┼────────────────────┼─────┼───┤\n│안내시설관리    │94  │화면  │도로시설물 목록                         │UW-S-9900 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │95  │화면  │도로시설물 등록/상세조회/수정           │UW-S-9901 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │96  │화면  │도로시설물위치관리                      │UW-S-9902 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │97  │화면  │일반용 도로명판 목록                    │UW-S-9100 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │98  │화면  │일반용 도로명판 등록/상세조회/수정      │UW-S-9101 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │99  │화면  │일반용 도로명판 일괄등록/일괄변경       │UW-S-9102 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │100 │화면  │이면도로용 도로명판 목록                │UW-S-9200 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │101 │화면  │이면도로용 도로명판 등록/상세조회/수정  │UW-S-9201 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │102 │화면  │이면도로용 도로명판 일괄등록/일괄변경   │UW-S-9202 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │103 │화면  │예고용 도로명판 목록                    │UW-S-9300 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │104 │화면  │예고용 도로명판 등록/상세조회/수정      │UW-S-9301 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │105 │화면  │예고용 도로명판 일괄등록/일괄변경       │UW-S-9302 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │106 │화면  │건물번호판 목록                         │UW-S-9400 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │107 │화면  │건물번호판 등록/상세조회/수정           │UW-S-9401 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │108 │화면  │건물번호판 일괄등록/일괄변경            │UW-S-9402 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │109 │화면  │건물번호판위치관리                      │UW-S-9403 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │110 │화면  │기초번호판 목록                         │UW-S-9500 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │111 │화면  │기초번호판 등록/상세조회/수정           │UW-S-9501 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │112 │화면  │기초번호판 일괄등록/일괄변경            │UW-S-9502 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │113 │화면  │지역안내판 목록                         │UW-S-9600 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │114 │화면  │지역안내판 등록/상세조회/수정           │UW-S-9601 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │115 │화면  │지역안내판 일괄등록/일괄변경            │UW-S-9602 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │116 │화면  │도로안내시설 위치조회                   │UW-S-9700 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │117 │화면  │건물 주출입구조회                       │UW-S-9701 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │118 │화면  │도로명조회                              │UW-S-9702 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │119 │화면  │원/근이미지관리                         │UW-S-9703 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │120 │화면  │일제점검현황                            │UW-S-9704 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │121 │화면  │도움말보기                              │UW-S-9705 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │122 │화면  │안내시설 DB정비현황 - 안내시설          │UW-S-9800 │     │\n│                │    │      │정비실적                                │          │      │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │123 │화면  │안내시설 DB정비현황 - 안내시설          │UW-S-9801 │     │\n│                │    │      │정비대상현황                            │          │      │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │124 │화면  │안내시설 DB정비현황 - 안내시설 오류율   │UW-S-9802 │     │\n├────────┼──┼───┼────────────────────┼─────┼───┤\n│기타시설물 업무 │125 │화면  │건물번호판재교부신청                    │UW-S-4110 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │126 │화면  │도로명주소안내도교부신청                │UW-S-4120 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │127 │화면  │자율형건물번호판설치신청                │UW-S-4130 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │128 │화면  │광고사업신청                            │UW-S-4140 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │129 │화면  │도로명주소안내시설설치계획의수정에대한  │UW-S-4150 │     │\n│                │    │      │이의신청                                │          │      │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │130 │화면  │도로안내시설조회                        │UW-S-4211 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │131 │화면  │도로안내시설조회 상세정보               │UW-S-4212 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │132 │화면  │건물번호판조회                          │UW-S-4221 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │133 │화면  │건물번호판 조회 상세정보                │UW-S-4222 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │134 │화면  │건물번호판점검관리                      │UW-S-4311 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │135 │화면  │건물번호판점검관리 상세정보             │UW-S-4312 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │136 │화면  │도로명주소안내도교부신청대장            │UW-S-4410 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │137 │화면  │광고사업자관리대장                      │UW-S-4420 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │138 │화면  │도로명주소안내시설설치계획의수정에대한  │UW-S-4430 │     │\n│                │    │      │이의신청대장                            │          │      │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │139 │화면  │명예 도로명판 목록                      │UW-S-4510 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │140 │화면  │명예 도로명판 등록/상세조회/수정        │UW-S-4511 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │141 │화면  │명예 도로명판 일괄등록/일괄변경         │UW-S-4512 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │142 │보고서│건물번호판재교부신청서                  │UW-R-4110 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │143 │보고서│도로명주소안내도교부신청서              │UW-R-4120 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │144 │보고서│자율형건물번호판설치신청서              │UW-R-4130 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │145 │보고서│광고사업신청서                          │UW-R-4140 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │146 │보고서│도로명주소안내시설설치계획의수정에대한  │UW-R-4150 │     │\n│                │    │      │이의신청서                              │          │      │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │147 │보고서│건물번호판교부대장                      │UW-R-4210 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │148 │보고서│도로명주소안내도교부신청처리대장        │UW-R-4410 │     │\n│                │    │      │보고서                                  │          │      │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │149 │보고서│광고사업자  관리대장 보고서             │UW-R-4420 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │150 │보고서│안내시설  설치계획수정에대한            │UW-R-4430 │     │\n│                │    │      │이의신청대장 보고서                     │          │      │\n├────────┼──┼───┼────────────────────┼─────┼───┤\n│일제조사        │151 │화면  │도로명판 점검대상목록                   │UW-S-8100 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │152 │화면  │일제조사 상세보기                       │UW-S-8101 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │153 │화면  │건물번호판 점검대상목록                 │UW-S-8200 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │154 │화면  │기초번호판 점검대상목록                 │UW-S-8300 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │155 │화면  │지역안내판 점검대상목록                 │UW-S-8400 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │156 │화면  │정비결과반영                            │UW-S-8500 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │157 │화면  │조치결과관리                            │UW-S-8600 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │158 │화면  │조치결과 일괄등록                       │UW-S-8601 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │159 │화면  │조사자관리                              │UW-S-8700 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │160 │화면  │일제점검조사업체 조회                   │UW-S-8701 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │161 │화면  │일제점검현황                            │UW-S-8800 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │162 │화면  │업체별조사현황                          │UW-S-8801 │     │\n├────────┼──┼───┼────────────────────┼─────┼───┤\n│통계업무        │163 │화면  │건물및도로현황                          │UW-S-5100 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │164 │화면  │도로명주소주요통계                      │UW-S-5300 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │165 │화면  │도로명 현황                             │UW-S-5301 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │166 │화면  │건물번호 현황                           │UW-S-5302 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │167 │화면  │건물 현황                               │UW-S-5303 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │168 │화면  │스마트KAIS이용현황                      │UW-S-5400 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │169 │화면  │도로명판확충실적                        │UW-S-5500 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │170 │화면  │도로명판확충실적 통계자료보기           │UW-S-5501 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │171 │화면  │도로명판확충실적 오류자료보기           │UW-S-5502 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │172 │화면  │도로명주소 안내시설 연보 - 총괄         │UW-S-5601 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │173 │화면  │도로명주소 안내시설 연보 - 도로명판     │UW-S-5602 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │174 │화면  │도로명주소 안내시설 연보 -              │UW-S-5603 │     │\n│                │    │      │벽면형도로명판                          │          │      │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │175 │화면  │도로명주소 안내시설 연보 - 이면도로용   │UW-S-5604 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │176 │화면  │도로명주소 안내시설 연보 -              │UW-S-5605 │     │\n│                │    │      │예고용도로명판                          │          │      │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │177 │화면  │도로명주소 안내시설 연보 - 건물번호판   │UW-S-5606 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │178 │화면  │도로명주소 안내시설 연보 -              │UW-S-5607 │     │\n│                │    │      │자율형건물번호판                        │          │      │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │179 │화면  │도로명주소 안내시설 연보 - 기초번호판   │UW-S-5608 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │180 │화면  │도로명주소 안내시설 연보 - 명예도로명판 │UW-S-5609 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │181 │화면  │도로명주소 안내시설 연보 - 지역안내판   │UW-S-5610 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │182 │화면  │도로명주소 안내시설 연보 -              │UW-S-5611 │     │\n│                │    │      │도로위계별현황                          │          │      │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │183 │화면  │도로명주소 안내시설 연보 -              │UW-S-5612 │     │\n│                │    │      │유형별설치현황및추가설치소요량          │          │      │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │184 │화면  │도로명주소 안내시설 연보 -              │UW-S-5613 │     │\n│                │    │      │교차로별설치현황및추가설치소요량        │          │      │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │185 │화면  │도로명주소 안내시설 연보 -              │UW-S-5614 │     │\n│                │    │      │통계자료다운로드                        │          │      │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │186 │화면  │도로명주소안내시설연보-과거통계조회(~18 │UW-S-5615 │     │\n│                │    │      │년05월)                                 │          │      │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │187 │화면  │광역도로별시설물현황                    │UW-S-5700 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │188 │화면  │교차로 및 도로명판 개요                 │UW-S-5800 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │189 │화면  │도로별 안내시설 설치현황                │UW-S-5801 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │190 │화면  │도로별 교차로수                         │UW-S-5802 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │191 │화면  │도로별 도로명판소요량                   │UW-S-5803 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │192 │화면  │교차로 도로명판 설치현황                │UW-S-5804 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │193 │화면  │RASS통계                                │UW-S-6640 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │194 │화면  │도로명주소안내시설현황                  │UW-S-5201 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │195 │화면  │도로명주소안내시설현황 이전통계         │UW-S-5202 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │196 │화면  │도로명주소안내시설현황 보고현황         │UW-S-5203 │     │\n├────────┼──┼───┼────────────────────┼─────┼───┤\n│공간자료 업로드 │197 │화면  │자전거도로 등록                         │UW-S-6610 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │198 │화면  │동별출입구 등록                         │UW-S-6620 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │199 │화면  │단지내도로 등록                         │UW-S-6630 │     │\n├────────┼──┼───┼────────────────────┼─────┼───┤\n│운영관리        │200 │화면  │사용자관리                              │UW-S-7100 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │201 │화면  │사용자권한관리                          │UW-S-7200 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │202 │화면  │기관정보관리                            │UW-S-7300 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │203 │화면  │공지사항                                │UW-S-7400 │     │\n│                ├──┼───┼────────────────────┼─────┼───┤\n│                │204 │화면  │개인정보이용이력                        │UW-S-7500 │     │\n└────────┴──┴───┴────────────────────┴─────┴───┘\n시?군?구 주소정보관리시스템 프로그램 목록(CS)\n┌────────┬──┬────────────────────┬─────┬───┐\n│업무기능        │번호│프로그램                                │프로그램ID│비 고 │\n├────────┼──┼────────────────────┼─────┼───┤\n│메인            │1   │메인화면                                │UC-S-0010 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │2   │접수  내역 관리                         │UC-S-0020 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │3   │직권  업무 관리                         │UC-S-0021 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │4   │건물/도로구간  선택                     │UC-S-0022 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │5   │갱신정보관리-KLIS  도로                 │UC-S-0023 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │6   │갱신정보관리-SIMC  도로                 │UC-S-0024 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │7   │갱신정보관리-KLIS  공원                 │UC-S-0025 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │8   │갱신정보관리-SIMC  건물                 │UC-S-0026 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │9   │갱신정보관리-건축물대장  건물           │UC-S-0027 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │10  │갱신정보관리-갱신대상건물               │UC-S-0028 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │11  │갱신정보관리-토지이동연혁               │UC-S-0029 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │12  │갱신정보관리-RASS건물                   │UC-S-0031 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │13  │레이어                                  │UC-S-0030 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │14  │상세  주소 관리                         │UC-S-0032 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │15  │연계레이어                              │UC-S-0040 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │16  │인덱스맵                                │UC-S-0050 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │17  │지번  검색                              │UC-S-0060 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │18  │새주소  검색                            │UC-S-0070 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │19  │건물지번  검색                          │UC-S-0071 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │20  │간편  검색                              │UC-S-0075 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │21  │도로명  검색                            │UC-S-0072 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │22  │로마자  표기 방법 안내                  │UC-S-0076 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │23  │기초구간  검색                          │UC-S-0073 │     │\n├────────┼──┼────────────────────┼─────┼───┤\n│(광역)도로구간  │24  │토지이동연혁갱신                        │UC-S-0074 │     │\n│등의 업무       ├──┼────────────────────┼─────┼───┤\n│                │25  │도로구간  통합 관리                     │UC-S-0082 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │26  │도로명  변경                            │UC-S-0085 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │27  │기초구간  변경/연장                     │UC-S-0090 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │28  │기초번호  변경                          │UC-S-0091 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │29  │도로구간위치정확도                      │UC-S-0083 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │30  │도로일괄폐지                            │UC-S-0086 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │31  │편집작업완료  관리                      │UC-S-0110 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │32  │명예도로구간  검색/조회                 │UC-S-0120 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │33  │명예도로구간  관리(설치/변경/삭제)      │UC-S-0130 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │34  │도로구간위치정확도  개선                │UC-S-0522 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │35  │RASS현행화신청                          │UC-S-0093 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │36  │RASS현행화승인                          │UC-S-0094 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │37  │미개통구간설정/개통  구간 반영          │UC-S-0088 │     │\n├────────┼──┼────────────────────┼─────┼───┤\n│건물등의 업무   │38  │건물번호부여(통합)                      │UC-S-0141 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │39  │건물번호변경(통합)                      │UC-S-0142 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │40  │건물번호분할                            │UC-S-0143 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │41  │건물번호합병                            │UC-S-0144 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │42  │건물번호분할합병                        │UC-S-0140 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │43  │건물군  신규건물추가                    │UC-S-0145 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │44  │건물군  추가                            │UC-S-0146 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │45  │건물군  삭제                            │UC-S-0147 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │46  │건물연혁정보                            │UC-S-0148 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │47  │건물  일괄폐지 작업                     │UC-S-0149 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │48  │건물  일괄폐지 작업 > 주소검색          │UC-S-0150 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │49  │고지대상자관리                          │UC-S-0201 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │50  │고지대상자관리  > 주소검색              │UC-S-0200 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │51  │개별  고지대상 관리(도로명변경)         │UC-S-0202 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │52  │개별  고지대상 관리(다중 및 건물군 이동)│UC-S-0203 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │53  │개별  고지대상 관리                     │UC-S-0204 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │54  │일괄  고시 처리                         │UC-S-0205 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │55  │고지/고시  조서 관리                    │UC-S-0206 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │56  │폐지  고시 도로명주소 조회              │UC-S-0207 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │57  │고지  조서 대장                         │UC-S-0208 │     │\n├────────┼──┼────────────────────┼─────┼───┤\n│도로명 안내시설 │58  │도로안내시설  검색/조회                 │UC-S-0210 │     │\n│관리            ├──┼────────────────────┼─────┼───┤\n│                │59  │도로시설물  위치 이동/생성              │UC-S-0212 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │60  │도로시설물  위치 관리                   │UC-S-0211 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │61  │도로시설물  위치 생성/변경/삭제         │UC-S-0220 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │62  │도로명판  생성/변경/삭제                │UC-S-0221 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │63  │이면도로용도로명판  생성/변경/삭제      │UC-S-0222 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │64  │예고용도로명판  생성/변경/삭제          │UC-S-0223 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │65  │명예도로명판  생성/변경/삭제            │UC-S-0224 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │66  │지역안내판  생성/변경/삭제              │UC-S-0225 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │67  │기초번호판  생성/변경/삭제              │UC-S-0226 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │68  │도로안내시설  오류 검색                 │UC-S-0230 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │69  │도로안내시설  점검현황                  │UC-S-0235 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │70  │도로안내시설  전환                      │UC-S-0236 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │71  │도로시설물/도로안내시설  일괄등록       │UC-S-0237 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │72  │도로시설물/도로안내시설  일괄변경       │UC-S-0239 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │73  │도로시시설물  변경대상 관리             │UC-S-0213 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │74  │도로시시설물  변경대상 관리 >           │UC-S-0214 │     │\n│                │    │도로시설물변경                          │          │      │\n│                ├──┼────────────────────┼─────┼───┤\n│                │75  │전체  이미지 내려받기                   │UC-S-0238 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │76  │건물번호판  위치 확인                   │UC-S-0242 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │77  │건물번호판  관리                        │UC-S-0240 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │78  │건물번호판  관리(생성/변경/삭제)        │UC-S-0250 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │79  │건물번호판  일괄생성                    │UC-S-0251 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │80  │건물번호판  일괄변경                    │UC-S-0255 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │81  │건물번호판  오류 일괄정비               │UC-S-0256 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │82  │건물번호판  설치현황                    │UC-S-0252 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │83  │주출입구  오류현황                      │UC-S-0253 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │84  │도로시설물  오류 일괄정비               │UC-S-0234 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │85  │시설물  점검(도로안내시설 및 건물번호판)│UC-S-0260 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │86  │이미지  용량 사이즈 변경                │UC-S-0241 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │87  │도로안내시설  이미지 등록               │UC-S-0265 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │88  │건물번호판  이미지 등록                 │UC-S-0266 │     │\n├────────┼──┼────────────────────┼─────┼───┤\n│배경관리        │89  │배경  관리                              │UC-S-0270 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │90  │배경  추가/수정                         │UC-S-0275 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │91  │사용자관리경계  추가/수정/삭제          │UC-S-0276 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │92  │택지개발지구                            │UC-S-0277 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │93  │교차로  관리                            │UC-S-0494 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │94  │도로구간  별 교차로 정비                │UC-S-0497 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │95  │교차로  삭제 정비                       │UC-S-0498 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │96  │교차로일괄사용안함처리                  │UC-S-0499 │     │\n├────────┼──┼────────────────────┼─────┼───┤\n│자료관리        │97  │교차로  등록                            │UC-S-0491 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │98  │임시교차로  유형 일괄변경               │UC-S-0492 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │99  │교차로  저장                            │UC-S-0493 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │100 │교차로  추가                            │UC-S-0495 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │101 │교차로  수정                            │UC-S-0496 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │102 │이미지  관리                            │UC-S-0300 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │103 │이미지관리(건물번호판)                  │UC-S-0301 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │104 │전자지도  제공                          │UC-S-0310 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │105 │매칭테이블  제공                        │UC-S-0320 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │106 │주소사용자  정보 추출(도로명코드기준)   │UC-S-0325 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │107 │주소사용자  정보 추출(도로명주소기준)   │UC-S-0326 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │108 │속성보기(레이어)                        │UC-S-0330 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │109 │정보보기                                │UC-S-0340 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │110 │북마크  관리                            │UC-S-0350 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │111 │메타데이터                              │UC-S-0351 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │112 │이력정보                                │UC-S-0352 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │113 │도면(간편)  출력                        │UC-S-0353 │     │\n├────────┼──┼────────────────────┼─────┼───┤\n│레이어 관리     │114 │출력  미리보기 (간편출력)               │UC-S-0354 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │115 │경계별전자지도추출                      │UC-S-0355 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │116 │경계별도로명주소추출                    │UC-S-0356 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │117 │개발예정지구  내 주소안내시설 현황      │UC-S-0359 │     │\n├────────┼──┼────────────────────┼─────┼───┤\n│행정구역 변경   │118 │행정구역  코드 변경                     │UC-S-0390 │     │\n├────────┼──┼────────────────────┼─────┼───┤\n│자료정비        │119 │위치정확도 정비 전 자료  관리           │UC-S-0358 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │120 │레이어  스냅 설정                       │UC-S-0360 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │121 │레이어  순서 설정                       │UC-S-0370 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │122 │레이어  심볼설정                        │UC-S-0380 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │123 │영문도로명  변환                        │UC-S-0357 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │124 │건물  오류 검색                         │UC-S-0400 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │125 │건물정보  수정                          │UC-S-0405 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │126 │도로구간  오류 검색                     │UC-S-0410 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │127 │도로정보  수정                          │UC-S-0415 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │128 │관련  지번 정비                         │UC-S-0430 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │129 │건물  기재내용 정정                     │UC-S-0440 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │130 │건축물대장  정보 가져오기               │UC-S-0445 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │131 │건물군  기재내용 정정                   │UC-S-0450 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │132 │건물  기초구역번호 정정                 │UC-S-0451 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │133 │건물군내  건물 정보 갱신                │UC-S-0530 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │134 │건물/건물군  이동                       │UC-S-0455 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │135 │출입구/연결선  오류 검색                │UC-S-0458 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │136 │출입구  정비                            │UC-S-0459 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │137 │연결선  정비                            │UC-S-0460 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │138 │동별  출입구 관리                       │UC-S-0461 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │139 │주차장  출입구 관리                     │UC-S-0462 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │140 │기타상세건물명  일괄 입력               │UC-S-0465 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │141 │도로구간  기재내용 정정                 │UC-S-0470 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │142 │임시교차로  자동 생성                   │UC-S-0490 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │143 │미사용  작업 데이터 정리                │UC-S-0500 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │144 │인접시군구  도로구간 관리               │UC-S-0510 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │145 │통계  오류 검색                         │UC-S-0520 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │146 │연결선공간오류정비                      │UC-S-0521 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │147 │건물명정비                              │UC-S-0524 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │148 │오류자료  일괄정비                      │UC-S-0525 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │149 │도로명  폐지대장 관리                   │UC-S-0087 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │150 │교차로  위치 중복(근거리) 정비          │UC-S-0485 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │151 │교차로  유형 정비                       │UC-S-0486 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │152 │도로시설물의  교차로 일괄정비           │UC-S-0484 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │153 │도로시설물의  교차로 정보 정비          │UC-S-0487 │     │\n│                ├──┼────────────────────┼─────┼───┤\n│                │154 │도로시설물과  연결된 교차로의 유형이    │UC-S-0488 │     │\n│                │    │다른데이터 정비                         │          │      │\n│                ├──┼────────────────────┼─────┼───┤\n│                │155 │건물 내 기초구역번호  오류관리          │UC-S-0489 │     │\n└────────┴──┴────────────────────┴─────┴───┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000174765&bylNo=0005&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=112214815",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=112214815",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:주소정보전산체계운영규정#BYL0005",
+      "filename": "별표5_시·군·구주소정보관리시스템 프로그램 목록(Web).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별표",
+      "title": "주소정보현장지원시스템 프로그램 목록",
+      "enforcement_date": "",
+      "content": "[별표 6]\n주소정보현장지원시스템 프로그램 목록\n┌──────┬──┬─────────────────┬─────┬───┐\n│업무        │번호│프로그램                          │프로그램ID│비  고│\n│구분        │    │                                  │          │      │\n├──────┼──┼─────────────────┼─────┼───┤\n│공통        │1   │시작화면                          │US-S-010  │      │\n│            ├──┼─────────────────┼─────┼───┤\n│            │2   │메인화면                          │US-S-011  │      │\n├──────┼──┼─────────────────┼─────┼───┤\n│기타        │3   │민원관리화면                      │US-S-012  │      │\n│            ├──┼─────────────────┼─────┼───┤\n│            │4   │도움센터관리화면                  │US-S-013  │      │\n│            ├──┼─────────────────┼─────┼───┤\n│            │5   │설정화면                          │US-S-014  │      │\n│            ├──┼─────────────────┼─────┼───┤\n│            │6   │거리측정화면                      │US-S-015  │      │\n├──────┼──┼─────────────────┼─────┼───┤\n│공통        │7   │시설물관리(지도)                  │US-S-020  │      │\n│            ├──┼─────────────────┼─────┼───┤\n│            │8   │점검목록                          │US-S-021  │      │\n├──────┼──┼─────────────────┼─────┼───┤\n│안내시설관리│9   │상세정보관리(도로명판)            │US-S-030  │      │\n│            ├──┼─────────────────┼─────┼───┤\n│            │10  │상세정보관리(이면도로용 도로명판) │US-S-031  │      │\n│            ├──┼─────────────────┼─────┼───┤\n│            │11  │상세정보관리(예고용 도로명판)     │US-S-032  │      │\n│            ├──┼─────────────────┼─────┼───┤\n│            │12  │상세정보관리(기초번호판)          │US-S-033  │      │\n│            ├──┼─────────────────┼─────┼───┤\n│            │13  │상세정보관리(지역안내판)          │US-S-034  │      │\n│            ├──┼─────────────────┼─────┼───┤\n│            │14  │사진정보관리(시설물)              │US-S-035  │      │\n│            ├──┼─────────────────┼─────┼───┤\n│            │15  │상세정보관리(교차로)              │US-S-036  │      │\n├──────┼──┼─────────────────┼─────┼───┤\n│공통        │16  │위치이동관리                      │US-S-040  │      │\n│            ├──┼─────────────────┼─────┼───┤\n│            │17  │신규위치등록                      │US-S-041  │      │\n│            ├──┼─────────────────┼─────┼───┤\n│            │18  │위치이동                          │US-S-042  │      │\n├──────┼──┼─────────────────┼─────┼───┤\n│기타점검관리│19  │기타점검관리(지도)                │US-S-050  │      │\n│            ├──┼─────────────────┼─────┼───┤\n│            │20  │지점번호판 목록                   │US-S-051  │      │\n├──────┼──┼─────────────────┼─────┼───┤\n│건물        │21  │상세정보관리(건물번호판정보)      │US-S-060  │      │\n│            ├──┼─────────────────┼─────┼───┤\n│            │22  │상세정보관리(건물정보)            │US-S-061  │      │\n│            ├──┼─────────────────┼─────┼───┤\n│            │23  │사진정보관리(건물번호판)          │US-S-062  │      │\n│            ├──┼─────────────────┼─────┼───┤\n│            │24  │상세주소 기초조사관리화면         │US-S-063  │      │\n│            ├──┼─────────────────┼─────┼───┤\n│            │25  │상세정보관리화면(기초조사)        │US-S-064  │      │\n│            ├──┼─────────────────┼─────┼───┤\n│            │26  │사진정보관리화면(기초조사)        │US-S-065  │      │\n│            ├──┼─────────────────┼─────┼───┤\n│            │27  │위치이동관리(건물번호판)          │US-S-070  │      │\n│            ├──┼─────────────────┼─────┼───┤\n│            │28  │신규위치등록(건물번호판)          │US-S-071  │      │\n├──────┼──┼─────────────────┼─────┼───┤\n│기타점검관리│29  │상세정보관리(지점번호판)          │US-S-072  │      │\n└──────┴──┴─────────────────┴─────┴───┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000174765&bylNo=0006&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=112214837",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=112214837",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:주소정보전산체계운영규정#BYL0006",
+      "filename": "별표6_주소정보현장지원시스템 프로그램 목록.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "별표",
+      "title": "프로그램 명칭 설정 기준",
+      "enforcement_date": "",
+      "content": "[별표 7]\n프로그램 명칭 설정 기준\n○ 중앙주소정보관리시스템\n┌─┬─┬─┬─┬─┬─┬┬┬─┐\n│  │  │- │  │- │  │││  │\n└┬┴┬┴─┴─┴─┴┬┴┴┴┬┘\n│  │              │      │\n└┬┘              │      │\n│        │      │      │\n│        │      └─┬─┘  ┌─────────────┐\n│        │          │      │일련번호(4자리)           │\n│        │          └───┤                          │\n│        │                  │                          │\n│        │                  └─────────────┘\n│        │\n│        │                  ┌─────────────┐\n│        │                  │프로그램 용도 구분(1자리) │\n│        └─────────┤                          │\n│                            │                          │\n│                            └─────────────┘\n│                              S : 화면\n│                              R : 보고서\n│\n│                            ┌─────────────┐\n│                            │프로그램임을 명시(1자리)  │\n└──────────────┤                          │\n│                          │\n└─────────────┘\nUW : 웹 프로그램\n\n○ 주소정보활용지원시스템\n┌─┬─┬┬┬┬─┬┬┬┐\n│  │- ││││- ││││\n└─┴─┴┴┴┴─┴┴┴┘\n\n\n│    │    │  │    │\n│    └─┬┘  └─┬┘┌──────────────┐\n│        │        │  │일련번호(3자리)             │\n│        │        └─┤                            │\n│        │            │                            │\n│        │            └──────────────┘\n│        │\n│        │            ┌──────────────┐\n│        │            │시스템번호(3자리)           │\n│        └──────┤                            │\n│                      │                            │\n│                      └──────────────┘\n│                        250 : 주소정보활용지원시스템\n│\n│\n│                      ┌──────────────┐\n│                      │프로그램임을 명시(1자리)    │\n└───────────┤                            │\n│                            │\n└──────────────┘\nW : 웹 프로그램\n\n\n○ 주소정보누리집\n┌─┬─┬┬┬┬─┬┬┬┐\n│  │- ││││- ││││\n└─┴─┴┴┴┴─┴┴┴┘\n\n\n│    │    │  │    │\n│    └─┬┘  └─┬┘┌────────────┐\n│        │        │  │일련번호(3자리)         │\n│        │        └─┤                        │\n│        │            │                        │\n│        │            └────────────┘\n│        │\n│        │            ┌────────────┐\n│        │            │시스템번호(3자리)       │\n│        └──────┤                        │\n│                      │                        │\n│                      └────────────┘\n│                        210 : 누리집\n│                        211 : 관리자 페이지\n│                        220 : 개발자센터\n│                      ┌────────────┐\n│                      │프로그램임을 명시(1자리)│\n└───────────┤                        │\n│                        │\n└────────────┘\nW : 웹 프로그램\n\n\n○ 시ㆍ도주소정보관리시스템\n┌─┬─┬─┬─┬─┬─┬┬┬─┐\n│  │  │- │  │- │  │││  │\n└┬┴┬┴─┴─┴─┴┬┴┴┴┬┘\n│  │              │      │\n└┬┘              │      │\n│        │      │      │\n│        │      └─┬─┘  ┌─────────────┐\n│        │          │      │일련번호(4자리)           │\n│        │          └───┤                          │\n│        │                  │                          │\n│        │                  └─────────────┘\n│        │\n│        │                  ┌─────────────┐\n│        │                  │프로그램 용도 구분(1자리) │\n│        └─────────┤                          │\n│                            │                          │\n│                            └─────────────┘\n│                              S : 화면\n│                              R : 보고서\n│\n│                            ┌─────────────┐\n│                            │프로그램임을 명시(1자리)  │\n└──────────────┤                          │\n│                          │\n└─────────────┘\nUC : CS 프로그램\nUW : 웹 프로그램\n\n○ 시ㆍ군ㆍ구주소정보관리시스템\n┌─┬─┬─┬─┬─┬─┬┬┬─┐\n│  │  │- │  │- │  │││  │\n└┬┴┬┴─┴─┴─┴┬┴┴┴┬┘\n│  │              │      │\n└┬┘              │      │\n│        │      │      │\n│        │      └─┬─┘  ┌─────────────┐\n│        │          │      │일련번호(4자리)           │\n│        │          └───┤                          │\n│        │                  │                          │\n│        │                  └─────────────┘\n│        │\n│        │                  ┌─────────────┐\n│        │                  │프로그램 용도 구분(1자리) │\n│        └─────────┤                          │\n│                            │                          │\n│                            └─────────────┘\n│                              S : 화면\n│                              R : 보고서\n│\n│                            ┌─────────────┐\n│                            │프로그램임을 명시(1자리)  │\n└──────────────┤                          │\n│                          │\n└─────────────┘\nUC : CS 프로그램\nUW : 웹 프로그램\n\n○ 주소정보현장지원시스템\n┌─┬─┬─┬─┬─┬─┬┬┬─┐\n│  │  │- │  │- │  │││  │\n└┬┴┬┴─┴─┴─┴┬┴┴┴┬┘\n│  │              │      │\n└┬┘              │      │\n│        │      │      │\n│        │      └─┬─┘  ┌──────────────┐\n│        │          │      │일련번호(4자리)             │\n│        │          └───┤                            │\n│        │                  │                            │\n│        │                  └──────────────┘\n│        │\n│        │                  ┌──────────────┐\n│        │                  │프로그램 용도 구분(1자리)   │\n│        └─────────┤                            │\n│                            │                            │\n│                            └──────────────┘\n│                              S : 화면\n│                              R : 보고서\n│\n│                            ┌──────────────┐\n│                            │프로그램임을 명시(1자리)    │\n└──────────────┤                            │\n│                            │\n└──────────────┘\nUS : 주소정보현장지원시스템\n",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000174765&bylNo=0007&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=112214841",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=112214841",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:주소정보전산체계운영규정#BYL0007",
+      "filename": "별표7_프로그램 명칭 설정 기준.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0008",
+      "branch": "00",
+      "kind": "별표",
+      "title": "데이터 코드 목록",
+      "enforcement_date": "",
+      "content": "[별표 8]\n데이터 코드 목록\n○ 시ㆍ군ㆍ구, 시ㆍ도 및 중앙주소정보관리시스템 코드 체계\n┌─┬┬┬─┬─┬─┬─┐\n│  │││  │  │  │  │\n└─┴┴┴─┴─┴─┴─┘\n\n\n│\n│                        ┌────────┐\n│                        │일련번호(3자리) │\n│                        │                │\n│                        │                │\n│                        └────────┘\n│\n│                        ┌────────┐\n│                        │업무구분(4자리) │\n└────────────┤                │\n│                │\n└────────┘\n1 : 시스템공통\n2 : 안내시설\n3 : 상세주소\n4 : 국가지점번호\n5 : 기타\n\n\n\n\n\n○ 주소정보활용지원시스템 코드 체계\n┌─┬─┬─┬─┬─┬─┬─┐\n│  │  │  │  │  │  │  │\n└─┴─┴─┴─┴─┴─┴─┘\n\n\n\n┌──────────┐\n│일련번호(2자리)     │\n│                    │\n│                    │\n└──────────┘\n\n┌──────────┐\n│업무구분(4자리)     │\n│                    │\n│                    │\n└──────────┘\n1 : 국가기초구역\n2 : 드론통합\n3 : 자율주행로봇배송\n\n\n\n\n\n○ 주소정보누리집 코드 체계\n┌─┬─┐\n│  │  │\n└┬┴┬┘\n│  │\n└─┘\n\n┌────────┐\n│일련번호(2자리) │\n│                │\n│                │\n└────────┘\n\n\n○ 주소정보현장지원시스템 코드 체계\n┌─┬┬┬─┬─┬─┬─┐\n│  │││  │  │  │  │\n└─┴┴┴─┴─┴─┴─┘\n\n\n│\n│                        ┌────────┐\n│                        │일련번호(3자리) │\n│                        │                │\n│                        │                │\n│                        └────────┘\n│\n│                        ┌────────┐\n│                        │업무구분(4자리) │\n└────────────┤                │\n│                │\n└────────┘\n1 : 안내시설조사\n2 : 지점번호판\n3 : 사물주소판\n\n\n",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000174765&bylNo=0008&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=112214851",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=112214851",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:주소정보전산체계운영규정#BYL0008",
+      "filename": "별표8_데이터 코드 목록.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0009",
+      "branch": "00",
+      "kind": "별표",
+      "title": "데이터베이스 명칭 설정 기준",
+      "enforcement_date": "",
+      "content": "[별표 9]\n데이터베이스 명칭 설정 기준\n○ 물리적 특성구분(1자리), 논리적 특성구분(1자리), 기타 테이블의 특성을 표현하는 영어문장 순으로 구성\n┌─┬─┬─┬┬┬┬┬┬┬┬┐\n│  │  │_ │││││││││\n└─┴─┴─┴┴┴┴┴┴┴┴┘\n\n\n│  │    │  │  │      │\n│  │    └┬┴┬┴┬──┼─────────────────┐\n│  │      │  │  │    │테이블특성에 따른 명칭(가변길이)  │\n│  │      │  │  └──┤                                  │\n│  │      │  │        │                                  │\n│  │      │  │        └─────────────────┘\n│  │      │  │\n│  │      │  │        ┌─────────────────┐\n│  │      │  │        │업무구분코드(2자리)               │\n│  │      │  └────┤                                  │\n│  │      │            │                                  │\n│  │      │            └─────────────────┘\n│  │      │               1 : 도로명주소(건물번호)\n│  │      │               2 : 상세주소(집합건물)\n│  │      │               3 : 사물주소\n│  │      │               4 : 주소정보시설(위치정보)\n│  │      │               5 : 주소정보시설(속성)\n│  │      │               6 : 주소정보시설(지점번호판)\n│  │      │               7 : 주소정보참조대상\n│  │      │               8 : 고객관리(누리집)\n│  │      │               9 : 게시판(누리집)\n│  │      │              10 : 공통(코드 및 기타사항)\n│  │      │            ┌─────────────────┐\n│  │      │            │시스템구분코드(2자리)             │\n│  │      └──────┤                                  │\n│  │                    │                                  │\n│  │                    └─────────────────┘\n│  │                      1 : 시?군?구주소정보관리시스템,\n│  │                         주소정보활용지원시스템,\n│  │                         주소정보현장지원시스템\n│  │                      2 : 시?도주소정보관리시스템\n│  │                      3 : 중앙주소정보관리시스템\n│  │                      4 : 주소정보누리집\n│  │                      5 : 기타(시스템 공통)\n│  │                    ┌─────────────────┐\n│  │                    │논리적 특성구분(1자리)            │\n│  └──────────┤                                  │\n│                        │                                  │\n│                        └─────────────────┘\n│                          1 : 공간정보\n│                          2 : 속성\n│                          3 : 이력\n│                          4 : 코드\n│                          5 : 수직연계\n│                          6 : 임시\n│                          7 : 통계\n│                          8 : 기타\n│                        ┌─────────────────┐\n│                        │물리적 특성구분(1자리)            │\n└────────────┤                                  │\n│                                  │\n└─────────────────┘\n1 : 테이블\n2 : 뷰\n3 : 클러스터\n4 : 파티션\n5 : 기타\n",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000174765&bylNo=0009&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=112214857",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=112214857",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:주소정보전산체계운영규정#BYL0009",
+      "filename": "별표9_데이터베이스 명칭 설정 기준.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "주소정보 전산체계 운영규정 전문★.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=103045367",
+      "file_store_url": "",
+      "filename": "주소정보 전산체계 운영규정 전문★.hwp"
+    },
+    {
+      "name": "조문별 제개정이유서_주소정보 전산체계 운영규정★.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=103045369",
+      "file_store_url": "",
+      "filename": "조문별 제개정이유서_주소정보 전산체계 운영규정★.hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 20,
+    "by_category": {
+      "법령": 2,
+      "별표": 9,
+      "행정규칙": 9
+    },
+    "by_relation_type": {
+      "citation": 3,
+      "appendix_ref": 9,
+      "internal_ref": 8
+    },
+    "articles_total": 26,
+    "articles_with_relations": 7,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 9,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/주소정보 전산체계 운영규정"
+  },
+  "provision_id": "admrul:주소정보전산체계운영규정#DOC"
+}
