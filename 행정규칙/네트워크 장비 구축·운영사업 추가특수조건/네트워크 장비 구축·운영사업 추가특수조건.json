@@ -1,0 +1,301 @@
+{
+  "law_id": "2100000202045",
+  "mst": "2100000202045",
+  "law_name": "네트워크 장비 구축·운영사업 추가특수조건",
+  "law_abbr": "",
+  "law_type": "지침",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000202045",
+  "promulgation_no": "8258",
+  "promulgation_date": "20210615",
+  "enforcement_date": "20210615",
+  "revision_date": "20210615",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "조달청(정보기술계약과)",
+    "담당자명": "나승덕",
+    "행정규칙종류코드": "B0005",
+    "행정규칙명": "네트워크 장비 구축·운영사업 추가특수조건",
+    "발령일자": "20210615",
+    "행정규칙종류": "지침",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "조달청",
+    "전화번호": "042-724-7341",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1230000",
+    "생성일자": "20210702",
+    "행정규칙ID": "51474",
+    "시행일자": "20210615",
+    "담당부서기관코드": "1230484",
+    "발령번호": "8258",
+    "행정규칙일련번호": "2100000202045",
+    "상위부처명": "조달청"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정사유\n○ 제1조 수정(목적→적용), 제2조 삭제(적용범위), 제3조 정의 추가신설(수요기관이란「조달사업에 관한 법률」제2조에 따른 기관) 하고\n- 2조삭제에 따른 조문이동\n○ 재검토기한을「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」제7조(훈령ㆍ예규 등의 존속기한 등의 설정)에 따라 2021년 7월 1일 기준으로 3년이 되는 시점으로 재설정",
+  "body": {
+    "format": "articles",
+    "article_count": 6,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "적용",
+        "chapter": "",
+        "content": "제1조(적용) 이 네트워크 장비 구축ㆍ운영사업 추가특수조건(이하 \"추가특수조건\"이라 한다)은 조달청 계약담당공무원과 계약상대자가 체결하는 네트워크 장비 구축ㆍ운영 과업이 포함된 물품구매 및 용역 계약에 적용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:네트워크장비구축운영사업추가특수조건#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) 이 추가특수조건에서 사용하는 용어의 정의는 다음과 같다.1. ‘네트워크 장비’란 다양한 네트워크시스템을 구축하는데 기반이 되는 네트워크장비, 네트워크 보안장비 등을 말한다.2. ‘제안요청서’란 수요기관이 네트워크장비 구축ㆍ운영 사업을 성공적으로 수행할 수 있도록 입찰에 참가하려는 자들에게 수요기관의 요구사항을 알리는 규격서, 제안서, 내역서, 도면, 시방서 등을 말한다.3. ‘운영’이란 네트워크 장비의 구축 완료 후 수요기관에게 인도된 네트워크 장비들에 대한 관리ㆍ유지보수 등의 행위를 말한다.4. ‘백도어(Back Door)’란 계약상대자가 정당한 권한 있는 자로부터 승인, 인가 등을 받지 않고 네트워크 장비에 접근하여 서버 등에 저장된 정보를 외부에 유출하거나 훼손 및 위ㆍ변조하는 행위 또는 이와 관련된 모든 프로그램을 말한다.5. ‘수요기관’이란「조달사업에 관한 법률」제2조 제5호에서 정한 기관을 말한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「조달사업에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "조달사업에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/조달사업에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:네트워크장비구축운영사업추가특수조건#JO0002",
+            "reference_id": "law:조달사업에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "조달사업에 관한 법률",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/조달사업에 관한 법률/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:네트워크장비구축운영사업추가특수조건#JO0002",
+            "reference_id": "law:조달사업에관한법률#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:네트워크장비구축운영사업추가특수조건#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "계약상대자 정보보안 준수 의무",
+        "chapter": "",
+        "content": "제3조(계약상대자 정보보안 준수 의무) 네트워크 장비 구축 또는 네트워크 장비 운영사업의 계약상대자는 다음 각 호를 따라야 한다.1. 국가정보원 「국가 정보보안 기본지침」,「수요기관 보안업무규정 및 세부 지침」등을 준수해야 한다.2. 네트워크 장비에 대해 제안요청서에서 요구된 세부 보안요구사항을 충족하기 위해 필요한 모든 조치를 취해야 한다.3. 네트워크 장비에 대해 계약기간(하자보증기간 포함) 내에 백도어 등 모든 기능상 보안취약점 등의 결점에 대해서는 개선 조치하여야 한다.4. 네트워크 장비내에 백도어 등이 설치 및 운영되지 않도록 보안대책을 마련하여 주기적으로 점검하여야 하며, 점검결과 결점이 발견될 경우에는 계약담당공무원 또는 수요기관에 즉시 신고하고 신속히 개선 조치하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:네트워크장비구축운영사업추가특수조건#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "위반자에 대한 벌칙",
+        "chapter": "",
+        "content": "제4조(위반자에 대한 벌칙) 제4조를 위반할 경우 민사상 손해배상 외에 「국가를 당사자로 하는 계약에 관한 법률」제27조 등 관계 법령에 따라 부정당업자로 입찰참가자격 제한처분을 받을 수 있고, 용역계약일반조건 제29조 및 물품구매(제조)계약일반조건 제26조에 따라 당해 계약을 해제 또는 해지할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「국가를 당사자로 하는 계약에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "국가를 당사자로 하는 계약에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가를 당사자로 하는 계약에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:네트워크장비구축운영사업추가특수조건#JO0004",
+            "reference_id": "law:국가를당사자로하는계약에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제27조",
+            "line_text": "",
+            "target_law_name": "국가를 당사자로 하는 계약에 관한 법률",
+            "target_article_no": "제27조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가를 당사자로 하는 계약에 관한 법률/제27조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:네트워크장비구축운영사업추가특수조건#JO0004",
+            "reference_id": "law:국가를당사자로하는계약에관한법률#JO0027"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제29조",
+            "line_text": "",
+            "target_law_name": "국가를 당사자로 하는 계약에 관한 법률",
+            "target_article_no": "제29조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가를 당사자로 하는 계약에 관한 법률/제29조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:네트워크장비구축운영사업추가특수조건#JO0004",
+            "reference_id": "law:국가를당사자로하는계약에관한법률#JO0029"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제26조",
+            "line_text": "",
+            "target_law_name": "국가를 당사자로 하는 계약에 관한 법률",
+            "target_article_no": "제26조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가를 당사자로 하는 계약에 관한 법률/제26조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:네트워크장비구축운영사업추가특수조건#JO0004",
+            "reference_id": "law:국가를당사자로하는계약에관한법률#JO0026"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:네트워크장비구축운영사업추가특수조건#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "타법령의 준용 등",
+        "chapter": "",
+        "content": "제5조(타법령의 준용 등) 이 추가특수조건에서 명기하지 아니한 사항에 대하여는 계약상대자와 수요기관간의 협의에 의한 당해 개별계약에 의하거나, 「국가(지방자치단체)를 당사자로 하는 계약에 관한법률」, 동 시행령과 기타 계약에 관한 법령, 예규 및 용역계약일반조건ㆍ물품구매(제조)계약일반조건 등 관계법령과 일반 상거래관례에 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「국가(지방자치단체)를 당사자로 하는 계약에 관한법률」",
+            "line_text": "제5조(타법령의 준용 등) 이 추가특수조건에서 명기하지 아니한 사항에 대하여는 계약상대자와 수요기관간의 협의에 의한 당해 개별계약에 의하거나, 「국가(지방자치단체)를 당사자로 하는 계약에 관한법률」, 동 시행령과 기타 계약에 관한 법령, 예규 및 용역계약일반조건ㆍ물품구매(제조)계약일반조건 등 관계법령과 일반 상거래관례에 따른다.",
+            "target_law_name": "국가(지방자치단체)를 당사자로 하는 계약에 관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가(지방자치단체)를 당사자로 하는 계약에 관한법률",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:네트워크장비구축운영사업추가특수조건#JO0005",
+            "reference_id": "law:국가(지방자치단체)를당사자로하는계약에관한법률#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:네트워크장비구축운영사업추가특수조건#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제6조(재검토기한) 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 지침에 대하여 2021년 7월 1일 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일 까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:네트워크장비구축운영사업추가특수조건#JO0006",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:네트워크장비구축운영사업추가특수조건#JO0006"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20160122",
+      "promulgation_no": "527",
+      "content": "부칙 <제527호,2016. 1. 22.>제1조(시행일) 이 추가특수조건은 2016년 1월 25일부터 시행한다.제2조(적용례) 이 추가특수조건은 국방부 및 그 소속ㆍ산하기관의 2016년 1월 25일 이후 입찰공고분부터 적용하고, 그 외 기관은 2016년 7월 1일이후 입찰공고분부터 적용한다."
+    },
+    {
+      "promulgation_date": "20180620",
+      "promulgation_no": "5538",
+      "content": "부칙 <제5538호,2018. 6. 20.>제1조(시행일) 이 추가특수조건은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20210615",
+      "promulgation_no": "8258",
+      "content": "부칙 <제8258호, 2021. 6. 15.>제1조(시행일) 이 추가특수조건은 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "(전문시행) 네트워트장비 구축운영사업 추가특수조건.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=103555193",
+      "file_store_url": "",
+      "filename": "(전문시행) 네트워트장비 구축운영사업 추가특수조건.hwp"
+    },
+    {
+      "name": "개정사유서.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=103555195",
+      "file_store_url": "",
+      "filename": "개정사유서.hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 8,
+    "by_category": {
+      "법령": 7,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 8
+    },
+    "articles_total": 6,
+    "articles_with_relations": 4,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 3,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/네트워크 장비 구축·운영사업 추가특수조건"
+  },
+  "provision_id": "admrul:네트워크장비구축운영사업추가특수조건#DOC"
+}
