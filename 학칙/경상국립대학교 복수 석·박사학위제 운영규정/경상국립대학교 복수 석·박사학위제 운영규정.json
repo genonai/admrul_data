@@ -1,0 +1,399 @@
+{
+  "law_id": "2200000091727",
+  "mst": "2200000091727",
+  "law_name": "경상국립대학교 복수 석·박사학위제 운영규정",
+  "law_abbr": "",
+  "law_type": "학교규정",
+  "doc_target": "school",
+  "doc_kind": "학칙",
+  "adm_uid": "school:2200000091727",
+  "promulgation_no": "222",
+  "promulgation_date": "20210714",
+  "enforcement_date": "20210714",
+  "revision_date": "20210714",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "경상국립대학교 대학원",
+    "담당자명": "",
+    "행정규칙종류코드": "B0026",
+    "행정규칙명": "경상국립대학교 복수 석·박사학위제 운영규정",
+    "발령일자": "20210714",
+    "행정규칙종류": "학교규정",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "경상국립대학교",
+    "전화번호": "055-772-0114",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "7008261",
+    "생성일자": "20210906",
+    "행정규칙ID": "2113171",
+    "담당부서기관코드": "",
+    "발령번호": "222",
+    "행정규칙일련번호": "2200000091727"
+  },
+  "amendment_text": "",
+  "revision_reason": "1. 제안이유\n? 학칙 제66조(복수학위 및 공동학위 교육과정)에 따라 국내 대학(창원대)과 복수학위제 시행 예정에 따른 복수박사학위제 운영규정 전부 개정\n- 복수학위과정 지원자격, 학점인정 및 학위취득 요건 등 세부사항 명시\n2. 주요내용\n? 규정명 “경상국립대학교 복수박사학위제 운영규정”을 “경상국립대학교 복수 석·박사학위제 운영규정”으로 변경\n? 일반대학원 복수학위과정 대상을 국내·외 복수학위과정(석사, 박사, 석·박사통합포함)으로 적용범위 확대 및 개설절차 명시(안 제1조 내지 제4조)\n? 우리대학 학생의 국내·외 대학 수학에 관한 사항(안 제5조 내지 제14조)\n- 지원자격, 수학신청 심사, 등록 및 학적, 수학기간, 학점인정, 수학취소, 논문심사, 학위취득 요건, 학위기 수여 및 수학의무 사항 명시\n? 협력대학 학생의 우리대학 수학에 관한 사항(안 제15조 내지 제18조)\n- 지원자격, 학사관리, 수료요건 및 논문심사, 학위수여 등 명시\n? 각종 서식 표기(별지 제1호 내지 제6호 서식)",
+  "body": {
+    "format": "articles",
+    "article_count": 19,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조(목적) 이 규정은 「경상국립대학교 학칙」 제66조에 의한 경상국립대학교와 복수학위제 협정을 체결한 대학간 복수 석·박사학위제 운영에 관한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "school:경상국립대학교복수석박사학위제운영규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "용어",
+        "chapter": "제1장 총칙",
+        "content": "제2조(용어) ① “복수학위”란 경상국립대학교(이하 “이 대학교”라 한다)와 복수학위제 협정을 체결한 국내·외 대학에서 취득한 학점을 상호인정하여 양교의 학위취득에 필요한 요건을 충족한 사람에게 양교에서 각각 학위를 수여하는 제도를 말한다.② “협력대학”이란 이 대학교와 복수학위제 운영 협약이 이루어진 대학을 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "school:경상국립대학교복수석박사학위제운영규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "과정의 설치와 적용범위",
+        "chapter": "제1장 총칙",
+        "content": "제3조(과정의 설치와 적용범위) ① 이 규정에 따른 복수학위제는 이 대학교의 일반대학원 석사 및 박사(석·박사 통합과정 포함)학위과정에 설치한다.② 이 규정은 이 대학교와 협력대학 간 복수학위를 취득하려는 학생에게 적용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "school:경상국립대학교복수석박사학위제운영규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "개설절차",
+        "chapter": "제1장 총칙",
+        "content": "제4조(개설절차) ① 복수학위과정을 개설하고자 하는 학부(과)의 장은 개설 예정 학기의 1개학기 전까지 다음 각 호의 서류를 갖추어 대학원장에게 요청하여야 한다.1. 협약서(해당국 언어 또는 영어, 국문 각 1부) 1부2. 복수학위과정 운영계획서 1부3. 학부(과) 전임교원 전체 동의서 1부② 복수학위과정의 교육과정은 각 대학원에서 개설하여 운영 중인 교육과정과 연계하여 운영한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "school:경상국립대학교복수석박사학위제운영규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "지원자격 및 신청",
+        "chapter": "제2장 이 대학교 학생의 협력대학 수학",
+        "content": "제5조(지원자격 및 신청) ① 복수학위과정의 지원자격은 이 대학교 재학생으로 석사 또는 박사학위과정을 협력대학에서 2개학기(석·박사학위통합과정 3개학기) 이상 수학 가능한 자로 한다. 다만, 국외 협력대학은 협약에 따라 달리 정할 수 있다.② 복수학위과정 지원자는 아래의 서류를 제출하여야 한다.1. 복수학위과정 지원서2. 복수학위과정 수학계획서3. 재학증명서4. 성적증명서5. 그 밖에 학부(과)에서 요구하는 서류",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "school:경상국립대학교복수석박사학위제운영규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "수학신청 심사 및 허가",
+        "chapter": "제2장 이 대학교 학생의 협력대학 수학",
+        "content": "제6조(수학신청 심사 및 허가) ① 수학을 신청한 학생의 소속 학부(과)장 및 지도교수는 협력대학 지도교수 내정자와 협의 후 지원자의 자격을 심사하고, 별지 제4호 서식의 복수학위과정 지원자 심사결과보고서를 대학원으로 제출하여야 한다.② 소속 학부(과)장은 수학 시작 3개월 전까지 대상자를 선발하여 대학원장에게 추천하여 총장의 승인을 받아야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "school:경상국립대학교복수석박사학위제운영규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "등록 및 학적",
+        "chapter": "제2장 이 대학교 학생의 협력대학 수학",
+        "content": "제7조(등록 및 학적) ① 복수학위과정 학생은 협력대학 수학기간 동안 이 대학교에 학기별로 등록하여 재학생 신분을 유지하여야 한다. 다만, 국외 협력대학은 협약에 따라 달리 정할 수 있다.② 국내 협력대학에서 이수한 학기는 이 대학교 수업연한에 산입한다.③ 협력대학에서 수학하는 학생은 수학기간 동안 휴학할 수 없다. 다만, 질병, 출산 등 부득이한 경우 휴학을 허가할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "school:경상국립대학교복수석박사학위제운영규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "수학기간",
+        "chapter": "제2장 이 대학교 학생의 협력대학 수학",
+        "content": "제8조(수학기간) ① 복수학위 수여에 필요한 수학기간은 대학 간 협약에 따라 차이를 둘 수 있으나 반드시 2개학기(석·박사학위통합과정 3개학기) 이상 이 대학교에서 수학하여야 한다.② 국외 협력대학 간 수학기간은 협약에 따라 달리 정할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "school:경상국립대학교복수석박사학위제운영규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "학점인정",
+        "chapter": "제2장 이 대학교 학생의 협력대학 수학",
+        "content": "제9조(학점인정) ① 협력대학에서 이수한 학점의 인정은 수료에 필요한 학점의 2분의 1 이내로 한다. 다만, 국외 협력대학은 4분의 3 이내로 협약에 따라 달리 정할 수 있다.② 협력대학에서 취득한 학점을 이수학점으로 인정받기 위해서는 별지 제5호서식의 복수학위과정 취득학점 인정신청서를 학부(과)장을 경유하여 대학원장의 승인을 받아야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "school:경상국립대학교복수석박사학위제운영규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "수학취소",
+        "chapter": "제2장 이 대학교 학생의 협력대학 수학",
+        "content": "제10조(수학취소) ① 복수학위과정 수학을 취소하려는 학생은 별지 제6호서식의 복수학위과정 수학취소원을 소속 학부(과)장을 경유하여 대학원장에게 제출하여야 한다.② 복수학위과정 수학을 취소한 경우, 기 취득한 학점은 「경상국립대학교 대학원 학사운영규정」 제21조제1항에 따라 이수학점으로 인정받을 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "school:경상국립대학교복수석박사학위제운영규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "논문심사",
+        "chapter": "제2장 이 대학교 학생의 협력대학 수학",
+        "content": "제11조(논문심사) ① 논문심사는「경상국립대학교 대학원 학위수여규정」에 따른다. 다만, 이 대학교 학생이 협력대학에 논문심사를 신청하기 위해서는 이 대학교에서 석사 또는 박사학위과정 2개학기(석·박사통합과정 3개 학기) 이상을 이수하여야 한다.② 논문심사위원 구성 시 협력대학 교원을 1명 이상 위촉하여야 한다. 다만 국외 협력대학의 경우 협약에 따라 달리 정할 수 있다.③ 상대교의 학위수여 요건을 충족한 경우 외국어 시험 및 종합시험을 면제할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "school:경상국립대학교복수석박사학위제운영규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "학위취득 요건",
+        "chapter": "제2장 이 대학교 학생의 협력대학 수학",
+        "content": "제12조(학위취득 요건) 학위취득 요건 등 세부사항은 양교의 규정을 적용함을 원칙으로 하되, 협약에 따라 달리 정할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "school:경상국립대학교복수석박사학위제운영규정#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "학위기 수여",
+        "chapter": "제2장 이 대학교 학생의 협력대학 수학",
+        "content": "제13조(학위기 수여) 복수학위 취득요건을 충족한 경우에는 이 대학교 학칙에 따라 학위기를 수여한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "school:경상국립대학교복수석박사학위제운영규정#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "수학의무",
+        "chapter": "제2장 이 대학교 학생의 협력대학 수학",
+        "content": "제14조(수학의무) 총장은 이 대학교 학생이 협력대학의 학칙, 주재국의 법규를 위반하는 등 품위를 훼손한 경우 파견중단과 복귀를 명할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "school:경상국립대학교복수석박사학위제운영규정#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "지원자격",
+        "chapter": "제3장 협력대학 학생의 이 대학교 수학",
+        "content": "제15조(지원자격) 이 대학교에서 복수학위과정을 수학하려는 협력대학 학생은 소속 대학의 석사, 박사(석·박사학위통합과정 포함) 또는 이와 동등한 과정에 재학 중인 학생으로 소속 대학 총장의 추천을 받은 사람이어야 한다. 다만, 국외 협력대학 학생은 협약에 따라 달리 정할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "school:경상국립대학교복수석박사학위제운영규정#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "학사관리",
+        "chapter": "제3장 협력대학 학생의 이 대학교 수학",
+        "content": "제16조(학사관리) ① 협력대학 학생의 수학기간은 양교 동일함을 원칙으로 하되, 협약에 따라 달리 정할 수 있다.② 수강신청·변경 및 취소, 학기당 취득학점 범위는 이 대학교가 정한 규정에 따르고, 학점 이수 결과는 수학기간 종료 후 소속대학 총장에게 통보한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "school:경상국립대학교복수석박사학위제운영규정#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "수료요건 및 논문심사",
+        "chapter": "제3장 협력대학 학생의 이 대학교 수학",
+        "content": "제17조(수료요건 및 논문심사) 협력대학 학생의 수료요건은 이 대학교 기준 적용을 원칙으로 하며, 논문심사는 제11조의 규정을 준용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "school:경상국립대학교복수석박사학위제운영규정#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "학위기 수여",
+        "chapter": "제3장 협력대학 학생의 이 대학교 수학",
+        "content": "제18조(학위기 수여) 협력대학 학생이 복수학위 취득요건을 충족한 경우 이 대학교 학칙에 따라 학위기를 수여한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "school:경상국립대학교복수석박사학위제운영규정#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "그 밖의 사항",
+        "chapter": "제3장 협력대학 학생의 이 대학교 수학",
+        "content": "제19조(그 밖의 사항) 이 규정에 명시되지 아니한 사항은 양교의 학칙 및 학사관련 제반 규정에 따르거나 협력대학과 상호 협의하여 정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "school:경상국립대학교복수석박사학위제운영규정#JO0019"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20210226",
+      "promulgation_no": "00117",
+      "content": "부칙 <제117호, 2021.2.26.>이 규정은 2021년 3월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20210714",
+      "promulgation_no": "00222",
+      "content": "부칙 <제222호, 2021.7.14.>이 규정은 공포한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "[별지 제1호서식] 복수학위과정 운영계획서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=107306837",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=107306837",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "school:경상국립대학교복수석박사학위제운영규정#BJ0001",
+      "filename": "별지1_[별지 제1호서식] 복수학위과정 운영계획서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "[별지 제2호서식] 복수학위과정 지원서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=107306841",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=107306841",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "school:경상국립대학교복수석박사학위제운영규정#BJ0002",
+      "filename": "별지2_[별지 제2호서식] 복수학위과정 지원서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "[별지 제3호서식] 복수학위과정 수학계획서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=107306845",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=107306845",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "school:경상국립대학교복수석박사학위제운영규정#BJ0003",
+      "filename": "별지3_[별지 제3호서식] 복수학위과정 수학계획서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "[별지 제4호서식] 복수학위과정 지원자 심사결과보고서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=107306849",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=107306849",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "school:경상국립대학교복수석박사학위제운영규정#BJ0004",
+      "filename": "별지4_[별지 제4호서식] 복수학위과정 지원자 심사결과보고서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별지",
+      "title": "[별지 제5호서식] 복수학위과정 취득학점 인정신청서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=107306853",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=107306853",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "school:경상국립대학교복수석박사학위제운영규정#BJ0005",
+      "filename": "별지5_[별지 제5호서식] 복수학위과정 취득학점 인정신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별지",
+      "title": "[별지 제6호서식] 복수학위과정 수학취소원",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=107306857",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=107306857",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "school:경상국립대학교복수석박사학위제운영규정#BJ0006",
+      "filename": "별지6_[별지 제6호서식] 복수학위과정 수학취소원.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 19,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 2,
+    "appendices_count": 6,
+    "attachments_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/학칙공단/경상국립대학교 복수 석·박사학위제 운영규정"
+  },
+  "provision_id": "school:경상국립대학교복수석박사학위제운영규정#DOC"
+}
