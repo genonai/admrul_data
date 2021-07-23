@@ -1,0 +1,1098 @@
+{
+  "law_id": "2100000203233",
+  "mst": "2100000203233",
+  "law_name": "무기체계 RAM 업무지침",
+  "law_abbr": "",
+  "law_type": "예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000203233",
+  "promulgation_no": "726",
+  "promulgation_date": "20210723",
+  "enforcement_date": "20210723",
+  "revision_date": "20210723",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "방위사업청(방위사업분석과)",
+    "담당자명": "송민철",
+    "행정규칙종류코드": "B0002",
+    "행정규칙명": "무기체계 RAM 업무지침",
+    "발령일자": "20210723",
+    "행정규칙종류": "예규",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "방위사업청",
+    "전화번호": "02-2079-6517",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1690000",
+    "생성일자": "20230102",
+    "행정규칙ID": "42822",
+    "시행일자": "20210723",
+    "담당부서기관코드": "1690444",
+    "발령번호": "726",
+    "행정규칙일련번호": "2100000203233",
+    "상위부처명": "방위사업청"
+  },
+  "amendment_text": "",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 47,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총   칙",
+        "content": "제1조(목적) 이 지침은 「국방전력발전업무훈령」제33조 제6호의 신뢰성 확보방안 및「방위사업관리규정」의 RAM 업무 수행의 기준인 RAM 목표값의 신뢰도(Reliability), 가용도(Availability), 정비도(Maintainability)의 달성 및 충족에 필요한 업무기준 및 절차를 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「국방전력발전업무훈령」",
+            "line_text": "",
+            "target_law_name": "국방전력발전업무훈령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국방전력발전업무훈령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계RAM업무지침#JO0001",
+            "reference_id": "admrul:국방전력발전업무훈령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제33조",
+            "line_text": "",
+            "target_law_name": "국방전력발전업무훈령",
+            "target_article_no": "제33조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국방전력발전업무훈령/제33조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계RAM업무지침#JO0001",
+            "reference_id": "admrul:국방전력발전업무훈령#JO0033"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「방위사업관리규정」",
+            "line_text": "",
+            "target_law_name": "방위사업관리규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/방위사업관리규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계RAM업무지침#JO0001",
+            "reference_id": "admrul:방위사업관리규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "용어정의",
+        "chapter": "제1장 총   칙",
+        "content": "제2조(용어정의) 이 지침에서 사용하는 용어의 정의는 다음 각 호와 같다.1. \"RAM 잠정목표값\"이란 소요 무기체계의 고장 빈도, 전투준비태세, 정비업무량을 신뢰도, 가용도, 정비도의 정량적 값으로 표현하여 중기전력소요서에 제시한 값을 말한다.2. \"RAM 목표값\" 이란 무기체계 획득단계 달성 및 충족을 위한  RAM 기준값을 말한다.3. \"RAM 목표값 설정\"이란 소요 단계 제시된 RAM 잠정목표값을  무기체계의 개발 및 구매 초기 단계에 요구사항, 기술발전 추세, 유사장비, 야전운용제원 등을 고려하여 최적화된 RAM 목표값으로 만드는 과정을 말한다.4. \"신뢰성 설계\"란 무기체계의 신뢰도값 달성을 위해 발생할 수 있는 고장의  원인 및 형태를 식별하여 개선방안을 설계 단계에 적용하는 것을 말한다.5. \"설계고장영향분석(D-FMEA)\"이란 무기체계의 부품 및 구성품에서 발생할 수 있는 잠재적인 고장이 시스템에 미치는 영향을 분석하여 개선 방안을 설계단계 적용하는 기법을 말한다.6. \"정비성 설계\"란 무기체계의 정비 소요시간을 최소화하고 정비 편의성을 향상하기 위하여 설계단계에 수행하는 업무를 말한다.7. \"RAM 분석\"이란 무기체계의 개발단계에 공학적기법과 예측SW를 활용하여 무기체계의 신뢰도, 가용도, 정비도를 분석하고 RAM 목표값을 달성하는 업무를 말한다.8. \"RAM 시험평가\"란 설계고장영향분석, 유사장비, 야전운용제원 등을 통해 식별된 고장모드와 고장원인을 수명시험 등을 적용하여 확인하는 신뢰성 시험과 RAM 분석 결과의 목표값 달성을 검증하는 신뢰성 평가를 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "적용범위",
+        "chapter": "제1장 총   칙",
+        "content": "제3조(적용범위) 이 지침은 방위사업청 및 그 소속기관과 이 지침에서 정하는 업무와 관련 있는 기관에 적용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "다른 규정과의 관계",
+        "chapter": "제1장 총   칙",
+        "content": "제4조(다른 규정과의 관계)  이 지침의 내용 중 방위사업법, 동법 시행령ㆍ시행규칙 및 방위사업관리규정 등의 규정에 특별한 규정이 있는 경우를 제외하고는 이지침을 따른다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "대상사업",
+        "chapter": "제1장 총   칙",
+        "content": "제5조(대상사업) ① 이 지침은 무기체계의 연구개발(핵심기술 시험개발 포함), 구매사업에 적용한다.② 무기체계의 연구개발 사업 중 개발 무기체계의 유사 무기체계 운용실적을 고려, 고장의 발생빈도가 높지 않거나 후속군수지원의 수요가 높지 않은 경우 이 지침에서 정하는 RAM 업무 수행 범위를 조정할 수 있다.③ 무기체계 구매사업 중 구매대상 무기체계의 제작사로부터 총수명주기 동안 후속군수지원을 지원받는 사업은 해당 사업의 RAM 목표값을 고려하여 이 지침에서 정하는 RAM 업무의 범위를 조정할 수 있다.④ 제2항과 제3항의 RAM 업무의 수행범위는 RAM 목표값 설정단계에 RAM 검토위원회를 통해 결정하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "업무분장",
+        "chapter": "제1장 총   칙",
+        "content": "제6조(업무분장) RAM 업무 수행을 위한 업무분장은 다음과 같다. ① 청본부1. 기획조정관RAM 업무 관련 청 직무교육 계획 수립 및 시행2. 방위사업정책국가. RAM 정책 및 제도 발전나. RAM 업무 관련 기관 간 업무 조정ㆍ통제다. RAM 업무지침 관리라. RAM 업무편람 관리② 기반전력사업본부 및 미래전력사업본부1. 통합사업관리팀가. RAM 목표값 설정나. RAM 업무계획서(탐색 및 체계개발실행계획서에 포함) 검토 및 승인다. 무기체계 획득 단계 RAM 업무관리라. RAM 검토위원회 운영마. RAM 업무 관련 산출물 검토 및 관리2. 기반전력사업전력화지원관리팀 및 미래전력사업전력화지원관리팀가. RAM 업무계획서 검토나. RAM 업무 관련 산출물 검토③ 연구개발주관기관1. RAM 업무계획서 작성 (탐색 및 체계 개발실행계획서에 포함)2. RAM 목표값 설정 관련 제반사항 검토3. 개발단계 RAM 업무수행가. 설계고장영향분석(D-FMEA)을 적용한 신뢰성 설계나. 무기체계 적기 정비를 위한 정비성 설계다. 핵심부품, 구성품의 신뢰성시험 계획 수립 및 수행라. RAM 분석 수행 및 RAM 목표값 달성 여부 확인마. RAM 업무 관련 산출물 제출 및 관리④ 전문연구기관1. 국방과학연구소가. RAM 정책ㆍ제도 발전지원나. RAM 업무 발전을 위한 연구 수행 및 관리다. 무기체계 RAM 업무(국과연 주관사업)에 대한 기술 지원라. RAM 업무 관련 산출물 검토2. 국방기술품질원가. RAM 정책, 제도 발전지원나. RAM 업무 관련 선행연구 수행다. 무기체계 RAM 업무에 대한 기술 지원라. 신뢰성시험 대상품목 검토, 시험항목 및 시험기준 검토, 시험결과 검증 등 신뢰성업무 전반에 대한 기술지원마. RAM 분석 결과에 대한 검증(RAM V&V 활용)바. 총수명주기 RAM 산출물 데이터베이스(DB)화 및 관리 수행사. 야전운용제원 분석 및 환류 수행아.  RAM 업무 발전을 위한 도구 및 기법 연구(RAM V&V 배포, 관리 업무 포함)⑤ 합 참1. 중기전력소요서(안)에 RAM 잠정목표값 반영2. RAM 시험평가 업무 조정ㆍ통제⑥ 각 군1. RAM 잠정목표값 소요결정에 필요한 기본자료 제공2. 운용형태종합 및 임무유형(OMS/MP) 정량화 기초자료 제공3. 무기체계 야전운용제원 제공4. RAM 업무 관련 산출물 검토",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "기본원칙",
+        "chapter": "제1장 총   칙",
+        "content": "제7조(기본원칙) ① 무기체계 연구개발의 경우 중기전력소요서에 반영된 RAM 잠정 목표값을 기준으로 다음 각 호의 RAM 업무를 수행하여야 한다.1. RAM 목표값 설정2. 신뢰성ㆍ정비성 설계와 RAM 분석3. RAM 시험평가4. RAM 산출물 관리5. RAM DB 구축 및 분석(야전운용제원 분석 포함)② 통합사업관리팀장은 기본설계검토회의 전까지 중기전력소요서의 RAM 잠정목표값을 RAM 목표값으로 설정하여야 한다. 이 경우 RAM 목표값은 유사장비사례, OMS/MP(ORD 부속서), 기술발전 추세, 정비 개념 등을 고려하여 최적화된 목표값으로 설정하여야 한다.③ 연구개발주관기관은 무기체계의 신뢰성 설계와 RAM 분석을 위해 설계단계에 설계고장영향분석(D-FMEA)을 수행하여야 한다. 이 경우 설계고장영향분석의 방법과 절차는 RAM 업무편람을 따르도록 한다.④ 제3항에 따른 신뢰성 설계는 무기체계에서 발생할 수 있는 고장의 원인을  설계단계에 최소화하여 무기체계의 가용도(가용률)를 향상시키는 것을 목적으로 한다.⑤ 제3항에 따른 RAM 분석은 설정된 RAM 목표값을 기준으로 신뢰도, 가용도, 정비도를 예측하여 RAM 목표값을 달성하고 이를 통해 정확한 군수지원 요소를 식별하는 것을 목적으로 한다. 이 경우 RAM 분석을 위한 기준, 방법, 절차는 RAM업무편람을 따르도록 한다.⑥ 연구개발주관기관은 신뢰성 설계와 신뢰성 시험의 결과를 반영한 RAM 분석을 수행하여야 한다.⑦ RAM 시험평가의 신뢰성 시험은 방위사업관리규정 제79조에 따라 선정된 핵심부품ㆍ구성품의 고장모드 및 고장원인을 수명시험 등을 통해 확인하여야 하며 신뢰성 평가는 RAM 분석결과를 통해 제시된 RAM 분석값의 달성여부를 확인하는 것을 말한다.⑧ 통합사업관리팀장은 제7항에 따른 신뢰성 시험의 대상품목 선정과 시험방법 및 절차를 국방기술품질원 국방 신뢰성센터(이하 \"신뢰성센터\")를 통해 검토 요청하여야 한다.⑨ 무기체계의 구매사업인 경우 중기전력소요서에 반영된 RAM 잠정목표값을 기준으로 RAM 목표값을 설정하고 RAM 분석 자료 또는 신뢰성 시험 자료를 제안 기관으로부터 확보하여 RAM 목표값 충족 여부를 검토하여야 한다.⑩ 통합사업관리팀장은 개발단계에 획득되는 RAM 산출물(신뢰성 설계결과 RAM 분석결과, RAM 시험평가결과 등)을 사업종결 보고 전까지 국방기술품질원에 전산파일(RAM 업무편람의 RAM 템플릿 포함)로 제출하여야 하며,  구매사업은 구매계약 체결 전까지 대상 무기체계의 RAM 분석 자료 또는  신뢰성 시험 자료 등을 제출하여야 한다.⑪ 통합사업관리팀장은 개발 및 구매사업의 RAM 업무수행 간 주요사항은 RAM 검토위원회를 통해 결정하여야 한다.⑫ 핵심기술(시험개발) 사업은 경우 적용대상 무기체계가 중기전력소요서에 제시된 경우 소요 문서의 RAM 잠정목표값을 기준으로 핵심기술사업의 적합한 RAM 목표값을 설정하고 제7조 제1항에 따른 RAM 업무를 수행하여야 한다. 다만, 적용대상 무기체계가 장기전력소요서에  반영된 경우 RAM 검토위원회를 통해 RAM 업무추진방안을 검토하여야 한다.⑬ 방위력개선사업의 중기계획요구서 작성 시 선행연구의 RAM 목표값 달성 및 검증방안을 고려한 RAM 업무 수행의 필요한 예산을 반영하여야 한다.⑭ 제13항의 RAM 업무 수행에 필요한 예산은 신뢰성ㆍ정비성 설계 및 신뢰성 시험의 예산을 말하며 필요시 신뢰성센터 등에 검토를 요청할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제7항",
+            "link_text": "제79조",
+            "line_text": "",
+            "target_law_name": "방위사업관리규정",
+            "target_article_no": "제79조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/방위사업관리규정/제79조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:무기체계RAM업무지침#JO0007",
+            "reference_id": "admrul:방위사업관리규정#JO0079"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "업무기준",
+        "chapter": "제2장 RAM 잠정목표값 관리",
+        "content": "제8조(업무기준) ① RAM 잠정목표값은 소요 무기체계의 고장빈도, 전투준비태세, 정비 업무량을 신뢰도, 가용도, 정비도의 정량적 값으로 표현하는 것이며  다음 각 호의 업무 기준으로 활용된다.1. 무기체계 설계 개선 및 대안 도출2. 무기체계 RAM 시험평가3. 무기체계 군수지원 분석4. 무기체계 품질 판단5. 운영유지 단계 비용 판단② RAM 잠정목표값은 소요제기기관에서 제시한 다음 각 호의 자료를 기준으로 산출된다.1. 소요 무기체계의 운용 형태종합 및 임무 유형2. 유사 무기체계 자료3. 야전운용 제원 자료",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "RAM 잠정목표값 산출",
+        "chapter": "제2장 RAM 잠정목표값 관리",
+        "content": "제9조(RAM 잠정목표값 산출) ① RAM 잠정목표값은 제8조 제2항의 자료를 활용하여 산출하며 이 경우 제2항의 자료 확보가 어려울 경우 무기체계의 특성을 고려 RAM 잠정목표값 생성도구(RAMV&V)를 활용하여 산출할 수 있다.② 제1항의 RAM 잠정목표값 생성도구를 활용하여 RAM 잠정목표값 산출 시  소요 무기체계의 최소 전투준비태세 유지확률, 획득(보유)체계 수,  최소 운용체계 수를 고려하여 최소 목표운용가용도만을 산출할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제1항",
+            "link_text": "제8조",
+            "line_text": "",
+            "target_law_name": "무기체계 RAM 업무지침",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무기체계 RAM 업무지침/제8조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계RAM업무지침#JO0009",
+            "reference_id": "admrul:무기체계RAM업무지침#JO0008"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "RAM 잠정목표값 검토",
+        "chapter": "제2장 RAM 잠정목표값 관리",
+        "content": "제10조(RAM 잠정목표값 검토) ① 방위사업정책국장은 합참으로부터 검토 의뢰받은 중기전력소요서(안)의 신뢰성 확보방안 항목에 RAM 잠정목표값이 반영되었는지 검토하여야 한다.② 선행연구과장은 소요문서의 RAM 잠정목표값을 기준으로 RAM 목표값 설정, 달성 및 검증을 위한 선행연구 계획을 작성하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "업무기준",
+        "chapter": "제3장 RAM 목표값 설정",
+        "content": "제11조(업무기준) RAM 목표값 설정은 무기체계의 개발 및 구매 초기 단계에 요구사항, 기술발전 추세, 유사장비, 야전 운용제원, 선행연구 결과 등을 고려 중기전력소요서의 RAM 잠정목표값을 최적화된 RAM 목표값으로 만드는 과정이며 .RAM 검토위원회를 통해 RAM 목표값을 설정하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "설정시점",
+        "chapter": "제3장 RAM 목표값 설정",
+        "content": "제12조(설정시점) 무기체계 연구개발의 경우 소요단계 제시된 RAM 잠정목표값을 기본설계검토회의 시점까지 RAM 목표값으로 설정하여야 한다. 구매사업의 경우 RAM 목표값을 제안요청서 확정 전까지 설정하여야 한다. 다만, 함정 무기체계는 사업의 특성을 고려 체계요구조건검토회의까지 RAM 목표값을 설정하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "설정방법",
+        "chapter": "제3장 RAM 목표값 설정",
+        "content": "제13조(설정방법) ① 통합사업관리팀장은 연구개발사업의 RAM 목표값 설정을 위하여 무기체계의 RAM 잠정목표값, OMS/MP, 작전운용개념, 요구성능, 정비 및 운용환경, 유사무기체계, 기술발전 추세 등의 자료를 확보하여  검토하여야 하며 필요시 전문연구기관에게 기술지원을 요청할 수 있다.② 제1항에 따른 RAM 목표값 설정은 각 군, 합참, RAM 관련기관 및 연구개발  주관기관이 참석하는 RAM 검토위원회를 통해 결정되어 진다.③ 제9조 제2항에 따라 RAM 잠정목표값이 최소목표운용가용도만으로 제시된 경우 신뢰도, 정비도 값을 추가로 설정하여야 한다.④ 무기체계 구매사업의 경우 구매 대상 무기체계의 작전  운용개념, 요구성능, 정비 및 운용 환경, 유사 무기체계의 기술발전 추세 등을 고려하여 제안요청서 확정 전까지 RAM 잠정목표값을 RAM 목표값으로 설정하여야 한다. 다만, 구매 대상 무기체계의 특성을 고려, RAM 목표값 설정이 불필요하다고 판단될 경우 RAM 검토위원회를 통해 설정 불필요 사유를 확정하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제3항",
+            "link_text": "제9조",
+            "line_text": "",
+            "target_law_name": "무기체계 RAM 업무지침",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무기체계 RAM 업무지침/제9조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계RAM업무지침#JO0013",
+            "reference_id": "admrul:무기체계RAM업무지침#JO0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "설정기준",
+        "chapter": "제3장 RAM 목표값 설정",
+        "content": "제14조(설정기준) ① 통합사업관리팀장은 RAM 목표값을 신뢰도, 정비도, 가용도로  구분하여 다음 각 호의 기준으로 설정하여야 한다. 이 경우 RAM 목표값 설정을 위한 기준 및 방법 등은 RAM 업무편람을 따르도록 한다.1. 신뢰도 : MTBF(h), MRBF(발수), MKBF(Km)2. 정비도 : MTTR, MR3. 가용도 : Ai, Aa, Ao② 제1항에 따라 산출되는 RAM 목표값의 기준은  RAM 검토위원회를 통해 결정 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "목표값 관리",
+        "chapter": "제3장 RAM 목표값 설정",
+        "content": "제15조(목표값 관리) ① 통합사업관리팀장은 업무편람의 RAM 목표값 관리 양식(RAM 템플릿)을 활용하여 획득 단계별 RAM 목표값을 지속적으로 관리하여야 한다.② 연구개발주관기관은 제7조 제1항에 따른 RAM 업무절차에 따라 RAM 업무를 수행하여야 하며 RAM 목표값의 달성 여부를 상세설계검토회의 때까지 제시하여야 한다.③ 통합사업관리팀장은 제2항에 따라 RAM 목표값의 달성이 불가능 하다고 판단될 경우 RAM 검토위원회를 통해 RAM 목표값을 재설정하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제2항",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "무기체계 RAM 업무지침",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무기체계 RAM 업무지침/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계RAM업무지침#JO0015",
+            "reference_id": "admrul:무기체계RAM업무지침#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "업무기준",
+        "chapter": "제4장 신뢰성ㆍ정비성 설계",
+        "content": "제16조(업무기준) ① 무기체계 연구개발 사업의 경우 다음 각 호에서 정의하는 신뢰성 정비성 설계를 수행하고 무기체계의 RAM 목표값을 달성하여야 한다.1. 신뢰성 설계는 무기체계의 신뢰도값 달성을 위하여 고장모드, 고장원인 등의 신뢰성 문제를 식별하여 개선하는 업무2. 정비성 설계는 무기체계의 정비 소요시간을 최소화하고 정비 편의성을 향상하기 위하여 설계단계에 수행하는 업무② 무기체계의 신뢰성 설계는 각 구성품ㆍ 부품에 할당된 신뢰도 값의 달성 여부를 판단하고 설계를 개선하는 절차로 이루어진다.③ 무기체계의 신뢰성ㆍ 정비성 설계는 신뢰성 시험 및 RAM 분석과  병행하여 수행하며 설계결과는 RAM 목표값 달성여부 판단에 활용하여야 한다.④ 신뢰성ㆍ정비성 설계 방법 및 절차는  RAM 업무편람을 따르도록 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "신뢰성ㆍ정비성 설계",
+        "chapter": "제4장 신뢰성ㆍ정비성 설계",
+        "content": "제17조(신뢰성ㆍ정비성 설계) ① 연구개발주관기관은 무기체계의 성능을 고려한 설계뿐만 아니라 주어진 환경에서 목표 신뢰도를 달성할 수 있는 신뢰성 설계 계획을 RAM 업무계획에 반영하여야 한다.② 연구개발주관기관은 무기체계의 목표 정비도를 달성할 수 있는 정비성 설계 계획을 RAM 업무계획에 반영하여야 한다.③ 연구개발주관기관은 무기체계의 신뢰성ㆍ정비성 설계를 위하여 제품의 고장유형 및 고장특성 등을 유사무기체계, 야전운용 제원 분석, 제품의 특성, 신뢰성 설계기법 등을 통해 식별하고 반영하여야 한다.④ 연구개발주관기관은 다음 각 호의 기준을 참조하여 신뢰성ㆍ정비성 설계를 수행 토록 하며 구체적인 기준은 RAM 업무편람을 따르도록 한다.1. 부품 선정 시 품질의 우수성을 고려하여야 한다.2. 품질을 알 수 없는 부품은 반드시 평가하고 사용하여야 한다.3. 부품에 걸리는 스트레스를 경감시켜야 한다.4. 스트레스의 집중을 피하도록 한다.(힘, 열, 전류 분산화)5. 고장이 발생해도 안전하여야 한다.6. 고장이 다른 부분에 파급되는 것을 방지하여야 한다.7. 정비접근성이 좋아야 한다.8. 고장 식별이 용이하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "D-FMEA",
+        "chapter": "제4장 신뢰성ㆍ정비성 설계",
+        "content": "제18조(D-FMEA) ① 연구개발주관기관은 제17조 따른 신뢰성ㆍ정비성 설계   수행 과정 중 설계 고장영향분석(D-FMEA)을  수행하고 발생할 수 있는 고장   모드 및 고장원인을 식별하여 이를 신뢰성ㆍ정비성 설계에 반영하여야 한다.② 설계 고장영향분석은 신규 부품 및 구성품의 개발 및 적용, 설계 또는 공정의 변경으로 인해 고장모드 및 고장원인의 확인이 필요한 경우 수행하며 설계 고장 영향분석 방법 및 절차는 RAM 업무편람을 따르도록 한다.③ 제1항에 따른 설계고장영향분석을 통해 식별된 문제 개선을 위해 신뢰성ㆍ정비성 설계와 신뢰성 시험 계획을 수립하여야 한다.④ 연국개발주관기관은 제2항에 따른 설계고장영향분석 결과와 개선방안을 설계검토회의 단계에 산출물로 제시하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제1항",
+            "link_text": "제17조",
+            "line_text": "",
+            "target_law_name": "무기체계 RAM 업무지침",
+            "target_article_no": "제17조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무기체계 RAM 업무지침/제17조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계RAM업무지침#JO0018",
+            "reference_id": "admrul:무기체계RAM업무지침#JO0017"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "신뢰도성장관리",
+        "chapter": "제4장 신뢰성ㆍ정비성 설계",
+        "content": "제19조(신뢰도성장관리) 연구개발주관기관은 제7조에 따른 개발 단계 RAM 업무 수행 중 목표값의 달성 여부를 단계별로 검증하는 신뢰도 성장관리 업무를 수행 하여야 한다. 이 경우 신뢰도 성장관리의 방법 및 절차는  RAM 업무편람을 따르도록 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제19조",
+            "source_clause": "제19조",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "무기체계 RAM 업무지침",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무기체계 RAM 업무지침/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계RAM업무지침#JO0019",
+            "reference_id": "admrul:무기체계RAM업무지침#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "업무기준",
+        "chapter": "제5장 RAM 시험평가",
+        "content": "제20조(업무기준) ① RAM 시험평가는 설계고장영향분석, 유사제품, 야전운용제원 등을통해 식별된 고장모드와 고장원인을 수명시험 등을 적용하여 확인하는 신뢰성 시험과 RAM 분석 결과의 목표값 달성을 검증하는 신뢰성 평가로 구분되어 진다.② 제1항의 신뢰성 시험과 신뢰성 평가는 탐색개발의 경우 체계개발 RAM 업무의 기준으로 체계개발의 경우 개발시험평가(DT)의 일부로 활용되어 진다.③ 신뢰성 시험은 설정된 RAM 목표값을 기준으로 핵심부품ㆍ구성품의 고장 취약점을 성능시험, 환경시험, 수명시험 등을 통해 확인하는 업무를 말한다.④ 제3항을 통해 식별된 고장 취약점은 설계 고장영향분석을 통해 식별되어야 한다.⑤ 신뢰성 시험의 통과 기준은 신뢰성 설계를 통해 핵심부품ㆍ구성품에 할당된 신뢰도값을 기준으로 한다.⑥ 통합사업관리팀장은 신뢰성 시험의 기준, 절차, 방법, 시험일정 및 비용을 신뢰성 시험계획 수립단계에 신뢰성센터에 검토 요청하여야 하며 이 경우 신뢰성센터는 통합사업관리팀장의 의견을 반영하여 사업의 일정과 비용 등에 문제가 없도록 검토하여야 한다.⑦ 통합사업관리팀장은 RAM 분석결과의 RAM 목표값 달성 여부를 신뢰성 평가를 통해 확인하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "시험대상선정",
+        "chapter": "제5장 RAM 시험평가",
+        "content": "제21조(시험대상선정) ① 연구개발주관기관은 신뢰성 설계를 통하여 구현된 구성품ㆍ 부품 중 제20조 제1항의 고장모드와 고장원인의 확인이 필요한 품목을 우선적으로 신뢰성시험 대상으로 선정한다.② 연구개발주관기관은 RAM 분석보고서에 제시한 RAM 분석 결과값을 신뢰성평가 대상으로 하여야 한다.③ 통합사업관리팀장은 제1항에 따른 신뢰성 시험 대상과 제2항에 따른 신뢰성평가 대상의 적절성을 제20조 제6항에 따라 검토하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제21조",
+            "source_clause": "제21조제1항",
+            "link_text": "제20조",
+            "line_text": "",
+            "target_law_name": "무기체계 RAM 업무지침",
+            "target_article_no": "제20조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무기체계 RAM 업무지침/제20조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계RAM업무지침#JO0021",
+            "reference_id": "admrul:무기체계RAM업무지침#JO0020"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제21조",
+            "source_clause": "제21조제3항",
+            "link_text": "제20조",
+            "line_text": "",
+            "target_law_name": "무기체계 RAM 업무지침",
+            "target_article_no": "제20조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무기체계 RAM 업무지침/제20조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계RAM업무지침#JO0021",
+            "reference_id": "admrul:무기체계RAM업무지침#JO0020"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "시험계획",
+        "chapter": "제5장 RAM 시험평가",
+        "content": "제22조(시험계획) ① 연구개발주관기관은 개발시험평가계획 수립 시 제21조에 따른 시험대상에 대한 RAM 시험평가 계획을 반영하고 통합사업관리팀장에게 검토를 받아야 한다.② 통합사업관리팀장은 연구개발주관기관이 제출한 RAM 시험평가 계획을 다음 각 호의 사항을 기준으로 검토하여야 한다.1. 신뢰성 시험 : 핵심부품, 구성품의 신뢰성 시험 기준, 절차, 방법과 시험일정 및 비용 등의 적절성 여부 확인2. 신뢰성 평가 : RAM 분석결과에 대하여 RAM V&V를 통한 검증 및 신뢰성 설계와 시험 결과 반영여부 확인",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제1항",
+            "link_text": "제21조",
+            "line_text": "",
+            "target_law_name": "무기체계 RAM 업무지침",
+            "target_article_no": "제21조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무기체계 RAM 업무지침/제21조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계RAM업무지침#JO0022",
+            "reference_id": "admrul:무기체계RAM업무지침#JO0021"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "시험실시",
+        "chapter": "제5장 RAM 시험평가",
+        "content": "제23조(시험실시) ①  연구개발주관기관은 개발시험평가계획에 따라 RAM 시험평가를 수행한다.② 제1항의 RAM 시험평가의 합격ㆍ불합격은 신뢰성 시험의 경우 핵심부품, 구성품에 할당된 목표값(고장률 또는 수명 등)의 달성 여부이며 신뢰성 평가의 경우 RAM 목표값의 달성 여부를 말한다.③ 제21조 제1항에 따른 신뢰성 시험 대상 중 국방전력발전업무훈령 제83조의3 제3항에 따른 소요기간 및 시험시설 이용 가능  여건 등에 따라 개발시험평가 이전에 수행이 필요한 시험대상은 관련기관 협의 후 시험평가기본계획서(TEMP)에 반영하여 개발시험평가 이전에 수행할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제23조",
+            "source_clause": "제23조제3항",
+            "link_text": "제21조",
+            "line_text": "",
+            "target_law_name": "무기체계 RAM 업무지침",
+            "target_article_no": "제21조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무기체계 RAM 업무지침/제21조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계RAM업무지침#JO0023",
+            "reference_id": "admrul:무기체계RAM업무지침#JO0021"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제23조",
+            "source_clause": "제23조제3항",
+            "link_text": "제83조의3",
+            "line_text": "",
+            "target_law_name": "국방전력발전업무훈령",
+            "target_article_no": "제83조의3",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국방전력발전업무훈령/제83조의3",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:무기체계RAM업무지침#JO0023",
+            "reference_id": "admrul:국방전력발전업무훈령#JO0083_03"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "업무기준",
+        "chapter": "제6장 RAM 분석",
+        "content": "제24조(업무기준) ① RAM 분석이란 무기체계의 개발단계에 공학적기법과 예측SW를 활용하여 무기체계의 신뢰도, 가용도, 정비도를 분석하고 RAM 목표값을 달성하는 업무를 말한다.② RAM 분석 중 신뢰도 분석은 시스템에서 어떤 고장이 얼마나 자주 발생할 것인가의 확률을 분석하고 설계상의 취약점을 찾아내는 업무를 말한다.③ RAM 분석 중 정비도 분석은 시스템이 고장 났을 때 규정된 자원 및 절차에 따라 정비를 실시하여 성능을 규정된 상태로 복구 시킬 수 있는 확률을 분석하는 업무를 말한다.④ RAM 분석 중 가용도 분석은 시스템의 고장수리를 거쳐 임의의 시점에서 가동 상태에 있는 확률을 분석하는 업무를 말한다.⑤ RAM 분석은 설정된 RAM 목표값을 기준으로 신뢰성 설계와 신뢰성 시험 결과를 반영하여 수행하여야 한다.⑥ RAM 분석을 위한 적용 기준은 목표값 설정 단계에 RAM 검토위원회를 통해 결정하며 RAM 업무편람을 따르도록 한다.⑦ RAM 분석결과는 RAM 업무편람에 따른 RAM 분석 보고서 작성 기준에 따라 작성하고 연구개발 산출물과 함께 제출하여야 한다.⑧ RAM 분석 중 정비도 분석은 설계 단계 산출된 설계고장영향분석(D-FMEA) 결과를 기준으로 정비소요를 판단하여 수행하여야 한다.⑨ RAM 분석은 야전운용제원 분석결과 등 실제 고장률 값을 고려하여 분석하여야 한다.⑩ RAM 분석결과의 RAM 목표값 달성 여부는 제22조 제2항의 계획에 따른 결과를 기준으로 검토토록 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제24조",
+            "source_clause": "제24조제10항",
+            "link_text": "제22조",
+            "line_text": "",
+            "target_law_name": "무기체계 RAM 업무지침",
+            "target_article_no": "제22조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무기체계 RAM 업무지침/제22조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계RAM업무지침#JO0024",
+            "reference_id": "admrul:무기체계RAM업무지침#JO0022"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "분석기준",
+        "chapter": "제6장 RAM 분석",
+        "content": "제25조(분석기준) ①  연구개발주관기관은 RAM 검토위원회를 통해 개발 무기체계의 RAM 분석 범위를 기본설계검토회의까지 확정하여야 한다.② 제1항에 따른 분석 범위가 결정되면 신뢰도 블록선도(RBD)를 작성하고 신뢰도 예측을 수행한다. 이 경우  무기체계의 후속군수지원의 특성을 고려하여 예측 범위를 조정할 수 있다.③ RAM 분석 과정 중 상용품 및 해외 도입품 등의 신뢰도 예측은 원 제작사가 제시한 고장률 값을 적용하며 해당값이 없을 경우 업무편람에 제시한 대체 RAM 분석 기준을 적용하여야 한다. 이 경우 분석결과 보고서에 적용 대상부품 또는 구성품이 RAM 목표값 달성에 미치는 영향 등을 제시하여야 한다.④ RAM 분석 중 정비도 예측은 정비 행위가 식별된 구성품 단위까지 수행하며, 실 정비환경을 고려하여 수행한다.⑤ RAM 분석 중 가용도 예측은 신뢰도와 정비도 예측 결과를 바탕으로 무기체계의 정비지원개념과 지원 환경 등을 고려하여 수행한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0025"
+      },
+      {
+        "article_no": "제26조",
+        "article_title": "분석방법",
+        "chapter": "제6장 RAM 분석",
+        "content": "제26조(분석방법) ① 연구개발주관기관은 개발 무기체계의 신뢰도 분석을 위하여신뢰성 설계 자료와 신뢰성 시험 결과, 야전 운용제원 분석결과를 반영하여 무기체계의 부품단위까지 신뢰도값을 산출하고 대상부품 또는 구성품이 RAM 목표값 달성에 미치는 영향 등을 제시하여야 한다.② 제1항에서 산출된 신뢰도값을 활용하여 정비도,  가용도가 포함된 RAM 목표값이  달성될 수 있도록 하여야 한다.③ 제2항에 따른 정비도 분석을 위해  군수지원분석(LSA) 수행 결과로 제시된 계획/비계획 정비에 필요한 인력, 장비, 시간 등을 산출하여야 한다.④ 제2항에 따른 가용도 분석을 위해 고유가용도, 성취가용도, 운용가용도를 산출 하여야 한다. 이 경우 무기체계의 운용 특성을 고려 산출범위는 RAM 검토위원회를 통해 조정할 수 있다.⑤ 핵심부품, 구성품의 신뢰성 시험 결과를 RAM 분석에 반영 하여 분석의 정확도를   향상시킬 수 있도록 하여야 한다.⑥ 연구개발주관기관은 RAM 분석 결과를 RAM 분석검증도구인 ‘RAM V&V’를  활용하여 자체적으로 검증하고 보완 결과를 RAM 분석보고서에 포함하여  통합사업관리팀장에게 제출하여야 한다.⑦ 통합사업관리팀장은 필요시 제4항에 따른 자체 검증결과에 대한 검토를 기품원에 의뢰할 수 있으며 보완이 필요한 경우 연구개발주관기관을 통해 보완 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0026"
+      },
+      {
+        "article_no": "제27조",
+        "article_title": "분석결과",
+        "chapter": "제6장 RAM 분석",
+        "content": "제27조(분석결과) ① 연구개발주관기관은 RAM 분석 결과를 설계검토회의 단계에 제시하고 분석 결과의 RAM 목표값 달성 여부를 제19조의 신뢰도성장관리의 결과에 포함하여 제시하여야 한다.② RAM 분석 결과는 군수지원 분석 등에 활용하며 종합군수지원 검토회의(ILS-MT)시 활용 계획 및 결과를 검토하도록 한다.③ RAM 분석 결과 고장률이 높거나 수명이 짧은 품목, 정비가 요구되는 품목에 대하여는 각 군의 의견을 반영하여 우선 군수지원 품목으로 식별하고 군수지원계획에 반영하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제27조",
+            "source_clause": "제27조제1항",
+            "link_text": "제19조",
+            "line_text": "",
+            "target_law_name": "무기체계 RAM 업무지침",
+            "target_article_no": "제19조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무기체계 RAM 업무지침/제19조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계RAM업무지침#JO0027",
+            "reference_id": "admrul:무기체계RAM업무지침#JO0019"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0027"
+      },
+      {
+        "article_no": "제28조",
+        "article_title": "업무기준",
+        "chapter": "제7장 RAM 산출물 관리",
+        "content": "제28조(업무기준) ① 통합사업관리팀장은 개발 과정에서 생산되는 RAM 관련 자료(RAM 목표값, 신뢰성ㆍ정비성 설계 산출물, RAM 분석결과, RAM 시험평가 결과)를 연구개발 산출물과 함께 제출하여야 한다.② 국방기술품질원은 제1항의 RAM 관련 자료를 기준으로 야전운용제원분석, 개발 단계 환류, RAM 잠정목표값 산정, RAM 목표값 설정 등에 활용할 수 있도록 관리하여야 한다.③ 통합사업관리팀장은 제2항에 따라 기품원이 관리중인 RAM 자료를 검토하여  이를  후속 양산 또는 유사 무기체계 연구개발ㆍ구매 사업 등에 반영토록 한다.④ 연구개발주관기관은 제2항에 따른 자료를 개발단계 신뢰성ㆍ정비성 설계 개선에 활용하여야 한다. 이 경우 국방기품질원은 통합사업관리팀 등을 통해 연구개발  주관기관에 자료를 제공하여야 한다.⑤ 소요군은 장비정비정보체계(DELIIS) 또는 별도 구축된 시스템 등을 활용하여 야전운용제원을 수집하여 기품원에 제공하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0028"
+      },
+      {
+        "article_no": "제29조",
+        "article_title": "산출물 관리",
+        "chapter": "제7장 RAM 산출물 관리",
+        "content": "제29조(산출물 관리) ① 기품원은 제28조 제1항의  RAM 관련 자료와 제2항의 야전운용제원 분석 결과, 구매단계의 RAM 자료를 총수명주기 RAM 표준자료체계(RAM DB)를 통해 관리하여야 한다.② 기품원은 야전운용제원분석 대상장비 선정 시 초도 배치 2년 이내 장비를 우선 선정하여 다음 각 호의 사항을 포함하여 분석하여야 한다.1. RAM 목표값 달성 정도2. 고장 발생 시 고장유형 및 치명도 분석(FMECA)3. 신뢰도 성장 실태분석",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제29조",
+            "source_clause": "제29조제1항",
+            "link_text": "제28조",
+            "line_text": "",
+            "target_law_name": "무기체계 RAM 업무지침",
+            "target_article_no": "제28조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무기체계 RAM 업무지침/제28조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계RAM업무지침#JO0029",
+            "reference_id": "admrul:무기체계RAM업무지침#JO0028"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0029"
+      },
+      {
+        "article_no": "제30조",
+        "article_title": "선행연구 계획서 작성",
+        "chapter": "제1절 선행연구단계",
+        "content": "제30조(선행연구 계획서 작성) 선행연구과장은 RAM 잠정목표값을 기준으로 다음 각 호의 내용에 대한 선행연구를 수행하여야 한다.1. 중기전력소요서의  RAM 잠정목표값에 대한 검증 및 달성 방안2. 개발초기단계 RAM 목표값 설정 방안3. 개략적인 RAM 업무(신뢰성ㆍ정비성 설계, RAM 분석, RAM 시험평가 등)계획",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0030"
+      },
+      {
+        "article_no": "제31조",
+        "article_title": "선행연구 결과활용",
+        "chapter": "제1절 선행연구단계",
+        "content": "제31조(선행연구 결과활용) 통합사업관리팀장은 선행연구 결과를 활용하여 획득 무기체계의 RAM 목표값 달성 및 충족 가능성을 검토하고 RAM 목표값 설정에 활용하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0031"
+      },
+      {
+        "article_no": "제32조",
+        "article_title": "사업추진기본전략",
+        "chapter": "제1절 선행연구단계",
+        "content": "제32조(사업추진기본전략) ① 통합사업관리팀장은 사업추진기본전략 수립 시 무기체계 신뢰성 확보방안에 대한 계획을 선행연구 결과 등을 활용하여 제시하여야 한다.② 사업추진기본전략 수립 시 RAM 업무에 관한 내용은  RAM 업무편람을 따르도록 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0032"
+      },
+      {
+        "article_no": "제33조",
+        "article_title": "개발 기본계획서 작성",
+        "chapter": "제2절 탐색 및 체계개발 단계",
+        "content": "제33조(개발 기본계획서 작성) ① 통합사업관리팀장은 탐색 및 체계 개발기본계획서(이하 개발 기본계획)에 RAM 업무계획을 반영하여야 한다.② 개발기본계획 수립 시 RAM 업무에 관한 내용은  RAM 업무편람을 따르도록 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0033"
+      },
+      {
+        "article_no": "제34조",
+        "article_title": "개발 제안요청서 작성",
+        "chapter": "제2절 탐색 및 체계개발 단계",
+        "content": "제34조(개발 제안요청서 작성) 통합사업관리팀장은 다음 각 호의 내용이 포함된 개발 제안요청서를 작성하여야 한다.1. RAM 목표값 설정 방안2. 신뢰성ㆍ정비성 설계 방안3. RAM 분석 방안4. RAM 시험평가 방안5. RAM 산출물 관리 방안6. RAM 업무수행관련 인력 및 예산",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0034"
+      },
+      {
+        "article_no": "제35조",
+        "article_title": "개발 실행계획서 작성",
+        "chapter": "제2절 탐색 및 체계개발 단계",
+        "content": "제35조(개발 실행계획서 작성) ① 연구개발주관기관은 다음 각 호의 내용을 포함한 RAM 업무수행 계획을 개발 실행계획서에 포함하여 통합사업관리팀장에게 제출하여야 한다.1. RAM 목표값 설정방안2. 신뢰성ㆍ정비성 설계방안가. 설계고장영향분석 방법나. 신뢰도를 고려한 설계방안다. 정비도를 고려한 설계방안3. RAM 분석 방안가. 신뢰성 설계와 시험을 병행한 RAM 분석 방안나. 정비성 설계를 병행한 RAM 분석 방안다. RAM 할당 및 예측 방법라. 신뢰도, 정비도, 가용도를 고려한 RAM 목표값 달성 방안4. RAM 시험평가 (체계개발사업인 경우)가. 신뢰성 설계(고장영향분석)를 통한 신뢰성 시험대상(핵심부품, 구성품) 선정 방안나. 신뢰성 시험계획(시제수량, 비용, 일정, 시험결과 활용 등)제시다. RAM 분석을 통한 RAM 목표값 달성 여부 검증 및 평가계획5. RAM 자료 확보 및 관리 방안6. RAM 데이터 수집 및 제출 방안7. RAM 관련 인력 관리 방안② 개발실행계획 수립 시 RAM 업무에 관한 내용은  RAM 업무편람을 따르도록 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0035"
+      },
+      {
+        "article_no": "제36조",
+        "article_title": "개발 사업관리계획서 작성",
+        "chapter": "제2절 탐색 및 체계개발 단계",
+        "content": "제36조(개발 사업관리계획서 작성) 통합사업관리팀장은 제35조 제1항 각 호의 계획에 따른 관리계획을 사업관리계획서에 포함하여 작성하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제36조",
+            "source_clause": "제36조",
+            "link_text": "제35조",
+            "line_text": "",
+            "target_law_name": "무기체계 RAM 업무지침",
+            "target_article_no": "제35조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무기체계 RAM 업무지침/제35조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계RAM업무지침#JO0036",
+            "reference_id": "admrul:무기체계RAM업무지침#JO0035"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0036"
+      },
+      {
+        "article_no": "제37조",
+        "article_title": "개발단계 RAM 업무",
+        "chapter": "제2절 탐색 및 체계개발 단계",
+        "content": "제37조(개발단계 RAM 업무) ① 연구개발주관기관은 제35조에 따른 RAM 업무계획을 기준으로 개발단계 RAM 업무를 수행하여야 한다.② 연구개발주관기관은 체계공학 기반의 연구개발 수행 과정 중 기술 검토회의 단계별 RAM 업무를 수행하여야 한다. 이 경우 체계공학 절차와 연계한 RAM 업무는 별표의 절차를 참조토록 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제37조",
+            "source_clause": "제37조제1항",
+            "link_text": "제35조",
+            "line_text": "",
+            "target_law_name": "무기체계 RAM 업무지침",
+            "target_article_no": "제35조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무기체계 RAM 업무지침/제35조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계RAM업무지침#JO0037",
+            "reference_id": "admrul:무기체계RAM업무지침#JO0035"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0037"
+      },
+      {
+        "article_no": "제38조",
+        "article_title": "개발단계 RAM 산출물 관리",
+        "chapter": "제2절 탐색 및 체계개발 단계",
+        "content": "제38조(개발단계 RAM 산출물 관리) ① 통합사업관리팀장은 개발 단계 다음의 업무를 통해 제시된 RAM 산출물을 관리하여야 한다.1. RAM 목표값 설정2. RAM 목표값에 따른 신뢰성ㆍ정비성 설계3. RAM 분석4. RAM 시험평가5. 신뢰도 성장관리② 통합사업관리팀장은 제1항의 업무에 따른 산출물 검토 및 관리의 업무를 수행 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0038"
+      },
+      {
+        "article_no": "제39조",
+        "article_title": "RAM 산출물 제출",
+        "chapter": "제2절 탐색 및 체계개발 단계",
+        "content": "제39조(RAM 산출물 제출) ① 연구개발주관기관은 개발 종료 시 제38조 제1항 각 호의 업무에 따른 산출물을 통합사업관리팀장에게 제출하여야 한다.② 국방기술품질원은 제1항의 자료 검토 후 DB로 구축하여 시험평가 및 양산시 활용토록 지원하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제39조",
+            "source_clause": "제39조제1항",
+            "link_text": "제38조",
+            "line_text": "",
+            "target_law_name": "무기체계 RAM 업무지침",
+            "target_article_no": "제38조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무기체계 RAM 업무지침/제38조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계RAM업무지침#JO0039",
+            "reference_id": "admrul:무기체계RAM업무지침#JO0038"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0039"
+      },
+      {
+        "article_no": "제40조",
+        "article_title": "RAM 시험평가계획서 작성",
+        "chapter": "제3절 RAM 시험평가",
+        "content": "제40조(RAM 시험평가계획서 작성) ① 연구개발주관기관은 시험평가기본 계획(TEMP)를 기준으로 RAM 시험평가 계획이 포함된 개발시험평가계획(안)을 작성하여 통합사업관리팀장에게 제출하여야 한다.② 통합사업관리팀장은 개발시험평가계획(안)에 RAM 시험평가계획의 반영여부를 검토하여야 한다.③ 연구개발주관기관은 합참을 통해 확정된 개발시험평가계획에 따라 RAM 시험  평가를 수행하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0040"
+      },
+      {
+        "article_no": "제41조",
+        "article_title": "RAM 시험평가 수행",
+        "chapter": "제3절 RAM 시험평가",
+        "content": "제41조(RAM 시험평가 수행) ① 연구개발주관기관은 개발시험평가 계획에 따라 RAM 시험평가를 수행하며  RAM 시험평가는 핵심부품, 구성품의 신뢰성 시험과 RAM 분석결과의 RAM 목표값 달성 여부를 검증하는 신뢰성 평가로 이루어진다.② 제23조 제3항에 따른 신뢰성 시험의 경우  소요기간 및 시험시설 이용 가능 여건 등을 고려하여 관련기관의 협의를 통해  필요성이 인정되는 경우 시험평가기본계획서(TEMP)에 반영하여 개발시험평가 이전에 수행할 수 있다.③ 연구개발주관기관은 제1항에 따른 내용이 포함된 개발시험평가 결과를 작성하여 통합사업관리팀장에게 제출하여야 한다.④ 세부적인 시험평가 업무절차는 국방전력발전업무훈령의 시험평가 분야를 따라 수행하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제41조",
+            "source_clause": "제41조제2항",
+            "link_text": "제23조",
+            "line_text": "",
+            "target_law_name": "무기체계 RAM 업무지침",
+            "target_article_no": "제23조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무기체계 RAM 업무지침/제23조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계RAM업무지침#JO0041",
+            "reference_id": "admrul:무기체계RAM업무지침#JO0023"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0041"
+      },
+      {
+        "article_no": "제42조",
+        "article_title": "양산단계 RAM 업무수행",
+        "chapter": "제4절 양산단계",
+        "content": "제42조(양산단계 RAM 업무수행) ① 통합사업관리팀장은 제38조에  따른 개발단계 RAM 산출물을 양산단계 적용하여 후속군수지원 요소를 판단하여야 한다.② 양산업체는 기술변경 또는 단종 및 후속군수지원사업 등으로  생성ㆍ변경된 RAM 자료를 최신화하여 통합사업관리팀장에게 제출하여야 한다.③ 제2항의 경우 양산업체는 개발단계의 RAM 산출물을 기준으로 관련내용을 검토 하여야 한다.  필요시 국방규격에 신뢰성시험이 포함된 경우 시험을 통해 관련 내용을 입증하여야 한다.④ 통합사업관리팀장은 제2항에 따른 RAM 자료 최신화를 위하여 필요시 형상통제심의회 시 RAM 검토위원회를 수행토록 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제42조",
+            "source_clause": "제42조제1항",
+            "link_text": "제38조",
+            "line_text": "",
+            "target_law_name": "무기체계 RAM 업무지침",
+            "target_article_no": "제38조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무기체계 RAM 업무지침/제38조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계RAM업무지침#JO0042",
+            "reference_id": "admrul:무기체계RAM업무지침#JO0038"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0042"
+      },
+      {
+        "article_no": "제43조",
+        "article_title": "구매단계 RAM 업무수행",
+        "chapter": "제5절 구매단계",
+        "content": "제43조(구매단계 RAM 업무수행) ① 통합사업관리팀장은 사업추진기본전략에 따라 구매사업으로 결정된 사업에 대하여 사업의 특성을 고려하여 RAM 목표값을 설정하여야 한다. 이 경우 필요시 전문연구기관에 기술지원을 요청하거나 용역을 의뢰하여 수행할 수 있다.② 설정된 RAM 목표값을 기준으로 구매 무기체계의  RAM 분석결과 또는 신뢰성 시험결과 등을 확보하여 RAM 목표값 충족 여부를 확인 하여야 한다. 다만, 확보된 자료로 RAM 목표값 충족 여부의 확인이 어려운 경우 RAM 검토위원회를 통해 목표값 미충족에 대한 방안을 검토하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0043"
+      },
+      {
+        "article_no": "제44조",
+        "article_title": "RAM 자료확보 및 관리",
+        "chapter": "제5절 구매단계",
+        "content": "제44조(RAM 자료확보 및 관리) ① 통합사업관리팀장은 제안요청서 작성시 다음 각 호의 사항이 포함되도록 하며 필요시 협상을 통하여 관련자료 확보에 노력한다.1. RAM 목표값 충족여부 판단 자료가. 고장정의ㆍ판단 기준 설정(FD/SC)나. 고장유형ㆍ영향 및 치명도 분석(FMECA)다. 신뢰도 블록 선도(RBD)라. RAM 분석보고서 및 산출물마. 고장 취약 품목의 신뢰성 시험 결과바. 야전운용제원(Field Data) 분석자료2. 장비유지보수 관련 자료가. 해당국의 연간 장비운용유지비 자료나. 정비보급목록 및 정비관리 제원다. 부품단종에 대비한 대체부품 목록화 결과② 통합사업관리팀장은 제1항에 따른 RAM 자료 확보가 어려운 경우 최소한 제1호 \"마\" 또는 \"바\" 목에 해당하는 자료는 확보하여야 한다.③ 통합사업관리팀장은 제2항에 따른 결과를 분석하여 후속군수지원 요소 확보에 반영하여야 한다.④ 제1항을 통해 확보된 RAM 자료를 RAM 검토위원회를 통해 검토하고 그 결과를 기종 선택단계에 고려하여야 한다.⑤ 제1항을 통해 확보된 자료는 사업종결 시점에 기품원에 제출하고 기품원은 제29조에 따라 자료를 관리하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제44조",
+            "source_clause": "제44조제5항",
+            "link_text": "제29조",
+            "line_text": "",
+            "target_law_name": "무기체계 RAM 업무지침",
+            "target_article_no": "제29조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무기체계 RAM 업무지침/제29조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계RAM업무지침#JO0044",
+            "reference_id": "admrul:무기체계RAM업무지침#JO0029"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0044"
+      },
+      {
+        "article_no": "제45조",
+        "article_title": "RAM 업무발전",
+        "chapter": "제9장 RAM 업무발전 연구",
+        "content": "제45조(RAM 업무발전) 방위사업정책국장은 RAM 정책ㆍ제도 발전과  업무편람(절차서) 발간 및 관련 학술대회 개최 등의 업무를 수행하도록 한다. 필요시 전문연구 기관 및 관련 연구기관 등을 활용하여 RAM 업무를 발전시키도록 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0045"
+      },
+      {
+        "article_no": "제46조",
+        "article_title": "RAM 분석 툴ㆍ기법 발전",
+        "chapter": "제9장 RAM 업무발전 연구",
+        "content": "제46조(RAM 분석 툴ㆍ기법 발전) 전문연구기관은 무기체계 RAM  업무가 발전될 수 있도록 RAM 분석 툴과 기법을 연구ㆍ개발하고  관련기관에서 활용할 수 있도록 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0046"
+      },
+      {
+        "article_no": "제47조",
+        "article_title": "재검토기한",
+        "chapter": "제9장 RAM 업무발전 연구",
+        "content": "제47조(재검토기한) 방위사업청장은 이 예규에 대하여 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 2021년 7월 1일 기준으로 매3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제47조",
+            "source_clause": "제47조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계RAM업무지침#JO0047",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계RAM업무지침#JO0047"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20180220",
+      "promulgation_no": "412",
+      "content": "부칙 <제412호,2018. 2. 20.>제1조(시행일) 이 지침은 발령 후 6개월이 경과한 8월20일부터 시행한다.제2조(D-FMEA 관한 적용례) 제18조의 개정 규정은 이 지침 시행 후 사업추진기본 전략이 승인된 연구개발 사업부터 적용한다.제3조(RAM 시험평가에 관한 적용례) 제20조, 제21조, 제22조 및 제23조의 개정규정은 이 지침 시행 후 사업추진기본전략이 승인된 연구개발 사업부터 적용한다.제4조(재검토기한) 이 훈령은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제334호)에 따라 이 2018년 7월 1일 기준으로 매3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다."
+    },
+    {
+      "promulgation_date": "20181128",
+      "promulgation_no": "469",
+      "content": "부칙 <제469호,2018. 11. 28.>제1조(시행일) 이 지침은 발령일로부터 시행한다.제4조(재검토기한) 이 예규는 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 2019년 1월 1일 기준으로 매3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다."
+    },
+    {
+      "promulgation_date": "20190918",
+      "promulgation_no": "568",
+      "content": "부칙 <제568호,2019. 9. 18.>제1조(시행일) 이 지침은 발령일로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20210101",
+      "promulgation_no": "690",
+      "content": "부칙 <제690호,2021. 1. 1.>이 예규는 발령한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20210723",
+      "promulgation_no": "726",
+      "content": "부칙 <제726호, 2021. 7. 23.>이 예규는 발령한 날로부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "RAM 검토위원회 운영기준",
+      "enforcement_date": "",
+      "content": "[별표1]\nRAM 검토위원회 운영기준\n정 의\n무기체계 획득단계 무기체계의 신뢰도, 가용도, 정비도를 달성 및 충족하는 과정 중 효율적인 RAM 업무 수행을 위하여 통합사업관리팀장이 주관하는 사업회의\n구 성\nㆍ 위원장 : 통합사업관리팀장\nㆍ 간  사 : 통합사업관리팀장 사업담당\nㆍ 위  원 : 방사청, 각 군, 합참, 전문연구기관, 외부전문가 등 7-8명으로 구성\n개최시기\n(연구개발사업)\nㆍ 사업별 RAM 업무 적용대상 여부 검토시점 (필요시)\nㆍ RAM 목표값 설정시점 (핵심기술시험개발 포함)\nㆍ 신뢰성설계 산출물 검토시점 (설계검토위원회와 연계하여 실시가능)\nㆍ 신뢰성시험 핵심부품, 구성품 선정시점\nㆍ RAM 분석기준 및 결과에 대한 검토 및 결정시점\n(구매사업)\nㆍ RAM 목표값 설정시점\nㆍ 획득한 RAM 분석자료 검토시점 (필요시)\n┌───────────────────────────────────────┒\n│① 사업별 RAM 업무 적용대상 여부 검토(필요시)                                 ┃\n├───────────────────────────────────────┨\n│ · 사업별 RAM 업무가 필요한지 여부 검토                                      ┃\n├───────────────────────────────────────┨\n│② 목표값 설정시점                                                            ┃\n├───────────────────────────────────────┨\n│ ㆍ 잠정 RAM 목표값을 무기체계 개발 및 구매 초기단계 요구사항, 기술발전 추세  ┃\n│   유사장비, 야전운용제원 등을 고려 RAM 목표값으로 설정하였는지 여부          ┃\n├───────────────────────────────────────┨\n│③ 신뢰성설계 산출물 검토시점                                                 ┃\n├───────────────────────────────────────┨\n│ ㆍ 신뢰성설계 산출물의 적절성 여부  · 양산단계 신뢰성자료 최신화 여부       ┃\n│ ㆍ 설계 고장영향분석에 따른 고장모드, 고장메커니즘을 제대로 식별하였는지 여부┃\n├───────────────────────────────────────┨\n│④ 신뢰성시험 핵심부품, 구성품 신뢰성시험                                     ┃\n├───────────────────────────────────────┨\n│ ㆍ 신뢰성설계를 기반으로 핵심부품, 구성품을 선정하였는지 여부                ┃\n├───────────────────────────────────────┨\n│⑤ RAM 분석단계                                                               ┃\n├───────────────────────────────────────┨\n│ ㆍ RAM 분석기준의 적절성 판단  · 야전데이터 분석 대상품목 선정              ┃\n┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n의결사항",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000203233&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=105809625",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=105809625",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:무기체계RAM업무지침#BYL0001",
+      "filename": "별표1_RAM 검토위원회 운영기준.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "설계고장영향분석(D-FMEA) 설계방법",
+      "enforcement_date": "",
+      "content": "[별표2]\n설계고장영향분석(D-FMEA) 설계방법\n절 차\n설계 FMEA를 효과적으로 수행하기 위해서는 사전준비, 시스템 및 구성품의     이해, 신뢰성 블록 다이어그램 작성 등의 절차가 필요\n① 사전준비\n설계 FMEA를 효과적으로 수행하려면 FMEA 팀을 구성하고 다음과 같은        사전 자료를 준비한다.\nㆍ FMEA 작성/ 개정 정보 및 자료\nㆍ 현품 : 유사제품, 시제품, 유사 클레임 제품\nㆍ 도면 : 기본설계도면\nㆍ 사양서 : 설계사양서, 환경법규 및 사양, 사용조건, 부품규격 등\nㆍ 시험성적서 : 성능, 강도, 수명, 환경시험 등\nㆍ 설계계산서 : 강도, 성능계산서\nㆍ 문제발생 자료 : 고장데이터 등\nㆍ 비교분석자료 : 양품, 불량품 고장분석 자료\nㆍ 이전/ 유사 FMEA 자료\n\n② 시스템 및 구성품 기능확인\n시스템과 구성품의 기능을 확인하고 구성품과 부품의 고장모드 원인 및           고장 메커니즘을 파악\n\n③ 분해수준 결정\nFMEA는 서브시스템 또는 구성품의 레벨로 분해하여 실시하는 것이 보통이며\n구성품은 조립품, 부품 레벨까지 분해하여 FMEA를 실시한다.\nFMEA의 분해수준은 시스템의 특성 및 일정 등을 고려 선택한다.\n\n④ 신뢰성블록 다이그램 작성\n시스템을 구성하는 구성품의 기능적 관계와 상호간의 영향을 해석하기 위한\n신뢰성 블록다이어그램을 작성\n⑤ FMEA 양식 준비\n설계 FMEA의 양식은 제품명, 제품의 기능, 잠재적 고장모드, 고장모드의 원인\n영향 및 대책을 기입하는 양식으로 구성\n⑥ 신뢰성 블록 다이어그램(RBD) 작성\n시스템을 구성하고 있는 부품의 기능적 관계와 상호간의 영향을 해석하기          위해서는 시스템이 성공적인 기능 수행을 위한 경로를 나타내는 신뢰성 블록        다이어그램 작성 필요\n신뢰성 블록 다이어그램을 통해 고장이 시스템에 미치는 영향을 파악\n신뢰성 블록 다이어그램 작성절차\nㆍ 시스템이나 기기의 구성과 임무를 파악\nㆍ 분해 수준을 결정\nㆍ 기능별로 블록을 결정한다\nㆍ 시스템의 기능수행 관점에서 직렬, 병렬, 대기 등 구조형태로 신뢰성 블록\n다이어그램을 작성\nㆍ 해당부품의 기능 및 연결 상태를 기술\n⑦ 설계 FMEA 실행\n2. 실행방법\n설계 FMEA의 구체적인 실행 방법과 관련 양식은 \"업무편람\"을 참조토록 한다.",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000203233&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=105809629",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=105809629",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:무기체계RAM업무지침#BYL0002",
+      "filename": "별표2_설계고장영향분석(D-FMEA) 설계방법.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "RAM 획득문서 작성기준",
+      "enforcement_date": "",
+      "content": "[별표3]\nRAM 획득문서 작성기준\n┌────┬────────────────────────┐\n│획득절차│획득문서 및 작성기준 요약                       │\n├────┼────────────────────────┤\n│        │                                                │\n│        │① 소요결정 : 중기전력소요서안                  │\n│        │ - 중기전력소요서에 “RAM 잠정목표값”          │\n│        │   반영여부 검토                                │\n│        │                                                │\n│        │② 선행연구                                     │\n│        │ - 선행연구 계획에 “RAM 잠정목표값”           │\n│        │   검증 및 “RAM 목표값 설정” 방안제시         │\n│        │                                                │\n│        │③ 사업추진기본전략                             │\n│        │  - 무기체계 신뢰성확보를 위한 신뢰성           │\n│        │    설계, 시험, RAM 분석 수행 (연구개발)        │\n│        │  - 무기체계 신뢰성확보를 위한 구매대상         │\n│        │    무기체계 신뢰성시험 및 RAM 분석             │\n│        │    자료 확보 (구매)                            │\n│        │                                                │\n│        │④ 제안요청서                                   │\n│        │  (연구개발)                                    │\n│        │  - 무기체계 신뢰성확보를 위한 RAM 목표값       │\n│        │    기준 설계, 시험, RAM 분석 방안 제시         │\n│        │  - 신뢰성설계 : D-FMEA을 통한 고장취약         │\n│        │    분석 및 신뢰성설계 방안 제시                │\n│        │  - 신뢰성시험 : 핵심부품, 구성품선정 및        │\n│        │    신뢰성시험 기준 및 방법 제시                │\n│        │  - RAM 분석 : RAM 목표값 충족을 위한           │\n│        │    설계와 시험을 병행한 RAM 분석방안           │\n│        │  (구매)                                        │\n│        │  - 무기체계 신뢰성확보의 RAM 목표값 충족을     │\n│        │     위한 신뢰성시험 및 RAM 분석자료  확보방안  │\n│        │     제시                                       │\n│        │                                                │\n│        │⑤ 개발계획서 (기본, 실행계획)                  │\n│        │ - RAM 목표값 설정방안 : RAM 잠정목표값의       │\n│        │   목표값 설정방안 제시                         │\n│        │ - 신뢰성설계, 시험, RAM 분석을 위한 계획       │\n│        │   및 산출물 관리방안 제시                      │\n│        │                                                │\n│        │⑥ 구매계획서                                   │\n│        │ - 무기체계 신뢰성확보의 RAM 목표값 충족을      │\n│        │   위한 신뢰성시험 및 RAM 분석자료  확보방안    │\n│        │   제시                                         │\n│        │                                                │\n└────┴────────────────────────┘\n※ 세부적인 작성기준은 “업무편람”을 참조토록 한다.",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000203233&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=105809639",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=105809639",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:무기체계RAM업무지침#BYL0003",
+      "filename": "별표3_RAM 획득문서 작성기준.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별표",
+      "title": "SE 기반 RAM 업무절차",
+      "enforcement_date": "",
+      "content": "[별표4]\nSE 기반 RAM 업무절차\n┌──┬───────────────┬───────────────────┐\n│기준│SE기반 업무절차               │RAM 업무                              │\n├──┼───────────────┼───────────────────┤\n│SRR │사용자 요구사항이 체계요구사항│?RAM 목표값 설정                     │\n│    │명세서(SSRS)에 일관성있게 반영│ - RAM 잠정목표값을 기준으로 사용자   │\n│    │되었는지 확인 및 승인         │   요구사항이 반영된 RAM 목표값을     │\n│    │                              │   설정                               │\n│    │                              │ - 설정된 RAM 목표값에 사용자 요구    │\n│    │                              │   사항이 반영되었는지 확인           │\n│    │                              │                                      │\n│    │                              │?RAM 업무계획 구체화                 │\n│    │                              │ - 신뢰성·정비성 설계 계획           │\n│    │                              │ - RAM 시험평가 계획                  │\n│    │                              │ - RAM 산출물 관리 계획               │\n├──┼───────────────┼───────────────────┤\n│PDR │체계요구조건 및 체계기능요구  │?신뢰성· 정비성 설계                │\n│    │조건이 개발규격서(안)에 반영  │ - FMEA를 수행하여 고장모드 및        │\n│    │되었는지 확인                 │   고장메커니즘을 식별                │\n│    │                              │ - FMEA 결과를 활용하여 고장을        │\n│    │                              │   최소화 할 수 있는 신뢰성·정비     │\n│    │                              │성                                    │\n│    │                              │   설계를 수행                        │\n│    │                              │ - 신뢰성 설계는 요구조건인 RAM       │\n│    │                              │   목표값을 기준으로 부품선정, 신뢰   │\n│    │                              │성                                    │\n│    │                              │   할당, 예측, 부하경감, 리던던시 설계│\n│    │                              │   열설계, 열분석, 성장관리 수행      │\n│    │                              │ - 정비성 설계는 요구조건 인 RAM      │\n│    │                              │   목표값을 기준으로 최적의 정비를    │\n│    │                              │   위한 방법, 절차 등을 OMS-MP        │\n│    │                              │   기준으로 제시                      │\n│    │                              │ - 개발 규격서(안)에 신뢰성·정비성   │\n│    │                              │   설계결과 반영                      │\n│    │                              │                                      │\n│    │                              │?RAM 분석                            │\n│    │                              │ - RAM 분석을 위한 기준 확정          │\n│    │                              │ - RAM 목표값 할당                    │\n│    │                              │                                      │\n│    │                              │?신뢰성 시험                         │\n│    │                              │ - FMEA 결과를 활용하여 신뢰성        │\n│    │                              │   시험 대상품목(핵심부품·구성품)    │\n│    │                              │   식별 및 계획 수립                  │\n├──┼───────────────┼───────────────────┤\n│CDR │체계요구조건 및 체계기능요구  │?신뢰성· 정비성 설계                │\n│    │조건이 제품 규격서(안)에 반영 │ - 개발규격서(안)에 제시된 신뢰성     │\n│    │되었는지 확인                 │   정비성 설계를 기준으로 RAM         │\n│    │                              │   목표값 달성 여부를 확인            │\n│    │                              │ - RAM 분석 및 신뢰성시험 결과를      │\n│    │                              │   반영한 설계개선 및 성장관리        │\n│    │                              │ - 제품 규격서(안)에 신뢰성, 정비성   │\n│    │                              │   설계결과 반영                      │\n│    │                              │                                      │\n│    │                              │?신뢰성 시험                         │\n│    │                              │ - 신뢰성 시험수행 및 결과 검토       │\n│    │                              │ - 설계반영 사항 식별                 │\n│    │                              │                                      │\n│    │                              │?RAM 분석                            │\n│    │                              │ - 신뢰성 설계 및 신뢰성시험 결과를   │\n│    │                              │   반영한 RAM 분석 수행               │\n│    │                              │ - RAM 분석결과 RAM 목표값 달성       │\n│    │                              │   여부 검토                          │\n├──┼───────────────┼───────────────────┤\n│TRR │체계요구조건의 만족여부를 검  │?RAM 시험평가                        │\n│    │증                            │ - 신뢰성시험 계획 검토               │\n│    │및 확인하기 위한 시험평가(DT/ │ - 신뢰성평가 계획 검토               │\n│    │OT) 진입여부 검토             │                                      │\n│    │                              │?신뢰성 시험                         │\n│    │                              │ - 핵심부품·구성품 신뢰성시험 계획   │\n│    │                              │   검토                               │\n│    │                              │ - 시제수량 및 판정기준 검토          │\n│    │                              │                                      │\n│    │                              │?신뢰성 평가                         │\n│    │                              │ - RAM 분석결과의 RAM 목표값 달성     │\n│    │                              │   여부 검토                          │\n│    │                              │ - RAM 분석결과의 오류 검증           │\n└──┴───────────────┴───────────────────┘\n",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000203233&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=105809655",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=105809655",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:무기체계RAM업무지침#BYL0004",
+      "filename": "별표4_SE 기반 RAM 업무절차.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "(예규) 726 무기체계 RAM 업무지침_전문.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=105744131",
+      "file_store_url": "",
+      "filename": "(예규) 726 무기체계 RAM 업무지침_전문.hwp"
+    },
+    {
+      "name": "(예규) 726 무기체계 RAM 업무지침_신구조문대조표.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=105744133",
+      "file_store_url": "",
+      "filename": "(예규) 726 무기체계 RAM 업무지침_신구조문대조표.hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 24,
+    "by_category": {
+      "행정규칙": 24
+    },
+    "by_relation_type": {
+      "citation": 6,
+      "internal_ref": 18
+    },
+    "articles_total": 47,
+    "articles_with_relations": 20,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 5,
+    "appendices_count": 4,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/무기체계 RAM 업무지침"
+  },
+  "provision_id": "admrul:무기체계RAM업무지침#DOC"
+}
