@@ -1,0 +1,299 @@
+{
+  "law_id": "2100000204783",
+  "mst": "2100000204783",
+  "law_name": "변경허가가 필요하지 아니한 무선기기 및 전파응용설비",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000204783",
+  "promulgation_no": "2021-4",
+  "promulgation_date": "20210927",
+  "enforcement_date": "20210927",
+  "revision_date": "20210927",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "중앙전파관리소(전파관리과)",
+    "담당자명": "이대훈",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "변경허가가 필요하지 아니한 무선기기 및 전파응용설비",
+    "발령일자": "20210927",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "중앙전파관리소",
+    "전화번호": "02-3400-2221",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1721000",
+    "생성일자": "20210929",
+    "행정규칙ID": "2071185",
+    "시행일자": "20210927",
+    "담당부서기관코드": "1721151",
+    "발령번호": "2021-4",
+    "행정규칙일련번호": "2100000204783",
+    "상위부처명": "과학기술정보통신부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n전자파차단이 양호한 다중차폐시설을 갖춘 시설에서 이미 허가받은 사항과 동일한 성능의 전파응용설비로 증설, 이설하는 경우 변경허가를 면제하도록 규제를 개선하려는 것임\n\n◇ 주요내용\n가. 전파응용설비 변경허가 면제 위임근거 명확화(안 제1조)\n- 전파응용설비를 교체, 증설, 이설하는 경우 변경허가를 면제할 수 있도록 전파법 시행령의 위임근거를 목적사항에 명시\n나. 전파응용설비 변경허가 관련 규제 개선(안 제2조제7호)\n- 다중차폐시설을 갖춘 시설에서 이미 허가받은 사항과 동일한 성능의 전파응용설비를 증설, 이설하는 경우 변경허가 면제\n다. 변경허가명세서 제출 관련 문구 변경(안 제3조)\n- 전파응용설비 변경허가 면제조건에 설비 증설, 이설이 추가되어 변경허가명세서 제출 관련 문구 변경",
+  "body": {
+    "format": "articles",
+    "article_count": 4,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 고시는 전파법 시행령 제31조제4항제10호 및 제76조제4항제3호의 규정에 의한 변경허가가 필요하지 아니한 무선기기 및 전파응용설비에 관한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제31조제4항제10호 및 제76조제4항제3호",
+            "line_text": "",
+            "target_law_name": "전파법 시행령",
+            "target_article_no": "제31조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전파법 시행령/제31조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:변경허가가필요하지아니한무선기기및전파응용설비#JO0001",
+            "reference_id": "law:전파법시행령#JO0031"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제31조제4항제10호 및 제76조제4항제3호",
+            "line_text": "",
+            "target_law_name": "전파법 시행령",
+            "target_article_no": "제76조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전파법 시행령/제76조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:변경허가가필요하지아니한무선기기및전파응용설비#JO0001",
+            "reference_id": "law:전파법시행령#JO0076"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:변경허가가필요하지아니한무선기기및전파응용설비#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "대상",
+        "chapter": "",
+        "content": "제2조(대상) 변경허가가 필요하지 아니한 무선기기 및 전파응용설비는 다음 각 호와 같다.1. 간이무선국의 무선설비기기2. 라디오부이3. 라디오존데4. 주파수측정장치5. 무선방위측정기6. 긴급수리를 위해 이미 허가받아 설치된 설비와 동일한 형식, 동일성능의 설비를 교체하는 경우로서 전파법제22조제2항 규정에 의한 의무항공기국의 무선설비7. 지속적인 가동을 위해 이미 허가받아 설치된 설비와 동일한 성능의 설비를 교체, 증설, 이설하는 경우로서 전자파차단이 양호한 다중 차폐시설(전자파차폐 시설을 갖춘 건물 내에 전자파차폐 설비를 추가로 설치한 경우를 말한다)을 갖춘 건물 내에 설치된 전파응용설비",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제22조제2항",
+            "line_text": "",
+            "target_law_name": "전파법",
+            "target_article_no": "제22조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전파법/제22조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:변경허가가필요하지아니한무선기기및전파응용설비#JO0002",
+            "reference_id": "law:전파법#JO0022"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:변경허가가필요하지아니한무선기기및전파응용설비#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "허가변경명세서 제출",
+        "chapter": "",
+        "content": "제3조(허가변경명세서 제출) 제2조제6호 및 제7호에 해당하는 무선기기와 전파응용설비는 교체, 증설, 이설이 완료된 이후에 도래하는 정기검사 전까지 관할 허가관청에 전파법 제58조제3항 및 같은 법 시행령 제33조제4항ㆍ같은 법 시행규칙 제8조4항에 따라 허가변경명세서를 제출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제2조제6호 및 제7호",
+            "line_text": "",
+            "target_law_name": "변경허가가 필요하지 아니한 무선기기 및 전파응용설비",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/변경허가가 필요하지 아니한 무선기기 및 전파응용설비/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:변경허가가필요하지아니한무선기기및전파응용설비#JO0003",
+            "reference_id": "admrul:변경허가가필요하지아니한무선기기및전파응용설비#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제58조제3항",
+            "line_text": "",
+            "target_law_name": "전파법",
+            "target_article_no": "제58조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전파법/제58조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:변경허가가필요하지아니한무선기기및전파응용설비#JO0003",
+            "reference_id": "law:전파법#JO0058"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「전파법」 제33조",
+            "line_text": "제3조(허가변경명세서 제출) 제2조제6호 및 제7호에 해당하는 무선기기와 전파응용설비는 교체, 증설, 이설이 완료된 이후에 도래하는 정기검사 전까지 관할 허가관청에 전파법 제58조제3항 및 같은 법 시행령 제33조제4항ㆍ같은 법 시행규칙 제8조4항에 따라 허가변경명세서를 제출하여야 한다.",
+            "target_law_name": "전파법",
+            "target_article_no": "제33조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전파법/제33조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:변경허가가필요하지아니한무선기기및전파응용설비#JO0003",
+            "reference_id": "law:전파법#JO0033"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「전파법」 제8조",
+            "line_text": "제3조(허가변경명세서 제출) 제2조제6호 및 제7호에 해당하는 무선기기와 전파응용설비는 교체, 증설, 이설이 완료된 이후에 도래하는 정기검사 전까지 관할 허가관청에 전파법 제58조제3항 및 같은 법 시행령 제33조제4항ㆍ같은 법 시행규칙 제8조4항에 따라 허가변경명세서를 제출하여야 한다.",
+            "target_law_name": "전파법",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전파법/제8조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:변경허가가필요하지아니한무선기기및전파응용설비#JO0003",
+            "reference_id": "law:전파법#JO0008"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:변경허가가필요하지아니한무선기기및전파응용설비#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제4조(재검토기한) 「행정규제기본법」 및 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2021년 7월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「행정규제기본법」",
+            "line_text": "",
+            "target_law_name": "행정규제기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/행정규제기본법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:변경허가가필요하지아니한무선기기및전파응용설비#JO0004",
+            "reference_id": "law:행정규제기본법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:변경허가가필요하지아니한무선기기및전파응용설비#JO0004",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:변경허가가필요하지아니한무선기기및전파응용설비#JO0004"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20150310",
+      "promulgation_no": "2015-1",
+      "content": "부칙 <제2015-1호,2015. 3. 10.>이 고시는 고시한 날부터 시행한다"
+    },
+    {
+      "promulgation_date": "20210617",
+      "promulgation_no": "2021-2",
+      "content": "부칙 <제2021-2호, 2021. 6. 17.>이 고시는 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20210927",
+      "promulgation_no": "2021-4",
+      "content": "부칙 <제2021-4호, 2021. 9. 27.>이 고시는 고시한 날부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "변경허가가 필요하지 아니한 무선기기 및 전파응용설비 고시(중앙전파관리소 고시 제2021-4호).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=107985303",
+      "file_store_url": "",
+      "filename": "변경허가가 필요하지 아니한 무선기기 및 전파응용설비 고시(중앙전파관리소 고시 제2021-4호).hwp"
+    },
+    {
+      "name": "조문별제개정이유서.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=107985305",
+      "file_store_url": "",
+      "filename": "조문별제개정이유서.hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 9,
+    "by_category": {
+      "법령": 7,
+      "행정규칙": 2
+    },
+    "by_relation_type": {
+      "citation": 8,
+      "internal_ref": 1
+    },
+    "articles_total": 4,
+    "articles_with_relations": 4,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 3,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/변경허가가 필요하지 아니한 무선기기 및 전파응용설비"
+  },
+  "provision_id": "admrul:변경허가가필요하지아니한무선기기및전파응용설비#DOC"
+}
