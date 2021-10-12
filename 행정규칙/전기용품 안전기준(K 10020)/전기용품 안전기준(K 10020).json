@@ -1,0 +1,79 @@
+{
+  "law_id": "2100000205536",
+  "mst": "2100000205536",
+  "law_name": "전기용품 안전기준(K 10020)",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000205536",
+  "promulgation_no": "2021-453",
+  "promulgation_date": "20211012",
+  "enforcement_date": "20211012",
+  "revision_date": "20211012",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국가기술표준원(전기통신제품안전과)",
+    "담당자명": "서인석",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "전기용품 안전기준(K 10020)",
+    "발령일자": "20211012",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국가기술표준원",
+    "전화번호": "043-870-5444",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1451000",
+    "생성일자": "20220222",
+    "행정규칙ID": "79455",
+    "시행일자": "20211012",
+    "담당부서기관코드": "1450204",
+    "발령번호": "2021-453",
+    "행정규칙일련번호": "2100000205536",
+    "상위부처명": "산업통상부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n- 전기찜질기의 시험방법 명확화 및 안전성 확보를 위한 안전기준 개정 추진\n* 축열식 전기찜질기 부적합률 증가 및 관련 시험(온도상승 및 이상운전)의 타당성에 대한 검토 필요\n◇ 주요내용\n가. (이상운전) 재현성(Repeatability) 문제로 인해 부적합률 주요 원인이었던 이상운전 시험 조건 및 방법 개선\n- 이상운전 시험은 별도 시료로 시험 가능토록 문구 추가\n- 시험 편차를 줄일 수 있도록 밀봉상태를 만들기 위한 지그와 온도 측정 포인트 등 시험조건 신설\n- 시료 개봉 이후 밀봉 상태를 최대한 구현할 수 있도록 온도퓨즈 등을 고정하는 요구조건 신설\n- 이상운전 시 표면온도 조건 완화(120℃ → 150K*(165~175℃))\n* 국제기준을 부합화한 모포형 전기찜질기 안전기준(KC 60335-2-17)에 준함\n나. (온도상승) 기기 표면 최대온도 조건을 기존 60℃에서 정상상태(60℃)와 2차 열 조절 전*(85℃**)으로 구분하여 관련 시험 현실화\n* 통상 동작 상태에서 최초 전원 인가 후부터 제어장치가 두 번째 동작하기 전까지의 기간\n** 국제기준을 부합화한 모포형 전기찜질기 안전기준(KC 60335-2-17)에 준함",
+  "body": {
+    "format": "articles",
+    "article_count": 0,
+    "articles": []
+  },
+  "addenda": [],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "조문별제개정이유서_행정규칙.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=109061131",
+      "file_store_url": "",
+      "filename": "조문별제개정이유서_행정규칙.hwp"
+    },
+    {
+      "name": "K 10020.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=109061129",
+      "file_store_url": "",
+      "filename": "K 10020.pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 0,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/전기용품 안전기준(K 10020)"
+  },
+  "provision_id": "admrul:전기용품안전기준(K10020)#DOC"
+}
