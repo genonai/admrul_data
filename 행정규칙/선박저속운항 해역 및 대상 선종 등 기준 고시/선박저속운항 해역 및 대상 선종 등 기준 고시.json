@@ -1,0 +1,408 @@
+{
+  "law_id": "2100000206432",
+  "mst": "2100000206432",
+  "law_name": "선박저속운항 해역 및 대상 선종 등 기준 고시",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000206432",
+  "promulgation_no": "2021-200",
+  "promulgation_date": "20211125",
+  "enforcement_date": "20211201",
+  "revision_date": "20211125",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "해양수산부(항만물류산업과)",
+    "담당자명": "송은정",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "선박저속운항 해역 및 대상 선종 등 기준 고시",
+    "발령일자": "20211125",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "해양수산부",
+    "전화번호": "051-773-5781",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1192000",
+    "생성일자": "20230102",
+    "행정규칙ID": "70473",
+    "시행일자": "20211201",
+    "담당부서기관코드": "1192048",
+    "발령번호": "2021-200",
+    "행정규칙일련번호": "2100000206432",
+    "상위부처명": "해양수산부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n해양도시 환경 개선을 목적으로 선박 입항 시 저속운항제도 참여율 제고 및 항만시설운영자(항만공사)가 항만별ㆍ선박별로 인센티브 지급 기준을 차등 적용할 수 있도록 근거규정을 마련하고자 함\n\n◇ 주요내용\n가. 항만별ㆍ선박별로 인센티브 지급 기준을 차등 적용할 수 있도록 근거규정을 마련(안 제5조)\n나. 타법(「항만법」) 개정사항*을 반영하여 자구체계 수정(안 제3조제3항)\n* 기존 제30조(항만시설의 사용)이 제41조로 이동",
+  "body": {
+    "format": "articles",
+    "article_count": 6,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 고시는 「항만지역등 대기질 개선에 관한 특별법」(이하 「항만대기질법」이라 한다)제11조제1항 및 같은 법 시행규칙 제5조 제2항에 따른 저속운항해역의 지정 등에 관한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「항만지역등 대기질 개선에 관한 특별법」",
+            "line_text": "",
+            "target_law_name": "항만지역등 대기질 개선에 관한 특별법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항만지역등 대기질 개선에 관한 특별법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:선박저속운항해역및대상선종등기준고시#JO0001",
+            "reference_id": "law:항만지역등대기질개선에관한특별법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「항만대기질법」 제11조",
+            "line_text": "제1조(목적) 이 고시는 「항만지역등 대기질 개선에 관한 특별법」(이하 「항만대기질법」이라 한다)제11조제1항 및 같은 법 시행규칙 제5조 제2항에 따른 저속운항해역의 지정 등에 관한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "항만대기질법",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항만대기질법/제11조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:선박저속운항해역및대상선종등기준고시#JO0001",
+            "reference_id": "law:항만대기질법#JO0011"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「항만대기질법 시행규칙」 제5조",
+            "line_text": "제1조(목적) 이 고시는 「항만지역등 대기질 개선에 관한 특별법」(이하 「항만대기질법」이라 한다)제11조제1항 및 같은 법 시행규칙 제5조 제2항에 따른 저속운항해역의 지정 등에 관한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "항만대기질법 시행규칙",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항만대기질법 시행규칙/제5조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:선박저속운항해역및대상선종등기준고시#JO0001",
+            "reference_id": "law:항만대기질법시행규칙#JO0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:선박저속운항해역및대상선종등기준고시#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "저속운항해역 범위",
+        "chapter": "",
+        "content": "제2조(저속운항해역 범위) ① 「항만대기질법」제11조제1항에 따른 저속운항해역의 범위는 별표 1과 같다.② (도착지점) 각 항만별 도선지점을 기준으로 하며, 도선지점보다 바깥쪽에 지정된 정박지를 사용하는 경우 정박지를 도착지점으로 한다. 다만, 도선사 미승선 선박은 육지 쪽에서 가장 가까운 도선지점을 기준으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제1항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "선박저속운항 해역 및 대상 선종 등 기준 고시",
+            "target_article_no": "별표1",
+            "target_article_title": "저속운항해역의 범위(제2조제1항 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000206432&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:선박저속운항해역및대상선종등기준고시#JO0002",
+            "reference_id": "admrul:선박저속운항해역및대상선종등기준고시#BYL0001"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「항만대기질법」 제11조",
+            "line_text": "제2조(저속운항해역 범위) ① 「항만대기질법」제11조제1항에 따른 저속운항해역의 범위는 별표 1과 같다.② (도착지점) 각 항만별 도선지점을 기준으로 하며, 도선지점보다 바깥쪽에 지정된 정박지를 사용하는 경우 정박지를 도착지점으로 한다. 다만, 도선사 미승선 선박은 육지 쪽에서 가장 가까운 도선지점을 기준으로 한다.",
+            "target_law_name": "항만대기질법",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항만대기질법/제11조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:선박저속운항해역및대상선종등기준고시#JO0002",
+            "reference_id": "law:항만대기질법#JO0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:선박저속운항해역및대상선종등기준고시#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "대상 선박 및 권고 속도",
+        "chapter": "",
+        "content": "제3조(대상 선박 및 권고 속도) ① 이 고시는 총톤수 3천톤 이상의 국제항해에 종사하는 선박에 대하여 적용한다. 다만, 다음 각 호의 어느 하나에 해당하는 선박에 대하여는 그러하지 아니하다.1. 해역 내 5분 단위 평균속도가 권고속도의 110%를 2차례 이상 초과한 선박(다만, 인천항은 권고속도의 130%를 2차례 이상 초과한 선박에 대하여 적용한다.)2. 정박지 또는 도선점의 도착시간을 지연 신청한 선박② 저속운항해역에 따른 대상 선종 및 권고 속도는 별표 2와 같다.③ 「항만법」제41조에 따른 항만시설운영자는 항만 대기질 상황, 입출항 선박 현황 등을 고려하여 필요성이 인정될 시 대상 선종의 추가 지정, 선종별 제한 속도의 변경, 대상 예외 선박의 설정(저속 운항을 할 수밖에 없는 부두 사용 선박 등) 등을 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "선박저속운항 해역 및 대상 선종 등 기준 고시",
+            "target_article_no": "별표2",
+            "target_article_title": "저속운항 대상선종 및 권고속도(제3조제2항관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000206432&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:선박저속운항해역및대상선종등기준고시#JO0003",
+            "reference_id": "admrul:선박저속운항해역및대상선종등기준고시#BYL0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제3항",
+            "link_text": "「항만법」",
+            "line_text": "",
+            "target_law_name": "항만법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항만법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:선박저속운항해역및대상선종등기준고시#JO0003",
+            "reference_id": "law:항만법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제3항",
+            "link_text": "제41조",
+            "line_text": "",
+            "target_law_name": "항만법",
+            "target_article_no": "제41조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항만법/제41조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:선박저속운항해역및대상선종등기준고시#JO0003",
+            "reference_id": "law:항만법#JO0041"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:선박저속운항해역및대상선종등기준고시#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "운용시점",
+        "chapter": "",
+        "content": "제4조(운용시점) 저속운항해역의 운용시점은 2020년 1월 1일 이후 입항하는 선박에 대하여 적용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:선박저속운항해역및대상선종등기준고시#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "운용방법",
+        "chapter": "",
+        "content": "제5조(운용방법) 참여 신청한 대상선박이 저속운항 해역을 권고속도 이하로 운항하여 연간 해당 항만 총 입항 횟수의 60% 이상 저속 입항시 인센티브를 제공한다.  다만, 「항만법」 제41조에 따른 항만시설운영자는 항만별 입항 선박의 특성을 고려하여 필요성이 인정될 경우 해양수산부장관과 협의하여 선종별 입항기준 완화 등 필요한 조치를 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「항만법」",
+            "line_text": "",
+            "target_law_name": "항만법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항만법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:선박저속운항해역및대상선종등기준고시#JO0005",
+            "reference_id": "law:항만법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제41조",
+            "line_text": "",
+            "target_law_name": "항만법",
+            "target_article_no": "제41조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항만법/제41조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:선박저속운항해역및대상선종등기준고시#JO0005",
+            "reference_id": "law:항만법#JO0041"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:선박저속운항해역및대상선종등기준고시#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제6조(재검토기한) 해양수산부장관은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2021년 1월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 해야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:선박저속운항해역및대상선종등기준고시#JO0006",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:선박저속운항해역및대상선종등기준고시#JO0006"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20201230",
+      "promulgation_no": "2020-247",
+      "content": "부칙 <제2020-247호,2020. 12. 30.>이 고시는 2021년 1월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20210413",
+      "promulgation_no": "2021-91",
+      "content": "부칙 <제2021-91호, 2021. 4. 13.>이 고시는 2021년 5월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20211125",
+      "promulgation_no": "2021-200",
+      "content": "부칙 <제2021-200호, 2021. 11. 25.>이 고시는 2021년 12월 1일부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "저속운항해역의 범위(제2조제1항 관련)",
+      "enforcement_date": "",
+      "content": "[별표 1] 저속운항해역의 범위(제2조제1항 관련)┏━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━┓\n┃항만명    │저속운항해역의 범위                                     │비고┃\n┠─────┼────────────────────────────┼──┨\n┃인천항    │ 다음 각 호의 지점을 순차적으로 연결한 선 안의 해역     │    ┃\n┃          │ 1.팔미도 등대 (N37-21-29.8, E126-30-38.9)와 해         │    ┃\n┃          │녀섬(N37-21-42, E126-26-30)을 연결하는 선               │    ┃\n┃          │ 2.해녀섬과 덕적도 끝단(N37-16-27, E126-06-17)          │    ┃\n┃          │을 연결하는 선                                          │    ┃\n┃          │ 3.팔미도 등대와 풍도끝단을 통과하는 지점               │    ┃\n┃          │(N37-03-02, E126-21-02)을 연결하는 선                   │    ┃\n┃          │ 4.팔미도 등대로부터 덕적도 끝단 (N37-16-27,            │    ┃\n┃          │E126-06-17)과 풍도끝단을 통과하는 지점(N37-03-02,       │    ┃\n┃          │E126-21-02)을 연결하는 반지름 20해리의 원호를 이루는    │    ┃\n┃          │해역                                                    │    ┃\n┠─────┼────────────────────────────┼──┨\n┃여수항    │ 다음 각 호의 지점을 순차적으로 연결한 선 안의 해역     │    ┃\n┃광양항    │ 1.오동도 등대(N34-44-36, E127-46-00), 죽도             │    ┃\n┃          │(N34-45-36, E127-50-6)                                  │    ┃\n┃          │ 2.금산등대(N34-42-37.2, E127-58-51.2), 지점            │    ┃\n┃          │(N34-34-5.8, E128-06-57)을 연결하는 선                  │    ┃\n┃          │ 3.오동도 등대로부터 지점 (N34-34-5.8,                  │    ┃\n┃          │E128-06-57)과 소리도 등대(34-24-42N,                    │    ┃\n┃          │127-48-00E)를 연결하는 반지름 20해리의 원호를 이        │    ┃\n┃          │루는 해역                                               │    ┃\n┠─────┼────────────────────────────┼──┨\n┃부산항    │ 다음 각 호의 지점을 순차적으로 연결한 선 안의 해역     │    ┃\n┃          │ 1.오륙도 등대(N35-05-28, E129-07-36)로부터 지점        │    ┃\n┃          │(N35-20-21, E129-24-1.5)을 잇는 선과 오륙도 등대        │    ┃\n┃          │로부터 접속수역까지의 반지름 20해리의 원호를 이루       │    ┃\n┃          │는 해역                                                 │    ┃\n┃          │ 2.생도등표(N35-02-13.7, E129-05-34.8)로부터 지점       │    ┃\n┃          │(N34-45-30, E128-52-05)을 잇는 선과 생도등표로부터 접속 │    ┃\n┃          │수역까지의 반지름 20해리의 원호를 이루는 해역           │    ┃\n┠─────┼────────────────────────────┤    ┃\n┃부산항    │ 다음 각 호의 지점을 순차적으로 연결한 선 안의 해역     │    ┃\n┃(서측해역)│ 1.가덕도(동두말) 등대(N34-59-22.2, E128-49-44.6)로     │    ┃\n┃          │부터 지점(N35-03-59, E129-13-17)을 잇는 선              │    ┃\n┃          │ 2.가덕도(동두말) 등대로부터 지점(N34-43-09,            │    ┃\n┃          │E128-36-15)을 잇는 선                                   │    ┃\n┃          │ 3.가덕도(동두말) 등대로부터 위 두점을 연결하는 반지    │    ┃\n┃          │름 20해리의 원호를 이루는 해역                          │    ┃\n┠─────┼────────────────────────────┼──┨\n┃울산항    │ 다음 각 호의 지점을 순차적으로 연결한 선 안의 해역     │    ┃\n┃          │ 1.매암부두방파제(N35-30-7.9, E129-23- 22.8)로부터 지   │    ┃\n┃          │점(N35-47-40, E129-35-20)과 지점(N35-11-3.85,           │    ┃\n┃          │E129-16-57)을 연결하는 선                               │    ┃\n┃          │ 2.매암부두방파제로부터 지점(N35-47-40,                 │    ┃\n┃          │E129-35-20)과 지점(N35-11-3.85, E129-16-57)을           │    ┃\n┃          │연결하는 반지름 20해리의 원호를 이루는 해역             │    ┃\n┗━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000206432&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110262175",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110262175",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:선박저속운항해역및대상선종등기준고시#BYL0001",
+      "filename": "별표1_저속운항해역의 범위(제2조제1항 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "저속운항 대상선종 및 권고속도(제3조제2항관련)",
+      "enforcement_date": "",
+      "content": "[별표 2] 저속운항 대상선종 및 권고속도(제3조제2항관련)\n┌───────────┬───────────┬───────────┬───────────┐\n│인천항                │여수항, 광양항        │부산항                │울산항                │\n├────────┬──┼────────┬──┼────────┬──┼────────┬──┤\n│선종            │권고│선종            │권고│선종            │권고│선종            │권고│\n│(Port-Mis Code) │속도│(Port-Mis Code) │속도│(Port-Mis Code) │속도│(Port-Mis Code) │속도│\n├────────┼──┼────────┼──┼────────┼──┼────────┼──┤\n│컨테이너선      │12  │컨테이너선      │12  │컨테이너선      │12  │컨테이너선      │12  │\n│(41)            │    │(41)            │    │(41)            │    │(41)            │    │\n├────────┼──┼────────┼──┼────────┼──┼────────┼──┤\n│자동차 운반선   │12  │자동차 운반선   │12  │자동차 운반선   │12  │자동차 운반선   │12  │\n│(27)            │    │(27)            │    │(27)            │    │(27)            │    │\n├────────┼──┼────────┼──┼────────┼──┼────────┼──┤\n│세미(혼재)      │10  │세미(혼재)      │10  │세미(혼재)      │12  │세미(혼재)      │10  │\n│컨테이너선      │    │컨테이너선      │    │컨테이너선      │    │컨테이너선      │    │\n│(42)            │    │(42)            │    │(42)            │    │(42)            │    │\n│                │    │                │    │                │    ├────────┼──┤\n├────────┼──┼────────┼──┤                │    │원유운반선      │10  │\n│LNG운반선       │10  │LNG운반선       │10  │                │    │(51)            │    │\n│(56)            │    │(56)            │    │                │    ├────────┼──┤\n│                │    │                │    │                │    │케미컬 및       │10  │\n│                │    │                │    │                │    │석유제품운반선  │    │\n│                │    │                │    │                │    │(52, 53)        │    │\n└────────┴──┴────────┴──┴────────┴──┴────────┴──┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000206432&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110262179",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110262179",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:선박저속운항해역및대상선종등기준고시#BYL0002",
+      "filename": "별표2_저속운항 대상선종 및 권고속도(제3조제2항관련).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "조문별제개정이유서_행정규칙.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=110216839",
+      "file_store_url": "",
+      "filename": "조문별제개정이유서_행정규칙.hwp"
+    },
+    {
+      "name": "선박저속운항 해역 및 대상 선종 등 기준 고시(전문).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=110216837",
+      "file_store_url": "",
+      "filename": "선박저속운항 해역 및 대상 선종 등 기준 고시(전문).hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 11,
+    "by_category": {
+      "법령": 8,
+      "별표": 2,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 9,
+      "appendix_ref": 2
+    },
+    "articles_total": 6,
+    "articles_with_relations": 5,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 3,
+    "appendices_count": 2,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/선박저속운항 해역 및 대상 선종 등 기준 고시"
+  },
+  "provision_id": "admrul:선박저속운항해역및대상선종등기준고시#DOC"
+}
