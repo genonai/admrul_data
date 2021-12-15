@@ -1,25 +1,25 @@
 {
-  "law_id": "2100000282778",
-  "mst": "2100000282778",
+  "law_id": "2100000207520",
+  "mst": "2100000207520",
   "law_name": "행정박물수집자문회의 운영규정",
   "law_abbr": "",
   "law_type": "훈령",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
-  "adm_uid": "admrul:2100000282778",
-  "promulgation_no": "241",
-  "promulgation_date": "20260720",
-  "enforcement_date": "20260726",
-  "revision_date": "20260720",
+  "adm_uid": "admrul:2100000207520",
+  "promulgation_no": "205",
+  "promulgation_date": "20211215",
+  "enforcement_date": "20211215",
+  "revision_date": "20211215",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "국가기록원(기록관리정책과)",
-    "담당자명": "이동화",
+    "담당자명": "장용훈",
     "행정규칙종류코드": "B0001",
     "행정규칙명": "행정박물수집자문회의 운영규정",
-    "발령일자": "20260720",
+    "발령일자": "20211215",
     "행정규칙종류": "훈령",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "042-481-1753",
     "제개정구분명": "일부개정",
     "소관부처코드": "1741000",
-    "생성일자": "20260723",
+    "생성일자": "20211229",
     "행정규칙ID": "45417",
-    "시행일자": "20260726",
+    "시행일자": "20211215",
     "담당부서기관코드": "1741575",
-    "발령번호": "241",
-    "행정규칙일련번호": "2100000282778",
+    "발령번호": "205",
+    "행정규칙일련번호": "2100000207520",
     "상위부처명": "행정안전부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제ㆍ개정 이유\n- 외부전문가 참여를 확대함으로써 행정박물 관리의 전문성과 신뢰도를 제고\n- 자문위원 임기 연장을 통해 자문회의 운영의 연속성과 업무의 일관성 확보\n◇ 주요내용\n가. 자문회의 명칭 변경 및 기능 확대(제1조ㆍ제2조)\n- 자문회의 기능을 포괄하도록 명칭 변경(수집자문회의→관리자문회의)\n나. 자문회의 위원 구성 확대 및 임기 연장(제3조)\n- 자문회의 위원 구성을 기존 9명에서 15명으로 확대하고, 전문성ㆍ객관성 강화를 위해 외부 위원을 12명 이상으로 위촉하도록 변경\n- 자문회의 운영의 연속성과 일관성을 제고하기 위해 임기를 현행 2년에서 3년으로 연장\n다. 현행 법령에 부합하도록 용어 일부 정비(제7조ㆍ제8조)",
+  "revision_reason": "",
   "body": {
     "format": "articles",
     "article_count": 8,
@@ -45,9 +45,44 @@
         "article_no": "제1조",
         "article_title": "목적",
         "chapter": "",
-        "content": "제1조(목적) 이 규정은 「공공기록물 관리에 관한 법률」제24조에 따라 공공기관에서 생산ㆍ관리하는 행정박물의 관리에 관하여 국가기록원장이 요청한 사항을 자문하기 위한 행정박물관리자문회의(이하, \"자문회의\"라 한다)의 구성 및 운영에 필요한 사항을 정함을 목적으로 한다.",
+        "content": "제1조(목적) 이 규정은 「공공기록물 관리에 관한 법률」제24조에 따라 공공기관에서 생산ㆍ관리하는 행정박물의 수집에 관하여 국가기록원장이 요청한 사항을 자문하기 위한 행정박물수집자문회의(이하, 자문회의라 한다)의 구성 및 운영에 필요한 사항을 정함을 목적으로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「공공기록물 관리에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "공공기록물 관리에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기록물 관리에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:행정박물수집자문회의운영규정#JO0001",
+            "reference_id": "law:공공기록물관리에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제24조",
+            "line_text": "",
+            "target_law_name": "공공기록물 관리에 관한 법률",
+            "target_article_no": "제24조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기록물 관리에 관한 법률/제24조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:행정박물수집자문회의운영규정#JO0001",
+            "reference_id": "law:공공기록물관리에관한법률#JO0024"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:행정박물수집자문회의운영규정#JO0001"
       },
@@ -55,7 +90,7 @@
         "article_no": "제2조",
         "article_title": "기능",
         "chapter": "",
-        "content": "제2조(기능) 자문회의는 다음 각 호에 대하여 자문한다.1. 행정박물의 분류ㆍ정리ㆍ이관ㆍ수집ㆍ가치평가ㆍ보존 등 관리와 관련된 사항2. 각급 기관 보유 행정박물 중 이관대상 지정3. 이미 이관된 행정박물의 연구 및 활용방안 검토4. 기타 행정박물 관리와 관련한 사항",
+        "content": "제2조(기능) 자문회의는 다음 각 호에 대하여 자문한다.1. 행정박물의 수집대상, 수집방법 등 수집계획2. 각급 기관 보유 행정박물 중 이관대상 지정3. 이미 수집된 행정박물의 연구 및 활용방안 검토4. 기타 행정박물 수집과 관련한 주요 사항",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -65,7 +100,7 @@
         "article_no": "제3조",
         "article_title": "구성",
         "chapter": "",
-        "content": "제3조(구성) ① 자문회의 위원은 위원장 1명을 포함하여 15명 이내로 구성하며, 외부위원은 12명 이상으로 한다.② 위원장은 외부위원 중에서 호선으로 선출하며, 자문회의를 총괄 진행한다. 위원장이 부득이한 사유로 그 직무수행이 곤란한 경우에는 위원장이 지명한 위원이 그 직무를 대행할 수 있다.③ 위원은 다음의 어느 하나에 해당하는 자로 구성한다.1. 국가기록원 소속 기록관리정책과장, 보존관리과장, 복원관리과장2. 역사학, 행정학, 문헌정보학, 기록관리학, 예술학, 미술사학 등 행정박물과 관련하여 지식과 경험이 풍부한 자 중 국가기록원장이 위촉한 자④ 위원장 및 외부위원의 임기는 3년으로 하며, 국가기록원 소속 공무원인 위원의 임기는 그 직위에 재직하는 기간으로 한다.⑤ 위원이 질병ㆍ장기여행, 기타 직무를 수행할 수 없는 부득이한 사유가 있는 경우에는 임기 만료 전이라도 해촉을 요청할 수 있다.⑥ 자문회의의 사무를 처리하기 위하여 국가기록원 소속 공무원 중 간사 1인을 둔다.",
+        "content": "제3조(구성) ① 자문회의 위원은 위원장 1인을 포함하여 9인 이내로 구성하며, 외부위원은 4인 이상으로 한다.② 위원장은 외부위원 중에서 호선으로 선출하며, 자문회의를 총괄 진행한다. 위원장이 부득이한 사유로 그 직무수행이 곤란한 경우에는 위원장이 지명한 위원이 그 직무를 대행할 수 있다.③ 위원은 다음의 어느 하나에 해당하는 자로 구성한다.1. 국가기록원 소속 기록관리정책과장, 보존관리과장, 복원관리과장2. 역사학, 행정학, 문헌정보학, 기록관리학, 예술학, 미술사학 등 행정박물과 관련하여 지식과 경험이 풍부한 자 중 국가기록원장이 위촉한 자④ 위원장 및 외부위원의 임기는 2년으로 하며, 국가기록원 소속 공무원인 위원의 임기는 그 직위에 재직하는 기간으로 한다.⑤ 위원이 질병ㆍ장기여행, 기타 직무를 수행할 수 없는 부득이한 사유가 있는 경우에는 임기 만료 전이라도 해촉을 요청할 수 있다.⑥ 자문회의의 사무를 처리하기 위하여 국가기록원 소속 공무원 중 간사 1인을 둔다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -77,7 +112,29 @@
         "chapter": "",
         "content": "제4조(회의) ① 자문회의는 국가기록원장이 요청하거나 위원장이 필요하다고 인정하는 경우 소집할 수 있다.② 자문회의는 위원장을 포함하여 재적위원 과반수 출석으로 개의한다.③ 위원이 부득이한 사유로 자문회의에 참석할 수 없는 경우에는 별지 제1호 서식에 의한 서면의견서로 의견을 제출할 수 있다.④ 자문회의는 특정 주제 또는 특정한 행정박물 분석 등 필요한 경우에는 위원 이외의 관련분야 전문가의 의견을 들을 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제3항",
+            "link_text": "별지 제1호 서식",
+            "line_text": "",
+            "target_law_name": "행정박물수집자문회의 운영규정",
+            "target_article_no": "별지1",
+            "target_article_title": "행정박물수집자문회의 서면의견서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=111070469",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:행정박물수집자문회의운영규정#JO0004",
+            "reference_id": "admrul:행정박물수집자문회의운영규정#BJ0001"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:행정박물수집자문회의운영규정#JO0004"
       },
@@ -87,7 +144,29 @@
         "chapter": "",
         "content": "제5조(회의록 등 작성ㆍ관리) 간사는 자문회의와 관련하여 별지 제2호 서식에 의한 회의록을 작성ㆍ관리하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "별지 제2호 서식",
+            "line_text": "",
+            "target_law_name": "행정박물수집자문회의 운영규정",
+            "target_article_no": "별지2",
+            "target_article_title": "행정박물수집자문회의 회의록",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=111070473",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:행정박물수집자문회의운영규정#JO0005",
+            "reference_id": "admrul:행정박물수집자문회의운영규정#BJ0002"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:행정박물수집자문회의운영규정#JO0005"
       },
@@ -105,9 +184,27 @@
         "article_no": "제7조",
         "article_title": "위원의 제척ㆍ기피ㆍ회피",
         "chapter": "",
-        "content": "제7조(위원의 제척ㆍ기피ㆍ회피) ① 자문회의 위원은 제2조에 따른 이관대상 행정박물 및 관련 기관과 이해관계가 있어 공정한 자문을 기대하기 어려운 경우에는 자문회의에서 제척된다.② 자문회의의 이해당사자는 위원에게 공정을 기대하기 어려운 특별한 사정이 있는 경우에는 그 위원에 대하여 기피신청을 할 수 있다.③ 위원이 제1항 또는 제2항의 사유에 해당하는 경우에는 스스로 그 안건의 자문에서 회피할 수 있다. <신설 2015.7.31.>",
+        "content": "제7조(위원의 제척ㆍ기피ㆍ회피) ① 위원회 위원은 제2조에 따른 수집대상기록물 및 관련 기관과 이해관계로 공정한 자문을 기대하기 어려운 경우 자문회의에서 제척된다.② 자문회의의 이해당사자는 위원에게 공정을 기대하기 어려운 특별한 사정이 있는 경우에는 기피신청을 할 수 있다.③ 위원이 제1항 또는 제2항의 사유에 해당하는 경우에는 스스로 그 안건의 자문에서 회피할 수 있다. <신설 2015.7.31.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "행정박물수집자문회의 운영규정",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/행정박물수집자문회의 운영규정/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:행정박물수집자문회의운영규정#JO0007",
+            "reference_id": "admrul:행정박물수집자문회의운영규정#JO0002"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:행정박물수집자문회의운영규정#JO0007"
       },
@@ -115,7 +212,7 @@
         "article_no": "제8조",
         "article_title": "비밀준수의무 등",
         "chapter": "",
-        "content": "제8조(비밀준수의무 등) ① 위원은 행정박물 관리 자문과 관련하여 알게 된 사항이나 비밀을 사적인 이익을 위하여 이용하거나 그 비밀을 누설하여서는 아니 된다.② 제1항을 위반한 위원에 대하여는 해촉할 수 있으며 관계법령에 따른 책임을 진다. <신설 2015.7.31.>",
+        "content": "제8조(비밀준수의무 등) ① 위원은 행정박물 수집 자문과 관련하여 알게 된 사항이나 비밀을 사적인 이익을 위하여 이용하거나 그 비밀을 누설하여서는 아니 된다.② 제1항의 규정을 위반한 위원에 대하여는 해촉할 수 있으며 관계법령에 따라 책임을 진다. <신설 2015.7.31.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -150,31 +247,96 @@
       "content": "부칙 <제205호, 2021. 12. 15.>(시행일) 이 규정은 공포한 날부터 시행한다."
     }
   ],
-  "appendices": [],
-  "attachments": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "행정박물수집자문회의 서면의견서",
+      "enforcement_date": "",
+      "content": "[별지 제1호 서식]\n행정박물수집자문회의 서면의견서\n┏━━━━━┯━━━━━━━━━━━━━━━━━┓\n┃위 원 명  │                             (인) ┃\n┠─────┼─────────────────┨\n┃ 일     자│20    .      .      .             ┃\n┠─────┼─────────────────┨\n┃ 안     건│                                  ┃\n┠─────┴─────────────────┨\n┃검 토 의 견                                   ┃\n┠───────────────────────┨\n┃                                              ┃\n┠─────┬─────────────────┨\n┃기타사항  │                                  ┃\n┗━━━━━┷━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=111070469",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=111070469",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:행정박물수집자문회의운영규정#BJ0001",
+      "filename": "별지1_행정박물수집자문회의 서면의견서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "행정박물수집자문회의 회의록",
+      "enforcement_date": "",
+      "content": "[별지 제2호 서식]\n행정박물수집자문회의 회의록\n┏━━━━┯━━━━━━━━━┯━━━┯┓\n┃일  시  │  20    .    .    │장 소 │┃\n┣━━━━┿━━━┯━━━━━┷━━━┷┫\n┃참석자  │위  원│                    ┃\n┃        ├───┼──────────┨\n┃        │배석자│                    ┃\n┣━━━━┷━━━┷━━━━━━━━━━┫\n┃회의진행순서                          ┃\n┠───────────────────┨\n┃                                      ┃\n┣━━━━┯━━━━━━━━━━━━━━┫\n┃안  건  │                            ┃\n┣━━━━┿━━━━━━━━━━━━━━┫\n┃위원명  │발언요지                    ┃\n┠────┼──────────────┨\n┃        │                            ┃\n┠────┼──────────────┨\n┃        │                            ┃\n┠────┼──────────────┨\n┃        │                            ┃\n┠────┼──────────────┨\n┃        │                            ┃\n┠────┼──────────────┨\n┃        │                            ┃\n┠────┼──────────────┨\n┃        │                            ┃\n┠────┼──────────────┨\n┃        │                            ┃\n┣━━━━┿━━━━━━━━━━━━━━┫\n┃주요사항│                            ┃\n┗━━━━┷━━━━━━━━━━━━━━┛\n*회의명칭은 \"00년도 제00회 행정박물수집자문회의\"로 한다.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=111070473",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=111070473",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:행정박물수집자문회의운영규정#BJ0002",
+      "filename": "별지2_행정박물수집자문회의 회의록.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "211215 행정박물수집자문회의 운영규정.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=111028499",
+      "file_store_url": "",
+      "filename": "211215 행정박물수집자문회의 운영규정.hwp"
+    },
+    {
+      "name": "1. 우리원 조직개편에 따른 훈령 예규 일괄개정 결과 (1).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=111028501",
+      "file_store_url": "",
+      "filename": "1. 우리원 조직개편에 따른 훈령 예규 일괄개정 결과 (1).hwp"
+    },
+    {
+      "name": "2. 국가기록원 훈령 및 예규 신구조문 대비표(최종) (2).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=111028503",
+      "file_store_url": "",
+      "filename": "2. 국가기록원 훈령 및 예규 신구조문 대비표(최종) (2).hwp"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 2,
+    "relations_total": 5,
     "by_category": {
-      "법령": 1,
+      "법령": 2,
+      "별지": 2,
       "행정규칙": 1
     },
     "by_relation_type": {
-      "citation": 1,
+      "citation": 2,
+      "appendix_ref": 2,
       "internal_ref": 1
     },
     "articles_total": 8,
-    "articles_with_relations": 2,
+    "articles_with_relations": 4,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
     "addenda_count": 5,
     "appendices_count": 2,
-    "attachments_count": 2
+    "attachments_count": 3
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/행정박물수집자문회의 운영규정"
   },
-  "provision_id": "admrul:행정박물수집자문회의운영규정#DOC",
-  "is_future": false
+  "provision_id": "admrul:행정박물수집자문회의운영규정#DOC"
 }
