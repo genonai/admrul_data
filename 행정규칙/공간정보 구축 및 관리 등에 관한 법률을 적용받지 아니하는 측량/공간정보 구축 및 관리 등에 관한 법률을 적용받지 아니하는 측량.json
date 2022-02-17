@@ -1,0 +1,286 @@
+{
+  "law_id": "2100000209178",
+  "mst": "2100000209178",
+  "law_name": "공간정보 구축 및 관리 등에 관한 법률을 적용받지 아니하는 측량",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000209178",
+  "promulgation_no": "2022-821",
+  "promulgation_date": "20220217",
+  "enforcement_date": "20220217",
+  "revision_date": "20220217",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국토지리정보원(기획정책과)",
+    "담당자명": "이혜승",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "공간정보 구축 및 관리 등에 관한 법률을 적용받지 아니하는 측량",
+    "발령일자": "20220217",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국토지리정보원",
+    "전화번호": "031-210-2782",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1613000",
+    "생성일자": "20220218",
+    "행정규칙ID": "32315",
+    "시행일자": "20220217",
+    "담당부서기관코드": "1613437",
+    "발령번호": "2022-821",
+    "행정규칙일련번호": "2100000209178",
+    "상위부처명": "국토교통부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정이유\n「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제431호)에 따라 유효기간 및 재검토 기한을 재설정하여 재발령하고자 함.\n◇ 주요내용\n「국토지리정보원 공간정보 표준화지침」제33조(유효기간),「공간정보 구축 및 관리 등에 관한 법률을 적용받지 아니하는 측량」제5조(재검토기한),「측량기기 성능검사 규정」제18조(재검토기한), 「용역사업 검사기준」제8조(재검토기한),「행정정보의 격자체계 설정 및 공간정보화 기준」제13조(재검토기한),「광역지방자치단체별 지리지 제작규정」50조(재검토기한)에 설정된 규정의 폐지, 개정 등의 조치를 하여야 하는 기한을 2022년 1월 1일에서 2024년 12월 31일까지 3년 연장",
+  "body": {
+    "format": "articles",
+    "article_count": 5,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "국지적 측량",
+        "chapter": "",
+        "content": "제1조(국지적 측량) ① 채광 및 지질조사측량, 송수관ㆍ송전선로ㆍ송전탑ㆍ광산시설의 보수 측량② 지하시설물중 길이 50m 미만의 실수요자용 시설(관로중 본관 또는 지관에서 분기하여 수요자에게 직접 연결되는 관로 및 부속시설물)에 대한 측량, 다만, 공공측량시행자가 공공의 안전 등을 위해 필요하다고 판단하여 실시하는 실수요자용 시설에 대한 측량은「공간정보 구축 및 관리 등에 관한 법률」을 적용한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「공간정보 구축 및 관리 등에 관한 법률」",
+            "line_text": "제1조(국지적 측량) ① 채광 및 지질조사측량, 송수관ㆍ송전선로ㆍ송전탑ㆍ광산시설의 보수 측량② 지하시설물중 길이 50m 미만의 실수요자용 시설(관로중 본관 또는 지관에서 분기하여 수요자에게 직접 연결되는 관로 및 부속시설물)에 대한 측량, 다만, 공공측량시행자가 공공의 안전 등을 위해 필요하다고 판단하여 실시하는 실수요자용 시설에 대한 측량은「공간정보 구축 및 관리 등에 관한 법률」을 적용한다.",
+            "target_law_name": "공간정보 구축 및 관리 등에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공간정보 구축 및 관리 등에 관한 법률",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:공간정보구축및관리등에관한법률을적용받지아니하는측량#JO0001",
+            "reference_id": "law:공간정보구축및관리등에관한법률#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공간정보구축및관리등에관한법률을적용받지아니하는측량#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "고도의 정확도가 필요하지 않은 측량",
+        "chapter": "",
+        "content": "제2조(고도의 정확도가 필요하지 않은 측량) ① 항공사진측량용 카메라가 아닌 카메라로 촬영된 사진, 다만, 공공측량시행자가 「무인비행장치 이용 공공측량 작업지침」에 따라 촬영한 무인항공사진은 「공간정보의 구축 및 관리 등에 관한 법률」을 적용한다.※ 항공사진측량용 카메라라 함은 항공기에 설치가 가능하고, 렌즈 왜곡수차가 0.01mm이하인 것을 말한다.② 국가기본도(수치지형도 및 지형도)등 기 제작된 지도를 사용하지 않고 거리, 방향, 축척의 개념이 없는 지도의 제작③ 기타 공공측량 및 일반측량으로서 활용가치가 없다고 인정되는 측량",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제1항",
+            "link_text": "「무인비행장치 이용 공공측량 작업지침」",
+            "line_text": "",
+            "target_law_name": "무인비행장치 이용 공공측량 작업지침",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무인비행장치 이용 공공측량 작업지침",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공간정보구축및관리등에관한법률을적용받지아니하는측량#JO0002",
+            "reference_id": "admrul:무인비행장치이용공공측량작업지침#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제1항",
+            "link_text": "「공간정보의 구축 및 관리 등에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "공간정보의 구축 및 관리 등에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공간정보의 구축 및 관리 등에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공간정보구축및관리등에관한법률을적용받지아니하는측량#JO0002",
+            "reference_id": "law:공간정보의구축및관리등에관한법률#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공간정보구축및관리등에관한법률을적용받지아니하는측량#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "순수 학술연구나 군사 활동을 위한 측량",
+        "chapter": "",
+        "content": "제3조(순수 학술연구나 군사 활동을 위한 측량) ① 교육법에 의한 각종 초ㆍ중ㆍ고등학교, 전문대학, 대학교, 대학원 또는 양성기관에서 시행하는 실습측량② 연구개발 보고서 작성 등을 목적으로 실시하는 측량③ 군용목적을 위하여 군 기관에서 실시하는 측량 및 지도제작",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공간정보구축및관리등에관한법률을적용받지아니하는측량#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "적용예외",
+        "chapter": "",
+        "content": "제4조(적용예외) 제1조에서 제3조까지의 규정에도 불구하고, 관계법령의 규정에 의하여 허가ㆍ인가ㆍ면허ㆍ등록 또는 승인 등의 신청서에 첨부하여야 할 측량 도서(건축법 시행규칙[별표2]에 따른 건축허가 시 제출도서는 제외)를 작성하기 위하여 실시되는 측량은 이 고시를 적용하지 아니한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제1조",
+            "line_text": "",
+            "target_law_name": "공간정보 구축 및 관리 등에 관한 법률을 적용받지 아니하는 측량",
+            "target_article_no": "제1조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/공간정보 구축 및 관리 등에 관한 법률을 적용받지 아니하는 측량/제1조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공간정보구축및관리등에관한법률을적용받지아니하는측량#JO0004",
+            "reference_id": "admrul:공간정보구축및관리등에관한법률을적용받지아니하는측량#JO0001"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제3조",
+            "line_text": "",
+            "target_law_name": "공간정보 구축 및 관리 등에 관한 법률을 적용받지 아니하는 측량",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/공간정보 구축 및 관리 등에 관한 법률을 적용받지 아니하는 측량/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공간정보구축및관리등에관한법률을적용받지아니하는측량#JO0004",
+            "reference_id": "admrul:공간정보구축및관리등에관한법률을적용받지아니하는측량#JO0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "별표2",
+            "line_text": "",
+            "target_law_name": "공간정보 구축 및 관리 등에 관한 법률을 적용받지 아니하는 측량",
+            "target_article_no": "별표2",
+            "target_article_title": "",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": false,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000209178&bylNo=&bylBrNo=",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공간정보구축및관리등에관한법률을적용받지아니하는측량#JO0004",
+            "reference_id": "admrul:공간정보구축및관리등에관한법률을적용받지아니하는측량#BYL0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공간정보구축및관리등에관한법률을적용받지아니하는측량#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제5조(재검토기한) 국토지리정보원장은 이 고시에 대하여「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2022년 7월 1일 기준으로 매3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공간정보구축및관리등에관한법률을적용받지아니하는측량#JO0005",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공간정보구축및관리등에관한법률을적용받지아니하는측량#JO0005"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20150727",
+      "promulgation_no": "2015-1551",
+      "content": "부칙 <제2015-1551호,2015. 7. 27.>제1조(시행일) 이 고시는 고시한 날부터 시행한다.제2조(재검토 기한) 국토지리정보원장은 「행정규제기본법」 제8조 및 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제334호)에 따라, 이 고시에 대하여 2015년 7월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다."
+    },
+    {
+      "promulgation_date": "20160908",
+      "promulgation_no": "2016-2249",
+      "content": "부칙 <제2016-2249호,2016. 9. 8.>제1조(시행일) 이 고시는 고시한 날부터 시행한다.제2조 삭제 <개정 2018. 3. 30.>"
+    },
+    {
+      "promulgation_date": "20180330",
+      "promulgation_no": "2018-1078",
+      "content": "부칙 <제2018-1078호,2018. 3. 30.>제1조(시행일) 이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20220217",
+      "promulgation_no": "2022-821",
+      "content": "부칙 <제2022-821호, 2022. 2. 17.>제1조(시행일) 이 고시는 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "공간정보 구축 및 관리 등에 관한 법률을 적용받지 아니하는 측량 일부개정(안) 전문.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=113175631",
+      "file_store_url": "",
+      "filename": "공간정보 구축 및 관리 등에 관한 법률을 적용받지 아니하는 측량 일부개정(안) 전문.hwp"
+    },
+    {
+      "name": "재검토기한 재설정을 위한 행정규칙 일부개정(안).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=113175633",
+      "file_store_url": "",
+      "filename": "재검토기한 재설정을 위한 행정규칙 일부개정(안).hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 7,
+    "by_category": {
+      "법령": 2,
+      "행정규칙": 4,
+      "별표": 1
+    },
+    "by_relation_type": {
+      "citation": 4,
+      "internal_ref": 2,
+      "appendix_ref": 1
+    },
+    "articles_total": 5,
+    "articles_with_relations": 4,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 4,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/공간정보 구축 및 관리 등에 관한 법률을 적용받지 아니하는 측량"
+  },
+  "provision_id": "admrul:공간정보구축및관리등에관한법률을적용받지아니하는측량#DOC"
+}
