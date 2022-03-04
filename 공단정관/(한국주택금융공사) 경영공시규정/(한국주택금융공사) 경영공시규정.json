@@ -1,0 +1,505 @@
+{
+  "law_id": "2200000088587",
+  "mst": "2200000088587",
+  "law_name": "(한국주택금융공사) 경영공시규정",
+  "law_abbr": "",
+  "law_type": "공단규정",
+  "doc_target": "pi",
+  "doc_kind": "공단정관",
+  "adm_uid": "pi:2200000088587",
+  "promulgation_no": "9999",
+  "promulgation_date": "20220304",
+  "enforcement_date": "20220304",
+  "revision_date": "20220304",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "한국주택금융공사 정보보호부",
+    "담당자명": "",
+    "행정규칙종류코드": "B0029",
+    "행정규칙명": "(한국주택금융공사) 경영공시규정",
+    "발령일자": "20220304",
+    "행정규칙종류": "공단규정",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "한국주택금융공사",
+    "전화번호": "02-1688-8114",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "B551408",
+    "생성일자": "20260326",
+    "행정규칙ID": "2112847",
+    "담당부서기관코드": "",
+    "발령번호": "9999",
+    "행정규칙일련번호": "2200000088587"
+  },
+  "amendment_text": "",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 15,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 기준은 다음 각 호의 규정에 따라 한국주택금융공사(이하 \"공사\"라 한다)의 경영공시 업무에 관하여 필요한 사항을 정함을 목적으로 한다.1. 「공공기관의 운영에 관한 법률」 (이하 \"법\"이라 한다)2. 「공공기관의 운영에 관한 법률 시행령」3. 기획재정부의 「공기업ㆍ준정부기관 경영 및 혁신에 관한 지침」4. 기획재정부의 「공공기관의 통합공시에 관한 기준」 (이하 \"통합공시 기준\"이라 한다)5. 금융위원회의 「한국주택금융공사감독규정」 (이하 \"감독규정\"이라 한다) <신설 2011. 06. 13.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「공공기관의 운영에 관한 법률 시행령」",
+            "line_text": "",
+            "target_law_name": "공공기관의 운영에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률 시행령",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국주택금융공사)경영공시규정#JO0001",
+            "reference_id": "law:공공기관의운영에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「공기업ㆍ준정부기관 경영 및 혁신에 관한 지침」",
+            "line_text": "",
+            "target_law_name": "공기업ㆍ준정부기관 경영 및 혁신에 관한 지침",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/공기업ㆍ준정부기관 경영 및 혁신에 관한 지침",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국주택금융공사)경영공시규정#JO0001",
+            "reference_id": "admrul:공기업준정부기관경영및혁신에관한지침#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「한국주택금융공사감독규정」",
+            "line_text": "",
+            "target_law_name": "한국주택금융공사감독규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/한국주택금융공사감독규정",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국주택금융공사)경영공시규정#JO0001",
+            "reference_id": "admrul:한국주택금융공사감독규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국주택금융공사)경영공시규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "분류",
+        "chapter": "",
+        "content": "제2조(분류) 경영공시는 공공기관 경영정보공개시스템(이하 \"알리오시스템\")에 공시하는 \"통합공시\", 공사 홈페이지의 경영공시 사이트에 게시하는 \"자체공시\" 및 언론기관에 자료를 작성하여 배포하는 방식으로 공시하는 \"언론공시\"로 분류한다. <개정 2011. 06. 13.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국주택금융공사)경영공시규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "공시 원칙",
+        "chapter": "",
+        "content": "제3조(공시 원칙) 제4조의 공시 항목별 자료는 최근 5년간의 자료를 공시하는 것을 원칙으로 한다. 다만, 최근 5년간의 자료가 없거나 공시할 수 없는 경우에는 자료를 확보할 수 있는 기간 동안의 자료를 공시하고, 자료를 확보할 수 없는 기간의 자료에 대해서는 그 사유를 게재한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "(한국주택금융공사) 경영공시규정",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국주택금융공사) 경영공시규정/제4조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국주택금융공사)경영공시규정#JO0003",
+            "reference_id": "pi:(한국주택금융공사)경영공시규정#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국주택금융공사)경영공시규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "공시 항목",
+        "chapter": "",
+        "content": "제4조(공시 항목) ① 통합공시 항목은 통합공시 기준에서 정하는 바에 따른다. <개정 2011. 06. 13.>② 자체공시 항목은 통합공시 항목과 감독규정 제17조제1항에서 정하는 공시항목(이하 \"감독규정 정기 공시항목\")을 포함하여야 하며, 경영의 투명성 확보 및 대국민 서비스 제고 등을 고려하여 그 외의 항목(이하 \"추가 자체공시 항목\"이라 한다)을 추가하여 운영할 수 있다. <개정 2011. 06. 13.>③ 언론공시 항목은 감독규정 제17조제2항 및 동규정 시행세칙 제7조에서 정하는 바(이하 \"감독규정 수시 공시항목\")에 따른다. <신설 2011. 06. 13.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "감독규정",
+            "line_text": "",
+            "target_law_name": "한국주택금융공사감독규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/한국주택금융공사감독규정",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국주택금융공사)경영공시규정#JO0004",
+            "reference_id": "admrul:한국주택금융공사감독규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "제17조제1항",
+            "line_text": "",
+            "target_law_name": "한국주택금융공사감독규정",
+            "target_article_no": "제17조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/한국주택금융공사감독규정/제17조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국주택금융공사)경영공시규정#JO0004",
+            "reference_id": "admrul:한국주택금융공사감독규정#JO0017"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제3항",
+            "link_text": "감독규정",
+            "line_text": "",
+            "target_law_name": "한국주택금융공사감독규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/한국주택금융공사감독규정",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국주택금융공사)경영공시규정#JO0004",
+            "reference_id": "admrul:한국주택금융공사감독규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제3항",
+            "link_text": "제17조제2항",
+            "line_text": "",
+            "target_law_name": "한국주택금융공사감독규정",
+            "target_article_no": "제17조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/한국주택금융공사감독규정/제17조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국주택금융공사)경영공시규정#JO0004",
+            "reference_id": "admrul:한국주택금융공사감독규정#JO0017"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제3항",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "동규정 시행세칙",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/동규정 시행세칙/제7조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "pi:(한국주택금융공사)경영공시규정#JO0004",
+            "reference_id": "law:동규정시행세칙#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국주택금융공사)경영공시규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "공시의 예외",
+        "chapter": "",
+        "content": "제5조(공시의 예외) ① 다음 각 호의 사항은 이를 공시하지 아니할 수 있다.1. 사장이 국가안보 등의 사유로 당해 정보를 공개함이 적절하지 않다고 판단하여 기획재정부장관과 사전협의한 사항2. 이사회 회의록 중 경영비밀에 관련된 사항으로 「공공기관의 정보 공개에 관한 법률」 제9조제1항제1호부터 제8호에 해당하는 사항② 제1항제2호에 따라 이사회 회의록을 공개하지 않을 경우에는 그 사유를 명시하여 공시하여야 하며, 항목별로 비공개기간을 설정하고 그 비공개기간이 종료되는 시점에는 공시 여부를 재검토하여 그 사유가 해소되었을 경우 즉시 이를 공시하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "「공공기관의 정보 공개에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "공공기관의 정보 공개에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보 공개에 관한 법률",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국주택금융공사)경영공시규정#JO0005",
+            "reference_id": "law:공공기관의정보공개에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "제9조제1항제1호부터 제8호",
+            "line_text": "",
+            "target_law_name": "공공기관의 정보 공개에 관한 법률",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보 공개에 관한 법률/제9조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국주택금융공사)경영공시규정#JO0005",
+            "reference_id": "law:공공기관의정보공개에관한법률#JO0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국주택금융공사)경영공시규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "공시의 방법",
+        "chapter": "",
+        "content": "제6조(공시의 방법) 삭제 <2011. 06. 13.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국주택금융공사)경영공시규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "세부 공시기준",
+        "chapter": "",
+        "content": "제7조(세부 공시기준) 삭제 <2011. 06. 13.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국주택금융공사)경영공시규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "공시의 시기",
+        "chapter": "",
+        "content": "제8조(공시의 시기) ① 공시자료는 갱신주기에 따라 정기공시와 수시공시로 구분하여 공시한다.② 정기공시 사항은 갱신주기에 따라 매 년, 매 반기 또는 매 분기별로 일괄 공시한다. <개정 2011. 06. 13.>③ 수시공시 사항은 공시대상 정보가 발생ㆍ변경되는 날로부터 14일 이내에 공시한다. 단, 감독규정 수시 공시항목의 공시시기는 감독규정 및 동 시행세칙에 따르며, 추가 자체공시 항목의 공시시기는 제14조제3항에 의한 경영공시 매뉴얼에서 별도로 정할 수 있다. <단서 신설 2011. 06. 13.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제3항",
+            "link_text": "제14조제3항",
+            "line_text": "",
+            "target_law_name": "(한국주택금융공사) 경영공시규정",
+            "target_article_no": "제14조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국주택금융공사) 경영공시규정/제14조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국주택금융공사)경영공시규정#JO0008",
+            "reference_id": "pi:(한국주택금융공사)경영공시규정#JO0014"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국주택금융공사)경영공시규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "공시 책임자의 지정",
+        "chapter": "",
+        "content": "제9조(공시 책임자의 지정) ① 공시자료의 정확성을 제고하고, 불성실ㆍ허위 공시에 대한 책임소재를 명확하게 하기 위해 공시 항목별로 작성자, 감독자, 확인자를 지정하고 그 성명, 소속부점 및 연락처를 함께 공시한다. <개정 2011. 06. 13.>② 경영공시 업무의 책임자는 다음 각 호와 같다.1. \"작성자\"는 공시 항목별 담당부점의 실무자 <개정 2011. 06. 13.>2. \"감독자\"는 정보보호부장 <개정 2012. 12. 31., 2013. 12. 31., 2017. 1. 9., 2021. 1. 21., 2022. 3. 4.>3. \"확인자\"는 감사실장③ 공시항목별 담당부점장은 업무분장에 의해 공시항목별 작성자를 지정하고, 작성자 지정 및 변경 시 그 내용을 정보보호부장에게 통보하여야 한다. <개정 2010. 12. 31., 2011. 06. 13., 2012. 1. 12., 2012. 12. 31., 2013. 12. 31., 2017. 1. 9., 2021. 1. 21., 2022. 3. 4.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국주택금융공사)경영공시규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "공시 절차",
+        "chapter": "",
+        "content": "제10조(공시 절차) ① 통합공시와 자체공시 자료는 등록기간 이전에 공시항목별 작성자가 소속 부점에서 전결권자의 결재를 받은 후  \"알리오시스템\"과 공사 홈페이지에 직접 등록하고, 그 내용을 정보보호부장과 감사실에 제출한다. <개정 2011. 06. 13., 2012. 1. 12., 2012. 12. 31., 2013. 12. 31., 2017. 1. 9., 2021. 1. 21., 2022. 3. 4.>② 언론공시는 감독규정 시행세칙에서 정한 절차에 의해 공시한다. <신설 2011. 06. 13.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국주택금융공사)경영공시규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "공시자료의 점검ㆍ확인",
+        "chapter": "",
+        "content": "제11조(공시자료의 점검ㆍ확인) ① 경영공시의 작성자, 감독자 및 확인자는 수시로 공시자료의 정확성과 충실도를 점검ㆍ확인하여야 한다.② 공시항목별 담당부점장은 작성자의 제반 공시업무 처리사항을 확인ㆍ감독하여야 한다. <개정 2011. 06. 13.>③ 제1항의 규정에 따른 점검 결과, 오류 사항이 발견된 경우에는 지체 없이 이를 수정?보완하여야 한다.④ 다음 각 호의 사항은 제1항에 불구하고 감사실장의 확인절차를 생략할 수 있다.1. 공지사항2. 입찰정보3. 채용정보4. 기타 정보보호부장이 확인절차의 생략이 필요하다고 인정하는 경우 <개정 2010. 12. 31., 2012. 1. 12., 2012. 12. 31., 2013. 12. 31., 2017. 1. 9., 2021. 1. 21., 2022. 3. 4.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국주택금융공사)경영공시규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "불성실공시",
+        "chapter": "",
+        "content": "제12조(불성실공시) ① \"불성실공시\"란 다음 각 호의 경우를 말한다.1. 공시불이행: 공시내용을 공시하지 않거나 등록기간을 준수하지 않은 경우 <개정 2011. 06. 13.>2. 허위공시: 사실과 다른 경영정보 내용을 공시하여 외부기관(국회, 정부부처 등)으로부터 지적된 경우3. 공시변경: 오류 등으로 인해 사실과 다른 경영정보를 공시하여 이를 수정한 경우② 공시항목별 담당부점에서 제1항의 규정에 의한 불성실공시를 행하였음을 인지한 경우, 정보보호부장은 이를 지체 없이 사장에게 보고하여야 한다. <개정 2010. 12. 31., 2011. 06. 13., 2012. 1. 12., 2012. 12. 31., 2013. 12. 31., 2017. 1. 9., 2021. 1. 21., 2022. 3. 4.>③ 불성실공시 사안이 중대할 경우, 정보보호부장은 불성실공시의 사전예방 및 재발 방지를 위하여 담당 부점장에게 \"별지서식\"에 의한 「불성실공시 예방을 위한 개선계획서」 의 제출을 요구할 수 있다. <개정 2010. 12. 31., 2011. 06. 13., 2012. 1. 12., 2012. 12. 31., 2013. 12. 31., 2017. 1. 9., 2021. 1. 21., 2022. 3. 4.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국주택금융공사)경영공시규정#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "공시자료의 비치",
+        "chapter": "",
+        "content": "제13조(공시자료의 비치) ① 공시자료는 정보보호부에 그 서류를 비치하여야 한다. 단, 전자문서로 저장된 공시자료는 비치된 것으로 본다. <개정 2010. 12. 31., 2011. 06. 13., 2012. 1. 12., 2012. 12. 31., 2013. 12. 31., 2017. 1. 9., 2021. 1. 21., 2022. 3. 4.>② 국민으로부터 공시자료에 대해 열람 및 복사 요청이 있는 경우에는 특별한 사유가 없는 한 이에 응하여야 한다. 이 경우 비용의 부담과 관련해서는 「정보공개업무규정」 을 준용하여 처리한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국주택금융공사)경영공시규정#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "세부 공시기준",
+        "chapter": "",
+        "content": "제14조(세부 공시기준) ① 통합공시 관련 세부사항은 기획재정부 장관이 통보하는 「공공기관 통합공시 매뉴얼」 (이하 \"통합공시 매뉴얼\")에 따른다. <개정 2011. 06. 13.>② 감독규정 정기 공시항목 및 감독규정 수시 공시항목 관련 세부사항은 감독규정과 동 시행세칙에 따른다. <개정 2011. 06. 13.>③ 경영공시와 관련하여 이 규정에서 정하지 않은 세부사항은 정보보호부장이 별도로 정하는 「경영공시 매뉴얼」 에 따른다. <개정 2011. 06. 13., 2012. 1. 12., 2012. 12. 31., 2013. 12. 31., 2017. 1. 9., 2021. 1. 21., 2022. 3. 4.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국주택금융공사)경영공시규정#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "관련법령과의 관계",
+        "chapter": "",
+        "content": "제15조(관련법령과의 관계) 이 규정에서 정한 사항이 통합공시 기준, 감독규정 및 통합공시 매뉴얼과 서로 다른 경우에는 통합공시 기준, 감독규정 및 통합공시 매뉴얼에서 정하는 바에 따른다. <신설 2011. 06. 13.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국주택금융공사)경영공시규정#JO0015"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20100329",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2010.03.29.>이 규정은 2010년 3월 29일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20101231",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2010.12.31.>이 규정은 2010년 12월 31일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20110314",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2011.03.14.>이 규정은 2011년 3월 14일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20110613",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2011.06.13.>이 규정은 2011년 6월 13일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20120112",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2012.01.12.>이 규정은 2012년 1월 12일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20121231",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2012.12.31.>이 규정은 2012년 12월 31일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20131231",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2013.12.31.>이 규정은 2013년 12월 31일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20170109",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2017.01.09.>이 규정은 2017년 1월 9일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20210121",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2021.01.21.>이 규정은 2021년 1월 21일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20220304",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2022.03.04.>이 규정은 2022년 3월 4일부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별지",
+      "title": "불성실공시 예방을 위한 개선계획서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162858395",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162858395",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(한국주택금융공사)경영공시규정#BJ0000",
+      "filename": "별지0_불성실공시 예방을 위한 개선계획서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 12,
+    "by_category": {
+      "법령": 3,
+      "행정규칙": 6,
+      "학칙공단": 3
+    },
+    "by_relation_type": {
+      "citation": 10,
+      "internal_ref": 2
+    },
+    "articles_total": 15,
+    "articles_with_relations": 5,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 10,
+    "appendices_count": 1,
+    "attachments_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/학칙공단/(한국주택금융공사) 경영공시규정"
+  },
+  "provision_id": "pi:(한국주택금융공사)경영공시규정#DOC"
+}
