@@ -1,0 +1,573 @@
+{
+  "law_id": "2100000210460",
+  "mst": "2100000210460",
+  "law_name": "근로자 건강증진활동 지침",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000210460",
+  "promulgation_no": "2022-33",
+  "promulgation_date": "20220325",
+  "enforcement_date": "20220325",
+  "revision_date": "20220325",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "고용노동부(산업보건기준과)",
+    "담당자명": "김민주",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "근로자 건강증진활동 지침",
+    "발령일자": "20220325",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "고용노동부",
+    "전화번호": "044-202-8872",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1492000",
+    "생성일자": "20230102",
+    "행정규칙ID": "34926",
+    "시행일자": "20220325",
+    "담당부서기관코드": "1492934",
+    "발령번호": "2022-33",
+    "행정규칙일련번호": "2100000210460",
+    "상위부처명": "고용노동부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n○ 직업성 질병의 발생 현황을 파악하고 적시 원인조사 등을 할 수 있는 직업병 안심센터*를 설치ㆍ운영하기 위한 근거 규정을 마련하기 위해「근로자 건강증진 활동 지침」고시를 개정하고자 함\n* 병원 내ㆍ외 네트워크를 구축하여 직업성 질병 발병 환자가 병원 내원 시 각 임상진료과 진료단계에서 업무기인성을 파악하여 직업성 질병을 신속하게 발견, 추가피해를 예방하고 필요 시 원인조사 등 후속조치를 수행할 수 있는 감시체계\n◇ 주요내용\n○ 직업병 안심센터의 설치ㆍ운영 근거 및 업무 내용 등 근거 조항 마련",
+  "body": {
+    "format": "articles",
+    "article_count": 16,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조(목적) 이 고시는 「산업안전보건법」 제4조제1항제9호, 제11조제3호 및 같은 법 시행령 제7조제2항에 따라 근로자 건강증진활동을 효율적으로 추진하기 위하여 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제4조제1항제9호",
+            "line_text": "",
+            "target_law_name": "산업안전보건법",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:근로자건강증진활동지침#JO0001",
+            "reference_id": "law:산업안전보건법#JO0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제11조제3호",
+            "line_text": "",
+            "target_law_name": "산업안전보건법",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:근로자건강증진활동지침#JO0001",
+            "reference_id": "law:산업안전보건법#JO0011"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "산업안전보건법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:근로자건강증진활동지침#JO0001",
+            "reference_id": "law:산업안전보건법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제7조제2항",
+            "line_text": "",
+            "target_law_name": "산업안전보건법 시행령",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법 시행령/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:근로자건강증진활동지침#JO0001",
+            "reference_id": "law:산업안전보건법시행령#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:근로자건강증진활동지침#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "용어의 정의",
+        "chapter": "제1장 총칙",
+        "content": "제2조(용어의 정의) ① 이 고시에서 사용하는 용어의 뜻은 다음 각 호와 같다.1. \"근로자 건강증진활동\"이란 작업관련성질환 예방활동을 포함하여 근로자의 건강을 최상의 상태로 하기 위한 일련의 활동을 말한다.2. \"직업성질환\"이란 작업환경 중 유해인자가 있어 업무나 직업적 활동에 의하여 근로자가 노출될 경우 그 유해인자로 인하여 발생하는 질환을 말한다.3. \"작업관련성질환\"이란 작업관련 뇌심혈관질환ㆍ근골격계질환 등 업무적 요인과 개인적 요인이 복합적으로 작용하여 발생하는 질환을 말한다.4. \"직업건강서비스\"란 직업성질환 및 작업관련성질환 예방을 위한 근로자 지원서비스를 말한다.5. \"건강증진활동추진자\"란 사업장 내의 보건관리자 또는 근로자 건강증진활동에 필요한 지식과 기술을 보유하고 건강증진활동을 추진하는 사람을 말한다.② 그 밖에 이 고시에서 사용하는 용어의 뜻은 이 고시에 특별한 규정이 없으면 「산업안전보건법」(이하 \"법\"이라 한다), 같은 법 시행령, 같은 법 시행규칙 및 「산업안전보건기준에 관한 규칙」(이하 \"안전보건규칙\"이라 한다)에서 정하는 바에 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "산업안전보건법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:근로자건강증진활동지침#JO0002",
+            "reference_id": "law:산업안전보건법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "같은 법 시행규칙",
+            "line_text": "",
+            "target_law_name": "산업안전보건법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:근로자건강증진활동지침#JO0002",
+            "reference_id": "law:산업안전보건법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "「산업안전보건기준에 관한 규칙」",
+            "line_text": "",
+            "target_law_name": "산업안전보건기준에 관한 규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건기준에 관한 규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:근로자건강증진활동지침#JO0002",
+            "reference_id": "law:산업안전보건기준에관한규칙#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:근로자건강증진활동지침#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "적용 범위",
+        "chapter": "제1장 총칙",
+        "content": "제3조(적용 범위) 이 고시는 근로자 건강증진활동을 추진하고자 하는 모든 사업장 또는 근로자에게 적용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:근로자건강증진활동지침#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "건강증진활동계획 수립ㆍ시행",
+        "chapter": "제2장 사업장에서의 근로자 건강증진활동계획 수립ㆍ시행, 추진체계, 평가 등",
+        "content": "제4조(건강증진활동계획 수립ㆍ시행) ① 사업주는 근로자의 건강증진을 위하여 다음 각 호의 사항이 포함된 건강증진활동계획을 수립ㆍ시행하여야 한다.1. 사업주가 건강증진을 적극적으로 추진한다는 의사표명2. 건강증진활동계획의 목표 설정3. 사업장 내 건강증진 추진을 위한 조직구성4. 직무스트레스 관리, 올바른 작업자세 지도, 뇌심혈관계질환 발병위험도 평가 및 사후관리, 금연, 절주, 운동, 영양개선 등 건강증진활동 추진내용5. 건강증진활동을 추진하기 위해 필요한 예산, 인력, 시설 및 장비의 확보6. 건강증진활동계획 추진상황 평가 및 계획의 재검토7. 그 밖에 근로자 건강증진활동에 필요한 조치② 사업주는 제1항에 따른 건강증진활동계획을 수립할 때에는 다음 각 호의 조치를 포함하여야 한다.1. 법 제43조제5항에 따른 건강진단결과 사후관리조치2. 안전보건규칙 제660조제2항에 따른 근골격계질환 징후가 나타난 근로자에 대한 사후조치3. 안전보건규칙 제669조에 따른 직무스트레스에 의한 건강장해 예방조치③ 상시 근로자 50명 미만을 사용하는 사업장의 사업주는 근로자건강센터를 활용하여 건강증진활동계획을 수립ㆍ시행할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "산업안전보건법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:근로자건강증진활동지침#JO0004",
+            "reference_id": "law:산업안전보건법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "제43조제5항",
+            "line_text": "",
+            "target_law_name": "산업안전보건법",
+            "target_article_no": "제43조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법/제43조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:근로자건강증진활동지침#JO0004",
+            "reference_id": "law:산업안전보건법#JO0043"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "안전보건규칙",
+            "line_text": "",
+            "target_law_name": "산업안전보건기준에 관한 규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건기준에 관한 규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:근로자건강증진활동지침#JO0004",
+            "reference_id": "law:산업안전보건기준에관한규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "제660조제2항",
+            "line_text": "",
+            "target_law_name": "산업안전보건기준에 관한 규칙",
+            "target_article_no": "제660조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건기준에 관한 규칙/제660조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:근로자건강증진활동지침#JO0004",
+            "reference_id": "law:산업안전보건기준에관한규칙#JO0660"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "안전보건규칙",
+            "line_text": "",
+            "target_law_name": "산업안전보건기준에 관한 규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건기준에 관한 규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:근로자건강증진활동지침#JO0004",
+            "reference_id": "law:산업안전보건기준에관한규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "제669조",
+            "line_text": "",
+            "target_law_name": "산업안전보건기준에 관한 규칙",
+            "target_article_no": "제669조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건기준에 관한 규칙/제669조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:근로자건강증진활동지침#JO0004",
+            "reference_id": "law:산업안전보건기준에관한규칙#JO0669"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:근로자건강증진활동지침#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "건강증진활동의 추진체제",
+        "chapter": "제2장 사업장에서의 근로자 건강증진활동계획 수립ㆍ시행, 추진체계, 평가 등",
+        "content": "제5조(건강증진활동의 추진체제) ① 사업주는 건강증진활동이 지속적으로 추진될 수 있도록 건강증진활동의 총괄 부서 및 건강증진활동추진자를 정하여야 한다.② 사업주는 산업안전보건위원회 또는 노사협의회에서 사업장 건강증진활동 계획을 심의하도록 하여야 한다.③ 사업주는 근로자 건강증진활동에 필요한 부서별 실무 담당자를 정하고, 그 담당자와 건강증진활동추진자가 협력하여 건강증진활동계획에 관한 실시 체제를 확립하도록 하여야 한다.④ 사업주는 사업장에 영양사가 있는 경우에는 건강증진활동추진자와 영양사가 협력하여 영양개선활동을 하도록 하여야 한다.⑤ 사업주는 건강증진활동추진과 관련이 있는 사람에게 그 활동에 필요한 교육을 받도록 하여야 한다.⑥ 사업주는 건강증진활동을 추진하는 경우 외부 건강증진 전문가 또는 근로자건강센터 등 전문기관을 활용할 수 있다. 이 경우 사업주는 외부 전문가 또는 전문기관의 의견을 청취하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:근로자건강증진활동지침#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "근로자의 건강증진활동 참여",
+        "chapter": "제2장 사업장에서의 근로자 건강증진활동계획 수립ㆍ시행, 추진체계, 평가 등",
+        "content": "제6조(근로자의 건강증진활동 참여) 근로자는 사업주가 추진하는 건강증진활동에 적극 참여하고, 자신의 건강증진을 위하여 스스로 노력하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:근로자건강증진활동지침#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "건강증진활동의 실시결과 평가 및 반영",
+        "chapter": "제2장 사업장에서의 근로자 건강증진활동계획 수립ㆍ시행, 추진체계, 평가 등",
+        "content": "제7조(건강증진활동의 실시결과 평가 및 반영) 사업주는 건강증진활동을 효율적으로 추진하기 위하여 사업장의 건강증진활동 실시결과를 정기적으로 평가하여 제4조에 따른 건강증진활동계획 수립에 반영하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "산업안전보건법",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법/제4조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:근로자건강증진활동지침#JO0007",
+            "reference_id": "law:산업안전보건법#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:근로자건강증진활동지침#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "정부의 지원",
+        "chapter": "제3장 지원 및 혜택",
+        "content": "제8조(정부의 지원) ① 고용노동부장관은 근로자 건강증진활동을 효율적으로 추진하기 위하여 다음 각 호의 사항을 강구하여야 한다.1. 정책의 수립ㆍ집행ㆍ조정2. 교육ㆍ홍보3. 기술의 연구ㆍ개발 및 시설의 설치ㆍ운영4. 조사 및 통계의 유지ㆍ관리5. 관련기관 등에 대한 지원ㆍ지도ㆍ감독6. 건강증진활동 우수사업장 선정7. 그 밖에 건강증진활동 추진에 관한 사항② 고용노동부장관은 제1항 각 호의 사항을 효율적으로 수행하기 위하여 한국산업안전보건공단(이하 \"공단\"이라 한다)으로 하여금 사업주의 신청을 받아 근로자 건강증진활동지원사업을 시행하게 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:근로자건강증진활동지침#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "건강증진활동 지원신청",
+        "chapter": "제3장 지원 및 혜택",
+        "content": "제9조(건강증진활동 지원신청) ① 건강증진활동에 대한 지원을 받으려는 사업주는 별지 서식의 근로자 건강증진활동 지원신청서를 공단 산하 관할 지역본부장 또는 지사장에게 제출하여야 한다.② 공단은 \"건강증진활동 지원신청서\"를 제출한 사업장 중 300인미만 사업장에 대하여 건강증진활동 지원혜택을 우선적으로 제공할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:근로자건강증진활동지침#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "사업주에 대한 지원",
+        "chapter": "제3장 지원 및 혜택",
+        "content": "제10조(사업주에 대한 지원) ① 공단은 제9조에 따라 건강증진활동을 추진하는 사업주에게 건강증진활동에 대한 방법 지도, 관련 자료의 제공ㆍ교육, 추진계획의 작성ㆍ수행ㆍ평가 등 필요한 지원을 할 수 있다.② 공단은 건강증진활동을 추진하는 사업주에게 예산이 허용하는 범위에서 외부 전문가 또는 전문기관을 통한 교육ㆍ상담 등을 지원하거나 근로자건강센터를 활용하여 지원할 수 있다.③ 공단은 근로자 건강증진활동을 위한 시설 및 기기 등에 대하여 「산업재해예방시설자금 융자 및 보조업무처리규칙」에 따른 자금을 우선하여 지원할 수 있다.④ 공단은 상시 근로자 50인 미만 사업장에 대하여 건강증진활동을 우선하여 지원할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "제9조",
+            "line_text": "",
+            "target_law_name": "근로자 건강증진활동 지침",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/근로자 건강증진활동 지침/제9조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:근로자건강증진활동지침#JO0010",
+            "reference_id": "admrul:근로자건강증진활동지침#JO0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:근로자건강증진활동지침#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "건강증진활동 우수사업장에 대한 혜택",
+        "chapter": "제3장 지원 및 혜택",
+        "content": "제11조(건강증진활동 우수사업장에 대한 혜택) ① 공단은 건강증진활동이 우수한 사업장에 대하여 건강증진활동 우수사업장으로 선정하고, 상패를 줄 수 있다.② 고용노동부장관은 제1항에 따라 선정된 사업장에 대해서는 정부 포상 및 표창의 우선 추천 등 혜택을 부여할 수 있다.③ 제1항에 따라 선정된 사업장의 사업주는 건강증진활동추진자 및 건강증진활동 우수 부서에 대하여 표창ㆍ승급 등 자체 포상을 실시하여 건강증진활동이 활성화되도록 노력하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:근로자건강증진활동지침#JO0011"
+      },
+      {
+        "article_no": "제11조의2",
+        "article_title": "삭제",
+        "chapter": "제3장 지원 및 혜택",
+        "content": "제11조의2 삭제",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:근로자건강증진활동지침#JO0011_02"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "근로자건강센터 설치ㆍ운영 등",
+        "chapter": "제3장 지원 및 혜택",
+        "content": "제12조(근로자건강센터 설치ㆍ운영 등) ① 고용노동부장관은 소규모 사업장 근로자의 건강을 보호ㆍ증진하기 위하여 근로자건강센터(이하 ‘근로자건강센터’라 한다)를 설치ㆍ운영할 수 있다.② 근로자건강센터는 다음 각 호의 업무를 수행한다.1. 근로자 건강증진활동 지원2. 직업건강서비스 제공3. 직장 내 괴롭힘에 의한 건강장해 예방 지원4. 고객의 폭언등으로 인한 건강장해 예방 지원5. 산업재해 및 직업적 트라우마 상담6. 「안전보건규칙」 제669조에 따른 직무스트레스에 의한 건강장해 예방 지원7. 그 밖에 근로자의 건강을 보호ㆍ증진하기 위하여 필요한 사항③ 근로자건강센터의 종류, 구성, 설치 및 운영에 관한 사항은 공단이 고용노동부장관의 승인을 얻어 정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:근로자건강증진활동지침#JO0012"
+      },
+      {
+        "article_no": "제12조의2",
+        "article_title": "직업병 안심센터의 설치ㆍ운영 등",
+        "chapter": "제3장 지원 및 혜택",
+        "content": "제12조의2(직업병 안심센터의 설치ㆍ운영 등) ① 고용노동부장관은 직업성 질병의 발생 현황을 파악하고 적시 원인조사 등을 통해 근로자 등의 건강을 보호ㆍ증진하기 위하여 직업병 안심센터를 설치ㆍ운영할 수 있다.② 직업병 안심센터는 다음 각 호의 업무를 수행한다.1. 직업성 질병 의심사례 발굴2. 직업성 질병 의심자에 대한 건강상담 및 진료3. 산업안전보건감독관의 질병재해 수사 시 자문ㆍ현장조사 등 필요한 지원4. 그 밖에 근로자의 건강을 보호ㆍ증진하기 위하여 필요한 사항③ 직업병 안심센터의 종류, 구성, 설치ㆍ운영에 관한 사항은 직업병 안심센터 운영지침을 따른다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:근로자건강증진활동지침#JO0012_02"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "건강증진활동의 추진기법 보급",
+        "chapter": "제3장 지원 및 혜택",
+        "content": "제13조(건강증진활동의 추진기법 보급) 공단은 건강증진활동을 지원하기 위하여 다음 각 호의 사업을 하여야 한다.1. 건강증진활동 추진기법 및 관련 자료의 개발ㆍ보급2. 건강증진활동 모델 개발3. 건강증진활동 우수 사업장 발굴 및 홍보4. 사업장 건강증진활동추진자에 대한 교육5. 건강증진활동 전문가 양성6. 분야별 건강증진활동 전문가 및 전문기관 데이터베이스 구축7. 그 밖에 건강증진활동 추진에 관한 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:근로자건강증진활동지침#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "재검토기한",
+        "chapter": "제3장 지원 및 혜택",
+        "content": "제14조(재검토기한) 고용노동부장관은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2020년 1월 1일을 기준으로 매3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제14조",
+            "source_clause": "제14조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:근로자건강증진활동지침#JO0014",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:근로자건강증진활동지침#JO0014"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20101220",
+      "promulgation_no": "2010-35",
+      "content": "부칙 <제2010-35호,2010. 12. 20.>제1조(시행일) 이 규정은 2011년 1월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20130122",
+      "promulgation_no": "2013-6",
+      "content": "부칙 <제2013-6호,2013. 1. 22.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20151231",
+      "promulgation_no": "2015-104",
+      "content": "부칙 <제2015-104호,2015. 12. 31.>제1조(시행일) 이 고시는 2016년 1월 1일부터 시행한다.제2조(건강증진활동 우수사업장 혜택에 관한 경과조치) 이 지침 시행 전 우수사업장으로 인증을 받은 사업장은 제11조 개정 규정에 해당하는 선정을 받은 것으로 본다."
+    },
+    {
+      "promulgation_date": "20200107",
+      "promulgation_no": "2020-19",
+      "content": "부칙 <제2020-19호,2020. 1. 7.>이 고시는 2020년 1월 16일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20220325",
+      "promulgation_no": "2022-33",
+      "content": "부칙 <제2022-33호, 2022. 3. 25.>이 고시는 2022년 3월 25일부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별지",
+      "title": "근로자 건강증진활동 지원신청서",
+      "enforcement_date": "",
+      "content": "\n■ 별지 서식(개정안)\n\n근로자 건강증진활동 지원신청서\n\n※ [  ]에는 해당되는 곳에 √ 표시를 해주시기 바랍니다.\n─────┬──────────────────┬───────────┬──────────\n신청기관│사업장명                            │사업장관리번호        │사업개시번호\n├──────────────────┴───────────┴──────────\n│소재지\n├──────────────────┬──────────────────────\n│전화번호                            │팩스번호\n├───────┬──────────┼──────────────────────\n│대표자        │근로자수       명   │관할 지역본부(지사)\n│              │  (남   명, 여   명)│\n━━━━━┿━━━━━━━┷━┯━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━\n사업장  │관리책임자        │\n현  황  ├─────────┼───────────────────────────────\n│건강증진활동추진자│\n├─────────┼───────────────────────────────\n│보건관리자        │\n│(보건관리전문기관명)│\n├─────────┼───────────────────────────────\n│산업안전보건위원회│ [   ]있음    [   ]없음\n│(노사협의회)      │\n├─────────┼───────────────────────────────\n│노동조합          │ [   ]있음    [   ]없음\n━━━━━┷━━━━━━━━━┷━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━\n추진(예정) 중인 건강증진활동          │공단에 요청하는 사항\n────────────────────┼──────────────────────────\n[    ] 작업관련 뇌·심혈관질환예방    │[    ] 방문지원(기획, 추진방법 및 평가지원)\n[    ] 작업관련 근골격계질환예방      │[    ] 교육지원\n[    ] 직무스트레스 관리              │[    ] 자료지원(내용 :              )\n[    ] 조직차원의 생활습관개선        │[    ] 건강증진활동 우수사업장 선정\n[    ] 기타(                        ) │[    ] 기타(                          )\n━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n년         월         일장\n\n사업주 또는 대표자                        (서명 또는 인)\n\n한국산업안전보건공단 지역본부(지사)장 귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n처리절차\n───────────────────────────────────────────────\n\n┌──────┐      ┌────────┐    ┌───────┐    ┌─────────┐\n│신청서 작성 │    ?│접 수           │  ?│지원방법 구분 │  ?│건강증진활동 지원 │\n│            ├──  │                ├─  │              ├─  │                  │\n│            │      │                │    │              │    │                  │\n└──────┘      └────────┘    └───────┘    └─────────┘\n신청인                지역본부(지사)          지역본부              지역본부(지사)\n(지사)\n\n\n───────────────────────────────────────────────\n210mm×297mm(일반용지 60g/㎡(재활용품))\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=114754619",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=114754619",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:근로자건강증진활동지침#BJ0000",
+      "filename": "별지0_근로자 건강증진활동 지원신청서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "근로자 건강증진활동 지침 고시 전문(고용노동부고시제2022-33호).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=114749169",
+      "file_store_url": "",
+      "filename": "근로자 건강증진활동 지침 고시 전문(고용노동부고시제2022-33호).hwp"
+    },
+    {
+      "name": "조문별 제개정이유서(근로자건강증진활동지침).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=114749171",
+      "file_store_url": "",
+      "filename": "조문별 제개정이유서(근로자건강증진활동지침).hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 16,
+    "by_category": {
+      "법령": 14,
+      "행정규칙": 2
+    },
+    "by_relation_type": {
+      "citation": 15,
+      "internal_ref": 1
+    },
+    "articles_total": 16,
+    "articles_with_relations": 6,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 5,
+    "appendices_count": 1,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/근로자 건강증진활동 지침"
+  },
+  "provision_id": "admrul:근로자건강증진활동지침#DOC"
+}
