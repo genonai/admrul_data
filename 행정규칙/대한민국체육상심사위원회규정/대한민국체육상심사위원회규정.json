@@ -1,0 +1,516 @@
+{
+  "law_id": "2100000211766",
+  "mst": "2100000211766",
+  "law_name": "대한민국체육상심사위원회규정",
+  "law_abbr": "",
+  "law_type": "훈령",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000211766",
+  "promulgation_no": "463",
+  "promulgation_date": "20220602",
+  "enforcement_date": "20220602",
+  "revision_date": "20220602",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "문화체육관광부(체육정책과)",
+    "담당자명": "이정은",
+    "행정규칙종류코드": "B0001",
+    "행정규칙명": "대한민국체육상심사위원회규정",
+    "발령일자": "20220602",
+    "행정규칙종류": "훈령",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "문화체육관광부",
+    "전화번호": "044-203-3124",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1371000",
+    "생성일자": "20220603",
+    "행정규칙ID": "28316",
+    "시행일자": "20220602",
+    "담당부서기관코드": "1371773",
+    "발령번호": "463",
+    "행정규칙일련번호": "2100000211766",
+    "상위부처명": "문화체육관광부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n- 국가가 체육 분야에 공적이 있는 사람에 대하여 수여하는 대한민국체육상 중 장애인체육 부문에 ‘극복상’과 ‘특수체육상’의 명칭을 각각 ‘장애인경기상’과 ‘장애인체육상’으로 변경함으로써 장애를 극복의 대상으로 보도록 하는 사회적 편견을 줄이고, 장애인 체육 전반에 대한 기여를 포괄하여 수상자를 선정할 수 있도록 하는 등 현행 제도의 운영상 나타난 일부 미비점을 개선ㆍ보완하려는 것임.\n◇ 주요내용\n가. ‘극복상’,‘특수체육상’을 각각 ‘장애인경기상’,‘장애인체육상’으로 변경\n나.「상훈법 시행령」*에 따라 체육상심사위원회 구성을 기존 26명 이내에서 11명 이내로 조정\n- 분과위원회 규모도 전체 위원 수(11인)에 맞춰 분과수 및 위원수 조정\n* 「상훈법 시행령」 제2조 제2항은 공적심사위원회를 위원장을 포함한 6명 이상 11명 이하의 위원으로 구성토록 규정\n다. 기타 조문 정비\n-「대한민국체육상 심사위원회 규정(훈령)」의 조문 중「국민체육진흥법 시행규칙」의 근거 조항 표기가 부정확한 사항에 대한 정비",
+  "body": {
+    "format": "articles",
+    "article_count": 11,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규정은 「국민체육진흥법시행규칙」(이하 \"규칙\"이라 한다) 제26조에 따른 대한민국체육상심사위윈회(이하 \"위원회\"라 한다)의 구성ㆍ운영 등에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「국민체육진흥법시행규칙」",
+            "line_text": "",
+            "target_law_name": "국민체육진흥법시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국민체육진흥법시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:대한민국체육상심사위원회규정#JO0001",
+            "reference_id": "law:국민체육진흥법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제26조",
+            "line_text": "",
+            "target_law_name": "국민체육진흥법시행규칙",
+            "target_article_no": "제26조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국민체육진흥법시행규칙/제26조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:대한민국체육상심사위원회규정#JO0001",
+            "reference_id": "law:국민체육진흥법시행규칙#JO0026"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:대한민국체육상심사위원회규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "구성",
+        "chapter": "",
+        "content": "제2조(구성) ① 위원회는 위원장 1인과 10인 이내의 위원으로 구성한다.② 위원회에는 위원 전원으로 구성되는 전체위원회와 각 분과별 위원으로 구성되는 분과위원회를 둔다.③ 전체위원회 위원장(이하 \"위원장\"이라 한다)은 위원회를 대표하며, 수상 대상자 심의ㆍ선정에 관한 사무를 총괄한다.④ 위원장은 체육에 관한 학식과 경험이 풍부하고 신망이 높은 체육계 원로 중에서 문화체육관광부장관이 임명 또는 위촉한다.⑤ 위원회 구성 시기는 시상 해당 연도마다 구성함을 원칙으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:대한민국체육상심사위원회규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "분과위원회",
+        "chapter": "",
+        "content": "제3조(분과위원회) ① 규칙 제24조에 따른 대한민국체육상(이하\"체육상\"이라 한다) 종류별로 수상 대상자를 심의하기 위하여 다음 각 호의 분과위원회를 둘 수 있다.1. 경기상, 지도상 및 심판상 분과위원회2. 연구상, 진흥상 및 공로상 분과위원회3. 장애인경기상 및 장애인체육상 분과위원회② 각 분과위원회는 3인 이상 4인 이내의 위원으로 구성하며, 분과위원회의 위원장(이하 \"분과위원장\"이라 한다)은 분과위원 중에서 호선한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "규칙",
+            "line_text": "",
+            "target_law_name": "국민체육진흥법시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국민체육진흥법시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:대한민국체육상심사위원회규정#JO0003",
+            "reference_id": "law:국민체육진흥법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "제24조",
+            "line_text": "",
+            "target_law_name": "국민체육진흥법시행규칙",
+            "target_article_no": "제24조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국민체육진흥법시행규칙/제24조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:대한민국체육상심사위원회규정#JO0003",
+            "reference_id": "law:국민체육진흥법시행규칙#JO0024"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:대한민국체육상심사위원회규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "위원 위촉",
+        "chapter": "",
+        "content": "제4조(위원 위촉) ① 위원은 체육에 관한 학식과 경험이 풍부하고 덕망이 높은 인사 중에서 분과위원회별로 문화체육관광부장관이 임명 또는 위촉한다.② 문화체육관광부장관은 다음 각 호의 어느 하나에 해당하는 자를 심사위원으로 임명 또는 위촉하여서는 아니 된다.1. 피추천자와 민법 제767조에 의한 친족 또는 친족이었던 자2. 후보자 추천기관 또는 피추천자와 동일 기관에 재직 중인 자3. 피추천자의 코치ㆍ감독 또는 스승ㆍ제자 관계에 있거나 있었던 자4. 기타 피추천자와의 특수한 관계로 인하여 공정한 심사에 지장을 줄  수 있을 것으로 인정되는 자③ 위원은 제2항 각 호의 어느 하나에 해당되어 공정한 심사가 어렵다고 판단되는 때에는 문화체육관광부장관에게 회피를 신청하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "제767조",
+            "line_text": "",
+            "target_law_name": "민법",
+            "target_article_no": "제767조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/민법/제767조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:대한민국체육상심사위원회규정#JO0004",
+            "reference_id": "law:민법#JO0767"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:대한민국체육상심사위원회규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "회의",
+        "chapter": "",
+        "content": "제5조(회의) ① 위원회의 회의는 문화체육관광부장관 또는 위원장이 필요하다고 인정할 때에 소집하며 전체위원회는 위원장이, 분과위원회는 분과위원장이 각각 그 의장이 된다.② 위원회의 회의는 재적위원 과반수의 출석으로 개의하고, 출석위원 과반수의 찬성으로 의결한다. 다만, 전체위원회의 경우 위원장은 표결에 참여하지 않고 가부동수인 때에만 결정권을 가진다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:대한민국체육상심사위원회규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "심사",
+        "chapter": "",
+        "content": "제6조(심사) ① 분과위원회의 심사 대상자는 규칙 제25조에 따라 추천된 자로서 문화체육관광부장관의 심사요구가 있는 자에 한한다.② 분과위원회는 제7조의 심사기준에 따라 심사요구된 피추천자 중에서 시상인원의 2배수 범위 내에서 예비수상후보자를 선정한다.③ 전체위원회는 분과위원회에서 선정한 예비수상후보자의 자격, 공적사항, 결격사유, 시상취지 등을 종합적으로 심사하여 분야별 수상후보자를 최종적으로 선정한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "규칙",
+            "line_text": "",
+            "target_law_name": "국민체육진흥법시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국민체육진흥법시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:대한민국체육상심사위원회규정#JO0006",
+            "reference_id": "law:국민체육진흥법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "제25조",
+            "line_text": "",
+            "target_law_name": "국민체육진흥법시행규칙",
+            "target_article_no": "제25조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국민체육진흥법시행규칙/제25조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:대한민국체육상심사위원회규정#JO0006",
+            "reference_id": "law:국민체육진흥법시행규칙#JO0025"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "대한민국체육상심사위원회규정",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/대한민국체육상심사위원회규정/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:대한민국체육상심사위원회규정#JO0006",
+            "reference_id": "admrul:대한민국체육상심사위원회규정#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:대한민국체육상심사위원회규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "심사기준, 결격사유",
+        "chapter": "",
+        "content": "제7조(심사기준, 결격사유) ① 전체위원회 또는 분과위원회가 피추천자를 심사할 때에는 다음 각 호의 기준에 따라 수상취지에 적합한 자가 선정되도록 성실히 심사하여야 한다.1. 경기상 : 각종 대회 입상 등으로 국위를 선양하거나 경기력 향상에 크게 기여하여 모든 경기인의 귀감이 되는 선수 또는 팀2. 연구상 : 체육에 관한 연구업적으로 경기력 향상, 생활체육 진흥, 스포츠 산업 활성화 등 체육발전에 크게 기여한 사람 또는 단체3. 지도상 : 창의적이고 헌신적인 노력으로 우수선수의 발굴ㆍ지도ㆍ양성 및 생활체육 지도 등에 크게 기여하여 모든 체육인의 귀감이 되는 사람 또는 단체4. 심판상 : 공정하고 투명한 심판활동 및 여건 조성 등으로 공정 스포츠 구현에 크게 기여한 사람 또는 단체5. 공로상 : 체육행정, 재정지원, 체육홍보, 국제활동 등에 헌신적으로 노력하여 체육발전에 크게 기여한 사람, 단체 또는 기업체6. 진흥상 : 생활체육 현장 활동을 통한 생활체육 보급 및 확산, 체육진흥 여건 조성, 스포츠 산업 활성화 등에 노력하여 체육발전에 크게 기여한 사람 또는 단체7. 장애인경기상 : 각종 국내외 장애인 경기대회 입상 등으로 국위를 선양하거나 경기력 향상에 크게 기여하여 모든 장애체육인의 귀감이 되는 선수ㆍ지도자 또는 팀8. 장애인체육상 : 장애인체육과 관련한 지원ㆍ연구ㆍ국제활동 등에 헌신적으로 노력하거나 장애인 생활체육 보급 및 확산에 노력하여 장애인체육발전에 크게 기여한 사람 또는 단체② 다음 각 호의 어느 하나에 해당하는 자는 심사 대상에서 제외한다.1. 규칙 제24조 제1항에 정한 같은 종류의 대한민국체육상을 이미 받은 자2. 기소되어 형사재판에 계류 중인 자3. 금고 이상의 형을 받고 그 집행이 종료되거나 집행을 받지 아니하기로 확정된 후 3년이 지나지 아니한 자 (금고 이상 선고유예 기간 중인 자 포함)4. 산업안전보건법에 의한 산업재해 등과 관련하여 명단이 공포된 사업장과 그 임원, 공정거래 관련법 위반 법인 및 그 임원5. 기타 각종 비위, 부조리 및 도덕성에 흠이 있거나 사회적으로 지탄을 받는 행위 등으로 물의를 일으켜 정부포상이 합당치 않다고 판단되는 자",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "규칙",
+            "line_text": "",
+            "target_law_name": "국민체육진흥법시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국민체육진흥법시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:대한민국체육상심사위원회규정#JO0007",
+            "reference_id": "law:국민체육진흥법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "제24조",
+            "line_text": "",
+            "target_law_name": "국민체육진흥법시행규칙",
+            "target_article_no": "제24조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국민체육진흥법시행규칙/제24조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:대한민국체육상심사위원회규정#JO0007",
+            "reference_id": "law:국민체육진흥법시행규칙#JO0024"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:대한민국체육상심사위원회규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "심사결과 제출",
+        "chapter": "",
+        "content": "제8조(심사결과 제출) ① 분과위원회에서 제6조제2항에 따라 예비수상후보자를 선정한 때에는 분과위원장은 별지 제1호서식의 심사결과보고서를 위원장에게 제출하여야 한다.② 전체위원회에서 제6조제3항에 따라 분과별 수상후보자를 최종 선정한 때에는 위원장은 별지 제2호서식의 심사결과보고서를 문화체육관광부장관에게 제출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "제6조제2항",
+            "line_text": "",
+            "target_law_name": "대한민국체육상심사위원회규정",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/대한민국체육상심사위원회규정/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:대한민국체육상심사위원회규정#JO0008",
+            "reference_id": "admrul:대한민국체육상심사위원회규정#JO0006"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "대한민국체육상심사위원회규정",
+            "target_article_no": "별지1",
+            "target_article_title": "심사결과 보고서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116015303",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:대한민국체육상심사위원회규정#JO0008",
+            "reference_id": "admrul:대한민국체육상심사위원회규정#BJ0001"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제2항",
+            "link_text": "제6조제3항",
+            "line_text": "",
+            "target_law_name": "대한민국체육상심사위원회규정",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/대한민국체육상심사위원회규정/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:대한민국체육상심사위원회규정#JO0008",
+            "reference_id": "admrul:대한민국체육상심사위원회규정#JO0006"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제2항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "대한민국체육상심사위원회규정",
+            "target_article_no": "별지2",
+            "target_article_title": "심사결과 보고서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116015307",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:대한민국체육상심사위원회규정#JO0008",
+            "reference_id": "admrul:대한민국체육상심사위원회규정#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:대한민국체육상심사위원회규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "수당 등",
+        "chapter": "",
+        "content": "제9조(수당 등) 위원회에 참석한 위원에게는 예산의 범위 안에서 수당과 여비를 지급할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:대한민국체육상심사위원회규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "간사",
+        "chapter": "",
+        "content": "제10조(간사) ① 위원회에는 간사 1인을 두되, 문화체육관광부 체육국 체육정책과장이 된다.② 간사는 위원장의 명을 받아 회무를 정리하며, 회의에 출석하여 보고할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:대한민국체육상심사위원회규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "운영세칙",
+        "chapter": "",
+        "content": "제11조(운영세칙) 전체위원회 또는 분과위원회의 운영에 관하여 이 규정에서 정하지 아니한 사항은 전체위원회 또는 분과위원회에서 정할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:대한민국체육상심사위원회규정#JO0011"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20100512",
+      "promulgation_no": "126",
+      "content": "부칙 <제126호,2010. 5. 12.>(시행일) 이 규정은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20140318",
+      "promulgation_no": "221",
+      "content": "부칙 <제221호,2014. 3. 18.>(시행일) 이 규정은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20150707",
+      "promulgation_no": "260",
+      "content": "부칙 <제260호,2015. 7. 7.>(시행일) 이 규정은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20220602",
+      "promulgation_no": "463",
+      "content": "부칙 <제463호, 2022. 6. 2.>(시행일) 이 규정은 공포한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "심사결과 보고서",
+      "enforcement_date": "",
+      "content": "■ 대한민국체육상 심사위원회 규정 [별지 제1호 서식] <개정 0000.00.00.>\n심사결과 보고서\n(        )심사분과위원회에서는 제    회 (       )분야 대한민국체육상 피추천자 (    )명에 대하여 엄격한 심사를 하였으며, 선정된 예비수상후보자 명단을 다음과  같이 제출합니다.\n───┬───┬────┬────┬─────┬───────────\n순위│성 명 │생년월일│소   속 │직위(직급)│수상후보자 선정 배경\n───┼───┼────┼────┼─────┼───────────\n│      │        │        │          │\n───┼───┼────┼────┼─────┼───────────\n│      │        │        │          │\n───┼───┼────┼────┼─────┼───────────\n│      │        │        │          │\n───┴───┴────┴────┴─────┴───────────\n\n년    월    일\n(       )심사분과위원회 위원장\n(인)\n대한민국체육상심사위원회 위원장 귀하\n━━━━━━━━━━━━━━━━━━━━━━\n210mm×297mm[일반용지 60g/㎡(재활용품)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116015303",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116015303",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:대한민국체육상심사위원회규정#BJ0001",
+      "filename": "별지1_심사결과 보고서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "심사결과 보고서",
+      "enforcement_date": "",
+      "content": "■ 대한민국체육상 심사위원회 규정 [별지 제2호 서식] <개정 2022.6.2.>\n심사결과 보고서\n대한민국체육상 전체심사위원회에서는 제   회 대한민국체육상 예비수상후보자 (      )명에 대하여 엄격한 심사를 하였으며, 각 분야별로 선정된 최종 수상후보자 명단을 다음과 같이 제출합니다.\n────────┬───┬────┬────┬──────\n구분│성  명│생년월일│소   속 │직위(직급)\n분야별       │      │        │        │\n────────┼───┼────┼────┼──────\n경기분야      │      │        │        │\n────────┼───┼────┼────┼──────\n연구분야      │      │        │        │\n────────┼───┼────┼────┼──────\n지도분야      │      │        │        │\n────────┼───┼────┼────┼──────\n심판분야      │      │        │        │\n────────┼───┼────┼────┼──────\n공로분야      │      │        │        │\n────────┼───┼────┼────┼──────\n진흥분야      │      │        │        │\n────────┼───┼────┼────┼──────\n장애인경기분야│      │        │        │\n────────┼───┼────┼────┼──────\n장애인체육분야│      │        │        │\n────────┴───┴────┴────┴──────\n년    월    일\n대한민국체육상 전체심사위원회 위원장\n(인)\n문화체육관광부장관 귀하\n━━━━━━━━━━━━━━━━━━━━━━\n210mm×297mm[일반용지 60g/㎡(재활용품)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116015307",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116015307",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:대한민국체육상심사위원회규정#BJ0002",
+      "filename": "별지2_심사결과 보고서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "대한민국체육상심사위원회규정 일부개정 전문.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=115983157",
+      "file_store_url": "",
+      "filename": "대한민국체육상심사위원회규정 일부개정 전문.hwp"
+    },
+    {
+      "name": "조문별제개정이유서_대한민국체육상심사위원회규정.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=115983159",
+      "file_store_url": "",
+      "filename": "조문별제개정이유서_대한민국체육상심사위원회규정.hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 14,
+    "by_category": {
+      "법령": 9,
+      "행정규칙": 3,
+      "별지": 2
+    },
+    "by_relation_type": {
+      "citation": 9,
+      "internal_ref": 3,
+      "appendix_ref": 2
+    },
+    "articles_total": 11,
+    "articles_with_relations": 6,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 4,
+    "appendices_count": 2,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/대한민국체육상심사위원회규정"
+  },
+  "provision_id": "admrul:대한민국체육상심사위원회규정#DOC"
+}
