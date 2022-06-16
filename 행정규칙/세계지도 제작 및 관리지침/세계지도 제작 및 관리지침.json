@@ -1,0 +1,724 @@
+{
+  "law_id": "2100000212163",
+  "mst": "2100000212163",
+  "law_name": "세계지도 제작 및 관리지침",
+  "law_abbr": "",
+  "law_type": "예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000212163",
+  "promulgation_no": "344",
+  "promulgation_date": "20220616",
+  "enforcement_date": "20220616",
+  "revision_date": "20220616",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국토지리정보원(지리정보과)",
+    "담당자명": "조혜경",
+    "행정규칙종류코드": "B0002",
+    "행정규칙명": "세계지도 제작 및 관리지침",
+    "발령일자": "20220616",
+    "행정규칙종류": "예규",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국토지리정보원",
+    "전화번호": "031-210-2735",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1613000",
+    "생성일자": "20220702",
+    "행정규칙ID": "2048048",
+    "시행일자": "20220616",
+    "담당부서기관코드": "1613441",
+    "발령번호": "344",
+    "행정규칙일련번호": "2100000212163",
+    "상위부처명": "국토교통부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\nㅇ 세계지도(1:33,000,000 및 1:40,000,000)의 제작에 대한 디자인개선과 색맹, 색약 등 색각이상자가 색을 구분할 수 있도록 색상값을 적용하고 이에 대한 기준을 정비하고자 함\n\n◇ 주요내용\nㅇ 색각이상자용 세계지도 제작을 위한 지도제작 적용범위 확대(안 제3조)\nㅇ 세계지도 주기표현방법 일부 수정(안 제7조)\n- 기존 인구 규모별로 도시를 표현해 오던 방법에서 국가 수도 및 주요도시로 구분하여 표현하는 방법으로 변경\nㅇ 재검토기한 재설정(안 제15조)\n-「행정규제기본법」 및 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 일몰기한이 도래되는 행정규칙에 대해 재검토기한 연장\nㅇ 주기표기기준 신설(안 별표7)\n- 색각이상자용 세계지도 제작을 위한 색상값 등 기준 설정",
+  "body": {
+    "format": "articles",
+    "article_count": 16,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장  총칙",
+        "content": "제1조(목적) 이 지침은 세계지도의 제작에 필요한 절차 및 방법과 효율적 관리ㆍ이용ㆍ배포 등에 관한 세부사항을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:세계지도제작및관리지침#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "제1장  총칙",
+        "content": "제2조(정의) \"세계지도\"라 함은 독립국가로 인정된 세계 모든 국가의 경계, 지명 등을 표시한 지도를 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:세계지도제작및관리지침#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "적용범위",
+        "chapter": "제1장  총칙",
+        "content": "제3조(적용범위) ① 이 지침은 세계지도 제작 및 관리ㆍ이용ㆍ배포 등의 업무에 한하여 적용되며, 관계규정에서 별도로 규정하고 있는 경우를 제외하고는 이 지침에서 정하는 바에 따른다.② 「공간정보의 구축 및 관리 등에 관한 법률」 제15조제1항에 따라 색맹ㆍ색약 등 색각이상자가 보는 데 지장이 없는 세계지도를 별도로 제작하여야 하며 표현기준은 별표 7을 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "「공간정보의 구축 및 관리 등에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "공간정보의 구축 및 관리 등에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공간정보의 구축 및 관리 등에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:세계지도제작및관리지침#JO0003",
+            "reference_id": "law:공간정보의구축및관리등에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "제15조제1항",
+            "line_text": "",
+            "target_law_name": "공간정보의 구축 및 관리 등에 관한 법률",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공간정보의 구축 및 관리 등에 관한 법률/제15조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:세계지도제작및관리지침#JO0003",
+            "reference_id": "law:공간정보의구축및관리등에관한법률#JO0015"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "별표 7",
+            "line_text": "",
+            "target_law_name": "세계지도 제작 및 관리지침",
+            "target_article_no": "별표7",
+            "target_article_title": "주기표기기준",
+            "appendix_no": "7",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000212163&bylNo=0007&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:세계지도제작및관리지침#JO0003",
+            "reference_id": "admrul:세계지도제작및관리지침#BYL0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:세계지도제작및관리지침#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "자료수집",
+        "chapter": "제1장  총칙",
+        "content": "제4조(자료수집) ① 세계지도에 수록되는 도형이나 문자정보(별표1) 등의 수정갱신을 위하여 각국의 지도제작기관, 국내외 지도제작 전문회사, 관계기관(외교부, 국정원) 등에서 세계지도를 수집한다.② 국가경계, 분쟁지역지명, 독도, 대한해협, 백두산, 간도, 동해의 지명 등 국내외적으로 민감한 사안에 대해서는 외교부 등 관련기관의 의견을 반드시 수렴하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "별표1",
+            "line_text": "",
+            "target_law_name": "세계지도 제작 및 관리지침",
+            "target_article_no": "별표1",
+            "target_article_title": "세계지도에 수록되는 정보",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000212163&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:세계지도제작및관리지침#JO0004",
+            "reference_id": "admrul:세계지도제작및관리지침#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:세계지도제작및관리지침#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "제작절차",
+        "chapter": "제1장  총칙",
+        "content": "제5조(제작절차) 세계지도 등의 제작을 위한 작업은 다음 순서에 따른다.1. 제작계획 수립 및 준비2. 자료수집 및 관련기관 의견조회3. 수집자료 검증 및 자문위원회 자문4. 자료편집 등 제작5. 검수6. 인쇄 및 배포",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:세계지도제작및관리지침#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "투영법 및 경위도 표시방법",
+        "chapter": "제1장  총칙",
+        "content": "제6조(투영법 및 경위도 표시방법) ① 투영법은 세계지도 표현에 용이한 투영법으로 제작한다.② 경ㆍ위도선은 투영법, 축척 및 용지규격 등을 고려하여 실선으로 표시하고 남ㆍ북회귀선 및 남ㆍ북극권은 파선으로 표시한다.③ 우리나라가 세계지도의 중앙에 위치하도록 표시하여 제작한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:세계지도제작및관리지침#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "제작방법",
+        "chapter": "제1장  총칙",
+        "content": "제7조(제작방법) ① 세계지도 제작을 위하여 수집된 자료는 자문위원회의 검토를 거쳐 편집 자료로 활용하여야 하며, 다음 각 호의 방법으로 표시한다.1. 육지부분은 지형도 개념으로 표현한다.2. 육지의 색상은 높이에 따라 8단계(해면하 지역 및 0∼200m, 200  ∼500m, 500∼1,000m, 1,000∼2,000m, 2,000∼3,000m, 3,000∼4,000m, 4,000∼5,000m, 5,000m 이상)로 구분하되, 저지대는 녹색계통으로 중ㆍ고지대는 갈색계통으로 구분하는 등 음영기복을 나타내도록 한다.3. 바다의 색상은 8단계(0∼200m, 200∼1,000m, 1,000∼2,000m, 2,000  ∼3,000m, 3,000∼4,000m, 4,000∼5,000m, 5,000∼6,000m, 6,000m 이하)로 구분하되, 육지에 가까운 수심이 낮은 곳은 연한 청색으로 수심이 깊은 곳은 짙은 청색으로 구분하고 수심의 차이에 따라 색상의 농도를 조절하여 표시한다.4. 육지부분의 국가 간의 경계는 파선에 붉은 실선으로 덮어 표시   하며, 분쟁지역의 국가경계선은 표시하지 않고 분쟁지역의 지명은 병기 표기함을 원칙으로 한다. 우리나라 경계는 헌법에 의한다.5. 대륙, 호수, 섬 등의 해안선을 표시한다.6. 항공노선 표시는 국적 항공사(대한항공, 아시아나항공 등)의 운항노선을 우선적으로 표시하며, 근거리(중국, 일본 등)항공노선은 주 10회 이상 운항 노선을 표시하고 원거리 노선은 전체 노선을 표시한다. (축척 1:40,000,000의 지도에만 적용)7. 주요 도시간의 연결철도 및 주요 도로를 표시한다.8. 사막, 습지, 해면 하 지역(카스피 해, 네덜란드), 염호(사해, 아랄  해), 유빙의 한계, 영구빙의 한계 등을 기호화 또는 색상으로 구분하여 표시한다.9. 독립국가로 인정된 세계 모든 국가의 국명, 수도명 및 주요도시      명을 표기한다.10. 수도 및 주요 도시의 표시는 세계 모든 국가의 수도와 주요도시로 구분하여 표시한다.11. 5대양 6대주의 명칭 및 해, 강, 호, 만, 곶, 반도, 제도, 군도, 섬      명칭 등을 표기한다.12. 세계적으로 유명한 산맥, 산, 고원, 분지, 지역, 사막 명칭 등을      표기한다.13. 세계지도에 표현해야 할 정보는 별표1과 같다.② 기타 제작에 필요한 사항은 국제적 관례에 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "별표1",
+            "line_text": "",
+            "target_law_name": "세계지도 제작 및 관리지침",
+            "target_article_no": "별표1",
+            "target_article_title": "세계지도에 수록되는 정보",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000212163&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:세계지도제작및관리지침#JO0007",
+            "reference_id": "admrul:세계지도제작및관리지침#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:세계지도제작및관리지침#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "지명 표기 원칙",
+        "chapter": "제1장  총칙",
+        "content": "제8조(지명 표기 원칙) ① 지명의 로마자 표기방법은 「국어기본법」에 따라 고시된 「로마자표기법」에 따라 표기한다.② 외국의 지명은 「외래어표기법」에 준하여 표기한다.③ 지명이 고유명사로 세계적으로 알려진 지명 등은 현재 사용되고    있는 명칭을 표기하는 것을 원칙으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "「국어기본법」",
+            "line_text": "",
+            "target_law_name": "국어기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국어기본법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:세계지도제작및관리지침#JO0008",
+            "reference_id": "law:국어기본법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제2항",
+            "link_text": "「외래어표기법」",
+            "line_text": "",
+            "target_law_name": "외래어표기법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/외래어표기법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:세계지도제작및관리지침#JO0008",
+            "reference_id": "law:외래어표기법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "「로마자표기법」",
+            "line_text": "제8조(지명 표기 원칙) ① 지명의 로마자 표기방법은 「국어기본법」에 따라 고시된 「로마자표기법」에 따라 표기한다.② 외국의 지명은 「외래어표기법」에 준하여 표기한다.③ 지명이 고유명사로 세계적으로 알려진 지명 등은 현재 사용되고    있는 명칭을 표기하는 것을 원칙으로 한다.",
+            "target_law_name": "로마자표기법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/로마자표기법",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:세계지도제작및관리지침#JO0008",
+            "reference_id": "law:로마자표기법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:세계지도제작및관리지침#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "자문위원회 구성 및 운영",
+        "chapter": "제1장  총칙",
+        "content": "제9조(자문위원회 구성 및 운영) ① 자문위원회는 각계의 전문가 5인 이내로 구성ㆍ운영한다.② 자문위원은 지리학, 국어학 또는 로마자 표기 전문가, 색상, 지도제작 등과 관련된 전문가를 위원으로 위촉한다.③ 국토지리정보원장은 필요할 경우 자문위원회를 구성하여 세계지도제작 등과 관련된 안건에 대하여 자문을 받아야 한다.④ 자문위원회 자문을 받아야할 사항은 다음 각 호와 같다.1. 국가경계2. 지명의 로마자 표기3. 표현색상4. 기타 지도제작 전반에 관한 사항⑤ 국토지리정보원장은 예산의 범위내에서 자문수당을 지급한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:세계지도제작및관리지침#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "난외주기",
+        "chapter": "제1장  총칙",
+        "content": "제10조(난외주기) ① 난외주기는 다음사항을 표기한다.1. 명칭2. 투영방법(축척)3. 발행기관4. 범례② 기타 국토지리정보원장이 필요하다고 인정하는 주기를 표기한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:세계지도제작및관리지침#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "최종 성과물 검사",
+        "chapter": "제1장  총칙",
+        "content": "제11조(최종 성과물 검사) ① 작업수행자는 각 공정별 작업진행에 맞게 성과물을 원색으로 출력하여 감독관에게 검사를 받아야 한다.② 검사관은 성과물의 인수와 함께 성과물의 현황 및 상태를 점검하고, 자문위원회 자문사항 등 주요변경사항에 대한 검수를 실시하여야 한다.③ 검사관은 별표2의 서식에 따른 검수결과 보고서를 작성하여 제출하여야 한다.④ 로마자 및 한글 지명표기는 우리 원 국토조사과와 협의 후 국립국어원의 검수를 득한다.⑤ 최종 검사는 인쇄용 양판필름으로 출력하여 납품용 인쇄용지에 인쇄하되 내용 전반에 대한 최종 검사를 득한 후 본 인쇄를 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제3항",
+            "link_text": "별표2",
+            "line_text": "",
+            "target_law_name": "세계지도 제작 및 관리지침",
+            "target_article_no": "별표2",
+            "target_article_title": "검수 결과 보고서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000212163&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:세계지도제작및관리지침#JO0011",
+            "reference_id": "admrul:세계지도제작및관리지침#BYL0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:세계지도제작및관리지침#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "인쇄",
+        "chapter": "제1장  총칙",
+        "content": "제12조(인쇄) ① 최종 인쇄는 별표3의 주요작업기준에 적합하게 제작하여야 하며, 인쇄잉크는 색상의 내구성이 우수하여 변색되지 않고 장시간 유지될 수 있도록 내광성이 뛰어난 잉크를 사용하여야 한다.② 인쇄물은 최신의 오프셋 인쇄기를 사용하여 성과물이 정교하게 표현될 수 있도록 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "별표3",
+            "line_text": "",
+            "target_law_name": "세계지도 제작 및 관리지침",
+            "target_article_no": "별표3",
+            "target_article_title": "주요작업기준",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000212163&bylNo=0003&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:세계지도제작및관리지침#JO0012",
+            "reference_id": "admrul:세계지도제작및관리지침#BYL0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:세계지도제작및관리지침#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "보안 및 성과납품",
+        "chapter": "제1장  총칙",
+        "content": "제13조(보안 및 성과납품) ① 세계지도 제작시 생성, 수집된 자료를 타 목적으로 사용하거나 누설되지 않도록 인수ㆍ인계를 철저히 한다.② 납품하여야 할 성과품은 다음과 같다.1. 원판데이터파일(CD-ROM)2. 인쇄용 양판필름3. 용역결과보고서4. 기타 세계지도 제작과 관련하여 수집한 자료 일체",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:세계지도제작및관리지침#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "이용 및 관리",
+        "chapter": "제1장  총칙",
+        "content": "제14조(이용 및 관리) ① 국토지리정보원장은 세계지도를 영리목적으로 판매하여 수익을 창출하거나 무단으로 편집하여 사용하는 등 저작권을 침해하는 경우가 아닌 때에는 세계지도의 이용을 제한하지 아니한다.② 국토지리정보원장은 홈페이지에 세계지도를 종이지도, 전자지도, 웹서비스 지도로 제작하여 관리하고 전자지도는 그림파일 형태와 지리정보시스템 소프트웨어에서 이용할 수 있는 형태로 제작하고 이를 홈페이지에 게재하여 공공기관, 교육기관, 연구기관, 박물관 등에서 쉽게 사용ㆍ활용이 가능하도록 하여야 한다.③ 우리나라 홍보자료 및 교육자료 등의 용도로 세계지도(종이지도)송부 요청 시 원활히 보급될 수 있도록 제작ㆍ관리하여야 하며, 별표4의 서식의 관리대장을 작성, 비치하여야 한다.④ 세계지도를 수정할 경우 별표5와 같이 이력관리 대장에 그 수정이력을 표시하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제3항",
+            "link_text": "별표4",
+            "line_text": "",
+            "target_law_name": "세계지도 제작 및 관리지침",
+            "target_article_no": "별표4",
+            "target_article_title": "관리대장",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000212163&bylNo=0004&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:세계지도제작및관리지침#JO0014",
+            "reference_id": "admrul:세계지도제작및관리지침#BYL0004"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제4항",
+            "link_text": "별표5",
+            "line_text": "",
+            "target_law_name": "세계지도 제작 및 관리지침",
+            "target_article_no": "별표5",
+            "target_article_title": "이력관리대장",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000212163&bylNo=0005&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:세계지도제작및관리지침#JO0014",
+            "reference_id": "admrul:세계지도제작및관리지침#BYL0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:세계지도제작및관리지침#JO0014"
+      },
+      {
+        "article_no": "제14조의2",
+        "article_title": "메타데이터의 작성",
+        "chapter": "제1장  총칙",
+        "content": "제14조의2(메타데이터의 작성) ① 세계 지도 제작에 사용되는 데이터의 이력은 별도로 관리하여 지속적인 갱신이 가능하도록 한다.② 사용되는 모든 데이터는 레이어로 관리하도록 한다.③ 메타데이터 작성 항목은 별표6에 의한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제14조의2",
+            "source_clause": "제14조의2제3항",
+            "link_text": "별표6",
+            "line_text": "",
+            "target_law_name": "세계지도 제작 및 관리지침",
+            "target_article_no": "별표6",
+            "target_article_title": "메타데이터 작성 항목",
+            "appendix_no": "6",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000212163&bylNo=0006&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:세계지도제작및관리지침#JO0014_02",
+            "reference_id": "admrul:세계지도제작및관리지침#BYL0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:세계지도제작및관리지침#JO0014_02"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "재검토기한",
+        "chapter": "제1장  총칙",
+        "content": "제15조(재검토기한) 국토지리정보원장은 「행정규제기본법」 및 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 지침에 대하여 2022년 7월 1일을 기준으로 매3년이 되는 시점(매3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조",
+            "link_text": "「행정규제기본법」",
+            "line_text": "",
+            "target_law_name": "행정규제기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/행정규제기본법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:세계지도제작및관리지침#JO0015",
+            "reference_id": "law:행정규제기본법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제15조",
+            "source_clause": "제15조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:세계지도제작및관리지침#JO0015",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:세계지도제작및관리지침#JO0015"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20100520",
+      "promulgation_no": "17",
+      "content": "부칙 <제17호,2010. 5. 20.>제1조(시행일) 이 지침은 2010년 5월 20일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20130411",
+      "promulgation_no": "53",
+      "content": "부칙 <제53호,2013. 4. 11.>제1조(시행일) 이 지침은 개정일로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20150203",
+      "promulgation_no": "81",
+      "content": "부칙 <제81호,2015. 2. 3.>제1조(시행일) 이 지침은 개정일로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20190522",
+      "promulgation_no": "2019-144",
+      "content": "부칙 <제2019-144호,2019. 5. 22.>제1조(시행일) 이 고시는 2019년 7월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20220616",
+      "promulgation_no": "344",
+      "content": "부칙 <제344호, 2022. 6. 16.>이 예규는 발령한 날부터 시행한다. 다만, 별표 7 중 색각이상자용 지도 제작 관련 개정규정은 2022년 7월 21일부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "세계지도에 수록되는 정보",
+      "enforcement_date": "",
+      "content": "[별표1] 세계지도에 수록되는 정보\n┌───┬───────┬───┬─────┐\n│대분류│중분류        │소분류│항목      │\n├───┼───────┼───┼─────┤\n│도형  │육상정보      │경계  │대륙경계  │\n│정보  │              │      ├─────┤\n│      │              │      │국가경계  │\n│      │              │      ├─────┤\n│      │              │      │지역경계  │\n│      │              │      ├─────┤\n│      │              │      │분쟁지역  │\n│      │              │      ├─────┤\n│      │              │      │날짜변경선│\n│      │              ├───┼─────┤\n│      │              │지형  │고도      │\n│      │              │      ├─────┤\n│      │              │      │산맥      │\n│      │              │      ├─────┤\n│      │              │      │호수      │\n│      │              │      ├─────┤\n│      │              │      │강        │\n│      │              │      ├─────┤\n│      │              │      │사막      │\n│      │              │      ├─────┤\n│      │              │      │음영기복  │\n│      │              ├───┼─────┤\n│      │              │교통  │도로      │\n│      │              │      ├─────┤\n│      │              │      │철도      │\n│      │              │      ├─────┤\n│      │              │      │공항      │\n│      ├───────┼───┼─────┤\n│      │해상정보      │경계  │해안선    │\n│      │              │      ├─────┤\n│      │              │      │수심      │\n│      │              │      ├─────┤\n│      │              │      │빙하      │\n│      │              │      ├─────┤\n│      │              │      │국가경계  │\n│      │              │      ├─────┤\n│      │              │      │지역경계  │\n│      │              ├───┼─────┤\n│      │              │지형  │해안선    │\n│      │              │      ├─────┤\n│      │              │      │수심      │\n│      │              │      ├─────┤\n│      │              │      │빙하      │\n├───┼───────┼───┼─────┤\n│속성  │면데이터 속성 │국가  │인구      │\n│정보  │              │      ├─────┤\n│      │              │      │면적      │\n│      │              │      ├─────┤\n│      │              │      │국가명    │\n│      ├───────┼───┼─────┤\n│      │점데이터 속성 │도시  │인구      │\n│      │              │      ├─────┤\n│      │              │      │도시명    │\n└───┴───────┴───┴─────┘\n┌───┬────┬───────┬─────┐\n│대분류│중분류  │소분류        │항목      │\n├───┼────┼───────┼─────┤\n│문자  │인문지명│행정지명      │국가명    │\n│정보  │        │              ├─────┤\n│      │        │              │지역명    │\n│      │        │              ├─────┤\n│      │        │              │도시명    │\n│      │        ├───────┼─────┤\n│      │        │시설지명      │철도명    │\n│      │        │              ├─────┤\n│      │        │              │기지명    │\n│      ├────┼───────┼─────┤\n│      │자연지명│육지지명      │대륙명    │\n│      │        │              ├─────┤\n│      │        │              │산맥명    │\n│      │        │              ├─────┤\n│      │        │              │산명      │\n│      │        │              ├─────┤\n│      │        │              │호수명    │\n│      │        │              ├─────┤\n│      │        │              │강명      │\n│      │        │              ├─────┤\n│      │        │              │사막명    │\n│      │        │              ├─────┤\n│      │        │              │고원명    │\n│      │        │              ├─────┤\n│      │        │              │분지명    │\n│      │        │              ├─────┤\n│      │        │              │대지명    │\n│      │        ├───────┼─────┤\n│      │        │해양지명      │제도명    │\n│      │        │              ├─────┤\n│      │        │              │섬명      │\n│      │        │              ├─────┤\n│      │        │              │해명      │\n│      │        │              ├─────┤\n│      │        │              │만명      │\n│      │        │              ├─────┤\n│      │        │              │곶명      │\n│      │        │              ├─────┤\n│      │        │              │해협명    │\n├───┼────┼───────┼─────┤\n│난외  │도형정보│도곽선        │외도곽선  │\n│주기  │        │              ├─────┤\n│      │        │              │내도곽선  │\n│      │        ├───────┼─────┤\n│      │        │경위도선      │경위도선  │\n│      │        │              ├─────┤\n│      │        │              │회귀선    │\n│      │        │              ├─────┤\n│      │        │              │극권      │\n│      │        ├───────┼─────┤\n│      │        │기호          │축척      │\n│      │        │              ├─────┤\n│      │        │              │시계      │\n│      ├────┼───────┼─────┤\n│      │문자정보│투영법        │투영법    │\n│      │        │              ├─────┤\n│      │        │              │타원체    │\n│      │        ├───────┼─────┤\n│      │        │판권 및 저작권│제작시기  │\n│      │        │              ├─────┤\n│      │        │              │제작기관  │\n│      │        │              ├─────┤\n│      │        │              │사용데이터│\n│      │        ├───────┼─────┤\n│      │        │경위도 값     │경도      │\n│      │        │              ├─────┤\n│      │        │              │위도      │\n└───┴────┴───────┴─────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000212163&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116268813",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116268813",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:세계지도제작및관리지침#BYL0001",
+      "filename": "별표1_세계지도에 수록되는 정보.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "검수 결과 보고서",
+      "enforcement_date": "",
+      "content": "[별표2]\n검수 결과 보고서\n┏━━━━━━━━━━━━━━━━┯━━━━━┯━━┓\n┃검 사 항 목                     │의      견│비고┃\n┠────────────────┼─────┼──┨\n┃1. 일반사항                     │          │    ┃\n┠────────────────┼─────┼──┨\n┃가. 자료수집의 적절성           │          │    ┃\n┠────────────────┼─────┼──┨\n┃나. 외교통상부 등 관련기관      │          │    ┃\n┃   의견 반영 여부               │          │    ┃\n┠────────────────┼─────┼──┨\n┃다. 자문내용 반영 여부          │          │    ┃\n┠────────────────┼─────┼──┨\n┃2. 세부작업내용                 │          │    ┃\n┠────────────────┼─────┼──┨\n┃가. 투영법, 경?위도표시 적절성 │          │    ┃\n┠────────────────┼─────┼──┨\n┃나. 표현색상 적절성             │          │    ┃\n┠────────────────┼─────┼──┨\n┃다. 로마자표기의 적절성         │          │    ┃\n┠────────────────┼─────┼──┨\n┃라. 별표1에 수록되는 정보의     │          │    ┃\n┃    적절성                      │          │    ┃\n┠────────────────┼─────┼──┨\n┃3. 기타 의견                    │          │    ┃\n┠────────────────┼─────┼──┨\n┃4. 종합 의견                    │          │    ┃\n┗━━━━━━━━━━━━━━━━┷━━━━━┷━━┛\n20   .   .   .\n소     속\n직     급\n성     명                  (인)",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000212163&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116268819",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116268819",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:세계지도제작및관리지침#BYL0002",
+      "filename": "별표2_검수 결과 보고서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "주요작업기준",
+      "enforcement_date": "",
+      "content": "[별표3]\n주요작업기준\n┏━━━━┯━━━━━━━━━━━━━━━━━━━━┯━━━┓\n┃구    분│작   업   기   준                       │비 고 ┃\n┠────┼────────────────────┼───┨\n┃규    격│  가로 110cm × 세로 80cm               │      ┃\n┠────┼────────────────────┼───┨\n┃지명표기│  한글판 또는 로마자 표기판 등          │      ┃\n┠────┼────────────────────┼───┨\n┃표현방법│  등고선과 수심선을 표시한 지형도로 제작│      ┃\n┠────┼────────────────────┼───┨\n┃용지규격│  4×6전지 1매                          │      ┃\n┠────┼────────────────────┼───┨\n┃인쇄용지│  스노우화이트 150g                     │      ┃\n┠────┼────────────────────┼───┨\n┃색    상│  4도(먹색, 청색, 적색, 황색)           │      ┃\n┗━━━━┷━━━━━━━━━━━━━━━━━━━━┷━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000212163&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116268823",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116268823",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:세계지도제작및관리지침#BYL0003",
+      "filename": "별표3_주요작업기준.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별표",
+      "title": "관리대장",
+      "enforcement_date": "",
+      "content": "[별표4]\n관 리 대 장\n┏━━━┯━━━━━━━━━━━┯━━━━━━━┯━━━━━━┯━━┓\n┃날 짜 │수   량               │신 청 인      │사 용 목 적 │비고┃\n┃      ├───┬───┬───┼───┬───┤            │    ┃\n┃      │입  고│출  고│재  고│소  속│성  명│            │    ┃\n┠───┼───┼───┼───┼───┼───┼──────┼──┨\n┃      │      │      │      │      │      │            │    ┃\n┠───┼───┼───┼───┼───┼───┼──────┼──┨\n┃      │      │      │      │      │      │            │    ┃\n┠───┼───┼───┼───┼───┼───┼──────┼──┨\n┃      │      │      │      │      │      │            │    ┃\n┠───┼───┼───┼───┼───┼───┼──────┼──┨\n┃      │      │      │      │      │      │            │    ┃\n┠───┼───┼───┼───┼───┼───┼──────┼──┨\n┃      │      │      │      │      │      │            │    ┃\n┠───┼───┼───┼───┼───┼───┼──────┼──┨\n┃      │      │      │      │      │      │            │    ┃\n┠───┼───┼───┼───┼───┼───┼──────┼──┨\n┃      │      │      │      │      │      │            │    ┃\n┠───┼───┼───┼───┼───┼───┼──────┼──┨\n┃      │      │      │      │      │      │            │    ┃\n┠───┼───┼───┼───┼───┼───┼──────┼──┨\n┃      │      │      │      │      │      │            │    ┃\n┠───┼───┼───┼───┼───┼───┼──────┼──┨\n┃      │      │      │      │      │      │            │    ┃\n┠───┼───┼───┼───┼───┼───┼──────┼──┨\n┃      │      │      │      │      │      │            │    ┃\n┠───┼───┼───┼───┼───┼───┼──────┼──┨\n┃      │      │      │      │      │      │            │    ┃\n┠───┼───┼───┼───┼───┼───┼──────┼──┨\n┃      │      │      │      │      │      │            │    ┃\n┠───┼───┼───┼───┼───┼───┼──────┼──┨\n┃      │      │      │      │      │      │            │    ┃\n┠───┼───┼───┼───┼───┼───┼──────┼──┨\n┃      │      │      │      │      │      │            │    ┃\n┠───┼───┼───┼───┼───┼───┼──────┼──┨\n┃      │      │      │      │      │      │            │    ┃\n┠───┼───┼───┼───┼───┼───┼──────┼──┨\n┃      │      │      │      │      │      │            │    ┃\n┠───┼───┼───┼───┼───┼───┼──────┼──┨\n┃      │      │      │      │      │      │            │    ┃\n┠───┼───┼───┼───┼───┼───┼──────┼──┨\n┃      │      │      │      │      │      │            │    ┃\n┠───┼───┼───┼───┼───┼───┼──────┼──┨\n┃      │      │      │      │      │      │            │    ┃\n┠───┼───┼───┼───┼───┼───┼──────┼──┨\n┃      │      │      │      │      │      │            │    ┃\n┠───┼───┼───┼───┼───┼───┼──────┼──┨\n┃      │      │      │      │      │      │            │    ┃\n┠───┼───┼───┼───┼───┼───┼──────┼──┨\n┃      │      │      │      │      │      │            │    ┃\n┠───┼───┼───┼───┼───┼───┼──────┼──┨\n┃      │      │      │      │      │      │            │    ┃\n┠───┼───┼───┼───┼───┼───┼──────┼──┨\n┃      │      │      │      │      │      │            │    ┃\n┗━━━┷━━━┷━━━┷━━━┷━━━┷━━━┷━━━━━━┷━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000212163&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116268827",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116268827",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:세계지도제작및관리지침#BYL0004",
+      "filename": "별표4_관리대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별표",
+      "title": "이력관리대장",
+      "enforcement_date": "",
+      "content": "[별표5]\n이력관리대장\n┏━━┯━━━━┯━━━━━━┯━━━━━━┯━━━━┯━━━━┯━━┓\n┃연번│변경날짜│수정 전     │수정 후     │수정사유│분쟁지역│비고┃\n┃    │        │세계지도 No.│세계지도 No.│        │및 지명 │    ┃\n┠──┼────┼──────┼──────┼────┼────┼──┨\n┃1   │        │            │            │        │        │    ┃\n┠──┼────┼──────┼──────┼────┼────┼──┨\n┃2   │        │            │            │        │        │    ┃\n┠──┼────┼──────┼──────┼────┼────┼──┨\n┃3   │        │            │            │        │        │    ┃\n┠──┼────┼──────┼──────┼────┼────┼──┨\n┃4   │        │            │            │        │        │    ┃\n┠──┼────┼──────┼──────┼────┼────┼──┨\n┃5   │        │            │            │        │        │    ┃\n┠──┼────┼──────┼──────┼────┼────┼──┨\n┃6   │        │            │            │        │        │    ┃\n┠──┼────┼──────┼──────┼────┼────┼──┨\n┃7   │        │            │            │        │        │    ┃\n┠──┼────┼──────┼──────┼────┼────┼──┨\n┃8   │        │            │            │        │        │    ┃\n┠──┼────┼──────┼──────┼────┼────┼──┨\n┃9   │        │            │            │        │        │    ┃\n┠──┼────┼──────┼──────┼────┼────┼──┨\n┃10  │        │            │            │        │        │    ┃\n┗━━┷━━━━┷━━━━━━┷━━━━━━┷━━━━┷━━━━┷━━┛\n※수정 전ㆍ후의 세계지도는 인쇄물에 번호를 부여하여 관리한다.",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000212163&bylNo=0005&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116268831",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116268831",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:세계지도제작및관리지침#BYL0005",
+      "filename": "별표5_이력관리대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별표",
+      "title": "메타데이터 작성 항목",
+      "enforcement_date": "",
+      "content": "[별표6]\n메타데이터 작성 항목\n┏━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━┯━━┓\n┃구 분       │작성 항목                                   │비고┃\n┠──────┼──────────────────────┼──┨\n┃일반적 요소 │ 제작목적, 제작자, 연락처, 제작시기, 주요어 │    ┃\n┠──────┼──────────────────────┼──┨\n┃데이터 품질 │ 위치정확도, 속성정확도                     │    ┃\n┠──────┼──────────────────────┼──┨\n┃위치데이터  │ 데이터 형식, 구조화 편집, 원 자료          │    ┃\n┠──────┼──────────────────────┼──┨\n┃속성데이터  │ 데이터 항목, 데이터 범위, 원 자료          │    ┃\n┠──────┼──────────────────────┼──┨\n┃좌표계      │ 좌표계, 투영법, 기준타원체                 │    ┃\n┠──────┼──────────────────────┼──┨\n┃저작권      │ 저작권, 배포가능여부, 갱신내역             │    ┃\n┗━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━┷━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000212163&bylNo=0006&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116268835",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116268835",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:세계지도제작및관리지침#BYL0006",
+      "filename": "별표6_메타데이터 작성 항목.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "별표",
+      "title": "주기표기기준",
+      "enforcement_date": "",
+      "content": "[별표7]\n□ 주기표기기준(기본)\n┌───────┬───────────┬──────┬───┬────────┬───────┐\n│명 칭         │표현                  │글자간격    │크기  │색상            │서체          │\n│              │                      │(최소∼최대)│(Pt)  ├─┬─┬─┬──┤              │\n│              │                      │            │      │C │M │Y │K   │              │\n├───────┼───────────┼──────┼───┼─┼─┼─┼──┼───────┤\n│국가명        │대한민국              │0-100       │5.5-16│0 │0 │0 │100 │Noto Sans KR  │\n│              │이집트                │            │      │  │  │  │    │Black         │\n│              │콜롬비아              │            │      │  │  │  │    │              │\n│              │볼리비아              │            │      │  │  │  │    │              │\n│              │헝가리                │            │      │  │  │  │    │              │\n│              │도미니카              │            │      │  │  │  │    │              │\n├───────┼───────────┼──────┼───┼─┼─┼─┼──┼───────┤\n│수도명        │서울                  │0           │6     │0 │0 │0 │100 │Noto Sans KR  │\n│              │                      │            │      │  │  │  │    │Bold          │\n├───────┼───────────┼──────┼───┼─┼─┼─┼──┼───────┤\n│도시명        │세종                  │0           │5     │0 │0 │0 │100 │Noto Sans KR  │\n│              │                      │            │      │  │  │  │    │Bold          │\n├───────┼───────────┼──────┼───┼─┼─┼─┼──┼───────┤\n│지역명        │시베리아              │0-300       │7-12  │67│62│62│54  │Noto Sans KR  │\n│              │파타고니아            │            │      │  │  │  │    │Bold          │\n├───────┼───────────┼──────┼───┼─┼─┼─┼──┤              │\n│지역명(극지방)│라플랜드              │0           │8     │91│65│30│11  │              │\n├───────┼───────────┼──────┼───┼─┼─┼─┼──┼───────┤\n│산맥          │로키산맥              │0-4000      │6-8   │47│68│85│58  │Noto Sans KR  │\n│              │알프스산맥            │            │      │  │  │  │    │Bold          │\n│              ├───────────┤            │      ├─┼─┼─┼──┤              │\n│              │글자배경              │            │      │0 │0 │0 │0   │              │\n├───────┼───────────┼──────┼───┼─┼─┼─┼──┼───────┤\n│산            │백두산                │0           │5     │0 │0 │0 │100 │Noto Sans KR  │\n│              │                      │            │      │  │  │  │    │Bold          │\n├───────┼───────────┼──────┼───┼─┼─┼─┼──┼───────┤\n│산높이        │산높이                │0           │4.5   │0 │0 │0 │100 │Noto Sans KR  │\n│              │                      │            │      │  │  │  │    │Medium        │\n├───────┼───────────┼──────┼───┼─┼─┼─┼──┼───────┤\n│사막          │사하라사막            │0-800       │6-12  │25│80│91│17  │Noto Sans KR  │\n│              │리비아사막            │            │      │  │  │  │    │Bold          │\n│              │시리아사막            │            │      │  │  │  │    │              │\n│              ├───────────┤            │      ├─┼─┼─┼──┤              │\n│              │글자배경              │            │      │0 │0 │0 │0   │              │\n├───────┼───────────┼──────┼───┼─┼─┼─┼──┼───────┤\n│고원          │파미르고원            │0           │7     │73│46│95│46  │Noto Sans KR  │\n│              ├───────────┤            │      ├─┼─┼─┼──┤Bold          │\n│              │글자배경              │            │      │0 │0 │0 │0   │              │\n├───────┼───────────┼──────┼───┼─┼─┼─┼──┼───────┤\n│분지          │콩고분지              │0           │6     │0 │0 │0 │100 │Noto Sans KR  │\n│              │                      │            │      │  │  │  │    │Medium        │\n├───────┼───────────┼──────┼───┼─┼─┼─┼──┼───────┤\n│대지          │유럽대평원            │0           │6     │0 │0 │0 │100 │Noto Sans KR  │\n│              │                      │            │      │  │  │  │    │Medium        │\n├───────┼───────────┼──────┼───┼─┼─┼─┼──┼───────┤\n│계곡          │그랜드캐니언          │0           │6     │0 │0 │0 │100 │Noto Sans KR  │\n│              │                      │            │      │  │  │  │    │Medium        │\n├───────┼───────────┼──────┼───┼─┼─┼─┼──┼───────┤\n│곶            │페어웰곶              │0           │6-7   │0 │0 │0 │100 │Noto Sans KR  │\n│              │                      │            │      │  │  │  │    │Medium        │\n├───────┼───────────┼──────┼───┼─┼─┼─┼──┼───────┤\n│해안          │말라바르해안          │0           │6-7   │0 │0 │0 │100 │Noto Sans KR  │\n│              │                      │            │      │  │  │  │    │Medium        │\n├───────┼───────────┼──────┼───┼─┼─┼─┼──┼───────┤\n│반도          │발칸반도              │0           │6-7   │0 │0 │0 │100 │Noto Sans KR  │\n│              │                      │            │      │  │  │  │    │Medium        │\n├───────┼───────────┼──────┼───┼─┼─┼─┼──┼───────┤\n│빙모          │돔찰리                │0           │7     │0 │0 │0 │100 │Noto Sans KR  │\n│              │                      │            │      │  │  │  │    │Medium        │\n├───────┼───────────┼──────┼───┼─┼─┼─┼──┼───────┤\n│대륙명        │아시아                │400-1000    │21    │0 │0 │0 │100 │Noto Sans KR  │\n│              │                      │            │      │  │  │  │    │Black         │\n├───────┼───────────┼──────┼───┼─┼─┼─┼──┼───────┤\n│만            │알래스카만            │0           │5.5-12│91│65│30│11  │Noto Sans KR  │\n│              │타이만                │            │      │  │  │  │    │Black         │\n│              │한국만                │            │      │  │  │  │    │              │\n├───────┼───────────┼──────┼───┼─┼─┼─┼──┼───────┤\n│해명          │산호해                │0-250       │6-12  │91│65│30│11  │Noto Sans KR  │\n│              │홍해                  │            │      │  │  │  │    │Bold          │\n│              │말루쿠해              │            │      │  │  │  │    │              │\n├───────┼───────────┼──────┼───┼─┼─┼─┼──┼───────┤\n│해협          │데이비스해협          │0-250       │6-11  │91│65│30│11  │Noto Sans KR  │\n│              │에게해                │            │      │  │  │  │    │Bold          │\n│              │대한해협              │            │      │  │  │  │    │              │\n├───────┼───────────┼──────┼───┼─┼─┼─┼──┼───────┤\n│강            │양쯔강                │0-100       │5-7   │91│65│30│11  │Noto Sans KR  │\n│              │마모레강              │            │      │  │  │  │    │Bold          │\n│              │메콩강                │            │      │  │  │  │    │              │\n├───────┼───────────┼──────┼───┼─┼─┼─┼──┼───────┤\n│호수          │아랄해                │0           │6     │91│65│30│11  │Noto Sans KR  │\n│              │                      │            │      │  │  │  │    │Medium        │\n├───────┼───────────┼──────┼───┼─┼─┼─┼──┼───────┤\n│대양명        │태평양                │700-1000    │24    │91│65│30│11  │Noto Sans KR  │\n│              │                      │            │      │  │  │  │    │Black         │\n├───────┼───────────┼──────┼───┼─┼─┼─┼──┼───────┤\n│제도          │영국제도              │0-2000      │6-8   │73│63│62│60  │Noto Sans KR  │\n│              │                      │            │      │  │  │  │    │Medium        │\n├───────┼───────────┼──────┼───┼─┼─┼─┼──┼───────┤\n│섬            │그린란드              │0           │5-12  │73│63│62│60  │Noto Sans KR  │\n│              │뱅크스섬              │            │      │  │  │  │    │Medium        │\n│              │독도                  │            │      │  │  │  │    │              │\n├───────┼───────────┼──────┼───┼─┼─┼─┼──┼───────┤\n│과학기지명    │세종과학기지(대한민국)│0           │5     │0 │0 │0 │100 │Noto Sans KR  │\n│              │                      │            │      │  │  │  │    │Medium        │\n└───────┴───────────┴──────┴───┴─┴─┴─┴──┴───────┘\n□ 색각이상자 주기표기기준(적색약맹)\n┌───────┬──┬──────┬───┬───────┬───────┐\n│명 칭         │표현│글자간격    │크기  │색상          │서체          │\n│              │    │(최소∼최대)│(Pt)  ├─┬─┬─┬─┤              │\n│              │    │            │      │C │M │Y │K │              │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│국가명        │    │0-100       │5.5-16│75│68│67│87│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Black         │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│수도명        │    │0           │5.5-6 │75│68│67│87│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Bold          │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│도시명        │    │0           │4.5-5 │75│68│67│87│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Bold          │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│지역명        │    │0-300       │7-14  │68│62│62│54│Noto Sans KR  │\n├───────┼──┼──────┼───┼─┼─┼─┼─┤Bold          │\n│지역명(극지방)│    │0           │8     │94│76│40│29│              │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│산맥          │    │0-4000      │6-8   │55│59│78│51│Noto Sans KR  │\n│              │    │            │      ├─┼─┼─┼─┤Bold          │\n│              │    │            │      │0 │0 │0 │0 │              │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│산            │    │0           │5     │75│68│67│87│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Bold          │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│산높이        │    │0           │4.5   │75│68│67│87│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│사막          │    │0-800       │6-12  │32│53│59│9 │Noto Sans KR  │\n│              │    │            │      ├─┼─┼─┼─┤Bold          │\n│              │    │            │      │0 │0 │0 │0 │              │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│고원          │    │0           │7     │68│51│93│54│Noto Sans KR  │\n│              │    │            │      ├─┼─┼─┼─┤Bold          │\n│              │    │            │      │0 │0 │0 │0 │              │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│분지          │    │0           │6     │75│68│67│87│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│대지          │    │0           │6     │75│68│67│87│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│계곡          │    │0           │6     │75│68│67│87│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│곶            │    │0           │6-7   │75│68│67│87│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│해안          │    │0           │6-7   │75│68│67│87│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│반도          │    │0           │6-7   │75│68│67│87│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│빙모          │    │0           │7     │75│68│67│87│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│대륙명        │    │400-1000    │21    │75│68│67│87│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Black         │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│만            │    │0-250       │5.5-12│94│76│40│29│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Black         │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│해명          │    │0-250       │6-13  │94│76│40│29│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Bold          │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│해협          │    │0-250       │6-11  │94│76│40│29│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Bold          │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│강            │    │0-100       │5-7   │94│76│40│29│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Bold          │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│호수          │    │0           │6     │94│76│40│29│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│대양명        │    │700-1000    │24    │94│76│40│29│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Black         │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│제도          │    │0-2000      │6-8   │72│64│62│62│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│섬            │    │0           │5-12  │72│64│62│62│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│과학기지명    │    │0           │5     │75│68│67│87│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│항로          │    │0-500       │6     │30│57│0 │0 │Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Medium        │\n└───────┴──┴──────┴───┴─┴─┴─┴─┴───────┘\n□ 색각이상자 주기표기기준(녹색약맹)\n┌───────┬──┬──────┬───┬───────┬───────┐\n│명 칭         │표현│글자간격    │크기  │색상          │서체          │\n│              │    │(최소∼최대)│(Pt)  ├─┬─┬─┬─┤              │\n│              │    │            │      │C │M │Y │K │              │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│국가명        │    │0-100       │5.5-16│75│68│67│87│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Black         │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│수도명        │    │0           │5.5-6 │75│68│67│87│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Bold          │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│도시명        │    │0           │4.5-5 │75│68│67│87│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Bold          │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│지역명        │    │0-300       │7-14  │67│62│62│54│Noto Sans KR  │\n├───────┼──┼──────┼───┼─┼─┼─┼─┤Bold          │\n│지역명(극지방)│    │0           │8     │90│63│43│26│              │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│산맥          │    │0-4000      │6-8   │50│66│74│55│Noto Sans KR  │\n│              │    │            │      ├─┼─┼─┼─┤Bold          │\n│              │    │            │      │0 │0 │0 │0 │              │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│산            │    │0           │5     │75│68│67│87│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Bold          │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│산높이        │    │0           │4.5   │75│68│67│87│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│사막          │    │0-800       │6-12  │30│71│56│12│Noto Sans KR  │\n│              │    │            │      ├─┼─┼─┼─┤Bold          │\n│              │    │            │      │0 │0 │0 │0 │              │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│고원          │    │0           │7     │71│48│96│51│Noto Sans KR  │\n│              │    │            │      ├─┼─┼─┼─┤Bold          │\n│              │    │            │      │0 │0 │0 │0 │              │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│분지          │    │0           │6     │75│68│67│87│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│대지          │    │0           │6     │75│68│67│87│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│계곡          │    │0           │6     │75│68│67│87│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│곶            │    │0           │6-7   │75│68│67│87│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│해안          │    │0           │6-7   │75│68│67│87│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│반도          │    │0           │6-7   │75│68│67│87│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│빙모          │    │0           │7     │75│68│67│87│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│대륙명        │    │400-1000    │21    │75│68│67│87│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Black         │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│만            │    │0-250       │5.5-12│90│63│43│26│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Black         │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│해명          │    │0-250       │6-13  │90│63│43│26│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Bold          │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│해협          │    │0-250       │6-11  │90│63│43│26│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Bold          │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│강            │    │0-100       │5-7   │90│63│43│26│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Bold          │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│호수          │    │0           │6     │90│63│43│26│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│대양명        │    │700-1000    │24    │90│63│43│26│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Black         │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│제도          │    │0-2000      │6-8   │72│63│64│64│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│섬            │    │0           │5-12  │72│63│64│64│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│과학기지명    │    │0           │5     │75│68│67│87│Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼─┼─┼───────┤\n│항로          │    │0-500       │6     │90│91│9 │1 │Noto Sans KR  │\n│              │    │            │      │  │  │  │  │Medium        │\n└───────┴──┴──────┴───┴─┴─┴─┴─┴───────┘\n□ 색각이상자 주기표기기준(청색약맹)\n┌───────┬──┬──────┬───┬────────┬───────┐\n│명 칭         │표현│글자간격    │크기  │색상            │서체          │\n│              │    │(최소∼최대)│(Pt)  ├─┬─┬──┬─┤              │\n│              │    │            │      │C │M │Y   │K │              │\n├───────┼──┼──────┼───┼─┼─┼──┼─┼───────┤\n│국가명        │    │0-100       │5.5-16│73│66│68  │85│Noto Sans KR  │\n│              │    │            │      │  │  │    │  │Black         │\n├───────┼──┼──────┼───┼─┼─┼──┼─┼───────┤\n│수도명        │    │0           │5.5-6 │73│66│68  │85│Noto Sans KR  │\n│              │    │            │      │  │  │    │  │Bold          │\n├───────┼──┼──────┼───┼─┼─┼──┼─┼───────┤\n│도시명        │    │0           │4.5-5 │73│66│68  │85│Noto Sans KR  │\n│              │    │            │      │  │  │    │  │Bold          │\n├───────┼──┼──────┼───┼─┼─┼──┼─┼───────┤\n│지역명        │    │0-300       │7-14  │70│67│56  │52│Noto Sans KR  │\n├───────┼──┼──────┼───┼─┼─┼──┼─┤Bold          │\n│지역명(극지방)│    │0           │8     │83│38│100 │33│              │\n├───────┼──┼──────┼───┼─┼─┼──┼─┼───────┤\n│산맥          │    │0-4000      │6-8   │84│97│19  │7 │Noto Sans KR  │\n│              │    │            │      ├─┼─┼──┼─┤Bold          │\n│              │    │            │      │0 │0 │0   │0 │              │\n├───────┼──┼──────┼───┼─┼─┼──┼─┼───────┤\n│산            │    │0           │5     │73│66│68  │85│Noto Sans KR  │\n│              │    │            │      │  │  │    │  │Bold          │\n├───────┼──┼──────┼───┼─┼─┼──┼─┼───────┤\n│산높이        │    │0           │4.5   │73│66│68  │85│Noto Sans KR  │\n│              │    │            │      │  │  │    │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼──┼─┼───────┤\n│사막          │    │0-800       │6-12  │57│75│1   │0 │Noto Sans KR  │\n│              │    │            │      ├─┼─┼──┼─┤Bold          │\n│              │    │            │      │0 │0 │0   │0 │              │\n├───────┼──┼──────┼───┼─┼─┼──┼─┼───────┤\n│고원          │    │0           │7     │71│46│99  │45│Noto Sans KR  │\n│              │    │            │      ├─┼─┼──┼─┤Bold          │\n│              │    │            │      │0 │0 │0   │0 │              │\n├───────┼──┼──────┼───┼─┼─┼──┼─┼───────┤\n│분지          │    │0           │6     │73│66│68  │85│Noto Sans KR  │\n│              │    │            │      │  │  │    │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼──┼─┼───────┤\n│대지          │    │0           │6     │73│66│68  │85│Noto Sans KR  │\n│              │    │            │      │  │  │    │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼──┼─┼───────┤\n│계곡          │    │0           │6     │73│66│68  │85│Noto Sans KR  │\n│              │    │            │      │  │  │    │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼──┼─┼───────┤\n│곶            │    │0           │6-7   │73│66│68  │85│Noto Sans KR  │\n│              │    │            │      │  │  │    │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼──┼─┼───────┤\n│해안          │    │0           │6-7   │73│66│68  │85│Noto Sans KR  │\n│              │    │            │      │  │  │    │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼──┼─┼───────┤\n│반도          │    │0           │6-7   │73│66│68  │85│Noto Sans KR  │\n│              │    │            │      │  │  │    │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼──┼─┼───────┤\n│빙모          │    │0           │7     │73│66│68  │85│Noto Sans KR  │\n│              │    │            │      │  │  │    │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼──┼─┼───────┤\n│대륙명        │    │400-1000    │21    │73│66│68  │85│Noto Sans KR  │\n│              │    │            │      │  │  │    │  │Black         │\n├───────┼──┼──────┼───┼─┼─┼──┼─┼───────┤\n│만            │    │0-250       │5.5-12│83│38│100 │33│Noto Sans KR  │\n│              │    │            │      │  │  │    │  │Black         │\n├───────┼──┼──────┼───┼─┼─┼──┼─┼───────┤\n│해명          │    │0-250       │6-13  │83│38│100 │33│Noto Sans KR  │\n│              │    │            │      │  │  │    │  │Bold          │\n├───────┼──┼──────┼───┼─┼─┼──┼─┼───────┤\n│해협          │    │0-250       │6-11  │83│38│100 │33│Noto Sans KR  │\n│              │    │            │      │  │  │    │  │Bold          │\n├───────┼──┼──────┼───┼─┼─┼──┼─┼───────┤\n│강            │    │0-100       │5-7   │83│38│100 │33│Noto Sans KR  │\n│              │    │            │      │  │  │    │  │Bold          │\n├───────┼──┼──────┼───┼─┼─┼──┼─┼───────┤\n│호수          │    │0           │6     │83│38│100 │33│Noto Sans KR  │\n│              │    │            │      │  │  │    │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼──┼─┼───────┤\n│대양명        │    │700-1000    │24    │83│38│100 │33│Noto Sans KR  │\n│              │    │            │      │  │  │    │  │Black         │\n├───────┼──┼──────┼───┼─┼─┼──┼─┼───────┤\n│제도          │    │0-2000      │6-8   │69│56│79  │67│Noto Sans KR  │\n│              │    │            │      │  │  │    │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼──┼─┼───────┤\n│섬            │    │0           │5-12  │69│56│79  │67│Noto Sans KR  │\n│              │    │            │      │  │  │    │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼──┼─┼───────┤\n│과학기지명    │    │0           │5     │73│66│68  │85│Noto Sans KR  │\n│              │    │            │      │  │  │    │  │Medium        │\n├───────┼──┼──────┼───┼─┼─┼──┼─┼───────┤\n│항로          │    │0-500       │6     │45│80│1   │0 │Noto Sans KR  │\n│              │    │            │      │  │  │    │  │Medium        │\n└───────┴──┴──────┴───┴─┴─┴──┴─┴───────┘\n□ 기호표기기준(기본)\n┌─────┬──┬───────────────────┬───┐\n│명 칭     │유형│도 식 규 정                           │구분  │\n│          │    ├────────┬──┬──┬──┬─┤      │\n│          │    │표현            │C   │M   │Y   │K │      │\n├─────┼──┼────────┼──┼──┼──┼─┼───┤\n│대륙경계  │선  │                │8   │72  │93  │0 │      │\n├─────┼──┼────────┼──┼──┼──┼─┼───┤\n│국가경계  │선  │                │4   │1   │0   │72│내부  │\n│          │    │                ├──┼──┼──┼─┼───┤\n│          │    │                │11  │31  │6   │0 │외부  │\n├─────┼──┼────────┼──┼──┼──┼─┼───┤\n│분쟁경계  │선  │                │0   │100 │70  │0 │      │\n├─────┼──┼────────┼──┼──┼──┼─┼───┤\n│주요철도  │선  │                │8   │6   │5   │0 │색상1 │\n│          │    │                ├──┼──┼──┼─┼───┤\n│          │    │                │45  │36  │36  │1 │색상2 │\n├─────┼──┼────────┼──┼──┼──┼─┼───┤\n│주요도로  │선  │                │59  │40  │29  │2 │      │\n├─────┼──┼────────┼──┼──┼──┼─┼───┤\n│항로      │선  │                │94  │54  │0   │0 │색상1 │\n│          │    ├────────┼──┼──┼──┼─┼───┤\n│          │    │                │3   │100 │15  │0 │색상2 │\n├─────┼──┼────────┼──┼──┼──┼─┼───┤\n│수도      │점  │ (1.473x1.473mm)│32  │98  │100 │1 │      │\n├─────┼──┼────────┼──┼──┼──┼─┼───┤\n│도시      │점  │ (1.468x1.468mm)│75  │70  │65  │28│      │\n├─────┼──┼────────┼──┼──┼──┼─┼───┤\n│과학기지  │점  │ (1.802x1.802mm)│66  │60  │57  │41│      │\n├─────┼──┼────────┼──┼──┼──┼─┼───┤\n│산        │점  │ (1.829x1.482mm)│79  │52  │85  │68│      │\n├─────┼──┼────────┼──┼──┼──┼─┼───┤\n│사막      │패턴│                │10  │0   │49  │34│      │\n├─────┼──┼────────┼──┼──┼──┼─┼───┤\n│강, 호수  │면  │                │35  │0   │0   │0 │      │\n│          ├──┤                ├──┼──┼──┼─┤      │\n│          │선  │                │100 │60  │0   │0 │      │\n├─────┼──┼┬───────┼──┴──┴──┴─┼───┤\n│육지      │음영││고도(m)       │색상                │      │\n│          │    │├───────┼──┬──┬──┬─┤      │\n│          │    ││5,000 이상    │50  │0   │70  │26│      │\n│          │    │├───────┼──┼──┼──┼─┤      │\n│          │    ││4,000-5,000   │33  │0   │69  │23│      │\n│          │    │├───────┼──┼──┼──┼─┤      │\n│          │    ││3,000-4,000   │15  │0   │68  │14│      │\n│          │    │├───────┼──┼──┼──┼─┤      │\n│          │    ││2,000-3,000   │10  │0   │66  │11│      │\n│          │    │├───────┼──┼──┼──┼─┤      │\n│          │    ││1,000-2,000   │1   │0   │68  │17│      │\n│          │    │├───────┼──┼──┼──┼─┤      │\n│          │    ││500-1,000     │5   │0   │67  │20│      │\n│          │    │├───────┼──┼──┼──┼─┤      │\n│          │    ││200-500       │19  │0   │62  │24│      │\n│          │    │├───────┼──┼──┼──┼─┤      │\n│          │    ││0-200         │28  │0   │58  │27│      │\n│          │    │├───────┼──┼──┼──┼─┤      │\n│          │    ││0             │36  │0   │55  │29│      │\n├─────┤    ├┼───────┼──┴──┴──┴─┼───┤\n│해저      │    ││수심(m)       │색상                │      │\n│          │    │├───────┼──┬──┬──┬─┤      │\n│          │    ││0-200         │14  │4   │0   │5 │      │\n│          │    │├───────┼──┼──┼──┼─┤      │\n│          │    ││200-1,000     │23  │6   │0   │8 │      │\n│          │    │├───────┼──┼──┼──┼─┤      │\n│          │    ││1,000-2,000   │43  │14  │0   │11│      │\n│          │    │├───────┼──┼──┼──┼─┤      │\n│          │    ││2,000-3,000   │73  │23  │0   │18│      │\n│          │    │├───────┼──┼──┼──┼─┤      │\n│          │    ││3,000-4,000   │81  │31  │0   │24│      │\n│          │    │├───────┼──┼──┼──┼─┤      │\n│          │    ││4,000-5,000   │81  │32  │0   │29│      │\n│          │    │├───────┼──┼──┼──┼─┤      │\n│          │    ││5,000-6,000   │77  │38  │0   │36│      │\n│          │    │├───────┼──┼──┼──┼─┤      │\n│          │    ││6,000 이하    │75  │44  │0   │39│      │\n└─────┴──┴┴───────┴──┴──┴──┴─┴───┘\n□ 색각이상자 기호표기기준(적색약맹)\n┌────┬──┬─────────────────┬───┐\n│명 칭   │유형│도 식 규 정                       │구분  │\n│        │    ├────────┬──┬─┬─┬─┤      │\n│        │    │표현            │C   │M │Y │K │      │\n├────┼──┼────────┼──┼─┼─┼─┼───┤\n│대륙경계│선  │                │10  │38│54│0 │      │\n├────┼──┼────────┼──┼─┼─┼─┼───┤\n│국가경계│선  │                │59  │55│48│21│내부  │\n│        │    │                ├──┼─┼─┼─┼───┤\n│        │    │                │11  │21│0 │0 │외부  │\n├────┼──┼────────┼──┼─┼─┼─┼───┤\n│분쟁경계│선  │                │8   │58│1 │0 │      │\n├────┼──┼────────┼──┼─┼─┼─┼───┤\n│주요철도│선  │                │7   │5 │4 │0 │색상1 │\n│        │    │                ├──┼─┼─┼─┼───┤\n│        │    │                │47  │39│31│1 │색상2 │\n├────┼──┼────────┼──┼─┼─┼─┼───┤\n│주요도로│선  │                │59  │44│32│4 │      │\n├────┼──┼────────┼──┼─┼─┼─┼───┤\n│항로    │선  │                │99  │87│29│15│색상1 │\n│        │    ├────────┼──┼─┼─┼─┼───┤\n│        │    │                │20  │48│1 │0 │색상2 │\n├────┼──┼────────┼──┼─┼─┼─┼───┤\n│수도    │점  │(1.473x1.473mm) │29  │63│37│2 │      │\n├────┼──┼────────┼──┼─┼─┼─┼───┤\n│도시    │점  │(1.468x1.468mm) │67  │60│56│40│      │\n├────┼──┼────────┼──┼─┼─┼─┼───┤\n│과학기지│점  │(1.802x1.802mm) │67  │60│56│40│      │\n├────┼──┼────────┼──┼─┼─┼─┼───┤\n│산      │점  │(1.829x1.482mm) │72  │57│78│75│      │\n├────┼──┼────────┼──┼─┼─┼─┼───┤\n│사막    │패턴│                │10  │0 │49│34│      │\n├────┼──┼────────┼──┼─┼─┼─┼───┤\n│강, 호수│면  │                │16  │6 │3 │0 │      │\n│        ├──┤                ├──┼─┼─┼─┤      │\n│        │선  │                │100 │89│29│16│      │\n├────┼──┼┬───────┼──┴─┴─┴─┼───┤\n│육지    │음영││고도(m)       │색상            │      │\n│        │    │├───────┼──┬─┬─┬─┤      │\n│        │    ││5,000 이상    │25  │46│55│2 │      │\n│        │    │├───────┼──┼─┼─┼─┤      │\n│        │    ││4,000-5,000   │23  │33│71│1 │      │\n│        │    │├───────┼──┼─┼─┼─┤      │\n│        │    ││3,000-4,000   │17  │14│79│0 │      │\n│        │    │├───────┼──┼─┼─┼─┤      │\n│        │    ││2,000-3,000   │13  │7 │78│0 │      │\n│        │    │├───────┼──┼─┼─┼─┤      │\n│        │    ││1,000-2,000   │19  │5 │89│0 │      │\n│        │    │├───────┼──┼─┼─┼─┤      │\n│        │    ││500-1,000     │30  │11│95│0 │      │\n│        │    │├───────┼──┼─┼─┼─┤      │\n│        │    ││200-500       │43  │17│99│0 │      │\n│        │    │├───────┼──┼─┼─┼─┤      │\n│        │    ││0-200         │52  │21│98│3 │      │\n│        │    │├───────┼──┼─┼─┼─┤      │\n│        │    ││0             │60  │24│99│6 │      │\n├────┤    ├┼───────┼──┴─┴─┴─┼───┤\n│해저    │    ││수심(m)       │색상            │      │\n│        │    │├───────┼──┬─┬─┬─┤      │\n│        │    ││0-200         │17  │7 │6 │0 │      │\n│        │    │├───────┼──┼─┼─┼─┤      │\n│        │    ││200-1,000     │30  │14│12│0 │      │\n│        │    │├───────┼──┼─┼─┼─┤      │\n│        │    ││1,000-2,000   │52  │28│16│0 │      │\n│        │    │├───────┼──┼─┼─┼─┤      │\n│        │    ││2,000-3,000   │83  │52│27│5 │      │\n│        │    │├───────┼──┼─┼─┼─┤      │\n│        │    ││3,000-4,000   │94  │70│24│7 │      │\n│        │    │├───────┼──┼─┼─┼─┤      │\n│        │    ││4,000-5,000   │97  │76│25│9 │      │\n│        │    │├───────┼──┼─┼─┼─┤      │\n│        │    ││5,000-6,000   │98  │82│24│9 │      │\n│        │    │├───────┼──┼─┼─┼─┤      │\n│        │    ││6,000 이하    │98  │87│21│7 │      │\n└────┴──┴┴───────┴──┴─┴─┴─┴───┘\n□ 색각이상자 기호표기기준(녹색약맹)\n┌────┬──┬─────────────────┬───┐\n│명 칭   │유형│도 식 규 정                       │구분  │\n│        │    ├────────┬─┬─┬──┬─┤      │\n│        │    │표현            │C │M │Y   │K │      │\n├────┼──┼────────┼─┼─┼──┼─┼───┤\n│대륙경계│선  │                │8 │60│54  │0 │      │\n├────┼──┼────────┼─┼─┼──┼─┼───┤\n│국가경계│선  │                │60│57│47  │22│내부  │\n│        │    │                ├─┼─┼──┼─┼───┤\n│        │    │                │11│28│0   │0 │외부  │\n├────┼──┼────────┼─┼─┼──┼─┼───┤\n│분쟁경계│선  │                │11│83│1   │0 │      │\n├────┼──┼────────┼─┼─┼──┼─┼───┤\n│주요철도│선  │                │6 │5 │4   │0 │색상1 │\n│        │    │                ├─┼─┼──┼─┼───┤\n│        │    │                │43│35│33  │1 │색상2 │\n├────┼──┼────────┼─┼─┼──┼─┼───┤\n│주요도로│선  │                │59│41│34  │4 │      │\n├────┼──┼────────┼─┼─┼──┼─┼───┤\n│항로    │선  │                │95│64│30  │11│색상1 │\n│        │    ├────────┼─┼─┼──┼─┼───┤\n│        │    │                │25│71│0   │0 │색상2 │\n├────┼──┼────────┼─┼─┼──┼─┼───┤\n│수도    │점  │(1.473x1.473mm) │28│84│34  │3 │      │\n├────┼──┼────────┼─┼─┼──┼─┼───┤\n│도시    │점  │(1.468x1.468mm) │67│61│56  │40│      │\n├────┼──┼────────┼─┼─┼──┼─┼───┤\n│과학기지│점  │(1.802x1.802mm) │67│61│56  │40│      │\n├────┼──┼────────┼─┼─┼──┼─┼───┤\n│산      │점  │(1.829x1.482mm) │74│55│81  │72│      │\n├────┼──┼────────┼─┼─┼──┼─┼───┤\n│사막    │패턴│                │10│0 │49  │34│      │\n├────┼──┼────────┼─┼─┼──┼─┼───┤\n│강, 호수│면  │                │16│1 │3   │0 │      │\n│        ├──┤                ├─┼─┼──┼─┤      │\n│        │선  │                │98│70│28  │11│      │\n├────┼──┼┬───────┼─┴─┴──┴─┼───┤\n│육지    │음영││고도(m)       │색상            │      │\n│        │    │├───────┼─┬─┬──┬─┤      │\n│        │    ││5,000 이상    │23│64│53  │4 │      │\n│        │    │├───────┼─┼─┼──┼─┤      │\n│        │    ││4,000-5,000   │22│44│71  │2 │      │\n│        │    │├───────┼─┼─┼──┼─┤      │\n│        │    ││3,000-4,000   │15│20│80  │0 │      │\n│        │    │├───────┼─┼─┼──┼─┤      │\n│        │    ││2,000-3,000   │12│11│80  │0 │      │\n│        │    │├───────┼─┼─┼──┼─┤      │\n│        │    ││1,000-2,000   │20│6 │91  │0 │      │\n│        │    │├───────┼─┼─┼──┼─┤      │\n│        │    ││500-1,000     │29│7 │96  │0 │      │\n│        │    │├───────┼─┼─┼──┼─┤      │\n│        │    ││200-500       │44│10│100 │0 │      │\n│        │    │├───────┼─┼─┼──┼─┤      │\n│        │    ││0-200         │53│12│100 │0 │      │\n│        │    │├───────┼─┼─┼──┼─┤      │\n│        │    ││0             │57│13│100 │0 │      │\n├────┤    ├┼───────┼─┴─┴──┴─┼───┤\n│해저    │    ││수심(m)       │색상            │      │\n│        │    │├───────┼─┬─┬──┬─┤      │\n│        │    ││0-200         │18│4 │8   │0 │      │\n│        │    │├───────┼─┼─┼──┼─┤      │\n│        │    ││200-1,000     │28│6 │13  │0 │      │\n│        │    │├───────┼─┼─┼──┼─┤      │\n│        │    ││1,000-2,000   │48│15│19  │0 │      │\n│        │    │├───────┼─┼─┼──┼─┤      │\n│        │    ││2,000-3,000   │77│30│35  │2 │      │\n│        │    │├───────┼─┼─┼──┼─┤      │\n│        │    ││3,000-4,000   │85│48│30  │6 │      │\n│        │    │├───────┼─┼─┼──┼─┤      │\n│        │    ││4,000-5,000   │89│54│31  │9 │      │\n│        │    │├───────┼─┼─┼──┼─┤      │\n│        │    ││5,000-6,000   │92│66│27  │9 │      │\n│        │    │├───────┼─┼─┼──┼─┤      │\n│        │    ││6,000 이하    │94│76│23  │7 │      │\n└────┴──┴┴───────┴─┴─┴──┴─┴───┘\n□ 색각이상자 기호표기기준(청색약맹)\n┌────┬──┬─────────────────┬───┐\n│명 칭   │유형│도 식 규 정                       │구분  │\n│        │    ├────────┬─┬─┬──┬─┤      │\n│        │    │표현            │C │M │Y   │K │      │\n├────┼──┼────────┼─┼─┼──┼─┼───┤\n│대륙경계│선  │                │32│69│0   │0 │      │\n├────┼──┼────────┼─┼─┼──┼─┼───┤\n│국가경계│선  │                │66│67│29  │9 │내부  │\n│        │    │                ├─┼─┼──┼─┼───┤\n│        │    │                │18│31│1   │0 │외부  │\n├────┼──┼────────┼─┼─┼──┼─┼───┤\n│분쟁경계│선  │                │33│82│1   │0 │      │\n├────┼──┼────────┼─┼─┼──┼─┼───┤\n│주요철도│선  │                │7 │5 │4   │0 │색상1 │\n│        │    │                ├─┼─┼──┼─┼───┤\n│        │    │                │43│35│35  │1 │색상2 │\n├────┼──┼────────┼─┼─┼──┼─┼───┤\n│주요도로│선  │                │56│29│72  │8 │      │\n├────┼──┼────────┼─┼─┼──┼─┼───┤\n│항로    │선  │                │88│27│99  │14│색상1 │\n│        │    ├────────┼─┼─┼──┼─┼───┤\n│        │    │                │38│82│0   │0 │색상2 │\n├────┼──┼────────┼─┼─┼──┼─┼───┤\n│수도    │점  │(1.473x1.473mm) │53│79│0   │0 │      │\n├────┼──┼────────┼─┼─┼──┼─┼───┤\n│도시    │점  │(1.468x1.468mm) │67│60│56  │40│      │\n├────┼──┼────────┼─┼─┼──┼─┼───┤\n│과학기지│점  │(1.802x1.802mm) │67│60│56  │40│      │\n├────┼──┼────────┼─┼─┼──┼─┼───┤\n│산      │점  │(1.829x1.482mm) │75│52│87  │66│      │\n├────┼──┼────────┼─┼─┼──┼─┼───┤\n│사막    │패턴│                │10│0 │49  │34│      │\n├────┼──┼────────┼─┼─┼──┼─┼───┤\n│강, 호수│면  │                │43│0 │98  │0 │      │\n│        ├──┤                ├─┼─┼──┼─┤      │\n│        │선  │                │89│31│99  │21│      │\n├────┼──┼┬───────┼─┴─┴──┴─┼───┤\n│육지    │음영││고도(m)       │색상            │      │\n│        │    │├───────┼─┬─┬──┬─┤      │\n│        │    ││5,000 이상    │48│73│0   │0 │      │\n│        │    │├───────┼─┼─┼──┼─┤      │\n│        │    ││4,000-5,000   │36│55│0   │0 │      │\n│        │    │├───────┼─┼─┼──┼─┤      │\n│        │    ││3,000-4,000   │12│29│23  │0 │      │\n│        │    │├───────┼─┼─┼──┼─┤      │\n│        │    ││2,000-3,000   │11│18│47  │0 │      │\n│        │    │├───────┼─┼─┼──┼─┤      │\n│        │    ││1,000-2,000   │21│6 │93  │0 │      │\n│        │    │├───────┼─┼─┼──┼─┤      │\n│        │    ││500-1,000     │29│5 │100 │0 │      │\n│        │    │├───────┼─┼─┼──┼─┤      │\n│        │    ││200-500       │45│2 │100 │0 │      │\n│        │    │├───────┼─┼─┼──┼─┤      │\n│        │    ││0-200         │54│1 │100 │0 │      │\n│        │    │├───────┼─┼─┼──┼─┤      │\n│        │    ││0             │56│0 │100 │0 │      │\n├────┤    ├┼───────┼─┴─┴──┴─┼───┤\n│해저    │    ││수심(m)       │색상            │      │\n│        │    │├───────┼─┬─┬──┬─┤      │\n│        │    ││0-200         │21│0 │48  │0 │      │\n│        │    │├───────┼─┼─┼──┼─┤      │\n│        │    ││200-1,000     │32│0 │76  │0 │      │\n│        │    │├───────┼─┼─┼──┼─┤      │\n│        │    ││1,000-2,000   │55│0 │100 │0 │      │\n│        │    │├───────┼─┼─┼──┼─┤      │\n│        │    ││2,000-3,000   │76│2 │100 │0 │      │\n│        │    │├───────┼─┼─┼──┼─┤      │\n│        │    ││3,000-4,000   │82│18│100 │5 │      │\n│        │    │├───────┼─┼─┼──┼─┤      │\n│        │    ││4,000-5,000   │84│22│100 │10│      │\n│        │    │├───────┼─┼─┼──┼─┤      │\n│        │    ││5,000-6,000   │84│31│100 │22│      │\n│        │    │├───────┼─┼─┼──┼─┤      │\n│        │    ││6,000 이하    │81│38│100 │33│      │\n└────┴──┴┴───────┴─┴─┴──┴─┴───┘\n□ 난외표현기준(기본)\n┌────────┬─────┬─────┬────────┬───────┐\n│구 분           │표현      │크기      │색상            │서체          │\n│                │          │(Pt)      ├─┬─┬─┬──┤              │\n│                │          │          │C │M │Y │K   │              │\n├────────┼─────┼─────┼─┼─┼─┼──┼───────┤\n│지도명          │          │100       │67│60│56│40  │Noto Sans KR  │\n│                │          │          │  │  │  │    │Black         │\n├────────┼─────┼─────┼─┼─┼─┼──┼───────┤\n│날짜변경선,     │          │7         │0 │0 │0 │100 │Noto Sans KR  │\n│회귀선,적도,극권│          │          │  │  │  │    │Medium        │\n├────────┼─────┼─────┼─┼─┼─┼──┼───────┤\n│경위도          │          │8         │0 │0 │0 │100 │Noto Sans KR  │\n│                │          │          │  │  │  │    │Bold          │\n├────────┼─────┼─────┼─┼─┼─┼──┼───────┤\n│경위도선        │          │-         │48│0 │0 │62  │-             │\n│                │          │          │  │  │  │    │              │\n│                │로빈슨    │          │  │  │  │    │              │\n│                ├─────┼─────┼─┼─┼─┼──┼───────┤\n│                │          │-         │0 │0 │0 │70  │-             │\n│                │          │          │  │  │  │    │              │\n│                │메르카토르│          │  │  │  │    │              │\n├────────┼─────┼─────┼─┼─┼─┼──┼───────┤\n│도곽띄          │          │-         │76│69│65│28  │-             │\n├────────┼─────┼─────┼─┼─┼─┼──┼───────┤\n│제작년월일      │          │10        │0 │0 │0 │0   │Noto Sans KR  │\n│                │          │          │  │  │  │    │Medium        │\n├────────┼─────┼─────┼─┼─┼─┼──┼───────┤\n│QR코드          │          │220 x 220 │- │- │- │-   │              │\n│                │          │(mm)      │  │  │  │    │              │\n├────────┼─────┼─────┼─┼─┼─┼──┼───────┤\n│발행처          │          │-         │- │- │- │-   │              │\n├────────┼─────┴─────┴─┴─┴─┴──┴───────┤\n│축척            │                                                        │\n│                ├────────────────────────────┤\n│                │                                                        │\n└────────┴────────────────────────────┘\n□ 색각이상자 난외표현기준(적색약맹)\n┌────────┬─────┬─────┬─────────┬───────┐\n│구 분           │표현      │크기      │색상              │서체          │\n│                │          │(Pt)      ├──┬─┬─┬──┤              │\n│                │          │          │C   │M │Y │K   │              │\n├────────┼─────┼─────┼──┼─┼─┼──┼───────┤\n│지도명          │          │100       │67  │60│56│40  │Noto Sans KR  │\n│                │          │          │    │  │  │    │Black         │\n├────────┼─────┼─────┼──┼─┼─┼──┼───────┤\n│날짜변경선,     │          │7         │0   │0 │0 │100 │Noto Sans KR  │\n│회귀선,적도,극권│          │          │    │  │  │    │Medium        │\n├────────┼─────┼─────┼──┼─┼─┼──┼───────┤\n│경위도          │          │8         │0   │0 │0 │100 │Noto Sans KR  │\n│                │          │          │    │  │  │    │Bold          │\n├────────┼─────┼─────┼──┼─┼─┼──┼───────┤\n│경위도선        │          │-         │48  │0 │0 │62  │-             │\n│                │          │          │    │  │  │    │              │\n│                │로빈슨    │          │    │  │  │    │              │\n│                ├─────┼─────┼──┼─┼─┼──┼───────┤\n│                │          │-         │0   │0 │0 │70  │-             │\n│                │          │          │    │  │  │    │              │\n│                │메르카토르│          │    │  │  │    │              │\n├────────┼─────┼─────┼──┼─┼─┼──┼───────┤\n│도곽띄          │          │-         │67  │60│56│40  │              │\n├────────┼─────┼─────┼──┼─┼─┼──┼───────┤\n│제작년월일      │          │10        │0   │0 │0 │0   │Noto Sans KR  │\n│                │          │          │    │  │  │    │Medium        │\n├────────┼─────┼─────┼──┼─┼─┼──┼───────┤\n│QR코드          │          │220 x 220 │-   │- │- │-   │              │\n│                │          │(mm)      │    │  │  │    │              │\n├────────┼─────┼─────┼──┼─┼─┼──┼───────┤\n│발행처          │          │-         │100 │88│41│53  │              │\n│                │          │          ├──┼─┼─┼──┤              │\n│                │          │          │3   │60│0 │0   │              │\n│                │          │          ├──┼─┼─┼──┤              │\n│                │          │          │64  │56│53│28  │              │\n├────────┼─────┴─────┴──┴─┴─┴──┴───────┤\n│축척            │                                                          │\n│                ├─────────────────────────────┤\n│                │                                                          │\n└────────┴─────────────────────────────┘\n□ 색각이상자 난외표현기준(녹색약맹)\n┌────────┬─────┬─────┬─────────┬───────┐\n│구 분           │표현      │크기      │색상              │서체          │\n│                │          │(Pt)      ├──┬─┬─┬──┤              │\n│                │          │          │C   │M │Y │K   │              │\n├────────┼─────┼─────┼──┼─┼─┼──┼───────┤\n│지도명          │          │100       │67  │60│56│40  │Noto Sans KR  │\n│                │          │          │    │  │  │    │Black         │\n├────────┼─────┼─────┼──┼─┼─┼──┼───────┤\n│날짜변경선,     │          │7         │0   │0 │0 │100 │Noto Sans KR  │\n│회귀선,적도,극권│          │          │    │  │  │    │Medium        │\n├────────┼─────┼─────┼──┼─┼─┼──┼───────┤\n│경위도          │          │8         │0   │0 │0 │100 │Noto Sans KR  │\n│                │          │          │    │  │  │    │Bold          │\n├────────┼─────┼─────┼──┼─┼─┼──┼───────┤\n│경위도선        │          │-         │48  │0 │0 │62  │-             │\n│                │          │          │    │  │  │    │              │\n│                │로빈슨    │          │    │  │  │    │              │\n│                ├─────┼─────┼──┼─┼─┼──┼───────┤\n│                │          │-         │0   │0 │0 │70  │-             │\n│                │          │          │    │  │  │    │              │\n│                │메르카토르│          │    │  │  │    │              │\n├────────┼─────┼─────┼──┼─┼─┼──┼───────┤\n│도곽띄          │          │-         │67  │60│56│40  │              │\n├────────┼─────┼─────┼──┼─┼─┼──┼───────┤\n│제작년월일      │          │10        │0   │0 │0 │0   │Noto Sans KR  │\n│                │          │          │    │  │  │    │Medium        │\n├────────┼─────┼─────┼──┼─┼─┼──┼───────┤\n│QR코드          │          │220 x 220 │-   │- │- │-   │              │\n│                │          │(mm)      │    │  │  │    │              │\n├────────┼─────┼─────┼──┼─┼─┼──┼───────┤\n│발행처          │          │-         │100 │77│46│47  │              │\n│                │          │          ├──┼─┼─┼──┤              │\n│                │          │          │5   │85│0 │0   │              │\n│                │          │          ├──┼─┼─┼──┤              │\n│                │          │          │55  │47│47│13  │              │\n├────────┼─────┴─────┴──┴─┴─┴──┴───────┤\n│축척            │                                                          │\n│                ├─────────────────────────────┤\n│                │                                                          │\n└────────┴─────────────────────────────┘\n□ 색각이상자 난외표현기준(청색약맹)\n┌────────┬─────┬─────┬────────┬───────┐\n│구 분           │표현      │크기      │색상            │서체          │\n│                │          │(Pt)      ├─┬─┬─┬──┤              │\n│                │          │          │C │M │Y │K   │              │\n├────────┼─────┼─────┼─┼─┼─┼──┼───────┤\n│지도명          │          │100       │67│60│56│40  │Noto Sans KR  │\n│                │          │          │  │  │  │    │Black         │\n├────────┼─────┼─────┼─┼─┼─┼──┼───────┤\n│날짜변경선,     │          │7         │0 │0 │0 │100 │Noto Sans KR  │\n│회귀선,적도,극권│          │          │  │  │  │    │Medium        │\n├────────┼─────┼─────┼─┼─┼─┼──┼───────┤\n│경위도          │          │8         │0 │0 │0 │100 │Noto Sans KR  │\n│                │          │          │  │  │  │    │Bold          │\n├────────┼─────┼─────┼─┼─┼─┼──┼───────┤\n│경위도선        │          │-         │48│0 │0 │62  │-             │\n│                │          │          │  │  │  │    │              │\n│                │로빈슨    │          │  │  │  │    │              │\n│                ├─────┼─────┼─┼─┼─┼──┼───────┤\n│                │          │-         │0 │0 │0 │70  │-             │\n│                │          │          │  │  │  │    │              │\n│                │메르카토르│          │  │  │  │    │              │\n├────────┼─────┼─────┼─┼─┼─┼──┼───────┤\n│도곽띄          │          │-         │66│58│60│41  │              │\n├────────┼─────┼─────┼─┼─┼─┼──┼───────┤\n│제작년월일      │          │10        │0 │0 │0 │0   │Noto Sans KR  │\n│                │          │          │  │  │  │    │Medium        │\n├────────┼─────┼─────┼─┼─┼─┼──┼───────┤\n│QR코드          │          │220 x 220 │- │- │- │-   │              │\n│                │          │(mm)      │  │  │  │    │              │\n├────────┼─────┼─────┼─┼─┼─┼──┼───────┤\n│발행처          │          │-         │82│47│98│56  │              │\n│                │          │          ├─┼─┼─┼──┤              │\n│                │          │          │34│82│0 │0   │              │\n│                │          │          ├─┼─┼─┼──┤              │\n│                │          │          │64│56│54│28  │              │\n├────────┼─────┴─────┴─┴─┴─┴──┴───────┤\n│축척            │                                                        │\n│                ├────────────────────────────┤\n│                │                                                        │\n└────────┴────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000212163&bylNo=0007&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116268839",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116268839",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:세계지도제작및관리지침#BYL0007",
+      "filename": "별표7_주기표기기준.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "세계지도 제작 및 관리지침 개정전문.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=116263735",
+      "file_store_url": "",
+      "filename": "세계지도 제작 및 관리지침 개정전문.hwp"
+    },
+    {
+      "name": "조문별제개정이유서_세계지도 제작 및 관리지침.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=116263737",
+      "file_store_url": "",
+      "filename": "조문별제개정이유서_세계지도 제작 및 관리지침.hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 15,
+    "by_category": {
+      "법령": 6,
+      "별표": 8,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 7,
+      "appendix_ref": 8
+    },
+    "articles_total": 16,
+    "articles_with_relations": 9,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 5,
+    "appendices_count": 7,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/세계지도 제작 및 관리지침"
+  },
+  "provision_id": "admrul:세계지도제작및관리지침#DOC"
+}
