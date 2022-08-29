@@ -1,0 +1,727 @@
+{
+  "law_id": "2100000214107",
+  "mst": "2100000214107",
+  "law_name": "국립나주병원 임상시험운영규정",
+  "law_abbr": "",
+  "law_type": "예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000214107",
+  "promulgation_no": "391",
+  "promulgation_date": "20220829",
+  "enforcement_date": "20220829",
+  "revision_date": "20220829",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국립나주병원(서무과)",
+    "담당자명": "이정희",
+    "행정규칙종류코드": "B0002",
+    "행정규칙명": "국립나주병원 임상시험운영규정",
+    "발령일자": "20220829",
+    "행정규칙종류": "예규",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국립나주병원",
+    "전화번호": "061-330-7737",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1352000",
+    "생성일자": "20220830",
+    "행정규칙ID": "54333",
+    "시행일자": "20220829",
+    "담당부서기관코드": "1352766",
+    "발령번호": "391",
+    "행정규칙일련번호": "2100000214107",
+    "상위부처명": "보건복지부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정사유\n의약품 임상시험 종사자 교육 및 교육실시기관 지정에 관한 규정 별표1을 변경하고자 함\n◇ 주요내용\n국립나주병원 국립나주병원 임상시험운영규정 별표1 임상시험 업무 담당자 위원회 운영지원인력을 개정하고자 함",
+  "body": {
+    "format": "articles",
+    "article_count": 23,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조(목적) 이 규정은 「약사법」 제34조의 규정에 의한 「의약품 등의 안전에 관한 규칙」 제30조제1항 관련 별표4 의약품 임상시험 관리기준(이하 \"관리기준\"이라 한다)과 「생명윤리 및 안전에 관한 법률」에 의거 국립나주병원에서 수행하는 임상시험의 효율적인 운영과 절차에 관한 사항을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「약사법」",
+            "line_text": "",
+            "target_law_name": "약사법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/약사법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립나주병원임상시험운영규정#JO0001",
+            "reference_id": "law:약사법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제34조",
+            "line_text": "",
+            "target_law_name": "약사법",
+            "target_article_no": "제34조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/약사법/제34조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립나주병원임상시험운영규정#JO0001",
+            "reference_id": "law:약사법#JO0034"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「의약품 등의 안전에 관한 규칙」",
+            "line_text": "",
+            "target_law_name": "의약품 등의 안전에 관한 규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/의약품 등의 안전에 관한 규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립나주병원임상시험운영규정#JO0001",
+            "reference_id": "law:의약품등의안전에관한규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제30조제1항",
+            "line_text": "",
+            "target_law_name": "의약품 등의 안전에 관한 규칙",
+            "target_article_no": "제30조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/의약품 등의 안전에 관한 규칙/제30조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립나주병원임상시험운영규정#JO0001",
+            "reference_id": "law:의약품등의안전에관한규칙#JO0030"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "별표4",
+            "line_text": "",
+            "target_law_name": "국립나주병원 임상시험운영규정",
+            "target_article_no": "별표4",
+            "target_article_title": "",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": false,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000214107&bylNo=&bylBrNo=",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립나주병원임상시험운영규정#JO0001",
+            "reference_id": "admrul:국립나주병원임상시험운영규정#BYL0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「생명윤리 및 안전에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "생명윤리 및 안전에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/생명윤리 및 안전에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립나주병원임상시험운영규정#JO0001",
+            "reference_id": "law:생명윤리및안전에관한법률#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립나주병원임상시험운영규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적용범위",
+        "chapter": "제1장 총칙",
+        "content": "제2조(적용범위) 임상시험에 관한 심의 및 운영에 관하여 다른 법령에 특별한 규정이 있는 경우를 제외하고는 이 규정이 정하는 바에 의한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립나주병원임상시험운영규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "정의",
+        "chapter": "제2장 임상시험의 계약 및 병원장",
+        "content": "제3조(정의) 이 규정에서 사용하는 용어의 정의는 관리기준 제2호에서 정한 용어를 준용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립나주병원임상시험운영규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "임상시험의 계약",
+        "chapter": "제2장 임상시험의 계약 및 병원장",
+        "content": "제4조(임상시험의 계약) ① 병원장은 의뢰자와 별지 제1호 서식에 의한 임상시험계약서를 작성하여야 한다. 다만, 계약서 양식은 의뢰자의 요청에 따라 변경이 가능하다.② 제1항의 계약서에는 연구비의 규모 및 지급방법, 조기종료 및 시험 중단 시 미사용 연구비의 반납 등 임상시험의 재정에 관한 사항, 업무의 위임 및 분장(分掌)에 관한 사항, 의뢰자와 병원장의 의무사항이 명시되어야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "별지 제1호 서식",
+            "line_text": "",
+            "target_law_name": "국립나주병원 임상시험운영규정",
+            "target_article_no": "별지1",
+            "target_article_title": "임상시험계약서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119150739",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립나주병원임상시험운영규정#JO0004",
+            "reference_id": "admrul:국립나주병원임상시험운영규정#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립나주병원임상시험운영규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "병원장의 임무",
+        "chapter": "제2장 임상시험의 계약 및 병원장",
+        "content": "제5조(병원장의 임무) ① 병원장은 임상시험실시에 관한 심의 등을 위하여 관리기준 제6호가목의 업무를 수행할 임상시험심사위원회(이하 \"위원회\"라 한다)를 관리기준 제6호나목1)의 규정에 적합하게 설치하고 위원회의 위원을 위촉하여야 하며, 임상시험 실시에 필요한 사무절차 등에 관한 규정을 마련하여야 한다.② 병원장은 위원회가 독립적으로 운영될 수 있도록 하여야 하며, 행정적, 재정적 지원을 하여야 한다.③ 병원장은 제1항에 따른 위원회의 임무수행에 적정을 기하기 위하여 관리기준 제5호나목3)의 사항이 포함된 지침서를 마련하여야 한다.④ 병원장은 임상시험의 실시에 필요한 임상시험실, 설비 및 전문 인력(병원장이 지원기관과 계약을 통해 배치받은 인력을 포함한다)을 갖추어야 하고, 긴급 시 필요한 조치를 할 수 있는 시설 및 인력 등을 갖추어야 한다.⑤ 병원장은 의뢰자 또는 식품의약품안전처장으로부터 위원회 운영에 관한 지침서의 열람 요청이나 위원회 위원 명단과 자격에 관한 문서의 제출 요청이 있는 경우 위원회로 하여금 이에 적극 협조하도록 하여야 한다.⑥ 병원장은 관리기준 제8호머목에 따른 모니터링, 제8호버목에 따른 점검 또는 제7호자목7)에 따른 열람 요청을 받은 경우 해당 시험책임자 및 관련 부서로 하여금 이에 적극 협조하도록 하여야 한다.⑦ 병원장은 임상시험에 사용되는 의약품의 적정한 관리를 위하여 해당 관리약사를 지정하여야 한다. 다만, 임상시험의 특성에 따라 시험책임자의 요청이 있는 경우 위원회의 의견을 들어 시험책임자 또는 시험담당자로 하여금 임상시험에 사용되는 의약품을 관리하게 할 수 있다.⑧ 병원장은 관리기준에 따라 위원회 및 시험책임자로부터 인계받은 기록 및 자료를 보관책임자를 정하여 보관하여야 한다. 연구관련 문서는 연구종료일로부터 3년간 보존하여야 하며, 의뢰자가 3년 이상의 보존을 요청하고 병원장이 이에 합의한 경우 그 보존기간을 연장할 수 있다. 다만, 기록 및 자료의 보관에 관하여 다른 법령의 규정이 있는 경우에는 그 법령에서 정하는 바에 따른다.⑨ 병원장은 교육담당자를 지정하여 소속 임상시험 종사자들의 교육이 적절히 수행될 수 있도록 운영하여야 한다.⑩ 위원회가 임상시험의 조기종료 또는 일시중지 결정을 한 경우, 병원장은 그 사실을 식품의약품안전처장에게 즉시 알리고, 조기종료 및 일시중지에 대한 상세한 사유서를 제출하여야 한다.⑪ 병원장은 병원에서 수행하는 연구 등에서 생명윤리 또는 안전에 중대한 위해가 발생하거나 발생할 우려가 있는 경우에는 지체 없이 위원회를 소집하여 이를 심의하도록 하고, 그 결과를 보건복지부장관에게 보고하여야 한다.⑫ 병원장은 위원회가 승인을 거부 또는 불승인한 임상시험에 대하여 승인하거나 재승인할 수 없다. 다만, 병원장은 타당한 사유가 있는 경우 위원회가 승인한 임상시험을 불허가할 수 있고, 그 수행을 일시중지 시키거나 조기 종료시킬 수 있다.⑬ 병원장은 수행된 임상시험의 품질 및 윤리성 등에 대한 모든 책임을 진다.⑭ 병원장은 지원기관으로부터 임상시험 코디네이터를 배치 받은 경우에는 지원기관 및 배치인력 등에 대한 평가기준을 마련하여 사전에 철저한 평가를 실시하여야 한다.⑮ 병원장은 지원기관으로부터 임상시험 코디네이터를 배치 받은 경우에는 지원기관과 배치인력의 자격, 업무범위 등 관리기준 5호나목12)에서 정한 사항을 포함하는 문서로 계약을 체결하여야 한다.<16> 임상시험자료를 전자적으로 처리하거나 원거리전산시스템을 이용하려는 경우에 병원장은 관리기준 제8호바목1)를 준수하여야 한다. 이 경우 관리기준 제8호바목1)의 \"의뢰자\"는 \"병원장\"으로 본다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립나주병원임상시험운영규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "임무",
+        "chapter": "제3장 임상시험심사위원회",
+        "content": "제6조(임무) ① 위원회는 다음 각 호의 사항을 심의한다.1. 연구대상자의 권리ㆍ안전ㆍ복지ㆍ보호 및 취약한 환경에 있는 연구대상자가 임상시험에 참여하는 경우 그 이유의 타당성 검토에 관한 사항2. 임상시험을 수행하는 시험책임자의 적합성 여부에 관한 사항3. 임상시험의 윤리적ㆍ과학적ㆍ의학적인 타당성 평가에 관한 사항4. 임상시험의 합목적적 수행에 관한 사항5. 연구대상자 보상 및 그 보상으로 인한 임상시험 참여의 영향에 관한 사항6. 연구대상자 또는 대리인 서면동의서, 연구대상자 설명서, 기타 문서화된 정보의 승인에 관한 사항7. 임상시험계획서의 승인(변경승인 및 사후승인을 포함한다)에 관한 사항8. 관리기준 제6호가목11)에 따른 신속심의의 승인에 관한 사항9. 승인된 임상시험의 조기종료ㆍ중지 또는 보류에 관한 사항10. 임상시험의 진행상황에 대한 보고요청에 관한 사항11. 병원 내 연구 기반의 조성 및 지원에 관한 사항12. 연구대상자의 개인정보 보호 대책에 관한 사항13. 연구대상자로부터 적법한 절차에 따라 동의를 받았는지 여부에 관한 사항14. 기관에서의 생명윤리 및 안전에 관한 사항15. 기타 임상시험에 관한 사항② 위원회는 문서화된 지침서에 따라 업무를 수행하여야 하며, 제반 활동 및 회의에 대한 기록을 유지하고, 관리기준 등 관련규정을 준수하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립나주병원임상시험운영규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "구성",
+        "chapter": "제3장 임상시험심사위원회",
+        "content": "제7조(구성) ① 위원회는 임상시험의 윤리적ㆍ과학적ㆍ의학적 측면을 검토ㆍ평가할 수 있는 경험과 자격을 갖춘 5인 이상 15인 이하의 위원으로 구성하되, 하나의 성(性)으로만 구성할 수 없다.② 제1항에 따른 위원은 다음 각 호의 자격을 갖춘 사람이 포함되어야 하며, 병원장이 임명 또는 위촉한다.1. 의학, 치의학, 한의학, 약학 또는 간호학 등 심의하는 연구종류와 관련된 과학계 분야의 전문가 1인 이상2. 변호사 또는 종교인과 같은 주 전문분야가 과학계가 아닌 사람 1인 이상3. 본원과 이해관계가 없는 사람 1인 이상③ 제1항에 따른 위원회 위원의 임기는 2년으로 하되, 연임할 수 있다.④ 위원회에는 위원장 1인을 두되 위원 중에서 호선한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립나주병원임상시험운영규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "위원장",
+        "chapter": "제3장 임상시험심사위원회",
+        "content": "제8조(위원장) ① 위원장은 위원회의 회무를 관장하며 위원회를 대표한다.② 위원장은 제6조 각호의 사항을 효율적이고 일관되게 심의 할 수 있도록 관련규정을 준수하여 위원회를 운영하여야 한다.③ 위원장은 자신이 부득이한 사유로 그 직무를 수행할 수 없을 때에는 그 직무를 수행할 수 없는 기간 동안 자신이 지명한 위원에게 그 직무를 대행하게 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제2항",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "국립나주병원 임상시험운영규정",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립나주병원 임상시험운영규정/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립나주병원임상시험운영규정#JO0008",
+            "reference_id": "admrul:국립나주병원임상시험운영규정#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립나주병원임상시험운영규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "회의",
+        "chapter": "제3장 임상시험심사위원회",
+        "content": "제9조(회의) ① 위원회의 회의는 매 분기별 회의를 원칙으로 하고, 원장이 요구할 때 또는 위원장이 필요하다고 인정할 때 위원장이 이를 소집한다.② 회의는 재적위원 과반수의 출석으로 개회하고, 출석위원 과반수의 찬성으로 결의한다.③ 위원회 회의개최 7일전에 우편 또는 전자메일로 회의안건 및 심의자료 등을 각 위원에게 배포하여야 한다.④ 정규심의에는 기관 외 위원(과학계 또는 비과학계 위원)이 반드시 1명 이상 출석하여야 한다.⑤ 위원회는 심의의 공정성을 위해 심의대상 연구계획에 관여하거나 이해상충이 있는 위원은 해당 연구의 심의에서 배제하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립나주병원임상시험운영규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "기록의 보관",
+        "chapter": "제3장 임상시험심사위원회",
+        "content": "제10조(기록의 보관) 위원회는 위원명단과 이들의 자격을 기재한 문서, 심의기록 및 기타 관련 자료나 문서를 보존하여야 하며, 이들 문서가 사고 등에 의해 조기에 파손 또는 분실되지 않도록 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립나주병원임상시험운영규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "기록의 열람 및 제공",
+        "chapter": "제3장 임상시험심사위원회",
+        "content": "제11조(기록의 열람 및 제공) 위원회는 의뢰자 또는 식품의약품안전처장으로부터 위원회 운영에 관한 지침서의 직접열람 요청이나 위원회 위원 명단과 자격에 관한 문서의 제출요청이 있는 경우 이에 응하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립나주병원임상시험운영규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "간사",
+        "chapter": "제3장 임상시험심사위원회",
+        "content": "제12조(간사) ① 위원회의 효율적인 업무지원을 위하여 간사 1인을 두되, 간사는 위원장이 지명한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립나주병원임상시험운영규정#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "수당 등",
+        "chapter": "제3장 임상시험심사위원회",
+        "content": "제13조(수당 등) 위원회의 회의에 참석한 위원이나 관계인에게는 예산의 범위 내에서 수당ㆍ여비 기타 필요한 경비를 지급할 수 있다. 다만, 공무원이 그 소속업무와 관련되어 위원회에 참석하는 경우에는 그러하지 아니한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립나주병원임상시험운영규정#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "임상시험 종사자에 대한 교육",
+        "chapter": "제4장 임상시험 종사자 교육",
+        "content": "제14조(임상시험 종사자에 대한 교육) 병원장은 임상시험 계획서에 따라 임상시험에 참여하는 다음 각 호의 인력(이하 \"임상시험 종사자\"라 한다)에 대하여 전문성 향상 및 임상시험 대상자의 보호를 위하여 필요한 교육(이하 \"임상시험 교육\"이라 한다)을 년 1회 이상 받도록 하여야 한다.1. 임상시험 수행 책임자2. 임상시험을 감독ㆍ확인ㆍ검토하는 모니터요원3. 임상시험 책임자의 위임 및 감독에 따라 임상시험 업무를 담당하는 사람4. 임상시험심사위원회의 위원, 위원회 운영지원 인력 및 병원 내 임상시험의 품질보증 업무를 수행하는 사람 등 임상시험에 참여하는 임상시험 대상자의 권리 보호 및 안전에 관한 업무를 수행하는 사람",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립나주병원임상시험운영규정#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "임상시험 교육의 내용ㆍ시간ㆍ방법 등",
+        "chapter": "제4장 임상시험 종사자 교육",
+        "content": "제15조(임상시험 교육의 내용ㆍ시간ㆍ방법 등) ① 임상시험 종사자에 대한 임상시험 교육의 내용은 다음 각 호의 사항으로 한다.1. 임상시험 종사자의 전문성 향상에 필요한 전문지식에 관한 사항2. 임상시험 대상자 보호 등에 필요한 윤리적 소양에 관한 사항3. 그 밖에 임상시험 종사자가 임상시험을 수행하는 데에 필요한 사항② 임상시험 종사자에 대하여 받도록 하여야 하는 임상시험 교육의 시간은 매년 40시간 이내의 범위에서 식품의약품안전처장이 경력, 업무의 종류 등을 고려하여 고시하는 시간으로 하며, 교육과정 및 이수시간은 별표 1과 같다.③ 제2항에 따른 임상시험 교육은 식품의약품안전처장이 지정한 교육기관에서 실시하는 교육과정으로 이수하여야 한다.④ 임상시험 실시경험이 전혀 없는 경우에는 반드시 신규자 교육을 이수하여야 하며, 신규자 교육 이수자 또는 임상시험 실시경험이 있는 종사자는 심화교육, 보수교육의 순서로 교육을 이수하여야 한다. 다만, 임상시험 종사자가 해당 임상시험 수행경력이 3년 이상인 경우 심화교육을 생략하고 보수교육 대상자로 인정할 수 있다.⑤ 해당 분야의 임상시험 업무경험이 전혀 없는 종사자는 그 업무를 시작하기 전에 반드시 별표 1에서 정한 우선교육시간을 이수하여야 하며, 현장실습교육 등을 목적으로 보조적인 업무를 수행하는 경우에는 해당 업무를 시작하지 않은 것으로 본다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제2항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "국립나주병원 임상시험운영규정",
+            "target_article_no": "별표1",
+            "target_article_title": "임상시험 종사자별 교육과정 및 연간이수시간",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000214107&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립나주병원임상시험운영규정#JO0015",
+            "reference_id": "admrul:국립나주병원임상시험운영규정#BYL0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제5항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "국립나주병원 임상시험운영규정",
+            "target_article_no": "별표1",
+            "target_article_title": "임상시험 종사자별 교육과정 및 연간이수시간",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000214107&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립나주병원임상시험운영규정#JO0015",
+            "reference_id": "admrul:국립나주병원임상시험운영규정#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립나주병원임상시험운영규정#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "교육담당자의 업무범위",
+        "chapter": "제4장 임상시험 종사자 교육",
+        "content": "제16조(교육담당자의 업무범위) 교육담당자는 소속 임상시험 종사자에 대한 교육의 적절한 운영과 관리를 위하여 다음 각 호의 업무를 수행하여야 한다.1. 연간 교육 관리 계획의 수립2. 교육 관련 정보의 수집ㆍ홍보 및 교육 지원3. 교육대상자 분류 및 교육이수 실적 등 관리4. 그 밖에 임상시험 종사자 교육과 관련하여 필요한 업무",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립나주병원임상시험운영규정#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "심의비",
+        "chapter": "제5장 임상시험연구비 등",
+        "content": "제17조(심의비) 의뢰자로부터 임상시험연구계획의 타당성 여부 등에 대한 심의를 의뢰 받을 경우 다음 각 호의 기준에 의거 외부위원에게 지급되어야 할 심의비를 요청할 수 있다.1. 신규심의비는 연구비가 1,000만원 이하일 경우 외부위원 1인당 20만원으로 하고 1,000만원을 초과하는 경우 30만원으로 한다.2. 신규심의비를 제외한 기타 심의비는 의뢰자와 협의하여 정할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립나주병원임상시험운영규정#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "간접비",
+        "chapter": "제5장 임상시험연구비 등",
+        "content": "제18조(간접비) 연구책임자는 임상시험심사위원회의 운영, 병원 내 연구 지원 및 연구 기반 조성 등을 위하여 직접비(인건비포함)의 15%를 간접비로 반영하여야 한다. 단, 의뢰기관이 허용하는 범위를 넘지 않는다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립나주병원임상시험운영규정#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "연구비 관리",
+        "chapter": "제5장 임상시험연구비 등",
+        "content": "제19조(연구비 관리) ① 연구비는 국가재정법에 의한 예산회계절차 등에 따라 수입대체경비로 편성하여 관리한다.② 제1항에도 불구하고 수입대체경비로 편성하여 집행하는 것이 부적절하다고 판단되는 다음 각 호의 경우에는 세입세출외현금출납공무원이 정부보관금 취급규칙에 의한 보관금으로 관리할 수 있다.1. 의뢰자가 계약내용에 근거하여 연구대상자에게 지급하는 입원비, 진료비, 교통비 등 연구 참여 보상금을 입금한 경우2. 신규심의 의뢰자가 외부위원에게 지급하는 신규심의비를 입금한 경우3. 기타 병원장이 필요하다고 인정한 경우③ 연구책임자는 연구비 등의 계좌 입금 시 별지 제2호 서식의 연구비입금서를 작성하여 서무과장에게 통보하여야 한다.④ 연구비 등에 대한 입금확인 영수증은 별지 제3호 서식을 사용하거나 계산서를 발행할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제3항",
+            "link_text": "별지 제2호 서식",
+            "line_text": "",
+            "target_law_name": "국립나주병원 임상시험운영규정",
+            "target_article_no": "별지2",
+            "target_article_title": "연구비입금서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119150745",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립나주병원임상시험운영규정#JO0019",
+            "reference_id": "admrul:국립나주병원임상시험운영규정#BJ0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제4항",
+            "link_text": "별지 제3호 서식",
+            "line_text": "",
+            "target_law_name": "국립나주병원 임상시험운영규정",
+            "target_article_no": "별지3",
+            "target_article_title": "영수증",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119150749",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립나주병원임상시험운영규정#JO0019",
+            "reference_id": "admrul:국립나주병원임상시험운영규정#BJ0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립나주병원임상시험운영규정#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "보상적 경비의 지급",
+        "chapter": "제5장 임상시험연구비 등",
+        "content": "제20조(보상적 경비의 지급) 임상시험연구 등 외부수탁과제 연구수행으로 당해 연도 초과수입이 발생한 경우 초과수입 증대에 기여한 국립나주병원 소속 연구책임자 및 연구원 등 직원(기관장 제외)에게 다음 각 호의 기준에 따라 보상적 경비를 지급할 수 있다.1. 보상적 경비는 당해 연도 외부수탁과제 연구수행으로 발생한 초과수입금 중 연구수행에 수반되는 관련 경비 지출액을 제외한 나머지 금액(이하 \"연간 지급한도액\")의 20% 이내에서 지급할 수 있다. 다만, 개인별로 연간 지급할 수 있는 총액은 월 기본급의 100%를 초과할 수 없다.2. 보상적 경비를 지급받기 위해서는 초과수입금이 발생한 해당과제의 연구책임자가 별지 제5호 서식을 연구과제별로 작성하여 서무과장에게 제출 하여야 한다.3. 별지 제5호 서식 자료를 제출받은 서무과장은 매년 12월에 과제별 자료를 취합하여 지급한도액 누계액이 개인별 연간 지급한도액(월 기본급의 100%)을 초과하지 않도록 재계산하고, 국립나주병원 보상적 경비 심사위원회에서 심의할 수 있도록 조치하여야 한다.4. 국립나주병원 보상적 경비 심사위원회에서는 보상적 경비 지급을 위한 수입증대액 규모 및 보상금 지급액 산정의 적정성 등을 심의 하여야 하며, 심의결과를 반영하여 병원장이 최종적으로 지급에 대한 결정을 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제20조",
+            "source_clause": "제20조",
+            "link_text": "별지 제5호 서식",
+            "line_text": "",
+            "target_law_name": "국립나주병원 임상시험운영규정",
+            "target_article_no": "별지5",
+            "target_article_title": "",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": false,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000214107&bylNo=&bylBrNo=",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립나주병원임상시험운영규정#JO0020",
+            "reference_id": "admrul:국립나주병원임상시험운영규정#BJ0005"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제20조",
+            "source_clause": "제20조",
+            "link_text": "별지 제5호 서식",
+            "line_text": "",
+            "target_law_name": "국립나주병원 임상시험운영규정",
+            "target_article_no": "별지5",
+            "target_article_title": "",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": false,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000214107&bylNo=&bylBrNo=",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립나주병원임상시험운영규정#JO0020",
+            "reference_id": "admrul:국립나주병원임상시험운영규정#BJ0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립나주병원임상시험운영규정#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "연구대상자 현황 통보",
+        "chapter": "제5장 임상시험연구비 등",
+        "content": "제21조(연구대상자 현황 통보) ① 연구책임자는 임상시험 연구대상자의 등록 또는 종료 시 그 현황을 서무과장에게 문서로 통보하여야 한다.② 서무과장은 임상시험 연구대상자 종료 통보를 받은 경우 의뢰자가 진료비를 납부 할 수 있도록 진료비계산서를 발급하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립나주병원임상시험운영규정#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "비품의 관리 및 이관",
+        "chapter": "제5장 임상시험연구비 등",
+        "content": "제22조(비품의 관리 및 이관) ① 연구사업 수행을 위하여 외부의뢰자로부터 제공된 연구재료 및 물품은 연구 종료 후 의뢰자의 요청에 따라 반납 할 수 있다.② 연구비로 구입한 연구물품(장비, 도서 등)의 관리는 물품관리법령 등의 규정에 따른다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립나주병원임상시험운영규정#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "준용규정",
+        "chapter": "제5장 임상시험연구비 등",
+        "content": "제23조(준용규정) 임상시험에 관하여 이 규정에서 정한 사항 이외의 사항에 대해서는 관리기준을 준용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립나주병원임상시험운영규정#JO0023"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20160928",
+      "promulgation_no": "312",
+      "content": "부칙 <제312호,2016. 9. 28.>이 규정은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20180306",
+      "promulgation_no": "343",
+      "content": "부칙 <제343호,2018. 3. 6.>제1조(시행일) 이 규정은 공포한 날부터 시행한다.제2조(다른 규정의 폐지) 이 규정 시행일로부터 국립나주병원 임상시험연구비운영지침은 폐지한다."
+    },
+    {
+      "promulgation_date": "20200504",
+      "promulgation_no": "368",
+      "content": "부칙 <제368호,2020. 5. 4.>이 규정은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20220829",
+      "promulgation_no": "391",
+      "content": "부칙 <제391호, 2022. 8. 29.>이 규정은 공포한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "임상시험 종사자별 교육과정 및 연간이수시간",
+      "enforcement_date": "",
+      "content": "[별표 1]\n임상시험 종사자별 교육과정 및 연간이수시간\n1. 교육과정 및 연간이수시간\n┏━━━━━━━━━━━━━━━━┯━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━┓\n┃교육과정                        │해당 분야 실시경험이  │해당 분야 실시경험이 있는 종사자2)        ┃\n┃                                │없는 종사자           │                                          ┃\n┃                                ├───────────┼───────┬─────────────┨\n┃                                │신규자 교육과정       │심화 교육과정 │보수 교육과정             ┃\n┃                                │(우선교육시간)1)      │              │                          ┃\n┣━━━━━━━━━━━━━━━━┿━━━━━━━━━━━┿━━━━━━━┿━━━━━━━━━━━━━┫\n┃ 가. 임상시험 시험책임자3),     │8시간 이상            │6시간 이상    │4시간 이상                ┃\n┃시험담당자4)                    │(4시간 이상)          │              │                          ┃\n┠────────┬───────┼───────────┼───────┼─────────────┨\n┃ 나. 심사위원회 │의사등3)      │8시간 이상            │6시간 이상    │4시간 이상                ┃\n┃위원            │              │(4시간 이상)          │              │                          ┃\n┃                ├───────┼───────────┼───────┼─────────────┨\n┃                │그 밖의 위원  │12시간 이상           │6시간 이상    │4시간 이상                ┃\n┃                │              │(6시간 이상)          │              │                          ┃\n┠────────┴───────┼───────────┼───────┼─────────────┨\n┃ 다. 관리약사                   │8시간 이상            │6시간 이상    │4시간 이상                ┃\n┃                                │(4시간 이상)          │              │                          ┃\n┠────────────────┼───────────┼───────┼─────────────┨\n┃ 라. 임상시험 모니터요원        │40시간 이상           │24시간 이상   │8시간 이상                ┃\n┠────────────────┤(20시간 이상)         │              │                          ┃\n┃ 마. 임상시험 코디네이터        │                      │              │                          ┃\n┠────────────────┤                      │              │                          ┃\n┃ 바. 임상시험 실시기관 품질보증 │                      │              │                          ┃\n┃담당자                          │                      │              │                          ┃\n┗━━━━━━━━━━━━━━━━┷━━━━━━━━━━━┷━━━━━━━┷━━━━━━━━━━━━━┛\n1) 임상시험 업무 경력이 없는 사람이 그 업무를 시작하기 전에 받아야 하는 교육시간을 말한다. 다만,\n현장실습교육 등을 목적으로 보조적인 업무를 수행하는 경우에는 해당 업무를 시작하지 않은 것으로\n본다.\n2) 심화 또는 보수 교육과정의 교육대상자이면서 교육을 실시한 경우에는 교육시간을 이수시간으로 인정하\n며, 심포지엄, 워크숍 등으로 이수할 수 있다. 보수교육과정은 평가를 생략할 수 있다.\n3) 의사 등이 시험책임자?시험담당자 교육과정에서 이수 받은 교육시간은 심사위원회 교육과정에서 이\n수 받은 교육시간으로 보며, 반대의 경우도 동일하게 적용한다.\n4) 시험당당자(Subinvestigator)란 시험책임자의 위임 및 감독 하에 임상시험과 관련된 업무를 담당하거\n나 필요한 사항을 결정하는 의사·치과의사·한의사 및 그 밖의 임상시험에 관여하는 사람을 말한다.\n\n2. 월할 계산\n가. 임상시험 종사자의 해당 연도 근무일이 신규채용 또는 휴직·복직 등의 사유로 12개월 미만인 경우에는 제1호에 따른 연간이수시간을 월할 계산하되, 근무개시일 또는 근무종료일이 속한 달은 실제로 근무한 일수와 상관없이 월할 계산 시에 1개월로 산입하며, 월할 계산한 이수시간 중 1시간미만의 시간은 1시간으로 본다.\n나. 신규자 교육 중 우선교육시간은 가목에도 불구하고 월할계산하지 아니한다.",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000214107&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119150735",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119150735",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립나주병원임상시험운영규정#BYL0001",
+      "filename": "별표1_임상시험 종사자별 교육과정 및 연간이수시간.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "임상시험계약서",
+      "enforcement_date": "",
+      "content": "[별지 제1호 서식]\n임 상 시 험 계 약 서\n임상시험 의뢰자(이하??갑??이라한다)는 국립나주병원(이하??을??이라 한다)과 국립나주병원임상시험운영규정 제4조에서 정한 임상시험의 실시에 있어서 필요한 사항을 정하기 위하여 다음과 같이 계약을 체결한다.\n제1조(목적) ??갑??과 ??을??은 다음 각 호의 사항에 대해 임상시험 연구계약을 체결하기로 한다.\n1. 임상시험 연구 과제 명 :\n2. 제약회사 및 의약품명 :\n3. 임상시험 연구기간 :     년   월   일 ∼     년   월   일\n4. 임상시험 책임자(소속/직급/성명) :\n제2조(연구비 지급 등) ①??갑??은 ??을??에게 다음 각 호에 따라 연구비를 지급한다.\n1. 연구비 총액 :\n2. 연구비 지불 방법 : □ 일시납    □ 2회 분납    □ 기타\n3. 연구비 지불 시기\n가. 1차(계약일로부터   일 이내) : ￦\n※ 간접비 :         원 포함\n나. 2차(      년,   월,   일) : ￦\n다. 기타 :\n4. 연구비 입금 계좌 :\n② ??갑??은 임상시험에 사용되는 의약품을??을??에게 적시에 공급하여야 한다.\n제3조(연구비등의 반납) ①??을??은 다음 각 호의 어느 하나에 해당 되었을 때에는 미사용 연구비 및 임상시험용 의약품을 ??갑??에게 반납함을 원칙으로 하되 그 내용은 ??갑??과 ??을??의 별도 합의로 정한다.\n1. 임상시험의 조기종료\n2. 시험 중단\n② 예상 연구대상자 수 변경에 따른 연구비 증감 등 연구비 정산에 대한 사항은 ??갑??과 ??을??의 별도의 합의로 정한다.\n제4조(책임과 의무) ①??갑??과 ??을??은 본 계약서에 명시된 의무사항에 대해 각자 책임을 져야 한다.\n②??갑??과 ??을??은 제2조의 계약사항을 달성하기 위해 신의성실의 원칙에 입각하여 계약을 성실히 이행하여야 한다.\n제5조(피해보상) ??갑??은 본 계약서의 임상시험과 관련하여 연구대상자 또는 대리인으로부터??을??에 대한 법적ㆍ재정적 보상 요구가 있은 때에 이것이??을??의 명백한 과실이나 의무태만에 기인한 것이 아닐 경우에는 이를 보상하여야 한다.\n제6조(임상시험 계획의 변경) 이 계약서에 명시된 시험연구 명, 의약품명, 임상시험연구비, 임상시험 연구기간 등은 원칙적으로 변경 할 수 없다. 다만, 부득이한 사유로 당초 계획대로 시험을 진행 할 수 없을 때에는 ??갑??과??을??이 상호 협의 후 이를 변경할 수 있다.\n제7조(비밀보장)??갑??과 ??을??은 쌍방의 협의 없이는 본 임상시험과 관련하여 취득한 비밀을 외부에 공개 또는 제공하지 아니한다.\n제8조(시험결과 통지)??을??은 임상시험 완료 시 그 시험결과를 지체 없이??갑??에게 제출하여야 하며, 이로서 본 계약에 의한 임상시험은 이행된 것으로 본다.\n제9조(계약서의 효력) 본 계약은 ??갑??과 ??을??이 날인한 날로부터 유효하다.\n제10조(기타) 이 계약서에 명시되지 않는 사항에 관하여 해석 또는 결정이 필요한 경우에는??갑??과 ??을??이 상호 협의하여 결정한다.\n※ 계약서에 업무의 위임 및 분장(分掌)에 관한 사항 및 임상시험의뢰자와 국립나주병원장의 의무사항 추가 명시 필요\n위와 같이 의약품 임상시험 계약을 체결하고 그 증거로서 계약서 2부를 작성하여 계약자 상호 기명날인하여 ??갑??과 ??을?? 각자 1부씩 보관한다.\n년    월    일\n??갑??(주  소)\n(기관명)\n(대표자)             (인)\n??을??(주  소) 전남 나주시 산포면 세남로 1328-31\n(기관명) 국립나주병원\n(대표자)             (인)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119150739",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119150739",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립나주병원임상시험운영규정#BJ0001",
+      "filename": "별지1_임상시험계약서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "연구비입금서",
+      "enforcement_date": "",
+      "content": "[별지 제2호 서식]\n연 구 비 입 금 서\n┏━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━┓\n┃과 제 명    │                                            ┃\n┠──────┼───────┬────┬──┬─────┬┨\n┃소속기관    │              │소속부서│    │책임연구원│┃\n┠──────┼───────┼────┼──┼─────┴┨\n┃담당자성명  │              │연 락 처│    │E-mail:     ┃\n┠──────┴───────┴────┴──┴──────┨\n┃입금자 및 입금내역                                        ┃\n┠──────┬──────────────────────┨\n┃예 금 주    │                                            ┃\n┠──────┼──────────────┬───┬───┨\n┃입금계좌번호│                            │은행명│      ┃\n┠──────┼──────────────┴───┴───┨\n┃입금내역    │□ 심 사 비           □ 임상시험연구비     ┃\n┠──────┼──────────────────────┨\n┃입 금 액    │一金               원整 (￦               ) ┃\n┠──────┼──────┬──────┬───┬────┨\n┃입 금 자    │기 관 명    │            │연락처│        ┃\n┃            │(담당자성명)│            │      │        ┃\n┠──────┴──────┴──────┴───┴────┨\n┃ 〈기타사항〉                                             ┃\n┃                                                          ┃\n┃                                                          ┃\n┃                                                          ┃\n┃                                                          ┃\n┃                                                          ┃\n┃                                                          ┃\n┃                                                          ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119150745",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119150745",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립나주병원임상시험운영규정#BJ0002",
+      "filename": "별지2_연구비입금서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "영수증",
+      "enforcement_date": "",
+      "content": "[별지 제3호 서식]\n영   수   증\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃□ 연구과제명 :                                                       ┃\n┃                                                                      ┃\n┃□ 소      속 :                                                       ┃\n┃                                                                      ┃\n┃□ 연구책임자 :                                                       ┃\n┠───────────────────────────────────┨\n┃                                                                      ┃\n┃□ 입금계좌 :                                                         ┃\n┃                                                                      ┃\n┃□ 예 금 주 :                                                         ┃\n┃                                                                      ┃\n┃□ 금    액 : 一金               원整 (￦              )              ┃\n┃                                                                      ┃\n┃                                                                      ┃\n┃위 임상시험연구과제에 대한 연구비(심의비)를 위와 같이 수령하였습니다. ┃\n┃                                                                      ┃\n┃20   년    월    일                                                   ┃\n┃                                                                      ┃\n┃                                                                      ┃\n┃  수령인 : 국립나주병원장   (인)                                      ┃\n┃                                                                      ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119150749",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119150749",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립나주병원임상시험운영규정#BJ0003",
+      "filename": "별지3_영수증.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "연구수행 기여도 평가서 및 보상적 경비 지급한도",
+      "enforcement_date": "",
+      "content": "[별지 제4호 서식]\n연구수행 기여도 평가서 및 보상적 경비 지급한도\n1. 연구과제 기본사항\n┏━━━━━━━┯━━━━━━━━┓\n┃연구과제명    │                ┃\n┠───────┼┬──────┬┨\n┃연구책임자    ││연구비      │┃\n┃              ││지원기관명  │┃\n┠───────┼┼──────┼┨\n┃연구비        ││연구계약기간│┃\n┃계약총액      ││            │┃\n┠───────┼┴──────┴┨\n┃당해연도      │                ┃\n┃연구비 입금액 │                ┃\n┗━━━━━━━┷━━━━━━━━┛\n2. 연구수행 기여도 및 보상적 경비 지급한도액 계산\n(단위 : 원)\n┏━━━┯━━┯━━━━━━┯━━━━━━━┯━━━━━━┯━━━━┯━━━━━━━┯━━┓\n┃구분¹│성명│당해 연도   │초과수입금    │연간 지급   │연구수행│보상적 경비   │비고┃\n┃      │    │초과수입금  │중 당해 연도  │한도액(C)   │기여도²│지급한도액(E) │    ┃\n┃      │    │발생액(A)   │연구수행경비  │C=(A-B)×20%│(D, %)  │E=C×D        │    ┃\n┃      │    │            │지출액(B)     │            │        │              │    ┃\n┠───┼──┼──────┼───────┼──────┼────┼───────┼──┨\n┃      │    │            │              │            │        │              │    ┃\n┠───┼──┤            │              │            ├────┼───────┼──┨\n┃      │    │            │              │            │        │              │    ┃\n┠───┼──┤            │              │            ├────┼───────┼──┨\n┃      │    │            │              │            │        │              │    ┃\n┠───┼──┤            │              │            ├────┼───────┼──┨\n┃      │    │            │              │            │        │              │    ┃\n┣━━━┷━━┿━━━━━━┿━━━━━━━┿━━━━━━┿━━━━┿━━━━━━━┿━━┫\n┃합   계     │            │              │            │        │              │    ┃\n┗━━━━━━┷━━━━━━┷━━━━━━━┷━━━━━━┷━━━━┷━━━━━━━┷━━┛\n\n※ 1. 구분 : 연구책임자, 공동연구원, 참여연구원 등을 기재함.\n2. 기여도 : 해당연구과제 수행과정에서 당해 연도 기여도를 평가하여 대상자별 비율을 기재.\n위와 같이 연구수행 기여도에 따른 보상적 경비 지급한도액을 계산하여 제출합니다.\n\n20    년    월    일\n\n연구책임자 :                       (서명)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119150753",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119150753",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립나주병원임상시험운영규정#BJ0004",
+      "filename": "별지4_연구수행 기여도 평가서 및 보상적 경비 지급한도.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "국립나주병원 임상시험운영규정_전문.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=119111011",
+      "file_store_url": "",
+      "filename": "국립나주병원 임상시험운영규정_전문.hwp"
+    },
+    {
+      "name": "국립나주병원 임상시험운영규정 개정(안).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=119111013",
+      "file_store_url": "",
+      "filename": "국립나주병원 임상시험운영규정 개정(안).hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 14,
+    "by_category": {
+      "법령": 5,
+      "별표": 3,
+      "별지": 5,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 5,
+      "appendix_ref": 8,
+      "internal_ref": 1
+    },
+    "articles_total": 23,
+    "articles_with_relations": 6,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 4,
+    "appendices_count": 5,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/국립나주병원 임상시험운영규정"
+  },
+  "provision_id": "admrul:국립나주병원임상시험운영규정#DOC"
+}
