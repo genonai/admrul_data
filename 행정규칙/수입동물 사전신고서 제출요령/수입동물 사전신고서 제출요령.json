@@ -1,0 +1,523 @@
+{
+  "law_id": "2100000214936",
+  "mst": "2100000214936",
+  "law_name": "수입동물 사전신고서 제출요령",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000214936",
+  "promulgation_no": "2022-40",
+  "promulgation_date": "20221005",
+  "enforcement_date": "20221005",
+  "revision_date": "20221005",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "농림축산검역본부(동물검역과)",
+    "담당자명": "장예림",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "수입동물 사전신고서 제출요령",
+    "발령일자": "20221005",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "농림축산검역본부",
+    "전화번호": "054-912-0425",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1543000",
+    "생성일자": "20230102",
+    "행정규칙ID": "2054445",
+    "시행일자": "20221005",
+    "담당부서기관코드": "1543067",
+    "발령번호": "2022-40",
+    "행정규칙일련번호": "2100000214936",
+    "상위부처명": "농림축산식품부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n○ 검역계류장 사용 지정 등 효율적인 업무 처리가 가능토록 미비점을 보완하고, 수입동물 사전신고서를 작성하기 쉽도록 민원인 편의를 도모하고자 함\n◇ 주요내용\n가. 제3조제1항과 통일성 있는 자구 수정(안 제4조)\n나. 재검토기한 재설정(안 제8조)\n다. 민원인이 작성하기 편리하도록 기존 서식 변경, 민원사무처리표에 정해진 처리기간 등을 반영하여 건별 처리 현황 구체적 파악 가능(별지 제1호 서식)",
+  "body": {
+    "format": "articles",
+    "article_count": 8,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 요령은 「가축전염병예방법」 제35조 및 같은 법 시행규칙 제36조 규정에 의하여 동물을 수입하기 전에 수입자로 하여금 농림축산검역본부 지역본부장에게 수입동물사전신고서를 사전에 제출하게 하여 검역장소, 검역물량, 검역시기 등을 지정하여 효율적으로 검역업무를 수행함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제35조",
+            "line_text": "",
+            "target_law_name": "가축전염병예방법",
+            "target_article_no": "제35조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/가축전염병예방법/제35조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입동물사전신고서제출요령#JO0001",
+            "reference_id": "law:가축전염병예방법#JO0035"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행규칙",
+            "line_text": "",
+            "target_law_name": "가축전염병예방법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/가축전염병예방법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입동물사전신고서제출요령#JO0001",
+            "reference_id": "law:가축전염병예방법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제36조",
+            "line_text": "",
+            "target_law_name": "가축전염병예방법 시행규칙",
+            "target_article_no": "제36조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/가축전염병예방법 시행규칙/제36조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입동물사전신고서제출요령#JO0001",
+            "reference_id": "law:가축전염병예방법시행규칙#JO0036"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수입동물사전신고서제출요령#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "신고서 제출",
+        "chapter": "",
+        "content": "제2조(신고서 제출) ① 「가축전염병예방법 시행규칙」제36조제2항에 의하여 동물을 수입하고자 하는 자는 별지 제1호서식의 수입동물사전신고서(이하\"신고서\"라 한다)를 농림축산검역본부 지역본부장(이하\"관할 지역본부장\"이라 한다)에게 제출하여야 한다.② 「가축전염병예방법」제42조 및 같은 법 시행규칙 제42조에 따라 검역시행장을 지정받은 경우에는 제1항의 규정에 따른 신고서를 제출한 것으로 본다.③ 신고서 제출기간은 수입동물의 국내 도착예정일 기준으로 30일전에 제출하여야 한다. 다만, 소ㆍ돼지ㆍ사슴 및 말의 신고서 제출기간은 다음 각 호와 같다.1. 소ㆍ돼지ㆍ사슴 : 국내 도착예정일 기준으로 30일 전 매월 1일부터 5일까지 신고서를 제출하여야 한다. 다만, 제주지역본부장에게 신고되는 소ㆍ돼지ㆍ사슴의 사전신고서 제출은 제3항의 본문을 따른다.2. (삭제)3. 말 : 국내 도착예정일 기준으로 20일 전까지 신고서를 제출하여야 한다",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제1항",
+            "link_text": "「가축전염병예방법 시행규칙」",
+            "line_text": "",
+            "target_law_name": "가축전염병예방법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/가축전염병예방법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입동물사전신고서제출요령#JO0002",
+            "reference_id": "law:가축전염병예방법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제1항",
+            "link_text": "제36조제2항",
+            "line_text": "",
+            "target_law_name": "가축전염병예방법 시행규칙",
+            "target_article_no": "제36조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/가축전염병예방법 시행규칙/제36조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입동물사전신고서제출요령#JO0002",
+            "reference_id": "law:가축전염병예방법시행규칙#JO0036"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제1항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "수입동물 사전신고서 제출요령",
+            "target_article_no": "별지1",
+            "target_article_title": "수입동물 사전신고서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119970847",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입동물사전신고서제출요령#JO0002",
+            "reference_id": "admrul:수입동물사전신고서제출요령#BJ0001"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "제42조",
+            "line_text": "",
+            "target_law_name": "가축전염병예방법",
+            "target_article_no": "제42조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/가축전염병예방법/제42조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입동물사전신고서제출요령#JO0002",
+            "reference_id": "law:가축전염병예방법#JO0042"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "같은 법 시행규칙",
+            "line_text": "",
+            "target_law_name": "가축전염병예방법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/가축전염병예방법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입동물사전신고서제출요령#JO0002",
+            "reference_id": "law:가축전염병예방법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "제42조",
+            "line_text": "",
+            "target_law_name": "가축전염병예방법 시행규칙",
+            "target_article_no": "제42조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/가축전염병예방법 시행규칙/제42조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입동물사전신고서제출요령#JO0002",
+            "reference_id": "law:가축전염병예방법시행규칙#JO0042"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수입동물사전신고서제출요령#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "검역장소, 검역물량, 검역시기 등의 지정",
+        "chapter": "",
+        "content": "제3조(검역장소, 검역물량, 검역시기 등의 지정) ① 제2조에 따른 신고서를 제출받은 관할 지역본부장은 축사의 수용능력 등을 판단하여, 수입자에게 검역장소, 검역물량, 검역시기 등을 별지 제2호서식으로 지정 통보하여야 한다. 다만, 개ㆍ고양이에 대하여는 광견병 예방접종 후 면역형성 기간을 고려한 계류두수 등을 감안하여 조정한다.② 신고서 제출에 따른 검역장소, 물량, 시기 등의 지정은 신고서 제출시기로부터 6개월 한도 내에서 조정할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "수입동물 사전신고서 제출요령",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수입동물 사전신고서 제출요령/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입동물사전신고서제출요령#JO0003",
+            "reference_id": "admrul:수입동물사전신고서제출요령#JO0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "수입동물 사전신고서 제출요령",
+            "target_article_no": "별지2",
+            "target_article_title": "수입동물 검역계류장 사용 지정서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119970851",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입동물사전신고서제출요령#JO0003",
+            "reference_id": "admrul:수입동물사전신고서제출요령#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수입동물사전신고서제출요령#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "축사 수용능력 등을 초과하는 신고서 제출에 대한 조정",
+        "chapter": "",
+        "content": "제4조(축사 수용능력 등을 초과하는 신고서 제출에 대한 조정) 축사 수용능력 등을 초과하는 신고서 제출에 따라 검역장소, 검역물량, 검역시기 등의 조정이 필요한 경우에는 신고서의 제출일자 및 제출자의 다수에 관계없이 수입자간에 협의조정하고 협의조정이 되지 않은 경우에는 추첨에 의하여 조정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수입동물사전신고서제출요령#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "지정사항효력",
+        "chapter": "",
+        "content": "제5조(지정사항효력) 제3조 및 제4조에 따라 검역장소, 검역물량, 검역시기 등을 지정 받은 신고서 제출자가 지정사항을 이행하지 아니하여 수입이 지연되고 검역업무 수행에 지장을 초래하는 경우에는 지정사항의 효력이 상실되며, 해당 신고서 제출자는 도착예정일로부터 6개월 동안 검역장소, 검역물량, 검역시기 등의 조정 대상에서 제외될 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제3조 및 제4조",
+            "line_text": "",
+            "target_law_name": "수입동물 사전신고서 제출요령",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수입동물 사전신고서 제출요령/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입동물사전신고서제출요령#JO0005",
+            "reference_id": "admrul:수입동물사전신고서제출요령#JO0003"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제3조 및 제4조",
+            "line_text": "",
+            "target_law_name": "수입동물 사전신고서 제출요령",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수입동물 사전신고서 제출요령/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입동물사전신고서제출요령#JO0005",
+            "reference_id": "admrul:수입동물사전신고서제출요령#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수입동물사전신고서제출요령#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "지정받지 않고 수입된 동물의 조치",
+        "chapter": "",
+        "content": "제6조(지정받지 않고 수입된 동물의 조치) 관할 지역본부장은 검역장소 등을 지정 받지 아니하고 수입된 동물에 대하여 해당 동물의 화주나 운송업자 등에게 하역의 금지 등 필요한 조치를 명하여야 한다. 다만, 관할 지역본부장이 검역시행장의 수용상태ㆍ수용능력 등을 고려하여 검역에 지장을 초래하지 않는다고 판단하는 경우에는 그러하지 아니하다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수입동물사전신고서제출요령#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "보고",
+        "chapter": "",
+        "content": "제7조(보고) 관할 지역본부장은 제3조에 따라 신고서 제출에 대하여 검역장소, 검역물량, 검역시기 등을 지정하였을 경우 농림축산검역본부장에게 그 지정사항을 보고하여야 한다. 다만, 검역물량, 검역시기 등 지정사항의 조정내용이 미미할 경우에는 보고를 생략할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "제3조",
+            "line_text": "",
+            "target_law_name": "수입동물 사전신고서 제출요령",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수입동물 사전신고서 제출요령/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입동물사전신고서제출요령#JO0007",
+            "reference_id": "admrul:수입동물사전신고서제출요령#JO0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수입동물사전신고서제출요령#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제8조(재검토기한) 농림축산검역본부장은 이 고시에 대하여「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2023년 1월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입동물사전신고서제출요령#JO0008",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수입동물사전신고서제출요령#JO0008"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20110615",
+      "promulgation_no": "2011-27",
+      "content": "부칙 <제2011-27호,2011. 6. 15.>제1조(시행일) 이 고시는 2011년 6월 15일 부터 시행한다.제2조(재검토기한) 이 고시는 2014년 6월 14일까지 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제248호) 제7조제3항제2호에 따라 재검토하여야 한다."
+    },
+    {
+      "promulgation_date": "20120326",
+      "promulgation_no": "2012-73",
+      "content": "부칙 <제2012-73호,2012. 3. 26.>제1조 (시행일) 이 고시는 2012년 3월 26일부터 시행한다제2조 (재검토기한) 이 고시는 2015년 3월 25일까지 \"「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제248호)\" 제7조제3항 제2호에 따라 재검토하여야 한다."
+    },
+    {
+      "promulgation_date": "20121113",
+      "promulgation_no": "2012-167",
+      "content": "부칙 <제2012-167호,2012. 11. 13.>제1조 (시행일) 이 고시는 2012년 11월 13일부터 시행한다제2조 (재검토기한) 이 고시는 2015년 11월 12일까지 \"「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제248호)\" 제7조제3항 제2호에 따라 재검토하여야 한다."
+    },
+    {
+      "promulgation_date": "20130323",
+      "promulgation_no": "2013-13",
+      "content": "부칙 <제2013-13호,2013. 3. 23.>제1조 (시행일) 이 고시는 2013년 3월 23일부터 시행한다제2조 (재검토기한) 이 고시는 2016년 3월 22일까지 \"「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제248호)\" 제7조제3항 제2호에 따라 재검토하여야 한다."
+    },
+    {
+      "promulgation_date": "20131223",
+      "promulgation_no": "2013-144",
+      "content": "부칙 <제2013-144호,2013. 12. 23.>제1조 (시행일) 이 요령은 2013년 12월 23일부터 시행한다제2조 (재검토기한) 이 요령은 2016년 12월 22일까지 \"「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제248호)\" 제7조제3항 제2호에 따라 재검토하여야 한다."
+    },
+    {
+      "promulgation_date": "20171221",
+      "promulgation_no": "2017-61",
+      "content": "부칙 <제2017-61호,2017. 12. 21.>제1조 (시행일) 이 요령은 2017년 12월 21일부터 시행한다제2조 (재검토기한) 농림축산검역본부장은 이 고시에 대하여 2018년 1월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 12월 31까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다."
+    },
+    {
+      "promulgation_date": "20191024",
+      "promulgation_no": "2019-72",
+      "content": "부칙 <제2019-72호,2019. 10. 24.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20221005",
+      "promulgation_no": "2022-40",
+      "content": "부칙 <제2022-40호, 2022. 10. 5.>이 고시는 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "수입동물 사전신고서",
+      "enforcement_date": "",
+      "content": "[별지 제1호서식]\n수입동물 사전신고서\n※ 바탕색이 어두운 란은 신청인이 적지 않습니다.\n─────┬───┬───┬────────\n접수번호│접수일│발급일│처리기간  5일\n─────┴───┴───┴────────\n─────┬────────┬────\n수입동물│수출국(원산지)  │두수\n├────────┼────\n│축종            │성별\n├────────┼────\n│품종            │연령\n─────┴────────┴────\n────┬────\n수하인│성명\n├────\n│주소\n────┴────\n────┬────\n송하인│성명\n├────\n│주소\n────┴────\n─────┬──────┬───────\n운송사항│선적예정지  │도착예정일\n├──────┼───────\n│선적예정일  │도착예정항\n├──────┼───────\n│탑재예정선  │수입추천일\n│(항공기)명  │\n─────┴──────┴───────\n─────┬────────────────────────────────────\n기타    │\n참고사항│\n─────┴────────────────────────────────────\n「가축전염병예방법」 제35조 및 같은 법 시행규칙 제36조 규정에 의하여 위와 같이\n수입동물 사전신고서를 제출합니다.\n년     월     일\n주     소:\n신고인성명(상호):                  (서명 또는 인)\n전화번호:\n농림축산검역본부 ㅇㅇ지역본부장 귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n처 리 절 차\n\n\n┌──────┐  ┌─────────┐  ┌─────────┐  ┌─────────┐\n│신고서 작성 │?│접 수             │?│검 토             │?│지정서 발급       │\n└──────┘  └─────────┘  └─────────┘  └─────────┘\n신고인            처리기관                처리기관                처리기관\n(농림축산검역본부)      (농림축산검역본부)      (농림축산검역본부)\n\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n210㎜×297㎜(백상지 80g/㎡)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119970847",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119970847",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수입동물사전신고서제출요령#BJ0001",
+      "filename": "별지1_수입동물 사전신고서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "수입동물 검역계류장 사용 지정서",
+      "enforcement_date": "",
+      "content": "[별지 제2호서식]\n┌──────────────────────────────────┐\n│                                                                    │\n│                                                                    │\n│수입동물 검역계류장 사용 지정서                                     │\n│                                                                    │\n│                                                                    │\n│┌─────┬─────┬────────────────────┐│\n││수입동물  │축종      │지정 두수                               ││\n││          ├─────┼────────────────────┤│\n││          │          │                                        ││\n│├─────┼───┬─┴────────────────────┤│\n││수 하 인  │성명  │                                            ││\n││          ├───┼──────────────────────┤│\n││          │주소  │                                            ││\n│├─────┼───┴┬─────┬───────────────┤│\n││수 출 국  │        │도착예정일│                              ││\n││(원 산 지)│        │          │                              ││\n│├─────┼────┼─────┼───────────────┤│\n││검역장소  │        │지정 기간 │                              ││\n│├─────┼────┴─────┴───────────────┤│\n││기    타  │                                                    ││\n││참고사항  │                                                    ││\n│├─────┴──────────────────────────┤│\n││「가축전염병예방법」 제35조 및 같은 법 시행규칙 제36조 규정에 의││\n││하여 위와 같이 수입동물 검역계류장 사용을 지정합니다.           ││\n││                                                                ││\n││년월일                                                          ││\n││                                                                ││\n││농림축산검역본부 ○○지역본부장                                 ││\n││                                                                ││\n││                                                                ││\n│└────────────────────────────────┘│\n│                                                                    │\n└──────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119970851",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=119970851",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수입동물사전신고서제출요령#BJ0002",
+      "filename": "별지2_수입동물 검역계류장 사용 지정서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "수입동물 사전신고서 제출요령 고시 일부개정 전문.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=119944989",
+      "file_store_url": "",
+      "filename": "수입동물 사전신고서 제출요령 고시 일부개정 전문.hwp"
+    },
+    {
+      "name": "조문별제개정이유서.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=119944991",
+      "file_store_url": "",
+      "filename": "조문별제개정이유서.hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 15,
+    "by_category": {
+      "법령": 8,
+      "별지": 2,
+      "행정규칙": 5
+    },
+    "by_relation_type": {
+      "citation": 9,
+      "appendix_ref": 2,
+      "internal_ref": 4
+    },
+    "articles_total": 8,
+    "articles_with_relations": 6,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 8,
+    "appendices_count": 2,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/수입동물 사전신고서 제출요령"
+  },
+  "provision_id": "admrul:수입동물사전신고서제출요령#DOC"
+}
