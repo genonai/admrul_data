@@ -1,0 +1,579 @@
+{
+  "law_id": "2100000215059",
+  "mst": "2100000215059",
+  "law_name": "인터넷 멀티미디어 방송사업의 방송통신설비에 관한 기술기준",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000215059",
+  "promulgation_no": "2022-19",
+  "promulgation_date": "20221017",
+  "enforcement_date": "20221017",
+  "revision_date": "20221017",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "방송미디어통신위원회(방송미디어진흥기획과)",
+    "담당자명": "최현신",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "인터넷 멀티미디어 방송사업의 방송통신설비에 관한 기술기준",
+    "발령일자": "20221017",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국립전파연구원",
+    "전화번호": "02-2110-1493",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1721000",
+    "생성일자": "20230102",
+    "행정규칙ID": "2037965",
+    "시행일자": "20221017",
+    "담당부서기관코드": "1721141",
+    "발령번호": "2022-19",
+    "행정규칙일련번호": "2100000215059",
+    "상위부처명": "과학기술정보통신부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n제한수신 기술이 발전하고 다양화되고 있으나 현재 제한수신 기술은 특정 단체표준(TTA)만 따르도록 되어 있어 기술발전 추세를 반영하지 못하고 있음에 따라 제한수신 기술을 특정하지 않고 단체표준(TTA)에 규정된 제한수신 기본 기능만을 규정하여 자유롭게 제한수신 기술을 사용할 수 있도록 규제를 완화하고 어려운 용어를 쉬운 용어로 변경하여 사용자 편의를 돕기 위함\n◇ 주요내용\n가. 현재 제한수신 기술은 특정 단체표준(TTA)을 따르도록 규정하고 있으나 제한수신에 대한 기본 요구사항만 규정하여 인터넷 멀티미디어 방송 제공사업자 및 제조업체에서 자유롭게 제한수신 기술을 사용할 수 있도록 규정\n나. 어려운 용어 정비에 따른 용어 변경\n- ‘변위’, ‘복호화’, ‘절체’ 용어는 용어의 이해를 돕기 위해 한자를 병행 표기하여 각각 ‘변위(變位)’, ‘복호화(復號化)’, ‘절체(切替: 잘라서 교체함)’로 변경하고, ‘복호화’ 용어의 경우 기술기준에서 맨 처음 나오는 한 곳만 변경",
+  "body": {
+    "format": "articles",
+    "article_count": 16,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 고시는 「인터넷 멀티미디어 방송사업법」(이하 \"법\"이라 한다) 제14조의2의 규정에 따라 「인터넷 멀티미디어 방송사업의 방송통신설비에 관한 기술기준」을 제시함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「인터넷 멀티미디어 방송사업법」",
+            "line_text": "",
+            "target_law_name": "인터넷 멀티미디어 방송사업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/인터넷 멀티미디어 방송사업법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0001",
+            "reference_id": "law:인터넷멀티미디어방송사업법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제14조의2",
+            "line_text": "",
+            "target_law_name": "인터넷 멀티미디어 방송사업법",
+            "target_article_no": "제14조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/인터넷 멀티미디어 방송사업법/제14조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0001",
+            "reference_id": "law:인터넷멀티미디어방송사업법#JO0014_02"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「인터넷 멀티미디어 방송사업의 방송통신설비에 관한 기술기준」",
+            "line_text": "",
+            "target_law_name": "인터넷 멀티미디어 방송사업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/인터넷 멀티미디어 방송사업법",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0001",
+            "reference_id": "law:인터넷멀티미디어방송사업법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적용범위",
+        "chapter": "",
+        "content": "제2조(적용범위) 이 고시는 법 제4조에 따라 허가를 받아 광대역종합정보통신망 등을 이용하여 인터넷 프로토콜 방식으로 실시간 인터넷 멀티미디어 방송을 제공하는 사업자의 설비에 관한 사항, 가입자 단말장치의 기술적 조건에 관한 사항 및 서비스 품질 등에 관한 사항에 적용한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "인터넷 멀티미디어 방송사업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/인터넷 멀티미디어 방송사업법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0002",
+            "reference_id": "law:인터넷멀티미디어방송사업법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "인터넷 멀티미디어 방송사업법",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/인터넷 멀티미디어 방송사업법/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0002",
+            "reference_id": "law:인터넷멀티미디어방송사업법#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제3조(정의) ① 이 고시에서 사용하는 용어의 정의는 다음과 같다.1.\"인터넷 멀티미디어 방송 제공사업자 설비\"란 법 제4조제1항에 따라 허가를 받은 인터넷 멀티미디어 방송 제공사업자의 설비를 말한다.2.\"가입자 단말장치\"란 인터넷 멀티미디어 방송 제공사업자 설비를 통해 가입자에게 제공되는 인터넷 멀티미디어 방송서비스 시청 등을 지원하기 위한 장치를 말한다.3. \"핵심설비\"란 인터넷 멀티미디어 방송 제공을 위해 필요한 설비 중 음성ㆍ영상의 부호화 설비 및 다중화 설비를 말한다.4. \"인터넷 멀티미디어 방송국사\"란 인터넷 멀티미디어 방송 제공을 위한 핵심설비가 설치되어 있는 장소를 말한다.5.\"영상신호\"란 정지 또는 이동하는 사물의 순간적 영상을 전송하기 위하여 주사에 따라 발생되는 직접적인 전기적 변화를 말한다.6.\"음성신호\"란 음성 또는 기타 음향을 전송하기 위하여 음성 또는 기타 음향에 따라 발생하는 직접적인 전기적 변화를 말한다.7. \"MPEG(Moving Picture Experts Group)\"이란 디지털 컬러 동화상 및 음성 신호의 압축ㆍ부호화 방법 및 부호화된 신호를 다중화 하는 방법의 국제 표준화 작업을 추진하는 그룹을 말하며, 이 그룹에서 정하는 국제표준을 MPEG 표준이라 부른다.8. \"AC-3\"란 영화나 HDTV 등에서 사용하는 음성 압축 기술 및 음성부호화 방식으로 북미 디지털 텔레비전 방송 표준 개발 위원회(Advanced Television Systems Committee, ATSC)의 A/52인 Digital Audio Compression Standard(AC-3, E-AC-3) Revision B의 규격을 말한다.9. \"멀티캐스트(Multicast)\"란 인터넷 프로토콜 방식으로 인터넷상에서 특정 다수에게 동일한 데이터를 전송할 수 있는 방식으로써 인터넷멀티미디어 방송 제공을 희망하는 이용자에게 선별적으로 전송하는 방식을 말한다.10. \"불법복제방지\"란 콘텐츠를 저작권자의 허락 없이 불법으로 복제하는 행위를 방지하는 것을 말한다.11. \"제한수신\"이란 인터넷 멀티미디어 방송 콘텐츠의 시청 권한을 부여받은 사용자만이 이용할 수 있도록 제한함을 의미한다.12. \"프로토콜(Protocol)\"이란 정보기기 사이 즉 컴퓨터 간 또는 컴퓨터와 단말기 사이 등에서 정보교환이 필요한 경우, 이를 원활하게 하기 위하여 상호간의 접속이나 절단방식, 통신방식, 주고받을 자료의 형식, 오류검출방식, 코드변환방식, 전송속도 등 여러 가지 통신규칙과 방법에 대해 약속한 통신규약을 말한다.13. \"인터넷 프로토콜(IP : Internet Protocol)\"이란 OSI(Open Systems Interconnection) 모델의 제3계층(네트워크층)에 해당되는 프로토콜로 패킷의 전송ㆍ경로제어를 위한 규약을 말한다.14. \"패킷(Packet)\"이란 광대역통합정보통신망 등을 통해 전송되는 인터넷 멀티미디어 방송 콘텐츠의 전송 단위를 말한다.15. \"패킷 전달 지연(IP packet transfer delay)\"이란 송신지점과 수신지점간의 시간차이를 말한다.16. \"패킷 손실률(IP packet loss ratio)\"이란 패킷이 네트워크를 통해서 전송되는 동안에 손실되는 비율을 말한다.17. \"패킷 지연 편차(IP packet delay variation)\"란 임의의 시간을 기준으로 한 시간 변위(變位)로서 전송되는 패킷 상호간의 시간 차이를 말한다.② 제1항 외에 이 고시에서 사용하는 용어의 정의는 「법」, 「방송법」, 「방송통신발전기본법」, 「전기통신사업법」 및 「방송통신설비의 기술기준에 관한 규정」이 정하는 바에 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "인터넷 멀티미디어 방송사업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/인터넷 멀티미디어 방송사업법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0003",
+            "reference_id": "law:인터넷멀티미디어방송사업법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "제4조제1항",
+            "line_text": "",
+            "target_law_name": "인터넷 멀티미디어 방송사업법",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/인터넷 멀티미디어 방송사업법/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0003",
+            "reference_id": "law:인터넷멀티미디어방송사업법#JO0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "「방송법」",
+            "line_text": "",
+            "target_law_name": "방송법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/방송법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0003",
+            "reference_id": "law:방송법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "「방송통신발전기본법」",
+            "line_text": "",
+            "target_law_name": "방송통신발전기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/방송통신발전기본법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0003",
+            "reference_id": "law:방송통신발전기본법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "「전기통신사업법」",
+            "line_text": "",
+            "target_law_name": "전기통신사업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전기통신사업법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0003",
+            "reference_id": "law:전기통신사업법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "「방송통신설비의 기술기준에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "방송통신설비의 기술기준에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/방송통신설비의 기술기준에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0003",
+            "reference_id": "law:방송통신설비의기술기준에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "핵심설비의 관리 등",
+        "chapter": "",
+        "content": "제4조(핵심설비의 관리 등) ① 인터넷 멀티미디어 방송 제공사업자는 핵심설비의 고장 등 이상발생 시 교체 및 절체(切替: 잘라서 교체함)를 위한 예비설비를 인터넷 멀티미디어 방송국사 내에 갖추어야 하며 핵심설비의 운용상태를 감시하기 위한 설비를 구축ㆍ운용 한다.② 제1항에 따라 인터넷 멀티미디어 방송 제공사업자는 핵심설비가 기술기준에 적합하게 운용되는지를 매월 점검하여 그 결과를 기록ㆍ관리 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "전원설비",
+        "chapter": "",
+        "content": "제5조(전원설비) 핵심설비 등에 안정적인 전원을 공급하기 위하여 인터넷 멀티미디어 방송국사에는 상용전원설비와 상용전원의 정전 등 이상이 발생한 경우 최대부하전류를 기준으로 3시간 이상 공급할 수 있는 예비전원설비를 「방송통신설비의 기술기준에 관한 규정」 제10조에 따라 설치한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「방송통신설비의 기술기준에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "방송통신설비의 기술기준에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/방송통신설비의 기술기준에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0005",
+            "reference_id": "law:방송통신설비의기술기준에관한규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제10조",
+            "line_text": "",
+            "target_law_name": "방송통신설비의 기술기준에 관한 규정",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/방송통신설비의 기술기준에 관한 규정/제10조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0005",
+            "reference_id": "law:방송통신설비의기술기준에관한규정#JO0010"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "보호기 및 접지",
+        "chapter": "",
+        "content": "제6조(보호기 및 접지) 과전압ㆍ과전류 및 벼락 등 전기적 이상으로부터 이용자ㆍ운용자 및 설비 보호를 위한 보호기 및 접지설비의 설치는 「방송통신설비의 기술기준에 관한 규정」 제7조를 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「방송통신설비의 기술기준에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "방송통신설비의 기술기준에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/방송통신설비의 기술기준에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0006",
+            "reference_id": "law:방송통신설비의기술기준에관한규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "방송통신설비의 기술기준에 관한 규정",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/방송통신설비의 기술기준에 관한 규정/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0006",
+            "reference_id": "law:방송통신설비의기술기준에관한규정#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "망 접속 규격",
+        "chapter": "",
+        "content": "제7조(망 접속 규격) 가입자 단말장치의 물리적인 망 접속은 미국전기전자학회(IEEE)의 802.3i 또는802.3u 또는 802.3ab Ethernet(10 Mbps 또는 100 Mbps 또는 1000 Mbps) 규격을 따르며, 무선접속방식이 추가로 탑재된 경우에 적용 규격은 신고하지 아니하고 개설할 수 있는 무선국용 무선설비의 기술기준 제7조제5항 또는 제7항을 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "제7조제5항 또는 제7항",
+            "line_text": "",
+            "target_law_name": "기술기준",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/기술기준/제7조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0007",
+            "reference_id": "admrul:기술기준#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "서비스 및 시스템 정보",
+        "chapter": "",
+        "content": "제8조(서비스 및 시스템 정보) ① 인터넷 멀티미디어 방송 제공사업자는 다음 각 호의 서비스 및 시스템 정보와 관련된 사항들은 동일한 형식으로 제공 한다.1. 방송서비스 이름2. 방송채널 번호3. 서비스 ID4. 멀티캐스트 주소 및 포트 번호5. 프로그램 제목6. 프로그램 시작시간7. 프로그램 상영시간8. 프로그램 시청등급② 제1항에 따른 서비스 및 시스템 정보에 대한 사항은 한국정보통신기술협회의 \"IPTV 서비스 탐색 및 전송방식(TTAK.KO-08.0027/R3)\"과 \"IPTV 콘텐츠 가이드 정보 및 전송방식(TTAK.KO-08.0028/R2)\" 표준 또는 디지털 유선방송 송수신 정합 표준을 따른다.③ 제2항에도 불구하고 표준이 개정된 경우에는 해당 표준을 적용할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "멀티캐스트 채널 전환 규격",
+        "chapter": "",
+        "content": "제9조(멀티캐스트 채널 전환 규격) 가입자 단말장치의 멀티캐스트 채널 전환 방식은 인터넷 엔지니어링 태스크포스(IETF)의 RFC 2236  IGMP 규격 또는 RFC 3810 MLD 규격을 따른다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "음성신호 압축 및 복호화（復號化） 규격",
+        "chapter": "",
+        "content": "제10조(음성신호 압축 및 복호화（復號化） 규격) 인터넷 멀티미디어 방송 제공사업자 설비와 가입자 단말장치의 음성신호 압축 및 복호화는 ISO/IEC 13818-7 Advanced Audio Coding(AAC) 및 AC-3의 형식을 따른다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "영상신호 압축 및 복호화 규격",
+        "chapter": "",
+        "content": "제11조(영상신호 압축 및 복호화 규격) 인터넷 멀티미디어 방송 제공사업자 설비와 가입자 단말장치의 영상신호 압축 및 복호화는 ITU-T H.264(ISO/IEC 14496-10 Advanced Video Coding(AVC)) 또는 ITU-T H.265 (ISO/IEC 23008-2 High Efficiency Video Coding(HEVC)) 형식을 따른다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "전송스트림 다중화 및 역다중화 규격",
+        "chapter": "",
+        "content": "제12조(전송스트림 다중화 및 역다중화 규격) 인터넷 멀티미디어 방송 제공사업자 설비와 가입자 단말장치의 전송스트림 다중화 및 역다중화는 ISO/IEC 13818-1의 MPEG-2 전송스트림 형식을 따른다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "제한수신",
+        "chapter": "",
+        "content": "제13조(제한수신) ① 인터넷 멀티미디어 방송 제공사업자 설비와 가입자 단말장치는 콘텐츠의 시청 권한을 보호하기 위한 제한수신 기능을 지원해야 한다.② 가입자 제한수신 모듈은 소프트웨어(제한수신 기능 통합 소프트웨어 내려받기 포함) 또는 하드웨어 방식으로 동작하며, 인터넷 멀티미디어 방송 제공사업자 설비와 상호호환이 가능하도록 다음 각호의 기능이 제공되어야 한다.1. 가입자 단말이 인터넷 멀티미디어 방송제공사업자 설비와 접속하는 경우 적합한 가입자 단말인지 확인하는 인증 과정이 정상적으로 동작하여야 한다.2. 가입자 단말은 인터넷 멀티미디어 방송제공사업자 설비에서 제한수신을 위해 발생시키는 키(이하 \"제한수신 키\"라 한다.)를 안전하게 수신하여야 한다.3. 가입자 단말은 제한수신된 영상을 수신하고 제한수신 키를 이용하여 정상적으로 방송을 시청할 수 있도록 하는 기능을 제공하여야 한다.③ 가입자 제한수신 모듈은 제2항을 만족하거나 한국정보통신기술협회 \"IPTV용 교환 가능한 CAS(iCAS) (TTAK.KO-08.0023)\" 표준 또는 디지털 유선방송 송수신 정합 표준을 만족하여야 한다.④ (삭제)",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "콘텐츠 보안",
+        "chapter": "",
+        "content": "제14조(콘텐츠 보안) 인터넷 멀티미디어 방송 제공사업자 설비 및 가입자 단말장치는 보안이 요구되는 콘텐츠에 대한 불법복제방지 기능을 지원 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "네트워크 품질",
+        "chapter": "",
+        "content": "제15조(네트워크 품질) 인터넷 멀티미디어 방송 제공사업자 설비의 품질기준은 다음 각 호와 같다.1. 패킷 전달 지연 : 100 ms이하2. 패킷 손실률 : 10-3이하3. 패킷 지연 편차 : 50 ms이하",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제16조(재검토기한) 국립전파연구원장은 「행정규제기본법」 및 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2020년 1월 1일 기준으로 매3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조",
+            "link_text": "「행정규제기본법」",
+            "line_text": "",
+            "target_law_name": "행정규제기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/행정규제기본법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0016",
+            "reference_id": "law:행정규제기본법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제16조",
+            "source_clause": "제16조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0016",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#JO0016"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20161219",
+      "promulgation_no": "2016-28",
+      "content": "부칙 <제2016-28호,2016. 12. 19.>이 고시는 관보에 게재한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20191227",
+      "promulgation_no": "2019-23",
+      "content": "부칙 <제2019-23호,2019. 12. 27.>이 고시는 관보에 게재한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20211122",
+      "promulgation_no": "2021-21",
+      "content": "부칙 <제2021-21호, 2021. 11. 22.>이 고시는 고시한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20221017",
+      "promulgation_no": "2022-19",
+      "content": "부칙 <제2022-19호, 2022. 10. 17.>이 고시는 고시한 날로부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "조문별제개정이유서.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=120123813",
+      "file_store_url": "",
+      "filename": "조문별제개정이유서.hwpx"
+    },
+    {
+      "name": "인터넷 멀티미디어 방송사업의 방송통신설비에 관한 기술기준 개정(안) 전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=120123811",
+      "file_store_url": "",
+      "filename": "인터넷 멀티미디어 방송사업의 방송통신설비에 관한 기술기준 개정(안) 전문.hwpx"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 18,
+    "by_category": {
+      "법령": 16,
+      "행정규칙": 2
+    },
+    "by_relation_type": {
+      "citation": 18
+    },
+    "articles_total": 16,
+    "articles_with_relations": 7,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 4,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/인터넷 멀티미디어 방송사업의 방송통신설비에 관한 기술기준"
+  },
+  "provision_id": "admrul:인터넷멀티미디어방송사업의방송통신설비에관한기술기준#DOC"
+}
