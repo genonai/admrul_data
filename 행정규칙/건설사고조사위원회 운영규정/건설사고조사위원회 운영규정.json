@@ -1,0 +1,805 @@
+{
+  "law_id": "2100000215252",
+  "mst": "2100000215252",
+  "law_name": "건설사고조사위원회 운영규정",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000215252",
+  "promulgation_no": "2022-595",
+  "promulgation_date": "20221018",
+  "enforcement_date": "20221018",
+  "revision_date": "20221018",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국토교통부(건설안전과)",
+    "담당자명": "허연희",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "건설사고조사위원회 운영규정",
+    "발령일자": "20221018",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국토교통부",
+    "전화번호": "044-201-3562",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1613000",
+    "생성일자": "20221021",
+    "행정규칙ID": "66475",
+    "시행일자": "20221018",
+    "담당부서기관코드": "1613061",
+    "발령번호": "2022-595",
+    "행정규칙일련번호": "2100000215252",
+    "상위부처명": "국토교통부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\nㅇ 건설사고조사위원회의 조사보고서 구성내용 중 현장조치결과, 권고 및 향후 조치 부분을 구체화하고, 청렴서약서 서식을 보완하는 등 현행 제도의 운영상 나타난 일부 미비점을 개선ㆍ보완하려는 것임.\n\n◇ 주요내용\n가. 현 기준*에서는 ‘현장조치결과, 권고 및 향후 조치’ 부분에서 재발방지대책만을 제안하고 있으나, 안전진단 필요성 등을 검토토록 개선\n* (별지 제4호 서식) 건설 사고조사 보고서 중 6. 현장조치결과, 권고 및 향후조치\n나. 청렴서약서 서식을 마련하고, 오탈자 수정 등 보완",
+  "body": {
+    "format": "articles",
+    "article_count": 28,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총  칙",
+        "content": "제1조(목적) 이 규정은 「건설기술 진흥법」제67조 및 같은 법 시행령 제105조의 규정에 의한 중대건설공사현장의 사고조사를 위한 건설사고조사위원회의 구성ㆍ운영 등에 필요한 사항을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제67조",
+            "line_text": "",
+            "target_law_name": "건설기술 진흥법",
+            "target_article_no": "제67조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건설기술 진흥법/제67조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:건설사고조사위원회운영규정#JO0001",
+            "reference_id": "law:건설기술진흥법#JO0067"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "건설기술 진흥법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건설기술 진흥법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:건설사고조사위원회운영규정#JO0001",
+            "reference_id": "law:건설기술진흥법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제105조",
+            "line_text": "",
+            "target_law_name": "건설기술 진흥법 시행령",
+            "target_article_no": "제105조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건설기술 진흥법 시행령/제105조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:건설사고조사위원회운영규정#JO0001",
+            "reference_id": "law:건설기술진흥법시행령#JO0105"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:건설사고조사위원회운영규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "용어 정의",
+        "chapter": "제1장 총  칙",
+        "content": "제2조(용어 정의) 이 규정에서 사용하는 용어의 정의는 다음과 같다.① \"건설사고조사\"란 사고와 관련된 정보 및 자료 등을 수집ㆍ분석하여 사고의 원인규명, 보고서 작성, 유사사고의 방지 대책을 관계기관에게 권고 또는 건의하는 일체의 과정을 말한다.② \"발주청 등\"이라 함은「건설기술 진흥법」(이하 \"건진법\"이라 한다) 제2조제6호에 따른 발주청(「사회기반시설에 대한 민간투자법」에 의한 민간투자사업인 경우에는 동법 제2조제4호에 따른 주무관청을 말한다)과 건설공사의 허가ㆍ인가ㆍ승인등을 한 행정기관의 장을 말한다.③ \"건설사고조사 보고서\"란 사고발생 원인과 분석, 결론 및 권고 등이 포함된 최종적인 보고서를 말한다.④ \"운영위탁기관\"이란 건진법 시행령 제117조제1항제13호에 따라 국토교통부장관으로부터 건설사고조사위원회의 운영에 관한 사무 업무를 위탁받은 기관을 말한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "「건설기술 진흥법」",
+            "line_text": "",
+            "target_law_name": "건설기술 진흥법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건설기술 진흥법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:건설사고조사위원회운영규정#JO0002",
+            "reference_id": "law:건설기술진흥법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "제2조제6호",
+            "line_text": "",
+            "target_law_name": "건설기술 진흥법",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건설기술 진흥법/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:건설사고조사위원회운영규정#JO0002",
+            "reference_id": "law:건설기술진흥법#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "「사회기반시설에 대한 민간투자법」",
+            "line_text": "",
+            "target_law_name": "사회기반시설에 대한 민간투자법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/사회기반시설에 대한 민간투자법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:건설사고조사위원회운영규정#JO0002",
+            "reference_id": "law:사회기반시설에대한민간투자법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "동법",
+            "line_text": "",
+            "target_law_name": "사회기반시설에 대한 민간투자법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/사회기반시설에 대한 민간투자법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:건설사고조사위원회운영규정#JO0002",
+            "reference_id": "law:사회기반시설에대한민간투자법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "제2조제4호",
+            "line_text": "",
+            "target_law_name": "사회기반시설에 대한 민간투자법",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/사회기반시설에 대한 민간투자법/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:건설사고조사위원회운영규정#JO0002",
+            "reference_id": "law:사회기반시설에대한민간투자법#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제4항",
+            "link_text": "제117조제1항제13호",
+            "line_text": "",
+            "target_law_name": "이란 건진법 시행령",
+            "target_article_no": "제117조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/이란 건진법 시행령/제117조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:건설사고조사위원회운영규정#JO0002",
+            "reference_id": "law:이란건진법시행령#JO0117"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:건설사고조사위원회운영규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "적용범위",
+        "chapter": "제1장 총  칙",
+        "content": "제3조(적용범위) 건설사고조사위원회 구성ㆍ운영에 관한 규정은 다음 각 호의 1에 해당하는 경우에 적용한다.1. 건진법 시행령 제105조제3항에 규정한 중대건설현장사고2. 국토교통부장관 및 발주청 등이 제1호의 중대건설현장사고에 대하여 건설사고조사위원회를 구성하여 건설사고조사를 수행하는 경우3. 발주청 등이 사고원인을 직접 조사할 경우에도 조사절차 및 조사방법을 건설사고조사위원회운영 규정을 준용할 수 있음",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제105조제3항",
+            "line_text": "",
+            "target_law_name": "건진법 시행령",
+            "target_article_no": "제105조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건진법 시행령/제105조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:건설사고조사위원회운영규정#JO0003",
+            "reference_id": "law:건진법시행령#JO0105"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:건설사고조사위원회운영규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "건설사고조사위원회의 구성",
+        "chapter": "제2장 건설사고조사위원회 설치",
+        "content": "제4조(건설사고조사위원회의 구성) 국토교통부장관 및 발주청 등은 건설사고조사위원(이하 이 장에서는 \"위원\"이라 한다)의 선정 시 다음 사항을 고려하여 선정한다.① 건설사고조사위원회(이하 이 장에서는 \"위원회\"라 한다)는 건설사고조사위원장(이하 이 장에서는 \"위원장\"이라 한다) 1인을 포함하여 12인 이내의 위원으로 구성하며, 위원을 선정할 때는 건설사고발생현황보고서 등을 참고하여 선정한다.② 위원장은 국토교통부장관 또는 발주청 등이 임명한다.③ 위원은 공정성과 형평성 등을 위하여 전문분야별 출신학교, 직업, 시민단체, 연령 등이 어느 한쪽에 편중되지 아니 하도록 한다.④ 건설사고 조사 중 전문분야의 변경 등 위원교체가 필요할 때에는 위원장의 요구에 의하여 국토교통부장관, 발주청 등이 교체할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:건설사고조사위원회운영규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "건설사고조사위원의 자격",
+        "chapter": "제2장 건설사고조사위원회 설치",
+        "content": "제5조(건설사고조사위원의 자격) 위원회는 다음 각 호에 해당하는 자격을 가진 자 중에서 선정하여 구성한다.1. 건설기술 업무와 관련된 공무원2. 건설기술 업무와 관련된 단체 및 연구기관 등의 임ㆍ직원3. 건설기술 업무에 관한 학식과 경험이 풍부한 사람4. 건설기술 관련 업체(건설업자, 건설기술용역업자 등을 말한다)에서 10년 이상 근무한 사람5. 그 밖에 국토교통부장관 또는 발주청 등이 조사의 공정성과 전문성을 확보하기 위하여 사고조사에 필요하다고 인정하는 사람",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:건설사고조사위원회운영규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "건설사고조사위원단의 구성",
+        "chapter": "제2장 건설사고조사위원회 설치",
+        "content": "제6조(건설사고조사위원단의 구성) ① 국토교통부장관 및 발주청 등은 신속한 위원회 구성을 위하여 사전에 건설사고조사위원단(이하 이 장에서는 \"위원단\"이라 한다)을 구성할 수 있다.② 위원단은 전문분야별로 구성하여 국토교통부장관 또는 발주청 등이 임명 또는 위촉한다.③ 위원단은 제5조의 자격을 갖춘 자로 구성한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제3항",
+            "link_text": "제5조",
+            "line_text": "",
+            "target_law_name": "건설사고조사위원회 운영규정",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/건설사고조사위원회 운영규정/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:건설사고조사위원회운영규정#JO0006",
+            "reference_id": "admrul:건설사고조사위원회운영규정#JO0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:건설사고조사위원회운영규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "제척, 기피 및 회피",
+        "chapter": "제2장 건설사고조사위원회 설치",
+        "content": "제7조(제척, 기피 및 회피) ① 국토교통부장관 및 발주청 등은 위원의 선정 시, 다음 각 호의 어느 하나에 해당하는 경우 제척하여야 한다.1. 위원 또는 그 배우자나 배우자였던 사람이 사건의 당사자이거나 당사자와 공동권리자, 공동의무자 또는 상환의무자의 관계에 있는 경우2. 위원이 당사자와 친족, 가족 관계가 있거나 그러한 관계가 있었을 경우3. 위원이 당사자가 되는 법인에 소속된 경우4. 위원이 사고현장과 관련하여 공사, 용역, 자문, 연구 등을 수행하였거나 그 업무를 수행한 법인에 소속되었거나 소속된 적이 있는 경우② 조사대상 당사자는 위원이 불공정한 조사를 할 우려가 있다고 인정할 만한 상당한 이유가 있는 때에는 그 사실을 서면으로 소명하고 기피신청을 할 수 있다③ 위원은 제1항 각 호의 어느 하나에 해당하는 사유 또는 제2항의 규정에 따라 기피신청을 할 수 있는 사유에 해당하는 경우에는 위원장의 허가를 받아 스스로 조사를 회피할 수 있다.④ 위원장은 건설사고조사에 참여하는 위원 및 사고조사에 참여하는 사고조사기관의 직원으로부터 별지 제5호 서식에 따른 서약서를 제출하게 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제4항",
+            "link_text": "별지 제5호 서식",
+            "line_text": "",
+            "target_law_name": "건설사고조사위원회 운영규정",
+            "target_article_no": "별지5",
+            "target_article_title": "청렴서약서",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=120424799",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:건설사고조사위원회운영규정#JO0007",
+            "reference_id": "admrul:건설사고조사위원회운영규정#BJ0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:건설사고조사위원회운영규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "건설사고조사위원장의 임무",
+        "chapter": "제2장 건설사고조사위원회 설치",
+        "content": "제8조(건설사고조사위원장의 임무) 위원장은 건설현장사고조사가 명확하고 공정하게 이루어지도록 하여야 하며, 이를 위해 위원회의 운영과 의사결정이 적정하게 이루어지도록 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:건설사고조사위원회운영규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "건설사고조사위원의 임무",
+        "chapter": "제2장 건설사고조사위원회 설치",
+        "content": "제9조(건설사고조사위원의 임무) ① 위원은 위원장의 지시에 따라 성실하게 조사업무를 수행하여야 한다.② 위원은 조사계획 및 조사업무 수행과 관련하여 알게 된 사실을 누설하여서는 아니 되며 일체의 금품수수, 향응 등을 받아서는 아니 된다.③ 위원이 제1항 또는 제2항의 규정을 위반한 때에는 해촉한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:건설사고조사위원회운영규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "건설사고조사위원회의 업무범위",
+        "chapter": "제2장 건설사고조사위원회 설치",
+        "content": "제10조(건설사고조사위원회의 업무범위) 위원회는 중대건설현장사고에 대해서 다음의 업무를 수행한다① 사고관련 정보의 수집 및 정리② 건설사고의 경위 및 원인조사③ 건설 사고조사 보고서의 작성 및 결과보고④ 건설사고 재발방지에 관한 권고 또는 건의",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:건설사고조사위원회운영규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "건설사고조사위원의 증표",
+        "chapter": "제2장 건설사고조사위원회 설치",
+        "content": "제11조(건설사고조사위원의 증표) ① 국토교통부장관 및 발주청 등은 사고조사를 위원회에게 통보한 때에 별지서식 1호에 의한 증표를 발급하여야 한다.② 위원의 위촉은 상기의 증표로 갈음하며, 조사 완료, 해촉 또는 사임하고자 할 경우에는 이 증표를 반납하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:건설사고조사위원회운영규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "현장에서의 건강과 안전일반",
+        "chapter": "제2장 건설사고조사위원회 설치",
+        "content": "제12조(현장에서의 건강과 안전일반) 위원은 현장안전담당자로부터 현장의 위험과 잠재적인 장애요소에 관하여 청취하여 그에 대한 대비책을 고려해야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:건설사고조사위원회운영규정#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "사고 현장의 협조의무",
+        "chapter": "제2장 건설사고조사위원회 설치",
+        "content": "제13조(사고 현장의 협조의무) 사고가 발생한 현장의 관계자는 자료제출, 의견청취, 현장출입 등의 위원회의 업무수행에 적극 협조하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:건설사고조사위원회운영규정#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "각종 의결",
+        "chapter": "제2장 건설사고조사위원회 설치",
+        "content": "제14조(각종 의결) ① 위원회는 재적의원 과반수 출석으로 개최하고, 출석의원 과반수 찬성으로 의결한다② 다만, 회의개최 전에 서면으로 의견을 제출한 위원은 위원회의 동의를 받아 출석위원의 의결로 간주할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:건설사고조사위원회운영규정#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "회의록 작성",
+        "chapter": "제2장 건설사고조사위원회 설치",
+        "content": "제15조(회의록 작성) ① 위원회는 회의록을 작성하여야 한다.② 제1항의 회의록은 공개한다. 다만, 영업비밀의 보호 등 특별한 사정이 있는 경우에는 위원회의 의결로써 공개하지 아니할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:건설사고조사위원회운영규정#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "예산집행",
+        "chapter": "제2장 건설사고조사위원회 설치",
+        "content": "제16조(예산집행) ① 위원회의 건설사고 조사활동에 필요한 여비 또는 수당은 예산의 범위 안에서 지급한다.② 공인시험, 분석 등에 소요된 비용은 실비로 청구할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:건설사고조사위원회운영규정#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "정보의 공개 범위",
+        "chapter": "제2장 건설사고조사위원회 설치",
+        "content": "제17조(정보의 공개 범위) 위원회는 건설사고조사 정보의 공개시, 그러한 정보가 공개됨으로써 당해 또는 장래의 정확한 건설사고조사에 영향을 줄 수 있거나, 국가의 안전보장 및 개인의 사생활이 침해될 우려가 있는 경우에는 이를 공개하지 아니할 수 있다. (공공기관의 정보공개에 관한 법률\n제9조(비공개대상정보)준용)",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제17조",
+            "source_clause": "제17조",
+            "link_text": "제9조",
+            "line_text": "",
+            "target_law_name": "건설사고조사위원회 운영규정",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/건설사고조사위원회 운영규정/제9조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:건설사고조사위원회운영규정#JO0017",
+            "reference_id": "admrul:건설사고조사위원회운영규정#JO0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:건설사고조사위원회운영규정#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "사무국 설치 및 운영",
+        "chapter": "제3장 건설사고조사위원회 사무국의 설치",
+        "content": "제18조(사무국 설치 및 운영) ① 운영위탁기관은 위원회 운영에 필요한 업무를 위하여 사무국을 설치할 수 있다.② 제1항에 따라 설치된 사무국은 다음 각 호를 업무를 수행하되, 사무국 운영에 필요한 세부적인 사항은 국토교통부장관의 승인을 받아 운영위탁기관이 정할 수 있다.1. 위원단 구성 및 관리2. 건설사고 발생 모니터링3. 개략적인 사고원인, 피해규모 파악 및 위원회의 설치 필요성 검토를 위한 초기현장조사4. 건설사고 조사계획 수립 지원5. 건설사고의 정보수집, 경위 및 원인조사 지원6. 현장조사, 회의 등 위원회 활동의 지원7. 위원회 운영비용의 지출 및 정산8. 건설사고 예방을 위한 점검 및 교육 등 예방활동9. 건설사고 통계의 작성 및 관리10. 기타 국토교통부 장관이 위원회 운영에 필요하다고 인정하는 업무③ 국토교통부장관은 사무국직원이 현장조사를 할 수 있도록 별지 제1호서식에 따른 증표를 발급하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제3항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "건설사고조사위원회 운영규정",
+            "target_article_no": "별지1",
+            "target_article_title": "건설사고조사반원증",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=120424779",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:건설사고조사위원회운영규정#JO0018",
+            "reference_id": "admrul:건설사고조사위원회운영규정#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:건설사고조사위원회운영규정#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "건설사고현장 초기조치와 현장보존",
+        "chapter": "제4장 현장조사 및 보고서 작성",
+        "content": "제19조(건설사고현장 초기조치와 현장보존) 발주청 등의 담당자는 해당 사고현장에서 사고보고를 접수한 즉시 현장에 대한 보존조치를 해야 한다. 단, 추가적인 피해의 확산을 방지하기 위하여 응급복구나 잔해의 이동이 필요할 경우에는 그 사유와 과정을 문서와 영상 등으로 기록하여 사고원인 조사시 추적이 가능하도록 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:건설사고조사위원회운영규정#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "보고체계",
+        "chapter": "제4장 현장조사 및 보고서 작성",
+        "content": "제20조(보고체계) 건설현장사고의 발생보고와 건설사고조사의 완료보고는 다음의 체계를 따른다.① 사고현장에서 해당 공사, 건설사업관리 또는 감리의 책임자는 발주청 등의 담당자에게 사고상황과 응급조치내용등을 보고하고, 해당 유관기관(시ㆍ군ㆍ구, 경찰서, 소방서, 군부대 등)에 사고발생 현황을 즉시 통보하여 긴급구난, 사고현장 질서유지 등 필요한 사항을 협조 요청 하여야 한다.② 발주청 등의 건설사고현장의 담당책임자는 다음 내용에 따라 보고를 수행한다.1. 국토교통부 소관 건설현장사고의 경우 사고보고 접수 즉시 국토교통부 담당과에 사고상황과 조사방법등을 보고(별지서식 2 참조), 담당과는 건설안전과에 통보2. 1호 이외의 건설현장사고의 경우 국토교통부 건설안전과에 사고상황과 조사방법등을 보고(별지서식 2 참조)3. 사고지역을 관할하는 시ㆍ도, 경찰청 등 공조기관에 사고 등의 개황을 통보하고, 필요한 협조사항을 요청③ 건설사고조사가 완료된 때에는 지체없이 건설 사고조사 보고서를 작성하여 국토교통부장관에게 완료보고를 하여야 한다(별지서식 4 참조)",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:건설사고조사위원회운영규정#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "기한",
+        "chapter": "제4장 현장조사 및 보고서 작성",
+        "content": "제21조(기한) 현장조사는 조사계획 수립 후 그에 따라 체계적으로 시행하는 것을 원칙으로 하며, 사고 발생 후 1주일 이내 착수하여 1개월 이내 종료를 원칙으로 하며 필요시 연장이 가능하다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:건설사고조사위원회운영규정#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "초기현장답사",
+        "chapter": "제4장 현장조사 및 보고서 작성",
+        "content": "제22조(초기현장답사) ① 초기현장답사는 사고 범위와 상태를 평가하고 현장조사를 실시하여 보고서를 작성하기 위한 작업으로 다음을 요구할 수 있다1. 사고현장의 보존2. 현장 및 시험실 시험절차3. 건설사고조사위원회의 조사 준비를 위한 요구사항② 초기현장답사는 위원회의 현장조사로 대체할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:건설사고조사위원회운영규정#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "사고조사계획 수립",
+        "chapter": "제4장 현장조사 및 보고서 작성",
+        "content": "제23조(사고조사계획 수립) 위원장은 건설사고조사에 앞서 체계적인 조사계획을 수립해야 한다. 조사계획에는 사고상황과 현장상태를 반영한 검사시험사항, 면담자 선정, 문서수집목록, 일정계획, 예산편성 등이 포함되어야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:건설사고조사위원회운영규정#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "안전대책",
+        "chapter": "제4장 현장조사 및 보고서 작성",
+        "content": "제24조(안전대책) 현장책임자는 위원이 건설현장사고조사가 진행 중에 작업원 또는 위원 등 인명의 안전을 우선해야 하며, 필요한 경우 안전전문가를 배치하여 위원의 안전이 확보되도록 구조물의 추가적인 붕괴방지나 안전보호대책을 수립할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:건설사고조사위원회운영규정#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "현장조사",
+        "chapter": "제4장 현장조사 및 보고서 작성",
+        "content": "제25조(현장조사) 위원회는 사고현장에서 다음의 내용을 조사하여야 한다.1. 사고현장에 대한 육안 관찰2. 잔해처리 및 필요 잔해 보관3. 시편채집 및 공인시험의 실시4. 영상자료의 기록5. 목격자 확보 및 구두진술(별지제3호 서식)6. 현장 업무절차 확인7. 문서조사8. 기타 위원회가 필요하다고 인정하는 사항",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제25조",
+            "source_clause": "제25조",
+            "link_text": "별지제3호 서식",
+            "line_text": "",
+            "target_law_name": "건설사고조사위원회 운영규정",
+            "target_article_no": "별지3",
+            "target_article_title": "건설사고관계인 진술서 양식",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=120424787",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:건설사고조사위원회운영규정#JO0025",
+            "reference_id": "admrul:건설사고조사위원회운영규정#BJ0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:건설사고조사위원회운영규정#JO0025"
+      },
+      {
+        "article_no": "제26조",
+        "article_title": "원인분석",
+        "chapter": "제4장 현장조사 및 보고서 작성",
+        "content": "제26조(원인분석) ① 위원회는 정확한 사고의 원인을 규명하기 위하여 현장조사, 시험자료와 관련서류, 설계도서 등을 평가 분석하여 가능한 다양한 가설을 수립해야 한다.② 가설을 전개, 정리하면서 조사의 초점을 너무 조기에 좁혀서는 안 되며, 특정한 사고원인에 대해서만 국한해서도 안 된다.③ 가능성 있는 사고원인 목록을 수립하여 확실한 증거에 의해 배제될 때까지 다양한 가능성을 열어놓아야 하며, 조사 각 단계에서 새로운 가설에 대해서도 개방된 사고로 접근해야 한다.④ 복잡한 사고는 종종 복합적으로 작용하는 여러 가지 요인들로 이루어지므로 위원장은 \"가장 가능성 있는\" 원인을 판단할 수 있어야 하고 위원들 사이에 발생한 의견 차이를 합리적으로 좁혀나갈 수 있어야 한다.⑤ 세워진 가설의 증명을 위하여 시험결과와 현장조사 자료를 토대로 가설의 적용가능성과 적정성 여부를 공학적으로 증명하여야 하며 이론적 배경을 설명할 수 있어야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:건설사고조사위원회운영규정#JO0026"
+      },
+      {
+        "article_no": "제27조",
+        "article_title": "사고조사 보고서의 작성",
+        "chapter": "제4장 현장조사 및 보고서 작성",
+        "content": "제27조(사고조사 보고서의 작성) 사고조사 보고서는 다음의 사항을 포함한다. (별지제4호 서식)1. 개요(목적, 피해상황, 현장정보등)2. 현장조사내용3. 시험결과4. 사고원인분석5. 결론6. 권고사항 및 향후조치7. 부록",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제27조",
+            "source_clause": "제27조",
+            "link_text": "별지제4호 서식",
+            "line_text": "",
+            "target_law_name": "건설사고조사위원회 운영규정",
+            "target_article_no": "별지4",
+            "target_article_title": "건설 사고조사 보고서",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=120424791",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:건설사고조사위원회운영규정#JO0027",
+            "reference_id": "admrul:건설사고조사위원회운영규정#BJ0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:건설사고조사위원회운영규정#JO0027"
+      },
+      {
+        "article_no": "제28조",
+        "article_title": "재검토기한",
+        "chapter": "제4장 현장조사 및 보고서 작성",
+        "content": "제28조(재검토기한) 국토교통부장관은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령 훈령 334호)에 따라 이 고시에 대하여 2019년 7월 1일 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제28조",
+            "source_clause": "제28조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:건설사고조사위원회운영규정#JO0028",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:건설사고조사위원회운영규정#JO0028"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20190208",
+      "promulgation_no": "2019-71",
+      "content": "부칙 <제2019-71호,2019. 2. 8.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20221018",
+      "promulgation_no": "2022-595",
+      "content": "부칙 <제2022-595호, 2022. 10. 18.>이 고시는 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "건설사고조사반원증",
+      "enforcement_date": "",
+      "content": "[별지 제1호서식] 건설사고조사반원증(가로 12cm, 세로 11cm)\n┌──────────────────────────────┐\n│                                                            │\n│┌──┐                                                    │\n││사진│?        ?        제   호                         │\n││    │                                                    │\n││    │                                                    │\n││    │                                                    │\n││    │                                                    │\n││    │건설사고조사반원증                                  │\n│└──┘                                                    │\n│                                                            │\n│  ○ 조사명 :                                               │\n│                              소속 :                        │\n│                              직급 :                        │\n│                              성명 :                        │\n│     위 사람은 건설기술 진흥법 제68조 및 동법 시행령 제106  │\n│  조에 의한 건설사고조사반(위원장,원)임을 증명합니다.       │\n│                                                            │\n│        20  년  월   일                                     │\n│                          ┌───────────────┐│\n│        임명기관장        │인                            ││\n│                          └───────────────┘│\n│                                                            │\n└──────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=120424779",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=120424779",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:건설사고조사위원회운영규정#BJ0001",
+      "filename": "별지1_건설사고조사반원증.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "건설사고 발생현황 보고 양식",
+      "enforcement_date": "",
+      "content": "[별지 제2호서식] 건설사고 발생현황 보고 양식\n┌───────────────────────────┐\n│건설사고 발생현황 보고                                │\n├──────┬┬────────────┬──────┤\n│수 신       ││보고일시                │            │\n├──────┼┼────────────┼──────┤\n│발신기관    ││발신(보고자)            │O O O   (인)│\n├──────┼┴────────────┴──────┤\n│제목        │                                        │\n├──────┼─────────────┬────┬─┤\n│사고일시    │20 년  월  일   시  분 경 │기상상태│  │\n├──────┼─────────────┴────┴─┤\n│공사명      │                                        │\n├──────┼─┬───────────┬──────┤\n│시공사      │  │책임자 및             │            │\n│            │  │연락처                │            │\n├──────┼─┼───────────┼──────┤\n│감리자      │  │책임자 및             │            │\n│            │  │연락처                │            │\n├──────┼─┼───────────┼──────┤\n│설계자      │  │책임자 및             │            │\n│            │  │연락처                │            │\n├──────┼─┼───────────┼──────┤\n│현장주소    │  │                      │            │\n├──────┼─┴───────────┴──────┤\n│사고 종류   │                                        │\n├──────┼─┬───────────┬──────┤\n│인적피해    │  │장비손실              │            │\n├──────┼─┼───────────┼──────┤\n│구조물 손실 │  │피해금액              │            │\n├──────┼─┼───────────┼──────┤\n│공기지연    │  │                      │            │\n├──────┼─┴───────────┴──────┤\n│사고발생    │                                        │\n│경위        │                                        │\n│(발생원인)  │                                        │\n├──────┼────────────────────┤\n│조치상황    │                                        │\n│            │                                        │\n├──────┼────────────────────┤\n│사고조사    │ 1. 직접조사                            │\n│방법        │ 2. 사고조사위원회조사                  │\n│            │ 3. 노동부 재해조사시 합동조사          │\n├──────┼────────────────────┤\n│비고        │                                        │\n└──────┴────────────────────┘\n※ 사고사진, 개략도 별첨",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=120424783",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=120424783",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:건설사고조사위원회운영규정#BJ0002",
+      "filename": "별지2_건설사고 발생현황 보고 양식.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "건설사고관계인 진술서 양식",
+      "enforcement_date": "",
+      "content": "[별지 제3호서식] 건설사고관계인 진술서 양식\n┌─────────────────────────────────┐\n│건설사고관계인 진술서                                             │\n├─────────────────────────────────┤\n│일 반 사 항                                                       │\n├───────┬┬──────┬─────────────────┤\n│진술일시      ││진술장소    │                                  │\n├───────┼┼──────┼─────────────────┤\n│성    명      ││주민등록번호│                                  │\n├───────┼┴──────┴─────────────────┤\n│주    소      │                                                  │\n├───────┼┬──────┬─────────────────┤\n│연 락 처      ││핸 드 폰    │                                  │\n├───────┼┼──────┼─────────────────┤\n│근 무 지      ││전화번호    │                                  │\n├───────┼┴──────┴─────────────────┤\n│근무지주소    │                                                  │\n├───────┼─────────────────────────┤\n│사고 관련성   │                                                  │\n├───────┴─────────────────────────┤\n│진 술 내 용                                                       │\n├───────┬┬──────┬─────────────────┤\n│사고인지 장소 ││시간        │                                  │\n├───────┴┴──────┴─────────────────┤\n│사고당시 목격한 것, 들은 것 또는 행동한 것과 사고발생시 일어난    │\n│모든 사실을 6하 원칙에 의거하여 정확히 기입할 것. 가능하다면 사   │\n│고원인에 대한 의견표식도 가능함                                   │\n├─────────────────────────────────┤\n│                                            성명 : O  O  O  (인)  │\n└─────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=120424787",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=120424787",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:건설사고조사위원회운영규정#BJ0003",
+      "filename": "별지3_건설사고관계인 진술서 양식.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "건설 사고조사 보고서",
+      "enforcement_date": "",
+      "content": "[별지 제4호 서식] 건설 사고조사 보고서\n○○○공사 ○○○ 사고\n건 설 사 고 조 사 보 고 서\n20  .  .\n○○발주처\n------------------------------------\n목     차\n1. 개 요\n2. 현장조사내용\n3. 시험결과\n4. 사고원인 분석\n5. 결론\n6. 현장조치결과, 권고 및 향후조치\n7. 부록\n----------------------------------------\n1. 개 요\n1) 목적\n2) 현장정보\n계약주체\n계약내용\n현장관계자 정보\n공사추진상황\n3) 사고정보\n사고의 유형\n사고의 전개\n\n4) 피해상황\n인적피해\n구조물손실\n공기지연\n장비손실\n피해금액\n2. 현장조사내용\n1) 조사관정보\n2) 조사방법\n3) 조사활동 현황\n\n4) 현장의 관리체계\n\n5) 문서의 점검\n\n6) 현장점검사황\n3. 시험결과\n위원회가 필요시 요청한 시험결과에 대한 결과 수록\n4. 사고원인분석\n가설의 수립\n가설의 증명 및 사고원인 분석\n5. 결론\n설계과정\n시공과정\n6. 현장조치결과, 권고 및 향후 조치\n재발방지대책\n사고현장 안전보완 방안\n기타 검토 필요사항(구조물 안전성 검토, 정밀안전진단 필요 여부 등)\n7. 부록",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=120424791",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=120424791",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:건설사고조사위원회운영규정#BJ0004",
+      "filename": "별지4_건설 사고조사 보고서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별지",
+      "title": "청렴서약서",
+      "enforcement_date": "",
+      "content": "[별지 제5호 서식]\n청 렴 서 약 서\nㅇ 공사명 :\nㅇ 구  분 :\n본인은 위 건설공사의 건설사고조사위원으로 위촉 받아 이해관계자에게 어떤 부당한 요구를 하거나 금품ㆍ향응 등을 제공받지 않고 건설사고조사위원회 운영규정 제6조(제척 및 기피) 제1항 각호에 해당사항이 없으며, 기술자의 양심과 도리로 공정하게 조사할 것을 서약하며 이를 위반할 때에는 관계법령에 따라 민ㆍ형사상 책임을 질 것을 서약합니다.\n20   .    .    .\n서약자 : 소속직장명\n직위(급)       성명      (서명)\n국토교통부장관 귀하",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=120424799",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=120424799",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:건설사고조사위원회운영규정#BJ0005",
+      "filename": "별지5_청렴서약서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "건설사고조사위원회 운영규정 개정전문.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=120377307",
+      "file_store_url": "",
+      "filename": "건설사고조사위원회 운영규정 개정전문.hwp"
+    },
+    {
+      "name": "(양식)조문별제개정이유서_건설사고조사위원회 운영규정.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=120377309",
+      "file_store_url": "",
+      "filename": "(양식)조문별제개정이유서_건설사고조사위원회 운영규정.hwpx"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 17,
+    "by_category": {
+      "법령": 10,
+      "행정규칙": 3,
+      "별지": 4
+    },
+    "by_relation_type": {
+      "citation": 11,
+      "internal_ref": 2,
+      "appendix_ref": 4
+    },
+    "articles_total": 28,
+    "articles_with_relations": 10,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 2,
+    "appendices_count": 5,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/건설사고조사위원회 운영규정"
+  },
+  "provision_id": "admrul:건설사고조사위원회운영규정#DOC"
+}
