@@ -1,0 +1,317 @@
+{
+  "law_id": "2100000215426",
+  "mst": "2100000215426",
+  "law_name": "환경위성 기본 산출물 생산 업무처리지침",
+  "law_abbr": "",
+  "law_type": "예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000215426",
+  "promulgation_no": "842",
+  "promulgation_date": "20221027",
+  "enforcement_date": "20221027",
+  "revision_date": "20221027",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국립환경과학원(환경위성센터)",
+    "담당자명": "김덕래",
+    "행정규칙종류코드": "B0002",
+    "행정규칙명": "환경위성 기본 산출물 생산 업무처리지침",
+    "발령일자": "20221027",
+    "행정규칙종류": "예규",
+    "제개정구분코드": "200401",
+    "조문형식여부": "Y",
+    "소관부처명": "국립환경과학원",
+    "전화번호": "032-560-8444",
+    "제개정구분명": "제정",
+    "소관부처코드": "1482000",
+    "생성일자": "20221028",
+    "행정규칙ID": "83355",
+    "시행일자": "20221027",
+    "담당부서기관코드": "1480956",
+    "발령번호": "842",
+    "행정규칙일련번호": "2100000215426",
+    "상위부처명": "기후에너지환경부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n- 환경위성 기본 산출물 생산에 있어 업무를 효율적으로 집행 할 수 있도록 세부사항을 정하고자 업무처리지침을 제정하고자 함\n\n◇ 주요내용\n가. 자료처리 및 재처리\n- 환경위성 기본 산출물 자료 처리는 현업 서버로부터 생산된 정규 자료를 말함\n- 본 지침 제 9조 2항에 따라 처리한다.\n나. 자료 명명 규칙\n- 기본 산출물의 자료 형식은 netCDF 파일 형식으로 제공하며, 본 지침의 표에 따라 정한다.\n\n다. 버전 정보\n- 기본 산출물 자료의 버전 정보는 기존 알고리즘의 보완 및 개선, 새로운 기능 추가를 통해서 본 지침의 표에 따라 정한다.",
+  "body": {
+    "format": "articles",
+    "article_count": 11,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조(목적) 이 지침은 「환경위성센터 운영 규정」(국립환경과학원예규 제786호)에 따른 환경위성 기본 산출물 생산 등에 관한 세부사항을 정함으로써 업무를 효율적으로 집행할 수 있도록 함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「환경위성센터 운영 규정」",
+            "line_text": "",
+            "target_law_name": "환경위성센터 운영 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/환경위성센터 운영 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:환경위성기본산출물생산업무처리지침#JO0001",
+            "reference_id": "admrul:환경위성센터운영규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:환경위성기본산출물생산업무처리지침#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "용어의 정의",
+        "chapter": "제1장 총칙",
+        "content": "제2조(용어의 정의) 이 지침에서 사용하는 용어의 정의는 다음과 같다.1. \"알고리즘\"이란 환경위성 탑재체에서 측정된 복사에너지 값을 농도자료 등 임무에 적합한 측정값으로 바꾸기 위한 일련의 전산 프로그램을 말한다.2. \"기본 산출물\"이란 환경위성에서 관측된 자료로부터 알고리즘을 통해 산출된 대기질 정보(총 21종)를 말하며, 기본 산출물은 별표 1과 같다.3. \"개발 서버\"란 자료처리 알고리즘을 현업 서버에 이전하기 전 사전 점검을 통해 오류 및 자료 검증을 수행하기 위한 서버를 말하며, \"현업 서버\"란 검증 완료된 자료처리 알고리즘의 현업화를 위한 서버를 말한다.4. \"자료 재처리\"란 자료처리 알고리즘의 보완 및 개선, 새로운 기능 등을 통해서 기존 자료를 재처리하는 것을 말한다.5. \"버전 정보\"란 기존의 알고리즘 오류, 장애 등 기능이 보완 및 개선되거나 새로운 기능이 추가됨으로서 버전을 올리는 일련의 규칙적인 번호를 말한다.6. \"알고리즘 기술 분석서(Algorithm Theoretical Basis Document)\"란 기본 산출물 자료를 생성하기 위한 알고리즘의 배경 및 이론, 방법 등을 자세히 기술한 문서를 말한다.7. \"사용자 설명서(User Guide)\"이란 환경위성 기본 산출물을 처음 접하는 사용자를 위해 자료의 생성 과정과 파일 구조를 상세히 명시한 문서를 말한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "환경위성 기본 산출물 생산 업무처리지침",
+            "target_article_no": "별표1",
+            "target_article_title": "기본 산출물(총 21종)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000215426&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:환경위성기본산출물생산업무처리지침#JO0002",
+            "reference_id": "admrul:환경위성기본산출물생산업무처리지침#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:환경위성기본산출물생산업무처리지침#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "적용",
+        "chapter": "제1장 총칙",
+        "content": "제3조(적용) 이 지침은 환경위성 기본 산출물 생산에 관한 경우에 적용한다. 이 외에 있어 다른 법령에 따로 규정이 있는 경우는 예외로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:환경위성기본산출물생산업무처리지침#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "자료의 정의",
+        "chapter": "제2장 자료생산",
+        "content": "제4조(자료의 정의) 기본 산출물 자료는 환경위성 지상국의 전산시스템을 통해 자료처리 알고리즘을 거쳐 생산된 정규 및 재처리 자료를 의미한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:환경위성기본산출물생산업무처리지침#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "자료 처리",
+        "chapter": "제2장 자료생산",
+        "content": "제5조(자료 처리) 「환경위성센터 운영 규정」 제3장의 규정에 따라 기본 산출물 자료 처리는 현업 서버로부터 생산된 정규 자료를 말하며 다음 절차를 따른다.1. 개발 및 개선된 알고리즘은 환경위성센터 내 개발 서버로 이식하여 수행한다. 다만, 단순 오류로 인한 알고리즘 처리는 현업 서버에 직접 적용할 수 있다.2. 개발 서버에 이식된 알고리즘은 처리 속도 및 산출 결과를 토대로 검증 완료하여야 한다.3. 검증 완료된 알고리즘은 현업 서버로 이식하여 현업화 이전에 최소 1주 이상의 시험운영을 거쳐야 한다.4. 현업화로부터 생산된 기본 산출물 서비스는 「환경위성 자료 관리 규정」 제3장의 규정이 정하는 바에 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「환경위성센터 운영 규정」",
+            "line_text": "",
+            "target_law_name": "환경위성센터 운영 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/환경위성센터 운영 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:환경위성기본산출물생산업무처리지침#JO0005",
+            "reference_id": "admrul:환경위성센터운영규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「환경위성 자료 관리 규정」",
+            "line_text": "",
+            "target_law_name": "환경위성 자료 관리 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/환경위성 자료 관리 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:환경위성기본산출물생산업무처리지침#JO0005",
+            "reference_id": "admrul:환경위성자료관리규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:환경위성기본산출물생산업무처리지침#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "자료 재처리",
+        "chapter": "제2장 자료생산",
+        "content": "제6조(자료 재처리) 재처리는 다음 각 호의 어느 하나에 해당하는 경우 실시한다.1. 본 지침 제 9조 2항의 x1이 변경되었을 경우 변경 날짜의 해당 달 1일을 기준으로 최소 3달 전 자료까지 재처리를 수행하며 x2가 변경되었을 경우 해당 달 1일 기준으로 최소 한달 전 자료까지 재처리를 수행한다. x3가 변경되었을 경우 최소 해당 달의 1일 기준으로 재처리를 수행한다.2. 위 항 이외에 산출물의 자료가 오류로 추정되어 재처리가 필요하다고 시급성이 판단될 경우",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:환경위성기본산출물생산업무처리지침#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "자료 명명 규칙",
+        "chapter": "제2장 자료생산",
+        "content": "제7조(자료 명명 규칙) 기본 산출물의 자료 형식은 netCDF 파일 형식으로 제공하며, 파일의 명명 규칙은 아래의 표와 같다.[그림]1. 위성명칭: 천리안위성 2B호를 의미하며 GK2로 표기한다.2. 탑재체 명칭: 환경 센서를 의미하며 GEMS로 표기한다.3. 자료 처리 단계: 정규 산출 과정인 L2로 표기한다.4. 연/월/일: 관측 시작 기준 연/월/일로 YYYY(연), MM(월), DD(일)로 표기한다.5. 시/분: 관측 시작 기준 시/분으로 HH(시), MM(분)으로 표기한다.6. 알고리즘명: 자료처리 알고리즘명을 의미하며 AOD, O3T 등으로 표기한다.7. 관측영역: 관측영역을 의미하며 HE, HK, FC, FW로 표기한다.[그림]8. 처리타입 명칭: 처리타입을 의미하며 아래와 같이 표기- 정규1단계: DPRO(Day Processing)- 정규2단계: NPRO(Night Processing)- 재처리: RPRO(Reprocessing)9. 확장자: 파일 확장자를 의미하며 nc(NetCDF)로 표기",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=120796071",
+            "seq": "120796071"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=120796073",
+            "seq": "120796073"
+          }
+        ],
+        "provision_id": "admrul:환경위성기본산출물생산업무처리지침#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "자료처리담당 및 책임",
+        "chapter": "제2장 자료생산",
+        "content": "제8조(자료처리담당 및 책임) 기본 산출물 자료는 개발(팀) 담당연구관(사)이 알고리즘 개선 및 검증을 수행하고 운영(팀) 담당연구관(사)이 환경위성센터에 구축된 전산시스템을 이용하여 개선된 알고리즘의 시험 및 현업화를 수행한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:환경위성기본산출물생산업무처리지침#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "버전 정보",
+        "chapter": "제2장 자료생산",
+        "content": "제9조(버전 정보) 기본 산출물 자료의 버전 정보는 기존 알고리즘의 보완 및 개선, 새로운 기능 추가를 통해서 다음 각호에 따라 실시하여야 한다.1. 일반적으로 세자리 숫자 x1.x2.x3(예시 Vx1.x2.x3)로 표현한다.2. 각 자리별 특징 및 규칙은 다음과 같은 규칙에 따라 표현한다.[그림]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=120784985",
+            "seq": "120784985"
+          }
+        ],
+        "provision_id": "admrul:환경위성기본산출물생산업무처리지침#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "알고리즘 기술 분석서",
+        "chapter": "제2장 자료생산",
+        "content": "제10조(알고리즘 기술 분석서) 알고리즘 기술 분석서는 산출물의 배경 및 이론, 방법 등을 기술한 문서로써 다음과 같은 내용을 포함하여 작성하여야 한다.1. 알고리즘의 이론적인 배경 및 근거, 산출방법, 산출과정 등을 포함한다.2. 알고리즘을 통해서 산출된 자료는 검증방법, 검증자료, 검증결과 분석을 간략하게 설명을 제시하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:환경위성기본산출물생산업무처리지침#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "사용자 설명서",
+        "chapter": "제2장 자료생산",
+        "content": "제11조(사용자 설명서) 사용자가 환경위성 자료를 이용하여 자료를 분석하고 활용하기 위해서 자료의 특성 및 방법을 이해하기 쉽게 다음과 같은 내용을 포함하여 작성하여야 한다.1. 산출물의 알고리즘 모식도, 입력자료 및 조견표 등을 포함한다.2. 산출물의 파일명, 파일 구조에 대하여 간략한 설명을 제시하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:환경위성기본산출물생산업무처리지침#JO0011"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20221027",
+      "promulgation_no": "842",
+      "content": "부칙 <제842호, 2022. 10. 27.>제1조(시행일) 이 지침은 발령한 날부터 시행한다.제2조(경과조치) 이 규정 시행 이전에 처리된 사항은 이 규정에 따라 처리된 것으로 본다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "기본 산출물(총 21종)",
+      "enforcement_date": "",
+      "content": "[별표 1호]\n기본 산출물(총 21종)\n┏━━┯━━━━━━┯━━━━━━━━━━━━━┯━━━━━┓\n┃순번│산출물 구분 │세부산출물                │단위      ┃\n┣━━┿━━━━━━┿━━━━━━━━━━━━━┿━━━━━┫\n┃1   │에어로졸    │에어로졸 광학깊이(AOD)    │-         ┃\n┠──┤            ├─────────────┼─────┨\n┃2   │            │단일산란반사도            │-         ┃\n┠──┤            ├─────────────┼─────┨\n┃3   │            │자외선 에어로졸 지수      │-         ┃\n┠──┤            ├─────────────┼─────┨\n┃4   │            │가시광 에어로졸 지수      │          ┃\n┠──┤            ├─────────────┼─────┨\n┃5   │            │에어로졸 유효고도         │km        ┃\n┠──┼──────┼─────────────┼─────┨\n┃6   │오존        │전층 오존                 │DU        ┃\n┠──┤            ├─────────────┼─────┨\n┃7   │            │성층권 오존               │DU        ┃\n┠──┤            ├─────────────┼─────┨\n┃8   │            │대류권 오존               │DU        ┃\n┠──┼──────┼─────────────┼─────┨\n┃9   │지표반사도  │지표반사도                │-         ┃\n┠──┼──────┼─────────────┼─────┨\n┃10  │구름        │구름중심기압              │hPa       ┃\n┠──┤            ├─────────────┼─────┨\n┃11  │            │유효운량                  │-         ┃\n┠──┤            ├─────────────┼─────┨\n┃12  │            │구름복사비율              │-         ┃\n┠──┼──────┼─────────────┼─────┨\n┃13  │VOCs        │포름알데히드              │molec/cm2 ┃\n┠──┤            ├─────────────┼─────┨\n┃14  │            │글리옥살                  │molec/cm2 ┃\n┠──┼──────┼─────────────┼─────┨\n┃15  │이산화질소  │대류권 이산화질소         │molec/cm2 ┃\n┠──┤            ├─────────────┼─────┨\n┃16  │            │전층 이산화질소           │molec/cm2 ┃\n┠──┼──────┼─────────────┼─────┨\n┃17  │이산화황    │이산화황 (재난 발생시에만)│molec/cm2 ┃\n┠──┼──────┼─────────────┼─────┨\n┃18  │자외선      │자외선지수                │-         ┃\n┠──┤            ├─────────────┼─────┨\n┃19  │            │식물 반응 가중선량률      │-         ┃\n┠──┤            ├─────────────┼─────┨\n┃20  │            │DNA 손상 가중선량률       │-         ┃\n┠──┤            ├─────────────┼─────┨\n┃21  │            │비타민D 합성 가중선량률   │-         ┃\n┗━━┷━━━━━━┷━━━━━━━━━━━━━┷━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000215426&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=120796077",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=120796077",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:환경위성기본산출물생산업무처리지침#BYL0001",
+      "filename": "별표1_기본 산출물(총 21종).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "환경위성 기본 산출물 생산 업무처리지침.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=120785007",
+      "file_store_url": "",
+      "filename": "환경위성 기본 산출물 생산 업무처리지침.hwpx"
+    },
+    {
+      "name": "(양식)조문별제개정이유서_행정규칙.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=120785009",
+      "file_store_url": "",
+      "filename": "(양식)조문별제개정이유서_행정규칙.hwpx"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 4,
+    "by_category": {
+      "행정규칙": 3,
+      "별표": 1
+    },
+    "by_relation_type": {
+      "citation": 3,
+      "appendix_ref": 1
+    },
+    "articles_total": 11,
+    "articles_with_relations": 3,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 1,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/환경위성 기본 산출물 생산 업무처리지침"
+  },
+  "provision_id": "admrul:환경위성기본산출물생산업무처리지침#DOC"
+}
