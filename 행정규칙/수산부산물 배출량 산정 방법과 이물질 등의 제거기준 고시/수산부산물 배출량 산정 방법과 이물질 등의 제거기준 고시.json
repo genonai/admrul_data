@@ -1,0 +1,412 @@
+{
+  "law_id": "2100000215938",
+  "mst": "2100000215938",
+  "law_name": "수산부산물 배출량 산정 방법과 이물질 등의 제거기준 고시",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000215938",
+  "promulgation_no": "2022-180",
+  "promulgation_date": "20221114",
+  "enforcement_date": "20221114",
+  "revision_date": "20221114",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "해양수산부(양식산업과)",
+    "담당자명": "남정희",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "수산부산물 배출량 산정 방법과 이물질 등의 제거기준 고시",
+    "발령일자": "20221114",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200401",
+    "조문형식여부": "Y",
+    "소관부처명": "해양수산부",
+    "전화번호": "051-773-5633, 5634",
+    "제개정구분명": "제정",
+    "소관부처코드": "1192000",
+    "생성일자": "20221116",
+    "행정규칙ID": "83529",
+    "시행일자": "20221114",
+    "담당부서기관코드": "1192600",
+    "발령번호": "2022-180",
+    "행정규칙일련번호": "2100000215938",
+    "상위부처명": "해양수산부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제정 이유\n가. 수산부산물의 친환경적ㆍ위생적 처리와 재활용을 위해 「수산부산물 재활용 촉진에 관한 법률(이하 ‘법’)」이 제정(’21.7.20. 공포)ㆍ 시행(’22.7.21.)됨\n나. 동법 시행령 제4조 및 제5조제1항제1호에 따라 수산부산물의 연간 발생량을 산출하기 위한 산정방법과 수산부산물 분리배출의무자가 준수해야 하는 이물질 제거기준을 정하려는 것임\n\n◇ 주요내용\n가. 수산부산물 배출량 산정 방법을 구체적으로 정함(제3조)\n나. 이물질 등의 제거기준을 구체적으로 정함(제4조)",
+  "body": {
+    "format": "articles",
+    "article_count": 5,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 고시는 「수산부산물 재활용 촉진에 관한 법률 시행령」 제4조 및 제5조제1항제1호에 따른 수산부산물의 연간 배출량 산정 방법과 이물질 등의 제거기준에 관하여 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「수산부산물 재활용 촉진에 관한 법률 시행령」",
+            "line_text": "",
+            "target_law_name": "수산부산물 재활용 촉진에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수산부산물 재활용 촉진에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산부산물배출량산정방법과이물질등의제거기준고시#JO0001",
+            "reference_id": "law:수산부산물재활용촉진에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제4조 및 제5조제1항제1호",
+            "line_text": "",
+            "target_law_name": "수산부산물 재활용 촉진에 관한 법률 시행령",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수산부산물 재활용 촉진에 관한 법률 시행령/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산부산물배출량산정방법과이물질등의제거기준고시#JO0001",
+            "reference_id": "law:수산부산물재활용촉진에관한법률시행령#JO0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제4조 및 제5조제1항제1호",
+            "line_text": "",
+            "target_law_name": "수산부산물 재활용 촉진에 관한 법률 시행령",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수산부산물 재활용 촉진에 관한 법률 시행령/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산부산물배출량산정방법과이물질등의제거기준고시#JO0001",
+            "reference_id": "law:수산부산물재활용촉진에관한법률시행령#JO0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수산부산물배출량산정방법과이물질등의제거기준고시#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) 이 고시에서 사용하는 용어의 뜻은 다음과 같다.1. \"배출\"이란 수산부산물을 「수산부산물 재활용 촉진에 관한 법률」(이하 \"법\"이라 한다) 제9조제1항에 따라 수산부산물 처리업의 허가를 받은 자나 같은 법 제16조제1항에 따른 수산부산물 자원화시설 또는 같은 법 제7조에 따른 수산부산물 분리배출시설 등에 인계하는 행위를 말한다.2. \"이물질\"이란, 수산물의 포획ㆍ채취ㆍ양식ㆍ가공ㆍ판매 등의 과정에서 혼입되는 물질로, 수산물 또는 수산부산물 외의 물질을 말한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「수산부산물 재활용 촉진에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "수산부산물 재활용 촉진에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수산부산물 재활용 촉진에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산부산물배출량산정방법과이물질등의제거기준고시#JO0002",
+            "reference_id": "law:수산부산물재활용촉진에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제9조제1항",
+            "line_text": "",
+            "target_law_name": "수산부산물 재활용 촉진에 관한 법률",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수산부산물 재활용 촉진에 관한 법률/제9조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산부산물배출량산정방법과이물질등의제거기준고시#JO0002",
+            "reference_id": "law:수산부산물재활용촉진에관한법률#JO0009"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "같은 법",
+            "line_text": "",
+            "target_law_name": "수산부산물 재활용 촉진에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수산부산물 재활용 촉진에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산부산물배출량산정방법과이물질등의제거기준고시#JO0002",
+            "reference_id": "law:수산부산물재활용촉진에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제16조제1항",
+            "line_text": "",
+            "target_law_name": "수산부산물 재활용 촉진에 관한 법률",
+            "target_article_no": "제16조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수산부산물 재활용 촉진에 관한 법률/제16조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산부산물배출량산정방법과이물질등의제거기준고시#JO0002",
+            "reference_id": "law:수산부산물재활용촉진에관한법률#JO0016"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "같은 법",
+            "line_text": "",
+            "target_law_name": "수산부산물 재활용 촉진에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수산부산물 재활용 촉진에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산부산물배출량산정방법과이물질등의제거기준고시#JO0002",
+            "reference_id": "law:수산부산물재활용촉진에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "수산부산물 재활용 촉진에 관한 법률",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수산부산물 재활용 촉진에 관한 법률/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산부산물배출량산정방법과이물질등의제거기준고시#JO0002",
+            "reference_id": "law:수산부산물재활용촉진에관한법률#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수산부산물배출량산정방법과이물질등의제거기준고시#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "수산부산물 배출량 산정 방법",
+        "chapter": "",
+        "content": "제3조(수산부산물 배출량 산정 방법) ① 법 제7조제1항 및 같은 법 시행령 제4조에 따라 수산부산물을 다량으로 배출하는 자로서 수산부산물을 다른 폐기물과 분리해 배출해야 하는 자(이하 \"분리배출의무자\"라 한다)의 연간 수산부산물 배출량(톤/년)은 다음의 식을 이용해 산정한다.[그림]② 수산물의 품목별 폐기율은 별표와 같다.③ 수산부산물이 배출되는 수산부산물 분리작업장 또는 수산물가공시설의 상황에 따라 제1항의 산정 방법을 적용하기에 적합하지 않은 경우, 현장 여건을 고려해 미리 충분히 조사ㆍ예측한 자료 등 객관적인 근거를 토대로 산정 방법의 수치를 증감해 적용할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "제7조제1항",
+            "line_text": "",
+            "target_law_name": "수산부산물 재활용 촉진에 관한 법률",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수산부산물 재활용 촉진에 관한 법률/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산부산물배출량산정방법과이물질등의제거기준고시#JO0003",
+            "reference_id": "law:수산부산물재활용촉진에관한법률#JO0007"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "수산부산물 재활용 촉진에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수산부산물 재활용 촉진에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산부산물배출량산정방법과이물질등의제거기준고시#JO0003",
+            "reference_id": "law:수산부산물재활용촉진에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "수산부산물 재활용 촉진에 관한 법률 시행령",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수산부산물 재활용 촉진에 관한 법률 시행령/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산부산물배출량산정방법과이물질등의제거기준고시#JO0003",
+            "reference_id": "law:수산부산물재활용촉진에관한법률시행령#JO0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「수산부산물 재활용 촉진에 관한 법률」 제4조",
+            "line_text": "제3조(수산부산물 배출량 산정 방법) ① 법 제7조제1항 및 같은 법 시행령 제4조에 따라 수산부산물을 다량으로 배출하는 자로서 수산부산물을 다른 폐기물과 분리해 배출해야 하는 자(이하 \"분리배출의무자\"라 한다)의 연간 수산부산물 배출량(톤/년)은 다음의 식을 이용해 산정한다.[그림]② 수산물의 품목별 폐기율은 별표와 같다.③ 수산부산물이 배출되는 수산부산물 분리작업장 또는 수산물가공시설의 상황에 따라 제1항의 산정 방법을 적용하기에 적합하지 않은 경우, 현장 여건을 고려해 미리 충분히 조사ㆍ예측한 자료 등 객관적인 근거를 토대로 산정 방법의 수치를 증감해 적용할 수 있다.",
+            "target_law_name": "수산부산물 재활용 촉진에 관한 법률",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수산부산물 재활용 촉진에 관한 법률/제4조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:수산부산물배출량산정방법과이물질등의제거기준고시#JO0003",
+            "reference_id": "law:수산부산물재활용촉진에관한법률#JO0004"
+          }
+        ],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=121528631",
+            "seq": "121528631"
+          }
+        ],
+        "provision_id": "admrul:수산부산물배출량산정방법과이물질등의제거기준고시#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "이물질 등의 제거기준",
+        "chapter": "",
+        "content": "제4조(이물질 등의 제거기준) 수산부산물에 붙어 있는 이물질 등은 무게 기준으로 3퍼센트 이하가 되도록 제거해야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수산부산물배출량산정방법과이물질등의제거기준고시#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제5조(재검토기한) 해양수산부장관은 이 고시에 대하여 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2022년 7월 1일 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 해야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산부산물배출량산정방법과이물질등의제거기준고시#JO0005",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수산부산물배출량산정방법과이물질등의제거기준고시#JO0005"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20221114",
+      "promulgation_no": "2022-180",
+      "content": "부칙 <제2022-180호, 2022. 11. 14.>이 고시는 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "수산물의 품목별 폐기율(제3조제2항 관련)",
+      "enforcement_date": "",
+      "content": "[별표]\n수산물의 품목별 폐기율(제3조제2항 관련)\n┌──────┬─────┐\n│수산물 품목 │폐기율(%) │\n├──────┼─────┤\n│굴          │83.7      │\n├──────┼─────┤\n│바지락      │52.9      │\n├──────┼─────┤\n│전복        │54.16     │\n├──────┼─────┤\n│오분자기    │46.6      │\n├──────┼─────┤\n│키조개      │46.8      │\n├──────┼─────┤\n│홍합(담치)  │72.25     │\n├──────┼─────┤\n│꼬막        │74.4      │\n├──────┼─────┤\n│새꼬막      │59.6      │\n├──────┼─────┤\n│피조개      │58.9      │\n└──────┴─────┘\n※ 비고 : 폐기율(%)은 다음의 식에 따라 산정한다.\n\n폐기율(%)   =   100(%)  -   「표준 수산물성분표」에 따른 100g 당 가식부\n수율(%)\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=121528605",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=121528605",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수산부산물배출량산정방법과이물질등의제거기준고시#BYL0000",
+      "filename": "별표0_수산물의 품목별 폐기율(제3조제2항 관련).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "수산부산물 배출량 산정 방법과 이물질 등의 제거기준 고시.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=121518855",
+      "file_store_url": "",
+      "filename": "수산부산물 배출량 산정 방법과 이물질 등의 제거기준 고시.hwpx"
+    },
+    {
+      "name": "(붙임1) 수산부산물 배출량 산정 방법과 이물질 등의 제거기준 고시 제정이유서.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=121518857",
+      "file_store_url": "",
+      "filename": "(붙임1) 수산부산물 배출량 산정 방법과 이물질 등의 제거기준 고시 제정이유서.hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 14,
+    "by_category": {
+      "법령": 13,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 14
+    },
+    "articles_total": 5,
+    "articles_with_relations": 4,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 1,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/수산부산물 배출량 산정 방법과 이물질 등의 제거기준 고시"
+  },
+  "provision_id": "admrul:수산부산물배출량산정방법과이물질등의제거기준고시#DOC"
+}
