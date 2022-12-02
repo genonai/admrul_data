@@ -1,0 +1,595 @@
+{
+  "law_id": "2100000216489",
+  "mst": "2100000216489",
+  "law_name": "환경위성 관측자료의 검증을 위한 지상원격장비 설치·운영 지침",
+  "law_abbr": "",
+  "law_type": "예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000216489",
+  "promulgation_no": "846",
+  "promulgation_date": "20221202",
+  "enforcement_date": "20221202",
+  "revision_date": "20221202",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국립환경과학원(환경위성센터)",
+    "담당자명": "이혜정",
+    "행정규칙종류코드": "B0002",
+    "행정규칙명": "환경위성 관측자료의 검증을 위한 지상원격장비 설치·운영 지침",
+    "발령일자": "20221202",
+    "행정규칙종류": "예규",
+    "제개정구분코드": "200401",
+    "조문형식여부": "Y",
+    "소관부처명": "국립환경과학원",
+    "전화번호": "032-560-8450",
+    "제개정구분명": "제정",
+    "소관부처코드": "1482000",
+    "생성일자": "20221206",
+    "행정규칙ID": "83700",
+    "시행일자": "20221202",
+    "담당부서기관코드": "1480956",
+    "발령번호": "846",
+    "행정규칙일련번호": "2100000216489",
+    "상위부처명": "기후에너지환경부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n환경위성 관측자료의 검증 및 대기오염물질 농도 파악을 위해 환경위성센터장이 설치ㆍ 운영하는 판도라 등 지상원격장비 관련 필요한 사항을 제정함\n\n◇ 주요내용\n가. 환경위성센터에서 운영 중인 지상원격장비를 대상으로 운영계획을 수립하고 계획을 수정함\n나. 관측지점 설치요건을 확인 후 관계기관과 협의하여 지점 선정하고 설치함\n다. 상시관측을 위한 장비운영과 장애 발생 시 모든 내역을 기록하여 보관하며, 필요시 검교정을 수행함\n라. 자료전송 시스템을 구축하고 전지구판도라관측망과 자료를 공유하여 자료처리를 수행함",
+  "body": {
+    "format": "articles",
+    "article_count": 16,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조(목적) 이 지침은 「대기환경보전법」\n제3조의2(환경위성 관측망의 구축ㆍ운영 등)의 규정에 의하여 환경위성 관측자료의 검증 및 대기오염물질 농도 파악을 위해 환경위성센터장이 설치ㆍ운영하는 판도라 등 지상원격장비 관련 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「대기환경보전법」",
+            "line_text": "",
+            "target_law_name": "대기환경보전법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대기환경보전법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#JO0001",
+            "reference_id": "law:대기환경보전법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제3조의2",
+            "line_text": "",
+            "target_law_name": "대기환경보전법",
+            "target_article_no": "제3조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대기환경보전법/제3조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#JO0001",
+            "reference_id": "law:대기환경보전법#JO0003_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "제1장 총칙",
+        "content": "제2조(정의) 본 지침에서 사용하는 용어의 정의는 다음과 같다.1. 본 지침에서 말하는 \"지상원격장비\"란 지상에서 대기오염물질의 연직전층농도 등을 측정할 수 있는 초분광 분광계를 말한다.2. \"대기전층농도\"란 대기오염물질의 지상에서 대기 상층까지 연직 농도의 합이다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "적용범위",
+        "chapter": "제1장 총칙",
+        "content": "제3조(적용범위) 이 지침은 지상원격장비 설치 및 운영, 유지관리에 적용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "산출항목",
+        "chapter": "제1장 총칙",
+        "content": "제4조(산출항목) 지상원격장비의 산출항목은 이산화질소, 오존 등이다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "기관 및 역할",
+        "chapter": "제2장 지상원격장비 설치 및 운영 일반사항",
+        "content": "제5조(기관 및 역할) 환경위성 관측자료의 검증을 위한 지상원격장비(판도라)의 운영기관은 환경위성센터이며, 운영기관은 지상원격장비을 설치ㆍ운영하기 위해 운영계획의 수립, 장비설치 및 검ㆍ교정, 운영결과 이력 관리, 자료수집 및 자료처리 등을 수행한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "계획 수립",
+        "chapter": "제2장 지상원격장비 설치 및 운영 일반사항",
+        "content": "제6조(계획 수립) 운영기관은 운영계획을 수립하고, 필요에 따라 계획을 수정할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "관측지점",
+        "chapter": "제3장 지상원격장비 설치",
+        "content": "제7조(관측지점) 운영기관은 [별지 제1호 서식]에 따라 지상원격장비 설치 현황조사표를 작성하여 관측지점의 적절성을 검토하고 관계기관과 협의하여 관측지점을 확정한다. 관측지점의 설치요건은 다음과 같다.1. 안정적인 전력 공급이 가능한 장소2. 실내(관측부로부터 15m 이내 위치)에 분광계 설치가 가능한 장소3. 안정적인 인터넷 연결이 가능한 장소4. 태양 이동에 따라 관측 시 장애물이 없는 장소5. 지평선에서 천정각(1~90°)까지 장애물이 없는 방위각 정보 필요",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "별지 제1호 서식",
+            "line_text": "",
+            "target_law_name": "환경위성 관측자료의 검증을 위한 지상원격장비 설치·운영 지침",
+            "target_article_no": "별지1",
+            "target_article_title": "지상원격장비 현황 조사표",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=122070985",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#JO0007",
+            "reference_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "관측지점 조정",
+        "chapter": "제3장 지상원격장비 설치",
+        "content": "제8조(관측지점 조정) 기존 관측지점 및 인근 환경변화로 관측이 불가능하거나 관측 목적에 부합하지 않게 되는 경우 관측지점을 변경할 수 있다. 운영기관은 기존 관측지점의 변경과 폐쇄에 대하여 관계기관과의 검토를 거쳐 확정한다. 관측지점이 신설, 변경, 폐쇄된 경우 운영기관은 조정 내역 등의 이력을 [별지 제2호 서식] 및 [별지 제3호 서식]에 따라 작성하여 보관한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "별지 제2호 서식",
+            "line_text": "",
+            "target_law_name": "환경위성 관측자료의 검증을 위한 지상원격장비 설치·운영 지침",
+            "target_article_no": "별지2",
+            "target_article_title": "측정소 이전에 따른 비교표",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=122071031",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#JO0008",
+            "reference_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#BJ0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "별지 제3호 서식",
+            "line_text": "",
+            "target_law_name": "환경위성 관측자료의 검증을 위한 지상원격장비 설치·운영 지침",
+            "target_article_no": "별지3",
+            "target_article_title": "지상원격장비 변동(이전, 교체, 폐기) 내역",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=122071035",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#JO0008",
+            "reference_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#BJ0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "장비설치",
+        "chapter": "제3장 지상원격장비 설치",
+        "content": "제9조(장비설치) 지상원격장비(판도라)는 [별지 제4호] 절차에 따라 설치한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "별지 제4호",
+            "line_text": "",
+            "target_law_name": "환경위성 관측자료의 검증을 위한 지상원격장비 설치·운영 지침",
+            "target_article_no": "별지4",
+            "target_article_title": "지상원격장비 장비 설치",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=122071039",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#JO0009",
+            "reference_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#BJ0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "장비운영",
+        "chapter": "제4장 지상원격장비 운영",
+        "content": "제10조(장비운영) 지상원격장비의 상시 관측을 위해 장비 상태 및 관측자료를 정기적으로 확인하여 [별지 제5호 서식]에 따라 지상원격장비 일지에 기록하고, 장애 발생 시 발생일시, 고장 및 수리 내역 등의 내용을 기록하여 보관한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "별지 제5호 서식",
+            "line_text": "",
+            "target_law_name": "환경위성 관측자료의 검증을 위한 지상원격장비 설치·운영 지침",
+            "target_article_no": "별지5",
+            "target_article_title": "지상원격장비 운영일지",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=122071043",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#JO0010",
+            "reference_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#BJ0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "장비 검교정",
+        "chapter": "제4장 지상원격장비 운영",
+        "content": "제11조(장비 검교정) 필요시 측정값의 신뢰도 유지와 자료처리를 위하여 장비의 파장, 복사 등의 보정을 실시하고, [별지 제6호 서식]에 따라 지상원격장비 검교정일지에 기록한다. 자세한 사항은 전지구판도라관측망(Pandonia Global Network, 이하 PGN)의 절차(https://www.pandonia-global-network.org/wp-content/uploads/2019/06/LuftBlick_Pandonia_LabRep_RP_2014009_1.1.pdf)를 참고한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "별지 제6호 서식",
+            "line_text": "",
+            "target_law_name": "환경위성 관측자료의 검증을 위한 지상원격장비 설치·운영 지침",
+            "target_article_no": "별지6",
+            "target_article_title": "지상원격장비 검교정 일지",
+            "appendix_no": "6",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=122071047",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#JO0011",
+            "reference_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#BJ0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "자료생산 및 전송ㆍ수집",
+        "chapter": "제5장 지상원격장비 자료처리",
+        "content": "제12조(자료생산 및 전송ㆍ수집) 관측자료의 처리를 위해 관측지점에서 운영기관의 자료처리 서버로 자동으로 자료수집이 가능하도록 전송 시스템을 구축한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "자료관리",
+        "chapter": "제5장 지상원격장비 자료처리",
+        "content": "제13조(자료관리) 운영자는 관측자료의 신뢰도 확보를 위해 측정자료를 주기적으로 감시하고 관리한다. 지상원격장비의 세부 측정항목은 [별지 제7호]와 같으며, 자세한 사항은 PGN의 누리집(pandonia-global-network.org)을 참고한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제13조",
+            "source_clause": "제13조",
+            "link_text": "별지 제7호",
+            "line_text": "",
+            "target_law_name": "환경위성 관측자료의 검증을 위한 지상원격장비 설치·운영 지침",
+            "target_article_no": "별지7",
+            "target_article_title": "지상원격장비 세부 측정항목",
+            "appendix_no": "7",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=122071051",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#JO0013",
+            "reference_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#BJ0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "자료 공유 및 처리",
+        "chapter": "제5장 지상원격장비 자료처리",
+        "content": "제14조(자료 공유 및 처리) 운영기관은 관측자료를 PGN과 공유할 수 있다. 관측자료의 생산, 전송, 수집, 확정은 PGN 매뉴얼 및 판도라 아시아 네트워크 자료품질 관리를 위한 프로토콜의 자료처리 표준운영 절차에 준하여 적용한다. PGN 매뉴얼은 https://www.pandonia-global-network.org/wp-content/uploads/2021/09/BlickSoftwareSuite_Manual_v1-8-4.pdf를 참고한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "정보보안",
+        "chapter": "제5장 지상원격장비 자료처리",
+        "content": "제15조(정보보안) 국립환경과학원 네트워크를 연결하는 장비 설치 시 다음의 보안 사항을 적용한다.1. 백신, 패치관리시스템, PC보안, 매체제어 등 솔루션을 설치하고 최신 업데이트를 적용한다.2. USB, 무선, 블루투스 등 비인가 매체 접근을 차단한다.3. 관측 PC와 환경위성센터 내부망 간의 통신은 침입차단시스템 등을 통해 반드시 필요한 IP와 서비스 포트만을 허용하고 그 외에는 모두 차단한다.4. 망연계 부문의 보안은 「국가ㆍ공공기관 망 분리 및 자료전송 보안 가이드라인(국가정보원)」에 준하여 적용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "재검토기한",
+        "chapter": "제6장 보칙",
+        "content": "제16조(재검토기한) 국립환경과학원장은 이 예규에 대하여 2023년 1월 1일 기준으로 매3년이 되는 시점(매 3년째의 12월 31까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#JO0016"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20221202",
+      "promulgation_no": "846",
+      "content": "부칙 <제846호, 2022. 12. 2.>제1조(시행일) 이 지침은 발령한 날부터 시행한다.제2조(경과조치) 이 규정 시행 이전에 처리된 사항은 이 규정에 따라 처리된 것으로 본다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "지상원격장비 현황 조사표",
+      "enforcement_date": "",
+      "content": "[별지 제1호 서식]\n지상원격장비 현황 조사표\n┏━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━┓\n┃측정소명(측정소코드)    │                                ┃\n┠────────────┼────┬─────┬─────┨\n┃담당자                  │        │작성자    │          ┃\n┠────────────┼────┴─────┴─────┨\n┃주 소(건물층수)         │                                ┃\n┠────────────┼──┬┬──┬──┬────┬─┨\n┃위경도                  │위도││경도│    │해발고도│m ┃\n┠────────────┼──┴┴──┴──┴────┴─┨\n┃지형지세                │                                ┃\n┠────────────┼──┬─────────────┨\n┃전면개방여부            │방위│                          ┃\n┠────────────┼──┼┬──┬──┬────┬─┨\n┃고정오염원              │방위││높이│m   │인접거리│m ┃\n┠────────────┼──┼┼──┼──┼────┼─┨\n┃고층빌딩                │방위││높이│m   │인접거리│m ┃\n┠────────────┼──┼┼──┼──┼────┼─┨\n┃수목                    │방위││높이│m   │인접거리│m ┃\n┠────────────┼──┼┼──┼──┼────┼─┨\n┃인접도로                │방위││높이│m   │인접거리│m ┃\n┠────────────┼──┼┼──┼──┼────┼─┨\n┃기타 장애물             │방위││높이│m   │인접거리│m ┃\n┠────────────┼──┴┴──┴──┴────┴─┨\n┃태양 광경로             │                                ┃\n┃장애물 여부             │                                ┃\n┠────────────┼──┬───┬──┬──────┨\n┃관측부                  │옥상│      │난간│            ┃\n┃설치 방법               │    │      │    │            ┃\n┠────────────┼──┴───┴──┴──────┨\n┃콘트롤박스              │                                ┃\n┃실내 설치 여부          │                                ┃\n┠────────────┼──┬───┬──┬──────┨\n┃관측부-콘트롤박스 거리  │거리│m     │연결│            ┃\n┃및 연결 방법            │    │      │    │            ┃\n┠────────────┼──┼───┼──┼──────┨\n┃전기 사용               │거리│m     │위치│            ┃\n┠────────────┼──┴───┴──┴──────┨\n┃네트워크 구축 방법      │                                ┃\n┣━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━┫\n┃측정소 위치의           │                                ┃\n┃적합여부 등 종합의견    │                                ┃\n┗━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━┛\n┏━━━━━━━━┯━━━━━━━━┓\n┃측정소 위치 약도│측정소 정면 사진┃\n┠────────┼────────┨\n┃                │                ┃\n┠────────┴────────┨\n┃측정소 주변 사진 (8방위)          ┃\n┠────────┬────────┨\n┃                │                ┃\n┠────────┼────────┨\n┃                │                ┃\n┠────────┴────────┨\n┃장비 배치도                       ┃\n┠─────────────────┨\n┃                                  ┃\n┗━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=122070985",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=122070985",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#BJ0001",
+      "filename": "별지1_지상원격장비 현황 조사표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "측정소 이전에 따른 비교표",
+      "enforcement_date": "",
+      "content": "[별지 제2호 서식]\n측정소 이전에 따른 비교표\n┌────────────┬───┬────┐\n│                        │현위치│변경위치│\n├────────────┼───┼────┤\n│측정소명                │      │        │\n├────────────┼───┼────┤\n│이전 일자               │      │        │\n├────────────┼───┼────┤\n│주소 및 설치 (예정) 장소│      │        │\n├────────────┼───┼────┤\n│위경도                  │      │        │\n├────────────┼───┼────┤\n│사용(수용) 여부 및 조건 │      │        │\n├────────────┼───┼────┤\n│특이 사항               │      │        │\n├────────────┼───┼────┤\n│종합의견(이전 사유)     │      │        │\n└────────────┴───┴────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=122071031",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=122071031",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#BJ0002",
+      "filename": "별지2_측정소 이전에 따른 비교표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "지상원격장비 변동(이전, 교체, 폐기) 내역",
+      "enforcement_date": "",
+      "content": "[별지 제3호 서식]\n지상원격장비 변동(이전, 교체, 폐기) 내역\n┌───────┬────────┬───────┬─────────┐\n│구 분         │변동내용        │변동사유      │비고              │\n│              ├───┬────┤              │                  │\n│              │구 분 │일 자   │              │                  │\n├───────┼───┼────┼───────┼─────────┤\n│(예시)        │폐기  │2022.3.3│장기사용으로  │성능불량,         │\n│판도라 분광계 │      │        │노후되어 불용 │교정 불가 등 증빙 │\n│번호          │      │        │처분          │                  │\n│제조번호(S/N) │      │        │              │                  │\n├───────┼───┼────┼───────┼─────────┤\n│              │      │        │              │                  │\n├───────┼───┼────┼───────┼─────────┤\n│              │      │        │              │                  │\n├───────┼───┼────┼───────┼─────────┤\n│              │      │        │              │                  │\n├───────┼───┼────┼───────┼─────────┤\n│              │      │        │              │                  │\n├───────┼───┼────┼───────┼─────────┤\n│              │      │        │              │                  │\n└───────┴───┴────┴───────┴─────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=122071035",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=122071035",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#BJ0003",
+      "filename": "별지3_지상원격장비 변동(이전, 교체, 폐기) 내역.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "지상원격장비 장비 설치",
+      "enforcement_date": "",
+      "content": "[별지 제4호]\n지상원격장비 장비 설치\n1. 지상원격장비(판도라)는 악기상 발생 시에도 움직이거나 파손되지 않도록 지지대 또는 거치대를 이용하여 장비가 고정될 수 있는 환경을 조성한다.\n2. 관측부의 고정판을 수평상태로 맞추고, 고정판에 태양트랙커를 설치한 다음 태양트랙커에 헤드센서를 고정시킨다.\n3. 헤드센서, 태양트랙커, 분광계, PC에 각각 헤드센서 케이블, 광섬유 케이블, 트랙커 케이블 등을 지정된 위치에 연결한다. 특히, 광섬유 케이블은 360°로 회전이 가능하도록 길이를 조정하고, 적정하게 케이블 가드에 고정하여 관측 시 케이블이 훼손되지 않게 보호한다.\n4. 헤드센서는 동쪽, 헤드센서의 콜리메이터(Collimator)는 남쪽을 바라보게 위치시킨다.\n5. 분광계와 PC가 보관된 콘트롤 상자는 실내에 두어 외부의 급격한 온도변화로부터 보호시킨다.\n6. 소프트웨어를 실행하여 관측 조건을 설정한다.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=122071039",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=122071039",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#BJ0004",
+      "filename": "별지4_지상원격장비 장비 설치.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별지",
+      "title": "지상원격장비 운영일지",
+      "enforcement_date": "",
+      "content": "[별지 제5호 서식]\n지상원격장비 운영일지\n┌───┬──────┬───┐\n│일 시 │점검내용    │작성자│\n│      ├───┬──┤      │\n│      │구 분 │내용│      │\n├───┼───┼──┼───┤\n│      │      │    │      │\n├───┼───┼──┼───┤\n│      │      │    │      │\n├───┼───┼──┼───┤\n│      │      │    │      │\n├───┼───┼──┼───┤\n│      │      │    │      │\n├───┼───┼──┼───┤\n│      │      │    │      │\n├───┼───┼──┼───┤\n│      │      │    │      │\n├───┼───┼──┼───┤\n│      │      │    │      │\n├───┼───┼──┼───┤\n│      │      │    │      │\n├───┼───┼──┼───┤\n│      │      │    │      │\n├───┼───┼──┼───┤\n│      │      │    │      │\n└───┴───┴──┴───┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=122071043",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=122071043",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#BJ0005",
+      "filename": "별지5_지상원격장비 운영일지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별지",
+      "title": "지상원격장비 검교정 일지",
+      "enforcement_date": "",
+      "content": "[별지 제6호 서식]\n지상원격장비 검교정 일지\n┌──┬──────┬───┐\n│일시│검교정 내용 │작성자│\n│    ├───┬──┤      │\n│    │구 분 │내용│      │\n├──┼───┼──┼───┤\n│    │      │    │      │\n├──┼───┼──┼───┤\n│    │      │    │      │\n├──┼───┼──┼───┤\n│    │      │    │      │\n├──┼───┼──┼───┤\n│    │      │    │      │\n├──┼───┼──┼───┤\n│    │      │    │      │\n├──┼───┼──┼───┤\n│    │      │    │      │\n├──┼───┼──┼───┤\n│    │      │    │      │\n├──┼───┼──┼───┤\n│    │      │    │      │\n├──┼───┼──┼───┤\n│    │      │    │      │\n├──┼───┼──┼───┤\n│    │      │    │      │\n└──┴───┴──┴───┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=122071047",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=122071047",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#BJ0006",
+      "filename": "별지6_지상원격장비 검교정 일지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "별지",
+      "title": "지상원격장비 세부 측정항목",
+      "enforcement_date": "",
+      "content": "[별지 제7호]\n지상원격장비 세부 측정항목\n1. 공통사항\n○ 지상원격장비인 판도라 분광계는 대기 관측을 통해 초분광 원시자료(LV0)를 생산한다. 자료처리를 위해 환경위성센터 서버로 수집된 원시자료는 전지구판도라관측망(Pandonia Global Network)에 전송된 후 L1, L2로 산출된다.\n2. 지상원격장비 세부 측정항목\n\n┌───────────────────┬────┐\n│세부 측정항목                         │비고    │\n├─┬─────────────────┼────┤\n│L0│장비로부터 측정된 초분광 원시 신호│원시자료│\n├─┼─────────────────┼────┤\n│L1│LV0에서 신호 보정된 자료          │산출자료│\n├─┼─────────────────┤        │\n│L2│이산화질소, 오존                  │        │\n└─┴─────────────────┴────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=122071051",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=122071051",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#BJ0007",
+      "filename": "별지7_지상원격장비 세부 측정항목.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "환경위성 관측자료의 검증을 위한 지상원격장비 설치·운영 지침.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=122048505",
+      "file_store_url": "",
+      "filename": "환경위성 관측자료의 검증을 위한 지상원격장비 설치·운영 지침.hwpx"
+    },
+    {
+      "name": "(양식)조문별제개정이유서_행정규칙.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=122048507",
+      "file_store_url": "",
+      "filename": "(양식)조문별제개정이유서_행정규칙.hwpx"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 9,
+    "by_category": {
+      "법령": 2,
+      "별지": 7
+    },
+    "by_relation_type": {
+      "citation": 2,
+      "appendix_ref": 7
+    },
+    "articles_total": 16,
+    "articles_with_relations": 7,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 7,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/환경위성 관측자료의 검증을 위한 지상원격장비 설치·운영 지침"
+  },
+  "provision_id": "admrul:환경위성관측자료의검증을위한지상원격장비설치운영지침#DOC"
+}
