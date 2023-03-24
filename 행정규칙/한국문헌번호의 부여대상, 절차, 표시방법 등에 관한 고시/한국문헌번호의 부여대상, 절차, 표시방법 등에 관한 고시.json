@@ -1,0 +1,284 @@
+{
+  "law_id": "2100000221156",
+  "mst": "2100000221156",
+  "law_name": "한국문헌번호의 부여대상, 절차, 표시방법 등에 관한 고시",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000221156",
+  "promulgation_no": "2023-1",
+  "promulgation_date": "20230324",
+  "enforcement_date": "20230324",
+  "revision_date": "20230324",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국립중앙도서관(국가서지과)",
+    "담당자명": "강수현",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "한국문헌번호의 부여대상, 절차, 표시방법 등에 관한 고시",
+    "발령일자": "20230324",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국립중앙도서관",
+    "전화번호": "02-590-6337",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1371000",
+    "생성일자": "20230328",
+    "행정규칙ID": "2039517",
+    "시행일자": "20230324",
+    "담당부서기관코드": "1371876",
+    "발령번호": "2023-1",
+    "행정규칙일련번호": "2100000221156",
+    "상위부처명": "문화체육관광부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정이유\nㅇ 도서관법 개정(‘22.12.8. 시행)에 따른 관련 조항을 반영하고, 한국문헌번호 부여 절차를 구체화하여 현행 제도의 운영상 나타난 일부 미비점을 개선ㆍ보완하려는 것임\n◇ 주요내용\nㅇ 도서관법 개정에 따른 관련 조항 수정(안 제1조)\nㅇ 부여 절차 구체화 및 관련 별지 양식 신설(안 제4조)",
+  "body": {
+    "format": "articles",
+    "article_count": 5,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 고시는 「도서관법」 제23조 및 동법 시행령 제20조제3항의 규정에 의한 한국문헌번호의 부여대상, 절차 및 표시방법 등을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제23조",
+            "line_text": "",
+            "target_law_name": "도서관법",
+            "target_article_no": "제23조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도서관법/제23조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:한국문헌번호의부여대상,절차,표시방법등에관한고시#JO0001",
+            "reference_id": "law:도서관법#JO0023"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "동법 시행령",
+            "line_text": "",
+            "target_law_name": "도서관법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도서관법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:한국문헌번호의부여대상,절차,표시방법등에관한고시#JO0001",
+            "reference_id": "law:도서관법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제20조제3항",
+            "line_text": "",
+            "target_law_name": "도서관법 시행령",
+            "target_article_no": "제20조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도서관법 시행령/제20조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:한국문헌번호의부여대상,절차,표시방법등에관한고시#JO0001",
+            "reference_id": "law:도서관법시행령#JO0020"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:한국문헌번호의부여대상,절차,표시방법등에관한고시#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) 한국문헌번호란 국내에서 간행되는 각종의 자료에 대해 국제적으로 표준화된 방법에 따라 부여하는 고유의 식별번호로서, 국제표준도서번호 13자리에 5자리의 부가기호를 덧붙여 구성한 ‘한국문헌번호-도서번호(이하 한국도서번호라 한다.)’와 국제표준연속간행물번호 8자리에 2자리의 부가기호를 덧붙여 구성한 ‘한국문헌번호-연속간행물번호(이하 한국연속간행물번호라 한다.)’를 통칭한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:한국문헌번호의부여대상,절차,표시방법등에관한고시#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "부여대상",
+        "chapter": "",
+        "content": "제3조(부여대상) 한국문헌번호의 부여대상 자료는 다음과 같으며, 세부적인사항은 한국문헌번호편람에 의한다.1. 한국도서번호는 단행본 성격의 출판물로서 인쇄된 도서, 점자자료, 지도,  전자출판물 등 일반인들이 이용할 수 있는 특정 유형의 자료에 부여되며, 비매품 및 판매용 자료에 관계없이 모든 출판물에 적용된다.2. 한국연속간행물번호는 동일한 제호로 종간을 예정하지 않고 계속해서 간행되는 출판물로서 정기간행물, 학술지, 잡지, 신문 등과 같은 연속간행물에 부여된다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:한국문헌번호의부여대상,절차,표시방법등에관한고시#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "절차",
+        "chapter": "",
+        "content": "제4조(절차)  1. 한국도서번호를 부여 받고자 하는 자는 도서관법 시행규칙 제9조제1항제1호의 규정에 의거, 국제표준도서번호 신청서와 향후 1년간 출판예정인 도서 목록(별지 제1호 서식), 출판사 신고확인증이나 사업자등록증 또는 고유번호증(사업자등록증이 없는 경우로 한정한다) 사본을 국립중앙도서관장에게 제출하여야 한다.2. 한국연속간행물번호를 부여 받고자 하는 자는 도서관법 시행규칙 제9조제1항제2호의 규정에 의거, 국제표준연속간행물번호신청서, 간행물 견본(표지, 목차, 판권지)과 잡지사업 등록증 또는 정보간행물ㆍ전자간행물ㆍ기타간행물사업 신고증 사본을 제출해야 한다. 무료간행물인 경우 출판사 신고확인증, 사업자등록증 또는 고유번호증(사업자등록증이 없는 경우로 한정한다) 사본을 국립중앙도서관장에게 제출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제9조제1항제1호",
+            "line_text": "",
+            "target_law_name": "도서관법 시행규칙",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도서관법 시행규칙/제9조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:한국문헌번호의부여대상,절차,표시방법등에관한고시#JO0004",
+            "reference_id": "law:도서관법시행규칙#JO0009"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "별지 제1호 서식",
+            "line_text": "",
+            "target_law_name": "한국문헌번호의 부여대상, 절차, 표시방법 등에 관한 고시",
+            "target_article_no": "별지1",
+            "target_article_title": "향후 1년간 출판예정인 도서 목록",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126641363",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:한국문헌번호의부여대상,절차,표시방법등에관한고시#JO0004",
+            "reference_id": "admrul:한국문헌번호의부여대상,절차,표시방법등에관한고시#BJ0001"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제9조제1항제2호",
+            "line_text": "",
+            "target_law_name": "도서관법 시행규칙",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도서관법 시행규칙/제9조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:한국문헌번호의부여대상,절차,표시방법등에관한고시#JO0004",
+            "reference_id": "law:도서관법시행규칙#JO0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:한국문헌번호의부여대상,절차,표시방법등에관한고시#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "표시방법",
+        "chapter": "",
+        "content": "제5조(표시방법) 한국문헌번호를 부여 받은 자는 출판물에 바코드형식으로 EAN(European Article Number)과 부가기호를 표시하고 그 하단에 OCR(Optical Character Recognition)-B문자로 한국문헌번호를 표시한다. 유통ㆍ판매를 목적으로 하지 않는 경우에는 한국문헌번호만 표시할 수 있다. 그 표기 위치는 다음과 같다.1.한국도서번호는 해당자료의 표지 뒷면 등쪽 하단에 바코드와 함께 표시하며, 표지상태에 따라 위치를 조정할 수 있다. 자료의 판권지 하단에도 번호를 표시한다.2.한국연속간행물번호는 해당자료의 표지 앞면 등쪽 하단에 바코드와 함께 번호를 표시하며, 표지상태에 따라 위치를 조정할 수 있다. 번호만 표기시에는 자료 표지 앞면 오른쪽 상단에 표시한다.[한국도서번호 표시방법 예시][그림][한국연속간행물번호 표시방법 예시][그림]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126640387",
+            "seq": "126640387"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126640389",
+            "seq": "126640389"
+          }
+        ],
+        "provision_id": "admrul:한국문헌번호의부여대상,절차,표시방법등에관한고시#JO0005"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20230324",
+      "promulgation_no": "2023-1",
+      "content": "부칙 <제2023-1호, 2023. 3. 24.>이 고시는 고시한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "향후 1년간 출판예정인 도서 목록",
+      "enforcement_date": "",
+      "content": "[별지 제1호서식]\n\n향후 1년간 출판예정인 도서 목록\n┏━━━━┯━━━━━━━━┯━━━━━━━━━━━━┯━━━━┯━━━┓\n┃일련번호│출판(예정)년월일│서        명 (책 제 목) │판차사항│비  고┃\n┠────┼────────┼────────────┼────┼───┨\n┃        │                │                        │        │      ┃\n┗━━━━┷━━━━━━━━┷━━━━━━━━━━━━┷━━━━┷━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126641363",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126641363",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:한국문헌번호의부여대상,절차,표시방법등에관한고시#BJ0001",
+      "filename": "별지1_향후 1년간 출판예정인 도서 목록.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "(개정안16) 한국문헌번호의 부여대상 절차 표시방법 등에 관한 고시.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=126617249",
+      "file_store_url": "",
+      "filename": "(개정안16) 한국문헌번호의 부여대상 절차 표시방법 등에 관한 고시.hwp"
+    },
+    {
+      "name": "(개정안16) 한국문헌번호의 부여대상  절차  표시방법 등에 관한 고시_신구조문 대비표.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=126617251",
+      "file_store_url": "",
+      "filename": "(개정안16) 한국문헌번호의 부여대상  절차  표시방법 등에 관한 고시_신구조문 대비표.hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 6,
+    "by_category": {
+      "법령": 5,
+      "별지": 1
+    },
+    "by_relation_type": {
+      "citation": 5,
+      "appendix_ref": 1
+    },
+    "articles_total": 5,
+    "articles_with_relations": 2,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 1,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/한국문헌번호의 부여대상, 절차, 표시방법 등에 관한 고시"
+  },
+  "provision_id": "admrul:한국문헌번호의부여대상,절차,표시방법등에관한고시#DOC"
+}
