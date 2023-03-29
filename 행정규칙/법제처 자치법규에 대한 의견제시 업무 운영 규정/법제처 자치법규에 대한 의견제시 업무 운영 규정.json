@@ -1,0 +1,286 @@
+{
+  "law_id": "2100000221396",
+  "mst": "2100000221396",
+  "law_name": "법제처 자치법규에 대한 의견제시 업무 운영 규정",
+  "law_abbr": "",
+  "law_type": "훈령",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000221396",
+  "promulgation_no": "462",
+  "promulgation_date": "20230329",
+  "enforcement_date": "20230329",
+  "revision_date": "20230329",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "법제처(자치법제지원과)",
+    "담당자명": "최현수",
+    "행정규칙종류코드": "B0001",
+    "행정규칙명": "법제처 자치법규에 대한 의견제시 업무 운영 규정",
+    "발령일자": "20230329",
+    "행정규칙종류": "훈령",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "법제처",
+    "전화번호": "044-200-6748",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1170000",
+    "생성일자": "20230905",
+    "행정규칙ID": "68497",
+    "시행일자": "20230329",
+    "담당부서기관코드": "1170168",
+    "발령번호": "462",
+    "행정규칙일련번호": "2100000221396",
+    "상위부처명": "법제처"
+  },
+  "amendment_text": "",
+  "revision_reason": "1. 인용조문 정비(안 제1조 및 안 제3조제2항)\n◇ 제ㆍ개정 이유\n○ 법령 개정 등으로 인용 조문을 정비하려는 것임\n◇ 제ㆍ개정 내용\n○ 「법제업무 운영규정」 및 「지방자치법」을 인용하고 있는 조문 변경\n2. 의견제시 심의위원회 절차 간소화(안 제3조제1항 및 안 제5조제6항)\n◇ 제ㆍ개정 이유\n○ 의견제시 안건이 기존의 의견제시 사례와 유사한 경우 등에 의견제시 심의위원회를 거치지 않을 수 있도록 하는 근거를 신설하고, 위원회 회의 때 참여할 위원의 선정 방식을 간소화 하려는 것임\n◇ 제ㆍ개정 내용\n○ 의견제시 안건이 기존의 의견제시 사례와 유사한 경우, 신속한 처리가 필요한 경우, 그 밖에 이와 유사한 경우로서 법제지원국장이 의견제시 심의위원회의 심의를 거칠 필요가 없다고 인정하는 경우에는 의견제시 심의위원회를 거치지 않도록 함\n○ 의견제시 심의위원회 회의 시마다 행정법제국장ㆍ경제법제국장ㆍ사회문화법제국장이 협의하여 참여할 위원을 지정하던 것을 위원장이 위원을 지정하도록 함\n3. 의견제시 반려사유 추가(안 제4조)\n◇ 제ㆍ개정 이유\n○ 의견제시 안건의 반려 사유로 행정심판 또는 소송이 끝난 중이거나 그 절차가 끝난 경우를 추가하려는 것임\n◇ 제ㆍ개정 내용\n○ 의견제시 안건의 반려 사유로 행정심판 또는 소송이 끝난 중이거나 그 절차가 끝난 경우를 추가함",
+  "body": {
+    "format": "articles",
+    "article_count": 8,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규정은 지방자치단체가 법제처에 자치법규의 입안이나 그 해석에 관하여 지원을 요청하는 경우 「법제업무 운영규정」 제29조의3제5항에 따라 법제처가 지방자치단체에서 참고할 수 있는 법제적 의견을 제시하여 지방자치단체의 자치법제 업무를 지원하는 데 필요한 사항을 규정함을 목적으로 한다.<개정 2020. 7. 9., 2023. 3. 29.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「법제업무 운영규정」",
+            "line_text": "",
+            "target_law_name": "법제업무 운영규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/법제업무 운영규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:법제처자치법규에대한의견제시업무운영규정#JO0001",
+            "reference_id": "law:법제업무운영규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제29조의3제5항",
+            "line_text": "",
+            "target_law_name": "법제업무 운영규정",
+            "target_article_no": "제29조의3",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/법제업무 운영규정/제29조의3",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:법제처자치법규에대한의견제시업무운영규정#JO0001",
+            "reference_id": "law:법제업무운영규정#JO0029_03"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:법제처자치법규에대한의견제시업무운영규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "의견제시 대상",
+        "chapter": "",
+        "content": "제2조(의견제시 대상) 지방자치단체의 요청에 따라 하는 법제적 의견제시(이하 \"의견제시\"라 한다)는 자치법규의 입안, 해석 및 정비를 그 대상으로 한다.<개정 2020. 7. 9.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:법제처자치법규에대한의견제시업무운영규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "의견제시 절차",
+        "chapter": "",
+        "content": "제3조(의견제시 절차) ① 법제지원국장은 의견제시를 할 때에는 제5조에 따른 의견제시 심의위원회의 심의를 거쳐야 한다. 다만, 다음 각 호의 어느 하나에 해당하는 경우에는 의견제시 심의위원회의 심의를 거치지 않을 수 있다. <신설 2023. 3. 29.>1. 의견제시 안건이 기존의 의견제시 사례와 유사한 경우2. 의견제시 안건의 신속한 처리가 필요한 경우3. 그 밖에 제1호 및 제2호와 유사한 경우로서 법제지원국장이 의견제시 심의위원회의 심의를 거칠 필요가 없다고 인정하는 경우② 법제지원국장은 다음 각 호의 어느 하나에 해당하는 경우에는 의견제시를 하기 전에 법제처장에게 보고해야 한다. <개정 2023. 3. 29.>1. 기존의 의견제시 사례를 변경하는 경우2. 사회적으로 민감한 사안이거나 의견제시 안건의 사회적인 파급 효과가 클 것으로 예상되는 등 중요 안건에 대한 의견제시인 경우3. 지방의회와 집행기관 간 다툼이 있어 「지방자치법」 제32조제3항에 따른 재의(再議) 요구가 예상되는 안건 등으로서 관련 법적 쟁점에 대하여 상위 법령과의 관계에서 전국적ㆍ통일적인 해석이 필요한 의견제시인 경우③ 법제지원국장은 의견제시의 전문성을 높이기 위하여 필요한 경우 해당 의견제시와 관련된 분야의 외부 전문가의 의견을 들을 수 있다. <개정 2023. 3. 29.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "제5조",
+            "line_text": "",
+            "target_law_name": "법제처 자치법규에 대한 의견제시 업무 운영 규정",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/법제처 자치법규에 대한 의견제시 업무 운영 규정/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:법제처자치법규에대한의견제시업무운영규정#JO0003",
+            "reference_id": "admrul:법제처자치법규에대한의견제시업무운영규정#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "「지방자치법」",
+            "line_text": "",
+            "target_law_name": "지방자치법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/지방자치법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:법제처자치법규에대한의견제시업무운영규정#JO0003",
+            "reference_id": "law:지방자치법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "제32조제3항",
+            "line_text": "",
+            "target_law_name": "지방자치법",
+            "target_article_no": "제32조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/지방자치법/제32조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:법제처자치법규에대한의견제시업무운영규정#JO0003",
+            "reference_id": "law:지방자치법#JO0032"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:법제처자치법규에대한의견제시업무운영규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "의견제시 안건의 반려",
+        "chapter": "",
+        "content": "제4조(의견제시 안건의 반려) 의견제시를 요청받은 안건이 다음 각 호의 어느 하나에 해당하는 경우에는 반려할 수 있다.<개정 2020. 7. 9., 2023. 3. 29.>1. 자치법규의 입안에 대한 안건으로서 이미 지방의회의 의결이 있거나 공포된 경우2. 자치법규 입안과 관련한 주된 쟁점이 법령의 해석에 관한 사항으로서 해당 법령을 소관으로 하는 중앙행정기관의 장의 의견을 먼저 듣거나 법령해석 절차를 거쳐야 할 필요가 있다고 인정되는 경우3. 처분의 위법ㆍ부당 여부나 구체적 사실인정에 관한 사항인 경우4. 민사ㆍ상사ㆍ형사, 행정소송, 국가배상 관계 법령 및 법무부 소관 법령과 관련되거나 다른 법령의 벌칙조항과 관련된 경우5. 행정심판 또는 소송이 계속 중이거나 그 절차가 끝난 경우6. 그 밖에 제1호부터 제5호까지의 규정과 유사한 경우로서 의견제시 제도를 통해 자치법규의 입안 및 해석에 관한 법제적 의견을 제시하기에 적합하지 않은 경우",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:법제처자치법규에대한의견제시업무운영규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "의견제시 심의위원회의 구성ㆍ운영",
+        "chapter": "",
+        "content": "제5조(의견제시 심의위원회의 구성ㆍ운영) ① 의견제시 안건을 전문적으로 심의하기 위하여 법제지원국장 소속으로 의견제시 심의위원회(이하 \"심의위원회\"라 한다)를 둔다.② 심의위원회는 위원장 1명을 포함한 6명의 위원으로 구성한다.<개정 2020. 2. 23.>③ 위원장은 법제지원국장이 되고, 위원은 법제심의관이 된다.<신설 2020. 2. 23.>④ 위원장은 심의위원회를 대표하고, 심의위원회의 업무를 총괄한다.<개정 2020. 2. 23.>⑤ 위원장은 심의위원회의 회의를 소집하고 그 의장이 된다.<개정 2020. 2. 23.>⑥ 심의위원회의 회의는 위원장과 위원장이 회의 시마다 지정하는 위원을 포함하여 총 4명으로 구성한다.<신설 2020. 2. 23., 2023. 3. 29.>⑦ 심의위원회 사무를 처리하기 위하여 심의위원회에 간사 1명을 두되, 간사는 자치법제지원과장이 된다.<개정 2020. 2. 23.>⑧ 심의위원회는 재적위원 과반수의 출석으로 개의(開議)하고, 출석위원 과반수의 찬성으로 의결한다.<개정 2020. 2. 23.>⑨ 심의위원회는 다음 각 호의 어느 하나에 해당하는 경우를 제외하고는 위원이 출석하는 회의로 개최하여야 한다.<개정 2020. 2. 23.>1. 안건의 내용이 경미한 경우2. 긴급한 사유로 위원이 출석하는 회의를 개최할 시간적 여유가 없는 경우3. 천재지변이나 그 밖의 부득이한 사유로 위원의 출석에 의한 의사정족수를 채우기 어려운 경우",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:법제처자치법규에대한의견제시업무운영규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "위원의 제척ㆍ회피",
+        "chapter": "",
+        "content": "제6조(위원의 제척ㆍ회피) ① 심의위원회의 위원 중 다음 각 호의 어느 하나에 해당하는 위원은 그 안건의 심의ㆍ의결에서 제척(除斥)된다.1. 위원이나 그 배우자 또는 그 배우자였던 사람이 해당 의견제시 안건의 기초사실이 되는 사건의 당사자이거나 그 사건에 관하여 공동권리자 또는 공동의무자의 관계인 경우2. 위원이 해당 의견제시 안건의 기초사실이 되는 사건의 당사자와 친족이거나 친족이었던 경우3. 위원이 해당 의견제시 안건의 기초사실이 되는 사건에 관하여 증언이나 감정을 한 경우4. 위원이 해당 의견제시 안건의 기초사실이 되는 사건의 당사자의 대리인으로서 관여하거나 관여하였던 경우② 제1항 각 호의 어느 하나에 해당하는 위원은 스스로 그 안건의 심의ㆍ의결을 회피할 수 있다.③ 제1항 및 제2항은 해당 의견제시 안건의 검토 사무에 관여하는 위원이 아닌 직원에게 준용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:법제처자치법규에대한의견제시업무운영규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "비밀 보호",
+        "chapter": "",
+        "content": "제7조(비밀 보호) 위원 및 직원은 의견제시 심의과정에서 알게 된 정책 또는 개인의 신상에 관한 비밀을 누설해서는 안 된다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:법제처자치법규에대한의견제시업무운영규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "운영세칙",
+        "chapter": "",
+        "content": "제8조(운영세칙) 이 규정에서 정한 사항 외에 심의위원회의 운영에 필요한 사항은 심의위원회의 의결을 거쳐 위원장이 정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:법제처자치법규에대한의견제시업무운영규정#JO0008"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20190812",
+      "promulgation_no": "408",
+      "content": "부칙 <제408호,2019. 8. 12.>이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20200223",
+      "promulgation_no": "421",
+      "content": "부칙 <제421호,2020. 2. 23.>이 규정은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20200709",
+      "promulgation_no": "428",
+      "content": "부칙 <제428호,2020. 7. 9.>이 규정은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20230329",
+      "promulgation_no": "462",
+      "content": "부칙 <제462호, 2023. 3. 29.>이 훈령은 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "(법제처훈령 제462호) 법제처 자치법규에 대한 의견제시 업무 운영 규정★.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=132915665",
+      "file_store_url": "",
+      "filename": "(법제처훈령 제462호) 법제처 자치법규에 대한 의견제시 업무 운영 규정★.hwpx"
+    },
+    {
+      "name": "(법제처훈령 제462호) 법제처 자치법규에 대한 의견제시 업무 운영 규정★.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=132915669",
+      "file_store_url": "",
+      "filename": "(법제처훈령 제462호) 법제처 자치법규에 대한 의견제시 업무 운영 규정★.pdf"
+    },
+    {
+      "name": "조문별 제개정 이유서★.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=132915713",
+      "file_store_url": "",
+      "filename": "조문별 제개정 이유서★.hwp"
+    },
+    {
+      "name": "조문별 제개정 이유서★.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=132915717",
+      "file_store_url": "",
+      "filename": "조문별 제개정 이유서★.pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 5,
+    "by_category": {
+      "법령": 4,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 4,
+      "internal_ref": 1
+    },
+    "articles_total": 8,
+    "articles_with_relations": 2,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 4,
+    "appendices_count": 0,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/법제처 자치법규에 대한 의견제시 업무 운영 규정"
+  },
+  "provision_id": "admrul:법제처자치법규에대한의견제시업무운영규정#DOC"
+}
