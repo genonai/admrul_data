@@ -1,0 +1,1120 @@
+{
+  "law_id": "2200000132217",
+  "mst": "2200000132217",
+  "law_name": "(한국사회보장정보원) 기록물관리지침",
+  "law_abbr": "",
+  "law_type": "공단규정",
+  "doc_target": "pi",
+  "doc_kind": "공단정관",
+  "adm_uid": "pi:2200000132217",
+  "promulgation_no": "9999",
+  "promulgation_date": "20230424",
+  "enforcement_date": "20230424",
+  "revision_date": "20230424",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "한국사회보장정보원",
+    "담당자명": "",
+    "행정규칙종류코드": "B0029",
+    "행정규칙명": "(한국사회보장정보원) 기록물관리지침",
+    "발령일자": "20230424",
+    "행정규칙종류": "공단규정",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "한국사회보장정보원",
+    "전화번호": "02-6360-6064",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "B554287",
+    "생성일자": "20260518",
+    "행정규칙ID": "2134161",
+    "담당부서기관코드": "B554287",
+    "발령번호": "9999",
+    "행정규칙일련번호": "2200000132217"
+  },
+  "amendment_text": "",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 33,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조(목적) 이 지침은 한국사회보장정보원(이하 \"정보원\"이라고 한다) 기록물의 안전한 보존과 효율적 활용을 위하여 기록물 관리에 관한 사항을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적용범위",
+        "chapter": "제1장 총칙",
+        "content": "제2조(적용범위) 기록물관리에 관한 모든 사항은 「공공기록물 관리에 관한 법률」 (이하 「공공기록물법」 이라 한다) 및 다른 규정이 특별히 정한 경우를 제외하고는 이 지침이 정하는 바에 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「공공기록물 관리에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "공공기록물 관리에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기록물 관리에 관한 법률",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0002",
+            "reference_id": "law:공공기록물관리에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「공공기록물법」",
+            "line_text": "제2조(적용범위) 기록물관리에 관한 모든 사항은 「공공기록물 관리에 관한 법률」 (이하 「공공기록물법」 이라 한다) 및 다른 규정이 특별히 정한 경우를 제외하고는 이 지침이 정하는 바에 따른다.",
+            "target_law_name": "공공기록물법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기록물법",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0002",
+            "reference_id": "law:공공기록물법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "정의",
+        "chapter": "제1장 총칙",
+        "content": "제3조(정의) 이 지침에서 사용하는 용어의 정의는 다음과 같다.1. \"기록물\"이란 정보원의 업무와 관련하여 생산 또는 접수한 문서ㆍ도서ㆍ대장ㆍ카드ㆍ도면ㆍ시청각물ㆍ전자문서 등 모든 형태의 기록정보자료와 행정박물를 말한다.2. \"기록물관리\"란 기록물의 생산ㆍ분류ㆍ정리ㆍ이관ㆍ수집ㆍ평가ㆍ폐기ㆍ보존ㆍ공개ㆍ활용 및 이에 부수되는 제반업무를 말한다.3. \"기록관\"이란 기록물을 보존ㆍ관리하고 활용하기 위하여 필요한  열람공간, 사무공간, 작업공간, 보존서고 공간, 보존시설 및 장비, 기록관리시스템, 기록물관리전문요원(이하 \"전문요원\") 및 전문인력 등을 갖춘 조직을 말한다.4. \"관리부\"란 정보원 내의 문서를 분류ㆍ배부ㆍ보존하는 업무를 수행하거나 수신ㆍ발신하는 업무를 지원하는 등 문서에 관한 업무를 주관하는 부서로서, 안전경영지원부를 말한다. <개정 2023. 04. 24.>5. \"처리부\"란 해당 사무내용의 처리를 담당하며 문서를 생산하는 모든 부서를 말한다.6 \"업무관리시스템\"이란 기록물 관리를 전자적으로 수행하는 시스템을 말한다. <개정 2023. 04. 24.>7. \"기록물철\"이란 기록물관리의 기본단위로서 단위업무의 범위에서 관련 기록물을 편철한 1개 이상의 묶음을 말한다.8. \"단위업무\"란 직제 개정 등으로 업무가 변경되어도 2개 이상으로 분리하기 어려운 세분화된 업무기능 또는 사업단위를 말한다.9. \"기록관리기준표\"란 기록물의 체계적인 관리 및 업무 처리를 위해 관리 기준을 제시한 표를 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "기록관의 설치 및 구성",
+        "chapter": "제2장 구성 및 업무분장",
+        "content": "제4조(기록관의 설치 및 구성) ① 기록관은 관리부에 설치하고 기록관장은 관리부가 속한 본부의 장으로 한다.② 기록관장은 기록관의 업무를 효율적으로 수행하기 위하여 전문요원과 기록물관리 업무수행에 필요한 인력을 배치하여야 한다.③ 관리부는 기록물관리 업무를 효율적으로 수행하기 위하여 처리부별 해당부서의 기록물관리를 위한 실무자를 지정(이하 \"기록물관리책임자\")하여 기록물관리 업무를 수행하도록 해야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "주요업무 및 업무분장",
+        "chapter": "제2장 구성 및 업무분장",
+        "content": "제5조(주요업무 및 업무분장) ① 기록관장은 다음 각 호의 업무를 총괄하며, 그에 관한 세부 업무분장을 정한다.1. 기록물관리에 관한 기본계획의 수립ㆍ시행2. 기록물 수집ㆍ관리 및 활용3. 기록물관리 교육 계획 수립ㆍ시행4. 기록물평가심의회 구성ㆍ운영5. 기록관리기준표 작성 및 관리6. 비공개기록물 공개 재분류7. 기록물 정수점검 및 실태조사8. 기록관 시설 및 장비 관리9. 기록물 보안 및 재난대책 수립10. 기록관리시스템 설치 및 운영11. 보유기록물의 열람 및 전시12. 그 밖에 기록물관리에 관한 사항② 기록물관리책임자는 다음 각 호의 업무를 수행한다.1. 생산ㆍ접수된 기록물의 등록에 관한 사항2. 기록물 생산현황 작성3. 기록관리기준표 중 소관업무에 대한 작성 및 수정에 관한 사항4. 단위업무별 기록물철 작성기준의 수립5. 기록물의 정리ㆍ이관에 관한 사항6. 그 밖에 처리부의 기록물관리에 관한 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "생산 및 등록",
+        "chapter": "제3장 기록물의 관리",
+        "content": "제6조(생산 및 등록) ① 원장은 정보원에서에서 수행하는 모든 업무의 과정과 결과가 기록물로 생산ㆍ등록될 수 있도록 하여야 한다.② 원장은「공공기록물 관리에 관한 법률 시행령」 제17조에서 제19조까지에 따른 조사ㆍ연구ㆍ검토서ㆍ회의록 및 시청각기록물에 대한 생산등록ㆍ관리기준을 마련하여야 한다.③ 정보원에서 생산ㆍ접수한 모든 유형의 기록물은 업무관리시스템에 등록하여 전자적으로 관리하여야 한다. <개정 2023. 04. 24.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "「공공기록물 관리에 관한 법률 시행령」",
+            "line_text": "",
+            "target_law_name": "공공기록물 관리에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기록물 관리에 관한 법률 시행령",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0006",
+            "reference_id": "law:공공기록물관리에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "제17조",
+            "line_text": "",
+            "target_law_name": "공공기록물 관리에 관한 법률 시행령",
+            "target_article_no": "제17조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기록물 관리에 관한 법률 시행령/제17조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0006",
+            "reference_id": "law:공공기록물관리에관한법률시행령#JO0017"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "제19조",
+            "line_text": "",
+            "target_law_name": "(한국사회보장정보원) 기록물관리지침",
+            "target_article_no": "제19조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국사회보장정보원) 기록물관리지침/제19조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0006",
+            "reference_id": "pi:(한국사회보장정보원)기록물관리지침#JO0019"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "분류",
+        "chapter": "제3장 기록물의 관리",
+        "content": "제7조(분류) ① 원장은 별표 1과 같이 기록관리기준표를 작성ㆍ운영하여야 하며 기록관리기준표는 보존기간 및 보존기간 책정사유, 기록물의 비치여부ㆍ공개여부ㆍ접근권한 등의 관리기준이 포함되어야 한다.② 처리부는 기록관리기준표에 따라 처리부별ㆍ단위업무별로 해당 기록물을 분류하여 관리하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "(한국사회보장정보원) 기록물관리지침",
+            "target_article_no": "별표1",
+            "target_article_title": "한국사회보장정보원 기록관리기준표",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000132217&bylNo=0001&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0007",
+            "reference_id": "pi:(한국사회보장정보원)기록물관리지침#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "보존기간",
+        "chapter": "제3장 기록물의 관리",
+        "content": "제8조(보존기간) ① 기록물의 보존기간은 영구ㆍ준영구ㆍ30년ㆍ10년ㆍ5년ㆍ3년ㆍ1년으로 구분하며 보존기간 책정기준은 사무관리예규 별표 4와 같다.② 처리부는 제1항의 보존기간 책정기준과 기록관리기준표상의 보존기간을 기준으로 기록물철별로 보존기간을 책정하여야 한다.③ 보존기간 기산일은 해당 업무가 종결된 날이 속하는 다음 연도의 1월 1일로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "별표 4",
+            "line_text": "",
+            "target_law_name": "(한국사회보장정보원) 기록물관리지침",
+            "target_article_no": "별표4",
+            "target_article_title": "",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": false,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000132217&bylNo=&bylBrNo=",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0008",
+            "reference_id": "pi:(한국사회보장정보원)기록물관리지침#BYL0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "정리",
+        "chapter": "제3장 기록물의 관리",
+        "content": "제9조(정리) 처리부는 매년 2월말까지 전년도에 생산을 완결한 기록물을 정리하여야 하며, 기록물의 정리는 다음 각 호의 사항을 포함하여 실시한다.1. 업무관리시스템의 등록여부 <개정 2023. 04. 24.>2. 실제 기록물과 등록정보의 일치여부3. 기록물의 물리적 정리와 보존상자 편성",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "생산현황 통보",
+        "chapter": "제3장 기록물의 관리",
+        "content": "제10조(생산현황 통보) 기록물관리책임자는 전년도에 생산을 완결한 기록물을 기록물철별로 분류ㆍ정리하여 그 결과를 5월 31일까지 업무관리시스템을 통해 기록관장에게 통보하여야 한다. <개정 2023. 04. 24.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "이관",
+        "chapter": "제3장 기록물의 관리",
+        "content": "제11조(이관) ① 처리부는 기록물을 보존기간 기산일로부터 2년의 범위 내에 기록관으로 이관하여야 한다. 다만 감사ㆍ소송ㆍ민원ㆍ행정참조 등의 이유로 이관을 연기하고자 할 때는 별지 제1호서식의 기록물 이관 연기신청서를 기록관장에게 제출하여야 한다.② 제1항에 따라 이관 연기가 결정된 기록물은 보존기간 기산일로부터 10년의 범위 내에서 처리부에서 활용할 수 있으며, 업무참고ㆍ활용의 목적이 달성된 경우에는 별지 제2호서식의 기록물 이관목록을 작성하여 해당 기록물을 기록관으로 이관하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "(한국사회보장정보원) 기록물관리지침",
+            "target_article_no": "별지1",
+            "target_article_title": "기록물이관 연기 신청서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859427",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0011",
+            "reference_id": "pi:(한국사회보장정보원)기록물관리지침#BJ0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제2항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "(한국사회보장정보원) 기록물관리지침",
+            "target_article_no": "별지2",
+            "target_article_title": "이관목록",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859431",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0011",
+            "reference_id": "pi:(한국사회보장정보원)기록물관리지침#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "보존",
+        "chapter": "제3장 기록물의 관리",
+        "content": "제12조(보존) ① 기록관장은 처리부에서 이관된 비전자기록물의 형태ㆍ생산부서ㆍ연도ㆍ보존기간 등을 구분하여 서고에 배치하여야 한다.② 기록관장은 2년마다 기록물의 정수점검 및 상태점검을 실시하여야 한다.③ 기록관장은 기록물 보존을 위한 환경의 구축ㆍ유지 등 필요한 조치를 취하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "행정박물의 관리",
+        "chapter": "제3장 기록물의 관리",
+        "content": "제13조(행정박물의 관리) ① 「공공기록물법」 제24조에 따라 기록관장이 관리해야 하는 행정박물의 범위는 별표 2과 같다.② 처리부는 제1항에 따른 행정박물을 생산, 접수, 또는 취득하였을 경우에는 기록관장이 정하는 방식에 따라 해당 행정박물의 목록 및 관련 정보를 기록관장에게 지체 없이 제출해야 한다. <개정 2023. 04. 24.>③ 기록관장은 제출된 행정박물 목록 중 보존가치가 높은 행정박물에 대해서는 이관대상으로 지정ㆍ관리해야 한다.④ 행정박물의 유형별 이관시기는 별표 3과 같다.⑤ 행정박물이 다음 각 호의 어느 하나에 해당하는 경우에는 행정박물을 폐기할 수 있다.1. 행정적ㆍ역사적ㆍ문화적ㆍ예술적 가치의 변동으로 인하여 영구보존의 필요성이 상실된 것으로 인정되는 경우2. 심각한 물리적 훼손으로 복원이 불가능한 경우",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제1항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "(한국사회보장정보원) 기록물관리지침",
+            "target_article_no": "별표2",
+            "target_article_title": "행정박물 관리대상",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000132217&bylNo=0002&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0013",
+            "reference_id": "pi:(한국사회보장정보원)기록물관리지침#BYL0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제4항",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "(한국사회보장정보원) 기록물관리지침",
+            "target_article_no": "별표3",
+            "target_article_title": "행정박물 유형별 이관시기",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000132217&bylNo=0003&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0013",
+            "reference_id": "pi:(한국사회보장정보원)기록물관리지침#BYL0003"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조",
+            "link_text": "「공공기록물법」 제24조",
+            "line_text": "제13조(행정박물의 관리) ① 「공공기록물법」 제24조에 따라 기록관장이 관리해야 하는 행정박물의 범위는 별표 2과 같다.② 처리부는 제1항에 따른 행정박물을 생산, 접수, 또는 취득하였을 경우에는 기록관장이 정하는 방식에 따라 해당 행정박물의 목록 및 관련 정보를 기록관장에게 지체 없이 제출해야 한다. <개정 2023. 04. 24.>③ 기록관장은 제출된 행정박물 목록 중 보존가치가 높은 행정박물에 대해서는 이관대상으로 지정ㆍ관리해야 한다.④ 행정박물의 유형별 이관시기는 별표 3과 같다.⑤ 행정박물이 다음 각 호의 어느 하나에 해당하는 경우에는 행정박물을 폐기할 수 있다.1. 행정적ㆍ역사적ㆍ문화적ㆍ예술적 가치의 변동으로 인하여 영구보존의 필요성이 상실된 것으로 인정되는 경우2. 심각한 물리적 훼손으로 복원이 불가능한 경우",
+            "target_law_name": "공공기록물법",
+            "target_article_no": "제24조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기록물법/제24조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0013",
+            "reference_id": "law:공공기록물법#JO0024"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "기록물의 평가 및 폐기",
+        "chapter": "제4장 기록물평가심의회",
+        "content": "제14조(기록물의 평가 및 폐기) ① 기록관장은 보존 중인 기록물 중 보존기간이 경과한 기록물에 대해서는 생산부서 의견조회, 전문요원의 심사 및 제15조에 따른 기록물평가심의회의 심의를 거쳐 보존기간 재책정ㆍ폐기 또는 보류로 구분하여 처리하여야 한다.② 보류로 구분된 기록물은 매 5년마다 보존가치를 재평가하여야 한다.③ 기록관장은 보존기간이 준영구인 기록물에 대해 보존기간 기산일로부터 70년(동종ㆍ대량 기록물로서 보존가치가 낮은 기록물은 50년) 경과 시 제1항에 따른 심사 및 심의를 거쳐 해당 기록물의 보존가치를 평가하여 보존기간 영구로 재책정하거나 보류ㆍ폐기로 구분하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제1항",
+            "link_text": "제15조",
+            "line_text": "",
+            "target_law_name": "(한국사회보장정보원) 기록물관리지침",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국사회보장정보원) 기록물관리지침/제15조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0014",
+            "reference_id": "pi:(한국사회보장정보원)기록물관리지침#JO0015"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "심의회의 설치 및 구성",
+        "chapter": "제4장 기록물평가심의회",
+        "content": "제15조(심의회의 설치 및 구성) ① 제14조에 따른 사항을 심의하기 위하여 기록관에 기록물평가심의회(이하 ‘심의회’라 한다)를 둔다. <개정 2023. 04. 24.>② 심의회는 위원장을 포함하여 7명의 위원으로 구성한다.③ 심의위원장은 기록관장으로 하고, 그 외에 내부위원 3명과 기록물 평가에 적합한 민간위원 3명을 위촉한다.④ 민간위원의 임기는 2년으로 하되, 1회에 한하여 연임할 수 있다.⑤ 심의회의 사무를 처리하기 위하여 간사와 서기 각 1명을 두되,  간사는 관리부의 장으로 하고, 서기는 전문요원이 담당한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제1항",
+            "link_text": "제14조",
+            "line_text": "",
+            "target_law_name": "(한국사회보장정보원) 기록물관리지침",
+            "target_article_no": "제14조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국사회보장정보원) 기록물관리지침/제14조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0015",
+            "reference_id": "pi:(한국사회보장정보원)기록물관리지침#JO0014"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "심의위원의 자격조건",
+        "chapter": "제4장 기록물평가심의회",
+        "content": "제16조(심의위원의 자격조건) ① 심의회의 내부위원은 정보원 소속 직원 중 부장 이상으로 기록관장이 위촉한다.② 민간위원은 다음 각 호의 어느 하나에 해당하는 자로서 기록관장이 위촉한다.1. 기록관리학ㆍ행정학ㆍ법학 등 기록물관리 관련분야 학과의 전임강사 이상의 교원2. 기록물관리와 관련된 학회의 추천을 받은 자3. 기록관에서 5년 이상 기록물관리 업무를 담당한 자",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "심의회의 기능",
+        "chapter": "제4장 기록물평가심의회",
+        "content": "제17조(심의회의 기능) 심의회는 다음 각 호의 사항을 심의하여 의결한다.1. 보존기간 경과 기록물의 보존기간 재책정ㆍ폐기ㆍ보류에 관한 사항2. 평가대상기록물에 대한 처리부의 의견과 전문요원의 심사결과에 대한 적정성 여부3. 단위업무 및 기록물에 대한 보존기간의 조정에 관한 사항4. 그 밖에 기록물의 평가와 관련하여 필요한 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "심의회의 운영",
+        "chapter": "제4장 기록물평가심의회",
+        "content": "제18조(심의회의 운영) ① 심의회는 위원장이 필요하다고 인정하는 경우에 소집한다.② 회의는 재적위원 과반수의 출석으로 개의하고, 출석위원 과반수의 찬성으로 의결한다.③ 위원은 별지 제3호서식의 기록물평가심의서를 작성하고, 심의 종료 후 별지 제4호서식의 심의 의결서에 서명ㆍ날인한다.④ 전문요원은 회의에 배석하여 회의록을 작성하여야 하며, 회의 종료 후에는 기록물평가심의서ㆍ기록물평가심의의결서ㆍ회의록 및 관련 서류를 첨부하여 위원장의 서명을 받은 후 보존하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제3항",
+            "link_text": "별지 제3호서식",
+            "line_text": "",
+            "target_law_name": "(한국사회보장정보원) 기록물관리지침",
+            "target_article_no": "별지3",
+            "target_article_title": "기록물평가심의서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859435",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0018",
+            "reference_id": "pi:(한국사회보장정보원)기록물관리지침#BJ0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제3항",
+            "link_text": "별지 제4호서식",
+            "line_text": "",
+            "target_law_name": "(한국사회보장정보원) 기록물관리지침",
+            "target_article_no": "별지4",
+            "target_article_title": "기록물평가심의 의결서",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859439",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0018",
+            "reference_id": "pi:(한국사회보장정보원)기록물관리지침#BJ0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "위원의 의무",
+        "chapter": "제4장 기록물평가심의회",
+        "content": "제19조(위원의 의무) 위원으로 위촉된 자는 심의과정에서 인지한 내용을 외부에 누설하지 않도록 하여야 하며, 심의 전에 별지 제5호서식의 기록물평가심의 서약서를 제출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제19조",
+            "source_clause": "제19조",
+            "link_text": "별지 제5호서식",
+            "line_text": "",
+            "target_law_name": "(한국사회보장정보원) 기록물관리지침",
+            "target_article_no": "별지5",
+            "target_article_title": "기록물평가심의 서약서",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859443",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0019",
+            "reference_id": "pi:(한국사회보장정보원)기록물관리지침#BJ0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "보안관리",
+        "chapter": "제5장 보안관리 및 점검",
+        "content": "제20조(보안관리) ① 기록관장은 기록물 보존서고를 보안업무규정 제29조에 의거 제한구역으로 지정하고 보안관리를 철저히 하여야 한다.② 보존서고는 외부인의 출입을 원칙적으로 금지하며, 필요에 의하여 출입하고자 하는 자는 미리 기록관장의 허가를 받아야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제1항",
+            "link_text": "제29조",
+            "line_text": "",
+            "target_law_name": "보안업무규정",
+            "target_article_no": "제29조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/보안업무규정/제29조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0020",
+            "reference_id": "law:보안업무규정#JO0029"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "기록물관리실태 점검",
+        "chapter": "제5장 보안관리 및 점검",
+        "content": "제21조(기록물관리실태 점검) 기록관장은 각 부, 센터, 실, 단 등의 기록물관리실태를 연 1회 이상 점검하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "긴급사태 대비",
+        "chapter": "제5장 보안관리 및 점검",
+        "content": "제22조(긴급사태 대비) 기록관장은 화재 또는 천재지변 등 비상사태에 대비하여 문서고 등에 재난대비시설을 설치하고 재난대비계획을 작성하여 운영하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "열람시간",
+        "chapter": "제6장 기록물 대출 및 열람",
+        "content": "제23조(열람시간) 기록관의 열람시간은 복무지침에 따른 근무시간의 시작 시부터 종료 시까지로 한다. 다만, 기록관장이 필요하다고 인정하는 경우 이를 연장ㆍ단축 또는 변경하여 운영할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "열람과 대출의 자격",
+        "chapter": "제6장 기록물 대출 및 열람",
+        "content": "제24조(열람과 대출의 자격) 기록관의 기록물을 열람 및 대출할 수 있는 자는 다음 각 호의 어느 하나에 해당하는 자로 한다.1. 정보원의 임직원2. 학술연구 또는 비영리를 목적으로 기록물을 이용하기 위해 기록관장의 승인을 받은 임직원 외의 자",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "열람 준수사항",
+        "chapter": "제6장 기록물 대출 및 열람",
+        "content": "제25조(열람 준수사항) 열람은 기록관 내 열람공간에서 하여야 하며 업무 담당자의 지시에 따라 별지 제6호서식의 열람대장에 필요한 사항을 기재하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제25조",
+            "source_clause": "제25조",
+            "link_text": "별지 제6호서식",
+            "line_text": "",
+            "target_law_name": "(한국사회보장정보원) 기록물관리지침",
+            "target_article_no": "별지6",
+            "target_article_title": "기록물 열람대장",
+            "appendix_no": "6",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859447",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0025",
+            "reference_id": "pi:(한국사회보장정보원)기록물관리지침#BJ0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0025"
+      },
+      {
+        "article_no": "제26조",
+        "article_title": "대출",
+        "chapter": "제6장 기록물 대출 및 열람",
+        "content": "제26조(대출) 기록관의 기록물 대출은 다음 각 호의 사항에 따른다.1. 기록물의 대출기간은 10일 이내로 한다. 다만, 특별한 사유가 인정되는 경우 10일의 범위 이내에서 1회 연장할 수 있다.2. 기록물을 대출하려는 자는 별지 제7호서식의 대출신청서를 작성하여 기록관장의 승인을 얻어야 한다.3. 기록관장은 제1호에도 불구하고 기록물의 보존 상태나 성격에 따라 대출의 범위와 조건을 달리할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제26조",
+            "source_clause": "제26조",
+            "link_text": "별지 제7호서식",
+            "line_text": "",
+            "target_law_name": "(한국사회보장정보원) 기록물관리지침",
+            "target_article_no": "별지7",
+            "target_article_title": "대출신청서",
+            "appendix_no": "7",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859451",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0026",
+            "reference_id": "pi:(한국사회보장정보원)기록물관리지침#BJ0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0026"
+      },
+      {
+        "article_no": "제27조",
+        "article_title": "간행물발간심의위원회",
+        "chapter": "제7장 간행물 관리 <신설 2023. 04. 24>",
+        "content": "제27조(간행물발간심의위원회) 간행물 중 내용적격성, 공개여부 등에 관한 사항을 심의하기 위해 발간부서의 장이 구성ㆍ운영하는 회의체를 둔다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0027"
+      },
+      {
+        "article_no": "제28조",
+        "article_title": "간행물발간심의위원회 구성",
+        "chapter": "제7장 간행물 관리 <신설 2023. 04. 24>",
+        "content": "제28조(간행물발간심의위원회 구성) ① 간행물발간심의위원회는 위원장을 포함한 5인 이상 10인 이내의 위원으로 구성한다. ② 위원장은 발간부서 소관본부장으로 한다.③ 간행물발간심의위원의 사무를 처리하기 위하여 간사 1인을 두되, 간사는 발간부서장으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0028"
+      },
+      {
+        "article_no": "제29조",
+        "article_title": "간행물발간심의위원회 역할",
+        "chapter": "제7장 간행물 관리 <신설 2023. 04. 24>",
+        "content": "제29조(간행물발간심의위원회 역할) 간행물발간심의위원회는 발간업무에 관한 다음 각 호의 사항을 수행한다.1. 내용 적격성 심의에 관한 사항2. 간행물 공개여부3. 기타 발간과 관련된 주요사항 등",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0029"
+      },
+      {
+        "article_no": "제30조",
+        "article_title": "간행물 발간심의 대상",
+        "chapter": "제7장 간행물 관리 <신설 2023. 04. 24>",
+        "content": "제30조(간행물 발간심의 대상) 발간심의 대상 간행물은 국민들에게 공개되어지는 주요 간행물 중 조사 및 연구보고서, 통계집 등 보건복지정책에 영향을 줄 수 있는 성과물에 한해 심의한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0030"
+      },
+      {
+        "article_no": "제31조",
+        "article_title": "발간등록번호",
+        "chapter": "제7장 간행물 관리 <신설 2023. 04. 24>",
+        "content": "제31조(발간등록번호)  ① 간행물을 발간하고자 하는 경우 별지 제8호서식을 작성하여 기록관에 제출하고 발간등록번호 등을 부여 받은 후 간행물 표지에 이를 표시하여야 한다.② 제1항에 따른 발간등록번호 등은 기록관에서 발급하는 발간연도와 연도별 발간순번 등을 기재하는 것으로 한다.③ 기존에 등록된 동일한 내용의 간행물에 대한 제목, 발간주기, 공개여부 등이 변경될 경우 별지 제9호서식을 작성하여 기록관에 제출하고 발간등록번호를 새롭게 부여 받아야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제31조",
+            "source_clause": "제31조제1항",
+            "link_text": "별지 제8호서식",
+            "line_text": "",
+            "target_law_name": "(한국사회보장정보원) 기록물관리지침",
+            "target_article_no": "별지8",
+            "target_article_title": "간행물 등록 및 발간등록번호 신청서",
+            "appendix_no": "8",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859455",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0031",
+            "reference_id": "pi:(한국사회보장정보원)기록물관리지침#BJ0008"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제31조",
+            "source_clause": "제31조제3항",
+            "link_text": "별지 제9호서식",
+            "line_text": "",
+            "target_law_name": "(한국사회보장정보원) 기록물관리지침",
+            "target_article_no": "별지9",
+            "target_article_title": "간행물 등록 변경신청서",
+            "appendix_no": "9",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859459",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0031",
+            "reference_id": "pi:(한국사회보장정보원)기록물관리지침#BJ0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0031"
+      },
+      {
+        "article_no": "제32조",
+        "article_title": "간행물 보존ㆍ관리",
+        "chapter": "제7장 간행물 관리 <신설 2023. 04. 24>",
+        "content": "제32조(간행물 보존ㆍ관리)간행물 발간등록번호를 발급받은 간행물은 기록관에 전자파일로 제출하여 보존ㆍ관리할 수 있도록 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0032"
+      },
+      {
+        "article_no": "제33조",
+        "article_title": "기타",
+        "chapter": "제7장 간행물 관리 <신설 2023. 04. 24>",
+        "content": "제33조(기타)간행물의 발간원칙 및 구성과 규격 등 그 밖의 사항은「간행물관리 매뉴얼」 에서 정한바에 따른다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국사회보장정보원)기록물관리지침#JO0033"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20190130",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2019.01.30.>이 지침은 원장의 결재를 받은 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20230424",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2023.04.24.>이 지침은 원장의 결재를 받은 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "한국사회보장정보원 기록관리기준표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000132217&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859413",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859413",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(한국사회보장정보원)기록물관리지침#BYL0001",
+      "filename": "별표1_한국사회보장정보원 기록관리기준표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "행정박물 관리대상",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000132217&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859419",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859419",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(한국사회보장정보원)기록물관리지침#BYL0002",
+      "filename": "별표2_행정박물 관리대상.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "행정박물 유형별 이관시기",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000132217&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859423",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859423",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(한국사회보장정보원)기록물관리지침#BYL0003",
+      "filename": "별표3_행정박물 유형별 이관시기.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "기록물이관 연기 신청서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859427",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859427",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(한국사회보장정보원)기록물관리지침#BJ0001",
+      "filename": "별지1_기록물이관 연기 신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "이관목록",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859431",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859431",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(한국사회보장정보원)기록물관리지침#BJ0002",
+      "filename": "별지2_이관목록.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "기록물평가심의서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859435",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859435",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(한국사회보장정보원)기록물관리지침#BJ0003",
+      "filename": "별지3_기록물평가심의서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "기록물평가심의 의결서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859439",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859439",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(한국사회보장정보원)기록물관리지침#BJ0004",
+      "filename": "별지4_기록물평가심의 의결서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별지",
+      "title": "기록물평가심의 서약서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859443",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859443",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(한국사회보장정보원)기록물관리지침#BJ0005",
+      "filename": "별지5_기록물평가심의 서약서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별지",
+      "title": "기록물 열람대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859447",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859447",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(한국사회보장정보원)기록물관리지침#BJ0006",
+      "filename": "별지6_기록물 열람대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "별지",
+      "title": "대출신청서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859451",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859451",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(한국사회보장정보원)기록물관리지침#BJ0007",
+      "filename": "별지7_대출신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0008",
+      "branch": "00",
+      "kind": "별지",
+      "title": "간행물 등록 및 발간등록번호 신청서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859455",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859455",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(한국사회보장정보원)기록물관리지침#BJ0008",
+      "filename": "별지8_간행물 등록 및 발간등록번호 신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0009",
+      "branch": "00",
+      "kind": "별지",
+      "title": "간행물 등록 변경신청서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859459",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156859459",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(한국사회보장정보원)기록물관리지침#BJ0009",
+      "filename": "별지9_간행물 등록 변경신청서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 22,
+    "by_category": {
+      "법령": 5,
+      "학칙공단": 4,
+      "별표": 4,
+      "별지": 9
+    },
+    "by_relation_type": {
+      "citation": 6,
+      "internal_ref": 3,
+      "appendix_ref": 13
+    },
+    "articles_total": 33,
+    "articles_with_relations": 14,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 2,
+    "appendices_count": 12,
+    "attachments_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/학칙공단/(한국사회보장정보원) 기록물관리지침"
+  },
+  "provision_id": "pi:(한국사회보장정보원)기록물관리지침#DOC"
+}
