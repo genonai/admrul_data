@@ -1,0 +1,654 @@
+{
+  "law_id": "2100000222744",
+  "mst": "2100000222744",
+  "law_name": "고용노동부 고객지원실 운영규정",
+  "law_abbr": "",
+  "law_type": "훈령",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000222744",
+  "promulgation_no": "453",
+  "promulgation_date": "20230501",
+  "enforcement_date": "20230501",
+  "revision_date": "20230501",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "고용노동부(민원운영팀)",
+    "담당자명": "이혜선",
+    "행정규칙종류코드": "B0001",
+    "행정규칙명": "고용노동부 고객지원실 운영규정",
+    "발령일자": "20230501",
+    "행정규칙종류": "훈령",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "고용노동부",
+    "전화번호": "044-202-7794",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1492000",
+    "생성일자": "20230503",
+    "행정규칙ID": "38158",
+    "시행일자": "20230501",
+    "담당부서기관코드": "1494879",
+    "발령번호": "453",
+    "행정규칙일련번호": "2100000222744",
+    "상위부처명": "고용노동부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n「민원 처리에 관한 법률」(이하 민원처리법) 및 같은 법 시행령에 민원 담당자의 보호 및 민원실 운영시간에 대한 규정이 추가됨에 따라 해당 내용을 반영하고 기타 용어 및 문구를 정비하고자 함\n◇ 주요내용\n가. 고객지원실 운영시간 및 방법 명시\n○ 민원실 운영시간에 대한 규정(민원처리법시행령 제8조의3)에 따라 고객지원실 운영시간을 명시하고, 기관 특성을 고려하여 세부 운영시간을 별도로 정할 수 있도록 함\n나. 민원 담당 직원에 대한 보호 의무 명시\n○ 민원처리법에 민원인의 폭언ㆍ폭행 등에 대한 민원 처리 담당자의 보호 규정이 신설(민원처리법 제4조제2항)됨에 따라 관련 규정 추가\n다. 타 훈령 제목 현행화 및 용어 구체화\n○ 「고용노동부 무기계약직 규정」을 「고용노동부 공무직근로자 운영규정」으로 수정\n○ 영어 표현을 적절한 용어로 순화(’뉴스‘, ’이슈‘ → ’정책‘, ’제도‘)하고 추상적 표현 구체화(’정책적, 기술적 판단‘ → ’본부 소관 업무 부서의 정책적 판단‘)",
+  "body": {
+    "format": "articles",
+    "article_count": 18,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규정은 「민원 처리에 관한 법률」(이하 \"민원처리법\"이라 한다) 제12조에 따라 설치되는 고객지원실의 업무와 운영 등에 필요한 사항을 정함으로써 고객중심의 고용노동행정 서비스 제공과 고객지원실 운영의 효율성을 도모함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「민원 처리에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "민원 처리에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/민원 처리에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부고객지원실운영규정#JO0001",
+            "reference_id": "law:민원처리에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제12조",
+            "line_text": "",
+            "target_law_name": "민원 처리에 관한 법률",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/민원 처리에 관한 법률/제12조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부고객지원실운영규정#JO0001",
+            "reference_id": "law:민원처리에관한법률#JO0012"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:고용노동부고객지원실운영규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) 이 규정에서 사용하는 용어의 뜻은 다음과 같다1. \"민원\"이란 민원인이 행정기관에 대하여 처분 등 특정한 행위를 요구하는 것으로, 민원처리법 제2조에 따른 일반민원(법정민원, 질의민원, 건의민원, 기타민원을 포함한다)과 고충민원을 말한다.2. \"민원인\"이란 행정기관에 민원을 제기하는 개인ㆍ법인 또는 단체를 말한다. 다만, 행정기관(사경제의 주체로서 제기하는 경우는 제외한다), 행정기관과 사법(私法)상 계약관계(민원과 직접 관련된 계약관계만 해당한다)에 있는 자, 성명ㆍ주소 등이 불명확한 자 등은 제외한다.3. \"민원상담\"이란 민원인이 전화 및 방문 등의 방법으로 고용노동행정 업무에 관한 문의에 대하여 답변하는 것을 말한다.4. \"지방고용노동관서\"(이하 ‘지방관서’라 한다)란 지방고용노동청 및 그 소속지청을 말한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "민원처리법",
+            "line_text": "",
+            "target_law_name": "민원 처리에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/민원 처리에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부고객지원실운영규정#JO0002",
+            "reference_id": "law:민원처리에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "민원 처리에 관한 법률",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/민원 처리에 관한 법률/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부고객지원실운영규정#JO0002",
+            "reference_id": "law:민원처리에관한법률#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "민원처리법 제2조",
+            "line_text": "제2조(정의) 이 규정에서 사용하는 용어의 뜻은 다음과 같다1. \"민원\"이란 민원인이 행정기관에 대하여 처분 등 특정한 행위를 요구하는 것으로, 민원처리법 제2조에 따른 일반민원(법정민원, 질의민원, 건의민원, 기타민원을 포함한다)과 고충민원을 말한다.2. \"민원인\"이란 행정기관에 민원을 제기하는 개인ㆍ법인 또는 단체를 말한다. 다만, 행정기관(사경제의 주체로서 제기하는 경우는 제외한다), 행정기관과 사법(私法)상 계약관계(민원과 직접 관련된 계약관계만 해당한다)에 있는 자, 성명ㆍ주소 등이 불명확한 자 등은 제외한다.3. \"민원상담\"이란 민원인이 전화 및 방문 등의 방법으로 고용노동행정 업무에 관한 문의에 대하여 답변하는 것을 말한다.4. \"지방고용노동관서\"(이하 ‘지방관서’라 한다)란 지방고용노동청 및 그 소속지청을 말한다.",
+            "target_law_name": "민원 처리에 관한 법률",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/민원 처리에 관한 법률/제2조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:고용노동부고객지원실운영규정#JO0002",
+            "reference_id": "law:민원처리에관한법률#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:고용노동부고객지원실운영규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "적용범위",
+        "chapter": "",
+        "content": "제3조(적용범위) 이 규정은 고용노동부 본부(이하 \"본부\"라 한다) 및 지방관서에 적용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:고용노동부고객지원실운영규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "조직과 운영",
+        "chapter": "",
+        "content": "제4조(조직과 운영) ① 본부 및 지방관서에 고객지원실을 설치한다.② 본부 고객지원실은 고객지원팀, 지방관서 고객지원실은 고용관리과 소속으로 하되, 고용관리과가 설치되어 있지 아니한 지방관서는 지역협력과(팀) 소속으로 한다.③ 고객지원실의 1일 운영시간은 오전 9시부터 오후 6시까지(점심시간 1시간 포함)로 하되, 지방관서(본부 포함)별 기관의 특성을 고려하여 세부적인 운영에 대하여 별도로 정할 수 있다.④ 제3항에 따라 세부 운영시간을 별도로 정하는 경우 그 사항을 기관 홈페이지 및 고객지원실 주변 등에 누구나 볼 수 있도록 게시하고, 민원인 불편을 최소화하기 위한 편의를 제공하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:고용노동부고객지원실운영규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "실장",
+        "chapter": "",
+        "content": "제5조(실장) ① 고객지원실에는 실장 1명을 두되, 본부는 고객지원팀 담당 사무관, 지방관서는 고용관리과장(고용관리과가 설치되어 있지 아니한 지방관서는 지역협력과(팀)장)이 겸임한다.② 본부 고객지원실장은 고객지원팀장의 명을 받아 소관업무를 담당하며, 본부 고객지원실에 근무하는 사람을 지휘ㆍ감독한다.③ 지방관서 고객지원실장은 기관장의 명을 받아 소관 업무를 관장하며, 고객지원실에 근무하는 사람을 지휘ㆍ감독한다.④ 지방관서 고객지원실장은 집단민원 또는 사회적으로 물의가 예상되는 민원을 알게 된 경우에 즉시 고객지원팀장과 해당 기관장에 보고하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:고용노동부고객지원실운영규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "고객지원관",
+        "chapter": "",
+        "content": "제6조(고객지원관) ① 지방관서의 장은 제2조제3호에 따른 민원상담 및 효율적인 고객지원실 운영을 위하여 고객지원관을 채용할 수 있다.② 지방관서의 장이 고객지원관을 채용할 때에는 「고용노동부 공무직 근로자 운영규정」이 정하는 바에 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "제2조제3호",
+            "line_text": "",
+            "target_law_name": "민원 처리에 관한 법률",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/민원 처리에 관한 법률/제2조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:고용노동부고객지원실운영규정#JO0006",
+            "reference_id": "law:민원처리에관한법률#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "「고용노동부 공무직 근로자 운영규정」",
+            "line_text": "",
+            "target_law_name": "고용노동부 공무직 근로자 운영규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/고용노동부 공무직 근로자 운영규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부고객지원실운영규정#JO0006",
+            "reference_id": "admrul:고용노동부공무직근로자운영규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:고용노동부고객지원실운영규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "인력배치",
+        "chapter": "",
+        "content": "제7조(인력배치) ① 본부 고객지원실에는 고용노동행정 경력이 있는 자를 배치하여야 한다.② 지방관서 고객지원실에는 상담을 위하여 제6조에 따른 고객지원관을 배치하되, 필요한 경우 고용노동행정 경력이 있는 자 또는 민원서류 접수자 등을 추가로 배치할 수 있다③ 지방관서의 장은 지역현황을 감안하여 고용노동행정에 관한 지식과 경험이 있는 민간인을 한시적으로 명예상담실장으로 위촉할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "고용노동부 고객지원실 운영규정",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/고용노동부 고객지원실 운영규정/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부고객지원실운영규정#JO0007",
+            "reference_id": "admrul:고용노동부고객지원실운영규정#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:고용노동부고객지원실운영규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "업무",
+        "chapter": "",
+        "content": "제8조(업무) ① 본부 고객지원실은 다음 각 호의 업무를 관장한다.1. 민원상담 및 처리(다만 신고사건의 처리, 법령질의에 대한 답변 등은 제외한다.)2. 민원서류의 접수 및 분류3. 소속기관 고객지원실에 대한 지도관리② 지방관서의 고객지원실은 다음 각 호의 업무를 관장하며, 그 중 제1호 부터 제3호까지의 업무는 고객지원관이 담당한다. 다만, 고객지원실장은 업무 형편에 따라 고객지원관의 업무를 조정할 수 있다.1. 민원상담 및 처리2. 민원서류의 접수 및 분류3. 순회이동 상담실 운영4. 1일 명예상담실장제 운영③ 다음 각 호의 어느 하나에 해당되는 사항은 상담업무에 포함되지 아니한다.1. 본부 소관 업무 부서의 정책적 판단을 요하는 사안2. 이미 수사에 착수된 사건이거나 행정심판, 행정소송, 그 밖에 다른 법령에 따른 구제절차가 진행 중인 사건3. 법원의 판결에 의하여 종료된 사건4. 그 밖에 우리부 소관업무와 관련이 없는 사안",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:고용노동부고객지원실운영규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "민원접수",
+        "chapter": "",
+        "content": "제9조(민원접수) ① 민원은 문서로 제출되는 것 뿐만 아니라 구술(口述) 또는 전화에 의한 것도 접수ㆍ처리하여야 한다.② 민원을 접수하는 경우에는 그 순서에 따라 민원처리부에 즉시 기록하되, 민원통합관리시스템에 입력하는 것으로 갈음할 수 있다. 다만, 구술(口述) 또는 전화로 신청한 기타민원을 처리하는 경우에는 기록하는 절차를 생략할 수 있다.③ 민원인이 우편 또는 방문하여 직접 민원을 제출하고 접수사실의 확인을 요청하는 경우에 별지 제1호서식의 접수증을 교부하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제3항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "고용노동부 고객지원실 운영규정",
+            "target_article_no": "별지1",
+            "target_article_title": "접수증",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=127717719",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부고객지원실운영규정#JO0009",
+            "reference_id": "admrul:고용노동부고객지원실운영규정#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:고용노동부고객지원실운영규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "업무일지 작성",
+        "chapter": "",
+        "content": "제10조(업무일지 작성) 고객지원관은 상담처리 사안에 대하여 별지 제2호 서식의 일일업무일지를 작성ㆍ관리하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "별지 제2호 서식",
+            "line_text": "",
+            "target_law_name": "고용노동부 고객지원실 운영규정",
+            "target_article_no": "별지2",
+            "target_article_title": "고객지원실 일일업무일지",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=127717725",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부고객지원실운영규정#JO0010",
+            "reference_id": "admrul:고용노동부고객지원실운영규정#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:고용노동부고객지원실운영규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "민원심사관의 지정",
+        "chapter": "",
+        "content": "제11조(민원심사관의 지정) ① 본부 고객지원팀 민원담당사무관과 지방관서 고객지원실장은 민원처리법 제25조제1항에 따른 민원심사관을 겸할 수 있다.② 지방관서의 장은 필요할 경우 고객지원실장의 의견을 들어 분임 민원심사관을 둘 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "민원처리법",
+            "line_text": "",
+            "target_law_name": "민원 처리에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/민원 처리에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부고객지원실운영규정#JO0011",
+            "reference_id": "law:민원처리에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "제25조제1항",
+            "line_text": "",
+            "target_law_name": "민원 처리에 관한 법률",
+            "target_article_no": "제25조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/민원 처리에 관한 법률/제25조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부고객지원실운영규정#JO0011",
+            "reference_id": "law:민원처리에관한법률#JO0025"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "민원처리법 제25조",
+            "line_text": "제11조(민원심사관의 지정) ① 본부 고객지원팀 민원담당사무관과 지방관서 고객지원실장은 민원처리법 제25조제1항에 따른 민원심사관을 겸할 수 있다.② 지방관서의 장은 필요할 경우 고객지원실장의 의견을 들어 분임 민원심사관을 둘 수 있다.",
+            "target_law_name": "민원 처리에 관한 법률",
+            "target_article_no": "제25조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/민원 처리에 관한 법률/제25조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:고용노동부고객지원실운영규정#JO0011",
+            "reference_id": "law:민원처리에관한법률#JO0025"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:고용노동부고객지원실운영규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "상담자료 비치 등",
+        "chapter": "",
+        "content": "제12조(상담자료 비치 등) ① 고객지원실장은 상담에 필요한 자료를 고객지원실에 비치하여야 한다.② 본부 각 실ㆍ관은 고객지원실의 효율적인 민원상담을 위하여 다음 각 호의 자료를 발간하는 경우에는 본부 및 지방관서 고객지원실에 1부 이상 송부하여야 한다.1. 민원상담에 필요한 업무지침 및 질의회시집 등2. 법령의 제ㆍ개정 및 관련 고시, 업무편람 등3. 그 밖에 고객지원실 민원상담에 필요한 자료③ 고객지원실장은 상담처리에 필요한 자료를 해당부서에 요구할 수 있으며, 해당부서는 특별한 사유가 없는 한 이에 협조하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:고용노동부고객지원실운영규정#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "상담사례집 발간",
+        "chapter": "",
+        "content": "제13조(상담사례집 발간) 고용노동부장관은 본부 및 지방관서 고객지원관 등이 민원상담에 활용할 수 있도록 모범 상담사례를 수록한 상담사례집을 발간할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:고용노동부고객지원실운영규정#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "준수사항",
+        "chapter": "",
+        "content": "제14조(준수사항) 고객지원실에 근무하는 사람은 다음 각 호의 사항을 준수하여야 한다.1. 상담시 친절ㆍ성실한 태도 유지2. 원활한 민원상담을 위한 고용노동관계법령, 주요 정책 및 제도 등의 신속한 파악3. 상담과정에서 알게된 사실의 외부 누설 금지4. 근무 시 품위 유지 및 신분증 패용5. 민원인의 쾌적한 상담을 위한 환경 정리6. 위 각 호에 준하여 고객지원실장이 고객지원실 운영에 필요하다고 판단한 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:고용노동부고객지원실운영규정#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "직무교육",
+        "chapter": "",
+        "content": "제15조(직무교육) ① 고객지원실장은 민원상담 품질제고를 위하여 고객지원관 등에 대한 직무교육계획을 수립하고 정기 또는 수시로 교육을 실시하여야 한다.② 직무교육은 자체 교육 또는 외부 전문교육기관에 위탁하여 실시할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:고용노동부고객지원실운영규정#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "근무자의 보호",
+        "chapter": "",
+        "content": "제16조(근무자의 보호) 고객지원실장은 민원인의 폭언ㆍ폭행, 목적이 정당하지 않은 반복민원 등으로부터 고객지원실 근무자를 보호하기 위한 조치를 취해야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:고용노동부고객지원실운영규정#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "수당 지급 등",
+        "chapter": "",
+        "content": "제17조(수당 지급 등) ① 본부 및 지방관서 고객지원실에 근무하는 민원담당공무원에게 지급하는 민원업무수당에 관하여는 「고용노동부 민원담당공무원 수당지급 규정」이 정하는 바에 따른다.② 지방관서의 장은 명예상담실장에게 예산의 범위에서 수당을 지급할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제1항",
+            "link_text": "「고용노동부 민원담당공무원 수당지급 규정」",
+            "line_text": "",
+            "target_law_name": "고용노동부 민원담당공무원 수당지급 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/고용노동부 민원담당공무원 수당지급 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부고객지원실운영규정#JO0017",
+            "reference_id": "admrul:고용노동부민원담당공무원수당지급규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:고용노동부고객지원실운영규정#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "실적보고",
+        "chapter": "",
+        "content": "제18조(실적보고) 지방관서의 장은 고객지원실 특별민원 발생 현황을 별지 제3호 서식에 따라 반기 다음달 10일까지 본부에 보고하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제18조",
+            "source_clause": "제18조",
+            "link_text": "별지 제3호 서식",
+            "line_text": "",
+            "target_law_name": "고용노동부 고객지원실 운영규정",
+            "target_article_no": "별지3",
+            "target_article_title": "고객지원실 특별민원 발생 현황 보고",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=127717731",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부고객지원실운영규정#JO0018",
+            "reference_id": "admrul:고용노동부고객지원실운영규정#BJ0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:고용노동부고객지원실운영규정#JO0018"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20101229",
+      "promulgation_no": "23",
+      "content": "부칙 <제23호,2010. 12. 29.>이 규정은 2011년 1월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20180523",
+      "promulgation_no": "243",
+      "content": "부칙 <제243호,2018. 5. 23.>이 규정은 2018년 5월 23일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20230501",
+      "promulgation_no": "453",
+      "content": "부칙 <제453호, 2023. 5. 1.>이 규정은 2023년 5월 1일부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "접수증",
+      "enforcement_date": "",
+      "content": "[별지제1호서식]\n┌───────────────────────────┐\n│접     수     증                                      │\n│                                                      │\n│  제       호         접수일시:    .    .    .    :   │\n│┌────────┬────────────────┐│\n││① 민   원   명 │                                ││\n│├────────┼────────────────┤│\n││② 민원인(대표자│                                ││\n││또는 대리인)    │                                ││\n│├────────┼────────────────┤│\n││③ 처리예정기한 │                                ││\n│├────────┼────────────────┤│\n││④ 처리주무부서 │                                ││\n│├────────┼────────────────┤│\n││⑤ 안 내 사 항  │                                ││\n│└────────┴────────────────┘│\n│민원접수자:          (서명)                           │\n│(전화:           )                                    │\n│○ ○ ○ 고 객 지 원 실                               │\n└───────────────────────────┘\n\n-----------------------------------------------------------\n┌───────────────────────────┐\n│접     수     증                                      │\n│                                                      │\n│  제       호         접수일시:    .    .    .    :   │\n│┌────────┬────────────────┐│\n││① 민   원   명 │                                ││\n│├────────┼────────────────┤│\n││② 민원인(대표자│                                ││\n││또는 대리인)    │                                ││\n│├────────┼────────────────┤│\n││③ 처리예정기한 │                                ││\n│├────────┼────────────────┤│\n││④ 처리주무부서 │                                ││\n│├────────┼────────────────┤│\n││⑤ 안 내 사 항  │                                ││\n│└────────┴────────────────┘│\n│민원접수자:          (서명)                           │\n│(전화:           )                                    │\n│○ ○ ○ 고 객 지 원 실                               │\n└───────────────────────────┘\n\n320-02011 비    210㎜×297㎜\n’98.7.15제정   신문용지 54g/㎡\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=127717719",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=127717715",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=127717719",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:고용노동부고객지원실운영규정#BJ0001",
+      "filename": "별지1_접수증.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "고객지원실 일일업무일지",
+      "enforcement_date": "",
+      "content": "[별지제2호서식]\n고객지원실 일일업무일지\n년     월     일(     요일)\n┌─────┬───┐\n│고객지원관│실 장 │\n├─────┼───┤\n│          │      │\n└─────┴───┘\n상담실적 관리\n┌────┬─────────────┬───────┬───┐\n│분야별  │업무별                    │상담건수      │비 고 │\n│        │                          ├─┬──┬──┤      │\n│        │                          │계│전화│방문│      │\n├────┼─────────────┼─┼──┼──┼───┤\n│근로기준│임금체불(퇴직금포함)      │  │    │    │      │\n│노사정책├─────────────┼─┼──┼──┼───┤\n│        │연차휴가ㆍ수당            │  │    │    │      │\n│        ├─────────────┼─┼──┼──┼───┤\n│        │근로시간                  │  │    │    │      │\n│        ├─────────────┼─┼──┼──┼───┤\n│        │노동조합, 부당노동행위 등 │  │    │    │      │\n│        ├─────────────┼─┼──┼──┼───┤\n│        │기    타                  │  │    │    │      │\n├────┼─────────────┼─┼──┼──┼───┤\n│산업안전│안전ㆍ보건                │  │    │    │      │\n│        ├─────────────┼─┼──┼──┼───┤\n│        │기    타                  │  │    │    │      │\n├────┼─────────────┼─┼──┼──┼───┤\n│고용센터│취업지원                  │  │    │    │      │\n│        ├─────────────┼─┼──┼──┼───┤\n│        │실업급여                  │  │    │    │      │\n│        ├─────────────┼─┼──┼──┼───┤\n│        │직업능력                  │  │    │    │      │\n│        ├─────────────┼─┼──┼──┼───┤\n│        │기업지원                  │  │    │    │      │\n│        ├─────────────┼─┼──┼──┼───┤\n│        │기    타                  │  │    │    │      │\n├────┼─────────────┼─┼──┼──┼───┤\n│기 타   │위치 안내 등              │  │    │    │      │\n└────┴─────────────┴─┴──┴──┴───┘\n2. 특별민원 관리\n┌────┬────┬───┬──┬────┬───────┐\n│폭행    │기물파손│성희롱│폭언│경찰출동│특별민원인을  │\n│        │        │      │    │        │고소?고발    │\n├────┼────┼───┼──┼────┼───────┤\n│       │       │     │   │       │             │\n┝━━━━┿━━━━┷━━━┿━━┷━━━━┷━━━━━━━┥\n│발생시각│민원 내용       │대응 및 조치사항              │\n├────┼────────┼───────────────┤\n│        │                │                              │\n└────┴────────┴───────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=127717725",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=127717721",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=127717725",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:고용노동부고객지원실운영규정#BJ0002",
+      "filename": "별지2_고객지원실 일일업무일지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "고객지원실 특별민원 발생 현황 보고",
+      "enforcement_date": "",
+      "content": "[별지제3호서식]\n고객지원실 특별민원 발생 현황 보고(      반기)\n기관명:\n\n1. 특별민원 발생 현황\n┌──┬──┬────┬───┬──┬────┬──────┐\n│월별│폭행│기물파손│성희롱│폭언│경찰출동│특별민원을  │\n│    │    │        │      │    │        │고소?고발  │\n├──┼──┼────┼───┼──┼────┼──────┤\n│계  │   │       │     │   │        │            │\n├──┼──┼────┼───┼──┼────┼──────┤\n│  월│   │       │     │   │       │            │\n├──┼──┼────┼───┼──┼────┼──────┤\n│  월│   │       │     │   │       │            │\n├──┼──┼────┼───┼──┼────┼──────┤\n│  월│   │       │     │   │       │            │\n├──┼──┼────┼───┼──┼────┼──────┤\n│  월│   │       │     │   │        │            │\n└──┴──┴────┴───┴──┴────┴──────┘\n\n2. 주요 대응 및 조치 현황\n┌────┬──────┬─────────────────┐\n│발생일시│민원내용    │대응 및 조치사항                  │\n├────┼──────┼─────────────────┤\n│        │            │                                  │\n├────┼──────┼─────────────────┤\n│        │            │                                  │\n├────┼──────┼─────────────────┤\n│        │            │                                  │\n├────┼──────┼─────────────────┤\n│        │            │                                  │\n└────┴──────┴─────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=127717731",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=127717727",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=127717731",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:고용노동부고객지원실운영규정#BJ0003",
+      "filename": "별지3_고객지원실 특별민원 발생 현황 보고.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "고용노동부 고객지원실 운영규정 전문(훈령 제453호¸ 2023.05.01.).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=127705591",
+      "file_store_url": "",
+      "filename": "고용노동부 고객지원실 운영규정 전문(훈령 제453호¸ 2023.05.01.).hwp"
+    },
+    {
+      "name": "고용노동부 고객지원실 운영규정 전문(훈령 제453호¸ 2023.05.01.).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=127705595",
+      "file_store_url": "",
+      "filename": "고용노동부 고객지원실 운영규정 전문(훈령 제453호¸ 2023.05.01.).pdf"
+    },
+    {
+      "name": "제개정이유서_고용노동부 고객지원실 운영규정.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=127705599",
+      "file_store_url": "",
+      "filename": "제개정이유서_고용노동부 고객지원실 운영규정.hwpx"
+    },
+    {
+      "name": "제개정이유서_고용노동부 고객지원실 운영규정.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=127705603",
+      "file_store_url": "",
+      "filename": "제개정이유서_고용노동부 고객지원실 운영규정.pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 15,
+    "by_category": {
+      "법령": 9,
+      "행정규칙": 3,
+      "별지": 3
+    },
+    "by_relation_type": {
+      "citation": 11,
+      "internal_ref": 1,
+      "appendix_ref": 3
+    },
+    "articles_total": 18,
+    "articles_with_relations": 9,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 3,
+    "appendices_count": 3,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/고용노동부 고객지원실 운영규정"
+  },
+  "provision_id": "admrul:고용노동부고객지원실운영규정#DOC"
+}
