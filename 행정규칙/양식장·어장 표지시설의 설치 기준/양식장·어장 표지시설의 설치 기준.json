@@ -1,0 +1,443 @@
+{
+  "law_id": "2100000223124",
+  "mst": "2100000223124",
+  "law_name": "양식장·어장 표지시설의 설치 기준",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000223124",
+  "promulgation_no": "2023-697",
+  "promulgation_date": "20230508",
+  "enforcement_date": "20230508",
+  "revision_date": "20230508",
+  "revision_type": "타법개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "해양수산부(어촌양식정책과)",
+    "담당자명": "한성민",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "양식장·어장 표지시설의 설치 기준",
+    "발령일자": "20230508",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200409",
+    "조문형식여부": "Y",
+    "소관부처명": "해양수산부",
+    "전화번호": "051-773-5614, 5615",
+    "제개정구분명": "타법개정",
+    "소관부처코드": "1192000",
+    "생성일자": "20230510",
+    "행정규칙ID": "74712",
+    "시행일자": "20230508",
+    "담당부서기관코드": "1192040",
+    "발령번호": "2023-697",
+    "행정규칙일련번호": "2100000223124",
+    "상위부처명": "해양수산부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제정이유\n「수산업법」 및 하위규칙의 전부 개정ㆍ제정에 따라 하위 행정규칙의 근거 조문을 일괄하여 정비하고, 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」제7조제3항에 따라 설정된 각자 다른 재검토기한을 \"2023년1월1일 기준으로 매 3년이 되는 시점\"으로 재설정하여 행정의 효율화를 도모하고자 함\n◇ 주요내용\n가. (근거 조문 수정) 전부 개정 및 제정 된 상위법령의 근거 조문을 수정 함\n나. (재검토기한 재설정) 2023.1.1. 기준으로 매 3년이 되는 시점으로 재검토기한 설정",
+  "body": {
+    "format": "articles",
+    "article_count": 7,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 고시는 「양식산업발전법」 제39조제1항 및 「양식산업발전법 시행규칙」 제33조 또는 「수산업법」 제66조제1항 및 같은 법 시행규칙 제71조에 따라 양식장 또는 어장 구역의 경계에 설치하는 표지시설의 설치방법과 기준을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「양식산업발전법」 제39조",
+            "line_text": "제1조(목적) 이 고시는 「양식산업발전법」 제39조제1항 및 「양식산업발전법 시행규칙」 제33조 또는 「수산업법」 제66조제1항 및 같은 법 시행규칙 제71조에 따라 양식장 또는 어장 구역의 경계에 설치하는 표지시설의 설치방법과 기준을 정함을 목적으로 한다.",
+            "target_law_name": "양식산업발전법",
+            "target_article_no": "제39조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/양식산업발전법/제39조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:양식장어장표지시설의설치기준#JO0001",
+            "reference_id": "law:양식산업발전법#JO0039"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「양식산업발전법 시행규칙」 제33조",
+            "line_text": "제1조(목적) 이 고시는 「양식산업발전법」 제39조제1항 및 「양식산업발전법 시행규칙」 제33조 또는 「수산업법」 제66조제1항 및 같은 법 시행규칙 제71조에 따라 양식장 또는 어장 구역의 경계에 설치하는 표지시설의 설치방법과 기준을 정함을 목적으로 한다.",
+            "target_law_name": "양식산업발전법 시행규칙",
+            "target_article_no": "제33조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/양식산업발전법 시행규칙/제33조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:양식장어장표지시설의설치기준#JO0001",
+            "reference_id": "law:양식산업발전법시행규칙#JO0033"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「수산업법」 제66조",
+            "line_text": "제1조(목적) 이 고시는 「양식산업발전법」 제39조제1항 및 「양식산업발전법 시행규칙」 제33조 또는 「수산업법」 제66조제1항 및 같은 법 시행규칙 제71조에 따라 양식장 또는 어장 구역의 경계에 설치하는 표지시설의 설치방법과 기준을 정함을 목적으로 한다.",
+            "target_law_name": "수산업법",
+            "target_article_no": "제66조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수산업법/제66조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:양식장어장표지시설의설치기준#JO0001",
+            "reference_id": "law:수산업법#JO0066"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「수산업법 시행규칙」 제71조",
+            "line_text": "제1조(목적) 이 고시는 「양식산업발전법」 제39조제1항 및 「양식산업발전법 시행규칙」 제33조 또는 「수산업법」 제66조제1항 및 같은 법 시행규칙 제71조에 따라 양식장 또는 어장 구역의 경계에 설치하는 표지시설의 설치방법과 기준을 정함을 목적으로 한다.",
+            "target_law_name": "수산업법 시행규칙",
+            "target_article_no": "제71조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수산업법 시행규칙/제71조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:양식장어장표지시설의설치기준#JO0001",
+            "reference_id": "law:수산업법시행규칙#JO0071"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:양식장어장표지시설의설치기준#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적용 범위",
+        "chapter": "",
+        "content": "제2조(적용 범위) 이 고시의 적용범위는 다음과 같다.1. 「양식산업발전법」 제10조 및 제18조의 면허를 받은 양식장2. 「수산업법」 제7조 및 제15조의 면허를 받은 어장",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「수산업법」",
+            "line_text": "",
+            "target_law_name": "수산업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수산업법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:양식장어장표지시설의설치기준#JO0002",
+            "reference_id": "law:수산업법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제7조 및 제15조",
+            "line_text": "",
+            "target_law_name": "수산업법",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수산업법/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:양식장어장표지시설의설치기준#JO0002",
+            "reference_id": "law:수산업법#JO0007"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제7조 및 제15조",
+            "line_text": "",
+            "target_law_name": "수산업법",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수산업법/제15조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:양식장어장표지시설의설치기준#JO0002",
+            "reference_id": "law:수산업법#JO0015"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「양식산업발전법」 제10조",
+            "line_text": "제2조(적용 범위) 이 고시의 적용범위는 다음과 같다.1. 「양식산업발전법」 제10조 및 제18조의 면허를 받은 양식장2. 「수산업법」 제7조 및 제15조의 면허를 받은 어장",
+            "target_law_name": "양식산업발전법",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/양식산업발전법/제10조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:양식장어장표지시설의설치기준#JO0002",
+            "reference_id": "law:양식산업발전법#JO0010"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「양식산업발전법」 제18조",
+            "line_text": "제2조(적용 범위) 이 고시의 적용범위는 다음과 같다.1. 「양식산업발전법」 제10조 및 제18조의 면허를 받은 양식장2. 「수산업법」 제7조 및 제15조의 면허를 받은 어장",
+            "target_law_name": "양식산업발전법",
+            "target_article_no": "제18조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/양식산업발전법/제18조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:양식장어장표지시설의설치기준#JO0002",
+            "reference_id": "law:양식산업발전법#JO0018"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:양식장어장표지시설의설치기준#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "설치시기",
+        "chapter": "",
+        "content": "제3조(설치시기) 「양식산업발전법」 제10조 및 제18조의 면허를 받은 양식업권자 및 「수산업법」 제7조 및 제15조의 면허를 받은 어업권자는 표지 설치 명령을 받은 날부터 30일 이내에 표지시설을 설치해야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「양식산업발전법」 제10조",
+            "line_text": "제3조(설치시기) 「양식산업발전법」 제10조 및 제18조의 면허를 받은 양식업권자 및 「수산업법」 제7조 및 제15조의 면허를 받은 어업권자는 표지 설치 명령을 받은 날부터 30일 이내에 표지시설을 설치해야 한다.",
+            "target_law_name": "양식산업발전법",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/양식산업발전법/제10조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:양식장어장표지시설의설치기준#JO0003",
+            "reference_id": "law:양식산업발전법#JO0010"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「양식산업발전법」 제18조",
+            "line_text": "제3조(설치시기) 「양식산업발전법」 제10조 및 제18조의 면허를 받은 양식업권자 및 「수산업법」 제7조 및 제15조의 면허를 받은 어업권자는 표지 설치 명령을 받은 날부터 30일 이내에 표지시설을 설치해야 한다.",
+            "target_law_name": "양식산업발전법",
+            "target_article_no": "제18조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/양식산업발전법/제18조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:양식장어장표지시설의설치기준#JO0003",
+            "reference_id": "law:양식산업발전법#JO0018"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「수산업법」 제7조",
+            "line_text": "제3조(설치시기) 「양식산업발전법」 제10조 및 제18조의 면허를 받은 양식업권자 및 「수산업법」 제7조 및 제15조의 면허를 받은 어업권자는 표지 설치 명령을 받은 날부터 30일 이내에 표지시설을 설치해야 한다.",
+            "target_law_name": "수산업법",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수산업법/제7조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:양식장어장표지시설의설치기준#JO0003",
+            "reference_id": "law:수산업법#JO0007"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「수산업법」 제15조",
+            "line_text": "제3조(설치시기) 「양식산업발전법」 제10조 및 제18조의 면허를 받은 양식업권자 및 「수산업법」 제7조 및 제15조의 면허를 받은 어업권자는 표지 설치 명령을 받은 날부터 30일 이내에 표지시설을 설치해야 한다.",
+            "target_law_name": "수산업법",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수산업법/제15조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:양식장어장표지시설의설치기준#JO0003",
+            "reference_id": "law:수산업법#JO0015"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:양식장어장표지시설의설치기준#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "설치방법 및 기준",
+        "chapter": "",
+        "content": "제4조(설치방법 및 기준) ① 양식장 및 어장 모서리 각 점마다 주황색 대형부자(300ℓ 이상)를 설치하되, 면허의 종류, 면허 번호를 기재하고, 야간에도 양식장 및 어장을 식별할 수 있도록 빛을 반사하는 효과를 가진 부자를 설치해야 한다.② 양식장 및 어장이 간사지(간조시에 물바닥이 드러나 보이는 땅)에 위치한 경우에는 모서리 각 점마다 지면으로부터 1m이상 노출되도록 경계표지목을 설치하되, 표지판을 부착하여 면허의 종류, 면허 번호를 기재해야 한다. 단, 표지판은 유실ㆍ파손, 안전사고 우려 등이 있는 경우, 양식장 또는 어장 입구 주변에 설치할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:양식장어장표지시설의설치기준#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "기타 사항",
+        "chapter": "",
+        "content": "제5조(기타 사항) 양식장 및 어장구역의 표지시설은 선박 통항, 항로 및 해상사고 위험 등 공익상 지장이 없는 범위 내에서 설치해야 하며, 본 고시에서 정하지 않은 사항에 대해서는 관할 시장ㆍ군수ㆍ구청장이 현장 여건에 맞춰 정할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:양식장어장표지시설의설치기준#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제6조(재검토기한) 해양수산부장관은 이 고시에 대하여 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2023년 1월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 해야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:양식장어장표지시설의설치기준#JO0006",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:양식장어장표지시설의설치기준#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "규제의 재검토",
+        "chapter": "",
+        "content": "제7조 (규제의 재검토) 해양수산부장관은 「행정규제기본법」에 따라 이 고시에 대하여 2022년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 12월 31까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 해야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "「행정규제기본법」",
+            "line_text": "",
+            "target_law_name": "행정규제기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/행정규제기본법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:양식장어장표지시설의설치기준#JO0007",
+            "reference_id": "law:행정규제기본법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:양식장어장표지시설의설치기준#JO0007"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20201116",
+      "promulgation_no": "2020-185",
+      "content": "부칙 <제2020-185호,2020. 11. 16.>이 고시는 2020년 11월 16일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20220204",
+      "promulgation_no": "2022-21",
+      "content": "부칙 (규제 일몰 신규설정을 위한 「수산자원의 이식 승인기준」등 22개 행정규칙 일부개정)<제2022-21호, 2022. 2. 4.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20230508",
+      "promulgation_no": "2023-697",
+      "content": "부칙 (「수산업법」 전부개정에 따른 「혼획의 관리 등에 관한 고시」 등 13개 행정규칙 일괄개정)<제2023-697호, 2023. 5. 8.>이 고시는 공포한 날부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "개정본문 (양식장ㆍ어장 표지시설의 설치 기준 일부개정고시안 20230509).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=127972047",
+      "file_store_url": "",
+      "filename": "개정본문 (양식장ㆍ어장 표지시설의 설치 기준 일부개정고시안 20230509).hwpx"
+    },
+    {
+      "name": "개정본문 (양식장ㆍ어장 표지시설의 설치 기준 일부개정고시안 20230509).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=127972051",
+      "file_store_url": "",
+      "filename": "개정본문 (양식장ㆍ어장 표지시설의 설치 기준 일부개정고시안 20230509).pdf"
+    },
+    {
+      "name": "「수산업법」 전부개정에 따른 「혼획의 관리 등에 관한 고시」 등 13개 행정규칙 일괄개정안.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=127972055",
+      "file_store_url": "",
+      "filename": "「수산업법」 전부개정에 따른 「혼획의 관리 등에 관한 고시」 등 13개 행정규칙 일괄개정안.hwpx"
+    },
+    {
+      "name": "「수산업법」 전부개정에 따른 「혼획의 관리 등에 관한 고시」 등 13개 행정규칙 일괄개정안.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=127972059",
+      "file_store_url": "",
+      "filename": "「수산업법」 전부개정에 따른 「혼획의 관리 등에 관한 고시」 등 13개 행정규칙 일괄개정안.pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 15,
+    "by_category": {
+      "법령": 14,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 15
+    },
+    "articles_total": 7,
+    "articles_with_relations": 5,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 3,
+    "appendices_count": 0,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/양식장·어장 표지시설의 설치 기준"
+  },
+  "provision_id": "admrul:양식장어장표지시설의설치기준#DOC"
+}
