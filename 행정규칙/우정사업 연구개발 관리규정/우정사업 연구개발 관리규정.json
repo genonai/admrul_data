@@ -1,0 +1,498 @@
+{
+  "law_id": "2100000224020",
+  "mst": "2100000224020",
+  "law_name": "우정사업 연구개발 관리규정",
+  "law_abbr": "",
+  "law_type": "훈령",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000224020",
+  "promulgation_no": "908",
+  "promulgation_date": "20230531",
+  "enforcement_date": "20230531",
+  "revision_date": "20230531",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "우정사업본부(경영총괄담당관)",
+    "담당자명": "홍진경",
+    "행정규칙종류코드": "B0001",
+    "행정규칙명": "우정사업 연구개발 관리규정",
+    "발령일자": "20230531",
+    "행정규칙종류": "훈령",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "우정사업본부",
+    "전화번호": "044-200-8115",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1721000",
+    "생성일자": "20230602",
+    "행정규칙ID": "2077134",
+    "시행일자": "20230531",
+    "담당부서기관코드": "1725392",
+    "발령번호": "908",
+    "행정규칙일련번호": "2100000224020",
+    "상위부처명": "과학기술정보통신부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정이유\n「국가연구개발혁신법」의 시행으로 일부 용어가 정비되고, 기존 근거 법령인「정보통신방송 연구개발 기술료 징수 및 사용관리에 관한 규정」폐지에 따라 「국가연구개발혁신법」 적용 및 용어 정비 실시\n◇ 주요내용\n○ 근거 법령 현행화\n- 연구개발은 국가연구개발혁신법, 같은 법 시행령 및 시행규칙 적용\n○ 규정 명확화\n- 국가연구개발혁신법의 연구개발성과의 소유원칙에 따라 여러 연구개발기관이 공동으로 소유할 수 있도록 개정\n- 국가연구개발혁신법에 따라 연구개발성과를 국가가 소유하는 경우 소유권에 관한 사항은 협약에 포함하도록 규정\n○ 연구개발 관련 용어 정비\n- 「국가연구개발혁신법」, 같은 법 시행령 및 시행규칙에 따라 기존 용어 정비 실시(위탁→대행) 등",
+  "body": {
+    "format": "articles",
+    "article_count": 14,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규정은 「우정사업운영에관한특례법」 제17조의2 및 동법 시행령 제14조의2, 제14조의3 규정에 따라 우정사업본부장(이하 \"본부장\"이라 한다)이 시행하는 우정사업연구개발사업(우정기술연구개발, 우정정책연구개발) 및 이와 관련된 사업(이하 \"연구개발사업\"이라 한다)을 효율적으로 시행하기 위하여 필요한 세부사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제17조의2",
+            "line_text": "",
+            "target_law_name": "우정사업운영에관한특례법",
+            "target_article_no": "제17조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/우정사업운영에관한특례법/제17조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:우정사업연구개발관리규정#JO0001",
+            "reference_id": "law:우정사업운영에관한특례법#JO0017_02"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "동법 시행령",
+            "line_text": "",
+            "target_law_name": "우정사업운영에관한특례법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/우정사업운영에관한특례법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:우정사업연구개발관리규정#JO0001",
+            "reference_id": "law:우정사업운영에관한특례법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제14조의2",
+            "line_text": "",
+            "target_law_name": "우정사업운영에관한특례법 시행령",
+            "target_article_no": "제14조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/우정사업운영에관한특례법 시행령/제14조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:우정사업연구개발관리규정#JO0001",
+            "reference_id": "law:우정사업운영에관한특례법시행령#JO0014_02"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제14조의3",
+            "line_text": "",
+            "target_law_name": "우정사업운영에관한특례법 시행령",
+            "target_article_no": "제14조의3",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/우정사업운영에관한특례법 시행령/제14조의3",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:우정사업연구개발관리규정#JO0001",
+            "reference_id": "law:우정사업운영에관한특례법시행령#JO0014_03"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:우정사업연구개발관리규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "용어의 정의",
+        "chapter": "",
+        "content": "제2조(용어의 정의) ① 이 규정에서 사용하는 용어의 정의는 다음과 같다.1. \"전문기관\"이라 함은 본부장이 연구개발사업에 대한 기획ㆍ평가ㆍ관리 등의 업무 전부 또는 일부를 대행하기 위하여 지정한 기관을 말한다.2. \"주관연구개발기관\"이라 함은 연구개발과제를 주관하여 수행하는 기관을 말한다.3. \"공동연구개발기관\"이라 함은 주관연구개발기관과의 연구개발과제 협약에 따라 연구개발과제를 분담하여 공동으로 수행하는 연구개발기관을 말한다.4. \"위탁연구개발기관\"이라 함은 주관연구개발기관으로부터 연구개발과제의 일부(특수한 전문지식 또는 기술이 필요한 부분으로 한정한다)의 위탁을 본부장으로부터 승인을 받아 수행하는 연구개발기관을 말한다.5. \"출연금\"이라 함은 연구개발사업의 목적을 달성하기 위하여 국가가 반대급부 없이 예산이나 기금 등에서 연구수행기관에게 지급하는 연구소요경비를 말한다.6. \"기술료\"라 함은 연구개발 결과를 실시하는 권리(이하 \"실시권\"이라 한다)를 획득하는 대가로 실시권자가 연구개발 결과의 소유권자에게 지급하는 금액을 말한다.7. \"우정기술\"이라 함은 우정사업의 비전 및 목표를 달성하는데 필요한 표준화, 자동화 설비 기술, 우정업무의 정보통신 기술, 관리체계의 최적화 기술 등을 말한다.8. \"연구개발비\"라 함은 연구수행기관(출연연구기관, 국내외 대학ㆍ민간연구기관 등)이 정책개발, 과학기술 등에 관한 연구, 주요현안에 대한 정책협의회(세미나, 간담회 등) 개최 등을 수행할 수 있도록 용역 제공에 필요한 경비를 말한다.② 이 규정에서 사용하는 용어의 정의는 제1항에서 정하는 것을 제외하고는 우정사업 운영에 관한 특례법, 국가연구개발혁신법과 같은 법 시행령 및 시행규칙, 정보통신ㆍ방송 연구개발 관리규정(과기정통부 고시)이 정하는 바에 의한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:우정사업연구개발관리규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "적용범위",
+        "chapter": "",
+        "content": "제3조(적용범위) 이 규정은 다음 각 호의 재원 중 연구개발출연금(360)으로 시행하는 연구개발사업에 대하여 적용한다.1. 우편사업특별회계 예산2. 우체국예금특별회계 예산3. 우체국보험특별회계 예산4. 기타 본부장이 정하는 재원",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:우정사업연구개발관리규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "연구개발사업의 범위",
+        "chapter": "",
+        "content": "제4조(연구개발사업의 범위) ① 연구개발사업은 다음 각 호에 해당하는 사업을 말한다.1. 우정사업관련 기술 및 정책의 연구ㆍ개발에 관한 사업2. 우정기술 인력의 양성 및 수급에 관한 사업3. 우정기술의 표준화 및 우정 프로세스 개선에 관한 사업4. 우정사업 연구와 관련한 기관 또는 단체의 육성 등 연구기반조성에 관한 사업5. 우정기술 및 정책의 국제협력에 관한 사업6. 신기술을 연구 개발하는 우정사업중소기업에 대한 진흥을 위하여 시행하는 사업② 본부장은 연구개발사업의 목적달성과 효율적 시행을 위하여 필요한 경우에는 제1항 각 호의 사업에 관련하여 세부사업을 정하여 시행할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:우정사업연구개발관리규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "연구개발과제 참여대상",
+        "chapter": "",
+        "content": "제5조(연구개발과제 참여대상) ① 제4조 제1항의 규정에 의한 연구개발과제 수행에 참여할 수 있는 대상자는 다음 각 호와 같다.1. 우정사업관련 기술 및 정책을 연구하는 연구기관2. 고등교육법에 의한 대학, 전문대학 등 학교 및 그 부설연구소3. 우정사업관련 연구를 수행하는 학회 또는 연구회4. 우정사업분야의 기술개발, 조사연구 및 산업진흥을 위한 민간단체5. 우정사업관련 기업 또는 기업부설연구소6. 우정사업에 관한 기술 또는 학식을 갖춘 전문가② 본부장은 연구개발사업의 목적 달성과 효율적인 시행을 위하여 필요한 경우에는 당해 연구개발과제 수행에 참여할 수 있는 대상자를 제4조 제1항 및 제2항의 연구개발사업별로 정할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "우정사업 연구개발 관리규정",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/우정사업 연구개발 관리규정/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:우정사업연구개발관리규정#JO0005",
+            "reference_id": "admrul:우정사업연구개발관리규정#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:우정사업연구개발관리규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "연구개발사업의 대행",
+        "chapter": "",
+        "content": "제6조(연구개발사업의 대행) 본부장은 우정기술연구개발사업은 정보통신기획평가원을 전문기관으로 지정하여 업무를 대행하게 하고, 우정정책연구개발은 우정사업본부에서 직접 사업관리를 수행한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:우정사업연구개발관리규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "연구과제 선정 및 수행기관의 지정",
+        "chapter": "",
+        "content": "제7조(연구과제 선정 및 수행기관의 지정) ① 본부장은 정책적으로 필요하다고 판단되는 경우에는 연구개발사업의 과제와 그 연구개발과제의 수행기관을 지정하여 운영(이하 \"정책지정\"이라 한다)할 수 있다.② 제1항에 의한 정책지정 과제의 주관연구개발기관은 「우정사업 운영에 관한 특례법 시행령」 제14조의2 제1항 제1호의 연구기관으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "「우정사업 운영에 관한 특례법 시행령」",
+            "line_text": "",
+            "target_law_name": "우정사업 운영에 관한 특례법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/우정사업 운영에 관한 특례법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:우정사업연구개발관리규정#JO0007",
+            "reference_id": "law:우정사업운영에관한특례법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "제14조의2",
+            "line_text": "",
+            "target_law_name": "우정사업 운영에 관한 특례법 시행령",
+            "target_article_no": "제14조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/우정사업 운영에 관한 특례법 시행령/제14조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:우정사업연구개발관리규정#JO0007",
+            "reference_id": "law:우정사업운영에관한특례법시행령#JO0014_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:우정사업연구개발관리규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "협약체결",
+        "chapter": "",
+        "content": "제8조(협약체결) ① 본부장은 관련 법령에 따라 전문기관과 연구개발사업의 관리에 대한 대행협약을 일괄체결하거나, 주관연구개발기관과 연구과제별로 연구개발과제 수행에 관한 협약을 체결할 수 있다.② 협약의 체결에 대한 절차와 방법, 협약에 포함할 사항, 협약의 변경 및 해약 등에 관한 사항은 국가연구개발혁신법, 같은 법 시행령 및 시행규칙을 따르되, 관련 법령에서 정하지 않은 세부사항은 「정보통신ㆍ방송 연구개발 관리규정」(과기정통부 고시)에서 정하는 바에 따라 별도로 정한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제2항",
+            "link_text": "「정보통신ㆍ방송 연구개발 관리규정」",
+            "line_text": "",
+            "target_law_name": "정보통신ㆍ방송 연구개발 관리규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/정보통신ㆍ방송 연구개발 관리규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:우정사업연구개발관리규정#JO0008",
+            "reference_id": "admrul:정보통신방송연구개발관리규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:우정사업연구개발관리규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "우정기술자문단의 운영",
+        "chapter": "",
+        "content": "제9조(우정기술자문단의 운영) ① 연구개발사업의 효율적 운영을 위하여 우정기술자문단(이하 \"자문단\"이라 한다)을 둘 수 있다.② 자문단은 다음 각 호의 사항을 자문한다.1. 연구개발사업의 기본정책의 수립에 관한 사항2. 연구개발사업의 단위과제별 추진계획 수립에 관한 사항3. 연구개발사업의 과제선정 및 시행에 관한 사항4. 연구개발사업의 실적평가에 관한 사항5. 기타 연구개발사업과 관련하여 본부장이 자문을 요구하는 사항③ 자문단은 우정사업본부의 경영기획실장, 우편ㆍ예금ㆍ보험사업단장 및 대학교수, 기술전문가, 우정사업관련 산업체 임원 등 우정사업에 관하여 학식과 경험이 풍부한 자 중에서 본부장이 위촉한다.④ 공무원이 아닌 위원과 위원회에 참석하여 의견을 진술한 자에 대하여는 회의참석 및 현지 출장 등에 필요한 경비와 수당을 예산의 범위 내에서 지급할 수 있다. 다만, 업무와 관련하여 참석하는 자는 이를 지급하지 아니한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:우정사업연구개발관리규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "우정기술개발실무협의회의 운영",
+        "chapter": "",
+        "content": "제10조(우정기술개발실무협의회의 운영) ① 우정기술 연구개발사업의 효율적 추진을 위한 실무부서 간의 사전 협의를 위하여 우정기술개발실무협의회(이하 \"협의회\"라 한다)를 구성ㆍ운영 할 수 있다.② 협의회는 다음 각 호의 사항을 협의한다.1. 연구개발사업의 기본정책의 수립에 관한 사항2. 연구개발사업의 과제선정 및 시행에 관한 사항3. 연구개발사업의 효율적 추진을 위한 부서간 협력사항4. 기타 우정사업연구개발에 관하여 본부장이 협의를 요하는 사항③ 협의회의 구성 및 운영에 관하여 필요한 사항은 본부장이 별도로 정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:우정사업연구개발관리규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "연구개발성과의 소유",
+        "chapter": "",
+        "content": "제11조(연구개발성과의 소유) ① 연구개발과제의 수행결과로 발생하는 연구기자재, 연구시설, 시작품 및 지식재산권ㆍ보고서의 판권 등 유ㆍ무형적 결과물은 해당 연구개발과제를 수행한 연구개발기관이 해당 연구자로부터 연구개발성과에 대한 권리를 승계하여 소유한다. 다만 「국가연구개발혁신법」 제16조 제3항에 따라 우정업무에 활용하는 유ㆍ무형적 결과물은 우정사업본부가 소유할 수 있으며 이 경우 소유권에 관한 사항은 연구개발과제협약에 포함시켜야 한다.② 기타 연구개발성과의 소유에 관한 사항은 「국가연구개발혁신법」, 같은 법 시행령 및 시행규칙을 따르되, 관련 법령에서 정하지 않은 세부사항은 정보통신ㆍ방송 연구개발 관리규정에서 정하는 기준과 절차에 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "제16조",
+            "line_text": "",
+            "target_law_name": "국가연구개발혁신법",
+            "target_article_no": "제16조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가연구개발혁신법/제16조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:우정사업연구개발관리규정#JO0011",
+            "reference_id": "law:국가연구개발혁신법#JO0016"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제2항",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "국가연구개발혁신법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가연구개발혁신법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:우정사업연구개발관리규정#JO0011",
+            "reference_id": "law:국가연구개발혁신법시행령#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:우정사업연구개발관리규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "기술이전",
+        "chapter": "",
+        "content": "제12조(기술이전) ① 본부장은 연구개발성과의 활용성 제고를 위하여 필요한 경우에는 주관연구개발기관 또는 공동연구개발기관으로 하여금 연구개발성과를 활용하고자 하는 자에게 기술이전을 하게 할 수 있다.② 우정사업본부에서 연구개발결과가 적용된 제품 등을 도입하는 경우 해당기술의 경상기술료(Running Royalty)를 면제하며, 기타 기술료에 관한 사항은 「국가연구개발혁신법」, 같은 법 시행령 및 시행규칙에서 정하는 기준과 절차를 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제2항",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "국가연구개발혁신법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가연구개발혁신법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:우정사업연구개발관리규정#JO0012",
+            "reference_id": "law:국가연구개발혁신법시행령#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:우정사업연구개발관리규정#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "적용특례",
+        "chapter": "",
+        "content": "제13조(적용특례) ① 본부장은 대외보안을 요하는 연구개발사업 또는 기타 사업의 특성상 불가피하다고 인정되는 경우에는 이 규정의 일부 또는 전부를 적용하지 아니할 수 있다.② 본부장은 제4조의 연구개발사업의 시행에 있어서 필요한 경우 별도의 사업관리요령을 정하여 이를 적용할 수 있다.③ 이 규정에서 정하는 것을 제외하고는 정보통신ㆍ방송 연구개발 관리규정(과기정통부 고시)을 준용한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제2항",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "우정사업 연구개발 관리규정",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/우정사업 연구개발 관리규정/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:우정사업연구개발관리규정#JO0013",
+            "reference_id": "admrul:우정사업연구개발관리규정#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:우정사업연구개발관리규정#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제14조(재검토기한) 우정사업본부장은 이 훈령에 대하여 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2023년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제14조",
+            "source_clause": "제14조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:우정사업연구개발관리규정#JO0014",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:우정사업연구개발관리규정#JO0014"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20131212",
+      "promulgation_no": "460",
+      "content": "부칙 <제460호,2013. 12. 12.>제1조(시행일) 이 규정은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20150803",
+      "promulgation_no": "533",
+      "content": "부칙 <제533호,2015. 8. 3.>제1조(시행일) 이 규정은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20160808",
+      "promulgation_no": "593",
+      "content": "부칙 <제593호,2016. 8. 8.>제1조(시행일) 이 규정은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20171101",
+      "promulgation_no": "644",
+      "content": "부칙(우정사업본부 훈령·예규 등의 업무처리 규정 일부개정령) <제644호,2017. 11. 1.>제1조(시행일) 본 훈령은 공포한 날부터 시행한다.제2조(다른 훈령의 개정) ① ～ <16>  생략<17> 우정사업 연구개발 관리규정 일부를 다음과 같이 개정한다.제2조제2항, 제8조제2항, 제13조제3항 중 “미래부 고시”를 “과기정통부 고시”로 한다.제2조제2항, 제12조제2항 중“미래부 훈령”을 “과기정통부 훈령”으로 한다.<18> ~ <22> 까지 생략제3조 생략"
+    },
+    {
+      "promulgation_date": "20221201",
+      "promulgation_no": "877",
+      "content": "부칙 <제877호, 2022. 12. 1.>제1조(시행일) 이 훈령은 발행한 날부터 시행한다제2조(다른 훈령의 개정) 생략"
+    },
+    {
+      "promulgation_date": "20230531",
+      "promulgation_no": "908",
+      "content": "부칙 <제908호, 2023. 5. 31.>제1조(시행일) 이 훈령은 발행한 날부터 시행한다.제2조(다른 훈령의 개정) 생략"
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "1. 우정사업 연구개발 관리규정 훈령 개정이유 및 주요내용★.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=128675369",
+      "file_store_url": "",
+      "filename": "1. 우정사업 연구개발 관리규정 훈령 개정이유 및 주요내용★.hwpx"
+    },
+    {
+      "name": "1. 우정사업 연구개발 관리규정 훈령 개정이유 및 주요내용★.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=128675373",
+      "file_store_url": "",
+      "filename": "1. 우정사업 연구개발 관리규정 훈령 개정이유 및 주요내용★.pdf"
+    },
+    {
+      "name": "2. 우정사업 연구개발 관리 규정 훈령 전문★.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=128675381",
+      "file_store_url": "",
+      "filename": "2. 우정사업 연구개발 관리 규정 훈령 전문★.pdf"
+    },
+    {
+      "name": "2. 우정사업 연구개발 관리 규정 훈령 전문★.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=128675377",
+      "file_store_url": "",
+      "filename": "2. 우정사업 연구개발 관리 규정 훈령 전문★.hwpx"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 13,
+    "by_category": {
+      "법령": 9,
+      "행정규칙": 4
+    },
+    "by_relation_type": {
+      "citation": 11,
+      "internal_ref": 2
+    },
+    "articles_total": 14,
+    "articles_with_relations": 8,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 6,
+    "appendices_count": 0,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/우정사업 연구개발 관리규정"
+  },
+  "provision_id": "admrul:우정사업연구개발관리규정#DOC"
+}
