@@ -1,0 +1,701 @@
+{
+  "law_id": "2100000226032",
+  "mst": "2100000226032",
+  "law_name": "국가기록원 기록물공개심의회 운영 규정",
+  "law_abbr": "",
+  "law_type": "훈령",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000226032",
+  "promulgation_no": "221",
+  "promulgation_date": "20230623",
+  "enforcement_date": "20230623",
+  "revision_date": "20230623",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국가기록원(서비스정책과)",
+    "담당자명": "임미진",
+    "행정규칙종류코드": "B0001",
+    "행정규칙명": "국가기록원 기록물공개심의회 운영 규정",
+    "발령일자": "20230623",
+    "행정규칙종류": "훈령",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국가기록원",
+    "전화번호": "031-750-2193",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1741000",
+    "생성일자": "20230704",
+    "행정규칙ID": "51585",
+    "시행일자": "20230623",
+    "담당부서기관코드": "1741576",
+    "발령번호": "221",
+    "행정규칙일련번호": "2100000226032",
+    "상위부처명": "행정안전부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정 이유\n○ ’08년부터 ‘기록물공개심의회’에서 정보공개 심의를 병행하여 왔으나, 「정보공개법」개정*(’21.12월 시행)에 따라 심의회 분리ㆍ운영 필요\n* 개정내용 : 위원 총 5~7명 중 1/3 → 2/3 외부전문가 위촉\n※ 메모보고 : \"정보공개심의회 구성ㆍ운영 변경 계획 보고\"(’23.5.30.)\n○「공공기록물법」상 의무사항인 ‘심의 기능’을 구체적으로 명시하고, ‘심의위원 구성 요건’을 보완하는 등 규정의 전반적인 재정비\n[그림]\n\n\n◇ 주요 개정 내용\n○ 기록물공개심의회의 정보공개 심의 기능 관련 조항 삭제\n- 제3조제6항 및 제5조제1항의 정보공개 관련 조문 삭제\n○ 심의회 기능에「공공기록물법」상 의무사항을 우선순위로 반영\n- 법 제38조 각 항의 심의 사항을 기록물 공개심의회 기능 순서에 맞도록 조정\n○ 민간위원 위촉 분야 삭제ㆍ수정 및 위원 제척 기피 사유 상세화\n- 기록ㆍ역사ㆍ법ㆍ행정 전공자 → 공개 관련 지식과 경험이 풍부한 사람\n- 공정한 심의를 위해 위원의 제척 사유(형 집행, 과반수 찬성 등 추가 반영)\n○ 서면/대면 의결서[별지 제1호]를 일원화하고, 운영에 용이하게 개선",
+  "body": {
+    "format": "articles",
+    "article_count": 11,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규정은 「공공기록물 관리에 관한 법률」(이하 \"법\"이라 한다) 제38조 및 같은 법 시행령(이하 \"시행령\"이라 한다) 제74조에 따라 국가기록원에 설치하는 기록물공개심의회(이하 \"심의회\"라 한다)의 구성 및 운영에 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제38조",
+            "line_text": "",
+            "target_law_name": "공공기록물 관리에 관한 법률",
+            "target_article_no": "제38조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기록물 관리에 관한 법률/제38조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국가기록원기록물공개심의회운영규정#JO0001",
+            "reference_id": "law:공공기록물관리에관한법률#JO0038"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "공공기록물 관리에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기록물 관리에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국가기록원기록물공개심의회운영규정#JO0001",
+            "reference_id": "law:공공기록물관리에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제74조",
+            "line_text": "",
+            "target_law_name": "공공기록물 관리에 관한 법률 시행령",
+            "target_article_no": "제74조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기록물 관리에 관한 법률 시행령/제74조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국가기록원기록물공개심의회운영규정#JO0001",
+            "reference_id": "law:공공기록물관리에관한법률시행령#JO0074"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국가기록원기록물공개심의회운영규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "용어의 정의",
+        "chapter": "",
+        "content": "제2조(용어의 정의) 이 규정에서 사용하는 \"소장기록물\"이라 함은 국가기록원이 공공기관으로부터 이관 받거나 개인ㆍ단체로부터 기증 등을 통해 수집하여 보존중인 기록물(이하 \"기록물\"이라 한다)을 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국가기록원기록물공개심의회운영규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "심의회의 구성 등",
+        "chapter": "",
+        "content": "제3조(심의회의 구성 등) ① 심의회는 시행령 제74조에 따라 4인은 민간위원으로 위촉하고, 3인은 국가기록원 소속 공무원으로 임명한다.② 위원장은 전체위원의 호선에 의하여 민간위원 중 선출한다.③ 민간위원은 기록물의 공개와 관련된 지식과 경험이 풍부한 사람 중에서 국가기록원장이 위촉한다.④ 소속 공무원은 기록정책부, 기록관리부, 기록서비스부 부장을 당연직으로 한다.⑤ 위원의 임기는 2년으로 하며, 한 차례만 연임할 수 있다. 다만, 국가기록원 소속 공무원인 위원의 임기는 그 직위에 재직하는 기간으로 한다.⑥ 심의회 사무를 처리하기 위하여 간사 1인을 두며, 간사는 서비스정책과장으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "시행령",
+            "line_text": "",
+            "target_law_name": "공공기록물 관리에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기록물 관리에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국가기록원기록물공개심의회운영규정#JO0003",
+            "reference_id": "law:공공기록물관리에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "제74조",
+            "line_text": "",
+            "target_law_name": "공공기록물 관리에 관한 법률 시행령",
+            "target_article_no": "제74조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기록물 관리에 관한 법률 시행령/제74조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국가기록원기록물공개심의회운영규정#JO0003",
+            "reference_id": "law:공공기록물관리에관한법률시행령#JO0074"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국가기록원기록물공개심의회운영규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "심의회의 기능",
+        "chapter": "",
+        "content": "제4조(심의회의 기능) ① 심의회는 다음의 어느 하나에 해당하는 사항을 심의한다.1. 법 제38조제1항제1호에 따른 비공개 기간 연장 요청에 관한 사항2. 법 제38조제1항제2호에 따라 기록물 공개 여부와 관련하여 다음 각 목에 해당하여 국가기록원장이 심의를 요청한 사항가. 법 제35조제2항에 의한 5년 주기 비공개 기록물 공개여부 재분류나. 법 제35조제3항에 의한 30년 경과 비공개 기록물 공개여부 재분류다. 법 제36조에 의한 비공개 상한기간 지정라. 법 제37조 및 시행령 제73조에 의한 비공개 기록물 제한적 열람마. 시행령 제70조제2항에 따라 일반문서로 재분류된 기록물의 공개여부바. 기타 기록물 공개와 관련하여 심의ㆍ의결이 필요한 사항",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "제38조제1항제1호",
+            "line_text": "",
+            "target_law_name": "공공기록물 관리에 관한 법률",
+            "target_article_no": "제38조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기록물 관리에 관한 법률/제38조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국가기록원기록물공개심의회운영규정#JO0004",
+            "reference_id": "law:공공기록물관리에관한법률#JO0038"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "제38조제1항제2호",
+            "line_text": "",
+            "target_law_name": "공공기록물 관리에 관한 법률",
+            "target_article_no": "제38조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기록물 관리에 관한 법률/제38조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국가기록원기록물공개심의회운영규정#JO0004",
+            "reference_id": "law:공공기록물관리에관한법률#JO0038"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "제35조제2항",
+            "line_text": "",
+            "target_law_name": "공공기록물 관리에 관한 법률",
+            "target_article_no": "제35조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기록물 관리에 관한 법률/제35조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국가기록원기록물공개심의회운영규정#JO0004",
+            "reference_id": "law:공공기록물관리에관한법률#JO0035"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "제35조제3항",
+            "line_text": "",
+            "target_law_name": "공공기록물 관리에 관한 법률",
+            "target_article_no": "제35조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기록물 관리에 관한 법률/제35조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국가기록원기록물공개심의회운영규정#JO0004",
+            "reference_id": "law:공공기록물관리에관한법률#JO0035"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "제36조",
+            "line_text": "",
+            "target_law_name": "공공기록물 관리에 관한 법률",
+            "target_article_no": "제36조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기록물 관리에 관한 법률/제36조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국가기록원기록물공개심의회운영규정#JO0004",
+            "reference_id": "law:공공기록물관리에관한법률#JO0036"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "제37조",
+            "line_text": "",
+            "target_law_name": "공공기록물 관리에 관한 법률",
+            "target_article_no": "제37조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기록물 관리에 관한 법률/제37조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국가기록원기록물공개심의회운영규정#JO0004",
+            "reference_id": "law:공공기록물관리에관한법률#JO0037"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "시행령",
+            "line_text": "",
+            "target_law_name": "공공기록물 관리에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기록물 관리에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국가기록원기록물공개심의회운영규정#JO0004",
+            "reference_id": "law:공공기록물관리에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "제73조",
+            "line_text": "",
+            "target_law_name": "공공기록물 관리에 관한 법률 시행령",
+            "target_article_no": "제73조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기록물 관리에 관한 법률 시행령/제73조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국가기록원기록물공개심의회운영규정#JO0004",
+            "reference_id": "law:공공기록물관리에관한법률시행령#JO0073"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "시행령",
+            "line_text": "",
+            "target_law_name": "공공기록물 관리에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기록물 관리에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국가기록원기록물공개심의회운영규정#JO0004",
+            "reference_id": "law:공공기록물관리에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "제70조제2항",
+            "line_text": "",
+            "target_law_name": "공공기록물 관리에 관한 법률 시행령",
+            "target_article_no": "제70조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기록물 관리에 관한 법률 시행령/제70조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국가기록원기록물공개심의회운영규정#JO0004",
+            "reference_id": "law:공공기록물관리에관한법률시행령#JO0070"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국가기록원기록물공개심의회운영규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "심의회 개최 및 의결 등",
+        "chapter": "",
+        "content": "제5조(심의회 개최 및 의결 등) ① 심의회는 국가기록원장이 요청하거나, 위원장이 필요하다고 인정하는 경우 개최한다.② 심의회는 대면회의를 원칙으로 한다. 다만, 사안의 긴급성 등을 고려하여 서면으로 심의할 수 있으며, 이 경우 의결서 제출 위원의 수를 출석한 위원의 수로 본다.③ 심의회는 위원장을 포함하여 재적위원 과반수 출석으로 개의하고, 출석위원 과반수 찬성으로 의결한다. 다만, 가부 동수인 때에는 부결된 것으로 본다.④ 위원장이 부득이한 사유로 직무를 수행할 수 없는 경우, 출석한 민간위원 중 호선으로 임시 위원장을 선출하여 그 직무를 대행한다.⑤ 간사는 [별지 1] 서식에 의한 의결서 및 [별지 2] 서식에 의한 심의대상 목록, [별지 3] 서식에 의한 회의록을 작성ㆍ관리하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제5항",
+            "link_text": "별지 1",
+            "line_text": "",
+            "target_law_name": "국가기록원 기록물공개심의회 운영 규정",
+            "target_article_no": "별지1",
+            "target_article_title": "기록물공개심의회 의결서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130311663",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국가기록원기록물공개심의회운영규정#JO0005",
+            "reference_id": "admrul:국가기록원기록물공개심의회운영규정#BJ0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제5항",
+            "link_text": "별지 2",
+            "line_text": "",
+            "target_law_name": "국가기록원 기록물공개심의회 운영 규정",
+            "target_article_no": "별지2",
+            "target_article_title": "기록물공개 심의대상 목록",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130311669",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국가기록원기록물공개심의회운영규정#JO0005",
+            "reference_id": "admrul:국가기록원기록물공개심의회운영규정#BJ0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제5항",
+            "link_text": "별지 3",
+            "line_text": "",
+            "target_law_name": "국가기록원 기록물공개심의회 운영 규정",
+            "target_article_no": "별지3",
+            "target_article_title": "기록물 공개심의회 회의록",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130311675",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국가기록원기록물공개심의회운영규정#JO0005",
+            "reference_id": "admrul:국가기록원기록물공개심의회운영규정#BJ0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국가기록원기록물공개심의회운영규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "예비심사",
+        "chapter": "",
+        "content": "제6조(예비심사) ① 국가기록원장 또는 위원장은 심의와 관련하여 사전검토가 필요한 경우에는 심의회를 개최하기 전에 예비심사를 요청할 수 있다.② 예비심사는 서비스정책과가 주관하여 실시하고, 필요한 경우 심의대상과 관련된 전ㆍ현직 공무원, 학계 및 관련단체 전문가를 예비심사위원으로 위촉할 수 있다.③ 간사는 예비심사 검토결과를 [별지 4] 서식으로 작성ㆍ관리하여야 하며, 검토결과는 국가기록원장 및 심의회 위원들에게 심의회 개최 전까지 제출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제3항",
+            "link_text": "별지 4",
+            "line_text": "",
+            "target_law_name": "국가기록원 기록물공개심의회 운영 규정",
+            "target_article_no": "별지4",
+            "target_article_title": "예비심사 검토의견서",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130311681",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국가기록원기록물공개심의회운영규정#JO0006",
+            "reference_id": "admrul:국가기록원기록물공개심의회운영규정#BJ0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국가기록원기록물공개심의회운영규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "생산기관 의견조회",
+        "chapter": "",
+        "content": "제7조(생산기관 의견조회) ① 법 제35조제5항에 따라 국가기록원장은 통일ㆍ외교ㆍ안보ㆍ수사ㆍ정보 분야의 기록물을 공개하고자 하는 경우에는 해당 기관의 장의 의견을 들어야 한다.② 제1항의 규정에 의한 분야 이외에도 필요한 경우 재분류 대상 기록물 생산기관의 의견을 들을 수 있다.③ 제1항 및 제2항의 규정에 의해 생산기관 의견을 조회하거나 또는 제출받은 의견이 있는 경우에는 그 결과를 심의회에 제출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "공공기록물 관리에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기록물 관리에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국가기록원기록물공개심의회운영규정#JO0007",
+            "reference_id": "law:공공기록물관리에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "제35조제5항",
+            "line_text": "",
+            "target_law_name": "공공기록물 관리에 관한 법률",
+            "target_article_no": "제35조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기록물 관리에 관한 법률/제35조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국가기록원기록물공개심의회운영규정#JO0007",
+            "reference_id": "law:공공기록물관리에관한법률#JO0035"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국가기록원기록물공개심의회운영규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "심의회 결과의 공표",
+        "chapter": "",
+        "content": "제8조(심의회 결과의 공표) 심의회의 의결을 거쳐 공개하기로 결정한 기록물은 당해 기록물의 목록을 국가기록원 홈페이지 등을 통해 공표하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국가기록원기록물공개심의회운영규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "위원의 제척ㆍ기피ㆍ회피",
+        "chapter": "",
+        "content": "제9조(위원의 제척ㆍ기피ㆍ회피) ① 심의회 위원 중 다음 각 호의 어느 하나에 해당하는 위원은 그 안건의 심의ㆍ의결에서 제척된다.1. 이해당사자 또는 유관자로부터 청탁, 물리적 외압, 심리적 압박을 받아 적법한 심의를 하기 어려운 때2. 위원이 이해당사자이거나, 사건 또는 이익에 상당한 관련성이 있다고 인정된 때3. 위원이 신체적ㆍ정신적으로 정상적인 위원 활동을 지속하기 어려운 때4. 위원이 금고 이상의 형을 받거나 1년 이상의 집행유예 선고를 받은 때5. 기타 사유로 합법적이고 공정한 판단이 어렵다고 위원 과반수가 인정한 때② 심의회 심의ㆍ의결의 이해당사자는 위원에게 공정을 기대하기 어려운 특별한 사정이 있는 경우에는 기피신청을 할 수 있다.③ 위원이 제1항 또는 제2항의 사유에 해당하는 경우에는 스스로 그 안건의 심의ㆍ의결에서 회피할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국가기록원기록물공개심의회운영규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "경비지급 및 개인정보 수집",
+        "chapter": "",
+        "content": "제10조(경비지급 및 개인정보 수집) ① 민간위원에 대하여는 예산의 범위 안에서 수당, 여비 등 필요한 경비를 지급할 수 있다.② 국가기록원장은 위원의 위촉, 위원의 활동, 각종 수당ㆍ여비의 지급 등에 필요한 개인정보를 수집할 수 있다. 이때 위원에게 개인정보 수집 및 이용 동의를 받아야 한다.③ 위원으로부터 수집한 개인정보는 목적 이외에 사용해서는 안 된다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국가기록원기록물공개심의회운영규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "비밀준수 의무 등",
+        "chapter": "",
+        "content": "제11조(비밀준수 의무 등) ① 위원은 심의ㆍ의결 과정에 알게 된 사항이나 각종 비공개 정보 및 비밀을 타인에게 제공하거나, 이용 또는 누설하여서는 안 된다.② 제1항의 규정을 위반한 위원에 대하여는 국가기록원장이 직권으로 해촉할 수 있으며, 해당 위원은 관계 법령에 따라 책임을 진다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국가기록원기록물공개심의회운영규정#JO0011"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20220216",
+      "promulgation_no": "211",
+      "content": "부칙 <제211호, 2022. 2. 16.>이 지침은 공포일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20230623",
+      "promulgation_no": "221",
+      "content": "부칙 <제221호, 2023. 6. 23.>이 훈령은 공포일부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "기록물공개심의회 의결서",
+      "enforcement_date": "",
+      "content": "[별지 1]\n기록물공개심의회 의결서\n일    시 :           위 원 명 :                   (인)\n안    건 :\n심의내용 :\n┌────────────────────────┐\n│심 의 결 과                                     │\n├────┬────┬──────┬───────┤\n│동의    │부동의  │일부 부동의 │일부 심의보류 │\n├────┼────┼──────┼───────┤\n│        │        │            │              │\n└────┴────┴──────┴───────┘\n\n┌────────────────────────┐\n│심 의 의 견                                     │\n├───┬────┬───────────────┤\n│구분  │해당기관│내 용                         │\n├───┼────┼───────────────┤\n│총 평 │        │                              │\n├───┼────┼───────────────┤\n│일부  │        │                              │\n│부동의│        │                              │\n├───┼────┼───────────────┤\n│일부  │        │                              │\n│심의  │        │                              │\n│보류  │        │                              │\n└───┴────┴───────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130311663",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130311659",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130311663",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국가기록원기록물공개심의회운영규정#BJ0001",
+      "filename": "별지1_기록물공개심의회 의결서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "기록물공개 심의대상 목록",
+      "enforcement_date": "",
+      "content": "[별지 제2호]\n기록물공개 심의대상 목록\n┏━━━━┯━━━━━┯━━━━━┯━━━━┯━━━━┓\n┃일련번호│기록물철명│기록물건명│생산년도│생산기관┃\n┣━━━━┿━━━━━┿━━━━━┿━━━━┿━━━━┫\n┃        │          │          │        │        ┃\n┣━━━━┿━━━━━┿━━━━━┿━━━━┿━━━━┫\n┃        │          │          │        │        ┃\n┣━━━━┿━━━━━┿━━━━━┿━━━━┿━━━━┫\n┃        │          │          │        │        ┃\n┣━━━━┿━━━━━┿━━━━━┿━━━━┿━━━━┫\n┃        │          │          │        │        ┃\n┣━━━━┿━━━━━┿━━━━━┿━━━━┿━━━━┫\n┃        │          │          │        │        ┃\n┣━━━━┿━━━━━┿━━━━━┿━━━━┿━━━━┫\n┃        │          │          │        │        ┃\n┣━━━━┿━━━━━┿━━━━━┿━━━━┿━━━━┫\n┃        │          │          │        │        ┃\n┠────┴─────┼─────┴────┼────┚\n┃                    │                    │\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130311669",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130311665",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130311669",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국가기록원기록물공개심의회운영규정#BJ0002",
+      "filename": "별지2_기록물공개 심의대상 목록.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "기록물 공개심의회 회의록",
+      "enforcement_date": "",
+      "content": "[별지 제3호]\n기록물 공개심의회 회의록\n작성자 :\n┏━━━┯━━━━┯━━━┯┓\n┃일 시 │        │장 소 │┃\n┣━━━┿━━━┯┷━━━┷┫\n┃참석자│위원  │          ┃\n┃      ├───┼─────┨\n┃      │배석자│          ┃\n┣━━━┷━━━┷━━━━━┫\n┃회의진행순서              ┃\n┠─────────────┨\n┃                          ┃\n┗━━━━━━━━━━━━━┛\n┏━━━━┯━━━━┓\n┃안건    │        ┃\n┣━━━━┿━━━━┫\n┃위원명  │발언요지┃\n┠────┼────┨\n┃        │        ┃\n┠────┼────┨\n┃        │        ┃\n┠────┼────┨\n┃        │        ┃\n┠────┼────┨\n┃        │        ┃\n┠────┼────┨\n┃        │        ┃\n┠────┼────┨\n┃        │        ┃\n┠────┼────┨\n┃        │        ┃\n┣━━━━┿━━━━┫\n┃결정사항│        ┃\n┗━━━━┷━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130311675",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130311671",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130311675",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국가기록원기록물공개심의회운영규정#BJ0003",
+      "filename": "별지3_기록물 공개심의회 회의록.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "예비심사 검토의견서",
+      "enforcement_date": "",
+      "content": "[별지 제4호]\n예비심사 검토의견서\n예비심사 일시 및 장소 :\n참석자 :\n안건 :\n심사내용 :\n┏━━┯━━━┯━━━━┯━━┓\n┃직위│위원명│검토의견│서명┃\n┣━━┿━━━┿━━━━┿━━┫\n┃    │      │        │    ┃\n┣━━┿━━━┿━━━━┿━━┫\n┃    │      │        │    ┃\n┣━━┿━━━┿━━━━┿━━┫\n┃    │      │        │    ┃\n┣━━┿━━━┿━━━━┿━━┫\n┃    │      │        │    ┃\n┣━━┿━━━┿━━━━┿━━┫\n┃    │      │        │    ┃\n┣━━┿━━━┿━━━━┿━━┫\n┃    │      │        │    ┃\n┠──┴───┼────┴──┨\n┃            │              ┃\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130311681",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130311677",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130311681",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국가기록원기록물공개심의회운영규정#BJ0004",
+      "filename": "별지4_예비심사 검토의견서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "국가기록원 기록물공개심의회 운영 규정 개정 계획(안).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=130280097",
+      "file_store_url": "",
+      "filename": "국가기록원 기록물공개심의회 운영 규정 개정 계획(안).hwpx"
+    },
+    {
+      "name": "국가기록원 기록물공개심의회 운영 규정(훈령 제221호).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=130310575",
+      "file_store_url": "",
+      "filename": "국가기록원 기록물공개심의회 운영 규정(훈령 제221호).hwpx"
+    },
+    {
+      "name": "국가기록원 기록물공개심의회 운영 규정(훈령 제221호).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=130310579",
+      "file_store_url": "",
+      "filename": "국가기록원 기록물공개심의회 운영 규정(훈령 제221호).pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 21,
+    "by_category": {
+      "법령": 17,
+      "별지": 4
+    },
+    "by_relation_type": {
+      "citation": 17,
+      "appendix_ref": 4
+    },
+    "articles_total": 11,
+    "articles_with_relations": 6,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 2,
+    "appendices_count": 4,
+    "attachments_count": 3
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/국가기록원 기록물공개심의회 운영 규정"
+  },
+  "provision_id": "admrul:국가기록원기록물공개심의회운영규정#DOC"
+}
