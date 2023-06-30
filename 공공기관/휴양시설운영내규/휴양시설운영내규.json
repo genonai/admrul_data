@@ -1,40 +1,40 @@
 {
-  "law_id": "2200000112221",
-  "mst": "2200000112221",
+  "law_id": "2200000117709",
+  "mst": "2200000117709",
   "law_name": "휴양시설운영내규",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
-  "adm_uid": "public:2200000112221",
-  "promulgation_no": "2023-1",
-  "promulgation_date": "20230317",
-  "enforcement_date": "20230317",
-  "revision_date": "20230317",
+  "adm_uid": "public:2200000117709",
+  "promulgation_no": "2",
+  "promulgation_date": "20230630",
+  "enforcement_date": "20230630",
+  "revision_date": "20230630",
   "revision_type": "제정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
     "현행여부": "Y",
-    "담당부서기관명": "부산환경공단(행정지원처)",
-    "담당자명": "이수환",
+    "담당부서기관명": "경영지원처",
+    "담당자명": "서진욱",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "휴양시설운영내규",
-    "발령일자": "20230317",
+    "발령일자": "20230630",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200401",
     "조문형식여부": "Y",
-    "소관부처명": "부산환경공단",
-    "전화번호": "051-760-3244",
+    "소관부처명": "대구공공시설관리공단",
+    "전화번호": "053-605-8815",
     "제개정구분명": "제정",
-    "소관부처코드": "B552625",
-    "생성일자": "20250703",
-    "행정규칙ID": "2126603",
+    "소관부처코드": "B554808",
+    "생성일자": "20231018",
+    "행정규칙ID": "2127553",
     "담당부서기관코드": "",
-    "발령번호": "2023-1",
-    "행정규칙일련번호": "2200000112221"
+    "발령번호": "2",
+    "행정규칙일련번호": "2200000117709"
   },
   "amendment_text": "",
-  "revision_reason": "",
+  "revision_reason": "◇ 제정이유\n○ 회원권 및 휴양소의 공정하고 체계적인 운영을 위해 공단 통합 내규를 제정하여 휴양시설 이용·관리에 필요한 사항을 정하고자 함\n◇ 주요내용\n○ 내규의 목적, 이용대상자 정의 등에 관한 사항을 정함(제1조부터 제3조까지)\n○ 휴양시설위원회 설치 및 운영에 관한 사항을 정함(제4조)\n○ 휴양시설 이용에 관한 사항을 정함(제5조부터 제8조까지)\n○ 휴양시설 이용시 준수사항 및 이용 제한에 관한 사항을 정함(제9조 및 제10조)\n◇ 참고사항\n○「제도개선 권고(공직유관단체 보유 회원권 관리·운영 개선 방안)」(국민권익위원회 사회제도개선과-3406, 2022.12.7.)",
   "body": {
     "format": "articles",
     "article_count": 10,
@@ -43,7 +43,7 @@
         "article_no": "제1조",
         "article_title": "목적",
         "chapter": "",
-        "content": "제1조(목적) 이 내규는 「복리후생규정」 제6조에서 정한 후생복리시설 중 휴양시설의 효율적인 이용 및 관리에 관한 필요한 사항을 규정함을 목적으로 한다.",
+        "content": "제1조(목적)  이 내규는 대구공공시설관리공단(이하 “공단”이라 한다)의 임직원 복리증진과 여가선용을 위하여 구입 또는 임차한 시설의 회원권과  휴양소(이하 “휴양시설”이라 한다)의 이용 및 관리에 필요한 사항을 정함을 목적으로 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -51,9 +51,9 @@
       },
       {
         "article_no": "제2조",
-        "article_title": "정의",
+        "article_title": "다른 사규 등과의 관계",
         "chapter": "",
-        "content": "제2조(정의) 이 내규에서 사용하는 용어의 정의는 다음과 같다.1. “휴양시설”이란 관리부서에서 계약한 숙박시설 또는 기관장 방침에 따라 운영하는 관련 시책 등을 말한다.2. “관리부서”란 휴양시설 관리와 운영을 총괄하는 본부의 담당부서를 말한다.3. “임직원”이란 이사장을 포함한 감사, 이사(비상임이사는 제외한다.), 일반직, 공무직, 일용직을 말한다.",
+        "content": "제2조(다른 사규 등과의 관계)  휴양시설의 선정과 이용 등에 관하여 관계 법령, 조례 및 다른 사규에 특별히 정한 것을 제외하고는 이 내규에서 정하는 바에 따른다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -63,7 +63,7 @@
         "article_no": "제3조",
         "article_title": "이용대상",
         "chapter": "",
-        "content": "제3조(이용대상) ① 이 내규의 이용대상은 예산 범위 내에서 공단에 재직하고 있는 임직원을 대상으로 하며, 출산전후휴가 등의 사유로 실제 근무 중이 아닌 직원도 포함한다.② 다음 각 호의 어느 하나에 해당하는 자에 대해서는 적용을 제한 할 수 있다.1. 휴직 중인 자. 단, 「인사규정」 제35조제2항제2호·제4호의 규정에 의한 휴직은 제외한다.2. 직위해제 처분 중인 자③ 퇴직자 또는 임직원의 형제는 휴양시설을 단독으로 이용할 수 없다.",
+        "content": "제3조(이용대상) ① 휴양시설의 이용대상은 임직원으로 한다.② 다음 각 호의 어느 하나에 해당하는 경우에는 이용대상에서 제외한다.1. 휴직 중인 자(단, 업무상 질병 또는 부상에 따른 휴직 및 육아휴직은 제외)2. 강등 처분을 받은 날로부터 3개월을 경과하지 아니한 자3. 정직 처분 중인 자4. 직위해제 처분 중인 자",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -71,9 +71,9 @@
       },
       {
         "article_no": "제4조",
-        "article_title": "종류",
+        "article_title": "위원회의 설치·운영",
         "chapter": "",
-        "content": "제4조(종류) 휴양시설 종류는 다음 각 호와 같이 예산 범위 내에서 운영할 수 있다.1. 콘도미니엄2. 호텔3. 펜션 또는 민박4. 기타 이사장이 지정하는 휴양시설",
+        "content": "제4조(위원회의 설치·운영) ① 휴양시설의 선정과 운영에 관한 사항을 심의하기 위하여 휴양시설위원회(이하 “위원회”라 한다)를 설치·운영할 수 있다.② 위원회는 위원장을 포함하여 위원 7인 이내로 하고, 위원장은 소관부서장으로 하며, 위원은 당연직 위원인 노동조합위원장과 부서장 중에서 이사장이 임명하는 자로 한다.③ 위원회의 구성 및 운영에 관하여 기타 필요한 사항은 위원회관리내규를 준용한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -81,29 +81,73 @@
       },
       {
         "article_no": "제5조",
-        "article_title": "이용일수",
+        "article_title": "이용신청 및 승인",
         "chapter": "",
-        "content": "제5조(이용일수) 휴양시설의 1회 이용일수는 1박2일 또는 2박3일을 사용함을 원칙으로 하되, 필요시 사용일수를 추가 사용할 수 있다.",
+        "content": "제5조(이용신청 및 승인) ① 시설 이용을 희망하는 직원은 소관부서에 이용희망일 14일 전까지 [별지 제1호서식]의 이용신청서에 따라 승인을 받아야 한다.② 소관부서는 이용희망일 5일 전까지 이용신청에 대한 승인여부를 신청자에게 통지하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "휴양시설운영내규",
+            "target_article_no": "별지1",
+            "target_article_title": "휴양시설 이용 신청서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=133884255",
+            "resolve_method": "render",
+            "source_provision_id": "public:휴양시설운영내규#JO0005",
+            "reference_id": "public:휴양시설운영내규#BJ0001"
+          }
+        ],
         "images": [],
         "provision_id": "public:휴양시설운영내규#JO0005"
       },
       {
         "article_no": "제6조",
-        "article_title": "이용제한",
+        "article_title": "이용신청의 취소",
         "chapter": "",
-        "content": "제6조(이용제한) 다음 각 호에 해당하는 경우 내규 제4조제1호 내지 제3호까지의 휴양시설에 대해 사유 발생 다음 연도까지 이용을 제한한다. 단, 제4호에 한하여 제4조의 제4호의 휴양시설에 대해서 사용 가능 회차가 도래하는 최초 1회 이용을 추가적으로 제한한다.1. 휴양시설 이용을 타인에게 대여 또는 양도하여 사용하게 한 자2. 예약 불이행 등으로 공단 전체 휴양시설 이용에 불이익을 준 행위자3. 허위의 방법으로 휴양시설을 이용한 자4. 중징계 이상의 징계처분을 받은 자5. 그 밖에 공공기관 임직원으로서 품위손상 등 휴양시설 이용이 부적합하다고 인정되는 자",
+        "content": "제6조(이용신청의 취소) 신청자 사정으로 승인받은 날짜에 이용이 불가한 경우에는 이용일 10일 전까지 소관부서에 [별지 제2호서식]에 따라 이용취소를 신청하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "휴양시설운영내규",
+            "target_article_no": "별지2",
+            "target_article_title": "휴양시설 이용취소 신청서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=133884259",
+            "resolve_method": "render",
+            "source_provision_id": "public:휴양시설운영내규#JO0006",
+            "reference_id": "public:휴양시설운영내규#BJ0002"
+          }
+        ],
         "images": [],
         "provision_id": "public:휴양시설운영내규#JO0006"
       },
       {
         "article_no": "제7조",
-        "article_title": "대여금지",
+        "article_title": "이용 우선순위",
         "chapter": "",
-        "content": "제7조(대여금지) ① 휴양시설 이용은 신청인이 시설 목적지에 동행하여 신청한 이용목적으로만 사용하여야 하며 타인에게 대여하거나 양도하여서는 아니 된다.",
+        "content": "제7조(이용 우선순위) 이용희망일이 특정기간에 집중될 경우 다음 각 호에서 정한 우선순위에 따라 대상자를 선정한다. 이 경우 성수기와 비수기의 구분은 휴양시설 운영업체가 정한 기준에 따른다.1. 성수기의 경우 전년도 이용자를 제외한 이용희망자를 대상으로 각 노동조합에서 추천하는 자 및 감사부서 입회하에 추첨을 진행하여 선정한다. 다만, 잔여 휴양시설이 있을 경우 전년도 이용자를 포함하여 재추첨을 통해 선정할 수 있다.2. 비성수기의 경우 선착순으로 선정한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -111,9 +155,9 @@
       },
       {
         "article_no": "제8조",
-        "article_title": "이용대상 선정",
+        "article_title": "이용요금 부담",
         "chapter": "",
-        "content": "제8조(이용대상 선정) 관리부서에서 계약한 숙박시설 이용 시 성수기 등 이용 대상자 간 경합이 있을 경우 감사부서 입회하에 무작위 추첨으로 선발할 수 있다.",
+        "content": "제8조(이용요금 부담) 회원권 이용에 따른 요금은 이용 임직원이 부담한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -121,9 +165,9 @@
       },
       {
         "article_no": "제9조",
-        "article_title": "이용자 준수사항",
+        "article_title": "준수사항",
         "chapter": "",
-        "content": "제9조(이용자 준수사항) ① 이용자가 고의 또는 과실 등 본인 귀책 사유로 시설물의 훼손·망실 등 손해를 일으킨 경우에는 이를 변상하여야 한다.② 이용자는 이용기간에 공중질서와 공동의 이익에 반하는 행위 및 관리부서에서 계약한 숙박시설의 이용약관에서 정한 이용자 준수사항을 위반하지 않도록 노력하여야 한다.",
+        "content": "제9조(준수사항) ① 시설 이용 시 이용약관을 준수하고 임직원으로서의 품위를 손상시켜서는 아니 된다.② 이용권을 타인에게 대여하거나 양도하여서는 아니 된다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -131,9 +175,9 @@
       },
       {
         "article_no": "제10조",
-        "article_title": "기타사항",
+        "article_title": "이용제한",
         "chapter": "",
-        "content": "제10조(기타사항) 이 내규를 시행함에 있어 세부적인 사항이 필요한 경우 따로 정하여 시행할 수 있다.",
+        "content": "제10조(이용제한) 이용자가 다음 각 호의 어느 하나에 해당할 때에는 이용(취소)일 이후 1년간 이용을 제한할 수 있다.1. 이용권을 타인에게 대여 또는 양도한 경우2. 이용기간 중 공단의 품위를 손상시킨 경우3. 예약확정 후 취소절차 없이 임의로 취소한 경우(다만, 자연재해, 사고 등 부득이한 사정이 인정될 때에는 그러하지 아니함)",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -143,35 +187,78 @@
   },
   "addenda": [
     {
-      "promulgation_date": "20230317",
-      "promulgation_no": "20231",
-      "content": "부칙 <제20231호, 2023.3.17.>이 내규는 공포한 날부터 시행한다."
+      "promulgation_date": "20230630",
+      "promulgation_no": "00002",
+      "content": "부칙 <제2호,2023.6.30>제1조 (시행일) 이 내규는 공포한 날부터 시행한다.제2조 (다른 내규의 폐지) 종전의 대구시설공단 휴양시설운영내규는 폐지한다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "휴양시설 이용 신청서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=133884255",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=133884255",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:휴양시설운영내규#BJ0001",
+      "filename": "별지1_휴양시설 이용 신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "휴양시설 이용취소 신청서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=133884259",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=133884259",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:휴양시설운영내규#BJ0002",
+      "filename": "별지2_휴양시설 이용취소 신청서.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 6,
+    "relations_total": 2,
     "by_category": {
-      "학칙공단": 6
+      "별지": 2
     },
     "by_relation_type": {
-      "citation": 4,
-      "internal_ref": 2
+      "appendix_ref": 2
     },
     "articles_total": 10,
-    "articles_with_relations": 3,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
     "addenda_count": 1,
-    "appendices_count": 0,
+    "appendices_count": 2,
     "attachments_count": 0
   },
   "source": {
     "source_url": "https://www.law.go.kr/학칙공단/휴양시설운영내규"
   },
-  "provision_id": "public:휴양시설운영내규#DOC",
-  "is_future": false
+  "provision_id": "public:휴양시설운영내규#DOC"
 }
