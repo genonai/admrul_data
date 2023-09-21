@@ -1,0 +1,610 @@
+{
+  "law_id": "2200000120851",
+  "mst": "2200000120851",
+  "law_name": "차량관리규정",
+  "law_abbr": "",
+  "law_type": "공단규정",
+  "doc_target": "public",
+  "doc_kind": "공공기관",
+  "adm_uid": "public:2200000120851",
+  "promulgation_no": "182",
+  "promulgation_date": "20230921",
+  "enforcement_date": "20230921",
+  "revision_date": "20230921",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "인천관광공사",
+    "담당자명": "박경애",
+    "행정규칙종류코드": "B0029",
+    "행정규칙명": "차량관리규정",
+    "발령일자": "20230921",
+    "행정규칙종류": "공단규정",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "인천관광공사",
+    "전화번호": "032-899-7308",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "B553554",
+    "생성일자": "20250916",
+    "행정규칙ID": "2128435",
+    "담당부서기관코드": "B553554",
+    "발령번호": "182",
+    "행정규칙일련번호": "2200000120851"
+  },
+  "amendment_text": "",
+  "revision_reason": "1. 개정이유\n가. 안전감사팀-390호(2023. 2. 15.) 관련 이해충돌방지법 위반사항 감사 결과에 따른 규정 최신화\n나. 규정에서 사용하는 용어 정의 통한 의미 명확화\n다. 공무로 인한 차량사고 발생 시 자기차량손해담보 자기부담금 지원 통한 직원 부담 최소화\n\n2. 주요내용\n가. 총괄차량관리담당을 주관부서의 실·단장으로 명시\n나. 출퇴근 가능 차량은 전용차량 및 제4항 단서에 해당하는 차량으로 한정으로 명시\n다. 차량을 사용하고자 하는 부서에서는 사용시간 전까지 차량운행허가신청을 전산시스템을 통하여 신청하고 차량관리담당은 차량배차 신청사항을 종합 검토하여 지체 없이 배차승인 여부를 통지하여야 함을 명시\n라. 공사 소속직원은 차량을 배차 받아 직접 운행하며 직접 운행자는 배차된 차량에 적합한 운전면허증을 소지해야 함을 명시\n마. 임대차량을 사용하는 경우에는 정기적으로 순회정비시 점검·정비로 대체한다고 명시\n\n바. 차량 총괄부서의 장은 운전자가 차량운행 시 주의를 하였음에도 부득이하게 사고가 발생한 경우 「교통사고처리 특례법」 제3조제2항 단서에 해당할 경우를 제외하고 자기차량손해담보 자기부담금에 대해서는 예산의 범위 에서 지원할 수 있다고 명시\n사. 별지 제2호 서식 차량운행일지 내 주유 내용 삭제\n- 계정과목별 지출방법 등에 관한 지침 별지7호(유류비용 지출서) 서식 중복\n\n3. 참고사항\n가. 관계법령 : 교통사고처리특례법\n나. 예산조치 : 해당사항 없음\n다. 합 의 : 해당사항 없음\n라. 절 차\n1) 사전예고: 생략\n2) 부패영향평가: 해당없음\n3) 사규심의: 완료",
+  "body": {
+    "format": "articles",
+    "article_count": 24,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조(목적) 이 규정은 인천관광공사(이하 “공사”라 한다)의 차량의 효율적인 관리를 위하여 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:차량관리규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적용범위",
+        "chapter": "제1장 총칙",
+        "content": "제2조(적용범위) 공사의 차량관리에 관한 업무에 대하여는 관계 법령에 특별히 정한 경우를 제외하고는 다음 각 호가 정하는 바에 의한다. 다만, 공사에서 추진하는 사업의 직접적인 목적으로 사용되는 차량은 제외한다. <단서 신설 2020.01.14.>1. 전용차량 : 전용차량 배정대상자에게 배정하는 차량2. 업무용차량 : 업무수행에 활용할 목적으로 배정된 차량",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:차량관리규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "차량관리자의 직무와 책임",
+        "chapter": "제1장 총칙",
+        "content": "제3조(차량관리자의 직무와 책임) ①차량관리자의 직무와 책임은  다음 각 호와 같다.1. 총괄차량관리담당은 주관부서의 실·단장으로 하며, 차량관리업무 전반에 관한 총괄조정 및 통제에 관한 업무를 수행한다.<개정 2023.09.21.>2. 차량관리담당은 차량의 관리운영을 담당하는 부서장으로 하며, 차량의 소요예산 확보 및 차량유지·차량배정·인력관리 등 차량에 대한 종합관리 및 감독과 차량의 운행·배차승인·유류구입 및 정산·지도감독 및 기록에 관한 업무를 하여야 한다. <개정2020.01.14.>②차량관리담당은 소속 사원에게 차량관리에 관한 사무의 일부를 위임하여 처리할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:차량관리규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "종합관리",
+        "chapter": "제1장 총칙",
+        "content": "제4조(종합관리) ①제2조에 의한 차량은 차량관리담당이 종합관리 한다.②차량관리담당은 차량의 종합관리를 위한 소요예산을 확보하여 차량유지 및 인력관리에 차질이 없도록 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "차량관리규정",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/차량관리규정/제2조",
+            "resolve_method": "render",
+            "source_provision_id": "public:차량관리규정#JO0004",
+            "reference_id": "public:차량관리규정#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:차량관리규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "배차 및 차량운행",
+        "chapter": "제1장 총칙",
+        "content": "제5조(배차 및 차량운행) ①제2조에 의한 차량의 운행은 차량관리담당이 지정한 전산시스템에 등록한 순서에 따라 사용 할 수 있다. <개정 2020.01.14.>②차량은 허가된 사무수행 목적 이외는 사용할 수 없으며, 사적인 용무로 사용 할 수 없다.③제1항에 따라 배차된 차량을 사용한 운전자는 배차시간 내에 운행한 차량을 반납하여야 한다. <개정 2020.01.14.>④배차시간 내에 반납할 수 없는 부득이한 경우에는 그 사유 및 반납예정시간 등을 차량관리담당부서 및 차량관리담당에게 유선으로 통보하여야 한다. <신설 2020.01.14.>⑤출퇴근 가능 차량은 전용차량 및 제4항 단서에 해당하는 차량으로 한정한다. <신설 2023.09.21.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "차량관리규정",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/차량관리규정/제2조",
+            "resolve_method": "render",
+            "source_provision_id": "public:차량관리규정#JO0005",
+            "reference_id": "public:차량관리규정#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:차량관리규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "기록관리",
+        "chapter": "제1장 총칙",
+        "content": "제6조(기록관리) 차량관리담당은 다음 각 호에 해당하는 서류를  비치하고, 기록을 유지·관리하여야 한다. 다만, 차량관리의  효율성을 도모하기 위하여 필요시 전산시스템으로 관리할 수 있다.  <개정 2020.01.14.>1. 차량관리대장(별지 제1호 서식)2. 차량운행일지(별지 제2호 서식)3. 차량정비대장(별지 제3호 서식)4. 기타 차량관리에 필요한 대장",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "별지 제1호 서식",
+            "line_text": "",
+            "target_law_name": "차량관리규정",
+            "target_article_no": "별지1",
+            "target_article_title": "차량관리대장",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156376053",
+            "resolve_method": "render",
+            "source_provision_id": "public:차량관리규정#JO0006",
+            "reference_id": "public:차량관리규정#BJ0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "별지 제2호 서식",
+            "line_text": "",
+            "target_law_name": "차량관리규정",
+            "target_article_no": "별지2",
+            "target_article_title": "차량운행일지",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156376057",
+            "resolve_method": "render",
+            "source_provision_id": "public:차량관리규정#JO0006",
+            "reference_id": "public:차량관리규정#BJ0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "별지 제3호 서식",
+            "line_text": "",
+            "target_law_name": "차량관리규정",
+            "target_article_no": "별지3",
+            "target_article_title": "차량정비대장",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156376781",
+            "resolve_method": "render",
+            "source_provision_id": "public:차량관리규정#JO0006",
+            "reference_id": "public:차량관리규정#BJ0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:차량관리규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "지도·점검 등",
+        "chapter": "제1장 총칙",
+        "content": "제7조(지도·점검 등) ①총괄차량관리담당은 연 1회 이상 공사의  차량관리·운영 전반에 대한 지도·점검을 실시할 수 있다. <개정 2023.09.21.>②제1항에 의한 지도·점검은 다음 각 호에 의한다.1. 차량관리·운영사항2. 차량정비·관리사항3. 기타 차량관리·운영 전반에 관한 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:차량관리규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "차량의 배정대상 등",
+        "chapter": "제2장 차량 배정관리",
+        "content": "제8조(차량의 배정대상 등) 제2조에 의한 차량의 차종별 차형· 배정대상 및 내구연한은 별표 1과 같다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "차량관리규정",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/차량관리규정/제2조",
+            "resolve_method": "render",
+            "source_provision_id": "public:차량관리규정#JO0008",
+            "reference_id": "public:차량관리규정#JO0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "차량관리규정",
+            "target_article_no": "별표1",
+            "target_article_title": "차량의 차종·차형·배정대상 및 내구연한",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000120851&bylNo=0001&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "public:차량관리규정#JO0008",
+            "reference_id": "public:차량관리규정#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:차량관리규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "삭제",
+        "chapter": "제2장 차량 배정관리",
+        "content": "제9조 <삭제 2020.01.14.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:차량관리규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "양여·관리전환·기증차량 등",
+        "chapter": "제2장 차량 배정관리",
+        "content": "제10조(양여·관리전환·기증차량 등) 차량관리담당은 외부로부터 차량을 양여·관리전환·기증할 의사가 접수될 경우에는 차량을 인수하기 전에 사장에게 보고하여 인수여부를 결정하여야 한다. <개정 2020.01.14.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:차량관리규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "삭제",
+        "chapter": "제3장 차량 운행관리",
+        "content": "제11조 <삭제 2020.01.14.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:차량관리규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "차량관리방법",
+        "chapter": "제3장 차량 운행관리",
+        "content": "제12조(차량관리방법) ①차량관리담당은 보유하는 차량에 대한 차량유지비 등은 관리부서에서 예산을 일괄 계상하여 집행하여야 한다. 다만, 사업성질상 별도로 차량을 받은 경우에는 사용부서에서 계상하여 집행한다.②차량관리담당은 당해 차량에 대한 차량점검·정비·수리업무와 배차관리, 운행일지 정리, 기타 차량운영관리 전반을 담당한다.③ <삭제 2023.09.21.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:차량관리규정#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "배차신청",
+        "chapter": "제3장 차량 운행관리",
+        "content": "제13조 (배차신청) 차량을 사용하고자 하는 부서에서는 사용시간 전까지 차량운행허가신청을 전산시스템을 통하여 신청하여야 한다.<개정 2023.09.21.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:차량관리규정#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "배차승인",
+        "chapter": "제3장 차량 운행관리",
+        "content": "제14조 (배차승인) 차량관리담당은 차량배차 신청사항을 종합 검토하여 지체 없이 배차승인 여부를 통지하여야 한다. <개정 2023.09.21.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:차량관리규정#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "유류구입 등",
+        "chapter": "제3장 차량 운행관리",
+        "content": "제15조(유류구입 등) 차량관리담당은 필요시 차량용 유류, 전기충전 및 엘피지(이하 “유류”라 한다)의 필요 수급물량을 기준하여  유류공급자와 유류공급가를 단가계약하거나, 시장조사를 실시하여 최저가격으로 일정소요량을 구입 또는 후불정산으로 구입하거나 카드제 등으로 구입할 수 있다. <개정 2023.09.21.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:차량관리규정#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "차고운영",
+        "chapter": "제3장 차량 운행관리",
+        "content": "제16조(차고운영) ①차량의 집중관리를 위하여 사옥 내에 차고를 설치하고 차고 내에 운영시설을 갖추어 운영할 수 있다. 다만, 사옥 내 주차지 협소 및 특별한 사유가 있어 사옥 내 주차가 곤란한 경우에는 사옥 외에 주차지를 지정·주차할 수 있다②제1항에 따라 차고를 설치한 경우 차량관리담당은 소속직원중에서 지정하여 차고내의 제반업무를 수행토록 할 수 있다.  <개정 2020.01.14.>③제2항에 따라 지정을 받은 직원은 보유차량의 관리 및 차고내의 제반업무를 담당한다. <개정 2020.01.14.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:차량관리규정#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "근무지침",
+        "chapter": "제4장 운전자 관리 <개정 2020.01.14.>",
+        "content": "제17조(근무지침) ①운전자는 선량한 관리자의 주의의무로서 차량을 관리하여야 한다. <개정 2020.01.14.>②운전자는 차량을 정기적으로 점검·정비하고 안전운행에 철저를 기하여야 한다.<개정 2020.01.14.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:차량관리규정#JO0017"
+      },
+      {
+        "article_no": "제17조의2",
+        "article_title": "차량직접운전",
+        "chapter": "제4장 운전자 관리 <개정 2020.01.14.>",
+        "content": "제17조의2(차량직접운전) 공사 소속직원(공무직근로자, 기간제근로자를 포함한다)은 업무능률 향상과 효율성을 위하여 차량을 배차 받아 직접 운행할 수 있다. 이 경우 직접운전 운행자는 배차된 차량에 적합한 운전면허증을 소지하여야 한다.<신설 2023.09.21.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:차량관리규정#JO0017_02"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "차량점검",
+        "chapter": "제4장 운전자 관리 <개정 2020.01.14.>",
+        "content": "제18조(차량점검) ①차량관리담당은 정기적으로 차량을 점검하여야 한다. 다만, 그 세부사항은 총괄차량관리담당이 따로 정할 수 있다. <개정 2020.01.14.>②운전자는 배차 받은 차량의 상태 및 공구류 등을 운행 전에 반드시 점검하고 운행 후에는 원래 상태로 반납하여야 한다.  <개정 2020.01.14.>③제2항에 점검결과 또는 운행 후 이상이 있을 때에는 즉시  차량관리담당에게 통보하여 차량 정비·교체 등의 조치가 이루어질 수 있도록 하여야 한다. <개정 2020.01.14.>④임대차량을 사용하는 경우에는 정기적으로 순회정비 시 점검·정비로 대체한다. <신설 2023.09.21.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:차량관리규정#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "금지사항",
+        "chapter": "제4장 운전자 관리 <개정 2020.01.14.>",
+        "content": "제19조(금지사항) 운전자는 근무 시 다음 사항을 하지 않아야 한다. <개정 2020.01.14.>1. 음주운전 <개정 2020.01.14.>2. 운전 중 흡연·식음 및 휴대폰 사용행위3. <삭제 2020.01.14.>4. 배차신청 없이 차량을 운전하는 행위 <개정 2020.01.14.>5. 공사의 직원이 아닌 자에게 운전하게 하는 행위   <개정 2020.01.14.>6. 제동장치나 비상조치를 취하지 않고 차량을 이탈하는 행위   <개정 2023.09.21.>7. <삭제 2020.01.14.>8. 정당한 사유없이 배차지역을 이탈하거나, 배차운행시간   이외의 운행행위 <전단 신설 2020.01.14.>9. <삭제 2020.01.14.>10. 주민으로부터 오해를 받을 만한 위치에서의 주·정차 행위",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:차량관리규정#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "운전주의 의무",
+        "chapter": "제4장 운전자 관리 <개정 2020.01.14.>",
+        "content": "제20조(운전주의 의무) ①운전자는 운전 중 항상 도로교통표지와  주위의 상황 등을 정확히 파악하여 적절한 운전을 하여야 한다.  <개정 2020.01.14.>②운전자는 운행차량의 구조·기능 등에 정통하여 운전 중 차량의 상태를 정확히 파악하여야 한다. <개정 2020.01.14.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:차량관리규정#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "사고보고",
+        "chapter": "제4장 운전자 관리 <개정 2020.01.14.>",
+        "content": "제21조(사고보고) 운전자는 운전 중 사고가 발생한 때에는 직접 또는 간접적으로 다음 사항을 차량관리 부서에 지체 없이 보고하여야 한다 .1. 사고발생일시2. 사고발생장소3. 운행차량번호 및 운전자 성명 <개정 2020.01.14.>4. 사고발생 시의 상황과 사고원인5. 피해 및 사상자에 대한 조치사항6. 피해자, 가해자, 사상자의 인적사항 <신설 2020.01.14.>7. 기타 조치 및 필요사항 <신설 2020.01.14.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:차량관리규정#JO0021"
+      },
+      {
+        "article_no": "제21조의2",
+        "article_title": "과실에 대한 책임",
+        "chapter": "제4장 운전자 관리 <개정 2020.01.14.>",
+        "content": "제21조의2(과실에 대한 책임) ① 차량 총괄부서의 장은 운전자가  차량운행 시 주의를 하였음에도 부득이하게 사고가 발생한 경우 「교통사고처리 특례법」 제3조제2항 단서에 해당하지 않는 경우에는 자기차량손해담보 자기부담금에 대해서는 예산의 범위 에서 지원할 수 있다.②제1항에 따라 지원을 받으려는 자는 관할 경찰서장의 사고 확인과 해당 차량 보험회사의 보상확인서를 차량 총괄부서의 장에게 제출하여야 한다.③운전자가 차량을 운행하는 중에 불법 주·정차, 제한속도위반 또는 전용차선위반 등 「도로교통법」 위반에 따라 처분된 과태료,  범칙금 또는 벌금 등은 운전자가 납부한다. <조문신설 2023.09.21.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제21조의2",
+            "source_clause": "제21조의2제1항",
+            "link_text": "「교통사고처리 특례법」",
+            "line_text": "",
+            "target_law_name": "교통사고처리 특례법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/교통사고처리 특례법",
+            "resolve_method": "render",
+            "source_provision_id": "public:차량관리규정#JO0021_02",
+            "reference_id": "law:교통사고처리특례법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제21조의2",
+            "source_clause": "제21조의2제1항",
+            "link_text": "제3조제2항",
+            "line_text": "",
+            "target_law_name": "교통사고처리 특례법",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/교통사고처리 특례법/제3조",
+            "resolve_method": "render",
+            "source_provision_id": "public:차량관리규정#JO0021_02",
+            "reference_id": "law:교통사고처리특례법#JO0003"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제21조의2",
+            "source_clause": "제21조의2제3항",
+            "link_text": "「도로교통법」",
+            "line_text": "",
+            "target_law_name": "도로교통법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도로교통법",
+            "resolve_method": "render",
+            "source_provision_id": "public:차량관리규정#JO0021_02",
+            "reference_id": "law:도로교통법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:차량관리규정#JO0021_02"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "안전교육 등",
+        "chapter": "제4장 운전자 관리 <개정 2020.01.14.>",
+        "content": "제22조(안전교육 등) 차량관리담당은 운전자에 대하여 정비기술 또는 안전교육을 연 1회 이상 자체교육 또는 위탁하여 교육을 실시할 수 있다. <개정 2020.01.14.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:차량관리규정#JO0022"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20150921",
+      "promulgation_no": "00026",
+      "content": "부칙 <제26호, 2015.09.21.>이 규정은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20200114",
+      "promulgation_no": "00224",
+      "content": "부칙 <제224호, 2020.01.14.>이 규정은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20230921",
+      "promulgation_no": "00371",
+      "content": "부칙 <제371호, 2023.09.21.>이 규정은 공포한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "차량의 차종·차형·배정대상 및 내구연한",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000120851&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156376049",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156376049",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:차량관리규정#BYL0001",
+      "filename": "별표1_차량의 차종·차형·배정대상 및 내구연한.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "차량관리대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156376053",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156376053",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:차량관리규정#BJ0001",
+      "filename": "별지1_차량관리대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "차량운행일지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156376057",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156376057",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:차량관리규정#BJ0002",
+      "filename": "별지2_차량운행일지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "차량정비대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156376781",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156376781",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:차량관리규정#BJ0003",
+      "filename": "별지3_차량정비대장.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 10,
+    "by_category": {
+      "학칙공단": 3,
+      "별지": 3,
+      "별표": 1,
+      "법령": 3
+    },
+    "by_relation_type": {
+      "internal_ref": 3,
+      "appendix_ref": 4,
+      "citation": 3
+    },
+    "articles_total": 24,
+    "articles_with_relations": 5,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 3,
+    "appendices_count": 4,
+    "attachments_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/학칙공단/차량관리규정"
+  },
+  "provision_id": "public:차량관리규정#DOC"
+}
