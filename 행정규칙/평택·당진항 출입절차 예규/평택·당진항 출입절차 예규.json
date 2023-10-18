@@ -1,0 +1,1883 @@
+{
+  "law_id": "2100000230602",
+  "mst": "2100000230602",
+  "law_name": "평택·당진항 출입절차 예규",
+  "law_abbr": "",
+  "law_type": "예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000230602",
+  "promulgation_no": "32",
+  "promulgation_date": "20231018",
+  "enforcement_date": "20231018",
+  "revision_date": "20231018",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "평택지방해양수산청(항만물류과)",
+    "담당자명": "신은경",
+    "행정규칙종류코드": "B0002",
+    "행정규칙명": "평택·당진항 출입절차 예규",
+    "발령일자": "20231018",
+    "행정규칙종류": "예규",
+    "제개정구분코드": "200401",
+    "조문형식여부": "Y",
+    "소관부처명": "평택지방해양수산청",
+    "전화번호": "031-680-7262",
+    "제개정구분명": "제정",
+    "소관부처코드": "1192000",
+    "생성일자": "20231027",
+    "행정규칙ID": "86935",
+    "시행일자": "20231018",
+    "담당부서기관코드": "1192441",
+    "발령번호": "32",
+    "행정규칙일련번호": "2100000230602",
+    "상위부처명": "해양수산부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제정이유\n항만출입과 관련한 행정규칙과 항만견학ㆍ촬영 등에 관한 행정규칙이 이원화되어 있어 이를 일원화하여 항만보안 활동에 만전을 기함으로서 항만안전을 제고하고자 함\n◇ 주요내용\n가. 목적, 정의 등 (안 제1장)\n나. 항만출입증 발급 절차 등 (안 제2장)\n다. 항만 견학 및 촬영 절차 등 (안 제3장)\n라. 항만출입 준수사항 등 (안 제4장)",
+  "body": {
+    "format": "articles",
+    "article_count": 20,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조(목적) 이 예규는 「국제항해선박 및 항만시설의 보안에 관한 법률」, 같은 법 시행령, 같은 법 시행규칙 및 「항만 출입절차에 관한 규정」(해양수산부훈령)에 따라 평택지방해양수산청장에게 위임된 사항과 그 시행에 관하여 필요한 사항을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "국제항해선박 및 항만시설의 보안에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국제항해선박 및 항만시설의 보안에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0001",
+            "reference_id": "law:국제항해선박및항만시설의보안에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행규칙",
+            "line_text": "",
+            "target_law_name": "국제항해선박 및 항만시설의 보안에 관한 법률 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국제항해선박 및 항만시설의 보안에 관한 법률 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0001",
+            "reference_id": "law:국제항해선박및항만시설의보안에관한법률시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「항만 출입절차에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "항만 출입절차에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/항만 출입절차에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0001",
+            "reference_id": "admrul:항만출입절차에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:평택당진항출입절차예규#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "제1장 총칙",
+        "content": "제2조(정의) 이 예규에서 사용하는 용어의 뜻은 다음과 같다.1. \"항만시설\"이란 국제항해선박과 선박항만 연계활동이 가능하도록 갖추어진 시설로서 「항만법」 제2조제5호에 따른 항만시설을 말한다.2. \"항만시설소유자\"란 항만시설의 소유자ㆍ관리자 또는 항만시설의 소유자ㆍ관리자로부터 그 운영을 위탁받은 다음 각 목의 법인ㆍ단체 또는 개인을 말한다.가. 국가(평택청을 포함한다. 이하 같다.)나. 지방자치단체(지방자치단체가 출자해 설립한 법인을 포함한다)다. 「항만공사법」에 따라 설립한 항만공사라. 「항만법」 또는 「사회기반시설에 대한 민간투자법」등에 따라 민자사업으로 항만시설을 건설하여 국가에 귀속하지 아니하고 소유하고 있는 법인ㆍ단체 또는 개인마. 부두운영회사바. 민간사업자가 비관리청항만개발사업 등의 방식으로 건설한 항만시설의 무상사용기간 동안 해당 항만시설의 운영권을 확보한 법인ㆍ단체 또는 개인3. \"관계직원\"이란 항만시설에서 보안업무를 전담하는 직원을 말한다.4. \"신분증\"이란 주민등록증, 운전면허증, 여권 등 국가기관 또는 지방자치단체의 장이 발급한 사진, 성명 및 생년월일이 기재된 증명서를 말한다.5. \"항만출입관리시스템\"이란 컴퓨터 등 정보통신기기를 이용하여 효율적으로 해당 항만 출입관리를 수행할 수 있는 시스템을 말한다.6. \"항만출입증\"이란 전파식별장치(RFID: Radio Frequency Identification) 꼬리표의 물리적 특성을 활용, 출입자 정보를 반도체 소자에 포함하여 제작된 출입증을 말한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「항만법」",
+            "line_text": "",
+            "target_law_name": "항만법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항만법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0002",
+            "reference_id": "law:항만법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2조제5호",
+            "line_text": "",
+            "target_law_name": "항만법",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항만법/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0002",
+            "reference_id": "law:항만법#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「항만공사법」",
+            "line_text": "",
+            "target_law_name": "항만공사법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항만공사법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0002",
+            "reference_id": "law:항만공사법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「항만법」",
+            "line_text": "",
+            "target_law_name": "항만법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항만법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0002",
+            "reference_id": "law:항만법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「사회기반시설에 대한 민간투자법」",
+            "line_text": "",
+            "target_law_name": "사회기반시설에 대한 민간투자법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/사회기반시설에 대한 민간투자법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0002",
+            "reference_id": "law:사회기반시설에대한민간투자법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:평택당진항출입절차예규#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "적용범위",
+        "chapter": "제2장 항만출입증 발급 등",
+        "content": "제3조(적용범위) 이 장은 평택지방해양수산청장(이하 \"평택청\"이라 하고, 그 장을 \"청장\"이라 한다)이 다음 각 호의 항만시설에 대하여 항만출입증을 발급하는 경우에 적용한다.1. 평택청이 직접 경비ㆍ검색 업무를 시행하는 항만시설2. 제2조제2호나목 내지 바목의 항만시설소유자가 「항만 출입절차에 관한 규정」 제12조에 따른 항만출입시스템을 공동 운영하는 항만시설",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제2조제2호나목 내지 바목",
+            "line_text": "",
+            "target_law_name": "항만법",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항만법/제2조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0003",
+            "reference_id": "law:항만법#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「항만 출입절차에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "항만 출입절차에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/항만 출입절차에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0003",
+            "reference_id": "admrul:항만출입절차에관한규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제12조",
+            "line_text": "",
+            "target_law_name": "항만 출입절차에 관한 규정",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/항만 출입절차에 관한 규정/제12조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0003",
+            "reference_id": "admrul:항만출입절차에관한규정#JO0012"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:평택당진항출입절차예규#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "항만출입증 발급",
+        "chapter": "제2장 항만출입증 발급 등",
+        "content": "제4조(항만출입증 발급) ① 청장은 항만보안을 강화하고 인원 및 각종 차량의 출입을 효율적으로 통제하기 위하여 항만출입증을 제작하여 발급할 수 있다.② 항만시설소유자는 항만시설을 출입하고자 하는 인원 및 차량에 대하여 상시 또는 임시 항만출입증을 소지한 경우에 한정하여 출입을 허용할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:평택당진항출입절차예규#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "항만출입증 종류 및 규격",
+        "chapter": "제2장 항만출입증 발급 등",
+        "content": "제5조(항만출입증 종류 및 규격) ① 제4조에 따른 항만출입증은 다음 각 호와 같이 구분한다.1. 상시출입증(인원 또는 차량)2. 임시출입증(인원 또는 차량)② 제1항에 따른 항만출입증의 규격과 기재사항은 별표와 같다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "평택·당진항 출입절차 예규",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/평택·당진항 출입절차 예규/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0005",
+            "reference_id": "admrul:평택당진항출입절차예규#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:평택당진항출입절차예규#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "상시출입증 발급",
+        "chapter": "제2장 항만출입증 발급 등",
+        "content": "제6조(상시출입증 발급) 청장은 항만시설에 출입하고자 하는 자가 출입증을 6개월 이상 지속적으로 이용하여야 할 필요가 있다고 판단되는 경우에 한정하여 상시출입증을 발급할 수 있다.1. 업무상 출입이 필요한 관계 기관의 공무원과 차량2. 항만 내 상주업체 임직원과 차량3. 평택ㆍ당진항에 등록된 해운항만 관련 업ㆍ단체의 임직원과 차량4. 그 밖에 청장이 출입이 필요하다고 인정하는 자와 차량",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:평택당진항출입절차예규#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "상시출입증 발급절차",
+        "chapter": "제2장 항만출입증 발급 등",
+        "content": "제7조(상시출입증 발급절차) ① 청장은 상시출입증을 발급받고자 하는 자에 대하여 항만출입관리시스템을 통하여 별지 제1호서식에 따른 항만시설 출입기관(업체) 등록신청서, 별지 제2호서식에 따른 대표자 확인서를 작성ㆍ제출토록 한 후 제출된 자료를 검토하여 특이사항이 없는 경우에 한하여 항만출입관리시스템을 이용할 수 있는 ID와 비밀번호를 부여할 수 있다.② 청장은 상시출입증을 신청하고자 하는 자에게 별지 제3호서식의 상시출입증(인원, 차량) 발급신청서, 별지 제3-1호서식의 본인서약서, 별지 제3-2호서식의 개인정보 수집ㆍ이용 및 제3자 제공 동의서, 별지 제3-3호서식의 위수탁 화물수송 증명서(위ㆍ수탁 관계의 인원과 차량에 한한다)를 증명서류와 함께 제출 받고, 차량출입증을 신청하고자 하는 경우 차량등록증사본을 제출 받아 검토한 후 상시출입증을 발급할 수 있다. 다만 차량 소유자와 운전자가 다를 경우 관계증명서를 제출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "평택·당진항 출입절차 예규",
+            "target_article_no": "별지1",
+            "target_article_title": "항만시설 출입업체(기관) 등록신청서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105559",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0007",
+            "reference_id": "admrul:평택당진항출입절차예규#BJ0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "평택·당진항 출입절차 예규",
+            "target_article_no": "별지2",
+            "target_article_title": "대표자 확인서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105565",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0007",
+            "reference_id": "admrul:평택당진항출입절차예규#BJ0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "별지 제3호서식",
+            "line_text": "",
+            "target_law_name": "평택·당진항 출입절차 예규",
+            "target_article_no": "별지3",
+            "target_article_title": "상시 출입증(인원, 차량) 발급 신청서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105571",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0007",
+            "reference_id": "admrul:평택당진항출입절차예규#BJ0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "별지 제3",
+            "line_text": "",
+            "target_law_name": "평택·당진항 출입절차 예규",
+            "target_article_no": "별지3",
+            "target_article_title": "상시 출입증(인원, 차량) 발급 신청서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105571",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0007",
+            "reference_id": "admrul:평택당진항출입절차예규#BJ0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "별지 제3",
+            "line_text": "",
+            "target_law_name": "평택·당진항 출입절차 예규",
+            "target_article_no": "별지3",
+            "target_article_title": "상시 출입증(인원, 차량) 발급 신청서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105571",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0007",
+            "reference_id": "admrul:평택당진항출입절차예규#BJ0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "별지 제3",
+            "line_text": "",
+            "target_law_name": "평택·당진항 출입절차 예규",
+            "target_article_no": "별지3",
+            "target_article_title": "상시 출입증(인원, 차량) 발급 신청서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105571",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0007",
+            "reference_id": "admrul:평택당진항출입절차예규#BJ0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:평택당진항출입절차예규#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "신원조사",
+        "chapter": "제2장 항만출입증 발급 등",
+        "content": "제8조(신원조사) ① 청장은 다음 각 호의 자로부터 상시출입증 발급을 신청 받은 경우, 「보안업무규정」제33조 및 「보안업무규정 시행규칙」제57조에서 정한 별지 제4호서식의 신원진술서등을 제출받고 경찰청의 신원조사를 거쳐 출입증을 발급할 수 있다. 다만 항만시설을 출입하여야 하는 자가 해양수산부, 관세ㆍ출입국ㆍ검역 관련기관(CIQ) 및 국가보안기관 등에 재직하는 공무원 또는 청원경찰의 경우 재직증명서 또는 공무원증으로 신원조사를 대체할 수 있다.1. 국가보안시설에 포함되는 항만시설을 출입하기 위해 상시출입증의 발급을 신청한 자2. 국가보안시설에 포함되지 않는 항만시설 내 제한구역 및 통제구역에 출입하기 위해 상시출입증의 발급을 신청한 자3. 부두출입 위반으로 제재를 받은 업체ㆍ단체의 직원 또는 개인으로서 임시ㆍ상시출입증의 발급을 신청한 자② 청장은 출입증 발급 신청자가 외국인일 경우 별지 제5호서식에 따른 신원진술서를 제출받고 경찰청의 신원조사를 거쳐 출입증을 발급할 수 있다.③ 출입증 발급을 신청한 자가 제1항, 제2항에 의한 신원조사 기간 중에 불가피하게 항만시설을 출입하고자 할 경우 청장은 그 필요성이 인정되면 임시출입증을 발급할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "제33조",
+            "line_text": "",
+            "target_law_name": "보안업무규정",
+            "target_article_no": "제33조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/보안업무규정/제33조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0008",
+            "reference_id": "law:보안업무규정#JO0033"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "「보안업무규정 시행규칙」",
+            "line_text": "",
+            "target_law_name": "보안업무규정 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0008",
+            "reference_id": "admrul:보안업무규정시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "제57조",
+            "line_text": "",
+            "target_law_name": "보안업무규정 시행규칙",
+            "target_article_no": "제57조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정 시행규칙/제57조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0008",
+            "reference_id": "admrul:보안업무규정시행규칙#JO0057"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "별지 제4호서식",
+            "line_text": "",
+            "target_law_name": "평택·당진항 출입절차 예규",
+            "target_article_no": "별지4",
+            "target_article_title": "신원진술서(약식)",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105599",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0008",
+            "reference_id": "admrul:평택당진항출입절차예규#BJ0004"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제2항",
+            "link_text": "별지 제5호서식",
+            "line_text": "",
+            "target_law_name": "평택·당진항 출입절차 예규",
+            "target_article_no": "별지5",
+            "target_article_title": "PERSONAL QUESTIONNAIRE",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105611",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0008",
+            "reference_id": "admrul:평택당진항출입절차예규#BJ0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:평택당진항출입절차예규#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "신원조사 결과의 처리",
+        "chapter": "제2장 항만출입증 발급 등",
+        "content": "제9조(신원조사 결과의 처리) 청장은 신원조사 결과 다음 각 호에 해당하는 정보가 확인된 자에 대하여 상시출입증 발급을 제한하여야 한다. 이 경우 출입증 발급을 제한받은 해당 기관(업체)의 장은 청장에게 재심사를 요구할 수 있으며, 청장은 평택ㆍ당진항만 테러대책협의회 등의 항만관계기관(국가보안기관 등) 회의에 해당 사항을 회부한 후 그 심사결과에 따라 출입증 발급 여부를 결정할 수 있다.1. 「관세법」, 「출입국관리법」, 「외국환거래법」, 「형법」상 문서에 관한 죄, 성범죄관련법(보안검색요원에 한함), 「마약류 관리에 관한 법률」 위반으로 벌금형 이상의 형을 선고받고 「형의 실효 등에 관한 법률」에 따라 형의 실효가 되지 아니한 자2. 제1호와 관련된 형의 선고유예를 받은 경우에 그 선고유예 기간 중에 있는 자3. 제1호 및 제2호와 관련된 재판이 진행 중이거나 처분이 미확정된 자4. 그 밖에 국가안전보장상 유해로운 정보가 확인된 자",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "「관세법」",
+            "line_text": "",
+            "target_law_name": "관세법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/관세법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0009",
+            "reference_id": "law:관세법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "「출입국관리법」",
+            "line_text": "",
+            "target_law_name": "출입국관리법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/출입국관리법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0009",
+            "reference_id": "law:출입국관리법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "「외국환거래법」",
+            "line_text": "",
+            "target_law_name": "외국환거래법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/외국환거래법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0009",
+            "reference_id": "law:외국환거래법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "「형법」",
+            "line_text": "",
+            "target_law_name": "형법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/형법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0009",
+            "reference_id": "law:형법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "「마약류 관리에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "마약류 관리에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/마약류 관리에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0009",
+            "reference_id": "law:마약류관리에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "「형의 실효 등에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "형의 실효 등에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/형의 실효 등에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0009",
+            "reference_id": "law:형의실효등에관한법률#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:평택당진항출입절차예규#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "항만출입증 발급제한",
+        "chapter": "제2장 항만출입증 발급 등",
+        "content": "제10조(항만출입증 발급제한) ① 청장은 다음 각 호에 해당하는 자에 대하여는 항만출입증 발급을 제한하거나 회수할 수 있다.1. 보안사건ㆍ사고를 일으킨 경력이 있는 경우2.  「출입국관리법」 및 「관세법」을 위반하여 벌칙 등을 받은 경력이 있거나 외국인등록증 미소지자 또는 사증(VISA) 유효기간이 이른 경우3. 항만시설소유자의 요청이 있는 경우4. 신원조사 결과 국가안전보장에 유해한 정보가 확인된 경우② 항만시설소유자는 청장에게 별지 제6호서식의 항만시설 출입제한 요청서를 제출하여 각 호와 같이 항만시설의 출입제한이 필요하다고 판단되는 자에 대한 출입제한 조치를 요청할 수 있다.1. 6개월 이상 허가받은 지역에 출입기록이 없는 자2. 항만보안 또는 항만운영 업무 수행에 지장을 초래하는 자3. 정당한 사유 없이 경비근무자의 검문검색 및 통제에 불응하는 자",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "「출입국관리법」",
+            "line_text": "",
+            "target_law_name": "출입국관리법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/출입국관리법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0010",
+            "reference_id": "law:출입국관리법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "「관세법」",
+            "line_text": "",
+            "target_law_name": "관세법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/관세법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0010",
+            "reference_id": "law:관세법#DOC"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제2항",
+            "link_text": "별지 제6호서식",
+            "line_text": "",
+            "target_law_name": "평택·당진항 출입절차 예규",
+            "target_article_no": "별지6",
+            "target_article_title": "항만시설 출입 제한 요청서",
+            "appendix_no": "6",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105617",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0010",
+            "reference_id": "admrul:평택당진항출입절차예규#BJ0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:평택당진항출입절차예규#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "항만출입증 발급비용",
+        "chapter": "제2장 항만출입증 발급 등",
+        "content": "제11조(항만출입증 발급비용) ① 청장은 상시출입증을 발급하는 경우 다음 각 호의 하나에 해당하는 경우를 제외하고 발급에 소요되는 비용을 신청자로부터 징수할 수 있다.1. RFID 출입시스템 도입ㆍ운영 시범기간2. 출입증 변경을 위한 일제 갱신기간3. 발급일부터 6개월 이내 원인불명으로 출입증이 기능하지 못하는 경우4. 청장이 원활한 항만운영을 위하여 발급이 필요하다고 인정하는 경우② 청장은 제1항에 따른 항만출입증 발급비용을 징수한 경우, 「국고금 관리법」에 따라 즉시 세입조치 하여야 한다.③ 임시 출입증을 발급받은 후 출입증을 훼손하거나 분실한 경우에는 출입증 발급 신청자가 그 비용을 부담하여야 한다.④ 항만시설소유자는 제8조제1항 단서에 따른 공무원 또는 해당 항만시설 보안경비업무를 수행하는 청원경찰ㆍ특수경비원의 출입증 발급에 드는 비용을 면제할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제2항",
+            "link_text": "「국고금 관리법」",
+            "line_text": "",
+            "target_law_name": "국고금 관리법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국고금 관리법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0011",
+            "reference_id": "law:국고금관리법#DOC"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제4항",
+            "link_text": "제8조제1항",
+            "line_text": "",
+            "target_law_name": "평택·당진항 출입절차 예규",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/평택·당진항 출입절차 예규/제8조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0011",
+            "reference_id": "admrul:평택당진항출입절차예규#JO0008"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:평택당진항출입절차예규#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "임시출입증 발급",
+        "chapter": "제2장 항만출입증 발급 등",
+        "content": "제12조(임시출입증 발급) ① 청장은 항만시설소유자에게 임시출입증을 교부하게 할 수 있다.② 항만시설소유자는 임시출입증을 발급받고자 하는 인원의 신분증을 제출받아 소속, 성명, 연락처, 차량번호, 출입목적 등을 항만출입관리시스템에 입력 후 임시출입증을 발급한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:평택당진항출입절차예규#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "항만출입증 유효기간",
+        "chapter": "제2장 항만출입증 발급 등",
+        "content": "제13조(항만출입증 유효기간) ① 항만출입증의 유효기간은 다음 각 호와 같다1. 상시출입증(인원ㆍ차량) : 3년2. 임시출입증(인원ㆍ차량) : 발급일에 한함3. 외국인 상시출입증(인원ㆍ차량) : 1년4. 외국인 임시출입증(인원ㆍ차량) : 발급일에 한함② 항만 출입증의 유효기간 연장신청은 별지 제7호서식의 상시출입증 유효기간 연장 신청서를 제출하여야 한다.1. 상시출입증 유효기간 연장(인원ㆍ차량) : 2년2. 외국인 상시출입증 유효기간 연장(인원ㆍ차량) : 1년③ 청장은 다음 각 호 서식의 출입증 발급대장을 관리하여야 한다.1. 인원출입증 발급대장 (별지 제8호서식)2. 차량출입증 발급대장 (별지 제9호서식)",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제2항",
+            "link_text": "별지 제7호서식",
+            "line_text": "",
+            "target_law_name": "평택·당진항 출입절차 예규",
+            "target_article_no": "별지7",
+            "target_article_title": "상시 출입증 유효기간 연장 신청서",
+            "appendix_no": "7",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105623",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0013",
+            "reference_id": "admrul:평택당진항출입절차예규#BJ0007"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제3항",
+            "link_text": "별지 제8호서식",
+            "line_text": "",
+            "target_law_name": "평택·당진항 출입절차 예규",
+            "target_article_no": "별지8",
+            "target_article_title": "인원출입증 발급대장",
+            "appendix_no": "8",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105629",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0013",
+            "reference_id": "admrul:평택당진항출입절차예규#BJ0008"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제3항",
+            "link_text": "별지 제9호서식",
+            "line_text": "",
+            "target_law_name": "평택·당진항 출입절차 예규",
+            "target_article_no": "별지9",
+            "target_article_title": "차량출입증 발급대장",
+            "appendix_no": "9",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105635",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0013",
+            "reference_id": "admrul:평택당진항출입절차예규#BJ0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:평택당진항출입절차예규#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "항만출입증 관리",
+        "chapter": "제2장 항만출입증 발급 등",
+        "content": "제14조(항만출입증 관리) ① 청장은 항만출입관리시스템 내 등록된 기관(업체)으로부터 별지 제10호서식의 항만 상시출입증 자체 점검 결과를 제출받아 연 1회 이상 출입증 관리실태를 점검하여 부적절한 출입증 회수 등의 조치결과를 다음해 1월 말까지 처리해야 하며, 출입증이 노후ㆍ훼손ㆍ퇴색 등으로 식별이 곤란하거나 분실된 경우에는 재발급할 수 있다.② 출입증을 발급받은 자가 출입증을 분실하거나 훼손한 경우에는 자필로 작성한 별지 제11호서식의 출입증 분실(훼손)경위서(법인의 경우 법인 인감이 날인된 분실확인서를 첨부한다)를 작성ㆍ첨부하여 청장에게 이를 신고하여야 한다. 이 경우 분실(훼손)에 따른 책임은 발급받은 자가 진다.③ 청장은 출입증의 재고상태를 파악할 수 있도록 다음 각 호 서식의 출입증 수급대장을 관리하여야 한다.1. 상시 출입증(인원ㆍ차량) 수급대장 (별지 제12호서식)2. 임시 출입증(인원ㆍ차량) 수급대장 (별지 제13호서식)",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제1항",
+            "link_text": "별지 제10호서식",
+            "line_text": "",
+            "target_law_name": "평택·당진항 출입절차 예규",
+            "target_article_no": "별지10",
+            "target_article_title": "항만 상시출입증 자체 점검 결과",
+            "appendix_no": "10",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105641",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0014",
+            "reference_id": "admrul:평택당진항출입절차예규#BJ0010"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제2항",
+            "link_text": "별지 제11호서식",
+            "line_text": "",
+            "target_law_name": "평택·당진항 출입절차 예규",
+            "target_article_no": "별지11",
+            "target_article_title": "출입증 분실(훼손) 경위서",
+            "appendix_no": "11",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105647",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0014",
+            "reference_id": "admrul:평택당진항출입절차예규#BJ0011"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제3항",
+            "link_text": "별지 제12호서식",
+            "line_text": "",
+            "target_law_name": "평택·당진항 출입절차 예규",
+            "target_article_no": "별지12",
+            "target_article_title": "상시 출입증(인원·차량) 수급대장",
+            "appendix_no": "12",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105653",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0014",
+            "reference_id": "admrul:평택당진항출입절차예규#BJ0012"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제3항",
+            "link_text": "별지 제13호서식",
+            "line_text": "",
+            "target_law_name": "평택·당진항 출입절차 예규",
+            "target_article_no": "별지13",
+            "target_article_title": "임시 출입증(인원·차량) 수급대장",
+            "appendix_no": "13",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105659",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0014",
+            "reference_id": "admrul:평택당진항출입절차예규#BJ0013"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:평택당진항출입절차예규#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "항만출입증 반납",
+        "chapter": "제2장 항만출입증 발급 등",
+        "content": "제15조(항만출입증 반납) 항만시설소유자는 항만출입증을 발급받은 자 가운데 유효기간 만료, 퇴직, 인사이동 등의 사유로 항만출입증을 사용할 필요가 없게 된 경우 즉시 평택청에 반납 조치하여야 한다. 이 경우 반납된 출입증은 별지 제14호서식에 따른 출입증 반납대장을 작성 후 소각 또는 분쇄하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제15조",
+            "source_clause": "제15조",
+            "link_text": "별지 제14호서식",
+            "line_text": "",
+            "target_law_name": "평택·당진항 출입절차 예규",
+            "target_article_no": "별지14",
+            "target_article_title": "출입증 반납대장",
+            "appendix_no": "14",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105665",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0015",
+            "reference_id": "admrul:평택당진항출입절차예규#BJ0014"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:평택당진항출입절차예규#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "적용범위",
+        "chapter": "제3장 항만견학 및 항만촬영",
+        "content": "제16조(적용범위) ① 이 장은 평택ㆍ당진항의 모든 항만시설에 대하여 적용한다.② 항만시설소유자는 운영하는 항만시설에 대하여 항만견학이나 항만촬영을 허가할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:평택당진항출입절차예규#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "항만견학 및 촬영허가",
+        "chapter": "제3장 항만견학 및 항만촬영",
+        "content": "제17조(항만견학 및 촬영허가) ① 항만견학을 하고자 하는 자는 별지 제15호서식에 따라 항만견학 신청서를, 촬영(휴대폰ㆍ차량 블랙박스 등)을 하고자 하는 자는 별지 제16호서식에 따른 항만촬영 신청서를 항만시설소유자에게 제출하여야 한다.② 항만시설소유자는 항만견학을 허가 시에는 별지 제15호서식에 따른 항만견학 허가서를, 촬영을 허가 시에는 별지 제16호서식에 따른 항만촬영 허가서를 발급한다. 이 경우 관련서류를 1년간 보관한다.③ 항만 견학 및 촬영 시에는 관계직원이 안내 및 참여를 하여야 하며, 관계직원 등은 특이 동향 발견 또는 발생 시 즉시 청장에게 그 사실을 통보하여야 한다.④ 항만시설소유자는 별지 제15호서식에 따른 항만견학 허가서 또는 별지 제16호서식에 따른 항만촬영 허가서에 기재된 인원에 대하여 관계직원이 안내하는 경우 임시출입증을 발급하지 아니하고 항만 출입을 허용할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제1항",
+            "link_text": "별지 제15호서식",
+            "line_text": "",
+            "target_law_name": "평택·당진항 출입절차 예규",
+            "target_article_no": "별지15",
+            "target_article_title": "항만견학 신청서/허가서",
+            "appendix_no": "15",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105671",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0017",
+            "reference_id": "admrul:평택당진항출입절차예규#BJ0015"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제1항",
+            "link_text": "별지 제16호서식",
+            "line_text": "",
+            "target_law_name": "평택·당진항 출입절차 예규",
+            "target_article_no": "별지16",
+            "target_article_title": "항만촬영 신청서/허가서",
+            "appendix_no": "16",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105677",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0017",
+            "reference_id": "admrul:평택당진항출입절차예규#BJ0016"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제2항",
+            "link_text": "별지 제15호서식",
+            "line_text": "",
+            "target_law_name": "평택·당진항 출입절차 예규",
+            "target_article_no": "별지15",
+            "target_article_title": "항만견학 신청서/허가서",
+            "appendix_no": "15",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105671",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0017",
+            "reference_id": "admrul:평택당진항출입절차예규#BJ0015"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제2항",
+            "link_text": "별지 제16호서식",
+            "line_text": "",
+            "target_law_name": "평택·당진항 출입절차 예규",
+            "target_article_no": "별지16",
+            "target_article_title": "항만촬영 신청서/허가서",
+            "appendix_no": "16",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105677",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0017",
+            "reference_id": "admrul:평택당진항출입절차예규#BJ0016"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제4항",
+            "link_text": "별지 제15호서식",
+            "line_text": "",
+            "target_law_name": "평택·당진항 출입절차 예규",
+            "target_article_no": "별지15",
+            "target_article_title": "항만견학 신청서/허가서",
+            "appendix_no": "15",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105671",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0017",
+            "reference_id": "admrul:평택당진항출입절차예규#BJ0015"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제4항",
+            "link_text": "별지 제16호서식",
+            "line_text": "",
+            "target_law_name": "평택·당진항 출입절차 예규",
+            "target_article_no": "별지16",
+            "target_article_title": "항만촬영 신청서/허가서",
+            "appendix_no": "16",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105677",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0017",
+            "reference_id": "admrul:평택당진항출입절차예규#BJ0016"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:평택당진항출입절차예규#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "항공촬영",
+        "chapter": "제3장 항만견학 및 항만촬영",
+        "content": "제18조(항공촬영) 청장은 항만 내에서 항공촬영(드론, 무인기 등)을 하고자 하는 자에게 별지 제17호서식의 항공촬영허가신청서와 별지 제18호서식의 항공촬영 보안조치사항을 촬영일 10일 전까지 제출하게 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제18조",
+            "source_clause": "제18조",
+            "link_text": "별지 제17호서식",
+            "line_text": "",
+            "target_law_name": "평택·당진항 출입절차 예규",
+            "target_article_no": "별지17",
+            "target_article_title": "항공촬영 허가신청서",
+            "appendix_no": "17",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105683",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0018",
+            "reference_id": "admrul:평택당진항출입절차예규#BJ0017"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제18조",
+            "source_clause": "제18조",
+            "link_text": "별지 제18호서식",
+            "line_text": "",
+            "target_law_name": "평택·당진항 출입절차 예규",
+            "target_article_no": "별지18",
+            "target_article_title": "항공촬영 보안조치사항",
+            "appendix_no": "18",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105689",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0018",
+            "reference_id": "admrul:평택당진항출입절차예규#BJ0018"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:평택당진항출입절차예규#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "준수사항",
+        "chapter": "제4장 보칙",
+        "content": "제19조(준수사항) 항만시설을 출입하는 자는 다음 각 호의 사항을 지켜야 한다.1. 출입증을 발급받는 자는 항만내에서 항상 출입증을 달아야 한다.2. 다른 사람의 출입증이나 위ㆍ변조한 출입증을 사용해서는 안 된다.3. 경비ㆍ검색업무수행자의 정당한 검문ㆍ검색에 응하여야 한다.4. 출입을 허용한 구역 외에 출입해서는 안 된다.5. 항만운송종사자 안전교육(사이버교육)을 이수하고 출입 항만시설 소유자의 안전관리에 협조하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:평택당진항출입절차예규#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "재검토기한",
+        "chapter": "제4장 보칙",
+        "content": "제20조(재검토기한) 청장은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 예규에 대하여 2024년 1월1일 기준으로 매3년이 되는 시점(매 3년째의 12월31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제20조",
+            "source_clause": "제20조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:평택당진항출입절차예규#JO0020",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:평택당진항출입절차예규#JO0020"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20231018",
+      "promulgation_no": "32",
+      "content": "부칙 <제32호, 2023. 10. 18.>제1조(시행일) 이 예규는 고시한 날부터 시행한다.제2조(다른 예규의 폐지) 이 예규의 시행과 동시에 다음 각 호의 예규는 폐지한다.1. 「평택ㆍ당진항 출입절차 등 항만통합 출입시스템 운영세칙」(평택지방해양수산청예규 제36호, 2018. 10. 2.)2. 「평택ㆍ당진항 보안ㆍ경비업무 관리지침」(평택지방해양수산청예규 제20호, 2016. 6. 2.)"
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "출입증 규격 및 기재사항",
+      "enforcement_date": "",
+      "content": "■ 평택ㆍ당진항 출입절차 예규 [별표]\n출입증 규격 및 기재사항\n(제5조제2항 관련)\n1. 출입증 규격\n┌────────┬───────┬───────┐\n│구분            │인원          │차량          │\n├──┬─────┼───────┼───────┤\n│Chip│주파수    │860MHz-960MHz │860MHz-960MHz │\n│    ├─────┼───────┼───────┤\n│    │프로토콜  │ISO18000-6C   │ISO18000-6C   │\n├──┴─────┼───────┴───────┤\n│출입증 재질     │PVC + PET                     │\n├────────┼───────────────┤\n│가로?세로?두께│85mm × 54mm × 0.9mm         │\n└────────┴───────────────┘\n2. 기재사항\n○ 인원 상시 출입증\n- 앞면 : 기관(업체)명, 사진, 성명, 발급기관 명칭\n- 뒷면 : 준수사항\n\n○ 차량 상시 출입증\n- 앞면 : 기관(업체)명, 차종, 차량번호, 발급기관 명칭\n- 뒷면 : 준수사항\n\n○ 임시 출입증(인원 및 차량)\n- 앞면 : 출입증 번호, 발급기관의 명칭\n- 뒷면 : 준수사항\n3. 준수사항\n○ 출입증은 몸 상체(차량은 앞 유리 측면)에 상시 패용(부착)한다.\n○ 출입증을 타인에게 양도하거나 대여하지 않는다.\n○ 항만 내에서는 음주?과속?과적운전을 하지 않는다.\n○ 보안 및 안전에 관한 규정을 준수하고 경비인력의 검문ㆍ검색에 적극 협조한다.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105553",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105549",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105553",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:평택당진항출입절차예규#BYL0000",
+      "filename": "별표0_출입증 규격 및 기재사항.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "항만시설 출입업체(기관) 등록신청서",
+      "enforcement_date": "",
+      "content": "■ 평택ㆍ당진항 출입절차 예규[별지 제1호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃항만시설 출입업체(기관) 등록신청서                                  ┃\n┠─────────────┬────┬───────────────┨\n┃구    분                  │변경 전 │변경 후                       ┃\n┠─────────────┼────┼───────────────┨\n┃*   업체(기관)명          │        │                              ┃\n┠─────────────┼────┼───────────────┨\n┃*   대표자 성명           │        │                              ┃\n┠─────────────┼────┼───────────────┨\n┃    업체(기관)코드        │        │                              ┃\n┠─────────────┼────┼───────────────┨\n┃*   사업자등록번호        │        │                              ┃\n┠─────────────┼────┼───────────────┨\n┃    업    종              │        │                              ┃\n┠─────────────┼────┼───────────────┨\n┃    정직원 수(명)         │        │                              ┃\n┠─────────────┼────┼───────────────┨\n┃*   사무실 주소           │        │                              ┃\n┠─────────────┼────┼───────────────┨\n┃    사무실 전화번호       │        │                              ┃\n┠─────────────┼────┼───────────────┨\n┃*   업체의 ID             │        │                              ┃\n┠───┬─────────┼────┼───────────────┨\n┃출입증│*   성    명      │        │                              ┃\n┃총괄  ├─────────┼────┼───────────────┨\n┃관리자│*   생년월일      │        │                              ┃\n┃      ├─────────┼────┼───────────────┨\n┃      │*   휴대전화번호  │        │                              ┃\n┃      ├─────────┼────┼───────────────┨\n┃      │*   사무실전화번호│        │                              ┃\n┃      ├─────────┼────┼───────────────┨\n┃      │    팩스번호      │        │                              ┃\n┃      ├─────────┼────┼───────────────┨\n┃      │    E-mail        │        │                              ┃\n┠───┴─────────┴────┴───────────────┨\n┃   * 표시는 필수항목으로 반드시 입력하여야 합니다.                  ┃\n┃                                                                    ┃\n┃                                              20  .    .   .        ┃\n┃                                                                    ┃\n┃                           대 표 자 :                   (인)        ┃\n┃                                                                    ┃\n┃첨부  1. 대표자 확인서 1부                                          ┃\n┃      2. 업체(기관)의 사업자등록증(사본) 1부                        ┃\n┃      3. 항만출입관리시스템 관리자 증빙서류(4대사회보험 가입증명서 등) 1부┃\n┃                                                                    ┃\n┃평택지방해양수산청장  귀하                                          ┃\n┃                                                                    ┃\n┠──────────────────────────────────┨\n┃※ 업체ID는 희망 ID를 영문 또는 숫자를 혼용하여 6자리 이상으로 제출 ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105559",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105555",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105559",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:평택당진항출입절차예규#BJ0001",
+      "filename": "별지1_항만시설 출입업체(기관) 등록신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "대표자 확인서",
+      "enforcement_date": "",
+      "content": "■ 평택ㆍ당진항 출입절차 예규[별지 제2호서식]\n대표자 확인서\n업체(기관)명 :\n주        소 :\n성        명 :\n\n위 본인은 소속 직원 및 차량이 항만시설의 출입과정 또는 출입증 관리에 있어 발생되는 보안상의 문제를 출입증 신청자와 연대하여 책임질 것을 확인합니다.\n20   .     .     .\n대표자  :              (인)\n평택지방해양수산청장 귀하",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105565",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105561",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105565",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:평택당진항출입절차예규#BJ0002",
+      "filename": "별지2_대표자 확인서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "상시 출입증(인원, 차량) 발급 신청서",
+      "enforcement_date": "",
+      "content": "■ 평택ㆍ당진항 출입절차 예규[별지 제3호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                                                ┃\n┃상시 출입증(인원, 차량) 발급 신청서                                             ┃\n┃                                                                                ┃\n┃  「평택?당진항 출입절차 예규」제7조2항에 따라 다음과 같이 항만시설에          ┃\n┃상시 출입할 수 있도록 출입증 발급을 신청하오니 발급하여 주시기 바               ┃\n┃랍니다.                                                                         ┃\n┃                                                                                ┃\n┃1. 인원                                                                         ┃\n┃  ┌──────┬───────┬────┬────┬────┬────┐      ┃\n┃  │소속        │직위(직급)    │성명    │생년월일│출입지역│출입목적│      ┃\n┃  ├──────┼───────┼────┼────┼────┼────┤      ┃\n┃  │            │              │        │        │        │        │      ┃\n┃  ├──────┼───────┼────┼────┴────┴────┤      ┃\n┃  │휴대전화번호│사무실전화번호│팩스번호│E-mail                      │      ┃\n┃  ├──────┼───────┼────┼──────────────┤      ┃\n┃  │            │              │        │                            │      ┃\n┃  └──────┴───────┴────┴──────────────┘      ┃\n┃                                                                                ┃\n┃2. 차량                                                                         ┃\n┃┌────────┬───────┬────────┬─────────┐      ┃\n┃│차  종          │차량번호      │소유자 성명     │출입지역          │      ┃\n┃├────────┼───────┼────────┼─────────┤      ┃\n┃│                │              │                │                  │      ┃\n┃├────────┴┬──────┴────┬───┴─────────┤      ┃\n┃│출입목적          │운전자 성명           │소유 구분                 │      ┃\n┃├─────────┼───────────┼─────────────┤      ┃\n┃│                  │                      │                          │      ┃\n┃└─────────┴───────────┴─────────────┘      ┃\n┃                                                                                ┃\n┃                                              20  .   .   .                     ┃\n┃                            업 체 명 :                                          ┃\n┃                            업체주소 :                                          ┃\n┃                            대 표 자 :                    (인)                  ┃\n┃                                                                                ┃\n┃첨부  1. 사진(최근 6개월 내에 촬영한 상반신 반명함판 또는 여권용) 1매           ┃\n┃      2. 출입 신청자 본인 서약서 1부                                            ┃\n┃      3. 출입 신청자 증빙서류(4대사회보험 가입증명서 등) 1부                    ┃\n┃      4. 차량등록증(사본) 1부(차량에 한함)                                      ┃\n┃      5. 차량리스 계약서(사본) 1부(차량을 리스 한 경우에 한함)                  ┃\n┃      6. 개인정보 수집ㆍ이용 및 제3자 제공 동의서 1부                           ┃\n┃      7. 위?수탁 화물수송 증명서 1부(위?수탁 관계의 인원 및 차량에 한함)      ┃\n┃      8. 신원진술서(약식), 기본증명서(상세) 등 1부                              ┃\n┃                                                                                ┃\n┃평택지방해양수산청장  귀하                                                      ┃\n┠────────────────────────────────────────┨\n┃※ 소유구분은 회사소유, 회사리스, 개인소유, 개인리스 중에서 선택합니다.(그 외 신┃\n┃청불가)                                                                         ┃\n┃※ 사진은 6개월 이내 촬영한 상반신정면(귀가 보여야 함)의 무배경 사진으로        ┃\n┃색안경과 모자 착용 금지                                                         ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105571",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105567",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105571",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:평택당진항출입절차예규#BJ0003",
+      "filename": "별지3_상시 출입증(인원, 차량) 발급 신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "01",
+      "kind": "별지",
+      "title": "본인서약서",
+      "enforcement_date": "",
+      "content": "■ 평택ㆍ당진항 출입절차 예규[별지 제3-1호서식]\n본  인   서  약  서\n업체(기관) 명 :    성    명 :\n본인 주소 :    생년월일 :\n차량번호 :                     차    종 :\n상기 본인은 항만시설 출입 시 아래사항을 준수할 것을 서약합니다.\n1. 출입증은 상의 좌측(차량은 앞 유리 정면)에 상시 패용(부착)한다.\n2. 출입증을 타인에게 양도하거나 대여하지 않는다.\n3. 출입증을 분실하였을 때는 즉시 신고하고 3일 이내에 분실 경위서 및 업체(단체) 대표의 확인서를 제출한다.\n4. 출입증을 신분 대행 또는 다른 목적으로 사용하지 않는다.\n5. 전출ㆍ퇴직 등의 사유로 출입증이 불필요하게 된 경우에는 출입증을 반드시 반납한다.\n6. 항만시설에서는 음주ㆍ과속ㆍ과적운전을 하지 않는다.\n7. 보안 및 안전에 관한 제 규정을 준수하고 청원경찰의 검문 및 검색 시 적극 협조한다.\n상기 본인은 항만이 국가의 중요시설이라는 것을 명심하고, 보안의식을 항상 가질 것이며, 항만시설 출입으로 인해 발생하는 제반 사고에 대하여 관련 법령 및 규정에 따라 처벌받을 것을 서약합니다.\n.      .     .\n서약자 :               (인)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105577",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105573",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105577",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:평택당진항출입절차예규#BJ0003_01",
+      "filename": "별지3의1_본인서약서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "02",
+      "kind": "별지",
+      "title": "개인정보 수집·이용 및 제3자 제공 동의서",
+      "enforcement_date": "",
+      "content": "■ 평택ㆍ당진항 출입절차 예규[별지 제3-2호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                                              ┃\n┃개인정보 수집ㆍ이용 및 제3자 제공 동의서                                      ┃\n┃                                                                              ┃\n┃  본인은 다음과 같이 본인의 개인정보를 수집ㆍ이용하고 본 동의서에서 정하      ┃\n┃는 경우에 한하여 제3자에게 제공하는 것을 동의합니다.                          ┃\n┃                                                                              ┃\n┃가. (개인정보 수집ㆍ이용자) 평택지방해양수산청장                              ┃\n┃                                                                              ┃\n┃나. (개인정보의 수집ㆍ이용 목적) 상시 출입증 발급 신청을 위한 항만시설        ┃\n┃출입업체 및 출입증 총괄 관리자 등록과 상시 출입증 소유자 신분 및              ┃\n┃차량 정보 확인                                                                ┃\n┃                                                                              ┃\n┃다. 개인정보의 수집ㆍ이용 항목                                                ┃\n┃                                                                              ┃\n┃  ① 상시 출입증(인원, 차량) 발급 신청 시                                     ┃\n┃   ㅇ 필수 항목                                                               ┃\n┃    - 출입인원 : 소속, 성명, 생년월일, 휴대전화번호, 출입지역, 출입목적       ┃\n┃    - 출입차량 : 차량번호, 차종, 소유주명, 운전자성명, 출입지역, 출입목적     ┃\n┃   ㅇ 선택 항목 : 직위(직급), 전화번호, 이메일, 주소                          ┃\n┃                                                                              ┃\n┃라. (개인정보의 보유 및 이용기간) 관리자 해지(출입증 반납) 후 3년간. 다만, 관 ┃\n┃계 법령 위반에 따른 수사 등이 진행 중인 경우는 해당 수사 종료 시까지          ┃\n┃                                                                              ┃\n┃마. (개인정보 제3자 제공의 경우) ① 항만시설의 경비 및 보안강화, 밀수ㆍ밀     ┃\n┃입국 예방, 물류유통 촉진을 위해 해양수산부장관이 필요하다고 인정하는          ┃\n┃경우 국가기관 및 공공기관에 제공 ② 출입신청한 항만시설의 출입증 발급         ┃\n┃을 위해 당해 항만시설소유자에게 제공                                          ┃\n┃┌───────────────────────────────────┐    ┃\n┃│항만출입관리시스템의 개인정보 수집 및 이용에 동의하십니까?            │    ┃\n┃│- 필수항목 : □ 동의함  □ 동의하지 않음                              │    ┃\n┃│- 선택항목 : □ 동의함  □ 동의하지 않음                              │    ┃\n┃│ * 신청인은 개인정보 수집ㆍ이용 및 제3자 제공에 대해 동의를 거부할 수 │    ┃\n┃│있으며, 필수항목의 수집에 동의하지 않을 경우 항만출입관리시스템을     │    ┃\n┃│통한 항만출입신청이 불가합니다.                                       │    ┃\n┃└───────────────────────────────────┘    ┃\n┃     20   년    월    일                                                      ┃\n┃                              신청인 :               서명 또는 (인)           ┃\n┃                                                                              ┃\n┃                                                                              ┃\n┃평택지방해양수산청장 귀하                                                     ┃\n┃                                                                              ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105583",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105579",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105583",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:평택당진항출입절차예규#BJ0003_02",
+      "filename": "별지3의2_개인정보 수집·이용 및 제3자 제공 동의서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "03",
+      "kind": "별지",
+      "title": "위수탁 화물수송 증명서(인원·차량)",
+      "enforcement_date": "",
+      "content": "■ 평택ㆍ당진항 출입 예규[별지 제3-3호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                                            ┃\n┃위수탁 화물수송 증명서(인원ㆍ차량)                                          ┃\n┃                                                                            ┃\n┃1. 인원                                                                     ┃\n┃  ┌─────┬────┬───────────┐                          ┃\n┃  │성  명    │생년월일│출입 항만시설         │                          ┃\n┃  ├─────┼────┼───────────┤                          ┃\n┃  │          │        │                      │                          ┃\n┃  ├─────┼────┼───────────┤                          ┃\n┃  │          │        │                      │                          ┃\n┃  ├─────┼────┼───────────┤                          ┃\n┃  │          │        │                      │                          ┃\n┃  ├─────┼────┼───────────┤                          ┃\n┃  │          │        │                      │                          ┃\n┃  ├─────┼────┼───────────┤                          ┃\n┃  │          │        │                      │                          ┃\n┃  └─────┴────┴───────────┘                          ┃\n┃                                                                            ┃\n┃2. 차량                                                                     ┃\n┃┌──────┬────┬───┬───────┐                          ┃\n┃│소유자 성명 │차량번호│차  종│출입 항만시설 │                          ┃\n┃├──────┼────┼───┼───────┤                          ┃\n┃│            │        │      │              │                          ┃\n┃├──────┼────┼───┼───────┤                          ┃\n┃│            │        │      │              │                          ┃\n┃├──────┼────┼───┼───────┤                          ┃\n┃│            │        │      │              │                          ┃\n┃├──────┼────┼───┼───────┤                          ┃\n┃│            │        │      │              │                          ┃\n┃├──────┼────┼───┼───────┤                          ┃\n┃│            │        │      │              │                          ┃\n┃└──────┴────┴───┴───────┘                          ┃\n┃                                                                            ┃\n┃ 상기 내용은 당사와 위?수탁 계약관계에 있는 인원 및 차량으로서 당사의 위? ┃\n┃수탁업무수행을 위해 항만시설 출입이 필요함을 증명합니다.                    ┃\n┃                                                                            ┃\n┃                                       20  .    .   .                       ┃\n┃                      업 체 명 :                                            ┃\n┃                      업체주소 :                                            ┃\n┃                      대 표 자 :                    (인)                    ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105589",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105585",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105589",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:평택당진항출입절차예규#BJ0003_03",
+      "filename": "별지3의3_위수탁 화물수송 증명서(인원·차량).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "신원진술서(약식)",
+      "enforcement_date": "",
+      "content": "■ 평택ㆍ당진항 출입절차 예규[별지 제4호서식]\n\n신 원 진 술 서(약식)\n(앞쪽)\n┏━━━━┯━━━━━━━┯━━┯━━━━━━┯━━━━━┯━━━┯━━━━━━━━┓\n┃성 명   │              │한자│            │주민등록  │      │【사진 】       ┃\n┃        │              │    │            │번     호 │      │사진파일 가능   ┃\n┠────┼───────┴──┴──────┴─────┴───┤(3cm×4cm)ㆍ    ┃\n┃등록    │                                                      │(3.5cm×4.5cm)  ┃\n┃기준지  │                                                      │                ┃\n┠────┼───────────────────────────┤                ┃\n┃주소    │                                                      │                ┃\n┠────┼───────────────────────────┤                ┃\n┃실거주지│                                                      │                ┃\n┠────┼────────────────────────┬─┬┴────────┨\n┃직 장   │직장명 :                                        │연│직장전화 :        ┃\n┃        │소재지 :                                        │  │휴 대 폰 :        ┃\n┃        │                                                │락│E-mail :          ┃\n┃        │                                                │  │                  ┃\n┃        │                                                │처│                  ┃\n┠───┬┴───────┬─────────┬──────┴─┼───┬─────┨\n┃학력  │학 교 명        │기 간             │전 공 학 과     │학 위 │소 재 지  ┃\n┃      ├────────┼─────────┼────────┼───┼─────┨\n┃      │                │.   .   ∼   .   .│                │      │          ┃\n┃      ├────────┼─────────┼────────┼───┼─────┨\n┃      │                │.   .   ∼   .   .│                │      │          ┃\n┃      ├────────┼─────────┼────────┼───┼─────┨\n┃      │                │.   .   ∼   .   .│                │      │          ┃\n┠───┼────────┼─────────┼────────┼───┴─────┨\n┃경력  │기관ㆍ업체 및   │기 간             │직 책(직급)     │상 벌 관 계(일자) ┃\n┃      │정당ㆍ사회단체명│                  │                │                  ┃\n┃      ├────────┼─────────┼────────┼─────────┨\n┃      │                │.   .   ∼   .   .│                │                  ┃\n┃      ├────────┼─────────┼────────┼─────────┨\n┃      │                │.   .   ∼   .   .│                │                  ┃\n┃      ├────────┼─────────┼────────┼─────────┨\n┃      │                │.   .   ∼   .   .│                │                  ┃\n┠───┼────────┼─────────┼────────┼─────────┨\n┃해외  │거주 국가       │기 간             │거주 목적       │동반 가족         ┃\n┃거주  ├────────┼─────────┼────────┼─────────┨\n┃사실  │                │.   .   ∼   .   .│                │                  ┃\n┃      ├────────┼─────────┼────────┼─────────┨\n┃      │                │.   .   ∼   .   .│                │                  ┃\n┠───┼───┬────┴────┬────┼────────┼─────────┨\n┃병역  │군 별 │기 간             │병 과   │최종 계급       │미 필 사 유       ┃\n┃      ├───┼─────────┼────┼────────┼─────────┨\n┃      │      │.   .   ∼   .   .│        │                │                  ┃\n┠───┼───┼───────┬─┴────┼──────┬─┴───┬─────┨\n┃배우자│관 계 │성 명         │생년월일    │관 계       │성 명     │생년월일  ┃\n┃부모  ├───┼───────┼──────┼──────┼─────┼─────┨\n┃자녀  │배우자│              │            │子女        │          │          ┃\n┃      ├───┼───────┼──────┼──────┼─────┼─────┨\n┃      │父    │              │            │子女        │          │          ┃\n┃      ├───┼───────┼──────┼──────┼─────┼─────┨\n┃      │母    │              │            │子女        │          │          ┃\n┠───┴───┴───────┴──────┴──────┴─────┴─────┨\n┃위 내용은 사실과 다름이 없으며, 기재사항을 누락하거나 허위로 기재할 경            ┃\n┃우 관계 법령에 따라 불이익을 받을 수 있다는 사실을 고지 받았음을 확인             ┃\n┃합니다.                                                                           ┃\n┃년          월          일                                                        ┃\n┃작 성 자     성명                        인(서명 또는 날인)                       ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210mm×297mm [백상지(80/㎡) 또는 중질지(80/㎡)]\n\n\n(뒤쪽)\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃개인정보 수집 및 이용 동의서                                                                                      ┃\n┠─────────────────────────────────────────────────────────┨\n┃ 국가정보원, 국방부 및 경찰청은 「보안업무규정」 제46조(고유식별정보의 처리) 및「개인정보 보호법」 제15조(개인    ┃\n┃정보의 수집ㆍ이용), 제23조(민감정보의 처리 제한), 제24조(고유식별정보의 처리 제한) 및 제24조의2(주민등록번호 처   ┃\n┃리의 제한)에 따라 신원조사 업무의 수행에 필요한 개인정보, 민감정보 및 고유식별정보를 수집ㆍ이용합니다.            ┃\n┠─────────────────────────────────────────────────────────┨\n┃ ■ 개인정보 수집ㆍ이용 내역                                                                                      ┃\n┃ ┌─────┬────────────────────────────────────────────────┐ ┃\n┃ │항목      │성명(한자 포함), 사진, 주민등록번호, 등록기준지, 주소, 실거주지, 직장(직장명, 소재지 포함), 연락│ ┃\n┃ │          │처(직장전화, 휴대폰, E-mail 포함), 학력(학교명 등 포함), 경력(기관 또는 업체명 등 포함), 해외거 │ ┃\n┃ │          │주사실(거주목적, 동반가족 등 포함), 병역사항, 가족관계(배우자, 부모, 자녀 포함)                 │ ┃\n┃ ├─────┼────────────────────────────────────────────────┤ ┃\n┃ │수집ㆍ이용│신원조사 및 사실관계의 확인                                                                     │ ┃\n┃ │목적      │                                                                                                │ ┃\n┃ ├─────┼────────────────────────────────────────────────┤ ┃\n┃ │보유ㆍ이용│2년                                                                                             │ ┃\n┃ │기간      │                                                                                                │ ┃\n┃ └─────┴────────────────────────────────────────────────┘ ┃\n┃  ※ 위 내용은 신원조사 업무 수행을 위해 필요한 최소한의 필수 정보에 해당하며 그 내용에 관하여 개인정보           ┃\n┃수집ㆍ이용 동의를 거부할 권리가 있습니다. 그러나 동의를 거부하는 경우에는 「보안업무규정」에 따른 신              ┃\n┃원조사를 실시할 수 없어 임용(채용)ㆍ비밀취급인가 등에 제한을 받을 수 있음을 알려 드립니다.                        ┃\n┃                                                                                                                  ┃\n┃   ☞ 위와 같이 개인정보를 수집ㆍ이용하는데 동의하십니까?          동의함 [  ]        동의하지 않음 [  ]          ┃\n┠─────────────────────────────────────────────────────────┨\n┃ ■ 민감정보 처리 안내                                                                                            ┃\n┃ ┌─────┬──────────────┐                                                                     ┃\n┃ │항목      │정당ㆍ사회단체 경력         │                                                                     ┃\n┃ ├─────┼──────────────┤                                                                     ┃\n┃ │수집ㆍ이용│신원조사 및 사실관계의 확인 │                                                                     ┃\n┃ │목적      │                            │                                                                     ┃\n┃ ├─────┼──────────────┤                                                                     ┃\n┃ │보유ㆍ이용│2년                         │                                                                     ┃\n┃ │기간      │                            │                                                                     ┃\n┃ └─────┴──────────────┘                                                                     ┃\n┃  ※ 위 내용은 신원조사 업무 수행을 위해 필요한 최소한의 필수 정보에 해당하며 그 내용에 관하여 민감정보           ┃\n┃처리 동의를 거부할 권리가 있습니다. 그러나 동의를 거부하는 경우에는 「보안업무규정」에 따른 신원조사              ┃\n┃를 실시할 수 없어 임용(채용)ㆍ비밀취급인가 등에 제한을 받을 수 있음을 알려 드립니다.                              ┃\n┃                                                                                                                  ┃\n┃   ☞ 위와 같이 민감정보를 처리하는데 동의하십니까?          동의함 [  ]        동의하지 않음 [  ]                ┃\n┠─────────────────────────────────────────────────────────┨\n┃ ■ 고유식별정보 처리 안내                                                                                        ┃\n┃ ┌─────┬──────────────┐                                                                     ┃\n┃ │항목      │주민등록번호                │                                                                     ┃\n┃ ├─────┼──────────────┤                                                                     ┃\n┃ │수집ㆍ이용│신원조사 및 사실관계의 확인 │                                                                     ┃\n┃ │목적      │                            │                                                                     ┃\n┃ ├─────┼──────────────┤                                                                     ┃\n┃ │보유ㆍ이용│2년                         │                                                                     ┃\n┃ │기간      │                            │                                                                     ┃\n┃ └─────┴──────────────┘                                                                     ┃\n┃  ※ 「개인정보 보호법」 제24조의2제1항제1호 및 「보안업무규정」 제46조에 따라 별도의 동의는 필요하지 않          ┃\n┃습니다.                                                                                                           ┃\n┃      ☞ 위와 같이 고유식별정보를 처리하는 것을 확인했습니다.  [  ]                                               ┃\n┠─────────────────────────────────────────────────────────┨\n┃ 「개인정보 보호법」에 따라 개인정보처리자가 준수해야 할 개인정보보호 규정을 준수하고 있으며, 관련 법령에 따라    ┃\n┃대상자의 권익을 보호하고 허가된 이용 목적 외에는 사용하지 않겠습니다.                                             ┃\n┃                                                                            20   년     월     일                 ┃\n┃  신청인(대리인):                            (서명 또는 인)                                                       ┃\n┃  (필요시) 법정대리인:                       (서명 또는 인)         연락처:                                       ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n210mm×297mm [백상지(80/㎡) 또는 중질지(80/㎡)]\n\n개인정보 제공 동의서(약식)\n■ 본인은 신원조사기관이 본인에 대한 신원조사를 실시할 필요가 있다는 것과 개인정보(범죄경력 등 민감정보 포함. 이하 동일) 수집 목적 등 아래 유의사항을 이해하였으며, 이를 위해 「개인정보보호법」 등에 의해 보호되고 있는 본인의 개인정보를 동법 제15조(개인정보의 수집ㆍ이용) 및 제17조(개인정보의 제공)의 규정 등에 따라 신원조사기관에 제공하는데 동의합니다.\n■ 이에 따라, 개인정보 보유기관장은 원활한 신원조사를 위해 본인에 관한 개인정보를 해당 신원조사기관에게 제공하여 줄 것을 요청합니다.\n■ 본인이 서명한 동의서 복사본은 원본과 동일하게 유효하다는 것을 인정합니다.\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃유의사항 (개인정보 수집 목적ㆍ관리방법, 정보제공 동의 거부 가능 고지)                 ┃\n┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃ ? 수집된 개인정보자료ㆍ개인정보 제공 동의서는 신원조사 목적으로만 사용되고,         ┃\n┃「공공기록물관리에관한법률」에 따라 관리ㆍ폐기되며 수집하려는 개인정보의 항목은       ┃\n┃아래와 같습니다.                                                                      ┃\n┃ ? 개인의 자유로운 의사에 따라 정보 제공동의를 거부할 수 있습니다. 다만, 이 경우 신원┃\n┃조사를 원활히 진행할 수 없음을 알려드립니다.                                          ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n년    월    일\n성명            (서명)\n┏━━━┯━━━━┯━━━━━━━━━━━━━━━━━━━━━┓\n┃성  명│생년월일│서  명                                    ┃\n┃      │        ├──────────┬──────────┨\n┃      │        │개인정보 제공 동의  │민감정보 제공 동의  ┃\n┣━━━┿━━━━┿━━━━━━━━━━┿━━━━━━━━━━┫\n┃      │        │자필 서명           │자필 서명           ┃\n┖───┴────┴──────────┴──────────┚\n■ 본인동의\n※ 신원조사를 위해 수집되는 정보자료 항목\n┏━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━┓\n┃개인정보                  │민감정보                                  ┃\n┣━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━┫\n┃ ? 주민 조회자료(경찰청) │ ? 범죄경력ㆍ수사ㆍ수배 조회자료(경찰청) ┃\n┗━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━┛\n개인정보 보유기관장 귀하",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105599",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105591",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105599",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:평택당진항출입절차예규#BJ0004",
+      "filename": "별지4_신원진술서(약식).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별지",
+      "title": "PERSONAL QUESTIONNAIRE",
+      "enforcement_date": "",
+      "content": "■ 평택ㆍ당진항 출입절차 예규[별지 제5호서식]\n\n(1st page)\n\n\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━┓\n┃PERSONAL QUESTIONNAIRE                                    │[PHOTO]               ┃\n┃* FOR OFFICIAL USE ONLY                                   │or photo file         ┃\n┠──────────┬────────────┬───┬─┤(3㎝×4㎝)ㆍ          ┃\n┃NAME                │Last/First/Middle       │GENDER│  │(3.5㎝×4.5㎝)        ┃\n┃                    │                        │      │  │                      ┃\n┠──────────┼────────────┴───┴─┤                      ┃\n┃DATE OF             │Month/Day/Year                      │                      ┃\n┃BIRTH               │                                    │                      ┃\n┠──────────┼────┬────────┬────┴───────────┨\n┃NATIONALITY         │        │PLACE OF        │City/Country                    ┃\n┃(Include any dual   │        │BIRTH           │                                ┃\n┃nationality)        │        │                │                                ┃\n┠──────────┼────┼────────┼────────────────┨\n┃ALIEN               │        │DATE &          │Month/Day/Year     City/Country ┃\n┃REGISTRATION        │        │PLACE OF        │                                ┃\n┃NUMBER              │        │ENTRY TO        │                                ┃\n┃                    │        │KOREA           │                                ┃\n┃                    │        │                │                                ┃\n┠──────────┼────┴────────┴────────────────┨\n┃RESIDENTIAL         │                                                            ┃\n┃ADDRESS             │                                                            ┃\n┃IN KOREA            │                                                            ┃\n┠──────────┼─────┬───────────┬────────────┨\n┃WORKPLACE           │          │JOB/TITLE             │                        ┃\n┠──────────┼─────┴───────────┴────────────┨\n┃TELEPHONE           │ OFFICE :                     MOBILE :                      ┃\n┃NUMBERS             │                                                            ┃\n┃(Include Area Code) │                                                            ┃\n┠──────────┼───┬───────┬───┬───┬──────────┨\n┃EDUCATION           │SCHOOL│PERIOD        │TYPE  │MAJOR │LOCATION            ┃\n┃                    │NAME  │(MM/YY-MM/YY) │OF    │      │(City/Country)      ┃\n┃                    │      │              │DEGREE│      │                    ┃\n┃                    ├───┼───────┼───┼───┼──────────┨\n┃                    │      │              │      │      │                    ┃\n┃                    ├───┼───────┼───┼───┼──────────┨\n┃                    │      │              │      │      │                    ┃\n┃                    ├───┼───────┼───┼───┼──────────┨\n┃                    │      │              │      │      │                    ┃\n┃                    ├───┼───────┼───┼───┼──────────┨\n┃                    │      │              │      │      │                    ┃\n┃                    ├───┼───────┼───┼───┼──────────┨\n┃                    │      │              │      │      │                    ┃\n┗━━━━━━━━━━┷━━━┷━━━━━━━┷━━━┷━━━┷━━━━━━━━━━┛\n210mm×297mm [백상지(80/㎡) 또는 중질지(80/㎡)]\n\n\n(2nd page)\n┏━━━━━━━━┯━━━━━━━┯━━━━━━━━━━━━━━┯━━━━━┯━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃EMPLOYMENT      │EMPLOYER/     │PERIOD                      │JOB TITLE/│LOCATION      │REWARD &                                        ┃\n┃HISTORY         │VERIFIER NAME │(MM/YY-MM/YY)               │POSITION  │(City/Country)│PUNISHMENT                                      ┃\n┃&               │              │                            │          │              │(MM/YY)                                         ┃\n┃PARTICIPATION   ├───────┼──────────────┼─────┼───────┼────────────────────────┨\n┃IN              │              │                            │          │              │                                                ┃\n┃CIVIC/POLITICAL ├───────┼──────────────┼─────┼───────┼────────────────────────┨\n┃ASSOCIATION     │              │                            │          │              │                                                ┃\n┃                ├───────┼──────────────┼─────┼───────┼────────────────────────┨\n┃                │              │                            │          │              │                                                ┃\n┃                ├───────┼──────────────┼─────┼───────┼────────────────────────┨\n┃                │              │                            │          │              │                                                ┃\n┠────────┼────┬──┴──────┬───────┼─────┼───────┼────────────────────────┨\n┃FAMILY          │RELATION│NAME              │DATE OF BIRTH │FINAL     │CAREER        │ADDRESS                                         ┃\n┃INFORMATION     │        │Last/First/Middle │              │ACADEMIC  │              │                                                ┃\n┃                │        │                  │              │DEGREE    │              │                                                ┃\n┃                ├────┼─────────┼───────┼─────┼───────┼────────────────────────┨\n┃                │        │                  │              │          │              │                                                ┃\n┃                ├────┼─────────┼───────┼─────┼───────┼────────────────────────┨\n┃                │        │                  │              │          │              │                                                ┃\n┃                ├────┼─────────┼───────┼─────┼───────┼────────────────────────┨\n┃                │        │                  │              │          │              │                                                ┃\n┃                ├────┼─────────┼───────┼─────┼───────┼────────────────────────┨\n┃                │        │                  │              │          │              │                                                ┃\n┠────────┼────┴┬────────┴┬──────┴┬────┴┬──────┴────────────────────────┨\n┃RELATIVES       │RELATION  │NAME              │CAREER        │JOB TITLE/│TELEPHONE                                                     ┃\n┃&               │          │Last/First/Middle │              │POSITION  │NUMBER                                                        ┃\n┃ASSOCIATES      ├─────┼─────────┼───────┼─────┼───────────────────────────────┨\n┃IN KOREA        │          │                  │              │          │                                                              ┃\n┃                ├─────┼─────────┼───────┼─────┼───────────────────────────────┨\n┃                │          │                  │              │          │                                                              ┃\n┃                ├─────┼─────────┼───────┼─────┼───────────────────────────────┨\n┃                │          │                  │              │          │                                                              ┃\n┠────────┴─────┴─────────┴───────┴─────┴───────────────────────────────┨\n┃I declare that statements made in this form are true and correct, and agree if false information is knowingly or willingly provided on this ┃\n┃form, I can be penalized in accordance with the relevant statute.                                                                           ┃\n┃                                                                                                                                            ┃\n┃                                                     DATE :                                                                                 ┃\n┃                                                     SIGNATURE :                                                                            ┃\n┃                                                                                                                                            ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210mm×297mm [백상지(80/㎡) 또는 중질지(80/㎡)]\n\n\n(3rd page)\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃Consent to the Collection and Use of Personal Information                                                                                   ┃\n┠──────────────────────────────────────────────────────────────────────┨\n┃ The National Intelligence Service, Ministry of National Defense, and National Police Agency intend to collect and use                      ┃\n┃personal information, sensitive information, and personally identifiable information of the applicant for the conduction of                 ┃\n┃background check pursuant to Article 46 (Processing of Personally Identifiable Information) of the \"Regulations on Security                 ┃\n┃Work,\" and Article 15 (Collection and Use of Personal Information), Article 23 (Limitation to Processing of Sensitive                       ┃\n┃Information), and Article 24 (Limitation to Processing of Personally Identifiable Information) of the \"Personal Information                 ┃\n┃Protection Act.\"                                                                                                                            ┃\n┠──────────────────────────────────────────────────────────────────────┨\n┃ ■ Collection and use of personal information                                                                                              ┃\n┃ ┌───────┬───────────────────────────────────────────────────────────┐ ┃\n┃ │Items         │Name, gender, photo, nationality, place of birth, alien registration number, date & place of entry to                 │ ┃\n┃ │              │korea, residential address in korea, workplace, job/title, telephone numbers(including office, mobile),               │ ┃\n┃ │              │education(including school name, period, type of degree, major, location), employment history &                       │ ┃\n┃ │              │participation in civic/political association(including employer/verifier name, period, job title/position, location,  │ ┃\n┃ │              │reward&punishment), family information(including relation, name, date of birth, final academic degree, career,        │ ┃\n┃ │              │address), relatives & associates in korea(including relation, name, career, job title/position, telephone number)     │ ┃\n┃ ├───────┼───────────────────────────────────────────────────────────┤ ┃\n┃ │Purpose of    │Background check and verification                                                                                     │ ┃\n┃ │collection/use│                                                                                                                      │ ┃\n┃ ├───────┼───────────────────────────────────────────────────────────┤ ┃\n┃ │Retention/    │2 years                                                                                                               │ ┃\n┃ │use period    │                                                                                                                      │ ┃\n┃ └───────┴───────────────────────────────────────────────────────────┘ ┃\n┃  ※ The above is the minimum information required to carry out background check and the applicant has the right to                         ┃\n┃refuse the collection and use of personal information. However, in case of refusal, there may be restrictions in                            ┃\n┃appointment (employment) and security clearance, as background check cannot be carried out pursuant to \"Regulations                         ┃\n┃on Security Work.\"                                                                                                                          ┃\n┃   ☞ I agree to the collection and use of personal information as described above.   I agree [  ]    I do not agree [  ]                   ┃\n┠──────────────────────────────────────────────────────────────────────┨\n┃ ■ Processing of sensitive information                                                                                                     ┃\n┃ ┌───────┬──────────────────────┐                                                                           ┃\n┃ │Items         │Participation in civic/political association│                                                                           ┃\n┃ ├───────┼──────────────────────┤                                                                           ┃\n┃ │Purpose of    │Background check and verification           │                                                                           ┃\n┃ │collection/use│                                            │                                                                           ┃\n┃ ├───────┼──────────────────────┤                                                                           ┃\n┃ │Retention/    │2 years                                     │                                                                           ┃\n┃ │use period    │                                            │                                                                           ┃\n┃ └───────┴──────────────────────┘                                                                           ┃\n┃  ※ The above is the minimum information required to carry out background check and the applicant has the right to                         ┃\n┃refuse the processing of sensitive information. However, in case of refusal, there may be restrictions in appointment                       ┃\n┃(employment) and security clearance, as background check cannot be carried out pursuant to \"Regulations on Security                         ┃\n┃Work.\"                                                                                                                                      ┃\n┃    ☞ I agree to the processing of sensitive information as described above.          I agree [  ]    I do not agree [  ]                  ┃\n┠──────────────────────────────────────────────────────────────────────┨\n┃ ■ Processing of personally identifiable information                                                                                       ┃\n┃ ┌───────┬─────────────────┐                                                                                     ┃\n┃ │Items         │Alien registration number         │                                                                                     ┃\n┃ ├───────┼─────────────────┤                                                                                     ┃\n┃ │Purpose of    │Background check and verification │                                                                                     ┃\n┃ │collection/use│                                  │                                                                                     ┃\n┃ ├───────┼─────────────────┤                                                                                     ┃\n┃ │Retention/    │2 years                           │                                                                                     ┃\n┃ │use period    │                                  │                                                                                     ┃\n┃ └───────┴─────────────────┘                                                                                     ┃\n┃  ※ A separate consent is not required under subparagraph 1 of Article 24-2 (1) of the \"Personal Information Protection                    ┃\n┃Act\"     and Article 46 of the \"Regulations on Security Work.\"                                                                              ┃\n┃    ☞ I have read and understood that personally identifiable information will be processed as described above. [  ]                       ┃\n┠──────────────────────────────────────────────────────────────────────┨\n┃ We comply with personal information protection regulations that personal information processors are required to follow under               ┃\n┃the \"Personal Information Protection Act.\" We will protect the rights of the information provider in accordance with relevant               ┃\n┃laws, and the collected information will not be used for purposes other than reasons agreed to by the information                           ┃\n┃provider.                                                                                                                                   ┃\n┃                                                                                                                                            ┃\n┃                                                                                         mm dd, yyyy                                        ┃\n┃  Applicant (representative):                  (seal or signature)                                                                          ┃\n┃  Legal representative (if needed):             (seal or signature)        Contact information:                                             ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210mm×297mm [백상지(80/㎡) 또는 중질지(80/㎡)]\n\n\nConsent to Provision of Personal Information\n■ I hereby agree that in the case of being employed as a government employee, where an institution needs to conduct a background check, I confirm that I have read and understood the notes specified below regarding the purpose of collecting personal information, etc. (including sensitive information such as crime history, etc.). I agree that I will provide my personal information, which is protected in accordance with the Personal Information Protection Act, etc., to the institution that performs background checks as per Article 15 of said Act (Collection and Use of Personal Information).\n■ I herewith request the heads of institutions that hold my personal information to provide my personal information to the institution performing the background check.\n■ I hereby confirm that a photocopy of this consent letter signed by myself (including family members) has equal validity to the original thereof.\n┌───────────────────────────────────────────────────────┐\n│Notes (to inform you that you may reject the provision and collection of personal information, and            │\n│method of managing and the provision of personal information)                                                 │\n├───────────────────────────────────────────────────────┤\n│? Consent regarding the collection and provision of personal information shall only be used for the purpose  │\n│of background checks, and collected information shall be managed and disposed of in accordance with the       │\n│Act on the Management of Public Archives. The scope of personal information to be collected is as             │\n│follows.                                                                                                      │\n│? You may reject the provision of information based on your intention. However, please note that in          │\n│such case, a background check cannot proceed properly.                                                        │\n└───────────────────────────────────────────────────────┘\n(Month)          / (Day)        ,  (Year)\nName                    (signature)\n■ Consent from myself and family members (I may sign on behalf of minors)\n┌───┬──┬───────┬───────────────────────────┐\n│      │Name│Date of birth │Signature                                             │\n│      │    │DD/MM/YEAR    ├──────────────┬────────────┤\n│      │    │              │Consent to the provision of │Consent to the          │\n│      │    │              │personal information        │provision of sensitive  │\n│      │    │              │                            │information             │\n├───┼──┼───────┼──────────────┼────────────┤\n│me    │    │/  /          │                            │                        │\n├───┼──┼───────┼──────────────┼────────────┤\n│spouse│    │/  /          │                            │n.a.                    │\n├───┼──┼───────┼──────────────┼────────────┤\n│child │    │/  /          │                            │n.a.                    │\n├───┼──┼───────┼──────────────┼────────────┤\n│child │    │/  /          │                            │n.a.                    │\n├───┼──┼───────┼──────────────┼────────────┤\n│child │    │/  /          │                            │n.a.                    │\n└───┴──┴───────┴──────────────┴────────────┘\n※ List of personal information items to be collected for a background check\n┌──────────────────────────┬────────────────────────┐\n│Myself                                              │Family members                                  │\n├──────────────────────────┼────────────────────────┤\n│? Resident registration, family relation           │? Resident registration, family relation       │\n│registration, public employee personnel             │registration register (Ministry of the Interior)│\n│management record (Ministry of the Interior)        │? Resident data (National Police Agency)       │\n│? Resident crime history and investigation         │? Entry and departure data (Ministry of Law)   │\n│record  (National Police Agency)                    │? Land and housing ownership data,             │\n│? Entry and departure data (Ministry of Law)       │automobile registration register                │\n│? Land and housing ownership data, and             │  (Ministry of Land, Infrastructure, and        │\n│automobile registration register (Ministry of Land, │Transport)                                      │\n│Infrastructure, and Transport)                      │? Income and individual and corporate          │\n│? Income and individual and corporate              │business registration data (National Tax        │\n│business registration data (National Tax            │Service)                                        │\n│Service)                                            │? Military records (Military Manpower          │\n│? Military records (Military Manpower              │Administration, Defense Security Command)       │\n│Administration, Defense Security Command)           │? Loans from financial institutions            │\n│? Loans from financial institutions (Korea         │  (Korea Credit Information Service)            │\n│Credit Information Service)                         │                                                │\n└──────────────────────────┴────────────────────────┘\nTo : Head of Institution that holds personal information",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105611",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105601",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105611",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:평택당진항출입절차예규#BJ0005",
+      "filename": "별지5_PERSONAL QUESTIONNAIRE.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별지",
+      "title": "항만시설 출입 제한 요청서",
+      "enforcement_date": "",
+      "content": "■ 평택ㆍ당진항 출입절차 예규[별지 제6호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃항만시설 출입 제한 요청서                                                   ┃\n┃                                                                            ┃\n┃1. 인원                                                                     ┃\n┃┌──┬─────┬──┬────┬────┬────┐                    ┃\n┃│소속│직위(직급)│성명│생년월일│출입지역│출입목적│                    ┃\n┃├──┼─────┼──┼────┼────┼────┤                    ┃\n┃│    │          │    │        │        │        │                    ┃\n┃├──┼─────┼──┼────┼────┼────┤                    ┃\n┃│    │          │    │        │        │        │                    ┃\n┃└──┴─────┴──┴────┴────┴────┘                    ┃\n┃                                                                            ┃\n┃2. 차량                                                                     ┃\n┃┌───┬────┬──────┬────┬────┐                      ┃\n┃│차  종│차량번호│소유자 성명 │출입지역│출입목적│                      ┃\n┃├───┼────┼──────┼────┼────┤                      ┃\n┃│      │        │            │        │        │                      ┃\n┃├───┼────┼──────┼────┼────┤                      ┃\n┃│      │        │            │        │        │                      ┃\n┃└───┴────┴──────┴────┴────┘                      ┃\n┃                                                                            ┃\n┃3. 위반내용(6하원칙에 맞게 서술)                                            ┃\n┃                                                                            ┃\n┃                                                                            ┃\n┃                                                                            ┃\n┃                                                                            ┃\n┃                                                                            ┃\n┃                                                                            ┃\n┃                                                                            ┃\n┃                                                                            ┃\n┃「평택·당진항 출입절차 예규」 제10조제2항에 따라 항만시설에 출입하여 항만  ┃\n┃운영 및 보안에 지장을 초래한 위 인원(차량)에 대해 항만시설의 출입 제한을 요 ┃\n┃청합니다.                                                                   ┃\n┃                                                                            ┃\n┃                                         20   .     .     .                 ┃\n┃                                                                            ┃\n┃                            업체(기관)명 :                                  ┃\n┃                            대표자 확인 :              (인)                 ┃\n┃                                                                            ┃\n┃평택지방해양수산청장 귀하                                                   ┃\n┃                                                                            ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105617",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105613",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105617",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:평택당진항출입절차예규#BJ0006",
+      "filename": "별지6_항만시설 출입 제한 요청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "별지",
+      "title": "상시 출입증 유효기간 연장 신청서",
+      "enforcement_date": "",
+      "content": "■ 평택ㆍ당진항 출입 예규[별지 제7호서식]\n상시 출입증 유효기간 연장 신청서\n업체(기관)명 :\n주       소 :\n성       명 :\n위 본인은 우리 업체(기관) 소속 인원 및 차량의 상시 출입증 유효기간 연장을 아래와 같이 신청하며, 평택지방해양수산청에서 관리ㆍ운영하는 항만 출입관리구역을 포함, 항만시설을 출입함으로써 발생되는 보안상의 문제 또는 출입증을 관리함에 있어 해당 출입 인원과 연대하여 책임질 것을 확인합니다.\n1. 인원\n┏━━┯━━┯━━━━━┯━━┯━━━━┯━━┯━━┯━━━┯━━━━━━━━┓\n┃순번│국적│출입증번호│성명│생년월일│성별│상태│발급일│유효기간 만료일 ┃\n┠──┼──┼─────┼──┼────┼──┼──┼───┼────────┨\n┃    │    │          │    │        │    │    │      │                ┃\n┠──┼──┼─────┼──┼────┼──┼──┼───┼────────┨\n┃    │    │          │    │        │    │    │      │                ┃\n┗━━┷━━┷━━━━━┷━━┷━━━━┷━━┷━━┷━━━┷━━━━━━━━┛\n2. 차량\n┏━━┯━━━━━┯━━━━┯━━━┯━━┯━━━┯━━━━━━━━┓\n┃순번│출입증번호│차량번호│운전자│상태│발급일│유효기간 만료일 ┃\n┠──┼─────┼────┼───┼──┼───┼────────┨\n┃    │          │        │      │    │      │                ┃\n┠──┼─────┼────┼───┼──┼───┼────────┨\n┃    │          │        │      │    │      │                ┃\n┗━━┷━━━━━┷━━━━┷━━━┷━━┷━━━┷━━━━━━━━┛\n\n20     .     .     .\n대표자                    (인)\n평택지방해양수산청장 귀하",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105623",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105619",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105623",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:평택당진항출입절차예규#BJ0007",
+      "filename": "별지7_상시 출입증 유효기간 연장 신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0008",
+      "branch": "00",
+      "kind": "별지",
+      "title": "인원출입증 발급대장",
+      "enforcement_date": "",
+      "content": "■ 평택ㆍ당진항 출입 예규[별지 제8호서식]\n\n인원출입증 발급대장\n\n\n┏━━┯━━┯━━┯━━━━━━━┯━━━━━┯━━┓\n┃일자│소속│성함│출입증일련번호│수령인    │비고┃\n┃    │    │    │              ├──┬──┤    ┃\n┃    │    │    │              │성명│서명│    ┃\n┠──┼──┼──┼───────┼──┼──┼──┨\n┃    │   │   │ 031P-        │   │   │   ┃\n┠──┼──┼──┼───────┼──┼──┼──┨\n┃    │   │   │ 031P-        │   │   │   ┃\n┠──┼──┼──┼───────┼──┼──┼──┨\n┃    │   │   │ 031P-        │   │   │   ┃\n┠──┼──┼──┼───────┼──┼──┼──┨\n┃    │   │   │ 031P-        │   │   │   ┃\n┠──┼──┼──┼───────┼──┼──┼──┨\n┃    │   │   │ 031P-        │   │   │   ┃\n┠──┼──┼──┼───────┼──┼──┼──┨\n┃    │   │   │ 031P-        │   │   │   ┃\n┠──┼──┼──┼───────┼──┼──┼──┨\n┃    │   │   │ 031P-        │   │   │   ┃\n┠──┼──┼──┼───────┼──┼──┼──┨\n┃    │   │   │ 031P-        │   │   │   ┃\n┠──┼──┼──┼───────┼──┼──┼──┨\n┃    │   │   │ 031P-        │   │   │   ┃\n┠──┼──┼──┼───────┼──┼──┼──┨\n┃    │   │   │ 031P-        │   │   │   ┃\n┠──┼──┼──┼───────┼──┼──┼──┨\n┃    │   │   │ 031P-        │   │   │   ┃\n┠──┼──┼──┼───────┼──┼──┼──┨\n┃    │   │   │ 031P-        │   │   │   ┃\n┠──┼──┼──┼───────┼──┼──┼──┨\n┃    │   │   │ 031P-        │   │   │   ┃\n┠──┼──┼──┼───────┼──┼──┼──┨\n┃    │   │   │ 031P-        │   │   │   ┃\n┗━━┷━━┷━━┷━━━━━━━┷━━┷━━┷━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105629",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105625",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105629",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:평택당진항출입절차예규#BJ0008",
+      "filename": "별지8_인원출입증 발급대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0009",
+      "branch": "00",
+      "kind": "별지",
+      "title": "차량출입증 발급대장",
+      "enforcement_date": "",
+      "content": "■ 평택ㆍ당진항 출입 예규[별지 제9호서식]\n\n차량출입증 발급대장\n\n\n┏━━┯━━┯━━━━┯━━━━━━━┯━━━━━┯━━┓\n┃일자│소속│차량번호│출입증일련번호│수령인    │비고┃\n┃    │    │        │              ├──┬──┤    ┃\n┃    │    │        │              │성명│서명│    ┃\n┠──┼──┼────┼───────┼──┼──┼──┨\n┃    │   │       │ 031V-        │   │   │   ┃\n┠──┼──┼────┼───────┼──┼──┼──┨\n┃    │   │       │ 031V-        │   │   │   ┃\n┠──┼──┼────┼───────┼──┼──┼──┨\n┃    │   │       │ 031V-        │   │   │   ┃\n┠──┼──┼────┼───────┼──┼──┼──┨\n┃    │   │       │ 031V-        │   │   │   ┃\n┠──┼──┼────┼───────┼──┼──┼──┨\n┃    │   │       │ 031V-        │   │   │   ┃\n┠──┼──┼────┼───────┼──┼──┼──┨\n┃    │   │       │ 031V-        │   │   │   ┃\n┠──┼──┼────┼───────┼──┼──┼──┨\n┃    │   │       │ 031V-        │   │   │   ┃\n┠──┼──┼────┼───────┼──┼──┼──┨\n┃    │   │       │ 031V-        │   │   │   ┃\n┠──┼──┼────┼───────┼──┼──┼──┨\n┃    │   │       │ 031V-        │   │   │   ┃\n┠──┼──┼────┼───────┼──┼──┼──┨\n┃    │   │       │ 031V-        │   │   │   ┃\n┠──┼──┼────┼───────┼──┼──┼──┨\n┃    │   │       │ 031V-        │   │   │   ┃\n┠──┼──┼────┼───────┼──┼──┼──┨\n┃    │   │       │ 031V-        │   │   │   ┃\n┠──┼──┼────┼───────┼──┼──┼──┨\n┃    │   │       │ 031V-        │   │   │   ┃\n┠──┼──┼────┼───────┼──┼──┼──┨\n┃    │   │       │ 031V-        │   │   │   ┃\n┗━━┷━━┷━━━━┷━━━━━━━┷━━┷━━┷━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105635",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105631",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105635",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:평택당진항출입절차예규#BJ0009",
+      "filename": "별지9_차량출입증 발급대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0010",
+      "branch": "00",
+      "kind": "별지",
+      "title": "항만 상시출입증 자체 점검 결과",
+      "enforcement_date": "",
+      "content": "■ 평택ㆍ당진항 출입절차 예규[별지 제10호서식]\n항만 상시출입증 자체 점검 결과\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃업체(기관)기본 정보                                           ┃\n┠────────┬─────┬──────┬─────────┨\n┃업 체(기관)명   │          │대표자 성명 │                  ┃\n┠────────┼─────┼──────┼─────────┨\n┃사업자등록번호  │          │업     종   │                  ┃\n┠────────┼─────┼──────┼─────────┨\n┃사무실 전화번호 │          │FAX 번호    │                  ┃\n┠────────┼─────┴──────┴─────────┨\n┃주    소        │                                            ┃\n┠────────┴──────────────────────┨\n┃출입증 총괄 관리자 정보                                       ┃\n┠────────┬─────┬──────┬─────────┨\n┃성   명         │          │생 년 월 일 │                  ┃\n┠────────┼─────┼──────┼─────────┨\n┃E-mail          │          │휴대전화번호│                  ┃\n┠────────┴─────┴──────┴─────────┨\n┃항만출입목적                                                  ┃\n┠───────────────────────────────┨\n┃(육하원칙 의거 자세히 기재)                                   ┃\n┃                                                              ┃\n┃                                                              ┃\n┠───────────────────────────────┨\n┃항만출입증 발급 현황 (합계 :     매, 인원 :     명, 차량 :     대)┃\n┠──┬─────┬────┬────┬────┬───────┨\n┃순번│성명      │생년월일│차량번호│재직여부│출입증 미반납 ┃\n┃    │          │        │        │        │사유          ┃\n┠──┼─────┼────┼────┼────┼───────┨\n┃    │          │        │        │        │              ┃\n┠──┼─────┼────┼────┼────┼───────┨\n┃    │          │        │        │        │              ┃\n┠──┼─────┼────┼────┼────┼───────┨\n┃    │          │        │        │        │              ┃\n┠──┼─────┼────┼────┼────┼───────┨\n┃    │          │        │        │        │              ┃\n┠──┼─────┼────┼────┼────┼───────┨\n┃    │          │        │        │        │              ┃\n┠──┼─────┼────┼────┼────┼───────┨\n┃    │          │        │        │        │              ┃\n┠──┼─────┼────┼────┼────┼───────┨\n┃    │          │        │        │        │              ┃\n┠──┼─────┼────┼────┼────┼───────┨\n┃    │          │        │        │        │              ┃\n┠──┼─────┼────┼────┼────┼───────┨\n┃    │          │        │        │        │              ┃\n┠──┼─────┼────┼────┼────┼───────┨\n┃    │          │        │        │        │              ┃\n┠──┼─────┼────┼────┼────┼───────┨\n┃    │          │        │        │        │              ┃\n┗━━┷━━━━━┷━━━━┷━━━━┷━━━━┷━━━━━━━┛\n항만출입증 발급 현황 자체 점검결과 상기와 같음을 확인합니다.\n20   .    .    .\n업체(기관)명 :               (인)\n\n평택지방해양수산청장 귀하",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105641",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105637",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105641",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:평택당진항출입절차예규#BJ0010",
+      "filename": "별지10_항만 상시출입증 자체 점검 결과.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0011",
+      "branch": "00",
+      "kind": "별지",
+      "title": "출입증 분실(훼손) 경위서",
+      "enforcement_date": "",
+      "content": "■ 평택ㆍ당진항 출입절차 예규[별지 제11호서식]\n\n출입증 분실(훼손) 경위서\n┏━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃업체(기관)명│                                                                ┃\n┠──────┼────────────────────────────────┨\n┃성       명 │                                                                ┃\n┠──────┼────────────────────────────────┨\n┃생 년 월 일 │                                                                ┃\n┠──────┼────────────────────────────────┨\n┃전 화 번 호 │                                                                ┃\n┠──────┼────────────────────────────────┨\n┃주       소 │                                                                ┃\n┠──────┴────────────────────────────────┨\n┃ 분실(훼손) 경위(6하원칙에 맞게 서술)                                         ┃\n┃                                                                              ┃\n┃                                                                              ┃\n┃                                                                              ┃\n┃                                                                              ┃\n┃                                                                              ┃\n┃                                                                              ┃\n┃                                                                              ┃\n┃                                                                              ┃\n┠───────────────────────────────────────┨\n┃ 「평택·당진항 출입절차 예규」제14조제2항에 따라 항만 출입증 분실(훼손)과 관 ┃\n┃련하여 상기 기재한 내용이 틀림없으며, 향후 보안 및 안전상 문제가 발생하였을 경┃\n┃우 관련 규정에 따라 책임질 것을 확인합니다.                                   ┃\n┃                                                                              ┃\n┃                                            20   .     .     .                ┃\n┃                                                                              ┃\n┃                                     대표자 확인 :              (인)          ┃\n┃                                       본인 확인 :              (인)          ┃\n┃                                                                              ┃\n┃평택지방해양수산청장  귀하                                                    ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105647",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105643",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105647",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:평택당진항출입절차예규#BJ0011",
+      "filename": "별지11_출입증 분실(훼손) 경위서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0012",
+      "branch": "00",
+      "kind": "별지",
+      "title": "상시 출입증(인원·차량) 수급대장",
+      "enforcement_date": "",
+      "content": "■ 평택ㆍ당진항 출입절차 예규[별지 제12호서식]\n상시 출입증(인원ㆍ차량) 수급대장\n┏━━┯━━━━┯━━┯━━┯━━━┯━━━━━━━━━┓\n┃월일│내   역 │수입│지급│재고  │결 재             ┃\n┃    │        │    │    │      ├───┬──┬──┨\n┃    │        │    │    │      │담당자│담당│과장┃\n┣━━┿━━━━┿━━┿━━┿━━━┿━━━┿━━┿━━┫\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┗━━┷━━━━┷━━┷━━┷━━━┷━━━┷━━┷━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105653",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105649",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105653",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:평택당진항출입절차예규#BJ0012",
+      "filename": "별지12_상시 출입증(인원·차량) 수급대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0013",
+      "branch": "00",
+      "kind": "별지",
+      "title": "임시 출입증(인원·차량) 수급대장",
+      "enforcement_date": "",
+      "content": "■ 평택ㆍ당진항 출입절차 예규[별지 제13호서식]\n임시 출입증(인원ㆍ차량) 수급대장\n┏━━┯━━━━┯━━┯━━┯━━━┯━━━━━━━━━┓\n┃월일│내   역 │수입│지급│재고  │결 재             ┃\n┃    │        │    │    │      ├───┬──┬──┨\n┃    │        │    │    │      │담당자│담당│과장┃\n┣━━┿━━━━┿━━┿━━┿━━━┿━━━┿━━┿━━┫\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┠──┼────┼──┼──┼───┼───┼──┼──┨\n┃    │        │    │    │      │      │    │    ┃\n┗━━┷━━━━┷━━┷━━┷━━━┷━━━┷━━┷━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105659",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105655",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105659",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:평택당진항출입절차예규#BJ0013",
+      "filename": "별지13_임시 출입증(인원·차량) 수급대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0014",
+      "branch": "00",
+      "kind": "별지",
+      "title": "출입증 반납대장",
+      "enforcement_date": "",
+      "content": "■ 평택ㆍ당진항 출입 예규[별지 제14호서식]\n\n출입증 반납대장\n\n\n┏━━┯━━┯━━━━━┯━━━━━┯━━━┯━━┯━━┓\n┃일자│소속│인원출입증│차량출입증│반납자│서명│비고┃\n┃    │    │(성명)    │(차량번호)│      │    │    ┃\n┠──┼──┼─────┼─────┼───┼──┼──┨\n┃    │   │         │         │     │   │   ┃\n┠──┼──┼─────┼─────┼───┼──┼──┨\n┃    │   │         │         │     │   │   ┃\n┠──┼──┼─────┼─────┼───┼──┼──┨\n┃    │   │         │         │     │   │   ┃\n┠──┼──┼─────┼─────┼───┼──┼──┨\n┃    │   │         │         │     │   │   ┃\n┠──┼──┼─────┼─────┼───┼──┼──┨\n┃    │   │         │         │     │   │   ┃\n┠──┼──┼─────┼─────┼───┼──┼──┨\n┃    │   │         │         │     │   │   ┃\n┠──┼──┼─────┼─────┼───┼──┼──┨\n┃    │   │         │         │     │   │   ┃\n┠──┼──┼─────┼─────┼───┼──┼──┨\n┃    │   │         │         │     │   │   ┃\n┠──┼──┼─────┼─────┼───┼──┼──┨\n┃    │   │         │         │     │   │   ┃\n┠──┼──┼─────┼─────┼───┼──┼──┨\n┃    │   │         │         │     │   │   ┃\n┠──┼──┼─────┼─────┼───┼──┼──┨\n┃    │   │         │         │     │   │   ┃\n┠──┼──┼─────┼─────┼───┼──┼──┨\n┃    │   │         │         │     │   │   ┃\n┠──┼──┼─────┼─────┼───┼──┼──┨\n┃    │   │         │         │     │   │   ┃\n┠──┼──┼─────┼─────┼───┼──┼──┨\n┃    │   │         │         │     │   │   ┃\n┠──┼──┼─────┼─────┼───┼──┼──┨\n┃    │   │         │         │     │   │   ┃\n┗━━┷━━┷━━━━━┷━━━━━┷━━━┷━━┷━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105665",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105661",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105665",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:평택당진항출입절차예규#BJ0014",
+      "filename": "별지14_출입증 반납대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0015",
+      "branch": "00",
+      "kind": "별지",
+      "title": "항만견학 신청서/허가서",
+      "enforcement_date": "",
+      "content": "■ 평택ㆍ당진항 출입 예규[별지 제15호서식]\n┏━━━━┯━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┓\n┃접수번호│항만견학 신청서/허가서                      │처리기간                    ┃\n┠────┤                                            ├──────────────┨\n┃        │                                            │3일                         ┃\n┠─┬──┴───┬──────────────────┴──────────────┨\n┃신│상    호    │                                                                  ┃\n┃청├──────┼────────────┬────┬───────────────┨\n┃인│대표자(성명)│(인)                    │생년월일│                              ┃\n┃  ├──────┼────────────┴─┬──┼───────────────┨\n┃  │주    소    │                            │TEL │                              ┃\n┃  │            │                            ├──┼───────────────┨\n┃  │            │                            │FAX │                              ┃\n┠─┼──────┼──────────────┴──┴───────────────┨\n┃신│방문목적    │                                                                  ┃\n┃  ├──────┼─────────────────────────────────┨\n┃청│방문일시    │                                                                  ┃\n┃  ├──────┼─────────────────────────────────┨\n┃내│방문장소    │                                                                  ┃\n┃  ├──────┼───┬─────────┬───────────────────┨\n┃용│방 문 자    │성  명│생년월일          │주           소                       ┃\n┃  │인적사항    ├───┼─────────┼───────────────────┨\n┃  │            │      │                  │                                      ┃\n┠─┴──────┼───┴─────────┴───────────────────┨\n┃허 가 조 건     │1. 항만시찰 또는 견학 시에는 반드시 관계직원 또는 청원경찰이 안내 ┃\n┃                │및 입회를 하여야 한다.                                            ┃\n┃                │2. 방문 장소 이외의 구역을 출입하거나 촬영(카메라를 장착한 드론ㆍ ┃\n┃                │휴대폰ㆍ차량 블랙박스 등)을 하여서는 안 된다.                     ┃\n┃                │※ 인원이 많을 시 방문자 명단 별도 첨부                           ┃\n┃                │※ 방문목적, 인원 등을 고려하여 별도의 조건 부여 가능             ┃\n┠────────┴───────────┬─────────────────────┨\n┃「평택?당진항 항만출입 예규」제17조제1 │「평택?당진항 항만출입 예규」제17조제2   ┃\n┃항에 따라 위와 같이 허가를 신청합니다.  │항에 따라 위와 같이 허가합니다.           ┃\n┃                                        │                                          ┃\n┃                  20   .    .    .      │                 20   .     .    .        ┃\n┃                                        │                                          ┃\n┃                      귀하              │                            (인)          ┃\n┗━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105671",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105667",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105671",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:평택당진항출입절차예규#BJ0015",
+      "filename": "별지15_항만견학 신청서_허가서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0016",
+      "branch": "00",
+      "kind": "별지",
+      "title": "항만촬영 신청서/허가서",
+      "enforcement_date": "",
+      "content": "■ 평택ㆍ당진항 출입 예규[별지 제16호서식]\n┏━━━━┯━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━┓\n┃접수번호│항만촬영 신청서/허가서                        │처리기간                ┃\n┠────┤                                              ├────────────┨\n┃        │                                              │3일                     ┃\n┠─┬──┴───┬───────────────────┴────────────┨\n┃신│상    호    │                                                                ┃\n┃청├──────┼─────────────┬────┬─────────────┨\n┃인│대표자(성명)│(인)                      │생년월일│                          ┃\n┃  ├──────┼─────────────┴┬───┼─────────────┨\n┃  │주    소    │                            │TEL   │                          ┃\n┃  │            │                            ├───┼─────────────┨\n┃  │            │                            │FAX   │                          ┃\n┠─┼──────┼──────────────┴───┴─────────────┨\n┃신│촬영목적    │                                                                ┃\n┃청├──────┼────────────────────────────────┨\n┃내│촬영일시    │                                                                ┃\n┃용├──────┼────────────────────────────────┨\n┃  │촬영장소    │                                                                ┃\n┃  ├──────┼────────────────────────────────┨\n┃  │촬영범위    │                                                                ┃\n┃  │및 대상     │                                                                ┃\n┃  ├──────┼───┬────────┬────────┬──────────┨\n┃  │출 입 자    │성  명│생년월일        │주           소 │임  무              ┃\n┃  │인적사항    ├───┼────────┼────────┼──────────┨\n┃  │            │      │                │                │                    ┃\n┃  ├──────┼───┴────────┴────────┴──────────┨\n┃  │기타장비    │                                                                ┃\n┠─┴──────┼────────────────────────────────┨\n┃허 가 조 건     │1. 반드시 관계직원 또는 청원경찰 입회하에 촬영하여야 한다.      ┃\n┃                │2. 촬영범위 및 대상 이외 시설을 촬영하여서는 안된다.            ┃\n┃                │※ 인원이 많을 시 방문자 명단 별도 첨부                         ┃\n┃                │※ 촬영목적 등을 고려하여 별도의 조건 부여 가능                 ┃\n┠────────┴───────────┬────────────────────┨\n┃「평택?당진항 항만출입 예규」제17조제1 │「평택?당진항 항만출입 예규」제17조제2 ┃\n┃항에 따라 위와 같이 허가를 신청합니다.  │항에 따라 위와 같이 허가합니다.         ┃\n┃                  20   .    .    .      │                 20   .     .    .      ┃\n┃                                        │                                        ┃\n┃           귀하                         │                    (인)                ┃\n┗━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105677",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105673",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105677",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:평택당진항출입절차예규#BJ0016",
+      "filename": "별지16_항만촬영 신청서_허가서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0017",
+      "branch": "00",
+      "kind": "별지",
+      "title": "항공촬영 허가신청서",
+      "enforcement_date": "",
+      "content": "■ 평택ㆍ당진항 출입 예규[별지 제17호서식]\n항공촬영 허가신청서\n┏━━━━━━━┯━━━━━━━━━┯━━━━━━┯━━━━━━━━━━┓\n┃촬영신청기관  │                  │촬영목적    │                    ┃\n┠───────┤                  │(용도)      │                    ┃\n┃연락처        │                  │            │                    ┃\n┠───────┼─────────┼──────┼──────────┨\n┃촬영기간      │                  │촬영구분    │                    ┃\n┃              │                  │(정 ? 사각 │                    ┃\n┃              │                  │등)         │                    ┃\n┠───────┼────┬────┼──────┼───┬──────┨\n┃촬영지역      │        │촬영대상│            │촬영위│            ┃\n┃              │        │        │            │치    │            ┃\n┃              │        │        │            │(좌표)│            ┃\n┠───────┼────┴────┼──────┼───┴──────┨\n┃촬영종류      │                  │촬영분량    │시간      분        ┃\n┃(필름 ? 영상 │                  │            │(       미리    통) ┃\n┃?            │                  │            │                    ┃\n┃수치데이터 등)│                  │            │                    ┃\n┠───────┼─────────┼──────┼──────────┨\n┃촬영장비      │                  │촬영고도    │                    ┃\n┃명칭 ? 종류  │                  │            │                    ┃\n┠───────┼─────────┼──────┼──────────┨\n┃축  척        │                  │항공기종    │                    ┃\n┃              │                  │(기명)      │                    ┃\n┠───────┼─────────┼──────┼──────────┨\n┃이륙          │                  │착륙        │                    ┃\n┃일시 ? 장소  │                  │일시 ?     │                    ┃\n┃              │                  │장소        │                    ┃\n┠───────┼─┬───────┼──────┼───┬──────┨\n┃항  로        │  │순항고도      │            │항속  │            ┃\n┠───────┴─┴───────┴──────┴───┴──────┨\n┃촬 영 관 계   인 적 사 항                                             ┃\n┠────────┬───┬─────┬──────┬─────────┨\n┃구  분          │성  명│생년월일  │소  속      │직 책             ┃\n┠────────┼───┼─────┼──────┼─────────┨\n┃기  장          │      │          │            │                  ┃\n┠────────┼───┼─────┼──────┼─────────┨\n┃승무원          │      │          │            │                  ┃\n┠────────┼───┼─────┼──────┼─────────┨\n┃촬영기사        │      │          │            │                  ┃\n┠────────┼───┼─────┼──────┼─────────┨\n┃기  타          │      │          │            │                  ┃\n┗━━━━━━━━┷━━━┷━━━━━┷━━━━━━┷━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105683",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105679",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105683",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:평택당진항출입절차예규#BJ0017",
+      "filename": "별지17_항공촬영 허가신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0018",
+      "branch": "00",
+      "kind": "별지",
+      "title": "항공촬영 보안조치사항",
+      "enforcement_date": "",
+      "content": "■ 평택ㆍ당진항 출입 예규[별지 제18호서식]\n항공촬영 보안조치사항\n┏━━━━━━━━┯━━━━┓\n┃항    목        │조치사항┃\n┠────────┼────┨\n┃인터넷 연결차단 │ㅇ      ┃\n┠────────┼────┨\n┃통신암호 설정   │ㅇ      ┃\n┠────────┼────┨\n┃촬영영상 관리   │ㅇ      ┃\n┠────────┼────┨\n┃전 원 차 단     │ㅇ      ┃\n┠────────┼────┨\n┃임시데이터 정리 │ㅇ      ┃\n┗━━━━━━━━┷━━━━┛\n상기 사항에 대한 보안조치를 확약합니다.\n작성자(소속) :                      (서명)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105689",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105685",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=134105689",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:평택당진항출입절차예규#BJ0018",
+      "filename": "별지18_항공촬영 보안조치사항.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "평택·당진항 출입절차 예규 제정이유서.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=134105013",
+      "file_store_url": "",
+      "filename": "평택·당진항 출입절차 예규 제정이유서.hwp"
+    },
+    {
+      "name": "평택·당진항 출입절차 예규 제정이유서.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=134105017",
+      "file_store_url": "",
+      "filename": "평택·당진항 출입절차 예규 제정이유서.pdf"
+    },
+    {
+      "name": "231026 평택·당진항 출입절차 예규 (1).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=134105021",
+      "file_store_url": "",
+      "filename": "231026 평택·당진항 출입절차 예규 (1).hwpx"
+    },
+    {
+      "name": "231026 평택·당진항 출입절차 예규 (1).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=134105025",
+      "file_store_url": "",
+      "filename": "231026 평택·당진항 출입절차 예규 (1).pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 51,
+    "by_category": {
+      "법령": 18,
+      "행정규칙": 8,
+      "별지": 25
+    },
+    "by_relation_type": {
+      "citation": 24,
+      "internal_ref": 2,
+      "appendix_ref": 25
+    },
+    "articles_total": 20,
+    "articles_with_relations": 15,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 22,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/평택·당진항 출입절차 예규"
+  },
+  "provision_id": "admrul:평택당진항출입절차예규#DOC"
+}
