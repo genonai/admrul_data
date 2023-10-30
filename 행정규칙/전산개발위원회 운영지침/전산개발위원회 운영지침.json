@@ -1,0 +1,811 @@
+{
+  "law_id": "2100000243956",
+  "mst": "2100000243956",
+  "law_name": "전산개발위원회 운영지침",
+  "law_abbr": "",
+  "law_type": "훈령",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000243956",
+  "promulgation_no": "128",
+  "promulgation_date": "20231030",
+  "enforcement_date": "20231030",
+  "revision_date": "20231030",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "항공교통본부(항행시설운영과)",
+    "담당자명": "윤상권",
+    "행정규칙종류코드": "B0001",
+    "행정규칙명": "전산개발위원회 운영지침",
+    "발령일자": "20231030",
+    "행정규칙종류": "훈령",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "항공교통본부",
+    "전화번호": "053-668-0265",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1613000",
+    "생성일자": "20240709",
+    "행정규칙ID": "59060",
+    "시행일자": "20231030",
+    "담당부서기관코드": "1613518",
+    "발령번호": "128",
+    "행정규칙일련번호": "2100000243956",
+    "상위부처명": "국토교통부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n부서 명칭 변경 및 조직개편 사항을 반영하여 전산개발위원회 운영지침을 현행화\n◇ 주요내용\n가. 부서 및 계 명칭 변경사항 반영(별표 1)\n- 시설운영과 → 항행시설운영과\n- 시설운영과 전산정보계 → 항행시설운영과 항행정보계\n- 시설운영과 통신전자계 → 항행시설운영과 항행통신계\n- 항공교통조정과 비행정보팀장 → 항공교통조정과 운영팀장\n나. 조직 개편 사항 반영(별표 1)\n- 인천항공교통관제소 항공정보과 → (삭제)\n다. 관제사 약명 관련 조항 삭제(제7조제4항)\n- 관제사 약명의 경우 별도의 전산개발 심의없이 항공관제과에서 자체 관리하고 있으므로 해당 조항 삭제",
+  "body": {
+    "format": "articles",
+    "article_count": 17,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장  총 칙",
+        "content": "제1조(목적) 이 지침은 국토교통부 고시 \"항행안전시설 관리 및 운영 규정\" 및 항공교통본부 훈령 \"항행안전시설 운용 및 검사기준\"에 따른 항행안전무선시설 및 항공정보통신시설(이하 \"항행시설\"이라 한다) 중 항공교통본부 소관 항행시설(관제시설 포함)의 전산개발 등을 효율적으로 수행하기 위한 전산개발위원회(이하 \"위원회\"라 한다)의 구성, 임무 및 운영절차 등 필요한 사항을 정하는 데 목적이 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:전산개발위원회운영지침#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적용범위 및 위임",
+        "chapter": "제1장  총 칙",
+        "content": "제2조(적용범위 및 위임) 이 지침은 항공교통본부와 그 소속기관 및 공항시설법에 따른 해당시설 관리자인 한국공항공사 항로시설본부에 적용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:전산개발위원회운영지침#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "용어의 정의",
+        "chapter": "제1장  총 칙",
+        "content": "제3조(용어의 정의) 이 지침에서 사용하는 용어는 다음 각 호와 같다.1. \"전산개발\"이란 항공교통본부 소관 항행시설의 개선, 적응자료 변경, 수정본 시험ㆍ설치 및 자체개발 등을 말한다.2. \"적응자료(Adaptation Data)\"란 관제시설 등의 항로나 공역 변경 등 환경 변화를 관제시설에 반영할 수 있도록 설정된 변수 값 등을 말한다.3. \"수정본\"이란 제작사 등에서 응용소프트웨어 또는 시스템소프트웨어 등을 수정한 것을 말한다.4. \"자체개발\"이란 상기 2호 내지 3호 이외에 항행시설에 직접적인 영향을 미칠 수 있는 부대시설에 설치된 전산개발 또는 수정 등을 말한다.5. \"시험\"이란 전산개발 결과를 시험평가시스템 등에서 확인하는 것을 말한다.6. \"검증\"이란 전산개발 결과를 사용자가 운용하는 운용시스템에서 사용자가 확인하는 것을 말한다.7. \"항공교통관제시설\"(이하 \"관제시설\"이라 한다)이란 항행시설 중 대구 및 인천의 항공교통관제시스템(Air Traffic Control System), 항공교통관제통신시스템(Voice Communication Control System), 지원시스템(Support System)의 하드웨어 소프트웨어 등을 말한다.8. \"운용시스템\"이란 항공로관제업무를 위한 관제시설로 대구ㆍ인천의 항공교통관제시스템 및 항공교통관제통신시스템을 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:전산개발위원회운영지침#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "위원회 구성",
+        "chapter": "제2장  전산개발위원회 구성 및 임무",
+        "content": "제4조(위원회 구성) ① 위원회는 위원장 1인, 부위원장 2인, 간사 2인 및 위원으로 위원은 별표1과 같이 구성한다.② 위원장 또는 위원은 필요시 관련 실무자의 도움을 받을 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "별표1",
+            "line_text": "",
+            "target_law_name": "전산개발위원회 운영지침",
+            "target_article_no": "별표1",
+            "target_article_title": "항공교통본부 전산개발위원회 위원",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000243956&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전산개발위원회운영지침#JO0004",
+            "reference_id": "admrul:전산개발위원회운영지침#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:전산개발위원회운영지침#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "위원회 임무 및 위임",
+        "chapter": "제2장  전산개발위원회 구성 및 임무",
+        "content": "제5조(위원회 임무 및 위임) ① 위원회의 임무는 다음 각 호와 같다.1. 제6조의 전산개발 안건을 검토ㆍ심의한다.2. 전산개발 안건의 처리절차, 시험ㆍ검증일정, 설치일정 등을 심의 의결한다.② 위원장은 위원회를 총괄 및 대표한다.③ 부위원장은 위원장을 보좌하며 명에 의해 그 직무를 대행할 수 있다.④ 간사는 접수안건에 대한 심의대상 자료작성과 자료수집ㆍ검토 및 배포한다.⑤ 위원장 및 위원은 다음과 같이 위임할 수 있다.1. 위원장은 그 직무를 수행할 수 없거나 부재 시 그 직무를 부위원장에게 위임할 수 있다.2. 위원은 그 직무를 수행할 수 없거나 부재 시 관련 실무책임자에게 그 직무를 위임할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "전산개발위원회 운영지침",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/전산개발위원회 운영지침/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전산개발위원회운영지침#JO0005",
+            "reference_id": "admrul:전산개발위원회운영지침#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:전산개발위원회운영지침#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "위원회 운영",
+        "chapter": "제3장  심의사항 및 절차",
+        "content": "제6조(위원회 운영) 위원회는 다음 각 호에 해당하는 요구가 있을 때 개최한다.1. 항로, 공역, 관제환경 등 신설ㆍ변경에 따라 항행시설의 조정ㆍ개선 등 전산개발이 필요한 경우2. 수정본이 제출된 경우3. 자체개발이 필요하거나 요구된 경우4. 관제통신시스템 프로그램 변경이 필요하거나 요구된 경우5. 기타 위원장이 심의가 필요하다고 판단한 경우",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:전산개발위원회운영지침#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "심의방법",
+        "chapter": "제3장  심의사항 및 절차",
+        "content": "제7조(심의방법) ① 위원은 \"전산개발요구서\"(별지 1호 서식)에 따라 검토한 의견을 발표하거나 서면으로 제출할 수 있다.② 위원회는 위원장을 포함한 재적위원 과반수의 출석으로 개의하며, 출석위원 2/3 이상의 찬성으로 의결한다.③ 위원회는 요구내용이 경미하거나, 이행이 시급한 안건에 대하여는 이를 \"서면심의 의견서\"(별지 4호 서식)에 따라 심의 의결 할 수 있다.④ 삭제",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "별지 1호",
+            "line_text": "",
+            "target_law_name": "전산개발위원회 운영지침",
+            "target_article_no": "별지1",
+            "target_article_title": "전산개발 요구서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142234937",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전산개발위원회운영지침#JO0007",
+            "reference_id": "admrul:전산개발위원회운영지침#BJ0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제3항",
+            "link_text": "별지 4호",
+            "line_text": "",
+            "target_law_name": "전산개발위원회 운영지침",
+            "target_article_no": "별지4",
+            "target_article_title": "전산개발위원회 서면심의 의견서",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142234955",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전산개발위원회운영지침#JO0007",
+            "reference_id": "admrul:전산개발위원회운영지침#BJ0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:전산개발위원회운영지침#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "회의소집",
+        "chapter": "제4장  운영절차",
+        "content": "제8조(회의소집) 위원장은 제6조에 따른 요구 안건이 있을 때에는 회의(또는 영상회의)를 소집할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "전산개발위원회 운영지침",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/전산개발위원회 운영지침/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전산개발위원회운영지침#JO0008",
+            "reference_id": "admrul:전산개발위원회운영지침#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:전산개발위원회운영지침#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "안건요구",
+        "chapter": "제4장  운영절차",
+        "content": "제9조(안건요구) 제6조 각 항에 해당하는 안건이 있을 경우 \"전산개발요구서\"에 따라 소관업무 부서장의 확인을 받아서 위원장에게 제출한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "전산개발위원회 운영지침",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/전산개발위원회 운영지침/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전산개발위원회운영지침#JO0009",
+            "reference_id": "admrul:전산개발위원회운영지침#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:전산개발위원회운영지침#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "심의 및 심의결과 조치",
+        "chapter": "제4장  운영절차",
+        "content": "제10조(심의 및 심의결과 조치) 위원장은 제7조에 따른 심의결과를  \"전산개발위원회 의결서\"(별지 2호 서식)에 작성한 후 다음과 같이 조치한다.1. 채택된 경우 항로시설본부에 전산개발 또는 시험평가 등을 요청한다.2. 기각된 경우 그 사유를 첨부하여 안건요구 부서로  회송한다.3. 중요 안건의 경우 항공교통본부장에게 별도 보고한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "전산개발위원회 운영지침",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/전산개발위원회 운영지침/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전산개발위원회운영지침#JO0010",
+            "reference_id": "admrul:전산개발위원회운영지침#JO0007"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "별지 2호",
+            "line_text": "",
+            "target_law_name": "전산개발위원회 운영지침",
+            "target_article_no": "별지2",
+            "target_article_title": "서명지",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142234943",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전산개발위원회운영지침#JO0010",
+            "reference_id": "admrul:전산개발위원회운영지침#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:전산개발위원회운영지침#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "개발",
+        "chapter": "제4장  운영절차",
+        "content": "제11조(개발) 항로시설본부(인천항공교통시설단을 포함한다. 이하 같다.)는 전산개발 건에 대하여 자체 분석을 실시하고 관련 프로그램 개발과 장비에 대한 사전영향 평가 등을 실시한 후 전산개발을 시행한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:전산개발위원회운영지침#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "시험검증",
+        "chapter": "제4장  운영절차",
+        "content": "제12조(시험검증) ① 항로시설본부는 개발결과를 시험평가시스템에서 검증(필요시 사용자 합동검증)한 후 \"시험 및 검증결과 보고서\"(별지 3호 서식)를 작성한다.② 항로시설본부는 시험 및 검증 후 결과를 위원장에게 보고하고 운용설치를 요청할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "별지 3호",
+            "line_text": "",
+            "target_law_name": "전산개발위원회 운영지침",
+            "target_article_no": "별지3",
+            "target_article_title": "시험 및 검증결과 보고서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142234949",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전산개발위원회운영지침#JO0012",
+            "reference_id": "admrul:전산개발위원회운영지침#BJ0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:전산개발위원회운영지침#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "운영설치 등",
+        "chapter": "제4장  운영절차",
+        "content": "제13조(운영설치 등) ① 항로시설본부는 제10조 및 제12조에 따라 관련 사용자부서 현장 책임자와 협조하여 운용시스템에 설치한다.② 사용자부서는 안정적인 운용시스템 설치를 위해 대구 운용시스템 설치 때는 인천ACC에서, 인천 운용시스템 설치 때는 대구ACC에서 분리모드 통합관제를 지원한다.③ 사용자부서에서는 전산개발 결과 설치 관련 일정 및 계획 등을 유관 기관과 항공고시보 등을 통해 공유하며, 항로시설본부는 관제시설 연계기관과 설치에 필요한 협조를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제1항",
+            "link_text": "제10조 및 제12조",
+            "line_text": "",
+            "target_law_name": "전산개발위원회 운영지침",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/전산개발위원회 운영지침/제10조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전산개발위원회운영지침#JO0013",
+            "reference_id": "admrul:전산개발위원회운영지침#JO0010"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제1항",
+            "link_text": "제10조 및 제12조",
+            "line_text": "",
+            "target_law_name": "전산개발위원회 운영지침",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/전산개발위원회 운영지침/제12조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전산개발위원회운영지침#JO0013",
+            "reference_id": "admrul:전산개발위원회운영지침#JO0012"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:전산개발위원회운영지침#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "운용검증",
+        "chapter": "제4장  운영절차",
+        "content": "제14조(운용검증) ① 항로시설본부는 사용자부서 현장 책임자와 협조하여 제13조에 따라 설치된 사항에 대하여 운용 검증을 시행하고 현장 책임자의 의견을 \"시험 및 검증결과 보고서\"의 검증결과보고 란에 작성한다.② 위원장은 제12조 제2항에 해당되는 검증에 대해서는 별도의 검증일정을 관련 부서와 협의 수립하여 시행할 수 있다.③ 제7조 제3항 및 제4항의 경미한 사항에 대하여는 시험 및 검증을 생략 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제1항",
+            "link_text": "제13조",
+            "line_text": "",
+            "target_law_name": "전산개발위원회 운영지침",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/전산개발위원회 운영지침/제13조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전산개발위원회운영지침#JO0014",
+            "reference_id": "admrul:전산개발위원회운영지침#JO0013"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제2항",
+            "link_text": "제12조",
+            "line_text": "",
+            "target_law_name": "전산개발위원회 운영지침",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/전산개발위원회 운영지침/제12조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전산개발위원회운영지침#JO0014",
+            "reference_id": "admrul:전산개발위원회운영지침#JO0012"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제3항",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "전산개발위원회 운영지침",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/전산개발위원회 운영지침/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전산개발위원회운영지침#JO0014",
+            "reference_id": "admrul:전산개발위원회운영지침#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:전산개발위원회운영지침#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "개발완료 보고",
+        "chapter": "제4장  운영절차",
+        "content": "제15조(개발완료 보고) 항로시설본부는 제12조 및 제13조의 규정에 따른 \"시험 및 검증결과 보고서\"를 해당 시설별로 작성 후 위원장에게 제출하여 개발 및 설치 완료보고를 한다. 다만, 수정본 또는 자체개발에 해당하는 전산개발은 시험방법, 시험결과 등의 관련 자료를 함께 제출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제15조",
+            "source_clause": "제15조",
+            "link_text": "제12조 및 제13조",
+            "line_text": "",
+            "target_law_name": "전산개발위원회 운영지침",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/전산개발위원회 운영지침/제12조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전산개발위원회운영지침#JO0015",
+            "reference_id": "admrul:전산개발위원회운영지침#JO0012"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제15조",
+            "source_clause": "제15조",
+            "link_text": "제12조 및 제13조",
+            "line_text": "",
+            "target_law_name": "전산개발위원회 운영지침",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/전산개발위원회 운영지침/제13조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전산개발위원회운영지침#JO0015",
+            "reference_id": "admrul:전산개발위원회운영지침#JO0013"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:전산개발위원회운영지침#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "재심의",
+        "chapter": "제4장  운영절차",
+        "content": "제16조(재심의) ① 항로시설본부는 제11조, 제12조, 제13조에 따라 개발, 시험, 검증한 결과, 재검토 또는 부결 등이 필요한 경우 위원장에게 재심의 요청할 수 있다.② 위원장은 제1항에 의한 재심의 요청이 있을 경우 제8조에 따라 위원회를 개최하여 재심의 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제1항",
+            "link_text": "제11조",
+            "line_text": "",
+            "target_law_name": "전산개발위원회 운영지침",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/전산개발위원회 운영지침/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전산개발위원회운영지침#JO0016",
+            "reference_id": "admrul:전산개발위원회운영지침#JO0011"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제1항",
+            "link_text": "제12조",
+            "line_text": "",
+            "target_law_name": "전산개발위원회 운영지침",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/전산개발위원회 운영지침/제12조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전산개발위원회운영지침#JO0016",
+            "reference_id": "admrul:전산개발위원회운영지침#JO0012"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제1항",
+            "link_text": "제13조",
+            "line_text": "",
+            "target_law_name": "전산개발위원회 운영지침",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/전산개발위원회 운영지침/제13조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전산개발위원회운영지침#JO0016",
+            "reference_id": "admrul:전산개발위원회운영지침#JO0013"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제2항",
+            "link_text": "제8조",
+            "line_text": "",
+            "target_law_name": "전산개발위원회 운영지침",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/전산개발위원회 운영지침/제8조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전산개발위원회운영지침#JO0016",
+            "reference_id": "admrul:전산개발위원회운영지침#JO0008"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:전산개발위원회운영지침#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "유효기간",
+        "chapter": "제5장 보  칙",
+        "content": "제17조(유효기간) 이 지침은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령)에 따라 이 지침을 발령한 후의 법령이나 현실 여건의 변화 등을 검토하여야 하는 2026년 00월 00일까지 효력을 가진다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제17조",
+            "source_clause": "제17조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전산개발위원회운영지침#JO0017",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:전산개발위원회운영지침#JO0017"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20170626",
+      "promulgation_no": "17",
+      "content": "부칙 <제17호,2017. 6. 26.>제1조(시행일) 이 지침은 제정한 날로부터 시행한다.제2조(경과조치) 대구 관제시설 및 흐름관리시설에 대한 시행은 정상운영 개시 이후에 적용한다."
+    },
+    {
+      "promulgation_date": "20201230",
+      "promulgation_no": "80",
+      "content": "부칙 <제80호,2020. 12. 30.>제1조(시행일) 이 지침은 개정한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20231030",
+      "promulgation_no": "128",
+      "content": "부칙 <제128호, 2023. 10. 30.>제1조(시행일) 이 지침은 개정한 날로부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "항공교통본부 전산개발위원회 위원",
+      "enforcement_date": "",
+      "content": "[별표 1]\n항공교통본부 전산개발위원회 위원\n항공교통본부\nㅇ 위원장: 항행시설운영과 과장\nㅇ 부위원장: 항행시설운영과 항행정보계장 또는 항행통신계장\nㅇ 간사: 항행시설운영과 항행정보주무관\nㅇ 위원: 항행시설운영과 항행통신계장\nㅇ 위원: 항공관제과 관제운영계장\nㅇ 위원: 항공교통조정과 운영팀장\n인천항공교통관제소\nㅇ 부위원장: 통신전자과 전산계장 또는 전자계장\nㅇ 간사: 통신전자과 전산주무관\nㅇ 위원: 통신전자과 통신계장\nㅇ 위원: 통신전자과 전자계장\nㅇ 위원: 항공관제과 관제운영계장\n항로시설본부\nㅇ 위원: 시스템정보부 소장\nㅇ 위원: 항행전자부 소장\nㅇ 위원: 항행통신부 소장(항공교통관제통신시스템 안건인 경우)\n인천항공교통시설단\nㅇ 위원: 시스템정보부 소장\nㅇ 위원: 항행전자부 소장\nㅇ 위원: 항행통신부 소장(항공교통관제통신시스템 안건인 경우)",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000243956&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142234931",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142234927",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142234931",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:전산개발위원회운영지침#BYL0001",
+      "filename": "별표1_항공교통본부 전산개발위원회 위원.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "전산개발 요구서",
+      "enforcement_date": "",
+      "content": "[별지 1호 서식]\n\n전산개발 요구서\n┌─────┬───────────────┐\n│①제    목│                              │\n├─────┼┬─────┬────────┤\n│②제안부서││③제안일자│  20  .   .   . │\n├─────┴┴─────┴────────┤\n│■ 목적 및 현황                           │\n│ 1.                                       │\n├─────────────────────┤\n│■ 개발 요구 사항                         │\n│ 1.                                       │\n├─────────────────────┤\n│■ 기대 효과                              │\n│ 1.                                       │\n└─────────────────────┘\n전산개발 요구서",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142234937",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142234933",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142234937",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:전산개발위원회운영지침#BJ0001",
+      "filename": "별지1_전산개발 요구서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "서명지",
+      "enforcement_date": "",
+      "content": "(별지 2호 서식-서명지)\n┌──────┬────┬────┬───┐\n│⑦ 참 석 자 │        │심의번호│      │\n├──────┴┬───┼────┴┬──┤\n│직 책         │성 명 │확인(서명)│비고│\n├───────┼───┼─────┼──┤\n│위원장        │      │          │    │\n├───────┼───┼─────┼──┤\n│부위원장      │      │          │    │\n├───────┼───┼─────┼──┤\n│간사          │      │          │    │\n├───────┼───┼─────┼──┤\n│              │      │          │    │\n├───────┼───┼─────┼──┤\n│              │      │          │    │\n├───────┼───┼─────┼──┤\n│              │      │          │    │\n├───────┼───┼─────┼──┤\n│              │      │          │    │\n├───────┼───┼─────┼──┤\n│              │      │          │    │\n├───────┼───┼─────┼──┤\n│              │      │          │    │\n├───────┼───┼─────┼──┤\n│              │      │          │    │\n├───────┼───┼─────┼──┤\n│              │      │          │    │\n├───────┼───┼─────┼──┤\n│              │      │          │    │\n├───────┼───┼─────┼──┤\n│              │      │          │    │\n├───────┼───┼─────┼──┤\n│              │      │          │    │\n├───────┼───┼─────┼──┤\n│              │      │          │    │\n└───────┴───┴─────┴──┘\n전산개발위원회 의결서",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142234943",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142234939",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142234943",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:전산개발위원회운영지침#BJ0002",
+      "filename": "별지2_서명지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "시험 및 검증결과 보고서",
+      "enforcement_date": "",
+      "content": "[별지 3호 서식]\n\n시험 및 검증결과 보고서\n┏━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃①제    목    │                                                                  ┃\n┠───────┼─────┬────────┬────┬────┬────────┨\n┃②심의번호    │          │③구버젼        │        │④신버젼│                ┃\n┣━┯━┯━━━┷━━━┯━┷━━━━━━━━┷━━━━┷━━━━┷━━━━━━━━┫\n┃⑤│⑥│⑦시험결과    │□ 요구사항 수용     □ 재검토                            ┃\n┃시│항│및 의견       ├─────────────────────────────┨\n┃험│로│              │                                                          ┃\n┃결│시├──┬────┼─────────┬────┬──────────────┨\n┃과│설│1   │시험일자│20  .  .  .       │시험자  │(서명)                      ┃\n┃  │본│차  ├────┴─────────┴────┴──────────────┨\n┃보│부│시  │                                                                    ┃\n┃고│  │험  │                                                                    ┃\n┃  │  ├──┼────┬─────────┬────┬──────────────┨\n┃  │  │2   │시험일자│20  .  .  .       │시험자  │(서명)                      ┃\n┃  │  │차  ├────┴─────────┴────┴──────────────┨\n┃  │  │시  │                                                                    ┃\n┃  │  │험  │                                                                    ┃\n┃  │  ├──┼────┬─────────┬────┬──────────────┨\n┃  │  │3   │시험일자│20  .  .  .       │시험자  │(서명)                      ┃\n┃  │  │차  ├────┴─────────┴────┴──────────────┨\n┃  │  │시  │                                                                    ┃\n┃  │  │험  │                                                                    ┃\n┣━┿━┿━━┿━━━━┯━━━━━━━━━┯━━━━┯━━━━━━━━━━━━━━┫\n┃⑧│⑨│O   │설치일시│20  .  .  . 00:00 │검증기간│20  .  .  .  ~ 20  .  .  .  ┃\n┃검│항│P   ├────┴─────────┴────┴──────────────┨\n┃증│로│검  │                                                                    ┃\n┃결│시│증  ├────┬─────────────────────────────┨\n┃과│설│    │확인자  │(서명)                                                    ┃\n┃  │본│    │        │                                                          ┃\n┃보│부│    │        │                                                          ┃\n┃고┝━┿━━┿━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃  │⑩│사  │□ 적용   □ 재검토   □ 도입시기조정                               ┃\n┃  │항│용  ├──────────────────────────────────┨\n┃  │공│자  │                                                                    ┃\n┃  │교│    ├─────┬──────────┬────┬────────────┨\n┃  │통│의  │          │(서명)              │        │(서명)                  ┃\n┃  │본│견  │          │                    │        │                        ┃\n┃  │부│    │          │                    │        │                        ┃\n┗━┷━┷━━┷━━━━━┷━━━━━━━━━━┷━━━━┷━━━━━━━━━━━━┛\n시험 및 검증결과 보고서",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142234949",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142234945",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142234949",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:전산개발위원회운영지침#BJ0003",
+      "filename": "별지3_시험 및 검증결과 보고서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "전산개발위원회 서면심의 의견서",
+      "enforcement_date": "",
+      "content": "[별지 4호 서식]\n\n전산개발위원회 서면심의 의견서\n┌─────┬─────────────────────────┐\n│①제    목│                                                  │\n├─────┼──┬─────┬─┬─────┬────────┤\n│②제안부서│    │③심의번호│  │④제안일자│20  .   .   .   │\n┢━━━━━┷━━┿━━━━━┷━┷━━━━━┷━━━━━━━━┪\n┃⑤서면심의 사유 │                                            ┃\n┡━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━┩\n│⑥심의내용                                                    │\n│                                                              │\n│■ 목적 및 현황                                               │\n│ 1.                                                           │\n│                                                              │\n│                                                              │\n│                                                              │\n│                                                              │\n│                                                              │\n│■ 개발 요구 사항                                             │\n│ 1.                                                           │\n│                                                              │\n│                                                              │\n│                                                              │\n│                                                              │\n├───────────────────────────────┤\n│⑦검토의견                                                    │\n│                                                              │\n│                                                              │\n│ 1. (개발요구사항에 대한 검토의견 및 향후 적용일정 등을 기재) │\n│                                                              │\n│                                                              │\n│                                                              │\n│                                                              │\n│                                                              │\n│                                                              │\n│                                                              │\n┢━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━┪\n┃⑧판    정│채 택  /  기 각                                   ┃\n┣━━━━━┿━━━┯━━━━━┯━━┯━━━━━━━━━━━━┫\n┃⑨위원확인│직책  │          │성명│(서명)                  ┃\n┗━━━━━┷━━━┷━━━━━┷━━┷━━━━━━━━━━━━┛\n전산개발위원회 서면심의 의견서",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142234955",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142234951",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142234955",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:전산개발위원회운영지침#BJ0004",
+      "filename": "별지4_전산개발위원회 서면심의 의견서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "전산개발위원회 운영지침 개정(안) 전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=142230737",
+      "file_store_url": "",
+      "filename": "전산개발위원회 운영지침 개정(안) 전문.hwpx"
+    },
+    {
+      "name": "전산개발위원회 운영지침 개정(안) 전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=142230741",
+      "file_store_url": "",
+      "filename": "전산개발위원회 운영지침 개정(안) 전문.pdf"
+    },
+    {
+      "name": "(양식)조문별제개정이유서_행정규칙.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=142227891",
+      "file_store_url": "",
+      "filename": "(양식)조문별제개정이유서_행정규칙.hwp"
+    },
+    {
+      "name": "(양식)조문별제개정이유서_행정규칙.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=142227895",
+      "file_store_url": "",
+      "filename": "(양식)조문별제개정이유서_행정규칙.pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 21,
+    "by_category": {
+      "별표": 1,
+      "행정규칙": 16,
+      "별지": 4
+    },
+    "by_relation_type": {
+      "appendix_ref": 5,
+      "internal_ref": 15,
+      "citation": 1
+    },
+    "articles_total": 17,
+    "articles_with_relations": 12,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 3,
+    "appendices_count": 5,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/전산개발위원회 운영지침"
+  },
+  "provision_id": "admrul:전산개발위원회운영지침#DOC"
+}
