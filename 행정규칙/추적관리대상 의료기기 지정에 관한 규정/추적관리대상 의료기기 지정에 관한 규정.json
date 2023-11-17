@@ -1,0 +1,389 @@
+{
+  "law_id": "2100000231714",
+  "mst": "2100000231714",
+  "law_name": "추적관리대상 의료기기 지정에 관한 규정",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000231714",
+  "promulgation_no": "2023-70",
+  "promulgation_date": "20231117",
+  "enforcement_date": "20231117",
+  "revision_date": "20231117",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "식품의약품안전처(의료기기 안전평가과)",
+    "담당자명": "김규미",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "추적관리대상 의료기기 지정에 관한 규정",
+    "발령일자": "20231117",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "식품의약품안전처",
+    "전화번호": "043-719-5005",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1471000",
+    "생성일자": "20231123",
+    "행정규칙ID": "33378",
+    "시행일자": "20231117",
+    "담당부서기관코드": "1471200",
+    "발령번호": "2023-70",
+    "행정규칙일련번호": "2100000231714",
+    "상위부처명": "식품의약품안전처"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n추적관리대상 의료기기의 지정ㆍ해제에 대한 기준 및 절차를 마련하여 행정절차를 명확히 하고, 추적관리대상 의료기기의 품목명을 「의료기기 품목 및 품목별 등급에 관한 규정」에서 정한 품목명과 일치시키고자 함\n◇ 주요내용\n가. 추적관리대상 의료기기 지정ㆍ해제에 대한 기준 및 절차 마련(안 제2조 및 제2조의2)\n추적관리대상 의료기기의 지정 및 해제를 위한 구체적인 검토 기준(부작용 또는 결함의 발생가능성, 위해의 심각성 등) 및 주기적 검토절차(매 3년마다 정기적으로 검토, 의료기기위원회 심의)를 규정함\n나. 추적관리대상 의료기기의 품목명 개정(안 제2조의3)\n기존 지정된 추적관리대상 의료기기의 품목명을「의료기기 품목 및 품목별 등급에 관한 규정」에서 정한 품목명과 일치시켜 민원인의 업무 혼선을 미연에 방지하고자 함",
+  "body": {
+    "format": "articles",
+    "article_count": 5,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 고시는 「의료기기법」제29조 및 같은 법 시행규칙 제49조제1항제1호ㆍ제2호 및 「체외진단의료기기법」 제4조에 따라 추적관리대상 의료기기를 지정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제29조",
+            "line_text": "",
+            "target_law_name": "의료기기법",
+            "target_article_no": "제29조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/의료기기법/제29조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:추적관리대상의료기기지정에관한규정#JO0001",
+            "reference_id": "law:의료기기법#JO0029"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행규칙",
+            "line_text": "",
+            "target_law_name": "의료기기법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/의료기기법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:추적관리대상의료기기지정에관한규정#JO0001",
+            "reference_id": "law:의료기기법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제49조제1항제1호",
+            "line_text": "",
+            "target_law_name": "의료기기법 시행규칙",
+            "target_article_no": "제49조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/의료기기법 시행규칙/제49조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:추적관리대상의료기기지정에관한규정#JO0001",
+            "reference_id": "law:의료기기법시행규칙#JO0049"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「체외진단의료기기법」",
+            "line_text": "",
+            "target_law_name": "체외진단의료기기법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/체외진단의료기기법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:추적관리대상의료기기지정에관한규정#JO0001",
+            "reference_id": "law:체외진단의료기기법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "체외진단의료기기법",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/체외진단의료기기법/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:추적관리대상의료기기지정에관한규정#JO0001",
+            "reference_id": "law:체외진단의료기기법#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:추적관리대상의료기기지정에관한규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "지정기준 등",
+        "chapter": "",
+        "content": "제2조(지정기준 등) ① 식품의약품안전처장(이하 \"식약처장\")은 다음 각 호의 사항을 종합적으로 검토하여 법 제29조제1항 각 호의 어느 하나에 해당하는 의료기기를 추적관리대상 의료기기로 지정할 수 있다.1. 부작용 또는 결함 발생 가능성에 관한 사항2. 위해의 심각성에 관한 사항3. 소재파악의 필요성에 관한 사항4. 그 밖에 국민 보건의 위해 방지를 위한 추적관리대상 의료기기로의 지정 필요성에 관한 사항② 식약처장은 제1항에 따라 지정된 추적관리대상 의료기기가 허가 또는 인증 취하, 중대한 이상사례 미발생 등 사유로 추적관리를 지속할 필요성이 낮다고 인정하는 경우 그 지정을 해제할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제1항",
+            "link_text": "법 제29조제1항",
+            "line_text": "",
+            "target_law_name": "의료기기법",
+            "target_article_no": "제29조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/의료기기법/제29조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:추적관리대상의료기기지정에관한규정#JO0002",
+            "reference_id": "law:의료기기법#JO0029"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:추적관리대상의료기기지정에관한규정#JO0002"
+      },
+      {
+        "article_no": "제2조의2",
+        "article_title": "지정절차 등",
+        "chapter": "",
+        "content": "제2조의2(지정절차 등) ① 식약처장은 제2조의 지정기준 등에 따라 추적관리대상 의료기기의 지정 또는 해제의 필요성을 매 3년마다 정기적으로 검토하여야 한다. 다만, 매 3년 이전이라도 필요한 경우 추적관리대상 의료기기의 지정 또는 해제 여부를 검토할 수 있다.② 식약처장은 제1항에 따른 검토를 위하여 법 제5조제1항에 따른 의료기기위원회의 심의를 받을 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제2조의2",
+            "source_clause": "제2조의2제1항",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "추적관리대상 의료기기 지정에 관한 규정",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/추적관리대상 의료기기 지정에 관한 규정/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:추적관리대상의료기기지정에관한규정#JO0002_02",
+            "reference_id": "admrul:추적관리대상의료기기지정에관한규정#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조의2",
+            "source_clause": "제2조의2제2항",
+            "link_text": "법 제5조제1항",
+            "line_text": "",
+            "target_law_name": "의료기기법",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/의료기기법/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:추적관리대상의료기기지정에관한규정#JO0002_02",
+            "reference_id": "law:의료기기법#JO0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:추적관리대상의료기기지정에관한규정#JO0002_02"
+      },
+      {
+        "article_no": "제2조의3",
+        "article_title": "지정대상",
+        "chapter": "",
+        "content": "제2조의3(지정대상) 추적관리대상 의료기기의 지정대상은 다음 각호와 같다.1. 인체안에 1년 이상 삽입되는 의료기기가. 실리콘겔인공유방나. 이식형 심장충격기용 전극다. 인공 측두 하악골 관절라. 특수재질 인공 측두 하악골 관절마. 인공 안면 아래턱 관절바. 특수재질 인공 안면 아래턱 관절사. 대동맥 그라프트 스텐트(복부대동맥 및 흉부대동맥 그라프트 스텐트에 한한다.)차. 심리요법용 뇌용 전기 자극장치(이식형에 한한다.)카. 발작방지용 뇌 전기 자극장치(이식형에 한한다.)타. 진동용 뇌 전기 자극장치(이식형에 한한다.)파. 이식형 통증완화 전기 자극장치하. 이식형 통증 제거용 전기 자극장치거. 이식형 전기 자극장치용 전극(차목부터 하목까지의 의료기기에 사용되는 전극에 한한다.)너. 보조 심장장치더. 횡격신경 전기 자극장치러. 중심순환계 인공 혈관머. 비중심순환계 인공 혈관버. 콜라겐 사용 인공 혈관서. 헤파린 사용 인공 혈관어. 윤상 성형용 고리저. 이식형 인슐린 주입기처. 유헬스케어 이식형 인슐린 주입기커. 이식형 말초신경 무통법 전기 자극장치터. 이식형 보행 신경근 전기 자극장치퍼. 이식형 요실금 신경근 전기 자극장치허. 이식형 척주측만증 신경근 전기 자극장치고. 혼수 각성용 미주신경 전기 자극장치노. 경동맥동 신경 자극장치도. 이식형 전기 배뇨억제기로. 척수이식 배뇨 장치모. 심장박동기 리드 어댑터보. 이식형 심장박동기 수리 교체 재료소. 특수재질 인공 엉덩이 관절오. 특수재질 인공 무릎 관절조. 특수재질 인공 어깨 관절초. 특수재질 인공 손목 관절코. 특수재질 인공 팔꿈치 관절토. 특수재질 인공 발목 관절포. 인공 엉덩이 관절(관절 접촉면이 모두 금속 재질인 경우에 한한다.)2. 생명유지용 의료기기 중 의료기관 외의 장소에서 사용이 가능한 의료기기가. 저출력 심장 충격기나. 고출력 심장 충격기다. 호흡 감시기(상시 착용하는 것에 한한다.)",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:추적관리대상의료기기지정에관한규정#JO0002_03"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "규제의 재검토",
+        "chapter": "",
+        "content": "제3조(규제의 재검토) 「행정규제기본법」제8조 및「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제248호)에 따라 2014년 1월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「행정규제기본법」",
+            "line_text": "",
+            "target_law_name": "행정규제기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/행정규제기본법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:추적관리대상의료기기지정에관한규정#JO0003",
+            "reference_id": "law:행정규제기본법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제8조",
+            "line_text": "",
+            "target_law_name": "행정규제기본법",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/행정규제기본법/제8조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:추적관리대상의료기기지정에관한규정#JO0003",
+            "reference_id": "law:행정규제기본법#JO0008"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:추적관리대상의료기기지정에관한규정#JO0003",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:추적관리대상의료기기지정에관한규정#JO0003"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20070718",
+      "promulgation_no": "2007-54",
+      "content": "부칙 <제2007-54호,2007. 7. 18.>이 고시는 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20081230",
+      "promulgation_no": "2008-85",
+      "content": "부칙 <제2008-85호,2008. 12. 30.>이 고시는 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20090824",
+      "promulgation_no": "2009-145",
+      "content": "부칙 <제2009-145호,2009. 8. 24.>이 고시는 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20120824",
+      "promulgation_no": "2012-53",
+      "content": "부칙 <제2012-53호,2012. 8. 24.>제1조(시행일) 이 고시는 고시 후 1개월이 경과한 날부터 시행한다.제2조(적용례) 제2조의 개정 규정은 이 고시 시행 후 최초로 제조 또는 수입되는 의료기기부터 적용된다."
+    },
+    {
+      "promulgation_date": "20130405",
+      "promulgation_no": "2013-169",
+      "content": "부칙 (정부조직개편에 따른 소관명칭 변경을 위한 민원의 전자적 신청 및 처리에 관한 규정 등 일부개정)<제2013-169호,2013. 4. 5.>이 고시는 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20131230",
+      "promulgation_no": "2013-258",
+      "content": "부칙 <제2013-258호,2013. 12. 30.>제1조(시행일) 이 고시는 고시 후 3개월이 경과한 날부터 시행한다.제2조(적용례) 제2조의 개정 규정은 이 고시 시행 후 최초로 제조 또는 수입되는 의료기기부터 적용된다."
+    },
+    {
+      "promulgation_date": "20140212",
+      "promulgation_no": "2014-95",
+      "content": "부칙 <제2014-95호,2014. 2. 12.>이 고시는 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20150403",
+      "promulgation_no": "2015-19",
+      "content": "부칙 <제2015-19호,2015. 4. 3.>제1조(시행일) 이 고시는 고시 후 6개월이 경과한 날부터 시행한다.제2조(적용례) 제2조의 개정 규정은 이 고시 시행 후 최초로 제조 또는 수입되는 의료기기부터 적용된다."
+    },
+    {
+      "promulgation_date": "20200225",
+      "promulgation_no": "2020-12",
+      "content": "부칙 (인용조문 정비 등을 위한 35개 고시의 일부개정고시)<제2020-12호,2020. 2. 25.>이 고시는 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20200501",
+      "promulgation_no": "2020-29",
+      "content": "부칙 (체외진단의료기기 허가·신고·심사 등에 관한 규정)<제2020-29호,2020. 5. 1.>이 고시는 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20231117",
+      "promulgation_no": "2023-70",
+      "content": "부칙 <제2023-70호, 2023. 11. 17.>이 고시는 고시한 날부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "조문별제개정이유서_행정규칙_추적관리대상 의료기기 지정에 관한 규정.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=134914587",
+      "file_store_url": "",
+      "filename": "조문별제개정이유서_행정규칙_추적관리대상 의료기기 지정에 관한 규정.hwpx"
+    },
+    {
+      "name": "추적관리대상 의료기기 지정에 관한 규정 전문(고시 제2023-70호).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=134916351",
+      "file_store_url": "",
+      "filename": "추적관리대상 의료기기 지정에 관한 규정 전문(고시 제2023-70호).hwpx"
+    },
+    {
+      "name": "추적관리대상 의료기기 지정에 관한 규정 전문(고시 제2023-70호).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=134916355",
+      "file_store_url": "",
+      "filename": "추적관리대상 의료기기 지정에 관한 규정 전문(고시 제2023-70호).pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 11,
+    "by_category": {
+      "법령": 9,
+      "행정규칙": 2
+    },
+    "by_relation_type": {
+      "citation": 10,
+      "internal_ref": 1
+    },
+    "articles_total": 5,
+    "articles_with_relations": 4,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 11,
+    "appendices_count": 0,
+    "attachments_count": 3
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/추적관리대상 의료기기 지정에 관한 규정"
+  },
+  "provision_id": "admrul:추적관리대상의료기기지정에관한규정#DOC"
+}
