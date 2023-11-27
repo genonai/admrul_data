@@ -1,0 +1,699 @@
+{
+  "law_id": "2100000231796",
+  "mst": "2100000231796",
+  "law_name": "참조표준 제정 및 보급에 관한 운영요령",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000231796",
+  "promulgation_no": "2023-549",
+  "promulgation_date": "20231127",
+  "enforcement_date": "20231127",
+  "revision_date": "20231127",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국가기술표준원(표준정책과)",
+    "담당자명": "전종윤",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "참조표준 제정 및 보급에 관한 운영요령",
+    "발령일자": "20231127",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국가기술표준원",
+    "전화번호": "043-870-5345",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1451000",
+    "생성일자": "20231128",
+    "행정규칙ID": "34912",
+    "시행일자": "20231127",
+    "담당부서기관코드": "1450194",
+    "발령번호": "2023-549",
+    "행정규칙일련번호": "2100000231796",
+    "상위부처명": "산업통상부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\nㅇ 참조표준 평가ㆍ심의 절차의 효율적인 수행과 개발ㆍ활용 확산을 위해서 「참조표준 제정 및 보급에 관한 운영요령」의 일부개정 추진\n◇ 주요내용\n가. 용어의 정의 재정립 (제2조)\n- ‘참조표준’정의를 상위법(국가표준기본법)에 맞추고 ‘참조데이터’ 및 ‘국가참조표준데이터센터’ 의미를 구체화 및 명확화, 활용이 없는 ‘협력기관’정의는 삭제\n나. 참조표준 개발주체 확대 (제8조)\n- 참조표준 재ㆍ개정 신청자격을 기존 ‘데이터센터’에서 일반연구자에게도 개방\n다. 데이터센터 관리 명확화 (제9조)\n- 데이터센터의 관리주체를 명확히하고 데이터센터 휴지ㆍ폐지에 대한 사항도 포함\n라. 참조표준 평가기준 명확화 (제13조)\n- 해석의 혼동을 유발하는 일부 평가기준(호환성, 재현성, 일관성)을 이해하기 쉽게 상세적으로 표현하고, 중복된 평가기준은 삭제\n마. 문구 및 어구 수정 (제4조, 제6조, 제7조, 제10조∼제18조 등)\n- ‘등록’,‘개발’→‘제정ㆍ개정’ 등 기타 용어통일, 애매한 문구ㆍ표현 수정, 논리적 내용전개를 위해 일부 조항 순서 재배열* 등\n*  기존 제15조 → 현재 제11조\n기존 제11조 → 현재 제12조\n기존 제12조 → 현재 제13조\n기존 제13조 → 현재 제14조\n기존 제14조 → 현재 제15조",
+  "body": {
+    "format": "articles",
+    "article_count": 20,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장  총  칙",
+        "content": "제1조(목적) 이 요령은 「국가표준기본법」(이하 \"기본법\"이라 한다) 제16조 및 동법 시행령(이하 \"시행령\"이라 한다) 제14조에서 규정하고 있는 참조표준의 제정과 보급을 위하여 위임된 사항과 그 시행에 필요한 세부 사항의 규정을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제16조",
+            "line_text": "",
+            "target_law_name": "국가표준기본법",
+            "target_article_no": "제16조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가표준기본법/제16조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0001",
+            "reference_id": "law:국가표준기본법#JO0016"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "동법 시행령",
+            "line_text": "",
+            "target_law_name": "국가표준기본법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가표준기본법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0001",
+            "reference_id": "law:국가표준기본법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제14조",
+            "line_text": "",
+            "target_law_name": "국가표준기본법 시행령",
+            "target_article_no": "제14조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가표준기본법 시행령/제14조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0001",
+            "reference_id": "law:국가표준기본법시행령#JO0014"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "용어의 정의",
+        "chapter": "제1장  총  칙",
+        "content": "제2조(용어의 정의) 이 요령에서 사용하는 용어는 기본법에서 규정된 관련 정의와 다음의 용어 정의에 따른다.1. \"참조표준\"이란 측정데이터 및 정보의 정확도와 신뢰도를 과학적으로 분석ㆍ평가하여 공인된 것으로서 국가사회의 모든 분야에서 널리 지속적으로 사용되거나 반복사용할 수 있도록 마련된 물리화학적 상수, 물성값, 과학기술적 통계 등을 말한다.2. \"참조데이터\"란 참조표준으로 제정ㆍ개정되기 전에 국가참조표준데이터센터가 참조표준 기술평가기준에 따라 자체적으로 분석ㆍ평가한 측정데이터 및 정보를 말한다.3. <삭 제>4. <삭 제>5. <삭 제>6. \"국가참조표준데이터센터\"(이하 \"데이터센터\"라 한다)란 참조표준을 제정ㆍ개정할 수 있는 능력을 인정받아 지정된 기관으로서 세부업무규정에서 정한 데이터센터의 기능을 수행하는 기관을 말한다.7. <삭 제>8. 기타 용어는 「산업기술혁신사업 공통 운영요령」에 있는 정의를 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「산업기술혁신사업 공통 운영요령」",
+            "line_text": "",
+            "target_law_name": "산업기술혁신사업 공통 운영요령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/산업기술혁신사업 공통 운영요령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0002",
+            "reference_id": "admrul:산업기술혁신사업공통운영요령#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "국가참조표준센터",
+        "chapter": "제2장 국가참조표준센터",
+        "content": "제3조(국가참조표준센터) 산업통상자원부장관은 시행령 제14조제2항의 규정에 따라 참조표준의 제정 및 보급의 원활한 수행을 위하여 한국표준과학연구원에 국가참조표준센터(이하 \"참조표준센터\"라 한다)를 설치한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "시행령",
+            "line_text": "",
+            "target_law_name": "국가표준기본법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가표준기본법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0003",
+            "reference_id": "law:국가표준기본법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제14조제2항",
+            "line_text": "",
+            "target_law_name": "국가표준기본법 시행령",
+            "target_article_no": "제14조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가표준기본법 시행령/제14조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0003",
+            "reference_id": "law:국가표준기본법시행령#JO0014"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "참조표준센터의 기능",
+        "chapter": "제2장 국가참조표준센터",
+        "content": "제4조(참조표준센터의 기능) 참조표준센터는 다음 각 호의 역할을 수행한다.1. 데이터센터 발굴에 관한 사항2. 데이터센터의 관리 및 운영에 관한 사항3. 참조표준 수요조사 및 제정ㆍ개정 계획 수립에 관한 사항4. 기술위원회 전문가풀 구축ㆍ운영 및 교육ㆍ인력양성에 관한 사항5. 운영위원회 운영에 관한 사항6. <삭 제>7. 참조표준 관련 문헌 및 해외정보 수집, 가공 및 보급, 데이터 신뢰성 연구에 관한 사항8. 참조표준 제정ㆍ개정 관련 업무, DB 구축 및 보급에 관한 사항9. 참조표준 관련 외국기관과 협력에 관한 사항10. 참조표준 홍보, 세미나 및 워크숍 개최에 관한 사항11. 기타 국가기술표준원장이 요청하는 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "참조표준센터장",
+        "chapter": "제2장 국가참조표준센터",
+        "content": "제5조(참조표준센터장) ① 참조표준센터장(이하 \"센터장\"이라 한다)은 한국표준과학연구원장이 운영위원회 재적 위원 3분의 2 이상의 동의를 얻어 임명한다.② 한국표준과학연구원장은 센터장의 임명에 관한 사항을 국가기술표준원장에게 즉시 보고하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "운영위원회",
+        "chapter": "제2장 국가참조표준센터",
+        "content": "제6조(운영위원회) ① 참조표준 제정 및 보급의 공정성 및 투명성과 효율적인 운영에 관한 사항을 심의하기 위하여 참조표준센터에 운영위원회를 설치ㆍ운영한다.② 운영위원회는 다음 각호의 사항을 심의한다.1. 참조표준 제정ㆍ개정 계획에 관한 사항2. 제15조에 따른 참조표준의 제정ㆍ개정에 대한 적정성 평가 사항3. 참조표준의 이의 사항4. 데이터센터 지정, 휴지ㆍ폐지에 관한 사항5. 참조표준센터 운영 및 세부업무규정의 제정ㆍ개정에 관한 사항6. <삭 제>7. 참조표준의 확산 및 보급에 관한 사항8. 기타 국가기술표준원장이 요청하는 사항③ 운영위원회 위원은 다음 각 호의 어느 하나에 해당하는 자 중에서 11인 이내로 구성한다. 다만, 본항 제4호 및 제5호의 위원이 그 직에 변동이 있을 경우 후임자가 위원이 된다.1. 산업체에서 해당 분야에 10년 이상 근무경력이 있는 자2. 대학(산업대학, 방송통신대학 또는 기술대학 포함)에서 4년 이상 해당 전문분야의 연구경력이 있는 자3. 연구소 등에서 해당 분야에 7년 이상 근무경력이 있는 전문가4. 국가기술표준원의 표준분야 담당 공무원5. 센터장6. 그 밖에 분야의 학식과 경험이 풍부한 자 중에서 국가기술표준원장이 요청한 자④ 전항 제4호 및 제5호의 위원을 제외한 위원의 임기는 2년으로 하되 연임할 수 있다.⑤ 위원회의 의장은 위원 중에서 호선으로 결정하며 위원회 업무를 총괄하고 대표한다.⑥ 위원회의 의장은 부의장을 지명할 수 있으며, 지명받은 부의장은 의장의 궐위 시 의장의 업무를 대행한다.⑦ 위원회의 업무를 담당하기 위하여 간사를 두며 간사는 참조표준센터 직원 중에서 센터장이 임명한다.⑧ 위원이 부득이한 사유로 회의에 참석할 수 없을 때는 서면으로 의견을 제출할 수 있다.⑨ 회의는 재적 위원 과반수 출석으로 개의하고 출석위원 과반수 찬성으로 의결한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "제15조",
+            "line_text": "",
+            "target_law_name": "참조표준 제정 및 보급에 관한 운영요령",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/참조표준 제정 및 보급에 관한 운영요령/제15조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0006",
+            "reference_id": "admrul:참조표준제정및보급에관한운영요령#JO0015"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "기술위원회",
+        "chapter": "제2장 국가참조표준센터",
+        "content": "제7조(기술위원회) ① 센터장은 평가 기준 제정ㆍ개정 및 참조표준(안)의 평가를 위하여 각계의 전문가로 구성된 기술위원회의 전문가풀을 구성ㆍ유지하여야 한다.② 기술위원회는 다음 각 호의 역할을 수행한다.1. 참조표준(안)의 생산절차서 및 평가절차서 제정ㆍ개정 심의에 관한 사항2. 참조표준 제정ㆍ개정을 위한 기술평가에 관한 사항3. <삭 제>4. 참조표준의 확산 및 보급에 관한 사항5. 기타 센터장이 요청한 사항③ 기술위원회 위원은 공정한 평가 및 위원회 활동 중에 취득한 정보에 대하여 비밀을 유지하여야 한다.④ 기술위원회 위원의 자격, 임기, 의장 선임 등 기술위원회 운영에 필요한 사항은 센터장이 세부업무규정을 정하여 운영한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "기술위원회 소집",
+        "chapter": "제2장 국가참조표준센터",
+        "content": "제8조(기술위원회 소집) ① 참조표준을 제정ㆍ개정하고자 하는 자(이하 \"참조표준 제정ㆍ개정 신청자\"라 한다)는 생산된 참조표준(안)의 평가 및 심의를 위하여 센터장에게 기술위원회 소집을 요청할 수 있다.② 참조표준 제정ㆍ개정 신청자로부터 위원회 소집 신청을 받은 센터장은 기술위원회 전문가풀 중에서 해당 분야의 심의에 적합한 전문가를 선정하여 30일 이내에 기술위원회를 개최하고 그 결과를 참조표준 제정ㆍ개정 신청자에게 통보하여야 한다.③ 센터장은 참조표준(안)의 평가 및 심의를 효율적으로 수행하기 위해 비대면 기술위원회를 소집ㆍ운영할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "데이터센터 지정 및 휴지ㆍ폐지",
+        "chapter": "제2장 국가참조표준센터",
+        "content": "제9조(데이터센터 지정 및 휴지ㆍ폐지) ① 국가기술표준원장은 참조표준의 제정ㆍ개정 및 보급을 위해 데이터의 신뢰도와 정확도에 대한 관리체계를 갖춘 기관을 데이터센터로 지정할 수 있다.② 국가기술표준원장은 제1항에 따른 기관에 대해 별지 제1호서식에 따른 데이터센터 증서를 발급하고 이를 공고한다.③ 국가기술표준원장은 지정된 데이터센터를 휴지ㆍ폐지할 수 있으며 이를 공고한다.④ 데이터센터의 지정, 휴지ㆍ폐지 방법 및 절차 등에 필요한 사항은 센터장이 세부업무규정을 정하여 운영한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제2항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "참조표준 제정 및 보급에 관한 운영요령",
+            "target_article_no": "별지1",
+            "target_article_title": "국가참조표준 데이터센터",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=135000775",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0009",
+            "reference_id": "admrul:참조표준제정및보급에관한운영요령#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "참조표준 수요조사 및 제정ㆍ개정 계획 수립",
+        "chapter": "제2장 국가참조표준센터",
+        "content": "제10조(참조표준 수요조사 및 제정ㆍ개정 계획 수립) ① 센터장은 참조표준의 기획ㆍ평가ㆍ관리에 관한 업무를 효율적으로 추진하기 위해 계획을 수립하여 국가기술표준원장에게 보고하여야 한다.② 참조표준 수요의 발굴 및 평가 등에 필요한 사항은 센터장이 세부업무규정을 정하여 운영한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "참조표준 제정ㆍ개정 등",
+        "chapter": "제3장 참조표준의 제정ㆍ개정 및 보급",
+        "content": "제11조(참조표준 제정ㆍ개정 등) ① 센터장은 참조표준의 체계적인 관리 및 보급을 위해 참조표준에 대하여 제정ㆍ개정을 지원하고 관리하여야 한다.② 참조표준의 제정ㆍ개정 및 관리 등에 필요한 사항은 센터장이 세부업무규정을 정하여 운영한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "참조표준 분류기준",
+        "chapter": "제3장 참조표준의 제정ㆍ개정 및 보급",
+        "content": "제12조(참조표준 분류기준) ① 센터장은 참조표준의 기획ㆍ평가ㆍ관리에 관한 업무를 효율적으로 추진하기 위해 참조표준 분류기준을 수립하여야 한다.② 참조표준 분류기준은 별표 1과 같으며, 센터장은 수요 및 기술 동향 등을 고려하여 분류체계를 변경할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제2항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "참조표준 제정 및 보급에 관한 운영요령",
+            "target_article_no": "별표1",
+            "target_article_title": "참조표준 분류기준",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000231796&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0012",
+            "reference_id": "admrul:참조표준제정및보급에관한운영요령#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "참조표준 기술평가기준",
+        "chapter": "제3장 참조표준의 제정ㆍ개정 및 보급",
+        "content": "제13조(참조표준 기술평가기준) ① 제7조제2항제2호 규정에 의한 참조표준 기술평가기준은 다음과 같다.1. 측정하고자 하는 양과 목적이 명확하게 명시되어 있는지 여부2. 측정방법의 상세한 설명 여부 및 적절성3. 측정절차의 상세한 설명 여부 및 적절성4. 측정결과의 소급성 확보 여부5. 측정결과에 포함된 불확도 평가의 적절성 여부6. 측정결과가 이론적 관계식에 따라 산출된 결과와 일치하는지 여부7. 측정결과가 다른 측정에서 보고된 결과와 일치하는지 여부8. 측정결과가 관련된 특성과의 합리적인 상관관계 또는 경향성이 있는지 여부9. <삭 제>10. <삭 제>② 기술위원회는 제7조제2항제2호 규정에 따라 참조표준(안)을 평가할 때에는 해당 데이터의 속성을 충분히 고려하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제1항",
+            "link_text": "제7조제2항제2호",
+            "line_text": "",
+            "target_law_name": "참조표준 제정 및 보급에 관한 운영요령",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/참조표준 제정 및 보급에 관한 운영요령/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0013",
+            "reference_id": "admrul:참조표준제정및보급에관한운영요령#JO0007"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제2항",
+            "link_text": "제7조제2항제2호",
+            "line_text": "",
+            "target_law_name": "참조표준 제정 및 보급에 관한 운영요령",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/참조표준 제정 및 보급에 관한 운영요령/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0013",
+            "reference_id": "admrul:참조표준제정및보급에관한운영요령#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "참조표준의 제정ㆍ개정 요건",
+        "chapter": "제3장 참조표준의 제정ㆍ개정 및 보급",
+        "content": "제14조(참조표준의 제정ㆍ개정 요건) 제7조제2항 규정에 의한 참조표준의 제정ㆍ개정 요건은 다음과 같다.① 제13조제1항제1호부터 제5호까지 만족하고, 제6호부터 제8호까지 중 한 호 이상을 만족하는 참조표준(안)은 참조표준으로 제정ㆍ개정한다.② <삭 제>③ <삭 제>④ <삭 제>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제14조",
+            "source_clause": "제14조",
+            "link_text": "제7조제2항",
+            "line_text": "",
+            "target_law_name": "참조표준 제정 및 보급에 관한 운영요령",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/참조표준 제정 및 보급에 관한 운영요령/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0014",
+            "reference_id": "admrul:참조표준제정및보급에관한운영요령#JO0007"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제1항",
+            "link_text": "제13조제1항제1호부터 제5호",
+            "line_text": "",
+            "target_law_name": "참조표준 제정 및 보급에 관한 운영요령",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/참조표준 제정 및 보급에 관한 운영요령/제13조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0014",
+            "reference_id": "admrul:참조표준제정및보급에관한운영요령#JO0013"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "참조표준의 제정ㆍ개정에 대한 적정성 평가",
+        "chapter": "제3장 참조표준의 제정ㆍ개정 및 보급",
+        "content": "제15조(참조표준의 제정ㆍ개정에 대한 적정성 평가) ① 제14조의 규정에 따른 참조표준 제정ㆍ개정에 대한 적정성 평가 기준은 다음과 같다.1. 평가 절차의 준수 여부2. 근거 서류의 구비 여부3. 제정ㆍ개정의 적정성 여부",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제1항",
+            "link_text": "제14조",
+            "line_text": "",
+            "target_law_name": "국가표준기본법 시행령",
+            "target_article_no": "제14조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가표준기본법 시행령/제14조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0015",
+            "reference_id": "law:국가표준기본법시행령#JO0014"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "참조표준의 보급",
+        "chapter": "제3장 참조표준의 제정ㆍ개정 및 보급",
+        "content": "제16조(참조표준의 보급) ① 국가의 예산을 투입하여 제정ㆍ개정된 참조표준의 저작권은 국가에 귀속함을 원칙으로 한다. 다만, 순수 민간자금에 의하여 제정ㆍ개정된 참조표준은 해당 기관과 협약에 따라 참조표준센터가 보급할 수 있다.② 제1항의 단서 규정에도 불구하고 해당 기관의 기술상 비밀보호 등을 위하여 필요한 경우 참조표준명 등 세부업무규정에서 정한 필수 공개 내용을 제외한 세부 내용은 비공개로 할 수 있다.③ 참조표준 보급과 관련하여 발생하는 수익금은 참조표준사업에 재투자하여야 한다.④ 참조표준 보급에 필요한 사항은 센터장이 세부업무규정을 정하여 운영한다.⑤ 센터장은 참조표준 유료화를 통해 활용 확산을 강화할 수 있으며 세부업무규정을 정하여 운영한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "지원대상사업 조사",
+        "chapter": "제4장 참조표준 활동 촉진을 위한 지원",
+        "content": "제17조(지원대상사업 조사) ① 국가기술표준원장은 참조표준 제정ㆍ개정 활성화를 위하여 센터장으로 하여금 참조표준 수요조사를 실시하고 참조표준 제정ㆍ개정 대상을 발굴ㆍ지원하게 할 수 있다.② 국가기술표준원장은 참조표준 제정 및 보급의 활성화를 위하여 참조표준센터 및 데이터센터, 그 밖에 국가기술표준원장이 정하는 표준 관련 연구기관 및 단체에 필요한 예산을 지원할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "사업결과의 활용",
+        "chapter": "제4장 참조표준 활동 촉진을 위한 지원",
+        "content": "제18조(사업결과의 활용) 센터장은 사업 결과를 관련 연구기관, 산업계, 학계 등에서 적극 활용할 수 있도록 홍보 및 공개하여야 한다. 다만, 제16조제2항에 따라 비공개로 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제18조",
+            "source_clause": "제18조",
+            "link_text": "제16조제2항",
+            "line_text": "",
+            "target_law_name": "국가표준기본법",
+            "target_article_no": "제16조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가표준기본법/제16조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0018",
+            "reference_id": "law:국가표준기본법#JO0016"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "권한의 위임",
+        "chapter": "제5장 행정사항",
+        "content": "제19조(권한의 위임) (삭제)",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "재검토기한",
+        "chapter": "제5장 행정사항",
+        "content": "제20조(재검토기한) 국가기술표준원장은「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 요령에 대하여 2018년 9월 1일을 기준으로 3년마다(매 3년이 되는 해의 기준일과 같은 날 전까지를 말한다) 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제20조",
+            "source_clause": "제20조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0020",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:참조표준제정및보급에관한운영요령#JO0020"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20060731",
+      "promulgation_no": "2006-86",
+      "content": "부칙 <제2006-86호,2006. 7. 31.>이 요령은 고시한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20090916",
+      "promulgation_no": "2009-211",
+      "content": "부칙 <제2009-211호,2009. 9. 16.>① (시행일) 이 요령은 고시한 날부터 시행한다.② (일반적인 경과조치) 이 요령 시행당시 종전의 요령(산업자원부 고시 제 2006 - 86호)의 규정 중 그에 해당하는 규정이 이 요령에 있는 경우, 종전 고시에 따른 행위는 이 요령에 의하여 행한 것으로 본다."
+    },
+    {
+      "promulgation_date": "20140110",
+      "promulgation_no": "2014-4",
+      "content": "부칙 <제2014-4호,2014. 1. 10.>① (시행일) 이 요령은 고시한 날부터 시행한다.② (경과조치) 이 요령 시행이전에 종전의 규정에 의하여 처리한 사항은 이 요령에 의해 처리된 것으로 간주한다."
+    },
+    {
+      "promulgation_date": "20141022",
+      "promulgation_no": "2014-195",
+      "content": "부칙 <제2014-195호,2014. 10. 22.>① (시행일) 이 요령은 고시한 날부터 시행한다.② (경과조치) 이 요령 시행이전에 종전의 규정에 의하여 처리한 사항은 이 요령에 의해 처리된 것으로 간주한다."
+    },
+    {
+      "promulgation_date": "20141201",
+      "promulgation_no": "2014-229",
+      "content": "부칙 <제2014-229호,2014. 12. 1.>제1조(시행일) 이 요령은 고시한 날부터 시행한다.제2조(경과조치) 이 요령 시행이전에 종전의 규정에 의하여 처리한 사항은 이 요령에 의해 처리된 것으로 간주한다."
+    },
+    {
+      "promulgation_date": "20171226",
+      "promulgation_no": "2017-703",
+      "content": "부칙 <제2017-703호,2017. 12. 26.>제1조(시행일) 이 요령은 고시한 날부터 시행한다.제2조(경과조치) 이 요령 시행이전에 종전의 규정에 의하여 처리한 사항은 이 요령에 의해 처리된 것으로 간주한다."
+    },
+    {
+      "promulgation_date": "20180829",
+      "promulgation_no": "2018-313",
+      "content": "부칙 <제2018-313호,2018. 8. 29.>제1조(시행일) 이 요령은 고시한 날부터 시행한다.제2조(경과조치) 이 요령 시행이전에 종전의 규정에 의하여 처리한 사항은 이 요령에 의해 처리된 것으로 간주한다."
+    },
+    {
+      "promulgation_date": "20210426",
+      "promulgation_no": "2021-103",
+      "content": "부칙 <제2021-103호, 2021. 4. 26.>제1조(시행일) 이 요령은 고시한 날부터 시행한다.제2조(경과조치) 이 요령 시행이전에 종전의 규정에 의하여 처리한 사항은 이 요령에 의해 처리된 것으로 간주한다."
+    },
+    {
+      "promulgation_date": "20231127",
+      "promulgation_no": "2023-549",
+      "content": "부칙 <제2023-549호, 2023. 11. 27.>제1조(시행일) 이 요령은 고시한 날부터 시행한다.제2조(경과조치) 이 요령 시행 이전에 종전의 규정에 의하여 처리한 사항은 이 요령에 의해 처리된 것으로 간주한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "참조표준 분류기준",
+      "enforcement_date": "",
+      "content": "[별표 1]\n참조표준 분류기준\n(제12조제2항 관련)\n┌──┬─────────────┐\n│순번│지정분야                  │\n├──┼─────────────┤\n│1   │수학분야                  │\n├──┼─────────────┤\n│2   │물리분야                  │\n├──┼─────────────┤\n│3   │화학분야                  │\n├──┼─────────────┤\n│4   │생명과학분야              │\n├──┼─────────────┤\n│5   │지구과학분야              │\n├──┼─────────────┤\n│6   │기계분야                  │\n├──┼─────────────┤\n│7   │재료분야                  │\n├──┼─────────────┤\n│8   │화학공정분야              │\n├──┼─────────────┤\n│9   │전기?전자분야            │\n├──┼─────────────┤\n│10  │정보?통신분야            │\n├──┼─────────────┤\n│11  │농림?수산분야            │\n├──┼─────────────┤\n│12  │보건?의료분야            │\n├──┼─────────────┤\n│13  │환경분야                  │\n├──┼─────────────┤\n│14  │에너지?자원분야          │\n├──┼─────────────┤\n│15  │원자력분야                │\n├──┼─────────────┤\n│16  │건설?교통분야            │\n├──┼─────────────┤\n│17  │우주?항공?천문?해양분야│\n├──┼─────────────┤\n│18  │기타분야                  │\n└──┴─────────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000231796&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=135000767",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=135000763",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=135000767",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:참조표준제정및보급에관한운영요령#BYL0001",
+      "filename": "별표1_참조표준 분류기준.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "국가참조표준 데이터센터",
+      "enforcement_date": "",
+      "content": "\n■ 참조표준 제정 및 보급에 관한 운영요령 [별지 제1호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                                          ┃\n┃제       호                                                               ┃\n┃                                                                          ┃\n┃국가참조표준 데이터센터                                                   ┃\n┃                                                                          ┃\n┃                                                                          ┃\n┃데이터센터명 :                                                            ┃\n┃기관명 :                                                                  ┃\n┃기관 주소 :                                                               ┃\n┃대표자 :                            법인등록번호 :                        ┃\n┃유효기간 :                                                                ┃\n┃지정 분야 :                                                               ┃\n┃                                                                          ┃\n┃                                                                          ┃\n┃                                                                          ┃\n┃    「국가표준기본법」 제16조 및 동 법 시행령 제14조제3항과 「참조표준    ┃\n┃제정 및 보급에 관한 운영요령」 제9조에 따라 위와 같이 국가참조표준 제정· ┃\n┃개정 및 보급에 관한 전문기관에게 본 증서를 발급합니다.                    ┃\n┃                                                                          ┃\n┃                                                                          ┃\n┃년       월       일                                                      ┃\n┃                                                                          ┃\n┃                                                                          ┃\n┃                                                                          ┃\n┃                          ┏━━┓                                        ┃\n┃  산 업 통 상 자 원 부    ┃직인┃                                        ┃\n┃  국 가 기 술 표 준 원 장 ┃    ┃                                        ┃\n┃                          ┗━━┛                                        ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210 mm × 297 mm(백상지 120 g/㎡)\n\n\n■ 참조표준 제정 및 보급에 관한 운영요령 [별지 제1호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                                        ┃\n┃No.                                                                     ┃\n┃                                                                        ┃\n┃                                                                        ┃\n┃Certificate of                                                          ┃\n┃National Standard Reference Data Center                                 ┃\n┃                                                                        ┃\n┃                                                                        ┃\n┃Name of Data Center :                                                   ┃\n┃Name of Institute :                                                     ┃\n┃Address :                                                               ┃\n┃Representative :                         Corporate Number :             ┃\n┃Duration :                                                              ┃\n┃Scope :                                                                 ┃\n┃                                                                        ┃\n┃This is to certify that the above mentioned organization has been       ┃\n┃qualified as the National Standard Reference Data Center in accordance  ┃\n┃with the Provisions of Article 16 of Frame-work Act on National         ┃\n┃Standards.                                                              ┃\n┃                                                                        ┃\n┃Mon. Day, Year                                                          ┃\n┃                                                                        ┃\n┃                                                                        ┃\n┃                                                                        ┃\n┃                                                                        ┃\n┃  Administrator,                                                        ┃\n┃  Korean Agency for Technology and Standards                            ┃\n┃  Minister of Trade, Industry and Energy                                ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210 mm × 297 mm(white paper 120 g/㎡)\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=135000775",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=135000769",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=135000775",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:참조표준제정및보급에관한운영요령#BJ0001",
+      "filename": "별지1_국가참조표준 데이터센터.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "참조표준 제정 및 보급에 관한 운영요령(최종).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=134998385",
+      "file_store_url": "",
+      "filename": "참조표준 제정 및 보급에 관한 운영요령(최종).hwp"
+    },
+    {
+      "name": "조문별제개정이유서(참조표준 운영요령 개정).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=134998387",
+      "file_store_url": "",
+      "filename": "조문별제개정이유서(참조표준 운영요령 개정).hwpx"
+    },
+    {
+      "name": "「참조표준 제정 및 보급에 관한 운용요령」  일부 개정안 심의결과.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=134998389",
+      "file_store_url": "",
+      "filename": "「참조표준 제정 및 보급에 관한 운용요령」  일부 개정안 심의결과.hwpx"
+    },
+    {
+      "name": "(국가기술표준원 고시 제2023-0549호) 참조표준 제정 및 보급에 관한 운영요령 개정 고시.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=135000681",
+      "file_store_url": "",
+      "filename": "(국가기술표준원 고시 제2023-0549호) 참조표준 제정 및 보급에 관한 운영요령 개정 고시.hwp"
+    },
+    {
+      "name": "(국가기술표준원 고시 제2023-0549호) 참조표준 제정 및 보급에 관한 운영요령 개정 고시.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=135000685",
+      "file_store_url": "",
+      "filename": "(국가기술표준원 고시 제2023-0549호) 참조표준 제정 및 보급에 관한 운영요령 개정 고시.pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 16,
+    "by_category": {
+      "법령": 7,
+      "행정규칙": 7,
+      "별지": 1,
+      "별표": 1
+    },
+    "by_relation_type": {
+      "citation": 9,
+      "internal_ref": 5,
+      "appendix_ref": 2
+    },
+    "articles_total": 20,
+    "articles_with_relations": 11,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 9,
+    "appendices_count": 2,
+    "attachments_count": 5
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/참조표준 제정 및 보급에 관한 운영요령"
+  },
+  "provision_id": "admrul:참조표준제정및보급에관한운영요령#DOC"
+}
