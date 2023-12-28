@@ -1,0 +1,859 @@
+{
+  "law_id": "2100000233820",
+  "mst": "2100000233820",
+  "law_name": "무기체계 디지털 트윈 활용 지침",
+  "law_abbr": "",
+  "law_type": "예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000233820",
+  "promulgation_no": "893",
+  "promulgation_date": "20231228",
+  "enforcement_date": "20231228",
+  "revision_date": "20231228",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "방위사업청(미래전력사업총괄팀)",
+    "담당자명": "손시열",
+    "행정규칙종류코드": "B0002",
+    "행정규칙명": "무기체계 디지털 트윈 활용 지침",
+    "발령일자": "20231228",
+    "행정규칙종류": "예규",
+    "제개정구분코드": "200401",
+    "조문형식여부": "Y",
+    "소관부처명": "방위사업청",
+    "전화번호": "02-2079-4014",
+    "제개정구분명": "제정",
+    "소관부처코드": "1690000",
+    "생성일자": "20231229",
+    "행정규칙ID": "87545",
+    "시행일자": "20231228",
+    "담당부서기관코드": "1690466",
+    "발령번호": "893",
+    "행정규칙일련번호": "2100000233820",
+    "상위부처명": "방위사업청"
+  },
+  "amendment_text": "",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 20,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총 칙",
+        "content": "제1조(목적) 이 지침은「방위사업관리규정」에 따라 방위력개선사업을 수행함에 있어서 무기체계 획득단계별 절차에서 디지털 트윈의 시범적 적용을 위한 기준 및 절차를 정함으로써 무기체계의 획득 및 운용 과정에서의 신뢰성 및 효율성을 제고함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「방위사업관리규정」",
+            "line_text": "",
+            "target_law_name": "방위사업관리규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/방위사업관리규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계디지털트윈활용지침#JO0001",
+            "reference_id": "admrul:방위사업관리규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계디지털트윈활용지침#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적용 범위",
+        "chapter": "제1장 총 칙",
+        "content": "제2조(적용 범위) 이 지침은 다음 각 호의 기관에 적용한다.1. 방위사업청과 그 소속기관2. 국방과학연구소(이하 \"국과연\"이라 한다)와 그 부설기관(국방신속획득기술연구원, 이하 \"신속원\"이라 한다)3. 국방기술품질원(이하 \"기품원\"이라 한다)과 그 부설기관(국방기술진흥연구소, 이하 \" 국기연\"이라고 한다)4. 연구개발주관기관(국과연 또는 연구개발업체를 말한다)5. 그 밖에 이 지침에서 정하는 업무와 관련이 있는 기관(부서)",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계디지털트윈활용지침#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "정의",
+        "chapter": "제1장 총 칙",
+        "content": "제3조(정의) 이 지침에서 사용하는 용어의 뜻은 다음과 같다.1. \"디지털 트윈\"이란 실제 무기체계(핵심부품ㆍ구성품 등을 포함한다)와 동일한 수준의 디지털 객체를 구현하여 상호 실시간으로 융합하고 이를 기반으로 무기체계를 최적화하는 기술을 말한다.2. \"디지털 트윈 적용 수준(DTL: Digital Twin Level)\"은  디지털 트윈을 차별적으로 적용하기 위하여 연구개발비와 기술적 난이도(체계 복잡도ㆍ위험도)을 고려하여 정한 정략적 수준을 말한다.3. \"디지털 트윈 기술 단계\"라 함은 민간의 디지털 트윈 기술 5단계 개념(모사-관제-모의-연합-자율)을 국방 분야에 적합하게 재정립(설계-관제-체계가상화-연계-결심)한 것을  말한다.4. \"디지털 트윈 자원\"이라 함은 디지털 트윈 기술 데이터, 정보자원 저장소 등 디지털 트윈 기반 및 기술을 망라한 일체의 디지털 트윈 관련 유ㆍ무형의 지식 및 정보자원을 말한다.5. \"디지털 트윈 기술 Tool\"이라 함은 디지털 트윈에 대한 시험평가 시에 활용되는 관련 소프트웨어를 말한다.6. \"디지털 트윈 활용계획(DAP: Digital twin Application Plan)\"은 체계개발 결과물의 예측 및 검증을 통하여 무기체계의 안전성을 높이고 설계를 최적화하고자 디지털 트윈 추진전략, 활용ㆍ접근방법, 자원관리 등에 대해 기술한 문서를 말한다. 이 경우 디지털 트윈 추진전략을 작성할 때에는 무기체계의 개념발전, 비용절감, 개발기간 단축, 사업효율성 향상 등을 고려하여야 한다.7. \"적정성 평가\"이라 함은 모델 수행이 개발자의 개념적 묘사와 명세를 정확하게 반영하여 나타내고 있는지를 결정하는 과정인 검증, 모델 수행결과가 본래 의도한 용도와 관련해서 어느 정도 정확하게 체계 혹은 실세계를 나타내고 있는지를 결정하는 확인을 말하며, 이는 디지털 트윈 기술의 신뢰성 확보를 위해 요구된다.8. \"가상실험\"이라 함은 제7조 및 \"별표 1\"에서 정하는 DTL Ⅱ에 해당하는 대상사업에 대하여 센서 네트워크 구축을 통한 데이터 수집 및 실시간 시뮬레이션으로 무기체계 최적화를 위한 실험을 말한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "무기체계 디지털 트윈 활용 지침",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무기체계 디지털 트윈 활용 지침/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계디지털트윈활용지침#JO0003",
+            "reference_id": "admrul:무기체계디지털트윈활용지침#JO0007"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "무기체계 디지털 트윈 활용 지침",
+            "target_article_no": "별표1",
+            "target_article_title": "디지털 트윈 적용 수준 결정(제7조 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000233820&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계디지털트윈활용지침#JO0003",
+            "reference_id": "admrul:무기체계디지털트윈활용지침#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계디지털트윈활용지침#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "업무분장",
+        "chapter": "제1장 총 칙",
+        "content": "제4조(업무분장) 무기체계 획득단계별 디지털 트윈 적용에 관한 업무분장은 다음 각 호와 같다1. 국방기술보호국(기술정책과)가. 방위력개선사업분야의 디지털 트윈에 대한 주요 정책ㆍ기획의 총괄 및 제도발전 -  디지털 트윈 기술 단계별 획득업무 적용 로드맵 작성나. 디지털 트윈과 관련한 중ㆍ장기 계획 및 예산편성에 관한 검토ㆍ조정 및 통제다. 디지털 트윈 기술 Tool에 적용되는 각종 데이터(대기환경, 토양 재질 등)의 제공 및 관리2. 방위사업정책국(표준기획과)가. 디지털 트윈과 관련한 3D CAD 등의 특수기술자료를 국방표준종합정보시스템(KDSIS)에 탑재하기 위한 고도화 업무나. 디지털 트윈과 관련한 표준화 정책의 발전3. 방위사업정책국(방위사업분석과)가. 디지털 트윈에 대한 적정성 평가 업무의 조정ㆍ통제나. 디지털 트윈 체계의 통합 등에 대한 검토, 조정 및 통제다. 획득단계별 디지털 트윈 활용계획 검토라. 제10조에 따른 디지털 트윈 지원단 구성 및 운영4. 사업본부(통합사업관리팀)가. 디지털 트윈 활용계획의 수립, 검토 및 승인나. 디지털 트윈 적용수준의 결정다. 디지털 트윈 적용을 위한 요구사항의 작성(제안요청서에 포함) 및 확정라. 디지털 트윈 가상실험의 적정성 평가 결과 검토마. 디지털 트윈과 관련한 기능적 형상(필요시) 및 3D 모델 형상 확인바. 동조 제9호가목부터 사목까지의 사항에 대한 검토 및 관련기관 의견 수렴 등사. 업체주관 무기체계 연구개발 사업의 디지털 트윈에 대한 적정성 평가 의뢰5. 국과연가. 국과연주관 무기체계 연구개발 사업의 디지털 트윈 활용계획(안) 작성나. 국과연주관 무기체계 연구개발 사업의 H/W 설계기술서 및 요구사항 명세서 작성다. 국과연주관 무기체계 연구개발 사업의 시험평가기본계획서 및 개발시험평가계획서 작성 및 지원라. 국과연주관 무기체계 연구개발 사업의 디지털 트윈 구성(안) 및 가상실험 계획(안) 작성마. 국과연주관 무기체계 연구개발 사업의 디지털 트윈 가상실험 계획(안) 및 활용 결과 보고서 작성바. 국과연주관 무기체계 연구개발 사업의 디지털 트윈 자원 관련 표준화 및 형상관리사. 국과연주관 무기체계 연구개발 사업의 디지털 트윈에 대한 적정성 평가 수행6. 신속원가. 무기체계 연구개발 사업의 디지털 트윈 활용 결과 분석 지원나. 무기체계 연구개발 사업의 디지털 트윈에 대한 적정성 평가 지원7. 기품원가. 통합사업관리팀장으로부터 이관 받은 디지털 트윈 활용결과 및 산출물에 대한 관리나. 무기체계별 디지털 트윈 기술지원 및 향후 발전 전략 수립8. 국기연가. 선행연구 간 무기체계 연구개발 사업의 디지털 트윈 적용수준 및 대상(안) 검토나. 디지털 트윈 분야 핵심기술기획서 작성 및 수준 조사다. 국방기술연구개발사업 분야의 디지털 트윈에 대한 정책ㆍ기획 지원9. 연구개발업체가. 업체주관 무기체계 연구개발 사업의 디지털 트윈 활용계획(안) 작성나. 업체주관 무기체계 연구개발 사업의 H/W 설계기술서 및 요구사항 명세서 작성다. 업체주관 무기체계 연구개발 사업의 시험평가기본계획서 및 개발시험평가계획서 작성 및 지원라. 업체주관 무기체계 연구개발 사업의 디지털 트윈 구성(안) 및 가상실험 계획(안) 작성마. 업체주관 무기체계 연구개발 사업의 디지털 트윈 가상실험 계획(안) 및 활용 결과 보고서 작성바. 업체주관 무기체계 연구개발 사업의 디지털 트윈 자원 관련 표준화 및 형상관리사. 업체주관 무기체계 연구개발 사업의 디지털 트윈에 대한 적정성 평가 요청",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제10조",
+            "line_text": "",
+            "target_law_name": "무기체계 디지털 트윈 활용 지침",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무기체계 디지털 트윈 활용 지침/제10조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계디지털트윈활용지침#JO0004",
+            "reference_id": "admrul:무기체계디지털트윈활용지침#JO0010"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계디지털트윈활용지침#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "디지털 트윈 적용 목적",
+        "chapter": "제2장 디지털 트윈 적용 기본 지침",
+        "content": "제5조(디지털 트윈 적용 목적) ① 통합사업관리팀장은 무기체계 연구개발 시 디지털 트윈을 적용함으로써 설계를 최적화하고 연구개발의 완성도 극대화할 수 있으며, 이를 통해 안전성 및 편의성 향상 등을 위함이다.② 연구개발업체는 디지털 트윈을 활용하여 무기체계 양산단계에서 작업 기술 및 절차 등과 같은 Know-How의 전수를 용이하게 할 수 있으며, 이를 통해 공정불량의 감소 및 생산의 효율성을 증가시킬 수 있다.③ 소요군은 디지털 트윈을 활용하여 운영유지단계에서 상시 정비를 통한 고장의 예측ㆍ예방을 원활히 수행할 수 있으며, 이를 통해 운영비를 낮추고 상태기반정비(CBM+)와 연계하여 운영ㆍ가동률을 높일 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계디지털트윈활용지침#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "디지털 트윈 적용 기본원칙",
+        "chapter": "제2장 디지털 트윈 적용 기본 지침",
+        "content": "제6조(디지털 트윈 적용 기본원칙) 디지털 트윈은 무기체계 연구개발사업의 단계 중 체계개발단계에서 적용할 수 있으며, 이에 대한 기본원칙은 다음 각 호와 같다.1. 기술진보 대응기술 발전의 가속화에 따른 무기체계 연구개발사업의 신뢰성 및 경쟁력 확보 등을 위해 신기술 적용2. 성능 최적화무기체계 연구개발사업 간 작전요구성능, 기술적ㆍ부수적 성능 등을 충족시킬 수 있도록 디지털 트윈 기반의 업무 수행3. 비용ㆍ인력 절감, 개발기간 단축 및 사업 효율성 향상디지털 트윈 기반의 무기체계 연구개발사업을 통해 시제품 제작 감소 및 반복적인 시험평가 항목 등을 일부 대체함으로써 비용ㆍ인력절감, 개발기간 단축 및 사업효율성 향상 추진4. 기술자료 작성 및 유지관리무기체계 획득을 위한 디지털 트윈 관련 기술자료는 요구사항, 설계, 시험평가 등에 관한 자료를 포함하여 작성하고 이를 국방표준종합정보시스템(KDSIS)에 특수기술자료로 저장 및 관리5. 디지털 트윈에 대한 적정성 평가무기체계 성능에 결정적인 영향을 미치거나, 일부 시험평가 항목에 대체되는 체계 및 핵심ㆍ구성품에 적용한 디지털 트윈 기술에 대한 적정성 평가 수행6. 디지털 트윈 산출물의 확대 운용무기체계 연구개발 단계부터 적용 후 전 수명주기 동안 디지털 트윈 기술을 확대 적용하여 효율적인 운영유지 및 성능개량, 작전분야까지 활용 추진",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계디지털트윈활용지침#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "디지털 트윈 적용 수준",
+        "chapter": "제2장 디지털 트윈 적용 기본 지침",
+        "content": "제7조(디지털 트윈 적용 수준) ① 디지털 트윈 적용수준은 연구개발비와 기술적 난이도를 고려하여 DTL 0, DTL I, DTL II로 구분한다. 이 경우 기술적 난이도는 체계 복잡도와 체계 위험도를 고려하여 상, 중, 하 중에서 결정한다.② 통합사업관리팀장은 체계개발을 추진하는 경우에는 \"별표 1\"의 기준에 따라 해당 무기체계 연구개발사업의 디지털 트윈 적용수준을 결정하여야 한다. 다만, \"별표 1\"의 기준에도 불구하고 예산, 사업기간 등을 고려하여 디지털 트윈 적용 수준을 조정할 필요가 있는 경우에는 이를 상향하거나 하향할 수 있다.③ 통합사업관리팀장은 전항의 단서에 따라 디지털 트윈 적용 수준을 하향하는 때에는 사업추진기본전략(안)에 그 사유를 명시하여야 한다.④ 디지털 트윈 적용수준에 관한 세부사항 및 기준 등은 \"별표 1\"에 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "무기체계 디지털 트윈 활용 지침",
+            "target_article_no": "별표1",
+            "target_article_title": "디지털 트윈 적용 수준 결정(제7조 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000233820&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계디지털트윈활용지침#JO0007",
+            "reference_id": "admrul:무기체계디지털트윈활용지침#BYL0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "무기체계 디지털 트윈 활용 지침",
+            "target_article_no": "별표1",
+            "target_article_title": "디지털 트윈 적용 수준 결정(제7조 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000233820&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계디지털트윈활용지침#JO0007",
+            "reference_id": "admrul:무기체계디지털트윈활용지침#BYL0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제4항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "무기체계 디지털 트윈 활용 지침",
+            "target_article_no": "별표1",
+            "target_article_title": "디지털 트윈 적용 수준 결정(제7조 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000233820&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계디지털트윈활용지침#JO0007",
+            "reference_id": "admrul:무기체계디지털트윈활용지침#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계디지털트윈활용지침#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "디지털 트윈 적용 대상",
+        "chapter": "제2장 디지털 트윈 적용 기본 지침",
+        "content": "제8조(디지털 트윈 적용 대상) ① 통합사업관리팀장은 디지털 트윈 적용 대상을 체계 단위로 선정하여 적용하여야 한다. 이 경우 통합사업관리팀장은 다음 각 호를 고려하여야 한다.1. 사용자의 안전성 및 편의성이 요구되는 체계2. 체계의 파손 및 결함이 인명피해와 직결되는 체계3. 외부 환경요인에 의해 영향을 크게 받는 체계 등② 통합사업관리팀장은 전항에도 불구하고 「방위사업관리규정」 제79조에 따른 핵심부품ㆍ구성품을 디지털 트윈 적용 대상으로 선정하여 적용할 수 있다. 이 경우 통합사업관리팀장은 연구개발주관 기관 등 관련 기관과의 협의를 통해 다음 각 호를 고려하여 대상 품목을 선정하여야 한다.1. 시험평가 시 내구도에 영향을 미치는 품목2. 1회 시험으로 파손이 우려되는 품목3. 고장 발생 시 체계안전에 영향을 미치는 품목 등",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제2항",
+            "link_text": "「방위사업관리규정」",
+            "line_text": "",
+            "target_law_name": "방위사업관리규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/방위사업관리규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계디지털트윈활용지침#JO0008",
+            "reference_id": "admrul:방위사업관리규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제2항",
+            "link_text": "제79조",
+            "line_text": "",
+            "target_law_name": "방위사업관리규정",
+            "target_article_no": "제79조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/방위사업관리규정/제79조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계디지털트윈활용지침#JO0008",
+            "reference_id": "admrul:방위사업관리규정#JO0079"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계디지털트윈활용지침#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "디지털 트윈 기술 단계",
+        "chapter": "제2장 디지털 트윈 적용 기본 지침",
+        "content": "제9조(디지털 트윈 기술 단계) ① 디지털 트윈 기술은 민간과 다른 국방분야의 특성을 고려하여 \"별표 2\"와 같이 5단계(설계, 관제, 체계 가상화, 연계, 결심)로 재정립하며, 디지털 트윈 적용 수준(DTL)에 따라 각 단계를 차별적으로 적용한다.② 디지털 트윈 기술 단계 중 설계, 관제, 체계 가상화 단계는 단일객체 대상으로 무기체계 연구개발 사업에 적용한다.③ 디지털 트윈 기술 단계 중 연계, 결심 단계는 복수객체 대상으로 다수의 무기체계 데이터 등을 연계하여 의사결정을 지원하는 작전분야에 적용한다.④ 디지털 트윈 기술 단계에 관한 세부 사항은 \"별표 2\"에 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제1항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "무기체계 디지털 트윈 활용 지침",
+            "target_article_no": "별표2",
+            "target_article_title": "디지털 트윈 기술 단계 재정립(제9조 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000233820&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계디지털트윈활용지침#JO0009",
+            "reference_id": "admrul:무기체계디지털트윈활용지침#BYL0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제4항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "무기체계 디지털 트윈 활용 지침",
+            "target_article_no": "별표2",
+            "target_article_title": "디지털 트윈 기술 단계 재정립(제9조 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000233820&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계디지털트윈활용지침#JO0009",
+            "reference_id": "admrul:무기체계디지털트윈활용지침#BYL0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계디지털트윈활용지침#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "디지털 트윈 지원단 구성 및 운영",
+        "chapter": "제2장 디지털 트윈 적용 기본 지침",
+        "content": "제10조(디지털 트윈 지원단 구성 및 운영) ① 방위사업정책국장(방위사업분석과)은 소요군, 국과연, 기품원 등을 포함한 내부 전문가(10명 내) 및 관련 기관으로부터 추천을 받은 외부 전문가(2~3명)로 구성된 디지털 트윈 지원단(비상설)을 운영할 수 있다. 다만, 제7조에 따른 디지털 트윈 적용수준이 DTL II인 경우, 방위사업정책국장(방위사업분석과)은 디지털 트윈 지원단은 운영하여야 한다.② 전항 단서에도 불구하고 시범사업기간 동안에는 디지털 트윈 지원단은 디지털 트윈 적용수준과 관계없이 시범사업을 주관(디지털 트윈과 관련한 각종 산출물 및 근거 자료 검토 등 포함)하고, 시범사업이 종료된 후에는 이 조에 따른 업무 등을 수행한다.③ 통합사업관리팀장은 제7조제4항에 따라 연구개발사업에 대한 디지털 트윈 지원단의 운영이 결정된 경우에는 디지털 트윈 관련 산출물 및 근거 자료 제공 등 디지털 트윈 지원단의 요청에 대하여 협조하여야 한다.④ 디지털 트윈 지원단은 다음 각 호의 사항을 수행한다.1. 디지털 트윈 적용수준(DTL Ⅱ)에 대한 각종 산출물 및 근거 자료 검토2. 디지털 트윈 적용수준 DTL Ⅱ일 경우 제4조제9호가목부터 사목까지의 사항에 대한 기술지원 및 검토3. 디지털 트윈 가상실험에 대한 적정성 평가 수행⑤ 방위사업정책국장(방위사업분석과)는 필요한 경우에는 기품원(국기연)의 협조 및 지원을 받아 전항 본문 및 각 호의 사항을 수행할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "무기체계 디지털 트윈 활용 지침",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무기체계 디지털 트윈 활용 지침/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계디지털트윈활용지침#JO0010",
+            "reference_id": "admrul:무기체계디지털트윈활용지침#JO0007"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제3항",
+            "link_text": "제7조제4항",
+            "line_text": "",
+            "target_law_name": "무기체계 디지털 트윈 활용 지침",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무기체계 디지털 트윈 활용 지침/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계디지털트윈활용지침#JO0010",
+            "reference_id": "admrul:무기체계디지털트윈활용지침#JO0007"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제4항",
+            "link_text": "제4조제9호가목부터 사목",
+            "line_text": "",
+            "target_law_name": "무기체계 디지털 트윈 활용 지침",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무기체계 디지털 트윈 활용 지침/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계디지털트윈활용지침#JO0010",
+            "reference_id": "admrul:무기체계디지털트윈활용지침#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계디지털트윈활용지침#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "선행연구 및 사업추진기본전략 수립",
+        "chapter": "제3장 연구개발단계별 디지털 트윈 적용",
+        "content": "제11조(선행연구 및 사업추진기본전략 수립) ① 방위사업정책국장(선행연구과)은 「방위사업관리규정」 제36조에 따른 선행연구 수행 시, 디지털 트윈과 관련하여 통합사업관리팀장이 요청하는 경우, 이를 선행연구계획서에 포함하여 작성하고, 선행연구 수행기관에 통보할 수 있다.② 선행연구 수행기관은 선행연구 조사ㆍ분석 수행 중 연구개발사업이 사업추진방법으로 유리하다고 판단되는 경우 디지털 트윈 적용수준(안) 및 적용 대상(안)에 대해 검토한다.③ 통합사업관리팀장은 선행연구 조사ㆍ분석 수행 중 도출된 디지털 트윈 적용수준(안) 및 적용 대상(안)에 대해 검토하여야 한다.④ 통합사업관리팀장은 사업추진기본전략을 수립하는 경우에는 디지털 트윈 적용수준 및 적용 대상을 확정하여 반영하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "「방위사업관리규정」",
+            "line_text": "",
+            "target_law_name": "방위사업관리규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/방위사업관리규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계디지털트윈활용지침#JO0011",
+            "reference_id": "admrul:방위사업관리규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "제36조",
+            "line_text": "",
+            "target_law_name": "방위사업관리규정",
+            "target_article_no": "제36조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/방위사업관리규정/제36조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계디지털트윈활용지침#JO0011",
+            "reference_id": "admrul:방위사업관리규정#JO0036"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계디지털트윈활용지침#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "제안요청 및 제안서 평가",
+        "chapter": "제3장 연구개발단계별 디지털 트윈 적용",
+        "content": "제12조(제안요청 및 제안서 평가) ① 통합사업관리팀장은 업체주관 연구개발사업의 경우에는 디지털 트윈 적용을 위한 요구사항과 디지털 트윈 활용계획의 작성 및 평가에 관한 사항을 제안요청서에 포함하여야 한다. 이 경우 디지털 트윈 활용계획(안)에 관한 양식은 \"별지 1\"에 따른다.② 제안서에는 제안요청서에서 요구하는 디지털 트윈 활용계획(안)이 포함되어야 한다.③ 통합사업관리팀장은 업체로부터 접수된 제안서 내 디지털 트윈 활용계획(안)에 대하여 검토(관련 기관에 대한 의견 조회를 포함한다)를 수행하여야 한다. 다만, DTL II인 경우에는 디지털 트윈 지원단의 지원을 받아 본문에 따른 검토를 수행할 수 있다.④ 통합사업관리팀장은 업체로부터 접수된 제안서와 함께 전항에 따른 검토 결과를 제안서평가팀에 제출하며, 디지털 트윈 활용계획(안)을 제안서 평가 요소에 반영하여 평가한다. 이 경우 통합사업관리팀장은 타당성 및 가용성, 효과성 등을 고려하여야 한다.⑤ 국과연주관 연구개발사업은 시제 업체 선정 시 제1항부터 제4항까지의 절차를 준용한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "별지 1",
+            "line_text": "",
+            "target_law_name": "무기체계 디지털 트윈 활용 지침",
+            "target_article_no": "별지1",
+            "target_article_title": "디지털 트윈 활용 계획(안)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136118405",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계디지털트윈활용지침#JO0012",
+            "reference_id": "admrul:무기체계디지털트윈활용지침#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계디지털트윈활용지침#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "체계개발기본계획 수립",
+        "chapter": "제3장 연구개발단계별 디지털 트윈 적용",
+        "content": "제13조(체계개발기본계획 수립) ① 통합사업관리팀장은 제11조제4항에 따라 확정된 디지털 트윈 적용수준 및 적용 대상을 체계개발기본계획에 반영한다.② 전항에도 불구하고 함정사업의 경우에는 상세설계 및 함건조 기본계획에 디지털 트윈 적용수준 및 적용 대상을 반영한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제1항",
+            "link_text": "제11조제4항",
+            "line_text": "",
+            "target_law_name": "무기체계 디지털 트윈 활용 지침",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무기체계 디지털 트윈 활용 지침/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계디지털트윈활용지침#JO0013",
+            "reference_id": "admrul:무기체계디지털트윈활용지침#JO0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계디지털트윈활용지침#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "체계개발실행계획 수립",
+        "chapter": "제3장 연구개발단계별 디지털 트윈 적용",
+        "content": "제14조(체계개발실행계획 수립) ① 통합사업관리팀장은 연구개발업체로 하여금 체계개발기본계획에 반영된 디지털 트윈 적용수준 및 적용 대상과 연구개발업체가 제안서와 함께 제출한 디지털 트윈 활용계획(안)을 포함하여 체계개발실행계획서를 작성하도록 하여야 한다.② 전항에 따른 디지털 트윈 활용계획(안)에는 다음 각 호의 사항이 반영되어야 한다.1. 디지털 트윈 활용 목적 및 범위2. 디지털 트윈 추진전략3. 디지털 트윈 활용방안4. 디지털 트윈 자원관리5. 디지털 트윈 적용을 위한 기술적 요구사항 등③ 제1항 및 제2항에도 불구하고 함정사업의 경우에는 상세설계 및 함건조 기본계획(실행계획)에 디지털 트윈 적용수준 및 적용 대상과 제2항 각 호 사항이 반영되어야 한다.④ 국과연주관 연구개발사업의 경우에는 제1항 및 제2항을 준용하여 국과연이 체계개발실행계획서를 작성한다.⑤ 통합사업관리팀장은 체계개발실행계획서에 포함된 디지털 트윈 활용계획(안)과 제2항 각 호의 사항 등에 대하여 관련 기관 및 디지털 트윈 지원단 등에 검토를 요청할 수 있다.⑥ 디지털 트윈 활용계획은 「방위사업관리규정」 제77조에 따라 체계개발실행계획서가 확정되는 때에 확정된다.⑦ 통합사업관리팀장은 연구개발을 수행하는 동안 디지털 트윈 활용계획을 최신화하여 관리하여야 하며, 디지털 트윈 활용계획에 따라 연구개발을 수행하는 동안 계획된 디지털 트윈 자원을 확보하고 활용여부를 확인ㆍ감독하여야 한다⑧ 연구개발주관기관은 연구개발을 착수한 이후에 디지털 트윈 활용계획을 변경하고자 하는 경우에는 통합사업관리팀장의 승인을 받아 이를 연구개발에 적용할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제6항",
+            "link_text": "「방위사업관리규정」",
+            "line_text": "",
+            "target_law_name": "방위사업관리규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/방위사업관리규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계디지털트윈활용지침#JO0014",
+            "reference_id": "admrul:방위사업관리규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제6항",
+            "link_text": "제77조",
+            "line_text": "",
+            "target_law_name": "방위사업관리규정",
+            "target_article_no": "제77조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/방위사업관리규정/제77조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계디지털트윈활용지침#JO0014",
+            "reference_id": "admrul:방위사업관리규정#JO0077"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계디지털트윈활용지침#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "예비시험평가기본계획서 작성",
+        "chapter": "제3장 연구개발단계별 디지털 트윈 적용",
+        "content": "제15조(예비시험평가기본계획서 작성) ① 연구개발주관기관은 체계개발실행계획서 등을 참고하여 디지털 트윈을 활용한 시험평가계획을 포함한 예비시험평가기본계획서를 통합사업관리팀장에게 제출한다.② 통합사업관리팀장은 예비시험평가기본계획서에 디지털 트윈을 활용한 시험평가계획이 포함되어 있는지와 해당 계획을 검토한 후, 이를 체계개발실행계획서와 함께 합동참모본부(이하 \"합참\"이라 한다)에 제출한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계디지털트윈활용지침#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "개발시험평가계획서 수립",
+        "chapter": "제3장 연구개발단계별 디지털 트윈 적용",
+        "content": "제16조(개발시험평가계획서 수립) ① 연구개발주관기관은 가혹한 시험환경, 반복적인 평가 등으로 인해 시험평가가 제한 또는 제약되는 항목 등을 대상으로 디지털 트윈을 활용한 개발시험평가를 실시할 수 있다.② 연구개발주관기관은 체계개발실행계획서 및 시험평가기본계획서에 근거하여 개발시험평가계획(안)을 작성하고 이를 통합사업관리팀에게 제출한다. 이 경우 연구개발주관기관은 디지털 트윈을 활용한 개발시험평가가 가능하다고 판단되는 경우에는 이를 개발시험평가계획(안)에 반영하여야 한다.③ 연구개발주관기관은 디지털 트윈을 활용한 개발시험평가를 수행하게 된 경우에는 DTL II인 경우에 한하여 제17조에 따른 가상실험에 대하여 자체적으로 적정성 평가를 실시하고 이에 대한 결과를 개발시험평가계획(안)에 포함하여야 한다.④ 통합사업관리팀장은 전항에 따른 개발시험평가계획(안)을 검토하여 개발시험평가 착수 2개월 전까지 합참에 제출한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제3항",
+            "link_text": "제17조",
+            "line_text": "",
+            "target_law_name": "무기체계 디지털 트윈 활용 지침",
+            "target_article_no": "제17조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무기체계 디지털 트윈 활용 지침/제17조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계디지털트윈활용지침#JO0016",
+            "reference_id": "admrul:무기체계디지털트윈활용지침#JO0017"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계디지털트윈활용지침#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "가상실험",
+        "chapter": "제3장 연구개발단계별 디지털 트윈 적용",
+        "content": "제17조(가상실험) ① 제11조에 따라 확정된 디지털 트윈 적용수준(DTL)이 II인 경우에는 가상실험을 수행함을 원칙으로 한다.② 연구개발주관기관은 가상실험을 수행하는 대상사업(DTL II)에 한하여 가상실험계획(안)을 수립하고 이를 상세설계검토(CDR) 전까지 통합사업관리팀장에게 제출하여야 한다. 이 경우 통합사업관리팀장은 관련 기관 및 디지털 트윈 지원단 등에 가상실험계획(안)에 대한 검토를 요청할 수 있다.③ 통합사업관리팀장은 상세설계검토(CDR) 후 1개월 이내에 가상실험계획을 확정하여 연구개발주관기관 및 관련 기관에 통보한다.④ 연구개발주관기관은 확정된 가상실험계획에 따라 가상실험을 수행한 후 시험 및 결과를 반영한 가상실험결과보고서를 통합사업관리팀장에게 제출하여야 한다.⑤ 통합사업관리팀장은 가상실험에 대한 신뢰성 제고를 위하여 디지털 트윈 지원단에 적정성 평가 수행을 요청하며, 디지털 트윈 지원단은 이에 대한 적정성 평가 후 결과를 통합사업관리팀장에게 제출한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제1항",
+            "link_text": "제11조",
+            "line_text": "",
+            "target_law_name": "무기체계 디지털 트윈 활용 지침",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무기체계 디지털 트윈 활용 지침/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계디지털트윈활용지침#JO0017",
+            "reference_id": "admrul:무기체계디지털트윈활용지침#JO0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계디지털트윈활용지침#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "형상확인",
+        "chapter": "제3장 연구개발단계별 디지털 트윈 적용",
+        "content": "제18조(형상확인) 연구개발주관기관은 필요한 경우에는 디지털 트윈 적용 대상에 대하여 「방위사업관리규정」 제79조에 따른 기능적ㆍ물리적 형상 확인을 수행할 수 있다. 이 경우 연구개발주관기관은 확인 결과를 통합사업관리팀장에게 제출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제18조",
+            "source_clause": "제18조",
+            "link_text": "「방위사업관리규정」",
+            "line_text": "",
+            "target_law_name": "방위사업관리규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/방위사업관리규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계디지털트윈활용지침#JO0018",
+            "reference_id": "admrul:방위사업관리규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제18조",
+            "source_clause": "제18조",
+            "link_text": "제79조",
+            "line_text": "",
+            "target_law_name": "방위사업관리규정",
+            "target_article_no": "제79조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/방위사업관리규정/제79조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무기체계디지털트윈활용지침#JO0018",
+            "reference_id": "admrul:방위사업관리규정#JO0079"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무기체계디지털트윈활용지침#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "디지털 트윈 활용결과 분석",
+        "chapter": "제4장 디지털 트윈 자원, 산출물 관리 및 발전",
+        "content": "제19조(디지털 트윈 활용결과 분석) ① 연구개발주관기관은 무기체계 연구개발사업에 디지털 트윈을 활용하게 된 경우에는 체계개발결과보고서에 디지털 트윈 활용 결과를 포함하여야 한다.② 통합사업관리팀장은 연구개발주관기관으로부터 디지털 트윈 활용 결과를 제출받은 경우에는 국과연, 기품원 또는 신속원 등에 이에 대한 기술검토를 요청하며, 연구개발주관기관은 해당 검토 결과를 체계개발결과보고서에 반영하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계디지털트윈활용지침#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "기술자료의 작성 및 관리",
+        "chapter": "제4장 디지털 트윈 자원, 산출물 관리 및 발전",
+        "content": "제20조(기술자료의 작성 및 관리) ① 연구개발주관기관은 무기체계 연구개발사업에 디지털 트윈 자원을 활용하게 된 경우에는 개발을 완료한 후 디지털 트윈 활용계획에 명시된 기술자료(디지털 트윈 활용결과 등) 산출물을 통합사업관리팀장에게 제출한다.② 통합사업관리팀장은 국방표준종합정보시스템(KDSIS)에 저장하지 아니한 기술자료 및 산출물을 기품원(국기연)으로 이관하여야 하며, 기품원(국기연)은 필요한 경우 이를 소요군으로 재이관할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무기체계디지털트윈활용지침#JO0020"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20231228",
+      "promulgation_no": "893",
+      "content": "부칙 <제893호, 2023. 12. 28.>제1조(시행일 및 시행범위) 이 지침은 발령한 날부터 시행하는 것을 원칙으로 하되, 이 지침의 전면 시행에 앞서 시범사업에 우선 적용하여 관련 법령 정비 등 보완사항 등을 확인 및 조치한 후 필요성이 인정되는 경우에 무기체계 연구개발 사업에 적용한다.제2조(적용례) 이 지침은 시행일 이후 선정된 시범사업에 적용한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "디지털 트윈 적용 수준 결정(제7조 관련)",
+      "enforcement_date": "",
+      "content": "[별표 1]\n디지털 트윈 적용 수준 결정(제7조 관련)\n1. 연구개발비와 기술적 난이도에 따른 디지털 트윈 적용 수준\n┌─────────────────┬───────────┐\n│구 분                             │기술적 난이도*        │\n│                                  ├───┬───┬───┤\n│                                  │하    │중    │상    │\n├───┬─────────────┼───┼───┼───┤\n│연구  │1,000억 미만              │DTL 0 │DTL 0 │DTLⅠ │\n│개발비├─────────────┼───┼───┼───┤\n│      │1,000억 이상∼5,000억 미만│DTL 0 │DTLⅠ │DTLⅡ │\n│      ├─────────────┼───┼───┼───┤\n│      │5,000억 이상              │DTLⅠ │DTLⅡ │DTLⅡ │\n└───┴─────────────┴───┴───┴───┘\n* 단, 양산계획이 없는 사업은 디지털 트윈 적용 제외\n2. 체계 위험도/복잡도에 따른 기술적 난이도 기준\n┌─────────────┬───────────────┐\n│구 분                     │체계 복잡도                   │\n│                          ├────┬────┬─────┤\n│                          │단일체계│탑재체계│플랫폼체계│\n├──────┬──────┼────┼────┼─────┤\n│체계 위험도 │신규무기체계│하      │중      │상        │\n│            ├──────┼────┼────┼─────┤\n│            │유사무기체계│하      │하      │상        │\n│            ├──────┼────┼────┼─────┤\n│            │성능개량체계│하      │하      │중        │\n└──────┴──────┴────┴────┴─────┘\n┌───────────────────────────────────────┐\n│ - 체계 위험도의 정의                                                         │\n│  · 신규무기체계 : 신기술 적용 또는 새로운 운용개념이 도입되는 체계          │\n│  · 유사무기체계 : 운용개념이 유사한 장비 有 또는 진화적 획득개념 적용 체계  │\n│  · 성능개량체계 : 성능개량 사업으로 진행되는 체계                           │\n│ - 체계 복잡도의 정의                                                         │\n│  · 단일체계 : 단독운용장비                                                  │\n│  · 탑재체계 : 플랫폼 체계에 탑재되어 운용되는 장비                          │\n│  · 플랫폼체계 : 전투기, 함정, 전차 등 타 무기체계가 탑재되어 운용되는 장비  │\n└───────────────────────────────────────┘\n3. 디지털 트윈 적용 수준에 따른 디지털 트윈 적용 및 지원팀 운영 기준\n┌────────────┬────────────────┐\n│DTL(Digital Twin Level) │구 분                           │\n│                        ├──────┬─────────┤\n│                        │디지털 트윈 │디지털 트윈 지원단│\n├────────────┼──────┼─────────┤\n│0                       │미적용      │미운영            │\n├────────────┼──────┼─────────┤\n│Ⅰ                      │적용        │미운영            │\n├────────────┼──────┼─────────┤\n│Ⅱ                      │적용        │운영              │\n└────────────┴──────┴─────────┘\n4. 디지털 트윈 적용 수준에 따른 임무\n┌───────────────────────┐\n│ - DTLI                                       │\n│  · 3D 모델 구현                             │\n│  · 센서네트워크 구축을 통한 데이터 수집     │\n│ - DTLII                                      │\n│  · 3D 모델 구현                             │\n│  · 센서네트워크 구축을 통한 데이터 수집     │\n│  · 실시간 시뮬레이션을 포함한 가상실험 수행 │\n└───────────────────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000233820&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136118385",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136118379",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136118385",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:무기체계디지털트윈활용지침#BYL0001",
+      "filename": "별표1_디지털 트윈 적용 수준 결정(제7조 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "디지털 트윈 기술 단계 재정립(제9조 관련)",
+      "enforcement_date": "",
+      "content": "[별표 2]\n디지털 트윈 기술 단계 재정립(제9조 관련)\n1\n3\n4\n5\n2\n━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n재정립  ┃설계              관제          체계 가상화     연계          결심\n단계(안)┃(Shaping Design)  (Monitoring)  (Virtual worx)   (Connected)   (Decision)\n━━━━━╋━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nDTL     ┃\n제도(안)┣━━━┱──────────────────────────────────\n┃DTLⅠ ┃?체계안전성, 인간공학적 설계, 센서네트워크 구성계획 검토 가능\n┣━━━┹──────────────────────────────────\n┃\n┣━━━┱──────────────────────────────────\n┃DTLⅡ ┃?DTLⅠ+실시간 시뮬레이션 및 가상실험 수행계획 계획/결과 검토 가능\n┣━━━┹──────────────────────────────────\n┃\n─────╂──────────────────────────────────────\nDTL     ┃\n발전(안)┣━━━┱──────────────────────────────────\n┃DTLⅢ ┃?DTLⅡ+디지털-물리모델(모든 객체) 양방향 제어 계획/검증 검토 가능\n┣━━━┹──────────────────────────────────\n┃\n┣━━━┱──────────────────────────────────\n┃DTLⅣ ┃?DTLⅢ+전장정보 가시화 및 의사결정 지원 검토 가능\n┣━━━┹──────────────────────────────────\n┃\n━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n?설계 : 3D로 형태를 설계하여 시각화(애니메이션)\n?관제 : 시제품에 부착된 센서로 단순 정보(위치, 속도) 데이터 수집\n* DT 시 단순한 평가항목(속도, 온도 등)에 대해 분석 평가로 일부 대체 가능\n?체계 가상화 : 수집된 데이터 및 동역학을 통해 가상 상황에서의 결과 예측\n* DT 시 내구도 등 극한 상황(주행거리, 파손, 합선 등)을 분석 평가로 일부 대체 가능\n?연계 : 무기체계간 정보를 실시간으로 연계하여 상호작용\n?결심 : AI, 빅데이터 기반의 모든 체계의 정보를 통합하여 의사결정 지원",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000233820&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136118391",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136118387",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136118391",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:무기체계디지털트윈활용지침#BYL0002",
+      "filename": "별표2_디지털 트윈 기술 단계 재정립(제9조 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "연구개발 간 디지털 트윈 적용 절차",
+      "enforcement_date": "",
+      "content": "[별표 3]\n연구개발 간 디지털 트윈 적용 절차(예시)\n━━━━━┳━━━━━━━━━━┯━━━━━━━━━┯━━━━━━━┯━━━━━━━┯━━━━┯━━━━━━━━━━━━━┯━━━━━━━━━┯━━━━━━┯━━━┯━━━━┯━━━━━━━\n구분    ┃계약전              │체계요구          │체계기능      │예비          │상세    │시험준비검토              │개발              │기능적      │운용  │물리적  │국방규격\n┃                    │조건검토          │검토          │설계검토      │설계검토│ (TRR)                    │시험평가          │형상확인    │시험  │형상확인│제정\n┃                    │(SRR)             │(SFR)         │(PDR)         │ (CDR)  │                          │(DT&E)            │(FCA)       │평가  │(PCA)   │\n┃                    │                  │              │              │        │                          │                  │            │(OT&E)│        │\n━━━━━╋━━━━━━━━━━┷━━━━━━━━━┷━━━━━━━┷━━━━━━━┷━━━━┷━━━━━━━━━━━━━┷━━━━━━━━━┷━━━━━━┷━━━┷━━━━┷━━━━━━━\n반영문서┃\n┣━━━━━━━━━━━━━━━━        ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n┃체계개발기본계획/     체계개발            HW/SW           HW/SW                     시험평가기본계획서          개발시험평가\n┃제안요청서            실행계획            요구사항        설계기술서                                            계획서\n┃                                          명세서\n─────╂─────────────────────────────────────────────────────────────────────────────────────────\n통합사업┃디지털 트윈 적용      디지털 트윈\n관리팀  ┃수준 / 요구사항 반영  활용계획(안) 확정                                               ━━━━━━━━━━━━━\n임무    ┃                                                                                        주가상실험\n┃                                                                                        적정성 평가\n─────╂─────────────────────────────────────────────────────────────────────────────────────────\n연구개발┃디지털 트윈                               센서네트워크    센서네트워크              디지털 트윈 기반 시험평가   디지털 트윈 기반    디지털 트윈           3D 모델   디지털 트윈\n주관기관┃활용계획(안) 작성                         요구사항        설계사항                  활용 계획(안)               개발시험평가 활용   적용 품목             형상확인  활용\n임무    ┃                                                                                                                계획(안)            FCA                             결과보고서\n┃\n┃\n┃                                                          ━━━━━━━━━━━━━━\n┃                                                            주디지털 트윈 기반\n┃                                                            가상실험 계획(안)\n┃\n┃\n┃                                                                                    ━━━━━━━\n┃                                                                                      주가상실험\n┃                                                                                      결과 및\n┃                                                                                      검증결과서\n━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n별표#3  1 -\n주) 디지털 트윈 적용 수준(DTL II) 사업인 경우에 해당",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000233820&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136118397",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136118393",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136118397",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:무기체계디지털트윈활용지침#BYL0003",
+      "filename": "별표3_연구개발 간 디지털 트윈 적용 절차.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "디지털 트윈 활용 계획(안)",
+      "enforcement_date": "",
+      "content": "[별지 제1호 서식]\n디지털 트윈 활용 계획(안)(예시)\n1. 개요\n­ 디지털 트윈 활용 목적 및 범위에 대해 간략히 기술\n2. 디지털 트윈 추진전략\n­ 사업추진 전반에 적용된 디지털 트윈 활용에 관한 기본방향을 제시\n­ 디지털 트윈 적용 수준을 포함하여 제시\n3. 디지털 트윈 활용방안(선행연구 결과 등을 통해 적용될 디지털 트윈 활용에 관한 사항을 작성)\n가. 기능영역별 디지털 트윈 활용계획(디지털 트윈 계략 계획을 기반으로 작성)\n­ 기능영역별(요구사항 정의, 설계 및 공학, 시험평가 등)로 구분하여 표 형식으로 작성\n┌───────┬───────┬─────────┐\n│기능영역      │활용분야(방안)│디지털 트윈 자원3)│\n├───────┼───────┼─────────┤\n│요구사항 정의 │              │○○모델          │\n├───────┼───────┼─────────┤\n│설계 및 공학1)│              │△△△모델        │\n├───────┼───────┼─────────┤\n│…            │              │○○시스템        │\n├───────┼───────┼─────────┤\n│시험평가2)    │              │○○장치          │\n├───────┼───────┼─────────┤\n│…            │              │                  │\n└───────┴───────┴─────────┘\n1) 설계 및 공학 : PDR 및 CDR 단계의 인간공학적 설계검토를 포함하여 제시\n2) 시험평가 : 신뢰성 관련 항목에 디지털 트윈을 활용한 일부 시험평가를 대체하는 내용을 제시\n3) 식별된 디지털 트윈 관련 자원이 있다면 기술(그 외에는 필요한 디지털 트윈 자원 정보를 작성)\n나. 상호운용성\n­ 연동 대상체계에 대해 명확하게 명시, 적용할 연동 표준을 작성\n­ 실물체계와의 실시간 연동(실시간 재현)이 가능한 연동 체계도를 제시\n다. 적정성 평가 계획\n­ 적정성 평가의 대상, 적용범위, 추진계획, 관련 기관 등을 식별하여 기술\n­ 적정성 평가를 위한 일정 및 예산을 제시\n라. 기타 고려사항\n­ 기타 연구개발에 영향을 미치는 사항(식별된 위험요소와 그에 대한 해결방안 등)을 작성\n4. 디지털 트윈 자원관리(확보 또는 활용대상 디지털 트윈 자원에 대한 관리 방침을 작성)\n가. 디지털 트윈 자원관리 조직 및 역할\n나. 디지털 트윈 자원 관리 방안(계획 및 확보할 디지털 트윈 자원에 대한 관리방안을 기술)\n­ 국방표준종합정보시스템(KDSIS) 탑재 및 관리 방안을 포함하여 제시\n다. 소요자원 및 비용(계획된 디지털 트윈 자원의 확보방안 및 소요비용을 명시)\n­ 디지털 트윈 자원별 적용분야, 사용용도, 자원분류, 확보방안, 소요예산으로 구성하여 작성\n┌─────────┬───────┬────┬────┬────┬───────┐\n│디지털트윈 자원명 │적용분야      │사용용도│자원분류│확보방안│소요예산(천원)│\n├─────────┼───────┼────┼────┼────┼───────┤\n│○○모델          │요구사항 정의 │        │SW      │재사용  │-             │\n├─────────┼───────┼────┼────┼────┼───────┤\n│△△△모델        │설계 및 공학  │        │지원도구│재활용  │-             │\n├─────────┼───────┼────┼────┼────┼───────┤\n│○○시스템        │시험평가      │        │…      │신규개발│10,000        │\n├─────────┼───────┼────┼────┼────┼───────┤\n│…                │…            │        │        │구매    │5,000         │\n└─────────┴───────┴────┴────┴────┴───────┘\n라. 디지털 트윈 자원 개발 계획\n­ 신규개발 대상 디지털 트윈 자원에 대한 개발시기, 활용시기, 개발방안을 작성\n┌─────────┬───────┬──────────┬────┐\n│디지털트윈 자원명 │개발시기      │활용시기            │개발방안│\n├─────────┼───────┼──────────┼────┤\n│○○모델          │CDR 이전      │○○, △△ 생산 이전│외부용역│\n├─────────┼───────┼──────────┼────┤\n│△△△모델        │CDR ~ DT 이전 │DT, OT              │자체개발│\n├─────────┼───────┼──────────┼────┤\n│○○시스템        │OT 이후 00개월│…                  │…      │\n└─────────┴───────┴──────────┴────┘\n부록. 약어 및 용어정의(필요시)\n­ 본문에 사용된 영문약어 및 약어정의, 용어정의가 필요하다고 판단되는 단어에 대해 정의",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136118405",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136118399",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136118405",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:무기체계디지털트윈활용지침#BJ0001",
+      "filename": "별지1_디지털 트윈 활용 계획(안).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "무기체계 디지털 트윈 활용 지침_전문 (제정).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=136003405",
+      "file_store_url": "",
+      "filename": "무기체계 디지털 트윈 활용 지침_전문 (제정).hwp"
+    },
+    {
+      "name": "무기체계 디지털 트윈 활용 지침_전문 (제정).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=136117375",
+      "file_store_url": "",
+      "filename": "무기체계 디지털 트윈 활용 지침_전문 (제정).hwp"
+    },
+    {
+      "name": "무기체계 디지털 트윈 활용 지침_전문 (제정).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=136117379",
+      "file_store_url": "",
+      "filename": "무기체계 디지털 트윈 활용 지침_전문 (제정).pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 24,
+    "by_category": {
+      "행정규칙": 17,
+      "별표": 6,
+      "별지": 1
+    },
+    "by_relation_type": {
+      "citation": 9,
+      "internal_ref": 8,
+      "appendix_ref": 7
+    },
+    "articles_total": 20,
+    "articles_with_relations": 14,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 4,
+    "attachments_count": 3
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/무기체계 디지털 트윈 활용 지침"
+  },
+  "provision_id": "admrul:무기체계디지털트윈활용지침#DOC"
+}
