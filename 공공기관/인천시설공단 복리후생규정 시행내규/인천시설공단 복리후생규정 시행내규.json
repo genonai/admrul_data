@@ -1,0 +1,199 @@
+{
+  "law_id": "2200000123811",
+  "mst": "2200000123811",
+  "law_name": "인천시설공단 복리후생규정 시행내규",
+  "law_abbr": "",
+  "law_type": "공단규정",
+  "doc_target": "public",
+  "doc_kind": "공공기관",
+  "adm_uid": "public:2200000123811",
+  "promulgation_no": "2023-736",
+  "promulgation_date": "20231229",
+  "enforcement_date": "20231229",
+  "revision_date": "20231229",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "인천시설공단",
+    "담당자명": "변재연",
+    "행정규칙종류코드": "B0029",
+    "행정규칙명": "인천시설공단 복리후생규정 시행내규",
+    "발령일자": "20231229",
+    "행정규칙종류": "공단규정",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "인천시설공단",
+    "전화번호": "032-456-2033",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "B553906",
+    "생성일자": "20231230",
+    "행정규칙ID": "2105913",
+    "담당부서기관코드": "B553906",
+    "발령번호": "2023-736",
+    "행정규칙일련번호": "2200000123811"
+  },
+  "amendment_text": "",
+  "revision_reason": "□ 개정사유\n- 현행규정과 관련 법령이 일치하지 않은 조문 현행화\n- 업무상 재해인정 기준을 명확하게 하기 위한 관련 법령 준용\n□ 주요골자\n-「공무원 연금법」개정에 따른 조문 현행화(안 제3조)\n· 공무원 연금법 → 공무원 재해보상법\n-「산업재해보상보험법」을 준용하여 조문 정비(안 제4조)",
+  "body": {
+    "format": "articles",
+    "article_count": 6,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 시행 내규는 인천시설공단 복리후생규정(이하 “규정”이라 한다)의 시행에 필요한 세부사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:인천시설공단복리후생규정시행내규#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "급식보조비",
+        "chapter": "",
+        "content": "제2조(급식보조비) 삭제 <2017.12.28>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:인천시설공단복리후생규정시행내규#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "기타 후생비",
+        "chapter": "",
+        "content": "제3조(기타 후생비) 재직중인 임·직원이 재해가 발생한 때에는 「공무원 재해보상법」상 재해부조지급율을 준용하여 예산의 범위안에서 재해부조비를 지급할 수 있으며, 기타 이 규정에 정해진 것 외에 임·직원의 복리증진을 위하여 필요한 사항은 관련 법령을 준용한다. <개정 2014.12.30, 2023.12.29>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「공무원 재해보상법」",
+            "line_text": "",
+            "target_law_name": "공무원 재해보상법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공무원 재해보상법",
+            "resolve_method": "render",
+            "source_provision_id": "public:인천시설공단복리후생규정시행내규#JO0003",
+            "reference_id": "law:공무원재해보상법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:인천시설공단복리후생규정시행내규#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "업무상 재해인정",
+        "chapter": "",
+        "content": "제4조(업무상 재해인정) ① 업무상 재해는 공단의 인정을 받아야 하며 업무상 재해 인정기준은 「산업재해보상보험법」을 준용한다. <개정 2023.12.29>② 업무상 재해의 인정을 받고자 할 경우에는 다음 각 호의 서류를 구비하여 소속부서장을 경유, 복리후생 담담 부서장에게 신청하여야 한다.1. 사고경위서(사고설명 도면 또는 사진포함)2. 목격자 진술서(목격자가 있는 경우에 한함)3. 진단서 또는 의사 소견서 및 치료비 내역서4. 재산상 손해 내역서(재산상 손해의 경우)5. 소속 부서장의 의견서6. 기타 업무상 재해 인정에 참고가 되는 사항③ 업무상 재해의 인정여부는 신청 접수일로 부터 3주일 이내에 결정함을 원칙으로 하되 업무절차상 불가피한 경우에는 그러하지 아니한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "「산업재해보상보험법」",
+            "line_text": "",
+            "target_law_name": "산업재해보상보험법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업재해보상보험법",
+            "resolve_method": "render",
+            "source_provision_id": "public:인천시설공단복리후생규정시행내규#JO0004",
+            "reference_id": "law:산업재해보상보험법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:인천시설공단복리후생규정시행내규#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "장애등급의 결정",
+        "chapter": "",
+        "content": "제5조(장애등급의 결정) 규정 제12조의3 의하여 장애보상을 행할 신체장애의 등급은 근로기준법 제80조를 준용한다. <개정 2022.12.31.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제80조",
+            "line_text": "",
+            "target_law_name": "근로기준법",
+            "target_article_no": "제80조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/근로기준법/제80조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "public:인천시설공단복리후생규정시행내규#JO0005",
+            "reference_id": "law:근로기준법#JO0080"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:인천시설공단복리후생규정시행내규#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "유족의 범위",
+        "chapter": "",
+        "content": "제6조(유족의 범위) 규정 제12조의4 규정에 의하여 유족보상을 받게되는 경우 유족의 범위는 다음 각 호의 순서에 의한다.1. 사망당시 배우자(사실상 혼인관계에 있던 자 포함)자녀, 부모, 손 및 조부모2. 제1호에 해당되지 아니하는 형제자매",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:인천시설공단복리후생규정시행내규#JO0006"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20171228",
+      "promulgation_no": "00001",
+      "content": "부칙 <제1호,2017.12.28>제1조(시행일) 이 내규는 2017년 1월 1일부터 적용한다."
+    },
+    {
+      "promulgation_date": "20221231",
+      "promulgation_no": "00002",
+      "content": "부칙 <제2호,2022.12.31>제1조(시행일) 이 내규는 2023년 1월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20231229",
+      "promulgation_no": "00003",
+      "content": "부칙 <제3호,2023.12.29>이 내규는 2024년 1월 1일부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "attachments": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 3,
+    "by_category": {
+      "법령": 3
+    },
+    "by_relation_type": {
+      "citation": 3
+    },
+    "articles_total": 6,
+    "articles_with_relations": 3,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 3,
+    "appendices_count": 0,
+    "attachments_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/학칙공단/인천시설공단 복리후생규정 시행내규"
+  },
+  "provision_id": "public:인천시설공단복리후생규정시행내규#DOC"
+}
