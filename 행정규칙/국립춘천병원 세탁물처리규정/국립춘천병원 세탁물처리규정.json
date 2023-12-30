@@ -1,0 +1,455 @@
+{
+  "law_id": "2100000234038",
+  "mst": "2100000234038",
+  "law_name": "국립춘천병원 세탁물처리규정",
+  "law_abbr": "",
+  "law_type": "예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000234038",
+  "promulgation_no": "355",
+  "promulgation_date": "20231230",
+  "enforcement_date": "20231230",
+  "revision_date": "20231230",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국립춘천병원(기획운영과)",
+    "담당자명": "강물결",
+    "행정규칙종류코드": "B0002",
+    "행정규칙명": "국립춘천병원 세탁물처리규정",
+    "발령일자": "20231230",
+    "행정규칙종류": "예규",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국립춘천병원",
+    "전화번호": "033-260-3110",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1352000",
+    "생성일자": "20240103",
+    "행정규칙ID": "77267",
+    "시행일자": "20231230",
+    "담당부서기관코드": "1352765",
+    "발령번호": "355",
+    "행정규칙일련번호": "2100000234038",
+    "상위부처명": "보건복지부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n- 「의료기관세탁물 관리규칙」개정내용 반영과 감염병 발생 시 의료세물 관리 강화를 위한 내용 신설, 세탁물 위탁 처리에 관한 내용을 보완하기 위함\n\n◇ 주요내용\n가. 위탁업체의시설점검 및 감염방지 대책 확인 관리 방안 내용 개정(안 제4조)\n나. 감염병 발생 시 세탁물 관리 내용 개정(안 제4조)\n다. 세탁물 인수인계 및 위ㆍ수탁 관리 대장 작성ㆍ비치 내용 신설(안 11조)",
+  "body": {
+    "format": "articles",
+    "article_count": 11,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규정은 「의료법」 제16조 제2항 및 제3항에 따라 「의료기관세탁물 관리 규칙」에 의하여 국립춘천병원의 환자 진료 과정에서 발생하는 세탁물의 효율적인 관리에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「의료법」",
+            "line_text": "",
+            "target_law_name": "의료법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/의료법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립춘천병원세탁물처리규정#JO0001",
+            "reference_id": "law:의료법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제16조",
+            "line_text": "",
+            "target_law_name": "의료법",
+            "target_article_no": "제16조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/의료법/제16조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립춘천병원세탁물처리규정#JO0001",
+            "reference_id": "law:의료법#JO0016"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「의료기관세탁물 관리 규칙」",
+            "line_text": "",
+            "target_law_name": "의료기관세탁물 관리 규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/의료기관세탁물 관리 규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립춘천병원세탁물처리규정#JO0001",
+            "reference_id": "law:의료기관세탁물관리규칙#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립춘천병원세탁물처리규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적용범위",
+        "chapter": "",
+        "content": "제2조(적용범위) 이 규정에 명시되지 아니한 사항은「의료법」및「의료기관세탁물 관리 규칙」을 준용한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「의료법」",
+            "line_text": "",
+            "target_law_name": "의료법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/의료법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립춘천병원세탁물처리규정#JO0002",
+            "reference_id": "law:의료법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「의료기관세탁물 관리 규칙」",
+            "line_text": "",
+            "target_law_name": "의료기관세탁물 관리 규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/의료기관세탁물 관리 규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립춘천병원세탁물처리규정#JO0002",
+            "reference_id": "law:의료기관세탁물관리규칙#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립춘천병원세탁물처리규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제3조(정의) 이 규정에서 사용하는 용어의 정의는 다음과 같다.1. 이 규정에서 \"세탁물\"이라 함은 의료기관에 종사하는 자와 진료받는 환자가 사용하는 것으로서 세탁 과정을 거쳐 재사용할 수 있는 다음 각 목의 세탁물(이하 \"세탁물\"이라 한다)을 말한다.가. 침구류: 이불, 담요, 시트, 베개, 베갯잇 등나. 의류: 환자복, 신생아복, 근무복(가운 등 환자와 접촉하는 의료기관 종사자가 근무 중 착용하는 의류를 말한다) 등다. 기타: 수술포, 기계포, 마스크, 모자, 수건, 기저귀, 커텐, 씌우개류, 수거자루 등2. \"오염세탁물\"이라 함은 세탁물 중 전염성물질에 오염되었거나 오염의 우려가 있는 다음 각 목의 세탁물을 말한다.가. 감염병의 예방 및 관리에 관한 법률에 따른 감염병 환자가 사용한 세탁물과 감염성 병원균에 오염될 우려가 있는 세탁물나. 환자의 피ㆍ고름ㆍ배설물ㆍ분비물 등에 오염된 세탁물다. 그 밖에 감염성 병원균에 오염된 세탁물3. \"기타세탁물\"이라 함은 세탁물 중 오염세탁물 외의 세탁물을 말한다. 환자복, 근무복, 이불, 담요, 시트, 베개포 등의 침구류, 커텐 및 기타 린넨류 등 세탁과정을 거쳐 재사용하는 세탁물을 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립춘천병원세탁물처리규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "세탁물의 처리",
+        "chapter": "",
+        "content": "제4조(세탁물의 처리) 다음 각 호에 따라 세탁물을 처리한다.1. 「의료기관세탁물 관리규칙」제7조에 따라 시장ㆍ군수ㆍ구청장이 지정한 세탁물 처리업자에게 전량 위탁 처리한다.2. 세탁물 위탁업체 담당자는 위탁업체의 세탁물 관리 관련 규정 준수 여부를 연 1회 점검한다.3. 감염병전담 병원 지정 등 감염병 관리대책 수립이 필요한 경우는 「국립춘천병원 감염관리위원회」의 결정에 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「의료기관세탁물 관리규칙」",
+            "line_text": "",
+            "target_law_name": "의료기관세탁물 관리규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/의료기관세탁물 관리규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립춘천병원세탁물처리규정#JO0004",
+            "reference_id": "law:의료기관세탁물관리규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "의료기관세탁물 관리규칙",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/의료기관세탁물 관리규칙/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립춘천병원세탁물처리규정#JO0004",
+            "reference_id": "law:의료기관세탁물관리규칙#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립춘천병원세탁물처리규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "세탁물의 관리",
+        "chapter": "",
+        "content": "제5조(세탁물의 관리) 다음 각 호에 따라 세탁물을 보관 및 운반하여야 한다.1. 세탁물은 병동 내 지정된 장소에서 수집하여야 한다.2. 세탁실 근무자는 세탁물을 병동 상황에 따라 세탁실 보관 장소로 운반하여야 한다.3. 세탁물은 반드시 오염세탁물과 기타세탁물을 구분한 수집 자루에 넣어 운반하여야 한다.4. 세탁물의 수집 장소ㆍ운반용기는 주 1회 이상, 보관 장소는 주 2회 이상 소독하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립춘천병원세탁물처리규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "세탁금지 세탁물",
+        "chapter": "",
+        "content": "제6조(세탁금지 세탁물) 다음 각 호의 세탁물을 재사용 목적으로 세탁할 수 없으며 의료폐기물로 분류 위탁ㆍ처리하여야 한다.1. 피ㆍ고름이 묻은 붕대 및 거즈2. 마스크ㆍ수술포 등 일회용 제품류3. 바이러스성 출혈열(에볼라바이러스병, 마버그열, 라싸열, 크리미안콩고출혈열, 남아메리카출혈열 및 리프트밸리열의 경우만 해당한다) 환자의 혈액이나 체액으로 오염된 세탁물4. 크로이트펠트-야콥병(CJD) 및 변종크로이츠펠트-야콥병(vCJD)확진 또는 의심환자의 중추신경계 조직으로 오염된 세탁물",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립춘천병원세탁물처리규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "세탁물 인수인계",
+        "chapter": "",
+        "content": "제7조(세탁물 인수인계) 세탁물 처리담당자는 세탁물 처리업자에서 세탁 완료된 세탁물량을 정확히 파악하고 세탁물 입ㆍ출 대장을 작성하여 보관한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립춘천병원세탁물처리규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "관리책임자 지정",
+        "chapter": "",
+        "content": "제8조(관리책임자 지정) 세탁물의 수집, 보관, 운반, 처리를 위하여 관리책임자를 지정 운영한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립춘천병원세탁물처리규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "교육",
+        "chapter": "",
+        "content": "제9조(교육) 세탁물 종사자에 대하여 연간 4시간 이상 다음 각호의 내용이 포함된 감염 교육을 실시해야 한다.1. 손 위생 방법2. 개인보호장비의 사용 방법3. 세탁물 취급 시 주의사항4. 소독약품 사용 시 주의사항5. 세탁물 처리시설 및 장비의 위생관리 방법",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립춘천병원세탁물처리규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "세탁물 처리 실적 제출",
+        "chapter": "",
+        "content": "제10조(세탁물 처리 실적 제출)「의료기관 세탁물 처리실적 보고서」를 매년 1회 시장에게 제출한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립춘천병원세탁물처리규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "대장의 작성ㆍ비치",
+        "chapter": "",
+        "content": "제11조(대장의 작성ㆍ비치)「의료기관 세탁물 관리 규칙」제 10조에 따라 다음 각 호의 대장을 작성하고 서류는 3년간 보존한다.1. 별지 제6호서식의 세탁물 위탁처리대장2. 별지 제7호서식의 세탁물 수탁처리대장",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "「의료기관 세탁물 관리 규칙」",
+            "line_text": "",
+            "target_law_name": "의료기관 세탁물 관리 규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/의료기관 세탁물 관리 규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립춘천병원세탁물처리규정#JO0011",
+            "reference_id": "law:의료기관세탁물관리규칙#DOC"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "별지 제6호서식",
+            "line_text": "",
+            "target_law_name": "국립춘천병원 세탁물처리규정",
+            "target_article_no": "별지6",
+            "target_article_title": "세탁물 위탁처리대장 (의료기관용)",
+            "appendix_no": "6",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136282417",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립춘천병원세탁물처리규정#JO0011",
+            "reference_id": "admrul:국립춘천병원세탁물처리규정#BJ0006"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "별지 제7호서식",
+            "line_text": "",
+            "target_law_name": "국립춘천병원 세탁물처리규정",
+            "target_article_no": "별지7",
+            "target_article_title": "세탁물 수탁처리대장 (처리업자용)",
+            "appendix_no": "7",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136282423",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립춘천병원세탁물처리규정#JO0011",
+            "reference_id": "admrul:국립춘천병원세탁물처리규정#BJ0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립춘천병원세탁물처리규정#JO0011"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20121205",
+      "promulgation_no": "183",
+      "content": "부칙 <제183호, 2012. 12. 5.>이 규정은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20211220",
+      "promulgation_no": "317",
+      "content": "부칙 <제317호, 2021. 12. 20.>제1조(시행일) 이 규정은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20231230",
+      "promulgation_no": "355",
+      "content": "부칙 <제355호, 2023. 12. 30.>이 규정은 공포한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별지",
+      "title": "세탁물 위탁처리대장 (의료기관용)",
+      "enforcement_date": "",
+      "content": "\n[별지 제6호서식] <개정 2021. 8. 11.>\n세탁물 위탁처리대장 (의료기관용)\n\n┏━━━┯━━━━┯━━━━┯━━━━━┯━━━━┯━━━━━━━━━━━━━━━━┓\n┃구분  │세탁물명│위탁수량│인계자서명│인수자  │비고                            ┃\n┃ 월 일│        │(kg)    │          │서명    │                                ┃\n┠───┼────┼────┼─────┼────┼────────────────┨\n┃      │        │        │          │        │                                ┃\n┗━━━┷━━━━┷━━━━┷━━━━━┷━━━━┷━━━━━━━━━━━━━━━━┛\n<작성요령>\n1. 대장은 해당 의료기관에서 발생하는 세탁물의 종류별(침구류ㆍ의류ㆍ기타)로 구분\n하여 작성합니다.\n2. 세탁물 처리실적이 기간별(월?분기?연)로 집계될 수 있도록 기간별 말일을 기준\n하여 처리량의 누계를 기록합니다.\n210㎜×297㎜\n[인쇄용지(2급) 60g／㎡]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136282417",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136282413",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136282417",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립춘천병원세탁물처리규정#BJ0006",
+      "filename": "별지6_세탁물 위탁처리대장 (의료기관용).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "별지",
+      "title": "세탁물 수탁처리대장 (처리업자용)",
+      "enforcement_date": "",
+      "content": "\n[별지 제7호서식] <개정 2021. 8. 11.>\n세탁물 수탁처리대장 (처리업자용)\n\n┏━━━━━┯━━━━┯━━━┯━━━━━━━┯━━━━━━━┯━━━━━━━━━━━┓\n┃의료기관명│세탁물명│수탁량│수  령        │납  품        │비고                  ┃\n┃          │        │(kg)  ├───┬───┼───┬───┼───────────┨\n┃          │        │      │ 월 일│수령자│ 월 일│납품자│                      ┃\n┠─────┼────┼───┼───┼───┼───┼───┼───────────┨\n┃          │        │      │      │      │      │      │                      ┃\n┗━━━━━┷━━━━┷━━━┷━━━┷━━━┷━━━┷━━━┷━━━━━━━━━━━┛\n<작성요령>\n1. 세탁물명은 침구류, 의류 및 기타로 구분하여 작성합니다.\n2. 세탁물 처리실적이 기간별(월·분기·연)로 집계될 수 있도록 기간별 말일을 기준하\n여 처리량의 누계를 기록합니다.\n210㎜×297㎜\n[인쇄용지(2급) 60g／㎡]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136282423",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136282419",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136282423",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립춘천병원세탁물처리규정#BJ0007",
+      "filename": "별지7_세탁물 수탁처리대장 (처리업자용).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "국립춘천병원 세탁물 처리규정(전문).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=136148641",
+      "file_store_url": "",
+      "filename": "국립춘천병원 세탁물 처리규정(전문).hwpx"
+    },
+    {
+      "name": "조문별제개정이유서_행정규칙.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=136282409",
+      "file_store_url": "",
+      "filename": "조문별제개정이유서_행정규칙.pdf"
+    },
+    {
+      "name": "조문별제개정이유서_행정규칙.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=136282405",
+      "file_store_url": "",
+      "filename": "조문별제개정이유서_행정규칙.hwpx"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 10,
+    "by_category": {
+      "법령": 8,
+      "별지": 2
+    },
+    "by_relation_type": {
+      "citation": 8,
+      "appendix_ref": 2
+    },
+    "articles_total": 11,
+    "articles_with_relations": 4,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 3,
+    "appendices_count": 2,
+    "attachments_count": 3
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/국립춘천병원 세탁물처리규정"
+  },
+  "provision_id": "admrul:국립춘천병원세탁물처리규정#DOC"
+}
