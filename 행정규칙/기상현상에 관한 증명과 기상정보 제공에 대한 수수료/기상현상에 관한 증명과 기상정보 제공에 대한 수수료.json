@@ -1,0 +1,464 @@
+{
+  "law_id": "2100000235370",
+  "mst": "2100000235370",
+  "law_name": "기상현상에 관한 증명과 기상정보 제공에 대한 수수료",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000235370",
+  "promulgation_no": "2024-1",
+  "promulgation_date": "20240117",
+  "enforcement_date": "20240117",
+  "revision_date": "20240117",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "기상청(국가기후데이터센터)",
+    "담당자명": "정지현",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "기상현상에 관한 증명과 기상정보 제공에 대한 수수료",
+    "발령일자": "20240117",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "기상청",
+    "전화번호": "042-481-7467",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1360000",
+    "생성일자": "20240118",
+    "행정규칙ID": "49205",
+    "시행일자": "20240117",
+    "담당부서기관코드": "1360633",
+    "발령번호": "2024-1",
+    "행정규칙일련번호": "2100000235370",
+    "상위부처명": "기상청"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정 이유\n기상정보 제공시스템의 성능 개선에 따른 전산처리 제공 비용 감소와 기상기후데이터의 종류와 용량이 급증하고 있는 현실을 고려하고, 국민의 활용 수요에 대한 정책 지원과 공공데이터의 이용 활성화를 위해 새롭게 산정한 기상정보 제공 수수료를 반영하는 한편, 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 재검토기한을 연장하려는 것임.\n\n◇ 주요내용\n가. 기상정보 제공에 대한 수수료의 예외를 기존에 별표에서 규정하던 것을 본문에서 규정하는 것으로 정비(안 제3조)\n나. 기상정보에 대한 수수료 체계 조정(안 별표 2)\n1) 수작업 전산처리 자료에 대한 기본수수료 및 가산수수료 구간 조정 및 금액 인하\n2) 데이터 가공(추출ㆍ변환) 제공에 대한 20% 수수료 부과 신설",
+  "body": {
+    "format": "articles",
+    "article_count": 4,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 고시는 「기상법」 제36조 및 제36조의2와 같은 법 시행규칙 제17조 및 제17조의2에서 기상청장에게 위임한 기상현상에 관한 증명과 기상정보 제공에 대한 수수료를 정함을 목적으로 한다.[전문개정 2021. 8. 19.]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제36조 및 제36조의2",
+            "line_text": "",
+            "target_law_name": "기상법",
+            "target_article_no": "제36조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/기상법/제36조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기상현상에관한증명과기상정보제공에대한수수료#JO0001",
+            "reference_id": "law:기상법#JO0036"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제36조 및 제36조의2",
+            "line_text": "",
+            "target_law_name": "기상법",
+            "target_article_no": "제36조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/기상법/제36조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기상현상에관한증명과기상정보제공에대한수수료#JO0001",
+            "reference_id": "law:기상법#JO0036_02"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행규칙",
+            "line_text": "",
+            "target_law_name": "기상법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/기상법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기상현상에관한증명과기상정보제공에대한수수료#JO0001",
+            "reference_id": "law:기상법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제17조 및 제17조의2",
+            "line_text": "",
+            "target_law_name": "기상법 시행규칙",
+            "target_article_no": "제17조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/기상법 시행규칙/제17조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기상현상에관한증명과기상정보제공에대한수수료#JO0001",
+            "reference_id": "law:기상법시행규칙#JO0017"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제17조 및 제17조의2",
+            "line_text": "",
+            "target_law_name": "기상법 시행규칙",
+            "target_article_no": "제17조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/기상법 시행규칙/제17조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기상현상에관한증명과기상정보제공에대한수수료#JO0001",
+            "reference_id": "law:기상법시행규칙#JO0017_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:기상현상에관한증명과기상정보제공에대한수수료#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "기상현상에 관한 증명에 대한 수수료",
+        "chapter": "",
+        "content": "제2조(기상현상에 관한 증명에 대한 수수료) 「기상법 시행규칙」(이하 \"규칙\"이라 한다) 제17조제5항에 따른 기상현상에 관한 증명에 대한 수수료는 별표 1과 같다. 다만, 기상현상에 관한 증명을 신청한 자가 인터넷을 통해 직접 자료를 받아가는 경우에는 무료로 한다. <개정 2020. 7. 3., 2021. 8. 19.>[제목개정 2021. 8. 19.]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「기상법 시행규칙」",
+            "line_text": "",
+            "target_law_name": "기상법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/기상법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기상현상에관한증명과기상정보제공에대한수수료#JO0002",
+            "reference_id": "law:기상법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제17조제5항",
+            "line_text": "",
+            "target_law_name": "기상법 시행규칙",
+            "target_article_no": "제17조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/기상법 시행규칙/제17조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기상현상에관한증명과기상정보제공에대한수수료#JO0002",
+            "reference_id": "law:기상법시행규칙#JO0017"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "기상현상에 관한 증명과 기상정보 제공에 대한 수수료",
+            "target_article_no": "별표1",
+            "target_article_title": "기상현상에 관한 증명에 대한 수수료(제2조 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000235370&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기상현상에관한증명과기상정보제공에대한수수료#JO0002",
+            "reference_id": "admrul:기상현상에관한증명과기상정보제공에대한수수료#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:기상현상에관한증명과기상정보제공에대한수수료#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "기상정보 제공에 대한 수수료",
+        "chapter": "",
+        "content": "제3조(기상정보 제공에 대한 수수료) 규칙 제17조의2제3항에 따른 기상정보 제공에 대한 수수료는 별표 2와 같다. 다만, 다음 각 호의 어느 하나에 해당하는 경우에는 무료로 한다.<개정 2020. 7. 3., 2021. 8. 19., 2024. 1. 17.>1. 기상청이 운영하는 오픈API[불특정 다수의 사용자가 이용할 수 있도록 외부에 개방된 API(Application Programming interface)로서 갱신되는 공공데이터를 실시간으로 이용자가 받을 수 있도록 하는 표준화된 방식을 말한다]를 이용하여 기상정보를 받아가는 경우2. 기상정보 제공을 신청한 자가 인터넷을 통해 직접 정보를 받아가는 경우3. 기상정보 제공을 신청한 자가 「재난 및 안전관리 기본법」 제3조제5호에 따른 재난관리책임기관에 해당하는 경우[제목개정 2021. 8. 19.]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "규칙",
+            "line_text": "",
+            "target_law_name": "기상법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/기상법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기상현상에관한증명과기상정보제공에대한수수료#JO0003",
+            "reference_id": "law:기상법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제17조의2제3항",
+            "line_text": "",
+            "target_law_name": "기상법 시행규칙",
+            "target_article_no": "제17조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/기상법 시행규칙/제17조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기상현상에관한증명과기상정보제공에대한수수료#JO0003",
+            "reference_id": "law:기상법시행규칙#JO0017_02"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "기상현상에 관한 증명과 기상정보 제공에 대한 수수료",
+            "target_article_no": "별표2",
+            "target_article_title": "기상정보 제공에 대한 수수료(제3조 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000235370&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기상현상에관한증명과기상정보제공에대한수수료#JO0003",
+            "reference_id": "admrul:기상현상에관한증명과기상정보제공에대한수수료#BYL0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「재난 및 안전관리 기본법」",
+            "line_text": "",
+            "target_law_name": "재난 및 안전관리 기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/재난 및 안전관리 기본법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기상현상에관한증명과기상정보제공에대한수수료#JO0003",
+            "reference_id": "law:재난및안전관리기본법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제3조제5호",
+            "line_text": "",
+            "target_law_name": "재난 및 안전관리 기본법",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/재난 및 안전관리 기본법/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기상현상에관한증명과기상정보제공에대한수수료#JO0003",
+            "reference_id": "law:재난및안전관리기본법#JO0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:기상현상에관한증명과기상정보제공에대한수수료#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제4조(재검토기한) 기상청장은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2024년 7월 1일 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 해야 한다. <개정 2015. 11. 30., 2020. 7. 3., 2021. 8. 19., 2024. 1. 17.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기상현상에관한증명과기상정보제공에대한수수료#JO0004",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:기상현상에관한증명과기상정보제공에대한수수료#JO0004"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20150807",
+      "promulgation_no": "2015-6",
+      "content": "부칙 <제2015-6호,2015. 8. 7.>이 고시는 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20151130",
+      "promulgation_no": "2015-11",
+      "content": "부칙 <제2015-11호,2015. 11. 30.>이 고시는 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20200703",
+      "promulgation_no": "2020-6",
+      "content": "부칙 <제2020-6호,2020. 7. 3.>이 고시는 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20210819",
+      "promulgation_no": "2021-11",
+      "content": "부칙 <제2021-11호, 2021. 8. 19.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20240117",
+      "promulgation_no": "2024-1",
+      "content": "부칙 <제2024-1호, 2024. 1. 17.>이 고시는 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "기상현상에 관한 증명에 대한 수수료(제2조 관련)",
+      "enforcement_date": "",
+      "content": "[별표 1] 기상현상에 관한 증명에 대한 수수료(제2조 관련) <개정 2021.8.19.>\n┏━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃기본수수료  │가산수수료                                                ┃\n┣━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃ 1통당 500원│ 기상현상의 증명에 첨부되는 자료 1면당 200원을 가산한 금액┃\n┗━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000235370&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=137099357",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=137099353",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=137099357",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:기상현상에관한증명과기상정보제공에대한수수료#BYL0001",
+      "filename": "별표1_기상현상에 관한 증명에 대한 수수료(제2조 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "기상정보 제공에 대한 수수료(제3조 관련)",
+      "enforcement_date": "",
+      "content": "[별표 2] 기상정보 제공에 대한 수수료(제3조 관련) <개정 2024. 1. 17.>\n┏━━━━━━━━━━━━━━┯━━━━━━━━━┯━━━━━━┓\n┃구분                        │기본수수료        │가산수수료  ┃\n┣━━━━━━━━━━━━━━┿━━━━━━━━━┿━━━━━━┫\n┃  가. 인쇄 및 복사          │  1면당      200원│            ┃\n┃                            │                  │            ┃\n┃  나. 전산처리 자료         │                  │            ┃\n┃   1) 1GB 미만              │          1,800원 │            ┃\n┃   2) 1GB 이상 ～ 100GB 미만│1,810원           │ 1GB당 10원 ┃\n┃   3) 100GB 이상 ～ 1TB 미만│2,800원           │ 1GB당 20원 ┃\n┃   4) 1TB 이상 ~ 10TB 미만  │21,280원          │ 1GB당 30원 ┃\n┃   5) 10TB 이상 ~ 50TB 미만 │297,760원         │ 1GB당 40원 ┃\n┗━━━━━━━━━━━━━━┷━━━━━━━━━┷━━━━━━┛\n* 기상정보를 가공하여 제공할 경우, 가공 전후 용량을 비교하여 더 작은 용량을 기준으로 수수료를 산정하되, 전체수수료의 20%를 할증한다.\n비고\n1. 수수료는 제공되는 정보의 용량에 따라 기본수수료에 가산수수료를 더하여 산정하되, 용량을 산정함에 있어 1TB는 1,024GB로 본다.\n2. 기상정보의 제공을 위한 저장매체(CD, USB, 하드디스크 등) 및 배송료는 기상정보 제공을 신청한 자가 부담한다.\n3. 기상정보 가공이란 다음 각 목의 어느 하나에 해당하는 유형을 말한다.\n가. 추출: 원시데이터 전체에서 특정 기간ㆍ지역ㆍ고도ㆍ지점ㆍ요소 등에 대한 일부데이터 추출\n나. 포맷변환: 원시데이터의 값의 변경 없이 제공포맷만을 변환",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000235370&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=137099363",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=137099359",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=137099363",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:기상현상에관한증명과기상정보제공에대한수수료#BYL0002",
+      "filename": "별표2_기상정보 제공에 대한 수수료(제3조 관련).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "조문별제개정이유서_기상현상에 관한 증명과 기상정보 제공에 대한 수수료.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=137099111",
+      "file_store_url": "",
+      "filename": "조문별제개정이유서_기상현상에 관한 증명과 기상정보 제공에 대한 수수료.pdf"
+    },
+    {
+      "name": "조문별제개정이유서_기상현상에 관한 증명과 기상정보 제공에 대한 수수료.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=137099107",
+      "file_store_url": "",
+      "filename": "조문별제개정이유서_기상현상에 관한 증명과 기상정보 제공에 대한 수수료.hwpx"
+    },
+    {
+      "name": "기상현상에 관한 증명과 기상정보 제공에 대한 수수료 일부개정 전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=137083193",
+      "file_store_url": "",
+      "filename": "기상현상에 관한 증명과 기상정보 제공에 대한 수수료 일부개정 전문.hwpx"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 14,
+    "by_category": {
+      "법령": 11,
+      "별표": 2,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 12,
+      "appendix_ref": 2
+    },
+    "articles_total": 4,
+    "articles_with_relations": 4,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 5,
+    "appendices_count": 2,
+    "attachments_count": 3
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/기상현상에 관한 증명과 기상정보 제공에 대한 수수료"
+  },
+  "provision_id": "admrul:기상현상에관한증명과기상정보제공에대한수수료#DOC"
+}
