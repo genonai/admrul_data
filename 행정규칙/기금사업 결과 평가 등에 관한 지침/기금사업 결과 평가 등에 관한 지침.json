@@ -1,0 +1,539 @@
+{
+  "law_id": "2100000237580",
+  "mst": "2100000237580",
+  "law_name": "기금사업 결과 평가 등에 관한 지침",
+  "law_abbr": "",
+  "law_type": "훈령",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000237580",
+  "promulgation_no": "258",
+  "promulgation_date": "20240315",
+  "enforcement_date": "20240315",
+  "revision_date": "20240315",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "과학기술정보통신부(정보통신산업정책과)",
+    "담당자명": "박정순",
+    "행정규칙종류코드": "B0001",
+    "행정규칙명": "기금사업 결과 평가 등에 관한 지침",
+    "발령일자": "20240315",
+    "행정규칙종류": "훈령",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "과학기술정보통신부",
+    "전화번호": "044-202-6229",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1721000",
+    "생성일자": "20240315",
+    "행정규칙ID": "76781",
+    "시행일자": "20240315",
+    "담당부서기관코드": "1722136",
+    "발령번호": "258",
+    "행정규칙일련번호": "2100000237580",
+    "상위부처명": "과학기술정보통신부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정 이유\n기금사업 결과평가 등급 점수 조정 등 세부내용을 명확히 하기 위한 필요사항을 개정하고자 함\n◇ 주요내용\n가. 기금사업 결과평가 \"보통\" 구간의 20점 배점간격(60～79점)을 10점 간격(70～79점)으로 조정하고, 보통 구간의 점수 조정에 따라 \"미흡\"(50～59점→60～69점), \"매우미흡\"(50점 미만→60점 미만) 구간의 점수도 변경(제8조)\n나. ICT산업 환경 및 정책수요 변화에 유연하게 대응하기 위해 특정 분야 추진 사업명 삭제(별지 제1호 서식)\n다. 기금사업 결과평가 \"보통\" 구간 점수조정에 따른 평가결과표 현행화(별지 제3호 서식)",
+  "body": {
+    "format": "articles",
+    "article_count": 14,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 지침은 「방송통신발전기금 운용ㆍ관리규정」제44조제4호 및 「정보통신진흥기금 운용ㆍ관리규정」제42조제4호에 따라 기금사업 결과의 평가 등에 관한 세부사항을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「정보통신진흥기금 운용ㆍ관리규정」",
+            "line_text": "",
+            "target_law_name": "정보통신진흥기금 운용ㆍ관리규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/정보통신진흥기금 운용ㆍ관리규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기금사업결과평가등에관한지침#JO0001",
+            "reference_id": "admrul:정보통신진흥기금운용관리규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제42조제4호",
+            "line_text": "",
+            "target_law_name": "정보통신진흥기금 운용ㆍ관리규정",
+            "target_article_no": "제42조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/정보통신진흥기금 운용ㆍ관리규정/제42조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기금사업결과평가등에관한지침#JO0001",
+            "reference_id": "admrul:정보통신진흥기금운용관리규정#JO0042"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:기금사업결과평가등에관한지침#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "용어의 정의",
+        "chapter": "",
+        "content": "제2조(용어의 정의) 이 지침에서 사용하는 용어의 정의는 다음과 같으며, 이외에는 「방송통신발전기금 운용ㆍ관리규정」 및 「정보통신진흥기금 운용ㆍ관리규정」과 관련 부속지침에서 정하는 바에 따른다.1. \"정책평가\"이란 관리기관의 장이 기금사업 구조조정 등 정책목표를 달성하기 위해 정책분야별 성과를 평가하는 것을 말한다.2. \"결과평가\"란 전담기관의 장이 협약사업의 수행실적 등 사업결과를 평가하는 것을 말한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「정보통신진흥기금 운용ㆍ관리규정」",
+            "line_text": "",
+            "target_law_name": "정보통신진흥기금 운용ㆍ관리규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/정보통신진흥기금 운용ㆍ관리규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기금사업결과평가등에관한지침#JO0002",
+            "reference_id": "admrul:정보통신진흥기금운용관리규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:기금사업결과평가등에관한지침#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "관리기관등의 권한과 책임",
+        "chapter": "",
+        "content": "제3조(관리기관등의 권한과 책임) ① 기금사업 결과평가의 효율성과 투명성을 제고하기 위해 관리기관, 전담기관, 사업수행기관은 이 지침에서 정한 권한 및 책임을 갖는다.② 관리기관의 권한 및 책임은 다음과 같다.1. 정책평가에 대한 평가계획 수립에 관한 사항2. 기금사업에 대한 정책평가 시행ㆍ보고에 관한 사항3. 그 밖에 총괄부서가 요청한 자료 제출에 관한 사항③ 전담기관의 권한 및 책임은 다음과 같다.1. 결과평가에 대한 평가계획 수립에 관한 사항2. 협약사업에 대한 결과평가 시행ㆍ보고에 관한 사항3. 그 밖에 장관 또는 관리기관이 요청한 자료 제출에 관한 사항④ 사업수행기관의 권한 및 책임은 다음과 같다.1. 결과평가를 위한 자료 제출에 관한 사항2. 그 밖에 전담기관이 추가로 요청한 자료 제출에 관한 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:기금사업결과평가등에관한지침#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "평가위원회의 구성 및 운영",
+        "chapter": "",
+        "content": "제4조(평가위원회의 구성 및 운영) ① 관리기관의 장은 정책평가를 실시함에 있어 외부 전문가를 포함한 별도 평가위원회를 구성ㆍ운영하거나, 「ICT 예산 정책 협의체 운영 등에 관한 지침」에 따른 분과위원회를 활용할 수 있다. 전담기관이 결과평가를 위해 평가위원회를 구성ㆍ운영할 때에도 이와 같다.② 제1항에 따른 평가위원회는 평가 및 성과관리 등에 관한 전문지식을 갖춘 산ㆍ학ㆍ연 전문가 중에서 평가위원을 위촉하여야 하며, 위원장 1인을 포함하여 5인 이상 7인 이내로 구성한다. 다만, 다음 각 호에 해당되는 경우에는 평가위원회 위원에서 제외하되, 자격 상실 사유가 해소된 경우에는 해소된 날 이후부터 평가위원회 위원으로 위촉할 수 있다.1. 평가 대상 사업과 동일ㆍ유사 사업(과제 포함) 수행 등 제척 사유에 해당되는 경우2. 이민, 퇴직, 이직 등으로 사실상 평가위원회 활동이 불가능한 경우3. 위원 위촉 시 허위사실을 기재한 경우4. 불공정하게 평가를 실시한 사실이 확인된 경우5. 그 밖에 특별한 이유 없이 평가위원회에 참석하지 아니하는 등 위원장이 평가위원으로 적합하지 아니하다고 인정하는 경우③ 평가위원회의 위원장은 위원 중에서 호선하며, 제적위원 과반 이상 참석시 평가를 실시한다.④ 관리기관의 장은 평가위원회의 원활한 운영을 위하여 간사를 둘 수 있으며, 이 경우 간사는 한국방송통신전파진흥원 소속 직원으로 한다. 다만, 전담기관의 결과평가 시에는 해당 전담기관 소속 직원을 간사로 둘 수 있다.⑤ 전담기관이 결과평가를 실시하는 경우에는 제1항부터 제4항까지를 준용하되, 평가위원회 구성ㆍ운영에 관한 세부사항을 별도로 정하여 시행할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "「ICT 예산 정책 협의체 운영 등에 관한 지침」",
+            "line_text": "",
+            "target_law_name": "ICT 예산 정책 협의체 운영 등에 관한 지침",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/ICT 예산 정책 협의체 운영 등에 관한 지침",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기금사업결과평가등에관한지침#JO0004",
+            "reference_id": "admrul:ICT예산정책협의체운영등에관한지침#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:기금사업결과평가등에관한지침#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "평가위원 수당지급 등",
+        "chapter": "",
+        "content": "제5조(평가위원 수당지급 등) ① 제4조의 평가위원회에 위촉된 위원에게 평가수당과 여비를 지급할 수 있다. 다만, 위원 소속기관에서 별도로 여비를 지급하는 경우에는 그러하지 아니한다.② 기금사업 점검, 특별점검 및 현장실태조사 등 기금사업 결과 평가와 관련된 업무에 참여한 외부 전문가에게도 수당 및 여비를 지급할 수 있다.③ 제1항 및 제2항에 따른 수당과 여비에 관한 사항은 관리기관의 장 또는 전담기관의 장이 정한 바에 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "기금사업 결과 평가 등에 관한 지침",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/기금사업 결과 평가 등에 관한 지침/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기금사업결과평가등에관한지침#JO0005",
+            "reference_id": "admrul:기금사업결과평가등에관한지침#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:기금사업결과평가등에관한지침#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "정책평가계획의 수립 등",
+        "chapter": "",
+        "content": "제6조(정책평가계획의 수립 등) ① 관리기관의 장은 당해연도 기금사업에 대한 정책평가를 실시함에 있어 세부 평가 계획을 수립하여 총괄부서에 보고하여야 하며, 별도의 평가지표에 따라 정책평가를 실시하여야 한다.② 제1항에 따른 평가지표는 [별지 제1호서식]과 같으며, 총괄부서와 협의하여 이를 변경할 수 있다.③ 장관은 정책평가에 필요한 경비의 전부 또는 일부를 예산의 범위 안에서 지원할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "기금사업 결과 평가 등에 관한 지침",
+            "target_article_no": "별지1",
+            "target_article_title": "정책평가 지표(예시)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=138690163",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기금사업결과평가등에관한지침#JO0006",
+            "reference_id": "admrul:기금사업결과평가등에관한지침#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:기금사업결과평가등에관한지침#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "결과평가 계획의 수립",
+        "chapter": "",
+        "content": "제7조(결과평가 계획의 수립) ① 전담기관의 장은 협약사업의 결과평가를 위해 평가계획을 수립하고 이를 주무부서에 보고하여야 한다.② 전담기관의 장은 제1항의 결과평가 계획에 다음 각 호의 사항을 포함하여야 한다.1. 결과평가를 위한 적용기준, 대면 또는 비대면 등 결과평가 방법, 결과평가 대상사업, 결과평가일정 및 장소, 서면평가, 발표평가, 서면 및 발표평가 등의 결과평가 유형, 평가항목 및 평가내용, 배점 등의 결과평가 지표에 관한 사항2. 평가위원 구성 등에 관한 사항3. 그 밖에 결과평가를 위해 포함하여야 할 사항③ 장관은 제1항에도 불구하고 다음 각 호에 해당하는 경우에는 결과평가 업무를 관리기관의 장에게 위탁할 수 있다.1. 전담기관이 직접 수행하는 사업인 경우2. 그 밖에 결과평가의 공정성이 현저히 저해될 우려가 있다고 인정되는 경우",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:기금사업결과평가등에관한지침#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "결과평가 방법 및 대상",
+        "chapter": "",
+        "content": "제8조(결과평가 방법 및 대상) ① 전담기관의 장은 사업수행기관의 장이 제출한 기금사업 수행상황 최종보고서에 대하여 결과평가를 실시하고 그 결과를 사업수행기관의 장에게 통보하여야 한다.② 제1항에 따른 결과평가 세부항목은 [별지 제2호서식]과 같으며, 전담기관의 장은 사업의 특성 등을 고려하여 평가항목을 가감하거나 배점을 조정할 수 있다.③ 전담기관의 장은 제1항의 결과평가가 완료된 경우에는 평가위원회를 거쳐  [별지 제3호서식]에 따라 \"매우우수(90점 이상)\", \"우수(80점~89점)\", \"보통(70점～79점)\", \"미흡(60점～69점)\" 또는 \"매우미흡(60점 미만)\"으로 기재하되, \"미흡\"과 \"매우미흡\"인 경우 그 원인과 사유를 구체적으로 별도로 기재하여야 한다. <개정 2024.3.15.>④ 전담기관의 장은 제1항의 평가를 실시함에 있어 평가대상 사업의 규모 등 사업별 특성에 따라 상대평가 또는 절대평가의 방법으로 실시할 수 있으며, 이 지침에서 정한 내용 범위 내에서 결과평가의  방법 및 절차 등에 관한 세부사항을 별도로 정하여 시행할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제2항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "기금사업 결과 평가 등에 관한 지침",
+            "target_article_no": "별지2",
+            "target_article_title": "결과평가 세부항목(예시)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=138690169",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기금사업결과평가등에관한지침#JO0008",
+            "reference_id": "admrul:기금사업결과평가등에관한지침#BJ0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제3항",
+            "link_text": "별지 제3호서식",
+            "line_text": "",
+            "target_law_name": "기금사업 결과 평가 등에 관한 지침",
+            "target_article_no": "별지3",
+            "target_article_title": "평가결과표",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=138690175",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기금사업결과평가등에관한지침#JO0008",
+            "reference_id": "admrul:기금사업결과평가등에관한지침#BJ0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:기금사업결과평가등에관한지침#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "기금사업 평가대상 예외",
+        "chapter": "",
+        "content": "제9조(기금사업 평가대상 예외) 관리기관 및 전담기관은 다음 각 호에 해당하는 사업은 평가대상에서 제외할 수 있다.1. 경상경비로만 구성된 사업2. 보안과제로 분류되는 등 국가안보를 위해 추진되는 사업3. 그 밖에 장관이 평가대상에서 제외한 사업",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:기금사업결과평가등에관한지침#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "결과평가에 대한 이의신청 및 재평가",
+        "chapter": "",
+        "content": "제10조(결과평가에 대한 이의신청 및 재평가) ① 사업수행기관의 장은 전담기관의 장이 통보한 평가결과에 대하여 이의가 있는 경우에는 평가결과를 통보받은 날로부터 10일 이내에 이의신청을 할 수 있다.② 전담기관의 장은 제1항에 따라 이의신청을 받은 날부터 15일 이내에 재평가 여부를 결정하고, 재평가를 실시하는 경우에는 당초 결과평가를 담당했던 해당 평가위원들의 50% 이상이 재평가에 참여하도록 평가위원회를 구성하여야 한다.③ 전담기관의 장은 제2항에 따른 재평가가 완료되면 즉시 그 결과를 사업수행기관의 장에게 통보하여야 하고, 사업수행기관의 장은 전담기관의 재평가 결과에 대해 이의를 제기할 수 없다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:기금사업결과평가등에관한지침#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "자료제출 요청",
+        "chapter": "",
+        "content": "제11조(자료제출 요청) ① 전담기관의 장은 결과평가와 관련하여 필요한 경우 사업수행기관의 장에게 다음 각 호의 자료를 제출할 것을 요청할 수 있다. 이 경우 사업수행기관의 장은 정당한 사유가 없는 한 이에 응하여야 한다.1. 협약 사업의 수행계획 및 목표2. 사업수행기관이 수행한 사업 추진 실적 및 증빙자료3. 그 밖에 전담기관의 장이 결과평가에 필요하다고 인정하는 자료② 관리기관의 장은 정책평가를 실시함에 있어 필요한 경우 제1항에 준하는 자료를 전담기관의 장에게 요청할 수 있으며, 이 경우 전담기관의 장은 정당한 사유가 없는 한 이에 응하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:기금사업결과평가등에관한지침#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "평가결과의 보고 등",
+        "chapter": "",
+        "content": "제12조(평가결과의 보고 등) ① 관리기관의 장은 정책평가가 완료된 경우에는 그 결과를 총괄부서에 보고하여야 한다.② 전담기관의 장은 결과평가를 완료한 경우에는 그 결과를 주무부서에 보고하고, 이를 사업관리시스템에 등록하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:기금사업결과평가등에관한지침#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "기금사업의 성과분석 등",
+        "chapter": "",
+        "content": "제13조(기금사업의 성과분석 등) ① 관리기관의 장은 전담기관의 장이 사업관리시스템에 등록한 기금사업 결과평가 자료를 활용하여 성과목표 달성 여부 등 성과 분석을 실시하고, 그 결과를 매년 9월말까지 총괄부서에 보고하여야 한다.② 관리기관의 장은 제1항에 따른 성과 분석을 외부 전문기관에 위탁하거나, 「ICT 예산 정책 협의체 운영 등에 관한 지침」에 따른 분과위원회를 활용할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제2항",
+            "link_text": "「ICT 예산 정책 협의체 운영 등에 관한 지침」",
+            "line_text": "",
+            "target_law_name": "ICT 예산 정책 협의체 운영 등에 관한 지침",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/ICT 예산 정책 협의체 운영 등에 관한 지침",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기금사업결과평가등에관한지침#JO0013",
+            "reference_id": "admrul:ICT예산정책협의체운영등에관한지침#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:기금사업결과평가등에관한지침#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "성과 분석의 활용",
+        "chapter": "",
+        "content": "제14조(성과 분석의 활용) ① 장관은 제13조에 따른 성과 분석 결과를 기금 수지 전망, 재정 건전성 강화, 사업 구조조정 등 정책평가의 기초자료로 활용할 수 있다.② 장관은 제13조에 따른 성과분석에 필요한 경비의 전부 또는 일부를 예산의 범위 안에서 지원할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제1항",
+            "link_text": "제13조",
+            "line_text": "",
+            "target_law_name": "기금사업 결과 평가 등에 관한 지침",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/기금사업 결과 평가 등에 관한 지침/제13조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기금사업결과평가등에관한지침#JO0014",
+            "reference_id": "admrul:기금사업결과평가등에관한지침#JO0013"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제2항",
+            "link_text": "제13조",
+            "line_text": "",
+            "target_law_name": "기금사업 결과 평가 등에 관한 지침",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/기금사업 결과 평가 등에 관한 지침/제13조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기금사업결과평가등에관한지침#JO0014",
+            "reference_id": "admrul:기금사업결과평가등에관한지침#JO0013"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:기금사업결과평가등에관한지침#JO0014"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20210331",
+      "promulgation_no": "2021-159",
+      "content": "부칙 <제2021-159호, 2021. 3. 31.>제1조(시행일) 이 지침은 발령된 날부터 시행한다.제2조(재검토기한) 장관은「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 지침에 대하여 발령일을 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.제3조(체결협약에 대한 적용례) 이 지침은 기금사업과 관련하여 2021년 1월 1일 이후 체결된 협약부터 적용한다."
+    },
+    {
+      "promulgation_date": "20240315",
+      "promulgation_no": "258",
+      "content": "부칙 <제258호, 2024. 3. 15.>제1조(시행일) 이 지침은 발령된 날부터 시행한다.제2조(재검토기한) 장관은「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 지침에 대하여 발령일을 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.제3조(결과평가 점수 변경에 따른 적용례) 제8조의 개정규정은 2024년 1월 1일 이후 체결된 협약부터 적용한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "정책평가 지표(예시)",
+      "enforcement_date": "",
+      "content": "[별지 제1호 서식] <개정 2024.3.15.>\n정책평가 지표(예시)\n┌─────────┬──────────────────────────────────┐\n│평가항목          │세부내용                                                            │\n┝━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┥\n│1. 집행부진 사업  │ㆍ(집행률 : 90% 미만사업) 3~5년간 사업비 집행율, 이월집행율  (전체  │\n│(연례적 이ㆍ불용) │집행율 대비), 연례적 이ㆍ불용 등 집행 부진 사업 선정                │\n├─────────┼──────────────────────────────────┤\n│2. 장기계속 사업  │ㆍ(10년 이상 계속 지원사업) 관행적이고, 장기 계속 지원 사업의 계속  │\n│(관행적보조ㆍ출연)│지원 필요성(관행적 보조 및 출연 등)                                 │\n├─────────┼──────────────────────────────────┤\n│3. 평가미흡 사업  │ㆍ(외부 재정사업 평가) 재정사업 자율평가/심층평사, 보조사업 연장평  │\n│  (정부평가저조)  │가 등 각종 평가가 지적사업                                          │\n├─────────┼──────────────────────────────────┤\n│4. 외부지적 사업  │ㆍ(국회 예ㆍ결산 지적사업) 예정처, 과방위, 예결위 결산 및 예산 검토 │\n│(국회ㆍ언론 등)   │보고서 지적사업, 언론 및 감사원 등에서 지적한 사업                  │\n├─────────┼──────────────────────────────────┤\n│5. 유사중복 사업  │ㆍ(유사업간 유사중복사업) 사업목적, 지원대상, 추진방안 등에 대하여  │\n│  (제도개선 반영) │유사·중복으로 지적된 사업                                          │\n├─────────┼──────────────────────────────────┤\n│6. 중점투자 사업  │ㆍ주요정책 사업(①국정과제, ②업무계획, ③핵심정책)에 포함된 사업,  │\n│  (부처핵심정책)  │투자 우순순위 사업                                                  │\n└─────────┴──────────────────────────────────┘\n※ 매년 적용하는 평가항목 및 기준, 평가내용은 총괄부서와의 협의를 통해 조정 가능",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=138690163",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=138690159",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=138690163",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:기금사업결과평가등에관한지침#BJ0001",
+      "filename": "별지1_정책평가 지표(예시).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "결과평가 세부항목(예시)",
+      "enforcement_date": "",
+      "content": "[별지 제2호 서식]\n결과평가 세부항목(예시)\n※ 사업별 특성을 감안하여 평가내용 및 배점 조정 가능\n1. 협약사업 결과평가 항목\n┏━━━━┯━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃항 목   │구 분             │세부내용                                                      ┃\n┃(배 점) │                  │                                                              ┃\n┣━━━━┿━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃정량평가│목표의 달성도     │ㅇ사업 성과목표 및 성과지표의 달성도                          ┃\n┃(40점)  ├─────────┼───────────────────────────────┨\n┃        │추진실적의 달성도 │ㅇ사업계획 대비 추진실적(산출물 포함)의 달성도                ┃\n┃        ├─────────┼───────────────────────────────┨\n┃        │사업비집행실적    │ㅇ기금집행계획 대비 사용실적(집행율)                          ┃\n┠────┼─────────┼───────────────────────────────┨\n┃정성평가│목표의 달성도     │ㅇ도전적인 성과목표 수립과 목표 달성의 효율성 및 충실성 여부  ┃\n┃(60점)  ├─────────┼───────────────────────────────┨\n┃        │과정의 적정성     │ㅇ사업추진체계 역할분담 및 일정준수 등 수행사업 내용의        ┃\n┃        │                  │적정성 여부                                                   ┃\n┃        │                  │ㅇ사업추진방식 개선, 비용절감 등 사업추진의 효율성 제고 여부  ┃\n┃        ├─────────┼───────────────────────────────┨\n┃        │결과의 질적수준   │ㅇ사업추진 산출물 등의 완성도 및 활용성 여부                  ┃\n┃        ├─────────┼───────────────────────────────┨\n┃        │성과의 활용도     │ㅇ성과활용계획의 적정성 여부                                  ┃\n┃        │                  │ㅇ정보통신산업 및 국가경제·사회 등에 미치는 파급효과         ┃\n┃        ├─────────┼───────────────────────────────┨\n┃        │지적사항 이행정도 │ㅇ사업추진 중 발생한 문제점 및 외부저해요인조치에대한적       ┃\n┃        │                  │절성여부                                                      ┃\n┃        │                  │ㅇ사업진도 및 현장실태 점검 등에서 지적받은 사항에 대한       ┃\n┃        │                  │이행여부                                                      ┃\n┗━━━━┷━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=138690169",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=138690165",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=138690169",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:기금사업결과평가등에관한지침#BJ0002",
+      "filename": "별지2_결과평가 세부항목(예시).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "평가결과표",
+      "enforcement_date": "",
+      "content": "[별지 제3호 서식] <개정 2024.3.15.>\n평 가 결 과 표\n□ 사업 개요\n┏━━━━━━━━━┯┓\n┃평가분야          │┃\n┠─────────┼┨\n┃협약(내역) 사업명 │┃\n┠─────────┼┨\n┃사업수행기관      │┃\n┠─────────┼┨\n┃협약기간          │┃\n┗━━━━━━━━━┷┛\n□ 평가항목 및 평가의견\n┏━━━━━━━━┯━━━━┯━━━━┓\n┃평가항목 및 기준│평가의견│평가등급┃\n┃                │        │(5단계*)┃\n┣━━━━━━━━┿━━━━┿━━━━┫\n┃                │        │        ┃\n┠────────┼────┼────┨\n┃                │        │        ┃\n┠────────┼────┼────┨\n┃                │        │        ┃\n┠────────┼────┼────┨\n┃                │        │        ┃\n┠────────┼────┼────┨\n┃                │        │        ┃\n┠────────┼────┼────┨\n┃                │        │        ┃\n┠────────┼────┼────┨\n┃                │        │        ┃\n┠────────┼────┼────┨\n┃                │        │        ┃\n┠────────┼────┼────┨\n┃                │        │        ┃\n┗━━━━━━━━┷━━━━┷━━━━┛\n* \"매우우수(90점 이상)\", \"우수(80점~89점)\", \"보통(70점~79점)\", \"미흡(60점~69점)\", \"매우미흡(60점 미만)\"\n※ 평가위원장이 세부사업별로 구체적으로 작성\n※ \"미흡\" 및 \"매우미흡\"인 경우 그 원인과 사유를 구체적으로 별지 작성",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=138690175",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=138690171",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=138690175",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:기금사업결과평가등에관한지침#BJ0003",
+      "filename": "별지3_평가결과표.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "개정이유서_기금사업 결과 평가 등에 관한 지침.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=138689517",
+      "file_store_url": "",
+      "filename": "개정이유서_기금사업 결과 평가 등에 관한 지침.hwpx"
+    },
+    {
+      "name": "개정이유서_기금사업 결과 평가 등에 관한 지침.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=138689521",
+      "file_store_url": "",
+      "filename": "개정이유서_기금사업 결과 평가 등에 관한 지침.pdf"
+    },
+    {
+      "name": "기금사업 결과 평가 등에 관한 지침(전문).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=138689695",
+      "file_store_url": "",
+      "filename": "기금사업 결과 평가 등에 관한 지침(전문).hwpx"
+    },
+    {
+      "name": "기금사업 결과 평가 등에 관한 지침(전문).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=138689699",
+      "file_store_url": "",
+      "filename": "기금사업 결과 평가 등에 관한 지침(전문).pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 11,
+    "by_category": {
+      "행정규칙": 8,
+      "별지": 3
+    },
+    "by_relation_type": {
+      "citation": 5,
+      "internal_ref": 3,
+      "appendix_ref": 3
+    },
+    "articles_total": 14,
+    "articles_with_relations": 8,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 2,
+    "appendices_count": 3,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/기금사업 결과 평가 등에 관한 지침"
+  },
+  "provision_id": "admrul:기금사업결과평가등에관한지침#DOC"
+}
