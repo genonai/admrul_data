@@ -1,0 +1,1072 @@
+{
+  "law_id": "2100000238104",
+  "mst": "2100000238104",
+  "law_name": "회항시간 연장운항 승인요령",
+  "law_abbr": "",
+  "law_type": "훈령",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000238104",
+  "promulgation_no": "1729",
+  "promulgation_date": "20240322",
+  "enforcement_date": "20240322",
+  "revision_date": "20240322",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국토교통부(항공운항과)",
+    "담당자명": "강승주",
+    "행정규칙종류코드": "B0001",
+    "행정규칙명": "회항시간 연장운항 승인요령",
+    "발령일자": "20240322",
+    "행정규칙종류": "훈령",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국토교통부",
+    "전화번호": "044-201-4323",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1613000",
+    "생성일자": "20240326",
+    "행정규칙ID": "31633",
+    "시행일자": "20240322",
+    "담당부서기관코드": "1613506",
+    "발령번호": "1729",
+    "행정규칙일련번호": "2100000238104",
+    "상위부처명": "국토교통부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정이유\n소관 훈령 회항시간 연장운항 승인요령의 유효기간이 2024.5.31. 만료 예정이나 업무처리를 위해 훈령을 계속 유지할 필요가 있어「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」제7조제3항에 따라 유효기간을 재설정하고자 함\n◇ 주요내용\n가. 유효기간 설정\n1) 2027.5.31. 까지 유효기간 설정\n* 법령의 직접적인 위임이 없는 행정규칙은 유효기간으로 설정",
+  "body": {
+    "format": "articles",
+    "article_count": 30,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 일반",
+        "content": "제1조(목적) 이 요령은 「항공안전법」 제74조 및 같은 법 시행규칙 제215조의 규정에 의한 회항시간 연장운항을 승인하는 방법 및 절차 등에 관하여 필요한 세부사항을 정하여 효율적인 업무수행을 기하게 함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제74조",
+            "line_text": "",
+            "target_law_name": "항공안전법",
+            "target_article_no": "제74조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공안전법/제74조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:회항시간연장운항승인요령#JO0001",
+            "reference_id": "law:항공안전법#JO0074"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행규칙",
+            "line_text": "",
+            "target_law_name": "항공안전법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공안전법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:회항시간연장운항승인요령#JO0001",
+            "reference_id": "law:항공안전법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제215조",
+            "line_text": "",
+            "target_law_name": "항공안전법 시행규칙",
+            "target_article_no": "제215조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공안전법 시행규칙/제215조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:회항시간연장운항승인요령#JO0001",
+            "reference_id": "law:항공안전법시행규칙#JO0215"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:회항시간연장운항승인요령#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "용어정의",
+        "chapter": "제1장 일반",
+        "content": "제2조(용어정의) ① \"교체공항(Alternate Airport)\"이란 회항시간 연장운항 시 비상 상황에 조우한 경우 안전하게 착륙할 수 있는 활주로와 적절한 관제, 조명, 통신, 기상업무, 항행안전시설, 착륙보조시설, 소방구조체제 등이 갖추어져 있는 항로상에 있는 공항으로서 운영기준(OpSpec)에 교체공항으로 명시된 공항을 말한다.② \"항로상 교체공항(En-Route Alternate Airport)\"이란 교체공항(Alternate Airport) 중에서 출발시간을 기준으로 별표 2에서 정한 시간동안 기상조건을 만족하고, 항공고시보 등을 감안하여 해당 비행기가 안전하게 착륙할 수 있는 교체공항을 말한다.③ \"회항시간 연장운항(Extended diversion time operation. 이하 \"EDTO\"라 한다)\"이란 쌍발 이상의 터빈엔진 비행기 운항 시 항로상 교체공항까지의 회항시간이 국토교통부령이 정한 기준시간(threshold time)보다 긴 경우에 적용하는 비행기 운항을 말한다.④ \"회항시간 연장운항 사양 및 정비절차(EDTO Configuration Maintenance and Procedures, 이하 \"CMP\"라 한다)\"란 회항시간 연장운항에 적합하도록 해당 비행기에 요구되는 특별사양, 특정한 점검, 장비품의 사용한계, 표준최소장비목록(MMEL) 제한사항 및 정비수행 절차를 말한다.⑤ \"회항시간 연장운항 진입점(EDTO Entry Point)\"이란 쌍발 터빈엔진 비행기의 경우 착륙가능공항으로부터 운항 중 1개의 발동기가 부작동할 때 혹은 삼발 이상 터빈엔진 비행기의 경우 모든 발동기가 작동할 때의 순항속도로 기준시간(Threshold time)을 초과하는 지점으로서 회항시간 연장운항 진입점을 말한다.⑥ \"운항 중 발동기 정지(In-Flight Shut Down, 이하 \"IFSD\"라 한다)\"란 발동기 자체의 결함, 승무원에 의한 정지, 또는 기타 외부의 영향을 받아 운항 중에 발동기의 기능이 정지된 상태를 말한다.⑦ \"기체계통(Airframe System)\"이란 발동기계통을 제외한 모든 계통을 말한다.⑧ \"발동기계통(Propulsion System)\"이란 비행기 추진에 필요한 각 장비와 부품들로서 주요 추진장치의 제어와 안전작동에 영향을 미치는 계통을 말한다.⑨ \"속성 회항시간 연장운항(Accelerated EDTO)\"이란 별표 5의 기준에 적합하여 실제운용경험을 단축 또는 대체하여 승인하는 것을 말한다.⑩ \"기종\"이라 함은 특정 기체와 발동기가 조합된 비행기 형식을 말한다. 단, 이견이 있는 경우 회항시간 연장운항에서 특정 기체나 발동기 등으로 분류할 때는 제작국 정부에서 발행한 문서(형식증명)에 의하여 인정할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "회항시간 연장운항 승인요령",
+            "target_article_no": "별표2",
+            "target_article_title": "항로상 교체공항",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000238104&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:회항시간연장운항승인요령#JO0002",
+            "reference_id": "admrul:회항시간연장운항승인요령#BYL0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제9항",
+            "link_text": "별표 5",
+            "line_text": "",
+            "target_law_name": "회항시간 연장운항 승인요령",
+            "target_article_no": "별표5",
+            "target_article_title": "속성 회항시간 연장운항 승인기준",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000238104&bylNo=0005&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:회항시간연장운항승인요령#JO0002",
+            "reference_id": "admrul:회항시간연장운항승인요령#BYL0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:회항시간연장운항승인요령#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "적용범위",
+        "chapter": "제1장 일반",
+        "content": "제3조(적용범위) ① 터빈엔진을 장착한 항공운송사업용 비행기(화물만을 운송하는 3개 이상의 터빈발동기를 가진 비행기는 제외한다)는 「항공안전법 시행규칙」 제215조에서 정한 순항속도(巡航速度)로 가장 가까운 항로상 교체공항으로부터 기준시간을 초과하는 지점이 있는 노선을 운항하려는 경우 회항시간 연장운항 승인을 받아야 한다.② 제1항에서 정한 지점을 초과하여 운항하고자 하는 자는 항공법령에 따라 국토교통부장관의 승인을 받아야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "「항공안전법 시행규칙」",
+            "line_text": "",
+            "target_law_name": "항공안전법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공안전법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:회항시간연장운항승인요령#JO0003",
+            "reference_id": "law:항공안전법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "제215조",
+            "line_text": "",
+            "target_law_name": "항공안전법 시행규칙",
+            "target_article_no": "제215조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공안전법 시행규칙/제215조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:회항시간연장운항승인요령#JO0003",
+            "reference_id": "law:항공안전법시행규칙#JO0215"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:회항시간연장운항승인요령#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "운항관리 및 운항요건",
+        "chapter": "제1장 일반",
+        "content": "제4조(운항관리 및 운항요건) ① 일반적인 운항관리 요건은 항로상 교체공항으로부터 60분 초과 운항 시 발생할 수 있는 시스템 성능저하 및 낮아진 비행고도 등에 특별한 주의를 기울여야 하며, 다음 각 호의 사항을 고려하여야 한다.1. 항로상 교체공항의 확인2. 출발 전 항로상 교체공항에 대한 최신 운항상태, 기상정보를 운항승무원에게 제공하고, 운항 중에는 최신 기상정보를 제공할 수 있는 방법이 있을 것3. 비행기와 운영자의 운항통제센터 간 양방향 통신 방법이 있을 것4. 운영자는 선정된 교체공항을 포함하여 계획된 항로를 따라 상황을 감시하는 방법과 비행기 안전에 영향을 줄 수 있는 상황을 운항승무원에게 조언할 수 있는 절차가 있을 것5. 회항시간 연장운항 운항승인을 받지 않았다면, 운항하려는 항로는 설정된 기준시간 이내에 있을 것6. 비행 전 최소장비목록(MEL)을 포함한 시스템의 가용성7. 통신과 항법시설의 사용가능8. 연료 요건9. 선정된 항로상 교체공항에 대한 성능정보의 이용 가능성② 쌍발 터빈엔진 비행기는 출발 전 및 운항 중 항로상 교체공항으로 선정된 공항의 운항예정 시간대의 기상조건이 운항을 위한 최저 기상치 이상이어야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:회항시간연장운항승인요령#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "운항 및 회항계획 원칙",
+        "chapter": "제1장 일반",
+        "content": "제5조(운항 및 회항계획 원칙) 회항시간 연장운항을 계획하거나 수행할 때 운영자 및 기장은 다음 각 호의 사항을 확인해야 한다.1. 최소장비목록(MEL), 통신 및 항법시설, 연료 및 윤활유 공급, 항로상 교체공항, 비행기 성능의 적절한 고려2. 기장은 1개의 엔진이 정지된 상태에서 가장 가까운 항로상 교체공항(시간 기준으로)을 지나 계속 운항하고자 하는 경우에는 안전을 위해 모든 관련 요소를 고려3. 계획된 비행을 계속해도 안전에 위험이 없다고 판단한 경우를 제외하고는 회항시간 연장운항 중요시스템 또는 다른 시스템(엔진고장은 제외)에 단일 또는 다수의 고장이 발생하는 경우 안전한 착륙이 가능한 가장 가까운 항로상 교체공항에 착륙",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:회항시간연장운항승인요령#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "기준시간",
+        "chapter": "제1장 일반",
+        "content": "제6조(기준시간) ① 기준시간은 운항제한이 아닌 국토교통부령에서 정하는 항로상 교체공항까지의 운항시간이며, 기준시간을 넘는 회항시간 연장운항을 승인하기 위해서는 운영자의 운항경험, 항공기 성능 등에 대한 검토가 이루어져야 한다.② 항로상 어느 한 지점이 항로상 교체공항으로부터 회항시간 연장운항 기준을 초과하는 지 결정할 때 운영자는 승인받은 속도를 적용해야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:회항시간연장운항승인요령#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "최대회항시간",
+        "chapter": "제1장 일반",
+        "content": "제7조(최대회항시간) ① 운영기준으로 최대회항시간을 승인할 때 비행교범(AFM)의 회항시간 연장운항 중요시스템 시간제한치, 비행기 또는 다른 형식의 비행기로 운항한 회항시간 연장운항 경험 등을 고려해야한다.② 항로상 교체공항까지의 최대회항거리를 결정하기 위하여 운영자는 승인된 속도를 적용한다.③ 운영자의 승인된 최대회항시간은 비행교범(AFM)에 명시된 가장 제한적인 회항시간 연장운항 중요시스템의 시간제한치에서 운영국가가 정한 운항안전 여유분 통상 15분이 차감된 시간을 초과하여서는 아니 된다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:회항시간연장운항승인요령#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "회항시간 연장운항 중요시스템",
+        "chapter": "제1장 일반",
+        "content": "제8조(회항시간 연장운항 중요시스템) ① 회항시간 연장운항 중요시스템은 비행기 추진시스템과 기타 시스템의 고장이 회항시간 연장운항 비행의 안전성에 부정적인 영향을 미칠 수 있거나 회항시간 연장운항 비행기가 회항 시 비행안전 및 착륙을 저해할 수 있는 시스템이다.② 최대회항시간은 비행교범(AFM)에 회항시간 연장운항 중요시스템의 시간제한치가 있는 경우 이 시간제한치에서 운영국가가 정한 안전운항 여유분 통상 15분이 차감된 시간을 초과하여서는 아니 된다.③ 회항시간 연장운항 중요시스템의 시간제한치를 초과하는 운항을 승인하기 위해서는 안전관리교범(Doc 9859)에 따라 위험평가(Risk Assessment)가 실시되어야 한다.④ 비행기-엔진 결합체의 추진 시스템의 신뢰성은 2개의 엔진이 각각 다른 원인으로 고장이 발생할 위험이 감항성 교범(Doc 9760)에 따라 평가되고, 승인된 회항시간을 만족할 수 있어야 한다(쌍발 터빈엔진 비행기에만 적용).",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:회항시간연장운항승인요령#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "회항시간의 거리환산",
+        "chapter": "제1장 일반",
+        "content": "제9조(회항시간의 거리환산) ① 승인된 한 개 엔진 부작동(One Engine Inoperative, 이하 \"OEI\"라 한다) 속도 또는 승인된 모든 엔진 작동(All Engine Operative, 이하 \"AEO\"라 한다) 속도는 비행기의 운항제한 범위 이내에  있어야 한다.② 쌍발 터빈엔진 비행기에 대한 60분 거리는 항로상 어느 한 지점에서 항로상 교체공항까지의 국제표준대기(ISA)와 무풍상태에서 승인된 1개 엔진 부작동(OEI) 속도로 회항 지점에서부터 강하(driftdown) 후 순항한 60분 거리이다.③ 삼발 이상 터빈엔진 비행기에 대한 60분 거리는 항로상 어느 한 지점에서 항로상 교체공항까지의 국제표준대기(ISA)와 무풍상태에서 승인된 모든 엔진 작동(AEO) 속도로 회항 지점에서부터 순항한 60분 거리이다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:회항시간연장운항승인요령#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "운항 승인 과정",
+        "chapter": "제2장 운항 승인 과정",
+        "content": "제10조(운항 승인 과정) 회항시간 연장운항 승인을 위해서는 해당 기종에 대하여 다음 각 호의 사항을 충족하여야 한다.1. 신청자는 비행기 제작사가 해당 기종에 대하여 회항시간 연장운항을 위한 형식설계승인 받았음을 다음 각 목의 사항을 구비하여 입증할 것가. 회항시간 연장운항 추가정비절차 및 부가형식증명(EDTO CMP 및 STC)나. 항공기 비행 교범다. 형식증명데이터 시트라. 표준최소장비목록마. 제작국권고정비방식바. 쌍발비행기의 터빈엔진 계통에 대한 신뢰성 적합여부2. 신청자는 다음 각 호의 사항들을 구비하여 회항시간 연장운항 승인을 받을 것가. 운용기준나. 운항규정 및 정비규정다. 운용경험라. 지속적인 감항성 유지(Continuing Airworthiness) 계획마. 기타 이 요령에서 정하는 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:회항시간연장운항승인요령#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "발동기계통 신뢰성 확인",
+        "chapter": "제3장 운용경험",
+        "content": "제11조(발동기계통 신뢰성 확인) 제작국은 해당 기종을 운용하고 있는 전 세계비행기기단의 운용경험을 통하여 비행 중 발동기정지율과 관련된 신뢰성이 별표 1에서 정한 기준을 만족시켜야 형식설계승인을 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "회항시간 연장운항 승인요령",
+            "target_article_no": "별표1",
+            "target_article_title": "발동기계통 신뢰성평가",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000238104&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:회항시간연장운항승인요령#JO0011",
+            "reference_id": "admrul:회항시간연장운항승인요령#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:회항시간연장운항승인요령#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "운용경험",
+        "chapter": "제3장 운용경험",
+        "content": "제12조(운용경험) 신청자는 해당 기종에 대하여 제14조부터 제16조까지의 규정에서 정한 충분한 운용경험을 가져야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제12조",
+            "source_clause": "제12조",
+            "link_text": "제14조부터 제16조",
+            "line_text": "",
+            "target_law_name": "회항시간 연장운항 승인요령",
+            "target_article_no": "제14조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/회항시간 연장운항 승인요령/제14조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:회항시간연장운항승인요령#JO0012",
+            "reference_id": "admrul:회항시간연장운항승인요령#JO0014"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제12조",
+            "source_clause": "제12조",
+            "link_text": "제14조부터 제16조",
+            "line_text": "",
+            "target_law_name": "회항시간 연장운항 승인요령",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/회항시간 연장운항 승인요령/제15조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:회항시간연장운항승인요령#JO0012",
+            "reference_id": "admrul:회항시간연장운항승인요령#JO0015"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제12조",
+            "source_clause": "제12조",
+            "link_text": "제14조부터 제16조",
+            "line_text": "",
+            "target_law_name": "회항시간 연장운항 승인요령",
+            "target_article_no": "제16조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/회항시간 연장운항 승인요령/제16조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:회항시간연장운항승인요령#JO0012",
+            "reference_id": "admrul:회항시간연장운항승인요령#JO0016"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:회항시간연장운항승인요령#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "운용경험기간 인정",
+        "chapter": "제3장 운용경험",
+        "content": "제13조(운용경험기간 인정) 국토교통부장관은 회항시간 연장운항에 사용되는 기종에 대하여 신뢰성과 운용능력의 적합성을 확인 후 제7조 규정에 의한 운용경험을 다음 각 호와 같이 사안별로 인정할 수 있다.1. 운용경험기간의 단축 인정은 항공사가 다른 기종에 장착된 동종 발동기로 신뢰성을 달성한 경우에 가능. 다만, 속성 회항시간 연장운항의 경우에는 별표 5의 기준에 의함2. 심각한 정비 결함발생 또는 운항 횟수가 비정상적으로 낮을 경우에는 운용경험기간을 연장 가능",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조",
+            "source_clause": "제13조",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "회항시간 연장운항 승인요령",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/회항시간 연장운항 승인요령/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:회항시간연장운항승인요령#JO0013",
+            "reference_id": "admrul:회항시간연장운항승인요령#JO0007"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제13조",
+            "source_clause": "제13조",
+            "link_text": "별표 5",
+            "line_text": "",
+            "target_law_name": "회항시간 연장운항 승인요령",
+            "target_article_no": "별표5",
+            "target_article_title": "속성 회항시간 연장운항 승인기준",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000238104&bylNo=0005&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:회항시간연장운항승인요령#JO0013",
+            "reference_id": "admrul:회항시간연장운항승인요령#BYL0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:회항시간연장운항승인요령#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "75분 운항",
+        "chapter": "제3장 운용경험",
+        "content": "제14조(75분 운항) 해당 기종에 대한 운용경험이 극히 적거나 전혀 없는 항공사에 적용되며 운항노선 및 운항능력과 정비프로그램을 고려하여 75분 회항시간 연장운항 승인을 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:회항시간연장운항승인요령#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "120분 운항",
+        "chapter": "제3장 운용경험",
+        "content": "제15조(120분 운항) 120분 회항시간 연장운항 승인은 해당 기종으로 12개월간 연속 운용한 경험이 있어야 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:회항시간연장운항승인요령#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "180분 및 207분 운항",
+        "chapter": "제3장 운용경험",
+        "content": "제16조(180분 및 207분 운항) ① 해당 기종으로 120분 회항시간 연장운항을 12개월간 연속 운용한 경험이 있어야 180분 회항시간 연장운항 승인을 할 수 있다.② 120분 회항시간 연장운항에 준하는 운용경험은 각 사안별로 별표 5 속성 회항시간 연장운항 승인 기준에 따라 인정할 수 있다.③ 207분 회항시간 연장운항 승인은 해당 기종으로 현재 180분 회항시간 연장운항 승인을 득한 신청자의 경우에만 해당되며 별표 6. 207분 회항시간 연장운항 승인기준에 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제2항",
+            "link_text": "별표 5",
+            "line_text": "",
+            "target_law_name": "회항시간 연장운항 승인요령",
+            "target_article_no": "별표5",
+            "target_article_title": "속성 회항시간 연장운항 승인기준",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000238104&bylNo=0005&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:회항시간연장운항승인요령#JO0016",
+            "reference_id": "admrul:회항시간연장운항승인요령#BYL0005"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제3항",
+            "link_text": "별표 6",
+            "line_text": "",
+            "target_law_name": "회항시간 연장운항 승인요령",
+            "target_article_no": "별표6",
+            "target_article_title": "207분 운항 승인기준",
+            "appendix_no": "6",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000238104&bylNo=0006&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:회항시간연장운항승인요령#JO0016",
+            "reference_id": "admrul:회항시간연장운항승인요령#BYL0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:회항시간연장운항승인요령#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "승인신청 및 심사",
+        "chapter": "제4장 운항 승인",
+        "content": "제17조(승인신청 및 심사) ① 신청자는 회항시간 연장운항 승인을 받고자 하는 경우 항공안전법 시행규칙에서 정한 양식의 회항시간 연장운항 승인 신청서를 회항시간 연장운항을 희망하는 날로부터 20일전에 국토교통부장관에게 제출하여야 한다.② 국토교통부장관은 신청자의 비행기 운용에 관한 전반적인 안전기록, 과거의 운용실적, 승무원훈련 및 정비프로그램 등에 대하여 회항시간 연장운항 승인심사표(별표 7)에 따라 평가하여야 하며 다음 각 호의 어느 하나와 같이 신청내용별로 구분하여 적용할 수 있다.1. 새로운 기종에 대한 회항시간 연장운항을 신청할 경우에는 승인심사표의 항목 모두를 심사2. 기 회항시간 연장운항 중인 기종의 비행기를 추가하거나 동일 기종의 비행기를 신규 도입하여 회항시간 연장운항을 신청한 경우에는 서류심사만 실시하되 회항시간 연장운항 운용경험과 정비 프로그램 및 최소장비목록 등을 심사3. 회항시간 연장운항을 운용중인 기종으로 승인 받은 최대회항시간을 변경하고자 하는 경우에는 승인심사표의 항목 모두를 심사4. 운용중인 회항시간 연장운항 지역을 변경하고자 신청한 경우에는 서류심사만 실시하되 신청자의 회항시간 연장운항 운용경험, 운항하고자하는 지역, 항로상 교체공항 및 운항관리 관계자료 사본을 심사5. 삼발 이상 비행기에 대한 회항시간 연장운항을 신청할 경우에는 서류심사만 실시하되 신청자의 운항하고자하는 지역, 항로상 교체공항 및 운항관리자료 사본을 심사③ 회항시간 연장운항 심사표로 회항시간 연장운항을 점검하여 지원할 능력과 자질이 있다는 것이 입증되어야 하며 본 요령에 부합하여야 한다.④ 심사분석결과와 운용경험에 대한 신뢰성평가 결과를 종합하여 운항승인여부를 결정한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제2항",
+            "link_text": "별표 7",
+            "line_text": "",
+            "target_law_name": "회항시간 연장운항 승인요령",
+            "target_article_no": "별표7",
+            "target_article_title": "회항시간 연장운항 승인 심사표",
+            "appendix_no": "7",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000238104&bylNo=0007&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:회항시간연장운항승인요령#JO0017",
+            "reference_id": "admrul:회항시간연장운항승인요령#BYL0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:회항시간연장운항승인요령#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "발동기계통 신뢰성 평가",
+        "chapter": "제4장 운항 승인",
+        "content": "제18조(발동기계통 신뢰성 평가) ① 국토교통부장관은 전세계 해당 기종의 적절한 운용경험 여부와 회항시간 연장운항에 필요한 발동기계통 신뢰성을 확인하기 위하여 별표 1 및 별표 6에 의한 IFSD율 목표치를 정하고, 신청자에 대하여 목표치와 동등한 수준의 발동기계통 신뢰성을 달성하고 유지할 수 있는 능력이 있는지를 평가하여야 한다.② 국토교통부장관은 전 세계 해당 기종의 발동기계통 신뢰성 평균치는 물론 다른 항공사와 신청자의 자료를 비교한 추이 등을 포함한 관련된 중요한 요소 모두를 고려하여 평가하여야 한다.③ 국토교통부장관은 회항시간 연장운항 승인신청 기종에 대한 계통상의 적정 신뢰성 달성기록 및 발동기계통과 동일 형식의 발동기에 대한 신청자의 과거 신뢰성 기록을 검토하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제1항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "회항시간 연장운항 승인요령",
+            "target_article_no": "별표1",
+            "target_article_title": "발동기계통 신뢰성평가",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000238104&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:회항시간연장운항승인요령#JO0018",
+            "reference_id": "admrul:회항시간연장운항승인요령#BYL0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제1항",
+            "link_text": "별표 6",
+            "line_text": "",
+            "target_law_name": "회항시간 연장운항 승인요령",
+            "target_article_no": "별표6",
+            "target_article_title": "207분 운항 승인기준",
+            "appendix_no": "6",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000238104&bylNo=0006&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:회항시간연장운항승인요령#JO0018",
+            "reference_id": "admrul:회항시간연장운항승인요령#BYL0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:회항시간연장운항승인요령#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "감항성 개조 및 정비프로그램",
+        "chapter": "제4장 운항 승인",
+        "content": "제19조(감항성 개조 및 정비프로그램) ① 감항성 개조 및 정비프로그램은 신청자의 지속적인 감항성 유지프로그램의 일상적인 사항이지만, 회항시간 연장운항에 필요한 정비 및 신뢰성 프로그램을 추가하여야 한다. 다만, 삼발 이상 터빈엔진 비행기에 대하여는 추가적인 회항시간 연장운항 감항성 요건은 요구되지 않는다.② 신청자는 회항시간 연장운항에 사용할 비행기가 CMP기준에 적합함을 입증하기 위하여 모든 개조, 추가 및 변경한 사항을 국토교통부장관에게 제출하여야 한다.③ 신청자는 회항시간 연장운항에 적합한 정비 및 교육훈련프로그램 등의 제정 및 변경을 할 때는 국토교통부장관의 승인을 받아야 한다.④ 신청자는 감항성 개선지시(AD)와 추가장비정비절차(CMP)의 변경사항은 신속하게 수행하여야 한다.⑤ 신청자는 기체 및 발동기 제작사가 권고한 사항 중 회항시간 연장운항 관련사항을  신속하게 반영하여야 하며, 비행기에 장착된 장비 및 예비품(Spare parts) 모두를 적용하여야한다.⑥ 신청자는 발동기계통이 작동되지 않았거나 1차 기체계통이 고장, 또는 중요한 계통의 성능이 저하되는 경향을 보이는 경우에 적절한 수정조치를 취하지 않는 한 그 비행기가 회항시간 연장운항에서 제외되도록 하는 절차 및 종합통제절차를 수립하여야 한다. 국토교통부장관은 이에 대한 수정조치를 확인하기 위하여 회항시간 연장운항에 투입하기 전 1회 이상의 무상 회항시간 연장운항 또는 유상으로 단거리운항을 적절하게 실시하도록 신청자에게 요구할 수 있다.⑦ 신청자는 회항시간 연장운항에 필요한 탑재장비의 적절한 성능과 신뢰성을 유지하는 프로그램, 발동기상태 감시프로그램 및 발동기 오일소모 감시프로그램이 적합한지 확인하여야 한다.⑧ 신청자는 회항시간 연장운항에서 사용하는 비행기, 발동기 및 중요 계통에 대한 문제 발생 내역, 신뢰성 경향 및 수정조치 사항 등의 운용실적 및 신뢰성 자료를 분기마다 국토교통부장관(또는 지방항공청장)에게 보고하여야 한다. 발동기계통 및 기체계통 신뢰성 감시 및 보고와 관련된 부가사항은 별표 3을 참조한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제8항",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "회항시간 연장운항 승인요령",
+            "target_article_no": "별표3",
+            "target_article_title": "쌍발비행기 회항시간 연장운항 정비프로그램",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000238104&bylNo=0003&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:회항시간연장운항승인요령#JO0019",
+            "reference_id": "admrul:회항시간연장운항승인요령#BYL0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:회항시간연장운항승인요령#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "임계연료탑재량",
+        "chapter": "제4장 운항 승인",
+        "content": "제20조(임계연료탑재량) ① 신청자는 회항시간 연장운항 시 항로상 교체공항까지 비행하기 위하여 운항기술기준 8.1.9.20(연료탑재 요건) 및 신청자의 운항규정에 부합하는 연료를 탑재하기 위하여 다음 각 호의 사항을 고려하여 결정한다.1. 다음 각 목의 시나리오에서 회항시간 연장운항 항로상 교체공항까지 회항에 필요한 연료량 중 가장 많은 연료량가. 최대 임계지점에서 여압계통 고장으로 산소 공급 요건을 충족하기 위한 안전 고도까지 강하하여 비행나. 최대 임계지점에서 1개 엔진과 여압계통이 동시 고장으로 산소 공급 요건을 충족하기 위한 안전 고도까지의 강하, 그리고 인가된 1개 엔진 부작동 순항속도로 비행다. 최대 임계지점에서 엔진 1개 부작동으로 순항고도까지 강하하여 승인된 1개 엔진 부작동 순항속도로 비행2. 항로상 교체공항 상공 고도 1,500피트에서, 15분간 체공 후 계기접근 및 착륙이 가능한 연료량3. 제1호의 연료 산출 시 사용하는 바람 예보의 잠재 오류를 보정하기 위해 실제 예보된 풍속 요소의 5%를 더하며(맞바람일 경우는 더하고, 뒷바람일 경우는 감한다), 신청자가 신뢰할 수 있는 공인된 바람 자료(예 : WAFS 등)를 사용할 수 없는 경우 제1호의 연료 산출량의 5%를 추가 연료로 탑재4. 제3호의 연료량 산출 후 제1호의 연료량에 다음 각 목의 시나리오 중 많은 연료량가. 결빙 예보구간의 10% 시간 동안의 기체 결빙에 의한 성능저하에 대한 보정연료(이 기간의 기체 표면 착빙, 엔진 및 날개 방빙에 필요한 연료). 만약 신청자가 신뢰할 수 있는 결빙 예보 자료가 없다면, 인가된 1개 엔진 부작동시의 순항속도 기준으로 TAT(total air temperature) 10°C 이하 혹은 상대습도 55% 이상에서 외기온도 0~-20°C 조건에서는 결빙이 발생하는 것으로 추정한다.나. 결빙이 예보된 전 구간에서 엔진 방빙 또는 날개 방빙을 위한 연료(필요시)② 신청자가 운항중 비행기 성능을 감시하는 프로그램을 운용하고 있으나,  연료량 산정 시 이를 반영하여 성능 저하에 따른 추가 연료를 보상하지 않는다면, 비행기 성능 저하를 감안하여 최종 연료 산출량의 5%의 연료를 추가로 탑재한다.③ 보조동력장치(APU)가 전원으로 사용될 경우, 그에 따른 추가 연료를 탑재해야 한다.④ 연료량 계산 시 승인된 한 개 엔진 부작동 순항속도로 계산된 강하(driftdown) 효과를 고려할 수 있으며, 날개 방빙(wing anti-ice) 관련 일부 비행기는 비행기 특성 및 제작사의 권고절차를 고려할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:회항시간연장운항승인요령#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "교체공항",
+        "chapter": "제4장 운항 승인",
+        "content": "제21조(교체공항) ① 신청자는 이륙공항, 목적지공항, 목적지의 교체공항 및 항로상 교체공항 등을 운항비행계획서에 명시하여야 한다.② 기준시간을 초과하는 운항지점을 포함하여 운항하는 노선은 항로상 교체공항 을 명시하여야 한다.(항로상 교체공항은 이륙공항 또는 도착공항이 될 수 있음).③ 항로상 교체공항은 다음 각 호의 조건을 충족하여야 한다.1. 공항의 표고, 사용 활주로, 바람상태, 활주로 표면상태 및 비행기특성 등을 고려하여 비행교범(AFM)에 의거한 착륙거리는 공항당국이 공고하는 활주로 길이를 초과하지 않을 것2. 교체공항의 업무 및 시설은 신청자에게 승인된 착륙접근절차 및 사용 활주로의 착륙기상최저치에 적합할 것3. 해당 공항에 가장 빠른 착륙예정시간부터 가장 늦은 착륙 예정시간 사이의 최신 기상예보가 별표 2의 항로상 교체공항의 기상최저치 이상이어야 하며, 돌풍을 포함한 예상 측풍 요소가 사용 활주로에 대해 착륙시 허용된 최대 측풍치보다 작을 것4. 운항 중 지정된 항로상 교체공항의 주요 변화상태가 운항승무원에게 제공될 것5. 항로상 교체공항에 대하여 회항시간 연장운항 진입점 전에 제3호에 규정된 시간 동안의 기상예보, 착륙거리 및 공항업무와 시설이 이용 가능한 상태일 것6. 회항시간 연장운항 진입점 전에 안전한 접근과 착륙을 저해하는 주요요소(예를 들어 착륙기상최저치 이하의 기상예보)가 확인되었을 경우, 안전한 접근과 착륙이 가능한 항로상 교체공항을 선정하여 조종사에게 통보할 것④ 적절한 착륙공항 선정을 위해 다음 각 호를 추가적으로 고려하여야 한다. 다만 군공항 등 공항정보 및 숙박시설 등을 확인하기 곤란한 경우에는 제3호 및 제4호를 적용하지 아니할 수 있다.1. 비행기 및 시스템 상태, 무게, 잔여연료 및 항로상 교체공항까지의 연료소모2. 항로상 교체공항의 구조소방서비스(RFFS), 계기접근 및 진입등/활주로 등화의 가용성3. 운영자가 제공하는 항로상 교체공항의 정보 및 조종사의 친숙성4. 승객과 승무원의 하기 및 숙박 시설",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제21조",
+            "source_clause": "제21조제3항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "회항시간 연장운항 승인요령",
+            "target_article_no": "별표2",
+            "target_article_title": "항로상 교체공항",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000238104&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:회항시간연장운항승인요령#JO0021",
+            "reference_id": "admrul:회항시간연장운항승인요령#BYL0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:회항시간연장운항승인요령#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "운항승무원 훈련 및 평가프로그램",
+        "chapter": "제4장 운항 승인",
+        "content": "제22조(운항승무원 훈련 및 평가프로그램) 회항시간 연장운항을 위한 신청자의 훈련 및 평가프로그램에는 다음 각 호의 운항승무원 훈련내용이 포함되어야 하고 숙련도를 확인할 수 있어야 한다.1. 성능가. 발생가능한 모든 비상사태를 포함한 비행계획나. 비행성능 변화 감시2. 절차가. 회항절차나. 적절한 항법장비와 통신장비의 사용다. 비행 중 단일 또는 복합적인 장비 고장 발생시 계속 비행여부 및 회항 결정 절차라. 최소장비목록(MEL)을 포함한 고장과 관계가 있는 운항제한사항마. 필요하다면, 비행 중 보조동력장비(APU) 및 발동기계통의 시동절차바. 승무원의 해당 임무수행 능력 상실3. 산소 호흡기와 비상착수 장비를 포함한 비상장비 사용4. 지정된 항로상 교체공항의 상태가 안전한 접근 및 착륙이 불가능하게 되었을 때의 조치절차5. 회항시간 연장운항에 필요한 승인된 추가 또는 개조된 장비에 대한 이해와 효과적인 사용6. 연료관리가. 신청자는 운항승무원에게 비행 중 연료관리절차를 훈련시킬 것나. 동 절차에는 연료량 지시계기에 대한 상호확인점검을 위한 절차를 포함할 것",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:회항시간연장운항승인요령#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "회항시간 연장운항 검열관",
+        "chapter": "제4장 운항 승인",
+        "content": "제23조(회항시간 연장운항 검열관) ① 신청자는 운항승무원 표준기량 및 운항 절차를 확인하기 위하여 회항시간 연장운항 검열관을 선정ㆍ운용하여야 한다.② 회항시간 연장운항 검열관은 회항시간 연장운항에 관한 고유 특성 및 요건을 이해하고 있어야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:회항시간연장운항승인요령#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "운항제한사항",
+        "chapter": "제4장 운항 승인",
+        "content": "제24조(운항제한사항) ① 신청자는 계획된 항로로부터 1개 발동기 정지시의 순항속도(무풍 및 표준 대기상태)로 착륙가능공항까지의 회항시간이 75분, 120분, 180분 및 207분 범위 내에서 회항시간 연장운항 승인을 받을 수 있으며 운영기준 및 운용교범(Operation manual)에 명시되어야 한다.② 신청자는 운항관리 제한사항에 운항할 수 있는 회항시간 연장운항 최대회항시간을 명시하여야 한다. 발동기 1개 정지시의 순항속도(무풍 및 표준 대기상태)로 최대회항시간은 제1항에서 정한 시간이하 이어야 한다.③ 신청자는 회항시간 연장운항으로 비행계획된 항로가 항로상 교체공항으로부터 승인된 최대회항시간을 벗어나지 않도록 해야 한다.④ 신청자는 비행 중 발동기가 정지된 경우 기장이 그 상황에서 착륙에 적합하다고 판단되는 가장 가까운 공항으로 신속히 회항하도록 규정하여야 한다.⑤ 신청자는 단독 또는 복합적인 주요 계통의 고장이 발생된 경우 계획된 목적지로 계속 비행하여도 안전상의 문제가 없다는 것이 확인되지 않는 한, 기장이 가장 가까운 항로상 교체공항으로 회항하도록 규정하여야 한다.⑥ 우발적인 사태 발생 시 조치절차가 비행기의 안전운항을 위한 기장의 권한과 책임을 경감시켜서는 안 된다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:회항시간연장운항승인요령#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "운용기준",
+        "chapter": "제4장 운항 승인",
+        "content": "제25조(운용기준) ① 2개 이상 터빈엔진 비행기를 소유한 운용자가 회항시간 연장운항을 하기 위해서는 국토교통부장관으로부터 운항 및 정비부문 운영기준 승인을 받아야 한다.② 신청자는 회항시간 연장운항에 관한 사항을 운영기준에 명시하여 국토교통부장관에게 승인 신청을 하여야 한다.③ 운영기준에는 다음 각 호의 사항이 포함되어야 한다.1. 회항시간 연장운항에 사용되는 비행기 및 발동기 제작사명, 형식, 모델 및 등록기호2. 회항시간 연장운항지역 및 착륙가능공항 목록3. 항로상 교체공항까지의 최대회항시간④  청자의 운용교범(operating manual) 에 포함되어야 할 사항은 다음 각 호와 같다.1. 착륙가능공항의 계기접근 시설현황과 운항 기상최저치2. 계획노선 및 회항노선의 최저항로고도3. 운항관리 및 비행 감시절차4. 회항시간 연장운항 검열관 운용5. 회항시간 연장운항 업무에 종사하는 운항승무원, 운항관리사와 정비사 등의 교육ㆍ훈련6. 임계연료 탑재프로그램7. 최소장비목록8. 회항시간 연장운항 지원에 적합하도록 회항시간 연장운항 추가장비 정비절차(CMP)가 포함되어 승인된 정비 및 신뢰성 프로그램9. 기체 및 발동기계통 등의 정비프로그램과 실시 방법10. 기체 및 발동기계통 등의 결함처리방법11. 기체 및 발동기계통 등의 감시방법12. 회항시간에 적용하는 순항속도",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:회항시간연장운항승인요령#JO0025"
+      },
+      {
+        "article_no": "제26조",
+        "article_title": "운항확인비행",
+        "chapter": "제4장 운항 승인",
+        "content": "제26조(운항확인비행) 신청자는 해당 기종 또는 모의비행장치를 이용하여 국토교통부장관이 정하거나 위촉한 검사관 입회하에 계획된 운항의 안전한 수행과 적정 지원 자질 및 능력소지 여부를 입증하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:회항시간연장운항승인요령#JO0026"
+      },
+      {
+        "article_no": "제27조",
+        "article_title": "확인비행조건",
+        "chapter": "제4장 운항 승인",
+        "content": "제27조(확인비행조건) ① 국토교통부장관은 신청자의 경험 및 운항내용을 검토한 후에 신청자의 확인비행조건을 결정하여야 한다.② 다음 각 호의 비상조치 사항이 모의비행장치로 확인되지 않았으면 확인비행을 통하여 확인하여야 한다.1. 발동기1개의 추력이 완전히 상실된 상태 및 발동기구동으로 발전되는 전력이 완전히 상실된 상태2. 감항성, 승무원 업무량, 또는 성능상 중요하다고 간주되는 기타사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:회항시간연장운항승인요령#JO0027"
+      },
+      {
+        "article_no": "제28조",
+        "article_title": "운항승인",
+        "chapter": "제4장 운항 승인",
+        "content": "제28조(운항승인) ① 국토교통부장관은 회항시간 연장운항 신청서 내용이 항공법령에 부합되는 경우 신청자에게 회항시간 연장운항을 승인하여야 한다.② 회항시간 연장운항 승인은 운용기준과 병행하여 이루어져야 하며, 운항규정, 정비규정 및 기타 필요한 규정도 회항시간 연장운항 승인 시에 적절하게 개정되어야 한다.③ 회항시간 연장운항 승인서에는 다음 각 호의 사항이 명시되어야 한다.1. 비행기 및 발동기의 형식 및 모델명2. 회항시간 연장운항 지역3. 회항시간에 적용하는 순항속도로 항로상 교체공항으로부터 비행할 수 있는 최대회항시간",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:회항시간연장운항승인요령#JO0028"
+      },
+      {
+        "article_no": "제29조",
+        "article_title": "지도감독",
+        "chapter": "제4장 운항 승인",
+        "content": "제29조(지도감독) ① 국토교통부장관은 해당 회항시간 연장운항 전세계 기종의 평균 IFSD율을 별표 1 및 3에 따라 지속적으로 확인(monitoring)하여야 한다.② 국토교통부장관은 회항시간 연장운항 승인을 받은 신청자가 별표 1에 규정된 회항시간 연장운항에 필요한 수준으로 신뢰성 수준을 성취 및 유지하고, 안전운항을 지속적으로 수행하는지의 여부를 계속 지도 감독하여야 한다.③ 신뢰성이 양호한 수준으로 유지되지 않고, 심각한 사태발생 추세가 있거나, 중대한 결함이 회항시간 연장운항 중에 발견되었다면, 국토교통부장관은 필요시 특별점검을 실시하거나 운항제한 지시를 할 수 있으며, 적절한 방법으로 문제해결을 위하여 신청자에게 수정조치를 요구할 수 있다.④ 국토교통부장관은 특별점검 시 해당 기종 제작사 관계자의 참가를 의뢰할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제29조",
+            "source_clause": "제29조제1항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "회항시간 연장운항 승인요령",
+            "target_article_no": "별표1",
+            "target_article_title": "발동기계통 신뢰성평가",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000238104&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:회항시간연장운항승인요령#JO0029",
+            "reference_id": "admrul:회항시간연장운항승인요령#BYL0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제29조",
+            "source_clause": "제29조제2항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "회항시간 연장운항 승인요령",
+            "target_article_no": "별표1",
+            "target_article_title": "발동기계통 신뢰성평가",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000238104&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:회항시간연장운항승인요령#JO0029",
+            "reference_id": "admrul:회항시간연장운항승인요령#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:회항시간연장운항승인요령#JO0029"
+      },
+      {
+        "article_no": "제30조",
+        "article_title": "유효기간",
+        "chapter": "제4장 운항 승인",
+        "content": "제30조(유효기간) 이 훈령은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 훈령을 발령한 후의 법령이나 현실 여건의 변화 등을 검토하여야 하는 2027년 5월 31일까지 효력을 가진다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제30조",
+            "source_clause": "제30조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:회항시간연장운항승인요령#JO0030",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:회항시간연장운항승인요령#JO0030"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20150529",
+      "promulgation_no": "536",
+      "content": "부칙 <제536호,2015. 5. 29.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다.제2조(기존 훈령의 폐지) 「쌍발비행기 장거리운항 승인요령(국토교통부 훈령 제155호)」은 이를 폐지한다."
+    },
+    {
+      "promulgation_date": "20170608",
+      "promulgation_no": "884",
+      "content": "부칙 (항공안전 의무보고 운영에 관한 규정 등 38개 국토교통부 훈령 일괄개정) <제884호,2017. 6. 8.>이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20180518",
+      "promulgation_no": "1035",
+      "content": "부칙(감독ㆍ인증ㆍ관리업무 표준화 및 협력지침 등 20개 국토교통부훈령 일괄개정) <제1035호,2018. 5. 18.>이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20210531",
+      "promulgation_no": "1398",
+      "content": "부칙 (감독ㆍ인증 관리업무 표준화 및 협력지침 등 9개 국토교통부훈령 일괄개정) <제1398호, 2021. 5. 31.>이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20240322",
+      "promulgation_no": "1729",
+      "content": "부칙 <제1729호, 2024. 3. 22.>이 훈령은 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "발동기계통 신뢰성평가",
+      "enforcement_date": "",
+      "content": "별표 1. 발동기계통 신뢰성평가\n1. 평가과정\n당해 기종의 EDTO에 필요한 발동기계통의 신뢰성 요건은 제작국가의 발동기계통 신뢰성 평가위원회(PSRAB)의 평가 보고서를 참조할 수 있다.\n가. 운용경험 (Inservice Experience)\n비행기 발동기계통의 신뢰성 추세에 대한 적절한 조치와 문제점을 파악하기  위하여 운용실적이 필요하며, EDTO 비행기에 대한 신뢰성평가는 120분, 180분 그리고 75분으로 각각 구분하여 운용경험을 평가할 수 있다.\n(1) 120분 운항\n일반적인 평가결과를 얻기 위해서는 전 세계 동일기종에 대한 발동기 운용시간이 최소한 250,000시간 이상 필요하고 운용경험 및 기술수준에 따라 조정할 수 있으며, 이 경우 동일기종의 개조된 발동기에 대하여는 동일형식 발동기의 일부 가동시간으로 대체인정 할 수 있다.\n(2) 180분 운항\n180분 운항에 대한 적합성은 120분 EDTO를 1년간 수행하여 발동기계통의 신뢰성이 충족된 경우에 가능하다.\n(3) 75분 운항\n75분 운항에 적합한 신뢰성을 증명할 수 있으면 개별적으로 75분을 승인할 수 있다.\n나. 신뢰성 자료의 근거 (Reliability Data Base)\nEDTO(삼발 이상 터빈엔진 비행기는 제외) 형식설계를 승인하기위한 평가는 최대 회항시간을 고려한 발동기계통의 신뢰성에 관한 전 세계 기종의 자료와 정보가 있어야 하며, 당해기종 제작자 또는 제작국의 발동기계통 신뢰성 평가 자료를 활용한다. 이 자료는 사태별 설명, 자격조건, 발동기계통 신뢰성에 영향을 미치는 요소 등이 포함되어야 한다.\n(1) 연소정지(Flame Out)를 포함한 지상 및 운항중의 모든 발동기 정지원인에 관한 목록 (정상 훈련에 의한 사항은 제외)\n(2) 비계획 발동기 장탈율 (6개월 및 12개월), 장탈개요, 장탈율에 대한 이력 및 비계획 발동기 장탈의 주원인\n(3) 발동기계통으로 인한 운항지연, 취소, 이륙포기 및 항로상 회항\n(4) 총 발동기시간 및 사이클과 발동기 가동시간별 고장분포(수령별 분류)\n(5) 신뢰성에 영향을 미치는 발동기계통 부품의 결함발생 평균시간\n(6) 6개월 및 12개월간의 평균 IFSD율\n(7) 기타 신뢰성 평가에 필요한 자료\n2. 신뢰성 수준 (RELIABILITY  LEVELS)\n120분에서 180분으로 회항시간을 늘릴 경우 발동기계통 신뢰성이 1,000시간당 0.03회(0.03/1,000 hours)를 목표로 추진되고 있고 여기에 부합되는 적절한 운항 및 정비요건을 갖추어야 한다.\n가. 120분 운항\n전체 당해기종 신뢰성은 기준기단(Base Fleet) 수준이상의 신뢰성과 정비 및 운항요건이 적절하여야 한다. 즉, IFSD율은 1,000시간당 0.03회(0.03/1,000 hours)를 목표로 하고 시작기준은 1,000시간당 0.05회 (0.05/1,000 hours)로 설정할 수 있다. 이 경우 문제점 해결에 대한 확신, 고장의 형태 등과 같은 비행기 신뢰성 자료에 따라 1,000시간당 0.05회(0.05/1,000 hours)가 아닌 다른 시작기준을 설정할 수도 있다.\n나. 180분 운항\n모든 당해 기종 신뢰성은 승인시 기준기단(Base Fleet)수준 이상의 신뢰성이 있어야 한다. 신뢰성이 높은 기종은 180분 운항이 가능한 것으로 판단한다. 또한 본 요령에 의거 적어도 1년 동안 120분 EDTO 경험이 있고 신뢰성을 만족하여야 한다.\n다. 발동기계통 승인 고려사항\n발동기계통의 승인시 아래사항을 참조하여 적합여부를 결정한다. 다음 표는 2가지 주요 범주별 EDTO 승인에 기본요소이다.\n발동기계통 승인 고려사항\n┌──────────────────────┬────────────────────┐\n│120분 운항                                  │180분 운항                              │\n├──────────────────────┼────────────────────┤\n│ ㅇ 250,000 발동기 시간                     │ ㅇ 250,000 발동기시간과 이미 승인된    │\n│                                            │EDTO 비행기 기종으로 최소 1년 이상      │\n│                                            │의 운항경험                             │\n├──────────────────────┼────────────────────┤\n│ ㅇ 1,000시간당 0.05회(0.05/1,000HR)정도의  │ ㅇ 1,000시간당 0.03회(0.03/1,000HR)정도│\n│IFSD율 달성                                 │에 달하는 IFSD율 달성하고 유지          │\n│ ※ 목표는 1,000시간당 0.02회(0.02/1,000HR) │                                        │\n├──────────────────────┼────────────────────┤\n│ ㅇ 발동기계통자료와 운항실적을 주기적으    │ ㅇ 120분 운항고려사항(좌)에 CMP기준    │\n│로 검토하고 CMP기준을 적절히 개정           │요건 보완                               │\n└──────────────────────┴────────────────────┘\n3. 기술적 평가\n발동기계통 신뢰성에 대한 평가사항은 다음과 같다.\n가. 당해 기종의 운항(또는 시험)중에 발생한 중요한 고장, 결함, 기능 불량을 각각 분석한다. 중요한 결함은 주로 발동기의 IFSD 또는 연소정지(Flameout)의 원인 또는 결과로 나타나지만, 희귀한 지상결함, 제어되지 않는 추력감소와 비계획 발동기 장탈 등도 포함할 수 있다. 평가시 다음사항이 고려되어야 한다.\n(1) 발동기 1개 정지 시 성능한계치, 발동기형식, 운용경험, 다른 발동기와 부품의 유사성 및 운용 특성\n(2) 최근 분기별 자료와 6개월과 12개월간 축적된 발동기계통의 비행시간 및 횟수에 대한 IFSD율의 변화 추이\n(3) 발동기계통의 신뢰성에 향후 영향을 미칠 수 있는 개조 및 정비 등\n(4) 발동기와 APU 고장율에 영향을 미치는 권고사항(SB 등) 및 수행된 정비행위\n(5) 모든 운항경험의 축적내용\n(6) 계획된 최대 비행시간과 승인된 최대회항 시간\n나. 결함에 대한 조치가 충분한지 각각의 결함수정 상태에 대한 평가\n다. 국토교통부장관은 각각 중요한 결함에 대하여 만족한 조치가 되었다고 판단되면 신뢰성 수준을 달성할 수 있다고 결정하고 통계적인 보강자료로 사용할 수 있다. 외국 제작사와 운용자의 자료를 평가할 때 여러 민간항공감항 당국의 참가 기회를 제안할 수 있으며 진행 중에 국토교통부의 간단한 설명을 들을 수 있고, 검토한 최종 보고서 사본을 제공받을 수 있다.\n4. 국토교통부의 결정\n평가가 끝나면 국토교통부는 문서화하고 특정 기종이 본 요령에 적합한지 여부를 분명하게 하여야 한다. 발동기계통, 정비요건 그리고 제한치 등의 모든 항목이 비행기 평가보고서에 포함된다.\n5. 당해 기종 감시.\n요구되는 신뢰성수준이 유지되는지 확인하기 위하여 국토교통부장관은 지속적으로 신뢰성 자료를 모니터하고 주기적으로 신뢰성이 유지되는지 검토해야하며 필요시 CMP 기준을 포함한 EDTO와 관련된 문서도 운용자에게 개정 요청 및 개정안을 만들 수 있다.",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000238104&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=139237779",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=139237771",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=139237779",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:회항시간연장운항승인요령#BYL0001",
+      "filename": "별표1_발동기계통 신뢰성평가.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "항로상 교체공항",
+      "enforcement_date": "",
+      "content": "별표 2. 항로상 교체공항\n1. 일반사항\n가. EDTO의 특징 중의 하나는 비행기에서 발생하는 하나 또는 두개이상의 고장시 비행기가 회항할 수 있는 항로상 착륙적합공항의 개념이다.\n나. 항로상 교체공항으로 지정된 공항은 당해 비행기가 안전하게 착륙할 수 있도록 지원할 능력, 업무 및 시설을 갖추어야 하고, 도착시각의 기상 상태는 결심고도(DH) 또는 최저강하고도(MDA)에서 시각참조물(VISUAL REFERENCE) 식별이 가능하다는 확신을 주어야 한다. 지표면의 바람상태 및 사용 활주로 표면상태는 1개의 발동기 또는 비행기 계통상의 고장 상황에서도 안전하게 접근 및 착륙할 수 있어야 한다.\n2. 교체공항 (Alternate Airport)\n교체공항은 아래의 요건을 만족해야 한다.\n가. 출발예정시간을 기준으로 가장 빠른 비상착륙 예정시간부터 가장 늦은 비상착륙 예정시간까지 이용 가능할 것\n나. 활주로는 착륙에 적합할 것\n다. 적절한 관제, 조명, 통신, 기상업무, 항행안전시설, 착륙보조시설, 소방구조체제 등이 갖추어져 있을 것\n\n3. 항로상 교체공항 (En-Route Alternate Airport)\n항로상 교체공항은 출발 전의 최신정보를 바탕으로 당해 운항편의 출발예정시간을 기준으로 가장 빠른 비상착륙 예정시간부터 가장 늦은 비상착륙 예정시간까지의 시간 사이에 가.호를, 출발예정시간을 기준으로 가장 빠른 비상착륙 예정시간부터 가장 늦은 비상착륙 예정시간 사이에 나.호 및 다.호를 각각 만족해야 한다.\n가. 기상조건은 4.항에서 정하는 조건일 것\n나. 활주로는 기상조건, 활주로면의 상태, 비행기의 특성 등을 고려하여 당해 비행기가 안전하게 착륙 가능한 충분한 길이를 갖출 것\n다. 2.항 다.호의 시설이 이용 가능할 것.\n4. 항로상 교체공항 기상최저치\n가. 신청자는 EDTO의 비행계획 및 운항관리 목적을 위하여 항로상 교체공항 기상 최저치를 명시하여야 한다.\n나. 신청자는 항로상 교체공항 기상최저치로 아래 또는 운항기술기준 제8.4.11.8조 나.항에서 정하는 기상최저치 중에서 선택할 수 있다.\n\n교체공항 IFR 기상 최저치                                                              │\n(SM : Statute Mile)                                                                   │\n┌────────────────┬───────────┬──────────────┤\n│접근 항행시설 구성              │운고(Ceiling)         │기상시정(Visibility)        │\n├────────────────┼───────────┼──────────────┤\n│적어도 1개 이상의 항행시설을 이 │MDA(H) or DA(H) +     │착륙 최저 시정치 + 1 SM     │\n│용한 직진입 비정밀접근절차 또는 │400ft, as applicable. │or 1600 m                   │\n│CAT I 정밀접근 절차, 또는 계기  │                      │                            │\n│접근절차로부터 선회접근절차 이  │                      │                            │\n│용 가능 공항.                   │                      │                            │\n├────────────────┼───────────┼──────────────┤\n│적어도 2개 이상의 항행시설이 운 │사용할 2개의 접근 절  │사용할 2개의 접근 절차의    │\n│영되고, 각 시설이 서로 다른 활  │차 중 높은 DA(H) or   │착륙 최저 시정치 중 높은 시 │\n│주로에 직진입 접근절차 이용을   │MDA(H) + 200ft        │정치 + ½ SM or 800 m       │\n│가능케 하는 공항.               │                      │                            │\n├────────────────┼───────────┼──────────────┤\n│1개 이상의 CAT II 정밀접근 절차 │300 feet              │¾ SM (1200 m) or RVR       │\n│이용 가능 공항.                 │                      │4000 feet (1200 m).         │\n├────────────────┼───────────┼──────────────┤\n│1개 이상의 CAT III 정밀 접근 절 │200 feet              │½ SM (800 m) or RVR        │\n│차 이용 가능 공항.              │                      │1800 feet (550 m).          │\n└────────────────┴───────────┴──────────────┘\n5. 비행중 항로상 교체공항의 적합성\nEDTO 중에 회항을 요하는 상황에 직면한 비행기에 대하여 항로상 교체공항으로 적합하다는 것은 해당 공항이 당해 시간에 사용에 적합하며 기상 및 활주로 상태는 비행기가 접근 및 착륙 가능한 상태라고 확인된 경우이다.",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000238104&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=139237787",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=139237781",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=139237787",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:회항시간연장운항승인요령#BYL0002",
+      "filename": "별표2_항로상 교체공항.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "쌍발비행기 회항시간 연장운항 정비프로그램",
+      "enforcement_date": "",
+      "content": "별표 3. 쌍발비행기 회항시간 연장운항 정비프로그램\n1. 일반사항\n가. EDTO 정비프로그램에는 기본정책, 방침 및 운용방법 등이 있어야 한다.\n나. 정비종사자는 EDTO 정비프로그램을 수행하기 위한 지식, 기술 및 능력을 갖추고 이에 대한 근본적인 특성을 알아야 한다.\n2. EDTO 정비프로그램\n가. 비행기 적합성\n(1) 국토교통부장관은 당해 기종이 EDTO에 적합한 형식이며 발동기계통의 신뢰성이 적절한지 제출 자료를 확인해야한다.\n(2) 운용능력을 평가하기 위하여 전 세계 및 신청자의 당해 기종의 운용 자료를 검토하여야한다.\n(3) 본 요령 제3장에서 정한 운용경험을 만족해야 한다.\n(4) 당해 기종이 안전한 운항을 저해할 요소가 있는지 제출 자료를 확인하여야한다.\n주) 75분 EDTO 신청 비행기는 신뢰성이 보장된다면 운항경험을 고려하지 않아도 된다.\n나. 정비프로그램\nEDTO 정비프로그램의 기본은 지속적 감항성 유지프로그램(CAMP)이다. 국토교통부장관은 이 프로그램에 EDTO 정비요건을 추가하여 승인하여야 한다. EDTO에 중요하면서 두개이상인 유사계통에 대하여 동시에 정비조치가 이루어지지 않도록 정비절차에 명시하여야한다.(예, 양 발동기의 연료제어장치 동시교환 금지)\n(1) EDTO 관련 업무는 통상적인 작업양식 및 관련된 지시서와 구별할 수 있어야 한다.\n(2) EDTO 정비절차는 종합통제(CMC)형태로 관리되어야 한다.\n(3) EDTO 점검표는 유자격 정비사가 운항 전에 점검하고 서명하여야한다.\n(4) 탑재용 항공일지에는 최소장비목록(MEL) 적용항목 및 절차, 정비유예조치품목, 정비점검 내용과 계통 확인작업사항이 상세하게 기록되어야 한다.\n다. EDTO 정비규정\n(1) 신청자는 EDTO 정비규정을 제정하여야 한다.\n(2) EDTO 요건인 지원프로그램, 절차, 임무, 책임사항을 명시하고, 최신자료로 관리한다.\n(3) EDTO 수행 20일전에 국토교통부장관에게 제출한다.\n라. 윤활유 감시프로그램\n(1) 신청자는 이 프로그램에 비행기 제작자 권고사항 반영 및 윤활유 소모 경향이 반영되어야 한다.\n(2) 현재 평균 소모율을 참고로 EDTO 출발지에서 보충될 윤활유량을 고려한다. 즉, EDTO 출발공항에서 윤활유를 보충할 때부터 지속적으로 감시한다.\n(3) 당해 기종에 윤활유 성분분석이 중요하면 이 프로그램에 반영한다.\n(4) EDTO에 필요한 보조동력장치(APU)에 대한 내용을 이 프로그램에 반영하여야 한다.\n마. 발동기 상태 감시프로그램\n(1) 발동기상태에 대한 감시프로그램에는 감시할 사항, 자료수집방법 및 수정절차를 명시하고 비행기 제작사의 지시사항 등을 반영한다.\n(2) 이 프로그램은 발동기 상태에 대한 악화 징조를 초기에 파악하여 안전운항을 저해하기 이전에 수정이 가능하도록 하여야 한다.\n(3) 발동기의 모든 정상동력 값(Power Level)과 예상 가능한 상황 및 조건에서 발동기 한계(즉, 회전체속도, 배기가스온도)를 초과하지 않고 단일-발동기로 회항할 수 있도록 발동기의 한계치 이내를 유지ㆍ보장하여야 한다.\n(4) 발동기 한계치 이내의 유지와 관련하여 단일-발동기로 회항하는 동안에 소요될 수 있는 부가적인 발동기부하(예 : 방빙, 전기 등)에 미치는 영향을 명시하여야 한다.\n바. 비행기 결함처리\n(1) 신청자는 확인비행등의 조치가 필요한 1개 발동기정지, 1차 계통고장, 악화 추세 또는 고장 징후를 수정 보증하는 확인프로그램 또는 절차를 수립하여야 한다.\n(2) 이 프로그램은 초기에 조치확인과 필요조치방법을 정하는 책임부서를 명시한다.\n(3) 보조동력장치(APU)와 같은 1차 계통 또는 확인조치가 필요한 중요한 상태는 신청자의 EDTO 정비규정에 명시하여야 한다.\n사. 신뢰성 유지프로그램\n(1) 신청자는 EDTO 신뢰성 유지프로그램을 제정하거나 기운용하는 신뢰성 유지프로그램을 보완하여야한다. 이 프로그램의 최우선 목표는 EDTO 문제점을 조기식별ㆍ예방하는데 있다.\n(2) EDTO을 저해하는 중요한 사건(Events)에 대한 개요 및 보고절차가 있어야 한다.\n(3) 신뢰성 수준을 판단하는 기준이 되고, 지속적으로 안전하게 EDTO를 할 수 있는 자질 및 능력이 있는지 여부를 신청자와 국토교통부장관이 평가하기 용이하게 작성되어야 한다.\n(4) 보고사항은 72시간 내에 국토교통부장관에게 보고한다.\n(5) 본 프로그램에는 항공안전법, 같은 법 시행규칙, 운항 및 정비규정에서 명시한 보고사항 이외에 다음사항을 포함시켜야 한다.\n(가) 운항 중 발동기정지(IFSD)\n(나) 회항 (Diversion 또는 Turnback)\n(다) 의도하지 않은 추력변화 또는 동요 (Surge)\n(라) 발동기가 제어되지 않거나 필요한 동력을 얻을 수 없을 때\n(마) EDTO의 주요계통에 문제발생\n(바) 안정성과 서비스에 관계되는 주요 고장\n(사) 기타 EDTO를 저해하는 사항\n(6) 보고내용에는 다음 사항을 명기하여야 한다.\n(가) 비행기 식별부호(형식 및 등록기호)\n(나) 발동기 식별부호(제조사, 형식 및 제조일련번호)\n(다) 총 비행시간, 총 운항횟수, 마지막 창 정비 이후의 비행시간\n(라) 계통에 대한 오버홀 또는 결함부품의 최종 검사후의 사용시간\n(마) 비행단계\n(바) 결함내용\n(사) 수정내용\n아. 발동기계통 감시프로그램\n(1) 발동기계통 상태가 악화될 때 조치기준이 명확하게 설정되어 있어야 한다.\n(2) 발동기계통의 IFSD율(12개월 평균치 계산)은 다음을 초과할 때는 즉시 운용자가 국토교통부장관에게 보고하여 발동기계통에 대한 평가를 실시할 수 있도록 한다.\n(가) 120분 : 1,000 발동기시간당 0.05회 (0.05/1,000 Engine hours)\n(나) 180분 : 1,000 발동기시간당 0.03회 (0.03/1,000 Engine hours)\n※ 북태평양 지역의 207분 포함\n(다) 180분 초과 : 1,000 발동기시간당 0.02회(0.02/1,000 Engine hours)\n※ 북태평양 지역의 207분 제외\n자. 정비훈련프로그램\n(1) EDTO 정비훈련프로그램은 고유특성에 맞게 정비훈련프로그램에 반영하여야 한다.\n(2) EDTO 유자격정비사(항공안전법 제35조 제8호)는 사전에 신청자의 정비프로그램에 따라 해당 기종에 대한 경험을 가지고 EDTO 훈련프로그램교육을 이수한 자이어야 한다.\n차. 부품관리\n(1) 신청자는 EDTO에 사용되는 부품이 적절하고 정상적 성능이 유지되는지를 확인하는 부품관리프로그램이 있어야 한다.\n(2) 수리 또는 오버홀 후 사용하는 부품뿐만 아니라 차용 또는 직접 보관중인 부품을 EDTO 비행기에 장착할 때 적합성을 확인하는 절차가 있어야 한다.",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000238104&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=139237797",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=139237789",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=139237797",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:회항시간연장운항승인요령#BYL0003",
+      "filename": "별표3_쌍발비행기 회항시간 연장운항 정비프로그램.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별표",
+      "title": "회항시간 연장운항 운항프로그램기준",
+      "enforcement_date": "",
+      "content": "별표 4.  회항시간 연장운항 운항프로그램기준\n1. 일반사항\n본 별표는 120분미만(75분) 및 120분 초과 (180분) 운항승인에 대한 기준의 차이점에 대하여 규정하고 있다. 75분 운항승인을 위해서는 본 요령의 요구사항 모두가 필수적으로 충족될 필요는 없다.\n180분 운항승인을 위하여 본 요령의 기본 요구사항이 본 별표의 180분 운항에 필요한 사항과 함께 충족되어야 한다.\n2. 75분 운항\n아래의 기준은 75분 운항승인을 위하여 요구되는 사항이다.\n가. 운항 여건이 좋은 지역\n운항여건이 좋은 지역으로 정의하기 위하여 다음 사항에 적합하여야 한다.\n(1) 착륙가능 공항이 많을 것\n(2) 통신, 항법, 항공교통관제 및 시설의 신뢰도와 유용성이 높은 수준일 것\n(3) 통상 일기 상태가 안정되고 온도, 바람, 운고, 시정이 일반적으로 비행기 운항에 나쁜 영향을 미치지 않을 것\n나. 운항 여건이 좋은 지역의 운항조건\n(1) 비행기 형식설계\n당해 비행기 기종이 안전운항에 영향을 미치는 요소가 있는지의 여부를 알기 위하여 검토하여야 한다. EDTO 비행기 형식설계 승인 기준은 반드시 필요하지는 않다.\n(2) 정비프로그램은 75분 프로그램을 위한 별표3의 규정을 따라야 한다.\n(3) 운항계획\n(가) 최소장비목록 (MEL)\nEDTO 조건을 제외하고, 신청자에게 기 승인된 최소장비목록(MEL)을   적용한다.\n(나) 운항관리 제한\n승인된 단일-엔진(1엔진정지)조건으로 순항속도 및 정해진 동력상태에서 최저항로 고도 이상을 유지하여 비행할 수 있는 중량으로 운항되어야 한다.\n다. 운항 여건이 안 좋은 지역\n75분승인 목적의 운항여건이 안 좋은 지역은 다음 중 1개 이상의 특성을 갖는 지역을 말한다.\n(1) 바람, 온도, 운고, 시정등 기상상태가 비행기 운항에 악영향을 미치는 상태일 것\n(2) 착륙가능 공항이 적은 지역일 것\n(3) 원거리 및 해상지역으로 인해 높은 수준의 신뢰도와 성능을 가진 통신, 항법,항공교통관제 지원이 없는 지역\n라. 운항여건이 안 좋은 지역의 운항기준\n(1) 비행기 형식설계\n당해 비행기 기종이 운항 요구지역에서 안전운항에 영향을 미칠 수 있는 요소를 결정하기 위하여 검토되어야 한다. EDTO 비행기 형식설계 승인 기준은 반드시 필요하지는 않다.\n(2) 정비프로그램은 별표3의 120분 운항 적용기준에 따라 제정되어야 한다.\n(3) 120분 운항을 위한 본 요령에 포함된 내용을 따라 운항프로그램이 제정되어야 한다.\n3. 180분 운항\n가. 120분을 초과하는 EDTO 신청자는 당해 EDTO 비행기기종으로 120분 운항 경험이 연속적으로 12개월 정도는 되어야 한다.\n나. 운용경험을 대체함에 있어서 실제 120분 운항수행과 동등한 운항경험에 대하여는 국토교통부장관이 사안별로 정할 수 있다. 오직 120분 프로그램을 성공적으로 수행한 능력을 입증한 운용자만이 120분 초과 승인의 고려대상이 된다. 승인에 앞서, 신청자에 대하여 본 요령에 의한 EDTO 프로그램 수행능력이 확인되어야 하며 또한 본 별표에서 규정하는 추가 능력이 입증되어야 한다.\n다. 운항관리\n(1) 최소장비목록(MEL)\n최소장비목록(MEL)은 180분 운항을 지원하기 위한 1차 계통의 적정 수준이 반영되어야 한다.\n(2) 기 상\n신청자는 이용하고 있는 기상정보 체제가 당해 운항지역의 국지기상 및 항로기상 예보에 대하여 무리가 없는 정도의 정확도 및 신뢰도를 유지함을 보여야 한다. 이에는 인원,  운항관리사 훈련, 기상보고 및 예보의 근거, 기상예보의 신뢰성 기록과 같은 요소들이 포함되어야 한다.\n(3) 연 료\n비행기가 항공안전법 및 같은 법 시행규칙에서 정한 충분한 예비산소를 구비하였다면 임계연료시나리오는 10,000FT 또는 그이상의 고도에서의 모든 엔진작동에 필요한 연료량이 고려된 것이어야 한다.\n(4) 운항관리 실시 및 절차\n운항 중 운항승무원에게 지정된 교체공항의 주요 변화상태가 통지되어야 한다. 180분 EDTO 수행을 위한 EDTO 진입점 통과에 앞서 본 요령 제25조제4항제3호에 규정한 기간동안의 지정된 항로상 교체공항의 기상예보와 착륙거리, 공항업무 및 시설을 평가하여야 한다. 안전접근 및 착륙에 방해가 될(착륙최저치 이하의 기상예보 같은)상태가 확인되면 조종사에게 통지되어야 하며, 안전접근 및 착륙이 가능한 항로상 교체공항이 선정되어야 한다. 새로 선정된 항로상 교체공항까지 최대회항시간이 1개 엔진(1엔진정지)으로 순항속도로 180분을 초과하지 말아야 한다.\n(5) 비행계획\n신청자는 항공안전법, 같은 법 시행규칙 및 신청자의 운항규정에 정한대로  비행계획을 하여야 한다. 1개의 발동기 부작동시의 순항 고도에서의 바람 및 외기온도의 영향이 고려되어야 한다. 또한, 신청자의 프로그램에는 별표2에 기술된 항로상 교체공항 기상최저치를 준수할 수 없도록 예보된 노선에 대하여는 항로상 교체공항에 대한 정보가 운항승무원에게 통지되어야 한다. 공항시설정보 및 당해 공항에 관계되는 다른 비행 계획 자료가 회항할 때 이용할 수 있게 하기위하여 운항승무원에게 제공되어야 한다.\n라. 승무원 훈련 및 평가\n(1) 추가 동력을 이용한 착륙을 위한 접근훈련\n전력의 예비전원이 조종실의 계기등 기기의 성능을 현저히 저하시키게 될 때, 유일한 동력원으로써 예비 발전기를 이용한 착륙을 위한 접근모의훈련이 조종사의 초급 및 정기훈련 동안에 시행되어야 한다.\n(2) 우발사고 대응절차(Contingency Procedure)\n초급 및 정기훈련시에 운항승무원에게는 예정된 각각의 운항지역에 대한 우발사고 대응절차(Contingency Procedure)를 상세하게 훈련시켜야 한다.\n(3) 회항결심 절차\n예상되는 추진계통과 기체계통의 고장을 평가하기 위하여 운항승무원이 준비하여야 할 특별한 내용을 초기 및 재훈련에 수행하여야 한다. 이 훈련의 목적은 운항 중 가장 발생 가능한 우발사고(Contingencies)를 다루는 승무원의 능력을 향상시키기 위한 것이 되어야 한다.\n마. 장 비\n(1) VHF/인공위성 자료이용\n신청자는 가능한 한 신속하게 운항통제시스템을 VHF/인공위성 자료를 이용하여 향상시키는 것을 고려하여야 한다.\n(2) 자동감시시스템\n자동화된 비행기시스템 상태의 감시는 적시에 회항을 결정할 수 있게 하는 운항승무원의 능력을 향상시키도록 제공되어야 한다.\n바. 확인비행\n신청자는 당해 비행기 기종 또는 해당 모의비행장치를 이용하여 국토교통부장관에게 180분 EDTO를 안전하게 수행할 수 있다고 확인비행등을 통하여 입증해 보여야 한다. 확인비행 조건에 관하여는 본 요령 제27조의 규정을 준수하여야 한다.",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000238104&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=139237809",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=139237799",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=139237809",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:회항시간연장운항승인요령#BYL0004",
+      "filename": "별표4_회항시간 연장운항 운항프로그램기준.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별표",
+      "title": "속성 회항시간 연장운항 승인기준",
+      "enforcement_date": "",
+      "content": "별표 5. 속성 회항시간 연장운항 승인기준\n1. 일반사항\n가. 이 기준은 본 요령 제8조제1호에 의한 신청자의 실제운용경험을 단축 또는 대체하여 승인하는 사항을 정함에 있다.\n나. 속성 회항시간 연장운항(Accelerated EDTO) 승인을 위한 운용경험단축은 이 요령에서 정한 안전기준을 하향 조정하는 것이 아니라 신청자가 다양한 방법으로 자신의 능력을 증명하여 이 기준을 만족할 수 있음을 보여주어야 한다.\n다. 국토교통부장관은 단축된 운용경험으로 속성 회항시간 연장운항을 승인코자 할 때는 수립된 EDTO 운용에 필요한 진행과정에 따라 신뢰성이 인정될 때 EDTO를 승인할 수 있으며, 신뢰성 확인은 제반과정이 규정화되고 다른 형식의 비행기로 증명 또는 제6항에서 정한 바에 따른다.\n2. 용어의 정의\n가. 진행과정(Process)\n원하는 결과를 위하여 일관된 방식으로 수행하는 일련의 단계나 활동을 의미한다.\n나. 진행과정 검증 (Proven Process)\n아래 요소가 수립되어 수행될 때 이를 증명하는 것이다.\n(1) 진행과정요소의 정의 및 문서화\n(2) 진행과정과 관련된 역할 및 책임 명시\n(3) 진행과정의 요소를 확인하기 위한 절차\nㅇ 진행과정의 안전성/신뢰성 명시\nㅇ 진행과정 및 감시(측정) 결과를 확인하기 위한 변수\nㅇ 진행과정을 확인하기 위한 필요 평가기간\n(4) 진행과정이 신뢰할 수 있고 안정적이라는 것을 보증하기 위한 후속 감시절차\n(5) 진행과정의 확인방법은 제6항에서 정한 바에 따른다.\n3. EDTO의 진행과정\n가. 신청자는 속성 회항시간 연장운항을 하고자 하는 기종의 기체 및 발동기계통에 대하여 EDTO 형식승인이 되었음을 제시하여야 한다.\n나. 신청자는 다음의 EDTO 진행과정에 대한 요소는 EDTO 프로그램에 적절하게 반영되었음을 증명하여야 한다.\n(1) EDTO 추가장비 정비절차(CMP)에 충족하는 비행기 및 발동기\n(2) 이 요령 별표 3에서 정한 정비요건 충족\n(가) 정비프로그램(별표 3. 2. 나항)\n(나) EDTO 정비규정(별표 3. 2. 다항)\n(다) 윤활유 소모 감시프로그램(별표 3. 2. 라항)\n(라) 발동기 상태감시프로그램 및 보고체계(별표 3. 2. 마항)\n(마) 비행기 결함처리계획(별표 3. 2. 바항)\n(바) EDTO 신뢰성 유지프로그램(별표 3. 2. 사항)\n(사) 발동기계통 감시프로그램(별표3. 2 아항)\n주) 신청자는 EDTO 최대회항시간에 부합되는 발동기계통 신뢰성 유지프로그램을 수립해야 한다.\n(아) EDTO 훈련 및 자격프로그램(별표 3. 2. 자항)\n(자) EDTO 부품관리프로그램(별표 3. 2. 차항)\n(3) 이 요령 별표4에서 정한 운항프로그램 준수\n(가) EDTO 비행계획과 운항관리프로그램\n(나) EDTO 기상정보와 최소장비항목(MEL)\n(다) EDTO 운용요원의 초기훈련, 보수교육 및 평가프로그램\n(라) 운항승무원 및 운항관리요원의 EDTO 노선에 대한 숙지도, 특히 항로상 교체공항의 선정 및 요구조건\n(4) 다음 요소의 문서화\n(가) 운용하는 비행기와 속성 회항시간 연장운항을 하고자 하는 쌍발비행기 간에 주 및 보조(Primary and Secondary) 동력장치계통(발동기, 전기, 유압 및 공압)의 중요한 차이와 새로운 기술\n(나) 위 (가)항의 내용에 대한 운항 및 정비인력에 대한 훈련계획(안)\n(다) 당해 비행기의 EDTO 관련 제작사가 정한 훈련, 운용교범 적용계획(안)\n(라) 위 (다)항에서 정한 훈련, 정비 및 운항규정의 변경사항(변경내용의 성격 및 범위에 따라 국토교통부장관은 변경내용 확인을 위한 계획(안)을 제출토록 신청자에게 요구할 수 있다.)\n(마) EDTO와 관련된 신청자의 추가된 교육훈련에 대한 확인계획(안)\n(바) 비행기 기체 및 발동기 제작사, 다른 운용자 또는 그밖에 다른 외부에서 지원받는 EDTO 프로그램의 세부내용\n(사) 정비나 운항관리 지원이 상기(바)항과 같이 외부에서 제공될 때 관리절차\n4. 승인신청\n가. 신청자는 속성 회항시간 연장운항 승인을 받고자하는 경우에는 EDTO를 개시하고자 하는 날로부터 6개월 이전에 속성 회항시간 연장운항 신청(안)을 국토교통부장관에게 제출하여야 한다.\n주) 동 기간은 국토교통부장관이 제출된 문서(안) 검토와 EDTO과정 등이 적절한지 확인하는데 소요된다.\n나. 승인신청내용\n(1) 예정 항로와 쌍발비행기 EDTO에 필요한 최대회항시간 명시\n(2) EDTO 정비 및 운용을 지원하는 종사자와 관리자가 EDTO관련 사항을 이행함을 증명하는 방법으로써, EDTO를 최초로 시도하고 유지하기 위해 정해진 EDTO 진행과정 및 관련된 모든 자료와 수단을 명시하여야 한다.\n(3) 필요 시 형식승인에 요구되는 기준에 대한 이행계획(예 : CMP 수행)\n(4) 제3항에서 정한 요건에 따른 이행계획\n(5) 일정별 점검단계(Review Gate) 명시\n(가) 일정별 점검단계(Review Gate)는 본 별표의 요건을 차례대로 추적하고 문서화하는 것에 대하여 참조하는 추적계획에 대한 이정표이다.\n(나) 각각의 일정별 점검단계(Review Gate)는 그것을 만족스럽게 통과할 수 있도록 수행하여야 할 과제를 명시하여야 한다.\n(다) 일정별 점검단계(Review Gate)에는 국토교통부장관의 확인 또는 승인이 필요한 항목이 포함되어야 한다.\n(라) 통상 Review Gates 진행과정은 예정된 EDTO 개시 6개월 이전부터 시작하여 EDTO를 개시하여 최소 6개월까지 지속되어야 한다.\n(마) 진행과정의 검증은 본 별표 조항 제3항에 부합해야 한다.\n5. 운항승인\n속성 회항시간 연장운항 승인은 국토교통부장관이 승인한 지역으로 제한한다. 신청자가 새로운 지역의 추가를 원한다면 국토교통부장관의 승인을 받아야 한다. 만약 신청자가 제3항에서 정한 모든 요건에 적합하다면 형식설계승인 한계범위에서 EDTO를 승인할 수 있다.\n6. 진행과정확인\n가. 제3항은 속성 회항시간 연장운항을 시작하기 이전에 검증이 필요한 진행과정의 요소를 정한다. 제반 요건 흐름도(Flow Chart)와 진행과정을 관리하는 책임자 및 책임자의 역할과 자격(교육)이 명시되어야 한다.\n나. 신청자는 진행과정이 적절한지 입증하여야 한다. 이런 입증방법은 철저한 자료제공과 분석에 의한 방법 또는 비행기로 직접 확인하는 방법이 있다. 또한 운용경험에 따라 진행과정이 개선되어 향상되는데 필요한 피드백루프(Feedback Loop)가 있음을 보여 주어야 한다.\n다. 진행과정을 확인하는 수단으로 비행기 사용 여부는 신청자가 정하도록 하며 신청자의 준비가 충분하고 여러 상황으로 만족할 만한 결과가 예상되면 확인을 생략할 수도 있다. 그러나 진행과정에 대한 계획 이행이 부적절하거나 불만족하다고 판단되면 국토교통부장관은 비행기로 직접 진행과정을 확인하는 방법을 선택할 수 있다.\n라. 국토교통부장관은 속성 회항시간 연장운항 신청자가 다른 비행기 기종으로 EDTO를 실시하고 EDTO를 적절하게 실시함에 대한 입증자료를 제공한다면 신청한 비행기 기종에 대하여는 최소한의 확인으로 승인할 수 있다. 이 경우 속성 회항시간 연장운항을 신청한 비행기 기종에도 EDTO 진행과정이 동등하고 결과가 만족할 수 있음을 증명하여야 한다.\n마. 다음은 EDTO 진행과정 확인요건을 축소할 수 있는 요소이다.\n(1) 다른 비행기 기체 및 발동기의 운용경험\n(2) 이미 승인 받아 운용하는 EDTO 경험\n(3) 쌍발기, 3발기, 4발기에 의한 장거리 해상비행 경험\n(4) EDTO 승인을 받은 다른 항공사에서 경험을 얻은 운항승무원, 정비요원 및 운항관련자 경험\n바. 진행과정의 확인은 속성 회항시간 연장운항에 사용할 비행기의 당해기종이나 3발, 4발 비행기가 포함된 다른 비행기 기종으로도 실시할 수 있으며, 다른 비행기 기종으로 시현하여 만족할만한 진행과정 성과를 확인 할 수 있다. 그것은 속성 회항시간 연장운항 승인 신청한 비행기에서도 동일한 결과를 얻을 수 있다고 확인하는 적절한 방법임을 입증하는데 필요하며, 아래의 사항이 포함되어야 한다.\n(1) 신청자의 EDTO 확인프로그램에는 안전운항을 보장하는 효과가 있어야 하며 진행과정에 관련된 인원에 대한 각자의 업무분담에 관한 사항이 언급되어야 한다. 이 지침에는 EDTO 진행과정의 확인업무는 비정상운항, 긴급 상황발생 또는 이착륙조작 등 조종업무량 증가시 안전운항에 부정적 영향을 미치므로 확인업무를 하지 말 것을 명시하여야 한다.\n(2) 그밖에 사항으로 확인되지 않는 정비 및 운용지원시스템의 문제가 도출될 수 있도록 확인시나리오에 대한 진행을 충분히 하여야 한다.\n(3) 신청자는 EDTO 진행과정에 대한 요소와 관련된 업무수행에 대한 성능 감시 및 보고 방법을 수립하여야 한다. 또한 EDTO에 권고되는 변경사항은 정비 및 운용 진행과정 요소가 명시되어야 한다.\n(4) 진행과정확인프로그램을 시작하기 전에 아래사항을 국토교통부장관에게 제출해야 한다.\n(가) 시작일과 예상 완료일이 포함한 확인기간\n(나) 확인할 비행기선정(등록기호, 기체 및 발동기 제작사, 일련번호, 형식 등 포함)\n(다) 확인 목적으로 제시된 운항지역 및 실제 EDTO운용에 대한 설명\n(라) 지정된 EDTO 확인 항로 명시(진행과정을 확인하기에 적절한 노선이어야 함)\n(5) 진행과정확인보고 : 신청자는 EDTO 진행과정에 대한 아래의 확인결과를 보고 하여야 한다.\n(가) EDTO 진행과정의 각 요소에 대하여 확인과정에서 어떻게 이용되었는지에 대한 자료.\n(나) 진행 과정요소의 모든 결점과 그런 결점을 수정할 수 있는 적절한 평가 자료.\n(다) 비행중발동기정지(IFSD), 비계획 발동기장탈 혹은 중요한 운항의 문제점 에 대한 EDTO 진행과정의 변경에 필요한 자료.\n(라) 신청자는 주기적으로 국토교통부장관에게 진행과정확인에 대한 사항을 보고 해야한다. 이를 일정별 점검단계(Review Gate)에 포함하여 할 수 있다.",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000238104&bylNo=0005&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=139237823",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=139237811",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=139237823",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:회항시간연장운항승인요령#BYL0005",
+      "filename": "별표5_속성 회항시간 연장운항 승인기준.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별표",
+      "title": "207분 운항 승인기준",
+      "enforcement_date": "",
+      "content": "별표 6. 207분 운항 승인기준\n1. 일반사항\n가. 이 기준은 본 요령 제24조1항의 규정에 의한 207분 EDTO을 위하여 필요한 사항을 정함에 있다.\n나. 207분 EDTO는 180분 EDTO를 득한 항공운송사업자가 회항시간의 15%증가를 위한 것으로 오직 북태평양지역 운항에 적용된다.\n다. 207분 EDTO는 정치적 이해관계, 기상 또는 기타 사정으로 인한 항로상 교체공항 선정의 문제로 180분 EDTO로는 운항을 수행할 수 없는 경우에만 적용한다.\n라. 항공운송사업자는 207분 EDTO를 하고자 할 때는 계획된 항로의 180분 내에 있는 착륙가능공항의 기상예보가 가장 빠른 비상착륙예정시간과 가장 늦은 비상착륙 예정시간 사이에 착륙접근 최저기상치가 될 가능성이 있는지 여부를 점검하고 그에 대한 정보를 추가적으로 운항승무원이 참고할 수 있도록 제공하여야 한다.\n2. 운항승인\n항공운송사업자는 180분 EDTO를 위해 요구되는 모든 운항승인요건을 충족시켜야 하며, 207분 EDTO를 위해서는 추가로 다음의 요건을 충족하여야 한다.\n가. 신속하고 신뢰성 있는 통신수단으로 위성음성통신(SATCOM voice)이나 위성 데이터 통신(SATCOM data-link)를 사용해야 한다.\n나. EDTO 진입점 이전에 비행기 시스템 성능과 항로 교체공항에 대해 점검하고, 그에 따른 비행계획서 변경은 데이터통신(data-link)으로 해야 한다. 운항관리사는 항로상 교체공항을 점검하고, 계획된 항로의 207분 내에서 모든 착륙적합공항을 운항승무원에게 제공해야 한다.\n다. 비행기는 한 개의 발동기로 자동 착륙(single engine auto-land)을 수행할 수 있는 성능을 가지고 있어야 하며 비행허가(dispatch)전 정상 작동되어야 한다.\n라. 180분 운항을 위한 최소장비목록(MEL)을 적용하여야 하고 추가적으로 207분 운항 비행허가(Dispatch)전에 다음 장비가 작동되어야 한다.\n(1) 연료량 지시장치(FQIS)\n(2) 보조동력장치(APU)(전기 및 공압 공급능력 포함)\n(3) 자동추력 조절장비(Auto-throttle system)\n(4) 위성음성통신(SATCOM voice)이나 위성데이터 통신(SATCOM datalink)\n마. 신청자는 항로상 교체공항에 적절한 수준의 소방구조체제(RFFS)의 이용가능 여부를 확인하여야 한다.\n207분 운항의 경우, 비행기는 항시 207분 내에 최소한 1개의 ICAO 소방구조체제 7등급 이상의 착륙가능공항이 있어야 한다.\n그 공항에 그러한 장비가 사용이 어려울 경우, 회항 통보시 동등한 수준의 지원이 적절하게 이루어지도록 조치하여야 한다.\n바. 신청자는 207분 EDTO가 비행 계획된 때에는 운항승무원에게 사전 통지하여 그러한 운항에 필요한 고려사항을 운항승무원이 충분히 파악할 수 있도록 하여야 한다.\n사. 207분 운항승인을 받은 항공운송사업자는 207분 EDTO를 비행계획 할 경우 구체적으로 사용되는 필요한 정보, 즉 서류와 기록물을 최소 3개월간 보관하여야 하며 국토교통부장관이 요구 시 해당 자료를 제공해야 한다.\n3. 비행기 승인\n기체 및 발동기계통은 180분 형식승인을 취득하여야 하고 180분 EDTO 추가 장비에 대한 정비절차(CMP)의 모든 요건들을 적용한다. 207분 EDTO의 안전한 수행에 영향을 줄 수 있는 어떤 요소가 있는지를 파악하기 위해 기체 및 발동기계통에 대한 재검토가 이루어져야 하며 다음 사항을 확인하여야 한다.\n가. 180분을 지원하기 위해 사용되는 확률적 분석(NPA)은 207분 회항을 지원하기 위해 적절한 가를 재검토하여야 한다.\n나. 207분에 추가적 허용시간 15분(대기, 접근 및 착륙)을 더하여 EDTO 회항을 위한 총 222분 동안 오일을 적절하게 발동기 계통에 공급할 수 있도록 하여야 한다.\n다. 화물실의 소화장치가 승인된 207분에 추가여유분 15분을 더한 총 222분이상의 화재억제능력을 갖추어야 한다.\n라. 상기사항 이외의 시간제한계통이 있다면 그 시스템에 대한 내구성은 207분에 추가여유분 15분(대기, 접근 및 착륙)을 더한 총 222분 이상이 되도록 하여야한다.\n마. 발동기 내부결함으로 외부손상을 유발하는 사고(uncontained engine failure)와 그에 따른 연료 탱크손상의 위험도가 비행기에 위험을 초래하지 않도록 지속적으로 충족되는지를 입증할 수 있도록 재검토하여야 한다.\n바. 비행 중 발동기정지율(IFSD)은 0.03/1,000hours(최근 12개월 운용평균) 이내를 유지하여야 한다.\n사. 주 배터리 또는 예비전원이 사용 가능한 한, 최소한 한 개 이상의 연료공급밸브(Fuel cross-feed valve)에 전원공급이 가능해야 한다.\n아. 각각의 주 연료탱크의 최소한 한 개 이상의 연료펌프(Fuel boost pump)는 주 발동기구동 발전기 또는 보조동력장치(APU) 구동발전기가 아닌 예비 전원에 의해 전력공급을 받을 수 있어야 한다.\n자. 발동기 구동 발전기 또는 보조동력장치(APU) 구동발전기 중 하나는 모든 필수전력 및 예비전력계통(AC와 DC BUS)에 전원을 공급할 수 있어야 한다.\n신뢰성분석 또는 운용경험상 기존의 표준최소장비목록(MMEL)이 207분 EDTO에 적합하지 않을 경우 표준최소장비목록(MMEL)을 개정하도록 조치하여야 한다.\n4. 승인신청\n180분 EDTO 승인을 받은 운용자에 한하여 207분 EDTO 신청을 할 수 있으며, 운항의 수행능력을 입증하기 위해 본 요령 제32조에 의거 운항확인비행을 당해 항공기 기종에 대하여 수행해야 하며 승인내용이 운영기준에 반영된다. 신청서에는 최소한 다음 사항을 포함해야 한다.\n가. 신청자의 EDTO 승인 현황\n나. 신청자의 EDTO 승인을 받은 기체/발동기 조합 현황 및 207분 운항 승인을 받고자 하는 기체/발동기 조합\n다. 207분 운항승인 신청 운항지역\n라. 운항규정 개정 사항\n마. 180분과 207분 EDTO의 차이점을 반영하는 정비사, 운항관리사(dispatch) 및 운항승무원 훈련 및 훈련과정 개정사항",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000238104&bylNo=0006&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=139237833",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=139237825",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=139237833",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:회항시간연장운항승인요령#BYL0006",
+      "filename": "별표6_207분 운항 승인기준.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "별표",
+      "title": "회항시간 연장운항 승인 심사표",
+      "enforcement_date": "",
+      "content": "별표 7. 회항시간 연장운항 승인 심사표\n┌────────┬┬───────┬┐\n│신청자명        ││최대회항시간  ││\n├────────┼┼───────┼┤\n│비행기형식(모델)││비행기등록기호││\n├────────┼┼───────┼┤\n│발동기형식(모델)││점검기간      ││\n└────────┴┴───────┴┘\n┌─────┬──────────────────────┬───────┐\n│해당항목  │            회항시간 연장운항 신청 구분     │ 해당 점검항목│\n│표시      │                                            │              │\n├─────┼──────────────────────┼───────┤\n│??      │ ① 최초의 EDTO 또는 최대회항시간의 변경    │1 ~ 16번      │\n├─────┼──────────────────────┼───────┤\n│??      │ ② 당해 기종을 이용한 최초 EDTO            │1 ~ 16번      │\n├─────┼──────────────────────┼───────┤\n│??      │ ③ EDTO 중인 기종의 비행기 추가 및 신규도입│    1 ~ 3,7번 │\n├─────┼──────────────────────┼───────┤\n│??      │ ④ 삼발 이상 비행기 EDTO                   │1,4,5,6,8번   │\n├─────┼──────────────────────┼───────┤\n│??      │ ⑤ 회항지역의 변경                         │1,2,4,6,8번   │\n└─────┴──────────────────────┴───────┘\n┌──────┬─────────────────────────┬──┬───┬──┐\n│항 목       │점검 내용                                         │만족│불만족│N/A │\n├──────┼─────────────────────────┼──┼───┼──┤\n│1. EDTO     │ 각 발동기/기체별 인가 일자                       │    │      │    │\n│비행기인가  │                                                  │    │      │    │\n├──────┼─────────────────────────┼──┼───┼──┤\n│2. 운용경험 │ 2-1 관련 발동기/기체의 운용경험 년/월수          │    │      │    │\n│            │ 2-2 관련 발동기/기체별 EDTO/운항 총회수          │    │      │    │\n│            ├─────────────────────────┼──┼───┼──┤\n│            │ 2-3 운항 중 발동기 고장율 (I.F.S.D)              │    │      │    │\n│            │ 1)신청자 데이터 : EDTO 비행기의 평균운항 데이터  │    │      │    │\n│            │   - 12개월간 데이터                              │    │      │    │\n│            │    -  6개월간 데이터                             │    │      │    │\n│            │ 2)전세계 데이터 : 당해 EDTO 발동기/기체별 평균   │    │      │    │\n│            │운항 데이터                                       │    │      │    │\n│            │   - 12개월간 데이터                              │    │      │    │\n│            │   -  6개월간 데이터                              │    │      │    │\n│            ├─────────────────────────┼──┼───┼──┤\n│            │2-4 비계획 발동기 장탈율                          │    │      │    │\n│            │ 1) 신청자 데이터                                 │    │      │    │\n│            │ 2) 전세계 데이터                                 │    │      │    │\n│            ├─────────────────────────┼──┼───┼──┤\n│            │2-5 APU 이용 및 신뢰성 기록                       │    │      │    │\n│            ├─────────────────────────┼──┼───┼──┤\n│            │2-6 지연운항 및 결항기록, 항공기 시스템별 원인    │    │      │    │\n│            ├─────────────────────────┼──┼───┼──┤\n│            │2-7 신청자의 주요결함 발생 기록                   │    │      │    │\n│            │ 1) 예외적인 동력교체 (surge 또는 roll back)      │    │      │    │\n│            │ 2) 발동기 조정 또는 필요동력도달 불가상태        │    │      │    │\n│            │ 3) 운항 중 발동기 고장 총 횟수                   │    │      │    │\n│            │ 4) 회항 : EDTO 운항시 회항 발생기록              │    │      │    │\n└──────┴─────────────────────────┴──┴───┴──┘\n┌───────┬───────────────────────────┬──┬───┬──┐\n│항 목         │점검 내용                                             │만족│불만족│N/A │\n├───────┼───────────────────────────┼──┼───┼──┤\n│              │2-8  EDTO 운항시 안전에 영향을 미치는 계통상의        │    │      │    │\n│              │문제점 (조종계통, 항법, 통신, 전자, 유압, 주계통고    │    │      │    │\n│              │장 평균시간)                                          │    │      │    │\n├───────┼───────────────────────────┼──┼───┼──┤\n│3.정비체제    │본 요령 별표 3 회항시간 연장운항 정비체제의 적합여부  │    │      │    │\n│              │ 3-1 정비프로그램                                     │    │      │    │\n│              │ 3-2 기체 및 발동기상태 감시 프로그램                 │    │      │    │\n│              │ 3-3 비행기 결함처리                                  │    │      │    │\n│              │ 3-4 신뢰성 유지프로그램 및 관리                      │    │      │    │\n│              │ 3-5 정비훈련프로그램                                 │    │      │    │\n│              │ 3-6 부품관리                                         │    │      │    │\n├───────┼───────────────────────────┼──┼───┼──┤\n│ 4.운항승인   │ 4-1 운항규정에 항로상 교체공항으로 부터의 최대회     │    │      │    │\n│지역          │항시간 명시여부                                       │    │      │    │\n│              │ 4-2 운항규정에 운항예정 및 회항노선에 최저고도의     │    │      │    │\n│              │명시여부                                              │    │      │    │\n│              │ 4-3 항로지도에 항로상 교체공항으로 부터의 회항거     │    │      │    │\n│              │리의 명시여부                                         │    │      │    │\n├───────┼───────────────────────────┼──┼───┼──┤\n│ 5.운항허가   │ 운항규정에 운항허가 제한사항의 명시여부              │    │      │    │\n│제한          │                                                      │    │      │    │\n├───────┼───────────────────────────┼──┼───┼──┤\n│6.항로상 교   │ 6-1 착륙거리, 지원업무,시설등이 본요령에 적합여부    │    │      │    │\n│체공항        │ 6-2 운항규정에 사용예정 공항의 명시여부              │    │      │    │\n├───────┼───────────────────────────┼──┼───┼──┤\n│ 7.비행요건   │ 7-1 MEL이 MMEL에 적합여부                            │    │      │    │\n│(MEL)         │ 7-2 MEL 목록 (필요시 각 발동기/기체별로 표시) 명     │    │      │    │\n│              │시여부                                                │    │      │    │\n├───────┼───────────────────────────┼──┼───┼──┤\n│ 8.관계자료   │ 아래의 관계자료 사본 확인                            │    │      │    │\n│사본          │ 8-1 운항허가 (Dispatch release)                      │    │      │    │\n│              │ 8-2 운항비행계획서                                   │    │      │    │\n│              │ 8-3 당해 운항별 필요한 설명되어있는 Plotting         │    │      │    │\n│              │chart (예 ETP, 운항노선)                              │    │      │    │\n├───────┼───────────────────────────┼──┼───┼──┤\n│9.통신 및 항  │ 본 훈령에 적합여부                                   │    │      │    │\n│행안전시설    │                                                      │    │      │    │\n├───────┼───────────────────────────┼──┼───┼──┤\n│10.비행기     │ 운항규정에 각 발동기/기체별 명시여부                 │    │      │    │\n│성능자료      │                                                      │    │      │    │\n├───────┼───────────────────────────┼──┼───┼──┤\n│11.연료 및    │ 연료 및 윤활유 탑재                                  │    │      │    │\n│윤활유        │ 11-1 일반요건 : 본 요령에 적합여부                   │    │      │    │\n│탑재          │ 11-2 임계연료 탑재량 : 본 요령에 적합여부            │    │      │    │\n├───────┼───────────────────────────┼──┼───┼──┤\n│12.운항승무   │ 본 훈령에 적합여부                                   │    │      │    │\n│원 훈련       │                                                      │    │      │    │\n└───────┴───────────────────────────┴──┴───┴──┘\n┌──────┬───────────────────────┬──┬───┬──┐\n│항 목       │점검 내용                                     │만족│불만족│N/A │\n├──────┼───────────────────────┼──┼───┼──┤\n│13. 운항관리│ 아래의 내용을 훈련교과목에 포함              │    │      │    │\n│훈련        │ 1) 본 요령의 숙지                            │    │      │    │\n│            │ 2) EDTO용 MEL 목록                           │    │      │    │\n│            │ 3) 운항허가 (dispatch release)의 내용        │    │      │    │\n│            │ 4) 항로절차 : 항로상 교체공항 변경절차 포함  │    │      │    │\n│            │ 5) 임계연료 탑재량                           │    │      │    │\n│            │ 6) 기상예보 확인                             │    │      │    │\n│            │ 7) 운항구역 및 운항허가 제한구역             │    │      │    │\n├──────┼───────────────────────┼──┼───┼──┤\n│14. 비정상  │ 본 요령에 적합여부                           │    │      │    │\n│사태시 조작 │ 1) ETP/FMC 사용                              │    │      │    │\n│            │ 2) 회항 신속결정                             │    │      │    │\n│            │ 3) 기장의 권한                               │    │      │    │\n├──────┼───────────────────────┼──┼───┼──┤\n│15. 운항확인│ 15-1 모의비행결과 평가                       │    │      │    │\n│비행        ├───────────────────────┼──┼───┼──┤\n│            │ 15-2 운항확인비행                            │    │      │    │\n│            │ 1) 확인비행조건                              │    │      │    │\n│            │ 2) 확인비행결과 및 평가                      │    │      │    │\n├──────┼───────────────────────┼──┼───┼──┤\n│ 16. 기 타  │ 회항시간별 추가요건의 본 훈령 적합 여부      │    │      │    │\n├──────┴───────────────────────┴──┴───┴──┤\n│                                                                                │\n│  점검관의견                                                                    │\n├────────────────────────────────────────┤\n│점검관                                                                          │\n├──────┬┬┬─────────────────────┬─────────┤\n│소속        │││                                          │                  │\n├──────┼┼┼─────────────────────┼─────────┤\n│직책        │││                                          │                  │\n├──────┼┼┼─────────────────────┼─────────┤\n│성명        │││                                          │                  │\n├──────┼┼┼─────────────────────┼─────────┤\n│서명        │││                                          │                  │\n└──────┴┴┴─────────────────────┴─────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000238104&bylNo=0007&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=139237843",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=139237835",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=139237843",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:회항시간연장운항승인요령#BYL0007",
+      "filename": "별표7_회항시간 연장운항 승인 심사표.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "회항시간 연장운항 승인요령 훈령 일부개정안.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=139171123",
+      "file_store_url": "",
+      "filename": "회항시간 연장운항 승인요령 훈령 일부개정안.hwpx"
+    },
+    {
+      "name": "회항시간 연장운항 승인요령 훈령 일부개정안.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=139171127",
+      "file_store_url": "",
+      "filename": "회항시간 연장운항 승인요령 훈령 일부개정안.pdf"
+    },
+    {
+      "name": "회항시간 연장운항 승인요령(국토교통부훈령 제1729호).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=139150325",
+      "file_store_url": "",
+      "filename": "회항시간 연장운항 승인요령(국토교통부훈령 제1729호).hwpx"
+    },
+    {
+      "name": "규제심사 확인증(규제개혁위원회).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=139150329",
+      "file_store_url": "",
+      "filename": "규제심사 확인증(규제개혁위원회).hwpx"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 23,
+    "by_category": {
+      "법령": 5,
+      "별표": 13,
+      "행정규칙": 5
+    },
+    "by_relation_type": {
+      "citation": 6,
+      "appendix_ref": 13,
+      "internal_ref": 4
+    },
+    "articles_total": 30,
+    "articles_with_relations": 13,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 5,
+    "appendices_count": 7,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/회항시간 연장운항 승인요령"
+  },
+  "provision_id": "admrul:회항시간연장운항승인요령#DOC"
+}
