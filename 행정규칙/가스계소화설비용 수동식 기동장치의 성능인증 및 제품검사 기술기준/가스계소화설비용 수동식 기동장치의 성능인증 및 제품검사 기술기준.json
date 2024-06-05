@@ -1,0 +1,515 @@
+{
+  "law_id": "2100000242028",
+  "mst": "2100000242028",
+  "law_name": "가스계소화설비용 수동식 기동장치의 성능인증 및 제품검사 기술기준",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000242028",
+  "promulgation_no": "2024-25",
+  "promulgation_date": "20240605",
+  "enforcement_date": "20240605",
+  "revision_date": "20240605",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "소방청(소방산업진흥정책과)",
+    "담당자명": "김일수",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "가스계소화설비용 수동식 기동장치의 성능인증 및 제품검사 기술기준",
+    "발령일자": "20240605",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200401",
+    "조문형식여부": "Y",
+    "소관부처명": "소방청",
+    "전화번호": "044-205-7512",
+    "제개정구분명": "제정",
+    "소관부처코드": "1661000",
+    "생성일자": "20240605",
+    "행정규칙ID": "2082313",
+    "시행일자": "20240605",
+    "담당부서기관코드": "1661076",
+    "발령번호": "2024-25",
+    "행정규칙일련번호": "2100000242028",
+    "상위부처명": "소방청"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제정이유\n「이산화탄소소화설비의 화재안전기준」 및 「할로겐화합물소화설비의 화재안전기준」에서 규정하고 있는 \"가스계소화설비용 수동식 기동장치\"에 대한 성능인증 및 제품검사의 기술기준을 제정하여 소방용품으로서 갖추어야 할 안전성과 성능을 국가에서 담보하도록 함\n◇ 주요내용\n가. 기동장치의 구조 및 일반기능을 규정함(안 제3조)\n나. 보호장치 경고음 음량시험을 규정함(안 제4조)\n다. 합성수지류 외함의 내구성에 대해 규정함(안 제5조, 제6조)\n- 열변형시험, 난연성시험\n라. 가스계소화설비용 수동식 기동장치 성능시험기준을 규정함(안 제7조∼제14조)\n- 염수분무시험, 내식시험, 진동시험, 습도시험, 반복시험, 살수시험, 절연저항시험, 절연내력시험\n마. 기동장치에 표시해야 할 사항을 규정함(안 제15조)\n바. 재검토기한을 규정함(안 제17조)",
+  "body": {
+    "format": "articles",
+    "article_count": 18,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 기준은 「소방시설 설치 및 관리에 관한 법률」 제40조제4항 및 「소방용품의 품질관리 등에 관한 규칙」 제15조제1항에 따라 가스계소화설비용 수동식 기동장치의 성능인증 및 제품검사의 기술기준에 관한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「소방시설 설치 및 관리에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "소방시설 설치 및 관리에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소방시설 설치 및 관리에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:가스계소화설비용수동식기동장치의성능인증및제품검사기술기준#JO0001",
+            "reference_id": "law:소방시설설치및관리에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제40조제4항",
+            "line_text": "",
+            "target_law_name": "소방시설 설치 및 관리에 관한 법률",
+            "target_article_no": "제40조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소방시설 설치 및 관리에 관한 법률/제40조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:가스계소화설비용수동식기동장치의성능인증및제품검사기술기준#JO0001",
+            "reference_id": "law:소방시설설치및관리에관한법률#JO0040"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「소방용품의 품질관리 등에 관한 규칙」",
+            "line_text": "",
+            "target_law_name": "소방용품의 품질관리 등에 관한 규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소방용품의 품질관리 등에 관한 규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:가스계소화설비용수동식기동장치의성능인증및제품검사기술기준#JO0001",
+            "reference_id": "law:소방용품의품질관리등에관한규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제15조제1항",
+            "line_text": "",
+            "target_law_name": "소방용품의 품질관리 등에 관한 규칙",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소방용품의 품질관리 등에 관한 규칙/제15조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:가스계소화설비용수동식기동장치의성능인증및제품검사기술기준#JO0001",
+            "reference_id": "law:소방용품의품질관리등에관한규칙#JO0015"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:가스계소화설비용수동식기동장치의성능인증및제품검사기술기준#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "용어의 정의",
+        "chapter": "",
+        "content": "제2조(용어의 정의) 이 기준에서 사용하는 용어의 정의는 다음과 같다.1. \"가스계소화설비용 수동식 기동장치\"란 이산화탄소 및 할로겐화합물 등 가스계 소화약제를 사용하는 소화설비(이하 \"가스계소화설비\"라 한다)의 수동식 기동장치(이하 \"기동장치\"라 한다)를 말한다.2. \"기동스위치\"라 함은 가스계소화설비를 작동시키기 위하여 수동으로 전기적 기동신호를 소화설비 제어반(복합식수신기 등)으로 발신하기 위한 스위치를 말한다.3. \"방출지연지스위치\"라 함은 기동스위치의 작동에 의한 소화설비 제어장치의 지연 타이머가 작동되고 있을 때 타이머의 작동을 정지시키기 위한 신호를 발신하는 스위치를 말한다.4. \"보호장치\"라 함은 장난, 부주의 등 의도되지 않은 기동스위치의 작동을 방지하기 위하여 설치하는 장치를 말한다.5. \"방폭형\"이란 폭발성가스가 용기 내부에서 폭발하였을 때 용기가 그 압력에 견디거나 또는 외부의 폭발성가스에 인화될 우려가 없도록 만들어진 형태의 제품을 말한다.6. \"방수형\"이란 그 구조가 방수구조로 되어 있는 것을 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:가스계소화설비용수동식기동장치의성능인증및제품검사기술기준#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "구조 및 일반기능",
+        "chapter": "",
+        "content": "제3조(구조 및 일반기능) 기동장치의 구조 및 일반기능은 다음 각 호에 적합하여야 한다.1. 기동장치에는 보호장치를 설치하여야 하며 보호장치는 다음 각 목에 적합한 구조이어야 한다.가. 보호장치는 기동스위치를 덮는 구조로서 설치상태에서 기동스위치가 보이는 재질을 사용하여야 한다.나. 보호장치는 손으로 쉽게 열고 닫을 수 있어야 하며, 기동스위치를 조작하기 용이한 상태로 열릴 수 있는 구조이어야 한다.다. 보호장치를 여는 경우 기동장치에 설치된 부저, 벨 등에 의하여 경고음을 발하여야 하며, 보호장치를 닫는 경우 경고음이 정지되어야 한다.라. 다목의 기준에 의한 경고음이 단속음인 경우에는 울림:정지의 시간 비율이 2:1에서부터 1:1까지의 범위이어야 하며 정지시간은 2초 이하이어야 한다.2. 기동스위치는 수동으로 복귀하지 않는 한 지속되는 스위치를 사용하여야 하며 스위치의 작동방향으로 가하는 힘이 5 ㎏ 이하에서 작동되어 기동신호를 발신하여야 한다.3. 기동장치의 기동스위치 부근에는 자동복귀형의 방출지연스위치를 설치하여야 한다.4. 기동장치에는 전원상태를 표시하는 녹색등 및 기동스위치 작동을 표시하는 적색등을 설치하고 각각의 표시등 부근에는 용도(전원등, 기동등)를 표기하여야 하며, 소화약제의 방출을 표시하는 표시등을 설치하고자 하는 경우에는 적색등을 사용하고 부근에 용도(방출등)를 표기하여야 한다.5. 기동장치의 접속단자에 극성이 있는 경우에는 오접속을 방지하기 위하여 극성의 표기 등 필요한 조치를 하여야 한다.6. 기동장치는 사용자가 기동스위치 조작 시 상해를 주지 않는 구조이어야 한다.7. 기동장치의 회로기판 등 통전부는 외부에 노출되지 아니하도록 보호되는 구조이어야 한다. 다만, 외부 배선을 접속하는 단자 부분은 그러하지 아니하다.8. 기동장치 외함 두께는 강판을 사용하는 경우 1.2 밀리미터 이상이어야 하며 합성수지를 사용하는 경우 3 밀리미터 이상이어야 한다.9. 부식에 의하여 기계적 기능에 영향을 초래할 우려가 있는 부분은 칠, 도금 등으로 유효하게 내부식가공(耐腐蝕加工)을 하거나 방청[그림]가공을 하여야 하며, 전기적 기능에 영향이 있는 단자, 나사 및 와셔 등은 동합금이나 동등 이상의 내부식 성능이 있는 재질을 사용하여야 한다.10. 방폭형 기동장치는 「산업안전보건법」 제84조제1항 및 「산업안전보건법 시행령」 제74조에 따라 방폭구조 관련 안전인증 제품이어야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제84조제1항",
+            "line_text": "",
+            "target_law_name": "산업안전보건법",
+            "target_article_no": "제84조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법/제84조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:가스계소화설비용수동식기동장치의성능인증및제품검사기술기준#JO0003",
+            "reference_id": "law:산업안전보건법#JO0084"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「산업안전보건법 시행령」",
+            "line_text": "",
+            "target_law_name": "산업안전보건법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:가스계소화설비용수동식기동장치의성능인증및제품검사기술기준#JO0003",
+            "reference_id": "law:산업안전보건법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제74조",
+            "line_text": "",
+            "target_law_name": "산업안전보건법 시행령",
+            "target_article_no": "제74조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법 시행령/제74조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:가스계소화설비용수동식기동장치의성능인증및제품검사기술기준#JO0003",
+            "reference_id": "law:산업안전보건법시행령#JO0074"
+          }
+        ],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=140985811",
+            "seq": "140985811"
+          }
+        ],
+        "provision_id": "admrul:가스계소화설비용수동식기동장치의성능인증및제품검사기술기준#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "음량시험",
+        "chapter": "",
+        "content": "제4조(음량시험) 손으로 열고 닫을 수 있는 구조의 보호장치를 열었을 경우에 발하는 경고음의 음량은 기동장치의 중심과 1 미터 떨어진 위치에서 60 데시벨 이상이어야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:가스계소화설비용수동식기동장치의성능인증및제품검사기술기준#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "열변형시험",
+        "chapter": "",
+        "content": "제5조(열변형시험) 설치 시 외부에 노출되는 외함이 합성수지인 기동장치는 섭씨 (80 ± 2) 도의 온도에서 24시간 방치하는 경우 외함의 현저한 변형이 없어야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:가스계소화설비용수동식기동장치의성능인증및제품검사기술기준#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "난연성시험",
+        "chapter": "",
+        "content": "제6조(난연성시험) 합성수지류 외함은 UL 94 규정에 의한 V-2 이상의 난연성능이 있어야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:가스계소화설비용수동식기동장치의성능인증및제품검사기술기준#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "염수분무시험",
+        "chapter": "",
+        "content": "제7조(염수분무시험) 설치 시 외부에 노출되는 외함이 금속제인 기동장치의 외함은 KS D 9502(염수분무시험방법)의 중성염수분무시험에 의하여 5주기(1주기란 시험기의 운전시간 8시간, 정지방치시간 16시간을 가한 것)을 시험한 후 부식된 부분이 없어야 한다. 다만, 스테인레스강 등 내부식성 재질을 사용하는 경우에는 시험을 생략할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:가스계소화설비용수동식기동장치의성능인증및제품검사기술기준#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "내식시험",
+        "chapter": "",
+        "content": "제8조(내식시험) 기동장치는 5 리터의 시험기기중에 농도 40 g/L이 되는 티오황산나트륨 수용액 500 밀리리터를 넣고 1 규정농도의 황산 156 밀리러터를 물 1 리터에 용해한 용액을 1일 2회 10 밀리리터씩 가하여 발생하는 아황산가스 중에 4일간 방치하는 경우 기능에 이상이 없어야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:가스계소화설비용수동식기동장치의성능인증및제품검사기술기준#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "진동시험",
+        "chapter": "",
+        "content": "제9조(진동시험) ① 기동장치는 전원이 인가된 상태에서 IEC 60068-2-6의 시험방법에 따라 다음 각 호의 규정에 의한 진동을 가하는 경우 진동 중 잘못 작동되거나 시험 후 구조 및 기능에 이상이 없어야 한다.1. 주파수 범위 : (10 ∼ 150) ㎐2. 가속도 진폭 : 5 m/s23. 축수 : 34. 스위프 속도 : 1 옥타브/min5. 스위프 사이클 수 : 축 당 1② 기동장치는 전원을 인가하지 않은 상태에서 IEC 60068-2-6의 시험방법에 따라 다음 각 호의 규정에 의한 진동을 가하는 경우 구조 및 기능에 이상이 없어야 한다.1. 주파수 범위 : (10 ∼ 150) ㎐2. 가속도 진폭 : 10 m/s23. 축수 : 34. 스위프 속도 : 1 옥타브/min5. 스위프 사이클 수 : 축 당 20",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:가스계소화설비용수동식기동장치의성능인증및제품검사기술기준#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "습도시험",
+        "chapter": "",
+        "content": "제10조(습도시험) 기동장치는 주위온도 섭씨 (40 ± 3) 도, 상대습도 90 퍼센트 이상 95 퍼센트 이하의 상태에서 48시간 동안 방치하는 경우 구조 및 기능에 이상이 없어야 하며, 오작동되지 아니하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:가스계소화설비용수동식기동장치의성능인증및제품검사기술기준#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "반복시험",
+        "chapter": "",
+        "content": "제11조(반복시험) 기동스위치, 방출지연스위치, 보호장치 열림 경보용 스위치는 1,000회 반복시험을 실시하는 경우 기능에 이상이 없어야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:가스계소화설비용수동식기동장치의성능인증및제품검사기술기준#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "살수시험",
+        "chapter": "",
+        "content": "제12조(살수시험) 방수형인 것은 전원을 인가한 상태에서 사용 상태로 부착하고 맑은 물을 34.5 킬로파스칼의 압력으로 3개의 분무헤드를 이용하여 전면 상방에 (45 ± 2)도 각도의 방향에서 시료를 향하여 일률적으로 24시간 이상 물을 살수하는 경우에 내부에 물이 고이지 않아야 하며, 기능 및 절연저항시험에 이상이 없어야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:가스계소화설비용수동식기동장치의성능인증및제품검사기술기준#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "절연저항시험",
+        "chapter": "",
+        "content": "제13조(절연저항시험) 기동장치의 절연된 단자간 및 단자와 금속제 외함간의 절연저항은 직류 500 볼트의 절연저항계로 측정하는 경우 20 메가옴 이상이어야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:가스계소화설비용수동식기동장치의성능인증및제품검사기술기준#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "절연내력시험",
+        "chapter": "",
+        "content": "제14조(절연내력시험) 기동장치의 절연된 단자간 및 단자와 금속제 외함간에 60 헤르츠의 정현파에 가까운 실효전압 500 볼트의 교류전압을 1분간 인가하는 경우 누설전류가 1 밀리암페어 미만이어야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:가스계소화설비용수동식기동장치의성능인증및제품검사기술기준#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "표시사항",
+        "chapter": "",
+        "content": "제15조(표시사항) 기동장치에는 \"가스계소화설비용 수동식 기동장치\"를 전면에 명기하여야 하며 다음 각 호의 사항을 쉽게 지워지지 아니하도록 표시하여야 한다. 다만, 제7호는 별도의 취급설명서에 표시할 수 있다.1. 품명 및 형식2. 성능인증번호3. 정격전압4. 제조사명 및 전화번호5. 제조년월 및 제조번호6. 결선도 및 주의사항7. 설치방법 및 품질보증에 관한 사항8. 방폭형인 것은 \"방폭형\"이라는 문자 별도표시 및 방폭등급",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:가스계소화설비용수동식기동장치의성능인증및제품검사기술기준#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "시험세칙",
+        "chapter": "",
+        "content": "제16조(시험세칙) 「소방산업의 진흥에 관한 법률」 제14조에 따른 한국소방산업기술원은 이 기준의 운영방법, 성능시험방법 및 제품검사방법 등에 관한 세부사항인 시험세칙을 정하여 소방청장 승인을 받아 운영할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조",
+            "link_text": "「소방산업의 진흥에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "소방산업의 진흥에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소방산업의 진흥에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:가스계소화설비용수동식기동장치의성능인증및제품검사기술기준#JO0016",
+            "reference_id": "law:소방산업의진흥에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조",
+            "link_text": "제14조",
+            "line_text": "",
+            "target_law_name": "소방산업의 진흥에 관한 법률",
+            "target_article_no": "제14조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소방산업의 진흥에 관한 법률/제14조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:가스계소화설비용수동식기동장치의성능인증및제품검사기술기준#JO0016",
+            "reference_id": "law:소방산업의진흥에관한법률#JO0014"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:가스계소화설비용수동식기동장치의성능인증및제품검사기술기준#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제17조(재검토기한) 소방청장은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2024년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제17조",
+            "source_clause": "제17조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:가스계소화설비용수동식기동장치의성능인증및제품검사기술기준#JO0017",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:가스계소화설비용수동식기동장치의성능인증및제품검사기술기준#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "규제의 재검토",
+        "chapter": "",
+        "content": "제18조(규제의 재검토) 「행정규제기본법」 제8조 및 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제 431호)에 따라 2024년 1월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제18조",
+            "source_clause": "제18조",
+            "link_text": "「행정규제기본법」",
+            "line_text": "",
+            "target_law_name": "행정규제기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/행정규제기본법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:가스계소화설비용수동식기동장치의성능인증및제품검사기술기준#JO0018",
+            "reference_id": "law:행정규제기본법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제18조",
+            "source_clause": "제18조",
+            "link_text": "제8조",
+            "line_text": "",
+            "target_law_name": "행정규제기본법",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/행정규제기본법/제8조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:가스계소화설비용수동식기동장치의성능인증및제품검사기술기준#JO0018",
+            "reference_id": "law:행정규제기본법#JO0008"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제18조",
+            "source_clause": "제18조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:가스계소화설비용수동식기동장치의성능인증및제품검사기술기준#JO0018",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:가스계소화설비용수동식기동장치의성능인증및제품검사기술기준#JO0018"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20240605",
+      "promulgation_no": "2024-25",
+      "content": "부칙 <제2024-25호, 2024. 6. 5.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.제2조(성능인증의 경과조치) 이 기준의 시행 당시 「소방산업의 진흥에 관한 법률」 제14조에 따라 한국소방산업기술원으로부터 인증받은 제품은 이 기준 시행일로부터 1년 이내에 성능시험을 신청하는 경우 성능시험의 일부 또는 전부를 생략할 수 있다.제3조(제품검사의 경과조치) 이 기준 시행 당시 한국소방산업기술원으로부터 인증을 받아 제품검사에 합격된 제품에 대하여는 이 기준에 따라 제품검사에 합격된 것으로 본다."
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "제정안(가스계소화설비용 수동식 기동장치의 성능인증 및 제품검사의 기술기준).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=140917075",
+      "file_store_url": "",
+      "filename": "제정안(가스계소화설비용 수동식 기동장치의 성능인증 및 제품검사의 기술기준).hwp"
+    },
+    {
+      "name": "제정안(가스계소화설비용 수동식 기동장치의 성능인증 및 제품검사의 기술기준).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=140917079",
+      "file_store_url": "",
+      "filename": "제정안(가스계소화설비용 수동식 기동장치의 성능인증 및 제품검사의 기술기준).pdf"
+    },
+    {
+      "name": "(전문)가스계소화설비용 수동식 기동장치의 성능인증 및 제품검사의 기술기준 제정안.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=140917083",
+      "file_store_url": "",
+      "filename": "(전문)가스계소화설비용 수동식 기동장치의 성능인증 및 제품검사의 기술기준 제정안.hwp"
+    },
+    {
+      "name": "(전문)가스계소화설비용 수동식 기동장치의 성능인증 및 제품검사의 기술기준 제정안.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=140917087",
+      "file_store_url": "",
+      "filename": "(전문)가스계소화설비용 수동식 기동장치의 성능인증 및 제품검사의 기술기준 제정안.pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 13,
+    "by_category": {
+      "법령": 11,
+      "행정규칙": 2
+    },
+    "by_relation_type": {
+      "citation": 13
+    },
+    "articles_total": 18,
+    "articles_with_relations": 5,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/가스계소화설비용 수동식 기동장치의 성능인증 및 제품검사 기술기준"
+  },
+  "provision_id": "admrul:가스계소화설비용수동식기동장치의성능인증및제품검사기술기준#DOC"
+}
