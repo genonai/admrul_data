@@ -1,0 +1,516 @@
+{
+  "law_id": "2100000242722",
+  "mst": "2100000242722",
+  "law_name": "국립재활원 진료심의위원회 규정",
+  "law_abbr": "",
+  "law_type": "예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000242722",
+  "promulgation_no": "611",
+  "promulgation_date": "20240618",
+  "enforcement_date": "20240618",
+  "revision_date": "20240618",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국립재활원(사회복귀지원과)",
+    "담당자명": "박근우",
+    "행정규칙종류코드": "B0002",
+    "행정규칙명": "국립재활원 진료심의위원회 규정",
+    "발령일자": "20240618",
+    "행정규칙종류": "예규",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국립재활원",
+    "전화번호": "02-901-1646",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1352000",
+    "생성일자": "20240620",
+    "행정규칙ID": "2047470",
+    "시행일자": "20240618",
+    "담당부서기관코드": "1352712",
+    "발령번호": "611",
+    "행정규칙일련번호": "2100000242722",
+    "상위부처명": "보건복지부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정이유\n원내 감염병 발생 시 원활한 관리 및 대응을 위해 진료비 감면 관련 규정 및 절차를 일부 보완하고자 함\n◇ 주요내용\n가. 감염병 발생 시 진료비 감면 관련 규정 보완(제2조제2항)\n나. 진료비 감면 생략 절차 수정 및 보완(제7조)\n다. 비심의 대상자의 적용 대상과 감면신청 절차 일부 보완(별표1)\n라. 원 자체 감염관리를 위한 진료비 감면 대상 및 감면율 보완(별표2)",
+  "body": {
+    "format": "articles",
+    "article_count": 8,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규정은 「국립재활원 기본운영규정」 제85조의 규정에 의거, 진료평가 및 관리와 진료비 감면을 위한 심의기구로서 국립재활원 진료심의위원회(이하 \"위원회\"라 한다)의 조직과 운영에 관한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「국립재활원 기본운영규정」",
+            "line_text": "",
+            "target_law_name": "국립재활원 기본운영규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립재활원 기본운영규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립재활원진료심의위원회규정#JO0001",
+            "reference_id": "admrul:국립재활원기본운영규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제85조",
+            "line_text": "",
+            "target_law_name": "국립재활원 기본운영규정",
+            "target_article_no": "제85조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립재활원 기본운영규정/제85조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립재활원진료심의위원회규정#JO0001",
+            "reference_id": "admrul:국립재활원기본운영규정#JO0085"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립재활원진료심의위원회규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "기능",
+        "chapter": "",
+        "content": "제2조(기능) ① 원장의 자문에 응하며 병원의 책임진료 풍토를 조성하기 위하여 진료내용의 타당성 여부 및 종합적 평가를 위한 자체 진료 평가사항을 심의한다.② 위원회는 별표2의 적용 대상에 대한 진료비 감면을 심의한다.<개정 2024. 6. 18.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "별표2",
+            "line_text": "",
+            "target_law_name": "국립재활원 진료심의위원회 규정",
+            "target_article_no": "별표2",
+            "target_article_title": "진료비 감면 대상 및 감면율",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000242722&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립재활원진료심의위원회규정#JO0002",
+            "reference_id": "admrul:국립재활원진료심의위원회규정#BYL0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립재활원진료심의위원회규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "구성",
+        "chapter": "",
+        "content": "제3조(구성) ① 위원회는 위원장 1명과 위원 7명으로 구성하고 간사 2명을 둔다.② 위원회의 위원장은 재활병원부장이 되고, 위원은 총무과장, 사회복귀지원과장, 진료과장 3명, 약제과장, 간호과장으로 구성하고, 진료과장 위원은 위원장이 임명한다.③ 진료심의 등은 사회복귀지원과 사무관이, 진료비 감면사항은 총무과 원무 사무관이 담당한다.④ 위원회의 사무처리를 위하여 간사 2명을 두되, 진료심의 등에 관한 사항은 사회복귀지원과 행정주무, 진료비감면에 관한 사항은 총무과 원무 주무가 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립재활원진료심의위원회규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "위원장",
+        "chapter": "",
+        "content": "제4조(위원장) ① 위원장은 위원회의 회무를 관장하고 위원회를 대표한다.② 위원장 유고시 원장이 임명하는 위원이 그 직무를 대행한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립재활원진료심의위원회규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "직무",
+        "chapter": "",
+        "content": "제5조(직무) 이 위원회는 다음 사항을 심의한다.1. 진료관련 제반사항2. 적정 진료보장을 위한 심의3. 진료 및 투약의 적정 여부4. 진료비 감면에 관한 사항<개정 2024. 6. 18.>5. 신 의료기술 및 신규장비 도입에 따른 진료행위 추가도입 등에 관한 사항<개정 2024. 6. 18.>6. 신 의료기술 도입 시 임상권한 부여 등에 관한 사항<개정 2024. 6. 18.>7. 신 의료기술의 안정성ㆍ유효성 검토에 관한 사항<개정 2024. 6. 18.>8. 진료심의위원회규정의 개정 및 폐지에 관한 사항<개정 2024. 6. 18.>9. 기타 본 위원회의 심의가 필요하다고 인정되는 사항<개정 2024. 6. 18.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립재활원진료심의위원회규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "회의 및 의결",
+        "chapter": "",
+        "content": "제6조(회의 및 의결) ① 위원회 회의는 원장 또는 위원장이 필요하다고 인정할 때 이를 소집하고 위원장은 그 의장이 된다.② 회의는 재적위원 과반수 출석과 출석위원 과반수 찬성으로 의결하며, 가부동수인 경우에는 위원장이 결정한다.③ 간사는 진료비 감면 심의시 회의록을 작성하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립재활원진료심의위원회규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "진료비 감면",
+        "chapter": "",
+        "content": "제7조(진료비 감면) ① 진료비 감면의 세부 절차는 별표1에 의한다.<개정 2024. 6. 18.>② 별표2의 진료비 감면대상 중 제1호부터 제3호까지의 경우에는 별표1의 진료비 감면 절차 중 비심의 대상자의 절차에 따라 진료비 감면심의를 생략할 수 있고, 제4호의 경우에는 국민건강보험공단에서 수진자 자격을 조회하여 감면 해당사항을 확인한다.<신설 2024. 6. 18.>③ 제1항 및 제2항의 규정에도 불구하고 다음 각 호의 경우 진료비 감면에서 제외한다.<개정 2024. 6. 18.>1. 다른 법률(자동차보험, 산재보험 등)에 의한 요양급여시2. 제3자의 가해행위로 합의가 이루어진 경우④ 위원장은 진료비 감면 신청을 통보받았을 때는 1주일 이내에 진료비 감면 여부를 심의하여야 한다.<개정 2024. 6. 18.>⑤ 진료비 감면 대상자는 처방전달시스템(또는 전자의무기록)으로 관리한다.<신설 2024. 6. 18.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "별표1",
+            "line_text": "",
+            "target_law_name": "국립재활원 진료심의위원회 규정",
+            "target_article_no": "별표1",
+            "target_article_title": "진료비 감면 절차",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000242722&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립재활원진료심의위원회규정#JO0007",
+            "reference_id": "admrul:국립재활원진료심의위원회규정#BYL0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "별표2",
+            "line_text": "",
+            "target_law_name": "국립재활원 진료심의위원회 규정",
+            "target_article_no": "별표2",
+            "target_article_title": "진료비 감면 대상 및 감면율",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000242722&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립재활원진료심의위원회규정#JO0007",
+            "reference_id": "admrul:국립재활원진료심의위원회규정#BYL0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "별표1",
+            "line_text": "",
+            "target_law_name": "국립재활원 진료심의위원회 규정",
+            "target_article_no": "별표1",
+            "target_article_title": "진료비 감면 절차",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000242722&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립재활원진료심의위원회규정#JO0007",
+            "reference_id": "admrul:국립재활원진료심의위원회규정#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립재활원진료심의위원회규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "보고",
+        "chapter": "",
+        "content": "제8조(보고) ① 위원장은 회의에서 의결된 사항을 지체없이 원장에게 보고하여야 한다.② 위원장은 제2조 제1항과 관련된 회의 결과를 관련부서에 통보하며, 제2조 제2항과 관련된 진료비 감면에 대한 회의결과는 총무과로 통보하여 진료비 감면이 이루어지도록 적합한 조치를 취하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제2항",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "국립재활원 진료심의위원회 규정",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립재활원 진료심의위원회 규정/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립재활원진료심의위원회규정#JO0008",
+            "reference_id": "admrul:국립재활원진료심의위원회규정#JO0002"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제2항",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "국립재활원 진료심의위원회 규정",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립재활원 진료심의위원회 규정/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립재활원진료심의위원회규정#JO0008",
+            "reference_id": "admrul:국립재활원진료심의위원회규정#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립재활원진료심의위원회규정#JO0008"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20090403",
+      "promulgation_no": "266",
+      "content": "부칙 <제266호,2009. 4. 3.>이 규정은 2009년 4월 3일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20120905",
+      "promulgation_no": "371",
+      "content": "부칙 <제371호,2012. 9. 5.>이 규정은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20131011",
+      "promulgation_no": "382",
+      "content": "부칙 <제382호,2013. 10. 11.>이 규정은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20150717",
+      "promulgation_no": "419",
+      "content": "부칙 <제419호,2015. 7. 17.>이 규정은 공포한 날부터 시행한다"
+    },
+    {
+      "promulgation_date": "20180105",
+      "promulgation_no": "465",
+      "content": "부칙 <제465호,2018. 1. 5.>이 규정은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20180306",
+      "promulgation_no": "473",
+      "content": "부칙 <제473호,2018. 3. 6.>이 규정은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20180529",
+      "promulgation_no": "488",
+      "content": "부칙 <제488호,2018. 5. 29.>이 규정은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20220104",
+      "promulgation_no": "577",
+      "content": "부칙 <제577호, 2022. 1. 4.>이 규정은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20230911",
+      "promulgation_no": "604",
+      "content": "부칙 <제604호, 2023. 9. 11.>이 규정은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20240618",
+      "promulgation_no": "611",
+      "content": "부칙 <제611호, 2024. 6. 18.>이 규정은 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "진료비 감면 절차",
+      "enforcement_date": "",
+      "content": "[별표 1]<개정 2024. 6. 18.>\n진료비 감면 절차\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━┓\n┃심의 대상자                                           │ 비심의 대상자                      ┃\n┣━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━┫\n┃ ┌────────────┐                         │┌────────────────┐┃\n┃ │진료비감면신청서 접수   │                         ││진료비감면신청서                │┃\n┃ │(주치의/수간호사)       │                         ││접수[별표2]적용대상             │┃\n┃ └────────────┘                         ││제1호∼제3호                    │┃\n┃   ?                                                 ││(총무과/원무계)                 │┃\n┃ ┌────────────┐  ┌─────────┐ ││비심의 대상의 경우 원무계에 메  │┃\n┃ │심의 대상자 판정 위한   │?│기준미달 통보     │ ││모보고 또는 공문으로 감면 신청  │┃\n┃ │진료비감면심사평가 및   │  │(주치의/수간호사) │ ││하며, 사안이 시급한 경우 선조치 │┃\n┃ │진료비감면신청대장 관리 │  │                  │ ││후 가능한 3일 이내 사후 신청    │┃\n┃ │(사회복귀지원과)        │  │                  │ │└────────────────┘┃\n┃ └────────────┘  └─────────┘ │  ?                                ┃\n┃   ?                                                 │┌────────────────┐┃\n┃ ┌────────────┐                         ││국민건강보험공단                │┃\n┃ │심의대상자              │                         ││자격조회(환자)                  │┃\n┃ │진료심의위원회 통보     │                         ││(총무과/원무계)                 │┃\n┃ │(총무과/원무계 간사)    │                         │└────────────────┘┃\n┃ └────────────┘                         │  ?                                ┃\n┃   ?                                                 │┌────────────────┐┃\n┃ ┌────────────┐  ┌─────────┐ ││즉시 감면                       │┃\n┃ │진료심의위원회          │?│진료심의위원회    │ ││(총무과/원무계)                 │┃\n┃ │진료비감면심의          │  │결과통보          │ │└────────────────┘┃\n┃ │                        │  │(사회복귀지원과   │ │                                    ┃\n┃ │                        │  │/주치의 등)       │ │                                    ┃\n┃ └────────────┘  └─────────┘ │                                    ┃\n┃   ?                                                 │                                    ┃\n┃ ┌────────────┐                         │                                    ┃\n┃ │진료비감면대상자        │                         │                                    ┃\n┃ │의결시 진료비 정산      │                         │                                    ┃\n┃ │(총무과/원무계)         │                         │                                    ┃\n┃ └────────────┘                         │                                    ┃\n┃   ?                                                 │                                    ┃\n┃ ┌────────────┐                         │                                    ┃\n┃ │진료비감면 결과 통보    │                         │                                    ┃\n┃ │(감면신청자)            │                         │                                    ┃\n┃ └────────────┘                         │                                    ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000242722&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141405695",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141405691",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141405695",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립재활원진료심의위원회규정#BYL0001",
+      "filename": "별표1_진료비 감면 절차.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "진료비 감면 대상 및 감면율",
+      "enforcement_date": "",
+      "content": "[별표 2]<개정 2024. 6. 18.>\n진료비 감면 대상 및 감면율\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━┯━━━┓\n┃                                                        │요양급여      │비급여┃\n┃                                        감면범위        ├───────┴───┨\n┃    적용대상                                            │본인부담금            ┃\n┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━┫\n┃1. 직무 중 감염과 안전사고 등의 치료 및 예방을 위한 검  │100%                  ┃\n┃사·처치, 감염병 예방을 위한 백신 접종 등이 필요한 자   │                      ┃\n┃로서                                                    │                      ┃\n┃ - 국립재활원 직원(공보의), 전공의 및 기간제 근로자     │                      ┃\n┃ - 국립재활원 사회복무요원                              │                      ┃\n┠────────────────────────────┼───────────┨\n┃ - 국립재활원에서 상시 근무하는 용역업체의 직원         │50%                   ┃\n┠────────────────────────────┼───────────┨\n┃2. 직무 중 감염, 안전사고 등의 치료가 필요한 자로서     │50%                   ┃\n┃  - 국립재활원 수련규정에서 정한 실습생                 │                      ┃\n┠────────────────────────────┼───────────┨\n┃3. 기관 내 감염병 발생 시 예방 및 치료를 위한 노출자로서│100%                  ┃\n┃  -국립재활원 감염관리실에서 역학적 연관성이 확인된 노출│                      ┃\n┃자(환자, 보호자·간병인 포함)                           │                      ┃\n┠────────────────────────────┼───────┬───┨\n┃4. 진료비 감면 심사평가표의 선정기준에 부합하는 자      │진료심의      │제외  ┃\n┃                                                        │위원회        │      ┃\n┃                                                        │결정액        │      ┃\n┃                                                        │※개인당 연간 │      ┃\n┃                                                        │100만원을     │      ┃\n┃                                                        │ 넘지 않는    │      ┃\n┃                                                        │범위 내에서   │      ┃\n┃                                                        │감면한다.     │      ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━┷━━━┛\n* 적용 제외 대상\n1. 다른 법령에 따라 본인부담금 감면 등의 요양급여를 받은 자에 대해서는 당해 상당금액을  제외한 범위 내에서 본 규정을 적용한다.\n2. 비급여 재료대(약품대 포함)와 식대는 감면 대상에서 제외한다.\n3. 한방 비급여 중 첩약(보약 포함), 환제, 엑스제는 감면 대상에서 제외한다.\n다만 첩약(보약 포함) 조제료는 상기 감면율을 적용한다.\n4. 단, 제1항과 관련되어 각종 증명(수수료 등)이 필요한 경우는 감면대상에 포함한다.",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000242722&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141405701",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141405697",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141405701",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립재활원진료심의위원회규정#BYL0002",
+      "filename": "별표2_진료비 감면 대상 및 감면율.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "진료비 감면 신청서",
+      "enforcement_date": "",
+      "content": "[별지 제1호 서식]<개정 2018. 1. 5.>\n진료비 감면 신청서\n국립재활원 진료심의위원회 규정 제2조에 의하여 아래와 같이 진료비 감면을 받고자 신청하오니 조치하여 주시기 바랍니다.\n1. 감면대상자 인적사항\n┏━━━┯━━━━┯━━━━━━┯━━┯━━━┓\n┃성  명│생년월일│주  소      │감면│진료과┃\n┃      │        │            │대상│      ┃\n┃      │        │            │구분│      ┃\n┣━━━┿━━━━┿━━━━━━┿━━┿━━━┫\n┃      │        │            │    │      ┃\n┃      │        │전화번호 :  │    │      ┃\n┗━━━┷━━━━┷━━━━━━┷━━┷━━━┛\n\n2. 확인 서류\n가. 직원(공보의), 전공의 및 기간제근로자 : 재직증명서 또는 기타 재직을 확인할 수 있는 서류\n나. 실습생 : 재활병원부장의 확인서\n다. 사회근무요원 : 복무확인서 또는 사회근무요원증 사본\n라. 용역업체의 직원 : 우리원 관계자가 확인 서명한 용역업체 재직증명서\n마. 직무 중 감염, 안전사고 및 예방접종 등 관련자 : 직무 중 사고보고서 등\n바. 저소득층과 새터민, 다문화가정의 장애인 등 : 공공기관 발행 증명서류, 진료비감면심사평가표 등\n※ 상병명이 달라질 경우 매번 신청서를 작성하여야 합니다.\n20    .    .    .\n신청인 :            (인)\n국립재활원장 귀하",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141405707",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141405703",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141405707",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립재활원진료심의위원회규정#BJ0001",
+      "filename": "별지1_진료비 감면 신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "진료비감면신청대장",
+      "enforcement_date": "",
+      "content": "[별지 제2호 서식]<개정 2018. 1. 5.>\n진 료 비 감 면 신 청 대 장\n┏━━┯━━━┯━━┯━━━┯━━┯━━━┯━━━━┯━━━┯━━━━┯━━━━━┯━━┓\n┃번호│성 명 │등록│주치의│보험│진료비│사회    │심의  │심의    │원무계    │비고┃\n┃    │      │번호│      │사항│감면  │사업실  │위원회│위원회  │ 및 본인  │    ┃\n┃    │      │    │      │    │신청일│평가일  │통보일│심의결과│통보일    │    ┃\n┣━━┿━━━┿━━┿━━━┿━━┿━━━┿━━━━┿━━━┿━━━━┿━━━━━┿━━┫\n┃    │      │    │      │    │      │        │      │        │          │    ┃\n┠──┼───┼──┼───┼──┼───┼────┼───┼────┼─────┼──┨\n┃    │      │    │      │    │      │        │      │        │          │    ┃\n┠──┼───┼──┼───┼──┼───┼────┼───┼────┼─────┼──┨\n┃    │      │    │      │    │      │        │      │        │          │    ┃\n┠──┼───┼──┼───┼──┼───┼────┼───┼────┼─────┼──┨\n┃    │      │    │      │    │      │        │      │        │          │    ┃\n┠──┼───┼──┼───┼──┼───┼────┼───┼────┼─────┼──┨\n┃    │      │    │      │    │      │        │      │        │          │    ┃\n┠──┼───┼──┼───┼──┼───┼────┼───┼────┼─────┼──┨\n┃    │      │    │      │    │      │        │      │        │          │    ┃\n┠──┼───┼──┼───┼──┼───┼────┼───┼────┼─────┼──┨\n┃    │      │    │      │    │      │        │      │        │          │    ┃\n┠──┼───┼──┼───┼──┼───┼────┼───┼────┼─────┼──┨\n┃    │      │    │      │    │      │        │      │        │          │    ┃\n┠──┼───┼──┼───┼──┼───┼────┼───┼────┼─────┼──┨\n┃    │      │    │      │    │      │        │      │        │          │    ┃\n┠──┼───┼──┼───┼──┼───┼────┼───┼────┼─────┼──┨\n┃    │      │    │      │    │      │        │      │        │          │    ┃\n┠──┼───┼──┼───┼──┼───┼────┼───┼────┼─────┼──┨\n┃    │      │    │      │    │      │        │      │        │          │    ┃\n┠──┼───┼──┼───┼──┼───┼────┼───┼────┼─────┼──┨\n┃    │      │    │      │    │      │        │      │        │          │    ┃\n┠──┼───┼──┼───┼──┼───┼────┼───┼────┼─────┼──┨\n┃    │      │    │      │    │      │        │      │        │          │    ┃\n┠──┼───┼──┼───┼──┼───┼────┼───┼────┼─────┼──┨\n┃    │      │    │      │    │      │        │      │        │          │    ┃\n┠──┼───┼──┼───┼──┼───┼────┼───┼────┼─────┼──┨\n┃    │      │    │      │    │      │        │      │        │          │    ┃\n┠──┼───┼──┼───┼──┼───┼────┼───┼────┼─────┼──┨\n┃    │      │    │      │    │      │        │      │        │          │    ┃\n┠──┼───┼──┼───┼──┼───┼────┼───┼────┼─────┼──┨\n┃    │      │    │      │    │      │        │      │        │          │    ┃\n┠──┼───┼──┼───┼──┼───┼────┼───┼────┼─────┼──┨\n┃    │      │    │      │    │      │        │      │        │          │    ┃\n┠──┼───┼──┼───┼──┼───┼────┼───┼────┼─────┼──┨\n┃    │      │    │      │    │      │        │      │        │          │    ┃\n┠──┼───┼──┼───┼──┼───┼────┼───┼────┼─────┼──┨\n┃    │      │    │      │    │      │        │      │        │          │    ┃\n┗━━┷━━━┷━━┷━━━┷━━┷━━━┷━━━━┷━━━┷━━━━┷━━━━━┷━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141405753",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141405709",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141405753",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립재활원진료심의위원회규정#BJ0002",
+      "filename": "별지2_진료비감면신청대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "진료비 감면 심사평가표",
+      "enforcement_date": "",
+      "content": "[별지 제3호 서식]<개정 2022.1.4., 2023.9.11.>\n진료비 감면 심사평가표\n┏━━━━┯━┯━━━┯━┯━━┯┯━━━┯━━━━━━━━┓\n┃등록번호│  │성 명 │  │진료││평가일│                ┃\n┃        │  │      │  │과  ││      │                ┃\n┣━━━━┿━┷━━━┷━┷━━┷┷━━━┷━━━━━━━━┫\n┃의료적  │ 진단명                                         ┃\n┃상황    ├────────────────────────┨\n┃        │ 기능상황                                       ┃\n┣━━━━┿━━━━━━━━━━━┯━━━━━━━━━┯━━┫\n┃구분    │내용                  │배점표            │평가┃\n┃        │                      ├──┬───┬──┤점수┃\n┃        │                      │총배│등급  │배점│    ┃\n┃        │                      │점  │      │    │    ┃\n┠────┼───────────┼──┼───┼─┬┼──┨\n┃경제적  │① 국민기초생활수급자 │20  │해당  │20││    ┃\n┃상황    ├───────────┤    │      │  ││    ┃\n┃(20점)  │② 기준중위소득 100% 미만│    ├───┼─┼┤    ┃\n┃        ├───────────┤    │해당  │15││    ┃\n┃        │③ 기준중위소득 100% 이상│    ├───┼─┼┤    ┃\n┃        │                      │    │해당  │10││    ┃\n┣━━━━┿━━━━━━━━━━━┿━━┿━━━┿━┿┿━━┫\n┃가족    │① 독거노인(65세 이상), 한부모 가족의 미성년자, │50  │해당  │10││    ┃\n┃상황    │다문화 가족, 북한이탈주민인 경우│    │      │  ││    ┃\n┃(50점)  ├───────────┤    ├───┼─┼┤    ┃\n┃        │② 환자 외 동거가족 중 장애인 및 중증환자가 있는 경우│    │해당  │10││    ┃\n┃        ├───────────┤    ├───┼─┼┤    ┃\n┃        │③ 근로소득이 없음    │    │해당  │10││    ┃\n┃        ├───────────┤    ├───┼─┼┤    ┃\n┃        │④ 확대가족 및 주위의 경제적, 인적 지원 불가능│    │해당  │10││    ┃\n┃        ├───────────┤    ├───┼─┼┤    ┃\n┃        │⑤ 지출 요소(부채, 교육비 등) 있음│    │해당  │10││    ┃\n┣━━━━┿━━━━━━━━━━━┿━━┿━━━┿━┿┿━━┫\n┃        │① 사회복귀 여부      │10  │가정  │10││    ┃\n┃지역사회│                      │    ├───┼─┼┤    ┃\n┃연계    │                      │    │낮병동│10││    ┃\n┃(30점)  │                      │    │(준)  │  ││    ┃\n┃        ├───────────┼──┼───┼─┼┤    ┃\n┃        │② 지역사회 협력기관에서 의뢰된 취약계층│20  │해당  │20││    ┃\n┣━━━━┿┯━━━━━┯━━━━┿━━┷━━━┷━┷┿━━┫\n┃작성일  ││평가자    │        │합계              │    ┃\n┗━━━━┷┷━━━━━┷━━━━┷━━━━━━━━━┷━━┛\n1. 가족상황은 중복 평가 가능\n2. 대상 환자의 인지기능 등의 장애로 재활의지 평가가 어려운 경우, 주부양자의 의지 및 태도를 평가한다.\n3. 70점 이상일 경우 심의대상자 선정(단, 70점 미만이라 하더라도 위원회에서 특별히 필요하다고 인정할 경우 선정할 수 있다)\n4. 기준중위소득은 감면신청 전월기준 건강보험료를 기준으로 한다.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141405759",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141405755",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141405759",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립재활원진료심의위원회규정#BJ0003",
+      "filename": "별지3_진료비 감면 심사평가표.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "[전문 및 별지] 국립재활원 진료심의위원회 규정(국립재활원예규)(제611호)(20240618).zip",
+      "url": "http://law.go.kr/flDownload.do?flSeq=141390975",
+      "file_store_url": "",
+      "filename": "[전문 및 별지] 국립재활원 진료심의위원회 규정(국립재활원예규)(제611호)(20240618).zip"
+    },
+    {
+      "name": "국립재활원 진료심의위원회규정 일부개정.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=141405309",
+      "file_store_url": "",
+      "filename": "국립재활원 진료심의위원회규정 일부개정.hwpx"
+    },
+    {
+      "name": "국립재활원 진료심의위원회규정 일부개정.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=141405313",
+      "file_store_url": "",
+      "filename": "국립재활원 진료심의위원회규정 일부개정.pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 8,
+    "by_category": {
+      "행정규칙": 4,
+      "별표": 4
+    },
+    "by_relation_type": {
+      "citation": 2,
+      "appendix_ref": 4,
+      "internal_ref": 2
+    },
+    "articles_total": 8,
+    "articles_with_relations": 4,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 10,
+    "appendices_count": 5,
+    "attachments_count": 3
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/국립재활원 진료심의위원회 규정"
+  },
+  "provision_id": "admrul:국립재활원진료심의위원회규정#DOC"
+}
