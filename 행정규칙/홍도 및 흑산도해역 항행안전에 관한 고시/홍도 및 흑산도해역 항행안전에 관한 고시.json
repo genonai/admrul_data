@@ -1,0 +1,316 @@
+{
+  "law_id": "2100000242978",
+  "mst": "2100000242978",
+  "law_name": "홍도 및 흑산도해역 항행안전에 관한 고시",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000242978",
+  "promulgation_no": "2024-56",
+  "promulgation_date": "20240624",
+  "enforcement_date": "20240624",
+  "revision_date": "20240624",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "목포지방해양수산청(선원해사안전과)",
+    "담당자명": "이재운",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "홍도 및 흑산도해역 항행안전에 관한 고시",
+    "발령일자": "20240624",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "목포지방해양수산청",
+    "전화번호": "061-280-1659",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1192000",
+    "생성일자": "20240625",
+    "행정규칙ID": "63847",
+    "시행일자": "20240624",
+    "담당부서기관코드": "1192423",
+    "발령번호": "2024-56",
+    "행정규칙일련번호": "2100000242978",
+    "상위부처명": "해양수산부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\nㅇ「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따른 재검토기한이 도래하여 동 고시를 현 실정에 맞게 개선하고자 함\n◇ 주요내용\nㅇ「해사안전법」분법에 따라 근거 법령을「해사안전법」에서「해상교통안전법」으로 변경",
+  "body": {
+    "format": "articles",
+    "article_count": 5,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목 적",
+        "chapter": "",
+        "content": "제1조(목 적) 이 고시는 「해상교통안전법」 제30조의 규정에 의하여 특정해역이 아닌 해역으로서 해양사고가 발생할 위험이 많다고 인정되는 해역을 항행하는 선박의 안전에 관한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「해상교통안전법」",
+            "line_text": "",
+            "target_law_name": "해상교통안전법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/해상교통안전법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:홍도및흑산도해역항행안전에관한고시#JO0001",
+            "reference_id": "law:해상교통안전법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제30조",
+            "line_text": "",
+            "target_law_name": "해상교통안전법",
+            "target_article_no": "제30조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/해상교통안전법/제30조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:홍도및흑산도해역항행안전에관한고시#JO0001",
+            "reference_id": "law:해상교통안전법#JO0030"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:홍도및흑산도해역항행안전에관한고시#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적 용",
+        "chapter": "",
+        "content": "제2조(적 용) 이 고시는 홍도 및 흑산도 해역을 항행하는 모든 선박에 대하여 적용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:홍도및흑산도해역항행안전에관한고시#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "지정항로의 준수 등",
+        "chapter": "",
+        "content": "제3조(지정항로의 준수 등) ① 선박이[별표1]의 지정항로를 따라 항행할 경우에는 그 항행 방향에 따라야 하며, 실행가능한 한 지정항로의 오른편 끝쪽으로 항행하여야 한다.② 선박이 지정항로를 따라 항행 할 때에는[별표2]의 항법을 준수하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "별표1",
+            "line_text": "",
+            "target_law_name": "홍도 및 흑산도해역 항행안전에 관한 고시",
+            "target_article_no": "별표1",
+            "target_article_title": "지정항로 (WGS-84)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000242978&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:홍도및흑산도해역항행안전에관한고시#JO0003",
+            "reference_id": "admrul:홍도및흑산도해역항행안전에관한고시#BYL0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "별표2",
+            "line_text": "",
+            "target_law_name": "홍도 및 흑산도해역 항행안전에 관한 고시",
+            "target_article_no": "별표2",
+            "target_article_title": "지정항로내 항법",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000242978&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:홍도및흑산도해역항행안전에관한고시#JO0003",
+            "reference_id": "admrul:홍도및흑산도해역항행안전에관한고시#BYL0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:홍도및흑산도해역항행안전에관한고시#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "지정항로 이외의 항로",
+        "chapter": "",
+        "content": "제4조(지정항로 이외의 항로) 지정항로를 항행하지 아니하는 선박은 지정항로로부터 충분히 떨어져서 항행하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:홍도및흑산도해역항행안전에관한고시#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제5조(재검토기한) 목포지방해양수산청장은 이 고시에 대하여「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2024년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 해야한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:홍도및흑산도해역항행안전에관한고시#JO0005",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:홍도및흑산도해역항행안전에관한고시#JO0005"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20180327",
+      "promulgation_no": "2018-21",
+      "content": "부칙 <제2018-21호,2018. 3. 27.>이 고시는 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20210614",
+      "promulgation_no": "2021-54",
+      "content": "부칙 <제2021-54호, 2021. 6. 14.>이 고시는 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20240624",
+      "promulgation_no": "2024-56",
+      "content": "부칙 <제2024-56호, 2024. 6. 24.>이 고시는 공포한 날로부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "지정항로 (WGS-84)",
+      "enforcement_date": "",
+      "content": "【별표 1】지정항로 (WGS-84)\n┏━━━━━━┯━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━┯━━━┓\n┃지정항로명  │구 분     │적 용 수 역                                   │비 고 ┃\n┣━━━━━━┿━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━┿━━━┫\n┃            │          │                                              │      ┃\n┃            │          │                                              │      ┃\n┃홍도 제1항로│서항로    │다음 각호의 기점을 순차적으로 연결한 선내수역 │      ┃\n┃            │          │                                              │      ┃\n┃            │          │(1) 34° 43′54″N,   125° 12′15″E         │      ┃\n┃            │          │(2) 34° 43′57″N,   125° 11′45″E         │      ┃\n┃            │          │(3) 34° 43′34″N,   125° 10′41″E         │      ┃\n┃            │          │(4) 34° 43′28″N,   125° 10′50″E         │      ┃\n┃            │          │(5) 34° 43′49″N,   125° 11′43″E         │      ┃\n┃            │          │(6) 34° 43′46″N,   125° 12′14″E         │      ┃\n┃            ├─────┼───────────────────────┼───┨\n┃            │          │                                              │      ┃\n┃            │          │                                              │      ┃\n┃            │동항로    │다음 각호의 기점을 순차적으로 연결한 선내수역 │      ┃\n┃            │          │(1) 34° 43′43″N,   125° 12′15″E         │      ┃\n┃            │          │(2) 34° 43′47″N,   125° 11′43″E         │      ┃\n┃            │          │(3) 34° 43′25″N,   125° 10′53″E         │      ┃\n┃            │          │(4) 34° 43′19″N,   125° 11′02″E         │      ┃\n┃            │          │(5) 34° 43′38″N,   125° 11′43″E         │      ┃\n┃            │          │(6) 34° 43′34″N,   125° 12′14″E         │      ┃\n┃            ├─────┼───────────────────────┼───┨\n┃            │          │                                              │      ┃\n┃            │          │                                              │      ┃\n┃            │분리대    │다음 각호의 기점을 순차적으로 연결한 선내수역 │      ┃\n┃            │          │(1) 34° 43′43″N,   125° 12′15″E         │      ┃\n┃            │          │(2) 34° 43′47″N,   125° 11′43″E         │      ┃\n┃            │          │(3) 34° 43′25″N,   125° 10′53″E         │      ┃\n┃            │          │(4) 34° 43′28″N,   125° 10′50″E         │      ┃\n┃            │          │(5) 34° 43′49″N,   125° 11′43″E         │      ┃\n┃            │          │(6) 34° 43′46″N,   125° 12′14″E         │      ┃\n┠──────┼─────┼───────────────────────┼───┨\n┃            │          │                                              │      ┃\n┃            │          │                                              │      ┃\n┃홍도제2항로 │동항로    │다음 각호의 기점을 순차적으로 연결한 선내수역 │      ┃\n┃            │(일방항로)│(1) 34° 43′24″N,   125° 12′06″E         │      ┃\n┃            │          │(2) 34° 43′03″N,   125° 11′53″E         │      ┃\n┃            │          │(3) 34° 42′59″N,   125° 12′02″E         │      ┃\n┃            │          │(4) 34° 43′21″N,   125° 12′13″E         │      ┃\n┗━━━━━━┷━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━┷━━━┛\n┏━━━━━━━┯━━━┯━━━━━━━━━━━━━━━━━━━━━━━┯━━━┓\n┃지정항로명    │구 분 │적 용 수 역                                   │비 고 ┃\n┣━━━━━━━┿━━━┿━━━━━━━━━━━━━━━━━━━━━━━┿━━━┫\n┃              │      │                                              │      ┃\n┃              │      │                                              │      ┃\n┃흑산항로      │서항로│다음 각호의 기점을 순차적으로 연결한 선내수역 │      ┃\n┃              │      │(1) 34° 42′38″N,   125° 28′08″E         │      ┃\n┃              │      │(2) 34° 42′38″N,   125° 27′36″E         │      ┃\n┃              │      │(3) 34° 42′31″N,   125° 27′36″E         │      ┃\n┃              │      │(4) 34° 42′31″N,   125° 28′08″E         │      ┃\n┃              ├───┼───────────────────────┼───┨\n┃              │      │                                              │      ┃\n┃              │      │                                              │      ┃\n┃              │동항로│다음 각호의 기점을 순차적으로 연결한 선내수역 │      ┃\n┃              │      │(1) 34° 41′57″N,   125° 27′33″E         │      ┃\n┃              │      │(2) 34° 41′52″N,   125° 27′29″E         │      ┃\n┃              │      │(3) 34° 41′38″N,   125° 27′54″E         │      ┃\n┃              │      │(4) 34° 41′44″N,   125° 27′58″E         │      ┃\n┠───────┼───┼───────────────────────┼───┨\n┃              │      │                                              │      ┃\n┃              │      │                                              │      ┃\n┃흑산/홍도항로 │서항로│다음 각호의 기점을 순차적으로 연결한 선내수역 │      ┃\n┃              │      │(1) 34° 42′38″N,   125° 26′37″E         │      ┃\n┃              │      │(2) 34° 42′41″N,   125° 26′06″E         │      ┃\n┃              │      │(3) 34° 42′33″N,   125° 26′04″E         │      ┃\n┃              │      │(4) 34° 42′30″N,   125° 26′36″E         │      ┃\n┃              ├───┼───────────────────────┼───┨\n┃              │      │                                              │      ┃\n┃              │      │                                              │      ┃\n┃              │동항로│다음 각호의 기점을 순차적으로 연결한 선내수역 │      ┃\n┃              │      │(1) 34° 42′27″N,   125° 26′36″E         │      ┃\n┃              │      │(2) 34° 42′29″N,   125° 26′05″E         │      ┃\n┃              │      │(3) 34° 42′21″N,   125° 26′03″E         │      ┃\n┃              │      │(4) 34° 42′19″N,   125° 26′35″E         │      ┃\n┃              ├───┼───────────────────────┼───┨\n┃              │      │                                              │      ┃\n┃              │      │                                              │      ┃\n┃              │분리대│다음 각호의 기점을 순차적으로 연결한 선내수역 │      ┃\n┃              │      │(1) 34° 42′30″N,   125° 26′36″E         │      ┃\n┃              │      │(2) 34° 42′33″N,   125° 26′05″E         │      ┃\n┃              │      │(3) 34° 42′29″N,   125° 26′04″E         │      ┃\n┃              │      │(4) 34° 42′27″N,   125° 26′36″E         │      ┃\n┗━━━━━━━┷━━━┷━━━━━━━━━━━━━━━━━━━━━━━┷━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000242978&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141498261",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141498255",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141498261",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:홍도및흑산도해역항행안전에관한고시#BYL0001",
+      "filename": "별표1_지정항로 (WGS-84).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "지정항로내 항법",
+      "enforcement_date": "",
+      "content": "【별표 2】지정항로내 항법\n┏━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━┯━━━┓\n┃지정항로      │적 용 수 역                                     │비 고 ┃\n┣━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━┿━━━┫\n┃              │                                                │      ┃\n┃              │                                                │      ┃\n┃홍도 제1,2항로│1. 홍도항을 입항하고자 할 때에는 홍도제1항로의  │      ┃\n┃              │서항로로 운항하여야 하고, 출항하고자 할 때에는  │      ┃\n┃              │동항로를 항행하는 것을 원칙으로 한다.           │      ┃\n┃              │2. 제1호의 규정에 불구하고 선박안전운항이 가능  │      ┃\n┃              │하다고 판단되는 경우에 한하여 홍도제2항로를     │      ┃\n┃              │이용하여 출항할 수도 있다.                      │      ┃\n┃              │3. 지정항로 부근을 항행하는 선박은 지정항로를   │      ┃\n┃              │이용하여 항행하는 선박의 항행을 방해하지 아니   │      ┃\n┃              │하여야 하며, 항로내에서는 타선박과의 안전거리를 │      ┃\n┃              │유지하여 위험상황 발생시 적절한 거리에서 조치를 │      ┃\n┃              │취할 수 있도록 하여야 한다.                     │      ┃\n┠───────┼────────────────────────┼───┨\n┃              │                                                │      ┃\n┃              │                                                │      ┃\n┃흑산항로      │1. 흑산항을 입항하고자 할 때에는 서항로로 항행  │      ┃\n┃              │하여야 하고, 출항하고자 할 때에는 동항로로      │      ┃\n┃              │항행하여야 한다.                                │      ┃\n┃              │2. 지정항로 부근을 항행하는 선박은 지정항로를   │      ┃\n┃              │이용하여 항행하는 선박의 항행을 방해하지 아니   │      ┃\n┃              │하여야 하며, 항로내에서는 타선박과의 안전거리를 │      ┃\n┃              │유지하여 위험상황 발생시 적절한 거리에서 조치를 │      ┃\n┃              │취할 수 있도록 하여야 한다.                     │      ┃\n┠───────┼────────────────────────┼───┨\n┃              │                                                │      ┃\n┃              │                                                │      ┃\n┃흑산/홍도 항로│1. 흑산항을 입항하고자 할 때에는 동항로로 항행  │      ┃\n┃              │하여야 하고, 출항하고자 할 때에는 서항로로      │      ┃\n┃              │항행하여야 한다.                                │      ┃\n┃              │2. 지정항로 부근을 항행하는 선박은 지정항로를   │      ┃\n┃              │이용하여 항행하는 선박의 항행을 방해하지 아니   │      ┃\n┃              │하여야 하며, 항로내에서는 타선박과의 안전거리를 │      ┃\n┃              │유지하여 위험상황 발생시 적절한 거리에서 조치를 │      ┃\n┃              │취할 수 있도록 하여야 한다.                     │      ┃\n┗━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━┷━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000242978&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141498267",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141498263",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141498267",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:홍도및흑산도해역항행안전에관한고시#BYL0002",
+      "filename": "별표2_지정항로내 항법.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "조문별제개정이유서(홍도 및 흑산도해역 항행안전에 관한 고시).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=141498001",
+      "file_store_url": "",
+      "filename": "조문별제개정이유서(홍도 및 흑산도해역 항행안전에 관한 고시).hwpx"
+    },
+    {
+      "name": "조문별제개정이유서(홍도 및 흑산도해역 항행안전에 관한 고시).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=141498005",
+      "file_store_url": "",
+      "filename": "조문별제개정이유서(홍도 및 흑산도해역 항행안전에 관한 고시).pdf"
+    },
+    {
+      "name": "홍도 및 흑산도해역 항행안전에 관한 고시.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=141498105",
+      "file_store_url": "",
+      "filename": "홍도 및 흑산도해역 항행안전에 관한 고시.hwpx"
+    },
+    {
+      "name": "홍도 및 흑산도해역 항행안전에 관한 고시.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=141498109",
+      "file_store_url": "",
+      "filename": "홍도 및 흑산도해역 항행안전에 관한 고시.pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 5,
+    "by_category": {
+      "법령": 2,
+      "별표": 2,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 3,
+      "appendix_ref": 2
+    },
+    "articles_total": 5,
+    "articles_with_relations": 3,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 3,
+    "appendices_count": 2,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/홍도 및 흑산도해역 항행안전에 관한 고시"
+  },
+  "provision_id": "admrul:홍도및흑산도해역항행안전에관한고시#DOC"
+}
