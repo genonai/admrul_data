@@ -1,0 +1,816 @@
+{
+  "law_id": "2100000244060",
+  "mst": "2100000244060",
+  "law_name": "수산생물질병의 병원체 관리 규정",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000244060",
+  "promulgation_no": "2024-4",
+  "promulgation_date": "20240709",
+  "enforcement_date": "20240709",
+  "revision_date": "20240709",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국립수산물품질관리원(수산방역과)",
+    "담당자명": "최희정",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "수산생물질병의 병원체 관리 규정",
+    "발령일자": "20240709",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국립수산물품질관리원",
+    "전화번호": "051-400-5677",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1192000",
+    "생성일자": "20240710",
+    "행정규칙ID": "83950",
+    "시행일자": "20240709",
+    "담당부서기관코드": "1192600",
+    "발령번호": "2024-4",
+    "행정규칙일련번호": "2100000244060",
+    "상위부처명": "해양수산부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정이유\n「수산생물질병의 병원체 관리 규정」중 운영상 일부 미비점 등을 보완ㆍ개선하고자 함\n◇ 주요내용\n가. 병원체 폐기 시 폐기 정보 공개 방법을 방역정보시스템으로 명시(제5조제3항)\n나. 병원체의 분양 방법 개정(제6조제7항)\n다. 분양의 거부, 승인 취소 조항 신설(제8조)\n라. 분양신청서 양식 및 제출 서류 개정(별지 제1호~제7호서식)",
+  "body": {
+    "format": "articles",
+    "article_count": 10,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규정은 「수산생물질병 관리법」 제12조에 따라 수산생물질병의 병원체를 수집, 보존, 분양 등 병원체의 관리와 병원체 분리의 신고절차 등에 관한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「수산생물질병 관리법」",
+            "line_text": "",
+            "target_law_name": "수산생물질병 관리법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수산생물질병 관리법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산생물질병의병원체관리규정#JO0001",
+            "reference_id": "law:수산생물질병관리법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제12조",
+            "line_text": "",
+            "target_law_name": "수산생물질병 관리법",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수산생물질병 관리법/제12조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산생물질병의병원체관리규정#JO0001",
+            "reference_id": "law:수산생물질병관리법#JO0012"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수산생물질병의병원체관리규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) 이 규정에서 사용하는 용어의 뜻은 다음과 같다.1. \"병원체\"란 「수산생물질병 관리법」(이하 \"법\"이라 한다) 제2조제6호 및 제7호와 같은 법 시행규칙(이하 \"시행규칙\"이라 한다) 제2조에 따른 수산생물전염병을 일으키는 살아있는 바이러스ㆍ세균ㆍ진균ㆍ기생충 또는 이들 미생물이 들어있는 수산생물 조직 및 진단액류 등을 말한다.2. \"분양(국외분양을 포함한다)\"이란 수산생물방역기관에서 국내외 기관에 병원체를 제공하는 것을 말한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2조제6호 및 제7호",
+            "line_text": "",
+            "target_law_name": "수산생물질병 관리법",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수산생물질병 관리법/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산생물질병의병원체관리규정#JO0002",
+            "reference_id": "law:수산생물질병관리법#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "같은 법 시행규칙",
+            "line_text": "",
+            "target_law_name": "수산생물질병 관리법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수산생물질병 관리법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산생물질병의병원체관리규정#JO0002",
+            "reference_id": "law:수산생물질병관리법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "수산생물질병 관리법 시행규칙",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수산생물질병 관리법 시행규칙/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산생물질병의병원체관리규정#JO0002",
+            "reference_id": "law:수산생물질병관리법시행규칙#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수산생물질병의병원체관리규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "다른 법령과의 관계",
+        "chapter": "",
+        "content": "제3조(다른 법령과의 관계) 수산생물질병의 병원체의 관리 및 분리 신고절차 등에 관한 사항은 다른 법령에 특별한 규정이 있는 경우를 제외하고는 이 규정에 따른다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수산생물질병의병원체관리규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "병원체 분리신고",
+        "chapter": "",
+        "content": "제4조(병원체 분리신고) 병성(病性)감정실시기관 또는 수산생물방역기관에서 병성감정을 실시하여 수산생물전염병이 확인되거나 병원체를 분리한 경우 국가수산생물방역통합정보시스템(이하 \"방역정보시스템\"이라 한다)에 관련 정보를 입력하고 수산생물방역기관의 장에게 방역정보시스템을 통해 신고해야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수산생물질병의병원체관리규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "병원체의 보존 등",
+        "chapter": "",
+        "content": "제5조(병원체의 보존 등) ① 수산생물방역기관의 장은 수집 또는 분리한 병원체의 잠재적 가치가 상실되지 않도록 병원체별 특성에 따라 적합한 방법으로 병원체를 보존ㆍ보관해야 한다.② 수산생물방역기관의 장은 방역정보시스템을 통해 보관 중인 병원체를 기록ㆍ관리해야 한다.③ 수산생물방역기관의 장은 보존관리 중인 병원체의 잠재적 가치를 잃은 것으로 인정될 경우 이를 폐기할 수 있다. 이 경우 병원체의 폐기사항에 대한 정보를 방역정보시스템에 공개해야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수산생물질병의병원체관리규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "병원체의 분양",
+        "chapter": "",
+        "content": "제6조(병원체의 분양) ① 병원체를 분양받으려는 자(이하 \"분양신청자\"라 한다)는 해당 병원체가 분양대상 병원체 목록에 포함되어 있는지 미리 확인해야 하며, 분양이 가능한 병원체일 경우 별지 제1호서식 또는 별지 제2호서식의 병원체 분양신청서와 관련 서류를 수산생물방역기관의 장에게 제출해야 한다.② 수산생물방역기관의 장은 제1항에 따른 분양신청을 받은 때에는 별표 1의 심사기준에 따라 병원체 분양승인 심사를 진행한다.③ 수산생물방역기관의 장은 분양신청서를 접수한 날부터 30일 이내에 분양심사 결과를 분양신청자에게 통보해야 한다.④ 수산생물방역기관의 장은 제2항에 따른 심사 결과 방역상 안전하다고 판단하는 경우 별지 제3호서식 또는 별지 제4호서식의 분양승인서를 분양신청자에게 교부해야 한다.⑤ 병원체를 분양받은 자(이하 \"피분양자\"라 한다)는 별지 제5호서식의 병원체 분양 및 사용에 대한 동의서를 제출해야 한다.⑥ 피분양자는 분양받은 병원체를 시험연구, 예방약 제조, 진단액 생산, 검사, 병성감정 등 분양 신청할 때 제시한 목적으로만 사용해야 한다.⑦ 피분양자는 병원체를 분양한 수산생물방역기관의 권익이 침해되지 않도록 사용해야 하며, 출판ㆍ논문ㆍ특허 등 대외 발표와 예방약 제조 및 진단액 생산 등에 활용한 경우 수산생물방역기관과 미리 협의하고 활용 결과로 다음 각 호의 1에 해당하는 증명자료를 제출해야 한다.1. 출판물 표지 및 문헌정보2. 논문별쇄본 및 학술대회 발표 요약문3. 특허 출원번호 및 등록번호 등⑧ 피분양자는 분양된 병원체에 문제가 있을 경우 분양한 날부터 1개월 이내에 수산생물방역기관의 장에게 재분양을 요구할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "수산생물질병의 병원체 관리 규정",
+            "target_article_no": "별지1",
+            "target_article_title": "수산생물전염병 병원체 분양신청서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297755",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산생물질병의병원체관리규정#JO0006",
+            "reference_id": "admrul:수산생물질병의병원체관리규정#BJ0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "수산생물질병의 병원체 관리 규정",
+            "target_article_no": "별지2",
+            "target_article_title": "Application for Distribution of Pathogen of Contagious Aquatic Animal Diseases",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297761",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산생물질병의병원체관리규정#JO0006",
+            "reference_id": "admrul:수산생물질병의병원체관리규정#BJ0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "수산생물질병의 병원체 관리 규정",
+            "target_article_no": "별표1",
+            "target_article_title": "수산생물전염병 병원체 분양ㆍ국외분양 심사기준(제6조제2항 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000244060&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산생물질병의병원체관리규정#JO0006",
+            "reference_id": "admrul:수산생물질병의병원체관리규정#BYL0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제4항",
+            "link_text": "별지 제3호서식",
+            "line_text": "",
+            "target_law_name": "수산생물질병의 병원체 관리 규정",
+            "target_article_no": "별지3",
+            "target_article_title": "(국내, 국외)수산생물전염병 병원체 분양승인서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297767",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산생물질병의병원체관리규정#JO0006",
+            "reference_id": "admrul:수산생물질병의병원체관리규정#BJ0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제4항",
+            "link_text": "별지 제4호서식",
+            "line_text": "",
+            "target_law_name": "수산생물질병의 병원체 관리 규정",
+            "target_article_no": "별지4",
+            "target_article_title": "(Domestic, Overseas) Approval for Distribution of Pathogen of Contagious Aquatic Animal Diseases",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297773",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산생물질병의병원체관리규정#JO0006",
+            "reference_id": "admrul:수산생물질병의병원체관리규정#BJ0004"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제5항",
+            "link_text": "별지 제5호서식",
+            "line_text": "",
+            "target_law_name": "수산생물질병의 병원체 관리 규정",
+            "target_article_no": "별지5",
+            "target_article_title": "수산생물전염병 병원체 분양 및 사용에 대한 동의서",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297779",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산생물질병의병원체관리규정#JO0006",
+            "reference_id": "admrul:수산생물질병의병원체관리규정#BJ0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수산생물질병의병원체관리규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "병원체의 국외분양",
+        "chapter": "",
+        "content": "제7조(병원체의 국외분양) ① 국외에서 병원체를 분양받으려는 자는 별지 제1호서식 또는 별지 제2호서식의 분양 신청서, 분양목록, 별지 제6호서식의 물질이전동의서(MTA: Material Transfer Agreement) 및 관련 자료를 수산생물방역기관의 장에게 제출해야 한다.② 병원체의 국외분양 신청기관과 사용목적은 다음 각 호에 해당하는 경우로 한정한다.1. 해양수산부장관이 인정하는 국가방역 또는 국제협력의 목적으로 국외연구기관이 병원체를 분양 신청한 경우2. 세계동물보건기구(WOAH), 세계보건기구(WHO) 등 국제기구와 협력하고 있는 국외연구기관이 공익을 위한 연구목적으로 병원체를 분양 신청한 경우3. 해양수산부 또는 국립수산물품질관리원과 수산과학기술교류 등에 관한 양해각서(MOU)를 체결한 외국기관이 시험ㆍ연구용으로 병원체를 분양 신청한 경우4. 병원체에 대한 실시권을 가진 외국기관이 공동연구, 검사, 예방약 제조, 진단액 생산 등을 목적으로 분양 신청한 경우",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "수산생물질병의 병원체 관리 규정",
+            "target_article_no": "별지1",
+            "target_article_title": "수산생물전염병 병원체 분양신청서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297755",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산생물질병의병원체관리규정#JO0007",
+            "reference_id": "admrul:수산생물질병의병원체관리규정#BJ0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "수산생물질병의 병원체 관리 규정",
+            "target_article_no": "별지2",
+            "target_article_title": "Application for Distribution of Pathogen of Contagious Aquatic Animal Diseases",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297761",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산생물질병의병원체관리규정#JO0007",
+            "reference_id": "admrul:수산생물질병의병원체관리규정#BJ0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "별지 제6호서식",
+            "line_text": "",
+            "target_law_name": "수산생물질병의 병원체 관리 규정",
+            "target_article_no": "별지6",
+            "target_article_title": "MATERIAL TRANSFER AGREEMENT",
+            "appendix_no": "6",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297785",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산생물질병의병원체관리규정#JO0007",
+            "reference_id": "admrul:수산생물질병의병원체관리규정#BJ0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수산생물질병의병원체관리규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "분양의 거부 및 승인 취소",
+        "chapter": "",
+        "content": "제8조(분양의 거부 및 승인 취소) ① 제6조 및 제7조의 의뢰를 받았을 때 다음 각 호의 1에 해당하는 경우에는 분양을 거부하거나 제한할 수 있다. 이 경우, 수산생물방역기관의 장은 분양신청자에게 서류 보완 등을 요청하거나 분양거부 결정에 대해 분양신청자에게 알려야 한다.1. 살처분 대상 질병 등 고위험성 병원체, 국내 미발생 질병 병원체, 검역현안질병 병원체 등과 같이 수산생물방역에 필요한 경우2. 제6조제6항에도 불구하고 국익을 해친다고 판단되는 경우3. 분양승인을 신청한 기관이 수산생물병원체 안전관리에 적합한 시설, 장비 등을 갖추지 못한 경우4. 수산생물방역기관의 기본업무 수행에 지장이 있거나 보유량 부족 등 분양이 가능하지 않은 경우5. 다른 법령에서 분양이 금지되어 있는 경우② 수산생물방역기관의 장은 다음 각 호의 어느 하나에 해당하는 경우 분양승인을 취소할 수 있다. 이 경우 수산생물방역기관의 장은 피분양자에게 취소 사실을 알려야 하며, 분양된 수산생물병원체의 폐기를 명해야 한다. 폐기명령을 받은 자는 폐기명령을 받은 날의 다음 날부터 10일 이내에 수산생물방역기관장에게 폐기 결과를 보고해야 한다.1. 거짓이나 그 밖의 부정한 방법으로 분양승인을 받은 경우2. 분양승인을 받은 용도와 다르게 사용하는 경우3. 제6조제5항부터 제7항까지의 기준을 위반한 경우",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "제6조 및 제7조",
+            "line_text": "",
+            "target_law_name": "수산생물질병의 병원체 관리 규정",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수산생물질병의 병원체 관리 규정/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산생물질병의병원체관리규정#JO0008",
+            "reference_id": "admrul:수산생물질병의병원체관리규정#JO0006"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "제6조 및 제7조",
+            "line_text": "",
+            "target_law_name": "수산생물질병의 병원체 관리 규정",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수산생물질병의 병원체 관리 규정/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산생물질병의병원체관리규정#JO0008",
+            "reference_id": "admrul:수산생물질병의병원체관리규정#JO0007"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "제6조제6항",
+            "line_text": "",
+            "target_law_name": "수산생물질병의 병원체 관리 규정",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수산생물질병의 병원체 관리 규정/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산생물질병의병원체관리규정#JO0008",
+            "reference_id": "admrul:수산생물질병의병원체관리규정#JO0006"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제2항",
+            "link_text": "제6조제5항부터 제7항",
+            "line_text": "",
+            "target_law_name": "수산생물질병의 병원체 관리 규정",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수산생물질병의 병원체 관리 규정/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산생물질병의병원체관리규정#JO0008",
+            "reference_id": "admrul:수산생물질병의병원체관리규정#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수산생물질병의병원체관리규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "병원체의 관리",
+        "chapter": "",
+        "content": "제9조(병원체의 관리) ① 피분양자는 병원체의 안전관리를 위해 관리책임자와 병원체 보관장소를 지정해야 한다.② 관리책임자는 보유기관 내 병원체의 취급, 보관, 폐기 및 안전관리에 관한 전반적인 사항을 총괄 관리한다.③ 제1항에 따른 피분양자는 별지 제7호서식의 병원체 관리대장을 작성ㆍ보관해야 한다. 또한, 매년 해당 연도(12월 31일 기준) 병원체 보유현황을 다음 해 1월 15일까지 수산생물방역기관의 장에게 제출해야 한다.④ 관리책임자는 병원체가 변이 또는 사멸 등으로 계속 보유할 필요가 없을 경우에는 병원체가 완전히 사멸될 수 있는 방법으로 소독 또는 멸균 처리하여 폐기해야 한다.⑤ 피분양자는 병원체를 폐기한 경우에는 그 사실을 즉시 수산생물방역기관의 장에게 통보해야 한다. 이 경우 수산생물방역기관의 장은 국가방역상 필요하다고 판단되면 현장점검을 통하여 폐기여부를 검증할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제3항",
+            "link_text": "별지 제7호서식",
+            "line_text": "",
+            "target_law_name": "수산생물질병의 병원체 관리 규정",
+            "target_article_no": "별지7",
+            "target_article_title": "수산생물전염병 병원체 관리대장",
+            "appendix_no": "7",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297791",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산생물질병의병원체관리규정#JO0009",
+            "reference_id": "admrul:수산생물질병의병원체관리규정#BJ0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수산생물질병의병원체관리규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제10조(재검토기한) 국립수산물품질관리원장은 이 고시에 대해 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2024년 7월 1일 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 해야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산생물질병의병원체관리규정#JO0010",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수산생물질병의병원체관리규정#JO0010"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20221221",
+      "promulgation_no": "2022-37",
+      "content": "부칙 <제2022-37호, 2022. 12. 21.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20240709",
+      "promulgation_no": "2024-4",
+      "content": "부칙 <제2024-4호, 2024. 7. 9.>이 고시는 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "수산생물전염병 병원체 분양ㆍ국외분양 심사기준(제6조제2항 관련)",
+      "enforcement_date": "",
+      "content": "[별표 1]\n수산생물전염병 병원체 분양ㆍ국외분양 심사기준(제6조제2항 관련)┌────────┬─────┬──────────────────────────────────┐\n│병원체 구분     │심사항목  │심사기준                                                            │\n├────────┼─────┼──────────────────────────────────┤\n│수산생물전염병  │신청기관  │병성감정실시기관, 대학, 민간연구소, 국가 또는 지방자치단체가 설립한 │\n│병원체          │          │연구기관, 동물용의약품제조업체 등                                   │\n│                ├─────┼──────────────────────────────────┤\n│                │사용 목적 │국내 분양: 시험연구, 예방약 제조, 진단액 생산, 검사, 병성감정 등을  │\n│                │          │목적으로 신청한 경우                                                │\n│                │          ├──────────────────────────────────┤\n│                │          │국외 분양:                                                          │\n│                │          │   1. 해양수산부장관이 인정하는 국가방역 또는 국제협력의 목적으로   │\n│                │          │국외연구기관이 수의생명자원을 분양 신청한 경우                      │\n│                │          │   2. 세계동물보건기구(WOAH), 세계보건기구(WHO) 등 국제기구와       │\n│                │          │협력하고 있는 국외연구기관이 공익을 위한 연구목적으로 수산          │\n│                │          │생물전염병 병원체를 분양 신청한 경우                                │\n│                │          │   3. 해양수산부 또는 수품원과 수산과학기술교류 등에 관한 양해각서  │\n│                │          │(MOU)를 체결한 외국기관이 시험?연구용으로 수산생물전염병           │\n│                │          │병원체를 분양 신청한 경우                                           │\n│                │          │   4. 수산생물전염병 병원체에 대한 실시권을 가진 외국기관이 공동연  │\n│                │          │구, 검사, 예방약 제조, 진단액 생산 등을 목적으로 분양 신청한        │\n│                │          │경우                                                                │\n│                ├─────┼──────────────────────────────────┤\n│                │시설 기준 │「수산생물 병성감정 실시기관 지정 및 운영에 관한 고시」 별표 1의    │\n│                │          │시설 기준에 준함                                                    │\n│                ├─────┼──────────────────────────────────┤\n│                │연구(사용)│사용 목적과의 부합성                                                │\n│                │계획서 및 │                                                                    │\n│                │관련 서류 │                                                                    │\n│                ├─────┼──────────────────────────────────┤\n│                │전문성    │1. 과거 해당 병원체(유사 병원체를 포함한다) 관련 프로젝트 수행 여부 │\n│                │          │2. 과거 해당 병원체(유사 병원체를 포함한다) 관련 논문실적           │\n│                │          │3. 해당 병원체(유사 병원체를 포함한다) 관련 인력의 구성             │\n│                ├─────┼──────────────────────────────────┤\n│                │병원체    │1. 병원체 보관장소 지정                                             │\n│                │관리      │2. 병원체 관리책임자(담당부서장 이상) 지정                          │\n│                ├─────┼──────────────────────────────────┤\n│                │폐기 방법 │병원체 특성에 맞는 적절한 방법                                      │\n└────────┴─────┴──────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000244060&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297749",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297745",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297749",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수산생물질병의병원체관리규정#BYL0001",
+      "filename": "별표1_수산생물전염병 병원체 분양ㆍ국외분양 심사기준(제6조제2항 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "수산생물전염병 병원체 분양신청서",
+      "enforcement_date": "",
+      "content": "[별지 제1호서식]\n\n수산생물전염병 병원체 분양신청서\n\n\n────────┬───┬─────────┬──────────────────────────────\n접수번호      │접수일│발급ㆍ열람일시    │처리기간        30일\n────────┴───┴─────────┴──────────────────────────────\n\n──────┬──────────────┬───────────────────────────────\n신청인    │기관명:                     │사업자등록번호:\n├──────────────┼───────────────────────────────\n│대표자:                     │신청자(직급/직위):\n├──────────────┼───────────────────────────────\n│주소:                       │신청자 전화번호:\n──────┴──────────────┴───────────────────────────────\n\n──────┬──────────────────────────────────────────────\n신청      │병원체 종류/번호:\n개요      │                  예: virus / SVC / ADC-SVC2022-01\n├──────────────────────────────────────────────\n│신청 수량:\n├──────────────────────────────────────────────\n│목적:                                       (별지 가능)\n├──────────────────────────────────────────────\n│내용:                                       (별지 가능)\n├──────────────────────────────────────────────\n│수행기관/보관장소/폐기방법:\n├──────────────────────────────────────────────\n│관리책임자(담당부서장)/사용자(성명, 직급)\n──────┴──────────────────────────────────────────────\n「수산생물질병 관리법」 제12조제1항·제3항에 따라 위와 같이 수산생물전염병의 병원체 분양을 신청합니다.\n\n년            월            일\n\n신 청 인                   (서명 또는 인)\n\n국립수산물품질관리원장 귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n───────┬─────────────────────┬───────────────────────\n첨부서류    │1. 시설 규격 1부                          │수수료\n│2. 연구(사용)계획서 및 안전관리계획서 1부 │없음\n│3. 과거 병원체 관련 프로젝트 수행 여부 1부│\n│4. 인력 구성 및 관련 논문실적 1부         │\n───────┴─────────────────────┴───────────────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n210mm×297mm[백상지 80g/㎡]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297755",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297751",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297755",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수산생물질병의병원체관리규정#BJ0001",
+      "filename": "별지1_수산생물전염병 병원체 분양신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "Application for Distribution of Pathogen of Contagious Aquatic Animal Diseases",
+      "enforcement_date": "",
+      "content": "[별지 제2호서식]\n\nApplication for Distribution of Pathogen of\nContagious Aquatic Animal Diseases\n\n\n\n──────────┬───────┬──────────┬───────────────────\nApplication       │Submission    │Date of Issuance/   │Proceedings   30 days\nNo.               │Date          │Reading             │\n──────────┴───────┴──────────┴───────────────────\n\n───────┬───────────┬─────────────────────────────\nApplicant   │Organization          │Business Registration No.\n├───────────┼─────────────────────────────\n│Name (Representative) │Applicant (title or position)\n│(Last, First, Middle) │\n├───────────┼─────────────────────────────\n│Address               │Applicant contact no.\n───────┼───────────┴─────────────────────────────\nApplication │Strain / Serial no.\nOverview    │                  Ex.: virus / SVC / ADC-SVC2022-01\n├─────────────────────────────────────────\n│Quantity\n├─────────────────────────────────────────\n│Objective                            (Attachment available)\n├─────────────────────────────────────────\n│Contents of Distribution             (Attachment available)\n├─────────────────────────────────────────\n│Institution / Storage / Disposal method\n├─────────────────────────────────────────\n│Manager (department head officer) / User (name, position)\n━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nUnder the Article 12 Clause 1 and 3 of the Law for Aquatic Organism Disease Control Act,\nI would like to apply for distribution of pathogen of aquatic animals disease as stated above.\n\nDate :\n\nApplicant :            (name)\n(Signature or Seal)\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n─────────┬──────────────────────────┬────────────\nAttachment      │1. Facility specification                           │No charge\n│2. Research plan & safety plan                      │is imposed\n│3. Pathogen-related project list in the past        │\n│4. Research manpower & related research publication │\n─────────┴──────────────────────────┴────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n210mm×297mm[백상지 80g/㎡]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297761",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297757",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297761",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수산생물질병의병원체관리규정#BJ0002",
+      "filename": "별지2_Application for Distribution of Pathogen of Contagious Aquatic Animal Diseases.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "(국내, 국외)수산생물전염병 병원체 분양승인서",
+      "enforcement_date": "",
+      "content": "[별지 제3호서식]\n\n제     호   [ ] 국내  수산생물전염병 병원체     분양승인서\n[ ] 국외\n\n\n─────┬───────┬──────────────────────────────────\n신청인  │기관명:       │사업자등록번호:\n├───────┼──────────────────────────────────\n│성명(대표자): │신청자(직급/직위)\n├───────┼──────────────────────────────────\n│주소:         │전화번호:\n─────┴───────┴──────────────────────────────────\n분양승인 내용(별지 가능)\n─────┬──────┬───────────┬───┬───────────────────\n일련번호│병원체 번호 │병원체명              │분양량│비고\n─────┼──────┼───────────┼───┼───────────────────\n│            │                      │      │\n─────┼──────┼───────────┼───┼───────────────────\n│            │                      │      │\n─────┼──────┼───────────┼───┼───────────────────\n│            │                      │      │\n─────┴──────┴───────────┴───┴───────────────────\n분양승인 조건:\n────────────────────────────────────────────────\n「수산생물질병 관리법」 제12조제1항·제3항에 따라 위와 같이 수산생물전염병 병원체의 분양을\n승인합니다.\n\n\n\n\n년           월          일\n\n┏━━┓\n국립수산물품질관리원장┃직인┃\n┗━━┛\n\n\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n210mm×297mm[백상지 80g/㎡]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297767",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297763",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297767",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수산생물질병의병원체관리규정#BJ0003",
+      "filename": "별지3_(국내, 국외)수산생물전염병 병원체 분양승인서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "(Domestic, Overseas) Approval for Distribution of Pathogen of Contagious Aquatic Animal Diseases",
+      "enforcement_date": "",
+      "content": "[별지 제4호서식]\n\nNO. :         │[ ] Domestic    Approval for Distribution of Pathogen of\n│                Contagious Aquatic Animal Diseases\n│[ ] Overseas\n━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n──────┬───────────┬────────────────────────────\nApplicant │Organization          │Business Registration No.\n├───────────┼────────────────────────────\n│Name (Representative) │Applicant (title or position)\n│(Last, First, Middle) │\n├───────────┼────────────────────────────\n│Address               │Tel.\n──────┴───────────┴────────────────────────────\nResources Approved to be Distributed\n(Additional papers can be attached, if needed)\n━━━━━━━┯━━━━━━━━━┯━━━━━━━┯━━━━━━━━━━━┯━━━━━━━━━\nSerial      │Resources No.     │Resources name│Distribution Quantity │Note\nNo.         │                  │              │                      │\n───────┼─────────┼───────┼───────────┼─────────\n│                  │              │                      │\n───────┼─────────┼───────┼───────────┼─────────\n│                  │              │                      │\n───────┼─────────┼───────┼───────────┼─────────\n│                  │              │                      │\n───────┴─────────┴───────┴───────────┴─────────\nTerms of Distribution :\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nUnder the Article 12 Clause 1 and 3 of the Law for Aquatic Organism Disease Control Act,\nthe pathogen of contagious aquatic animal diseases requested above are hereby approved to\nbe distributed.\n\n\n\nyear         month       date\n\n┏━━┓\nPresident of National Fishery Products Quality Management ┃직인┃\nService                                                   ┃    ┃\n┗━━┛\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n210mm×297mm[백상지 80g/㎡]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297773",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297769",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297773",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수산생물질병의병원체관리규정#BJ0004",
+      "filename": "별지4_(Domestic, Overseas) Approval for Distribution of Pathogen of Contagious Aquatic Animal Diseases.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별지",
+      "title": "수산생물전염병 병원체 분양 및 사용에 대한 동의서",
+      "enforcement_date": "",
+      "content": "[별지 제5호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                                                            ┃\n┃수산생물전염병 병원체 분양 및 사용에 대한 동의서                                            ┃\n┃( Material Transfer Agreement : MTA )                                                       ┃\n┃                                                                                            ┃\n┃1. 분양받은 병원체를 제3자에게 임의로 제공 또는 분양하지 않는다.                            ┃\n┃                                                                                            ┃\n┃2. 분양받은 병원체 신청서에 명확히 적힌 목적으로만 사용할 것이며 국립수산물품질관리         ┃\n┃원의 승인 없이는 상업용으로 사용하지 않는다.                                                ┃\n┃                                                                                            ┃\n┃3. 분양받은 병원체를 사용하여 발표하는 결과물에는 병원체 번호(예: ADC-SVC-2022-01)          ┃\n┃를 재료 및 방법과 사사에 명확히 적고 활용 결과에 따른 출판물 표지 및 문헌정보, 논문         ┃\n┃별쇄본 및 학술대회 발표 요약문, 특허 출원번호 및 등록번호 등은 국립수산물품질관리원으로     ┃\n┃제출한다.                                                                                   ┃\n┃                                                                                            ┃\n┃수산생물전염병 병원체 분양과 사용에 관한 위의 사항을 동의합니다.                            ┃\n┃                                                                                            ┃\n┃ 년           월           일                                                               ┃\n┃                                                                                            ┃\n┃소속                     분양신청인                  서명 (인)                              ┃\n┃                                                                                            ┃\n┃국립수산물품질관리원장 귀하                                                                 ┃\n┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃┏━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━┯━━━━━━━━━━━━━┓┃\n┃┃수산생물전염병 병원체 분양내역서 및 인수증        │분양번호│                          ┃┃\n┃┠───┬──────┬─────────┬───┬┼────┼─────────────┨┃\n┃┃분양  │성 명       │                  │소 속 ││전 화   │                          ┃┃\n┃┃신청자├──────┼─────────┼───┼┼────┼─────────────┨┃\n┃┃      │전자우편    │                  │직 위 ││팩 스   │                          ┃┃\n┃┃      ├──────┼─────────┴───┴┴────┴─────────────┨┃\n┃┃      │주 소       │                                                                  ┃┃\n┃┠───┴──────┴─────────────────────────────────┨┃\n┃┃분양내역                                                                                ┃┃\n┃┠──┬──────┬─────────┬─────────────────┬───┬──┨┃\n┃┃순번│병원체 분류 │병원체 번호       │병원체명                          │ 수량 │비고┃┃\n┃┠──┼──────┼─────────┼─────────────────┼───┼──┨┃\n┃┃1   │예: virus   │예: ADC-SVC2022-01│예: Spring Viraemia of carp (SVC) │      │    ┃┃\n┃┠──┼──────┼─────────┼─────────────────┼───┼──┨┃\n┃┃    │            │                  │                                  │      │    ┃┃\n┃┠──┼──────┼─────────┼─────────────────┼───┼──┨┃\n┃┃    │            │                  │                                  │      │    ┃┃\n┃┠──┴──────┴─────────┴─────────────────┴───┴──┨┃\n┃┃                                                                                        ┃┃\n┃┃위 수산생물전염병 병원체를 분양신청자에게 제공합니다.                                   ┃┃\n┃┃                                                                                        ┃┃\n┃┃ 년            월           일                                                          ┃┃\n┃┃                                                                                        ┃┃\n┃┃분양담당자                      서명 (인)                                               ┃┃\n┃┃                                                                                        ┃┃\n┃┃분양인수자                      서명 (인)                                               ┃┃\n┃┃                                                                                        ┃┃\n┃┃국립수산물품질관리원                                                                    ┃┃\n┃┃                                                                                        ┃┃\n┃┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297779",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297775",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297779",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수산생물질병의병원체관리규정#BJ0005",
+      "filename": "별지5_수산생물전염병 병원체 분양 및 사용에 대한 동의서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별지",
+      "title": "MATERIAL TRANSFER AGREEMENT",
+      "enforcement_date": "",
+      "content": "[별지 제6호서식]\nMATERIAL TRANSFER AGREEMENT\nProvider: National Fishery Products Quality Management Service (NFQS), Republic of Korea\nRecipient:\n1. Provider agrees to use the following Biological Material by Recipient.\n2. The Recipient should use this Biological Material only for application purposes.\n3. The Biological Material will not be further distributed to others without the Provider's written consent.\n4. For all written publication concerning this Biological Material, the Recipient agrees to discuss it with Provider before submission.\n5. The undersigned Provider and Recipient expressly certify and affirm that the contents of any statements made herein are truthful and accurate.\n\nBy signing below you confirm you have read and accepted the Agreement.\n\nProvider:    Date:______________ _________________________________________\nNFQS                            Authorized Signature for Recipient and Title\n\nRecipient:   Date:______________ _________________________________________\nAuthorized Signature for Recipient and Title\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297785",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297781",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297785",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수산생물질병의병원체관리규정#BJ0006",
+      "filename": "별지6_MATERIAL TRANSFER AGREEMENT.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "별지",
+      "title": "수산생물전염병 병원체 관리대장",
+      "enforcement_date": "",
+      "content": "[별지 제7호서식]\n수산생물전염병 병원체 관리대장\n□ 기관명:\n□ 관리책임자:\n□ 병원체 세부목록\n┌──┬──┬────┬──┬────┬─────┬────┬──┬──┬───────┬──┬──┐\n│관리│분류│병원체명│등록│계통    │분양?분리│분양기관│분리│보관│특이사항      │비고│확인│\n│번호│    │        │번호│(strain)│연월일    │        │장소│장소│(사용용도 등) │    │    │\n├──┼──┼────┼──┼────┼─────┼────┼──┼──┼───────┼──┼──┤\n│    │    │        │    │        │          │        │    │    │              │    │    │\n├──┼──┼────┼──┼────┼─────┼────┼──┼──┼───────┼──┼──┤\n│    │    │        │    │        │          │        │    │    │              │    │    │\n├──┼──┼────┼──┼────┼─────┼────┼──┼──┼───────┼──┼──┤\n│    │    │        │    │        │          │        │    │    │              │    │    │\n├──┼──┼────┼──┼────┼─────┼────┼──┼──┼───────┼──┼──┤\n│    │    │        │    │        │          │        │    │    │              │    │    │\n├──┼──┼────┼──┼────┼─────┼────┼──┼──┼───────┼──┼──┤\n│    │    │        │    │        │          │        │    │    │              │    │    │\n├──┼──┼────┼──┼────┼─────┼────┼──┼──┼───────┼──┼──┤\n│    │    │        │    │        │          │        │    │    │              │    │    │\n├──┼──┼────┼──┼────┼─────┼────┼──┼──┼───────┼──┼──┤\n│    │    │        │    │        │          │        │    │    │              │    │    │\n├──┼──┼────┼──┼────┼─────┼────┼──┼──┼───────┼──┼──┤\n│    │    │        │    │        │          │        │    │    │              │    │    │\n├──┼──┼────┼──┼────┼─────┼────┼──┼──┼───────┼──┼──┤\n│    │    │        │    │        │          │        │    │    │              │    │    │\n├──┼──┼────┼──┼────┼─────┼────┼──┼──┼───────┼──┼──┤\n│    │    │        │    │        │          │        │    │    │              │    │    │\n└──┴──┴────┴──┴────┴─────┴────┴──┴──┴───────┴──┴──┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297791",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297787",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142297791",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수산생물질병의병원체관리규정#BJ0007",
+      "filename": "별지7_수산생물전염병 병원체 관리대장.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "「수산생물질병의 병원체 관리 규정」 개정전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=142296609",
+      "file_store_url": "",
+      "filename": "「수산생물질병의 병원체 관리 규정」 개정전문.hwpx"
+    },
+    {
+      "name": "「수산생물질병의 병원체 관리 규정」 개정전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=142296613",
+      "file_store_url": "",
+      "filename": "「수산생물질병의 병원체 관리 규정」 개정전문.pdf"
+    },
+    {
+      "name": "「수산생물질병의 병원체 관리 규정」 개정(안).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=142296617",
+      "file_store_url": "",
+      "filename": "「수산생물질병의 병원체 관리 규정」 개정(안).hwpx"
+    },
+    {
+      "name": "「수산생물질병의 병원체 관리 규정」 개정(안).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=142296621",
+      "file_store_url": "",
+      "filename": "「수산생물질병의 병원체 관리 규정」 개정(안).pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 20,
+    "by_category": {
+      "법령": 5,
+      "별지": 9,
+      "별표": 1,
+      "행정규칙": 5
+    },
+    "by_relation_type": {
+      "citation": 6,
+      "appendix_ref": 10,
+      "internal_ref": 4
+    },
+    "articles_total": 10,
+    "articles_with_relations": 7,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 2,
+    "appendices_count": 8,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/수산생물질병의 병원체 관리 규정"
+  },
+  "provision_id": "admrul:수산생물질병의병원체관리규정#DOC"
+}
