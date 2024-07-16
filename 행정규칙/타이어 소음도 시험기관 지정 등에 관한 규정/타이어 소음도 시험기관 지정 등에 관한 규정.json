@@ -1,0 +1,592 @@
+{
+  "law_id": "2100000244794",
+  "mst": "2100000244794",
+  "law_name": "타이어 소음도 시험기관 지정 등에 관한 규정",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000244794",
+  "promulgation_no": "2024-32",
+  "promulgation_date": "20240716",
+  "enforcement_date": "20240716",
+  "revision_date": "20240716",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국립환경과학원(생활환경연구과)",
+    "담당자명": "구진회",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "타이어 소음도 시험기관 지정 등에 관한 규정",
+    "발령일자": "20240716",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국립환경과학원",
+    "전화번호": "032-560-8329",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1482000",
+    "생성일자": "20240723",
+    "행정규칙ID": "71099",
+    "시행일자": "20240716",
+    "담당부서기관코드": "1480763",
+    "발령번호": "2024-32",
+    "행정규칙일련번호": "2100000244794",
+    "상위부처명": "기후에너지환경부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n- 재검토 기한 도래에 따른 재검토 기간을 연장하고자 함\n\n◇ 주요내용\n가. 환경부장관은 이 고시에 대하여 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2024년 7월 1일 기준으로 매3년이 되는 시점(매 3년째의 6월 30일을 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 함.",
+  "body": {
+    "format": "articles",
+    "article_count": 6,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목 적",
+        "chapter": "",
+        "content": "제1조(목 적)  이 고시는 「소음ㆍ진동관리법」(이하 \"법\" 이라 한다) 제34조의2 제2항 및 같은법 시행규칙(이하 \"시행규칙\" 이라 한다) 제39조의2 제2항 제2호에 따른 시험기관의 지정을 위해 필요한 세부적인 사항을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제34조의2",
+            "line_text": "",
+            "target_law_name": "소음ㆍ진동관리법",
+            "target_article_no": "제34조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소음ㆍ진동관리법/제34조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:타이어소음도시험기관지정등에관한규정#JO0001",
+            "reference_id": "law:소음진동관리법#JO0034_02"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은법 시행규칙",
+            "line_text": "",
+            "target_law_name": "소음ㆍ진동관리법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소음ㆍ진동관리법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:타이어소음도시험기관지정등에관한규정#JO0001",
+            "reference_id": "law:소음진동관리법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제39조의2",
+            "line_text": "",
+            "target_law_name": "소음ㆍ진동관리법 시행규칙",
+            "target_article_no": "제39조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소음ㆍ진동관리법 시행규칙/제39조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:타이어소음도시험기관지정등에관한규정#JO0001",
+            "reference_id": "law:소음진동관리법시행규칙#JO0039_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:타이어소음도시험기관지정등에관한규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적용 범위",
+        "chapter": "",
+        "content": "제2조(적용 범위)  이 고시는 법 제34조의2 제2항에 따라 자동차용 타이어의 소음도를 측정하고자 하는 시험기관(이하 ‘타이어 소음도 시험기관’이라 한다)으로 지정받고자 하는 경우에 한하여 적용한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "소음ㆍ진동관리법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소음ㆍ진동관리법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:타이어소음도시험기관지정등에관한규정#JO0002",
+            "reference_id": "law:소음진동관리법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제34조의2",
+            "line_text": "",
+            "target_law_name": "소음ㆍ진동관리법",
+            "target_article_no": "제34조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소음ㆍ진동관리법/제34조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:타이어소음도시험기관지정등에관한규정#JO0002",
+            "reference_id": "law:소음진동관리법#JO0034_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:타이어소음도시험기관지정등에관한규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "타이어 소음도 시험기관 신청",
+        "chapter": "",
+        "content": "제3조(타이어 소음도 시험기관 신청) ① 타이어 소음도 시험기관으로 지정받고자 하는 기관은 시행규칙 별표 14의3에서 정하는 장비 및 인력기준을 만족하여야 한다.② 시행규칙 제39조의2 제2항 제2호에 따라 타이어 소음도의 시험기관으로 지정받고자 하는 자는 별지 제1호 서식의 ‘타이어 소음도 시험기관 지정 신청서’에 다음 각 호의 서류를 첨부하여 국립환경과학원장에게 제출하여야 한다.1. 사업자등록증2. 시험설비 등 장비 현황(시험설비 및 기기 목록, 규격, 사진 등을 포함한다)3. 기술인력 현황(자격 등을 증명하는 서류를 포함한다)",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "시행규칙",
+            "line_text": "",
+            "target_law_name": "소음ㆍ진동관리법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소음ㆍ진동관리법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:타이어소음도시험기관지정등에관한규정#JO0003",
+            "reference_id": "law:소음진동관리법시행규칙#DOC"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "별표 14의3",
+            "line_text": "",
+            "target_law_name": "소음ㆍ진동관리법 시행규칙",
+            "target_article_no": "별표14의3",
+            "target_article_title": "",
+            "appendix_no": "14",
+            "appendix_branch": "3",
+            "appendix_kind": "별표",
+            "appendix_found": false,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소음ㆍ진동관리법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:타이어소음도시험기관지정등에관한규정#JO0003",
+            "reference_id": "law:소음진동관리법시행규칙#BYL0014_03"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "시행규칙",
+            "line_text": "",
+            "target_law_name": "소음ㆍ진동관리법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소음ㆍ진동관리법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:타이어소음도시험기관지정등에관한규정#JO0003",
+            "reference_id": "law:소음진동관리법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "제39조의2",
+            "line_text": "",
+            "target_law_name": "소음ㆍ진동관리법 시행규칙",
+            "target_article_no": "제39조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소음ㆍ진동관리법 시행규칙/제39조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:타이어소음도시험기관지정등에관한규정#JO0003",
+            "reference_id": "law:소음진동관리법시행규칙#JO0039_02"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "별지 제1호 서식",
+            "line_text": "",
+            "target_law_name": "타이어 소음도 시험기관 지정 등에 관한 규정",
+            "target_article_no": "별지1",
+            "target_article_title": "타이어 소음도 시험기관(지정, 지정변경) 신청서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142854835",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:타이어소음도시험기관지정등에관한규정#JO0003",
+            "reference_id": "admrul:타이어소음도시험기관지정등에관한규정#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:타이어소음도시험기관지정등에관한규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "타이어 소음도 시험기관의 지정",
+        "chapter": "",
+        "content": "제4조(타이어 소음도 시험기관의 지정)  국립환경과학원장은 제3조에 따라 타이어 소음도 시험기관 지정 신청서가 제출된 경우에는 다음 각 호의 사항을 검토하고, 현장심사 결과를 종합하여 타이어 소음도 시험기관 지정 여부를 결정하고, 신청자에게 별지 제2호 서식의 ‘ 타이어 소음도 시험기관 지정서’를 교부하여야 한다.1. 장비 및 기술인력의 적정성 여부2. 신청서류의 누락 및 적정성 여부",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제3조",
+            "line_text": "",
+            "target_law_name": "타이어 소음도 시험기관 지정 등에 관한 규정",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/타이어 소음도 시험기관 지정 등에 관한 규정/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:타이어소음도시험기관지정등에관한규정#JO0004",
+            "reference_id": "admrul:타이어소음도시험기관지정등에관한규정#JO0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "별지 제2호 서식",
+            "line_text": "",
+            "target_law_name": "타이어 소음도 시험기관 지정 등에 관한 규정",
+            "target_article_no": "별지2",
+            "target_article_title": "타이어 소음도 시험기관 지정서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142854841",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:타이어소음도시험기관지정등에관한규정#JO0004",
+            "reference_id": "admrul:타이어소음도시험기관지정등에관한규정#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:타이어소음도시험기관지정등에관한규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "타이어 소음도 시험기관의 운영",
+        "chapter": "",
+        "content": "제5조(타이어 소음도 시험기관의 운영) ① 타이어 소음도 시험기관 지정을 받은 자가 업체명ㆍ대표자ㆍ소재지, 시험설비 등 장비, 기술 인력을 변경한 경우에도 시행규칙 별표 14의3에서 정하는 장비 및 인력기준을 만족하여야한다.② 타이어 소음도 시험기관은 타이어 소음도 측정 의뢰를 받은 경우 소음ㆍ진동관리법 시행규칙 별지 제19호의 3서식에 따른 ‘타이어 소음도 측정결과서’를 의뢰한 자에게 발급하고, 소음ㆍ진동관리법 시행규칙 별지 제19호의 5서식에 따른 ‘타이어 소음도 측정결과서 관리대장’에 기록하여 보관하여야 한다.③ 타이어 소음도 시험기관의 장은 당해년도 타이어 소음도 검사결과를 국립환경과학원장에게 보고하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "시행규칙",
+            "line_text": "",
+            "target_law_name": "소음ㆍ진동관리법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소음ㆍ진동관리법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:타이어소음도시험기관지정등에관한규정#JO0005",
+            "reference_id": "law:소음진동관리법시행규칙#DOC"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "별표 14의3",
+            "line_text": "",
+            "target_law_name": "소음ㆍ진동관리법 시행규칙",
+            "target_article_no": "별표14의3",
+            "target_article_title": "",
+            "appendix_no": "14",
+            "appendix_branch": "3",
+            "appendix_kind": "별표",
+            "appendix_found": false,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소음ㆍ진동관리법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:타이어소음도시험기관지정등에관한규정#JO0005",
+            "reference_id": "law:소음진동관리법시행규칙#BYL0014_03"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "시행규칙",
+            "line_text": "",
+            "target_law_name": "소음ㆍ진동관리법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소음ㆍ진동관리법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:타이어소음도시험기관지정등에관한규정#JO0005",
+            "reference_id": "law:소음진동관리법시행규칙#DOC"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "별지 제19호",
+            "line_text": "",
+            "target_law_name": "소음ㆍ진동관리법 시행규칙",
+            "target_article_no": "별지19",
+            "target_article_title": "",
+            "appendix_no": "19",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": false,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소음ㆍ진동관리법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:타이어소음도시험기관지정등에관한규정#JO0005",
+            "reference_id": "law:소음진동관리법시행규칙#BJ0019"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "시행규칙",
+            "line_text": "",
+            "target_law_name": "소음ㆍ진동관리법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소음ㆍ진동관리법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:타이어소음도시험기관지정등에관한규정#JO0005",
+            "reference_id": "law:소음진동관리법시행규칙#DOC"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "별지 제19호",
+            "line_text": "",
+            "target_law_name": "소음ㆍ진동관리법 시행규칙",
+            "target_article_no": "별지19",
+            "target_article_title": "",
+            "appendix_no": "19",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": false,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소음ㆍ진동관리법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:타이어소음도시험기관지정등에관한규정#JO0005",
+            "reference_id": "law:소음진동관리법시행규칙#BJ0019"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:타이어소음도시험기관지정등에관한규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제6조(재검토기한) 환경부장관은 이 고시에 대하여 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2024년 7월 1일 기준으로 매3년이 되는 시점(매 3년째의 6월 30일을 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:타이어소음도시험기관지정등에관한규정#JO0006",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:타이어소음도시험기관지정등에관한규정#JO0006"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20200226",
+      "promulgation_no": "2020-5",
+      "content": "부칙 <제2020-5호,2020. 2. 26.>이 고시는 발령한 날 부터 시행한다."
+    },
+    {
+      "promulgation_date": "20240716",
+      "promulgation_no": "2024-32",
+      "content": "부칙 <제2024-32호, 2024. 7. 16.>이 고시는 발령한 날 부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "타이어 소음도 시험기관(지정, 지정변경) 신청서",
+      "enforcement_date": "",
+      "content": "\n[별지 제1호 서식]\n\n(앞쪽)\n┌─────────────────────────┬──────────────────────────┐\n│ 타이어 소음도 시험기관   [ ] 지정        신청서  │처리기간                                            │\n│                          [ ] 지정변경            ├──┬───────────────────────┤\n│                                                  │승인│60일                                          │\n│                                                  ├──┼───────────────────────┤\n│                                                  │변경│30일                                          │\n├─────────┬──────────┬────┼──┴───────────────────────┤\n│업  체  명        │                    │대 표 자│                                                    │\n├───┬─────┼──────────┼────┼──────────────────────────┤\n│소재지│본   사   │                    │전    화│                                                    │\n│      │          │                    │(E-mail)│                                                    │\n│      ├─────┼──────────┼────┼──────────────────────────┤\n│      │공   장   │                    │전    화│                                                    │\n│      │          │                    │(E-mail)│                                                    │\n│      ├─────┼──────────┼────┼──────────────────────────┤\n│      │연구소    │                    │전    화│                                                    │\n│      │          │                    │(E-mail)│                                                    │\n├───┼─────┼──────────┼────┼──────────────────────────┤\n│사업자│등록번호  │                    │년 월 일│                                                    │\n│등  록├─────┼──────────┴────┴──────────────────────────┤\n│      │제조구분  │                                                                                    │\n├───┴─────┼──────────────────────────────────────────┤\n│측정 항목         │ □ 타이어 소음도                                                                   │\n├─────────┼──────────────────────────────────────────┤\n│시험설비 및 소재지│                                                                                    │\n├─────────┼──────────────────────────────────────────┤\n│전 문 인 력       │                                                                                    │\n├─────────┼──────────────────────────────────────────┤\n│변경신고내용      │                                                                                    │\n├─────────┴──────────────────────────────────────────┤\n│                                                                                                        │\n│「타이어 소음도 시험기관 지정 등에 관한 규정」 제3조에 따라 타이어 소음도 시험기관의 ([ ]지정           │\n│[ ]지정변경)을 신청합니다.                                                                              │\n│                                                                                                        │\n│                                                                                                        │\n│년     월     일                                                                                        │\n│                                                                                                        │\n│신청인                                     (서명 또는 인)                                               │\n│                                                                                                        │\n│국립환경과학원장      귀하                                                                              │\n├────────────────────────────────────────────────────┤\n│                                                                                                        │\n┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙\n\n┌───┬────────────────────────────────────────────────┐\n│구비  │1. 지정 신청의 경우                                                                             │\n│서류  │ 가. 사업자등록증 사본 1부                                                                      │\n│      │ 나. 시험설비 등 장비 현황 1부                                                                  │\n│      │ 다. 기술인력 현황 1부                                                                          │\n│      │ 라. 「국가표준기본법」 제23조에 따른 시험·검사기관 인정서 사본(해당시)                        │\n│      │2. 변경 신청의 경우(해당하는 경우에 한한다)                                                     │\n│      │ 가. 업체명, 대표자, 소재지 등의 변경을 입증하는 서류(사업자등록증 사본 등) 1부                 │\n│      │ 나. 시험설비 등 장비, 기술인력의 변경을 입증하는 서류 1부                                      │\n└───┴────────────────────────────────────────────────┘\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n작 성 방 법\n──────────────────────────────────────────────────────\n1. 변경신고 내용란은 변경신청에 해당하는 경우 적습니다.\n2. 첨부서류 중 시험설비 현황에 관한 서류는 해당 시험설비의 장비 사양, 사진, 정확도 및 재현성 data, 노면\n특성, 정비사항 등을 포함해야 하며 그 사진이 첨부되어야 합니다.\n2. 첨부서류 중 기술인력 현황에 관한 서류는 시험담당자 명단, 학력·경력 및 재직증명서 등을 포함해야 합니\n다.\n──────────────────────────────────────────────────────\n210mm×297mm[백상지 80g/㎡(재활용품)]\n\n\n(뒤쪽)\n━━━━━━━━━━━━━━━━━━━━━\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n━━━━━━━━━━━━━━━━━━━━━\n처 리 절 차\n─────────────────────\n\n\n이 신청서는 아래와 같이 처리됩니다.\n┌────────┬──────────┐\n│신청인          │처리기관            │\n│                ├──────────┤\n│                │국립환경과학원      │\n├────────┼──────────┤\n│                │                    │\n│┌──────┐│    ┌──────┐│\n││신청서 작성 ││  ▶│접수        ││\n││            ├┼─  │            ││\n││            ││    │            ││\n│└──────┘│    └─┬────┘│\n│   ▲           │        │          │\n│                │        │          │\n│  │            │                    │\n│  │            │       ▼           │\n│  │            │    ┌──────┐│\n│  │            │    │제출 서류 검토││\n│  │            │    └─┬────┘│\n│  │            │        │          │\n│  │            │                    │\n│  │            │       ▼           │\n│  │            │    ┌──────┐│\n│  │            │    │현 장 심 사 ││\n│  │            │    └─┬────┘│\n│  │            │        │(필요시)  │\n│  │            │                    │\n│  │            │       ▼           │\n│  │            │    ┌──────┐│\n│  │            │    │결재        ││\n│  │            │    └─┬────┘│\n│  │            │        │          │\n│  │            │                    │\n│  │            │       ▼           │\n│  │            │    ┌──────┐│\n│  │            │    │통보        ││\n│  └──────┼──┤            ││\n│                │    │            ││\n│                │    └──────┘│\n│                │                    │\n└────────┴──────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142854835",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142854789",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142854835",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:타이어소음도시험기관지정등에관한규정#BJ0001",
+      "filename": "별지1_타이어 소음도 시험기관(지정, 지정변경) 신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "타이어 소음도 시험기관 지정서",
+      "enforcement_date": "",
+      "content": "\n[별지 제2호 서식]\n\n\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃타이어 소음도 시험기관 지정서                                                                 ┃\n┠──────────┬────────────────────────────────────┨\n┃ ① 상  호 (명 칭)  │                                                                        ┃\n┠──────────┼────────────────────────────────────┨\n┃ ② 성  명 (대표자) │                                                                        ┃\n┠──────────┼────────────────────────────────────┨\n┃ ③ 주  소          │                                                                        ┃\n┃                    │  (전화번호:                        )                                   ┃\n┠─┰────────╁────────────────────────────────────┨\n┃승┃ ④ 시험설비 및 ┃                                                                        ┃\n┃인┃시설 소재지     ┃ (전화번호:                        )                                    ┃\n┃내┠────────╂────┰──┰────────────────────────────┨\n┃용┃ ⑤ 인력 현황   ┃기술인력┃성명┃자격사항                                                ┃\n┃  ┃                ┠────╂──╂────────────────────────────┨\n┃  ┃                ┃        ┃    ┃                                                        ┃\n┃  ┠────────╂────┸──╂────────────────────────────┨\n┃  ┃ ⑥ 장비 현황   ┃시설 및 장비  ┃기준                                                    ┃\n┃  ┃                ┠───────╂────────────────────────────┨\n┃  ┃                ┃              ┃                                                        ┃\n┃  ┞────────╀───────┸────────────────────────────┨\n┃  │ ⑦ 기타사항    │                                                                        ┃\n┠─┴────────┴────────────────────────────────────┨\n┃「타이어 소음도 시험기관 지정 등에 관한 규정」 제4조에 따라 타이어 소음도 시험기관에 적합함을 ┃\n┃확인합니다.                                                                                   ┃\n┃                                                                                              ┃\n┃ 년        월         일                                                                      ┃\n┃                                                                                              ┃\n┃                  ┏━━┓                                                                    ┃\n┃  국립환경과학원장┃직인┃                                                                    ┃\n┃                  ┗━━┛                                                                    ┃\n┖───────────────────────────────────────────────┚\n\n\n210mm×297mm[백상지 80g/㎡(재활용품)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142854841",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142854837",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142854841",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:타이어소음도시험기관지정등에관한규정#BJ0002",
+      "filename": "별지2_타이어 소음도 시험기관 지정서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "타이어 소음도 시험기관 지정 등에 관한 규정(국립환경과학원고시 제2024-32호).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=142854727",
+      "file_store_url": "",
+      "filename": "타이어 소음도 시험기관 지정 등에 관한 규정(국립환경과학원고시 제2024-32호).hwpx"
+    },
+    {
+      "name": "타이어 소음도 시험기관 지정 등에 관한 규정(국립환경과학원고시 제2024-32호).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=142854731",
+      "file_store_url": "",
+      "filename": "타이어 소음도 시험기관 지정 등에 관한 규정(국립환경과학원고시 제2024-32호).pdf"
+    },
+    {
+      "name": "대비표 (타이어 소음도 시험기관 지정등에 관한 규정 일부개정).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=142854735",
+      "file_store_url": "",
+      "filename": "대비표 (타이어 소음도 시험기관 지정등에 관한 규정 일부개정).hwp"
+    },
+    {
+      "name": "대비표 (타이어 소음도 시험기관 지정등에 관한 규정 일부개정).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=142854739",
+      "file_store_url": "",
+      "filename": "대비표 (타이어 소음도 시험기관 지정등에 관한 규정 일부개정).pdf"
+    },
+    {
+      "name": "(양식)조문별제개정이유서_타이어 소음도 시험기관 지정 등에 관한 규정.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=142854761",
+      "file_store_url": "",
+      "filename": "(양식)조문별제개정이유서_타이어 소음도 시험기관 지정 등에 관한 규정.hwp"
+    },
+    {
+      "name": "(양식)조문별제개정이유서_타이어 소음도 시험기관 지정 등에 관한 규정.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=142854765",
+      "file_store_url": "",
+      "filename": "(양식)조문별제개정이유서_타이어 소음도 시험기관 지정 등에 관한 규정.pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 19,
+    "by_category": {
+      "법령": 11,
+      "별표": 2,
+      "별지": 4,
+      "행정규칙": 2
+    },
+    "by_relation_type": {
+      "citation": 12,
+      "appendix_ref": 6,
+      "internal_ref": 1
+    },
+    "articles_total": 6,
+    "articles_with_relations": 6,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 2,
+    "appendices_count": 2,
+    "attachments_count": 6
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/타이어 소음도 시험기관 지정 등에 관한 규정"
+  },
+  "provision_id": "admrul:타이어소음도시험기관지정등에관한규정#DOC"
+}
