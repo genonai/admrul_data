@@ -1,0 +1,922 @@
+{
+  "law_id": "2100000244796",
+  "mst": "2100000244796",
+  "law_name": "항공통신업무 종사자 자격 및 교육훈련에 관한 규정",
+  "law_abbr": "",
+  "law_type": "훈령",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000244796",
+  "promulgation_no": "1782",
+  "promulgation_date": "20240722",
+  "enforcement_date": "20240722",
+  "revision_date": "20240722",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국토교통부(항행위성정책과)",
+    "담당자명": "신수용",
+    "행정규칙종류코드": "B0001",
+    "행정규칙명": "항공통신업무 종사자 자격 및 교육훈련에 관한 규정",
+    "발령일자": "20240722",
+    "행정규칙종류": "훈령",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국토교통부",
+    "전화번호": "044-201-4362",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1613000",
+    "생성일자": "20240723",
+    "행정규칙ID": "35700",
+    "시행일자": "20240722",
+    "담당부서기관코드": "1613796",
+    "발령번호": "1782",
+    "행정규칙일련번호": "2100000244796",
+    "상위부처명": "국토교통부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n국제민간항공기구(ICAO) 국제기준에 맞추어 국내 항공통신업무 종사자의 자격 기준을 수립하기 위해「항공통신업무종사자 교육훈련 규정」의 제명을「항공통신업무 종사자 자격 및 교육훈련에 관한 규정」으로 변경하고 항공통신업무 종사자의 교육훈련 실적을 전자시스템으로 관리하여 행정 효율성 개선하는 등 현행 제도의 운영상 나타난 일부 미비점을 보완하고자 함\n◇ 주요내용\n가. 항공이동통신업무 종사자의 자격 기준 및 자격 부여 방식 마련(안 제23조)\nㅇ 국제민간항공기구 부속서1(자격) 등에 근거하여 항공이동통신업무 수행에 필요한 교육, 평가, 경력 등의 기준 수립 및 자격부여에 대한 행정사항 규정\n나. 항공고정통신업무와 항공이동통신업무에 대한 용어의 정의 신설(안 제2조의4, 제2조의5)\n다. 교육훈련 수료증 발급자를 장관에서 소속기관 소속 부서장으로 변경(안 제21조)\nㅇ「항공안전공무원 교육훈련 규정」에서의 교육훈련 수료증과 형식을 통일하여 소속기관 부서장의 서명으로 별지 제1호서식에 따라 수료증 발급\n라. 항공통신업무 종사자 개인이력 및 교육훈련 실적의 관리방식 변경(안 제20조)\nㅇ 기존 개인별로 작성ㆍ유지하는 방식에서 전자시스템(통합항공안전정보시스템)에 기록하는 방식으로 변경하여 별지 제4호서식을 삭제",
+  "body": {
+    "format": "articles",
+    "article_count": 24,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조(목적) 이 규정은 「공항시설법」 제53조 및 같은 법 시행규칙 제44조제1항제1호와 제2호에 따라 수행하는 항공통신업무종사자에 대한 체계적인 교육훈련에 필요한 사항과 항공통신업무에 종사하기 위한 필수 자격요건에 대해 규정하는 것을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제53조",
+            "line_text": "",
+            "target_law_name": "공항시설법",
+            "target_article_no": "제53조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공항시설법/제53조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0001",
+            "reference_id": "law:공항시설법#JO0053"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행규칙",
+            "line_text": "",
+            "target_law_name": "공항시설법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공항시설법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0001",
+            "reference_id": "law:공항시설법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제44조제1항제1호와 제2호",
+            "line_text": "",
+            "target_law_name": "공항시설법 시행규칙",
+            "target_article_no": "제44조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공항시설법 시행규칙/제44조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0001",
+            "reference_id": "law:공항시설법시행규칙#JO0044"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "제1장 총칙",
+        "content": "제2조(정의) 이 규정에서 사용하는 용어의 뜻은 다음과 같다.1. ‘항공통신업무기관’이란 「공항시설법 시행규칙」 제44조제1항에 따라 항공통신업무를 수행하는 서울지방항공청, 부산지방항공청, 제주지방항공청, 항공교통본부를 말한다.2. ‘항공통신시설’이란 항공교통업무에 필요한 정보를 제공ㆍ교환ㆍ관리하기 위한 항공고정통신시설과 항공이동통신시설을 말한다.3. ‘항공통신업무종사자(이하 ‘종사자’라 한다)’란 항공고정통신업무와 항공이동통신업무를 수행하기 위하여 항공통신시설을 운용하는 사람을 말한다.4. \"항공고정통신업무\"란 항공고정통신업무를 수행하기 위하여 항공고정통신시스템(AFTN), 항공정보교환시설(AMHS) 등의 항공고정통신시설을 운용하는 업무를 말한다.5. \"항공이동통신업무\"란 항공이동통신업무를 수행하기 위하여 단파이동통신시설(HF Radio) 등의 항공이동통신시설을 운용하는 업무를 말한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「공항시설법 시행규칙」",
+            "line_text": "",
+            "target_law_name": "공항시설법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공항시설법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0002",
+            "reference_id": "law:공항시설법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제44조제1항",
+            "line_text": "",
+            "target_law_name": "공항시설법 시행규칙",
+            "target_article_no": "제44조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공항시설법 시행규칙/제44조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0002",
+            "reference_id": "law:공항시설법시행규칙#JO0044"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "적용 범위",
+        "chapter": "제1장 총칙",
+        "content": "제3조(적용 범위) 이 규정은 항공통신업무기관에서 항공통신업무 중 항공고정통신업무와 항공이동통신업무에 종사하는 사람에게 적용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "항공통신업무의 구분",
+        "chapter": "제1장 총칙",
+        "content": "제4조(항공통신업무의 구분) 항공통신업무는 「공항시설법 시행규칙」 제44조제1항에 따라 다음 각 호와 같이 구분한다.1. ‘항공고정통신업무’란 특정 지점 사이에 항공고정통신망 또는 항공정보교환망 등을 이용하여 항공 정보를 제공하거나 교환하는 업무를 말한다.2. ‘항공이동통신업무’란 항공국과 항공기국 사이에 단파이동통신시설 등을 이용하여 항공 정보를 제공하거나 교환하는 업무를 말한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「공항시설법 시행규칙」",
+            "line_text": "",
+            "target_law_name": "공항시설법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공항시설법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0004",
+            "reference_id": "law:공항시설법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제44조제1항",
+            "line_text": "",
+            "target_law_name": "공항시설법 시행규칙",
+            "target_article_no": "제44조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공항시설법 시행규칙/제44조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0004",
+            "reference_id": "law:공항시설법시행규칙#JO0044"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "기본 방침",
+        "chapter": "제1장 총칙",
+        "content": "제5조(기본 방침) ① 신규 임용 종사자는 제4조 각 호에 따른 직무를 수행하기 위해서는 초기교육훈련과 직무교육훈련을 받아야 한다.② 제4조 각 호에 따른 직무를 이미 수행하고 있는 종사자는 다음 각 호에 따른 교육훈련을 이수하여야 한다.1. 정기교육훈련2. 제4조 각 호에 따른 새로운 직무를 수행하기 위하여 이수하여야 하는 교육훈련(이하 \"신규보직자 교육훈련\"이라 한다). 다만, 종전에 받은 교육훈련의 내용 또는 해당 분야에서 근무한 경력에 따라 신규 임용자가 받아야 하는 교육훈련 중 그 일부를 생략하거나 기간을 단축할 수 있다.3. 제4조 각 호의 직을 겸하고 있는 종사자는 특별한 규정이 없는 한 해당 되는 모든 직의 교육훈련",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "항공통신업무 종사자 자격 및 교육훈련에 관한 규정",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/항공통신업무 종사자 자격 및 교육훈련에 관한 규정/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0005",
+            "reference_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0004"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "항공통신업무 종사자 자격 및 교육훈련에 관한 규정",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/항공통신업무 종사자 자격 및 교육훈련에 관한 규정/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0005",
+            "reference_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0004"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "항공통신업무 종사자 자격 및 교육훈련에 관한 규정",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/항공통신업무 종사자 자격 및 교육훈련에 관한 규정/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0005",
+            "reference_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0004"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "항공통신업무 종사자 자격 및 교육훈련에 관한 규정",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/항공통신업무 종사자 자격 및 교육훈련에 관한 규정/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0005",
+            "reference_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "위탁교육훈련",
+        "chapter": "제1장 총칙",
+        "content": "제6조(위탁교육훈련) 종사자의 위탁교육훈련은 「항공안전공무원 교육훈련 규정」에서 정하는 바에 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「항공안전공무원 교육훈련 규정」",
+            "line_text": "",
+            "target_law_name": "항공안전공무원 교육훈련 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/항공안전공무원 교육훈련 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0006",
+            "reference_id": "admrul:항공안전공무원교육훈련규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "교육훈련의 기회",
+        "chapter": "제1장 총칙",
+        "content": "제7조(교육훈련의 기회) ① 항공통신업무기관의 장은 종사자가 해당 분야의 직무수행 능력을 갖출 수 있도록 모든 종사자에게 동등한 교육훈련의 기회를 부여하여야 한다.② 항공통신업무기관의 장은 보직이 바뀐 직원에 대하여 새로운 직무수행에 필요한 교육훈련을 이수하도록 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "교육훈련 실시의무",
+        "chapter": "제1장 총칙",
+        "content": "제8조(교육훈련 실시의무) 항공통신업무기관의 장은 소속 종사자가 그 직무와 관련된 학식과 기술을 지니고 응용능력을 배양할 수 있도록 교육훈련계획에 따라 교육훈련을 해야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "교육훈련계획",
+        "chapter": "제2장 교육훈련계획",
+        "content": "제9조(교육훈련계획) ① 항공통신업무기관의 장은 소속 종사자에 대한 다음 연도 교육훈련계획을 수립하여 매년 12월 셋째 주 월요일까지 국토교통부장관에게 보고하여야 한다. 다만, 신규 임용자와 신규 보직자에 대한 교육훈련 계획은 임용과 전보발령 시기에 따라 수시로 수립하여 시행할 수 있다.② 제1항의 규정에도 불구하고 항공통신업무기관의 장은 긴급한 필요 또는 부득이한 사유가 있는 경우에는 연간 교육훈련계획에 포함되지 않은 교육훈련 계획을 수립하여 시행할 수 있으며, 이때에는 국토교통부장관에게 즉시 보고하여야 한다.③ 제1항과 제2항에 따른 교육훈련계획에 포함하여야 하는 사항은 다음 각 호와 같다.1. 교육훈련 대상2. 교육훈련 과정3. 교육훈련 인원4. 교육훈련 기간5. 교육훈련 기관6. 기타 교육훈련에 필요한 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "교육훈련 대상의 구분",
+        "chapter": "제2장 교육훈련계획",
+        "content": "제10조(교육훈련 대상의 구분) 종사자 교육훈련은 제4조의 담당업무에 따라 구분하여 시행하여야 한다. 다만, 각 분야에 공통되거나 유사한 교육훈련은 교육훈련 대상을 구분하지 아니하고 시행할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "항공통신업무 종사자 자격 및 교육훈련에 관한 규정",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/항공통신업무 종사자 자격 및 교육훈련에 관한 규정/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0010",
+            "reference_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "교육훈련 과정의 구분",
+        "chapter": "제2장 교육훈련계획",
+        "content": "제11조(교육훈련 과정의 구분) ① 항공통신업무기관의 장은 소속 종사자에 대하여 제4조 각 호의 담당업무 분야에 따라 다음 각 호의 필수교육훈련을 시행하여야 한다.1. 초기교육훈련: 신규 임용자 또는 신규 보직자에게 직무를 부여하기 위하여 직무와 관련하여 필요한 기본적인 지식과 기량을 전수하기 위한 교육훈련2. 직무교육훈련: 신규 임용자 또는 신규 보직자가 직무교육 훈련교관으로부터 업무시범 및 관찰과 실제 업무수행을 통하여 받는 교육훈련3. 정기교육훈련: 소관 업무 내용의 변경 또는 추가와 신기술의 도입 등에 따라 종사자에게 필요한 지식을 전수하고 업무숙련도 유지와 기량향상 등을 위하여 해당 직무에 따라 주기적으로 실시하는 교육훈련② 제1항 각 호의 담당 업무 분야별 필수교육훈련 과정은 별표와 같으며, 교과내용과 훈련시간 등에 관한 세부사항은 항공통신업무기관의 장이 별도로 정하여 실시한다.③ 항공통신업무기관의 장은 제1항에 따른 필수교육훈련 외에 필요하다고 인정하는 경우에는 다음 각 호의 교육훈련 과정을 포함하는 별도의 선택교육을 추가로 실시할 수 있다.1. 전문교육훈련: 종사자로서 특정한 업무수행에 필요한 전문적인 지식과 기량을 전수하기 위하여 실시하는 국내외 교육훈련2. 재자격부여교육훈련: 일시적으로 자격을 상실한 사람에게 다시 자격을 부여하기 위하여 실시하는 교육훈련④ 정기교육훈련의 유효기간은 교육훈련의 주기가 도래하는 연도의 말까지로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "항공통신업무 종사자 자격 및 교육훈련에 관한 규정",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/항공통신업무 종사자 자격 및 교육훈련에 관한 규정/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0011",
+            "reference_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "재자격부여교육훈련",
+        "chapter": "제2장 교육훈련계획",
+        "content": "제12조(재자격부여교육훈련) ① 항공통신업무기관의 장은 정기교육훈련을 이수하지 않아 일시적으로 자격을 상실한 사람에게 제4조 각 호의 구분에 따른 직무를 부여하기 위해서는 재자격부여교육훈련을 실시하여야 한다.② 재자격부여교육훈련은 제11조제1항제3호의 정기교육훈련을 이수토록 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "항공통신업무 종사자 자격 및 교육훈련에 관한 규정",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/항공통신업무 종사자 자격 및 교육훈련에 관한 규정/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0012",
+            "reference_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0004"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제2항",
+            "link_text": "제11조제1항제3호",
+            "line_text": "",
+            "target_law_name": "항공통신업무 종사자 자격 및 교육훈련에 관한 규정",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/항공통신업무 종사자 자격 및 교육훈련에 관한 규정/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0012",
+            "reference_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "교육훈련 방법",
+        "chapter": "제3장 교육훈련의 운영",
+        "content": "제13조(교육훈련 방법) 교육훈련은 국내외 항공안전교육훈련 여건을 고려하여 자체교육, 위탁교육 등 다양한 교육훈련 방법을 활용하여야 한다. 다만, 제11조에 따른 교육훈련과정 중 일부과목은 사이버교육을 활용할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조",
+            "source_clause": "제13조",
+            "link_text": "제11조",
+            "line_text": "",
+            "target_law_name": "항공통신업무 종사자 자격 및 교육훈련에 관한 규정",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/항공통신업무 종사자 자격 및 교육훈련에 관한 규정/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0013",
+            "reference_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "교관의 지정",
+        "chapter": "제3장 교육훈련의 운영",
+        "content": "제14조(교관의 지정) ① 항공통신업무기관의 장은 제11조에 따른 교육훈련 과정별 교관을 지정하여야 한다.② 직무교육훈련을 제외한 교육훈련의 교관은 다음 각 호의 어느 하나에 해당하는 사람 중에서 지명하거나 위촉한다.1. 항공정보통신 분야의 교육훈련을 이수한 자로서 2년 이상의 실무경험을 가지고 있는 사람  또는 이 분야에서 5년 이상의 실무경험을 가지고 있는 사람2. 대학 등 고등교육기관에서 항공정보통신 분야에 대한 지식을 가르치고 있는 사람3. 국내외 항공 관련 연구기관에서 해당 분야를 연구하고 있는 사람4. 국내외 항공 관련 교육훈련기관 또는 장비제작사에서 해당 분야를 가르치고 있는 사람③ 직무교육훈련의 교관은 현재 그 직무에 자격이 있는 사람 중에서 소속 부서장이 지명한다.④ 제2항과 제3항의 규정에도 불구하고 부득이한 사유로 교관의 자격을 갖춘 사람을 확보할 수 없는 경우에는 소속 부서장의 별도 승인을 받은 후 교관으로 임명할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제1항",
+            "link_text": "제11조",
+            "line_text": "",
+            "target_law_name": "항공통신업무 종사자 자격 및 교육훈련에 관한 규정",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/항공통신업무 종사자 자격 및 교육훈련에 관한 규정/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0014",
+            "reference_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "교안의 작성",
+        "chapter": "제3장 교육훈련의 운영",
+        "content": "제15조(교안의 작성) 교관은 교육훈련과정별 세부 교과내용과 교육훈련 시간 등을 별지 제2호서식에 따라 교육훈련 계획을 수립하고 교안을 작성하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제15조",
+            "source_clause": "제15조",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "항공통신업무 종사자 자격 및 교육훈련에 관한 규정",
+            "target_article_no": "별지2",
+            "target_article_title": "항공통신업무종사자 교육훈련 계획서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142829621",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0015",
+            "reference_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "초기교육훈련의 실시",
+        "chapter": "제3장 교육훈련의 운영",
+        "content": "제16조(초기교육훈련의 실시) ① 항공통신업무기관의 장은 신규 임용자 또는 신규 보직자에게 제4조에 따른 업무를 맡길 경우 직무교육을 하기 전에 21시간 이상의 초기교육을 이수하도록 하여야 한다.② 신규 보직자의 초기교육훈련은 종전과 같거나 그에 상응하는 교육훈련을 받은 경우 일부를 생략하거나 기간을 단축할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제1항",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "항공통신업무 종사자 자격 및 교육훈련에 관한 규정",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/항공통신업무 종사자 자격 및 교육훈련에 관한 규정/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0016",
+            "reference_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "직무교육훈련의 실시",
+        "chapter": "제3장 교육훈련의 운영",
+        "content": "제17조(직무교육훈련의 실시) 초기교육훈련을 이수한 후 항공고정통신업무 또는 항공이동통신업무의 보직을 받은 종사자는 70시간 이상의 직무교육훈련을 받아야 한다. 다만, 항공고정통신업무 중 서버를 보유하지 아니하는 항공통신업무기관 종사자의 직무교육훈련은 35시간 이상으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "정기교육훈련의 실시",
+        "chapter": "제3장 교육훈련의 운영",
+        "content": "제18조(정기교육훈련의 실시) ① 항공통신업무기관의 장은 종사자의 업무숙련도 유지 등을 위하여 별표에 따른 정기교육 훈련을 2년마다 14시간 이상 실시하여야 한다.② 항공통신업무기관의 장은 새 장비, 새로운 통신시스템 등에 종사자가 지속적으로 숙련할 수 있는 교육훈련 절차를 수립하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "교육훈련 평가 방법",
+        "chapter": "제4장 평가와 사후관리",
+        "content": "제19조(교육훈련 평가 방법) ① 항공통신업무기관의 장은 교육훈련을 이수한 종사자에 대하여 다음 각 호의 방법에 따라 평가하여야 한다.가. 출석상황(80% 이상)나. 교육내용에 대한 이론 평가다. 연구과제 평가라. 관련 시설 조작 능력 등 실기 평가마. 기타 교관이 평가가 필요하다고 판단되는 사항② 교육훈련의 평가는 교육훈련 항목별로 ‘적합(S)’ 또는 ‘부적합(U)’으로 구분하여 별지 제3호서식에 따라 평가한다.③ 제2항에 따른 평가 결과 부적합(U) 항목은 재교육 등으로 보완하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제2항",
+            "link_text": "별지 제3호서식",
+            "line_text": "",
+            "target_law_name": "항공통신업무 종사자 자격 및 교육훈련에 관한 규정",
+            "target_article_no": "별지3",
+            "target_article_title": "항공통신업무종사자 교육훈련 평가 보고서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142829627",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0019",
+            "reference_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#BJ0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "교육훈련 실적의 기록",
+        "chapter": "제4장 평가와 사후관리",
+        "content": "제20조(교육훈련 실적의 기록) ① 종사자는 개인이력과 교육훈련 실적을 통합항공안전정보시스템(NARMI)(이하 \"시스템\"이라 한다)에 입력ㆍ관리하여야 한다.② 제1항에 따라 시스템에 입력되어야 할 사항은 다음 각 호와 같다.1. 소속과 성명2. 교육훈련 과정 명칭3. 교육훈련 기관과 장소4. 교육훈련 기간과 시간5. 수료증6. 기타 필요한 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "수료증의 발급",
+        "chapter": "제4장 평가와 사후관리",
+        "content": "제21조(수료증의 발급) 교육훈련을 실시한 항공통신업무기관의 부서장은 교육훈련과정을 이수한 사람에 대하여 별지 제1호서식에 따라 수료증을 발급하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제21조",
+            "source_clause": "제21조",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "항공통신업무 종사자 자격 및 교육훈련에 관한 규정",
+            "target_article_no": "별지1",
+            "target_article_title": "수료증",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142829615",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0021",
+            "reference_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "교육 결과의 보고",
+        "chapter": "제4장 평가와 사후관리",
+        "content": "제22조(교육 결과의 보고) 항공통신업무기관의 장은 종사자에 대한 교육훈련 완료 결과를 매 분기 말까지 국토교통부장관에게 보고하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "항공이동통신업무 종사자 지정",
+        "chapter": "제4장 평가와 사후관리",
+        "content": "제23조(항공이동통신업무 종사자 지정) ① 항공이동통신 업무에 종사하기 위해서는 제5조제1항의 초기교육훈련과 직무교육훈련을 이수하여야 하고 다음 각 호를 충족하여 제3항에 따라 국토교통부장관의 지정을 받아야 한다.1. 항공영어구술능력증명(EPTA) 무선통신사 4등급 이상 취득2. 항공이동통신업무 종사자로 지정된 자와 해당 업무 6개월 이상 근무② 항공통신업무기관의 장은 제1항을 충족한 사람에 대한 다음 각 호의 문서 또는 자료를 국토교통부장관에게 제출하여야 한다.1. 초기교육훈련, 직무교육훈련 수료증2. 제1항의 각 호를 증빙할 수 있는 문서 및 자료③ 국토교통부장관은 제2항에 따라 제출받은 문서 및 자료를 검토하여 보완이 필요한 경우 수정 또는 추가 제출을 요구하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제23조",
+            "source_clause": "제23조제1항",
+            "link_text": "제5조제1항",
+            "line_text": "",
+            "target_law_name": "항공통신업무 종사자 자격 및 교육훈련에 관한 규정",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/항공통신업무 종사자 자격 및 교육훈련에 관한 규정/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0023",
+            "reference_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "재검토기한",
+        "chapter": "제4장 평가와 사후관리",
+        "content": "제24조(재검토기한)  국토교통부장관은 이 훈령에 대하여 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2024년 7월 1일 기준으로 매3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제24조",
+            "source_clause": "제24조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0024",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#JO0024"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20130529",
+      "promulgation_no": "2013-236",
+      "content": "부칙 <제2013-236호,2013. 5. 29.>이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20150309",
+      "promulgation_no": "497",
+      "content": "부칙 <제497호,2015. 3. 9.>이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20160831",
+      "promulgation_no": "744",
+      "content": "부칙 <제744호,2016. 8. 31.>이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20170428",
+      "promulgation_no": "837",
+      "content": "부칙 <제837호,2017. 4. 28.>이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20170920",
+      "promulgation_no": "921",
+      "content": "부칙 <제921호,2017. 9. 20.>이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20240722",
+      "promulgation_no": "1782",
+      "content": "부칙 <제1782호, 2024. 7. 22.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다.제2조(항공이동통신업무 종사자의 자격에 관한 경과조치) 이 훈령 시행 전 항공이동통신업무에 종사하고 있는 자는 제23조의 개정 규정에 따라 지정된 것으로 본다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "항공통신업무종사자 교육훈련 과목",
+      "enforcement_date": "",
+      "content": "[별표]\n항공통신업무종사자 교육훈련 과목\n1. 초기교육훈련\n┏━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━┯━━━━┯━━━┓\n┃교 과 목                │주 요  내 용                                  │교육    │비 고 ┃\n┃                        │                                              │시간    │      ┃\n┠────────────┼───────────────────────┼────┼───┨\n┃7개                     │-                                             │21시간  │      ┃\n┠────────────┼───────────────────────┼────┼───┨\n┃가. 항공법규와 국제민간 │- 항공안전 정책                               │4       │      ┃\n┃항공기구(ICAO) 기준     │- 항공통신 국제동향과 국가 정책               │        │      ┃\n┠────────────┼───────────────────────┼────┼───┨\n┃나. 항행시스템의 이해   │- 항공고정과 이동통신업무 관련 운영 방법 및 절│4       │      ┃\n┃                        │차                                            │        │      ┃\n┃                        │- 항행시스템 개론                             │        │      ┃\n┃                        │- 항공통신시스템 실무                         │        │      ┃\n┠────────────┼───────────────────────┼────┼───┨\n┃다. 항공관제와 비행정보 │- 항공관제 절차(항로, 접근, 비행장)           │2       │      ┃\n┃                        │- 비행계획서 처리 절차                        │        │      ┃\n┠────────────┼───────────────────────┼────┼───┨\n┃라. 항공기상            │- 항공기상 관측과 통보 절차                   │2       │      ┃\n┃                        │- 세계 공역예보 체계                          │        │      ┃\n┠────────────┼───────────────────────┼────┼───┨\n┃마.단파이동통신시설(HF  │- HF Radio 조작방법과 운용 절차               │2       │      ┃\n┃Radio) 운영 절차        │- HF Radio 전파 예보 등                       │        │      ┃\n┠────────────┼───────────────────────┼────┼───┨\n┃바.항공고정통신망       │- 항공고정통신업무 개요                       │3       │      ┃\n┃(AFTN) 운영 절차        │- 항공정보교환시스템 작동원리와 운영 절차     │        │      ┃\n┃                        │- 항공정보데이터베이스 시스템 운용 절차       │        │      ┃\n┠────────────┼───────────────────────┼────┼───┨\n┃사.차세대 항공통신시설  │-항공종합통신망(ATN) 등 CNS/ATM의 통신 분야   │4       │      ┃\n┗━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━┷━━━━┷━━━┛\n2. 직무교육훈련\n가. 항공고정통신업무\n1) 국제민간항공협약 부속서 10과 항공통신업무 운영 규정 등 항공통신 관련 규정의 내용 중 항공고정통신업무와 관련된 사항\n2) 항공정보간행물(AIP) 내용 중 항공고정통신업무와 관련된 일반적인 사항\n3) 항공고정통신시설 서버와 단말기 운영 절차\n4) ICAO 지명약어와 3문자 지정자(DOC7910/8585), NOTAM code 등 업무용 약어\n5) 비행계획서, 기상과 항공고시보 등 항공 정보의 이해\n6) 항공고정통신시설의 구성과 통신망\n7) 통신선로와 시스템 장애 시 조치 요령\n8) 조난, 긴급 전문의 조치요령과 보고 절차\n9) 가입자 등의 등록, 삭제 등 가입자 관리 절차\n10) 기타 항공고정통신업무 수행에 필요한 사항\n나. 항공이동통신업무\n1)국제민간항공협약 부속서 10과 항공통신업무 운영 규정 등 항공통신 관련 규정의 내용 중 항공이동통신업무와 관련된 사항\n2) 항공정보간행물(AIP) 내용 중 항공이동통신업무와 관련된 일반적인 사항\n3) 전파법 등 전파 관련 법규\n4) 항공도 독도법\n5) 전파와 안테나에 관한 일반적인 사항\n6) 통신실무 영어\n7) ICAO 지명약어와 3문자 지정자(DOC7910/8585), Q-code 등 업무용 약어\n8) 비행계획서, 기상과 항공고시보 등 항공 정보의 이해\n9) 항공이동통신시설의 구성ㆍ통신망과 운용 절차\n10) 이동통신시설 장애 시 조치 요령\n11) 조난과 긴급 상황 발생 시 처리 절차\n12) 기타 항공이동통신업무 수행에 필요한 사항\n3. 정기교육훈련\n가. 주장비(서버) 장애시 복구 및 전문처리 절차\n나. 지방공항 고정통신시설 장애시 복구 및 처리 절차\n다. 항공교통관제시스템 장애시 전문처리절차\n라. 항공이동통신시설 장애시 복구 및 교신 절차\n마. 조난, 불법방해, 폭파위협 등 긴급 상황 발생에 대한 처리 절차\n바. 항공기 무선통신 두절시 처리절차\n사. 비정상 상황보고 및 처리절차 등\n아. 항공통신관련 국내외 법령 등의 개정 내용\n자. 항공통신관련 신기술 개발과 실용화 동향 등",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142829609",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142829601",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142829609",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#BYL0000",
+      "filename": "별표0_항공통신업무종사자 교육훈련 과목.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "수료증",
+      "enforcement_date": "",
+      "content": "[별지 제1호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                                  ┃\n┃국 토 교 통 부                                                    ┃\n┃                                                                  ┃\n┃Ministry of Land, Infrastructure and Transport                    ┃\n┃                                                                  ┃\n┃Republic of Korea                                                 ┃\n┃                                                                  ┃\n┃수     료     증                                                  ┃\n┃                                                                  ┃\n┃CERTIFICATE OF COMPLETION                                         ┃\n┃                                                                  ┃\n┃ 소  속: ○ ○ ○                                                 ┃\n┃                                                                  ┃\n┃ 성  명:                   (영문)                                 ┃\n┃                                                                  ┃\n┃ 과정명:                 (영문)                                   ┃\n┃                                                                  ┃\n┃ 기  간: 20  .  .  .  ~   .  .  .(  시간)                         ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃      귀하는 ○ ○ ○에서 실시한                     과정을 수료하┃\n┃였기에 이 증서를 드립니다.                                        ┃\n┃                                                                  ┃\n┃ (This is to certify that the above person has successfully       ┃\n┃completed the                        for                          ┃\n┃                                                                  ┃\n┃                                                   )              ┃\n┃                                                                  ┃\n┃20  년   월   일                                                  ┃\n┃                                                                  ┃\n┃국토교통부장관(부서장)                                            ┃\n┃                                                                  ┃\n┃(                                      )                          ┃\n┃                                                                  ┃\n┃Ministry of Land, Infrastructure and Transport                    ┃\n┃                                                                  ┃\n┃REPUBLIC OF KOREA                                                 ┃\n┃                                                                  ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142829615",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142829611",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142829615",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#BJ0001",
+      "filename": "별지1_수료증.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "항공통신업무종사자 교육훈련 계획서",
+      "enforcement_date": "",
+      "content": "[별지 제2호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃항공통신업무종사자 교육훈련 계획서                                      ┃\n┃(Aeronautical Communication Operator OJT Plan)                          ┃\n┠───────┬─────┬─────────┬────────────┨\n┃ 1.성명(Name) │          │ 2.소속(Position) │                        ┃\n┠───────┴─────┴──────┬──┴─────┬──────┨\n┃ 3.교육훈련 내용(Job Tasks for Training)│4.기간(Duration)│5.시간(Time)┃\n┠────────────────────┼────────┼──────┨\n┃                                        │                │            ┃\n┠────────────────────┼────────┼──────┨\n┃                                        │                │            ┃\n┠────────────────────┼────────┼──────┨\n┃                                        │                │            ┃\n┠────────────────────┼────────┼──────┨\n┃                                        │                │            ┃\n┠────────────────────┼────────┼──────┨\n┃                                        │                │            ┃\n┠────────────────────┼────────┼──────┨\n┃                                        │                │            ┃\n┠────────────────────┼────────┼──────┨\n┃                                        │                │            ┃\n┠────────────────────┼────────┼──────┨\n┃                                        │                │            ┃\n┠────────────────────┼────────┼──────┨\n┃                                        │                │            ┃\n┠────────────────────┼────────┼──────┨\n┃                                        │                │            ┃\n┠────────────────────┼────────┼──────┨\n┃                                        │                │            ┃\n┠────────────────────┼────────┼──────┨\n┃                                        │                │            ┃\n┠────────────────────┼────────┼──────┨\n┃                                        │                │            ┃\n┠────────────────────┼────────┼──────┨\n┃                                        │                │            ┃\n┠────────────────────┼────────┼──────┨\n┃                                        │                │            ┃\n┠────────────────────┼────────┼──────┨\n┃                                        │                │            ┃\n┠────────────┬───────┴────────┴──────┨\n┃ 6. OJT 교관(Instructor)│ 7. 청장 또는 본부장 서명                     ┃\n┃                        │                                              ┃\n┃                        │                                              ┃\n┃                        │                                              ┃\n┃─────────      │  ─────────────────          ┃\n┃                        │                                              ┃\n┗━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142829621",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142829617",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142829621",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#BJ0002",
+      "filename": "별지2_항공통신업무종사자 교육훈련 계획서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "항공통신업무종사자 교육훈련 평가 보고서",
+      "enforcement_date": "",
+      "content": "[별지 제3호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃항공통신업무종사자 교육훈련 평가 보고서                               ┃\n┃(Aeronautical Communication Operator OJT Evaluation Report)           ┃\n┠───────┬─────┬─────────┬───────────┨\n┃ 1.성명(Name) │          │ 2.소속(Position) │                      ┃\n┠───────┴─────┴────┬────┴─┬─────────┨\n┃ 3.교육훈련 내용(Job Tasks Trained) │4.일자(Date)│5.평가(Evaluation)┃\n┠──────────────────┼──────┼─────────┨\n┃                                    │            │                  ┃\n┠──────────────────┼──────┼─────────┨\n┃                                    │            │                  ┃\n┠──────────────────┼──────┼─────────┨\n┃                                    │            │                  ┃\n┠──────────────────┼──────┼─────────┨\n┃                                    │            │                  ┃\n┠──────────────────┼──────┼─────────┨\n┃                                    │            │                  ┃\n┠──────────────────┼──────┼─────────┨\n┃                                    │            │                  ┃\n┠──────────────────┼──────┼─────────┨\n┃                                    │            │                  ┃\n┠──────────────────┼──────┼─────────┨\n┃                                    │            │                  ┃\n┠──────────────────┼──────┼─────────┨\n┃                                    │            │                  ┃\n┠──────────────────┼──────┼─────────┨\n┃                                    │            │                  ┃\n┠──────────────────┼──────┼─────────┨\n┃                                    │            │                  ┃\n┠──────────────────┼──────┼─────────┨\n┃                                    │            │                  ┃\n┠──────────────────┼──────┼─────────┨\n┃                                    │            │                  ┃\n┠──────────────────┼──────┼─────────┨\n┃                                    │            │                  ┃\n┠──────────────────┼──────┼─────────┨\n┃                                    │            │                  ┃\n┠──────────────────┼──────┼─────────┨\n┃                                    │            │                  ┃\n┠────────────┬─────┴──────┴─────────┨\n┃ 6. OJT 교관(Instructor)│ 7. 청장 또는 본부장 서명                   ┃\n┃                        │                                            ┃\n┃                        │                                            ┃\n┃                        │                                            ┃\n┃─────────      │  ─────────────                ┃\n┃                        │                                            ┃\n┗━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142829627",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142829623",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142829627",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#BJ0003",
+      "filename": "별지3_항공통신업무종사자 교육훈련 평가 보고서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "(개정안)항공통신업무 종사자 자격 및 교육훈련에 관한 규정.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=142816333",
+      "file_store_url": "",
+      "filename": "(개정안)항공통신업무 종사자 자격 및 교육훈련에 관한 규정.pdf"
+    },
+    {
+      "name": "조문별 제·개정이유서.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=142828989",
+      "file_store_url": "",
+      "filename": "조문별 제·개정이유서.hwpx"
+    },
+    {
+      "name": "조문별 제·개정이유서.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=142828993",
+      "file_store_url": "",
+      "filename": "조문별 제·개정이유서.pdf"
+    },
+    {
+      "name": "항공통신업무 종사자 자격 및 교육훈련에 관한 규정(국토부훈령 제1782호).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=142829113",
+      "file_store_url": "",
+      "filename": "항공통신업무 종사자 자격 및 교육훈련에 관한 규정(국토부훈령 제1782호).hwpx"
+    },
+    {
+      "name": "항공통신업무 종사자 자격 및 교육훈련에 관한 규정(국토부훈령 제1782호).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=142829117",
+      "file_store_url": "",
+      "filename": "항공통신업무 종사자 자격 및 교육훈련에 관한 규정(국토부훈령 제1782호).pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 24,
+    "by_category": {
+      "법령": 7,
+      "행정규칙": 14,
+      "별지": 3
+    },
+    "by_relation_type": {
+      "citation": 9,
+      "internal_ref": 12,
+      "appendix_ref": 3
+    },
+    "articles_total": 24,
+    "articles_with_relations": 16,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 6,
+    "appendices_count": 4,
+    "attachments_count": 5
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/항공통신업무 종사자 자격 및 교육훈련에 관한 규정"
+  },
+  "provision_id": "admrul:항공통신업무종사자자격및교육훈련에관한규정#DOC"
+}
