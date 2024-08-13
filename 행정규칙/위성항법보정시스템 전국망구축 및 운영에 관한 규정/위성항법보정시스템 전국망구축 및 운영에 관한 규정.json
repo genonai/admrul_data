@@ -1,0 +1,325 @@
+{
+  "law_id": "2100000245984",
+  "mst": "2100000245984",
+  "law_name": "위성항법보정시스템 전국망구축 및 운영에 관한 규정",
+  "law_abbr": "",
+  "law_type": "훈령",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000245984",
+  "promulgation_no": "766",
+  "promulgation_date": "20240813",
+  "enforcement_date": "20240813",
+  "revision_date": "20240813",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "해양수산부(항행정보정책과)",
+    "담당자명": "임영민",
+    "행정규칙종류코드": "B0001",
+    "행정규칙명": "위성항법보정시스템 전국망구축 및 운영에 관한 규정",
+    "발령일자": "20240813",
+    "행정규칙종류": "훈령",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "해양수산부",
+    "전화번호": "051-773-5876",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1192000",
+    "생성일자": "20250120",
+    "행정규칙ID": "29698",
+    "시행일자": "20240813",
+    "담당부서기관코드": "1192648",
+    "발령번호": "766",
+    "행정규칙일련번호": "2100000245984",
+    "상위부처명": "해양수산부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정이유\n○ 현행 규정에 기술 용어의 명확한 의미 전달을 위해 문구를 올바르게 하고, \"2024년 7월 1일 기준으로 매 3년이 되는 시점\"으로 검토기한을 재설정하기 위해 정비하고자 함\n◇ 개정내용\n○ 현행 규정의 기술용어를 올바르게 정비(안 제2조, 제6조, 제7조)\n○ 상위 준용 규정의 개정사항 반영(안 제8조)\n○ 「알기쉬운법령 정비기준」에 따라 자구 수정(안 제4조, 제5조, 제7조, 제8조)",
+  "body": {
+    "format": "articles",
+    "article_count": 9,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규정은 위성항법시스템(GNSS)의 위치오차를 보정ㆍ전송하는 위성항법보정시스템(DGNSS)의 전국망을 설치ㆍ운영함으로써 전국의 이용자에게 실시간으로 위치보정정보를 제공함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:위성항법보정시스템전국망구축및운영에관한규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) 이 규정에서 위성항법보정시스템(Differential Global Navigation Satellite System. 이하 \"DGNSS\"라 한다)이란 「항로표지법」 제10조 및 같은 법 시행령 제4조제1항에 따라 설치ㆍ관리하고 있는 항로표지로서 위성항법시스템(Global Navigation Satellite System. 이하 \"GNSS\"라 한다)의 위치오차를 보정한 보정정보, 위치측정용 인공위성의 상태 등을 이용자에게 실시간으로 제공하는 시스템을 말한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제10조",
+            "line_text": "",
+            "target_law_name": "항로표지법",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항로표지법/제10조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:위성항법보정시스템전국망구축및운영에관한규정#JO0002",
+            "reference_id": "law:항로표지법#JO0010"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "항로표지법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항로표지법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:위성항법보정시스템전국망구축및운영에관한규정#JO0002",
+            "reference_id": "law:항로표지법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제4조제1항",
+            "line_text": "",
+            "target_law_name": "항로표지법 시행령",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항로표지법 시행령/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:위성항법보정시스템전국망구축및운영에관한규정#JO0002",
+            "reference_id": "law:항로표지법시행령#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:위성항법보정시스템전국망구축및운영에관한규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "DGNSS의 구성",
+        "chapter": "",
+        "content": "제3조(DGNSS의 구성) DGNSS는 GNSS의 전파를 수신하여 위치오차를 보정ㆍ전송하는 기준국과 동 기준국의 운영상황을 감시하는 감시국 및 각 기준국ㆍ감시국 기능을 확인ㆍ통제 및 자료처리하는 중앙사무소로 구성한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:위성항법보정시스템전국망구축및운영에관한규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "DGNSS의 설치 및 운영",
+        "chapter": "",
+        "content": "제4조(DGNSS의 설치 및 운영) ① 해양수산부장관은 실시간 위치보정정보를 필요로 하는 자가 전국 어디에서나 이용할 수 있도록 하기 위하여 해상 기준국과 연계 운영할 수 있는 내륙 기준국을 설치ㆍ운영한다.② 제1항에 따라 설치하는 기준국은 인접 기준국의 전파이용범위가 서로 겹치도록 구축해야 하며, 한 개의 기준국에 고장 등 이상이 발생하였을 경우에도 이용자가 다른 기준국을 이용할 수 있도록 해야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:위성항법보정시스템전국망구축및운영에관한규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "협의",
+        "chapter": "",
+        "content": "제5조(협의) ① 해양수산부장관은 제4조에 따라 내륙 기준국을 설치할 경우에는 관계 중앙행정기관의 장과 협의해야 한다.② 해양수산부장관은 관계 중앙행정기관의 장으로부터 기준국의 설치요청이 있는 경우 그 타당성이 인정되는 때에는 이를 설치해야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "항로표지법 시행령",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항로표지법 시행령/제4조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:위성항법보정시스템전국망구축및운영에관한규정#JO0005",
+            "reference_id": "law:항로표지법시행령#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:위성항법보정시스템전국망구축및운영에관한규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "위치보정정보의 제공 및 자료보관",
+        "chapter": "",
+        "content": "제6조(위치보정정보의 제공 및 자료보관) ① 해양수산부장관은 각 기준국의 위치보정정보를 실시간으로 전송해야 하며, 위치보정정보가 부정확하거나 이용이 불가능한 때에는 고장정보를 전송해야 한다.② 해양수산부장관은 제1항에 따른 위치보정정보는 무상으로 제공해야 한다.③ 해양수산부장관은 제1항에 따른 위치보정정보자료를 5년간 보관해야 한다.④ 해양수산부장관은 제3항에 따라 보관한 자료를 다른 행정기관이 이용하기 위하여 요청하는 때에는 이를 제공해야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:위성항법보정시스템전국망구축및운영에관한규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "기술개발 및 지원",
+        "chapter": "",
+        "content": "제7조(기술개발 및 지원) ① 해양수산부장관은 DGNSS의 기능개선 및 이용자의 편의증진을 위하여 필요한 기술개발을 추진해야 한다.② 해양수산부장관은 관계부처ㆍ학계ㆍ연구기관 또는 관련업체로부터 DGNSS 기능에 대한 개선 요구가 있을 때에는 그 타당성을 검토하여 기능개선을 해야 한다.③ 해양수산부장관은 DGNSS 및 위치보정정보 이용장비의 기술개발이 필요하다고 인정되는 때에는 예산의 범위에서 학계ㆍ연구기관 또는 관련업체에 기술개발에 필요한 개발비를 지원할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:위성항법보정시스템전국망구축및운영에관한규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "보안대책",
+        "chapter": "",
+        "content": "제8조(보안대책) ① 해양수산부장관은 DGNSS의 파괴 또는 기능마비 등을 방지하기 위하여 관계 중앙행정기관과 협의 후 다음 각 호의 보안대책을 마련해야 한다.1. 기준국별 보안관리 책임자 지정2. 시설 및 장비의 보호관리 업무수행3. 시설ㆍ장비의 파괴, 위치정보의 교란 등 불순행위 방지대책의 수립ㆍ시행4. 「보안업무규정」 제34조 규정에 따른 보호지역의 설정② 해양수산부장관은 제1항에 따른 보안대책 외에 관계 중앙행정기관의 장이 기준국의 운영에 관한 보안대책을 요청할 경우 이를 검토한 후 필요한 조치를 해야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "「보안업무규정」",
+            "line_text": "",
+            "target_law_name": "보안업무규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/보안업무규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:위성항법보정시스템전국망구축및운영에관한규정#JO0008",
+            "reference_id": "law:보안업무규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "제34조",
+            "line_text": "",
+            "target_law_name": "보안업무규정",
+            "target_article_no": "제34조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/보안업무규정/제34조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:위성항법보정시스템전국망구축및운영에관한규정#JO0008",
+            "reference_id": "law:보안업무규정#JO0034"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:위성항법보정시스템전국망구축및운영에관한규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제9조(재검토기한) 해양수산부장관은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 훈령에 대하여 2024년 7월 1일 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 해야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:위성항법보정시스템전국망구축및운영에관한규정#JO0009",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:위성항법보정시스템전국망구축및운영에관한규정#JO0009"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20080711",
+      "promulgation_no": "127",
+      "content": "부칙 <제127호,2008. 7. 11.>이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20130508",
+      "promulgation_no": "18",
+      "content": "부칙 <제18호,2013. 5. 8.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20180813",
+      "promulgation_no": "431",
+      "content": "부칙 <제431호,2018. 8. 13.>이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20211213",
+      "promulgation_no": "632",
+      "content": "부칙 <제632호, 2021. 12. 13.>이 훈령은 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "조문별 개정 이유서(위성항법보정시스템 전국망구축 및 운영에 관한 규정 일부개정).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=148567225",
+      "file_store_url": "",
+      "filename": "조문별 개정 이유서(위성항법보정시스템 전국망구축 및 운영에 관한 규정 일부개정).hwp"
+    },
+    {
+      "name": "[개정전문] (위성항법보정시스템 전국망구축 및 운영에 관한 규정 일부개정안).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=148580635",
+      "file_store_url": "",
+      "filename": "[개정전문] (위성항법보정시스템 전국망구축 및 운영에 관한 규정 일부개정안).hwpx"
+    },
+    {
+      "name": "[개정전문] (위성항법보정시스템 전국망구축 및 운영에 관한 규정 일부개정안).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=148580639",
+      "file_store_url": "",
+      "filename": "[개정전문] (위성항법보정시스템 전국망구축 및 운영에 관한 규정 일부개정안).pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 7,
+    "by_category": {
+      "법령": 6,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 7
+    },
+    "articles_total": 9,
+    "articles_with_relations": 4,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 4,
+    "appendices_count": 0,
+    "attachments_count": 3
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/위성항법보정시스템 전국망구축 및 운영에 관한 규정"
+  },
+  "provision_id": "admrul:위성항법보정시스템전국망구축및운영에관한규정#DOC"
+}
