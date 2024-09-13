@@ -1,0 +1,842 @@
+{
+  "law_id": "2100000247198",
+  "mst": "2100000247198",
+  "law_name": "차량 사고원인자의 도로시설물 복구 업무처리 지침",
+  "law_abbr": "",
+  "law_type": "예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000247198",
+  "promulgation_no": "409",
+  "promulgation_date": "20240913",
+  "enforcement_date": "20240913",
+  "revision_date": "20240913",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국토교통부(도로시설안전과)",
+    "담당자명": "최진성",
+    "행정규칙종류코드": "B0002",
+    "행정규칙명": "차량 사고원인자의 도로시설물 복구 업무처리 지침",
+    "발령일자": "20240913",
+    "행정규칙종류": "예규",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국토교통부",
+    "전화번호": "044-201-3925",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1613000",
+    "생성일자": "20240919",
+    "행정규칙ID": "64723",
+    "시행일자": "20240913",
+    "담당부서기관코드": "1613635",
+    "발령번호": "409",
+    "행정규칙일련번호": "2100000247198",
+    "상위부처명": "국토교통부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정이유 및 주요내용\n「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」제7조에 따라 유효기간을 ‘2024년 9월 17일’에서 ‘2027년 9월 17일’로 연장하고자 함",
+  "body": {
+    "format": "articles",
+    "article_count": 12,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총  칙",
+        "content": "제1조(목적) 이 지침은 「도로법」\n제35조(공사원인자 등에 대한 공사시행명령 등), 같은 법\n제91조(원인자의 비용 부담 등)에 따라 도로시설물의 복구ㆍ관리에 관한 사항과 그 절차를 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「도로법」",
+            "line_text": "",
+            "target_law_name": "도로법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도로법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0001",
+            "reference_id": "law:도로법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제35조",
+            "line_text": "",
+            "target_law_name": "도로법",
+            "target_article_no": "제35조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도로법/제35조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0001",
+            "reference_id": "law:도로법#JO0035"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법",
+            "line_text": "",
+            "target_law_name": "도로법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도로법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0001",
+            "reference_id": "law:도로법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제91조",
+            "line_text": "",
+            "target_law_name": "도로법",
+            "target_article_no": "제91조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도로법/제91조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0001",
+            "reference_id": "law:도로법#JO0091"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "용어의 정의",
+        "chapter": "제1장 총  칙",
+        "content": "제2조(용어의 정의) 이 지침에서 사용되는 용어의 정의는 다음과 같다.1. \"도로\"란 차도, 보도 등 도로 및 도로시설, 도로부속물을 포함한 것으로 「도로법」(이하 \"법\"이라고 한다) 제2조에서 규정한 도로를 말한다.2. \"도로관리청\"이란 도로에 관한 계획, 건설, 관리의 주체가 되는 기관으로서 법 제23조에서 규정하는 기관을 말한다.3. \"도로복구 공사\"란 차량사고로 인하여 도로 손괴가 발생하여 법 제35조에 따라 시행하는 도로공사를 말한다.4. \"원인자\"란 도로복구 공사를 필요하게 한 자를 말한다.5. \"원인자부담금\"이란 원인자가 도로복구 공사를 위해 부담하는 비용을 말한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「도로법」",
+            "line_text": "",
+            "target_law_name": "도로법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도로법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0002",
+            "reference_id": "law:도로법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "도로법",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도로법/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0002",
+            "reference_id": "law:도로법#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "도로법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도로법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0002",
+            "reference_id": "law:도로법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제23조",
+            "line_text": "",
+            "target_law_name": "도로법",
+            "target_article_no": "제23조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도로법/제23조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0002",
+            "reference_id": "law:도로법#JO0023"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "도로법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도로법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0002",
+            "reference_id": "law:도로법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제35조",
+            "line_text": "",
+            "target_law_name": "도로법",
+            "target_article_no": "제35조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도로법/제35조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0002",
+            "reference_id": "law:도로법#JO0035"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "도로복구ㆍ관리 원칙",
+        "chapter": "제2장 도로시설물의 복구ㆍ관리",
+        "content": "제3조(도로복구ㆍ관리 원칙) 국토교통부장관은 도로 손괴 등으로 인해 도로복구 공사가 필요한 경우 법 제35조에 따라 그 원인자에게 도로공사를 시행하게 할 수 있다. 다만, 도로관리에 지장을 초래하는 경우에는 직접 공사를 시행하고 법 제91조에 따라 도로관리청이 그 비용의 전부 또는 일부를 원인자에게 부담시킬 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "도로법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도로법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0003",
+            "reference_id": "law:도로법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제35조",
+            "line_text": "",
+            "target_law_name": "도로법",
+            "target_article_no": "제35조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도로법/제35조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0003",
+            "reference_id": "law:도로법#JO0035"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "도로법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도로법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0003",
+            "reference_id": "law:도로법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제91조",
+            "line_text": "",
+            "target_law_name": "도로법",
+            "target_article_no": "제91조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도로법/제91조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0003",
+            "reference_id": "law:도로법#JO0091"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "원인자 확인",
+        "chapter": "제2장 도로시설물의 복구ㆍ관리",
+        "content": "제4조(원인자 확인) 도로관리청은 도로복구 공사를 위해 원인자를 확인하기 위하여 법 제91조제5항에 따라 정보제공을 요청할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "도로법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도로법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0004",
+            "reference_id": "law:도로법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제91조제5항",
+            "line_text": "",
+            "target_law_name": "도로법",
+            "target_article_no": "제91조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도로법/제91조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0004",
+            "reference_id": "law:도로법#JO0091"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "서류보전",
+        "chapter": "제2장 도로시설물의 복구ㆍ관리",
+        "content": "제5조(서류보전) 도로관리청은 도로복구 및 원인자부담금 징수를 위해 필요한 다음 각 호의 서류를 작성ㆍ확보하여야 한다.1. 별지 제1호의 현지조사서2. 별지 제2호의 원상복구비용 산출서3. 현장사진 등 기타 증거보전에 필요한 관련서류",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "별지 제1호",
+            "line_text": "",
+            "target_law_name": "차량 사고원인자의 도로시설물 복구 업무처리 지침",
+            "target_article_no": "별지1",
+            "target_article_title": "현지조사서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144298715",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0005",
+            "reference_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#BJ0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "별지 제2호",
+            "line_text": "",
+            "target_law_name": "차량 사고원인자의 도로시설물 복구 업무처리 지침",
+            "target_article_no": "별지2",
+            "target_article_title": "원상복구비용산출서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144298721",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0005",
+            "reference_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "확인불능 시 조치",
+        "chapter": "제2장 도로시설물의 복구ㆍ관리",
+        "content": "제6조(확인불능 시 조치) 도로관리청은 제4조의 정보제공 요청에도 불구하고 원인자 거주정보 불일치 등의 사유로 원인자를 파악할 수 없는 경우 제5조의 서류를 작성ㆍ확보한 후 우선 복구조치하고 사후에 원인자를 확인할 수 있는 경우 원인자에게 도로복구 비용을 청구할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "차량 사고원인자의 도로시설물 복구 업무처리 지침",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/차량 사고원인자의 도로시설물 복구 업무처리 지침/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0006",
+            "reference_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0004"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제5조",
+            "line_text": "",
+            "target_law_name": "차량 사고원인자의 도로시설물 복구 업무처리 지침",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/차량 사고원인자의 도로시설물 복구 업무처리 지침/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0006",
+            "reference_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "부과기준 및 절차",
+        "chapter": "제2장 도로시설물의 복구ㆍ관리",
+        "content": "제7조(부과기준 및 절차) ① 도로복구 공사는 도로관리청이 원인자에게 시행하게 하거나 원인자의 부담으로 도로관리청이 직접 시행할 수 있다.② 원인자가 도로복구 공사를 원하는 경우 복구방법, 일정 등에 대해 도로관리청과 사전 협의를 하여야 한다.③ 원인자부담금의 부과기준은 손괴시설물 도급공사 단가기준에 따르고 그 기준이 없는 경우 견적에 따라 부과한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "준공검사 시 확인",
+        "chapter": "제2장 도로시설물의 복구ㆍ관리",
+        "content": "제8조(준공검사 시 확인) 도로관리청은 도로복구 공사 준공검사 시 제7조에 따라 원인자와 사전 협의한 사항에 대한 이행여부를 확인하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "차량 사고원인자의 도로시설물 복구 업무처리 지침",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/차량 사고원인자의 도로시설물 복구 업무처리 지침/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0008",
+            "reference_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "도로손괴 관리대장",
+        "chapter": "제2장 도로시설물의 복구ㆍ관리",
+        "content": "제9조(도로손괴 관리대장) 도로관리청은 발생한 도로손괴를 원상복구 했을 경우 별지 제3호의 도로손괴관리대장 및 별지 제4호의 도로손괴관리카드에 이를 기록하고 관리하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "별지 제3호",
+            "line_text": "",
+            "target_law_name": "차량 사고원인자의 도로시설물 복구 업무처리 지침",
+            "target_article_no": "별지3",
+            "target_article_title": "도로손괴관리대장",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144298727",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0009",
+            "reference_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#BJ0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "별지 제4호",
+            "line_text": "",
+            "target_law_name": "차량 사고원인자의 도로시설물 복구 업무처리 지침",
+            "target_article_no": "별지4",
+            "target_article_title": "도로손괴 관리카드",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144298733",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0009",
+            "reference_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#BJ0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "개인정보 보호 원칙",
+        "chapter": "제3장 개인정보 보호",
+        "content": "제10조(개인정보 보호 원칙) ① 도로관리청은 법 제91조제5항에 따른 정보제공 요청시 원인자부담금 부과업무 범위에 필요한 최소한의 개인정보만을 요청하여야 한다.② 도로관리청은 원인자부담금 부과 업무에 필요한 범위에서 개인정보를 처리하여야 하며, 그 목적 외의 용도로 활용해서는 아니된다.③ 도로관리청은 개인정보주체의 권리침해가능성과 그 위험 정도를 고려하여 개인정보를 안전하게 관리하고 처리하여야 한다.④ 이 지침에서 정하지 않은 개인정보 보호 원칙은 「개인정보보호법」에 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "도로법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도로법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0010",
+            "reference_id": "law:도로법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "제91조제5항",
+            "line_text": "",
+            "target_law_name": "도로법",
+            "target_article_no": "제91조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도로법/제91조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0010",
+            "reference_id": "law:도로법#JO0091"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제4항",
+            "link_text": "「개인정보보호법」",
+            "line_text": "",
+            "target_law_name": "개인정보보호법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/개인정보보호법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0010",
+            "reference_id": "law:개인정보보호법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "개인정보의 파기",
+        "chapter": "제3장 개인정보 보호",
+        "content": "제11조(개인정보의 파기) ① 도로관리청은 개인정보의 처리 목적 달성 등 그 개인정보가 불필요하게 되었을 때에는 그 개인정보를 즉시 파기하여야 한다. 다만, 도로유지보수를 위해 필요한 도로손괴 관리카드, 도로손괴 관리대장은 도로복구 공사 후에도 하자보수기간 이상(최소 3년) 안전하게 관리하여야 한다.② 도로관리청이 제1항에 따라 개인정보를 파기할 때에는 복구 또는 재생되지 아니하도록 조치하여야 한다.③ 이 지침에서 정하지 않은 개인정보의 파기는 「개인정보보호법」에 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제3항",
+            "link_text": "「개인정보보호법」",
+            "line_text": "",
+            "target_law_name": "개인정보보호법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/개인정보보호법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0011",
+            "reference_id": "law:개인정보보호법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "유효기간",
+        "chapter": "제4장 보  칙",
+        "content": "제12조(유효기간) 이 예규는 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 발령한 후의 법령이나 현실 여건의 변화 등을 검토하여야 하는 2027년 9월 17일까지 효력을 가진다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제12조",
+            "source_clause": "제12조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0012",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#JO0012"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20180918",
+      "promulgation_no": "246",
+      "content": "부칙 <제246호,2018. 9. 18.>제1조(시행일) 이 지침은 발령한 날부터 시행한다.제2조(유효기간) 이 지침은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 발령한 후의 법령이나 현실 여건의 변화 등을 검토하여야 하는 2021년 9월 17일까지 효력을 가진다."
+    },
+    {
+      "promulgation_date": "20210917",
+      "promulgation_no": "329",
+      "content": "부칙 <제329호, 2021. 9. 17.>이 예규는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20240913",
+      "promulgation_no": "409",
+      "content": "부칙 <제409호, 2024. 9. 13.>이 예규는 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "현지조사서",
+      "enforcement_date": "",
+      "content": "■ 차량 사고원인자의 도로시설물 복구 업무처리 지침[별지 제1호서식]\n현  지  조  사  서\n가. 사 고 일 시 :       년     월     일    :   시경\n나. 사 고 위 치 : 국도   호선   군   읍   리\n(  에서   방향 100M지점)\n다. 사 고 내 용 : 갈매기 표지판  개\n라. 가  해  자  :\n주    소 :\n차량번호 :\n주민번호 :\n보험회사 :\n연 락 처 :\n마. 복 구 방 법 : 직접 복구\n년    월    일\n조 사 자 :          (인)\n백상지(80g/㎡)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144298715",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144298711",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144298715",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#BJ0001",
+      "filename": "별지1_현지조사서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "원상복구비용산출서",
+      "enforcement_date": "",
+      "content": "■ 차량 사고원인자의 도로시설물 복구 업무처리 지침[별지 제2호서식]\n원 상 복 구 비 용 산 출 서\n1) 도로시설물 명칭\n소  계 :               원\n2) 철거 및 설치\n소  계 :               원\n3) 제 경 비\n소  계 :               원\n4) 고    재\n소  계 :               원\n백상지(80g/㎡)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144298721",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144298717",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144298721",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#BJ0002",
+      "filename": "별지2_원상복구비용산출서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "도로손괴관리대장",
+      "enforcement_date": "",
+      "content": "■ 차량 사고원인자의 도로시설물 복구 업무처리 지침[별지 제3호서식]\n도 로 손 괴 관 리 대 장\n(단위:천원)\n┌──┬──────────────┬─────┬──┬──────────────┬──┬───┬──┐\n│관리│손괴시설현황                │손괴자현황│손괴│복구현황                    │세입│담당자│비고│\n│번호├──┬────┬──────┼─────┤인지├──┬──┬─────┬──┤금액│      │    │\n│    │손괴│손괴시설│노선 및 위치│성 명     │    │복구│복구│완료(조사)│확인│    │      │    │\n│    │일시│        │            │(차량번호)│    │금액│방법│일시      │    │    │      │    │\n├──┼──┼────┼──────┼─────┼──┼──┼──┼─────┼──┼──┼───┼──┤\n│    │    │        │            │          │    │    │    │          │    │    │      │    │\n├──┼──┼────┼──────┼─────┼──┼──┼──┼─────┼──┼──┼───┼──┤\n│    │    │        │            │          │    │    │    │          │    │    │      │    │\n├──┼──┼────┼──────┼─────┼──┼──┼──┼─────┼──┼──┼───┼──┤\n│    │    │        │            │          │    │    │    │          │    │    │      │    │\n├──┼──┼────┼──────┼─────┼──┼──┼──┼─────┼──┼──┼───┼──┤\n│    │    │        │            │          │    │    │    │          │    │    │      │    │\n├──┼──┼────┼──────┼─────┼──┼──┼──┼─────┼──┼──┼───┼──┤\n│    │    │        │            │          │    │    │    │          │    │    │      │    │\n├──┼──┼────┼──────┼─────┼──┼──┼──┼─────┼──┼──┼───┼──┤\n│    │    │        │            │          │    │    │    │          │    │    │      │    │\n├──┼──┼────┼──────┼─────┼──┼──┼──┼─────┼──┼──┼───┼──┤\n│    │    │        │            │          │    │    │    │          │    │    │      │    │\n├──┼──┼────┼──────┼─────┼──┼──┼──┼─────┼──┼──┼───┼──┤\n│    │    │        │            │          │    │    │    │          │    │    │      │    │\n├──┼──┼────┼──────┼─────┼──┼──┼──┼─────┼──┼──┼───┼──┤\n│    │    │        │            │          │    │    │    │          │    │    │      │    │\n└──┴──┴────┴──────┴─────┴──┴──┴──┴─────┴──┴──┴───┴──┘\n백상지(80g/㎡)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144298727",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144298723",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144298727",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#BJ0003",
+      "filename": "별지3_도로손괴관리대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "도로손괴 관리카드",
+      "enforcement_date": "",
+      "content": "■ 차량 사고원인자의 도로시설물 복구 업무처리 지침[별지4]\n\n도로손괴 관리카드\n\n┌──────┒\n│ 관리번호 : ┃\n─┴──────┚\n┌──────────────────┬┬─────────────────────────┐\n│도로손괴 현황                       ││손괴복구 현황                                     │\n├──────────────────┤├─────────────────────────┤\n│확인필 :             과장     (서명)││확인필 :             과장     (서명)              │\n├────┬──────┬────┬─┤├──────┬──────────────────┤\n│손괴일시│            │손괴원인│  ││손괴인지방법│ 순찰(  ), 신고(  ), 경찰서 통보(  ), 기타 (  )│\n│        │            │        │  │├──────┼──────┬─────┬─────┤\n├────┼─────┬┼────┼─┤│손괴인지일시│            │복구완료일│          │\n│손괴시설│노 선 명  ││위    치│  │├──────┼──────┴─────┴─────┤\n│        │          ││        │  ││복 구 방 법 │ 관리청 복구 (  ), 원인자 복구 (  ) │\n│        │          ││        │  ││            ├─────┬─┬─────┬────┤\n│        ├─────┼┼────┼─┤│            │ 복구비용 │원│기타      │        │\n│        │시 설 명  ││손괴규모│  │├──────┼───┬─┴─┼─────┼────┤\n│        │          ││        │  ││복구확인자  │직급  │      │성명      │        │\n│        │          ││        │  │├──────┼───┴───┼─────┼────┤\n├────┼─────┼┼────┼─┤│세입징수액  │원            │징수여부  │        │\n│손 괴 자│성명      ││보험사  │  │├──────┴───┬───┴─────┴────┤\n│정 보   │(차량번호)││접수번호│  ││하자담보 책임기간   │준공일로부터      개월      │\n├────┴─────┴┴────┴─┤├──────────┴──────────────┤\n│손괴 사진(복구 전)                  ││복구 후 완료사진                                  │\n├──────────────────┤├─────────────────────────┤\n│                                    ││                                                  │\n└──────────────────┘└─────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144298733",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144298729",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144298733",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#BJ0004",
+      "filename": "별지4_도로손괴 관리카드.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "개정이유서(차량 사고원인자의 도로시설물 복구업무 처리지침).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=144234451",
+      "file_store_url": "",
+      "filename": "개정이유서(차량 사고원인자의 도로시설물 복구업무 처리지침).pdf"
+    },
+    {
+      "name": "개정이유서(차량 사고원인자의 도로시설물 복구업무 처리지침).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=144234447",
+      "file_store_url": "",
+      "filename": "개정이유서(차량 사고원인자의 도로시설물 복구업무 처리지침).hwpx"
+    },
+    {
+      "name": "차량 사고원인자의 도로시설물 복구 업무처리 지침(예규)(제409호)(20240913).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=144220311",
+      "file_store_url": "",
+      "filename": "차량 사고원인자의 도로시설물 복구 업무처리 지침(예규)(제409호)(20240913).hwpx"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 28,
+    "by_category": {
+      "법령": 20,
+      "별지": 4,
+      "행정규칙": 4
+    },
+    "by_relation_type": {
+      "citation": 21,
+      "appendix_ref": 4,
+      "internal_ref": 3
+    },
+    "articles_total": 12,
+    "articles_with_relations": 11,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 3,
+    "appendices_count": 4,
+    "attachments_count": 3
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/차량 사고원인자의 도로시설물 복구 업무처리 지침"
+  },
+  "provision_id": "admrul:차량사고원인자의도로시설물복구업무처리지침#DOC"
+}
