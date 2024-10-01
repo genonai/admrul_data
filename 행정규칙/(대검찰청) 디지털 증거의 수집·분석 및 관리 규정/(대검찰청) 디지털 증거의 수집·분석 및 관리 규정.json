@@ -1,0 +1,2467 @@
+{
+  "law_id": "2100000247702",
+  "mst": "2100000247702",
+  "law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+  "law_abbr": "",
+  "law_type": "예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000247702",
+  "promulgation_no": "1449",
+  "promulgation_date": "20241001",
+  "enforcement_date": "20241001",
+  "revision_date": "20241001",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "대검찰청(디지털수사과)",
+    "담당자명": "김가영",
+    "행정규칙종류코드": "B0002",
+    "행정규칙명": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+    "발령일자": "20241001",
+    "행정규칙종류": "예규",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "대검찰청",
+    "전화번호": "02-3480-4680",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1280000",
+    "생성일자": "20241004",
+    "행정규칙ID": "27843",
+    "시행일자": "20241001",
+    "담당부서기관코드": "1281398",
+    "발령번호": "1449",
+    "행정규칙일련번호": "2100000247702",
+    "상위부처명": "대검찰청"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정 이유\n○ 디지털 증거 관리의 투명성에 대한 대외적 신뢰 제고\n○ 수사 실무 및 최근 대법원 판례 반영\n◇ 주요내용\n○ 피압수자등의 참관권 남용에 대한 대응방안 마련\n○ 디지털수사통합업무관리시스템에 등록된 디지털 증거를 엄격히 접근 통제, 관리하고 있음을 명시적으로 규정\n○ 디지털 증거의 폐기대상 및 절차 개정\n○ 현 수사실무를 반영한 기타 세부규정 및 별지 서식 정비",
+  "body": {
+    "format": "articles",
+    "article_count": 61,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조(목적) 이 규정은 컴퓨터용 디스크, 그 밖에 이와 비슷한 정보저장매체(이하 ‘정보저장매체등’ 이라고 한다)로부터 디지털 증거를 수집ㆍ보존ㆍ분석ㆍ현출 및 관리하는 과정에서 준수하여야 할 기본적 사항을 정함으로써 실체적 진실 발견에 기여하고 국민의 인권을 보호하는 것을 그 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적용범위",
+        "chapter": "제1장 총칙",
+        "content": "제2조(적용범위) 디지털 증거의 수집ㆍ보존ㆍ분석ㆍ현출 및 관리와 관련된 사항에 관하여 따로 정하는 경우를 제외하고는 이 규정에 의한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "정의",
+        "chapter": "제1장 총칙",
+        "content": "제3조(정의) 이 규정에서 사용하는 용어의 뜻은 다음과 같다.1. \"전자정보\"란 정보저장매체등에 기억된 정보를 말한다.2. \"디지털 증거\"란 범죄와 관련하여 디지털 형태로 저장되거나 전송되는 증거로서의 가치가 있는 정보를 말한다.3. \"디지털포렌식\"이란 디지털 증거를 수집ㆍ보존ㆍ분석ㆍ현출하는데 적용되는 과학기술 및 절차를 말한다.4. \"디지털수사통합업무관리시스템\"(이하 ‘업무관리시스템’이라고 한다)이란 디지털 증거의 수집ㆍ분석에 관한 사항과 디지털 증거의 보관ㆍ폐기에 관한 이력 등을 관리하는 전산시스템을 말한다.5. \"정보저장매체등의 복제\"란 법률적으로 유효한 증거로 사용될 수 있도록 수집 대상 정보저장매체등에 저장된 전자정보를 동일하게 파일로 생성하거나, 다른 정보저장매체에 동일하게 저장하는 것을 말한다.6. \"가선별\"이란 압수ㆍ수색ㆍ검증 현장에서 사건과 관련이 있는 전자정보만 선별하여 압수하는 것이 어려운 경우 일정한 기준에 따라 전체 전자정보 중 일부만 부분 복제하여 현장 이외의 장소로 반출하는 것을 말한다.7. \"디지털포렌식 수사관\"이란 디지털 증거의 수집ㆍ보존ㆍ분석 및 현출 업무나 디지털포렌식 관련 연구를 전문적으로 수행할 수 있는 수사관 중에 과학수사부장의 제청으로 검찰총장이 임명한 자를 말한다.8. \"포렌식 이미지\"(이하 ‘이미지 파일’이라고 한다)란 법률적으로 유효한 증거로 사용될 수 있도록 정보저장매체등에 저장된 전자정보를 포렌식 도구를 사용하여 동일하게 복사하거나 그에 준하는 기술적 방법으로 생성한 파일을 말한다.9. \"증거파일\"이란 법률적으로 유효한 증거로 사용될 수 있도록 정보저장매체 등에 저장된 전자정보를 파일 또는 디렉터리 단위로 복사하여 생성한 파일을 말한다.10. \"압수목록\"이란 형사소송법 제219조에 따라 준용되는 같은 법 제129조에 따른 것으로서 작성연월일과 압수물(‘전자정보’를 포함한다)의 명칭과 수량 등을 기재한 서면 또는 파일을 말한다.11. \"전자정보 상세목록\"이란 제10호에 따른 압수목록의 한 유형으로서 「검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정」 제42조제1항에서 정한 ‘압수한 전자정보의 목록’을 말한다.12. \"디지털 증거의 폐기\"란 디지털 증거를 복구 또는 재생이 불가능하도록 삭제, 디가우징, 파쇄, 소각 등으로 처리하는 디지털 증거 관리행위를 말한다.13. \"추출파일\"이란 사건과 관련 있는 전자정보만 선별하여 압수한 이미지 파일을 주임검사 또는 검찰수사관이 그 내용을 확인하고 증거로 제출될 내용을 특정할 수 있도록 열람 가능한 형태로 제공한 파일을 말한다. <신설>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제219조",
+            "line_text": "",
+            "target_law_name": "형사소송법",
+            "target_article_no": "제219조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/형사소송법/제219조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0003",
+            "reference_id": "law:형사소송법#JO0219"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제129조",
+            "line_text": "",
+            "target_law_name": "형사소송법",
+            "target_article_no": "제129조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/형사소송법/제129조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0003",
+            "reference_id": "law:형사소송법#JO0129"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0003",
+            "reference_id": "law:검사와사법경찰관의상호협력과일반적수사준칙에관한규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제42조제1항",
+            "line_text": "",
+            "target_law_name": "검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정",
+            "target_article_no": "제42조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정/제42조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0003",
+            "reference_id": "law:검사와사법경찰관의상호협력과일반적수사준칙에관한규정#JO0042"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "적법절차의 준수",
+        "chapter": "제2장 전자정보 압수ㆍ수색ㆍ검증의 기본원칙",
+        "content": "제4조(적법절차의 준수) 디지털 증거는 수사에 필요한 범위 내에서 적법한 절차를 엄격히 준수하여 수집ㆍ분석 및 관리되어야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "디지털 증거의 원본성 유지",
+        "chapter": "제2장 전자정보 압수ㆍ수색ㆍ검증의 기본원칙",
+        "content": "제5조(디지털 증거의 원본성 유지) 디지털 증거는 법정에서 원본과의 동일성을 재현하거나 검증하는데 지장이 초래되지 않도록 수집ㆍ분석 및 관리되어야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "디지털 증거의 무결성 유지",
+        "chapter": "제2장 전자정보 압수ㆍ수색ㆍ검증의 기본원칙",
+        "content": "제6조(디지털 증거의 무결성 유지) 디지털 증거는 압수ㆍ수색ㆍ검증한 때로부터 법정에 제출하는 때까지 훼손 또는 변경되지 아니하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "디지털 증거의 신뢰성 유지",
+        "chapter": "제2장 전자정보 압수ㆍ수색ㆍ검증의 기본원칙",
+        "content": "제7조(디지털 증거의 신뢰성 유지) 디지털 증거는 디지털포렌식 전문가에 의해 신뢰할 수 있는 도구와 방법으로 수집ㆍ분석 및 관리하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "디지털 증거의 보관의 연속성 유지",
+        "chapter": "제2장 전자정보 압수ㆍ수색ㆍ검증의 기본원칙",
+        "content": "제8조(디지털 증거의 보관의 연속성 유지) 디지털 증거는 최초 수집된 상태 그대로 어떠한 변경도 없이 보관되어야 하고, 이를 위해 보관 주체들 간의 연속적인 승계 절차를 관리하는 등의 조치를 취해야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "디지털포렌식 수사관의 자격",
+        "chapter": "제1절 디지털포렌식 수사관 지정 및 거점청 설치",
+        "content": "제9조(디지털포렌식 수사관의 자격) 디지털포렌식 수사관은 다음 각호의 어느 하나에 해당하는 자격요건을 갖춘 자 중에서 임명한다.1. 대검찰청 디지털수사과(이하 ‘디지털수사과’라고 한다)에서 실시하는 \"디지털포렌식 전문가 양성과정\"의 교육을 이수한 자2. 국내ㆍ외 컴퓨터 관련 교육과정을 이수한 자로서 디지털포렌식 관련 지식이 충분하다고 인정되는 자",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "디지털포렌식 수사관의 임명",
+        "chapter": "제1절 디지털포렌식 수사관 지정 및 거점청 설치",
+        "content": "제10조(디지털포렌식 수사관의 임명) 디지털포렌식 수사관은 제9조의 자격을 갖춘 검찰공무원 중에서 대검찰청 과학수사부장의 제청으로 검찰총장이 임명한다. 이때, 디지털수사과 및 제12조의 각 거점청 디지털포렌식팀에 배치하는 방법으로 임명절차를 갈음할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "제9조",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제9조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0010",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0009"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "제12조",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제12조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0010",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0012"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "디지털포렌식 수사관의 교육",
+        "chapter": "제1절 디지털포렌식 수사관 지정 및 거점청 설치",
+        "content": "제11조(디지털포렌식 수사관의 교육) ① 디지털포렌식 수사관 등 디지털포렌식 수사업무에 종사하는 자는 전문성 향상을 위하여 매년 디지털수사과나 국내ㆍ외 공공기관, 전문 교육기관 또는 학회 등에서 실시하는 디지털포렌식 관련 교육을 이수하여야 한다.② 대검찰청 디지털수사과장(이하 ‘디지털수사과장’이라 한다)은 검찰의 디지털포렌식 관련 업무 역량의 강화 등을 위하여 디지털포렌식 수사관 등 디지털포렌식 수사업무 종사자의 디지털포렌식 관련 교육 이수사항 등을 관리할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "거점청 디지털포렌식팀의 설치ㆍ운영",
+        "chapter": "제1절 디지털포렌식 수사관 지정 및 거점청 설치",
+        "content": "제12조(거점청 디지털포렌식팀의 설치ㆍ운영) ① 디지털포렌식 지원업무의 효율성을 제고하기 위해 각 고등검찰청 또는 지방검찰청에 별도의 기구로 디지털포렌식팀을 설치ㆍ운영할 수 있다.② 거점청 디지털포렌식팀은 디지털포렌식 수사관과 담당검사로 구성하되, 담당검사는 대검찰청 과학수사부장이 지명한다.③ 거점청 디지털포렌식팀은 해당 고등검찰청 또는 지방검찰청 관할구역 내에서 디지털포렌식 지원업무를 담당한다.④ 제3항에도 불구하고 디지털수사과장은 각 거점청의 디지털포렌식팀 간 업무량, 전국 각 검찰청의 디지털포렌식 수요 등을 고려하여 관할구역 이외의 검찰청에서 진행 중인 사건에 대한 디지털포렌식 지원업무를 명할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "디지털포렌식 수사관의 배치",
+        "chapter": "제1절 디지털포렌식 수사관 지정 및 거점청 설치",
+        "content": "제13조(디지털포렌식 수사관의 배치) ① 디지털포렌식 수사관은 디지털수사과, 각 거점청 디지털포렌식팀 등에 우선 배치하고, 전문성을 유지하기 위해 순환보직 등 일반적인 인사원칙에서 예외를 인정할 수 있다.② 일선 검찰청의 인사담당직원은 디지털포렌식 수사관의 배치에 변동이 생긴 경우에는 디지털수사과에 변동된 배치현황을 통보하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "전자정보의 압수ㆍ수색ㆍ검증 실시자",
+        "chapter": "제2절 디지털포렌식 지원 요청과 일선 청 지원",
+        "content": "제14조(전자정보의 압수ㆍ수색ㆍ검증 실시자) 전자정보의 압수ㆍ수색ㆍ검증은 디지털포렌식 수사관이 하여야 한다. 다만, 부득이한 사유가 있는 경우에는 디지털수사과에서 실시하는 포렌식 도구 교육을 이수하거나 제11조제1항에서 정한 디지털포렌식 관련 교육을 이수한 검찰공무원으로 하여금 디지털포렌식 업무를 수행하게 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제14조",
+            "source_clause": "제14조",
+            "link_text": "제11조제1항",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0014",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "전자정보의 압수ㆍ수색ㆍ검증 지원 요청",
+        "chapter": "제2절 디지털포렌식 지원 요청과 일선 청 지원",
+        "content": "제15조(전자정보의 압수ㆍ수색ㆍ검증 지원 요청) ① 주임검사 또는 검찰수사관(이하 ‘주임검사등’이라고 한다)은 전자정보의 압수ㆍ수색ㆍ검증이 필요한 경우 별지 제1호 서식의 \"압수ㆍ수색ㆍ검증 지원요청 협의서\"를 작성하여 디지털수사과장 또는 그의 위임을 받은 검찰공무원(이하 ‘디지털수사과장등’이라고 한다)에게 내부 메신저, 전자우편 등의 방법으로 송부하고 그 지원을 협의한다.② 주임검사등은 업무관리시스템에 접속하여 제1항에 따라 협의한 내용으로 전자정보의 압수ㆍ수색ㆍ검증 지원을 요청한다. 이때 업무관리시스템에 입력하는 사건번호는 동 시스템에서 제공하는 사건정보검색기능을 활용하여 입력하도록 유의한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제1항",
+            "link_text": "별지 제1호 서식",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "별지1",
+            "target_article_title": "압수·수색·검증 지원요청 협의서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606705",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0015",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "협조의무",
+        "chapter": "제2절 디지털포렌식 지원 요청과 일선 청 지원",
+        "content": "제16조(협조의무) ① 주임검사등은 디지털 증거의 수집ㆍ보존ㆍ분석ㆍ현출 등 디지털포렌식 지원업무가 원활하게 이루어질 수 있도록 디지털포렌식 수사관에게 다음 각호의 정보를 제공하여야 한다.1. 사건과 관련된 디지털 증거의 구별에 필요한 검색어(인물, 대상 등), 검색기간, 파일명, 확장자 등 선별 관련 정보2. 그밖에 수집할 디지털 증거의 대상 및 범위 등을 정하는데 필요하다고 인정되는 자료 및 정보② 디지털포렌식 수사관은 압수ㆍ수색ㆍ검증 현장에서 사건과 관련된 디지털 증거의 선별이 곤란하여 정보저장매체의 전부 복제본 또는 매체 원본 반출이 필요한 경우 이를 소명할 수 있는 자료나 정보를 주임검사등에게 제공하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "디지털 증거의 분석 등 지원 요청",
+        "chapter": "제2절 디지털포렌식 지원 요청과 일선 청 지원",
+        "content": "제17조(디지털 증거의 분석 등 지원 요청) ① 주임검사등은 수사 또는 공소유지 등을 위하여 필요한 경우 디지털수사과장등 또는 관할 거점청 디지털포렌식팀 담당검사에게 다음 각호의 지원을 요청할 수 있다.1. 디지털 증거의 현출 및 분석 등2. 디지털포렌식과 관련한 기술적 자문3. 디지털포렌식과 관련한 법정 증언② 주임검사등은 제1항의 지원 요청을 하는 경우 업무관리시스템을 통해 요청하되 사건번호는 동 시스템에서 제공하는 사건정보검색기능을 활용하여 입력하도록 유의한다.③ 정보저장매체등에 대하여 제1항의 지원 요청을 하는 경우에 주임검사등은 다음 각호와 같이 정보저장매체등을 봉인한 후 배정받은 디지털포렌식팀에 송부한다.1. 별지 제3호의 \"정보저장매체 제출 및 이미징 등 참관여부 확인서\"와 별지 제5-1호의 \"압수물 봉인지\"를 작성하되, 영장에 의한 압수물은 피압수자 또는 형사소송법 제123조에 따라 압수ㆍ수색영장을 집행할 때 참여하게 해야 하는 사람(이하 \"피압수자등\" 이라 한다)의 확인ㆍ서명을, 임의제출물은 임의제출자의 확인ㆍ서명을 받는다.2. 분석 등을 의뢰하는 정보저장매체등은 피압수자등이나 임의제출자가 보는 가운데 전자정보의 훼손 또는 변경의 우려가 없는 봉투에 넣고 제1호에서 작성한 \"압수물 봉인지\"를 부착하여 봉인한다.3. 별지 제6-2호 서식의 \"충격방지봉투\"에 요청번호, 요청기관, 수령기관, 내용물(수량) 등 지원 요청 정보를 기재한 뒤 제1호에서 작성한 \"정보저장매체 제출 및 이미징 등 참관여부 확인서\"와 제2호에서 봉인된 정보저장매체등을 함께 넣어 밀봉한다.④ 제3항에도 불구하고 긴급을 요하는 등 부득이한 사정이 있는 경우에는 정보저장매체등을 신뢰할 수 있는 형식으로 봉인하여 배정받은 디지털포렌식팀에 송부한다. 이 경우 별지 제6-1호 서식의 \"압수(임의제출)물 송부지\"를 작성하여 부착하는 등 지원 요청 정보의 기재가 누락되지 않도록 유의한다.⑤ <삭제>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제3항",
+            "link_text": "별지 제3호",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "별지3",
+            "target_article_title": "정보저장매체 제출 및 이미징 등 참관여부 확인서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606717",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0017",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0003"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제3항",
+            "link_text": "형사소송법 제123조",
+            "line_text": "",
+            "target_law_name": "형사소송법",
+            "target_article_no": "제123조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/형사소송법/제123조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0017",
+            "reference_id": "law:형사소송법#JO0123"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0017"
+      },
+      {
+        "article_no": "제17조의1",
+        "article_title": "정보저장매체등의 인계인수",
+        "chapter": "제2절 디지털포렌식 지원 요청과 일선 청 지원",
+        "content": "제17조의1(정보저장매체등의 인계인수) <신설>① 디지털포렌식 수사관은 제17조제3항 또는 제4항에 따라 정보저장매체등을 송부받는 경우 별지 제7호 서식의 \"분석요청 등 의뢰물 접수부\"를 작성한 후 인계자의 서명을 받아 이를 관리한다.② 디지털포렌식 수사관은 분석 종료 등의 사유로 주임검사등에게 매체를 인계할 경우 별지 제9호 \"정보저장매체 등 인계인수서\"에 주임검사등의 확인ㆍ서명을 받아 이를 관리한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제17조의1",
+            "source_clause": "제17조의1제1항",
+            "link_text": "제17조제3항 또는 제4항",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제17조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제17조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0017_01",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0017"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제17조의1",
+            "source_clause": "제17조의1제1항",
+            "link_text": "별지 제7호 서식",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "별지7",
+            "target_article_title": "분석요청 등 의뢰물 접수부",
+            "appendix_no": "7",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606759",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0017_01",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0007"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제17조의1",
+            "source_clause": "제17조의1제2항",
+            "link_text": "별지 제9호",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "별지9",
+            "target_article_title": "정보저장매체 등 인계인수서",
+            "appendix_no": "9",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606771",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0017_01",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0017_01"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "디지털포렌식 관련 일선 청 지원",
+        "chapter": "제2절 디지털포렌식 지원 요청과 일선 청 지원",
+        "content": "제18조(디지털포렌식 관련 일선 청 지원) ① 디지털수사과장은 일선 검찰청의 지원 요청을 받아 디지털포렌식 수사관으로 하여금 일선 검찰청의 디지털포렌식 관련 업무를 지원하게 할 수 있다.② 디지털수사과장은 일선 검찰청에 디지털포렌식 지원을 하는 경우 지원대상 사건의 정보저장매체등의 유형과 규모 등을 고려하여 적정한 인원의 디지털포렌식 수사관을 배정하여야 한다.③ 제2항의 배정을 받은 디지털포렌식 수사관은 지원에 앞서 사건의 개요, 압수ㆍ수색ㆍ검증의 장소 및 대상, 정보저장매체등의 유형과 규모 등 원활한 지원에 필요한 사항을 파악하여 디지털포렌식 지원을 준비하여야 한다.④ 디지털포렌식 수사관은 그 지원이 종료되면 소속 디지털포렌식팀의 팀장에게 보고하고 지체 없이 복귀하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "정보보고",
+        "chapter": "제2절 디지털포렌식 지원 요청과 일선 청 지원",
+        "content": "제19조(정보보고) ① 주임검사등이 디지털포렌식 지원을 받은 사건에 관하여 대검찰청에 정보보고를 하는 경우에는 디지털수사과장을 수신자에 추가하고, 디지털포렌식 수사관으로부터 지원받은 내용의 개요를 기재한다.② 주임검사등은 수사 또는 공판 과정에서 디지털 증거의 취급에 관련되거나 디지털포렌식 업무의 정책 수립에 참고할 만한 특이사항이 있는 경우에 그 내용을 디지털수사과장에게 알려야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "전자정보의 단계적 압수ㆍ수색ㆍ검증",
+        "chapter": "제1절 전자정보의 압수ㆍ수색ㆍ검증 방법 및 유의사항",
+        "content": "제20조(전자정보의 단계적 압수ㆍ수색ㆍ검증) ① 주임검사등은 정보저장매체등에 기억된 전자정보를 압수하는 경우에는 해당 정보저장매체등의 소재지에서 수색 또는 검증한 후 범죄사실과 관련된 전자정보의 범위를 정하여 출력하거나 복제하는 방법으로 한다.② 제1항에도 불구하고 그에 따른 압수 방법의 실행이 불가능하거나 그 방법으로는 압수의 목적을 달성하는 것이 현저히 곤란한 경우에는 압수ㆍ수색 또는 검증 현장에서 정보저장매체등에 들어 있는 전자정보 전부를 복제하여 그 복제본을 정보저장매체등의 소재지 외의 장소로 반출할 수 있다.③ 제1항 및 제2항에도 불구하고 그에 따른 압수 방법의 실행이 불가능하거나 그 방법으로는 압수의 목적을 달성하는 것이 현저히 곤란한 경우에는 피압수자등이 참여한 상태에서 정보저장매체등의 원본을 봉인하여 정보저장매체등의 소재지 외의 장소로 반출할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "참여권의 보장",
+        "chapter": "제1절 전자정보의 압수ㆍ수색ㆍ검증 방법 및 유의사항",
+        "content": "제21조(참여권의 보장) ① 주임검사등은 압수ㆍ수색ㆍ검증의 전 과정에 걸쳐 피압수자등이나 변호인의 참여권을 보장하여야 한다.② 제1항에도 불구하고 피압수자등과 변호인이 참여를 거부하는 경우에는 신뢰성과 전문성을 담보할 수 있는 상당한 방법으로 압수ㆍ수색ㆍ검증을 하여야 한다.③ 주임검사등은 압수ㆍ수색ㆍ검증 과정에 참여한 피압수자등이나 변호인이 압수 대상 전자정보와 사건의 관련성에 관하여 의견을 제시한 때에는 이를 조서에 적어야 한다. 다만, 피압수자등이나 변호인이 별지 제14호의 \"전자정보의 압수 등에 관한 의견진술서\" 서식 등에 따라 의견을 제출한 경우에는 이를 조서 말미에 첨부하는 것으로 조서 기재에 갈음할 수 있다. <신설>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제21조",
+            "source_clause": "제21조제3항",
+            "link_text": "별지 제14호",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "별지14",
+            "target_article_title": "전자정보의 압수 등에 관한 의견진술서",
+            "appendix_no": "14",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606813",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0021",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0014"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "관련성의 판단기준",
+        "chapter": "제1절 전자정보의 압수ㆍ수색ㆍ검증 방법 및 유의사항",
+        "content": "제22조(관련성의 판단기준) <삭제>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "압수목록의 교부",
+        "chapter": "제1절 전자정보의 압수ㆍ수색ㆍ검증 방법 및 유의사항",
+        "content": "제23조(압수목록의 교부) ① 주임검사등은 전자정보의 탐색ㆍ복제ㆍ출력을 완료한 경우에는 지체 없이 피압수자등에게 압수한 전자정보의 상세목록을 교부해야 한다.② 제1항에 따른 전자정보 상세목록의 교부는 서면의 형태로 교부하는 방법 이외에 파일 형태로 복사해주거나 전자우편으로 전송하는 등의 방법으로 갈음할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "전자정보 압수 후 조치",
+        "chapter": "제1절 전자정보의 압수ㆍ수색ㆍ검증 방법 및 유의사항",
+        "content": "제24조(전자정보 압수 후 조치) 주임검사등은 제23조의 목록에 포함되지 않은 전자정보가 있는 경우에는 해당 전자정보를 지체 없이 삭제 또는 폐기하거나 반환해야 한다. 이 경우 별지 제10호 \"정보저장매체 등 반환 확인서\" 또는 별지 제16호 \"전자정보 삭제ㆍ폐기 확인서\" 서식을 작성하여 피압수자등에게 교부해야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제24조",
+            "source_clause": "제24조",
+            "link_text": "제23조",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제23조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제23조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0024",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0023"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제24조",
+            "source_clause": "제24조",
+            "link_text": "별지 제10호",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "별지10",
+            "target_article_title": "정보저장매체 등 반환 확인서",
+            "appendix_no": "10",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606777",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0024",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0010"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제24조",
+            "source_clause": "제24조",
+            "link_text": "별지 제16호",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "별지16",
+            "target_article_title": "전자정보 삭제·폐기 확인서",
+            "appendix_no": "16",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606825",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0024",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0016"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "임의제출 정보저장매체등에 대한 조치",
+        "chapter": "제1절 전자정보의 압수ㆍ수색ㆍ검증 방법 및 유의사항",
+        "content": "제25조(임의제출 정보저장매체등에 대한 조치) ① 전자정보가 저장된 정보저장매체등을 임의제출 받는 경우에는 임의제출의 취지와 범위를 확인하여야 한다.② 정보저장매체등에 저장된 전자정보를 임의 제출하는 것으로서 전자정보에 대한 탐색ㆍ복제ㆍ출력이 필요한 경우에는 본 장에서 규정한 절차를 준용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0025"
+      },
+      {
+        "article_no": "제26조",
+        "article_title": "현장에서의 참여권 보장",
+        "chapter": "제2절 압수ㆍ수색ㆍ검증 현장에서 디지털 증거 수집",
+        "content": "제26조(현장에서의 참여권 보장) ① 주임검사등은 전자정보에 대한 압수ㆍ수색ㆍ검증을 하는 경우에 별지 제13호의 \"전자정보 압수ㆍ수색ㆍ검증 안내문\"에 따라 전자정보에 대한 압수ㆍ수색ㆍ검증 과정을 설명하는 등으로 참여권의 실질적 보장을 위하여 노력하여야 한다.② 압수ㆍ수색ㆍ검증 현장에서 피압수자 및 변호인이 참여하지 않는 경우에는 다음 각호에 따라 필요한 조치를 할 수 있다.1. 피압수자의 소재불명, 참여지연, 참여불응 등의 사유로 피압수자 또는 변호인의 참여 없이 압수ㆍ수색ㆍ검증을 해야 하는 경우에는 「형사소송법」 제123조에서 정하는 참여인을 참여하게 한다.2. 피압수자 또는 변호인이 압수ㆍ수색ㆍ검증에 참여하던 중 정당한 사유 없이 참여를 중단하여 그 집행을 계속하기 어려운 경우에는 「형사소송법」 제123조의 참여인을 참여하게 한 후 집행을 재개한다. 집행을 중지하는 경우 필요한 때에는 압수ㆍ수색ㆍ검증 장소의 출구를 별지 제5-3호 서식의 \"압수장소 봉인지\"로 봉인하거나 그와 상당한 방법으로 집행재개 시까지 그 장소를 폐쇄할 수 있다.3. 피압수자 또는 변호인이 압수ㆍ수색ㆍ검증에 참여한 후 별지 제2호 서식의 \"현장조사 확인서\"에 서명을 거부하는 등 서명을 받을 수 없는 경우에는 그 사유를 위 확인서에 기재한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제26조",
+            "source_clause": "제26조제1항",
+            "link_text": "별지 제13호",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "별지13",
+            "target_article_title": "전자정보 압수·수색·검증 안내문",
+            "appendix_no": "13",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606807",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0026",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0013"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제26조",
+            "source_clause": "제26조제2항",
+            "link_text": "「형사소송법」",
+            "line_text": "",
+            "target_law_name": "형사소송법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/형사소송법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0026",
+            "reference_id": "law:형사소송법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제26조",
+            "source_clause": "제26조제2항",
+            "link_text": "제123조",
+            "line_text": "",
+            "target_law_name": "형사소송법",
+            "target_article_no": "제123조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/형사소송법/제123조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0026",
+            "reference_id": "law:형사소송법#JO0123"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제26조",
+            "source_clause": "제26조제2항",
+            "link_text": "「형사소송법」",
+            "line_text": "",
+            "target_law_name": "형사소송법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/형사소송법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0026",
+            "reference_id": "law:형사소송법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제26조",
+            "source_clause": "제26조제2항",
+            "link_text": "제123조",
+            "line_text": "",
+            "target_law_name": "형사소송법",
+            "target_article_no": "제123조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/형사소송법/제123조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0026",
+            "reference_id": "law:형사소송법#JO0123"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제26조",
+            "source_clause": "제26조제2항",
+            "link_text": "별지 제2호 서식",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "별지2",
+            "target_article_title": "현장조사 확인서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606711",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0026",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0026"
+      },
+      {
+        "article_no": "제27조",
+        "article_title": "관련 있는 디지털 증거의 압수 시 조치",
+        "chapter": "제2절 압수ㆍ수색ㆍ검증 현장에서 디지털 증거 수집",
+        "content": "제27조(관련 있는 디지털 증거의 압수 시 조치) ① 디지털포렌식 수사관은 제20조제1항에 따라 사건과 관련이 있는 디지털 증거를 압수하는 경우에는 해시값(파일의 고유값으로서 일종의 전자지문을 말한다)을 생성하고 별지 제2호 서식의 \"현장조사 확인서\"를 작성하여 서명을 받거나, 다음 각호의 내용이 포함된 확인서를 작성하여 피압수자등의 서명을 받아야 한다.1. 확인서 작성일시 및 장소2. 정보저장매체등의 종류 및 사용자3. 해시값, 해시함수명4. 확인자의 인적사항 및 연락처, 확인자와 피압수자와의 관계5. 기타 원본성ㆍ무결성ㆍ신뢰성을 확인하는데 필요한 사항② 디지털포렌식 수사관은 제1항에 따라 디지털 증거를 압수한 경우에는 지체 없이 압수한 전자정보의 상세목록을 작성하여 피압수자등에게 교부하여야 한다.③ 압수ㆍ수색ㆍ검증 현장에서 사건과 관련이 있는 전자정보만 선별하여 압수하는 것이 어려워 일정한 기준에 따라 전체 전자정보 중 일부만 가선별하여 현장 이외의 장소로 반출하는 경우에는 제28조 또는 제29조를 준용하여 필요한 조치를 하여야 한다. 이 경우 압수할 전자정보로 특정이 가능한 범위에서는 압수목록에 해당 전자정보의 출력 또는 복제 사실을 추가하여 피압수자등에게 교부하도록 유의한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제27조",
+            "source_clause": "제27조제1항",
+            "link_text": "제20조제1항",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제20조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제20조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0027",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0020"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제27조",
+            "source_clause": "제27조제1항",
+            "link_text": "별지 제2호 서식",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "별지2",
+            "target_article_title": "현장조사 확인서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606711",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0027",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0002"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제27조",
+            "source_clause": "제27조제3항",
+            "link_text": "제28조 또는 제29조",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제28조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제28조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0027",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0028"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제27조",
+            "source_clause": "제27조제3항",
+            "link_text": "제28조 또는 제29조",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제29조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제29조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0027",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0029"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0027"
+      },
+      {
+        "article_no": "제28조",
+        "article_title": "전자정보의 전부 복제 시 조치",
+        "chapter": "제2절 압수ㆍ수색ㆍ검증 현장에서 디지털 증거 수집",
+        "content": "제28조(전자정보의 전부 복제 시 조치) ① 제20조제2항에 따라 전자정보의 전부를 복제하는 경우 해시값을 확인하거나 압수ㆍ수색ㆍ검증 과정을 촬영하는 등 디지털 증거의 동일성과 무결성을 담보할 수 있는 적절한 방법과 조치를 하여야 한다.② 제1항에 따라 전자정보 전부를 복제하여 현장 이외의 장소로 반출하는 경우에는 별지 제5-1호의 \"압수물 봉인지\" 및 별지 제4호의 \"정보저장매체 복제 및 이미징 등 참관여부 확인서\"를 작성하여야 한다.③ 주임검사등은 압수목록 교부 시 제2항에 따른 전자정보 전부 복제본 반출 사실도 압수목록에 기재하여 피압수자등에게 교부하도록 유의한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제28조",
+            "source_clause": "제28조제1항",
+            "link_text": "제20조제2항",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제20조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제20조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0028",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0020"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제28조",
+            "source_clause": "제28조제2항",
+            "link_text": "별지 제4호",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "별지4",
+            "target_article_title": "정보저장매체 복제 및 이미징 등 참관여부 확인서",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606723",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0028",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0028"
+      },
+      {
+        "article_no": "제29조",
+        "article_title": "정보저장매체등 원본 반출 시 조치",
+        "chapter": "제2절 압수ㆍ수색ㆍ검증 현장에서 디지털 증거 수집",
+        "content": "제29조(정보저장매체등 원본 반출 시 조치) ① 제20조제3항에 따라 정보저장매체등의 원본을 현장 이외의 장소로 반출하는 경우에는 별지 5-1호의 \"압수물 봉인지\", 별지 제3호의 \"정보저장매체 제출 및 이미징 등 참관여부 확인서\"를 작성하여야 한다.② 주임검사등은 압수목록 교부 시 제1항에 따른 정보저장매체등의 원본 반출 사실도 압수목록에 기재하여 피압수자등에게 교부하도록 유의한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제29조",
+            "source_clause": "제29조제1항",
+            "link_text": "제20조제3항",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제20조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제20조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0029",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0020"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제29조",
+            "source_clause": "제29조제1항",
+            "link_text": "별지 제3호",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "별지3",
+            "target_article_title": "정보저장매체 제출 및 이미징 등 참관여부 확인서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606717",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0029",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0029"
+      },
+      {
+        "article_no": "제30조",
+        "article_title": "정보저장매체등 운반 시 유의사항",
+        "chapter": "제2절 압수ㆍ수색ㆍ검증 현장에서 디지털 증거 수집",
+        "content": "제30조(정보저장매체등 운반 시 유의사항) 제28조 또는 제29조에 따라 정보저장매체등을 소재지 외의 장소로 반출하는 경우에는 운반과정에서 매체가 파손되거나 기억된 전자정보가 손상되지 않도록 정전기 차단, 충격 방지 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제30조",
+            "source_clause": "제30조",
+            "link_text": "제28조 또는 제29조",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제28조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제28조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0030",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0028"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제30조",
+            "source_clause": "제30조",
+            "link_text": "제28조 또는 제29조",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제29조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제29조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0030",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0029"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0030"
+      },
+      {
+        "article_no": "제31조",
+        "article_title": "원격지에 저장된 전자정보의 압수ㆍ수색ㆍ검증",
+        "chapter": "제2절 압수ㆍ수색ㆍ검증 현장에서 디지털 증거 수집",
+        "content": "제31조(원격지에 저장된 전자정보의 압수ㆍ수색ㆍ검증) 압수ㆍ수색ㆍ검증의 대상인 정보저장매체와 정보통신망으로 연결되어 있고 압수 대상인 전자정보를 저장하고 있다고 인정되는 원격지의 정보저장매체에 대하여는 압수ㆍ수색ㆍ검증 대상인 정보저장매체의 시스템을 통해 접속하여 압수ㆍ수색ㆍ검증을 할 수 있다. 이 경우 피압수자등이 정보통신망으로 정보저장매체에 접속하여 기억된 정보를 임의로 삭제할 우려가 있을 경우에는 정보통신망 접속 또는 연결을 차단할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0031"
+      },
+      {
+        "article_no": "제32조",
+        "article_title": "참관 기회의 부여",
+        "chapter": "제3절 압수ㆍ수색ㆍ검증 현장 외에서 디지털 증거 수집",
+        "content": "제32조(참관 기회의 부여) ① 주임검사등은 제28조 또는 제29조에 따라 현장 외에서 전자정보의 압수ㆍ수색ㆍ검증을 계속하는 경우 피압수자등에게 참관일시와 장소를 통지하여야 한다. 단, 피압수자등이 참여하지 아니한다는 의사를 명시한 때 또는 참여가 불가능하거나 급속을 요하는 때에는 예외로 한다.② 피압수자등이 참관하지 않을 경우에는 신뢰성과 전문성을 담보할 수 있도록 디지털포렌식 수사관이 포렌식 도구를 통해 압수ㆍ수색 또는 검증을 해야 한다.③ 제1항 전단에 따른 통지를 받은 피압수자등 또는 변호인은 참관일시, 참관장소, 참관인 등에 대하여 변경을 요청할 수 있다. 이 경우, 주임검사등은 피압수자등 또는 변호인과 협의하여 변경된 참관일시와 장소를 통지하여야 한다. <신설>④ 제1항, 제3항에 따라 통지한 참관일시에 피압수자등이 출석하지 않은 경우 주임검사등은 일시를 다시 정한 후 이를 피압수자등에게 통지하여야 한다. 단, 피압수자등이 다음 각호의 사유로 불출석하는 경우에는 제2항에 따른다. <신설>1. 피압수자등의 소재를 확인할 수 없거나 불명인 경우2. 피압수자등이 도망하였거나 도망한 것으로 볼 수 있는 경우3. 피압수자등이 증거인멸 또는 수사지연, 수사방해 등을 목적으로 출석하지 않은 경우4. 그 밖에 위의 사유에 준하는 경우⑤ 참관인이 참여하는 경우 제33조의 절차를 개시하기 전에 참관인에게 별지 제13호의 \"전자정보 압수ㆍ수색ㆍ검증 안내문\"에 따라 전자정보에 대한 압수ㆍ수색ㆍ검증 과정을 설명하는 등으로 참여권의 실질적 보장을 위하여 노력하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제32조",
+            "source_clause": "제32조제1항",
+            "link_text": "제28조 또는 제29조",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제28조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제28조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0032",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0028"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제32조",
+            "source_clause": "제32조제1항",
+            "link_text": "제28조 또는 제29조",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제29조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제29조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0032",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0029"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제32조",
+            "source_clause": "제32조제5항",
+            "link_text": "제33조",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제33조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제33조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0032",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0033"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제32조",
+            "source_clause": "제32조제5항",
+            "link_text": "별지 제13호",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "별지13",
+            "target_article_title": "전자정보 압수·수색·검증 안내문",
+            "appendix_no": "13",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606807",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0032",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0013"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0032"
+      },
+      {
+        "article_no": "제33조",
+        "article_title": "봉인의 해제",
+        "chapter": "제3절 압수ㆍ수색ㆍ검증 현장 외에서 디지털 증거 수집",
+        "content": "제33조(봉인의 해제) ① 디지털포렌식 수사관은 제28조 또는 제29조에 따라 반출한 정보저장매체등의 봉인을 해제하는 경우 부착되어 있던 별지 제5-1호 \"압수물 봉인지\"에 봉인해제일시와 그 사유를 기재하고 참관인의 서명을 받아 주임검사등에게 인계한다. 다만, 참관인이 없어 서명을 받을 수 없는 경우에는 그 사유를 기재한다.② 주임검사등은 제1항에 따라 인계받은 \"압수물 봉인지\"를 수사기록에 편철하여 디지털 증거에 대한 보관의 연속성을 확보한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제33조",
+            "source_clause": "제33조제1항",
+            "link_text": "제28조 또는 제29조",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제28조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제28조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0033",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0028"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제33조",
+            "source_clause": "제33조제1항",
+            "link_text": "제28조 또는 제29조",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제29조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제29조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0033",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0029"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0033"
+      },
+      {
+        "article_no": "제34조",
+        "article_title": "전자정보의 탐색ㆍ복제ㆍ출력",
+        "chapter": "제3절 압수ㆍ수색ㆍ검증 현장 외에서 디지털 증거 수집",
+        "content": "제34조(전자정보의 탐색ㆍ복제ㆍ출력) ① 제33조에 의해 봉인을 해제한 이후에는 현장에서 기 생성한 이미지 파일의 무결성을 검증하거나 동 매체에 저장된 전자정보에 대한 이미지 파일을 새로 생성한다. 다만, 이미지 파일을 생성할 필요가 없거나 곤란한 경우에는 그러하지 아니하다.② 사건과 관련이 있는 전자정보의 탐색은 원칙적으로 제1항에 따라 동일성과 무결성이 확인되었거나 새로 생성한 이미지 파일을 이용하여 진행하되, 제1항 단서와 같이 이미지 파일을 생성하지 아니한 경우에는 정보저장매체등에 저장된 전자정보를 직접 탐색할 수 있다.③ 제2항의 탐색을 통해 사건과 관련이 있는 전자정보를 파일 형태로 복제하여 압수하는 경우에는 선별된 전자정보에 대한 이미지 파일을 생성하고 그에 대한 해시값을 확인한다.④ 주임검사는 법정에서 디지털 증거의 재현이나 검증을 위해 필요한 경우에 한하여 제1항의 이미지 파일을 보관할 수 있다. 이 경우, 별지 제15호 \"이미지 파일에 대한 접근 통제 지휘\" 서식을 작성하여 디지털포렌식 수사관에게 송부한다. <신설>⑤ 제4항의 경우, 주임검사등은 피압수자등에게 그 취지를 설명하고 전자정보 상세목록에 이미지 파일명을 구체적으로 특정하여 기재하고 피압수자등에게 교부한다. <신설>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제34조",
+            "source_clause": "제34조제1항",
+            "link_text": "제33조",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제33조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제33조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0034",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0033"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제34조",
+            "source_clause": "제34조제4항",
+            "link_text": "별지 제15호",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "별지15",
+            "target_article_title": "이미지 파일에 대한 접근 통제 지휘",
+            "appendix_no": "15",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606819",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0034",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0015"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0034"
+      },
+      {
+        "article_no": "제35조",
+        "article_title": "전자정보 상세목록의 교부",
+        "chapter": "제3절 압수ㆍ수색ㆍ검증 현장 외에서 디지털 증거 수집",
+        "content": "제35조(전자정보 상세목록의 교부) ① 제34조에 따른 전자정보의 탐색ㆍ복제ㆍ출력을 완료한 경우에는 지체 없이 피압수자등에게 전자정보 상세목록을 교부하고, 별지 제8호의 \"참관 및 전자정보 상세목록 교부 확인서\" 또는 제27조제1항에 따른 확인서 등을 작성하여 피압수자등의 서명을 받는다.② 제1항에도 불구하고 피압수자등이 참관하지 않겠다는 의사표시를 하거나 중간에 참관을 포기하고 퇴실하는 등으로 피압수자등의 서명을 받을 수 없는 경우에는 그 사유를 기재한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제35조",
+            "source_clause": "제35조제1항",
+            "link_text": "제34조",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제34조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제34조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0035",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0034"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제35조",
+            "source_clause": "제35조제1항",
+            "link_text": "별지 제8호",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "별지8",
+            "target_article_title": "참관 및 전자정보 상세목록 교부 확인서",
+            "appendix_no": "8",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606765",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0035",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0008"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제35조",
+            "source_clause": "제35조제1항",
+            "link_text": "제27조제1항",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제27조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제27조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0035",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0027"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0035"
+      },
+      {
+        "article_no": "제36조",
+        "article_title": "목록에 없는 전자정보에 대한 조치",
+        "chapter": "제3절 압수ㆍ수색ㆍ검증 현장 외에서 디지털 증거 수집",
+        "content": "제36조(목록에 없는 전자정보에 대한 조치) ① 제35조제1항의 전자정보 상세목록에 포함되지 않은 전자정보가 있는 경우에는 디지털포렌식 수사관은 해당 전자정보를 지체 없이 삭제 또는 폐기해야 한다. 이 경우, 별지 제16호 \"전자정보 삭제ㆍ폐기 확인서\"를 작성하여 주임검사에게 송부한다. 주임검사는 송부된 \"전자정보 삭제ㆍ폐기 확인서\"를 검토한 후 서명ㆍ날인하여 피압수자등에게 교부하고, 사본은 기록에 편철한다.② 제1항에도 불구하고 복제본이 저장된 정보저장매체등이 피압수자등로부터 제공받은 것으로 그 자체를 반환해야 하는 경우에는 제1항에서 정한 절차가 아닌 제3항에서 정한 절차에 따라 정보저장매체등을 반환할 수 있다.③ 정보저장매체등 원본에 저장되어 반출된 전자정보의 경우에는 다음 순서에 따라 피압수자등에게 정보저장매체등 원본을 돌려주는 방법으로 반환한다.1. 디지털포렌식 수사관은 제34조에 따라 전자정보의 탐색ㆍ복제ㆍ출력이 완료된 경우에는 정보저장매체등 원본을 별지 제5-2호의 \"압수물 재봉인지\" 등으로 재봉인하여 \"참관 및 전자정보 상세목록 교부 확인서\" 또는 제27조제1항에 따른 확인서와 함께 주임검사등에게 인계한다.2. 주임검사는 인계받은 정보저장매체등 원본을 피압수자에게 반환하고 별지 제10호의 \"정보저장매체 등 반환 확인서\"를 작성하여 피압수자등의 서명을 받아 기록에 편철하고, 사본은 피압수자등에게 교부한다.3. <삭제>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제36조",
+            "source_clause": "제36조제1항",
+            "link_text": "제35조제1항",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제35조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제35조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0036",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0035"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제36조",
+            "source_clause": "제36조제1항",
+            "link_text": "별지 제16호",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "별지16",
+            "target_article_title": "전자정보 삭제·폐기 확인서",
+            "appendix_no": "16",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606825",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0036",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0016"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제36조",
+            "source_clause": "제36조제3항",
+            "link_text": "제34조",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제34조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제34조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0036",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0034"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제36조",
+            "source_clause": "제36조제3항",
+            "link_text": "제27조제1항",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제27조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제27조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0036",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0027"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제36조",
+            "source_clause": "제36조제3항",
+            "link_text": "별지 제10호",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "별지10",
+            "target_article_title": "정보저장매체 등 반환 확인서",
+            "appendix_no": "10",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606777",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0036",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0010"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0036"
+      },
+      {
+        "article_no": "제37조",
+        "article_title": "이미지 파일의 보관",
+        "chapter": "제3절 압수ㆍ수색ㆍ검증 현장 외에서 디지털 증거 수집",
+        "content": "제37조(이미지 파일의 보관) <삭제>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0037"
+      },
+      {
+        "article_no": "제38조",
+        "article_title": "이미지 파일의 접근 통제",
+        "chapter": "제3절 압수ㆍ수색ㆍ검증 현장 외에서 디지털 증거 수집",
+        "content": "제38조(이미지 파일의 접근 통제) <삭제>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0038"
+      },
+      {
+        "article_no": "제39조",
+        "article_title": "전자정보의 암호화 등에 대한 특례",
+        "chapter": "제3절 압수ㆍ수색ㆍ검증 현장 외에서 디지털 증거 수집",
+        "content": "제39조(전자정보의 암호화 등에 대한 특례) ① 압수ㆍ수색ㆍ검증 대상인 정보저장매체등이나 전자정보에 암호가 설정되어 있는 등 다음 각호의 사유가 있는 경우에는 저장되어 있는 전자정보에 접근하여 탐색할 수 있는 기술적 조치가 이루어진 이후에 본 절에서 정한 절차에 따라 사건과 관련이 있는 전자정보를 압수한다.1. 정보저장매체등이 물리적으로 손상된 것이 확인되어 수리가 필요한 경우2. 정보저장매체등에 암호가 걸려 있고 피압수자등이 협조하지 않는 경우3. 정보저장매체등의 특성상 적합한 장비나 프로그램의 개발이 필요한 경우4. 사건과 개연성이 있는 전자정보가 조작ㆍ삭제된 정황이 발견되어 사건과 관련이 있는 전자정보의 선별에 앞서 정보저장매체등에 대한 종합적인 분석이 필요한 경우5. 안티포렌식 등으로 인해 통상적인 방식으로는 저장된 전자정보에 접근하는 것이 어려운 경우6. 그 밖에 각 호의 사유에 준하는 경우② 제1항 각호의 사유를 해소하기 위한 기술적 조치 과정에서 필요한 경우에는 사건과 관련이 있는 전자정보를 선별하는 단계에 이르기 전이라도 업무관리시스템에 등록하여 필요한 조치를 취할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0039"
+      },
+      {
+        "article_no": "제40조",
+        "article_title": "업무관리시스템의 운영",
+        "chapter": "제5장 디지털 증거의 등록",
+        "content": "제40조(업무관리시스템의 운영) ① 디지털 증거의 무결성, 보관의 연속성 등을 유지하고, 등록된 디지털 증거에 대한 접근 권한을 체계적으로 관리하기 위해 업무관리시스템을 운영한다.② 압수한 디지털 증거는 특별한 사정이 없는 한 업무관리시스템에 등록하여 관리하여야 한다. 대용량 기타 기술적인 사유로 업무관리시스템에 등록하기 어려운 경우에는 디지털 증거의 내용이 변경ㆍ훼손되지 않도록 적절한 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0040"
+      },
+      {
+        "article_no": "제41조",
+        "article_title": "현장에서 압수한 디지털 증거의 등록",
+        "chapter": "제5장 디지털 증거의 등록",
+        "content": "제41조(현장에서 압수한 디지털 증거의 등록) ① 디지털포렌식 수사관은 지원을 종료하고 복귀한 후 지체 없이 제20조제1항에 따라 압수한 디지털 증거(이미지 파일, 증거파일을 포함한다)와 그 해시값을 업무관리시스템에 등록한다.② 제1항의 경우 현장에서 압수목록 이외에 전자정보 상세목록을 교부한 때에는 그 전자정보 상세목록을 업무관리시스템에 등록한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제41조",
+            "source_clause": "제41조제1항",
+            "link_text": "제20조제1항",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제20조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제20조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0041",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0020"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0041"
+      },
+      {
+        "article_no": "제42조",
+        "article_title": "현장 외에서 압수한 디지털 증거의 등록",
+        "chapter": "제5장 디지털 증거의 등록",
+        "content": "제42조(현장 외에서 압수한 디지털 증거의 등록) ① 디지털포렌식 수사관은 제34조에 따라 무결성 등을 검증하거나 새로 생성한 이미지 파일에서 사건과 관련이 있는 전자정보를 선별한 때에는 해시값과 함께 업무관리시스템에 등록한다.② 제34조제4항에 따라 이미지 파일을 보관할 경우에는 제34조제1항의 이미지 파일을 해시값과 함께 업무관리시스템에 등록할 수 있다.③ 제35조에 따라 피압수자에게 교부한 전자정보 상세목록은 업무관리시스템에 등록한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제42조",
+            "source_clause": "제42조제1항",
+            "link_text": "제34조",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제34조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제34조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0042",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0034"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제42조",
+            "source_clause": "제42조제2항",
+            "link_text": "제34조제4항",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제34조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제34조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0042",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0034"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제42조",
+            "source_clause": "제42조제2항",
+            "link_text": "제34조제1항",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제34조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제34조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0042",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0034"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제42조",
+            "source_clause": "제42조제3항",
+            "link_text": "제35조",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제35조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제35조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0042",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0035"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0042"
+      },
+      {
+        "article_no": "제43조",
+        "article_title": "기타 업무수행을 위한 이용",
+        "chapter": "제5장 디지털 증거의 등록",
+        "content": "제43조(기타 업무수행을 위한 이용) 디지털포렌식 수사관은 암호의 해제, 디지털 증거의 분석 등 업무수행을 위해 필요한 경우에는 업무관리시스템을 이용할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0043"
+      },
+      {
+        "article_no": "제44조",
+        "article_title": "디지털 증거의 분석 시 유의사항",
+        "chapter": "제6장 디지털 증거의 분석",
+        "content": "제44조(디지털 증거의 분석 시 유의사항) 디지털 증거의 분석은 분석결과의 신뢰성을 확보할 수 있도록 디지털포렌식 수사관이 행하여야 하고 분석에 적합한 장비와 프로그램을 사용하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0044"
+      },
+      {
+        "article_no": "제45조",
+        "article_title": "이미지 파일 등에 의한 분석",
+        "chapter": "제6장 디지털 증거의 분석",
+        "content": "제45조(이미지 파일 등에 의한 분석) ① 디지털 증거의 분석은 이미지 파일로 한다.② 제1항에도 불구하고 이미지 파일로 복제하는 것이 곤란한 경우에는 압수 또는 복제한 정보저장매체등을 직접 분석할 수 있다. 이 경우 정보저장매체등의 형상이나 내용이 변경ㆍ훼손되지 않도록 적절한 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0045"
+      },
+      {
+        "article_no": "제46조",
+        "article_title": "분석보고서의 작성",
+        "chapter": "제6장 디지털 증거의 분석",
+        "content": "제46조(분석보고서의 작성) ① 디지털포렌식 수사관은 디지털 증거에 대한 분석을 종료한 때에는 별지 제11호에 따라 분석보고서를 작성한다. 다만, 사안의 경중과 분석의 난이도 등을 고려하여 약식보고서를 활용할 수 있다.② 디지털포렌식 수사관은 디지털 증거를 분석하는 과정에서 생성된 자료가 있는 경우에는 사후 검증이 가능할 수 있도록 이를 업무관리시스템에 등록하여야 한다.③ 디지털포렌식 수사관은 수사상 필요하다고 판단되거나 주임검사등의 요청이 있는 때에는 제2항의 자료를 CD 등 별도의 정보저장매체에도 저장하여 주임검사등에게 인계할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제46조",
+            "source_clause": "제46조제1항",
+            "link_text": "별지 제11호",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "별지11",
+            "target_article_title": "분석보고서",
+            "appendix_no": "11",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606787",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0046",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0046"
+      },
+      {
+        "article_no": "제47조",
+        "article_title": "분석결과의 통보",
+        "chapter": "제6장 디지털 증거의 분석",
+        "content": "제47조(분석결과의 통보) ① 디지털포렌식 수사관은 디지털 증거의 분석을 종료한 때에는 분석보고서를 업무관리시스템에 등록하는 방법으로 회신한다. 다만, 긴급을 요하는 경우에는 구두 또는 전화 등 기타 방법으로 분석결과를 통보하고 사후에 분석보고서를 업무관리시스템에 등록할 수 있다.② 디지털포렌식 수사관은 분석 대상물을 접수한 때로부터 15근무일 이내에 분석결과를 회신하여야 한다. 다만, 부득이한 사정이 있는 경우 중간 분석상황을 통지하는 등으로 그 사유를 소명하여 회신기한을 연장할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0047"
+      },
+      {
+        "article_no": "제48조",
+        "article_title": "생성 이미지 파일 등 삭제",
+        "chapter": "제6장 디지털 증거의 분석",
+        "content": "제48조(생성 이미지 파일 등 삭제) 제43조에 의한 분석을 위해 생성한 이미지 파일이나 분석 과정에서 생성된 일체의 전자정보는 분석결과 회신 후 지체 없이 삭제하여야 한다. 다만, 제42조 및 제45조에 따라 업무관리시스템에 등록한 전자정보와 분석보고서는 분석결과의 정확성, 신뢰성 등에 대한 검증을 위해 계속 보관할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제48조",
+            "source_clause": "제48조",
+            "link_text": "제43조",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제43조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제43조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0048",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0043"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제48조",
+            "source_clause": "제48조",
+            "link_text": "제42조 및 제45조",
+            "line_text": "",
+            "target_law_name": "검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정",
+            "target_article_no": "제42조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정/제42조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0048",
+            "reference_id": "admrul:검사와사법경찰관의상호협력과일반적수사준칙에관한규정#JO0042"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제48조",
+            "source_clause": "제48조",
+            "link_text": "제42조 및 제45조",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제45조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제45조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0048",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0045"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0048"
+      },
+      {
+        "article_no": "제49조",
+        "article_title": "디지털 증거의 관리 시 유의사항",
+        "chapter": "제7장 디지털 증거의 관리",
+        "content": "제49조(디지털 증거의 관리 시 유의사항) 디지털수사과장은 업무관리시스템에 등록된 디지털 증거 등 전자정보의 원본성ㆍ무결성 등이 훼손되지 않도록 체계적으로 보존ㆍ관리하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0049"
+      },
+      {
+        "article_no": "제50조",
+        "article_title": "디지털 증거 관리담당자의 지정",
+        "chapter": "제7장 디지털 증거의 관리",
+        "content": "제50조(디지털 증거 관리담당자의 지정) ① 디지털수사과장은 디지털 증거의 보존ㆍ관리ㆍ폐기 등 디지털 증거의 생애주기를 관리하기 위하여 그 업무를 전담할 디지털 증거 관리담당자를 지정할 수 있다.② 제1항의 디지털 증거 관리담당자는 디지털 증거의 보존ㆍ관리ㆍ폐기에 관한 절차를 위해 필요한 사항과 디지털수사과장으로부터 위임을 받은 사항에 관하여 업무를 수행한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0050"
+      },
+      {
+        "article_no": "제51조",
+        "article_title": "디지털 증거의 점검",
+        "chapter": "제7장 디지털 증거의 관리",
+        "content": "제51조(디지털 증거의 점검) ① 디지털수사과장은 매년 반기별로 디지털 증거에 대한 관리가 원활하게 수행되고 있는지 점검하여야 한다.② 제1항에 따라 디지털 증거 관리담당자는 각 호의 내용이 포함된 디지털 증거 관리 현황을 작성하여 디지털수사과장에게 보고하여야 한다.1. 디지털 증거 등록 현황2. 디지털 증거 보관 현황(수리/미수리 현황)3. 디지털 증거 폐기 현황",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0051"
+      },
+      {
+        "article_no": "제52조",
+        "article_title": "디지털 증거 보관기록 등 관리",
+        "chapter": "제7장 디지털 증거의 관리",
+        "content": "제52조(디지털 증거 보관기록 등 관리) ① 디지털 증거 관리담당자는 디지털 증거의 보관의 연속성이 유지될 수 있도록 디지털 증거의 승계과정에서 등록된 기록, 사진, 영상 등을 관리하여야 한다.② 디지털 증거 관리담당자는 권한 없이 디지털 증거에 접근하지 못하도록 업무관리시스템 상 디지털 증거에 대한 접근 로그를 생성ㆍ관리하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0052"
+      },
+      {
+        "article_no": "제52조의1",
+        "article_title": "등록된 디지털 증거의 접근 통제",
+        "chapter": "제7장 디지털 증거의 관리",
+        "content": "제52조의1(등록된 디지털 증거의 접근 통제) <신설>① 업무관리시스템에 등록된 이미지 파일 및 증거파일은 디지털 증거 관리담당자 외에는 접근하지 못하도록 접근 권한을 관리하여야 한다.② 업무관리시스템에 등록된 추출파일은 해당 지원 요청을 한 주임검사등 이외에는 접근하지 못하도록 접근 권한을 관리하여야 한다.③ 다음 각호의 경우에는 소속 청의 인권보호관으로부터 승인을 받아 디지털 수사과장에게 공문으로 접근 권한 부여를 요청할 수 있다.1. 법정 재현이나 검증의 사유에 필요한 경우 공판검사가 디지털포렌식 수사관 으로 하여금 제34조제1항의 이미지 파일에 접근할 수 있도록 권한 부여를 요청하는 경우2. 주임검사가 당해 사건의 수사를 위해 필요하거나 공판검사가 당해 사건의 공소유지를 위해 필요한 경우, 해당검사가 디지털포렌식 수사관으로 하여금 제34조제1항을 제외한 이미지 파일 및 증거파일에 접근할 수 있도록 권한 부여를 요청하는 경우3. 인사이동 등의 사유로 주임검사등이 수사를 위해 추출파일에 새롭게 접근 권한을 요청하는 경우",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제52조의1",
+            "source_clause": "제52조의1제3항",
+            "link_text": "제34조제1항",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제34조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제34조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0052_01",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0034"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제52조의1",
+            "source_clause": "제52조의1제3항",
+            "link_text": "제34조제1항",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제34조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제34조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0052_01",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0034"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0052_01"
+      },
+      {
+        "article_no": "제53조",
+        "article_title": "디지털 증거의 폐기 시 유의사항",
+        "chapter": "제8장 디지털 증거의 폐기",
+        "content": "제53조(디지털 증거의 폐기 시 유의사항) 범죄사실과 무관한 것으로 확인된 디지털 증거는 폐기하여야 하나, 디지털 증거를 폐기하는 과정에서 향후 재판 절차에 증거로 제출되어야 하는 디지털 증거가 폐기되는 일이 없도록 유의하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0053"
+      },
+      {
+        "article_no": "제54조",
+        "article_title": "폐기대상",
+        "chapter": "제8장 디지털 증거의 폐기",
+        "content": "제54조(폐기대상) ① 다음 각호에 해당하는 디지털 증거는 본 장에서 규정한 절차에 따라 업무관리시스템에서 폐기한다.1. 수사 또는 재판 과정에서 범죄사실과 관련성이 없는 것으로 확인된 경우2. 압수의 원인이 된 사건에 대한 기소ㆍ불기소 등 종국처분에 따라 계속 보관할 필요성이 없다고 인정되는 경우3. 판결이 확정되어 계속 보관할 필요성이 없다고 인정되는 경우② <삭제>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0054"
+      },
+      {
+        "article_no": "제55조",
+        "article_title": "폐기방법",
+        "chapter": "제8장 디지털 증거의 폐기",
+        "content": "제55조(폐기방법) 디지털 증거를 폐기하는 경우에는 복원이 불가능한 기술적 방법으로 삭제하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0055"
+      },
+      {
+        "article_no": "제56조",
+        "article_title": "폐기요청",
+        "chapter": "제8장 디지털 증거의 폐기",
+        "content": "제56조(폐기요청) 제54조의 폐기대상 디지털 증거에 대한 폐기절차는 주임검사(주임검사가 없는 경우에는 그 승계검사) 또는 압수전담검사의 요청으로 개시한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제56조",
+            "source_clause": "제56조",
+            "link_text": "제54조",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제54조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제54조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0056",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0054"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0056"
+      },
+      {
+        "article_no": "제57조",
+        "article_title": "폐기절차",
+        "chapter": "제8장 디지털 증거의 폐기",
+        "content": "제57조(폐기절차) ① 디지털 증거의 폐기를 요청하는 경우에는 다음 각호의 절차에 따라 폐기를 진행한다.1. 주임검사 또는 압수전담검사는 제54조의 폐기대상 디지털 증거에 대하여 폐기촉탁지휘를 한다.2. 폐기촉탁지휘를 받은 압수물담당직원은 KICS의 압수물관리시스템을 통하여 디지털수사과장에게 해당 디지털 증거에 대한 폐기를 요청한다.3. 디지털수사과장은 폐기를 요청 받은 디지털 증거를 지체 없이 폐기하고 별지 제12호 서식의 \"디지털증거 폐기(촉탁) 회보서\"를 업무관리시스템을 통하여 입력하는 방법으로 작성하여 압수물담당직원에게 회보한다.② 단, 압수물로 수리되지 아니한 디지털 증거의 폐기는 다음 각호의 절차에 따라 폐기를 진행한다. <신설>1. 주임검사는 제54조의 폐기대상 디지털 증거에 대하여 업무관리시스템을 통하여 폐기를 요청한다.2. 디지털수사과장은 폐기를 요청받은 디지털 증거를 지체 없이 폐기하고 별지 제12-1호 서식의 \"디지털증거 폐기 확인서\"를 업무관리시스템을 통하여 입력하는 방법으로 작성하여 주임검사에게 회보한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제57조",
+            "source_clause": "제57조제1항",
+            "link_text": "제54조",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제54조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제54조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0057",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0054"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제57조",
+            "source_clause": "제57조제1항",
+            "link_text": "별지 제12호 서식",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "별지12",
+            "target_article_title": "디지털증거 폐기(촉탁) 회보서",
+            "appendix_no": "12",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606793",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0057",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0012"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제57조",
+            "source_clause": "제57조제2항",
+            "link_text": "제54조",
+            "line_text": "",
+            "target_law_name": "(대검찰청) 디지털 증거의 수집·분석 및 관리 규정",
+            "target_article_no": "제54조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정/제54조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0057",
+            "reference_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0054"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0057"
+      },
+      {
+        "article_no": "제58조",
+        "article_title": "유죄확정 판결에 대한 특례",
+        "chapter": "제8장 디지털 증거의 폐기",
+        "content": "제58조(유죄확정 판결에 대한 특례) <삭제>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0058"
+      },
+      {
+        "article_no": "제59조",
+        "article_title": "미수리된 디지털 증거에 대한 직권 폐기",
+        "chapter": "제8장 디지털 증거의 폐기",
+        "content": "제59조(미수리된 디지털 증거에 대한 직권 폐기) ① <삭제>② 디지털수사과장은 업무관리시스템에 등록된 후 6개월이 경과될 때까지 압수물로 수리되지 아니한 디지털 증거에 대해서 지원 요청한 청별로 그 목록을 작성하여 해당 청에 송부하고 1개월 내에 압수물로 수리한 후 그 결과를 회보할 것을 요청할 수 있다.③ 압수물로 수리할 것을 촉구한 때로부터 1개월이 경과하도록 압수물로 수리되지 아니한 경우에는 디지털수사과장이 판단하여 디지털 증거를 폐기할 수 있다.④ 제3항에 따라 디지털 증거를 폐기한 경우, 디지털수사과장은 별지 제12-1호 서식의 \"디지털증거 폐기 확인서\"를 업무관리시스템을 통하여 입력하는 방법으로 작성하여 주임검사에게 회보한다. <신설>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#JO0059"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20190520",
+      "promulgation_no": "991",
+      "content": "부칙 <제991호,2019. 5. 20.>제1조(시행일) 이 규정은 2019. 5. 20.부터 시행한다.제2조(존속기한) 이 예규는 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 예규를 발령한 후의 법령이나 현실 여건의 변화 등을 검토하여야 하는 2022. 5. 20.까지 효력을 가진다."
+    },
+    {
+      "promulgation_date": "20210101",
+      "promulgation_no": "1151",
+      "content": "부칙 <제1151호,2021. 1. 1.>제1조(시행일) 이 규정은 2021. 1. 1.부터 시행한다.제2조(존속기한) 이 규정은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 발령 후 법령이나 현실 여건의 변화 등을 검토하여야 하는 2024. 1. 1.까지 효력을 가진다."
+    },
+    {
+      "promulgation_date": "20220518",
+      "promulgation_no": "1285",
+      "content": "부칙 <제1285호, 2022. 5. 18.>제1조(시행일) 이 규정은 2022. 5. 18.부터 시행한다.제2조(존속기한) 이 규정은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 발령 후 법령이나 현실 여건의 변화 등을 검토하여야 하는 2025. 5. 18.까지 효력을 가진다."
+    },
+    {
+      "promulgation_date": "20241001",
+      "promulgation_no": "1449",
+      "content": "부칙 <제1449호, 2024. 10. 1.>제1조(시행일) 이 규정은 2024. 10. 1.부터 시행한다.제2조(재검토기한) 이 규정은「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 예규에 대하여 2025년 1월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "압수·수색·검증 지원요청 협의서",
+      "enforcement_date": "",
+      "content": "[별지 제1호 서식] 압수ㆍ수색ㆍ검증 지원요청 협의서\n┏━━━━━━━━━━━━━━━━━━━┓\n┃      압수·수색·검증 지원요청 협의서┃\n┗━━━━━━━━━━━━━━━━━━━┛\n□ 지원요청 내용(일선청)\n┏━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃지원 일시         ┃ (예시) 20  . 00. 00.(  ) 00:00∼00:00                                ┃\n┠─────────╂───────────────────────────────────┨\n┃지원 근거         ┃ (예시) 20  형제00000호 ※ 사건번호 기재                              ┃\n┠────┰────╂───────────────────────────────────┨\n┃요 청 자┃소 속   ┃ (예시) 0000검찰청 000지청                                            ┃\n┃        ┠────╂───────────────────────────────────┨\n┃        ┃부 서   ┃ (예시) 형사0부, 특수0부, 00과                                        ┃\n┃        ┠────╂───────────────────────────────────┨\n┃        ┃요청자  ┃ (예시) 부장검사 000, 주임검사 000, 수사관 000                        ┃\n┃        ┃        ┃ ※ 수사팀 담당자 및 연락처:                                          ┃\n┃        ┃        ┃            검사 또는 수사관 000/ 구내 1234(휴대전화번호)             ┃\n┃        ┃        ┃ ※ 수사[조사]과는 소속 부장검사, 수사[조사]과장 모두 기재            ┃\n┃        ┃        ┃ ※ 포렌식팀이 항시 연락할 수 있는 수사팀 담당자 꼭 기재              ┃\n┠────╂────╂───────────────────────────────────┨\n┃요청내용┃지원장소┃(예시) ① 서울 00구 : 컴퓨터 0명 ② 인천 : DB 0명, 컴퓨터 0명,        ┃\n┃        ┃        ┃      ③ 청주 : 컴퓨터 0명                                            ┃\n┃        ┃        ┃ ※ 수사보안 상 지원 관할을 알 수 있을 정도로만 기재                  ┃\n┃        ┠────╂───────────────────────────────────┨\n┃        ┃필요인원┃(예시) ① 서울 00구 : 컴퓨터 0명, DB 0명                              ┃\n┃        ┃        ┃      ② 인천 : 컴퓨터 0명, DB 0명 ③ 청주 : 컴퓨터 0명               ┃\n┃        ┠────╂───────────────────────────────────┨\n┃        ┃죄   명 ┃ 뇌물수수 등  ※ 수사보안 상 사건 구분이 가능할 정도로만 간략히 기재  ┃\n┠────┸────╂───────────────────────────────────┨\n┃요청 사유         ┃(예시) 압수예정물 관련 : PC 00대 예상, 자체 서버 운용 중,             ┃\n┃                  ┃동일건물 내 사무실 00곳 압수 집행 예정, 이동식                        ┃\n┃                  ┃하드·USB 현장 이미징 필요, 휴대폰 압수 예정 등                       ┃\n┃                  ┃                                                                      ┃\n┃                  ┃ ※ 장소별 인원 선정 및 전문분야(컴퓨터, DB, 모바일 등) 배정          ┃\n┃                  ┃결정을 위해 필요 사항을 구체적으로 기재                               ┃\n┠─────────╂───────────────────────────────────┨\n┃기타 특이사항     ┃ (예시) 20  . 00. 00. 압수수색영장 청구 예정                          ┃\n┃                  ┃                    압수수색영장 발부 필,                             ┃\n┃                  ┃                    영장 청구 필                                      ┃\n┗━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n□ 지원여부 결정(대검)\n┏━━━━┳━━━━━━━━┳━━━━┳━━━━┓\n┃순 번   ┃                ┃결정일자┃        ┃\n┠────╂────────┸────┸────┨\n┃의 견   ┃                                    ┃\n┠────╂───────┬──────────┨\n┃지원내용┃담당          │                    ┃\n┃        ┃디지털포렌식팀│                    ┃\n┃        ┠───────┼──────────┨\n┃        ┃지원수사관(명)│                    ┃\n┠────╂─────┬─┴─┬───────┬┨\n┃결 재   ┃검찰사무관│      │디지털수사과장│┃\n┗━━━━┻━━━━━┷━━━┷━━━━━━━┷┛\n※ 배정된 압수장소는 임의로 변경 불가",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606705",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606701",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606705",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0001",
+      "filename": "별지1_압수·수색·검증 지원요청 협의서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "현장조사 확인서",
+      "enforcement_date": "",
+      "content": "[별지 제2호 서식] 현장조사 확인서\n\nNational Digital Forensic Center\n\n\n\n\n\n【 현장조사 확인서 】\n이미지 파일 정보\n┏━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━┓\n┃사건번호              │ 20  지원0000_1호_○○주식회사        ┃\n┠───────────┼───────────────────┨\n┃저장매체 종류(모델명) │ 노트북 (엘지그램, 15Z990-VP70ML)     ┃\n┠───────────┼───────────────────┨\n┃압수장소              │ 서울 서초구 반포대로                 ┃\n┠───────────┼───────────────────┨\n┃사 용 자              │ 홍길동                               ┃\n┠───────────┼───────────────────┨\n┃조 사 자              │ 조사자                               ┃\n┠───────────┼───────────────────┨\n┃시간설정              │ PC 설정시간 : 20  . 01. 01. 00:00:00 ┃\n┃                      │ KST 시간 : 20  . 01. 01. 00:00:00    ┃\n┠───────────┼───────────────────┨\n┃이미지 파일 생성일시  │ 20  . 01. 01. 00:00:00               ┃\n┠───────────┼───────────────────┨\n┃이미지 파일명         │ 증1호_홍길동(대표이사)_노트북.dd     ┃\n┗━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━┛\n해시값\n┏━━━━━━━━━━━┯┓\n┃이미지 파일           │┃\n┣━━━━━━━━━━━┿┫\n┃전자정보상세목록 파일 │┃\n┗━━━━━━━━━━━┷┛\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃?위 해시값은 홍길동(대표이사)의 디지털기기(노트북 )에서 압수한 전자정보에 대한 ┃\n┃해시값이고, 그에 대한 전자정보 상세목록을 교부(□출력, □복사) 받았음을         ┃\n┃(확인)합니다.                                                                   ┃\n┃?전자정보의 선별과정에 참여하였고, 참여 과정에서 관련성에 관한 의견진술 등     ┃\n┃압수절차에 관한 의견 진술의 기회를 보장받았음을 (확인)합니다.                   ┃\n┃?참여권 보장에 관한 의견, 개개 전자정보의 압수에 관한 의견 [□(있음)(※별지    ┃\n┃제14호 첨부) / □(없음)]을 확인합니다.                                          ┃\n┃?위 압수?수색?검증 절차에서 압수한 전자정보는 수사 또는 재판 목적 소멸 시    ┃\n┃폐기됨을 고지받았음을 (확인)합니다.                                             ┃\n┃확인 일시 및 장소 :                                                             ┃\n┃확인자 성명       :                         (서명)                              ┃\n┃확인자 생년월일   :                                                             ┃\n┃확인자 연락처     :                                                             ┃\n┃피압수자(임의제출자 등)와의 관계 : 본인, 기타 (                  )              ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606711",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606707",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606711",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0002",
+      "filename": "별지2_현장조사 확인서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "정보저장매체 제출 및 이미징 등 참관여부 확인서",
+      "enforcement_date": "",
+      "content": "[별지 제3호 서식] 정보저장매체 제출 및 이미징 등 참관여부 확인서\n【 정보저장매체 제출 및 이미징 등 참관여부 확인서 】\n┏━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃피압수자      │성    명 :                                                                        ┃\n┃(임의제출자)  │생년월일 :                                                                        ┃\n┃              │연 락 처 :                                                                        ┃\n┠───────┼─────────────────────────────────────────┨\n┃기기의 종류   │기기의 종류 :                                                                     ┃\n┃등            │제조사 및 모델 (S/N) :                                                            ┃\n┃              │(모바일의 경우) 전화번호 :                                                        ┃\n┠───────┼─────────────────────────────────────────┨\n┃[현장]        │피압수자 또는 변호인은,                                                           ┃\n┃정보저장매체  │?정보저장매체를 반출해야 하는 사유와 선별 등 과정의 참여권 보장                  ┃\n┃제출          │및 참관 후 선별 압수절차 전반에 대한 의견을 제출할 수 있음을                      ┃\n┃              │고지받았으며, 본 매체 제출에 관한 의견[□(있음)(※별지 제14호 첨부)/              ┃\n┃              │□(없음)]을 확인합니다. (서명)                                                    ┃\n┠───────┼─────────────────────────────────────────┨\n┃이미징 등     │?위와 같이 압수 또는 임의제출 된 정보저장매체에 대한 전부 복제·                 ┃\n┃참관          │이미징, 전자정보의 탐색 및 복제(출력) 등의 과정에 참관하시겠습니까?               ┃\n┃              │[? 예 / ? 아니오]                                                               ┃\n┃              ├───┬───┬─────────────────────────────────┨\n┃              │참관  │참관  │성    명 :                                                        ┃\n┃              │희망시│예정자│생년월일 :                                                        ┃\n┃              │      │      │연 락 처 :                                                        ┃\n┃              │      ├───┼─────────────────────────────────┨\n┃              │      │참관  │? 전자정보탐색 및 복제(출력)                                     ┃\n┃              │      │범위  │    ? 범죄사실과 관련된 전자정보의 범위를 정하는 선별 과정       ┃\n┃              │      │      │? 정보저장매체 전부복제·이미징                                  ┃\n┃              │      │      │    ? 포렌식 도구를 이용하여 매체에 기록된 전자정보를 전부       ┃\n┃              │      │      │복제하는 과정                                                     ┃\n┃              ├───┴───┴─────────────────────────────────┨\n┃              │※ (유의사항) 정당한 사유 없이 예정된 참관 기일에 불출석하는 경우 신뢰성과        ┃\n┃              │전문성을 담보할 수 있는 상당한 방법으로 집행할 수 있음                            ┃\n┣━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃※ 자동 잠금 해제, 모바일 기기 및 백업 파일(아이폰 등)의 비밀번호 등 표시                         ┃\n┃ ▣ 화면잠금번호(4자리이상 숫자) : 1234   ▣ 비밀번호(4자리이상 문자 또는 숫자): spo1234          ┃\n┃ ▣ 패턴 : 1-4-7-8-9                     ▣ 백업데이터 비밀번호 : 123456                          ┃\n┃                                                                                                  ┃\n┃                                                                                                  ┃\n┃※ (모바일 기기의 경우) 아래 유의사항을 고지받았음을 확인함 (서명)                                ┃\n┃ ? 암호해독이나 기기의 이미징 과정에서 하드웨어의 물리적 결함 또는 OS·애플리케이션의 논리적     ┃\n┃오류 및 기타 원인으로 데이터가 손상될 수 있으며, 일부 기종의 경우 이미징 과정에서 기기가          ┃\n┃손상되거나 삼성페이 등 보안솔루션 앱 사용이 불가할 수 있음                                        ┃\n┃ ? 애플 기기(iOS 11버전 이상)의 경우 백업데이터 비밀번호 미제출 시 아이콘 배치 등의 일부 설정이  ┃\n┃초기화될 수 있음                                                                                  ┃\n┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃ 20  형제     호 사건과 관련하여 위 정보저장매체의 제출 및 참관 등 절차를                         ┃\n┃확인하고, 압수된 전자정보는 수사 또는 재판 목적 소멸 시 폐기됨을 고지받았음을                     ┃\n┃확인합니다.                                                                                       ┃\n┃20    .      .      .                                                                             ┃\n┃                      피압수자,임의제출자 등 :                     (서명)                         ┃\n┃                      검찰수사관 :                                 (서명)                         ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606717",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606713",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606717",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0003",
+      "filename": "별지3_정보저장매체 제출 및 이미징 등 참관여부 확인서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "정보저장매체 복제 및 이미징 등 참관여부 확인서",
+      "enforcement_date": "",
+      "content": "[별지 제4호 서식] 정보저장매체 복제 및 이미징 등 참관여부 확인서\n【 정보저장매체 복제 및 이미징 등 참관여부 확인서 】\n┏━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━┓\n┃사건번호              │ 20  지원0000_1호_○○주식회사    ┃\n┠───────────┼─────────────────┨\n┃저장매체 종류(모델명) │ 노트북 (엘지그램, 15Z990-VP70ML) ┃\n┠───────────┼─────────────────┨\n┃압수장소              │ 서울 서초구 반포대로             ┃\n┠───────────┼─────────────────┨\n┃사 용 자              │ 홍길동                           ┃\n┠───────────┼─────────────────┨\n┃조 사 자              │ 조사자                           ┃\n┠───────────┼─────────────────┨\n┃이미지 파일 생성일시  │ 20  . 01. 01. 00:00:00           ┃\n┠───────────┼─────────────────┨\n┃이미지 파일명         │ 증1호_홍길동(대표이사)_노트북.dd ┃\n┗━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━┛\n해시값\n┏━━━━━━┯┓\n┃이미지 파일 │┃\n┗━━━━━━┷┛\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃※ Hash Value : 해시값은 데이터를 고유하게 식별하는 고정 길이의 값으로 해시함수의 결과로 생성되며 일반적으로 디지털 증거의  ┃\n┃무결성을 입증하는 수단으로 사용되고 있다.                                                                                   ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n┏━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃[현장]        │피압수자 또는 변호인은,                                                         ┃\n┃정보저장매체  │?정보저장매체에 대한 전부 복제·이미징 등 형태로 반출해야 하는                 ┃\n┃전부 복제     │사유와 선별 과정의 참여권 보장 및 참관 후 선별 압수절차 전반에                  ┃\n┃              │대한 의견을 제출할 수 있음을 고지받았으며, 본 매체 복제에 관한                  ┃\n┃              │의견[□(있음)(※별지 제14호 첨부)/□(없음)]을 확인합니다. (서명)                ┃\n┠───────┼────────────────────────────────────────┨\n┃선별 등       │?위와 같이 압수 또는 임의제출 된 전부 복제본에 대한 전자정보의                 ┃\n┃참관          │탐색 및 복제(출력) 등의 과정에 참관하시겠습니까?                                ┃\n┃              │  [? 예 / ? 아니오]                                                           ┃\n┃              ├───┬─────┬──────────────────────────────┨\n┃              │참관  │참관      │성    명 :                                                  ┃\n┃              │희망시│예정자    │생년월일 :                                                  ┃\n┃              │      │          │연 락 처 :                                                  ┃\n┃              │      ├─────┼──────────────────────────────┨\n┃              │      │참관 범위 │? 전자정보탐색 및 복제(출력)                               ┃\n┃              │      │          │   ? 범죄사실과 관련된 전자정보의 범위를 정하는            ┃\n┃              │      │          │선별 과정                                                   ┃\n┠───────┴───┴─────┴──────────────────────────────┨\n┃※ (참관의 경우) 유의사항                                                                       ┃\n┃? 정당한 사유 없이 예정된 참관 기일에 불출석하는 경우 신뢰성과 전문성을 담보할 수 있는 상당한  ┃\n┃방법으로 집행할 수 있음                                                                         ┃\n┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃ 20   형제     호 사건과 관련하여 위 정보저장매체의 전부 복제 및 참관 등                        ┃\n┃절차를 확인하고, 압수된 전자정보는 수사 또는 재판 목적 소멸 시 폐기됨을                         ┃\n┃고지받았음을 확인합니다.                                                                        ┃\n┃20    .      .      .                                                                           ┃\n┃                        피압수자,임의제출자 등 :                     (서명)                     ┃\n┃                        검찰수사관 :                                 (서명)                     ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606723",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606719",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606723",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0004",
+      "filename": "별지4_정보저장매체 복제 및 이미징 등 참관여부 확인서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "01",
+      "kind": "별지",
+      "title": "압수물 봉인지",
+      "enforcement_date": "",
+      "content": "\n┏━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                 압수물 봉인지                  ┃\n┣━━━━━━┯━━━━━━━━━━━━━━━━━┫\n┃사용자      │                                  ┃\n┠──────┼─────────────────┨\n┃피압수자    │                                  ┃\n┃(제출자)    │                                  ┃\n┣━━━━━━┿━━━━━━━━━━━━━━━━━┫\n┃제조사      │                                  ┃\n┃모델명      │                                  ┃\n┃S / N       │                                  ┃\n┠──────┼─────────────────┨\n┃시스템시간  │  년   월   일   시   분          ┃\n┣━━━━━━┿━━━━━━━━━━━━━━━━━┫\n┃유형        │  □ 압수물    □ 임의제출물      ┃\n┃            ├─────────────────┨\n┃            │  □ 원  본    □ 사  본          ┃\n┠──────┼─────────────────┨\n┃압수(제출)  │  년   월   일   시   분          ┃\n┃일시        │                                  ┃\n┠──────┼─────────────────┨\n┃압수(제출)  │                                  ┃\n┃장소        │                                  ┃\n┠──────┼─────────────────┨\n┃압수자      │                                  ┃\n┠──────┼─────────────────┨\n┃봉인일시    │  년   월   일   시   분          ┃\n┠──────┼─────────────────┨\n┃피압수자 등 │                                  ┃\n┃서명        │                                  ┃\n┠──────┼─────────────────┨\n┃비고        │                                  ┃\n┣━━━━━━┷━━━━━━━━━━━━━━━━━┫\n┃봉인해제 일시 :                                 ┃\n┃봉인해제 사유 :                                 ┃\n┃참관인   서명 :                                 ┃\n┃? 이 물건을 봉인합니다.                        ┃\n┃? 권한 없이 봉인을 해제해서는 안 됩니다.       ┃\n┃? 봉인해제 후에 봉인지를 기록에 편철해주세요.  ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n[별지 제5-1호 서식] 압수물 봉인지",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606729",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606725",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606729",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0005_01",
+      "filename": "별지5의1_압수물 봉인지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "02",
+      "kind": "별지",
+      "title": "압수물 재봉인지",
+      "enforcement_date": "",
+      "content": "\n┏━━━━━━━━━━━━━━━━━━━━━┓\n┃         압수물 재봉인지                  ┃\n┣━━━━━━━━━━┯━━━━━━━━━━┫\n┃재봉인 일시         │재봉인 사유         ┃\n┠──────────┼──────────┨\n┃2019. 5. 6. 12 : 35 │(예시) 분석 완료    ┃\n┃                    │(예시) 수사팀 반환  ┃\n┣━━━━━━━━━━┿━━━━━━━━━━┫\n┃해제 일시           │해제 사유           ┃\n┠──────────┼──────────┨\n┃                    │                    ┃\n┣━━┯━━━━━━━┷━━━━━━━━━━┫\n┃특이│                                    ┃\n┃사항│                                    ┃\n┣━━┷━━━━━━━━━━━━━━━━━━┫\n┃? 이 물건을 재봉인합니다.                ┃\n┃? 권한 없이 봉인을 해제해서는 안 됩니다. ┃\n┗━━━━━━━━━━━━━━━━━━━━━┛\n\n[별지 제5-2호 서식] 압수물 재봉인지",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606735",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606731",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606735",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0005_02",
+      "filename": "별지5의2_압수물 재봉인지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "03",
+      "kind": "별지",
+      "title": "압수장소 봉인지",
+      "enforcement_date": "",
+      "content": "[별지 제5-3호 서식] 압수장소 봉인지\n┏━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                            압수장소 봉인지       ┃\n┣━━━━━━━━━━┯┯━━━━━━━━━┯━━━┫\n┃봉인일시            ││봉인사유          │      ┃\n┠──────────┼┼─────────┼───┨\n┃확인자(피압수자 등) ││확인자(조사자 등) │      ┃\n┣━━━━━━━━━━┿┿━━━━━━━━━┿━━━┫\n┃해제일시            ││해제사유          │      ┃\n┠──────────┼┼─────────┼───┨\n┃확인자(피압수자 등) ││확인자(조사자 등) │      ┃\n┣━━━━━━━━━━┿┷━━━━━━━━━┷━━━┫\n┃특이사항            │                            ┃\n┣━━━━━━━━━━┷━━━━━━━━━━━━━━┫\n┃ ? 이 장소를 봉인합니다.                         ┃\n┃ ? 권한 없이 봉인을 해제해서는 안 됩니다.        ┃\n┃ ? 봉인해제 후에 봉인지를 기록에 편철해주세요.   ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606741",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606737",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606741",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0005_03",
+      "filename": "별지5의3_압수장소 봉인지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "01",
+      "kind": "별지",
+      "title": "압수(임의제출)물 송부지",
+      "enforcement_date": "",
+      "content": "[별지 제6-1호 서식] 압수(임의제출)물 송부지\n┏━━━━━━━━━━━━━━━━━━━━━┓\n┃    압수(임의제출)물 송부지               ┃\n┠──────┬──────────────┨\n┃요청번호    │0000 요청 00000             ┃\n┠──────┼──────────────┨\n┃요청기관    │   0000 검찰청     00 지청  ┃\n┃            │    0000 부(과)  000 검사실 ┃\n┠──────┼──────────────┨\n┃수령기관    │        0000 디지털포렌식팀 ┃\n┠──────┼──────────────┨\n┃내용물(수량)│하드디스크 1점              ┃\n┠──────┼──────────────┨\n┃비고        │참관확인서 수령 후 첨부     ┃\n┃            │(임의제출물)                ┃\n┗━━━━━━┷━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606747",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606743",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606747",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0006_01",
+      "filename": "별지6의1_압수(임의제출)물 송부지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "02",
+      "kind": "별지",
+      "title": "충격방지봉투",
+      "enforcement_date": "",
+      "content": "[별지 제6-2호 서식] 충격방지봉투\n수사 및\n재판전용\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                        ┃\n┃          ┌──────┬──────────────┐┃\n┃          │요청번호    │                            │┃\n┃          ├──────┼──────────────┤┃\n┃          │요청기관    │     검찰청           지청  │┃\n┃          │            │      부(과)         검사실 │┃\n┃          ├──────┼──────────────┤┃\n┃          │수령기관    │            디지털포렌식팀  │┃\n┃          ├──────┼──────────────┤┃\n┃          │내용물(수량)│                            │┃\n┃          ├──────┼──────────────┤┃\n┃          │비고        │                            │┃\n┃          └──────┴──────────────┘┃\n┃                                   송부날짜 :           ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606753",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606749",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606753",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0006_02",
+      "filename": "별지6의2_충격방지봉투.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "별지",
+      "title": "분석요청 등 의뢰물 접수부",
+      "enforcement_date": "",
+      "content": "[별지 제7호 서식] 분석요청 등 의뢰물 접수부\n\nNational Digital Forensic Center\n\n\n\n\n\n【 분석요청 등 의뢰물 접수부 】\n○○검찰청 디지털포렌식팀\n┏━━━━━━┯━━━━━┯━━━━━┯━━━━━┯━━━━┯━━┯━━━━━┯━━━━━━━━━━━━━━┯━━━━━━━━━┯━━━━┓\n┃접수번호    │접수일    │요청번호  │요청기관  │의뢰물  │수량│내용물    │인계자                      │인수자            │비고    ┃\n┃(연도-번호) │          │          │          │        │    │          ├─────┬───┬────┼─────┬───┤        ┃\n┃            │          │          │          │        │    │          │소속      │성명  │서명(인)│소속      │성명  │        ┃\n┠──────┼─────┼─────┼─────┼────┼──┼─────┼─────┼───┼────┼─────┼───┼────┨\n┃24-1        │20  .   . │2024요청  │○○검찰청│박스(소)│2개 │모바일 4점│○○검찰청│이○○│이○○  │○○검찰청│박○○│임의제출┃\n┃            │          │0001      │          │        │    │          │          │      │        │포렌식팀  │      │        ┃\n┠──────┼─────┼─────┼─────┼────┼──┼─────┼─────┼───┼────┼─────┼───┼────┨\n┃24-2        │20  .   . │2024요청  │○○법원  │대봉투  │1개 │불상      │○○우체국│김○○│김○○  │○○검찰청│박○○│압수    ┃\n┃            │          │0001      │          │        │    │          │          │      │        │포렌식팀  │      │        ┃\n┠──────┼─────┼─────┼─────┼────┼──┼─────┼─────┼───┼────┼─────┼───┼────┨\n┃            │20  .   . │          │          │        │    │          │          │      │        │          │      │        ┃\n┠──────┼─────┼─────┼─────┼────┼──┼─────┼─────┼───┼────┼─────┼───┼────┨\n┃            │20  .   . │          │          │        │    │          │          │      │        │          │      │        ┃\n┠──────┼─────┼─────┼─────┼────┼──┼─────┼─────┼───┼────┼─────┼───┼────┨\n┃            │20  .   . │          │          │        │    │          │          │      │        │          │      │        ┃\n┠──────┼─────┼─────┼─────┼────┼──┼─────┼─────┼───┼────┼─────┼───┼────┨\n┃            │20  .   . │          │          │        │    │          │          │      │        │          │      │        ┃\n┠──────┼─────┼─────┼─────┼────┼──┼─────┼─────┼───┼────┼─────┼───┼────┨\n┃            │20  .   . │          │          │        │    │          │          │      │        │          │      │        ┃\n┠──────┼─────┼─────┼─────┼────┼──┼─────┼─────┼───┼────┼─────┼───┼────┨\n┃            │20  .   . │          │          │        │    │          │          │      │        │          │      │        ┃\n┠──────┼─────┼─────┼─────┼────┼──┼─────┼─────┼───┼────┼─────┼───┼────┨\n┃            │20  .   . │          │          │        │    │          │          │      │        │          │      │        ┃\n┠──────┼─────┼─────┼─────┼────┼──┼─────┼─────┼───┼────┼─────┼───┼────┨\n┃            │20  .   . │          │          │        │    │          │          │      │        │          │      │        ┃\n┠──────┼─────┼─────┼─────┼────┼──┼─────┼─────┼───┼────┼─────┼───┼────┨\n┃            │20  .   . │          │          │        │    │          │          │      │        │          │      │        ┃\n┠──────┼─────┼─────┼─────┼────┼──┼─────┼─────┼───┼────┼─────┼───┼────┨\n┃            │20  .   . │          │          │        │    │          │          │      │        │          │      │        ┃\n┗━━━━━━┷━━━━━┷━━━━━┷━━━━━┷━━━━┷━━┷━━━━━┷━━━━━┷━━━┷━━━━┷━━━━━┷━━━┷━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606759",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606755",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606759",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0007",
+      "filename": "별지7_분석요청 등 의뢰물 접수부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0008",
+      "branch": "00",
+      "kind": "별지",
+      "title": "참관 및 전자정보 상세목록 교부 확인서",
+      "enforcement_date": "",
+      "content": "[별지 제8호 서식] 참관 및 전자정보 상세목록 교부 확인서\n\nNational Digital Forensic Center\n\n\n\n\n\n【 참관 및 전자정보 상세목록 교부 확인서 】\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃  20   지원      호 사건과 관련하여 압수(임의제출)된 아래 기재 정보저장매체     ┃\n┃등에 대하여 아래와 같이 이미지 파일 작성 과정 등에 참관하였음을 확인합니다.     ┃\n┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃소유자 및 정보저장매체                                                          ┃\n┠────────┬───────────────────────────────┨\n┃ 소유자(사용자) │ 홍길동                                                       ┃\n┠────────┼───────────────────────────────┨\n┃저장매체 종류   │ 노트북 용 2.5 인치 하드디스크                                ┃\n┠────────┼───────────────────────────────┨\n┃제조사 모델명   │ 씨게이트 BarraCuda 2.5, ST1000LM048,                         ┃\n┠────────┼───────────────────────────────┨\n┃시리얼 번호     │ 0357j9LN146802                                               ┃\n┣━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃이미지파일 작성정보                                                             ┃\n┠──┬─────────┬─────┬─────────────────────┨\n┃순번│파일명            │타입(P/L) │해시값                                    ┃\n┠──┼─────────┼─────┼─────────────────────┨\n┃1   │※ 별지 참조      │          │                                          ┃\n┠──┼─────────┼─────┼─────────────────────┨\n┃2   │                  │          │                                          ┃\n┠──┼─────────┼─────┼─────────────────────┨\n┃3   │                  │          │                                          ┃\n┣━━┷━━━━━━━━━┷━━━━━┷━━━━━━━━━━━━━━━━━━━━━┫\n┃참관 정보                                                                       ┃\n┠───────────┬────────────────────────────┨\n┃참관 일시             │  20  .   .   .    : 부터  20  .   .   .    :    까지   ┃\n┠───────────┼────────────────────────────┨\n┃참관 장소             │서울 서초구 대검찰청 NDFC 참관인실                      ┃\n┠───────────┼────────────────────────────┨\n┃참 관 인              │홍길동                                                  ┃\n┠───────────┼────────────────────────────┨\n┃피압수자 등과의 관계  │본인                                                    ┃\n┠───────────┼────────────────────────────┨\n┃참관 참여 범위        │전자정보탐색 및 복제(출력)        【   】               ┃\n┃                      │정보저장매체 전부 복제 및 이미징  【   】               ┃\n┠───────────┼────────────────────────────┨\n┃기타 특이 사항        │참관 중 참관 종료 희망 의사표시로 참관 종료             ┃\n┣━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃전자정보 압수에 관한  │(□있음(※별지 제14호 첨부)/□없음)                     ┃\n┃의견 유무             │                                                        ┃\n┣━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃위 정보저장매체등에 대한 전자정보탐색 및 복제(출력) 등의 절차를 참관하고,       ┃\n┃압수한 전자정보에 대한 전자정보 상세목록을 □출력물, □파일의 형태로 교부       ┃\n┃받았으며(또는 전자정보의 상세목록이 작성될 수 없음을 (고지)받았으며), 압수된    ┃\n┃전자정보는 수사 또는 재판 목적 소멸 시 폐기됨을 고지받았음을 확인합니다.        ┃\n┃20     .       .       .                                                        ┃\n┃                                       확인자(참관인) :                 (서명)  ┃\n┃                                       검찰수사관 :                    (서명)   ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606765",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606761",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606765",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0008",
+      "filename": "별지8_참관 및 전자정보 상세목록 교부 확인서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0009",
+      "branch": "00",
+      "kind": "별지",
+      "title": "정보저장매체 등 인계인수서",
+      "enforcement_date": "",
+      "content": "[별지 제9호 서식] 정보저장매체 등 인계인수서\n\nNational Digital Forensic Center\n\n\n\n\n\n【 정보저장매체 등 인계인수서 】\n┏━━━━┯━━━━━┯━━━━━━━┯━━━┯━━━┯━━━┯━━━━┯━━━━┯━━━━━┓\n┃인계기관│○○검찰청│디지털포렌식팀│인계자│이○○│연락처│000-0000│인계일자│0000-00-00┃\n┠────┼─────┼───────┼───┼───┼───┼────┼────┼─────┨\n┃인수기관│○○검찰청│형사제○부    │인수자│박○○│연락처│000-0000│        │          ┃\n┗━━━━┷━━━━━┷━━━━━━━┷━━━┷━━━┷━━━┷━━━━┷━━━━┷━━━━━┛\n┏━━┯━━━━━━┯━━━━━━━┯━━━━━━━┯━━━━━┯━━━━━┯━━━━━┯━━━━━┯━━━━┯━━━┯━━━┯━━━━━━━━━┓\n┃번호│요청번호    │지원번호      │증거물번호    │증거물종류│요청일자  │압수일시  │지원일자  │피압수자│압수자│분석자│압수(분석)장소    ┃\n┠──┼──────┼───────┼───────┼─────┼─────┼─────┼─────┼────┼───┼───┼─────────┨\n┃1   │0000요청0000│0000지원0000_1│0000지원0000_1│외장HDD   │0000-00-00│0000-00-00│0000-00-00│김○○  │박○○│이○○│○○검찰청 000호  ┃\n┃    │            │              │_0001         │          │          │          │          │        │      │      │디지털포렌식팀    ┃\n┠──┼──────┼───────┼───────┼─────┼─────┼─────┼─────┼────┼───┼───┼─────────┨\n┃2   │0000요청0000│0000지원0000_1│0000지원0000_1│USB메모리 │0000-00-00│0000-00-00│0000-00-00│김○○  │박○○│이○○│○○검찰청 000호  ┃\n┃    │            │              │_0002         │          │          │          │          │        │      │      │디지털포렌식팀    ┃\n┠──┼──────┼───────┼───────┼─────┼─────┼─────┼─────┼────┼───┼───┼─────────┨\n┃3   │0000요청0000│0000지원0000_1│0000지원0000_1│USB메모리 │0000-00-00│0000-00-00│0000-00-00│김○○  │박○○│이○○│○○검찰청 000호  ┃\n┃    │            │              │_0003         │          │          │          │          │        │      │      │디지털포렌식팀    ┃\n┠──┼──────┼───────┼───────┼─────┼─────┼─────┼─────┼────┼───┼───┼─────────┨\n┃4   │0000요청0000│0000지원0000_1│0000지원0000_1│USB메모리 │0000-00-00│0000-00-00│0000-00-00│김○○  │박○○│이○○│○○검찰청 000호  ┃\n┃    │            │              │_0004         │          │          │          │          │        │      │      │디지털포렌식팀    ┃\n┠──┼──────┼───────┼───────┼─────┼─────┼─────┼─────┼────┼───┼───┼─────────┨\n┃5   │0000요청0000│0000지원0000_1│0000지원0000_1│HDD       │0000-00-00│0000-00-00│0000-00-00│김○○  │박○○│이○○│○○검찰청 000호  ┃\n┃    │            │              │_0005         │          │          │          │          │        │      │      │디지털포렌식팀    ┃\n┗━━┷━━━━━━┷━━━━━━━┷━━━━━━━┷━━━━━┷━━━━━┷━━━━━┷━━━━━┷━━━━┷━━━┷━━━┷━━━━━━━━━┛\n인계일시 : 20  .     .     .\n인 계 자 :                (서명)\n인 수 자 :                (서명)  또는 등기번호 (                    )",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606771",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606767",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606771",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0009",
+      "filename": "별지9_정보저장매체 등 인계인수서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0010",
+      "branch": "00",
+      "kind": "별지",
+      "title": "정보저장매체 등 반환 확인서",
+      "enforcement_date": "",
+      "content": "[별지 제10호 서식] 정보저장매체 등 반환 확인서\n\nNational Digital Forensic Center\n\n\n\n\n\n【 정보저장매체 등 반환 확인서 】\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃○○○○검찰청                                                          ┃\n┃(전화번호)                                                              ┃\n┃                                                                        ┃\n┃                                                                        ┃\n┃  20   형제      호                       검사                 (인)     ┃\n┃ 제목 정보저장매체 등 반환 확인서                                       ┃\n┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃수령인  정보                                                            ┃\n┠──────────┬─────────────────────────┨\n┃성    명            │                                                  ┃\n┠──────────┼─────────────────────────┨\n┃생년월일            │                                                  ┃\n┠──────────┼─────────────────────────┨\n┃연 락 처            │                                                  ┃\n┠──────────┼─────────────────────────┨\n┃피압수자 등과의 관계│                                                  ┃\n┣━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃반환 목록                                                               ┃\n┠──┬─────┬─────┰───────┬─────────────┨\n┃순번│증거물번호│매체 종류 ┃제조사·모델명│비고                      ┃\n┠──┼─────┼─────╂───────┼─────────────┨\n┃1   │          │          ┃              │                          ┃\n┠──┼─────┼─────╂───────┼─────────────┨\n┃2   │          │          ┃              │                          ┃\n┠──┼─────┼─────╂───────┼─────────────┨\n┃3   │          │          ┃              │                          ┃\n┠──┼─────┼─────╂───────┼─────────────┨\n┃4   │          │          ┃              │                          ┃\n┠──┼─────┼─────╂───────┼─────────────┨\n┃5   │          │          ┃              │                          ┃\n┣━━┷━━━━━┷━━━━━┻━━━━━━━┷━━━━━━━━━━━━━┫\n┃ 기타 참고사항                                                          ┃\n┃                                                                        ┃\n┃                                                                        ┃\n┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃                                                                        ┃\n┃상기 본인은 위 정보저장매체를 반환받아 수령하였음을 확인합니다.         ┃\n┃                                                                        ┃\n┃    20  .     .     .                                                   ┃\n┃                                                                        ┃\n┃                                           수령자 :               (서명)┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606777",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606773",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606777",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0010",
+      "filename": "별지10_정보저장매체 등 반환 확인서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0011",
+      "branch": "00",
+      "kind": "별지",
+      "title": "분석보고서",
+      "enforcement_date": "",
+      "content": "[별지 제11호 서식] 분석보고서\n\nNational Digital Forensic Center\n\n\n\n\n\n분석보고서\n\n접수일자\n지원번호\n증거번호\n\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n\n분석일자\n분석장소\n\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n\n분석대상\n\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n\n요청기관\n\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n\n요청사항\n\n\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n\n종합분석결과  ○\n-\n-\n-\n○\n-\n20    .     .     .\n\n○○○○검찰청         디지털포렌식팀\n\n디지털포렌식 수사관   홍  길  동  (서명)\n\n\n\n상 세 내 역\n1. 사건 개요\n-\n\n2. 분석 요청 사항\n가.\n나.\n다.\n3. 분석대상 정보\n┏━━━━━━┯━━━┯━━┯━━━┯━━━━┯━━┓\n┃증 거 번 호 │사용자│종류│제조사│모델명  │용량┃\n┃            ├───┴──┴───┼────┾━━┫\n┃            │고유(Serial) 번호   │제조일자│비고┃\n┣━━━━━━┿━━━┯━━┯━━━┿━━━━┿━━┫\n┃            │      │    │      │        │    ┃\n┃            ├───┴──┴───┼────┼──┨\n┃            │                    │        │    ┃\n┠──────┼───┬──┬───┼────┼──┨\n┃            │      │    │      │        │    ┃\n┃            ├───┴──┴───┼────┼──┨\n┃            │                    │        │    ┃\n┠──────┼───┬──┬───┼────┼──┨\n┃            │      │    │      │        │    ┃\n┃            ├───┴──┴───┼────┼──┨\n┃            │                    │        │    ┃\n┗━━━━━━┷━━━━━━━━━━┷━━━━┷━━┛\n4. 분석 시스템과 도구\n가. 분석시스템 운영체제 :\n나. 복구ㆍ분석에 사용한 프로그램 :\n5. 증거사본작성 및 분석방법\n가. 증거사본 작성\n1) 증거번호 :\n┏━━━━┯┯━━━━━┯━━━━━━━━━━━━━━━━━━━━┓\n┃작성일시││작성자    │                                        ┃\n┠────┼┼─────┼────────────────────┨\n┃파일명  ││크기      │                                        ┃\n┠────┼┼─────┼────────────────────┨\n┃해시값  ││해시함수  │                                        ┃\n┠────┼┼─────┼────────────────────┨\n┃사용도구││사용 버전 │                                        ┃\n┠────┼┴─────┴────────────────────┨\n┃기타    │Write Blocked:                                        ┃\n┃        │Disk Signature:                                       ┃\n┃        │Partition                                             ┃\n┃        │┌──┬─┬──┬──────┬───────┬──┐┃\n┃        ││Name│Id│Type│Start Sector│Total Sectors │Size│┃\n┃        │├──┼─┼──┼──────┼───────┼──┤┃\n┃        ││    │  │    │            │              │    │┃\n┃        │├──┼─┼──┼──────┼───────┼──┤┃\n┃        ││    │  │    │            │              │    │┃\n┃        │└──┴─┴──┴──────┴───────┴──┘┃\n┗━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n2) 증거번호 :\n나. OS 정보 및 Time zone setting 확인\n┏━━━━━┯━┯━━━━━━┯━━━━━┯━━━┓\n┃증거번호  │OS│OS 설치 일시│Time zone │비  고┃\n┣━━━━━┿━┿━━━━━━┿━━━━━┿━━━┫\n┃          │  │            │          │      ┃\n┗━━━━━┷━┷━━━━━━┷━━━━━┷━━━┛\n\n\n다. 수행한 분석방법\n-\n6. 상세 분석 결과\n\n첨 부 :           .  끝.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606787",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606779",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606787",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0011",
+      "filename": "별지11_분석보고서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0012",
+      "branch": "00",
+      "kind": "별지",
+      "title": "디지털증거 폐기(촉탁) 회보서",
+      "enforcement_date": "",
+      "content": "[별지 제12호 서식] 디지털 증거 폐기(촉탁) 회보서\n\nNational Digital Forensic Center\n\n\n\n\n\n디지털증거 폐기(촉탁) 회보서\n피의자     에 대한 ○○○○검찰청 20  형제      (20  압제     ) 사건으로 압수된 아래 기재 디지털증거에 대하여 대검찰청 국가디지털포렌식센터(NDFC)에서 폐기 조치하였기에 그 결과를 다음과 같이 송부합니다.\n┏━━┯━━━━━━┯━━━━┯━━┯━━━━┯━━━━┓\n┃순번│디지털증거명│보관    │용량│등록일시│폐기일시┃\n┃    │            │증거번호│    │        │        ┃\n┣━━┿━━━━━━┿━━━━┿━━┿━━━━┿━━━━┫\n┃1   │            │        │    │        │        ┃\n┠──┼──────┼────┼──┼────┼────┨\n┃2   │            │        │    │        │        ┃\n┠──┼──────┼────┼──┼────┼────┨\n┃3   │            │        │    │        │        ┃\n┗━━┷━━━━━━┷━━━━┷━━┷━━━━┷━━━━┛\n20   .     .     .\n대검찰청 디지털수사과장 (서명)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606793",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606789",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606793",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0012",
+      "filename": "별지12_디지털증거 폐기(촉탁) 회보서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0012",
+      "branch": "01",
+      "kind": "별지",
+      "title": "디지털증거 폐기 확인서",
+      "enforcement_date": "",
+      "content": "[별지 제12-1호 서식] 디지털 증거 폐기 확인서\n\nNational Digital Forensic Center\n\n\n\n\n\n디지털증거 폐기 확인서\n피의자     에 대한 ○○○○검찰청 20  형제      (20  요청     ) 사건의 아래 기재된 디지털증거에 대하여 검사실 요청 등에 따라 대검찰청 국가디지털포렌식센터(NDFC)에서 폐기 조치하였습니다.\n┏━━┯━━━━━━┯━━━━┯━━┯━━━━┯━━━━┓\n┃순번│디지털증거명│보관    │용량│등록일시│폐기일시┃\n┃    │            │증거번호│    │        │        ┃\n┣━━┿━━━━━━┿━━━━┿━━┿━━━━┿━━━━┫\n┃1   │            │        │    │        │        ┃\n┠──┼──────┼────┼──┼────┼────┨\n┃2   │            │        │    │        │        ┃\n┠──┼──────┼────┼──┼────┼────┨\n┃3   │            │        │    │        │        ┃\n┗━━┷━━━━━━┷━━━━┷━━┷━━━━┷━━━━┛\n위와 같이 디지털증거를 폐기했음을 확인합니다.\n20   .     .     .\n대검찰청 디지털수사과장 (서명)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606799",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606795",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606799",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0012_01",
+      "filename": "별지12의1_디지털증거 폐기 확인서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0013",
+      "branch": "00",
+      "kind": "별지",
+      "title": "전자정보 압수·수색·검증 안내문",
+      "enforcement_date": "",
+      "content": "[별지 제13호 서식] 전자정보 압수ㆍ수색ㆍ검증 안내문\n<NOTE>┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃전자정보 압수·수색·검증 안내문                                                                                                                                                                          ┃\n┠─────────────────────────────────────────────────────────────────────────────────────────────────────┨\n┃`                                                                                                                                                                                                         ┃\n┃                                                                                                                                                                                                          ┃\n┃?? 전자정보는 유체물과 다른 여러 특성으로 인해 일반 압수·수색·검증                                                                                                                                    ┃\n┃절차와 다음과 같은 차이가 있습니다.                                                                                                                                                                       ┃\n┃1. (취약성) 전자정보는 편집이 용이하므로 디지털포렌식 전문가가 신뢰할 수 있는                                                                                                                             ┃\n┃도구와 프로그램을 활용하여 압수하게 됩니다.                                                                                                                                                               ┃\n┃2. (비가시성) 전자정보는 사람의 지각으로 인식할 수 없어 사건과 관련 있는 전자정                                                                                                                           ┃\n┃보인지 판단하기 위해서는 전자정보 내용을 일일이 확인해야 합니다.                                                                                                                                          ┃\n┃3. (대량성) 휴대폰 등 정보저장매체에는 방대한 개인정보나 영업비밀이 들어 있어                                                                                                                             ┃\n┃사건과 무관한 정보의 압수를 방지하기 위해 탐색과정에도 참여권을 보장합니다.                                                                                                                               ┃\n┃?? 전자정보에는 여러 종류가 있고 매체의 유형과 사건 내용에 따라 압수                                                                                                                                    ┃\n┃대상 전자정보 유형에 차이가 있습니다.                                                                                                                                                                     ┃\n┃1. (매체유형) 전자정보는 매체의 종류(ex. PC, 스마트폰 등)에 따라 저장방식과 저장                                                                                                                          ┃\n┃형태 등에 차이가 있어 매체마다 압수·수색·검증 방법이 달라질 수 있습니다.                                                                                                                                ┃\n┃2. (사건내용) 전자정보는 사건에 따라 파일내용 자체 또는 메타데이터 ‘데이터에 관한 데이터’로서 \"어떤 목적을 가지고 만들어진 데이터\"라고도 정의하며, 파일시스템의 메타 데이터, 인터넷 메타 데이터(웹 페이 ┃\n┃지 메타 데이터, 브라우저 메타 데이터), 문서파일 메타 데이터, 사진파일 메타 데이터 등 여러 가지 유형이 있다.                                                                                               ┃\n┃, 트래픽                                                                                                                                                                                                  ┃\n┃데이터, 인터넷 검색기록 등 다양한 유형의 전자정보가 압수될 수 있습니다.                                                                                                                                   ┃\n┃?? 전자정보에 대한 압수·수색·검증은 아래와 같이 3단계로 진행됩니다.                                                                                                                                   ┃\n┃1. 전자정보는 가능한 한 현장에서 사건과 관련된 전자정보의 범위를 정하여 출력                                                                                                                              ┃\n┃하거나 복제하는 방법으로 압수합니다.                                                                                                                                                                      ┃\n┃2. 만약, 제1항에 따른 압수가 불가능하거나 곤란한 경우에는 전자정보 전부를 복제                                                                                                                            ┃\n┃하여 반출하게 되며, 경우에 따라 가선별한 전자정보 일부만 복제하기도 합니다.                                                                                                                               ┃\n┃┌────────────────────────────────────────┐                                                                                                                      ┃\n┃│【전자정보 전부 복제본 반출 사유】                                              │                                                                                                                      ┃\n┃│① 파일 암호화 등으로 인해 범위를 정한 출력·복제가 불가능한 경우, ② 안티포렌  │                                                                                                                      ┃\n┃│식 등 범죄혐의와 개연성이 있는 디지털 정보가 조작 또는 삭제된 정황이 발견된     │                                                                                                                      ┃\n┃│경우, ③ 정보저장매체등에 저장되어 있는 정보가 방대하여 현장에서 출력·복제 방  │                                                                                                                      ┃\n┃│식으로 압수하는데 많은 시간이 소요되어 피압수자의 사생활의 평온이나 영업 활동   │                                                                                                                      ┃\n┃│을 침해할 우려가 있는 경우, ④ 정보저장매체등이 사이버범죄 및 새로운 유형의     │                                                                                                                      ┃\n┃│첨단범죄에 이용되는 등 수사 또는 공소의 제기 및 유지를 위하여 정보저장매체등    │                                                                                                                      ┃\n┃│에 기억된 디지털 증거의 종합적인 분석이 필요한 경우, ⑤ DB시스템이나 RAID시     │                                                                                                                      ┃\n┃│스템 등과 같이 분석 대상 시스템과 동일한 시스템을 구축하여 분석해야 하는 경우,  │                                                                                                                      ┃\n┃│⑥ 그 밖에 위 각 호에 준하는 경우                                               │                                                                                                                      ┃\n┃└────────────────────────────────────────┘                                                                                                                      ┃\n┃3. 제2항에 따른 방법마저 불가능하거나 곤란한 경우에는 정보저장매체 원본을 봉인                                                                                                                            ┃\n┃하여 반출하게 됩니다.                                                                                                                                                                                     ┃\n┃┌────────────────────────────────────────┐                                                                                                                      ┃\n┃│【정보저장매체등 원본 봉인 반출 사유】                                          │                                                                                                                      ┃\n┃│① 정보저장매체등이 물리적으로 손상된 경우, ② 정보저장매체등에 암호가 걸려     │                                                                                                                      ┃\n┃│있고 피압수자등이 협조하지 않는 경우, ③ 현장에서 복제·출력할 수 있는 장비나   │                                                                                                                      ┃\n┃│도구가 개발되어 있지 않거나 준비에 장시간이 소요되는 경우, ④ 현장에 전력       │                                                                                                                      ┃\n┃│공급이 원활하지 않은 경우, ⑤ 피압수자가 위력을 행사하여 정상적인 압수·수색    │                                                                                                                      ┃\n┃│집행이 불가능한 경우, ⑥ 전자정보의 전부 복제 반출을 위한 집행이 피압수자 등의  │                                                                                                                      ┃\n┃│영업활동이나 사생활의 평온을 현저히 침해하는 경우, ⑦ 정보저장매체등 또는 동    │                                                                                                                      ┃\n┃│매체에 기억된 전자정보가 몰수대상인 경우, ⑧ 그 밖에 위 각 호에 준하는 경우     │                                                                                                                      ┃\n┃└────────────────────────────────────────┘                                                                                                                      ┃\n┃4. 제2항 및 제3항의 경우 원칙적으로 압수절차가 종료하는 것은 아니며 추후 사건과                                                                                                                           ┃\n┃관련 있는 전자정보를 선별하는 과정이 완료되어야 압수절차가 종료됩니다.                                                                                                                                    ┃\n┃?? 참여권은 압수·수색·검증의 전 과정에서 충실히 보장하고 있습니다.                                                                                                                                    ┃\n┃1. 일반 유체물의 경우와 같이 형사소송법이 규정한 압수·수색·검증 현장에서의                                                                                                                              ┃\n┃참여권은 전자정보에 대한 압수·수색·검증에서도 동일하게 보장됩니다.                                                                                                                                      ┃\n┃2. 전자정보를 전부 복제하여 반출하거나 원본을 봉인해서 가져와 선별하는 과정                                                                                                                               ┃\n┃에도 참여권을 보장하며, 실무상 현장에서 참여권과 구분하기 위해 ‘참관’이라는                                                                                                                             ┃\n┃표현을 사용하고 있습니다.                                                                                                                                                                                 ┃\n┃3. 참여 도중 관련성에 대하여 이의제기가 있는 경우에는 그 취지를 조서에 기재                                                                                                                               ┃\n┃하게 되며, 검찰에서는 이의제기의 편의를 제공하기 위해 ‘의견진술서면’을 제공                                                                                                                             ┃\n┃하고 있으므로 이의 제기 시 수사관에게 요청하시기 바랍니다.                                                                                                                                                ┃\n┃?? 전자정보의 탐색·복제·출력이 완료되면 상세목록을 교부하며, 목록에                                                                                                                                   ┃\n┃없는 전자정보는 삭제·폐기하거나 반환합니다.                                                                                                                                                              ┃\n┃1. 검찰에서는 압수한 전자정보를 증거관리시스템에 저장하여 관리하고 있으며,                                                                                                                                ┃\n┃수사팀 이외에 다른 사람이 권한 없이 접근하는 것은 시스템 상 불가능합니다.                                                                                                                                 ┃\n┃2. 위 시스템 이외에 반출에 사용된 정보저장매체에 남겨진 전자정보는 모두 삭제·                                                                                                                            ┃\n┃폐기하고, 매체 원본 또는 피압수자 매체 이용 반출의 경우에는 해당 매체를                                                                                                                                   ┃\n┃반환하며, 조치 후에는 삭제·폐기 또는 반환 확인서를 교부하게 됩니다.                                                                                                                                      ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606807",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606801",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606807",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0013",
+      "filename": "별지13_전자정보 압수·수색·검증 안내문.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0014",
+      "branch": "00",
+      "kind": "별지",
+      "title": "전자정보의 압수 등에 관한 의견진술서",
+      "enforcement_date": "",
+      "content": "[별지 제14호 서식] 전자정보의 압수 등에 관한 의견진술서\n【전자정보의 압수 등에 관한 의견진술서 】\n┏━━━━━━━┯━━━━━━━┯┯━━━━━━━┯━━━━━━━━━━━━━━━━━━┓\n┃의견진술인    │성    명      ││생 년 월 일   │                                    ┃\n┃              ├───────┼┼───────┼──────────────────┨\n┃              │연 락 처      ││사건과의 관계 │                                    ┃\n┠───────┼───────┼┼───────┼──────────────────┨\n┃의견진술 대상 │매체 종류     ││이미지 파일명 │                                    ┃\n┃전자정보      │(제조사,모델) ││              │                                    ┃\n┃              ├───────┴┴───────┴──────────────────┨\n┃              │20  .  .  .   :  부터 20  .  .  .   :   까지 (       장소      )에서  ┃\n┃              │집행한 위 매체에 기억된 전자정보 중 일부                              ┃\n┣━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃ □ 참여권 보장 □ 전부 복제본 또는 매체 원본 반출 □ 전부이미지 파일 보관            ┃\n┃ □ 압수 대상 전자정보와 사건의 관련성에 관한 의견                                    ┃\n┠───────────────────────────────────────────┨\n┃ (의견 기재)                                                                          ┃\n┠───────────────────────────────────────────┨\n┃                                                                                      ┃\n┠───────────────────────────────────────────┨\n┃                                                                                      ┃\n┠───────────────────────────────────────────┨\n┃                                                                                      ┃\n┠───────────────────────────────────────────┨\n┃                                                                                      ┃\n┠───────────────────────────────────────────┨\n┃                                                                                      ┃\n┠───────────────────────────────────────────┨\n┃                                                                                      ┃\n┠───────────────────────────────────────────┨\n┃                                                                                      ┃\n┠───────────────────────────────────────────┨\n┃                                                                                      ┃\n┠───────────────────────────────────────────┨\n┃                                                                                      ┃\n┠───────────────────────────────────────────┨\n┃                                                                                      ┃\n┠───────────────────────────────────────────┨\n┃                                                                                      ┃\n┠───────────────────────────────────────────┨\n┃                                                                                      ┃\n┠───────────────────────────────────────────┨\n┃                                                                                      ┃\n┠───────────────────────────────────────────┨\n┃                                                                                      ┃\n┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃위 의견진술인은 위 일시, 장소에서 있었던 전자정보에 대한 압수·수색·검증과 관련      ┃\n┃하여 위와 같이 의견을 진술합니다.                                                     ┃\n┃20    .      .       .                                                                ┃\n┃                                위 작성자 :                         (서명)            ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606813",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606809",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606813",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0014",
+      "filename": "별지14_전자정보의 압수 등에 관한 의견진술서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0015",
+      "branch": "00",
+      "kind": "별지",
+      "title": "이미지 파일에 대한 접근 통제 지휘",
+      "enforcement_date": "",
+      "content": "[별지 제15호 서식] 이미지 파일에 대한 접근 통제 지휘\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃○○○검찰청                                                  ┃\n┃                                                              ┃\n┃수신  ○○검찰청 디지털포렌식팀                               ┃\n┃                                                              ┃\n┃제목  이미지 파일에 대한 접근 통제 지휘                       ┃\n┃                                                              ┃\n┠──────────┬────────────────────┨\n┃사 건 번 호         │형제            호                      ┃\n┠──────────┼────────────────────┨\n┃지 원 번 호         │지원            호                      ┃\n┠──────────┼────────────────────┨\n┃매 체 정 보         │                                        ┃\n┃(제조사, 모델명 등) │                                        ┃\n┠──────────┼────────────────────┨\n┃대상 전자정보       │                                        ┃\n┠──────────┴────────────────────┨\n┃       위 사건의 압수·수색·검증 과정에서 확보한 전자정보 중 ┃\n┃법정에서 동일성을 재현하거나 검증하는데 상당한 지장을 초래할  ┃\n┃우려가 있어 확보한 전부 이미지 파일은 전자정보의 출처증명 등  ┃\n┃원본성 입증의 목적으로만 사용되도록 엄격히 통제·관리하여     ┃\n┃보관할 것을 지휘함                                            ┃\n┃                                                              ┃\n┃20   .     .     .                                            ┃\n┃○○○검찰청                                                  ┃\n┃검사                  ??                                    ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606819",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606815",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606819",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0015",
+      "filename": "별지15_이미지 파일에 대한 접근 통제 지휘.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0016",
+      "branch": "00",
+      "kind": "별지",
+      "title": "전자정보 삭제·폐기 확인서",
+      "enforcement_date": "",
+      "content": "[별지 제16호 서식] 전자정보 삭제ㆍ폐기 확인서\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃전자정보 삭제·폐기 확인서                                                                                ┃\n┠─────────────────────────────────────────────────────┨\n┃○○검찰청 0000형제    호 사건의 압수·수색·검증 과정에서 확보한 전자정보 중                             ┃\n┃압수한 전자정보의 목록에 포함되지 않은 전자정보를 아래와 같이 삭제·폐기하였음을                          ┃\n┃확인함                                                                                                    ┃\n┃                                                                                                          ┃\n┃     0000. 0. 0.                                                                                          ┃\n┃                                                                                                          ┃\n┃ ○○검찰청   검사              (인)                                                                      ┃\n┠────────┬──────────┬────┬────────────────────────────┨\n┃사건번호        │       형제       호│지원번호│        지원        호                                  ┃\n┠────────┼──────────┴────┴────────────────────────────┨\n┃압수일시·장소  │0000.  0.  0.   00:00경 /                                                               ┃\n┠────────┼────────────────────────────────────────────┨\n┃압수·보관된    │【∨】선별 이미지 파일 (파일명:                                     )                   ┃\n┃전자정보        │【  】전부 이미지 파일 (파일명:                                     )                   ┃\n┃                │       ※ 전부 이미지 파일은 법정에서 원본과의 동일성을 재현하거나 검증하는 데          ┃\n┃                │지장이 초래되지 않도록 시스템에 단순 보관되며, 목적 외 열람은 엄격히                    ┃\n┃                │통제되고 수사 또는 재판 목적 소멸 시 폐기됨                                             ┃\n┃                │【  】대상 전자정보에서 사건과 관련 있는 정보가 발견되지 않았으므로                     ┃\n┃                │일체 삭제·폐기                                                                         ┃\n┠────────┴────────────────────────────────────────────┨\n┃? 선별 이미지: 범죄사실과 관련된 전자정보의 범위를 정하여 해당 전자정보만을 복제하여 생성한 파일         ┃\n┃? 전부 이미지: 정보저장매체등에 기록된 전자정보 중 디지털포렌식으로 획득 가능한 전자정보 전부를 복제하여 ┃\n┃생성한 파일                                                                                               ┃\n┠─────────────────────────────────────────────────────┨\n┃※「디지털 증거의 수집·분석 및 관리 규정」제5조(디지털 증거의 원본성 유지) 디지털 증거는 과학적 증거로서 ┃\n┃법정에서 재현하거나 검증하는데 지장이 초래되지 않도록 수집·분석 및 관리되어야 한다.                      ┃\n┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃■ 삭제·폐기 확인                                                                                        ┃\n┠────────┬────────────────────────────────────────────┨\n┃삭제·폐기 대상 │【∨】탐색·복제·출력 과정에서 부수적으로 남겨진 전자정보                              ┃\n┃전자정보        │【  】전부 이미지 파일 ※ 파일 생성되지 않았을 경우 문구 삭제                           ┃\n┠────────┼────────────────────────────────────────────┨\n┃일시·장소      │0000.  0.  0.  00:00경 /                                                                ┃\n┠────────┼────────────────────────────────────────────┨\n┃삭제·폐기      │                                                                                        ┃\n┃방법            │                                                                                        ┃\n┠────────┴────────────────────────────────────────────┨\n┃디지털포렌식 수사관 ○○○은 주임검사의 지휘에 따라 삭제·폐기 대상 전자정보를                            ┃\n┃위와 같이 삭제·폐기하였음                                                                                ┃\n┃                                                                                                          ┃\n┃0000. 0. 0.                                                                                               ┃\n┃                                                                                                          ┃\n┃확인자 : 디지털포렌식 수사관 ○○○                                                                       ┃\n┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃                                                                                                          ┃\n┃                                                                                                          ┃\n┃본인은 위 확인서를 수령하였음을 확인합니다.                                                               ┃\n┃                                                                                                          ┃\n┃                                                                                                          ┃\n┃                                                                                                          ┃\n┃20    .      .      .                                                                                     ┃\n┃                                                                                                          ┃\n┃수령자 :                (서명)                                                                            ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606825",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606821",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144606825",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#BJ0016",
+      "filename": "별지16_전자정보 삭제·폐기 확인서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "(대검예규 제1449호)디지털 증거의 수집·분석 및 관리 규정.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=144604733",
+      "file_store_url": "",
+      "filename": "(대검예규 제1449호)디지털 증거의 수집·분석 및 관리 규정.hwp"
+    },
+    {
+      "name": "(대검예규 제1449호)디지털 증거의 수집·분석 및 관리 규정.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=144604737",
+      "file_store_url": "",
+      "filename": "(대검예규 제1449호)디지털 증거의 수집·분석 및 관리 규정.pdf"
+    },
+    {
+      "name": "조문별제개정이유서(디지털 증거의 수집·분석 및 관리 규정).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=144604741",
+      "file_store_url": "",
+      "filename": "조문별제개정이유서(디지털 증거의 수집·분석 및 관리 규정).hwp"
+    },
+    {
+      "name": "조문별제개정이유서(디지털 증거의 수집·분석 및 관리 규정).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=144604745",
+      "file_store_url": "",
+      "filename": "조문별제개정이유서(디지털 증거의 수집·분석 및 관리 규정).pdf"
+    },
+    {
+      "name": "4__별지_서식_기재례.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=144588191",
+      "file_store_url": "",
+      "filename": "4__별지_서식_기재례.hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 64,
+    "by_category": {
+      "법령": 9,
+      "행정규칙": 36,
+      "별지": 19
+    },
+    "by_relation_type": {
+      "citation": 10,
+      "internal_ref": 35,
+      "appendix_ref": 19
+    },
+    "articles_total": 61,
+    "articles_with_relations": 25,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 4,
+    "appendices_count": 20,
+    "attachments_count": 5
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/(대검찰청) 디지털 증거의 수집·분석 및 관리 규정"
+  },
+  "provision_id": "admrul:(대검찰청)디지털증거의수집분석및관리규정#DOC"
+}
