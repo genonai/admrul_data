@@ -1,0 +1,615 @@
+{
+  "law_id": "2100000248162",
+  "mst": "2100000248162",
+  "law_name": "과수묘목 병해충 예찰조사 요령",
+  "law_abbr": "",
+  "law_type": "예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000248162",
+  "promulgation_no": "192",
+  "promulgation_date": "20241015",
+  "enforcement_date": "20241015",
+  "revision_date": "20241015",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국립종자원(종자산업지원과)",
+    "담당자명": "권효철",
+    "행정규칙종류코드": "B0002",
+    "행정규칙명": "과수묘목 병해충 예찰조사 요령",
+    "발령일자": "20241015",
+    "행정규칙종류": "예규",
+    "제개정구분코드": "200401",
+    "조문형식여부": "Y",
+    "소관부처명": "국립종자원",
+    "전화번호": "054-912-0171",
+    "제개정구분명": "제정",
+    "소관부처코드": "1543000",
+    "생성일자": "20241016",
+    "행정규칙ID": "90591",
+    "시행일자": "20241015",
+    "담당부서기관코드": "1543363",
+    "발령번호": "192",
+    "행정규칙일련번호": "2100000248162",
+    "상위부처명": "농림축산식품부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제정 이유\n○ 우리 원이 사과ㆍ배 과수묘목 병해충 예찰기관으로 지정됨에 따라 관련업무 수행을 위한 행정규칙을 제정하고자 함\n○ 법적 근거 및 관계 법령\n- 식물방역법 제33조, 같은 법 시행규칙 제37조의20\n◇ 주요 내용\n가. 본 예규의 목적을 정함(제1조)\n나. 과수묘목 예찰대상 병해충에 관한 사항(제2조)\n다. 예찰계획 수립, 예찰공무원 지정, 예찰반 운영, 예찰반 임무에 관한 사항(제3조부터 제6조까지)\n라. 예찰 실시 및 결과보고, 사후관리에 관한 사항(제7조부터 제10조까지)",
+  "body": {
+    "format": "articles",
+    "article_count": 11,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 본 요령은 「식물방역법」 제33조 및 같은 법 시행규칙 제37조의20에 따라 국립종자원에서 실시하는 과수묘목 병해충 예찰조사에 관한 세부사항을 정하여 예찰업무를 원활히 수행하는데 목적이 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제33조",
+            "line_text": "",
+            "target_law_name": "식물방역법",
+            "target_article_no": "제33조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법/제33조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:과수묘목병해충예찰조사요령#JO0001",
+            "reference_id": "law:식물방역법#JO0033"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행규칙",
+            "line_text": "",
+            "target_law_name": "식물방역법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:과수묘목병해충예찰조사요령#JO0001",
+            "reference_id": "law:식물방역법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제37조의20",
+            "line_text": "",
+            "target_law_name": "식물방역법 시행규칙",
+            "target_article_no": "제37조의20",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법 시행규칙/제37조의20",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:과수묘목병해충예찰조사요령#JO0001",
+            "reference_id": "law:식물방역법시행규칙#JO0037_20"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:과수묘목병해충예찰조사요령#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "예찰대상",
+        "chapter": "",
+        "content": "제2조(예찰대상) ① 예찰대상 병해충은 국립종자원장(이하 \"원장\"이라 한다)이 과수묘목 병해충 중 그 분포가 국지적이지 아니하고 급격하게 널리 퍼짐으로써 농산물에 중대한 피해를 일으킬 우려가 있다고 인정하는 병해충으로 각 호와 같다.1. 농촌진흥청 「화상병 예찰ㆍ방제사업 지침」에 따른 사과ㆍ배 과수화상병2. 그 밖에 원장이 지정하는 과수묘목 병해충② 예찰대상 지역은 「종자산업법」에 따라 종자업을 등록한 업체(이하 \"종자업체\"라 한다)가 생산하는 사과ㆍ배 묘목 재배지역으로 하며 해당 작물의 대목과 모수 재배지역을 포함한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "「종자산업법」",
+            "line_text": "",
+            "target_law_name": "종자산업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/종자산업법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:과수묘목병해충예찰조사요령#JO0002",
+            "reference_id": "law:종자산업법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:과수묘목병해충예찰조사요령#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "예찰계획 수립",
+        "chapter": "",
+        "content": "제3조(예찰계획 수립) ① 원장은 매년 초 사과ㆍ배 과수묘목 병해충 예찰을 위한 연간 계획(이하 \"예찰계획\"이라 한다)을 수립하여 병해충 예찰을 담당하는 각 과 및 지원에 시달하여야 한다.② 각 과장 및 지원장(이하 \"부서장\"이라 한다)은 제1항의 계획에 따라 과수묘목 병해충에 대한 예찰을 실시하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:과수묘목병해충예찰조사요령#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "예찰공무원 지정 등",
+        "chapter": "",
+        "content": "제4조(예찰공무원 지정 등) ① 원장은 부서장의 추천 등으로 소속 공무원 중에서 과수묘목 병해충 예찰조사를 담당할 공무원(이하 \"예찰공무원\"이라 한다)을 지정할 수 있다.② 원장은 제1항에 따른 예찰공무원에게 별지 제1호서식의 예찰공무원증을 발급하고 별지 제2호서식의 과수화상병 예찰공무원증 관리대장 또는 전산시스템에 기록ㆍ관리하여야 한다.③ 예찰공무원은 과수화상병 예찰 등의 업무를 수행할 때에는 예찰공무원증을 패용하고 이를 과수화상병 예찰대상 종자업체의 종자업자 또는 그 대리인, 사용인, 그 밖의 종업원 등(이하 \"관계인\"이라 한다)에게 내보여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "과수묘목 병해충 예찰조사 요령",
+            "target_article_no": "별지1",
+            "target_article_title": "과수묘목 병해충 예찰공무원증",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144776237",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:과수묘목병해충예찰조사요령#JO0004",
+            "reference_id": "admrul:과수묘목병해충예찰조사요령#BJ0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "과수묘목 병해충 예찰조사 요령",
+            "target_article_no": "별지2",
+            "target_article_title": "과수묘목 병해충 예찰공무원증 관리대장",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144776243",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:과수묘목병해충예찰조사요령#JO0004",
+            "reference_id": "admrul:과수묘목병해충예찰조사요령#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:과수묘목병해충예찰조사요령#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "예찰반 편성 및 운영",
+        "chapter": "",
+        "content": "제5조(예찰반 편성 및 운영) ① 부서장은 과수묘목 예찰업무의 효율적인 수행을 위하여 예찰반을 편성ㆍ운영한다.② 예찰반은 2명 이상으로 편성하되 예찰공무원이 1명 이상 포함되도록 하고 예찰반원 중에서 상위 직급자를 예찰반장으로 한다.③ 예찰반은 「과수묘목 병해충 예찰조사원 운영요령」(국립종자원고시)에 따른 예찰조사원과 합동예찰을 실시할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제3항",
+            "link_text": "「과수묘목 병해충 예찰조사원 운영요령」",
+            "line_text": "",
+            "target_law_name": "과수묘목 병해충 예찰조사원 운영요령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/과수묘목 병해충 예찰조사원 운영요령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:과수묘목병해충예찰조사요령#JO0005",
+            "reference_id": "admrul:과수묘목병해충예찰조사원운영요령#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:과수묘목병해충예찰조사요령#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "예찰반 임무",
+        "chapter": "",
+        "content": "제6조(예찰반 임무) 예찰반의 임무는 다음 각 호와 같다.1. 예찰지역의 종자업체별 사과ㆍ배 과수묘목 병해충 예찰2. 역학조사 기관의 업무 지원3. 종자업체의 과수묘목 생산이력 및 판매이력 기록점검4. 그 밖에 원장이 과수묘목 병해충 예찰과 관련하여 부여하는 임무",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:과수묘목병해충예찰조사요령#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "예찰 실시",
+        "chapter": "",
+        "content": "제7조(예찰 실시) ① 부서장은 사과ㆍ배 과수묘목 병해충 예찰계획에 따라 발생기, 낙엽 전 등 시기별 예찰조사를 실시하여야 한다.② 예찰반은 재배포장 예찰 시 방제복을 착용하고 작업도구는 소독 후 사용하는 등 병해충 전파를 방지하기 위하여 필요한 조치를 하여야 한다.③ 예찰반은 별표 1의 \"과수묘목 병해충 예찰요령\"에 따라 육안 관찰을 통해 예찰대상 병해충의 병징을 확인하고 의심증상 발견 시 간이검정을 실시한다. 종자업체별 예찰결과는 별지 제3호서식에 따라 예찰조사표에 작성한다.④ 예찰반은 간이검정에서 양성반응을 확인하는 즉시 해당 부서장과 종자산업지원과장에게 보고하고 농촌진흥청, 농림축산검역본부 및 시ㆍ군 농업기술센터(이하 \"관계기관\"이라 한다)에 정밀진단을 의뢰하여야 한다.⑤ 예찰반은 병해충 확산방지를 위해 관계기관이 방제조치를 취하기 전까지 출입통제 등 임시조치를 할 수 있다.⑥ 예찰반은 종자업체가 기록한 묘목 및 대목, 모수에 대한 생산이력과 판매이력을 예찰조사 시에 점검할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제3항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "과수묘목 병해충 예찰조사 요령",
+            "target_article_no": "별표1",
+            "target_article_title": "과수묘목 병해충 예찰요령(제7조제3항 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000248162&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:과수묘목병해충예찰조사요령#JO0007",
+            "reference_id": "admrul:과수묘목병해충예찰조사요령#BYL0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제3항",
+            "link_text": "별지 제3호서식",
+            "line_text": "",
+            "target_law_name": "과수묘목 병해충 예찰조사 요령",
+            "target_article_no": "별지3",
+            "target_article_title": "과수묘목 병해충 예찰조사표",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144776249",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:과수묘목병해충예찰조사요령#JO0007",
+            "reference_id": "admrul:과수묘목병해충예찰조사요령#BJ0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:과수묘목병해충예찰조사요령#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "결과보고",
+        "chapter": "",
+        "content": "제8조(결과보고) 예찰반은 종자업체별 예찰 결과를 전산시스템에 입력하고 시기별 예찰을 완료한 후에는 별지 제4호서식에 따라 결과보고서를 작성하여 종자산업지원과에 송부한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "별지 제4호서식",
+            "line_text": "",
+            "target_law_name": "과수묘목 병해충 예찰조사 요령",
+            "target_article_no": "별지4",
+            "target_article_title": "과수묘목 병해충 예찰결과 보고",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144776255",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:과수묘목병해충예찰조사요령#JO0008",
+            "reference_id": "admrul:과수묘목병해충예찰조사요령#BJ0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:과수묘목병해충예찰조사요령#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "상황보고",
+        "chapter": "",
+        "content": "제9조(상황보고) ① 예찰반은 예찰대상 병해충 및 특이사항 등이 발생한 경우 별지 제5호서식에 따라 예찰 및 발생상황을 종자산업지원과에 송부한다.② 원장은 필요 시 농림축산식품부장관에게 보고하고 관계기관에 통보할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제1항",
+            "link_text": "별지 제5호서식",
+            "line_text": "",
+            "target_law_name": "과수묘목 병해충 예찰조사 요령",
+            "target_article_no": "별지5",
+            "target_article_title": "과수묘목 병해충 예찰 및 발생상황 보고",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144776261",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:과수묘목병해충예찰조사요령#JO0009",
+            "reference_id": "admrul:과수묘목병해충예찰조사요령#BJ0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:과수묘목병해충예찰조사요령#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "사후관리",
+        "chapter": "",
+        "content": "제10조(사후관리) ① 과수화상병이 발생한 종자업체(이하 ‘발생업체’라 한다)를 담당하는 예찰반은 역학조사 기관의 조사결과를 바탕으로 우선순위를 정하여 미발생 재배포장의 묘목, 대목, 모수에 대해서도 예찰을 실시한다.② 발생업체 담당예찰반은 제1항에 따른 역학조사 대상 재배포장에 대해 낙엽 전까지 매월 1회 이상, 낙엽 이후에는 격월 1회 이상 예찰을 실시하되 해당 부서의 여건에 따라 종자산업지원과장과 협의하여 조정할 수 있다.③ 담당예찰반은 발생업체로 하여금 미발생 재배포장에 대해 병해충 감염 증상이 있는지 수시로 자체 예찰을 실시하도록 지도하고 의심증상이 발견되면 즉시 국립종자원 및 시ㆍ군 농업기술센터에 신고하도록 조치한다.④ 담당예찰반은 발생업체로 하여금 미발생 재배포장에서 생산된 묘목에 대해서는 예찰을 실시하도록 지도할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:과수묘목병해충예찰조사요령#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제11조(재검토기한) 원장은 이 예규에 대하여「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2025년 1월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:과수묘목병해충예찰조사요령#JO0011",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:과수묘목병해충예찰조사요령#JO0011"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20241015",
+      "promulgation_no": "192",
+      "content": "부칙 <제192호, 2024. 10. 15.>이 예규는 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "과수묘목 병해충 예찰요령(제7조제3항 관련)",
+      "enforcement_date": "",
+      "content": "■ 과수묘목 병해충 예찰조사 요령 [별표 1]\n과수묘목 병해충 예찰요령(제7조제3항 관련)\n예찰대상\n과수묘목에 대한 예찰대상 병해충은 과수화상병(Erwinia amylovora)으로, 잎ㆍ꽃ㆍ가지ㆍ줄기ㆍ과실 등이 불에 탄 듯 변하다가 식물 전체가 고사하는 사과ㆍ배 등 장미과(科) 식물에 가장 치명적인 세균병이다.\n예찰방법\n사과ㆍ배 과수묘목 및 대목, 모수가 재배되는 포장을 순회하며 육안으로 병징 발현을 관찰하고 의심증상이 있는 식물체에 대해서는 항혈청스트립을 이용한 간이진단법을 실시한다.\n가. 육안관찰\n1) 잎의 병징: 처음에는 잎 가장자리에 흑갈색 병반이 발생하며 그 후 잎맥을 따라서 발달한다. 감염된 잎은 시들고 검게 변해서 말라죽는데 마치 불에 타서 화상을 입은 것 같이 보인다.\n2) 가지의 병징: 보통 선단부에서 마르기 시작하여 피층의 유조직이 침해되어 아래쪽으로 파급된다. 병세가 진전됨에 따라 새순이나 나무가지는 갑자기 시들고 검게 변하여 말라죽는데 마치 서리피해를 입은 것 같아 보인다.\n3) 신초의 병징: 늦봄에서 여름기간 동안 신초 끝부분이 급속하게 괴사되어 갈고리 모양과 흡사해지며, 감염된 신초의 잎은 엽맥을 따라서 검은 색을 띠고 고사 후에도 나무에 매달려 있다.\n\n\n\n\n(잎의 병징)   (가지의 병징)   (신초의 병징)\n\n나. 간이진단법\n1) 의심증상이 있는 경우, 병징이 나타난 부위를 중심으로 경계부위와 건전부위가 포함되도록 진단시료를 채취하여 지퍼백에 넣고 버퍼에 충분히 추출되도록 고무망치 등으로 두드려 파쇄한다.\n2) 검체 추출액을 드롭퍼를 사용하여 테스트 튜브에 옮겨 담고 항혈청스트립을 꽂아 발색 반응을 육안으로 확인한다.\n3) 간이진단 결과 \"양성\"으로 판독되어 예찰대상 병해충으로 의심되는 경우 예찰반은 즉시 해당 부서장에게 보고하여야 하며, 부서장은 지체 없이 예찰 결과를 확인하는 등 필요한 조치를 취하여야 한다.\n\n양성     음성\n\n(항혈청스트립을 이용한 간이진단법)  (반응 결과)\n",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000248162&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144776269",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144776263",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144776269",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:과수묘목병해충예찰조사요령#BYL0001",
+      "filename": "별표1_과수묘목 병해충 예찰요령(제7조제3항 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "과수묘목 병해충 예찰공무원증",
+      "enforcement_date": "",
+      "content": "■ 과수묘목 병해충 예찰조사 요령 [별지 제1호서식]\n┌────────────────────────┐\n│                                                │\n│                    (앞 쪽)                     │\n│┏━━━━━━━━━━━━━━━━━┓          │\n│┃                                  ┃          │\n│┃                                  ┃          │\n│┃                                  ┃          │\n│┃ 제     호                        ┃          │\n│┃                                  ┃          │\n│┃                                  ┃          │\n│┃                                  ┃          │\n│┃과수묘목 병해충                   ┃          │\n│┃예찰공무원증                      ┃          │\n│┃                                  ┃          │\n│┃┌───────────┐        ┃          │\n│┃│사  진                │        ┃          │\n│┃│3㎝×4㎝              │        ┃          │\n│┃│(모자 벗은 상반신으   │        ┃          │\n│┃│로 뒤 그림 없이 6개월 │        ┃          │\n│┃│이내 촬영한 것)       │        ┃          │\n│┃└───────────┘        ┃          │\n│┃성    명                          ┃          │\n│┃국 립 종 자 원                    ┃          │\n│┗━━━━━━━━━━━━━━━━━┛          │\n│  60㎜×90㎜[보존용지(1종) 120g/㎡]             │\n│                                                │\n│(색상: 연하늘색)                                │\n│                                                │\n│                                                │\n│                                                │\n│                     (뒤 쪽)                    │\n│┏━━━━━━━━━━━━━━━━━━━━━━┓│\n│┃                                            ┃│\n│┃과수묘목 병해충 예찰공무원증                ┃│\n│┃소속/직급:                                  ┃│\n│┃성     명:                                  ┃│\n│┃생년월일:                                   ┃│\n│┃                                            ┃│\n│┃                                            ┃│\n│┃    위의 사람은 「식물방역법」 제33조 및    ┃│\n│┃    같은 법 시행규칙 제37조의20에 따른      ┃│\n│┃    과수묘목 병해충 예찰조사 공무원임을     ┃│\n│┃    증명합니다.                             ┃│\n│┃                                            ┃│\n│┃년     월    일                             ┃│\n│┃              ┏━━┓                      ┃│\n│┃  국립종자원장┃직인┃                      ┃│\n│┃              ┗━━┛                      ┃│\n│┠──────────────────────┨│\n│┃이 증을 습득한 경우에는 가까운 우체통에 넣  ┃│\n│┃어 주십시오.                                ┃│\n│┗━━━━━━━━━━━━━━━━━━━━━━┛│\n└────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144776237",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144776233",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144776237",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:과수묘목병해충예찰조사요령#BJ0001",
+      "filename": "별지1_과수묘목 병해충 예찰공무원증.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "과수묘목 병해충 예찰공무원증 관리대장",
+      "enforcement_date": "",
+      "content": "■ 과수묘목 병해충 예찰조사 요령 [별지 제2호서식]\n과수묘목 병해충 예찰공무원증 관리대장\n━━━┯━━┯━━┯━━┯━━━━┯━━━━┯━━━━┯━━━\n번호│소속│직급│성명│생년월일│발급일자│회수일자│비고\n───┼──┼──┼──┼────┼────┼────┼───\n│    │    │    │        │        │        │\n━━━┷━━┷━━┷━━┷━━━━┷━━━━┷━━━━┷━━━\n※ 기재방법\n1. 번호란: 예찰공무원증을 발급한 일련번호로 기재합니다.\n2. 비고란: 발급 및 회수 사유를 간략히 기재합니다.\n210㎜×297㎜(백상지 80g/㎡)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144776243",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144776239",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144776243",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:과수묘목병해충예찰조사요령#BJ0002",
+      "filename": "별지2_과수묘목 병해충 예찰공무원증 관리대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "과수묘목 병해충 예찰조사표",
+      "enforcement_date": "",
+      "content": "■ 과수묘목 병해충 예찰조사 요령 [별지 제3호서식]\n과수묘목 병해충 예찰조사표\n┏━━━━━━┯━━━━━━━━━━━┯━━━━┯┓\n┃종자업체명  │                      │주소    │┃\n┠───┬──┼───────────┼────┼┨\n┃생산량│묘목│(사과)           (배) │대표자명│┃\n┃㈜    ├──┼───────────┤        │┃\n┃      │대목│(사과)           (배) ├────┼┨\n┃      ├──┼───────────┤연락처  │┃\n┃      │모수│(사과)           (배) │        │┃\n┗━━━┷━━┷━━━━━━━━━━━┷━━━━┷┛\n□ 예찰 결과\n┏━━━━━┯━━━━━━━━━━━━━━━━━━━━━━┓\n┃조사대상  │조사 결과                                   ┃\n┠──┬──┼──┬──┬─────┬─────┬────┨\n┃구분│주소│면적│주수│달관조사  │간이검정  │특이사항┃\n┃    │    │(㎡)│(주)│(의심증상)│(양성/음성│        ┃\n┃    │    │    │    │          │)         │        ┃\n┠──┼──┼──┼──┼─────┼─────┼────┨\n┃묘목│    │    │    │          │          │        ┃\n┠──┼──┼──┼──┼─────┼─────┤        ┃\n┃대목│    │    │    │          │          │        ┃\n┠──┼──┼──┼──┼─────┼─────┤        ┃\n┃모수│    │    │    │          │          │        ┃\n┠──┼──┼──┼──┼─────┼─────┤        ┃\n┃    │    │    │    │          │          │        ┃\n┠──┼──┼──┼──┼─────┼─────┤        ┃\n┃    │    │    │    │          │          │        ┃\n┠──┼──┼──┼──┼─────┼─────┤        ┃\n┃    │    │    │    │          │          │        ┃\n┠──┼──┼──┼──┼─────┼─────┤        ┃\n┃    │    │    │    │          │          │        ┃\n┗━━┷━━┷━━┷━━┷━━━━━┷━━━━━┷━━━━┛\n□ 대목 및 접수 내역\n┏━━┯━━━┯━━━┯━━━┯━━━┯━━┓\n┃구분│업체명│연락처│구입량│품종수│비고┃\n┣━━┿━━━┿━━━┿━━━┿━━━┿━━┫\n┃대목│      │      │      │      │    ┃\n┠──┼───┼───┼───┼───┼──┨\n┃접수│      │      │      │      │    ┃\n┗━━┷━━━┷━━━┷━━━┷━━━┷━━┛\n20   .   .   .\n○ 점검자(          ):             (서명)\n○ 점검자(          ):             (서명)\n○ 입회자(종자업체명):             (서명)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144776249",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144776245",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144776249",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:과수묘목병해충예찰조사요령#BJ0003",
+      "filename": "별지3_과수묘목 병해충 예찰조사표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "과수묘목 병해충 예찰결과 보고",
+      "enforcement_date": "",
+      "content": "■ 과수묘목 병해충 예찰조사 요령 [별지 제4호서식]\n┌───────────────┐\n│과수묘목 병해충 예찰결과 보고 │\n│                              │\n│□ 예찰조사 개요              │\n│ ? 예찰기간:                 │\n│ ? 예찰반원:                 │\n│ ? 예찰대상(종자업체 수):    │\n│□ 예찰조사 결과 (요약)       │\n│ ?                           │\n│   -                          │\n│□ 예찰조사 시 특이사항       │\n│ ?                           │\n│   -                          │\n│□ 개선의견 등 기타사항       │\n│ ?                           │\n│   -                          │\n│                              │\n│                              │\n│[붙임] 예찰 사진              │\n└───────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144776255",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144776251",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144776255",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:과수묘목병해충예찰조사요령#BJ0004",
+      "filename": "별지4_과수묘목 병해충 예찰결과 보고.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별지",
+      "title": "과수묘목 병해충 예찰 및 발생상황 보고",
+      "enforcement_date": "",
+      "content": "■ 과수묘목 병해충 예찰조사 요령 [별지 제5호서식]\n과수묘목 병해충 예찰 및 발생상황 보고\n┌──────┬───────────────────────────────┐\n│구   분     │내        용                                                  │\n├──────┼───────────────────────────────┤\n│1. 예찰개요 │ㅇ 예찰일시:                                                  │\n│            │ㅇ 예찰반원:                                                  │\n├──────┼───────────────────────────────┤\n│2. 예찰장소 │ㅇ 종자업체명(대표자):                                        │\n│            │ㅇ 재배지 주소:                                               │\n│            │ㅇ 연락처:                                                    │\n├──────┼───────────────────────────────┤\n│3. 발생상황 │ㅇ 작물명:                                                    │\n│            │ㅇ 육안관찰 식물체 병징:                                      │\n│            │ㅇ 간이검정 결과:                                             │\n│            │ㅇ 재식주수:                                                  │\n│            │ㅇ 발생주수:                                                  │\n├──────┼───────────────────────────────┤\n│4. 조치사항 │ㅇ 긴급조치:                                                  │\n│            │   (출입통제, 종자산업지원과 연락 등)                         │\n├──────┼───────────────────────────────┤\n│            │ㅇ 병해충 발견자:   직    성명                                │\n│            │ㅇ 확인자 :   직    성명                                      │\n│5. 기 타    │ㅇ 기타 참고사항                                              │\n│            │   (종자업체의 최초 발견시기, 조치사항, 발생지 외 재배지역 등)│\n│            │                                                              │\n└──────┴───────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144776261",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144776257",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144776261",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:과수묘목병해충예찰조사요령#BJ0005",
+      "filename": "별지5_과수묘목 병해충 예찰 및 발생상황 보고.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "과수묘목 병해충 예찰조사 요령(예규) 제정 전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=144774959",
+      "file_store_url": "",
+      "filename": "과수묘목 병해충 예찰조사 요령(예규) 제정 전문.pdf"
+    },
+    {
+      "name": "과수묘목 병해충 예찰조사 요령(예규) 제정 전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=144774955",
+      "file_store_url": "",
+      "filename": "과수묘목 병해충 예찰조사 요령(예규) 제정 전문.hwpx"
+    },
+    {
+      "name": "조문별 제정이유서(과수묘목 병해충 예찰조사 요령).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=144774947",
+      "file_store_url": "",
+      "filename": "조문별 제정이유서(과수묘목 병해충 예찰조사 요령).hwpx"
+    },
+    {
+      "name": "조문별 제정이유서(과수묘목 병해충 예찰조사 요령).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=144774951",
+      "file_store_url": "",
+      "filename": "조문별 제정이유서(과수묘목 병해충 예찰조사 요령).pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 12,
+    "by_category": {
+      "법령": 4,
+      "별지": 5,
+      "행정규칙": 2,
+      "별표": 1
+    },
+    "by_relation_type": {
+      "citation": 6,
+      "appendix_ref": 6
+    },
+    "articles_total": 11,
+    "articles_with_relations": 8,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 6,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/과수묘목 병해충 예찰조사 요령"
+  },
+  "provision_id": "admrul:과수묘목병해충예찰조사요령#DOC"
+}
