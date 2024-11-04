@@ -1,0 +1,1807 @@
+{
+  "law_id": "2100000249040",
+  "mst": "2100000249040",
+  "law_name": "공사감독자 업무규정",
+  "law_abbr": "",
+  "law_type": "훈령",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000249040",
+  "promulgation_no": "1547",
+  "promulgation_date": "20241104",
+  "enforcement_date": "20241104",
+  "revision_date": "20241104",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "법무부(시설담당관)",
+    "담당자명": "최영수",
+    "행정규칙종류코드": "B0001",
+    "행정규칙명": "공사감독자 업무규정",
+    "발령일자": "20241104",
+    "행정규칙종류": "훈령",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "법무부",
+    "전화번호": "02-2110-3136",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1270000",
+    "생성일자": "20241105",
+    "행정규칙ID": "32126",
+    "시행일자": "20241104",
+    "담당부서기관코드": "1272325",
+    "발령번호": "1547",
+    "행정규칙일련번호": "2100000249040",
+    "상위부처명": "법무부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정 이유\n법무심의관실-7867(2023.5.12.)「법무부 소관 행정규칙 속 어려운 용어 정비안 안내」 부합하도록 개정하고자 함.\n◇ 주요 내용\n가. 시설공사 검사업무 규칙\n- 제7조(검사공무원의 임무) : 대인인 등을 입회케 → 대리인 등을 입회하게\n- 제7조 1항 1호 바 : 관급자재의 수불실태→관급자재의 출납실태\n- 제11조(공사현장의 사후관리) : 반출케 하는 → 반출하게 하는\n\n나. 공사감독자 업무규정\n- 제11조(서류의 정리ㆍ비치) 1항 4호 : 관급자재 수불부 → 관급자재 출납부\n- 제11조의1(시공자가 비치하는서류의 확인) 9호 : 주요반입 자재수불부→주요반입 자재출납부\n- 제13조(자재관리) 1항 : 즉시 반출케 → 즉시 반출하고\n- 제17조(업무보고) 2호 : 관급자재 수불상황 → 관급자재 출납상황\n- 제19조의1(시행계획 검토) 2항 : 제출케하여 → 제출하게 하여",
+  "body": {
+    "format": "articles",
+    "article_count": 32,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규정은 「국가를 당사자로 하는 계약에 관한 법률」\n제13조 (감독) 및「건설기술 진흥법」\n제49조(건설공사감독자의 감독 의무) 제2항에 의하여 법무부와 그 소속기관이 시행하는 건설공사의 공사감독자(이하 \"감독자\"라 한다.) 업무에 관한 사항을 규정함으로써 공사감독 업무를 효율적으로 수행하기 위함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「국가를 당사자로 하는 계약에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "국가를 당사자로 하는 계약에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가를 당사자로 하는 계약에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0001",
+            "reference_id": "law:국가를당사자로하는계약에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제13조",
+            "line_text": "",
+            "target_law_name": "국가를 당사자로 하는 계약에 관한 법률",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가를 당사자로 하는 계약에 관한 법률/제13조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0001",
+            "reference_id": "law:국가를당사자로하는계약에관한법률#JO0013"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「건설기술 진흥법」",
+            "line_text": "",
+            "target_law_name": "건설기술 진흥법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건설기술 진흥법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0001",
+            "reference_id": "law:건설기술진흥법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제49조",
+            "line_text": "",
+            "target_law_name": "건설기술 진흥법",
+            "target_article_no": "제49조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건설기술 진흥법/제49조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0001",
+            "reference_id": "law:건설기술진흥법#JO0049"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공사감독자업무규정#JO0001"
+      },
+      {
+        "article_no": "제1조의1",
+        "article_title": "적용범위",
+        "chapter": "",
+        "content": "제1조의1(적용범위) 감독자의 업무에 대하여는 다른 법령에 특별한 규정이 있거나 공사계약으로 따로 정한 경우를 제외하고는 본 규정에 의한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공사감독자업무규정#JO0001_01"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) 이 규정에서 사용되는 용어의 정의는 다음과 같다.1. \"감독자\"라 함은 「국가를 당사자로 하는 계약에 관한 법률」\n제13조(감독)에 의하여 감독사무를 위임받은 공무원을 말한다. 다만,「국가를 당사자로 하는 계약에 관한 법률 시행령」\n제54조(감독) 제1항에 정하는 계약의 경우에는 전문기관을 따로 지정하여 필요한 감독을 하게 할 수 있다.2. \"소속장\"이라 함은 건설공사의 시행청의 장을 말한다.3. \"관계관서장\"이라 함은 공사 준공 후 동 시설을 보관ㆍ관리할 관서의 장을 말한다.4. \"시공자\"라 함은 정부와 시설공사를 계약 체결한 개인 또는 법인을 말한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제13조",
+            "line_text": "",
+            "target_law_name": "국가를 당사자로 하는 계약에 관한 법률",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가를 당사자로 하는 계약에 관한 법률/제13조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0002",
+            "reference_id": "law:국가를당사자로하는계약에관한법률#JO0013"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「국가를 당사자로 하는 계약에 관한 법률 시행령」",
+            "line_text": "",
+            "target_law_name": "국가를 당사자로 하는 계약에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가를 당사자로 하는 계약에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0002",
+            "reference_id": "law:국가를당사자로하는계약에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제54조",
+            "line_text": "",
+            "target_law_name": "국가를 당사자로 하는 계약에 관한 법률 시행령",
+            "target_article_no": "제54조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가를 당사자로 하는 계약에 관한 법률 시행령/제54조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0002",
+            "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0054"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공사감독자업무규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "감독자 임명",
+        "chapter": "",
+        "content": "제3조(감독자 임명) ① 감독자 임명은 특별한 사유가 없는 한 정ㆍ부책임자를 지정하여야 하며, 각 전문분야별 감독자를 따로 임명할 수 있다.② 소속장은 공사현장 감독업무에 필요하다고 인정되는 경우에는 관계관서장 소속 및 인근 소속기관 직원을 감독자 또는 보조감독자로 임명할 수 있다. 다만, 감독자의 상주가 어려운 경우 당일 출장으로 공사현장 감독업무를 수행할 수 있도록 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공사감독자업무규정#JO0003"
+      },
+      {
+        "article_no": "제3조의1",
+        "article_title": "공사감독자의 행위제한",
+        "chapter": "",
+        "content": "제3조의1(공사감독자의 행위제한) 공사감독자는 해당공사의 기성검사 및 준공검사에 대한 검사자 직무를 겸할 수 없다. 다만, 「국가를 당사자로 하는 계약에 관한 법률 시행령」\n제57조(감독과 검사직무의 겸직)에 따른 경우에는 이에 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조의1",
+            "source_clause": "제3조의1",
+            "link_text": "「국가를 당사자로 하는 계약에 관한 법률 시행령」",
+            "line_text": "",
+            "target_law_name": "국가를 당사자로 하는 계약에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가를 당사자로 하는 계약에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0003_01",
+            "reference_id": "law:국가를당사자로하는계약에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조의1",
+            "source_clause": "제3조의1",
+            "link_text": "제57조",
+            "line_text": "",
+            "target_law_name": "국가를 당사자로 하는 계약에 관한 법률 시행령",
+            "target_article_no": "제57조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가를 당사자로 하는 계약에 관한 법률 시행령/제57조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0003_01",
+            "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0057"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공사감독자업무규정#JO0003_01"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "감독공무원의 청렴서약",
+        "chapter": "",
+        "content": "제4조(감독공무원의 청렴서약) 감독자는 임명받은 즉시 소속장에게 별지서식 제1호에 의한 공사감독자 청렴서약서를 작성ㆍ제출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공사감독자업무규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "감독자 성실의무",
+        "chapter": "",
+        "content": "제5조(감독자 성실의무) 감독자는 다음 각호의 규정에 따라 감독업무를 성실하게 수행하여야 한다1. 감독업무를 수행함에 있어서 당해 공사의 설계도서ㆍ계약서 기타 관계서류 등의 내용을 숙지하고 당해공사의 특수성을 파악한 후 감독업무에 임하여야 한다2. 당해 공사가 설계도서, 계약서, 공정계획표, 소속장의 지시사항 기타 관계서류의 내용대로 시공되는지를 공사시행 단계별로 확인ㆍ검측하여 엄격한 품질관리에 임하여야 하고, 기타 시공자에게 품질ㆍ시공ㆍ안전관리 등에 필요한 기술지도ㆍ감독업무를 수행하여야 한다.3. 공기연장, 공사현장 문제점, 중요사항 설계변경, 예산과 관련되는 사항 및 공사계약조건과 다른 지시 등을 할 경우에는 소속장에게 사전 서면으로 보고하여 승인을 받아야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공사감독자업무규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "관계관서장의 임무",
+        "chapter": "",
+        "content": "제6조(관계관서장의 임무) ① 관계관서장은 감독자 부재 시 아래 업무를 수행한다.1. 공사현장의 안전관리사항 점검2. 관급자재 및 시공자재관리3. 기타 당해공사 추진에 따른 제반 행정에 관한 사항② 관계관서장은 공사추진에 따른 타 기관과의 협의할 사항이 있을 경우에는 이를 적극 지원한다.③ 관계관서장은 시공자나 감독자에게 설계도서에 부합되지 않는 공사를 지시하거나 자재 반출 등을 명령할 수 없다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공사감독자업무규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "건설기술인 관리 등",
+        "chapter": "",
+        "content": "제7조(건설기술인 관리 등) 감독자는 공사에 참여하는 건설기술인 등이 다음 각호에 해당하여 당해 현장에 적절치 않다고 인정되는 경우에는 소속장에게 실정을 보고하여 교체여부에 대한 방침을 받은 후 교체하도록 지시하여야 한다.1. 건설기술인, 안전관리자, 품질관리시험 요원이「건설산업기본법」및「건설기술 진흥법」등의 규정에 의한 건설기술인 배치기준, 품질시험의무 등 관련법규에 부적합 하였을 때2. 건설기술인이 사전 승낙을 얻지 아니하고 정당한 사유없이 당해 건설공사의 현장을 이탈한 때.3. 건설기술인의 고의 또는 과실로 인하여 건설공사를 조잡하게 시공하거나 또는 부실시공을 하였을 때.4. 건설기술인이 계약에 따른 시공 및 기술능력이 부족하다고 인정되거나 정당한 사유 없이 공정성과를 현저히 미달 하였을 때.5. 건설기술인이 감독자의 정당한 지시에 응하지 아니 하였을 때.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "「건설산업기본법」",
+            "line_text": "",
+            "target_law_name": "건설산업기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건설산업기본법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0007",
+            "reference_id": "law:건설산업기본법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "「건설기술 진흥법」",
+            "line_text": "",
+            "target_law_name": "건설기술 진흥법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건설기술 진흥법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0007",
+            "reference_id": "law:건설기술진흥법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공사감독자업무규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "관계기관 협의",
+        "chapter": "",
+        "content": "제8조(관계기관 협의) 감독자는 공사시행에 따른 관련기관과의 협의 시 필요한 서류를 작성하여 소속장에게 제출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공사감독자업무규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "수명사항 처리",
+        "chapter": "",
+        "content": "제9조(수명사항 처리) ① 감독자는 상급자로부터 시공 등에 관하여 지시받은 사항은 명령 및 지시사항부(별지3호 서식)에 그 내용을 기록하고, 조치계획 및 결과를 소속장에게 보고하여야 한다.② 감독자가 시공자에게 지시하는 모든 사항은 서면으로 함을 원칙으로 하며, 시공자로부터 조치결과를 제출받아 확인하여야 한다.③ 감독자는 소속장으로부터 당해공사 관련 민원에 관하여 현지조사 및 대책 등을 지시받은 경우에는 기일내에 조사하여 보고하여야 한다.④ 감독자는 민원발생요인의 제거 또는 최소화에 노력하여야 하고, 민원인과의 대화는 성실하게 하며, 주요 민원사항에 대하여는 민원내용 및 처리결과를 소속장에게 보고하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제1항",
+            "link_text": "별지3호",
+            "line_text": "",
+            "target_law_name": "공사감독자 업무규정",
+            "target_article_no": "별지3",
+            "target_article_title": "공사명령 및 지시사항부",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164813",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0009",
+            "reference_id": "admrul:공사감독자업무규정#BJ0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공사감독자업무규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "설계변경",
+        "chapter": "",
+        "content": "제10조(설계변경) ① 감독자는 공사시행 과정에서 구조물의 구조 및 공법의 변경이 없는 위치변경ㆍ공사물량 증감이나 단순구조물의 추가시공 등 경미한 설계변경 사항이 발생한 경우에는 타당성 여부를 면밀히 검토한 후 변경으로 인한 전체공사비의 증감이 없는 범위내에서 우선 변경시공하도록 지시하고, 사후에 소속장에게 서면으로 보고하여야 한다.② 감독자는 구조ㆍ기능상 중요한 설계변경이 필요한 경우에는 그 사유와 검토의견ㆍ설계변경도서를 작성하여 소속장에게 서면(별지 제15호 서식)으로 보고하고 승인을 얻은 후 시공하도록 조치하여야 한다.③ 감독자는 시공자가 제출한 현장 상황변경 등에 의한 물량변경은 물론, 추후 변경될 수 있는 요인을 사전에 도출하여 설계에 반영함으로써 설계변경 회수를 최대한 줄이도록 노력하여야 한다.④ 감독자는 토취장ㆍ사토장 및 골재원 등을 확인하여 적정성 및 설계변경 여부를 소속장에게 서면으로 보고하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제2항",
+            "link_text": "별지 제15호 서식",
+            "line_text": "",
+            "target_law_name": "공사감독자 업무규정",
+            "target_article_no": "별지15",
+            "target_article_title": "설계변경요청서",
+            "appendix_no": "15",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164891",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0010",
+            "reference_id": "admrul:공사감독자업무규정#BJ0015"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공사감독자업무규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "서류의 정리ㆍ비치",
+        "chapter": "",
+        "content": "제11조(서류의 정리ㆍ비치) ① 감독자는 다른 법령에 특별한 규정이 있는 경우를 제외하고는 다음 각호의 서류를 작성ㆍ정리하여 현장 사무실에 비치하도록 하며, 당해 공사의 준공 후 소속장에게 제출하여야 한다.1. 공사감독일지(별지 제2호 서식)2. 명령 및 지시사항부(별지 제3호 서식)3. 주요반입자재 검사부(별지 제4호 서식)4. 관급자재 출납부(별지 제5호 서식)5. 발생품 및 잉여자재 정리부(별지 제6호 서식)6. 공사추진 상황보고(별지 제7호 서식)7. 매몰부분 검측부 및 사진과 구조물 검측부 및 대장8. 건설공사 지도ㆍ점검 실명제 기록일지9. 기타 필요한 서류 및 도표② 감독자는 당일 공사추진상황 및 감독업무 수행내용을 공사감독일지에 구체적으로 기록하고, 시공자가 작성한 공사작업일지(별지 제15호 서식)를 확인한 후 그 사본을 현장에 비치하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "별지 제2호 서식",
+            "line_text": "",
+            "target_law_name": "공사감독자 업무규정",
+            "target_article_no": "별지2",
+            "target_article_title": "공사감독일지",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164807",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0011",
+            "reference_id": "admrul:공사감독자업무규정#BJ0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "별지 제3호 서식",
+            "line_text": "",
+            "target_law_name": "공사감독자 업무규정",
+            "target_article_no": "별지3",
+            "target_article_title": "공사명령 및 지시사항부",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164813",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0011",
+            "reference_id": "admrul:공사감독자업무규정#BJ0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "별지 제4호 서식",
+            "line_text": "",
+            "target_law_name": "공사감독자 업무규정",
+            "target_article_no": "별지4",
+            "target_article_title": "주요반입자재 검사부",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164819",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0011",
+            "reference_id": "admrul:공사감독자업무규정#BJ0004"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "별지 제5호 서식",
+            "line_text": "",
+            "target_law_name": "공사감독자 업무규정",
+            "target_article_no": "별지5",
+            "target_article_title": "관급자재출납부",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164825",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0011",
+            "reference_id": "admrul:공사감독자업무규정#BJ0005"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "별지 제6호 서식",
+            "line_text": "",
+            "target_law_name": "공사감독자 업무규정",
+            "target_article_no": "별지6",
+            "target_article_title": "발생품(잉여자재)정리부",
+            "appendix_no": "6",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164831",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0011",
+            "reference_id": "admrul:공사감독자업무규정#BJ0006"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "별지 제7호 서식",
+            "line_text": "",
+            "target_law_name": "공사감독자 업무규정",
+            "target_article_no": "별지7",
+            "target_article_title": "공사추진상황보고",
+            "appendix_no": "7",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164837",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0011",
+            "reference_id": "admrul:공사감독자업무규정#BJ0007"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제2항",
+            "link_text": "별지 제15호 서식",
+            "line_text": "",
+            "target_law_name": "공사감독자 업무규정",
+            "target_article_no": "별지15",
+            "target_article_title": "설계변경요청서",
+            "appendix_no": "15",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164891",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0011",
+            "reference_id": "admrul:공사감독자업무규정#BJ0015"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공사감독자업무규정#JO0011"
+      },
+      {
+        "article_no": "제11조의1",
+        "article_title": "시공자가 비치하는 서류의 확인",
+        "chapter": "",
+        "content": "제11조의1(시공자가 비치하는 서류의 확인) 감독자는 시공자가 작성한 다음의 서류를 검토ㆍ확인하여야 하며, 필요시 관계 서류를 제출받아야 한다.1. 품질시험계획 또는 품질보증계획서(별지 제8호 서식)2. 품질시험ㆍ검사대장(별지 제9호 서식)3. 품질시험ㆍ검사성과 총괄표(별지 제10호 서식)4. 품질시험ㆍ검사실적보고서(별지 제11호 서식)5. 현장교육 실적부(별지 제12호 서식)6. 구조물 부위별 사용 콘크리트 종류 기록서(별지 제13호 서식)7. 공사작업일지 (별지 제14호 서식)8. 시공자의 제반 안전관리실적(교육계획 등) 및 안전관리비 사용실적 관계서류9. 주요반입 자재출납부10. 공사측량 성과11. 공사진척 현황에 대한 사진첩 또는 CD-ROM, USB 저장장치12. 기타 필요한 서류 및 도표",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제11조의1",
+            "source_clause": "제11조의1",
+            "link_text": "별지 제8호 서식",
+            "line_text": "",
+            "target_law_name": "공사감독자 업무규정",
+            "target_article_no": "별지8",
+            "target_article_title": "품질시험계획",
+            "appendix_no": "8",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164843",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0011_01",
+            "reference_id": "admrul:공사감독자업무규정#BJ0008"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제11조의1",
+            "source_clause": "제11조의1",
+            "link_text": "별지 제9호 서식",
+            "line_text": "",
+            "target_law_name": "공사감독자 업무규정",
+            "target_article_no": "별지9",
+            "target_article_title": "품질시험·검사대장",
+            "appendix_no": "9",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164849",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0011_01",
+            "reference_id": "admrul:공사감독자업무규정#BJ0009"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제11조의1",
+            "source_clause": "제11조의1",
+            "link_text": "별지 제10호 서식",
+            "line_text": "",
+            "target_law_name": "공사감독자 업무규정",
+            "target_article_no": "별지10",
+            "target_article_title": "품질시험·검사성과 총괄표",
+            "appendix_no": "10",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164855",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0011_01",
+            "reference_id": "admrul:공사감독자업무규정#BJ0010"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제11조의1",
+            "source_clause": "제11조의1",
+            "link_text": "별지 제11호 서식",
+            "line_text": "",
+            "target_law_name": "공사감독자 업무규정",
+            "target_article_no": "별지11",
+            "target_article_title": "품질시험·검사실적보고서",
+            "appendix_no": "11",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164861",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0011_01",
+            "reference_id": "admrul:공사감독자업무규정#BJ0011"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제11조의1",
+            "source_clause": "제11조의1",
+            "link_text": "별지 제12호 서식",
+            "line_text": "",
+            "target_law_name": "공사감독자 업무규정",
+            "target_article_no": "별지12",
+            "target_article_title": "현장교육실적부",
+            "appendix_no": "12",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164867",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0011_01",
+            "reference_id": "admrul:공사감독자업무규정#BJ0012"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제11조의1",
+            "source_clause": "제11조의1",
+            "link_text": "별지 제13호 서식",
+            "line_text": "",
+            "target_law_name": "공사감독자 업무규정",
+            "target_article_no": "별지13",
+            "target_article_title": "구조물부위별 사용 콘크리트종류 기록서",
+            "appendix_no": "13",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164873",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0011_01",
+            "reference_id": "admrul:공사감독자업무규정#BJ0013"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제11조의1",
+            "source_clause": "제11조의1",
+            "link_text": "별지 제14호 서식",
+            "line_text": "",
+            "target_law_name": "공사감독자 업무규정",
+            "target_article_no": "별지14",
+            "target_article_title": "공사작업일지",
+            "appendix_no": "14",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164879",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0011_01",
+            "reference_id": "admrul:공사감독자업무규정#BJ0014"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공사감독자업무규정#JO0011_01"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "매몰부분 등 검사",
+        "chapter": "",
+        "content": "제12조(매몰부분 등 검사) ① 감독자는 시공 후 매몰되거나 사후 검사가 곤란한 부분은 설계도서와의 부합여부를 증빙할 수 있도록 시공 전에 시공자로부터 그 부분의 촬영계획 등 증빙계획서를 제출받아 이를 검토하여야 하며, 시공 시 반드시 현장에 입회하여 지도ㆍ감독하여야 한다.② 감독자는 제1항의 증빙계획에 따라 당해 부분에 대하여 시공상태를 증빙할 수 있는 사진과 상세한 기록이 있는 서류를 비치하도록 한다. 다만, 당해 증빙계획만으로 시공상태를 증빙하기 곤란한 경우에는 기타의 부분에 대하여도 증빙자료를 비치하여야 하며, 준공 후에는 동 기록 일체를 소속장에게 제출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공사감독자업무규정#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "자재관리",
+        "chapter": "",
+        "content": "제13조(자재관리) ① 감독자는 공사에 사용할 자재 일체에 대하여 사용전에 검사를 하여야 하며, 불합격품이 있을 때에는 즉시 반출하고, 대체품을 반입하여 재검사를 하여야 한다.② 감독자는 발주청의 대여기구나 관급자재 관리는「물품관리법」등에 의하여 관리하여야 한다.③ 감독자는 관급자재를 불가피한 사정으로 사급자재로 대체 사용하고자 하는 경우에는 반드시 소속장에게 서면으로 보고하여 승인을 받은 후 사용하여야 한다.④ 주요자재에 대하여는 시공자가 제출한 자재공급원 승인요청 내용을 검토ㆍ확인하고 이를 소속장에게 보고하여 승인을 받은 후 사용하도록 하여야 한다.⑤ 관급자재 중 잉여지급자재가 발생한 경우에는 품명 및 수량 등을 조사하여 소속장에게 서면으로 보고하고 그 지시에 따라 조치한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제2항",
+            "link_text": "「물품관리법」",
+            "line_text": "",
+            "target_law_name": "물품관리법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/물품관리법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0013",
+            "reference_id": "law:물품관리법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공사감독자업무규정#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "안전 및 환경관리",
+        "chapter": "",
+        "content": "제14조(안전 및 환경관리) ① 시공자로부터 현장안전관리계획을 사전에 제출받아 계획대로 시행 여부를 확인하여야 한다.② 공사로 인하여 대기ㆍ수질ㆍ악취ㆍ분진ㆍ소음 또는 진동 등 환경오염이 발생되지 아니하도록 지도ㆍ감독하여야 한다.③ 안전관리소홀로 인한 각종 안전사고를 미연에 방지하기 위하여 시공자가 수립한 안전관리대책의 적정여부를 사전에 검토하여야 하고, 정기적인 안전점검 및 우기ㆍ해빙기에 특별점검을 실시하도록 하고 「건설기술 진흥법」\n제62조(건설공사의 안전관리) 및 「건설기술 진흥법 시행령」\n제100조(안전검의 시기ㆍ방법 등)의 규정에 의한 안전점검을 실시하도록 지도ㆍ감독하여야 한다.④ 안전관리교육을 월 1회이상 실시하도록 하고, 시공자의 월간 안전관리비 사용실적을 확인하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제3항",
+            "link_text": "제62조",
+            "line_text": "",
+            "target_law_name": "건설기술 진흥법",
+            "target_article_no": "제62조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건설기술 진흥법/제62조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0014",
+            "reference_id": "law:건설기술진흥법#JO0062"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제3항",
+            "link_text": "「건설기술 진흥법 시행령」",
+            "line_text": "",
+            "target_law_name": "건설기술 진흥법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건설기술 진흥법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0014",
+            "reference_id": "law:건설기술진흥법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제3항",
+            "link_text": "제100조",
+            "line_text": "",
+            "target_law_name": "건설기술 진흥법 시행령",
+            "target_article_no": "제100조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건설기술 진흥법 시행령/제100조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0014",
+            "reference_id": "law:건설기술진흥법시행령#JO0100"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공사감독자업무규정#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "공사확인 측량",
+        "chapter": "",
+        "content": "제15조(공사확인 측량) ① 감독자는 공사검측에 편리한 지점에 석조 또는 콘크리트조의 수준점(B.M)을 설치 보존ㆍ관리하여야 하고, 그 위치 및 표고를 공사평면도 등에 기재하여야 한다.② 시공자로 하여금 설계도서와 실제현장 여건의 이상유무를 확인토록 하고, 시공자의 확인측량결과 설계도서와 상이한 내용이 있을 경우에는 실시설계용역업자와 합동으로 확인한 후 도면의 표지에 현장대리인과 실시설계 용역업자의 책임자가 연명으로 서명 또는 날인하여 소속장에게 보고하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공사감독자업무규정#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "품질관리",
+        "chapter": "",
+        "content": "제16조(품질관리) ① 감독자는 사용자재 및 공사시공상황을 검사함에 있어 공사시방서 등 설계도서 및 기타 계약관계서류에 특별한 규정이 있는 경우를 제외하고는「건설기술 진흥법」\n제55조(건설공사의 품질관리)의 규정에 의하여 시공자의 품질관리여부를 지도ㆍ감독하고, 시험 및 검사결과를 기록ㆍ비치하게 하여야 한다.② 감독자는 현장품질시험의 실시를 위한 시험시설과 시험요원의 확보상황을 수시 확인하고, 다음 사항을 지도ㆍ감독하여야 한다.1. 건설공사의 품질향상, 효율적 공사수행을 위한 기술개발 및 보급에 전력하는지의 여부2. 레미콘 및 아스콘의 공급원 신청시는 시공자ㆍ자재공급자 등 관계자가 타설방법, 타설시의 온도, 현장여건 등을 감안하여 합동으로 배합설계를 실시하도록 하여야 하며, 구조물 부위별로 사용한 콘크리트 배합종류를 기록서(별지 제13호 서식)를 기록ㆍ비치하고 구조물 부위가 동일한 경우 동일한 레미콘 회사의 제품을 사용하는지의 여부3. 현장에 불량레미콘 및 아스콘이 반입되지 아니하도록 철저히 확인하고, 불량레미콘 등을 운반한 믹서트럭은 적발 당일 반입을 금지시키며, 월간 불량레미콘 반입회수ㆍ반입량 및 사유 등을 기록하여 소속장에게 보고하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제1항",
+            "link_text": "「건설기술 진흥법」",
+            "line_text": "",
+            "target_law_name": "건설기술 진흥법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건설기술 진흥법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0016",
+            "reference_id": "law:건설기술진흥법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제1항",
+            "link_text": "제55조",
+            "line_text": "",
+            "target_law_name": "건설기술 진흥법",
+            "target_article_no": "제55조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건설기술 진흥법/제55조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0016",
+            "reference_id": "law:건설기술진흥법#JO0055"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제2항",
+            "link_text": "별지 제13호 서식",
+            "line_text": "",
+            "target_law_name": "공사감독자 업무규정",
+            "target_article_no": "별지13",
+            "target_article_title": "구조물부위별 사용 콘크리트종류 기록서",
+            "appendix_no": "13",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164873",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0016",
+            "reference_id": "admrul:공사감독자업무규정#BJ0013"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공사감독자업무규정#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "업무 보고",
+        "chapter": "",
+        "content": "제17조(업무 보고) 감독자는 다음 각호의 사항을 매월 말일을 기준으로 작성한 공사추진상황 보고서(별지 제7호 서식)를 익월 5일까지 소속장에게 보고하여야 한다.1. 공정계획 및 실적2. 관급자재 출납상황3. 품질시험ㆍ검사실적4. 기타 공사추진에 필요한 중요사항 등",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제17조",
+            "source_clause": "제17조",
+            "link_text": "별지 제7호 서식",
+            "line_text": "",
+            "target_law_name": "공사감독자 업무규정",
+            "target_article_no": "별지7",
+            "target_article_title": "공사추진상황보고",
+            "appendix_no": "7",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164837",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0017",
+            "reference_id": "admrul:공사감독자업무규정#BJ0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공사감독자업무규정#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "공사현장 관리",
+        "chapter": "",
+        "content": "제18조(공사현장 관리) 감독자는 공사현장에서 다음 각호의 1에 해당하는 사태가 발생하였을 때에는 적의 응급조치를 취하는 동시에 상세한 경위를 소속장에게 보고하여야 한다.1. 천재지변 또는 기타의 사유로 공사현장에 피해가 발생하였거나 이로 인하여 장기간 시공이 불가능한 경우2. 건설기술인이 계속하여 현장에 주재하지 아니한 경우3. 시공자가 정당한 사유없이 공사를 중단한 경우4. 시공자가 불성실하게 공사를 시행하거나 정당한 지시에 응하지 아니한 경우",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공사감독자업무규정#JO0018"
+      },
+      {
+        "article_no": "제18조의1",
+        "article_title": "하도급 관리",
+        "chapter": "",
+        "content": "제18조의1(하도급 관리) 감독자는 시공자가 불법하도급거래 등 다음 각호의 1에 해당하는 사항이 발생하였을 경우에는 즉시 소속장에게 보고하여야 한다.1. 하도급통지 또는 승인사항에 위반하여 시공하거나 일괄 하도급한 경우2. 하도급업체가 재하도급한 경우3. 하도급 대금지불과 관련하여 분쟁 또는 민원이 발생한 경우",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공사감독자업무규정#JO0018_01"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "공사관련서류 검토ㆍ보고",
+        "chapter": "",
+        "content": "제19조(공사관련서류 검토ㆍ보고) 감독자는 시공자가 제출하는 다음 각호의 서류를 검토ㆍ경유하고, 필요하다고 인정되는 경우에는 의견을 첨부할 수 있다.1. 공사기성부분 검사원(별지 제16호 서식)2. 관급자재 대체사용 신청3. 준공기한 연기원4. 준공검사원(별지 제17호 서식)5. 공사착공보고서6. 공사측량보고서7. 설계변경 요청서8. 하도급통지 또는 승인신청서9. 기타 공사 시공상 필요한 신청이 있을 때",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제19조",
+            "source_clause": "제19조",
+            "link_text": "별지 제16호 서식",
+            "line_text": "",
+            "target_law_name": "공사감독자 업무규정",
+            "target_article_no": "별지16",
+            "target_article_title": "공사기성부분검사원",
+            "appendix_no": "16",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164897",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0019",
+            "reference_id": "admrul:공사감독자업무규정#BJ0016"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제19조",
+            "source_clause": "제19조",
+            "link_text": "별지 제17호 서식",
+            "line_text": "",
+            "target_law_name": "공사감독자 업무규정",
+            "target_article_no": "별지17",
+            "target_article_title": "준공검사원",
+            "appendix_no": "17",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164903",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0019",
+            "reference_id": "admrul:공사감독자업무규정#BJ0017"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공사감독자업무규정#JO0019"
+      },
+      {
+        "article_no": "제19조의1",
+        "article_title": "시행계획 검토",
+        "chapter": "",
+        "content": "제19조의1(시행계획 검토) ① 감독자는 공사에 관한 다음 각호의 사항을 사전에 검토하여 공사 진행상 문제가 있다고 판단될 경우에는 소속장에게 서면으로 보고한 후 그 대책을 강구하여야 한다.1. 세부공정계획2. 시공자의 현장기술인 확보사항3. 기타 공사계획에 관련한 사항② 감독자는 공사계약서 및 시방서에 따라 시공전 이에 필요한 시공상세도(설계도면에 포함된 것은 제외한다)를 제출하게 하여 이의 적정여부를 검토하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공사감독자업무규정#JO0019_01"
+      },
+      {
+        "article_no": "제19조의2",
+        "article_title": "시공확인",
+        "chapter": "",
+        "content": "제19조의2(시공확인) ① 감독자는 세부공정계획 따라 공사를 추진토록 감독하여야 하며, 공사진행이 계획에 차질이 있다고 판단될 경우에는 시공자로부터 그 원인과 대책을 제출받아 검토하여야 한다.② 감독자는 설계도면ㆍ시방서와 자재의 사용 및 시공의 일치 여부를 확인하고, 적정하지 못하다고 인정하는 경우에는 서면으로 재시공 지시 등 필요한 조치를 하여야 하며, 시공자가 이에 따르지 아니하거나, 공사에 중대한 결함이 발생할 우려가 있을 경우에는 공사를 중단토록 하고, 소속장에게 이를 보고하여야 한다.③ 제1항의 경우에 감독자는 정확한 공정의 파악 및 예측을 위하여 필요시는 시공자로부터 세부공정자료(구체적 공정실적 및 계획이나 PERT/CPM 공정자료 또는 전산처리된 공정자료 등을 포함한다)를 제출받아 검토하여야 한다.④ 감독자는 시공자로부터 검측결과를 제출받아 그 내용을 확인한 후 이상이 없는 경우에 한하여 다음 공정에 착수하게 하여야 한다.⑤ 시공자로 하여금 현장종사 직원 및 기능공에게 견실시공 의식을 고취하기 위하여 정기적으로 현장교육을 실시하게 하고 그 내용을 현장교육실적부(별지 제12호 서식)에 기록ㆍ비치하게 하여야 한다.⑥ 감독자는 시공자로 하여금 주요작업참여자 실명부(별지 제14-1호 서식)를 기록ㆍ관리하도록 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제19조의2",
+            "source_clause": "제19조의2제5항",
+            "link_text": "별지 제12호 서식",
+            "line_text": "",
+            "target_law_name": "공사감독자 업무규정",
+            "target_article_no": "별지12",
+            "target_article_title": "현장교육실적부",
+            "appendix_no": "12",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164867",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0019_02",
+            "reference_id": "admrul:공사감독자업무규정#BJ0012"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제19조의2",
+            "source_clause": "제19조의2제6항",
+            "link_text": "별지 제14",
+            "line_text": "",
+            "target_law_name": "공사감독자 업무규정",
+            "target_article_no": "별지14",
+            "target_article_title": "공사작업일지",
+            "appendix_no": "14",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164879",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0019_02",
+            "reference_id": "admrul:공사감독자업무규정#BJ0014"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공사감독자업무규정#JO0019_02"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "손상된 관유시설의 변상",
+        "chapter": "",
+        "content": "제20조(손상된 관유시설의 변상) ① 감독자는 시공자가 보관하고 있는 관유물을 멸실 또는 손상한 때에는 그 상황을 즉시 보고하고 동시에 상당한 기간을 정하여 변상 또는 원상복구 하도록 하여야 한다.② 제1항의 기간내에 원상복구를 하지 않거나, 원상복구를 할 수 없을 때에는 그 손실의 상황 및 변상을 요하는 금액의 조서를 작성하여 소속장에게 보고하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공사감독자업무규정#JO0020"
+      },
+      {
+        "article_no": "제20조의1",
+        "article_title": "공사의 준공",
+        "chapter": "",
+        "content": "제20조의1(공사의 준공) 감독자는 공사가 준공된 때에는 다음 사항을 조치하여야 한다.① 준공검사 전에 충분한 기간을 두고 공사현장을 정밀히 확인ㆍ점검하여 지적사항을 미리 시정 조치하도록 하고 예비준공검사를 신청하도록 하여야 한다.② 시공자가 제출한 준공검사원을 검토하여 계약대로 시공이 완료되었는지 여부를 확인하고 감독조서를 첨부하여 소속장에게 접수되도록 하여야 한다.③ 준공보고서 및 정산설계도서 등을 검토ㆍ확인하고 공사목적물이 관계관서장에게 차질없이 인계될 수 있도록 하여야 한다.④ 시공자가 준공표지판을 설치할 때에는 일반인이 보기 쉬운 곳에 영구적인 시설물로 준공표지를 설치토록 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공사감독자업무규정#JO0020_01"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "공사 준공후의 처리",
+        "chapter": "",
+        "content": "제21조(공사 준공후의 처리) ① 감독자는 당해 공사의 준공검사가 완료한 때에는 계약자에게 공사용 제반시설물의 철거ㆍ잔재의 반출ㆍ대여물의 반납 등과 공사장의 정돈 및 청소를 신속히 하게 하여야 한다.② 감독자는 전항의 조치가 완료한 때에는 당해 시설물을 관계관서장에게 인계하고, 그 결과를 소속장에게 보고하여야 한다.③ 감독자는 동 시설물을 인계ㆍ인수(별지 제18호 서식) 할 때에는 다음에 게재된 사항을 정확히 인계하여야 한다.1. 준공설계도서2. 동 시설물 사용법 및 작동요령 등의 유지관리지침3. 하자기간과 하자발생에 대한 조치방법4. 기타 참고사항④ 공사준공 후 관급자재의 잉여가 발생하였을 때에는 품명ㆍ수량 등을 조사하여 소속장에게 보고를 하여야 하며, 시공자로 하여금 지정장소에 반납하게 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제21조",
+            "source_clause": "제21조제3항",
+            "link_text": "별지 제18호 서식",
+            "line_text": "",
+            "target_law_name": "공사감독자 업무규정",
+            "target_article_no": "별지18",
+            "target_article_title": "시설물 인계인수서",
+            "appendix_no": "18",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164909",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0021",
+            "reference_id": "admrul:공사감독자업무규정#BJ0018"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공사감독자업무규정#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "업무인계인수",
+        "chapter": "",
+        "content": "제22조(업무인계인수) 감독자가 교체의 명을 받았을 때에는 현장에 비치된 서류ㆍ기구ㆍ자재와 공사전반에 관한 사항을 인계ㆍ인수하여야 하며, 그 사항을 소속장에게 보고하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공사감독자업무규정#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "복장착용",
+        "chapter": "",
+        "content": "제23조(복장착용) 공사현장에 근무하는 감독자는 별지 제19호 서식에 정한 감독자 복장을 착용하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제23조",
+            "source_clause": "제23조",
+            "link_text": "별지 제19호 서식",
+            "line_text": "",
+            "target_law_name": "공사감독자 업무규정",
+            "target_article_no": "별지19",
+            "target_article_title": "감독자 복장",
+            "appendix_no": "19",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164915",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0023",
+            "reference_id": "admrul:공사감독자업무규정#BJ0019"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공사감독자업무규정#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "업무요령",
+        "chapter": "",
+        "content": "제24조(업무요령) 감독자는 다음의 업무요령으로 근무하여야 한다.1. 전문분야 감독자는 소관 분야에 대하여 시공자에게 지시한 사항을 문서로 작성하고, 서명ㆍ날인하여 이를 총괄감독자에게 인계하여야 한다.2. 총괄감독자는 타 전문분야 감독업무를 수행함에 있어 소관 전문분야 감독자가 시공자에게 지시한 사항을 인계받아 이에 서명ㆍ날인 한 후 감독업무를 수행하여야 한다.3. 총괄감독자는 감독업무 수행 중 전문분야 감독자 부재 등으로 인하여 적기에 타 전문분야의 공사감독을 할 수 없는 경우에는 자기의 책임으로 타 전문분야 감독자의 업무를 처리하고 전문분야 감독자에게 통보하여야 한다.4. 타 전문분야 감독자는 시공자에 지시한 사항 및 총괄감독자 책임으로 시행한 전문분야 감독업무에 대하여 추후 그 이행여부를 확인하여야 한다.5. 전문분야 공사에 대한 기성부분검사, 설계변경 기타 시공자가 제출하는 문서는 반드시 총괄감독자를 경유하여 제출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공사감독자업무규정#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제25조(재검토기한) 법무부장관은「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령 훈령 제334호)에 따라 이 훈령에 대하여 2027년 07월 01일 기준으로 매년 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제25조",
+            "source_clause": "제25조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공사감독자업무규정#JO0025",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공사감독자업무규정#JO0025"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20090807",
+      "promulgation_no": "708",
+      "content": "부칙 <제708호,2009. 8. 7.>이 규정은 2009. 8. 7.부터 시행한다."
+    },
+    {
+      "promulgation_date": "20151230",
+      "promulgation_no": "1035",
+      "content": "부칙 <제1035호,2015. 12. 30.>이 규정은 2015. 12. 0.부터 시행한다."
+    },
+    {
+      "promulgation_date": "20180630",
+      "promulgation_no": "1162",
+      "content": "부칙 <제1162호,2018. 6. 30.>이 규칙은 2018년 07월 01일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20210915",
+      "promulgation_no": "1382",
+      "content": "부칙 <제1382호, 2021. 9. 15.>이 규칙은 2021년 09월 16일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20241104",
+      "promulgation_no": "1547",
+      "content": "부칙 <제1547호, 2024. 11. 4.>이 규칙은 2024년 11월 04일부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "공사감독자 청렴서약서",
+      "enforcement_date": "",
+      "content": "(별지 제1호 서식)\n공사감독자 청렴서약서\n본인은               공사의 공사감독자로서 긍지와 보람을 갖고, 법무시설조성사업을 성공적으로 수행하기 위하여 맡은 바 임무를 성실히 수행할 것을 다짐하면서 다음과 같이 서약합니다.\n1. 본인은 법령을 준수하고 창의적인 노력과 능동적인 자세로 소임을 완수한다.\n1. 본인은 정의의 실천자로서 부정의 발본에 앞장선다.\n1. 본인은 청렴한 법무행정 실천을 위해 어떠한 청탁이나 향응에도 응하지 않는다.\n20   .    .    .\n서약자 소속 :\n직급 :\n성명 :??\n( 소  속  장 )      귀  하",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164801",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164797",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164801",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:공사감독자업무규정#BJ0001",
+      "filename": "별지1_공사감독자 청렴서약서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "공사감독일지",
+      "enforcement_date": "",
+      "content": "(별지 제2호 서식)\n공사감독일지\n20   년   월   일     요일\n┌────────┬──┬┬────────┬─────────┐\n│공 사 명 :      │날씨││최고온도:     ℃│감독자:       ??│\n│                │    │├────────┤                  │\n│                │    ││최저온도:     ℃│                  │\n├────────┴──┴┴────────┴─────────┤\n│                                                              │\n│주요업무 :                                                    │\n│                                                              │\n│                                                              │\n├───────┬──────────────┬────────┤\n│구    분      │업     무     내      용    │비  고          │\n├───────┼──────────────┼────────┤\n│              │                            │                │\n├───────┼──────────────┴────────┤\n│수명사항      │                                              │\n├───────┼───────────────────────┤\n│지시사항      │                                              │\n├───────┼───────────────────────┤\n│특기?기타사항│                                              │\n└───────┴───────────────────────┘\n※ 작성기재요령\n1. 상단에 주요업무 요약하여 기재하여야함.\n2. 근무시간별로 검측?품질시험 및 행정 등 업무내용을 6하원칙에 따라 상세히 기록하여야함.\n3. 시공자가 작성한 공사작업일지를 별도 첨부하여야함.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164807",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164803",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164807",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:공사감독자업무규정#BJ0002",
+      "filename": "별지2_공사감독일지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "공사명령 및 지시사항부",
+      "enforcement_date": "",
+      "content": "(별지 제3호 서식)\n┌──────────────────────┐\n│                                            │\n│공사명령 및 지시사항부                      │\n│                                            │\n│                                            │\n│ ? 공사명 :                                │\n│20  .   .   .                               │\n├─────────┬────────────┤\n│명령 또는 지시사항│조     치     사     항 │\n│                  ├────┬───────┤\n│                  │일   시 │처  리  내  용│\n├─────────┼────┼───────┤\n│                  │        │              │\n└─────────┴────┴───────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164813",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164809",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164813",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:공사감독자업무규정#BJ0003",
+      "filename": "별지3_공사명령 및 지시사항부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "주요반입자재 검사부",
+      "enforcement_date": "",
+      "content": "(별지 제4호 서식)\n┌────────────────────────────────────────┐\n│                                                                                │\n│주요반입자재 검사부                                                             │\n│                                                                                │\n│? 공사명 :                                                                     │\n│   품 명 :                   규 격 :                                            │\n│                                                                                │\n├───┬────┬────┬────┬─────┬─────┬─────┬───┤\n│월 일 │설 계 량│반입수량│합격수량│불합격수량│반입자??│검수자??│적  요│\n├───┼────┼────┼────┼─────┼─────┼─────┼───┤\n│      │        │        │        │          │          │          │      │\n├───┼────┼────┼────┼─────┼─────┼─────┼───┤\n│      │        │        │        │          │          │          │      │\n├───┼────┼────┼────┼─────┼─────┼─────┼───┤\n│      │        │        │        │          │          │          │      │\n├───┼────┼────┼────┼─────┼─────┼─────┼───┤\n│      │        │        │        │          │          │          │      │\n├───┼────┼────┼────┼─────┼─────┼─────┼───┤\n│      │        │        │        │          │          │          │      │\n├───┼────┼────┼────┼─────┼─────┼─────┼───┤\n│      │        │        │        │          │          │          │      │\n├───┼────┼────┼────┼─────┼─────┼─────┼───┤\n│      │        │        │        │          │          │          │      │\n├───┼────┼────┼────┼─────┼─────┼─────┼───┤\n│      │        │        │        │          │          │          │      │\n├───┼────┼────┼────┼─────┼─────┼─────┼───┤\n│      │        │        │        │          │          │          │      │\n├───┼────┼────┼────┼─────┼─────┼─────┼───┤\n│      │        │        │        │          │          │          │      │\n├───┼────┼────┼────┼─────┼─────┼─────┼───┤\n│      │        │        │        │          │          │          │      │\n├───┼────┼────┼────┼─────┼─────┼─────┼───┤\n│      │        │        │        │          │          │          │      │\n├───┼────┼────┼────┼─────┼─────┼─────┼───┤\n│      │        │        │        │          │          │          │      │\n├───┼────┼────┼────┼─────┼─────┼─────┼───┤\n│      │        │        │        │          │          │          │      │\n├───┼────┼────┼────┼─────┼─────┼─────┼───┤\n│      │        │        │        │          │          │          │      │\n├───┼────┼────┼────┼─────┼─────┼─────┼───┤\n│      │        │        │        │          │          │          │      │\n├───┼────┼────┼────┼─────┼─────┼─────┼───┤\n│      │        │        │        │          │          │          │      │\n├───┼────┼────┼────┼─────┼─────┼─────┼───┤\n│      │        │        │        │          │          │          │      │\n├───┼────┼────┼────┼─────┼─────┼─────┼───┤\n│      │        │        │        │          │          │          │      │\n├───┼────┼────┼────┼─────┼─────┼─────┼───┤\n│      │        │        │        │          │          │          │      │\n└───┴────┴────┴────┴─────┴─────┴─────┴───┘\n※ ┌┐\n││\n└┘\n:  상란에는 금회, 아래란에는 누계.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164819",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164815",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164819",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:공사감독자업무규정#BJ0004",
+      "filename": "별지4_주요반입자재 검사부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별지",
+      "title": "관급자재출납부",
+      "enforcement_date": "",
+      "content": "(별지 제5호 서식)\n┌───────────────────────────────────┐\n│                                                                      │\n│관급자재출납부                                                        │\n│                                                                      │\n│? 공사명 :                                                           │\n│   품 명 :                   규 격 :                                  │\n│                                                                      │\n├──┬────┬───┬───┬───┬─────┬─────┬───┤\n│월일│설 계 량│인수량│출고량│잔  량│감독자??│수령자??│비  고│\n├──┼────┼───┼───┼───┼─────┼─────┼───┤\n│    │        │      │      │      │          │          │      │\n├──┼────┼───┼───┼───┼─────┼─────┼───┤\n│    │        │      │      │      │          │          │      │\n├──┼────┼───┼───┼───┼─────┼─────┼───┤\n│    │        │      │      │      │          │          │      │\n├──┼────┼───┼───┼───┼─────┼─────┼───┤\n│    │        │      │      │      │          │          │      │\n├──┼────┼───┼───┼───┼─────┼─────┼───┤\n│    │        │      │      │      │          │          │      │\n├──┼────┼───┼───┼───┼─────┼─────┼───┤\n│    │        │      │      │      │          │          │      │\n├──┼────┼───┼───┼───┼─────┼─────┼───┤\n│    │        │      │      │      │          │          │      │\n├──┼────┼───┼───┼───┼─────┼─────┼───┤\n│    │        │      │      │      │          │          │      │\n├──┼────┼───┼───┼───┼─────┼─────┼───┤\n│    │        │      │      │      │          │          │      │\n├──┼────┼───┼───┼───┼─────┼─────┼───┤\n│    │        │      │      │      │          │          │      │\n├──┼────┼───┼───┼───┼─────┼─────┼───┤\n│    │        │      │      │      │          │          │      │\n├──┼────┼───┼───┼───┼─────┼─────┼───┤\n│    │        │      │      │      │          │          │      │\n├──┼────┼───┼───┼───┼─────┼─────┼───┤\n│    │        │      │      │      │          │          │      │\n├──┼────┼───┼───┼───┼─────┼─────┼───┤\n│    │        │      │      │      │          │          │      │\n├──┼────┼───┼───┼───┼─────┼─────┼───┤\n│    │        │      │      │      │          │          │      │\n├──┼────┼───┼───┼───┼─────┼─────┼───┤\n│    │        │      │      │      │          │          │      │\n├──┼────┼───┼───┼───┼─────┼─────┼───┤\n│    │        │      │      │      │          │          │      │\n├──┼────┼───┼───┼───┼─────┼─────┼───┤\n│    │        │      │      │      │          │          │      │\n├──┼────┼───┼───┼───┼─────┼─────┼───┤\n│    │        │      │      │      │          │          │      │\n├──┼────┼───┼───┼───┼─────┼─────┼───┤\n│    │        │      │      │      │          │          │      │\n└──┴────┴───┴───┴───┴─────┴─────┴───┘\n※ ┌┐\n││\n└┘\n:  상란에는 금회, 아래란에는 누계.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164825",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164821",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164825",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:공사감독자업무규정#BJ0005",
+      "filename": "별지5_관급자재출납부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별지",
+      "title": "발생품(잉여자재)정리부",
+      "enforcement_date": "",
+      "content": "(별지 제6호 서식)\n┌─────────────────────────────────────────────┐\n│                                                                                          │\n│발생품(잉여자재)정리부                                                                    │\n│                                                                                          │\n│? 공사명 :                                                                               │\n│                                                                                          │\n├───┬────┬───┬───┬─────────┬────┬─────────┬───┤\n│발생  │품   명 │규  격│단 위 │수    량          │발생사유│보관사항          │비 고 │\n│년월일│        │      │      ├────┬────┤        │(발주기관인계여부)│      │\n│      │        │      │      │사용가능│사용불가│        │                  │      │\n├───┼────┼───┼───┼────┼────┼────┼─────────┼───┤\n│      │        │      │      │        │        │        │                  │      │\n├───┼────┼───┼───┼────┼────┼────┼─────────┼───┤\n│      │        │      │      │        │        │        │                  │      │\n├───┼────┼───┼───┼────┼────┼────┼─────────┼───┤\n│      │        │      │      │        │        │        │                  │      │\n├───┼────┼───┼───┼────┼────┼────┼─────────┼───┤\n│      │        │      │      │        │        │        │                  │      │\n├───┼────┼───┼───┼────┼────┼────┼─────────┼───┤\n│      │        │      │      │        │        │        │                  │      │\n├───┼────┼───┼───┼────┼────┼────┼─────────┼───┤\n│      │        │      │      │        │        │        │                  │      │\n├───┼────┼───┼───┼────┼────┼────┼─────────┼───┤\n│      │        │      │      │        │        │        │                  │      │\n├───┼────┼───┼───┼────┼────┼────┼─────────┼───┤\n│      │        │      │      │        │        │        │                  │      │\n├───┼────┼───┼───┼────┼────┼────┼─────────┼───┤\n│      │        │      │      │        │        │        │                  │      │\n├───┼────┼───┼───┼────┼────┼────┼─────────┼───┤\n│      │        │      │      │        │        │        │                  │      │\n├───┼────┼───┼───┼────┼────┼────┼─────────┼───┤\n│      │        │      │      │        │        │        │                  │      │\n├───┼────┼───┼───┼────┼────┼────┼─────────┼───┤\n│      │        │      │      │        │        │        │                  │      │\n├───┼────┼───┼───┼────┼────┼────┼─────────┼───┤\n│      │        │      │      │        │        │        │                  │      │\n├───┼────┼───┼───┼────┼────┼────┼─────────┼───┤\n│      │        │      │      │        │        │        │                  │      │\n├───┼────┼───┼───┼────┼────┼────┼─────────┼───┤\n│      │        │      │      │        │        │        │                  │      │\n├───┼────┼───┼───┼────┼────┼────┼─────────┼───┤\n│      │        │      │      │        │        │        │                  │      │\n├───┼────┼───┼───┼────┼────┼────┼─────────┼───┤\n│      │        │      │      │        │        │        │                  │      │\n└───┴────┴───┴───┴────┴────┴────┴─────────┴───┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164831",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164827",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164831",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:공사감독자업무규정#BJ0006",
+      "filename": "별지6_발생품(잉여자재)정리부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "별지",
+      "title": "공사추진상황보고",
+      "enforcement_date": "",
+      "content": "(별지 제7호 서식)\n공사추진상황보고\n수  신 :\n참  조 :\n공사명 :\n(     ) 월 공사추진상황을 다음과 같이 보고합니다.\n20   .   .   .   현재\n┌─────────┬─────────┬────────┬───────┬──────────┐\n│                  │계약금액 :        │착공일 :        │준공예정일 :  │감독자 :        ??│\n├────┬────┼─────┬───┼───┬────┼───┬───┼─┬────────┤\n│공종    │가설공사│          │      │      │        │      │      │  │                │\n│구 분   │        │          │      │      │        │      │      │  │                │\n├────┼────┼─────┼───┼───┼────┼───┼───┼─┼────────┤\n│건축공사│        │          │      │      │        │      │      │  │                │\n│(     %)│        │          │      │      │        │      │      │  │                │\n├────┼────┼─────┼───┼───┼────┼───┼───┼─┼────────┤\n│?      │        │          │      │      │        │      │      │  │                │\n├────┼────┼─────┼───┼───┼────┼───┼───┼─┼────────┤\n│?      │        │          │      │      │        │      │      │  │                │\n├────┼────┼─────┼───┼───┼────┼───┼───┼─┼────────┤\n│?      │        │          │      │      │        │      │      │  │                │\n├────┼────┴┬─┬──┴┬──┴┬──┴───┬┴──┬┴──┬┴┬┴┬───────┤\n│총공정  │월        │  │      │      │            │      │      │  │  │비고          │\n│진  도  ├─────┼─┼───┼───┼──────┼───┼───┼─┼─┼───────┤\n│(%)     │예정(%)   │  │      │      │            │      │      │  │  │              │\n│        ├─────┼─┼───┼───┼──────┼───┼───┼─┼─┤              │\n│        │실시(%)   │  │      │      │            │      │      │  │  │              │\n├──┬─┴─┬───┴┬┴─┬─┴─┬─┴─┬───┬┴──┬┴──┬┴─┴─┴───────┤\n│관급│품 명 │규격    │단위│관급량│반입량│사용량│잔 량 │비 고 │ 금월실시사항           │\n│자재├───┼────┼──┼───┼───┼───┼───┼───┤                        │\n│출납│시멘트│        │대  │      │      │      │      │      │                        │\n│현황├───┼────┼──┼───┼───┼───┼───┼───┤                        │\n│    │철  근│        │톤  │      │      │      │      │      │                        │\n│    ├───┼────┼──┼───┼───┼───┼───┼───┤                        │\n│    │레미콘│        │    │      │      │      │      │      │                        │\n│    ├───┼────┼──┼───┼───┼───┼───┼───┤                        │\n│    │기  타│        │    │      │      │      │      │      │                        │\n├──┴───┴────┴──┴───┴───┴───┴───┴───┴────────────┤\n│ 품질시험 검사?실적 :  붙 임 (별지 제11호 서식)                                              │\n└───────────────────────────────────────────────┘\n※ 작성요령\n1. ┌┐\n││\n└┘\n: 상란에는 보할, 아래란에는 실적을 기재하여야함.\n2. 구분사항의 건축?토목?기계?전기?통신란의 (    )안에 합계 100%에 대한 각각의 보할(%)을 기재하여야함.\n3. 관급자재 출납현황의 관급량은 규격별로 분류하지 않고 품명별 합계량을 기재하여야함.\n4. 현장 여건에 따라 조정 가능함.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164837",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164833",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164837",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:공사감독자업무규정#BJ0007",
+      "filename": "별지7_공사추진상황보고.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0008",
+      "branch": "00",
+      "kind": "별지",
+      "title": "품질시험계획",
+      "enforcement_date": "",
+      "content": "(별지 제8호 서식)\n품 질 시 험 계 획\n1. 개    요\n가. 공사명\n나. 시공자\n다. 현장대리인\n2. 시험계획회수\n가. 공  종\n나. 시험종목\n다. 시험계획물량\n라. 시험빈도\n마. 계획시험회수\n바. 기  타\n3. 시험시설\n가. 장비명\n나. 규  격\n다. 단  위\n라. 수  량\n마. 시험실배치평면도\n바. 기  타\n4. 시험인력배치계획\n가. 성  명\n나. 등  급\n다. 품질관리업무수행기간\n라. 기술인자격 및 학ㆍ경력사항\n마. 기  타",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164843",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164839",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164843",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:공사감독자업무규정#BJ0008",
+      "filename": "별지8_품질시험계획.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0009",
+      "branch": "00",
+      "kind": "별지",
+      "title": "품질시험·검사대장",
+      "enforcement_date": "",
+      "content": "(별지 제9호 서식)\n품질시험ㆍ검사대장\n┌────┬───┬─────┬───┬─────┬────┬─────┬─────┐\n│일련번호│년월일│시험?검사│재  료│시험?검사│시험성과│시험?    │감독자??│\n│        │      │구    분  │      │항    목  │        │검사자??│          │\n├────┼───┼─────┼───┼─────┼────┼─────┼─────┤\n│        │      │          │      │          │        │          │          │\n├────┼───┼─────┼───┼─────┼────┼─────┼─────┤\n│        │      │          │      │          │        │          │          │\n├────┼───┼─────┼───┼─────┼────┼─────┼─────┤\n│        │      │          │      │          │        │          │          │\n├────┼───┼─────┼───┼─────┼────┼─────┼─────┤\n│        │      │          │      │          │        │          │          │\n├────┼───┼─────┼───┼─────┼────┼─────┼─────┤\n│        │      │          │      │          │        │          │          │\n├────┼───┼─────┼───┼─────┼────┼─────┼─────┤\n│        │      │          │      │          │        │          │          │\n├────┼───┼─────┼───┼─────┼────┼─────┼─────┤\n│        │      │          │      │          │        │          │          │\n├────┼───┼─────┼───┼─────┼────┼─────┼─────┤\n│        │      │          │      │          │        │          │          │\n├────┼───┼─────┼───┼─────┼────┼─────┼─────┤\n│        │      │          │      │          │        │          │          │\n├────┼───┼─────┼───┼─────┼────┼─────┼─────┤\n│        │      │          │      │          │        │          │          │\n├────┼───┼─────┼───┼─────┼────┼─────┼─────┤\n│        │      │          │      │          │        │          │          │\n├────┼───┼─────┼───┼─────┼────┼─────┼─────┤\n│        │      │          │      │          │        │          │          │\n├────┼───┼─────┼───┼─────┼────┼─────┼─────┤\n│        │      │          │      │          │        │          │          │\n├────┼───┼─────┼───┼─────┼────┼─────┼─────┤\n│        │      │          │      │          │        │          │          │\n├────┼───┼─────┼───┼─────┼────┼─────┼─────┤\n│        │      │          │      │          │        │          │          │\n├────┼───┼─────┼───┼─────┼────┼─────┼─────┤\n│        │      │          │      │          │        │          │          │\n├────┼───┼─────┼───┼─────┼────┼─────┼─────┤\n│        │      │          │      │          │        │          │          │\n├────┼───┼─────┼───┼─────┼────┼─────┼─────┤\n│        │      │          │      │          │        │          │          │\n├────┼───┼─────┼───┼─────┼────┼─────┼─────┤\n│        │      │          │      │          │        │          │          │\n├────┼───┼─────┼───┼─────┼────┼─────┼─────┤\n│        │      │          │      │          │        │          │          │\n├────┼───┼─────┼───┼─────┼────┼─────┼─────┤\n│        │      │          │      │          │        │          │          │\n├────┼───┼─────┼───┼─────┼────┼─────┼─────┤\n│        │      │          │      │          │        │          │          │\n├────┼───┼─────┼───┼─────┼────┼─────┼─────┤\n│        │      │          │      │          │        │          │          │\n├────┼───┼─────┼───┼─────┼────┼─────┼─────┤\n│        │      │          │      │          │        │          │          │\n└────┴───┴─────┴───┴─────┴────┴─────┴─────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164849",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164845",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164849",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:공사감독자업무규정#BJ0009",
+      "filename": "별지9_품질시험·검사대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0010",
+      "branch": "00",
+      "kind": "별지",
+      "title": "품질시험·검사성과 총괄표",
+      "enforcement_date": "",
+      "content": "(별지 제10호 서식)\n품질시험ㆍ검사성과 총괄표\n공사명 :                   공사기간 :   .   .   . ～  .   .   .     공정 :      %\n┌───┬──────────┬────────────────┬──┐\n│공  종│시험?검사종류(재료)│시험?검사 회수                 │비고│\n│      │                    ├──┬──┬──┬───┬───┤    │\n│      │                    │계획│실시│합격│불합격│재시험│    │\n├───┼──────────┼──┼──┼──┼───┼───┼──┤\n│      │                    │    │    │    │      │      │    │\n├───┼──────────┼──┼──┼──┼───┼───┼──┤\n│      │                    │    │    │    │      │      │    │\n├───┼──────────┼──┼──┼──┼───┼───┼──┤\n│      │                    │    │    │    │      │      │    │\n├───┼──────────┼──┼──┼──┼───┼───┼──┤\n│      │                    │    │    │    │      │      │    │\n├───┼──────────┼──┼──┼──┼───┼───┼──┤\n│      │                    │    │    │    │      │      │    │\n├───┼──────────┼──┼──┼──┼───┼───┼──┤\n│      │                    │    │    │    │      │      │    │\n├───┼──────────┼──┼──┼──┼───┼───┼──┤\n│      │                    │    │    │    │      │      │    │\n├───┼──────────┼──┼──┼──┼───┼───┼──┤\n│      │                    │    │    │    │      │      │    │\n├───┼──────────┼──┼──┼──┼───┼───┼──┤\n│      │                    │    │    │    │      │      │    │\n├───┼──────────┼──┼──┼──┼───┼───┼──┤\n│      │                    │    │    │    │      │      │    │\n├───┼──────────┼──┼──┼──┼───┼───┼──┤\n│      │                    │    │    │    │      │      │    │\n├───┼──────────┼──┼──┼──┼───┼───┼──┤\n│      │                    │    │    │    │      │      │    │\n├───┼──────────┼──┼──┼──┼───┼───┼──┤\n│      │                    │    │    │    │      │      │    │\n├───┼──────────┼──┼──┼──┼───┼───┼──┤\n│      │                    │    │    │    │      │      │    │\n├───┼──────────┼──┼──┼──┼───┼───┼──┤\n│      │                    │    │    │    │      │      │    │\n├───┼──────────┼──┼──┼──┼───┼───┼──┤\n│      │                    │    │    │    │      │      │    │\n├───┼──────────┼──┼──┼──┼───┼───┼──┤\n│      │                    │    │    │    │      │      │    │\n├───┼──────────┼──┼──┼──┼───┼───┼──┤\n│      │                    │    │    │    │      │      │    │\n├───┼──────────┼──┼──┼──┼───┼───┼──┤\n│      │                    │    │    │    │      │      │    │\n├───┼──────────┼──┼──┼──┼───┼───┼──┤\n│      │                    │    │    │    │      │      │    │\n└───┴──────────┴──┴──┴──┴───┴───┴──┘\n작성일시 :      년    월    일\n작 성 자 :소속 :직위 :\n성명 :(서명 또는 인)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164855",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164851",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164855",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:공사감독자업무규정#BJ0010",
+      "filename": "별지10_품질시험·검사성과 총괄표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0011",
+      "branch": "00",
+      "kind": "별지",
+      "title": "품질시험·검사실적보고서",
+      "enforcement_date": "",
+      "content": "(별지 제11호 서식)\n품질시험ㆍ검사실적보고서(   월분)\n┌───┬──┬──┬────────────┬────────────┬────────────┐\n│공 종 │시험│계획│전월까지 시험?검사회수 │금월 시험?검사회수     │누계 시험?검사회수     │\n│      │검사│시험├──┬──┬──┬───┼──┬──┬──┬───┼──┬──┬──┬───┤\n│      │종목│검사│실시│합격│불  │재    │실시│합격│불  │재    │실시│합격│불  │재    │\n│      │    │회수│    │    │합격│시험검│    │    │합격│시험검│    │    │합격│시험검│\n│      │    │    │    │    │    │사    │    │    │    │사    │    │    │    │사    │\n├───┼──┼──┼──┼──┼──┼───┼──┼──┼──┼───┼──┼──┼──┼───┤\n│      │    │    │    │    │    │      │    │    │    │      │    │    │    │      │\n├───┼──┼──┼──┼──┼──┼───┼──┼──┼──┼───┼──┼──┼──┼───┤\n│      │    │    │    │    │    │      │    │    │    │      │    │    │    │      │\n├───┼──┼──┼──┼──┼──┼───┼──┼──┼──┼───┼──┼──┼──┼───┤\n│      │    │    │    │    │    │      │    │    │    │      │    │    │    │      │\n├───┼──┼──┼──┼──┼──┼───┼──┼──┼──┼───┼──┼──┼──┼───┤\n│      │    │    │    │    │    │      │    │    │    │      │    │    │    │      │\n├───┼──┼──┼──┼──┼──┼───┼──┼──┼──┼───┼──┼──┼──┼───┤\n│      │    │    │    │    │    │      │    │    │    │      │    │    │    │      │\n├───┼──┼──┼──┼──┼──┼───┼──┼──┼──┼───┼──┼──┼──┼───┤\n│      │    │    │    │    │    │      │    │    │    │      │    │    │    │      │\n├───┼──┼──┼──┼──┼──┼───┼──┼──┼──┼───┼──┼──┼──┼───┤\n│      │    │    │    │    │    │      │    │    │    │      │    │    │    │      │\n├───┼──┼──┼──┼──┼──┼───┼──┼──┼──┼───┼──┼──┼──┼───┤\n│      │    │    │    │    │    │      │    │    │    │      │    │    │    │      │\n├───┼──┼──┼──┼──┼──┼───┼──┼──┼──┼───┼──┼──┼──┼───┤\n│      │    │    │    │    │    │      │    │    │    │      │    │    │    │      │\n├───┼──┼──┼──┼──┼──┼───┼──┼──┼──┼───┼──┼──┼──┼───┤\n│      │    │    │    │    │    │      │    │    │    │      │    │    │    │      │\n├───┼──┼──┼──┼──┼──┼───┼──┼──┼──┼───┼──┼──┼──┼───┤\n│      │    │    │    │    │    │      │    │    │    │      │    │    │    │      │\n├───┼──┼──┼──┼──┼──┼───┼──┼──┼──┼───┼──┼──┼──┼───┤\n│      │    │    │    │    │    │      │    │    │    │      │    │    │    │      │\n├───┼──┼──┼──┼──┼──┼───┼──┼──┼──┼───┼──┼──┼──┼───┤\n│      │    │    │    │    │    │      │    │    │    │      │    │    │    │      │\n├───┼──┼──┼──┼──┼──┼───┼──┼──┼──┼───┼──┼──┼──┼───┤\n│      │    │    │    │    │    │      │    │    │    │      │    │    │    │      │\n├───┼──┼──┼──┼──┼──┼───┼──┼──┼──┼───┼──┼──┼──┼───┤\n│      │    │    │    │    │    │      │    │    │    │      │    │    │    │      │\n├───┼──┼──┼──┼──┼──┼───┼──┼──┼──┼───┼──┼──┼──┼───┤\n│      │    │    │    │    │    │      │    │    │    │      │    │    │    │      │\n├───┼──┼──┼──┼──┼──┼───┼──┼──┼──┼───┼──┼──┼──┼───┤\n│      │    │    │    │    │    │      │    │    │    │      │    │    │    │      │\n├───┼──┼──┼──┼──┼──┼───┼──┼──┼──┼───┼──┼──┼──┼───┤\n│      │    │    │    │    │    │      │    │    │    │      │    │    │    │      │\n├───┼──┼──┼──┼──┼──┼───┼──┼──┼──┼───┼──┼──┼──┼───┤\n│      │    │    │    │    │    │      │    │    │    │      │    │    │    │      │\n├───┼──┼──┼──┼──┼──┼───┼──┼──┼──┼───┼──┼──┼──┼───┤\n│      │    │    │    │    │    │      │    │    │    │      │    │    │    │      │\n├───┼──┼──┼──┼──┼──┼───┼──┼──┼──┼───┼──┼──┼──┼───┤\n│      │    │    │    │    │    │      │    │    │    │      │    │    │    │      │\n├───┼──┼──┼──┼──┼──┼───┼──┼──┼──┼───┼──┼──┼──┼───┤\n│      │    │    │    │    │    │      │    │    │    │      │    │    │    │      │\n├───┼──┼──┼──┼──┼──┼───┼──┼──┼──┼───┼──┼──┼──┼───┤\n│      │    │    │    │    │    │      │    │    │    │      │    │    │    │      │\n└───┴──┴──┴──┴──┴──┴───┴──┴──┴──┴───┴──┴──┴──┴───┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164861",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164857",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164861",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:공사감독자업무규정#BJ0011",
+      "filename": "별지11_품질시험·검사실적보고서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0012",
+      "branch": "00",
+      "kind": "별지",
+      "title": "현장교육실적부",
+      "enforcement_date": "",
+      "content": "(별지 제12호 서식)\n┌───────────────────────────────────────┐\n│현장교육실적부                                                                │\n├───┬─────┬───┬────────┬────┬────┬──────┤\n│일  자│교육담당자│소  속│참  석  자      │생년월일│교육내용│비  고      │\n├───┼─────┼───┼────────┼────┼────┼──────┤\n│      │          │      │※ 참석자가 많  │        │        │            │\n│      │          │      │을 경우에는 별  │        │        │            │\n│      │          │      │지로 작성할 수  │        │        │            │\n│      │          │      │있습니다.       │        │        │            │\n│      │          │      │                │        │        │            │\n│      │          │      │                │        │        │            │\n├───┴─────┴───┴────────┴────┴────┴──────┤\n│                                                                              │\n│ ※ 작성요령                                                                  │\n│1. 현장 사무실에 집결하여 실시하고, 그 실적을 기록?비치하여야함.             │\n│2. 원?하도급자를 포함한 기능공?인부 등 모든 현장 근무직원을 교육대상으로함. │\n│3. 교육담당자를 미리 지정하여야함.                                            │\n│4. 교육내용란에는 다음과 같이 주요내용을 기재하여야함.                        │\n│  - 전일 또는 전주 시공결과에 대한 분석 및 평가                               │\n│  - 금일 또는 금주 공정계획상 부실요인 등 분석 및 토의                        │\n│  - 하도급자의 건의사항에 대한 해결책 강구                                    │\n│  - 기타 필요한 사항에 대한 토의 등                                           │\n│5. 대표적인 교육광경은 사진 촬영하여 별지에 붙여 첨부하여야함.                │\n│6. 일상교육인 경우에는 참석자란에 참석인원수만 기재하고, 비고란에             │\n│   “일상교육”으로 기재하여야함.                                             │\n│                                                                              │\n└───────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164867",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164863",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164867",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:공사감독자업무규정#BJ0012",
+      "filename": "별지12_현장교육실적부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0013",
+      "branch": "00",
+      "kind": "별지",
+      "title": "구조물부위별 사용 콘크리트종류 기록서",
+      "enforcement_date": "",
+      "content": "(별지 제13호 서식)\n┌──────────────────────────────────────────┐\n│                                                                                    │\n│구조물부위별 사용 콘크리트종류 기록서                                               │\n│                                                                                    │\n├────┬────┬────┬────┬────┬───┬────┬────┬───┤\n│타설일자│구조물명│타설부위│타설방법│타설시간│타설시│콘크리트│실  측  │비  고│\n│        │        │        │        │        │기  온│종  류  │슬럼프치│      │\n├────┼────┼────┼────┼────┼───┼────┼────┼───┤\n│        │        │        │        │        │      │        │        │      │\n├────┴────┴────┴────┴────┴───┴────┴────┴───┤\n│                                                                                    │\n│ ※ 작성요령                                                                        │\n│1. 타설방법은 믹서트럭에서 직접 받아 타설하는 경우에는 “직접타설”, 펌프           │\n│카로 타설하는 경우에는 “펌프카”, 압송관으로 타설하는 경우에는 “압송관”으        │\n│로 기재하여야함.                                                                    │\n│2. 콘크리트종류는 “굵은골재의 최대치수 - 호칭강도 - 슬럼프”의 순으로 기재합       │\n│니다.                                                                               │\n│   (예)  25 - 210 - 8                                                               │\n│3. 현장배치 플랜트를 설치?사용하는 경우에는 비고란에 “현장B/P”로                 │\n│   기재하여야함.                                                                    │\n│4. 비고란에는 레미콘납품서의 번호를 기재하여야함.                                   │\n└──────────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164873",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164869",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164873",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:공사감독자업무규정#BJ0013",
+      "filename": "별지13_구조물부위별 사용 콘크리트종류 기록서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0014",
+      "branch": "00",
+      "kind": "별지",
+      "title": "공사작업일지",
+      "enforcement_date": "",
+      "content": "(별지 제14호 서식)\n공 사 작 업 일 지\nㆍ 공사명 :\nㆍ 일  자 : 20   .   .   .    요일\nㆍ 날 씨 :        기온(최고)(최저)\nㆍ 작성자 :  현장대리인??\nㆍ 확인자 :  감  독  자??\n1. 공사추진상황\n┌────┬──┬───┬───────┬─────┬─────┬──┐\n│공   종 │단위│설계량│전일까지작업량│금일작업량│누계작업량│비고│\n├────┼──┼───┼───────┼─────┼─────┼──┤\n│        │    │      │              │          │          │    │\n├────┼──┼───┼───────┼─────┼─────┼──┤\n│        │    │      │              │          │          │    │\n├────┼──┼───┼───────┼─────┼─────┼──┤\n│        │    │      │              │          │          │    │\n│              │                      │                      │\n│              │                      │                      │\n\n2. 장비투입상황\n┌────┬───┬────┬──┬──┰────┬───┬────┬──┬──┐\n│장비명  │규  격│전일까지│금일│누계┃장비명  │규  격│전일까지│금일│누계│\n│        │      │투  입  │투입│투입┃        │      │투  입  │투입│투입│\n├────┼───┼────┼──┼──╂────┼───┼────┼──┼──┤\n│        │      │        │    │    ┃        │      │        │    │    │\n├────┼───┼────┼──┼──╂────┼───┼────┼──┼──┤\n│        │      │        │    │    ┃        │      │        │    │    │\n├────┼───┼────┼──┼──╂────┼───┼────┼──┼──┤\n│        │      │        │    │    ┃        │      │        │    │    │\n│                │              │              │                │          │\n│                │              │              │                │          │\n\n3. 인력투입상황\n┌────┬────────┬──────┬──────┬────┐\n│구    분│전일까지투입인원│금일투입인원│누계투입인원│비   고 │\n├────┼────────┼──────┼──────┼────┤\n│보통인부│                │            │            │        │\n├────┼────────┼──────┼──────┼────┤\n│특별인부│                │            │            │        │\n├────┼────────┼──────┼──────┼────┤\n│        │                │            │            │        │\n│                          │                          │\n│                          │                          │\n\n4. 주요작업 참여자명단(작업반장급 이상)\n┌────┬────┬────┬─────┬────┬────┐\n│공    종│성    명│직   명 │소     속 │자   격 │비   고 │\n├────┼────┼────┼─────┼────┼────┤\n│        │        │        │          │        │        │\n├────┼────┼────┼─────┼────┼────┤\n│        │        │        │          │        │        │\n├────┼────┼────┼─────┼────┼────┤\n│        │        │        │          │        │        │\n│                  │                    │                  │\n│                  │                    │                  │\n\n※ 현장여건에 따라 조정 가능함.\n※ 작업참여자 명단은 제19조의 3 제6호 공사실명제 규정에 의함.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164879",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164875",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164879",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:공사감독자업무규정#BJ0014",
+      "filename": "별지14_공사작업일지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0014",
+      "branch": "01",
+      "kind": "별지",
+      "title": "공사 참여자(기능공 포함) 실명부",
+      "enforcement_date": "",
+      "content": "(별지 제14-1호 서식)\n공사 참여자(기능공 포함) 실명부\nㆍ 공사명 :\n┏━━━┯━━━━┯━━━┯━━━┯━━━┯━━━━┯━━━┯━━━┓\n┃작업일│작업위치│소  속│직 위 │성  명│생년월일│공사한│서 명 ┃\n┃      │및 공종 │      │      │      │        │내  용│      ┃\n┣━━━┿━━━━┿━━━┿━━━┿━━━┿━━━━┿━━━┿━━━┫\n┃      │        │      │      │      │        │      │      ┃\n┗━━━┷━━━━┷━━━┷━━━┷━━━┷━━━━┷━━━┷━━━┛\n주) ① 직위란에는 공사관리, 형틀 또는 철근 작업반장, 목수, 철근공, 콘크리트공, 특별인부, 보통인부 등으로 구분하여 작성\n② 공사한 내용란에\n- 형틀의 경우 : 공사관리, 작업총괄, 자재운반, 거푸집 및 동바리 제작, 거푸집 및 동바리 조립, 박리제 도포 등으로 구분 작성하고\n- 철근의 경우 : 가공, 현장 운반, 조립, 청소 등으로 구분하여 작성하며\n- 기타 공종도 무슨 일을 하였는지 구분하여 작성함",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164885",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164881",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164885",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:공사감독자업무규정#BJ0014_01",
+      "filename": "별지14의1_공사 참여자(기능공 포함) 실명부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0015",
+      "branch": "00",
+      "kind": "별지",
+      "title": "설계변경요청서",
+      "enforcement_date": "",
+      "content": "(별지 제15호 서식)\n┌──────────────────────────────┐\n│                                                            │\n│설계변경요청서                                              │\n│0 0 0  공사의 설계 및 시방서 내역 중 아래와 같은 사유로 설계│\n│변경하고자 하오니 승인하여 주시기 바랍니다.                 │\n│                                                            │\n│20   .    .    .                                            │\n│                                                            │\n│감독자 :??                                                │\n│                                                            │\n├──────┬───────────────────────┤\n│공        종│                                              │\n├──────┼───────────────────────┤\n│설계변경내용│                                              │\n├──────┼───────────────────────┤\n│설 계  변 경│                                              │\n│사유 및 근거│                                              │\n├──────┼───────────────────────┤\n│개  산  액  │                                              │\n├──────┼───────────────────────┤\n│준공기한    │                                              │\n│연장 또는   │                                              │\n│단축여부    │                                              │\n├──────┼───────────────────────┤\n│감독자      │                                              │\n│의견        │                                              │\n├──────┼───────────────────────┤\n│기타        │                                              │\n│특기사항    │                                              │\n├──────┼───────────────────────┤\n│첨   부   물│                                              │\n└──────┴───────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164891",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164887",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164891",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:공사감독자업무규정#BJ0015",
+      "filename": "별지15_설계변경요청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0016",
+      "branch": "00",
+      "kind": "별지",
+      "title": "공사기성부분검사원",
+      "enforcement_date": "",
+      "content": "(별지 제16호 서식)\n공사기성부분검사원(제   회)\n감독자  경유??\n1. 공  사  명 :\n2. 위      치 :\n3. 계 약 금 액 :\n4. 계약년월일 :\n5. 착공년월일 :\n6. 준 공 기 한 :\n7. 현 재 공 정 :       .    .    .현재          %\n8. 첨 부 서 류 :  기성공정내역서, 기성부분사진\n위 공사의 도급시행에 있어서 공사전반에 걸쳐 공사설계도서, 품질관리기준 및 기타 약정대로 어김없이 기성되었음을 확인하오며, 만약 공사의 시공, 감독 및 검사에 관하여 하자가 발견될 시는 즉시 변상 또는 재시공할 것을 서약하고 이에 기성검사원을 제출하오니 검사하여 주시기 바랍니다.\n20   .     .     .\n주 소 :\n상 호 :\n성 명 :               (인)\n법무부장관 귀 하",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164897",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164893",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164897",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:공사감독자업무규정#BJ0016",
+      "filename": "별지16_공사기성부분검사원.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0017",
+      "branch": "00",
+      "kind": "별지",
+      "title": "준공검사원",
+      "enforcement_date": "",
+      "content": "(별지 제17호 서식)\n준 공 검 사 원\n감독자 경유??\n1. 공  사  명 :\n2. 위      치 :\n3. 계 약 금 액 :\n4. 계약년월일 :\n5. 착공년월일 :\n6. 준 공 기 한 :\n7. 실지준공년월일 :\n8. 첨 부 서 류 :  준공내역서, 준공사진\n위 공사의 도급시행에 있어서 공사전반에 걸쳐 공사설계도서, 품질관리기준 및 기타 약정대로 어김없이 준공되었음을 확인하오며, 만약 공사의 시공, 감독 및 검사에 관하여 하자가 발견될 시는 즉시 실액 변상 또는 재시공할 것을 서약하고 이에 준공검사원을 제출합니다.\n20   .     .     .\n주 소 :\n상 호 :\n성 명 :               (인)\n법무부장관 귀 하",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164903",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164899",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164903",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:공사감독자업무규정#BJ0017",
+      "filename": "별지17_준공검사원.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0018",
+      "branch": "00",
+      "kind": "별지",
+      "title": "시설물 인계인수서",
+      "enforcement_date": "",
+      "content": "(별지 제18호 서식)\n시설물 인계인수서\n1. 공사명 :\n┌───┬───┬──┬──────┬──┬───┬─────────┬───┐\n│사업별│종  목│세  │구조 및 세부│단  │수 량 │중요부품 부착내역 │비 고 │\n│      │      │목  │            │위  │      │                  │      │\n├───┼───┼──┼──────┼──┼───┼─────────┼───┤\n│      │      │    │            │    │      │                  │      │\n└───┴───┴──┴──────┴──┴───┴─────────┴───┘\n2. 기타 인계사항\n위와 같이 인계ㆍ인수함.\n20   .    .    .\n인계자소 속 :\n직 급 :\n성 명 :??\n인수자소 속 :\n직 급 :\n성 명 :??",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164909",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164905",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164909",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:공사감독자업무규정#BJ0018",
+      "filename": "별지18_시설물 인계인수서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0019",
+      "branch": "00",
+      "kind": "별지",
+      "title": "감독자 복장",
+      "enforcement_date": "",
+      "content": "(별지 제19호 서식)\n감 독 자  복 장\n┌────┬──────┬──────┬───────┐\n│구    분│동     기   │하     기   │비      고    │\n├────┼──────┼──────┼───────┤\n│상    의│잠    바    │남    방    │              │\n├────┼──────┼──────┼───────┤\n│모    자│안 전 모    │안 전 모    │              │\n├────┼──────┼──────┼───────┤\n│헬    멧│규격참조    │규격참조    │              │\n├────┼──────┼──────┼───────┤\n│명    찰│가로 :  7㎝ │가로 :  7㎝ │상의좌측 부착 │\n│        │세로 :  3㎝ │세로 :  3㎝ │              │\n├────┼──────┼──────┼───────┤\n│작 업 화│안 전 화    │안 전 화    │              │\n└────┴──────┴──────┴───────┘\n\n1. 안전모 규격  2. 명찰 규격\n\n\n│7㎝               │\n┢━━━━━━━━━╅───\n┃ 공     사     명 ┃ 3㎝\n┃                  ┃\n┃감독자 :  홍 길 동┃\n┗━━━━━━━━━┹───\n백색 바탕, 흑색 글씨\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164915",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164911",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145164915",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:공사감독자업무규정#BJ0019",
+      "filename": "별지19_감독자 복장.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "공사감독자 업무규정.zip",
+      "url": "http://law.go.kr/flDownload.do?flSeq=145159741",
+      "file_store_url": "",
+      "filename": "공사감독자 업무규정.zip"
+    },
+    {
+      "name": "공사감독 업무규정 개정사유.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=145163381",
+      "file_store_url": "",
+      "filename": "공사감독 업무규정 개정사유.hwp"
+    },
+    {
+      "name": "공사감독 업무규정 개정사유.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=145163385",
+      "file_store_url": "",
+      "filename": "공사감독 업무규정 개정사유.pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 42,
+    "by_category": {
+      "법령": 17,
+      "별지": 24,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 18,
+      "appendix_ref": 24
+    },
+    "articles_total": 32,
+    "articles_with_relations": 17,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 5,
+    "appendices_count": 20,
+    "attachments_count": 3
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/공사감독자 업무규정"
+  },
+  "provision_id": "admrul:공사감독자업무규정#DOC"
+}
