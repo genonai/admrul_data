@@ -1,18 +1,18 @@
 {
-  "law_id": "2200000138953",
-  "mst": "2200000138953",
+  "law_id": "2200000136621",
+  "mst": "2200000136621",
   "law_name": "고문위촉운영내규",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
-  "adm_uid": "public:2200000138953",
+  "adm_uid": "public:2200000136621",
   "promulgation_no": "77",
   "promulgation_date": "20241108",
   "enforcement_date": "20241108",
   "revision_date": "20241108",
   "revision_type": "제정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "총무팀",
@@ -27,11 +27,11 @@
     "전화번호": "053-603-1141",
     "제개정구분명": "제정",
     "소관부처코드": "B554808",
-    "생성일자": "20250113",
-    "행정규칙ID": "2137163",
+    "생성일자": "20241111",
+    "행정규칙ID": "2136419",
     "담당부서기관코드": "",
     "발령번호": "77",
-    "행정규칙일련번호": "2200000138953"
+    "행정규칙일련번호": "2200000136621"
   },
   "amendment_text": "",
   "revision_reason": "1. 제안이유\n효율적이고 체계적인 고문위촉관리를 위하여 공단 통합 내규를 제정하고자 함\n2. 주요내용\n가. 목적, 고문분야 등에 관한 사항을 정함(제 1조부터 3조까지)\n나. 고문위촉, 위촉제한, 해촉 등에 관한 사항을 정함(제 4조부터 7조까지)\n다. 위임, 위임제한 관한 사항을 정함(제 8조부터 9조까지)\n라. 수당, 협의 등에 관한 사항을 정함(제 10조부터 12조까지)\n3. 참고사항\n가. 제 정 안 : 별첨\n나. 관련근거 : 공단 직제규정 제10조(고문·전문위원 등)\n다. 예산조치 : 해당없음\n라. 기    타 : 해당없음",
@@ -85,7 +85,25 @@
         "chapter": "",
         "content": "제5조(위촉의 제한) ① 위촉일 전 5년 이내에 수임비리, 대가성 금품·향응의 제공과 수수 등 부패행위로 인한 징계처분 또는 형사처분을 받은 경우에는 고문으로 위촉할 수 없으며, 제7조에 따라 해촉된 고문은 재위촉 될 수 없다. 다만, 법원의 판결에 따른 무효확인 등으로 그 사유가 소멸된 경우에는 제한하지 아니한다.② 공단은 제1항의 사실을 확인하기 위하여 위촉 전에 관계기관에게 비위사실과 징계내역 등을 조회하여야 한다.③ 법인과 고문계약을 체결한 경우에는 제1항의 사유에 해당하는 소속 변호사 등은 고문의 업무를 수행할 수 없다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "고문위촉운영내규",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/고문위촉운영내규/제7조",
+            "resolve_method": "render",
+            "source_provision_id": "public:고문위촉운영내규#JO0005",
+            "reference_id": "public:고문위촉운영내규#JO0007"
+          }
+        ],
         "images": [],
         "provision_id": "public:고문위촉운영내규#JO0005"
       },
@@ -105,7 +123,42 @@
         "chapter": "",
         "content": "제7조(해촉) 다음 각 호의 어느 하나에 해당하는 경우에는 위촉을 해제할 수 있다.1. 사임의 의사표시가 있는 경우2. 제6조 제1항부터 제3항까지에 해당하는 경우3. 인사규정의 채용 결격사유에 해당하는 경우4. 해당 분야 자격증이 무효 또는 취소된 경우5. 자격명의를 대여하는 등 품위손상 행위를 한 경우6. 제3조 제2항에 따른 직무 실적이 저조하거나 불성실한 경우7. 기타 이해충돌 금지의무를 위반한 경우",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "고문위촉운영내규",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/고문위촉운영내규/제6조",
+            "resolve_method": "render",
+            "source_provision_id": "public:고문위촉운영내규#JO0007",
+            "reference_id": "public:고문위촉운영내규#JO0006"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "제3조",
+            "line_text": "",
+            "target_law_name": "고문위촉운영내규",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/고문위촉운영내규/제3조",
+            "resolve_method": "render",
+            "source_provision_id": "public:고문위촉운영내규#JO0007",
+            "reference_id": "public:고문위촉운영내규#JO0003"
+          }
+        ],
         "images": [],
         "provision_id": "public:고문위촉운영내규#JO0007"
       },
@@ -145,7 +198,25 @@
         "chapter": "",
         "content": "제11조(협의) 제3조에 따라 자문 등을 구하고자 하는 부서의 장은 해당 업무 소관부서와 사전에 협의하여야 하며, 자문결과 등을 받은 후에는 그 내용을 해당 업무 소관부서에 통보하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "제3조",
+            "line_text": "",
+            "target_law_name": "고문위촉운영내규",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/고문위촉운영내규/제3조",
+            "resolve_method": "render",
+            "source_provision_id": "public:고문위촉운영내규#JO0011",
+            "reference_id": "public:고문위촉운영내규#JO0003"
+          }
+        ],
         "images": [],
         "provision_id": "public:고문위촉운영내규#JO0011"
       },
@@ -155,7 +226,25 @@
         "chapter": "",
         "content": "제12조(소송수행비용) 소송수행비용은 「대구광역시 소송사무 처리규칙」에서 정하는 바에 따른다. 다만, 공단 운영에 중대한 영향을 미칠 수 있는 중요 소송 등에 대하여는 이사장이 따로 정할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제12조",
+            "source_clause": "제12조",
+            "link_text": "「대구광역시 소송사무 처리규칙」",
+            "line_text": "",
+            "target_law_name": "대구광역시 소송사무 처리규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/대구광역시 소송사무 처리규칙",
+            "resolve_method": "render",
+            "source_provision_id": "public:고문위촉운영내규#JO0012",
+            "reference_id": "law:대구광역시소송사무처리규칙#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "public:고문위촉운영내규#JO0012"
       }
@@ -192,6 +281,5 @@
   "source": {
     "source_url": "https://www.law.go.kr/학칙공단/고문위촉운영내규"
   },
-  "provision_id": "public:고문위촉운영내규#DOC",
-  "is_future": false
+  "provision_id": "public:고문위촉운영내규#DOC"
 }
