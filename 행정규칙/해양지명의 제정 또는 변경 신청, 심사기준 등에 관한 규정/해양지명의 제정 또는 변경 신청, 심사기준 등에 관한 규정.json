@@ -1,0 +1,974 @@
+{
+  "law_id": "2100000249236",
+  "mst": "2100000249236",
+  "law_name": "해양지명의 제정 또는 변경 신청, 심사기준 등에 관한 규정",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000249236",
+  "promulgation_no": "2024-10",
+  "promulgation_date": "20241108",
+  "enforcement_date": "20241108",
+  "revision_date": "20241108",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국립해양조사원(해도수로과)",
+    "담당자명": "박봉석",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "해양지명의 제정 또는 변경 신청, 심사기준 등에 관한 규정",
+    "발령일자": "20241108",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국립해양조사원",
+    "전화번호": "051-400-4343",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1192000",
+    "생성일자": "20241203",
+    "행정규칙ID": "76829",
+    "시행일자": "20241108",
+    "담당부서기관코드": "1192140",
+    "발령번호": "2024-10",
+    "행정규칙일련번호": "2100000249236",
+    "상위부처명": "해양수산부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n○ 효율적이고 체계적인 해양지명 제정 및 관리를 위해 심사요청서를 대체하는 심사 제안서 형식을 마련하고, 해양지명 자문협의회 운영 및 심사 과정에서 나타난 일부 미비점을 개선ㆍ보완하기 위함\n◇ 주요내용\n가. 관련 법령 및 해양지명의 고유ㆍ속성지명에 대한 정의 등 쉽게 이해할 수 있도록 문구 수정(안 제1조, 제2조)\n나. 해양지명의 체계적인 관리를 위해 ‘심사요청서’와 ‘제안서’를 ‘제안서’로 일원화하고 제안서 서식을 마련(안 제4조, 별지 제1호서식)\n다. 해양지명자문협의회 설치에 관한 사항과 자문사항을 2개 조항으로 분리(안 제7조)\n라. 재검토 기한 현행화(안 제16조)\n마. 해양지명자문협의회 개최 시 명확한 의견을 제시할 수 있도록 양식 일부 보완 등(안 별지 제4호서식)",
+  "body": {
+    "format": "articles",
+    "article_count": 16,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규정은 「해양조사와 해양정보 활용에 관한 법률」 제23조 및 같은 법 시행규칙 제18조제3항에 따라 해양지명의 제정 또는 변경 신청, 심사기준 등에 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제23조",
+            "line_text": "",
+            "target_law_name": "해양조사와 해양정보 활용에 관한 법률",
+            "target_article_no": "제23조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/해양조사와 해양정보 활용에 관한 법률/제23조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0001",
+            "reference_id": "law:해양조사와해양정보활용에관한법률#JO0023"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행규칙",
+            "line_text": "",
+            "target_law_name": "해양조사와 해양정보 활용에 관한 법률 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/해양조사와 해양정보 활용에 관한 법률 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0001",
+            "reference_id": "law:해양조사와해양정보활용에관한법률시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제18조제3항",
+            "line_text": "",
+            "target_law_name": "해양조사와 해양정보 활용에 관한 법률 시행규칙",
+            "target_article_no": "제18조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/해양조사와 해양정보 활용에 관한 법률 시행규칙/제18조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0001",
+            "reference_id": "law:해양조사와해양정보활용에관한법률시행규칙#JO0018"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) 이 규정에서 사용하는 용어의 정의는 다음과 같다.1. \"해양지명의 제정\"이란 「해양조사와 해양정보 활용에 관한 법률」(이하 \"법\"이라 한다) 제23조에 따른 심의를 거쳐 해양지명을 결정하는 것을 말한다.2. \"해양지명의 변경\"이란 이미 제정된 해양지명을 법 제23조에 따른 심의를 거쳐 새로운 해양지명으로 변경 또는 삭제하는 것을 말한다.3. \"해양지명의 심사\"란 해양지명의 제정 또는 변경에 대하여 그 적정성을 검토하고 조정하는 절차를 말한다.4. \"해양지명의 심의\"란 법 제23조제2항에 따라 해양수산발전위원회에서 해양지명의 제정 또는 변경을 위한 심의안건에 대하여 의결하는 것을 말한다.5. \"고유지명\"이란 \"ㅇㅇ만\", \"ㅇㅇ초\"의 \"ㅇㅇ\"와 같이 해양지명 부여 대상물이 본래부터 가지고 있는 특유한 이름을 말한다.6. \"속성지명\"이란 \"ㅇㅇ만\", \"ㅇㅇ초\"의 \"만\", \"초\"와 같이 해상 및 해저(海底)지형의 종류를 구분한 이름을 말한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「해양조사와 해양정보 활용에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "해양조사와 해양정보 활용에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/해양조사와 해양정보 활용에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0002",
+            "reference_id": "law:해양조사와해양정보활용에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제23조",
+            "line_text": "",
+            "target_law_name": "해양조사와 해양정보 활용에 관한 법률",
+            "target_article_no": "제23조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/해양조사와 해양정보 활용에 관한 법률/제23조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0002",
+            "reference_id": "law:해양조사와해양정보활용에관한법률#JO0023"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "해양조사와 해양정보 활용에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/해양조사와 해양정보 활용에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0002",
+            "reference_id": "law:해양조사와해양정보활용에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제23조",
+            "line_text": "",
+            "target_law_name": "해양조사와 해양정보 활용에 관한 법률",
+            "target_article_no": "제23조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/해양조사와 해양정보 활용에 관한 법률/제23조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0002",
+            "reference_id": "law:해양조사와해양정보활용에관한법률#JO0023"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "해양조사와 해양정보 활용에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/해양조사와 해양정보 활용에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0002",
+            "reference_id": "law:해양조사와해양정보활용에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제23조제2항",
+            "line_text": "",
+            "target_law_name": "해양조사와 해양정보 활용에 관한 법률",
+            "target_article_no": "제23조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/해양조사와 해양정보 활용에 관한 법률/제23조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0002",
+            "reference_id": "law:해양조사와해양정보활용에관한법률#JO0023"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "해양지명의 제정 또는 변경 신청",
+        "chapter": "",
+        "content": "제3조(해양지명의 제정 또는 변경 신청) 「해양조사와 해양정보 활용에 관한 법률」 시행규칙 제18조제1항에 따라 해양지명의 제정 또는 변경 신청은 서면 또는 온라인으로 제출할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제18조제1항",
+            "line_text": "",
+            "target_law_name": "해양조사와 해양정보 활용에 관한 법률 시행규칙",
+            "target_article_no": "제18조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/해양조사와 해양정보 활용에 관한 법률 시행규칙/제18조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0003",
+            "reference_id": "law:해양조사와해양정보활용에관한법률시행규칙#JO0018"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "해양지명의 심사",
+        "chapter": "",
+        "content": "제4조(해양지명의 심사) ① 해도수로과장은 제3조에 따라 제출된 신청서와 관련 자료를 보완 또는 추가하여 별지 제1호서식의 해양지명 제안서를 작성하여 국립해양조사원장(이하 \"원장\"이라 한다)에게 보고한다.② 원장은 제1항에 따른 제안서를 검토 및 심사해야 한다. 다만, 필요한 경우에 전문가에게 자문할 수 있다.③ 원장은 제2항에 따라 심사를 통해 결정된 심의 상정 안건에 대하여 심의제안서를 작성하여 법 제23조제2항에 따라 해양수산발전위원회에 심의를 요청한다.④ 다만, 제3항에도 불구하고 고시된 해양지명 중에서 한글 명칭에 대한 로마자 표기와 좌표를 표시한 숫자의 단순 착오, 오기, 누락 등과 같이 고시의 주요 내용에 영향을 미치지 않는 오류를 바로잡는 경우에는 해양수산발전위원회의 심의를 거치지 않을 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "제3조",
+            "line_text": "",
+            "target_law_name": "해양지명의 제정 또는 변경 신청, 심사기준 등에 관한 규정",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/해양지명의 제정 또는 변경 신청, 심사기준 등에 관한 규정/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0004",
+            "reference_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "해양지명의 제정 또는 변경 신청, 심사기준 등에 관한 규정",
+            "target_article_no": "별지1",
+            "target_article_title": "해양지명 제안서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145970253",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0004",
+            "reference_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#BJ0001"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제3항",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "해양조사와 해양정보 활용에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/해양조사와 해양정보 활용에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0004",
+            "reference_id": "law:해양조사와해양정보활용에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제3항",
+            "link_text": "제23조제2항",
+            "line_text": "",
+            "target_law_name": "해양조사와 해양정보 활용에 관한 법률",
+            "target_article_no": "제23조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/해양조사와 해양정보 활용에 관한 법률/제23조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0004",
+            "reference_id": "law:해양조사와해양정보활용에관한법률#JO0023"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "해양지명 심사기준 등",
+        "chapter": "",
+        "content": "제5조(해양지명 심사기준 등) ① 제4조제2항에 따라 해양지명을 심사할 때에는 고유지명과 속성지명의 적정성, 논리적 체계성 등을 검토해야 하며 구체적인 심사항목은 별표 1과 같다.② 원장은 필요한 경우 제1항에도 불구하고 각 심사항목별 세부사항을 추가하거나 제외할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "제4조제2항",
+            "line_text": "",
+            "target_law_name": "해양지명의 제정 또는 변경 신청, 심사기준 등에 관한 규정",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/해양지명의 제정 또는 변경 신청, 심사기준 등에 관한 규정/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0005",
+            "reference_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0004"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "해양지명의 제정 또는 변경 신청, 심사기준 등에 관한 규정",
+            "target_article_no": "별표1",
+            "target_article_title": "해양지명의 제정 또는 변경 신청서 심사 세부기준",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000249236&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0005",
+            "reference_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "해양지명의 고시",
+        "chapter": "",
+        "content": "제6조(해양지명의 고시) 법 제23조제5항 및 같은 법 시행령 제10조에 따른 해양지명의 고시는 해양수산발전위원회의 심의 결과를 통보 받은 날부터 15일 이내에 관보에 게재하거나 국립해양조사원 인터넷 홈페이지에 게시하는 방법으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제23조제5항",
+            "line_text": "",
+            "target_law_name": "해양조사와 해양정보 활용에 관한 법률",
+            "target_article_no": "제23조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/해양조사와 해양정보 활용에 관한 법률/제23조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0006",
+            "reference_id": "law:해양조사와해양정보활용에관한법률#JO0023"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "해양조사와 해양정보 활용에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/해양조사와 해양정보 활용에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0006",
+            "reference_id": "law:해양조사와해양정보활용에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제10조",
+            "line_text": "",
+            "target_law_name": "해양조사와 해양정보 활용에 관한 법률 시행령",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/해양조사와 해양정보 활용에 관한 법률 시행령/제10조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0006",
+            "reference_id": "law:해양조사와해양정보활용에관한법률시행령#JO0010"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「해양조사와 해양정보 활용에 관한 법률」 제10조",
+            "line_text": "제6조(해양지명의 고시) 법 제23조제5항 및 같은 법 시행령 제10조에 따른 해양지명의 고시는 해양수산발전위원회의 심의 결과를 통보 받은 날부터 15일 이내에 관보에 게재하거나 국립해양조사원 인터넷 홈페이지에 게시하는 방법으로 한다.",
+            "target_law_name": "해양조사와 해양정보 활용에 관한 법률",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/해양조사와 해양정보 활용에 관한 법률/제10조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0006",
+            "reference_id": "law:해양조사와해양정보활용에관한법률#JO0010"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "해양지명자문협의회 설치",
+        "chapter": "",
+        "content": "제7조(해양지명자문협의회 설치) ① 원장은 제4조제2항을 자문하기 위하여 국립해양조사원에 해양지명자문협의회(이하 \"협의회\"라 한다)를 둘 수 있다.② 협의회는 각 호에 해당하는 사항을 자문할 수 있다.1. 해양지명의 제정 또는 변경2. 해양지명의 대내ㆍ외 홍보3. 그 밖에 해양지명 업무에 관한 사항",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "제4조제2항",
+            "line_text": "",
+            "target_law_name": "해양지명의 제정 또는 변경 신청, 심사기준 등에 관한 규정",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/해양지명의 제정 또는 변경 신청, 심사기준 등에 관한 규정/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0007",
+            "reference_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "협의회 구성",
+        "chapter": "",
+        "content": "제8조(협의회 구성) ① 협의회는 위원장 1명, 부위원장 1명을 포함하여 15명 이내의 위원으로 구성한다.② 협의회의 위원장은 원장이 지명하고, 부위원장은 해도수로과장, 간사는 해양지명 담당팀장으로 한다. 다만, 해양지명 담당팀장이 공석일 경우 원장이 간사를 지명할 수 있다.③ 협의회의 위원은 각 호의 어느 하나에 해당하는 사람으로서 내부위원과 외부위원으로 구성하여 원장이 임명 또는 위촉한다. 이 경우 외부위원이 과반수가 되도록 한다.1. 내부위원은 국립해양조사원의 해양관측과, 해양예보과, 수로측량과, 해도수로과, 해양과학조사연구실, 국가해양위성센터의 주무팀장으로 한다.2. 외부위원은 다음 각 목의 어느 하나에 해당하는 사람 중에서 원장이 8명 이내의 위원을 위촉한다.가. 5년 이상 지리, 해양, 국문학 등 지명 관련 분야를 전공한 사람으로서 「고등교육법」 제2조에 따른 학교의 조교수급 이상의 교원나. 지리, 해양, 국문학 등 지명 관련 연구기관 및 단체에서 5년 이상 근무 또는 활동한 경력이 있는 연구원다. 지리, 해양, 국문학 등 관련 분야 행정기관의 사무관급 이상의 공무원라. 그 밖에 지리, 해양, 국문학 등 지명 관련 분야에 관한 연구 실적 또는 경력 등이 가목, 나목 및 다목의 기준에 상당하다고 인정되는 사람④ 외부위원의 임기는 3년으로 한다.⑤ 외부위원을 위촉한 때에는 별지 제2호서식에 따라 위촉장을 교부한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제3항",
+            "link_text": "「고등교육법」",
+            "line_text": "",
+            "target_law_name": "고등교육법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/고등교육법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0008",
+            "reference_id": "law:고등교육법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제3항",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "고등교육법",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/고등교육법/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0008",
+            "reference_id": "law:고등교육법#JO0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제5항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "해양지명의 제정 또는 변경 신청, 심사기준 등에 관한 규정",
+            "target_article_no": "별지2",
+            "target_article_title": "위촉장",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145970259",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0008",
+            "reference_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "위원장 등의 직무",
+        "chapter": "",
+        "content": "제9조(위원장 등의 직무) ① 위원장은 해당 협의회를 대표하며, 그 업무를 총괄한다.② 부위원장은 위원장을 보좌하며, 위원장이 부득이한 사유로 직무를 수행할 수 없을 때에는 그 직무를 대행한다.③ 위원장 및 부위원장이 모두 부득이한 사유로 직무를 수행할 수 없을 때에는 위원장이 미리 지명한 위원이 그 직무를 대행한다.④ 간사는 다음 각 호의 사항을 처리한다.1. 협의회에 상정될 안건의 취합 및 작성에 관한 사항2. 안건의 정리 및 회의 준비에 관한 사항3. 협의회의 결과 및 보고에 관한 사항4. 그 밖에 협의회에 속하는 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "회의",
+        "chapter": "",
+        "content": "제10조(회의) ① 협의회 소집이 필요한 경우 간사는 그 사항을 위원장과 부위원장에게 보고하고, 위원장은 필요하다고 인정하는 경우에 협의회를 소집하고 회의를 주재한다.② 회의는 재적위원 과반수의 출석으로 개회한다.③ 간사는 회의 개최 7일 전까지 회의의 일시, 장소 및 회의안건 등을 위원에게 알려야 한다. 다만, 위원장이 긴급 안건을 발의하는 등 긴급한 사유가 있는 경우에는 이를 생략할 수 있다.④ 회의안건을 통지를 받은 위원이 회의에 참석하지 못할 불가피한 사유가 있을 경우에는 회의 개최 3일 전까지 간사에게 이를 알려야 한다.⑤ 회의 안건이 단순ㆍ경미한 경우나 위원장이 회의를 소집하기 곤란하다고 판단하는 경우에는 서면, 전자메일 등으로 회의를 대신할 수 있다. 다만, 서면으로 결정 시 제2항의 규정을 준용한다.⑥ 회의 안건은 별지 제3호서식에 따라 작성하며, 검토서는 별지 제4호서식에 따라 안건별로 작성한다. 다만, 안건의 원활한 자문 또는 심사를 위하여 필요한 경우에는 일부를 변경하여 작성할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제6항",
+            "link_text": "별지 제3호서식",
+            "line_text": "",
+            "target_law_name": "해양지명의 제정 또는 변경 신청, 심사기준 등에 관한 규정",
+            "target_article_no": "별지3",
+            "target_article_title": "해양지명자문협의회 회의안건",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145970267",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0010",
+            "reference_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#BJ0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제6항",
+            "link_text": "별지 제4호서식",
+            "line_text": "",
+            "target_law_name": "해양지명의 제정 또는 변경 신청, 심사기준 등에 관한 규정",
+            "target_article_no": "별지4",
+            "target_article_title": "해양지명자문협의회 검토서",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145970273",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0010",
+            "reference_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#BJ0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "위원의 해촉",
+        "chapter": "",
+        "content": "제11조(위원의 해촉) 원장은 제8조제3항제2호에 따른 위원이 다음 각 호의 어느 하나에 해당하는 경우에는 해당 위원을 해촉(解囑)할 수 있다.1. 심신장애로 인하여 직무를 수행할 수 없게 된 경우2. 직무태만, 품위손상, 사회적 물의를 일으킨 경우나 그 밖의 사유로 인하여 위원으로 적합하지 않다고 인정되는 경우3. 위원 스스로 직무를 수행하는 것이 곤란하다고 의사를 밝히는 경우",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "제8조제3항제2호",
+            "line_text": "",
+            "target_law_name": "해양지명의 제정 또는 변경 신청, 심사기준 등에 관한 규정",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/해양지명의 제정 또는 변경 신청, 심사기준 등에 관한 규정/제8조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0011",
+            "reference_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0008"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "현장조사 등",
+        "chapter": "",
+        "content": "제12조(현장조사 등) 원장은 해양지명의 제정, 변경 또는 그 밖의 중요 사항을 심사ㆍ결정하기 위하여 필요한 경우 관련 행정기관, 연구기관, 단체 등에게 자료나 정보를 요청할 수 있으며, 현장조사를 하거나 관계 공무원 또는 전문가(이하 \"전문가\"라 한다)를 회의에 출석하게 하여 그 의견을 들을 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "수당 등",
+        "chapter": "",
+        "content": "제13조(수당 등) 제10조 및 제12조에 따라 협의회 또는 회의에 출석한 위원과 전문가에게는 예산의 범위에서 수당과 여비를 지급할 수 있다. 다만, 공무원인 위원이 소관 업무와 직접 관련되어 출석한 경우에는 그러하지 아니하다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조",
+            "link_text": "제10조 및 제12조",
+            "line_text": "",
+            "target_law_name": "해양조사와 해양정보 활용에 관한 법률",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/해양조사와 해양정보 활용에 관한 법률/제10조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0013",
+            "reference_id": "law:해양조사와해양정보활용에관한법률#JO0010"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조",
+            "source_clause": "제13조",
+            "link_text": "제10조 및 제12조",
+            "line_text": "",
+            "target_law_name": "해양지명의 제정 또는 변경 신청, 심사기준 등에 관한 규정",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/해양지명의 제정 또는 변경 신청, 심사기준 등에 관한 규정/제12조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0013",
+            "reference_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0012"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "비밀 누설의 금지 등",
+        "chapter": "",
+        "content": "제14조(비밀 누설의 금지 등) 해양지명의 제정 또는 변경에 대한 심사 및 자문에 관련된 자는 회의과정 및 그 밖의 협의회 활동을 통하여 습득한 비밀을 누설하거나 사적(私的)으로 이용해서는 안 된다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "기타사항",
+        "chapter": "",
+        "content": "제15조(기타사항) 이 규정에 정한 것을 제외하고 해양지명의 심사 등에 필요한 사항은 원장이 정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제16조(재검토기한) 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 예규에 대하여 2024년 7월 1일 기준으로 매3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 해야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제16조",
+            "source_clause": "제16조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0016",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#JO0016"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20210331",
+      "promulgation_no": "2021-16",
+      "content": "부칙 <제2021-16호, 2021. 3. 31.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20241108",
+      "promulgation_no": "2024-10",
+      "content": "부칙 <제2024-10호, 2024. 11. 8.>이 고시는 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "해양지명의 제정 또는 변경 신청서 심사 세부기준",
+      "enforcement_date": "",
+      "content": "[별표 1] 해양지명의 제정 또는 변경 신청서 심사 세부기준\n┌───────┬────────────────────────────────────┐\n│구  분        │심 사 기 준                                                             │\n├───────┼────────────────────────────────────┤\n│1. 절차의 적합│- 「해양조사와 해양정보 활용에 관한 법률」제23조에 따라 해양지명        │\n│성            │의 제정 및 변경 신청                                                    │\n├───────┼────────────────────────────────────┤\n│2. 고유 지명  │- 고유지명 제정·변경 시 아래 원칙을 바탕으로 심사                      │\n│              │가. 현칭주의 원칙                                                       │\n│              │나. 1객체 1지명 원칙                                                    │\n│              │다. 지형 조사관련 지명 부여 원칙                                        │\n│              │라. 현존 인물 인명 사용 제한 원칙                                       │\n│              │마. 지리적 근거리 지형지물 관련 명칭 우선 선정 원칙                     │\n│              │바. 지형의 묘사적 표현 지명 부여 원칙                                   │\n│              │사. 유사 지형 집합적 부여 원칙                                          │\n│              │아. 간결한 지명 부여 원칙                                               │\n│              │자. 동일 지명 동일 철자의 원칙                                          │\n│              │차. 고유지명 번역 불가 원칙                                             │\n│              │카. 지명 명명의 국민 참여 원칙                                          │\n│              │타. 심의 배제 원칙                                                      │\n│              │파. 법적 효력                                                           │\n│              │* 관련 설명은 해양지명 표준화 편람을 참고                               │\n├───────┼────────────────────────────────────┤\n│3. 속성 지명  │- 속성지명 제정·변경 시 표준화된 속성지명을 선택                       │\n│              │가. 해상지명: 해협, 수도, 항로, 해만, 만, 포, 개만, 간출암              │\n│              │나. 해저지명: 기요, 단열대, 대륙붕, 대륙사면, 마운드, 모트, 사퇴, 실,   │\n│              │심해평원, 안부, 암염돔, 에이프런, 열개, 이화산, 지형구, 천퇴, 초,       │\n│              │칼데라, 퇴, 해각, 해곡, 해구, 해봉, 해산, 해산열, 해연, 해저간극, 해    │\n│              │저계곡, 해저구릉, 해저놀, 해저단구, 해저대지, 해저분지, 해저선상        │\n│              │지, 해저수로, 해저융기부, 해저절벽, 해저제방, 해저혈, 해저협곡,         │\n│              │해첨, 해팽                                                              │\n│              │* 관련 설명은 해양지명 표준화 편람을 참고                               │\n├───────┼────────────────────────────────────┤\n│4. 결격 사유  │- 다른 법령에 따라 제정된 해양지명이 있는 경우                          │\n│              ├────────────────────────────────────┤\n│              │- 「해양조사와 해양정보 활용에 관한 법률」제22조에 따라 해양지명조      │\n│              │사 실시하지 않은 경우                                                   │\n│              │* 단, 신청자가 해양지명조사를 실시할 능력이 없다고 인정되는 경우는 제외 │\n│              ├────────────────────────────────────┤\n│              │- 해양지명의 제정 또는 변경을 신청한 사항이 해양수산발전위원회에서      │\n│              │심의를 진행 또는 보류 중인 경우                                         │\n│              ├────────────────────────────────────┤\n│              │- 이외에 관련 법, 규정에 따라 해양지명의 제정 또는 변경 신청의 절       │\n│              │차, 심사 기준에 부합되지 않는 경우                                      │\n└───────┴────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000249236&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145970279",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145970275",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145970279",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#BYL0001",
+      "filename": "별표1_해양지명의 제정 또는 변경 신청서 심사 세부기준.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "해양지명 제안서",
+      "enforcement_date": "",
+      "content": "[별지 제1호서식] 해양지명 제안서\n해양지명 제안서\n┌──┬───┬──┐\n│제정│변경  │삭제│\n├──┼───┼──┤\n│    │      │    │\n└──┴───┴──┘\n┌────┬───┬┐\n│해양지명│국문  ││\n│        ├───┼┤\n│        │로마자││\n│        ├───┼┤\n│        │영문  ││\n└────┴───┴┘\n※ 영해 내 해역은 로마자로 표기하고, 영해 외측 해역은 국제적 통용을 위해 영문으로 표기\n? 지명 제정, 변경 또는 삭제 사유 및 표준화 편람 원칙 적용\n┌───────────┬─────┐\n│제정?변경?삭제 사유 │          │\n├───────────┼────┬┤\n│표준화 편람 원칙      │고유지명││\n│                      ├────┼┤\n│                      │속성지명││\n└───────────┴────┴┘\n? 고유지명의 유래\n┌┐\n││\n└┘\n? 지형의 특징\n──────┬────────┬─────┐\n해상지형  │간출지형        │해저지형  │\n─────┬┼───────┬┼────┬┤\n형    태││최대수심      ││최대수심││\n─────┼┼───────┼┼────┼┤\n규    모││간출높이      ││최소수심││\n││(해수면이     ││        ││\n││가장 낮을 때  ││        ││\n││드러나는      ││        ││\n││높이)         ││        ││\n─────┼┼───────┼┼────┼┤\n특이사항││총  높이      ││총      ││\n││              ││높이    ││\n│├───────┼┼────┼┤\n││형    태      ││형      ││\n││              ││태      ││\n│├───────┼┼────┼┤\n││규    모      ││규      ││\n││              ││모      ││\n─────┴┴───────┴┴────┴┘\n※ 제안 지형의 특징에 따라 선택(표준화 편람 예시 참조)\n? 지형의 공간적 범위\n┌────────────────────┬──┬──┐\n│구 분                                   │위도│경도│\n├───────┬────────────┼──┼──┤\n│좌표계(WGS84) │대표 위치               │    │    │\n│              │(중앙□, 천소□, 심부□)│    │    │\n│              ├────────────┼──┼──┤\n│              │선                      │    │    │\n│              ├────────────┼──┼──┤\n│              │다각형                  │    │    │\n└───────┴────────────┴──┴──┘\n※ 선택된 ‘지형의 특징’ 우측에 붙여서 사용(표준화 편람 예시 참조)\n? 조사정보\n┌──────┬────────┐\n│조사 날짜   │                │\n├──────┼┬──────┬┤\n│조사 선박   ││수심측량장비││\n├──────┼┼──────┼┤\n│위치측정방법││조사 간격   ││\n└──────┴┴──────┴┘\n? 지형 위치 정보\n┌───────────┬───────────┐\n│소축척 지형 위치 지도 │전자해도 또는 종이해도│\n└───────────┴───────────┘\n? 지형 이미지(지형을 잘 표현할 수 있도록 위성, 항공사진, 해저영상(멀티빔), 사이드스캔소나 등 항목변경 가능)\n┌─────┬──────────┐\n│3D 이미지 │등수심도와 지형범위 │\n├─────┼──────────┤\n│          │                    │\n├─────┴──────────┤\n│지형 단면도                     │\n├─────┬──────────┤\n│          │                    │\n└─────┴──────────┘\n? 제안자\n┌─────┬┬───┬┐\n│성명(또는 ││이메일││\n│기관)     ││      ││\n├─────┼┼───┼┤\n│날짜      ││기타  ││\n└─────┴┴───┴┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145970253",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145970245",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145970253",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#BJ0001",
+      "filename": "별지1_해양지명 제안서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "위촉장",
+      "enforcement_date": "",
+      "content": "[별지 제2호서식] 해양지명자문협의회 위촉장\n위   촉   장\n소    속 ;\n성    명 ;\n위촉기간 ; 20  년   월   일 ~ 20  년   월   일\n귀하를 국립해양조사원 해양지명자문협의회 위원으로 위촉합니다.\n20  년     월     일\n국립해양조사원장(인)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145970259",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145970255",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145970259",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#BJ0002",
+      "filename": "별지2_위촉장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "해양지명자문협의회 회의안건",
+      "enforcement_date": "",
+      "content": "[별지 제3호서식] 해양지명자문협의회 회의안건\n(제1쪽)\n┏━━━━┳━━━━━━━┓┏┓\n┃검토안건┃제0호         ┃┃┃\n┣━━━━╋━━━━━━━┫┃┃\n┃검    토┃20  .   .   . ┃┃┃\n┃년 월 일┃(제 회)       ┃┃┃\n┗━━━━┻━━━━━━━┛┗┛\n┏━━━━━━━━━━━━━━┓\n┃    20  년 제  회           ┃\n┃해양지명자문협의회 검토 안건┃\n┗━━━━━━━━━━━━━━┛\n┏━━━━━┯━━━━━━━━┓\n┃제  출  자│국립해양조사원  ┃\n┃          │(과장)          ┃\n┠─────┼────────┨\n┃제  출  일│20  .    .    . ┃\n┗━━━━━┷━━━━━━━━┛\n\n(제2쪽)\n1. 검토 주문\no 0000에 따라 000에 대해 검토하고자 함.\n2. 검토요청 사유\no\no\n3. 주요내용\no\no\no\no\n※ 회의 안건에 따라 서식 변경 작성",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145970267",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145970261",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145970267",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#BJ0003",
+      "filename": "별지3_해양지명자문협의회 회의안건.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "해양지명자문협의회 검토서",
+      "enforcement_date": "",
+      "content": "[별지 제4호서식] 해양지명자문협의회 검토서\n┌──────────────────────┐\n│제  회 국립해양조사원 해양지명협의회 검토서 │\n└──────────────────────┘\n┏━━┯━━━━━━━━━━━━━━━━━━━━━━┯━━━━━┓\n┃안건│상정(안)                                    │검토의견  ┃\n┃번호├────────┬──────┬──┬───┤(부동의시)┃\n┃    │분류            │해양지명(안)│동의│부동의│          ┃\n┃    ├──┬──┬──┤            │    │      │          ┃\n┃    │제정│변경│삭제│            │    │      │          ┃\n┠──┼──┼──┼──┼──────┼──┼───┼─────┨\n┃    │    │    │    │            │    │      │          ┃\n┠──┼──┼──┼──┼──────┼──┼───┼─────┨\n┃    │    │    │    │            │    │      │          ┃\n┠──┼──┼──┼──┼──────┼──┼───┼─────┨\n┃    │    │    │    │            │    │      │          ┃\n┠──┼──┼──┼──┼──────┼──┼───┼─────┨\n┃    │    │    │    │            │    │      │          ┃\n┠──┼──┼──┼──┼──────┼──┼───┼─────┨\n┃    │    │    │    │            │    │      │          ┃\n┠──┼──┼──┼──┼──────┼──┼───┼─────┨\n┃    │    │    │    │            │    │      │          ┃\n┠──┼──┼──┼──┼──────┼──┼───┼─────┨\n┃    │    │    │    │            │    │      │          ┃\n┠──┼──┼──┼──┼──────┼──┼───┼─────┨\n┃    │    │    │    │            │    │      │          ┃\n┠──┼──┼──┼──┼──────┼──┼───┼─────┨\n┃    │    │    │    │            │    │      │          ┃\n┠──┼──┼──┼──┼──────┼──┼───┼─────┨\n┃    │    │    │    │            │    │      │          ┃\n┗━━┷━━┷━━┷━━┷━━━━━━┷━━┷━━━┷━━━━━┛\n┏━━━━━━━━━━━━━━━━┓\n┃기타의견(의견이 있는 경우 작성) ┃\n┠────────────────┨\n┃                                ┃\n┗━━━━━━━━━━━━━━━━┛\n20  .  .\n위원명 :               (서명)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145970273",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145970269",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145970273",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#BJ0004",
+      "filename": "별지4_해양지명자문협의회 검토서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "개정이유_신구조문대비표(해양지명의 제정 또는 변경 신청¸ 심사기준 등에 관한 규정 일부개정고시안).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=145308673",
+      "file_store_url": "",
+      "filename": "개정이유_신구조문대비표(해양지명의 제정 또는 변경 신청¸ 심사기준 등에 관한 규정 일부개정고시안).pdf"
+    },
+    {
+      "name": "개정이유_신구조문대비표(해양지명의 제정 또는 변경 신청¸ 심사기준 등에 관한 규정 일부개정고시안).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=145308669",
+      "file_store_url": "",
+      "filename": "개정이유_신구조문대비표(해양지명의 제정 또는 변경 신청¸ 심사기준 등에 관한 규정 일부개정고시안).hwpx"
+    },
+    {
+      "name": "개정전문 (해양지명의 제정 또는 변경 신청， 심사기준 등에 관한 규정 일부개정고시_게시용_최종.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=145970203",
+      "file_store_url": "",
+      "filename": "개정전문 (해양지명의 제정 또는 변경 신청， 심사기준 등에 관한 규정 일부개정고시_게시용_최종.hwpx"
+    },
+    {
+      "name": "개정전문 (해양지명의 제정 또는 변경 신청， 심사기준 등에 관한 규정 일부개정고시_게시용_최종.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=145970207",
+      "file_store_url": "",
+      "filename": "개정전문 (해양지명의 제정 또는 변경 신청， 심사기준 등에 관한 규정 일부개정고시_게시용_최종.pdf"
+    },
+    {
+      "name": "제개정 이유서.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=145970181",
+      "file_store_url": "",
+      "filename": "제개정 이유서.hwpx"
+    },
+    {
+      "name": "제개정 이유서.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=145970185",
+      "file_store_url": "",
+      "filename": "제개정 이유서.pdf"
+    },
+    {
+      "name": "개정이유_신구조문대비표(해양지명의 제정 또는 변경 신청¸ 심사기준 등에 관한 규정 일부개정고시안).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=145970189",
+      "file_store_url": "",
+      "filename": "개정이유_신구조문대비표(해양지명의 제정 또는 변경 신청¸ 심사기준 등에 관한 규정 일부개정고시안).hwpx"
+    },
+    {
+      "name": "개정이유_신구조문대비표(해양지명의 제정 또는 변경 신청¸ 심사기준 등에 관한 규정 일부개정고시안).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=145970233",
+      "file_store_url": "",
+      "filename": "개정이유_신구조문대비표(해양지명의 제정 또는 변경 신청¸ 심사기준 등에 관한 규정 일부개정고시안).pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 30,
+    "by_category": {
+      "법령": 19,
+      "행정규칙": 6,
+      "별지": 4,
+      "별표": 1
+    },
+    "by_relation_type": {
+      "citation": 20,
+      "internal_ref": 5,
+      "appendix_ref": 5
+    },
+    "articles_total": 16,
+    "articles_with_relations": 12,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 2,
+    "appendices_count": 5,
+    "attachments_count": 8
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/해양지명의 제정 또는 변경 신청, 심사기준 등에 관한 규정"
+  },
+  "provision_id": "admrul:해양지명의제정또는변경신청,심사기준등에관한규정#DOC"
+}
