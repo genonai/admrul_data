@@ -1,0 +1,481 @@
+{
+  "law_id": "2100000252038",
+  "mst": "2100000252038",
+  "law_name": "오피스텔 건축기준",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000252038",
+  "promulgation_no": "2024-1066",
+  "promulgation_date": "20241230",
+  "enforcement_date": "20241230",
+  "revision_date": "20241230",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국토교통부(건축정책과)",
+    "담당자명": "김판진",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "오피스텔 건축기준",
+    "발령일자": "20241230",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국토교통부",
+    "전화번호": "044-201-3757, 3760",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1613000",
+    "생성일자": "20250101",
+    "행정규칙ID": "33959",
+    "시행일자": "20241230",
+    "담당부서기관코드": "1613453",
+    "발령번호": "2024-1066",
+    "행정규칙일련번호": "2100000252038",
+    "상위부처명": "국토교통부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n「생활숙박시설 합법사용 지원방안」(10.16) 후속 조치로 생활숙박시설에서 오피스텔로 용도를 변경할 경우 전용출입구 설치 의무 및 전용면적의 산정방법을 적용 제외하고, 오피스텔(업무시설)의 주거용도로 활용하는 것을 제한하기 위하여 도입되었던 바닥난방의 면적 제한(120m2 이하)을 삭제하려는 것임\n\n◇ 주요내용\n가. 생활숙박시설을 오피스텔로 용도변경 시 적용되는 전용출입구, 전용면적 산정방식 적용을 완화하고자함.(안 제2조제2항 신설)\n나. 업무시설 중 오피스텔의 주거용도 활용을 제한하기 위해 도입되었으나 사회ㆍ경제변화 등에 따라 실효성이 부족해진 바닥난방 면적 제한(120㎡ 이하)을 삭제(안 제2조제3호)",
+  "body": {
+    "format": "articles",
+    "article_count": 5,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 「건축법 시행령」 제3조의5 및 별표1 제14호나목에 따른 오피스텔에 대한 건축기준을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「건축법 시행령」",
+            "line_text": "",
+            "target_law_name": "건축법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건축법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:오피스텔건축기준#JO0001",
+            "reference_id": "law:건축법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제3조의5",
+            "line_text": "",
+            "target_law_name": "건축법 시행령",
+            "target_article_no": "제3조의5",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건축법 시행령/제3조의5",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:오피스텔건축기준#JO0001",
+            "reference_id": "law:건축법시행령#JO0003_05"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "별표1",
+            "line_text": "",
+            "target_law_name": "건축법 시행령",
+            "target_article_no": "별표1",
+            "target_article_title": "",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": false,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건축법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:오피스텔건축기준#JO0001",
+            "reference_id": "law:건축법시행령#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:오피스텔건축기준#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "오피스텔의 건축기준",
+        "chapter": "",
+        "content": "제2조(오피스텔의 건축기준) ① 오피스텔은 다음 각 호의 기준에 적합한 구조이어야 한다.1. 삭제 <2024.2.23.>2. 다른 용도와 복합으로 건축하는 경우(지상층 연면적 3천제곱미터 이하인 건축물은 제외한다)에는 오피스텔의 전용출입구를 별도로 설치할 것. 다만, 단독주택 및 공동주택을 복합으로 건축하는 경우에는 건축주가 주거기능 등을 고려하여 전용출입구를 설치하지 아니할 수 있다.3. 삭제 <<2024.12.30.>4. 전용면적의 산정방법은 건축물의 외벽의 내부선을 기준으로 산정한 면적으로 하고, 2세대 이상이 공동으로 사용하는 부분으로서 다음 각목의 어느 하나에 해당하는 공용면적을 제외하며, 바닥면적에서 전용면적을 제외하고 남는 외벽면적은 공용면적에 가산한다.가. 복도ㆍ계단ㆍ현관 등 오피스텔의 지상층에 있는 공용면적나. 가목의 공용면적을 제외한 지하층ㆍ관리사무소 등 그 밖의 공용면적5. 오피스텔 거주자의 생활을 지원하는 시설로서 경로당, 어린이집은 오피스텔에 부수시설로 설치할 수 있다.② 2024년 10월 16일 이전에 최초 건축허가를 신청(건축허가를 신청하기 위하여 「건축법」제4조에 따른 건축위원회에 심의를 신청한 경우를 포함한다)한 생활숙박시설을 「건축법」제16조제1항에 따라 오피스텔로 용도변경을 하기 위해 허가ㆍ신고사항을 변경하거나 같은 법 제19조제2항에 따라 오피스텔로 용도변경하는 경우에는 제1항제2호 및 제4호를 적용하지 아니할 수 있다. 이 경우,「건축물대장의 기재 및 관리 등에 관한 규칙」제7조에 따른 건축물대장의 그 밖의 기재사항란에 이 사실을 표기해야 한다.<2024.12.30.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "「건축법」",
+            "line_text": "",
+            "target_law_name": "건축법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건축법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:오피스텔건축기준#JO0002",
+            "reference_id": "law:건축법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "건축법",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건축법/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:오피스텔건축기준#JO0002",
+            "reference_id": "law:건축법#JO0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "「건축법」",
+            "line_text": "",
+            "target_law_name": "건축법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건축법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:오피스텔건축기준#JO0002",
+            "reference_id": "law:건축법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "제16조제1항",
+            "line_text": "",
+            "target_law_name": "건축법",
+            "target_article_no": "제16조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건축법/제16조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:오피스텔건축기준#JO0002",
+            "reference_id": "law:건축법#JO0016"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "같은 법",
+            "line_text": "",
+            "target_law_name": "건축법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건축법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:오피스텔건축기준#JO0002",
+            "reference_id": "law:건축법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "제19조제2항",
+            "line_text": "",
+            "target_law_name": "건축법",
+            "target_article_no": "제19조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건축법/제19조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:오피스텔건축기준#JO0002",
+            "reference_id": "law:건축법#JO0019"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "「건축물대장의 기재 및 관리 등에 관한 규칙」",
+            "line_text": "",
+            "target_law_name": "건축물대장의 기재 및 관리 등에 관한 규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건축물대장의 기재 및 관리 등에 관한 규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:오피스텔건축기준#JO0002",
+            "reference_id": "law:건축물대장의기재및관리등에관한규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "건축물대장의 기재 및 관리 등에 관한 규칙",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건축물대장의 기재 및 관리 등에 관한 규칙/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:오피스텔건축기준#JO0002",
+            "reference_id": "law:건축물대장의기재및관리등에관한규칙#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:오피스텔건축기준#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "오피스텔의 피난 및 설비기준",
+        "chapter": "",
+        "content": "제3조(오피스텔의 피난 및 설비기준) 오피스텔은 화재 등 유사시 피난을 위하여 다음 각 호의 기준에 적합하여야 한다.1. 주요구조부가 내화구조 또는 불연재료로 된 16층 이상인 오피스텔의 경우 16층 이상인 층에 대하여는 피난층외의 층에서 피난층 또는 지상으로 통하는 직통계단을 거실의 각 부분으로부터 계단에 이르는 보행거리가 40미터 이하가 되도록 설치할 것2. 각 사무구획별 경계벽은 내화구조로 하고 「건축물의 피난ㆍ방화구조 등의 기준에 관한 규칙」제19조제2항에 따른 벽두께 이상으로 하거나 45dB 이상의 차음성능이 확보되도록 할 것",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「건축물의 피난ㆍ방화구조 등의 기준에 관한 규칙」",
+            "line_text": "",
+            "target_law_name": "건축물의 피난ㆍ방화구조 등의 기준에 관한 규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건축물의 피난ㆍ방화구조 등의 기준에 관한 규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:오피스텔건축기준#JO0003",
+            "reference_id": "law:건축물의피난방화구조등의기준에관한규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제19조제2항",
+            "line_text": "",
+            "target_law_name": "건축물의 피난ㆍ방화구조 등의 기준에 관한 규칙",
+            "target_article_no": "제19조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건축물의 피난ㆍ방화구조 등의 기준에 관한 규칙/제19조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:오피스텔건축기준#JO0003",
+            "reference_id": "law:건축물의피난방화구조등의기준에관한규칙#JO0019"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:오피스텔건축기준#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "배기시설 권고기준",
+        "chapter": "",
+        "content": "제4조(배기시설 권고기준) 허가권자는 오피스텔에 설치하는 배기설비에 대하여 「주택건설기준 등에 관한 규칙」 제11조 각 호의 기준 중 전부 또는 일부를 적용할 것을 권고할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「주택건설기준 등에 관한 규칙」",
+            "line_text": "",
+            "target_law_name": "주택건설기준 등에 관한 규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/주택건설기준 등에 관한 규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:오피스텔건축기준#JO0004",
+            "reference_id": "law:주택건설기준등에관한규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제11조",
+            "line_text": "",
+            "target_law_name": "주택건설기준 등에 관한 규칙",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/주택건설기준 등에 관한 규칙/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:오피스텔건축기준#JO0004",
+            "reference_id": "law:주택건설기준등에관한규칙#JO0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:오피스텔건축기준#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제5조(재검토기한) 국토교통부장관은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2022년 1월 1일 기준으로 매3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:오피스텔건축기준#JO0005",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:오피스텔건축기준#JO0005"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20100609",
+      "promulgation_no": "2010-351",
+      "content": "부칙 <제2010-351호,2010. 6. 9.>제1조(시행일) 이 고시는 고시한 날부터 시행한다.제2조(일반적 경과조치) 이 기준 시행 당시 다음 각 호의 어느 하나에 해당하는 경우에는 이 규칙의 개정 규정에도 불구하고 종전의 규정에 따른다. 다만, 건축주가 이 규칙의 개정규정에 따르고자 하는 경우에는 「건축법」 제16조에 따라 허가와 신고사항의 변경 절차를 거쳐 개정 규정을 적용할 수 있다.1. 건축허가를 신청한 경우와 건축허가를 받았거나 건축신고를 한 경우2. 건축허가를 신청하기 위하여 「건축법」 제5조에 따른 건축위원회의 심의를 신청한 경우"
+    },
+    {
+      "promulgation_date": "20120822",
+      "promulgation_no": "2012-553",
+      "content": "부칙 (「부동산개발 전문인력 교육규정」 등 8개 국토해양부 고시 일부개정령)<제2012-553호,2012. 8. 22.>제1조(시행일) 이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20131213",
+      "promulgation_no": "2013-789",
+      "content": "부칙 <제2013-789호,2013. 12. 13.>제1조(시행일) 이 고시는 고시한 날부터 시행한다.제2조(일반적 경과조치) 이 기준 시행 후 건축허가를 신청(건축허가를 신청하기 위하여 「건축법」 제4조 및 제12조에 따른 건축위원회에 심의를 신청한 경우나 변경허가를 신청하는 경우를 포함한다.)하는 경우부터 적용한다."
+    },
+    {
+      "promulgation_date": "20150430",
+      "promulgation_no": "2015-266",
+      "content": "부칙 <제2015-266호,2015. 4. 30.>제1조(시행일) 이 기준은 고시한 날부터 시행한다.제2조(적용례) 제2조 제4호의 개정 규정은 이 기준 시행 이후 건축법 제11조에 따른 건축허가를 신청(건축허가를 신청하기 위하여 건축법 제4조에 따른 건축위원회에 심의를 신청하는 경우를 포함한다)하는 경우 부터 적용한다."
+    },
+    {
+      "promulgation_date": "20170523",
+      "promulgation_no": "2017-279",
+      "content": "부칙 <제2017-279호,2017. 5. 23.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20211014",
+      "promulgation_no": "2021-1141",
+      "content": "부칙 <제2021-1141호, 2021. 10. 14.>제1조(시행일)이 고시는 발령한 날부터 시행한다.제2조(생활숙박시설 용도변경에 관한 특례)「건축법」 제19조에 따라 「건축법 시행령」 별표1 제15호가목의 생활숙박시설을 제14호나목2)의 오피스텔로 용도변경하거나, 이 고시 시행일 이전에 분양공고를 한 생활숙박시설에 대하여 「건축법」 제16조에 따라 허가 또는 신고사항을 변경하는 경우 2021년 10월 14일부터 2023년 10월 14일까지는 이 기준 제2조제1호부터 제4호까지의 규정을 적용하지 않는다."
+    },
+    {
+      "promulgation_date": "20211112",
+      "promulgation_no": "2021-1227",
+      "content": "부칙 <제2021-1227호, 2021. 11. 12.>제1조(시행일)이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20231213",
+      "promulgation_no": "2023-758",
+      "content": "부칙 <제2023-758호, 2023. 12. 13.>제1조(시행일) 이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20240223",
+      "promulgation_no": "2024-104",
+      "content": "부칙 <제2024-104호, 2024. 2. 23.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.제2조(발코니 설치에 관한 적용례) 제2조의 개정규정은 이 고시 시행 이후 다음 각 호의 신청이나 신고를 하는 경우부터 적용한다.1. 「건축법」 제11조에 따른 건축허가(「건축법」 제16조에 따른 변경허가 및 변경신고는 포함한다)의 신청(건축허가를 신청하기 위해 「건축법」 제4조의2제1항에 따라 건축위원회에 심의를 신청하는 경우를 포함한다)2. 「건축법」 제14조에 따른 건축신고(「건축법」 제16조에 따른 변경허가 및 변경신고는 포함한다)3. 「건축법」 제19조에 따른 용도변경허가의 신청(같은 조에 따른 용도변경신고 또는 건축물대장 기재내용의 변경신청을 포함한다)4. 제1호 및 제2호에 따른 허가나 신고가 의제되는 다른 법률에 따른 허가ㆍ인가ㆍ승인 등의 신청 또는 신고"
+    },
+    {
+      "promulgation_date": "20241230",
+      "promulgation_no": "2024-1066",
+      "content": "부칙 <제2024-1066호, 2024. 12. 30.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.제2조(적용례) 제2조제1항제3호의 개정 규정은 이 고시 시행일 이전에 건축허가를 신청한 경우에도 적용한다."
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "조문별 제개정이유서(오피스텔 건축기준).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=147869539",
+      "file_store_url": "",
+      "filename": "조문별 제개정이유서(오피스텔 건축기준).hwp"
+    },
+    {
+      "name": "조문별 제개정이유서(오피스텔 건축기준).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=147869543",
+      "file_store_url": "",
+      "filename": "조문별 제개정이유서(오피스텔 건축기준).pdf"
+    },
+    {
+      "name": "개정 전문(오피스텔 건축기준).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=147621595",
+      "file_store_url": "",
+      "filename": "개정 전문(오피스텔 건축기준).hwp"
+    },
+    {
+      "name": "241230 오피스텔 건축기준 일부개정고시안.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=147621599",
+      "file_store_url": "",
+      "filename": "241230 오피스텔 건축기준 일부개정고시안.hwpx"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 16,
+    "by_category": {
+      "법령": 14,
+      "별표": 1,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 15,
+      "appendix_ref": 1
+    },
+    "articles_total": 5,
+    "articles_with_relations": 5,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 10,
+    "appendices_count": 0,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/오피스텔 건축기준"
+  },
+  "provision_id": "admrul:오피스텔건축기준#DOC"
+}
