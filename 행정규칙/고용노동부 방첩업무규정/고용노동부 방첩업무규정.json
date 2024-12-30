@@ -1,0 +1,813 @@
+{
+  "law_id": "2100000251900",
+  "mst": "2100000251900",
+  "law_name": "고용노동부 방첩업무규정",
+  "law_abbr": "",
+  "law_type": "훈령",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000251900",
+  "promulgation_no": "531",
+  "promulgation_date": "20241230",
+  "enforcement_date": "20241230",
+  "revision_date": "20241230",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "고용노동부(운영지원과)",
+    "담당자명": "정주영",
+    "행정규칙종류코드": "B0001",
+    "행정규칙명": "고용노동부 방첩업무규정",
+    "발령일자": "20241230",
+    "행정규칙종류": "훈령",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "고용노동부",
+    "전화번호": "044-202-7852",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1492000",
+    "생성일자": "20241231",
+    "행정규칙ID": "67548",
+    "시행일자": "20241230",
+    "담당부서기관코드": "1493632",
+    "발령번호": "531",
+    "행정규칙일련번호": "2100000251900",
+    "상위부처명": "고용노동부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정 이유\n○ 상위규정인 「방첩업무 규정」(대통령령 제34435호, 2024.4.23.)(이하 \"규정\"이라 한다) 개정 사항 반영 및 외국인 근무자 채용에 따른 방첩 관리 의무 등 신설\n◇ 주요 개정내용\n□ 외국 정보기관 등 구성원 접촉 신고 대상 확대\n○ 「방첩업무 규정」 제9조 개정에 따라 직무 수행 외의 목적으로 구성원을 접촉하는 경우 신고하여야 하는 대상을 기존 ‘외국 정보기관 구성원’에서, ‘외국 정보ㆍ수사기관 구성원’으로 신고 대상 확대(제7조 개정)\n- 아울러, 외국 정보ㆍ수사기관에 방문하거나 교육ㆍ행사 참석을 요청받은 경우에도 본부 방첩담당관에게 통보 하도록 신고 사유 확대(제8조 개정)\n□ 외국인 근무자 채용에 따른 방첩 관리 의무 등 신설\n○ 소속기관의 외국인 근무자 채용*에 따른, 방첩관리 의무 등 신설 필요\n* ’24. 11월 기준 고용허가제 관련 다국어상담원 외국인 10명(경기2ㆍ부천ㆍ부산북부ㆍ부산동부ㆍ창원ㆍ양산2ㆍ대구ㆍ익산) 채용(국적: 우즈베키스탄, 네팔, 미얀마 등)\n- 외국인 근무자 채용시 영문 신상기록서 제출 및 매년 1회 소속기관별 외국인 근무자 현황 파악 후 본부 방첩담당관 보고(제8조의2 신설)\n- 외국등의 정보활동 등에 대응하기 위해 소속 외국인 근무자를 대상으로 방첩 대책 수립ㆍ시행 규정(제8조의3 신설)\n- 소속 외국인 근무자가 이 훈령에서 규정된 사항을 위반하거나 이행하지 않은 경우 국정원 통보(제8조의4 신설)",
+  "body": {
+    "format": "articles",
+    "article_count": 14,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 훈령은 「방첩업무 규정」(대통령령)의 적절한 운영을 기하기 위하여 필요한 사항을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「방첩업무 규정」",
+            "line_text": "",
+            "target_law_name": "방첩업무 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/방첩업무 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부방첩업무규정#JO0001",
+            "reference_id": "admrul:방첩업무규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:고용노동부방첩업무규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) 이 훈령에서 사용하는 용어의 정의는 다음과 같다.1. \"방첩\"이란 국가안보와 국익에 반하는 외국 및 외국인ㆍ외국단체ㆍ초국가행위자 또는 이와 연계된 내국인(이하 \"외국등\"이라 한다)의 정보활동을 찾아내고 그 정보활동을 확인ㆍ견제ㆍ차단하기 위하여 하는 정보의 수집ㆍ작성 및 배포 등을 포함한 모든 대응활동을 말한다.2. \"외국등의 정보활동\"이란 외국등의 정보 수집활동과 그 밖의 활동으로서 대한민국의 국가안보와 국익에 영향을 미칠 수 있는 모든 활동을 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:고용노동부방첩업무규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "적용",
+        "chapter": "",
+        "content": "제3조(적용) ① 이 훈령은 고용노동부 본부 및 그 소속기관에 적용한다.② 방첩업무에 관하여 「방첩업무 규정」(대통령령, 이하 \"규정\"이라 한다)에 정한 경우를 제외하고는 이 훈령이 정하는 바에 따른다.③ 소속기관의 장은 방첩업무의 효율적 수행을 위하여 필요한 경우에는 규정과 이 훈령에 어긋나지 아니하는 범위 내에서 자체지침을 수립하여 시행할 수 있다. 이 경우 고용노동부장관의 승인을 받아야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "「방첩업무 규정」",
+            "line_text": "",
+            "target_law_name": "방첩업무 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/방첩업무 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부방첩업무규정#JO0003",
+            "reference_id": "admrul:방첩업무규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:고용노동부방첩업무규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "방첩업무 담당부서 및 담당관",
+        "chapter": "",
+        "content": "제4조(방첩업무 담당부서 및 담당관) ① 본부 및 소속기관의 방첩담당관은 다음 각 호와 같다.1. 본부: 운영지원과장2. 소속기관: 보안업무 담당 부서장② 방첩담당관의 임무는 다음 각 호와 같다.1. 규정 제7조제2항에 따른 방첩 관련 자체지침 제정ㆍ시행에 관한 업무2. 규정 제8조제1항에 따른 외국인 접촉 시 특이사항의 통보에 관한 업무(해당기관에 소속된 위원회 및 민간위원의 현황 파악을 포함한다)3. 규정 제9조에 따른 외국 정보ㆍ수사기관 구성원 접촉 관리에 관한 업무4. 규정 제13조에 따른 자체 방첩교육계획 수립 및 시행에 관한 업무5. 그밖에 방첩업무의 원활한 수행을 위해 필요한 업무③ 방첩담당관은 제2항제1호에 따른 자체지침을 제ㆍ개정하는 경우에는 7일 이내에 다음 각 호의 기관에 통보하여야 한다.1. 본부: 국가정보원2. 소속기관: 고용노동부 운영지원과",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "제7조제2항",
+            "line_text": "",
+            "target_law_name": "고용노동부 방첩업무규정",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/고용노동부 방첩업무규정/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부방첩업무규정#JO0004",
+            "reference_id": "admrul:고용노동부방첩업무규정#JO0007"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "제8조제1항",
+            "line_text": "",
+            "target_law_name": "고용노동부 방첩업무규정",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/고용노동부 방첩업무규정/제8조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부방첩업무규정#JO0004",
+            "reference_id": "admrul:고용노동부방첩업무규정#JO0008"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "제9조",
+            "line_text": "",
+            "target_law_name": "고용노동부 방첩업무규정",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/고용노동부 방첩업무규정/제9조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부방첩업무규정#JO0004",
+            "reference_id": "admrul:고용노동부방첩업무규정#JO0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:고용노동부방첩업무규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "외국인 접촉 관리",
+        "chapter": "",
+        "content": "제5조(외국인 접촉 관리) ① 본부 및 소속기관 부서장은 소속 직원이 다음 각 호에 따른 외국인을 접촉하는 경우에는 별지 제1호서식의 외국인 접촉 관리대장에 외국인 접촉 사항을 기록ㆍ관리하여야 한다.1. 주한 외국대사관 직원2. 방한 외국 공무원 등 외국 정부기관 구성원3. 외국 언론인4. 외국 연구기관 또는 사회단체 구성원5. 외국 방위산업체 임직원6. 고용노동분야 국제기구 구성원7. 그밖에 정보활동이 의심되는 외국인(외국인근로자 고용허가제에 따라 국내에 체류하고 있는 근로자가 민원을 제기한 경우 등 민원인 자격의 외국인은 제외한다)② 제1항에도 불구하고 그 접촉사실이 보고서 등 공식 문서로 보존되는 경우에는 그 문서로 기록을 갈음할 수 있다.③ 소속직원이 제1항 각 호에 해당하는 외국인과 지속적으로 접촉해야 할 특별한 사유가 있는 경우에는 기간을 정하여 최초 1회만 기록한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "고용노동부 방첩업무규정",
+            "target_article_no": "별지1",
+            "target_article_title": "외국인 접촉 관리대장",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147708057",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부방첩업무규정#JO0005",
+            "reference_id": "admrul:고용노동부방첩업무규정#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:고용노동부방첩업무규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "특이사항 신고",
+        "chapter": "",
+        "content": "제6조(특이사항 신고) ① 본부 및 소속기관 부서장은 소속 직원(해당기관에 소속된 위원회의 민간위원을 포함한다)이 외국인 또는 이들과 연계된 내국인을 접촉한 사실이 다음 각 호의 어느 하나에 해당하는 경우에 지체없이 본부 방첩담당관에게 별지 제2호서식의 외국인의 접촉 시 특이사항 보고서를 통보하여야 한다.1. 국가기밀이나 그 밖의 국가안보 및 국익 관련 정보를 탐지ㆍ수집하려 하는 것으로 의심되는 경우2. 다음 각 목의 예시와 같이 자신이나 동료 등을 외국을 위한 정보활동에 이용하려고 하는 것으로 의심되는 경우가. 자신의 직무ㆍ사생활ㆍ친분인물 등에 대한 과도한 질문나. 같은 기관에 근무하는 공무원 등의 신상에 대한 지나친 관심다. 상대방이 밝힌 직업과 관련이 없는 민감한 분야에 대한 질문라. 지속적이거나 고가의 선물ㆍ식사 제공 또는 편의 제공마. 의도가 의심스럽거나 불법적인 활동에 대한 참여 권유3. 그밖에 국가안보 및 국익을 침해하는 활동을 하는 것으로 의심되는 경우② 본부 방첩담당관은 제1항의 신고 내용을 국가정보원에 지체 없이 통보하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "고용노동부 방첩업무규정",
+            "target_article_no": "별지2",
+            "target_article_title": "외국인 접촉 시 특이사항 보고",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147708063",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부방첩업무규정#JO0006",
+            "reference_id": "admrul:고용노동부방첩업무규정#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:고용노동부방첩업무규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "외국 정보ㆍ수사기관의 구성원 접촉",
+        "chapter": "",
+        "content": "제7조(외국 정보ㆍ수사기관의 구성원 접촉) ① 소속직원은 외국 정보ㆍ수사기관의 구성원을 접촉할 경우 미리 별지 제3호서식의 외국 정보ㆍ수사기관 구성원 접촉신청서를 작성하여 부서장의 사전 승인을 받아야 한다. 이 경우 소관 부서장은 방첩담당관에게 통보하여야 한다.② 소속직원은 외국 정보ㆍ수사기관의 구성원을 접촉한 후에는 별지 제4호서식의 외국 정보ㆍ수사기관 구성원 접촉 결과보고서를 작성하여 방첩담당관에게 통보하여야 한다.③ 부서장은 제1항에 따른 접촉이 직무수행 외의 목적일 경우에는 지체 없이(소속직원이 부득이한 사유로 미리 사전 승인을 받지 않은 경우에는 외국 정보ㆍ수사기관 구성원과 접촉 후 즉시) 그 사실을 본부 방첩담당관에게 통보하여야 한다. 이 경우 본부 방첩담당관은 국가정보원에 이를 통보하여야 한다.④ 방첩담당관은 제1항부터 제3항까지에 따른 외국 정보ㆍ수사기관 구성원 접촉 기록을 별지 제1호서식으로 유지ㆍ관리하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "별지 제3호서식",
+            "line_text": "",
+            "target_law_name": "고용노동부 방첩업무규정",
+            "target_article_no": "별지3",
+            "target_article_title": "외국 정보·수사기관 구성원 접촉신청서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147708069",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부방첩업무규정#JO0007",
+            "reference_id": "admrul:고용노동부방첩업무규정#BJ0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "별지 제4호서식",
+            "line_text": "",
+            "target_law_name": "고용노동부 방첩업무규정",
+            "target_article_no": "별지4",
+            "target_article_title": "외국 정보·수사기관 구성원 접촉 결과보고서",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147708075",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부방첩업무규정#JO0007",
+            "reference_id": "admrul:고용노동부방첩업무규정#BJ0004"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제4항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "고용노동부 방첩업무규정",
+            "target_article_no": "별지1",
+            "target_article_title": "외국인 접촉 관리대장",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147708057",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부방첩업무규정#JO0007",
+            "reference_id": "admrul:고용노동부방첩업무규정#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:고용노동부방첩업무규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "외국 정보ㆍ수사기관 방문 등",
+        "chapter": "",
+        "content": "제8조(외국 정보ㆍ수사기관 방문 등) ① 본부 및 소속기관 부서장은 소속직원이 외국 정보ㆍ수사기관을 방문하려 하거나 외국 정보ㆍ수사기관으로부터 교육ㆍ행사 참석을 요청받은 경우 본부 방첩담당관에게 통보하여야 한다.② 본부 방첩담당관은 제1항에 따른 통보를 받은 경우 지체 없이 국가정보원과 협의를 통해 별도의 방첩교육 계획을 수립하고 시행하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:고용노동부방첩업무규정#JO0008"
+      },
+      {
+        "article_no": "제8조의2",
+        "article_title": "외국인 근무자 현황 파악",
+        "chapter": "",
+        "content": "제8조의2(외국인 근무자 현황 파악) ① 방첩담당관은 소속 외국인 근무자로부터 별지 제5호서식에 따른 개인정보(영문 신상기록서)를 제출받아 유지ㆍ관리하여야 한다.② 방첩담당관은 소속 외국인 근무자의 신상 및 담당업무 변동 여부 등을 파악하고 매년 1회 별지 제6호서식에 따른 외국인 근무자 현황을 작성하여 본부 방첩담당관에게 보고하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조의2",
+            "source_clause": "제8조의2제1항",
+            "link_text": "별지 제5호서식",
+            "line_text": "",
+            "target_law_name": "고용노동부 방첩업무규정",
+            "target_article_no": "별지5",
+            "target_article_title": "PERSONAL INFORMATION",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147708083",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부방첩업무규정#JO0008_02",
+            "reference_id": "admrul:고용노동부방첩업무규정#BJ0005"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조의2",
+            "source_clause": "제8조의2제2항",
+            "link_text": "별지 제6호서식",
+            "line_text": "",
+            "target_law_name": "고용노동부 방첩업무규정",
+            "target_article_no": "별지6",
+            "target_article_title": "외국인 근무자 현황",
+            "appendix_no": "6",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147708089",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부방첩업무규정#JO0008_02",
+            "reference_id": "admrul:고용노동부방첩업무규정#BJ0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:고용노동부방첩업무규정#JO0008_02"
+      },
+      {
+        "article_no": "제8조의3",
+        "article_title": "외국인 근무자 방첩대책 수립",
+        "chapter": "",
+        "content": "제8조의3(외국인 근무자 방첩대책 수립) ① 방첩담당관은 외국등의 정보활동 등에 대응하기 위해 다음 각 호와 같이 소속 외국인 근무자를 대상으로 하는 방첩 대책을 수립ㆍ시행하여야 하며, 필요한 경우 국가정보원장에게 협조를 요청할 수 있다.1. 「국가공무원법」 제26조의3제1항에 따라 외국인의 공무원 임용이 제한되는 국가안보 및 보안ㆍ기밀에 관계되는 분야 업무의 직ㆍ간접 수행 여부를 점검ㆍ확인하고 이를 차단2. 근무 개시일 및 종료일, 부서 이동ㆍ직무 변경 등의 사유 발생 시 \"직무상 알게 된 기밀을 누설해서는 안 된다\"는 내용 등이 기재된 서약서 징구3. 담당업무와 무관한 민감 자료ㆍ데이터ㆍ기록물 등에 대한 접근ㆍ열람ㆍ복사ㆍ반출ㆍ취급 등을 제한하는 대책의 수립ㆍ시행4. 전산시스템 사용, 전산 자료의 접근ㆍ열람은 담당업무 수행과 관련된 범위 안에서 권한을 부여하고 출입제한 지역(상황실, 전산실 등)을 지정5. 외장형 저장장치(USB 등)의 무단 반입ㆍ사용을 제한하고 업무상 필요시 인가된 공용 목적의 저장장치를 이용6. 국적 또는 성명의 변경, 체류자격 변경 등 중요한 신상 변동 사항이 발생하였을 경우 해당 외국인 근무자 본인이 즉시 소속기관에 신고토록 조치7. 그 밖에 외국등의 정보활동으로부터 외국인 근무자를 보호하고 방첩상 위해 상황에 노출되는 것을 예방하기 위해 필요한 제반 조치",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조의3",
+            "source_clause": "제8조의3제1항",
+            "link_text": "「국가공무원법」",
+            "line_text": "",
+            "target_law_name": "국가공무원법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가공무원법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부방첩업무규정#JO0008_03",
+            "reference_id": "law:국가공무원법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조의3",
+            "source_clause": "제8조의3제1항",
+            "link_text": "제26조의3제1항",
+            "line_text": "",
+            "target_law_name": "국가공무원법",
+            "target_article_no": "제26조의3",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가공무원법/제26조의3",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부방첩업무규정#JO0008_03",
+            "reference_id": "law:국가공무원법#JO0026_03"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:고용노동부방첩업무규정#JO0008_03"
+      },
+      {
+        "article_no": "제8조의4",
+        "article_title": "외국인 근무자 방첩관리",
+        "chapter": "",
+        "content": "제8조의4(외국인 근무자 방첩관리) ① 방첩담당관은 다음 각호의 하나에 해당하는 상황을 신고받거나 그 밖의 방법으로 인지했을 경우 지체 없이 관련 내용을 본부 방첩담당관에게 보고하여야 한다.1. 외국인 근무자가 제6조ㆍ제7조ㆍ제8조에 규정된 사항을 위반하거나 이행하지 않은 경우2. 외국인 근무자가 제5조에 따라 수립된 방첩대책을 고의적으로 이행하지 않거나 상습적으로 위반하는 등 외국등의 정보활동과  관련이 있다고 의심되는 경우② 본부 방첩담당관은 제1항의 신고받거나 인지한 내용을 국가정보원에 지체 없이 통보하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조의4",
+            "source_clause": "제8조의4제1항",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "고용노동부 방첩업무규정",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/고용노동부 방첩업무규정/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부방첩업무규정#JO0008_04",
+            "reference_id": "admrul:고용노동부방첩업무규정#JO0006"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조의4",
+            "source_clause": "제8조의4제1항",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "고용노동부 방첩업무규정",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/고용노동부 방첩업무규정/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부방첩업무규정#JO0008_04",
+            "reference_id": "admrul:고용노동부방첩업무규정#JO0007"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조의4",
+            "source_clause": "제8조의4제1항",
+            "link_text": "제8조",
+            "line_text": "",
+            "target_law_name": "고용노동부 방첩업무규정",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/고용노동부 방첩업무규정/제8조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부방첩업무규정#JO0008_04",
+            "reference_id": "admrul:고용노동부방첩업무규정#JO0008"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조의4",
+            "source_clause": "제8조의4제1항",
+            "link_text": "제5조",
+            "line_text": "",
+            "target_law_name": "고용노동부 방첩업무규정",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/고용노동부 방첩업무규정/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부방첩업무규정#JO0008_04",
+            "reference_id": "admrul:고용노동부방첩업무규정#JO0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:고용노동부방첩업무규정#JO0008_04"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "방첩교육",
+        "chapter": "",
+        "content": "제9조(방첩교육) ① 방첩담당관은 해당 기관의 업무수행과 관련하여 소속 직원들이 외국등의 정보활동에 효율적으로 대응하기 위하여 방첩교육계획을 수립하여 시행하여야 한다.② 신규 임용자와 공무국외여행자(학술ㆍ체육ㆍ문화ㆍ시찰ㆍ유학ㆍ취업 등)에 대하여는 소속 부서장의 책임 하에 방첩교육을 실시할 수 있다.③ 방첩담당관은 필요한 경우 방첩교육을 국가정보원장에게 위탁하여 실시할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:고용노동부방첩업무규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "문서보존기간",
+        "chapter": "",
+        "content": "제10조(문서보존기간) 외국인 접촉 관리대장 등 관련문서 보존기간은 「공공기록물 관리에 관한 법률 시행령」 제26조제1항 및 별표 1에 따라 10년으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "「공공기록물 관리에 관한 법률 시행령」",
+            "line_text": "",
+            "target_law_name": "공공기록물 관리에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기록물 관리에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부방첩업무규정#JO0010",
+            "reference_id": "law:공공기록물관리에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "제26조제1항",
+            "line_text": "",
+            "target_law_name": "공공기록물 관리에 관한 법률 시행령",
+            "target_article_no": "제26조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기록물 관리에 관한 법률 시행령/제26조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부방첩업무규정#JO0010",
+            "reference_id": "law:공공기록물관리에관한법률시행령#JO0026"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "공공기록물 관리에 관한 법률 시행령",
+            "target_article_no": "별표1",
+            "target_article_title": "",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": false,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기록물 관리에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:고용노동부방첩업무규정#JO0010",
+            "reference_id": "law:공공기록물관리에관한법률시행령#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:고용노동부방첩업무규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "삭제",
+        "chapter": "",
+        "content": "제11조 삭제<2022. 12. 1.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:고용노동부방첩업무규정#JO0011"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20190515",
+      "promulgation_no": "285",
+      "content": "부칙 <제285호,2019. 5. 15.>이 훈령은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20221201",
+      "promulgation_no": "423",
+      "content": "부칙 <제423호, 2022. 12. 1.>이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20241230",
+      "promulgation_no": "531",
+      "content": "부칙 <제531호, 2024. 12. 30.>이 훈령은 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "외국인 접촉 관리대장",
+      "enforcement_date": "",
+      "content": "[별지 제1호서식]\n외국인 접촉 관리대장\n□ 부서명: 00000과\n┏━━┯━━━┯━━━┯━━━━━┯━━━━━━━━━━━━━━━━━┯━━━━━━━┓\n┃접촉│장 소 │접촉  │접촉자    │접촉 대상 외국인                  │접촉 목적 및  ┃\n┃일시│      │요청자├──┬──┼───┬──┬────┬─────┤지원자료      ┃\n┃    │      │      │직급│성명│성명  │국적│소속    │국내체류지│              ┃\n┃    │      │      │    │    │(성별)│    │(연락처)│(연락처)  │              ┃\n┣━━┿━━━┿━━━┿━━┿━━┿━━━┿━━┿━━━━┿━━━━━┿━━━━━━━┫\n┃    │      │      │    │    │      │    │        │          │              ┃\n┠──┼───┼───┼──┼──┼───┼──┼────┼─────┼───────┨\n┃    │      │      │    │    │      │    │        │          │              ┃\n┠──┼───┼───┼──┼──┼───┼──┼────┼─────┼───────┨\n┃    │      │      │    │    │      │    │        │          │              ┃\n┠──┼───┼───┼──┼──┼───┼──┼────┼─────┼───────┨\n┃    │      │      │    │    │      │    │        │          │              ┃\n┠──┼───┼───┼──┼──┼───┼──┼────┼─────┼───────┨\n┃    │      │      │    │    │      │    │        │          │              ┃\n┠──┼───┼───┼──┼──┼───┼──┼────┼─────┼───────┨\n┃    │      │      │    │    │      │    │        │          │              ┃\n┠──┼───┼───┼──┼──┼───┼──┼────┼─────┼───────┨\n┃    │      │      │    │    │      │    │        │          │              ┃\n┠──┼───┼───┼──┼──┼───┼──┼────┼─────┼───────┨\n┃    │      │      │    │    │      │    │        │          │              ┃\n┗━━┷━━━┷━━━┷━━┷━━┷━━━┷━━┷━━━━┷━━━━━┷━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147708057",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147708053",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147708057",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:고용노동부방첩업무규정#BJ0001",
+      "filename": "별지1_외국인 접촉 관리대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "외국인 접촉 시 특이사항 보고",
+      "enforcement_date": "",
+      "content": "[별지 제2호서식]\n외국인 접촉 시 특이사항 보고\n┌──────┬─────┬─────┬────┬─┐\n│접 촉 대 상 │성  명    │          │성    별│  │\n│외  국  인  ├─────┼─────┼────┼─┤\n│(내 국 인)  │국  적    │          │소    속│  │\n│            │          │          │(연락처)│  │\n│            ├─────┼─────┴────┴─┤\n│            │국내체류지│                        │\n│            │(연락처)  │                        │\n├──────┼─────┴────────────┤\n│특이사항    │                                    │\n│내     용   │                                    │\n├──────┼──────┬───┬─┬────┬┤\n│접 촉 일 시 │월   일     │장  소│  │접촉    ││\n│            │:   ~   :   │      │  │요청자  ││\n└──────┴──────┴───┴─┴────┴┘\n년     월      일\n보 고 자   소속        직급         성명             (인)\n* 국가기밀 등을 탐지ㆍ수집하려고 하는 것으로 의심될 경우, 자신이나 동료 등을 정보활동에 이용하려고 하는 것으로 의심될 경우, 그 밖에 국가안보 및 국익을 침해하는 활동을 하려고 하는 것으로 의심될 경우 최대한 구체적으로 기술",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147708063",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147708059",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147708063",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:고용노동부방첩업무규정#BJ0002",
+      "filename": "별지2_외국인 접촉 시 특이사항 보고.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "외국 정보·수사기관 구성원 접촉신청서",
+      "enforcement_date": "",
+      "content": "[별지 제3호서식]\n외국 정보ㆍ수사기관 구성원 접촉신청서\n┌─┬─────┬───┐\n│결│담당 계장 │부서장│\n│  ├─────┼───┤\n│재│          │      │\n└─┴─────┴───┘\n┌──────┬──────┬─────┬────┬───┐\n│접 촉 대 상 │성  명      │          │성    별│      │\n│            ├──────┼─────┼────┼───┤\n│            │국  적      │          │소    속│      │\n│            │            │          │(연락처)│      │\n│            ├──────┼─────┴────┴───┤\n│            │국내 체류지 │                            │\n│            │(연락처)    │                            │\n├──────┼──────┴──────────────┤\n│접촉 목적   │                                          │\n│및          │                                          │\n│지원 자료   │                                          │\n├──────┼───────┬───┬─┬──────┬┤\n│접 촉 일 시 │월   일       │장  소│  │접촉 요청자 ││\n│            │:   ~   :     │      │  │            ││\n└──────┴───────┴───┴─┴──────┴┘\n년    월     일\n신 청 자    소속            직급          성명          (인)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147708069",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147708065",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147708069",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:고용노동부방첩업무규정#BJ0003",
+      "filename": "별지3_외국 정보·수사기관 구성원 접촉신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "외국 정보·수사기관 구성원 접촉 결과보고서",
+      "enforcement_date": "",
+      "content": "[별지 제4호서식]\n외국 정보ㆍ수사기관 구성원 접촉 결과보고서\n┌──────┬─────┬─────┬────┬──┐\n│접 촉 대 상 │성  명    │          │성    별│    │\n│외  국  인  ├─────┼─────┼────┼──┤\n│            │국  적    │          │소    속│    │\n│            │          │          │(연락처)│    │\n│            ├─────┼─────┴────┴──┤\n│            │국내체류지│                          │\n│            │(연락처)  │                          │\n├──────┼─────┴─────────────┤\n│접촉 결과   │                                      │\n├──────┼──────┬───┬─┬─────┬┤\n│접 촉 일 시 │월   일     │장  소│  │접촉요청자││\n│            │:   ~   :   │      │  │          ││\n└──────┴──────┴───┴─┴─────┴┘\n년    월     일\n신 청 자   소속        직급         성명             (인)\n* 결과 란에는 접촉 시 나눈 대화 중 주요내용을 기재하되 자료제공 요청, 특정 현안에 대한 브리핑 요청, 과분한 선물ㆍ향응 제공 등 특이사항 있을 경우 그 내역을 상세히 기재",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147708075",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147708071",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147708075",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:고용노동부방첩업무규정#BJ0004",
+      "filename": "별지4_외국 정보·수사기관 구성원 접촉 결과보고서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별지",
+      "title": "PERSONAL INFORMATION",
+      "enforcement_date": "",
+      "content": "[별지 제5호서식]\n\n(앞쪽)\n┏━━━━━━━━━━━━━┓\nPERSONAL INFORMATION                                            ┃[PHOTO]                   ┃\n┃(3㎝×4㎝)                ┃\n* FOR OFFICIAL USE ONLY                                         ┃                          ┃\n┏━━━━━━━━━┯━━━━━━━━━┯━━━━━┯━━━━━━┩                          ┃\n┃FULL NAME         │Last/First/Middle │DATE OF   │Month/Day/Year│                          ┃\n┃                  │                  │BIRTH     │            │                          ┃\n┠─────────┼─────────┼─────┼──────┤                          ┃\n┃NATIONALITY       │                  │PLACE OF  │City/Country│                          ┃\n┃(include any      │                  │ BIRTH    │            │                          ┃\n┃dual nationality) │                  │          │            │                          ┃\n┠─────────┼─────────┼─────┼──────┴─────────────┨\n┃FOREIGNER         │                  │DATE&     │Month/Day/Year       City/Country       ┃\n┃REGISTRATION      │                  │PLACE YOU │                                        ┃\n┃NUMBER            │                  │ENTERED   │                                        ┃\n┃                  │                  │KOREA     │                                        ┃\n┠─────────┼─────────┴─────┴┬──────┬────────────┨\n┃ADDRESS           │                                │GENDER      │                        ┃\n┠─────────┼─────────┬──────┼──────┼────────────┨\n┃WORK PLACE        │                  │JOB/POSITION│            │                        ┃\n┠─────────┼─────────┴──────┴──────┴────────────┨\n┃TELEPHONE         │ HOME:                  WORK:                  MOBILE:                  ┃\n┃NUMBERS           │                                                                        ┃\n┃(Include Area     │                                                                        ┃\n┃code)             │                                                                        ┃\n┠─────────┼────┬───────┬────┬──────┬───────────┨\n┃EDUCATION         │NAME OF │DATES         │DEGREE/ │GRADUATION  │LOCATION              ┃\n┃                  │SCHOOL  │ATTENDED      │MAJOR   │DATE        │(Address &            ┃\n┃                  │        │(MM/YY-MM/YY) │        │(MM/YY)     │City/Country)         ┃\n┃                  ├────┼───────┼────┼──────┼───────────┨\n┃                  │        │              │        │            │                      ┃\n┃                  ├────┼───────┼────┼──────┼───────────┨\n┃                  │        │              │        │            │                      ┃\n┃                  ├────┼───────┼────┼──────┼───────────┨\n┃                  │        │              │        │            │                      ┃\n┃                  ├────┼───────┼────┼──────┼───────────┨\n┃                  │        │              │        │            │                      ┃\n┃                  ├────┼───────┼────┼──────┼───────────┨\n┃                  │        │              │        │            │                      ┃\n┃                  ├────┼───────┼────┼──────┼───────────┨\n┃                  │        │              │        │            │                      ┃\n┃                  ├────┼───────┼────┼──────┼───────────┨\n┃                  │        │              │        │            │                      ┃\n┗━━━━━━━━━┷━━━━┷━━━━━━━┷━━━━┷━━━━━━┷━━━━━━━━━━━┛\n┏━━━━━━━┯━━━━━┯━━━━━━━━━━━━━━━━┯━━━━━━━━━━┯━━━━━━━━━━┓\n┃EMPLOYMENT    │EMPLOYER/ │DATES EMPLOYED                  │POSITION            │LOCATION            ┃\n┃HISTORY       │REFERENCE │(MM/YY-MM/YY)                   │                    │(Address &          ┃\n┃              │          │                                │                    │City/Country)       ┃\n┃              ├─────┼────────────────┼──────────┼──────────┨\n┃              │          │                                │                    │                    ┃\n┃              ├─────┼────────────────┼──────────┼──────────┨\n┃              │          │                                │                    │                    ┃\n┃              ├─────┼────────────────┼──────────┼──────────┨\n┃              │          │                                │                    │                    ┃\n┃              ├─────┼────────────────┼──────────┼──────────┨\n┃              │          │                                │                    │                    ┃\n┠───────┼────┬┴────────┬───────┼──────────┼──────────┨\n┃FAMILY        │RELATION│FULL NAME         │DATE OF       │OCCUPATION          │PHONE               ┃\n┃INFORMATION   │        │Last/First/Middle │BIRTH         │                    │NUMBER              ┃\n┃              ├────┼─────────┼───────┼──────────┼──────────┨\n┃              │        │                  │              │                    │                    ┃\n┃              ├────┼─────────┼───────┼──────────┼──────────┨\n┃              │        │                  │              │                    │                    ┃\n┃              ├────┼─────────┼───────┼──────────┼──────────┨\n┃              │        │                  │              │                    │                    ┃\n┃              ├────┼─────────┼───────┼──────────┼──────────┨\n┃              │        │                  │              │                    │                    ┃\n┠───────┼────┼─────────┼───────┼─────┬────┼──────────┨\n┃RELATIVES     │RELATION│FULL NAME         │DATES KNOWN   │OCCUPATION│POSITION│PHONE               ┃\n┃&             │        │Last/First/Middle │(MM/YY-MM/YY) │          │        │NUMBER              ┃\n┃ACQUAINTANCES ├────┼─────────┼───────┼─────┼────┼──────────┨\n┃IN KOREA      │        │                  │              │          │        │                    ┃\n┃              ├────┼─────────┼───────┼─────┼────┼──────────┨\n┃              │        │                  │              │          │        │                    ┃\n┃              ├────┼─────────┼───────┼─────┼────┼──────────┨\n┃              │        │                  │              │          │        │                    ┃\n┠───────┴────┴─────────┴───────┴─────┴────┴──────────┨\n┃I understand that the information provided in this form may be submitted for verification against the   ┃\n┃criminal records and credit agencies in accordance with the security clearance policy. I declare that   ┃\n┃the information I have provided is true and complete to the best of my knowledge and belief. I          ┃\n┃understand that any false statement or deliberate omission in the information I have given in this form ┃\n┃may disqualify me from employment or make me liable to disciplinary action which may include dismissal. ┃\n┃                                                                                                        ┃\n┃     DATE :                                                                                             ┃\n┃          SIGNATURE :                                                                                   ┃\n┃                                                                                                        ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147708083",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147708077",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147708083",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:고용노동부방첩업무규정#BJ0005",
+      "filename": "별지5_PERSONAL INFORMATION.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별지",
+      "title": "외국인 근무자 현황",
+      "enforcement_date": "",
+      "content": "┏━━━━━━━━━━━━┓\n외국인 근무자 현황                                                                              ┃작성기관:               ┃\n┠────────────┨\n┃작 성 일:               ┃\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╃────────────┨\n┃신원 사항                                                                                       │관리 실태               ┃\n┠──┬───┬───┬──┬────┬──┬──┬──┬──┬──┬──┬───┬──┬────┼───┬────────┨\n┃한글│1)    │생년  │국적│외국인  │소속│부서│2)채│직급│직책│담당│채용  │체류│3)      │4)    │관리 매뉴얼     ┃\n┃이름│영문  │월일  │    │등록번호│    │    │용형│    │    │업무│기간  │자격│참고사항│전산?├───┬────┨\n┃    │이름  │(성별)│    │        │    │    │태  │    │    │    │      │    │        │문서  │5)    │6)      ┃\n┃    │      │      │    │        │    │    │    │    │    │    │      │    │        │접근  │보유  │매뉴얼명┃\n┃    │      │      │    │        │    │    │    │    │    │    │      │    │        │권한  │여부  │        ┃\n┠──┼───┼───┼──┼────┼──┼──┼──┼──┼──┼──┼───┼──┼────┼───┼───┼────┨\n┃    │      │      │    │        │    │    │    │    │    │    │      │    │        │      │      │        ┃\n┠──┼───┼───┼──┼────┼──┼──┼──┼──┼──┼──┼───┼──┼────┼───┼───┼────┨\n┃    │      │      │    │        │    │    │    │    │    │    │      │    │        │      │      │        ┃\n┠──┼───┼───┼──┼────┼──┼──┼──┼──┼──┼──┼───┼──┼────┼───┼───┼────┨\n┃    │      │      │    │        │    │    │    │    │    │    │      │    │        │      │      │        ┃\n┠──┼───┼───┼──┼────┼──┼──┼──┼──┼──┼──┼───┼──┼────┼───┼───┼────┨\n┃    │      │      │    │        │    │    │    │    │    │    │      │    │        │      │      │        ┃\n┠──┼───┼───┼──┼────┼──┼──┼──┼──┼──┼──┼───┼──┼────┼───┼───┼────┨\n┃    │      │      │    │        │    │    │    │    │    │    │      │    │        │      │      │        ┃\n┠──┼───┼───┼──┼────┼──┼──┼──┼──┼──┼──┼───┼──┼────┼───┼───┼────┨\n┃    │      │      │    │        │    │    │    │    │    │    │      │    │        │      │      │        ┃\n┠──┼───┼───┼──┼────┼──┼──┼──┼──┼──┼──┼───┼──┼────┼───┼───┼────┨\n┃    │      │      │    │        │    │    │    │    │    │    │      │    │        │      │      │        ┃\n┠──┼───┼───┼──┼────┼──┼──┼──┼──┼──┼──┼───┼──┼────┼───┼───┼────┨\n┃    │      │      │    │        │    │    │    │    │    │    │      │    │        │      │      │        ┃\n┣━━┷━━━┷━━━┷━━┷━━━━┷━━┷━━┷━━┷━━┷━━┷━━┷━━━┷━━┷━━━━┷━━━┷━━━┷━━━━┫\n┃1)“영문 이름”은 여권 표기에 따릅니다.                                                                                   ┃\n┃2)“채용 형태”는 임기제공무원, 전문경력관, 특수경력직공무원, 특정직공무원(개별 법령에 따름), 공무직(무기계약ㆍ단기계약)  ┃\n┃등을 의미합니다. 파견ㆍ연수 등의 사유로 근무 중인 외국 정부 및 외국 지방자치단체 등 소속 공무원은 파견 또는 연수로        ┃\n┃적고 참고 사항에 源소속을 적습니다. (예: 美 내무부 등)                                                                    ┃\n┃3)“참고 사항”은 외국인 근무자의 신상 관련 특이사항, 징계ㆍ경고 이력, 규정 위반 전력 여부 등을 말합니다.                 ┃\n┃4)“전산ㆍ문서 접근 권한”은 유 또는 무로 표시합니다.                                                                     ┃\n┃5) 관리매뉴얼의“보유여부”는 유 또는 무로 표시합니다.                                                                    ┃\n┃6) 관리매뉴얼의“매뉴얼명”은 소속기관에서 외국인 근무자 관리를 위해 제정하였거나 또는 적용 중인 규정ㆍ지침ㆍ매뉴얼       ┃\n┃등을 의미합니다.                                                                                                          ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n[별지 제6호서식]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147708089",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147708085",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147708089",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:고용노동부방첩업무규정#BJ0006",
+      "filename": "별지6_외국인 근무자 현황.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "「고용노동부 방첩업무규정」 일부개정(안) 주요내용(신구조문대비표 포함).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=147706415",
+      "file_store_url": "",
+      "filename": "「고용노동부 방첩업무규정」 일부개정(안) 주요내용(신구조문대비표 포함).hwp"
+    },
+    {
+      "name": "「고용노동부 방첩업무규정」 일부개정(안) 주요내용(신구조문대비표 포함).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=147707699",
+      "file_store_url": "",
+      "filename": "「고용노동부 방첩업무규정」 일부개정(안) 주요내용(신구조문대비표 포함).pdf"
+    },
+    {
+      "name": "「고용노동부 방첩업무규정」 일부개정(훈령 제531호, 2024. 12. 30.) 전문.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=147621403",
+      "file_store_url": "",
+      "filename": "「고용노동부 방첩업무규정」 일부개정(훈령 제531호, 2024. 12. 30.) 전문.hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 21,
+    "by_category": {
+      "행정규칙": 9,
+      "별지": 7,
+      "법령": 4,
+      "별표": 1
+    },
+    "by_relation_type": {
+      "citation": 6,
+      "internal_ref": 7,
+      "appendix_ref": 8
+    },
+    "articles_total": 14,
+    "articles_with_relations": 10,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 3,
+    "appendices_count": 6,
+    "attachments_count": 3
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/고용노동부 방첩업무규정"
+  },
+  "provision_id": "admrul:고용노동부방첩업무규정#DOC"
+}
