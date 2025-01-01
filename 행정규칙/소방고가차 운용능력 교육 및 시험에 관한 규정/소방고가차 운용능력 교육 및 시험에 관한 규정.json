@@ -1,0 +1,1255 @@
+{
+  "law_id": "2100000243548",
+  "mst": "2100000243548",
+  "law_name": "소방고가차 운용능력 교육 및 시험에 관한 규정",
+  "law_abbr": "",
+  "law_type": "훈령",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000243548",
+  "promulgation_no": "374",
+  "promulgation_date": "20240701",
+  "enforcement_date": "20250101",
+  "revision_date": "20240701",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "소방청(첨단장비과)",
+    "담당자명": "정철이",
+    "행정규칙종류코드": "B0001",
+    "행정규칙명": "소방고가차 운용능력 교육 및 시험에 관한 규정",
+    "발령일자": "20240701",
+    "행정규칙종류": "훈령",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "소방청",
+    "전화번호": "044-205-7691",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1661000",
+    "생성일자": "20250101",
+    "행정규칙ID": "67220",
+    "시행일자": "20250101",
+    "담당부서기관코드": "1661065",
+    "발령번호": "374",
+    "행정규칙일련번호": "2100000243548",
+    "상위부처명": "소방청"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n규정 제정(‘19.4.16.) 이후 운영ㆍ관리 전반에 대한 도출된 문제점과 미비점을 보완하여 소방고가차 운용자에 대한 현장 대응능력을 향상하고 전문성을 더욱 강화하고자 함.\n◇ 주요내용\n가. \"소방사다리차\"에서 \"소방고가차\"로 제명을 포함하여 규정 본문, 별표, 별지에 대한 용어변경 「소방고가차 운용능력 교육 및 시험에 관한 규정」\n나. 교육기관 승인요건 및 신청 ㆍ 지정 조항 신설(제6조ㆍ제7조) 및 별지 서식 신설(제7호~제9호)\n다. 교육기관 지정 및 취소에 대한 교육ㆍ시험위원회 심의사항 추가(제3조 제2항 제2호)\n라. 보수교육 사이버교육 운영 확대(종전 제6조 제2항) 및 사후관리 방안 추가(종전 제20조 제3항)\n마. 실기평가표의 미비점 개선(오기, 용어 재정의, 제한시간 불일치 등)과 세부 항목에 대한 명확한 해석(감점 ㆍ 실격사항)으로 평가의 객관성 확보",
+  "body": {
+    "format": "articles",
+    "article_count": 24,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조(목적) 이 규정은 「소방장비관리법」 제30조제1항 및 같은 법 시행령 제34조제4항에 따른 소방고가차 운용능력 교육의 내용, 소방고가차 운용능력 시험의 과목 및 방법 등에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제30조제1항",
+            "line_text": "",
+            "target_law_name": "소방장비관리법",
+            "target_article_no": "제30조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소방장비관리법/제30조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0001",
+            "reference_id": "law:소방장비관리법#JO0030"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "소방장비관리법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소방장비관리법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0001",
+            "reference_id": "law:소방장비관리법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제34조제4항",
+            "line_text": "",
+            "target_law_name": "소방장비관리법 시행령",
+            "target_article_no": "제34조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소방장비관리법 시행령/제34조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0001",
+            "reference_id": "law:소방장비관리법시행령#JO0034"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "제1장 총칙",
+        "content": "제2조(정의) 이 규정에서 사용하는 용어의 정의는 다음 각 호와 같다. 다만, 이 규정에서 정하는 것 외의 용어는 「소방장비관리법」, 「소방장비관리법 시행령」 및 「소방장비관리법 시행규칙」에서 정하는 바에 따른다.1. \"소방고가차 운용능력\"이란 고층건물의 화재진압과 인명구조를 담당하는 소방고가차 운용자가 지식ㆍ기술 및 장비를 활용하여 국민의 생명과 신체를 보호하고 안전한 장소로 구출하는 일체의 활동을 말한다.2. \"소방고가차 운용사\"란 소방고가차 운용에 필요한 지식과 기술ㆍ장비활용능력을 평가하는 소방고가차 운용사 자격시험(이하 \"자격시험\"이라 한다)에 합격하여 소방청장이 수여하는 자격을 취득한 자를 말한다.3. \"자격시험\"이란 소방고가차 운용에 필요한 지식 등을 평가하는 필기시험과 기술ㆍ장비활용능력 등을 평가하는 실기시험으로 구분한다.4. \"교육기관\"이란 소방고가차 운용자를 양성하기 위하여 소방고가차 운용능력 교육과정을 운영할 수 있는 교육시설과 장비를 갖추고 소방청장으로부터 승인받은 소방학교 및 한국소방산업기술원 또는 소방장비 전문기관 등을 말한다.5. \"보수교육\"이란 소방고가차 운용사를 대상으로 관련 정책이나 기술 등의 변화된 내용과 기술정보를 보충하기 위해 정기적으로 실시하는 교육을 말한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「소방장비관리법 시행령」",
+            "line_text": "",
+            "target_law_name": "소방장비관리법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소방장비관리법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0002",
+            "reference_id": "law:소방장비관리법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「소방장비관리법 시행규칙」",
+            "line_text": "",
+            "target_law_name": "소방장비관리법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소방장비관리법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0002",
+            "reference_id": "law:소방장비관리법시행규칙#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "교육ㆍ시험위원회 설치",
+        "chapter": "제2장 교육ㆍ시험위원회",
+        "content": "제3조(교육ㆍ시험위원회 설치) ① 소방청장은 이 규정에 따른 교육내용, 교육운영, 자격시험과 관련된 사항을 심의하기 위하여 교육ㆍ시험위원회(이하 \"위원회\"라 한다)를 설치 및 운영할 수 있다. 이 경우 위원회의 효율적 운영과 분야별 전문가의 심도 있는 회의를 위해 필요한 경우 분과위원회를 설치할 수 있다.② 위원회는 다음 각 호의 사항을 심의한다.1. 교육과정 및 관련 제도의 개선ㆍ발전에 관한 사항2. 교육기관 지정 및 취소에 관한 사항3. 교육기관의 운영계획 및 교육과정 평가ㆍ조정에 관한 사항4. 교육기관의 교육운영실태 점검ㆍ평가에 관한 사항5. 자격시험의 항목, 시기, 회수 및 방법 등에 관한 사항6. 자격시험 시설ㆍ장비 기준에 관한 사항7. 자격시험의 전부 또는 일부면제에 관한 사항8. 응시자격 결정에 관한 사항9. 그 밖의 자격시험과 관련하여 소방청장이 심의를 요구하는 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "위원회 구성",
+        "chapter": "제2장 교육ㆍ시험위원회",
+        "content": "제4조(위원회 구성) ① 위원회는 위원장을 포함한 10명 이하의 위원으로 구성하며, 위원장은 장비기술국장이 되고, 부위원장은 위원 중 위원장이 지명한 자로 한다.② 위원은 다음 각 호의 사람 중에서 소방청장이 임명하거나 위촉한다.1. 소방청 소속의 업무 관련 과장 또는 계장2. 소방고가차에 관한 학식과 경험이 풍부한 사람3. 소방고가차 운용관련 기관ㆍ단체ㆍ교육기관의 실무 담당(부장) 이상ㆍ교수4. 위원장이 필요하다고 지정하는 사람③ 위원회의 위원 중 공무원이 아닌 사람의 임기는 2년으로 하고, 1회에 한하여 연임할 수 있다. 다만, 공무원인 위원의 임기는 해당 직위에 재직하는 기간으로 한다.④ 위원이 다음 각 호의 하나에 해당하는 경우에는 해당 심의 및 의결에서 제외된다.1. 위원이나 위원이 속한 기관ㆍ단체가 심의대상 안건에 용역ㆍ자문ㆍ연구 또는 그 밖의 방법으로 직접 관여한 경우2. 배우자 또는 친족관계에 있는 사람이 심의대상 안건의 당사자인 경우3. 그 밖에 심의대상 안건과 직접적인 이해관계가 있다고 인정되는 경우⑤ 위원회에 출석한 위원은 제4항 각 호의 하나에 해당되는 경우에는 스스로 그 안건의 심의 및 의결을 회피하기 위하여 위원장에게 회피신청을 하여야 한다.⑥ 위원장은 위원이 제5항의 규정을 위반한 경우에는 해촉 등 필요한 조치를 취하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "위원회 운영",
+        "chapter": "제2장 교육ㆍ시험위원회",
+        "content": "제5조(위원회 운영) ① 위원장은 위원회의 회의를 소집하고 그 의장이 된다.② 위원장은 회의를 소집하려면 회의의 일시ㆍ장소 및 안건을 정하여 이를 회의 개최 7일 전까지 각 위원에게 알려야 한다. 다만, 긴급한 사유가 있는 경우에는 미리 알리지 아니할 수 있다.③ 위원회의 회의는 재적위원 과반수의 출석으로 개의하고, 출석위원 과반수의 찬성으로 의결한다.④ 위원회는 필요하면 관계기관 및 전문가 등에게 자료 제출, 의견진술, 그 밖에 위원회의 운영에 필요한 협조를 하도록 요청할 수 있다.⑤ 위원회에 출석한 위원 및 외부전문가 등에게는 예산의 범위 내에서 수당ㆍ여비 그 밖에 필요한 경비를 지급할 수 있다.⑥ 제1항 내지 제5항에서 규정한 사항 외에 위원회의 운영에 필요한 사항은 위원회의 의결을 거쳐 위원장이 정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "교육기관 신청",
+        "chapter": "제3장 교육기관",
+        "content": "제6조(교육기관 신청) 소방고가차 운용능력 교육기관으로 지정받고자 하는 자는 별표 3과 별표 4의 장비와 시설을 갖추고, 별지 제7호서식에 따른 소방고가차 운용능력 교육기관 지정 신청서와 다음 각호의 서류를 소방청장에게 제출하여야 한다.1. 신청기관 현황 및 운영조직ㆍ구성2. 교육운영계획가. 교육과정 및 교과목 편성ㆍ운영에 관한 사항나. 강사진 운영, 교육생 모집 계획에 관한 사항다. 교육방법 및 운영요원 운용계획라. 교육과정 교육비(산출근거 포함)마. 교육방법 및 절차3. 교육장비ㆍ시설 현황4. 그 밖의 교육운영에 관하여 필요한 사항",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "소방고가차 운용능력 교육 및 시험에 관한 규정",
+            "target_article_no": "별표3",
+            "target_article_title": "소방고가차 운용사 교육 및 실기시험의 장비기준(제10조제4항 관련)",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000243548&bylNo=0003&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0006",
+            "reference_id": "admrul:소방고가차운용능력교육및시험에관한규정#BYL0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "별표 4",
+            "line_text": "",
+            "target_law_name": "소방고가차 운용능력 교육 및 시험에 관한 규정",
+            "target_article_no": "별표4",
+            "target_article_title": "소방고가차 운용사 교육 및 자격시험의 시설기준(제10조제4항 관련)",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000243548&bylNo=0004&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0006",
+            "reference_id": "admrul:소방고가차운용능력교육및시험에관한규정#BYL0004"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "별지 제7호서식",
+            "line_text": "",
+            "target_law_name": "소방고가차 운용능력 교육 및 시험에 관한 규정",
+            "target_article_no": "별지7",
+            "target_article_title": "소방고가차 운용능력 교육기관 지정 신청서",
+            "appendix_no": "7",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863337",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0006",
+            "reference_id": "admrul:소방고가차운용능력교육및시험에관한규정#BJ0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "교육기관 지정",
+        "chapter": "제3장 교육기관",
+        "content": "제7조(교육기관 지정) ① 소방청장은 제3조에 따른 교육ㆍ시험위원회의 심의ㆍ의결을 거쳐 교육기관으로 지정한다.② 소방청장은 제1항에 따라 지정된 교육기관에 별지 제8호서식에 따른 소방고가차 운용능력 교육기관 지정서를 교부한다.③ 소방청장은 소방고가차 운용능력 교육기관 지정서를 교부한 때에는 별지 제9호서식에 따라 소방고가차 운용능력 교육기관 지정서 발급대장에 기록ㆍ관리하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "제3조",
+            "line_text": "",
+            "target_law_name": "소방고가차 운용능력 교육 및 시험에 관한 규정",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/소방고가차 운용능력 교육 및 시험에 관한 규정/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0007",
+            "reference_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "별지 제8호서식",
+            "line_text": "",
+            "target_law_name": "소방고가차 운용능력 교육 및 시험에 관한 규정",
+            "target_article_no": "별지8",
+            "target_article_title": "소방고가차 운용능력 교육기관 지정서",
+            "appendix_no": "8",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863343",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0007",
+            "reference_id": "admrul:소방고가차운용능력교육및시험에관한규정#BJ0008"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제3항",
+            "link_text": "별지 제9호서식",
+            "line_text": "",
+            "target_law_name": "소방고가차 운용능력 교육 및 시험에 관한 규정",
+            "target_article_no": "별지9",
+            "target_article_title": "소방고가차 운용능력 교육기관 지정서 교부대장",
+            "appendix_no": "9",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863349",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0007",
+            "reference_id": "admrul:소방고가차운용능력교육및시험에관한규정#BJ0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "교육운영 기준",
+        "chapter": "제3장 교육기관",
+        "content": "제8조(교육운영 기준) ① 교육기관의 장은 별표 2에 따라 교육을 운영하여야 한다.② 교육기관의 장은 상시교육체제의 구축과 경제적이고 효율적인 교육운영을 위해 소방고가차 운용능력 교육내용의 일부와 보수교육을 사이버교육과정으로 운영할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "소방고가차 운용능력 교육 및 시험에 관한 규정",
+            "target_article_no": "별표2",
+            "target_article_title": "교육운영 기준(제8조 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000243548&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0008",
+            "reference_id": "admrul:소방고가차운용능력교육및시험에관한규정#BYL0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "교육 이수자 수료증 교부",
+        "chapter": "제3장 교육기관",
+        "content": "제9조(교육 이수자 수료증 교부) ① 교육기관의 장은 소방고가차 운용능력 교육과정을 마치고 수료한 사람에 대하여 별지 제1호서식의 수료증을 교부하여야 한다.② 교육기관의 장이 수료증을 교부하는 때에는 별지 제2호서식에 기록하고, 이를 관리하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제1항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "소방고가차 운용능력 교육 및 시험에 관한 규정",
+            "target_article_no": "별지1",
+            "target_article_title": "수료증",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863299",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0009",
+            "reference_id": "admrul:소방고가차운용능력교육및시험에관한규정#BJ0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제2항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "소방고가차 운용능력 교육 및 시험에 관한 규정",
+            "target_article_no": "별지2",
+            "target_article_title": "소방고가차 운용능력 교육과정 수료증 교부대장",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863305",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0009",
+            "reference_id": "admrul:소방고가차운용능력교육및시험에관한규정#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "자격시험의 실시",
+        "chapter": "제4장 자격시험 및 자격시험기관",
+        "content": "제10조(자격시험의 실시) ① 소방청장은 「소방장비관리법 시행령」 제34조제3항에 따라 자격시험을 실시한다.② 제1항에 따른 자격시험은 필기시험과 실기시험으로 구분하여 실시한다. 이 경우 실기시험은 필기시험에 합격한 사람을 대상으로 한다.③ 소방청장은 자격시험 업무를 효율적으로 운영하기 위하여 다음 각 호의 업무를 한국소방산업기술원(이하 \"자격시험기관\"이라 한다)의 장에게 위임하여 시행할 수 있다.1. 자격시험의 실시2. 응시원서의 교부 및 접수3. 자격시험에 관한 시험의 공고4. 자격시험의 출제ㆍ채점 및 평가5. 자격시험의 합격자 결정 및 합격자 공고6. 그 밖에 자격시험의 시행과 관련하여 필요한 사항④ 자격시험기관의 장은 별표 3 및 별표 4를 포함하여 자격시험에 필요한 시설과 장비를 갖추어야 하고, 제3항 각 호의 사항이 포함된 자격시험 시행계획을 수립하여 소방청장에게 보고하여야 한다.⑤ 자격시험기관의 장은 자격시험을 실시함에 있어 필요한 경우, 필기ㆍ실기시험에 필요한 장비 및 시설기준을 갖춘 중앙소방학교 및 지방소방학교를 지정하여 자격시험을 실시할 수 있으며, 시험에 필요한 장비 및 시설의 사용에 따른 경비를 산정하여 시험공고 시 응시료를 공개한다.⑥ 제5항에 따라 자격시험을 실시하고자 하는 자격시험기관은 필기ㆍ실기시험에 필요한 장비, 시설기준 및 시험위원 수당 등 제반사항을 갖추어야 하며, 시험위원의 선정 및 구성은 제11조제1항에 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "「소방장비관리법 시행령」",
+            "line_text": "",
+            "target_law_name": "소방장비관리법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소방장비관리법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0010",
+            "reference_id": "law:소방장비관리법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "제34조제3항",
+            "line_text": "",
+            "target_law_name": "소방장비관리법 시행령",
+            "target_article_no": "제34조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소방장비관리법 시행령/제34조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0010",
+            "reference_id": "law:소방장비관리법시행령#JO0034"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제4항",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "소방고가차 운용능력 교육 및 시험에 관한 규정",
+            "target_article_no": "별표3",
+            "target_article_title": "소방고가차 운용사 교육 및 실기시험의 장비기준(제10조제4항 관련)",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000243548&bylNo=0003&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0010",
+            "reference_id": "admrul:소방고가차운용능력교육및시험에관한규정#BYL0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제4항",
+            "link_text": "별표 4",
+            "line_text": "",
+            "target_law_name": "소방고가차 운용능력 교육 및 시험에 관한 규정",
+            "target_article_no": "별표4",
+            "target_article_title": "소방고가차 운용사 교육 및 자격시험의 시설기준(제10조제4항 관련)",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000243548&bylNo=0004&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0010",
+            "reference_id": "admrul:소방고가차운용능력교육및시험에관한규정#BYL0004"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제6항",
+            "link_text": "제11조제1항",
+            "line_text": "",
+            "target_law_name": "소방고가차 운용능력 교육 및 시험에 관한 규정",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/소방고가차 운용능력 교육 및 시험에 관한 규정/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0010",
+            "reference_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "응시자격 및 원서접수",
+        "chapter": "제4장 자격시험 및 자격시험기관",
+        "content": "제11조(응시자격 및 원서접수) ① 소방고가차 운용사 자격시험에 응시할 수 있는 사람은 제2조제4호의 교육기관에서 \"소방고가차 운용과 관련된 교육\"을 수료한 사람으로 한다.② 자격시험에 응시하고자 하는 사람은 별지 제3호서식을 자격시험기관에 제출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "제2조제4호",
+            "line_text": "",
+            "target_law_name": "소방고가차 운용능력 교육 및 시험에 관한 규정",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/소방고가차 운용능력 교육 및 시험에 관한 규정/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0011",
+            "reference_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제2항",
+            "link_text": "별지 제3호서식",
+            "line_text": "",
+            "target_law_name": "소방고가차 운용능력 교육 및 시험에 관한 규정",
+            "target_article_no": "별지3",
+            "target_article_title": "소방고가차 운용사 자격시험 응시원서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863313",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0011",
+            "reference_id": "admrul:소방고가차운용능력교육및시험에관한규정#BJ0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "자격시험의 시행ㆍ통지",
+        "chapter": "제4장 자격시험 및 자격시험기관",
+        "content": "제12조(자격시험의 시행ㆍ통지) ① 소방청장은 자격시험을 연 2회 이상 시행하여야 한다. 다만, 필기시험과 실기시험을 구분하여 추가로 시행할 수 있다.② 자격시험을 실시하고자 하는 때에는 시험일시ㆍ장소ㆍ방법ㆍ과목 등 시험 시행에 필요한 사항을 시험일 30일 전까지 소방기관에 전자문서로 통지하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "시험위원의 위촉",
+        "chapter": "제4장 자격시험 및 자격시험기관",
+        "content": "제13조(시험위원의 위촉) ① 자격시험기관의 장은 소방고가차 및 장비운용 관련분야의 학식과 경험이 풍부한 사람 중에서 자격시험의 출제ㆍ채점ㆍ검토ㆍ평가 등의 업무를 담당할 자(이하 \"시험위원\"이라 한다)를 위촉한다.② 제1항에 따라 시험위원으로 위촉된 자는 자격시험기관의 장이 요구하는 시험문제의 출제ㆍ선정ㆍ검토ㆍ채점ㆍ평가 상의 유의사항 및 준수사항을 성실히 이행하여야 한다.③ 시험위원이 제2항을 위반하여 시험의 신뢰도를 심히 저하시키는 행위를 한 경우 자격시험기관의 장은 그 명단을 소방청장과 해당 시험위원이 소속된 기관의 장에게 통보하고, 징계 등 적절한 조치를 취할 것을 요청하여야 한다.④ 자격시험기관의 장은 필요한 경우 필기시험과 실기시험을 구분하여 시험위원을 위촉할 수 있다.⑤ 자격시험기관의 장은 시험위원들을 대상으로 업무에 필요한 교육을 연 1회 이상 실시할 수 있다.⑥ 자격시험기관의 장은 필기ㆍ실기시험에 참여하는 시험위원에게 수당, 여비 및 그 밖에 필요한 경비를 지급할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "필기시험의 출제 및 채점",
+        "chapter": "제4장 자격시험 및 자격시험기관",
+        "content": "제14조(필기시험의 출제 및 채점) ① 자격시험기관의 장은 다음 각 호의 기준에 부합하도록 필기시험의 출제 및 채점업무를 수행하여야 한다.1. 필기시험의 출제 및 채점 위원은 3인 이상으로 구성하여야 한다.2. 시험문항수의 10배수 이상을 작성하여 문제은행 방식에 따라 객관식 4지 선다형, 단답형 주관식 및 논술형을 혼합하여 출제할 수 있다.② 자격시험기관의 장은 출제과목 및 문항 수, 문항개발, 보안대책, 출제ㆍ검토ㆍ선제위원 선정 등 세부계획을 수립하여 시험시행의 오류가 발생하지 않도록 하여야 한다.③ 자격시험기관의 장은 필기시험 문제지 및 응시자 답안지를 합격자 발표일로부터 90일간 보관한다.④ 자격시험기관의 장은 시험문제의 출제 및 채점에 관하여 컴퓨터 장치를 활용하여 필기시험을 실시할 수 있으며, 이 경우 제1항제1호에 따른 필기시험의 출제 및 채점 위원을 구성하지 않을 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "필기시험의 합격기준",
+        "chapter": "제4장 자격시험 및 자격시험기관",
+        "content": "제15조(필기시험의 합격기준) 필기시험의 합격자 결정은 100점을 만점으로 하여 70점 이상 득점한 사람을 합격자로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "실기시험의 세부항목",
+        "chapter": "제4장 자격시험 및 자격시험기관",
+        "content": "제16조(실기시험의 세부항목) 실기시험의 평가항목, 채점기준 등 세부항목은 별표 5와 같다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제16조",
+            "source_clause": "제16조",
+            "link_text": "별표 5",
+            "line_text": "",
+            "target_law_name": "소방고가차 운용능력 교육 및 시험에 관한 규정",
+            "target_article_no": "별표5",
+            "target_article_title": "소방고가차 운용사 실기시험 유의사항 및 평가표",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000243548&bylNo=0005&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0016",
+            "reference_id": "admrul:소방고가차운용능력교육및시험에관한규정#BYL0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "실기시험의 방법",
+        "chapter": "제4장 자격시험 및 자격시험기관",
+        "content": "제17조(실기시험의 방법) ① 실기시험은 필기시험 합격자에 한하여 실시한다.② 실기시험은 개별 평가를 원칙으로 하되, 필요시 팀별 평가를 병행할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "실기시험의 합격기준",
+        "chapter": "제4장 자격시험 및 자격시험기관",
+        "content": "제18조(실기시험의 합격기준) 실기시험의 합격자 결정은 100점을 만점으로 하여 70점 이상 득점한 사람을 합격자로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "자격증 교부 등",
+        "chapter": "제4장 자격시험 및 자격시험기관",
+        "content": "제19조(자격증 교부 등) ① 소방청장은 소방고가차 운용사 자격시험에 합격한 사람에 대하여 별지 제4호서식의 소방고가차 운용사 자격증을 교부하여야 한다.② 소방청장은 제1항에 따라 자격증을 교부하는 때에는 별지 제5호서식에 기록하고, 이를 관리하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제1항",
+            "link_text": "별지 제4호서식",
+            "line_text": "",
+            "target_law_name": "소방고가차 운용능력 교육 및 시험에 관한 규정",
+            "target_article_no": "별지4",
+            "target_article_title": "소방고가차 운용사 자격증",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863319",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0019",
+            "reference_id": "admrul:소방고가차운용능력교육및시험에관한규정#BJ0004"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제2항",
+            "link_text": "별지 제5호서식",
+            "line_text": "",
+            "target_law_name": "소방고가차 운용능력 교육 및 시험에 관한 규정",
+            "target_article_no": "별지5",
+            "target_article_title": "소방고가차 운용사 자격증 교부대장",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863325",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0019",
+            "reference_id": "admrul:소방고가차운용능력교육및시험에관한규정#BJ0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "교육기관 및 자격시험기관의 사후관리 등",
+        "chapter": "제5장 사후관리",
+        "content": "제20조(교육기관 및 자격시험기관의 사후관리 등) ① 소방청장은 교육기관의 교육시설 및 교육과정 등에 대한 점검ㆍ평가계획을 수립하여 교육기관의 운영실태ㆍ교육실시 내용ㆍ교육효과 및 자격시험 실시 상황 등을 매년 1회 이상 점검 및 평가할 수 있다.② 제1항에도 불구하고 소방청장이 필요하다고 인정하는 경우 교육기관 및 자격시험기관의 교육ㆍ운영 실태를 수시로 점검할 수 있다.③ 제1항 및 제2항의 교육기관 및 자격시험기관의 점검ㆍ평가 결과 필요한 경우 시정권고를 할 수 있다. 이 경우 시정권고를 받은 교육기관 및 자격시험기관은 즉각적인 시정조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "소방고가차 운용사의 사후관리",
+        "chapter": "제5장 사후관리",
+        "content": "제21조(소방고가차 운용사의 사후관리) 소방기관의 장은 소방고가차 운용사를 119안전센터ㆍ구조대 등 화재진압과 인명구조 관련 부서 배치 및 소방장비 운용 분야 교육ㆍ훈련 교관 등으로 활용할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "보수교육 등",
+        "chapter": "제5장 사후관리",
+        "content": "제22조(보수교육 등) ① 소방청장은 소방고가차 운용능력의 자질향상을 위하여 필요한 보수교육을 3년에 1회 이상 실시하여야 한다.② 소방청장은 보수교육에 관한 업무를 중앙소방학교, 지방소방학교 및 교육기관의 장에게 위임할 수 있다.③ 보수교육 대상자는 소방고가차 운용사 자격을 취득하고 3년이 경과한 자 또는 해당 보수교육을 받고 3년이 경과한 자로 한다. 다만, 본인의 질병 또는 보직변경 등 그 밖에 불가피한 사유로 인하여 보수교육을 받기가 곤란하다고 인정되는 자에 대해서는 해당 연도의 보수교육을 면제할 수 있으며, 면제받은 대상자는 다음 연도에 교육을 이수하여야 한다.④ 제3항에 따라 보수교육을 면제받으려는 자는 해당 보수교육 실시 전에 별지 제6호서식의 소방고가차 운용사 보수교육 면제신청서에 면제받을 수 있는 자임을 인정할 수 있는 서류를 첨부하여 해당 보수교육을 실시하는 기관의 장에게 제출하여야 한다.⑤ 보수교육의 과목은 소방고가차 운용에 관한 사항을 포함하되, 실시 교육기관의 장이 따로 정한다.⑥ 보수교육의 시간은 4시간 이상으로 하되, 교육기관의 장이 따로 정하여 시행할 수 있다.⑦ 제1항에 따라 보수교육을 실시한 교육기관의 장은 해당 연도 보수교육 결과를 소방청장에게 보고하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제4항",
+            "link_text": "별지 제6호서식",
+            "line_text": "",
+            "target_law_name": "소방고가차 운용능력 교육 및 시험에 관한 규정",
+            "target_article_no": "별지6",
+            "target_article_title": "소방고가차 운용사 보수교육 면제신청서",
+            "appendix_no": "6",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863331",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0022",
+            "reference_id": "admrul:소방고가차운용능력교육및시험에관한규정#BJ0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "보수교육 강사",
+        "chapter": "제5장 사후관리",
+        "content": "제23조(보수교육 강사) 소방고가차 운용사 보수교육을 담당하는 강사는 다음 각 호의 어느 하나에 해당하는 자 중에서 교육기관의 장이 위촉한다.1. 소방고가차 운용사 자격취득자로 관련 업무를 수행하고 있는 자2. 소방교육훈련기관 차량담당 교수요원3. 소방장비 운용에 관한 학식과 경험이 풍부한 자",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "재검토기한",
+        "chapter": "제5장 사후관리",
+        "content": "제24조(재검토기한) 소방청장은 이 훈령에 대하여 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2025년 1월 1일 기준으로 매3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제24조",
+            "source_clause": "제24조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0024",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#JO0024"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20190416",
+      "promulgation_no": "78",
+      "content": "부칙 <제78호,2019. 4. 16.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다.제2조(경과조치) ① 이 훈령 시행일 전에 한국소방산업기술원에서 소방사다리차 운용능력 교육과정 및 교관양성 교육을 이수한 사람은 이 규정에 의한 교육을 이수한 것으로 본다.② 이 훈령 시행일 전에 소방사다리차 운용사 자격과 유사한 자격제도를 시행한 시ㆍ도 소방본부가 자격증 발급명단과 관련 서류를 첨부하여 교육ㆍ시험위원회에 제출할 경우 교육ㆍ시험위원회는 본문 제3조제2항제6호에 따른 면제 여부를 결정한다.③ 이 훈령 시행일 전에 소방사다리차 운용과 관련된 교육을 시행한 소방학교가 교육 수료자 명단과 교육관련 서류를 첨부하여 교육ㆍ시험위원회에 제출할 경우 교육ㆍ시험위원회는 본문 제3조제2항제7호에 따른 응시자격 유무를 결정한다."
+    },
+    {
+      "promulgation_date": "20200227",
+      "promulgation_no": "124",
+      "content": "부칙 <제124호,2020. 2. 27.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20220422",
+      "promulgation_no": "251",
+      "content": "부칙 (소방청 직제개편에 따른 20개 훈령의 일부개정에 관한 훈령)<제251호, 2022. 4. 22.>이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20240701",
+      "promulgation_no": "374",
+      "content": "부칙 <제374호, 2024. 7. 1.>이 훈령은 2025년 1월 1일부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "소방고가차 운용능력 자격(제2조 관련)",
+      "enforcement_date": "",
+      "content": "[별표 1]\n소방고가차 운용능력 자격(제2조 관련)\n┌─────┬──────────────────────────────┐\n│구  분    │기            준                                            │\n├─────┼──────────────────────────────┤\n│소방고가차│- 업무역량 : 소방고가차(사다리차·굴절차)를 독자적으로 운용 │\n│운용사    │할 수 있으며, 소방고가차의 구조원리를 이해하고 현장 활동    │\n│          │지침에 따라 업무를 수행할 수 있음                           │\n│          │                                                            │\n│          │- 영문표현 : FLTO(Fire Ladder Truck Operator)               │\n│          │                                                            │\n│          │- 자격취득 : 소방고가차 운용사 자격시험에 합격한 사람       │\n└─────┴──────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000243548&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863355",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863351",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863355",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#BYL0001",
+      "filename": "별표1_소방고가차 운용능력 자격(제2조 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "교육운영 기준(제8조 관련)",
+      "enforcement_date": "",
+      "content": "[별표 2]\n교육운영 기준(제8조 관련)\n┌────┬───────────────────────────────┐\n│구  분  │기            준                                              │\n├────┼───────────────────────────────┤\n│교육시간│ - 소방고가차(사다리차·굴절차) 운용 : 32시간 이상            │\n├────┼───────────────────────────────┤\n│교육대상│ - 소방차 운전경력 3년 이상자 중 소방교 이상                  │\n│        │  ※ 다만, 운전경력경쟁 채용자는 소방차 운전경력 1년 이상자   │\n│        │중 소방사 이상으로 한다.                                      │\n├────┼───────────────────────────────┤\n│교과목  │ - 일반자동차 구조원리, 소방고가차(사다리차·굴절차) 특장부분 │\n│편성기준│(전기장치, 전자제어, 유압시스템) 구조원리, 소방고가차(사다    │\n│        │리차·굴절차) 사고유형별 안전관리 등을 포함한 소방자동차      │\n│        │일반에 관한 사항                                              │\n│        │ - 소방고가차(사다리차·굴절차) 특장부분 조작과 응급 상황발생 │\n│        │시 비상조치 및 소방장비 예방점검에 관한 사항                  │\n│        │ - 소방자동차 시뮬레이터 실습을 통한 다양한 환경에서의 운전   │\n│        │체험, 도로환경별 주행코스 운전실습에 관한 사항                │\n│        │ - 각종 사고사례 연구에 관한 사항                             │\n│        │ - 최신 소방장비 운용 및 도입에 관한 사항                     │\n│        │ - 강의 기법 및 교수능력 개발에 관한 사항                     │\n└────┴───────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000243548&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863361",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863357",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863361",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#BYL0002",
+      "filename": "별표2_교육운영 기준(제8조 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "소방고가차 운용사 교육 및 실기시험의 장비기준(제10조제4항 관련)",
+      "enforcement_date": "",
+      "content": "[별표 3]\n소방고가차 운용사 교육 및 실기시험의 장비기준(제10조제4항 관련)\n■ 교육생/응시인원 20명 기준\n┌─────┬──────────┬─────────────────────┐\n│구  분    │필요장비            │보유수량                                  │\n├─────┼──────────┼─────────────────────┤\n│소방고가차│사다리차(15m급 이상)│2대 이상                                  │\n│          │굴절차(15m급 이상)  │2대 이상                                  │\n├─────┴──────────┴─────────────────────┤\n│ 비고 : 방화복 상의, 기동복, 활동화, 안전장갑 또는 구조장갑, 보호안경(고글) │\n│등                                                                          │\n│        개인장전장비 1세트는 응시자 개인지참                                │\n└──────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000243548&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863367",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863363",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863367",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#BYL0003",
+      "filename": "별표3_소방고가차 운용사 교육 및 실기시험의 장비기준(제10조제4항 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별표",
+      "title": "소방고가차 운용사 교육 및 자격시험의 시설기준(제10조제4항 관련)",
+      "enforcement_date": "",
+      "content": "[별표 4]\n소방고가차 운용사 교육 및 자격시험의 시설기준(제10조제4항 관련)\n■ 교육생/응시인원 20명 기준\n┌─────────┬─────────────────┬─────┐\n│구  분            │세부 시설기준                     │보유수량  │\n├─────────┼─────────────────┼─────┤\n│필기시험 시설기준 │시험실 150㎡이상                  │1개소 이상│\n│                  │책상                              │20개 이상 │\n│                  │의자                              │20개 이상 │\n│                  │칠판(화이트보드, 모니터 등)       │1대 이상  │\n├─────────┼─────────────────┼─────┤\n│실기시험 시설기준 │                                  │          │\n│                  │도로환경별 주행 코스              │          │\n│                  │ ㆍ곡선주행구간 50미터            │1개소 이상│\n│                  │ ㆍ경사로 등판구간 20미터         │1개소 이상│\n│                  │ ㆍ빗길 운행구간 20미터           │1개소 이상│\n│                  │ ㆍ편경사로 운행구간 50미터       │1개소 이상│\n│                  │ ㆍ횡단보도                       │1개소 이상│\n│                  │주차 등 기본 운전 코스(대형차기준)│          │\n│                  │ ㆍ후진주차코스                   │1개소 이상│\n│                  │ ㆍ구불구불한 코스                │1개소 이상│\n│                  │ ㆍ방향전환 코스                  │1개소 이상│\n│                  │높이 15미터 이상 훈련 탑          │1개소 이상│\n│                  │                                  │          │\n│                  │                                  │          │\n└─────────┴─────────────────┴─────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000243548&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863373",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863369",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863373",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#BYL0004",
+      "filename": "별표4_소방고가차 운용사 교육 및 자격시험의 시설기준(제10조제4항 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별표",
+      "title": "소방고가차 운용사 실기시험 유의사항 및 평가표",
+      "enforcement_date": "",
+      "content": "[별표 5]\n소방고가차 운용사 실기시험 유의사항 및 평가표\n<유의사항>\n┌──────────────────────────────────────────────────┐\n│1. 평가관은 본 훈령에 의해 지정된 자로 하며 안전사고에 주의하고 안전요원을 배치한다.                │\n│2. 평가관은 응시자의 본인 여부(응시표)를 확인해야 한다.                                             │\n│3. 제한시간 내에 실시하는 평가는 평가관의 종료(정지)신호를 알리면 즉시 행동을                       │\n│정지하고 평가관의 통제에 따른다.(안전사고 발생 및 제한시간 초과 시 불합격)                          │\n│4. 장비의 이상발생을 제외한 평가 간 재시도는 허용되지 않는다.                                       │\n│5. 평가의 원활한 진행을 위해 응시자는 무단행동을 금한다.                                            │\n│6. 실기평가표의 용어는 다음과 같다.                                                                 │\n│ 1) 개인안전장구 : 방화복, 활동화, 안전장갑(구조장갑), 보호안경(고글), 안전모                       │\n│ 2) 평가차량 : 소방고가차(사다리차, 굴절차) ※ 소방차량 주행 능력 평가는 대형 소방차량으로 대체가능 │\n└──────────────────────────────────────────────────┘\n<평가진행방법 및 실격사항 등>\n┌────────────────────────────────────────────────┐\n│1. 평가순서는 평가 장소와 여건을 고려하여 평가기관에서 임의 조정해 실시할 수 있다.              │\n│┌───────────────────────┐                                              │\n││평가 종목                                     │                                              │\n│├───────────────────────┤                                              │\n││① 소방차량 주행 능력 평가                    │                                              │\n││                                              │                                              │\n││② 굴절차 자동조작 능력 평가                  │                                              │\n││                                              │                                              │\n││③ 사다리차 자동조작 능력 평가                │                                              │\n││                                              │                                              │\n││④ 소방고가차 수동조작 및 비상 대응 능력 평가 │                                              │\n│└───────────────────────┘                                              │\n│2. 종목별 배점의 40% 이상을 득점하여야 다음 평가 종목에 응시할 수 있다.                         │\n│3. 합격자의 결정은 전체 종목 합계 70점 이상을 득점한 사람으로 한다.                             │\n│3. 항목별 실격기준에 해당하는 경우에는 전체 종목을 불합격 처리한다.                             │\n│4. 평가표 상에 “구령”은 해당 동작에 대해 실제 확인하고 실시하여야 인정된다.                   │\n│   예) 아웃트리거 전개 전 주변사항을 눈으로 확인 후 구령(형식적인 복창은 미인정)                │\n│5. 실격사항                                                                                     │\n│ 1) 각 종목 평가표에 명시된 항목을 순서대로 실시하지 않은 경우 실격 처리한다.                   │\n│ 2) 평가자 과실에 의한 안전사고 발생 시 실격 처리한다.(예:소방차 접촉사고, 신체 및 장비추락 등) │\n│ 3) 평가 중 뛰는 행위는 구두 경고 후 해당 세부 평가항목을 감점하고 3회 발생 시 실격 처리한다.   │\n│ 4) 평가 중 용지 또는 스마트폰을 보는 등 부정행위를 한 경우 실격 처리한다.                      │\n│ 5) 소방고가차 운용사 실기평가표 실격기준에 해당하는 경우 실격 처리한다.                        │\n└────────────────────────────────────────────────┘\n소방고가차 운용사 실기평가 총괄 채점표\n┏━┯━━━┯━━━┯━━━┯━━━┯━━━┓\n┃결│평가관│평가관│평가관│평가관│감독관┃\n┃  ├───┼───┼───┼───┼───┨\n┃재│      │      │      │      │      ┃\n┗━┷━━━┷━━━┷━━━┷━━━┷━━━┛\n1. 응시자 인적사항\n┏━━┯┯━━┯━━━┯━━┯┯━━┯┓\n┃응시││소속│본부  │계급││성명│┃\n┃번호││    │소방서│    ││    │┃\n┗━━┷┷━━┷━━━┷━━┷┷━━┷┛\n2. 평가항목 및 점수\n┏━━┯━━━━━━━━━━━━━━━━┯━━┯━━┯━━┯━━━┓\n┃연번│평 가 종 목                     │배점│감점│득점│합 격 ┃\n┃    │                                │    │    │    ├───┨\n┃    │                                │    │    │    │불합격┃\n┠──┼────────────────┼──┼──┼──┼───┨\n┃1   │소방차량 주행 능력 평가         │10  │    │    │      ┃\n┠──┼────────────────┼──┼──┼──┼───┨\n┃2   │굴절차 자동조작 능력 평가       │30  │    │    │      ┃\n┠──┼────────────────┼──┼──┼──┼───┨\n┃3   │사다리차 자동조작 능력 평가     │30  │    │    │      ┃\n┠──┼────────────────┼──┼──┼──┼───┨\n┃4   │소방고가차 수동조작 및 비상대응 │30  │    │    │      ┃\n┃    │능력 평가                       │    │    │    │      ┃\n┗━━┷━━━━━━━━━━━━━━━━┷━━┷━━┷━━┷━━━┛\n\n┏━━━━━━━━━━━━━━━━━━━┯━━┯━━┯━━┯━━━┓\n┃총  점                                │100 │    │    │      ┃\n┗━━━━━━━━━━━━━━━━━━━┷━━┷━━┷━━┷━━━┛\n\n소방고가차 운용사 실기평가표\n\n\n┏━━━━┯┯━━┯━━━┯━━━┯━━━┓\n┃응시번호││성명│(서명)│평가관│(서명)┃\n┗━━━━┷┷━━┷━━━┷━━━┷━━━┛\n□ 소방차량 주행능력 평가(제한시간 12분)\n┏━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━┯━┯━┯━━━━┓\n┃평가항목                                    │세부 평가항목                             │배│감│득      ┃\n┃                                            │                                          │점│점│점      ┃\n┠──────────────────────┼─────────────────────┼─┼─┼────┨\n┃ο 안전벨트 장착 후 시동                    │- 안전벨트 착용 여부                      │1 │  │        ┃\n┃  “평가준비 끝” 구령                      │ ※ 안전벨트 미착용 시 감점 1점           │  │  │        ┃\n┠──────────────────────┼─────────────────────┼─┼─┼────┨\n┃ο 평가관의 “출발” 신호에 따라 경광등 및  │경광등 및 싸이렌 취명 여부                │1 │  │        ┃\n┃싸이렌 취명 후 출발(싸이렌은 10미터         │ ※ 경광등 미작동 감점 0.5점              │  │  │        ┃\n┃지점 통과 시 취명 OFF)                      │ ※ 싸이렌 미작동 감점 0.5점              │  │  │        ┃\n┠──────────────────────┼─────────────────────┼─┼─┼────┨\n┃ο <주행 코스> 곡선주행구간 → 경사로       │- 주행코스 주행 중 장애물 충돌 여부       │1 │  │        ┃\n┃등판구간 → 빗길운행구간 → 편경사로        │ ※ 장애물 충돌 시 감점 1점(3회 실격)     │  │  │        ┃\n┃구간 → 횡단보도구간 순대로 주행            │                                          │  │  │        ┃\n┠──────────────────────┼─────────────────────┼─┼─┼────┨\n┃ο <장애물 코스> 후진주차 → 구불구불한     │- 장애물 코스 주행 중 장애물 충돌 여부    │1 │  │        ┃\n┃코스 → 방향전환을 순서대로 주행            │ ※ 장애물 충돌 시 감점 1점(3회 실격)     │  │  │        ┃\n┠──────────────────────┼─────────────────────┼─┼─┼────┨\n┃ο 주행 중 횡단보도 앞에서 일시정차         │- 횡단보도 앞 일시정차 및 정지선 준수여부 │1 │  │        ┃\n┃ - 앞 범퍼가 정지선으로부터 1미터 이내에    │ ※ 일시정차 미준수 감점 0.5점            │  │  │        ┃\n┃정차하고, 정지선을 침범하지 않을 것         │ ※ 정지선 미준수 감점 0.5점              │  │  │        ┃\n┠──────────────────────┼─────────────────────┼─┼─┼────┨\n┃ο 지정속도 및 시동상태 유지                │- 운행 중 지정속도 유지 및 시동 꺼짐 여부 │1 │  │        ┃\n┃ ※ 모든 코스 30km 이내 운행                │ ※ 시속 30km 초과 시 감점 1점(3회 실격)  │  │  │        ┃\n┃ο 종료 선 통과 후 시동을 끄고 하차하여     │ ※ 시동 꺼짐 시 감점 1점(3회 실격)       │  │  │        ┃\n┃“실시완료” 구령(평가시간 종료)            │                                          │  │  │        ┃\n┠──────────────────────┼─────────────────────┼─┼─┼────┨\n┃ο 제한시간 준수                            │ ※ 초과시간 30초당 감점 1점              │4 │  │        ┃\n┃                                            │ ※ 제한시간 2분 초과 시 실격             │  │  │        ┃\n┠──────────────────────┴─────────────────────┼─┼─┼────┨\n┃평가점수                                                                                │10│  │        ┃\n┠────────────────────────────────────────────┴─┴─┴────┨\n┃※ 감점 기준                                                                                              ┃\n┃ - 감점은 각 항목 별 배점 한도 내에서 감점 처리                                                           ┃\n┃ - 제한시간 초과시간에 따른 감점                                                                          ┃\n┃┌────────────┬────────────┬────────────┬────────────┐┃\n┃│12‘00’‘시간12’30‘’│12‘30’‘시간13’00‘’│13‘00’‘시간13’30’‘│13‘30’‘시간14’00’‘│┃\n┃├────────────┼────────────┼────────────┼────────────┤┃\n┃│감점 1점                │감점 2점                │감점 3점                │감점 4점                │┃\n┃└────────────┴────────────┴────────────┴────────────┘┃\n┃※ 실격기준                                                                                               ┃\n┃ - 배점 10점 중 4점 미만을 득점하거나 평가표 상 실격으로 명시된 사항을 충족하지 못한 경우                 ┃\n┃ - 평가항목별 코스 장애물을 3회 충돌하거나 평가 중 시속 30km 초과 3회 및 시동 꺼짐 3회 발생한 경우        ┃\n┃ - 제한시간 2분을 초과한 경우                                                                             ┃\n┃ - 안전사고를 일으키거나, 평가 중 평가관이 위험하다고 판단되어 운행 중단을 지시할 경우                    ┃\n┃ - 평가표에 명시된 평가항목 순서대로 실시하지 않은 경우                                                   ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n소방고가차 운용사 실기평가표\n\n\n┏━━━━┯┯━━┯━━━┯━━━┯━━━┓\n┃응시번호││성명│(서명)│평가관│(서명)┃\n┗━━━━┷┷━━┷━━━┷━━━┷━━━┛\n□ 굴절차 자동조작 능력 평가(제한시간 14분)\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━┯━┯━┓\n┃평가항목                                                │세부 평가항목                                             │배│감│득┃\n┃                                                        │                                                          │점│점│점┃\n┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━┷┯┿━┫\n┃ο 개인장비(기동복, 안전모, 방화복 상의, 활동화, 안전장 │- 안전장구 착용 상태                                      │1   ││  ┃\n┃갑) 착용 후 출발대기선에서 “평가준비 끝” 구           │ ※ 안전장비 미착용 및 불완전 착용 시 장비별 감점 0.5점   │    ││  ┃\n┃령                                                      │                                                          │    ││  ┃\n┠────────────────────────────┼─────────────────────────────┼──┼┼─┨\n┃ο 평가관의 “실시” 구령에 따라 “실시” 복창 후 차량  │ 차량부서 적정 여부                                       │2   ││  ┃\n┃에 탑승하여 시동을 켜고 전개 가능한 위치로              │※ 부서 위치 수정 회당 감점 1점                           │    ││  ┃\n┃차량을 이동하여 부서                                    │                                                          │    ││  ┃\n┠────────────────────────────┼─────────────────────────────┼──┼┼─┨\n┃o 유압 PTO, 크루즈 스위치, 특장 전원 작동               │유압 PTO, 크루즈 스위치, 특장 전원 작동 적정 여부         │1   ││  ┃\n┃                                                        │ ※ 미작동 및 부적정 작동시 감점 1점                      │    ││  ┃\n┠────────────────────────────┼─────────────────────────────┼──┼┼─┨\n┃o 주차브레이크 작동 및 고임목 설치                      │안전장치 작동 및 설치 여부                                │2   ││  ┃\n┃ ※ 운전석 뒷바퀴에 고임목 2개 설치                     │ ※ 주차브레이크 미작동시 감점 2점                        │    ││  ┃\n┃                                                        │ ※ 고임목 미설치(부적정) 개당 감점 1점                   │    ││  ┃\n┠────────────────────────────┼─────────────────────────────┼──┼┼─┨\n┃o “아웃트리거 작동” 구령 후 자동으로 조작             │- 아웃트리거 조작 및 잭 부판 설치 적정 여부               │3   ││  ┃\n┃ - 잭 부판 설치 및 아웃트리거 수평을 맞춘 후            │ ※ 아웃트리거 오작동 회당 감점 1점                       │    ││  ┃\n┃“수평완료” 구령                                       │ ※ 잭 부판 설치 부적정 개당 감점 1점                     │    ││  ┃\n┠────────────────────────────┼─────────────────────────────┼──┼┼─┨\n┃o 차량 턴테이블로 이동하여 “붐 전개” 구령 후          │- 붐 전개 및 건물(목표물)과의 적정 접근(전개) 여부        │8   ││  ┃\n┃붐 전개 및 바스켓 상승 후 “전개완료” 구령             │ ※ 이격거리 기준 초과 10cm당 감점 2점                    │    ││  ┃\n┃ - 바스켓 발판 끝과 건물과의 이격거리 30cm이내          │ ※ 장비가 건물과 충돌하거나 바스켓 발판 끝부분이         │    ││  ┃\n┃지점까지 전개                                           │건물(목표물)로부터 70cm 초과 이격시 실격                  │    ││  ┃\n┃ - 바스켓 발판 끝부분이 목표물(100cm×60cm) 내 접근     │ ※ 바스켓 발판 끝부분이 목표물을 벗어난 경우 실격        │    ││  ┃\n┃ ※ 이격거리 및 목표물 접근 확인은 사다리 “전개완료”  │(이를 목적으로 바스켓을 정상 각도를 벗어나 부적           │    ││  ┃\n┃구령 시점으로 함                                        │절하게 펼치는 경우 실격)                                  │    ││  ┃\n┃                                                        │ ※ 이격거리 및 목표물 접근이 확인되지 않은 상태에서      │    ││  ┃\n┃                                                        │평가관의 지시없이 다음 항목 진행시 실격                   │    ││  ┃\n┠────────────────────────────┼─────────────────────────────┼──┼┼─┨\n┃o 평가관 “철수” 지시에 따라 “철수” 복창하고         │- (전개 및 철수) 붐 및 바스켓 조작의 적정 여부            │2   ││  ┃\n┃붐 안착                                                 │ ※ 조이스틱 및 풋 스위치 조작 미숙에 의한 흔들림 발생시  │    ││  ┃\n┃                                                        │회당 감점 1점                                             │    ││  ┃\n┠────────────────────────────┼─────────────────────────────┼──┼┼─┨\n┃o 아웃트리거 수납 및 수납상태 확인 후 “아웃            │- 아웃트리거 및 잭 부판 수납 적정 여부                    │2   ││  ┃\n┃트리거 수납상태 이상 없음” 구령                        │ ※ 아웃트리거 수납 및 수납상태 확인 미실시 감점 2점      │    ││  ┃\n┃o 잭 부판 및 고임목 수납 후 차량에 탑승하여 유          │- 고임목 수납 및 유압 PTO 해제 여부                       │    ││  ┃\n┃압 PTO 해제                                             │ ※ 고임목 수납 및 유압 PTO 해제 미실시 감점 2점          │    ││  ┃\n┠────────────────────────────┼─────────────────────────────┼──┼┼─┨\n┃o 출발선으로 차량 이동 후 하차하여 “실시완료”         │장비 상태 확인                                            │1   ││  ┃\n┃구령                                                    │ ※ 조작함, 발판 등 개폐불량시 감점 1점                   │    ││  ┃\n┠────────────────────────────┼─────────────────────────────┼──┼┼─┨\n┃ο 제한시간 준수                                        │ ※ 초과시간 30초당 감점 2점                              │8   ││  ┃\n┃                                                        │ ※ 제한시간 2분 초과 시 실격                             │    ││  ┃\n┠────────────────────────────┴─────────────────────────────┼──┼┼─┨\n┃평가점수                                                                                                            │30  ││  ┃\n┠──────────────────────────────────────────────────────────┴──┴┴─┨\n┃※ 감점 기준                                                                                                                    ┃\n┃ - 감점은 각 항목 별 배점 한도 내에서 감점 처리                                                                                 ┃\n┃ - 바스켓 끝부분과 건물 이격거리에 초과에 따른 감점                                                                             ┃\n┃┌──────┬──────┬──────┬──────┐                                                                      ┃\n┃│30cm거리40cm│40cm거리50cm│50cm거리60cm│60cm거리70cm│                                                                      ┃\n┃├──────┼──────┼──────┼──────┤                                                                      ┃\n┃│감점 2점    │감점 4점    │감점 6점    │감점 8점    │                                                                      ┃\n┃└──────┴──────┴──────┴──────┘                                                                      ┃\n┃ - 제한시간 초과 시간에 따른 감점                                                                                               ┃\n┃┌────────────┬────────────┬────────────┬────────────┐                      ┃\n┃│14‘00’‘시간14’30‘’│14‘30’‘시간15’00‘’│15‘00’‘시간15’30’‘│15‘30’‘시간16’00’‘│                      ┃\n┃├────────────┼────────────┼────────────┼────────────┤                      ┃\n┃│감점 2점                │감점 4점                │감점 6점                │감점 8점                │                      ┃\n┃└────────────┴────────────┴────────────┴────────────┘                      ┃\n┃※ 실격기준                                                                                                                     ┃\n┃ - 배점 30점 중 12점 미만을 득점하거나 평가표 상 실격으로 명시된 사항을 충족하지 못한 경우                                      ┃\n┃ - 제한시간 2분을 초과한 경우                                                                                                   ┃\n┃ - 안전사고를 일으키거나, 평가 중 평가관이 위험하다고 판단되어 평가 중단을 지시할 경우                                          ┃\n┃ - 평가표에 명시된 평가항목 순서대로 실시하지 않은 경우                                                                         ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n소방고가차 운용사 실기평가표\n\n\n┏━━━━┯┯━━┯━━━┯━━━┯━━━┓\n┃응시번호││성명│(서명)│평가관│(서명)┃\n┗━━━━┷┷━━┷━━━┷━━━┷━━━┛\n□ 사다리차 자동조작 능력 평가(제한시간 15분)\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━┯━┯━┓\n┃평가항목                                                    │세부 평가항목                                           │배│감│득┃\n┃                                                            │                                                        │점│점│점┃\n┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━┿━┿━┫\n┃ο 개인장비(기동복, 안전모, 방화복 상의, 활동화, 안전장갑)  │- 안전장구 착용 상태                                    │1 │  │  ┃\n┃착용 후 출발대기선에서 “평가준비 끝” 구령                 │ ※ 안전장비 미착용 및 불완전 착용 시 장비별 감점 0.5점 │  │  │  ┃\n┠──────────────────────────────┼────────────────────────────┼─┼─┼─┨\n┃ο 평가관의 “실시” 구령에 따라 “실시”복창 후            │ 차량부서 적정 여부                                     │2 │  │  ┃\n┃차량에 탑승하여 시동을 켜고 전개 가능한 위치                │ ※ 부서 위치 수정 회당 감점 1점                        │  │  │  ┃\n┃로 차량을 이동하여 부서                                     │                                                        │  │  │  ┃\n┠──────────────────────────────┼────────────────────────────┼─┼─┼─┨\n┃o 유압 PTO, 크루즈 스위치, 특장 전원 작동                   │유압 PTO, 크루즈 스위치, 특장 전원 작동 적정 여부       │1 │  │  ┃\n┃                                                            │ ※ 미작동 및 부적정 작동시 감점 1점                    │  │  │  ┃\n┠──────────────────────────────┼────────────────────────────┼─┼─┼─┨\n┃o 주차브레이크 작동 및 고임목 설치                          │안전장치 작동 및 설치 여부                              │2 │  │  ┃\n┃ ※ 운전석 뒷바퀴에 고임목 2개 설치                         │ ※ 주차브레이크 미작동시 감점 2점                      │  │  │  ┃\n┃                                                            │ ※ 고임목 미설치(부적정) 개당 감점 1점                 │  │  │  ┃\n┠──────────────────────────────┼────────────────────────────┼─┼─┼─┨\n┃o “아웃트리거 작동” 구령 후 자동으로 조작                 │- 아웃트리거 조작 및 잭 부판 설치 적정 여부             │4 │  │  ┃\n┃ - 잭 부판 설치 및 아웃트리거 수평을 맞춘 후                │ ※ 아웃트리거 오작동 회당 감점 1점                     │  │  │  ┃\n┃“수평완료” 구령                                           │ ※ 잭 부판 설치 부적정 개당 감점 1점                   │  │  │  ┃\n┠──────────────────────────────┼────────────────────────────┼─┼─┼─┨\n┃o 차량 턴테이블로 이동하여 “사다리 전개” 구령             │- 사다리 전개 시 선단(스텝)이 건물(목표물)에            │6 │  │  ┃\n┃후 사다리를 전개하고 “전개완료” 구령                      │적정 접근(전개) 여부                                    │  │  │  ┃\n┃ - 사다리 선단 스텝 끝과 건물과의 이격거리                  │ ※ 이격거리 기준 초과 10cm당 감점 2점                  │  │  │  ┃\n┃40cm이내 지점까지 전개                                      │ ※ 사다리가 건물과 충돌하거나 선단(스텝) 끝이          │  │  │  ┃\n┃ - 선단 스텝 끝부분이 목표물(100cm×60cm) 내 접근           │건물(목표물)로부터 70cm 초과 이격시 실격                │  │  │  ┃\n┃ ※ 이격거리 및 목표물 접근 확인은 사다리 “전개            │ ※ 선단 스텝 끝부분이 목표물을 벗어난 경우 실격        │  │  │  ┃\n┃완료” 구령 시점으로 함                                     │(이를 목적으로 선단 스텝을 펼치지 않거나 정상           │  │  │  ┃\n┃                                                            │각도를 벗어나 부적절하게 펼치는 경우 실격)              │  │  │  ┃\n┃                                                            │ ※ 이격거리 및 목표물 접근이 확인되지 않은 상태에서    │  │  │  ┃\n┃                                                            │평가관의 지시없이 다음 항목 진행시 실격                 │  │  │  ┃\n┠──────────────────────────────┼────────────────────────────┼─┼─┼─┨\n┃o 평가관 승강기 상승 지시에 “승강기 상승”                 │- 승강기 정상 작동 및 조작의 적정 여부                  │3 │  │  ┃\n┃복창 후 승강기를 상승하고 “상승완료” 구령                 │ ※ 조이스틱 및 풋 스위치 조작 미숙에 의한 흔들림       │  │  │  ┃\n┃o 평가관 “철수” 지시에 따라 “철수” 복창하고             │발생시 회당 감점 1점                                    │  │  │  ┃\n┃승강기 하강 후 사다리 안착                                  │ ※ 승강기 상승 미실시 실격                             │  │  │  ┃\n┠──────────────────────────────┼────────────────────────────┼─┼─┼─┨\n┃o 아웃트리거 수납 및 수납상태 확인 후 “아웃                │- 아웃트리거 및 잭 부판 수납 적정 여부                  │2 │  │  ┃\n┃트리거 수납상태 이상 없음” 구령                            │ ※ 아웃트리거 수납 및 수납상태 확인 미실시 감점 2점    │  │  │  ┃\n┃o 잭 부판 및 고임목 수납 후 차량에 탑승하여                 │- 고임목 수납 및 유압 PTO 해제 여부                     │  │  │  ┃\n┃유압 PTO 해제                                               │ ※ 고임목 수납 및 유압 PTO 해제 미실시 감점 2점        │  │  │  ┃\n┠──────────────────────────────┼────────────────────────────┼─┼─┼─┨\n┃o 출발선으로 차량 이동 후 하차하여 “실시완료”             │장비 상태 확인                                          │1 │  │  ┃\n┃구령                                                        │ ※ 조작함, 발판 등 개폐불량시 감점 1점                 │  │  │  ┃\n┠──────────────────────────────┼────────────────────────────┼─┼─┼─┨\n┃ο 제한시간 준수                                            │ ※ 초과시간 30초당 감점 2점                            │8 │  │  ┃\n┃                                                            │ ※ 제한시간 2분 초과 시 실격                           │  │  │  ┃\n┠──────────────────────────────┴────────────────────────────┼─┼─┼─┨\n┃평가점수                                                                                                              │30│  │  ┃\n┠───────────────────────────────────────────────────────────┴─┴─┴─┨\n┃※ 감점 기준                                                                                                                      ┃\n┃ - 감점은 각 항목 별 배점 한도 내에서 감점 처리                                                                                   ┃\n┃ - 사다리 전개 선단 스텝 끝부분과 건물 이격거리에 초과에 따른 감점                                                                ┃\n┃┌──────┬──────┬──────┐                                                                                      ┃\n┃│40cm거리50cm│50cm거리60cm│60cm거리70cm│                                                                                      ┃\n┃├──────┼──────┼──────┤                                                                                      ┃\n┃│감점 2점    │감점 4점    │감점 6점    │                                                                                      ┃\n┃└──────┴──────┴──────┘                                                                                      ┃\n┃ - 제한시간 초과 시간에 따른 감점                                                                                                 ┃\n┃┌────────────┬────────────┬────────────┬────────────┐                        ┃\n┃│15‘00’‘시간15’30‘’│15‘30’‘시간16’00‘’│16‘00’‘시간16’30’‘│16‘30’‘시간17’00’‘│                        ┃\n┃├────────────┼────────────┼────────────┼────────────┤                        ┃\n┃│감점 2점                │감점 4점                │감점 6점                │감점 8점                │                        ┃\n┃└────────────┴────────────┴────────────┴────────────┘                        ┃\n┃※ 실격기준                                                                                                                       ┃\n┃ - 배점 30점 중 12점 미만을 득점하거나 평가표 상 실격으로 명시된 사항을 충족하지 못한 경우                                        ┃\n┃ - 제한시간 2분을 초과한 경우                                                                                                     ┃\n┃ - 안전사고를 일으키거나, 평가 중 평가관이 위험하다고 판단되어 평가 중단을 지시할 경우                                            ┃\n┃ - 평가표에 명시된 평가항목 순서대로 실시하지 않은 경우                                                                           ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n소방고가차 운용사 실기평가표\n\n\n┏━━━━┯┯━━┯━━━┯━━━┯━━━┓\n┃응시번호││성명│(서명)│평가관│(서명)┃\n┗━━━━┷┷━━┷━━━┷━━━┷━━━┛\n평가개요 : 응시자는 사다리차, 굴절차 순으로 수동조작을 수행하여야 한다.\n평가관 준비사항 : (공통) 시동 켜진상태, PTO 작동상태, 특장 메인전원 OFF 상태, 아우트리거 수평완료 상태\n(사다리차) 사다리 기립각도 60도, 사다리 신장 25m, 승강기 상승된 상태\n(굴 절 차) 붐 기립각도 60도, 짚붐 각도 20도, 붐 신장 15m 상태\n□ 소방고가차 수동조작 능력 평가(제한시간 13분)\n┏━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━┯━┯━┯━┓\n┃구 분 │평가항목                                                      │세부 평가항목                             │배│감│득┃\n┃      │                                                              │                                          │점│점│점┃\n┠───┼───────────────────────────────┼─────────────────────┼─┼─┼─┨\n┃공통  │ο 개인장비(기동복, 안전모, 방화복 상의, 활동화, 안전장갑)    │- 안전장구 착용 상태                      │1 │  │  ┃\n┃      │착용 후 출발대기선에서 “평가준비 끝” 구령                   │ ※ 안전장비 미착용 및 불완전 착용 시     │  │  │  ┃\n┃      │                                                              │장비별 감점 0.5점                         │  │  │  ┃\n┠─┬─┼───────────────────────────────┼─────────────────────┼─┼─┼─┨\n┃사│유│ο 출발선에서 평가관의 실시 구령에 따라 “실시” 복창         │- 유압펌프 확인 여부                      │1 │  │  ┃\n┃다│압│ο 유압펌프 작동 확인 후 “유압펌프 작동” 구령               ├─────────────────────┼─┼─┼─┨\n┃리│  │ο 유압전환밸브(상부) 및 비상차단솔레노이드(UV1)밸브          │- 유압전환밸브 조작 여부                  │1 │  │  ┃\n┃차│  │작동 후 “상부 전환” 구령                                    ├─────────────────────┼─┼─┼─┨\n┃  │  │                                                              │- 비상차단솔레노이드 밸브 조작 여부       │2 │  │  ┃\n┃  ├─┼───────────────────────────────┼─────────────────────┼─┼─┼─┨\n┃  │승│ο “승강기 하강” 구령 후 승강기를 하강하고 하강             │승강기 하강 조작 적정성                   │1 │  │  ┃\n┃  │강│완료 후 “하강 완료” 구령                                    ├─────────────────────┼─┼─┼─┨\n┃  │기│ο 승강기 고정장치 작동 후 “고정장치 작동” 구령             │승강기 와이어 풀림 여부                   │2 │  │  ┃\n┃  │  │                                                              │※ 와이어 과풀림을 조치하지 못할 시 실격  │  │  │  ┃\n┃  │  │                                                              ├─────────────────────┼─┼─┼─┨\n┃  │  │                                                              │- 승강기 고정장치 작동 여부               │1 │  │  ┃\n┃  ├─┼───────────────────────────────┼─────────────────────┼─┼─┼─┨\n┃  │사│ο “사다리 수축” 구령 후 수축 작동                          │- 사다리 수축 조작 적정성                 │1 │  │  ┃\n┃  │다│ο “사다리 비출방지장치 작동” 구령 후 작동                  ├─────────────────────┼─┼─┼─┨\n┃  │리│ο 사다리를 하강하여 지지대에 안착 후 “안착 완료” 구령      │- 사다리비출방지장치 조작 여부            │2 │  │  ┃\n┃  │  │※ (순서) 사다리수축 → 비출방지장치작동 → 사다리하강·안착  ├─────────────────────┼─┼─┼─┨\n┃  │  │                                                              │- 사다리 지지대 안착 적정성               │1 │  │  ┃\n┃  ├─┼───────────────────────────────┼─────────────────────┼─┼─┼─┨\n┃  │유│ο 유압전환밸브(상부)전환 해제                                │- 유압전환밸브 조작 여부                  │1 │  │  ┃\n┃  │압│ο 비상차단솔레노이드(UV1)밸브 해제 후 출발선에               ├─────────────────────┼─┼─┼─┨\n┃  │  │정위치                                                        │- 비상차단솔레노이드 밸브 조작 여부       │1 │  │  ┃\n┠─┼─┼───────────────────────────────┼─────────────────────┼─┼─┼─┨\n┃굴│유│ο 평가관의 실시 구령에 따라 “실시” 복창                    │- 유압펌프 확인 여부                      │1 │  │  ┃\n┃절│압│ο 유압펌프 작동 확인 후 “유압펌프 작동” 구령               ├─────────────────────┼─┼─┼─┨\n┃차│  │ο 유압전환밸브(상부) 및 비상차단솔레노이드(UV1)              │- 유압전환밸브 조작 여부                  │1 │  │  ┃\n┃  │  │밸브 작동 후 “상부 전환” 구령                               ├─────────────────────┼─┼─┼─┨\n┃  │  │                                                              │- 비상차단솔레노이드 밸브 조작 여부       │2 │  │  ┃\n┃  ├─┼───────────────────────────────┼─────────────────────┼─┼─┼─┨\n┃  │굴│ο “메인붐 수축” 구령하고 메인붐을 수축한 후                │- 메인붐 작동 적정성 여부                 │1 │  │  ┃\n┃  │절│“수축 완료” 구령                                            ├─────────────────────┼─┼─┼─┨\n┃  │붐│ο “짚붐 하강” 구령하고 짚붐을 하강한 후 “하강 완료” 구령 │- 짚 붐 작동 적정성 여부                  │1 │  │  ┃\n┃  │  │ο “굴절붐 하강” 구령하고 굴절붐을 지지대에 안착한 후       ├─────────────────────┼─┼─┼─┨\n┃  │  │“안착 완료” 구령                                            │- 굴절붐 지지대 안착 적정성               │1 │  │  ┃\n┃  │  │※ (순서) 메인붐 수축 → 짚붐 하강 → 굴절붐 하강·안착       │                                          │  │  │  ┃\n┃  ├─┼───────────────────────────────┼─────────────────────┼─┼─┼─┨\n┃  │아│ο 유압전환밸브(하부) 작동 후 “하부 전환” 구령              │- 유압전환밸브 조작 여부                  │2 │  │  ┃\n┃  │우│ο 아웃트리거 잭 실린더 상승 작동                             ├─────────────────────┼─┼─┼─┨\n┃  │트│ο 확장 실린더 수축 작동 후 “수납 완료” 구령                │- 아웃트리거 작동 적정성 여부             │2 │  │  ┃\n┃  │리│ο 유압전환밸브(하부) 해제                                    ├─────────────────────┼─┼─┼─┨\n┃  │거│ο 유압발전기 수동작동 후 “발전기 작동” 구령                │- 유압발전기 조작 여부                    │1 │  │  ┃\n┃  │  │ο 유압발전기 수동작동 해제                                   ├─────────────────────┼─┼─┼─┨\n┃  │  │ο 비상차단솔레노이드(UV1) 밸브 해제                          │- 비상차단솔레노이드 밸브 조작 여부       │1 │  │  ┃\n┃  │  │o 출발선으로 이동하여 “실시완료” 구령                       │                                          │  │  │  ┃\n┠─┴─┼───────────────────────────────┼─────────────────────┼─┼─┼─┨\n┃기타  │ο 제한시간 준수                                              │ ※ 초과시간 30초당 감점 0.5점            │2 │  │  ┃\n┃      │                                                              │ ※ 제한시간 2분 초과 시 실격             │  │  │  ┃\n┠───┴───────────────────────────────┴─────────────────────┼─┼─┼─┨\n┃평가점수                                                                                                          │30│  │  ┃\n┠─────────────────────────────────────────────────────────┴─┴─┴─┨\n┃※ 감점 기준                                                                                                                  ┃\n┃ - 감점은 각 항목 별 배점 한도 내에서 감점 처리                                                                               ┃\n┃ - 제한시간 초과 시간에 따른 감점                                                                                             ┃\n┃┌────────────┬────────────┬────────────┬────────────┐                    ┃\n┃│13‘00’‘시간13’30‘’│13‘30’‘시간14’00‘’│14‘00’‘시간14’30’‘│14‘30’‘시간15’00’‘│                    ┃\n┃├────────────┼────────────┼────────────┼────────────┤                    ┃\n┃│감점 0.5점              │감점 1점                │감점 1.5점              │감점 2점                │                    ┃\n┃└────────────┴────────────┴────────────┴────────────┘                    ┃\n┃※ 실격기준                                                                                                                   ┃\n┃ - 배점 30점 중 12점 미만을 득점하거나 평가표 상 실격으로 명시된 사항을 충족하지 못한 경우                                    ┃\n┃ - 제한시간 2분을 초과한 경우                                                                                                 ┃\n┃ - 안전사고를 일으키거나, 평가 중 평가관이 위험하다고 판단되어 평가 중단을 지시할 경우                                        ┃\n┃ - 평가표에 명시된 평가항목 순서대로 실시하지 않은 경우                                                                       ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000243548&bylNo=0005&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863389",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863375",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863389",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#BYL0005",
+      "filename": "별표5_소방고가차 운용사 실기시험 유의사항 및 평가표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "수료증",
+      "enforcement_date": "",
+      "content": "\n■ 소방고가차 운용능력 교육 및 시험에 관한 규정 [별지 제1호 서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃제       호                                                                   ┃\n┃                                                                              ┃\n┃수     료     증                                                              ┃\n┃                                                                              ┃\n┃                                                                              ┃\n┃성    명:               (한자:                 )                              ┃\n┃생년월일:                                                                     ┃\n┃주    소:                                                                     ┃\n┃                                                                              ┃\n┃  위 사람은 소방장비관리법 시행령 제34제4항 및 소방고가차 운용능력 교육 및 시 ┃\n┃험에 관한 규정 제9조에 따른 소방장비 운용능력 교육과정을 아래와 같이 수료하였 ┃\n┃음을 증명합니다.                                                              ┃\n┃                                                                              ┃\n┃    ○ 교육과정 : 제○기 소방고가차 운용능력                                  ┃\n┃    ○ 교육기간 : 0000.00.00 ~ 0000.00.00 (○○시간)                          ┃\n┃                                                                              ┃\n┃년      월      일                                                            ┃\n┃                                                                              ┃\n┃                                                                              ┃\n┃                ┏━━┓                                                      ┃\n┃  교육기관의 장 ┃직인┃                                                      ┃\n┃                ┗━━┛                                                      ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863299",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863295",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863299",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#BJ0001",
+      "filename": "별지1_수료증.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "소방고가차 운용능력 교육과정 수료증 교부대장",
+      "enforcement_date": "",
+      "content": "\n■ 소방고가차 운용능력 교육 및 시험에 관한 규정 [별지 제2호 서식]\n\n소방고가차 운용능력 교육과정 수료증 교부대장\n━━━┯━━━━┯━━━━━━━━━━━━━━━━━┯━━━━━━━┯━━━\n발급│교부일자│수료자 인적사항                   │교육기간      │비고\n번호│        ├──┬───┬────┬─────┤(0000.00.00∼ │\n│        │성명│(한자)│생년월일│주     소 │0000.00.00)   │\n───┼────┼──┼───┼────┼─────┼───────┼───\n│        │    │      │        │          │              │\n───┼────┼──┼───┼────┼─────┼───────┼───\n│        │    │      │        │          │              │\n───┼────┼──┼───┼────┼─────┼───────┼───\n│        │    │      │        │          │              │\n───┼────┼──┼───┼────┼─────┼───────┼───\n│        │    │      │        │          │              │\n───┼────┼──┼───┼────┼─────┼───────┼───\n│        │    │      │        │          │              │\n───┼────┼──┼───┼────┼─────┼───────┼───\n│        │    │      │        │          │              │\n───┼────┼──┼───┼────┼─────┼───────┼───\n│        │    │      │        │          │              │\n───┼────┼──┼───┼────┼─────┼───────┼───\n│        │    │      │        │          │              │\n───┼────┼──┼───┼────┼─────┼───────┼───\n│        │    │      │        │          │              │\n───┼────┼──┼───┼────┼─────┼───────┼───\n│        │    │      │        │          │              │\n───┼────┼──┼───┼────┼─────┼───────┼───\n│        │    │      │        │          │              │\n───┼────┼──┼───┼────┼─────┼───────┼───\n│        │    │      │        │          │              │\n───┼────┼──┼───┼────┼─────┼───────┼───\n│        │    │      │        │          │              │\n━━━┷━━━━┷━━┷━━━┷━━━━┷━━━━━┷━━━━━━━┷━━━\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863305",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863301",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863305",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#BJ0002",
+      "filename": "별지2_소방고가차 운용능력 교육과정 수료증 교부대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "소방고가차 운용사 자격시험 응시원서",
+      "enforcement_date": "",
+      "content": "\n■ 소방고가차 운용능력 교육 및 시험에 관한 규정 [별지 제3호 서식]   (앞 쪽)\n┏━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━┓\n┃소방고가차 운용사 자격시험 응시원서             │사진                      ┃\n┠───┬─────────┬────┬─────┤3.5㎝×4.5㎝              ┃\n┃성명  │                  │생년월일│.   .     │(3개월 내                 ┃\n┃(한자)├─────────┤        │          │ 촬영 사진)               ┃\n┃      │(                )│        │          │                          ┃\n┠───┼─────────┴────┴─────┴─────────────┨\n┃주소  │(전화 :                )                                            ┃\n┃      │(휴대폰 :              )                                            ┃\n┠───┴───┬───────┬──────────────────────┨\n┃소방고가차    │교육기관      │                                            ┃\n┃운용능력      ├───────┼──────────────────────┨\n┃교육수료      │교육기간      │                                            ┃\n┃              ├───────┼──────────────────────┨\n┃              │수 료 증      │                                            ┃\n┠───────┴───────┴──────────────────────┨\n┃    위와 같이 응시원서를 제출합니다.                                        ┃\n┃                                                                            ┃\n┃년     월      일                                                           ┃\n┃응시자             (서명 또는 인)                                           ┃\n┃    시험시행 기관장 귀하                                                    ┃\n┠────┬─────────────────────────────────┨\n┃응시번호│                                                                  ┃\n┗━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n(절)            (취)      (선)\n━━━━━━━━    ━━━━━━      ━━          ━━━━━━━━━━━━━━\n\n┏━━━━━┯━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━┓\n┃응시번호  │소방고가차 운용사 자격시험 응시원서 │사진                      ┃\n┠─────┤                                    │3.5㎝×4.5㎝              ┃\n┃          │                                    │(3개월 내                 ┃\n┠─────┼────┬─────┬───────┤ 촬영 사진)               ┃\n┃성명      │        │생년월일  │.   .         │                          ┃\n┠─────┴────┴─────┴───────┴─────────────┨\n┃년     월      일                                                           ┃\n┃                                                                            ┃\n┃                                                            ┏━━┓        ┃\n┃                                            시험시행 기관장 ┃직인┃        ┃\n┃                                                            ┗━━┛        ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210mm×297mm[백상지(150g/㎡)]\n\n\n(뒤쪽)\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                                                  ┃\n┃● 응시자 주의사항                                                                ┃\n┃                                                                                  ┃\n┃                                                                                  ┃\n┃1. 응시자격이 없는 자가 시험에 응시할 경우 시험을 무효로 처리합니다.              ┃\n┃                                                                                  ┃\n┃2. 응시표 및 주민등록증(그 밖의 신분증명서)을 지참하지 아니한 자는 응시할 수 없   ┃\n┃으며, 응시표를 분실한 때에는 사진(원서에 첨부한 사진과 동일원판의 것이어          ┃\n┃야 합니다) 2매를 지참하여 응시표를 재교부 받아야 합니다.                          ┃\n┃                                                                                  ┃\n┃3. 시험시작 30분전에 지정된 장소에 도착하여 응시표 및 주민등록증(그 밖의 신분     ┃\n┃증명서)을 놓고 감시관의 확인을 받아야 합니다.                                     ┃\n┃                                                                                  ┃\n┃4. 부정행위를 한 자에 대하여는 시험을 정지시키거나 무효로 하며, 시험시행일부터 3년┃\n┃간 시험응시자격을 정지합니다.                                                     ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210mm×297mm[백상지(150g/㎡)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863313",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863307",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863313",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#BJ0003",
+      "filename": "별지3_소방고가차 운용사 자격시험 응시원서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "소방고가차 운용사 자격증",
+      "enforcement_date": "",
+      "content": "\n■ 소방고가차 운용능력 교육 및 시험에 관한 규정 [별지 제4호 서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃제       호                                                                     ┃\n┃                                                                                ┃\n┃소방고가차 운용사 자격증                                                        ┃\n┃                                                                                ┃\n┃                                                                                ┃\n┃성    명:                  (한자:                 )                             ┃\n┃생년월일:                                                                       ┃\n┃주    소:                                                                       ┃\n┃                                                                                ┃\n┃                                                                                ┃\n┃  위 사람은 소방장비관리법 시행령 제34조제3항 및 소방고가차 운용능력 교육 및 시 ┃\n┃험에 관한 규정 제19조제1항에 따라 소방고가차 운용사 자격증을 교부합니다.        ┃\n┃                                                                                ┃\n┃    ○ 인  증   명  칭 : 소방고가차 운용사                                      ┃\n┃    ○ 자격시험 합격일 :     .   .   .                                          ┃\n┃                                                                                ┃\n┃                                                                                ┃\n┃년      월      일                                                              ┃\n┃          ┏━━┓                                                              ┃\n┃  소방청장┃직인┃                                                              ┃\n┃          ┗━━┛                                                              ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863319",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863315",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863319",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#BJ0004",
+      "filename": "별지4_소방고가차 운용사 자격증.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별지",
+      "title": "소방고가차 운용사 자격증 교부대장",
+      "enforcement_date": "",
+      "content": "\n■ 소방고가차 운용능력 교육 및 시험에 관한 규정 [별지 제5호 서식]\n소방고가차 운용사 자격증 교부대장\n━━━━┯━━┯━━━━┯━━━━━━━━━━━━━━━━━┯━━━━┯━━━\n자격증│소속│교부일자│합격자 인적사항                   │자격시험│비고\n번  호│    │        ├──┬───┬────┬─────┤합격일  │\n│    │        │성명│(한자)│생년월일│주     소 │        │\n────┼──┼────┼──┼───┼────┼─────┼────┼───\n│    │        │    │      │        │          │        │\n────┼──┼────┼──┼───┼────┼─────┼────┼───\n│    │        │    │      │        │          │        │\n────┼──┼────┼──┼───┼────┼─────┼────┼───\n│    │        │    │      │        │          │        │\n────┼──┼────┼──┼───┼────┼─────┼────┼───\n│    │        │    │      │        │          │        │\n────┼──┼────┼──┼───┼────┼─────┼────┼───\n│    │        │    │      │        │          │        │\n────┼──┼────┼──┼───┼────┼─────┼────┼───\n│    │        │    │      │        │          │        │\n────┼──┼────┼──┼───┼────┼─────┼────┼───\n│    │        │    │      │        │          │        │\n────┼──┼────┼──┼───┼────┼─────┼────┼───\n│    │        │    │      │        │          │        │\n────┼──┼────┼──┼───┼────┼─────┼────┼───\n│    │        │    │      │        │          │        │\n────┼──┼────┼──┼───┼────┼─────┼────┼───\n│    │        │    │      │        │          │        │\n────┼──┼────┼──┼───┼────┼─────┼────┼───\n│    │        │    │      │        │          │        │\n━━━━┷━━┷━━━━┷━━┷━━━┷━━━━┷━━━━━┷━━━━┷━━━\n210mm×297mm[백상지(80g/㎡) 또는\n중질지(80g/㎡)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863325",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863321",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863325",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#BJ0005",
+      "filename": "별지5_소방고가차 운용사 자격증 교부대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별지",
+      "title": "소방고가차 운용사 보수교육 면제신청서",
+      "enforcement_date": "",
+      "content": "\n■ 소방고가차 운용능력 교육 및 시험에 관한 규정 [별지 제6호 서식]\n\n소방고가차 운용사 보수교육 면제신청서\n\n\n※ [  ]에는 해당되는 곳에 \"√\"표시를 합니다.\n──────┬─────┬────────────\n접수번호  │접수일    │처리기간\n──────┴─────┴────────────\n─────┬─────────────────────┬──────────────────────────────\n면제    │성명                                      │생년월일\n신청인  ├─────────────────────┼──────────────────────────────\n│자격명칭                                  │자격번호\n│                                          │\n├─────────────────────┴──────────────────────────────\n│소속기관\n├────────────────────────────────────────────────────\n│소속기관 소재지(주소)\n─────┴────────────────────────────────────────────────────\n\n──────────────────────────────────────────────────────────\n면제사유\n\n──────────────────────────────────────────────────────────\n\n\n년도      차 소방고가차 운용능력 보수교육을 면제하여 줄 것을 「소방고가차 운용능력\n교육 및 시험에 관한 규정」 제22조제4항에 따라 위와 같이 신청합니다.\n\n년     월     일\n\n신청인                                                 (서명 또는 인)\n\n(소방고가차 운용사 보수교육 기관의 장)   귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n─────┬─────────────────────────────────────┬──────────────\n첨부서류│ 면제대상자임을 인정할 수 있는 서류 1부                                   │수수료 없음\n─────┴─────────────────────────────────────┴──────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n처 리 절 차\n──────────────────────────────────────────────────────────\n\n\n┌──────┐  ┌──────────────┐  ┌─────────────┐  ┌──────────────┐\n│신청서 작성 │?│접 수                       │?│검 토                     │?│수리                        │\n└──────┘  └──────────────┘  └─────────────┘  └──────────────┘\n\n\n신청인            소방고가차 운용사 보수교육      소방고가차 운용사 보수교육        소방고가차 운용사 보수교육\n기관의 장                       기관의 장                         기관의 장\n\n\n──────────────────────────────────────────────────────────\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863331",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863327",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863331",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#BJ0006",
+      "filename": "별지6_소방고가차 운용사 보수교육 면제신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "별지",
+      "title": "소방고가차 운용능력 교육기관 지정 신청서",
+      "enforcement_date": "",
+      "content": "\n■ 소방고가차 운용능력 교육 및 시험에 관한 규정 [별지 제7호 서식] (신설)\n\n소방고가차 운용능력 교육기관 지정 신청서\n\n\n\n──────┬─────┬────────────────────\n접수번호  │접수일    │처리기간    : 위원회  개최시(최대1년)\n│          │\n──────┴─────┴────────────────────\n─────┬────────────────┬─────────────────────────────\n신청인  │기관명                          │사업자등록번호(법인등록번호)\n├────────────────┼─────────────────────────────\n│대표자                          │이메일주소\n│                                │\n├────────────────┼─────────────────────────────\n│주소                            │전화\n│                                ├─────────────────────────────\n│                                │팩스\n─────┴────────────────┴─────────────────────────────\n\n─────┬──────────────────────────────────────────────\n신청내용│교육시간\n│                        일(          시간)\n├──────────────────────────────────────────────\n│교육비\n│                                        원                         (※세부내역 작성)\n├────────────────┬─────────────────────────────\n│교육인원                        │연간교육\n│                                      명│                                     회\n├────────────────┴─────────────────────────────\n│시설현황\n│\n─────┴──────────────────────────────────────────────\n\n\n「소방고가차 운용능력 교육 및 시험에 관한 규정」 제6조에 따라 위와 같이 교육기관 지정을 신청합니다.\n\n년      월      일\n\n신청인                                       (서명 또는 인)\n\n소방청장   귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n─────┬───────────────────────────┬──────────────────\n첨부서류│ 교육계획서 1부                                       │수수료 없음\n─────┴───────────────────────────┴──────────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n처 리 절 차\n────────────────────────────────────────────────────\n\n\n┌──────┐  ┌─────────┐  ┌────────┐  ┌──────────────────┐\n│신청서 작성 │?│접 수             │?│검 토           │?│수리 및 통보                        │\n└──────┘  └─────────┘  └────────┘  └──────────────────┘\n\n\n신청기관(장)      소방청 장비총괄과     소방청 장비총괄과       소방청 장비총괄과\n(교육시험위원회 의결사항)\n\n\n────────────────────────────────────────────────────\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863337",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863333",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863337",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#BJ0007",
+      "filename": "별지7_소방고가차 운용능력 교육기관 지정 신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0008",
+      "branch": "00",
+      "kind": "별지",
+      "title": "소방고가차 운용능력 교육기관 지정서",
+      "enforcement_date": "",
+      "content": "\n■ 소방고가차 운용능력 교육 및 시험에 관한 규정 [별지 제8호 서식] (신설)\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃소방고가차 운용능력 교육기관 지정서                                                 ┃\n┠────┬───────┬─┬──────┬────────────────────┨\n┃지정기관│기관명        │  │대표자      │                                        ┃\n┃        ├───────┼─┴──────┴────────────────────┨\n┃        │사업자등록번호│                                                          ┃\n┃        │(법인등록번호)│                                                          ┃\n┃        ├───────┼─────────────────────────────┨\n┃        │주  소        │                                                          ┃\n┃        ├───────┼─┬──────┬────────────────────┨\n┃        │전화번호      │  │대표 이메일 │                                        ┃\n┠────┼───────┼─┴──────┴────────────────────┨\n┃지정내역│유효기간      │년     월     일     ~     년       월     일             ┃\n┃        ├───────┼─────────────────────────────┨\n┃        │지정조건      │                                                          ┃\n┠────┴───────┴─────────────────────────────┨\n┃                                                                                    ┃\n┃                                                                                    ┃\n┃「소방고가차 운용능력 교육 및 시험에 관한 규정」 제7조 따라 위와 같이 교육기관으로  ┃\n┃지정합니다.                                                                         ┃\n┃                                                                                    ┃\n┃                                                                                    ┃\n┃                                                                                    ┃\n┃                                                             년      월      일     ┃\n┃                                                                                    ┃\n┃                                                                                    ┃\n┃                                                                                    ┃\n┃          ┏━━┓                                                                  ┃\n┃  소방청장┃직인┃                                                                  ┃\n┃          ┗━━┛                                                                  ┃\n┃                                                                                    ┃\n┃                                                                                    ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210㎜×297㎜(백상지 150g/㎡)\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863343",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863339",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863343",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#BJ0008",
+      "filename": "별지8_소방고가차 운용능력 교육기관 지정서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0009",
+      "branch": "00",
+      "kind": "별지",
+      "title": "소방고가차 운용능력 교육기관 지정서 교부대장",
+      "enforcement_date": "",
+      "content": "\n■ 소방고가차 운용능력 교육 및 시험에 관한 규정 [별지 제9호 서식] (신설)\n\n소방고가차 운용능력 교육기관 지정서 교부대장\n┏━━┯━━┯━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━┯━━━━━━┓\n┃일련│교부│지  정  기  관                        │지 정 내 역       │비고        ┃\n┃번호│일자├──────┬───┬────┬───┼────┬────┤            ┃\n┃    │    │기관?단체명│대표자│법인    │주  소│유효기간│지정조건│            ┃\n┃    │    │            │      │등록번호│      │        │        │            ┃\n┠──┼──┼──────┼───┼────┼───┼────┼────┼──────┨\n┃    │    │            │      │        │      │        │        │            ┃\n┠──┼──┼──────┼───┼────┼───┼────┼────┼──────┨\n┃    │    │            │      │        │      │        │        │            ┃\n┠──┼──┼──────┼───┼────┼───┼────┼────┼──────┨\n┃    │    │            │      │        │      │        │        │            ┃\n┠──┼──┼──────┼───┼────┼───┼────┼────┼──────┨\n┃    │    │            │      │        │      │        │        │            ┃\n┠──┼──┼──────┼───┼────┼───┼────┼────┼──────┨\n┃    │    │            │      │        │      │        │        │            ┃\n┠──┼──┼──────┼───┼────┼───┼────┼────┼──────┨\n┃    │    │            │      │        │      │        │        │            ┃\n┠──┼──┼──────┼───┼────┼───┼────┼────┼──────┨\n┃    │    │            │      │        │      │        │        │            ┃\n┠──┼──┼──────┼───┼────┼───┼────┼────┼──────┨\n┃    │    │            │      │        │      │        │        │            ┃\n┠──┼──┼──────┼───┼────┼───┼────┼────┼──────┨\n┃    │    │            │      │        │      │        │        │            ┃\n┠──┼──┼──────┼───┼────┼───┼────┼────┼──────┨\n┃    │    │            │      │        │      │        │        │            ┃\n┠──┼──┼──────┼───┼────┼───┼────┼────┼──────┨\n┃    │    │            │      │        │      │        │        │            ┃\n┠──┼──┼──────┼───┼────┼───┼────┼────┼──────┨\n┃    │    │            │      │        │      │        │        │            ┃\n┗━━┷━━┷━━━━━━┷━━━┷━━━━┷━━━┷━━━━┷━━━━┷━━━━━━┛\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863349",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863345",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=141863349",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#BJ0009",
+      "filename": "별지9_소방고가차 운용능력 교육기관 지정서 교부대장.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "행정규칙 개정 이유서.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=141861917",
+      "file_store_url": "",
+      "filename": "행정규칙 개정 이유서.hwpx"
+    },
+    {
+      "name": "행정규칙 개정 이유서.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=141861921",
+      "file_store_url": "",
+      "filename": "행정규칙 개정 이유서.pdf"
+    },
+    {
+      "name": "소방사다리차 운용능력 교육 및 시험에 관한 규정 일부개정 전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=141861925",
+      "file_store_url": "",
+      "filename": "소방사다리차 운용능력 교육 및 시험에 관한 규정 일부개정 전문.hwpx"
+    },
+    {
+      "name": "소방사다리차 운용능력 교육 및 시험에 관한 규정 일부개정 전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=141861929",
+      "file_store_url": "",
+      "filename": "소방사다리차 운용능력 교육 및 시험에 관한 규정 일부개정 전문.pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 26,
+    "by_category": {
+      "법령": 7,
+      "별표": 6,
+      "별지": 9,
+      "행정규칙": 4
+    },
+    "by_relation_type": {
+      "citation": 8,
+      "appendix_ref": 15,
+      "internal_ref": 3
+    },
+    "articles_total": 24,
+    "articles_with_relations": 12,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 4,
+    "appendices_count": 14,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/소방고가차 운용능력 교육 및 시험에 관한 규정"
+  },
+  "provision_id": "admrul:소방고가차운용능력교육및시험에관한규정#DOC"
+}
