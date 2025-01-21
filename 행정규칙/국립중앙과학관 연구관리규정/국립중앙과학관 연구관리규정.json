@@ -1,0 +1,1804 @@
+{
+  "law_id": "2100000253980",
+  "mst": "2100000253980",
+  "law_name": "국립중앙과학관 연구관리규정",
+  "law_abbr": "",
+  "law_type": "규칙",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000253980",
+  "promulgation_no": "2501",
+  "promulgation_date": "20250121",
+  "enforcement_date": "20250121",
+  "revision_date": "20250121",
+  "revision_type": "타법개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국립중앙과학관(전시운영정책과)",
+    "담당자명": "진현서",
+    "행정규칙종류코드": "B0011",
+    "행정규칙명": "국립중앙과학관 연구관리규정",
+    "발령일자": "20250121",
+    "행정규칙종류": "규칙",
+    "제개정구분코드": "200409",
+    "조문형식여부": "Y",
+    "소관부처명": "국립중앙과학관",
+    "전화번호": "042-601-7748",
+    "제개정구분명": "타법개정",
+    "소관부처코드": "1721000",
+    "생성일자": "20250203",
+    "행정규칙ID": "59828",
+    "시행일자": "20250121",
+    "담당부서기관코드": "1722896",
+    "발령번호": "2501",
+    "행정규칙일련번호": "2100000253980",
+    "상위부처명": "과학기술정보통신부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제안이유\n○ 어려운 용어 정비, 일부 미비점 개선ㆍ보완 및 조직개편(‘24.8.26.)에 따른 사업부서 신설ㆍ조정 등 업무 조정사항 반영\n◇ 주요 내용\n○ 어려운 용어 정비\n- 법제처에서 추진하는 행정규칙 속 어려운 용어 정비에 따라 문구 변경\n○ 현행에 맞지 않는 일부 규정 개선ㆍ보완\n-‘예산집행심의회 규정’의 심의회 구성 및 심의 요구 절차 관련 일부 조문 개정\n-‘과학관 전문인력 교육사업 운영 규정’의 재검토 기한 연장\n○ 위임전결규정 개정\n- 조직개편(’24.8.26.)에 따른 신설부서(과ㆍ팀) 위임전결 권한 부여\n- 변경된 부서별 소관업무 조정ㆍ반영 및 기존 업무 재정비",
+  "body": {
+    "format": "articles",
+    "article_count": 34,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조(목적) 이 규정은 「과학관의 설립ㆍ운영 및 육성에 관한 법률」 제5조와 「책임운영기관의 설치ㆍ운영에 관한 법률」 제10조에 의거하여 국립중앙과학관에서 수행하는 연구사업의 계획수립ㆍ사업조정ㆍ평가 및 활용에 관하여 필요한 사항을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「과학관의 설립ㆍ운영 및 육성에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "과학관의 설립ㆍ운영 및 육성에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/과학관의 설립ㆍ운영 및 육성에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0001",
+            "reference_id": "law:과학관의설립운영및육성에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제5조",
+            "line_text": "",
+            "target_law_name": "과학관의 설립ㆍ운영 및 육성에 관한 법률",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/과학관의 설립ㆍ운영 및 육성에 관한 법률/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0001",
+            "reference_id": "law:과학관의설립운영및육성에관한법률#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「책임운영기관의 설치ㆍ운영에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "책임운영기관의 설치ㆍ운영에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/책임운영기관의 설치ㆍ운영에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0001",
+            "reference_id": "law:책임운영기관의설치운영에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제10조",
+            "line_text": "",
+            "target_law_name": "책임운영기관의 설치ㆍ운영에 관한 법률",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/책임운영기관의 설치ㆍ운영에 관한 법률/제10조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0001",
+            "reference_id": "law:책임운영기관의설치운영에관한법률#JO0010"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "구분",
+        "chapter": "제1장 총칙",
+        "content": "제2조(구분) 제1조에서 말하는 연구사업은 수행방식에 따라 자체연구사업, 수탁연구사업, 위탁연구사업 및 공동연구사업으로 구분한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1조",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "제1조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립중앙과학관 연구관리규정/제1조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0002",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#JO0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "정의",
+        "chapter": "제1장 총칙",
+        "content": "제3조(정의) 이 규정에서 사용하는 용어의 정의는 다음과 같다.1. \"자체연구사업\"은 국립중앙과학관(이하 \"과학관\"이라 한다)이 국가 등으로부터 예산이나 기금 등에서 지급받은 시험연구비에 의하여 수행하는 연구사업을 말한다.2. \"수탁연구사업\"은  국립중앙과학관장(이하 \"관장\"이라 한다)이 관련 규정에 의거 외부기관과 체결한 연구수탁 협약 또는 계약에 의하여 수행하는 연구사업을 말한다.3. \"위탁연구사업\"은 관장이 필요하다고 인정하는 연구개발과제를 외부의 전문가 또는 연구기관과 체결한 연구위탁계약에 의하여 수행하는 연구사업을 말한다.4. \"공동연구사업\"은 관장이 지정한 업무의 범위 내에서 과학관의 직원이 국내ㆍ외 전문가 또는 연구기관과 공동으로 수행하는 연구사업을 말한다.5. \"국제공동연구과제\"는 과학관이 외국의 정부ㆍ법인ㆍ단체 또는 전문가(이하 \"외국공동연구기관\"이라 한다)와 특정 연구개발과제의 수행에 소요되는 연구개발비ㆍ연구개발인력ㆍ연구개발시설ㆍ기자재 및 연구개발정보 등 과학기술자원을 공동으로 투입하여 수행하는 과제를 말한다.6. \"연구 총괄 부서장\"은 「국립중앙과학관 정원 및 사무분장규정」에서 ‘연구 종합계획 수립ㆍ시행’을 담당하는 부서장을 말한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「국립중앙과학관 정원 및 사무분장규정」",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 정원 및 사무분장규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립중앙과학관 정원 및 사무분장규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0003",
+            "reference_id": "admrul:국립중앙과학관정원및사무분장규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "적용범위",
+        "chapter": "제1장 총칙",
+        "content": "제4조(적용범위) 연구사업의 계획수립ㆍ사업조정ㆍ평가 및 활용(이하 \"관리\"라 한다)에 관하여 법령 및 기본운영규정에서 특별히 규정한 것을 제외하고는 이 규정이 정하는 바에 따른다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "연구관리위원회",
+        "chapter": "제2장 연구관리위원회",
+        "content": "제5조(연구관리위원회) ① 연구사업 관리업무를 수행하기 위해 과학관에 연구관리위원회(이하 \"위원회\"라 한다)를 둔다.② 위원회는 위원장 1명을 포함한 각각 7인 이내의 위원으로 구성하되, 위원장은 단장이 되고, 위원은 과학관 부서장 및 해당 연구분야의 학식과 경험이 풍부한 외부 전문가 중에서 위원장이 위촉하는 자로 하며, 외부 위촉위원의 수가 50% 이상이 되도록 한다. 이 경우 위원회의 위원 임기는 1년으로 하며 연임할 수 있다. 다만, 위원장이 공석일 경우 연구 총괄 부서장이 그 직무를 대행한다.③ 위원회는 다음 각 호의 사항을 심의한다.1. 연구종합계획 수립에 관한 사항2. 연구사업의 심의 및 조정에 관한 사항3. 자체연구사업 선정에 관한 사항4. 연구사업의 평가 및 활용에 관한 사항5. 기타 관장이 심의에 부치는 사항④ 위원회의 회의는 매년 1회 정기회의를 개최하되, 위원장이 필요하다고 인정하는 때에는 수시회의를 개최할 수 있다.⑤ 위원회의 회의는 재적위원 과반수의 출석으로 개의하고, 출석위원 과반수의 찬성으로 의결한다.⑥ 위원회의 회의에 참석한 위원 중 관장이 위촉한 외부 전문가에게는 예산의 범위 안에서 수당과 여비를 지급할 수 있다.⑦ 위원회는 연구사업의 전문적인 평가를 위해 별도의 평가위원회를 구성ㆍ운영할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "연구종합계획의 수립",
+        "chapter": "제3장 자체연구사업",
+        "content": "제6조(연구종합계획의 수립) ① 연구 총괄 부서장은 필요시 내부 및 외부 전문가의 의견을 들어 연구종합계획을 수립할 수 있다.② 제1항의 연구종합계획은 위원회의 심의를 거쳐 관장이 확정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "연구과제 수요조사",
+        "chapter": "제3장 자체연구사업",
+        "content": "제7조(연구과제 수요조사) ① 연구 총괄 부서장은 연구과제의 발굴을 위한 수요조사를 실시한다.② 연구과제를 수행하고자 하는 연구책임자는 과제 선정을 위해 별지 제1호 서식에 의한 연구과제제안서를 작성하여 연구 총괄 부서장에게 제출해야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "별지 제1호 서식",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "별지1",
+            "target_article_title": "연구과제제안서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805545",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0007",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "연구과제 선정 및 통보",
+        "chapter": "제3장 자체연구사업",
+        "content": "제8조(연구과제 선정 및 통보) ① 연구 총괄 부서장은 제출된 연구과제제안서를 종합ㆍ조정하여 연구책임자에게 통보하고 별지 제2호 서식에 의한 연구과제계획서를 제출받아 위원회의 심의를 거친 후 관장의 승인을 얻어 연구과제를 선정한다.② 제1항의 연구과제의 선정기준은 다음 각 호와 같다.1. 연구의 필요성2. 연구주제의 적정성3. 연구방법의 적절성4. 연구인력 구성의 적합성5. 기대효과 및 활용가능성③ 연구 총괄 부서장은 선정된 연구과제를 해당 연구책임자에게 통보해야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "별지 제2호 서식",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "별지2",
+            "target_article_title": "연구과제계획서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805557",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0008",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "연구계획의 변경",
+        "chapter": "제3장 자체연구사업",
+        "content": "제9조(연구계획의 변경) ① 연구책임자는 연구과제 수행 중에 각 호의 사항을 변경하고자 할 경우에는 별지 제3호 서식에 의한 연구과제변경 및 중단요청서를 연구 총괄 부서장에게 제출하여 위원회의 심의를 거쳐 관장의 승인을 받아야 한다.1. 당초 심의 받은 연구과제의 총액 30% 이상 변경2. 연구과제의 목표 변경3. 연구과제의 기간 변경4. 연구과제의 중단5. 기타 위원장이 심의할 필요가 있다고 인정하는 중요 사항② 제1항에 속하지 않는 사항을 변경하고자 할 경우 연구 총괄 부서장의 승인을 받아야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제1항",
+            "link_text": "별지 제3호 서식",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "별지3",
+            "target_article_title": "연구과제 변경 및 중단 요청서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805565",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0009",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#BJ0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "연구과제 결과보고",
+        "chapter": "제3장 자체연구사업",
+        "content": "제10조(연구과제 결과보고) ① 연구과제의 결과보고는 중간보고와 최종보고로 구분한다.② 중간보고는 연구책임자가 별지 제4호 서식에 의한 연구과제 진행상황보고서를, 최종보고는 연구책임자가 별지 제5호 서식에 의한 연구과제 최종결과서를 작성하여 연구 총괄 부서장에게 제출하여야 한다.③ 연구 총괄 부서장은 제출받은 중간보고에 대하여 위원회에서 별지 제6호 서식에 의한 연구과제평가의견을 받아야 하고, 최종보고에 대하여는 위원회에서 별지 제7호 서식에 의한 연구과제평가서에 따른 평가를 거친 후 그 결과를 관장에게 보고하여야 한다.④ 최종보고 시 당초 과제계획서 예산, 최종 집행예산내역 및 정산서류를 제출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제2항",
+            "link_text": "별지 제4호 서식",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "별지4",
+            "target_article_title": "연구과제 진행상황보고서",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805573",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0010",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#BJ0004"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제2항",
+            "link_text": "별지 제5호 서식",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "별지5",
+            "target_article_title": "연구과제 최종결과서",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805581",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0010",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#BJ0005"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제3항",
+            "link_text": "별지 제6호 서식",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "별지6",
+            "target_article_title": "연구과제평가의견",
+            "appendix_no": "6",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805587",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0010",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#BJ0006"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제3항",
+            "link_text": "별지 제7호 서식",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "별지7",
+            "target_article_title": "연구과제평가서",
+            "appendix_no": "7",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805593",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0010",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#BJ0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "연구보고서의 최종제출",
+        "chapter": "제3장 자체연구사업",
+        "content": "제11조(연구보고서의 최종제출) ① 연구책임자는 당해연도에 수행한 연구과제에 대하여는 별지 제8호 서식에 의한 연구보고서를 연구과제 종료 후 1개월 내에 연구 총괄 부서장에게 제출하여야 한다. 다만, 연구보고서를 기한 내에 제출하기 어려운 때에는 관장의 승인을 얻어 그 기한을 연장할 수 있다.② 연구책임자는 제1항의 연구보고서를 연구논문으로 대체할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "별지 제8호 서식",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "별지8",
+            "target_article_title": "연구보고서 작성 요령",
+            "appendix_no": "8",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805607",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0011",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#BJ0008"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "수탁연구사업의 대상",
+        "chapter": "제4장 수탁연구사업",
+        "content": "제12조(수탁연구사업의 대상) 수탁연구사업은 다음 각 호의 어느 하나를 대상으로 하여야 한다.1. 새로운 과학관 전시서비스 기술 개발 또는 응용에 관한 사항2. 과학관 정책에 필요한 기초 및 응용 연구3. 과학기술자료 수집ㆍ관리 등에 필요한 기초 및 응용 연구4. 그 밖에 과학관 발전에 필요하다고 관장이 인정하는 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "수탁연구사업의 의뢰 또는 참여 방법 등",
+        "chapter": "제4장 수탁연구사업",
+        "content": "제13조(수탁연구사업의 의뢰 또는 참여 방법 등) ① 수탁연구사업의 연구과제(이하 \"수탁연구과제\"라 한다)를 과학관에 의뢰하고자 하는 단체 또는 개인(이하 \"의뢰기관\"이라 한다)은 서면으로 수행 부서에게 수탁연구과제 수행을 의뢰해야 한다.② 제1항에 따라 수탁연구과제를 의뢰받은 수행 부서는 각 호의 요건을 검토 후 별지 제9호 서식에서 정하는 서류를 작성하여 관장의 승인을 얻어야 한다.1. 국립중앙과학관 수탁연구사업의 대상에 해당 여부(제12조)2. 연구수당, 간접비 등의 연구개발비 계상 적절성3. 수행 부서의 기능, 연구개발 과제 수, 인력 등 고려③ 과학관 소속 공무원은 다음 각 호에 해당하는 경우에도 제2항의 절차에 따라야 한다.1. 수탁연구과제의 연구원으로 참여하고자 하는 경우2. 수탁연구과제의 공모를 신청하고자 하는 경우",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제2항",
+            "link_text": "별지 제9호 서식",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "별지9",
+            "target_article_title": "수탁연구과제 참여 시의 제출 서류",
+            "appendix_no": "9",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805617",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0013",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#BJ0009"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제2항",
+            "link_text": "제12조",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립중앙과학관 연구관리규정/제12조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0013",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#JO0012"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "수탁연구사업의 협약",
+        "chapter": "제4장 수탁연구사업",
+        "content": "제14조(수탁연구사업의 협약) ① 수탁연구과제의 수행 등을 승인받은 경우에는 의뢰기관이나 해당 사업시행기관의 장이 따로 정하는 양식 또는 국가연구개발혁신법 과학기술정보통신부령의 연구개발과제협약 표준 서식에 따라 협약을 체결해야 한다.② 연구원(제13조제3항제1호)으로 참여하는 경우 제1항의 규정에 의한 협약을 체결하지 아니한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제2항",
+            "link_text": "제13조제3항제1호",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립중앙과학관 연구관리규정/제13조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0014",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#JO0013"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0014"
+      },
+      {
+        "article_no": "제14조의2",
+        "article_title": "수탁연구사업 협약의 변경",
+        "chapter": "제4장 수탁연구사업",
+        "content": "제14조의2(수탁연구사업 협약의 변경) 협약 당사자는 의뢰기관의 기준에 따라 관장의 승인을 얻어 협약의 내용을 변경할 수 있다. 다만, 의뢰기관의 기준이 없을 경우『국가연구개발혁신법』을 준용한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제14조의2",
+            "source_clause": "제14조의2",
+            "link_text": "『국가연구개발혁신법』",
+            "line_text": "",
+            "target_law_name": "국가연구개발혁신법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가연구개발혁신법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0014_02",
+            "reference_id": "law:국가연구개발혁신법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0014_02"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "수탁연구과제의 관리",
+        "chapter": "제4장 수탁연구사업",
+        "content": "제15조(수탁연구과제의 관리) ① 수탁연구과제의 관리는 의뢰기관의 기준에 따른다. 다만, 의뢰기관의 기준이 없을 경우 본 규정 제16조부터 제20조까지를 적용한다.② 제1항의 규정에도 불구하고, 회의비 집행은 외부 기관(또는 단체)의 직원이 포함되는 경우에만 허용한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제1항",
+            "link_text": "제16조부터 제20조",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "제16조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립중앙과학관 연구관리규정/제16조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0015",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#JO0016"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제1항",
+            "link_text": "제16조부터 제20조",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "제17조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립중앙과학관 연구관리규정/제17조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0015",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#JO0017"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제1항",
+            "link_text": "제16조부터 제20조",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "제18조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립중앙과학관 연구관리규정/제18조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0015",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#JO0018"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제1항",
+            "link_text": "제16조부터 제20조",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "제19조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립중앙과학관 연구관리규정/제19조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0015",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#JO0019"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제1항",
+            "link_text": "제16조부터 제20조",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "제20조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립중앙과학관 연구관리규정/제20조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0015",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#JO0020"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "수탁연구과제의 연구개발비 계상기준",
+        "chapter": "제4장 수탁연구사업",
+        "content": "제16조(수탁연구과제의 연구개발비 계상기준) ① 수탁연구과제의 수행을 위한 연구개발비(이하 \"수탁연구비\"라 한다)의 비목 구분 및 계상기준은 의뢰기관 등이 따로 정하는 기준이 없을 경우 과학기술정보통신부의 「국가연구개발사업 연구개발비 사용 기준」을 준용한다. 다만, 연구수당과 간접비는 제2항 및 제3항의 기준을 초과하여 계상하여서는 아니 된다.② 연구수당은 총 연구비의 20% 이하로 계상한다.③ 간접비는 「국가연구개발사업 연구개발비 사용 기준」 수정직접비의 5% 이하로 계상한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제1항",
+            "link_text": "「국가연구개발사업 연구개발비 사용 기준」",
+            "line_text": "",
+            "target_law_name": "국가연구개발사업 연구개발비 사용 기준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국가연구개발사업 연구개발비 사용 기준",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0016",
+            "reference_id": "admrul:국가연구개발사업연구개발비사용기준#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제3항",
+            "link_text": "「국가연구개발사업 연구개발비 사용 기준」",
+            "line_text": "",
+            "target_law_name": "국가연구개발사업 연구개발비 사용 기준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국가연구개발사업 연구개발비 사용 기준",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0016",
+            "reference_id": "admrul:국가연구개발사업연구개발비사용기준#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "수탁연구과제의 연구개발비 집행기준",
+        "chapter": "제4장 수탁연구사업",
+        "content": "제17조(수탁연구과제의 연구개발비 집행기준) ① 수탁연구비의 집행기준은 의뢰기관 등이 따로 정하는 기준이 없을 경우 과학기술정보통신부의 「국가연구개발사업 연구개발비 사용 기준」을 준용한다.② 수행기관의 장은 수탁연구비를 지급 받은 때에 연구협약서 및 예산회계 법령이 정하는 관련 기준 등에 따라 관리자로서의 의무를 다하여 관리ㆍ사용해야 한다.③ 수행기관의 장은 지급받은 수탁연구비의 별도 계정을 설정하여 중앙집중 관리해야 하며, 같은 계정과 연결된 신용카드를 발급받아 이를 사용할 수 있다.④ 수탁연구비는 세목별로 구분하여 연구비통합관리시스템에 등록하여 계좌이체 형태 및 신용카드(직불카드 포함)로 사용해야 한다.⑤ 직접비 중 다음 각 호의 사용용도에 해당하는 경우에는 연구책임자가 발의를 해야 한다1. 연구시설ㆍ장비비2. 연구재료비3. 연구활동비4. 연구수당⑥ 정보시스템 연구(시설)장비 구매 시에는 정보보안 지침 등 관련 규정의 구매절차 준수 사항을 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제1항",
+            "link_text": "「국가연구개발사업 연구개발비 사용 기준」",
+            "line_text": "",
+            "target_law_name": "국가연구개발사업 연구개발비 사용 기준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국가연구개발사업 연구개발비 사용 기준",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0017",
+            "reference_id": "admrul:국가연구개발사업연구개발비사용기준#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "연구수당 지급기준의 마련",
+        "chapter": "제4장 수탁연구사업",
+        "content": "제18조(연구수당 지급기준의 마련) 연구 총괄 부서장은 의뢰기관에서 별도로 정하는 연구수당 지급기준이 없는 경우, 수탁연구과제 연구수당 지급이 필요한 연도에 1회계연도를 기준으로 연구수당 지급에 관한 합리적인 기준을 마련하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "연구수당의 집행",
+        "chapter": "제4장 수탁연구사업",
+        "content": "제19조(연구수당의 집행) ① 수탁연구과제의 연구책임자는 별지 제10호 서식의 수탁연구과제 연구원별(일부기간 참여자, 중도 퇴직자 포함) 성과를 작성하여 위원회에 수탁연구과제 기여도 평가 심의를 요청하여야 한다.② 위원회는 연구수당 지급기준에 따라 수탁연구과제 연구원별 성과의 기여도를 평가한 후 그 결과를 연구책임자에게 통보해야 한다. 이 경우 모든 연구원의 기여도를 획일적으로 평가하거나 일부 연구원을 평가 자체에서 배제하거나 차별하여서는 아니 된다.③ 기여도 평가 결과를 받은 연구책임자는 과학기술정보통신부 「국가연구개발사업 연구개발비 사용 기준」의 연구수당 사용기준을 준용하여 회계 담당 부서에 연구수당 지급을 요청해야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제1항",
+            "link_text": "별지 제10호 서식",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "별지10",
+            "target_article_title": "수탁연구과제 연구원별 성과",
+            "appendix_no": "10",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805623",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0019",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#BJ0010"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제3항",
+            "link_text": "「국가연구개발사업 연구개발비 사용 기준」",
+            "line_text": "",
+            "target_law_name": "국가연구개발사업 연구개발비 사용 기준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국가연구개발사업 연구개발비 사용 기준",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0019",
+            "reference_id": "admrul:국가연구개발사업연구개발비사용기준#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "연구결과의 보고 및 통보",
+        "chapter": "제4장 수탁연구사업",
+        "content": "제20조(연구결과의 보고 및 통보) ① 수탁연구과제는 협약에서 정한 내용 등과 수행 결과의 보존을 위하여 사업 결과(보고서 등)를 의뢰기관과 연구 총괄 부서에 제출해야 한다.② 연구비 사용 결과는 의뢰기관에서 별도로 정한 사용실적 보고 및 정산기준 등에 따라 처리하는 것을 원칙으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "위탁연구사업의 원칙",
+        "chapter": "제5장 위탁연구사업",
+        "content": "제21조(위탁연구사업의 원칙) 위탁연구사업은 과학관의 연구인력 부족, 연구개발과제의 전문성을 고려하여 과학관에서 연구하는 것 보다 효과적인 경우에 한 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "위탁대상자의 선정",
+        "chapter": "제5장 위탁연구사업",
+        "content": "제22조(위탁대상자의 선정) 관장은 연구개발과제를 위탁할 필요가 있다고 인정할 때에는 위원회의 심의를 거쳐 위탁대상자를 선정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "위탁연구사업의 결정",
+        "chapter": "제5장 위탁연구사업",
+        "content": "제23조(위탁연구사업의 결정) ① 위탁연구사업을 수행하고자 하는 자는 별지 제11호 서식에 의한 위탁연구과제계획서를 과학관에 제출하여야 한다.② 연구 총괄 부서장은 제1항의 위탁연구과제계획서에 대하여 위원회의 심의를 거친 후 관장의 승인을 얻어 이를 위탁연구자에게 통보한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제23조",
+            "source_clause": "제23조제1항",
+            "link_text": "별지 제11호 서식",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "별지11",
+            "target_article_title": "위탁연구과제계획서",
+            "appendix_no": "11",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805631",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0023",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#BJ0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "위탁연구사업 계약",
+        "chapter": "제5장 위탁연구사업",
+        "content": "제24조(위탁연구사업 계약) 연구 총괄 부서장은 위탁연구사업이 결정되면 관장의 명의로 별지 제12호 서식에 의한 위탁연구계약을 체결한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제24조",
+            "source_clause": "제24조",
+            "link_text": "별지 제12호 서식",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "별지12",
+            "target_article_title": "위탁연구과제계약서",
+            "appendix_no": "12",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805639",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0024",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#BJ0012"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "위탁연구사업의 예산",
+        "chapter": "제5장 위탁연구사업",
+        "content": "제25조(위탁연구사업의 예산) 위탁연구사업의 예산에는 인건비, 연구개발경비(여비, 통신비, 인쇄비, 회의비)와 기타 잡비의 실액을 계상하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0025"
+      },
+      {
+        "article_no": "제26조",
+        "article_title": "연구보고",
+        "chapter": "제5장 위탁연구사업",
+        "content": "제26조(연구보고) ① 위탁연구사업에 관한 연구보고는 계약조건에 의한다.② 위탁연구사업의 연구보고서에 대하여는 위원회의 평가 이외에 해당 연구분야의 전문지식과 경험을 소유하고 있는 자를 관장이 별도로 위촉하여 평가하게 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0026"
+      },
+      {
+        "article_no": "제27조",
+        "article_title": "공동연구사업",
+        "chapter": "제6장 공동연구사업",
+        "content": "제27조(공동연구사업) 공동연구사업에 관한 연구사업의 결정, 연구책임자, 연구계획, 계약체결, 실행예산편성 및 연구보고서에 관하여는 제12조부터 제20조까지의 규정을 준용한다. 다만, 국제공동연구과제의 수요조사, 선정, 연구책임자, 연구계획, 결과보고 등에 관하여는 제7조부터 제11조까지의 규정을 준용한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제27조",
+            "source_clause": "제27조",
+            "link_text": "제12조부터 제20조",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립중앙과학관 연구관리규정/제12조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0027",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#JO0012"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제27조",
+            "source_clause": "제27조",
+            "link_text": "제12조부터 제20조",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립중앙과학관 연구관리규정/제12조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0027",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#JO0012"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제27조",
+            "source_clause": "제27조",
+            "link_text": "제12조부터 제20조",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립중앙과학관 연구관리규정/제13조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0027",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#JO0013"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제27조",
+            "source_clause": "제27조",
+            "link_text": "제12조부터 제20조",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "제14조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립중앙과학관 연구관리규정/제14조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0027",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#JO0014"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제27조",
+            "source_clause": "제27조",
+            "link_text": "제12조부터 제20조",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "제14조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립중앙과학관 연구관리규정/제14조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0027",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#JO0014_02"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제27조",
+            "source_clause": "제27조",
+            "link_text": "제12조부터 제20조",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립중앙과학관 연구관리규정/제15조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0027",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#JO0015"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제27조",
+            "source_clause": "제27조",
+            "link_text": "제12조부터 제20조",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "제16조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립중앙과학관 연구관리규정/제16조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0027",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#JO0016"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제27조",
+            "source_clause": "제27조",
+            "link_text": "제12조부터 제20조",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "제17조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립중앙과학관 연구관리규정/제17조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0027",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#JO0017"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제27조",
+            "source_clause": "제27조",
+            "link_text": "제12조부터 제20조",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "제18조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립중앙과학관 연구관리규정/제18조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0027",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#JO0018"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제27조",
+            "source_clause": "제27조",
+            "link_text": "제12조부터 제20조",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "제19조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립중앙과학관 연구관리규정/제19조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0027",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#JO0019"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제27조",
+            "source_clause": "제27조",
+            "link_text": "제12조부터 제20조",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "제20조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립중앙과학관 연구관리규정/제20조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0027",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#JO0020"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제27조",
+            "source_clause": "제27조",
+            "link_text": "제7조부터 제11조",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립중앙과학관 연구관리규정/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0027",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#JO0007"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제27조",
+            "source_clause": "제27조",
+            "link_text": "제7조부터 제11조",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립중앙과학관 연구관리규정/제8조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0027",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#JO0008"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제27조",
+            "source_clause": "제27조",
+            "link_text": "제7조부터 제11조",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립중앙과학관 연구관리규정/제9조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0027",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#JO0009"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제27조",
+            "source_clause": "제27조",
+            "link_text": "제7조부터 제11조",
+            "line_text": "",
+            "target_law_name": "책임운영기관의 설치ㆍ운영에 관한 법률",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/책임운영기관의 설치ㆍ운영에 관한 법률/제10조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0027",
+            "reference_id": "law:책임운영기관의설치운영에관한법률#JO0010"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제27조",
+            "source_clause": "제27조",
+            "link_text": "제7조부터 제11조",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립중앙과학관 연구관리규정/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0027",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#JO0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0027"
+      },
+      {
+        "article_no": "제28조",
+        "article_title": "국제공동연구과제의 분야",
+        "chapter": "제6장 공동연구사업",
+        "content": "제28조(국제공동연구과제의 분야) 국제공동연구과제의 분야는 다음 각 호와 같다.1. 국내의 기술 또는 과학관 단독으로 연구개발과제의 수행이 곤란한 연구2. 외국의 첨단 과학기술이나 유용한 과학기술자료 또는 자원의 국내도입을 위한 연구3. 기타 관장이 국제공동연구과제의 수행이 필요하다고 인정하는 연구",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0028"
+      },
+      {
+        "article_no": "제29조",
+        "article_title": "국제공동연구과제 협약서",
+        "chapter": "제6장 공동연구사업",
+        "content": "제29조(국제공동연구과제 협약서) ① 연구 총괄 부서장은 국제공동연구과제가 결정되면 관장의 명의로 외국공동연구기관의 장과 협약서를 체결한다.② 제1항의 협약서에는 다음 각 호의 사항이 포함되어야 한다. 다만, 협약체결 당사자 간의 협의 또는 조정을 통하여 달리 정할 수 있다.1. 연구목적2. 연구기간3. 협약체결 당사자의 연구책임자4. 연구추진방법5. 연구개발비 부담, 국외송금 절차 및 집행방법6. 연구원 파견 및 교류7. 산업재산권 및 발생품의 귀속8. 연구성과의 활용 및 기술사용료에 관한 사항9. 협약의 변경 및 해약에 관한 사항10. 협약위반에 관한 사항11. 기타 연구개발과제의 수행에 필요한 사항③ 협약이 체결되면 연구책임자는 그 결과를 연구 총괄 부서장 및 연구비 집행관리 부서장에게 통보해야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0029"
+      },
+      {
+        "article_no": "제30조",
+        "article_title": "국제공동연구과제의 국외송금사업비 집행",
+        "chapter": "제6장 공동연구사업",
+        "content": "제30조(국제공동연구과제의 국외송금사업비 집행) ① 국제공동연구과제의 과학관 연구책임자는 그 연구계획서 및 연구세부시행계획서를 작성하는 때에 국외송금사업비가 필요한 경우에는 별지 제13호 서식에 의한 국제공동연구과제 국외송금사업비 집행계획서를 첨부하여 제출하여야 한다. 다만, 외국공동연구기관으로부터 연구개발비를 지원받는 때에는 제29조의 협약조건에 의한다.② 연구 총괄 부서장은 국제공동연구과제의 과학관 연구책임자의 요청에 따라 국외송금사업비를 외국공동연구기관의 장에게 일시 또는 분할하여 지급하도록 요청 할 수 있다.③ 국제공동연구과제의 과학관 연구책임자는 연구사업 종료 후 2개월 이내에 외국공동연구기관의 장으로부터 국외송금사업비의 집행실적을 보고받아 별지 제14호 서식에 의한 국제공동연구과제 국외송금사업비 집행실적서를 연구 총괄 부서장에게 제출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제30조",
+            "source_clause": "제30조제1항",
+            "link_text": "별지 제13호 서식",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "별지13",
+            "target_article_title": "국제공동연구과제 국외송금사업비 집행계획서",
+            "appendix_no": "13",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805647",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0030",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#BJ0013"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제30조",
+            "source_clause": "제30조제1항",
+            "link_text": "제29조",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "제29조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립중앙과학관 연구관리규정/제29조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0030",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#JO0029"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제30조",
+            "source_clause": "제30조제3항",
+            "link_text": "별지 제14호 서식",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "별지14",
+            "target_article_title": "국제공동연구과제 국외송금사업비 집행실적서",
+            "appendix_no": "14",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805653",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0030",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#BJ0014"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0030"
+      },
+      {
+        "article_no": "제31조",
+        "article_title": "국제공동연구과제수행의 지원",
+        "chapter": "제6장 공동연구사업",
+        "content": "제31조(국제공동연구과제수행의 지원) 관장은 국제공동연구과제의 원활한 수행을 위하여 국제공동연구과제 연구개발비 이외의 예산항목에서 과학관의 국제공동연구과제 연구책임자 및 담당자의 해외출장, 외국공동연구기관의 연구책임자 및 담당자의 국내 초청에 소요되는 경비를 지원할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0031"
+      },
+      {
+        "article_no": "제32조",
+        "article_title": "연구결과의 발표 등",
+        "chapter": "제7장 연구결과의 발표 및 활용",
+        "content": "제32조(연구결과의 발표 등) ① 연구사업 연구책임자는 연구결과를 국내ㆍ외 학회지나 학술회의 등에 게재 또는 발표할 때에는 별지 제15호 서식에 의한 외부학회지(학술회의) 발표신청서를 연구 총괄 부서장에게 제출하여야 한다.② 연구 총괄 부서장은 제1항의 제출을 받은 후 그 내용이 과학관에 중대한 영향을 미친다고 판단되는 때에는 관장에게 보고하고, 승인을 얻어야 한다.③ 관장은 제1항의 연구결과 발표자에게 예산의 범위 안에서 게재 및 발표 등에 소요되는 경비를 지원할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제32조",
+            "source_clause": "제32조제1항",
+            "link_text": "별지 제15호 서식",
+            "line_text": "",
+            "target_law_name": "국립중앙과학관 연구관리규정",
+            "target_article_no": "별지15",
+            "target_article_title": "외부학회지(학술회의) 발표신청서",
+            "appendix_no": "15",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805659",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0032",
+            "reference_id": "admrul:국립중앙과학관연구관리규정#BJ0015"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0032"
+      },
+      {
+        "article_no": "제33조",
+        "article_title": "평가결과의 반영",
+        "chapter": "제7장 연구결과의 발표 및 활용",
+        "content": "제33조(평가결과의 반영) ① 공동연구사업의 평가에 관하여는 제10조 제3항을 준용한다.② 연구사업의 평가결과는 다음 연도 연구과제의 사업계획 등에 반영한다.③ 연구사업의 평가결과가 우수 이상인 때에는 다음 연도 연구개발비를 우선 배정 할 수 있으며, 그 평가결과가 미흡 이하인 경우와 성실실패로 인정할 수 없는 경우 다음 연도 연구과제 선정 제외 등의 불이익 조치를 취할 수 있다.④ 관장은 연구사업의 평가에 관하여 필요한 세부사항을 따로 정할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제33조",
+            "source_clause": "제33조제1항",
+            "link_text": "제10조",
+            "line_text": "",
+            "target_law_name": "책임운영기관의 설치ㆍ운영에 관한 법률",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/책임운영기관의 설치ㆍ운영에 관한 법률/제10조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:국립중앙과학관연구관리규정#JO0033",
+            "reference_id": "law:책임운영기관의설치운영에관한법률#JO0010"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립중앙과학관연구관리규정#JO0033"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20230426",
+      "promulgation_no": "2307",
+      "content": "부칙 <제2307호, 2023. 4. 26.>이 규칙은 발령한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20240311",
+      "promulgation_no": "2402",
+      "content": "부칙 <제2402호, 2024. 3. 11.>이 규칙은 발령한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20250121",
+      "promulgation_no": "2501",
+      "content": "부칙(국립중앙과학관 겨레과학기술원리탐구연구사업 관리규정 등 국립중앙과학관 내부규정 일괄개정) <제2501호, 2025. 1. 21.>이 규칙은 발령한 날로부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "연구과제제안서",
+      "enforcement_date": "",
+      "content": "[별지 제1호 서식]\n\n연구과제제안서\n┏━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃1. 과 제 명     │                                                            ┃\n┠────────┼───────┬───────┬──────────┬───┨\n┃2. 연 구 원     │성 명         │직 급         │과(부서)            │참여율┃\n┃                │              │              │※외부인은 소속기관 │(%)   ┃\n┠────────┼───────┼───────┼──────────┼───┨\n┃  과제책임자    │              │              │                    │      ┃\n┠────────┼───────┼───────┼──────────┼───┨\n┃  참여연구원    │              │              │                    │      ┃\n┃                ├───────┼───────┼──────────┼───┨\n┃                │              │              │                    │      ┃\n┃                ├───────┼───────┼──────────┼───┨\n┃                │              │              │                    │      ┃\n┃                ├───────┼───────┼──────────┼───┨\n┃                │              │              │                    │      ┃\n┠────────┼───────┼───────┼──────────┴───┨\n┃4. 연구기간     │00년 00월~00월│총연구기간    │00년 00월~00년 00월         ┃\n┠────────┼───────┼───────┼──────────────┨\n┃5. 소요예산     │000천원       │총소요예산    │000천원                     ┃\n┠────────┼───────┴───────┼──────────────┨\n┃6. 예산운영계획 │연구내용                      │소요예산산출액(천원)        ┃\n┃                │                              ├───┬──────────┨\n┃                │                              │항목  │예산액              ┃\n┃                ├───────────────┼───┼──────────┨\n┃                │(예) 000에 대한 표본 수집 조사│출장비│3,000               ┃\n┃                │                              │재료비│12,000              ┃\n┃                ├───────────────┼───┼──────────┨\n┃                │             ? ? ? ?      │      │                    ┃\n┃                ├───────────────┼───┼──────────┨\n┃                │계                            │      │72,000              ┃\n┗━━━━━━━━┷━━━━━━━━━━━━━━━┷━━━┷━━━━━━━━━━┛\n7. 연구목적 및 필요성\n□ 연구목적\n□ 연구 필요성\n8. 연구내용 및 연구방법\n□ 연구내용\n□ 단계별 세부 연구방법\n9. 연구결과 및 활용계획\n□ 도출하고자 하는 연구결과\n□ 활용계획 및 기대효과\n비고 1. 연구과제제안서는 개조식으로 작성하고, 전체분량은 2~3페이지로 하되 필요한 경우 5페이지까지 할 수 있다.\n2. 연구인력별 참여율 산정방법\n가. 과제책임자, 정규직 ? 비정규직 ? 외부참여 연구원(이하 \"연구원\") 및 보직자의 최저참여율은 5%로 한다. 다만, 최저참여율의 적용이 곤란한 과제의 경우에는 연구과와 사전협의하여야 한다.\n나. 1인이 2개 이상의 과제에 참여하는 경우, 개인의 총 참여율 합계는 100%를 초과할 수 없다.\n3. 필요 시 서식의 내용을 일부 수정할 수 있다.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805545",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805539",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805545",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립중앙과학관연구관리규정#BJ0001",
+      "filename": "별지1_연구과제제안서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "연구과제계획서",
+      "enforcement_date": "",
+      "content": "[별지 제2호 서식]\n연구과제계획서\n┌─────────────────────────────────────────────────┐\n│1. 연구과제 구분                                                                                  │\n│┌────────┬──────────┐                                                        │\n││과제 유형       │부서과제 / 개인과제 │                                                        │\n│├────┬───┼──────────┤                                                        │\n││연구    │국문  │                    │                                                        │\n││과제명  ├───┼──────────┤                                                        │\n││        │영문  │                    │                                                        │\n│├────┼───┼──────────┤                                                        │\n││연구    │소속  │                    │                                                        │\n││책임자  ├───┼──────────┤                                                        │\n││        │성명  │                    │                                                        │\n│├────┼───┼──────────┤                                                        │\n││연구기간│1단계 │                    │                                                        │\n││        ├───┼──────────┤                                                        │\n││        │…    │                    │                                                        │\n││        ├───┼──────────┤                                                        │\n││        │n단계 │                    │                                                        │\n│├────┼───┼──────────┤                                                        │\n││연구예산│1단계 │                    │                                                        │\n││        ├───┼──────────┤                                                        │\n││        │…    │                    │                                                        │\n││        ├───┼──────────┤                                                        │\n││        │n단계 │                    │                                                        │\n│└────┴───┴──────────┘                                                        │\n│2. 연구과제의 필요성                                                                              │\n│━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━    │\n│   작성 요령 (제출 시 삭제)                                                                       │\n│───────────────────────────────────────────────    │\n│  ○ 연구과제의 필요성: 연구과제와 관련되는 관 내외 현황·문제점·전망, 관 내 연구의 필요성       │\n│  등을 기재                                                                                       │\n│───────────────────────────────────────────────    │\n│                                                                                                  │\n│3. 연구과제의 목표 및 성과지표                                                                    │\n│━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━│\n│   작성 요령 (제출 시 삭제)                                                                       │\n│─────────────────────────────────────────────────│\n│  1) 연구과제의 최종 목표 및 단계별 목표: 연구하고자 하는 지식, 기술 등의 정성적 또는 정량적      │\n│  목표를 기재                                                                                     │\n│   - 연구과제의 단계별 목표: 연구과제의 단계별 세부목표를 기재                                    │\n│  2) 성과지표 또는 목표치: 연구과제의 특성에 따른 연구 성과와 관련된 성과지표 또는 목표치를 기재  │\n│  (정성, 정량적 평가항목을 합하여 부서과제는 2개, 개인과제는 1개 이상 반드시 설정해야함)          │\n│─────────────────────────────────────────────────│\n│ 1) 연구과제의 최종·세부 목표 및 단계별 목표                                                     │\n│  ┌─────────────┬──┐                                                            │\n│  │최종목표                  │ o  │                                                            │\n│  ├─────────────┼──┤                                                            │\n│  │세부목표                  │ 1. │                                                            │\n│  │                          │ 2. │                                                            │\n│  │                          │ 3. │                                                            │\n│  ├────┬───┬────┼──┤                                                            │\n│  │단계별  │1단계 │1차년도 │ o  │                                                            │\n│  │(연차별)│      │(2024년)│ o  │                                                            │\n│  │목표 및 │      │        │ o  │                                                            │\n│  │내용    ├───┼────┼──┤                                                            │\n│  │        │2단계 │2차년도 │ o  │                                                            │\n│  │        │      │(2025년)│ o  │                                                            │\n│  │        │      │        │ o  │                                                            │\n│  └────┴───┴────┴──┘                                                            │\n│ 2) 성과지표 또는 목표치                                                                          │\n│───────────┬──────┬──────┬──                                          │\n│    단계              │1단계(yy~yy)│n단계(yy~yy)│계                                            │\n│  성과지표 또는 목표치│            │            │                                              │\n│───────────┼──────┼──────┼──                                          │\n│                      │            │            │                                              │\n│───────────┼──────┼──────┼──                                          │\n│                      │            │            │                                              │\n│───────────┼──────┼──────┼──                                          │\n│                      │            │            │                                              │\n│───────────┼──────┼──────┼──                                          │\n│  계                  │            │            │                                              │\n│───────────┴──────┴──────┴──                                          │\n│                                                                                                  │\n│                                                                                                  │\n│4. 연구과제의 내용 및 수행방법                                                                    │\n│━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━│\n│   작성 요령 (제출 시 삭제)                                                                       │\n│─────────────────────────────────────────────────│\n│  ○ 연구과제의 내용 및 수행방법(아래 양식은 해당내용이 포함되면, 변경가능)                       │\n│    - 연구 내용 및 방법에는 단계별, 연차별로 연구 목표를 달성하기 위한 구체적인 연구내용, 접근    │\n│  방식 등을 구체적으로 기술                                                                       │\n│    - 정보 수집, 전문가 확보, 다른 기관과의 협조 방안 및 문제점 해결을 위하여 수행하는 방법       │\n│  등을 기술                                                                                       │\n│─────────────────────────────────────────────────│\n│─────────┬─────┬───────────────────────┬───            │\n│  구분            │연구내용  │구체적 연구 내용 및 수행방법                  │기타              │\n│────┬────┼─────┼───────────────────────┼───            │\n│  1단계 │1차년도 │o 000확충 │o 좌측 세부 단계별 목표를 실현하기 위한 보다  │                  │\n│        │(2024년)│          │구체화된 추진 내용들을 기재                   │                  │\n│        │        ├─────┼───────────────────────┼───            │\n│        │        │o 000조사 │o                                             │                  │\n│        │        │          │o                                             │                  │\n│        │        ├─────┼───────────────────────┼───            │\n│        │        │          │o                                             │                  │\n│        │        │          │o                                             │                  │\n│        │        ├─────┼───────────────────────┼───            │\n│        │        │          │o                                             │                  │\n│        │        │          │o                                             │                  │\n│        │        ├─────┼───────────────────────┼───            │\n│        │        │          │o                                             │                  │\n│        │        │          │o                                             │                  │\n│────┼────┼─────┼───────────────────────┼───            │\n│  2단계 │2차년도 │          │o                                             │                  │\n│        │(2025년)│          │o                                             │                  │\n│        │        ├─────┼───────────────────────┼───            │\n│        │        │          │o                                             │                  │\n│        │        │          │o                                             │                  │\n│        │        ├─────┼───────────────────────┼───            │\n│        │        │          │o                                             │                  │\n│        │        │          │o                                             │                  │\n│        │        ├─────┼───────────────────────┼───            │\n│        │        │          │o                                             │                  │\n│        │        │          │o                                             │                  │\n│        │        ├─────┼───────────────────────┼───            │\n│        │        │          │o                                             │                  │\n│        │        │          │o                                             │                  │\n│────┴────┴─────┴───────────────────────┴───            │\n└─────────────────────────────────────────────────┘\n5. 연구과제 추진일정 및 예산운영계획\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n작성 요령 (제출 시 삭제)\n─────────────────────────────────────────────────────\n○ 표 내‘연구내용’을‘4. 연구과제의 내용 및 수행방법’의 내용과 동일하게 작성\n○ 연구기관명은 연구 내용을 수행하는 주관·공동·위탁 기관 또는 부서명을 작성\n○ 추진일정은 연구를 수행하는 일정에 ┌┐로 표시\n││\n└┘\n○ 예산운영계획은 예산세목별로 작성하여 구체적인 예산 계획이 될 수 있도록 기술\n○ 과제 추진일정과 예산운영계획이‘4. 연구과제의 내용 및 수행방법’의 내용과 부합되게 구체적으로 기재\n○ 최종 예산 합계는 세목별 예산 합계의 총액을 의미\n─────────────────────────────────────────────────────\n1) 1단계 1년차(2024년)\n────────┬─────────┬───────────────┬─────────────────────\n연구 내용     │연구기관명        │추진일정                      │예산운영계획(단위: 천원)\n│(주관/공동/위탁)  ├───┬───┬───┬───┼─────┬────┬───┬───┬──\n│                  │1분기 │2분기 │3분기 │4분기 │일반수용비│일용임금│재료비│여비  │…\n────────┼─────────┼───┼───┼───┼───┼─────┼────┼───┼───┼──\n000확충(동일) │OO대학/전시과     │      │      │      │      │2,000     │-       │2,000 │1,000 │\n────────┼─────────┼───┼───┼───┼───┼─────┼────┼───┼───┼──\n000조사(동일) │전시과/(주)OO기술 │      │      │      │      │1,000     │1,000   │      │      │\n────────┼─────────┼───┼───┼───┼───┼─────┼────┼───┼───┼──\n…            │…                │      │      │      │      │          │        │      │      │\n────────┼─────────┼───┼───┼───┼───┼─────┼────┼───┼───┼──\n│                  │      │      │      │      │          │        │      │      │\n━━━━━━━━┷━━━━━━━━━┷━━━┷━━━┷━━━┷━━━┿━━━━━┿━━━━┿━━━┿━━━┿━━\n합계                                                              │3,000     │1,000   │2,000 │1,000 │-\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━┷━━━━┷━━━┷━━━┷━━\n최종 예산 합계                                                    │7,000\n──────────────────────────────────┴─────────────────────\n2) 2단계 2년차(2025년)\n──────┬────────┬───────────────┬────────────────────\n연구 내용 │연구기관명      │추진일정                      │예산운영계획(단위: 천원)\n│(주관/공동/위탁)├───┬───┬───┬───┼─────┬────┬───┬──┬──\n│                │1분기 │2분기 │3분기 │4분기 │일반수용비│일용임금│재료비│여비│…\n──────┼────────┼───┼───┼───┼───┼─────┼────┼───┼──┼──\n│                │      │      │      │      │          │        │      │    │\n──────┼────────┼───┼───┼───┼───┼─────┼────┼───┼──┼──\n│                │      │      │      │      │          │        │      │    │\n━━━━━━┷━━━━━━━━┷━━━┷━━━┷━━━┷━━━┿━━━━━┿━━━━┿━━━┿━━┿━━\n합계                                                        │          │        │      │    │\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━┷━━━━┷━━━┷━━┷━━\n최종 예산 합계                                              │\n───────────────────────────────┴────────────────────\n┌───────────────────────────────────────────────┐\n│6. 연구과제의 업무분장                                                                        │\n│━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                │\n│   작성 요령 (제출 시 삭제)                                                                   │\n│───────────────────────────────────────                │\n│  ○ 연구과제 업무분장                                                                        │\n│   - 업무분장: 연구참여자의 업무를 2꼭지 이상 구체적이고 자세하게 기술                        │\n│   - 참여율: 참여연구원이 실제 연구과제에 참여하는 정도                                       │\n│    · 개인이 참여하는 모든 연구과제의 총 참여율 합계는 100% 이하여야 한다.                   │\n│───────────────────────────────────────                │\n│                                                                                              │\n│────┬────────┬──┬───┬─────┬──────                            │\n│  구분  │소속            │성함│참여율│연구 참여 │업무 분장                               │\n│        │                │    │      │기간      │                                        │\n│────┼────┬───┼──┼───┼─────┼──────                            │\n│  연구  │국립중앙│전시과│OOO │00%   │`24.1.1.~ │o                                       │\n│  책임자│과학관  │      │    │      │`24.11.30.│                                        │\n│────┼────┼───┼──┼───┼─────┼──────                            │\n│  연구  │국립중앙│전시과│OOO │00%   │          │o                                       │\n│  참여자│과학관  │      │    │      │          │o                                       │\n│        │        │      │    │      │          │o                                       │\n│        │        ├───┼──┼───┼─────┼──────                            │\n│        │        │기초과│OOO │00%   │          │o                                       │\n│        │        │      │    │      │          │o                                       │\n│        │        │      │    │      │          │o                                       │\n│        ├────┼───┼──┼───┼─────┼──────                            │\n│        │외부    │      │    │      │          │                                        │\n│        │기관1   ├───┼──┼───┼─────┼──────                            │\n│        │        │      │    │      │          │                                        │\n│        ├────┼───┼──┼───┼─────┼──────                            │\n│        │외부    │      │    │      │          │                                        │\n│        │기관2   ├───┼──┼───┼─────┼──────                            │\n│        │        │      │    │      │          │                                        │\n│────┴────┴───┴──┴───┴─────┴──────                            │\n│                                                                                              │\n│                                                                                              │\n│7. 연구 성과의 활용방안 및 기대효과                                                           │\n│━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━│\n│  작성 요령 (제출 시 삭제)                                                                    │\n│───────────────────────────────────────────────│\n│  1) 활용방안: 과학관, 박물관 등에 활용 가능성 및 활용 계획, 안정성 확보 및 검증계획,         │\n│  실증계획 및 설치계획 등 실용화 계획을 상세히 기술                                           │\n│  2) 기대효과: 연구 성과 활용의 기대되는 성과를 경제적 측면과 사회적 측면으로 구분하여 기술   │\n│───────────────────────────────────────────────│\n│                                                                                              │\n│ 1) 연구 결과의 활용방안                                                                      │\n│                                                                                              │\n│                                                                                              │\n│ 2) 연구 성과 활용의 기대효과                                                                 │\n│                                                                                              │\n│                                                                                              │\n│8. 기타                                                                                       │\n│━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━│\n│  작성 요령(제출 시 삭제)                                                                     │\n│───────────────────────────────────────────────│\n│  ? 그 외 제안된 연구계획과 관련하여 연구책임자가 기술이 필요하다고 생각하는 사항을 자유롭   │\n│  게 기술                                                                                     │\n│━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━│\n└───────────────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805557",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805547",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805557",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립중앙과학관연구관리규정#BJ0002",
+      "filename": "별지2_연구과제계획서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "연구과제 변경 및 중단 요청서",
+      "enforcement_date": "",
+      "content": "[별지 제3호 서식]\n\n\n연구과제 변경 및 중단 요청서\n────────────┬─────────────────────────────────────\n사업명                │\n────────────┼─────────────────────────────────────\n연구과제명            │\n────────────┼───────────┬─────┬───────────────────\n주관연구부서명        │                      │연구책임자│\n────────────┼───────────┴─────┴───────────────────\n공동연구기관명        │\n(해당 시 작성)        │\n────────────┼─────────────────────────────────────\n연구기관 외           │\n기관명(해당 시 작성)  │\n──────┬─────┼─────────────────────────────────────\n연구      │전체      │\n기간      ├─────┼─────────────────────────────────────\n│해당 단계 │\n│(해당 시) │\n──────┴─────┼─────────────────────────────────────\n요청 사항             │① 연구과제 변경 [  ]    /    ② 연구개발과제 중단 [  ]\n──────┬─────┼──────────┬───────────┬──────────────\n연구      │구분      │[ ] 연구비 총액 변경│[ ] 연구과제 목표 변경│[ ] 연구과제 기간 변경\n과제변경  │          ├──────────┼───────────┼──────────────\n(요청사항 │          │[ ] 기타            │                      │\n①번      ├─────┼──────────┴───────────┴──────────────\n해당시)   │변경사유  │\n├─────┼────────────┬────────────────────────\n│주요내용  │변경 전                 │변경 후\n│          ├────────────┼────────────────────────\n│          │                        │\n──────┼─────┼────────────┴────────────────────────\n연구      │구분      │[  ] 연구 환경의 변경 또는 연구과제의 목표 조기달성으로 계속수행 불필요\n과제중단  │          │[  ] 연구과제 계속수행 불가능\n(요청사항 ├─────┼─────────────────────────────────────\n②번      │주요내용  │\n해당시)   │          │\n──────┴─────┴─────────────────────────────────────\n위와 같이 연구과제 변경 또는 중단을 요청하니 검토하여 주시기 바랍니다.\n\n년       월       일\n신 청 인 :                   (인)\n\n국립중앙과학관 연구 총괄 부서장 귀하\n──────────────────────────────────────────────────\n\n\n\n(2쪽 중 2쪽)\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n앞표지 작성 요령(작성 요령은 제출하지 않습니다)\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n1. 사업명: 해당 연구과제의 사업명을 기재합니다.\n2. 공동연구기관명: 협약으로 정하는 바에 따라 연구과제를 주관연구기관과 분담하여 공동으로 수행하는 연구기관의 명칭을\n기재합니다.\n3. 연구기관 이외 기관명: 연구과제를 직접 수행하지 아니하나, 연구비를 지원하거나 연구성과 활용 등에 참여하는 기관의\n명칭을 기재합니다.\n4. 연구기간\n1) 전체: 연구과제의 전체 연구기간을 기재합니다.\n2) 해당 단계: 연구과제가 단계구분이 있는 경우 해당 단계의 연구기간을 기재합니다.\n5. 요청사항: 연구과제의 변경 또는 중단 중 해당사항에 [√] 표시합니다.\n6. 연구과제 변경: 연구과제의 변경을 요청할 경우 해당사항에 [√] 표시하고, 변경 전ㆍ후의 사항을 기재합니다(다만, 중단을\n요청한 경우에는 작성 제외).\n7. 주요내용: 연구과제의 변경 및 중단 요청사항 구분에 해당하는 사유를 [√]표시하고, 구체적인 사유를 기재합니다.\n8. 신청인: 연구과제 변경 및 중단 요청 의견을 제출하는 당사자의 성명 및 소속부서를 기재합니다.\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805565",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805559",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805565",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립중앙과학관연구관리규정#BJ0003",
+      "filename": "별지3_연구과제 변경 및 중단 요청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "연구과제 진행상황보고서",
+      "enforcement_date": "",
+      "content": "[별지 제4호 서식]\n연구과제 진행상황보고서\n┏━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃과 제 명      │                                                            ┃\n┠───────┼───────────┬──────┬───────────┨\n┃수행 부서     │                      │공동연구    │                      ┃\n┃              │                      │부서(기관)  │                      ┃\n┠───────┼───────────┼──────┼───────────┨\n┃연구책임자    │  (성명)              │참여인원수  │                      ┃\n┠───────┴───────────┴──────┴───────────┨\n┃연  구  진  행  상  황                                                      ┃\n┠───────┬─────────────────────────┬────┨\n┃       분기별 │분기별 계획 대 진도(계획­­­­­­, 진도━━━) │실 적   ┃\n┃              ├─────┬─────┬─────┬───────┤        ┃\n┃ 세부내용     │1/4       │2/4       │3/4       │4/4           │        ┃\n┃              ├─┬─┬─┼─┬─┬─┼─┬─┬─┼─┬─┬───┤        ┃\n┃              │1 │2 │3 │4 │5 │6 │7 │8 │9 │10│11│12    │        ┃\n┠───────┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┼───┼────┨\n┃              │  │  │  │  │  │  │  │  │  │  │  │      │별지참조┃\n┃              │  │  │  │  │  │  │  │  │  │  │  │      │        ┃\n┃              │  │  │  │  │  │  │  │  │  │  │  │      │        ┃\n┃              │  │  │  │  │  │  │  │  │  │  │  │      │        ┃\n┃              │  │  │  │  │  │  │  │  │  │  │  │      │        ┃\n┃              │  │  │  │  │  │  │  │  │  │  │  │      │        ┃\n┠───┬───┼─┴─┼─┴─┼─┴─┼─┴─┼─┴─┼─┴───┼────┨\n┃진도율│연구비│목    │      │      │      │      │          │        ┃\n┃(%)   │(천원)│ 계   │      │      │      │      │          │        ┃\n┃      ├───┼───┼───┼───┼───┼───┼─────┼────┨\n┃      │책정액│      │      │      │      │      │          │        ┃\n┃      ├───┼───┼───┼───┼───┼───┼─────┼────┨\n┃      │집행액│      │      │      │      │      │          │        ┃\n┠───┴───┴─┬─┴───┴───┴───┴───┴─────┴────┨\n┃진행상의 문제점   │                                                        ┃\n┠─────────┘                                                        ┃\n┃                                                                            ┃\n┠──────────────────────────────────────┨\n┃ 이상과 같이 제출합니다.                                                    ┃\n┃                                                                            ┃\n┃                                                  .       .      .          ┃\n┃                                            연구책임자            (인)      ┃\n┃                                                                            ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n┏━━━━━━━┯━━━━━━━━━━━━━━┓\n┃세 부 내 용   │세 부 추 진 내 역           ┃\n┃              ├────┬────┬────┨\n┃              │계    획│실    적│진도(%) ┃\n┠───────┼────┼────┼────┨\n┃              │        │        │        ┃\n┠───────┼────┴────┴────┨\n┃ 향후 추진방향│                            ┃\n┠───────┘                            ┃\n┃                                            ┃\n┗━━━━━━━━━━━━━━━━━━━━━━┛\n비고 : 필요 시 서식을 일부 수정할 수 있음",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805573",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805567",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805573",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립중앙과학관연구관리규정#BJ0004",
+      "filename": "별지4_연구과제 진행상황보고서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별지",
+      "title": "연구과제 최종결과서",
+      "enforcement_date": "",
+      "content": "[별지 제5호 서식]\n연구과제 최종결과서\n┏━━━━━┯━━━━━━━━━━━━━━━━━━━┓\n┃과 제 명  │                                      ┃\n┠─────┼──────────┬─────┬──┨\n┃수행 부서 │                    │공동연구  │    ┃\n┃          │                    │부서(기관)│    ┃\n┠─────┼──────────┼─────┼──┨\n┃연구책임자│  (성명)            │참여인원수│    ┃\n┠─────┼──┬┬┬─────┴┬┬───┴┬┬┨\n┃연  구  비│목  │││            ││        ││┃\n┃          │ 계 │││            ││        ││┃\n┠─────┼──┼┼┼──────┼┼────┼┼┨\n┃책 정 액  │    │││            ││        ││┃\n┃(천원)    │    │││            ││        ││┃\n┠─────┼──┼┼┼──────┼┼────┼┼┨\n┃집 행 액  │    │││            ││        ││┃\n┃(천원)    │    │││            ││        ││┃\n┠─────┴──┴┴┴──────┴┴────┴┴┨\n┃ 연구의 필요성                                    ┃\n┃                                                  ┃\n┃                                                  ┃\n┠───────────┬─────────────┨\n┃ 기대효과             │ 기타사항                 ┃\n┃                      │                          ┃\n┃                      │                          ┃\n┃                      │                          ┃\n┃                      │                          ┃\n┠───────────┴─────────────┨\n┃  이상과 같이 제출합니다.                         ┃\n┃                                                  ┃\n┃  첨부 : 요약문 1부.                              ┃\n┃                                                  ┃\n┃                                                  ┃\n┃                                                     .     .      . ┃\n┃                                                  ┃\n┃                                            연구책임자               (인)┃\n┃                                                  ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━┛\n비고 : 필요 시 서식을 일부 수정할 수 있음\n요    약    문\n1. 제  목\n2. 목  적\n3. 연구내용 및 방법\n4. 연구결과\n5. 연구결과의 활용에 대한 건의",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805581",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805575",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805581",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립중앙과학관연구관리규정#BJ0005",
+      "filename": "별지5_연구과제 최종결과서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별지",
+      "title": "연구과제평가의견",
+      "enforcement_date": "",
+      "content": "[별지 제6호 서식]\n연 구 과 제 평 가 의 견\n┏━━━━━┯━━━━━━━━━━━━━━━━━━┓\n┃분    야  │                                    ┃\n┠─────┼──────────────────┨\n┃과 제 명  │                                    ┃\n┠─────┼─────┬────┬───────┨\n┃수행부서  │          │협조부서│              ┃\n┃          │          │(기관)  │              ┃\n┠─────┼─────┼────┼───────┨\n┃연구책임자│          │연 구 비│              ┃\n┣━━━━━┿━━━━━┷━━━━┷━━━━━━━┫\n┃종 합     │                                    ┃\n┃의 견     │                                    ┃\n┠─────┼────┬──────┬───┬──┨\n┃평가위원  │소속 및 │            │성 명 │(인)┃\n┃          │직위    │            │      │    ┃\n┗━━━━━┷━━━━┷━━━━━━┷━━━┷━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805587",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805583",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805587",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립중앙과학관연구관리규정#BJ0006",
+      "filename": "별지6_연구과제평가의견.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "별지",
+      "title": "연구과제평가서",
+      "enforcement_date": "",
+      "content": "[별지 제7호 서식]\n연 구 과 제 평 가 서\n┏━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃분    야  │                                                                        ┃\n┠─────┼────────────────────────────────────┨\n┃과 제 명  │                                                                        ┃\n┠─────┼─────────────┬───────┬──────────────┨\n┃수행부서  │                          │협조부서(기관)│                            ┃\n┠─────┼─────────────┼───────┼──────────────┨\n┃연구책임자│                          │연 구 비      │                            ┃\n┣━━━━━┷━━━━━━━━━━┯━━┷━━━━━━━┷━━━━━━━━━━┯━━━┫\n┃                      구  분    │평  가  결  과                            │평 가 ┃\n┃                                ├──┬──┬───┬───┬───┬───┤점 수 ┃\n┃  평가항목                      │가중│아주│      │      │      │아주  │      ┃\n┃                                │치  │우수│우수  │보통  │불량  │불량  │      ┃\n┃                                │    │(1) │(0.9) │(0.8) │(0.7) │(0.6) │      ┃\n┠────────────────┼──┼──┼───┼───┼───┼───┼───┨\n┃ 1. 연구수행도                  │(30)│    │      │      │      │      │      ┃\n┃   - 연구시기 및 기간의 적합성  │    │    │      │      │      │      │      ┃\n┃   - 참여인력의 능력발휘도      │    │    │      │      │      │      │      ┃\n┃   - 예산집행의 적시성 및 합리성│    │    │      │      │      │      │      ┃\n┠────────────────┼──┼──┼───┼───┼───┼───┼───┨\n┃2. 연구수행 방법                │(40)│    │      │      │      │      │      ┃\n┃   - 접근방법의 합리성          │    │    │      │      │      │      │      ┃\n┃   - 연구방법의 타당성          │    │    │      │      │      │      │      ┃\n┃   - 시행계획서와의 부합성      │    │    │      │      │      │      │      ┃\n┃   - 독창성 및 과학기술적인 수준│    │    │      │      │      │      │      ┃\n┠────────────────┼──┼──┼───┼───┼───┼───┼───┨\n┃3. 연구결과                     │(30)│    │      │      │      │      │      ┃\n┃   - 연구목적의 달성도          │    │    │      │      │      │      │      ┃\n┃   - 연구결과의 질적 수준       │    │    │      │      │      │      │      ┃\n┃   - 연구결과의 실용성 및 기여도│    │    │      │      │      │      │      ┃\n┠───────┬────────┴──┴──┴───┴───┴───┴───┴───┨\n┃중간의견      │                                                                    ┃\n┃수렴의 적절성 │                                                                    ┃\n┠───┬───┴──────────────────────────────┬───┨\n┃종 합 │                                                                    │      ┃\n┃점 수 │                                                                    │      ┃\n┠───┼───────┬─────┬────┬─────┬──────┬──┴───┨\n┃평 가 │              │아주우수  │우   수 │보   통   │미   흡     │아주미흡    ┃\n┃등 급 │              │95이상    │90이상  │80이상    │70이상      │60미만      ┃\n┃      │              ├─────┼────┼─────┼──────┼──────┨\n┃      │              │          │        │          │            │            ┃\n┠───┼───────┴─────┴────┴─────┴──────┴──────┨\n┃종 합 │                                                                            ┃\n┃의 견 │                                                                            ┃\n┠───┼──────┬────────────┬──────┬───────────┨\n┃평 가 │소속 및 직위│                        │성명        │           (인)       ┃\n┃자    │            │                        │            │                      ┃\n┗━━━┷━━━━━━┷━━━━━━━━━━━━┷━━━━━━┷━━━━━━━━━━━┛\n\n* 평가점수 = 평가결과×가중치\n* 종합점수 : 각 항목별 평가점수의 합\n비고 : 필요 시 서식을 일부 수정할 수 있음",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805593",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805589",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805593",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립중앙과학관연구관리규정#BJ0007",
+      "filename": "별지7_연구과제평가서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0008",
+      "branch": "00",
+      "kind": "별지",
+      "title": "연구보고서 작성 요령",
+      "enforcement_date": "",
+      "content": "[별지 제8호 서식]\n연구보고서 작성 요령\n\n\nⅠ. 인쇄규격\n1. 크기 : A4 신판(가로 210mm * 세로297mm)\n2. 제본 : 좌철\n3. 용지\n가. 표지 200g/㎡ 양면 아트지\n나. 내용 80g/㎡ 모조지\n4. 인쇄방법\n가. 표지 : 바탕 백색,활자 흑색\n나. 내용 : 흑색 지정활자\n\nⅡ. 편집순서\n1. 표지\n2. 제출문\n3. 보고서 요약서\n4. 요약문\n5. 영문 요약서\n6. 영문 목차\n7. 목차\n8. 본문\n9. 뒷면지\n\nⅢ. 참고사항\n전자조판 인쇄 시에는 이에 준한다.\nⅣ. 편집순서별 서식\n1. 표지\n(뒷면)                                                                        (앞면)\n┌──────────┬──┬──────────────────────────────────┐\n│                    │과  │ 보안과제(   ), 일반과제(   )        과제번호                       │\n│                    │제  │                              5cm                                   │\n│                    │번  │                                                                    │\n│                    │호  │                               ↓                                   │\n│                    │    │                                                                    │\n│                    │  차│                                                                    │\n│                    │  세│   신약 개발 연구개발사업(세부사업명 또는 중과제명)                 │\n│                    │  대│(18 포인트 고딕계열)                                                │\n│                    │    │(Research Program for New Drug Target Discovery)                    │\n│                    │  항│                                                                    │\n│                    │  생│                                                                    │\n│                    │  제│                                                                    │\n│                    │  로│  차세대 항생제로 신규 항균 펩타이드 발굴 및 개발 연구(세부과제명)  │\n│                    │    │(17 포인트고딕계열)                                                 │\n│                    │  신│                                                                    │\n│                    │  규│                                                                    │\n│                    │    │  (A study on the development of novel antimicrobial peptides as a  │\n│                    │  항│next generation of antibiotics)                                     │\n│                    │  균│(15 포인트 명조계열)                                                │\n│                    │    │                                                                    │\n│                    │  펩│                                                                    │\n│                    │  타│                                                                    │\n│                    │  이│                                                                    │\n│                    │  드│한국과학기술원(세부과제 연구기관명)                                 │\n│                    │    │(17 포인트 명조계열)                                                │\n│┌──────┐    │  발│                                                                    │\n││주        의│    │  굴│                                                                    │\n││(편집순서 8)│    │    │                           ↑                                       │\n│└──────┘    │  및│9cm                                                                 │\n│                    │    │                           ↓                                       │\n│                    │  개│                                                                    │\n│                    │  발│                                                                    │\n│                    │  연│                                                                    │\n│                    │  구│0000000부 (17포인트 명조계열)                                       │\n│                    │    │                                                                    │\n│(15 포인트 고딕계열)│0   │                                                                    │\n│                    │0   │                            ↑                                      │\n│↑                  │0   │                           4cm                                      │\n│6cm                 │0   │                            ↓                                      │\n│↓                  │0   │                                                                    │\n│                    │0   │                                                                    │\n│                    │0   │                                                                    │\n│                    │부  │                                                                    │\n│                    │    │                                                                    │\n│                    │    │                                                                    │\n│                    │↑  │                                                                    │\n│                    │3cm │                                                                    │\n│                    │↓  │                                                                    │\n│                    │    │                                                                    │\n└──────────┴──┴──────────────────────────────────┘\n\n\n2. 제출문\n제출문\n관장(장관)  귀하\n이 보고서를 \"     에 관한 연구\"과제(세부과제 \"     에 관한 연구\")의 보고\n서로 제출합니다.\n20      .       .\n주관연구기관명 :\n주관연구책임자 :\n연구원:\n\"      :\n\"      :\n협동연구기관명 :\n협동연구책임자 :\n3. 보고서 요약서\n보고서 요약서\n\n┏━━━━━━━┯━━━━━┯━━━━━┯━━━━━━┯━━━━━┯━━━━━━┓\n┃과제고유번호  │          │해당단계  │            │단계구분  │(해당단계)/ ┃\n┃              │          │연구기간  │            │          │(총단계)    ┃\n┠───────┼─────┼─────┴──────┴─────┴──────┨\n┃연구사업명    │중사업명  │예시) 중점국가연구개발사업, 선도기술개발사업 등   ┃\n┃              ├─────┼─────────────────────────┨\n┃              │세부사업명│예시) 기계설비요소기술개발사업, 고온초전도기술개  ┃\n┃              │          │발 사업 등                                        ┃\n┠───────┼─────┼─────────────────────────┨\n┃연구과제명    │대과제명  │대과제가 있을 경우에는 기재(단위과제일 경우에는   ┃\n┃              │          │아래 기재)                                        ┃\n┃              ├─────┼─────────────────────────┨\n┃              │세부과제명│                                                  ┃\n┠───────┼─────┼─────┬──────┬─────┬──────┨\n┃연구책임자    │          │해당단계  │ 총 :   명  │해당단계  │정부 :  천원┃\n┃              │          │참여      │내부 :   명 │연구비    │기업 :  천원┃\n┃              │          │연구원수  │외부 :   명 │          │ 계 :  천원 ┃\n┃              │          ├─────┼──────┼─────┼──────┨\n┃              │          │총연구기간│ 총 :   명  │총연구비  │정부 :  천원┃\n┃              │          │참여      │내부 :   명 │          │기업 :  천원┃\n┃              │          │연구원수  │외부 :   명 │          │ 계 :  천원 ┃\n┠───────┼─────┴─────┼──────┼─────┴──────┨\n┃연구기관명 및 │                      │참여기업명  │                        ┃\n┃소속부서명    │                      │            │                        ┃\n┠───────┼───────────┴──────┴────────────┨\n┃국제공동연구  │상대국명 :                상대국연구기관명 :                  ┃\n┠───────┼───────────────────────────────┨\n┃위탁연구      │연구기관명 :              연구책임자 :                        ┃\n┠───────┴──────────────────┬─────┬──────┨\n┃요약(연구결과를 중심으로 개조식 500자 이내)         │보고서면수│            ┃\n┠──────────────────────────┴─────┴──────┨\n┃                                                                              ┃\n┠───────┬──┬────────────────────────────┨\n┃색인어        │한글│                                                        ┃\n┃(각 5개 이상) ├──┼────────────────────────────┨\n┃              │영어│                                                        ┃\n┗━━━━━━━┷━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n4. 요약문\n요약문\n\nⅠ. 제목\nⅡ. 연구개발의 목적 및 필요성\n(필요에 따라 제목을 달리할 수 있음)\nⅢ. 연구개발의 내용 및 범위\n(필요에 따라 제목을 달리할 수 있음)\nⅣ. 연구개발결과\n(필요에 따라 제목을 달리할 수 있음)\nⅤ. 연구개발결과의 활용계획\n(필요에 따라 제목을 달리할 수 있음)\n5. 영문 요약서\nSUMMARY\n(영문요약문)\n6. 영문 목차\nCONTENTS\n(영문목차)\n7. 목차\n목차\n\n제1장 연구개발과제의 개요\n(연구개발의 목적, 필요성 및 범위 등을 기술)\n제2장 국내외 기술개발 현황\n(국내·외 관련분야에 대한 기술개발현황과 연구결과가 국내·외 기술개발현황\n에서 차지하는 위치 등을 기술)\n제3장 연구개발수행 내용 및 결과\n(이론적, 실험적 접근방법, 연구내용, 연구결과를 기술)\n제4장 목표달성도 및 관련분야에의 기여도\n(연도별 연구목표 및 평가착안점에 입각한 연구개발목표의 달성도 및 관련분\n야의 기술발전에의 기여도 등을 기술)\n제5장 연구개발결과의 활용계획\n(추가연구의 필요성, 타연구에의 응용, 기업화 추진방안을 기술)\n*연구기획사업 등 사업별 특성에 따라 목차는 변경 가능함\n\n\n제6장 연구개발과정에서 수집한 해외과학기술정보\n제7장 참고문헌\n(보고서 작성시 인용된 모든 참고 문헌을 열거)\n8. 본문\n※ 작성방법\n가. 본문의 순서는 장, 절, 1, 가, (1), (가), ①, ㉮ 등으로 하고, 장은 17 포인\n트 고딕계열, 절은 15포인트 명조계열, 본문은 11 포인트 명조계열로 합니\n다. 다만, 본문의 내용중 중요부문은 고딕계열을 사용할 수 있습니다.\n나. 장은 원칙적으로 페이지를 바꾸어 시작합니다.\n다. 본문은 11 포인트 횡으로 작성합니다.\n라. 쪽 번호는 하단 중앙에 표기하되, 11 포인트로 합니다.\n마. 각주는 해당 쪽 하단에 8포인트로 표기하며, 본문과 구분하도록 합니다.\n바. 쪽 수는 편집순서 2의 제출문부터 시작합니다. 이 경우 삽입물이 있을 때에\n는 그 삽입물의 크기에 관계없이 1면을 한 쪽으로 하여 일련번호룰 붙입니\n다.\n사. 한글·한문·영문을 혼용합니다.\n아. 뒷면지에 주의문을 넣습니다.\n자. 참고문헌(reference) 인용의 경우 본문 중에 사용처를 반드시 표시하여야\n합니다.\n9. 뒷면지\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃주의                                                                        ┃\n┃                                                                            ┃\n┃ 1. 이 보고서는 000부에서 시행한      사업의 연구보고서입니다.              ┃\n┃                                                                            ┃\n┃ 2. 이 보고서 내용을 발표하는 때에는 반드시 00부에서 시행한   사업의 연구   ┃\n┃결과임을 밝혀야 합니다.                                                     ┃\n┃                                                                            ┃\n┃ 3. 국가과학기술 기밀유지에 필요한 내용은 대외적으로 발표 또는 공개하여서   ┃\n┃는 아니됩니다.                                                              ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805607",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805595",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805607",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립중앙과학관연구관리규정#BJ0008",
+      "filename": "별지8_연구보고서 작성 요령.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0009",
+      "branch": "00",
+      "kind": "별지",
+      "title": "수탁연구과제 참여 시의 제출 서류",
+      "enforcement_date": "",
+      "content": "[별지 제9호 서식]\n수탁연구과제 참여 시의 제출 서류\n┏━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━┯━━━━━┓\n┃                   구     분          │직접 수행               │공동연구원┃\n┃  제 출 서 류                         ├────┬───────┤참여      ┃\n┃                                      │주관연구│협동/공동연구 │          ┃\n┠───────────────────┼────┼───────┼─────┨\n┃ 1. 연구개발과제 수행의뢰 문서사본    │○      │○            │○        ┃\n┃   (의뢰서, 협조공문 또는 사업공고 등)│        │              │          ┃\n┠───────────────────┼────┼───────┼─────┨\n┃ 2. 주관기관 연구개발계획서           │○      │○            │○        ┃\n┠───────────────────┼────┼───────┼─────┨\n┃ 3. 자체(참여) 연구개발계획서         │×      │○주1)        │○        ┃\n┠───────────────────┼────┼───────┼─────┨\n┃ 4. 수탁연구과제 자체 검토의견서      │○      │○            │○        ┃\n┗━━━━━━━━━━━━━━━━━━━┷━━━━┷━━━━━━━┷━━━━━┛\n주1) 주관기관의 계획서에 취합되어 있을 시 제출 면제\n수탁연구과제 자체 검토의견서\n┏━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━┓\n┃ 과 제 명     │                                            ┃\n┠───────┼────────┬─────┬───────┨\n┃과제 의뢰 기관│                │연 락 처  │              ┃\n┠───────┼────────┼─────┼───────┨\n┃연구책임자    │                │참여연구원│              ┃\n┠───────┼────────┼─────┼───────┨\n┃연    구      │     ～    ( 월)│연구사업비│           원 ┃\n┃기    간      │                │          │              ┃\n┗━━━━━━━┷━━━━━━━━┷━━━━━┷━━━━━━━┛\n┏━━━━━━━━━━━━━━┳━━━━━━━━━━━━┓\n┃구   분                     ┃검     토     의     견 ┃\n┣━━━━━━━━━━━━━━╋━━━━━━━━━━━━┫\n┃ 1. 연구과제의 수행 필요성  ┃                        ┃\n┃및 시의성                   ┃                        ┃\n┠──────────────╂────────────┨\n┃ 2. 연구개발 목표의 명확성, ┃                        ┃\n┃적정성 및 실현가능성        ┃                        ┃\n┠──────────────╂────────────┨\n┃ 3. 연구책임자의 수행능력   ┃                        ┃\n┃및 참여 연구원의 적정성     ┃                        ┃\n┠──────────────╂────────────┨\n┃4. 연구개발비 계상의 적절성 ┃                        ┃\n┠──────────────╂────────────┨\n┃5. 기존 연구개발과제 참여   ┃                        ┃\n┃과제 개수 등을 고려한       ┃                        ┃\n┃본래 업무 수행의 지장       ┃                        ┃\n┃여부                        ┃                        ┃\n┗━━━━━━━━━━━━━━┻━━━━━━━━━━━━┛\n┏━━━━━━━━━━┳━━━━━━━━━━━━━━┓\n┃구   분             ┃검     토     의     견     ┃\n┣━━━━━━┳━━━╋━━━━━━━━━━━━━━┫\n┃ 6. 기대효과┃기술적┃                            ┃\n┃            ┠───╂──────────────┨\n┃            ┃경제적┃                            ┃\n┃            ┠───╂──────────────┨\n┃            ┃사회적┃                            ┃\n┠──────┸───╂──────────────┨\n┃종 합 의 견         ┃                            ┃\n┃                    ┣━━━━━┳━━━━━━━━┫\n┃                    ┃수행 적합 ┃수행 부적합     ┃\n┃                    ┣━━━━━╋━━━━━━━━┫\n┃                    ┃          ┃                ┃\n┣━━━━━━━━━━╋━━━━━┻━━━━━━━━┫\n┃검  토  자          ┃ 소 속 :            직 위 : ┃\n┃                    ┃ 성 명 :                    ┃\n┗━━━━━━━━━━┻━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805617",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805609",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805617",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립중앙과학관연구관리규정#BJ0009",
+      "filename": "별지9_수탁연구과제 참여 시의 제출 서류.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0010",
+      "branch": "00",
+      "kind": "별지",
+      "title": "수탁연구과제 연구원별 성과",
+      "enforcement_date": "",
+      "content": "[별지 제10호 서식]\n수탁연구과제 연구원별 성과\n┏━━━━━━━┯━┯━━━━━━━━┯━━━━━━━━━━━┓\n┃ 과 제 명     │  │과제 의뢰 기관  │                      ┃\n┠───────┼─┼────────┼───────────┨\n┃연구책임자    │  │참여연구원      │                      ┃\n┃성함          │  │성함            │                      ┃\n┠───────┼─┼────────┼───────────┨\n┃참여연구원    │  │참여연구원의    │(협약서의 연구계획서  ┃\n┃연락처        │  │해당과제 참여율 │상 참여율)            ┃\n┣━━━━━━━┿━┷━━━━━━━━┷━━━━━━━━━━━┫\n┃전체 연구기간 │~                                           ┃\n┠───────┼──────────────────────┨\n┃단계별        │(1단계) 2023.1.1.~2024.6.30.                ┃\n┃연구기간      │(2단계) 2024.7.1.~2024.12.31.               ┃\n┃              │(3단계, 최종) 2025.1.1.~2025.7.31.          ┃\n┣━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━┫\n┃참여연구원의  │~                                           ┃\n┃해당단계      │(연(年), 월(月), 일(日) 모두 기입)          ┃\n┃연구 참여기간 │                                            ┃\n┗━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━┛\n┏━━━━━━━━━━━━┯━━━━━━━━━━━┓\n┃추진 과정 및 실적       │참조                  ┃\n┠────────────┼───────────┨\n┃■ 예산                 │그림, 표 등 자료 삽입 ┃\n┃ ㅇ                     │                      ┃\n┃■ 목표                 │                      ┃\n┃ ㅇ                     │                      ┃\n┃■ 목표 달성을 위한 과정│                      ┃\n┃ ㅇ                     │                      ┃\n┃■ 실적                 │                      ┃\n┃ ㅇ                     │                      ┃\n┗━━━━━━━━━━━━┷━━━━━━━━━━━┛\n┏━━━┯━━━━━━━━┓\n┃기여도│※ 기여도 기재  ┃\n┠───┴────────┨\n┃작성일 :    .    .    . ┃\n┗━━━━━━━━━━━━┛\n본인은 위 수탁연구과제에 대한 추진 과정 및 실적이 문제가 없음을 서약합니다.\n20  년   월   일\n참여연구원      소속: 국립중앙과학관       성명:        서명\n연구책임자      소속: 국립중앙과학관       성명:        서명",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805623",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805619",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805623",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립중앙과학관연구관리규정#BJ0010",
+      "filename": "별지10_수탁연구과제 연구원별 성과.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0011",
+      "branch": "00",
+      "kind": "별지",
+      "title": "위탁연구과제계획서",
+      "enforcement_date": "",
+      "content": "[별지 제11호 서식]\n위 탁 연 구 과 제 계 획 서\n┌───────┬───────────────────────┐\n│연 구 담 당 자│                                              │\n├───────┼───────────────────────┤\n│소 속 및 직 위│                                              │\n├───────┼───────────────────────┤\n│주소 및 연락처│                                              │\n│(전 화 번 호) │                                              │\n├───────┼───────────────────────┤\n│관 내 책 임 자│                                              │\n├───────┴───────────────────────┤\n│                                                              │\n│  귀 국립중앙과학관 연구관리 규정 제23조제1항에 의거하여 본 연│\n│구계획서를 제출합니다.                                        │\n│                                                              │\n│     년        월        일                                   │\n│제출자          ??                                          │\n│                                                              │\n│  국립중앙과학관장  귀하                                      │\n│                                                              │\n└───────────────────────────────┘\n210㎜×297㎜\n───────────────────────\n┌───────┐\n│ 1. 연구과제명│\n│              │\n│              │\n│              │\n├───────┤\n│ 2. 연구목적  │\n│              │\n│              │\n│              │\n│              │\n│              │\n│              │\n│              │\n└───────┘\n┌─────────────────────┐\n│ 3. 연구내용 및 범위(구체적이고 자세하게) │\n│                                          │\n│                                          │\n│                                          │\n│                                          │\n│                                          │\n│                                          │\n│                                          │\n│                                          │\n│                                          │\n└─────────────────────┘\n───────────────────────\n┌───────────────────────────────┐\n│ 4. 연구방법 및 추진지침                                      │\n│                                                              │\n│                                                              │\n│                                                              │\n│                                                              │\n├───────────────────────────────┤\n│ 5. 연구기간 및 진도표(연구개시, 자료수집, 중간보고, 최종보고 │\n│예정 등)                                                      │\n│                                                              │\n│                                                              │\n│                                                              │\n│                                                              │\n└───────────────────────────────┘\n───────────────────────\n┌─────────┐\n│  6. 소요예산내역 │\n│                  │\n│                  │\n│                  │\n│                  │\n│                  │\n└─────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805631",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805625",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805631",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립중앙과학관연구관리규정#BJ0011",
+      "filename": "별지11_위탁연구과제계획서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0012",
+      "branch": "00",
+      "kind": "별지",
+      "title": "위탁연구과제계약서",
+      "enforcement_date": "",
+      "content": "[별지 제12호 서식]\n위탁연구과제계약서\n1. 연구과제명 :\n2. 연구기간 :     년   월   일부터     년   월   일 까지(  개월)\n3. 연  구  비 : 일금       원정(￦            )\n위 위탁연구에 관하여 국립중앙과학관장을 \"갑\"으로 하고       를(을) \"을\"로 하여 다음 각 조항을 계약체결한다.\n제1조 (연구목적) <별첨『위탁연구계획서』의 연구목적과 동일>\n제2조 (연구의 범위) 을은 본 연구를 별첨『위탁연구계획서』에 따라 연구비의 한도내에서 수행하여야 한다.\n제3조 (보고서 제출) ①을은 다음과 같이 연구보고서를 제출하여야 한다.\n가. 1차연구보고서 제출 :      년   월   일 까지\n나. 2차연구보고서 제출 :      년   월   일 까지\n다. 최종보고서 제출 :      년   월   일 까지\n②연구보고서는 원고를 제출하여야 하며 최종보고서 제출시에는 요약논문을 첨부하여야 한다.\n③중간보고서를 제출하지 못하는 경우에는 진도 등 상황을 서면보고로 대체할 수 있다.\n제4조 (검수) ①을은 갑이 지정한 검수원에게 연구보고서를 검수받아야 하며, 착수금 이외의 용역비는 검수를 필한 후 지급한다.\n②을은 보고서내용이 제1조 및 제2조에 위배되거나 그 내용이 불충분할 때에는 갑의 지시에 따라 보완하여야 한다.\n제5조 (용역비지급) ①용역비는 다음에 의해 지급한다.\n가. 착 수 금 : 계약체결과 동시에 계약금액의   %지급\n나. 2차 지급 : 1차연구보고서 제출후 계약금액의   %지급\n다. 잔액지급 : 최종보고서 제출후   %지급\n제6조 (계약변경) 을은 갑의 동의없이 본계약서 제2조에 의한 연구계획서의 내용 및 기타 계약사항을 변경하지 못한다. 단, 부득이한 사유가 있을 때에는 갑의 서면승인을 얻어 계약의 변경을 할 수 있다.\n제7조 (지체상금) ①을이 정해진 기간 내에 본 계약을 완수하지 못하였을 때에는 지연일수 1일에 대하여 계약금액의 1,000분의 2.5에 해당하는 지체상금을 부담하여야 하며 갑은 제5조에 의하여 지급될 용역비에서 공제할 수 있다.\n②천재지변 기타 이에 준하는 불가항력인 경우 등 갑이 부득이하다고 인정하는 경우에는 이를 면제할 수 있다. 단, 이 경우 을은 서면으로 요청하여 갑의 승인을 얻어야 한다.\n제8조 (계약해지) ①갑은 다음의 경우 계약을 해지할 수 있다.\n가. 을이 본 연구수행에 있어서 본 계약을 위반하였을 때\n나. 을의 태만으로 정해진 날짜 내에 연구를 완수할 가망이 없을 때\n다. 을이 연구수행에 있어서 최선을 다하고 있으나 연구진행이 정체상태가 되어 소정의 연구성과를 기대하기 곤란할 때, 또는 연구를 완수할 능력이 없어졌다고 인정될 때\n②계약이 해약되면 을은 통고일로부터 10일 이내에 기수령한 용역비를 갑에게 반환하여야 한다. 다만, 갑의 지시에 의한 보완작업이 끝난 기성분에 대하여는 정산할 수 있다.\n제9조 (양도금지) 을은 갑의 승인없이 본 계약에 의한 권리의무를 제3자에게 양도하거나 본 연구의 일부를 제3자에게 하청할 수 없다.\n제10조 (보증) ①을은 자연인 또는 법인 중에서 보증인 1인을 두어야 하며 보증인은 계약금액 이상의 재산소유자라야 한다.\n②보증인은 본계약상 발생하는 모든 채무 및 위약사항에 대하여 을과 연대하여 책임을 진다.\n제11조 (보안) ①을은 본 연구수행 과정을 통하여 알게 된 모든 비밀사항을 다른 사람에게 누설하여서는 아니된다.\n②을은 연구결과를 갑의 승인없이 대외적으로 발표할 수 없다.\n제12조 (소유권 및 판권) 을이 제출한 연구보고서의 판권과 본 연구에서 취득되는 소유권은 1년간 갑의 귀속으로 한다.\n제13조 (자료 및 협조) 을은 본 연구수행중 갑의 요구에 적극 협조하여야 하며 본 연구사업이 완료된 이후라도 본 연구의 평가 및 활용에 대하여 갑의 요구가 있을 때에는 이에 응해야 한다.\n제14조 (해석) 본 계약서에 명시되지 아니한 사항이나 해석상 문제가 있을 때에는 쌍방의 합의에 의하여 결정한다.  본 계약을 증명하기 위하여 계약서 2통을 작성 갑과 을 쌍방이 서명날인 후 각 1통씩 보관한다.\n년    월    일\n\n(갑)          국립중앙과학관\n\n관  장          ??\n\n(을)          주  소\n\n성  명          ??\n\n(연대보증인)  주  소\n\n성  명          ??\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805639",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805633",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805639",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립중앙과학관연구관리규정#BJ0012",
+      "filename": "별지12_위탁연구과제계약서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0013",
+      "branch": "00",
+      "kind": "별지",
+      "title": "국제공동연구과제 국외송금사업비 집행계획서",
+      "enforcement_date": "",
+      "content": "[별지 제13호 서식]\n국제공동연구과제 국외송금사업비 집행계획서\no 과제명:\no 당해년도 공동연구투자비 내역\n┌──┬───────────┬────────────┐\n│연도│국립중앙과학관        │(상대국 공동연구기관명) │\n│    ├───────┬───┼──┬─────────┤\n│    │항목          │예산액│항목│예산액            │\n├──┼───────┼───┼──┼─────────┤\n│    │(※ 인건비, 재│      │    │                  │\n│    │료비, 수용비, │      │    │                  │\n│    │여비 등)      │      │    │                  │\n├──┼───────┼───┼──┼─────────┤\n│계  │              │      │    │                  │\n└──┴───────┴───┴──┴─────────┘\no 당해년도 세부 연구내용\n(※ 국외송금사업비 집행부분에 한정하여 상세히 기술함)\n┌───────┬────┬───┐\n│기관          │연구내용│담당자│\n├───────┼────┼───┤\n│국립중앙과학관│        │      │\n├───────┼────┼───┤\n│(상대국 공동  │        │      │\n│연구기관명)   │        │      │\n└───────┴────┴───┘\no 상대국 연구책임자의 최근 연구 실적\n- 연구 실적 :\n- 연구책임자 인적사항\n┌────┬───────────────┐\n│성  명  │                              │\n├────┼──┬───┬──┬─────┤\n│학력사항│기간│학교명│전공│취득학위명│\n│        ├──┼───┼──┼─────┤\n│        │    │      │    │          │\n├────┼──┼───┼──┼─────┤\n│주요경력│기간│기관명│직위│담당업무  │\n│        ├──┼───┼──┼─────┤\n│        │    │      │    │          │\n└────┴──┴───┴──┴─────┘\n- 참여연구원 인적사항\n┌──┬──┬────┬──┬────┐\n│성명│소속│직위(급)│학력│참여분야│\n├──┼──┼────┼──┼────┤\n│    │    │        │    │        │\n├──┼──┼────┼──┼────┤\n│    │    │        │    │        │\n└──┴──┴────┴──┴────┘\no 당해년도 기대결과 및 활용방안\n(※ 국외송금사업비 집행부분에 한정하여 기술함)\n국립중앙과학관 공동연구책임자   직위:   성명:(인)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805647",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805641",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805647",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립중앙과학관연구관리규정#BJ0013",
+      "filename": "별지13_국제공동연구과제 국외송금사업비 집행계획서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0014",
+      "branch": "00",
+      "kind": "별지",
+      "title": "국제공동연구과제 국외송금사업비 집행실적서",
+      "enforcement_date": "",
+      "content": "[별지 제14호 서식]\n국제공동연구과제 국외송금사업비 집행실적서\no 과제명:\no 집행내역\n┌──┬───┬───┬───┬────┐\n│구분│예산액│집행액│증감액│증감사유│\n│    │(A)   │(B)   │(A-B) │        │\n├──┼───┼───┼───┼────┤\n│    │      │      │      │        │\n├──┼───┼───┼───┼────┤\n│계  │      │      │      │        │\n└──┴───┴───┴───┴────┘\no 위 내용의 제반 증빙서류를 첨부하여 제출합니다.\n공동연구책임자직위:  성명:(인)\n공동연구부서장직위:  성명:(인)\n※ 증빙서류는 별도 양식 없으며, 상대국 연구기관의 자체 회계감사의견서를 제출하여야 한다. 다만, 상대국 연구기관의 장이 별도로 정하는 경우에는 당해 연구기관의 장의 확인서로 갈음할 수 있다.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805653",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805649",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805653",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립중앙과학관연구관리규정#BJ0014",
+      "filename": "별지14_국제공동연구과제 국외송금사업비 집행실적서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0015",
+      "branch": "00",
+      "kind": "별지",
+      "title": "외부학회지(학술회의) 발표신청서",
+      "enforcement_date": "",
+      "content": "[별지 제15호 서식]\n외부학회지(학술회의) 발표신청서\n1. 소    속 :                            4. 학 회 명 :\n2. 직    급 :                            5. 발표일시 :\n3. 성    명 :                            6. 발표장소 :\n7. 발표제목 :\n┌──────┐\n│ 발 표 요 지│\n└──────┘\n20   .     .      .\n신청인 :                  (인)\n국립중앙과학관장 귀하",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805659",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805655",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148805659",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립중앙과학관연구관리규정#BJ0015",
+      "filename": "별지15_외부학회지(학술회의) 발표신청서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "국립중앙과학관 내부규정 일괄개정(안).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=148788511",
+      "file_store_url": "",
+      "filename": "국립중앙과학관 내부규정 일괄개정(안).hwpx"
+    },
+    {
+      "name": "9. 국립중앙과학관 연구관리규정(전문).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=148805299",
+      "file_store_url": "",
+      "filename": "9. 국립중앙과학관 연구관리규정(전문).hwpx"
+    },
+    {
+      "name": "9. 국립중앙과학관 연구관리규정(전문).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=148805303",
+      "file_store_url": "",
+      "filename": "9. 국립중앙과학관 연구관리규정(전문).pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 51,
+    "by_category": {
+      "법령": 7,
+      "행정규칙": 29,
+      "별지": 15
+    },
+    "by_relation_type": {
+      "citation": 12,
+      "internal_ref": 24,
+      "appendix_ref": 15
+    },
+    "articles_total": 34,
+    "articles_with_relations": 21,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 3,
+    "appendices_count": 15,
+    "attachments_count": 3
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/국립중앙과학관 연구관리규정"
+  },
+  "provision_id": "admrul:국립중앙과학관연구관리규정#DOC"
+}
