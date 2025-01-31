@@ -1,0 +1,445 @@
+{
+  "law_id": "2200000106179",
+  "mst": "2200000106179",
+  "law_name": "등기소에 비치할 장부와 보존기간 및 보조장부의 양식에 관한 예규",
+  "law_abbr": "",
+  "law_type": "등기예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2200000106179",
+  "promulgation_no": "1813",
+  "promulgation_date": "20241230",
+  "enforcement_date": "20250131",
+  "revision_date": "20241230",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "대법원(대법원)",
+    "담당자명": "",
+    "행정규칙종류코드": "B0014",
+    "행정규칙명": "등기소에 비치할 장부와 보존기간 및 보조장부의 양식에 관한 예규",
+    "발령일자": "20241230",
+    "행정규칙종류": "등기예규",
+    "제개정구분코드": "200403",
+    "조문형식여부": "N",
+    "소관부처명": "대법원",
+    "전화번호": "",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "9740000",
+    "생성일자": "20250131",
+    "행정규칙ID": "2111767",
+    "시행일자": "20250131",
+    "담당부서기관코드": "",
+    "발령번호": "1813",
+    "행정규칙일련번호": "2200000106179",
+    "상위부처명": "대법원"
+  },
+  "amendment_text": "",
+  "revision_reason": "1. 개정이유\n○ 등기소에 비치할 장부 중 현실적으로 불필요한 장부는 폐지하고 전산관리가 가능한 장부는 전산으로 관리함으로써 업무의 효율성을 높이고자 함\n○ 부동산등기규칙 제19조제5항 보존기간이 만료된 전자신청 정보 등의 삭제 유예와 관련한 위임 사항을 예규에 반영하고자 함\n2. 주요내용\n○ 등기신청서류보존부를 전산으로 관리함에 따라 별표 1 보조장부 목록 중 1번 및 별지 제1호 등기신청서류보존부 양식을 삭제함(제2조)\n○ 등기전산정보시스템에 의해 관리되는 등기신청서류보존부에 신청서기타부속서류편철장을 입력하도록 함(제4조제2항 신설)\n○ 기타문서의 접수 등 등기전산정보시스템에 의해 자료가 관리되는 경우 보조기억장치로 조제된 장부를 사용함(제6조제1항 신설)\n○ 등기전산정보시스템으로 관리되는 전자신청 정보 등에 대해서 보존기간이 만료되더라도 전자보관 방법 등에 관한 제도가 마련될 때까지 삭제하지 아니한다는 유예 규정을 마련함(제6조제2항)",
+  "body": {
+    "format": "articles",
+    "article_count": 6,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 예규는 「부동산등기규칙」(이하 \"규칙\"이라 한다) 제166조의 규정에 의하여 「부동산등기법」(이하 \"법\"이라 한다) 및 규칙에 따라 등기사무를 처리함에 있어 등기과·소(이하 \"등기소\"라 한다)에 작성, 비치할 필요가 있는 기존의 장부와 보존기간을 예시하고, 그 장부 중 보존기간의 정함이 없는 장부의 보존기간 및 그 장부외 등기업무에 필요한 장부를 새로 정함으로써 전국 등기소의 업무통일과 능률적인 사무처리를 도모함에 그 목적이 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「부동산등기법」",
+            "line_text": "제1조 (목적) 이 예규는 「부동산등기규칙」(이하 \"규칙\"이라 한다) 제166조의 규정에 의하여 「부동산등기법」(이하 \"법\"이라 한다) 및 규칙에 따라 등기사무를 처리함에 있어 등기과·소(이하 \"등기소\"라 한다)에 작성, 비치할 필요가 있는 기존의 장부와 보존기간을 예시하고, 그 장부 중 보존기간의 정함이 없는 장부의 보존기간 및 그 장부외 등기업무에 필요한 장부를 새로 정함으로써 전국 등기소의 업무통일과 능률적인 사무처리를 도모함에 그 목적이 있다.",
+            "target_law_name": "부동산등기법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/부동산등기법",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:등기소에비치할장부와보존기간및보조장부의양식에관한예규#JO0001",
+            "reference_id": "law:부동산등기법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "법",
+            "line_text": "제1조 (목적) 이 예규는 「부동산등기규칙」(이하 \"규칙\"이라 한다) 제166조의 규정에 의하여 「부동산등기법」(이하 \"법\"이라 한다) 및 규칙에 따라 등기사무를 처리함에 있어 등기과·소(이하 \"등기소\"라 한다)에 작성, 비치할 필요가 있는 기존의 장부와 보존기간을 예시하고, 그 장부 중 보존기간의 정함이 없는 장부의 보존기간 및 그 장부외 등기업무에 필요한 장부를 새로 정함으로써 전국 등기소의 업무통일과 능률적인 사무처리를 도모함에 그 목적이 있다.",
+            "target_law_name": "부동산등기법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/부동산등기법",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:등기소에비치할장부와보존기간및보조장부의양식에관한예규#JO0001",
+            "reference_id": "law:부동산등기법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:등기소에비치할장부와보존기간및보조장부의양식에관한예규#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "보조장부의 양식",
+        "chapter": "",
+        "content": "제2조 (보조장부의 양식) 등기소에는 별표1 목록 기재의 보조장부를 작성, 비치하여야 하며, 그 양식은 별지 별지 제1호 및 제2호로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:등기소에비치할장부와보존기간및보조장부의양식에관한예규#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "보조장부의 기재 등",
+        "chapter": "",
+        "content": "제3조 (보조장부의 기재 등) 보조장부의 기재는 다음 각호와 같이 한다.1. 삭제(2020.08.20. 제1704호)2. 삭제(2006.11.15. 제1155호)3. 우편물수령증철 : 등기소에서 발송되는 우편물에 대하여 우체국으로부터 수령받은 특수우편물수령증을 모두 편철한다.4. 삭 제(2012.01.13 제1441호)",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:등기소에비치할장부와보존기간및보조장부의양식에관한예규#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "각종 보존부에 등재할 장부",
+        "chapter": "",
+        "content": "제4조 (각종 보존부에 등재할 장부) ① 확정일자부책보존부에는 확정일자부를 등재한다.② 등기전산정보시스템에 의해 관리되는 등기신청서류보존부에는 신청서기타부속서류편장을 입력한다.1. 삭제(2020.08.20. 제1704호)2. 신청서 기타 부속서류 편철장3. 삭제(2020.08.20. 제1704호)③ 기타장부보존부에는 확정일자부책보존부 및 등기신청서류보존부에 등재되는 장부 외의 모든 장부 등을 등재한다.④ 상업ㆍ법인ㆍ선박등기에 관한 장부의 경우에도 제1항 내지 제3항에 준하여 등재한다.⑤ 보존부는 매년 작성하되, 누년 계속하여 사용할 수 있다. 다만, 마모 등으로 필요한 때에는 그 보존부책을 다시 조제하고 폐기되지 아니한 종래의 장부의 기재사항을 새로이 조제된 장부에 연도별, 보존기간별로 이기하되, 종래의 장부는 보존기간 종료시까지 보존하여야 한다.⑥ 보존할 장부는 보존기간 별로 구분하여 등재하되, 누년 사용할 경우 보존한 연도가 같은 장부는 연속하여 등재하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:등기소에비치할장부와보존기간및보조장부의양식에관한예규#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "비치장부의 종류 및 보존기간 등",
+        "chapter": "",
+        "content": "제5조 (비치장부의 종류 및 보존기간 등) ① 등기소에 작성ㆍ비치할 장부 및 그 보존기간은 별표 2와 같다.② 등기소장은 다른 법령이나 규칙, 예규 등의 특별한 규정이 있는 경우를 제외하고는 가급적 제1항 및 제2조에 규정된 장부외의 장부 등은 사용하지 아니한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제2조",
+            "line_text": "제5조 (비치장부의 종류 및 보존기간 등) ① 등기소에 작성ㆍ비치할 장부 및 그 보존기간은 별표 2와 같다.② 등기소장은 다른 법령이나 규칙, 예규 등의 특별한 규정이 있는 경우를 제외하고는 가급적 제1항 및 제2조에 규정된 장부외의 장부 등은 사용하지 아니한다.",
+            "target_law_name": "등기소에 비치할 장부와 보존기간 및 보조장부의 양식에 관한 예규",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/등기소에 비치할 장부와 보존기간 및 보조장부의 양식에 관한 예규/제2조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:등기소에비치할장부와보존기간및보조장부의양식에관한예규#JO0005",
+            "reference_id": "admrul:등기소에비치할장부와보존기간및보조장부의양식에관한예규#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:등기소에비치할장부와보존기간및보조장부의양식에관한예규#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "등기전산정보시스템에 의한 자료관리",
+        "chapter": "",
+        "content": "제6조 (등기전산정보시스템에 의한 자료관리) ① 등기전산정보시스템에 의해 자료가 관리되는 경우에는 별도 종이장부를 조제할 필요가 없고, 등기신청서류보존부와 기타장부보존부에도 이를 등재하지 아니한다. 다만, 기타문서의 접수 등 등기전산정보시스템에 의해 자료가 관리되는 경우에는 보조기억장치로 조제된 장부를 사용한다.② 부동산등기규칙 제19조제5항에 따라 등기전산정보시스템의 저장공간 부족, 전산으로 관리되는 신청서기타부속서류편철장에서 등기원인정보만을 분리하여 보존하는 방법이 확보되거나 서면으로 제출된 신청서 및 첨부서면의 전자보관 방법에 관한 제도가 마련될 때까지 등기전산정보시스템으로 관리되는 자료는 보존기간이 만료되더라도 삭제하지 아니한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:등기소에비치할장부와보존기간및보조장부의양식에관한예규#JO0006"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "「부동산등기규칙」",
+        "line_text": "",
+        "target_law_name": "부동산등기규칙",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/법령/부동산등기규칙",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "제166조",
+        "line_text": "",
+        "target_law_name": "부동산등기규칙",
+        "target_article_no": "제166조",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/법령/부동산등기규칙/제166조",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "「부동산등기법」",
+        "line_text": "",
+        "target_law_name": "부동산등기법",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/법령/부동산등기법",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "appendix_ref",
+        "delegation_type": null,
+        "target_category": "별표",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "별표1",
+        "line_text": "",
+        "target_law_name": "등기소에 비치할 장부와 보존기간 및 보조장부의 양식에 관한 예규",
+        "target_article_no": "별표1",
+        "target_article_title": "[별표 1] 보조장부목록",
+        "appendix_no": "1",
+        "appendix_branch": "",
+        "appendix_kind": "별표",
+        "appendix_found": true,
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000106179&bylNo=0001&bylBrNo=00",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "appendix_ref",
+        "delegation_type": null,
+        "target_category": "별지",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "별지 제1호",
+        "line_text": "",
+        "target_law_name": "등기소에 비치할 장부와 보존기간 및 보조장부의 양식에 관한 예규",
+        "target_article_no": "별지1",
+        "target_article_title": "",
+        "appendix_no": "1",
+        "appendix_branch": "",
+        "appendix_kind": "별지",
+        "appendix_found": false,
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000106179&bylNo=&bylBrNo=",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "appendix_ref",
+        "delegation_type": null,
+        "target_category": "별표",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "별표 2",
+        "line_text": "",
+        "target_law_name": "등기소에 비치할 장부와 보존기간 및 보조장부의 양식에 관한 예규",
+        "target_article_no": "별표2",
+        "target_article_title": "[별표 2] 등기소에 비치할 장부 및 그 보존기간",
+        "appendix_no": "2",
+        "appendix_branch": "",
+        "appendix_kind": "별표",
+        "appendix_found": true,
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000106179&bylNo=0002&bylBrNo=00",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "행정규칙",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "제19조제5항",
+        "line_text": "",
+        "target_law_name": "부동산등기규칙",
+        "target_article_no": "제19조",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/행정규칙/부동산등기규칙/제19조",
+        "resolve_method": "text_supplement"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20061115",
+      "promulgation_no": "1155",
+      "content": "부  칙(2006. 11. 15. 제1155호)①(시행일) 이 예규는 2007년 1월 1일부터 시행한다.②(다른 예규의 폐지) 전자복사기로 작성하는 등기부등본용 인화지의 수불 및 일계부 작성요령(행정예규 제28호)을 폐지한다."
+    },
+    {
+      "promulgation_date": "20120113",
+      "promulgation_no": "1441",
+      "content": "부  칙(2012. 1. 13. 제1441호)이 예규는 즉시 시행한다."
+    },
+    {
+      "promulgation_date": "20200820",
+      "promulgation_no": "1704",
+      "content": "부  칙(2020. 8. 20. 제1704호)1. 이 예규는 2020년 8월 21일부터 시행한다.2. 이 예규 시행일 현재 등기소에서 보존하고 있는 등기부책보존부는 종전 규정에 따라 영구히 보존하고, 그 밖의 폐지되는 장부는 종전 규정에서 정한 기간 동안 보존한다."
+    },
+    {
+      "promulgation_date": "20241230",
+      "promulgation_no": "1813",
+      "content": "부  칙(2024. 12. 30. 제1813호)이 예규는 2025년 1월 31일부터 시행한다."
+    },
+    {
+      "promulgation_date": "99991231",
+      "promulgation_no": "9999",
+      "content": "부  칙(시행일) 이 예규는 2001년 1월 1일부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "[별표 1] 보조장부목록",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000106179&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148196827",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148196827",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:등기소에비치할장부와보존기간및보조장부의양식에관한예규#BYL0001",
+      "filename": "별표1_[별표 1] 보조장부목록.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "[별표 2] 등기소에 비치할 장부 및 그 보존기간",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000106179&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148196833",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148196833",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:등기소에비치할장부와보존기간및보조장부의양식에관한예규#BYL0002",
+      "filename": "별표2_[별표 2] 등기소에 비치할 장부 및 그 보존기간.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "[별표 2] 등기소에 비치할 장부 및 그 보존기간",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000106179&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148196835",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148196835",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:등기소에비치할장부와보존기간및보조장부의양식에관한예규#BYL0002",
+      "filename": "별표2_[별표 2] 등기소에 비치할 장부 및 그 보존기간.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "양식",
+      "title": "[별지 제1호 양식] 기타장부보존부",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148196829",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148196829",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:등기소에비치할장부와보존기간및보조장부의양식에관한예규#BYL0001",
+      "filename": "양식1_[별지 제1호 양식] 기타장부보존부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "양식",
+      "title": "[별지 제2호 양식] 우편물수령증철",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148196831",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148196831",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:등기소에비치할장부와보존기간및보조장부의양식에관한예규#BYL0002",
+      "filename": "양식2_[별지 제2호 양식] 우편물수령증철.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 10,
+    "by_category": {
+      "법령": 5,
+      "행정규칙": 2,
+      "별표": 2,
+      "별지": 1
+    },
+    "by_relation_type": {
+      "citation": 6,
+      "internal_ref": 1,
+      "appendix_ref": 3
+    },
+    "articles_total": 6,
+    "articles_with_relations": 2,
+    "unmatched_relations": 7,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 5,
+    "appendices_count": 5,
+    "attachments_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/등기소에 비치할 장부와 보존기간 및 보조장부의 양식에 관한 예규"
+  },
+  "provision_id": "admrul:등기소에비치할장부와보존기간및보조장부의양식에관한예규#DOC"
+}
