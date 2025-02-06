@@ -1,0 +1,277 @@
+{
+  "law_id": "2100000254386",
+  "mst": "2100000254386",
+  "law_name": "동물질병 표준진단요령",
+  "law_abbr": "",
+  "law_type": "예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000254386",
+  "promulgation_no": "220",
+  "promulgation_date": "20250206",
+  "enforcement_date": "20250206",
+  "revision_date": "20250206",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "농림축산검역본부(질병진단과)",
+    "담당자명": "신고은",
+    "행정규칙종류코드": "B0002",
+    "행정규칙명": "동물질병 표준진단요령",
+    "발령일자": "20250206",
+    "행정규칙종류": "예규",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "농림축산검역본부",
+    "전화번호": "054-912-0462",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1543000",
+    "생성일자": "20250210",
+    "행정규칙ID": "2084785",
+    "시행일자": "20250206",
+    "담당부서기관코드": "1543069",
+    "발령번호": "220",
+    "행정규칙일련번호": "2100000254386",
+    "상위부처명": "농림축산식품부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정 이유\n○ 동물질병표준진단요령에 수록된 동물질병 병성감정에 필요한 진단요령 및 검사방법을 최신 내용으로 현황화하고 재검토 기한 도래에 따른 개정\n◇ 주요내용\n○ 동물질병 표준진단요령의 목적(제1조), 목록(제2조. 별표 1), 활용(제3조), 재검토기한(4조)에 대한 내용 신설",
+  "body": {
+    "format": "articles",
+    "article_count": 4,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 예규는 「가축전염병예방법」 제12조 제5항 및 「가축질병 병성감정 실시요령」제7조 제1항에 따라 농림축산검역본부장에게 권한이 위임된 병성감정에 필요한 세부적인 동물질병 진단요령 및 방법을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「가축전염병예방법」",
+            "line_text": "",
+            "target_law_name": "가축전염병예방법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/가축전염병예방법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:동물질병표준진단요령#JO0001",
+            "reference_id": "law:가축전염병예방법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제12조",
+            "line_text": "",
+            "target_law_name": "가축전염병예방법",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/가축전염병예방법/제12조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:동물질병표준진단요령#JO0001",
+            "reference_id": "law:가축전염병예방법#JO0012"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「가축질병 병성감정 실시요령」",
+            "line_text": "",
+            "target_law_name": "가축질병 병성감정 실시요령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/가축질병 병성감정 실시요령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:동물질병표준진단요령#JO0001",
+            "reference_id": "admrul:가축질병병성감정실시요령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "가축질병 병성감정 실시요령",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/가축질병 병성감정 실시요령/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:동물질병표준진단요령#JO0001",
+            "reference_id": "admrul:가축질병병성감정실시요령#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:동물질병표준진단요령#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "동물질병 표준진단요령의 목록",
+        "chapter": "",
+        "content": "제2조(동물질병 표준진단요령의 목록) 제1조에 따른 동물질병 진단을 위한 동물질병 표준진단요령의 목록과 내용은 별표와 같다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1조",
+            "line_text": "",
+            "target_law_name": "동물질병 표준진단요령",
+            "target_article_no": "제1조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/동물질병 표준진단요령/제1조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:동물질병표준진단요령#JO0002",
+            "reference_id": "admrul:동물질병표준진단요령#JO0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:동물질병표준진단요령#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "동물질병 표준진단요령의 활용",
+        "chapter": "",
+        "content": "제3조(동물질병 표준진단요령의 활용) ① 농림축산검역본부장은 동물질병 표준진단요령을 제정 또는 개정하였을 때에는 농림축산검역본부 홈페이지 등을 통하여 전문을 공개하여 동물질병 진단업무 담당자가 쉽게 활용할 수 있도록 한다.② 동물질병 진단업무 담당자는 동물질병 표준진단요령의 절차와 검사항목별 세부검사방법에 따라 질병진단을 실시하도록 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:동물질병표준진단요령#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제4조(재검토기한) 농림축산검역본부장은 이 예규에 대하여 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2025년 7월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:동물질병표준진단요령#JO0004",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:동물질병표준진단요령#JO0004"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20250206",
+      "promulgation_no": "220",
+      "content": "부칙 <제220호, 2025. 2. 6.>이 예규는 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "동물질병표준진단요령 목록과 내용(제2조 관련)",
+      "enforcement_date": "",
+      "content": "[별표]\n동물질병표준진단요령 목록과 내용(제2조 관련)\n1. 축종별 표준진단요령 목록\n┏━━┯━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃번호│축종      │질병명                                                              ┃\n┠──┼─────┼──────────────────────────────────┨\n┃1   │소        │구제역(Foot and Mouth Disease)                                      ┃\n┠──┼─────┼──────────────────────────────────┨\n┃2   │소        │럼피스킨(Lumpy Skin)                                                ┃\n┠──┼─────┼──────────────────────────────────┨\n┃3   │소        │탄저(Anthrax)                                                       ┃\n┠──┼─────┼──────────────────────────────────┨\n┃4   │소        │기종저(Blackleg)                                                    ┃\n┠──┼─────┼──────────────────────────────────┨\n┃5   │소        │브루셀라병(Brucellosis)                                             ┃\n┠──┼─────┼──────────────────────────────────┨\n┃6   │소        │결핵병(Tuberculosis)                                                ┃\n┠──┼─────┼──────────────────────────────────┨\n┃7   │소        │요네병(Johne's Disease, Paratuberculosis)                           ┃\n┠──┼─────┼──────────────────────────────────┨\n┃8   │소        │큐열(Q-Fever)                                                       ┃\n┠──┼─────┼──────────────────────────────────┨\n┃9   │소        │타이레리아병(Theileriosis)                                          ┃\n┠──┼─────┼──────────────────────────────────┨\n┃10  │소        │바베시아증(Babesiosis)                                              ┃\n┠──┼─────┼──────────────────────────────────┨\n┃11  │소        │아나플라즈마(Anaplasmosis)                                          ┃\n┠──┼─────┼──────────────────────────────────┨\n┃12  │소        │광견병(Rabies)                                                      ┃\n┠──┼─────┼──────────────────────────────────┨\n┃13  │소        │소유행열(Bovine Ephemeral Fever)                                    ┃\n┠──┼─────┼──────────────────────────────────┨\n┃14  │소        │소아까바네병(Akabane Disease)                                       ┃\n┠──┼─────┼──────────────────────────────────┨\n┃15  │소        │소전염성비기관염(Infectious Bovine Rhinotracheitis)                 ┃\n┠──┼─────┼──────────────────────────────────┨\n┃16  │소        │소류코시스(Bovine Leukosis)                                         ┃\n┠──┼─────┼──────────────────────────────────┨\n┃17  │소        │소렙토스피라증(Bovine Leptospirosis)                                ┃\n┠──┼─────┼──────────────────────────────────┨\n┃18  │소        │보툴리즘(Botulism)                                                  ┃\n┠──┼─────┼──────────────────────────────────┨\n┃19  │소        │대장균증(Colibacillosis)                                            ┃\n┠──┼─────┼──────────────────────────────────┨\n┃20  │소        │살모넬라증(Salmonellosis)                                           ┃\n┠──┼─────┼──────────────────────────────────┨\n┃21  │소        │장독혈증(Enterotoxemia)                                             ┃\n┠──┼─────┼──────────────────────────────────┨\n┃22  │소        │만헤이미아 헤모리티카 감염증(Mannheimia Pneumonia Shipping          ┃\n┃    │          │Fever)                                                              ┃\n┠──┼─────┼──────────────────────────────────┨\n┃23  │소        │마이코플라즈마증(Mycoplasmosis)                                     ┃\n┠──┼─────┼──────────────────────────────────┨\n┃24  │소        │네오스포라증(Neosporosis)                                           ┃\n┠──┼─────┼──────────────────────────────────┨\n┃25  │소        │유방염(Mastitis)                                                    ┃\n┠──┼─────┼──────────────────────────────────┨\n┃26  │소        │파상풍(Tetanus)                                                     ┃\n┠──┼─────┼──────────────────────────────────┨\n┃27  │소        │소바이러스성설사(Bovine Viral Diarrhea)                             ┃\n┠──┼─────┼──────────────────────────────────┨\n┃28  │소        │트루페렐라증(Trueperellosis)                                        ┃\n┠──┼─────┼──────────────────────────────────┨\n┃29  │돼지      │돼지열병(Classical Swine Fever)                                     ┃\n┠──┼─────┼──────────────────────────────────┨\n┃30  │돼지      │돼지오제스키병(Aujeszky's Disease)                                  ┃\n┠──┼─────┼──────────────────────────────────┨\n┃31  │돼지      │돼지일본뇌염(Japanese Encephalitis)                                 ┃\n┠──┼─────┼──────────────────────────────────┨\n┃32  │돼지      │돼지전염성위장염(Transmissible Gastroenteritis)                     ┃\n┠──┼─────┼──────────────────────────────────┨\n┃33  │돼지      │돼지유행성설사(Porcine Epidemic Diarrhea)                           ┃\n┠──┼─────┼──────────────────────────────────┨\n┃34  │돼지      │돼지단독(Swine Erysipelas)                                          ┃\n┠──┼─────┼──────────────────────────────────┨\n┃35  │돼지      │돼지생식기호흡기증후군(Porcine Reproductive and Respiratory         ┃\n┃    │          │Syndrome)                                                           ┃\n┠──┼─────┼──────────────────────────────────┨\n┃36  │돼지      │아프리카 돼지열병(African Swine Fever)                              ┃\n┠──┼─────┼──────────────────────────────────┨\n┃37  │돼지      │돼지 위축성비염(Atropic Rhinitis)                                   ┃\n┠──┼─────┼──────────────────────────────────┨\n┃38  │돼지      │파스튜렐라증(Pasteurellosis)                                        ┃\n┠──┼─────┼──────────────────────────────────┨\n┃39  │돼지      │살모넬라증(Salmonellosis)                                           ┃\n┠──┼─────┼──────────────────────────────────┨\n┃40  │돼지      │대장균증(Colibacillosis)                                            ┃\n┠──┼─────┼──────────────────────────────────┨\n┃41  │돼지      │장독혈증(Enterotoxemia)                                             ┃\n┠──┼─────┼──────────────────────────────────┨\n┃42  │돼지      │글래서병(Glasser's Disease)                                         ┃\n┠──┼─────┼──────────────────────────────────┨\n┃43  │돼지      │ 액티노바실러스성흉막폐렴(Actinobacillus                            ┃\n┃    │          │Pleuropneumonia)                                                    ┃\n┠──┼─────┼──────────────────────────────────┨\n┃44  │돼지      │돼지적리(Swine Dysentery)                                           ┃\n┠──┼─────┼──────────────────────────────────┨\n┃45  │돼지      │연쇄상구균증(Streptococcosis)                                       ┃\n┠──┼─────┼──────────────────────────────────┨\n┃46  │돼지      │마이코플라즈마증(Mycoplasmosis)                                     ┃\n┠──┼─────┼──────────────────────────────────┨\n┃47  │돼지      │렙토스피라증(Leptospirosis)                                         ┃\n┠──┼─────┼──────────────────────────────────┨\n┃48  │돼지      │톡소플라즈마증(Toxoplasmosis)                                       ┃\n┠──┼─────┼──────────────────────────────────┨\n┃49  │돼지      │돼지인플루엔자(Swine Influenza)                                     ┃\n┠──┼─────┼──────────────────────────────────┨\n┃50  │돼지      │돼지써코바이러스연관질병(Porcine Circovirus-Associated              ┃\n┃    │          │Disease)                                                            ┃\n┠──┼─────┼──────────────────────────────────┨\n┃51  │돼지      │클로스트리디오이데스디피실감염증(Clostridioides Difficile           ┃\n┃    │          │Infection)                                                          ┃\n┠──┼─────┼──────────────────────────────────┨\n┃52  │돼지      │돼지테센병(Teschovirus encephalomyelitis)                           ┃\n┠──┼─────┼──────────────────────────────────┨\n┃53  │조류      │고병원성 조류인플루엔자(High Pathogenicity Avian                    ┃\n┃    │          │Influenza)                                                          ┃\n┠──┼─────┼──────────────────────────────────┨\n┃54  │조류      │뉴캣슬병(Newcastle Disease)                                         ┃\n┠──┼─────┼──────────────────────────────────┨\n┃55  │조류      │추백리·가금티푸스(Pullorum Disease ? Fowl Typhoid)                ┃\n┠──┼─────┼──────────────────────────────────┨\n┃56  │조류      │가금콜레라(Fowl Cholera)                                            ┃\n┠──┼─────┼──────────────────────────────────┨\n┃57  │조류      │오리바이러스성간염(Duck Viral Hepatitis)                            ┃\n┠──┼─────┼──────────────────────────────────┨\n┃58  │조류      │오리바이러스성장염(Duck Viral Enteritis)                            ┃\n┠──┼─────┼──────────────────────────────────┨\n┃59  │조류      │닭마이코플라스마병(Mycoplasmosis)                                   ┃\n┠──┼─────┼──────────────────────────────────┨\n┃60  │조류      │저병원성조류인플루엔자(Low Pathogenicity Avian                      ┃\n┃    │          │Influenza)                                                          ┃\n┠──┼─────┼──────────────────────────────────┨\n┃61  │조류      │닭뇌척수염(Avian Encephalomyelitis)                                 ┃\n┠──┼─────┼──────────────────────────────────┨\n┃62  │조류      │닭전염성후두기관염(Infectious Laryngotracheitis)                    ┃\n┠──┼─────┼──────────────────────────────────┨\n┃63  │조류      │닭전염성기관지염(Infectious Bronchitis)                             ┃\n┠──┼─────┼──────────────────────────────────┨\n┃64  │조류      │마렉병(Marek's Disease)                                             ┃\n┠──┼─────┼──────────────────────────────────┨\n┃65  │조류      │닭전염성F낭병(Infectious Bursal Disease)                            ┃\n┠──┼─────┼──────────────────────────────────┨\n┃66  │조류      │조류 보툴리즘(Avian Botulism)                                       ┃\n┠──┼─────┼──────────────────────────────────┨\n┃67  │말        │말비강폐렴(Equine Viral Rhinopneumonitis)                           ┃\n┠──┼─────┼──────────────────────────────────┨\n┃68  │말        │말전염성자궁염(Contagious Equine Metritis)                          ┃\n┠──┼─────┼──────────────────────────────────┨\n┃69  │말        │말파이로플라즈마(Equine Piroplasmosis)                              ┃\n┠──┼─────┼──────────────────────────────────┨\n┃70  │해외전염병│우역(Rinderpest)                                                    ┃\n┠──┼─────┼──────────────────────────────────┨\n┃71  │해외전염병│가성우역(Peste Des Petits Ruminants)                                ┃\n┠──┼─────┼──────────────────────────────────┨\n┃72  │해외전염병│돼지수포병(Swine Vesicular Disease)                                 ┃\n┠──┼─────┼──────────────────────────────────┨\n┃73  │해외전염병│수포성구내염(Vesicular Stomatitis)                                  ┃\n┠──┼─────┼──────────────────────────────────┨\n┃74  │해외전염병│양두?산양두(Sheep Pox?Goat Pox)                                   ┃\n┠──┼─────┼──────────────────────────────────┨\n┃75  │해외전염병│리프트계곡열(Rift Valley Fever)                                     ┃\n┠──┼─────┼──────────────────────────────────┨\n┃76  │해외전염병│블루텅병(Bluetongue)                                                ┃\n┠──┼─────┼──────────────────────────────────┨\n┃77  │해외전염병│웨스트나일열(West Nile Fever)                                       ┃\n┠──┼─────┼──────────────────────────────────┨\n┃78  │해외전염병│동부 및 서부 말뇌염(Eastern and Western Equine                      ┃\n┃    │          │Encephalitis)                                                       ┃\n┠──┼─────┼──────────────────────────────────┨\n┃79  │해외전염병│베네수엘라 말뇌염(Venezuelan Equine Encephalitis)                   ┃\n┠──┼─────┼──────────────────────────────────┨\n┃80  │해외전염병│말전염성빈혈(Equine Infectious Anemia)                              ┃\n┠──┼─────┼──────────────────────────────────┨\n┃81  │해외전염병│말바이러스동맥염(Equine Viral Arteritis)                            ┃\n┠──┼─────┼──────────────────────────────────┨\n┃82  │해외전염병│아프리카마역(African Horse Sickness)                                ┃\n┠──┼─────┼──────────────────────────────────┨\n┃83  │해외전염병│슈말렌베르크바이러스감염증(Schmallenberg Virus                      ┃\n┃    │          │Infection)                                                          ┃\n┠──┼─────┼──────────────────────────────────┨\n┃84  │해외전염병│우폐역(Contagious Bovine Pleuropneumonia)                           ┃\n┠──┼─────┼──────────────────────────────────┨\n┃85  │해외전염병│소해면상뇌증(Bovine Spongiform Encephalopathy)                      ┃\n┠──┼─────┼──────────────────────────────────┨\n┃86  │해외전염병│스크래피(Scrapie)                                                   ┃\n┠──┼─────┼──────────────────────────────────┨\n┃87  │해외전염병│구역(Dourine)                                                       ┃\n┠──┼─────┼──────────────────────────────────┨\n┃88  │해외전염병│비저(Glanders)                                                      ┃\n┠──┼─────┼──────────────────────────────────┨\n┃89  │벌        │낭충봉아부패병(Sacbrood)                                            ┃\n┠──┼─────┼──────────────────────────────────┨\n┃90  │벌        │미국부저병(American Foulbrood)                                      ┃\n┠──┼─────┼──────────────────────────────────┨\n┃91  │벌        │유럽부저병(European Foulbrood)                                      ┃\n┠──┼─────┼──────────────────────────────────┨\n┃92  │벌        │꿀벌 작은벌집딱정벌레 감염증(Small hive beetle infestation: Aethina ┃\n┃    │          │tumida)                                                             ┃\n┠──┼─────┼──────────────────────────────────┨\n┃93  │벌        │바로아응애증(Varroosis : Varroa spp.)                               ┃\n┠──┼─────┼──────────────────────────────────┨\n┃94  │벌        │가시응애증(Tropilaelaps infestation : Tropilaelaps spp.)            ┃\n┠──┼─────┼──────────────────────────────────┨\n┃95  │중독      │유기인계 농약 중독증(Organophosphate Pesticide                      ┃\n┃    │          │Poisoning)                                                          ┃\n┠──┼─────┼──────────────────────────────────┨\n┃96  │중독      │카바메이트계 농약 중독증(Carbarmate Pesticide                       ┃\n┃    │          │Poisoning)                                                          ┃\n┠──┼─────┼──────────────────────────────────┨\n┃97  │중독      │유기염소계 농약 중독증(Organochlorine Pesticide                     ┃\n┃    │          │Poisoning)                                                          ┃\n┠──┼─────┼──────────────────────────────────┨\n┃98  │중독      │꿀벌 독성 농약 중독증(Pesticide Poisoning in Honeybee)              ┃\n┠──┼─────┼──────────────────────────────────┨\n┃99  │중독      │곰팡이독소 중독증(Mycotoxicosis)                                    ┃\n┠──┼─────┼──────────────────────────────────┨\n┃100 │중독      │꿀벌 곰팡이독소 중독증(Mycotoxicosis in Honeybee)                   ┃\n┠──┼─────┼──────────────────────────────────┨\n┃101 │중독      │청산염, 질산염 중독증(Cyanide, Nitrate toxicosis)                   ┃\n┠──┼─────┼──────────────────────────────────┨\n┃102 │중독      │꿀벌 동물용의약품(살비제) 중독증(Acaricide Poisoning in             ┃\n┃    │          │Honeybee)                                                           ┃\n┠──┼─────┼──────────────────────────────────┨\n┃103 │중독      │반려동물 살서제 중독증(Rodenticide Poisoning in Pets)               ┃\n┠──┼─────┼──────────────────────────────────┨\n┃104 │중독      │반려동물 농약 중독증(Pesticides Poisoning in Companion              ┃\n┃    │          │Animals)                                                            ┃\n┠──┼─────┼──────────────────────────────────┨\n┃105 │개?고양이│개디스템퍼(Canine Distemper)                                        ┃\n┠──┼─────┼──────────────────────────────────┨\n┃106 │개?고양이│개파보바이러스감염증(Canine Parvovirus Infection)                   ┃\n┠──┼─────┼──────────────────────────────────┨\n┃107 │개?고양이│고양이전염성복막염(Feline Infectious Peritonitis)                   ┃\n┠──┼─────┼──────────────────────────────────┨\n┃108 │개?고양이│고양이 범백혈구감소증 (Feline Panleukopenia)                        ┃\n┠──┼─────┼──────────────────────────────────┨\n┃109 │기타      │사슴만성소모성질병(Chronic Wasting Disease)                         ┃\n┠──┼─────┼──────────────────────────────────┨\n┃110 │기타      │중증열성혈소판감소증후군(Severe Fever with Thrombocytopenia         ┃\n┃    │          │Syndrome)                                                           ┃\n┠──┼─────┼──────────────────────────────────┨\n┃111 │기타      │토끼점액종증(Myxomatosis)                                           ┃\n┠──┼─────┼──────────────────────────────────┨\n┃112 │기타      │야토병(Tularemia)                                                   ┃\n┠──┼─────┼──────────────────────────────────┨\n┃113 │기타      │토끼출혈병(Rabbit haemorrhagic disease, RHD)                        ┃\n┗━━┷━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n2. 축종별 표준진단요령 목록(전문)은 농림축산검역본부 홈페이지(www.qia.go.kr)에  게재하여 공개한다.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148988827",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148988817",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148988827",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:동물질병표준진단요령#BYL0000",
+      "filename": "별표0_동물질병표준진단요령 목록과 내용(제2조 관련).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "1-2. 조문별제개정이유서(동물질병표준진단요령).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=148986173",
+      "file_store_url": "",
+      "filename": "1-2. 조문별제개정이유서(동물질병표준진단요령).hwpx"
+    },
+    {
+      "name": "1-2. 조문별제개정이유서(동물질병표준진단요령).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=148986177",
+      "file_store_url": "",
+      "filename": "1-2. 조문별제개정이유서(동물질병표준진단요령).pdf"
+    },
+    {
+      "name": "[개정전문] 250206 동물질병표준진단요령.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=148988541",
+      "file_store_url": "",
+      "filename": "[개정전문] 250206 동물질병표준진단요령.hwpx"
+    },
+    {
+      "name": "[개정전문] 250206 동물질병표준진단요령.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=148988545",
+      "file_store_url": "",
+      "filename": "[개정전문] 250206 동물질병표준진단요령.pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 6,
+    "by_category": {
+      "법령": 2,
+      "행정규칙": 4
+    },
+    "by_relation_type": {
+      "citation": 5,
+      "internal_ref": 1
+    },
+    "articles_total": 4,
+    "articles_with_relations": 3,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 1,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/동물질병 표준진단요령"
+  },
+  "provision_id": "admrul:동물질병표준진단요령#DOC"
+}
