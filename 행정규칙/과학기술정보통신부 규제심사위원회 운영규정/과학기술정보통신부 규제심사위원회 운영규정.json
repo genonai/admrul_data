@@ -1,0 +1,422 @@
+{
+  "law_id": "2100000254670",
+  "mst": "2100000254670",
+  "law_name": "과학기술정보통신부 규제심사위원회 운영규정",
+  "law_abbr": "",
+  "law_type": "훈령",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000254670",
+  "promulgation_no": "285",
+  "promulgation_date": "20250217",
+  "enforcement_date": "20250217",
+  "revision_date": "20250217",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "과학기술정보통신부(규제개혁법무담당관)",
+    "담당자명": "이인권",
+    "행정규칙종류코드": "B0001",
+    "행정규칙명": "과학기술정보통신부 규제심사위원회 운영규정",
+    "발령일자": "20250217",
+    "행정규칙종류": "훈령",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "과학기술정보통신부",
+    "전화번호": "044-202-4467",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1721000",
+    "생성일자": "20250217",
+    "행정규칙ID": "43151",
+    "시행일자": "20250217",
+    "담당부서기관코드": "1721018",
+    "발령번호": "285",
+    "행정규칙일련번호": "2100000254670",
+    "상위부처명": "과학기술정보통신부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제정 이유\nㅇ 자체규제심사위원회의 구성ㆍ운영에 관한 사항을 명시한 「행정규제기본법」일부개정안이 2024.1.12일 시행됨에 따라 이를 반영하려는 것임\n\n◇ 주요내용\n가. 민간위원장의 결정방식을 호선에서 지명으로 변경(안 제4조제2항)\n나. 민간위원 해촉사유에 심신쇠약, 의원면직 사항 등 추가(안 제4조제5항)\n다. 민간위원의 연임 횟수를 한 차례로 제한 (제5조제1항)",
+  "body": {
+    "format": "articles",
+    "article_count": 11,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규정은 「행정규제기본법」제7조제3항, 제8조의2, 같은 법 시행령 제6조의2에 의한 과학기술정보통신부 규제심사위원회의 구성 및 운영에 관하여 필요한 사항을 정하는 것을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제7조제3항",
+            "line_text": "",
+            "target_law_name": "행정규제기본법",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/행정규제기본법/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:과학기술정보통신부규제심사위원회운영규정#JO0001",
+            "reference_id": "law:행정규제기본법#JO0007"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제8조의2",
+            "line_text": "",
+            "target_law_name": "행정규제기본법",
+            "target_article_no": "제8조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/행정규제기본법/제8조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:과학기술정보통신부규제심사위원회운영규정#JO0001",
+            "reference_id": "law:행정규제기본법#JO0008_02"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "행정규제기본법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/행정규제기본법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:과학기술정보통신부규제심사위원회운영규정#JO0001",
+            "reference_id": "law:행정규제기본법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제6조의2",
+            "line_text": "",
+            "target_law_name": "행정규제기본법 시행령",
+            "target_article_no": "제6조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/행정규제기본법 시행령/제6조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:과학기술정보통신부규제심사위원회운영규정#JO0001",
+            "reference_id": "law:행정규제기본법시행령#JO0006_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:과학기술정보통신부규제심사위원회운영규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "설치",
+        "chapter": "",
+        "content": "제2조(설치) 과학기술정보통신부에 「과학기술정보통신부 규제심사위원회」(이하 \"위원회\"라 한다)를 둔다.[전문개정]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:과학기술정보통신부규제심사위원회운영규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "기능",
+        "chapter": "",
+        "content": "제3조(기능) 위원회는 다음 각 호의 사항을 심의ㆍ의결한다.1. 법 제7조제3항에 따른 규제의 대상ㆍ범위ㆍ방법 등의 타당성에 관한 사항  <전문개정>2. 법 제8조의2에 따른 규제의 재검토에 관한 사항  <전문개정>3. 기존 규제의 자체정비, 규제정비 계획의 수립ㆍ시행에 관한 사항  <전문개정>4. 그 밖에 위원회의 위원장이 필요하다고 인정하는 사항  <전문개정>5. 삭제",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제7조제3항",
+            "line_text": "",
+            "target_law_name": "행정규제기본법",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/행정규제기본법/제7조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:과학기술정보통신부규제심사위원회운영규정#JO0003",
+            "reference_id": "law:행정규제기본법#JO0007"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제8조의2",
+            "line_text": "",
+            "target_law_name": "행정규제기본법",
+            "target_article_no": "제8조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/행정규제기본법/제8조의2",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:과학기술정보통신부규제심사위원회운영규정#JO0003",
+            "reference_id": "law:행정규제기본법#JO0008_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:과학기술정보통신부규제심사위원회운영규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "구성",
+        "chapter": "",
+        "content": "제4조(구성) ① 위원회는 위원장을 포함하여 13인 이상 25인 이내로 구성하되, 민간위원이 과반수가 되어야 한다.② 위원회의 위원장은 정부위원과 민간위원이 공동위원장이 되고, 정부위원 위원장은 기획조정실장이 되며, 민간위원 위원장은 민간위원 중에서 과학기술정보통신부장관이 지명한다.③ 정부위원은 국장급 이상의 공무원으로 위촉한다.④ 민간위원은 규제 또는 과학기술ㆍ정보화ㆍ방송ㆍ통신ㆍ전파ㆍ정보통신산업ㆍ정보보호ㆍ우정사업 등 과학기술정보통신부 소관 분야에 관한 학식과 경험이 풍부한 자중에서 과학기술정보통신부장관이 위촉하는 자로 한다.⑤ 과학기술정보통신부장관은 민간위원이 다음 각 호의 어느 하나에 해당하는 경우에는 해당 위원을 해촉(解囑)할 수 있다.1. 심신쇠약으로 인하여 직무를 수행할 수 없게 된 경우  <전문개정>2. 직무와 관련된 비위사실이 있는 경우  <전문개정>3. 직무태만, 품위손상이나 그 밖의 사유로 인하여 위원으로 적합하지 않다고 인정되는 경우  <전문개정>4. 위원 스스로 직무를 수행하는 것이 곤란하다고 의사를 밝히는 경우⑥ 위원장은 회의를 효율적으로 수행하기 위하여 분과위원회를 구성할 수 있다.⑦ 분과위원회는 위원장이 선임하는 5인 이상 7인 이내의 위원으로 구성하고 해당 분과위원회 위원 중 1명을 분과위원장으로 호선한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:과학기술정보통신부규제심사위원회운영규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "위원의 임기",
+        "chapter": "",
+        "content": "제5조(위원의 임기) ① 민간위원의 임기는 2년으로 하되, 한 차례만 연임할 수 있다.② 정부위원 및 간사는 그 직위의 재임기간으로 한다.③ 위원장이 부득이한 사유로 직무를 수행할 수 없을 때에는 위원장이 지명한 위원이 그 직무를 대행한다.④ 결원에 의하여 새로 위촉되는 위원의 임기는 전임위원의 잔임기간으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:과학기술정보통신부규제심사위원회운영규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "회의의 운영",
+        "chapter": "",
+        "content": "제6조(회의의 운영) ① 위원회의 회의는 다음 각 호의 경우에 위원장이 소집할 수 있다.1. 위원장 또는 과학기술정보통신부장관이 필요하다고 인정한 때2. 재적위원 3분의 1이상의 소집요구가 있을 때② 위원장이 회의를 소집하고자 할 때에는 회의의 일시ㆍ장소 및 회의에 올리는 사항 등을 정하여 회의개최일 7일전까지 각 위원에게 서면으로 통지하여야 한다. 다만, 긴급한 경우에는 그러하지 아니하다.③ 위원회는 대면심사를 원칙으로 한다. 다만, 비중요 규제이거나 긴급하게 처리될 필요가 있다고 위원장이 인정하는 경우에는 서면회의로 할 수 있다.④ 위원장은 규제심사 등과 관련하여 안건 소관 과장으로 하여금 위원회에 출석하여 그 의견을 진술하게 하거나 필요한 자료를 제출하게 할 수 있다.⑤ 위원장은 규제심사 등과 관련하여 관계 공무원 또는 민간 전문가로 하여금 안건을 검토하게 하거나 위원회에 출석하여 발언하게 할 수 있다.⑥ 위원장은 규제심사 등과 관련하여 관계 전문가, 이해관계자 등 참고인을 위원회에 출석시켜 그 의견을 진술하게 하거나 필요한 자료를 제출하게 할 수 있다.⑦ 위원장은 회의 개최 전에 안건을 분과위원회에 회부하여 검토하게 하고 그 검토 의견을 위원회에 제출하게 할 수 있다.⑧ 분과위원회 운영에 관한 사항은 위원회 운영규정을 준용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:과학기술정보통신부규제심사위원회운영규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "개회 및 의결정족수 등",
+        "chapter": "",
+        "content": "제7조(개회 및 의결정족수 등) ① 위원회는 재적위원 과반수의 출석으로 개의하고 출석위원 과반수의 찬성으로 의결한다.② 위원회 회의시 정부위원은 해당국 과장이 대리출석할 수 있으며 대리출석한 위원은 의결권을 가진다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:과학기술정보통신부규제심사위원회운영규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "간사",
+        "chapter": "",
+        "content": "제8조(간사) ① 위원회에 간사 1인을 두되, 간사는 과학기술정보통신부 규제개혁법무담당관으로 한다.② 간사는 다음 각호의 위원회 사무를 처리한다.1. 위원회 안건의 준비, 작성, 배부 및 심사결과 보고 등 회의운영에 관한 사항2. 위원회 운영을 위한 서무, 인사 등 제반 행정지원에 관한 사항3. 기타 위원장이 위임하는 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:과학기술정보통신부규제심사위원회운영규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "안건 소관과의 책무",
+        "chapter": "",
+        "content": "제9조(안건 소관과의 책무) 위원회에 안건을 상정할 소관과는 다음 사항을 준수하여야 한다.1. 신설ㆍ강화 등의 규제심사의 경우, 심사안 및 기타 필요한 자료 등을 규제개혁법무담당관실로 제출하여야 한다.2. 제6조제4항에 따라 위원장의 요구가 있는 경우 안건 설명 등은 안건 소관 과장이 한다.3. 위원회 회의결과를 규제개혁법무담당관실로 제출하며, 기타 총리실 규제정보화시스템 입력 등 제반사항을 지원한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "제6조제4항",
+            "line_text": "",
+            "target_law_name": "과학기술정보통신부 규제심사위원회 운영규정",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/과학기술정보통신부 규제심사위원회 운영규정/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:과학기술정보통신부규제심사위원회운영규정#JO0009",
+            "reference_id": "admrul:과학기술정보통신부규제심사위원회운영규정#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:과학기술정보통신부규제심사위원회운영규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "제척",
+        "chapter": "",
+        "content": "제10조(제척) 과학기술정보통신부장관은 위원장 또는 위원이 상정된 안건과 직접적인 이해관계가 있어 공정한 심사를 하기 어렵다고 판단한 경우, 해당 안건의 심의에서 제척할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:과학기술정보통신부규제심사위원회운영규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "수당 등",
+        "chapter": "",
+        "content": "제11조(수당 등) 위원회에 출석한 민간위원과 의견을 진술한 자에게 예산의 범위내에서 수당(안건검토수당, 회의참석수당 등), 여비 및 그 밖에 필요한 경비를 지급할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:과학기술정보통신부규제심사위원회운영규정#JO0011"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20130501",
+      "promulgation_no": "15",
+      "content": "부칙 <제15호,2013. 5. 1.>(시행일) 이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20130524",
+      "promulgation_no": "21",
+      "content": "부칙 <제21호,2013. 5. 24.>(시행일) 이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20180626",
+      "promulgation_no": "39",
+      "content": "부칙 <제39호,2018. 6. 26.>(시행일) 이 훈령은 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "서식",
+      "title": "위촉장",
+      "enforcement_date": "",
+      "content": "\n■ 과학기술정보통신부 규제심사위원회 운영규정 [별지 제1호서식] <제정 2013.  .  .>\n┌──────────────────────────────────────────┐\n│제     호                                                                           │\n│                                                                                    │\n│위 촉 장                                                                            │\n│                                소속                                                │\n│                        직위 및 이름                                                │\n│                                                                                    │\n│                                                                                    │\n│  귀하를『행정규제기본법』의                                                        │\n│규정에 따라 과학기술정보통신부                                                      │\n│규제심사위원회 위원으로 위촉합니다                                                  │\n│                                                                                    │\n│   년   월   일                                                                     │\n│                                                                                    │\n│과학기술정보통신부장관                                                              │\n│                                                                                    │\n└──────────────────────────────────────────┘\n210mm×297mm[백상지 120g/㎡(재활용품)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149119865",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149119861",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149119865",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:과학기술정보통신부규제심사위원회운영규정#BJ0001",
+      "filename": "서식1_위촉장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "서식",
+      "title": "과학기술정보통신부 규제심사위원회 서면심사의견서",
+      "enforcement_date": "",
+      "content": "[별지 제2호 서식]\n┌────────────────────┒\n│제 회 과학기술정보통신부 규제심사위원회 ┃\n│서면심사의견서                          ┃\n│- 제2013- 호, 심사안건명 -              ┃\n┕━━━━━━━━━━━━━━━━━━━━┛\n□ 규제명 :\n1. 규제영향분석서 평가요소별 심사의견\n┌─────────────┬────┒\n│평가요소                  │심사의견┃\n├─────────────┼────┨\n│규제의 필요성             │        ┃\n├─────────────┼────┨\n│규제의 대안검토           │        ┃\n│및 비용ㆍ편익 분석과 비교 │        ┃\n├─────────────┼────┨\n│규제의 적정성 및 실효성   │        ┃\n┕━━━━━━━━━━━━━┷━━━━┛\n2. 의결 및 종합의견\n┏━━━━━┳━━━━┓\n┃의결      ┃종합의견┃\n┠────┬╂────┨\n┃원안동의│┃        ┃\n┠────┼┨        ┃\n┃개선권고│┃        ┃\n┠────┼┨        ┃\n┃철회권고│┃        ┃\n┠────┼┨        ┃\n┃기타    │┃        ┃\n┗━━━━┷┻━━━━┛\n＊의결사항은 원안동의, 개선권고, 철회권고, 기타 중 택일\n과학기술정보통신부 규제심사위원회 위원(장) :           (서명)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149119871",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149119867",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149119871",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:과학기술정보통신부규제심사위원회운영규정#BJ0002",
+      "filename": "서식2_과학기술정보통신부 규제심사위원회 서면심사의견서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "서식",
+      "title": "신설·강화 자체규제심사 결과보고",
+      "enforcement_date": "",
+      "content": "[별지 제3호 서식]\n┌────────────────┐\n│신설?강화 자체규제심사 결과보고│\n└────────────────┘\n1. 개요\n┌───────┬───────────────────────────────┐\n│구분          │관련사항                                                      │\n├───────┼───────────────────────────────┤\n│심사대상      │ㅇㅇㅇㅇ법 시행령 일부개정령(안)                              │\n├───────┼───────────────────────────────┤\n│소관부서      │ㅇㅇㅇㅇ과  ㅇㅇㅇ 사무관  TEL: ㅇㅇㅇㅇ-ㅇㅇㅇ               │\n├───────┼────────┬──────┬──────┬────────┤\n│규제유형      │총 ㅇ 건(비중요)│신설( ㅇ 건)│강화( ㅇ 건)│내용심사( ㅇ 건)│\n├───────┼────────┼──────┴──────┴────────┤\n│자체심사 내용 │심사 일시       │2013. 3. 1.                                 │\n│              ├────────┼──────────────────────┤\n│              │심사 번호       │제2013- 호                                  │\n│              ├────────┼──────────────────────┤\n│              │참석 현황       │위원  (ㅇㅇㅇ 위원장 등 0명)                │\n│              │                │참고인(ㅇㅇㅇㅇ협회 ㅇㅇㅇ 부회장 등 ㅇ명)  │\n└───────┴────────┴──────────────────────┘\n2. 신설?강화규제(내용심사)에 대한 심사결과\n┏━━━━━━━━━━━━┯━━━━━━━━┓\n┃규제 사무명 및 주요내용 │심사결과 및 의견┃\n┣━━━━━━━━━━━━┿━━━━━━━━┫\n┃                        │                ┃\n┃                        │<원안동의>      ┃\n┃                        │                ┃\n┃                        │ㅇ              ┃\n┗━━━━━━━━━━━━┷━━━━━━━━┛\n* 원안동의, 개선권고, 재심사, 철회 등 4가지 종류가 있습니다.\n3. 심사내용\n① 규제영향분석서의 평가요소별 심사의견\nㅇ\nㅇ\n② 규제 신설?강화(내용심사)에 대한 종합의견\nㅇ\nㅇ\n③ 심사참여자의 주요 의견\nㅇ\nㅇ\n④ 규제심사위원회에서 결정한 내용과 소관과 심사요청 내용이 다를 경우 변경내용\n┌─────┬───────┬──┐\n│심사요청안│위원회 심의안 │비고│\n├─────┼───────┼──┤\n│          │              │    │\n└─────┴───────┴──┘\n4. 참고사항\n① 참고인(관계전문가 또는 이해관계자) 참석 현황\n┌─────┬───┬───┐\n│소 속     │직 위 │성 명 │\n├─────┼───┼───┤\n│ㅇㅇㅇ협회│ㅇㅇ  │ㅇㅇㅇ│\n├─────┼───┼───┤\n│ㅇㅇㅇ(주)│ㅇㅇ  │ㅇㅇㅇ│\n├─────┼───┼───┤\n│ㅇㅇㅇ단체│ㅇㅇ  │ㅇㅇㅇ│\n└─────┴───┴───┘\n② 규제심사위원회 참석위원 명단(ㅇ 명)\n┌───┬─────┬────┬───┬──┐\n│구  분│소  속    │직   위 │성  명│비고│\n├───┼─────┼────┼───┼──┤\n│위원장│ㅇㅇㅇㅇㅇ│ㅇㅇ    │ㅇㅇㅇ│    │\n├───┼─────┼────┼───┼──┤\n│위  원│ㅇㅇㅇㅇㅇ│ㅇㅇ    │ㅇㅇㅇ│    │\n├───┼─────┼────┼───┼──┤\n│위  원│ㅇㅇㅇㅇㅇ│ㅇㅇ    │ㅇㅇㅇ│    │\n├───┼─────┼────┼───┼──┤\n│위  원│ㅇㅇㅇㅇㅇ│ㅇㅇ    │ㅇㅇㅇ│    │\n├───┼─────┼────┼───┼──┤\n│위  원│ㅇㅇㅇㅇㅇ│ㅇㅇ    │ㅇㅇㅇ│    │\n├───┼─────┼────┼───┼──┤\n│위  원│ㅇㅇㅇㅇㅇ│ㅇㅇ    │ㅇㅇㅇ│    │\n├───┼─────┼────┼───┼──┤\n│위  원│ㅇㅇㅇㅇㅇ│ㅇㅇ    │ㅇㅇㅇ│    │\n├───┼─────┼────┼───┼──┤\n│위  원│ㅇㅇㅇㅇㅇ│ㅇㅇ    │ㅇㅇㅇ│    │\n├───┼─────┼────┼───┼──┤\n│위  원│ㅇㅇㅇㅇㅇ│ㅇㅇ    │ㅇㅇㅇ│    │\n└───┴─────┴────┴───┴──┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149119881",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149119873",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149119881",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:과학기술정보통신부규제심사위원회운영규정#BJ0003",
+      "filename": "서식3_신설·강화 자체규제심사 결과보고.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "(과학기술정보통신부 훈령 제285호) 과학기술정보통신부 규제심사위원회 운영규정 일부개정.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=149114587",
+      "file_store_url": "",
+      "filename": "(과학기술정보통신부 훈령 제285호) 과학기술정보통신부 규제심사위원회 운영규정 일부개정.hwpx"
+    },
+    {
+      "name": "조문별제개정이유서_과기정통부 규제심사위원회 운영규정 일부개정.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=149119853",
+      "file_store_url": "",
+      "filename": "조문별제개정이유서_과기정통부 규제심사위원회 운영규정 일부개정.hwpx"
+    },
+    {
+      "name": "조문별제개정이유서_과기정통부 규제심사위원회 운영규정 일부개정.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=149119857",
+      "file_store_url": "",
+      "filename": "조문별제개정이유서_과기정통부 규제심사위원회 운영규정 일부개정.pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 7,
+    "by_category": {
+      "법령": 6,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 6,
+      "internal_ref": 1
+    },
+    "articles_total": 11,
+    "articles_with_relations": 3,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 3,
+    "appendices_count": 3,
+    "attachments_count": 3
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/과학기술정보통신부 규제심사위원회 운영규정"
+  },
+  "provision_id": "admrul:과학기술정보통신부규제심사위원회운영규정#DOC"
+}
