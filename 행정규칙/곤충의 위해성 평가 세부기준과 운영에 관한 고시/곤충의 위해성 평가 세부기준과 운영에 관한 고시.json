@@ -1,0 +1,880 @@
+{
+  "law_id": "2100000256568",
+  "mst": "2100000256568",
+  "law_name": "곤충의 위해성 평가 세부기준과 운영에 관한 고시",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000256568",
+  "promulgation_no": "2025-7",
+  "promulgation_date": "20250314",
+  "enforcement_date": "20250314",
+  "revision_date": "20250314",
+  "revision_type": "타법개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "농촌진흥청(연구개발과)",
+    "담당자명": "김기창",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "곤충의 위해성 평가 세부기준과 운영에 관한 고시",
+    "발령일자": "20250314",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200409",
+    "조문형식여부": "Y",
+    "소관부처명": "농촌진흥청",
+    "전화번호": "063-238-0872",
+    "제개정구분명": "타법개정",
+    "소관부처코드": "1390000",
+    "생성일자": "20250317",
+    "행정규칙ID": "43246",
+    "시행일자": "20250314",
+    "담당부서기관코드": "1391060",
+    "발령번호": "2025-7",
+    "행정규칙일련번호": "2100000256568",
+    "상위부처명": "농촌진흥청"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정 이유 및 주요 내용\n○ 「농촌진흥청과 그 소속기관 직제 시행규칙」이 개정(2025. 2. 25. 시행)됨에 따라, 직제 명칭의 변경사항을 반영하여 농촌진흥청 소관 8개 고시를 일괄 정비하려는 것임",
+  "body": {
+    "format": "articles",
+    "article_count": 13,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 고시는 「곤충산업의 육성 및 지원에 관한 법률」(이하 \"법\"이라 한다) 제15조 제1항과 같은 법 시행령 제7조 제1항 제3호에 따라 농촌진흥청장에게 위임된 법 제10조 제1항의 곤충의 위해성 평가에 관련하여 같은 법 시행규칙(이하 \"규칙\"이라 한다) 제4조에 제시된 위해성 평가와 운영에 필요한 세부 지침을 규정하는데 그 목적이 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제15조",
+            "line_text": "",
+            "target_law_name": "곤충산업의 육성 및 지원에 관한 법률",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/곤충산업의 육성 및 지원에 관한 법률/제15조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0001",
+            "reference_id": "law:곤충산업의육성및지원에관한법률#JO0015"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "곤충산업의 육성 및 지원에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/곤충산업의 육성 및 지원에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0001",
+            "reference_id": "law:곤충산업의육성및지원에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "곤충산업의 육성 및 지원에 관한 법률 시행령",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/곤충산업의 육성 및 지원에 관한 법률 시행령/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0001",
+            "reference_id": "law:곤충산업의육성및지원에관한법률시행령#JO0007"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제10조",
+            "line_text": "",
+            "target_law_name": "곤충산업의 육성 및 지원에 관한 법률",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/곤충산업의 육성 및 지원에 관한 법률/제10조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0001",
+            "reference_id": "law:곤충산업의육성및지원에관한법률#JO0010"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행규칙",
+            "line_text": "",
+            "target_law_name": "곤충산업의 육성 및 지원에 관한 법률 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/곤충산업의 육성 및 지원에 관한 법률 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0001",
+            "reference_id": "law:곤충산업의육성및지원에관한법률시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "곤충산업의 육성 및 지원에 관한 법률 시행규칙",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/곤충산업의 육성 및 지원에 관한 법률 시행규칙/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0001",
+            "reference_id": "law:곤충산업의육성및지원에관한법률시행규칙#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적용 범위",
+        "chapter": "",
+        "content": "제2조(적용 범위) ① 곤충의 범위는 법 제2조 제1호와 규칙 제2조에서 규정한 동물로 한다.② 위해성 평가의 대상은 규칙 제4조 1항에 제시된 곤충으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제1항",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "곤충산업의 육성 및 지원에 관한 법률",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/곤충산업의 육성 및 지원에 관한 법률/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0002",
+            "reference_id": "law:곤충산업의육성및지원에관한법률#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제1항",
+            "link_text": "규칙",
+            "line_text": "",
+            "target_law_name": "곤충산업의 육성 및 지원에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/곤충산업의 육성 및 지원에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0002",
+            "reference_id": "law:곤충산업의육성및지원에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제1항",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "곤충산업의 육성 및 지원에 관한 법률 시행령",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/곤충산업의 육성 및 지원에 관한 법률 시행령/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0002",
+            "reference_id": "law:곤충산업의육성및지원에관한법률시행령#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "규칙",
+            "line_text": "",
+            "target_law_name": "곤충산업의 육성 및 지원에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/곤충산업의 육성 및 지원에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0002",
+            "reference_id": "law:곤충산업의육성및지원에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "곤충산업의 육성 및 지원에 관한 법률 시행령",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/곤충산업의 육성 및 지원에 관한 법률 시행령/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0002",
+            "reference_id": "law:곤충산업의육성및지원에관한법률시행령#JO0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "규칙 제2조",
+            "line_text": "제2조(적용 범위) ① 곤충의 범위는 법 제2조 제1호와 규칙 제2조에서 규정한 동물로 한다.② 위해성 평가의 대상은 규칙 제4조 1항에 제시된 곤충으로 한다.",
+            "target_law_name": "곤충산업의 육성 및 지원에 관한 법률 시행규칙",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/곤충산업의 육성 및 지원에 관한 법률 시행규칙/제2조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0002",
+            "reference_id": "law:곤충산업의육성및지원에관한법률시행규칙#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "규칙 제4조",
+            "line_text": "제2조(적용 범위) ① 곤충의 범위는 법 제2조 제1호와 규칙 제2조에서 규정한 동물로 한다.② 위해성 평가의 대상은 규칙 제4조 1항에 제시된 곤충으로 한다.",
+            "target_law_name": "곤충산업의 육성 및 지원에 관한 법률 시행규칙",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/곤충산업의 육성 및 지원에 관한 법률 시행규칙/제4조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0002",
+            "reference_id": "law:곤충산업의육성및지원에관한법률시행규칙#JO0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "규칙",
+            "line_text": "제2조(적용 범위) ① 곤충의 범위는 법 제2조 제1호와 규칙 제2조에서 규정한 동물로 한다.② 위해성 평가의 대상은 규칙 제4조 1항에 제시된 곤충으로 한다.",
+            "target_law_name": "곤충산업의 육성 및 지원에 관한 법률 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/곤충산업의 육성 및 지원에 관한 법률 시행규칙",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0002",
+            "reference_id": "law:곤충산업의육성및지원에관한법률시행규칙#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "위해성 평가의 기준",
+        "chapter": "",
+        "content": "제3조(위해성 평가의 기준) 위해성 평가의 기준은 다음 각 호와 같다.1. 삭제 <2014. 9. 2.>2. 곤충의 생리ㆍ생태 현황3. 곤충의 해충화 가능성4. 곤충의 생태계 위해 가능성5. 곤충의 사람과 가축에 대한 독성 가능성6. 삭제 <2014. 9. 2.>7. 그 밖에 평가와 관련하여 곤충위해성평가위원회(이하 \"위원회\"라 한다)에서 제시한 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "위해성 평가의 의뢰",
+        "chapter": "",
+        "content": "제4조(위해성 평가의 의뢰) ① 곤충의 위해성 평가가 필요한 농촌진흥청 각 부서는 다음 각 호의 서류를 작성하여 농촌진흥청장에게 제출하여야 한다.1. 시행규칙 제4조 제5항의 서식 ‘곤충의 위해성 평가 의뢰서’2. 별지 1호 서식 ‘곤충의 위해성 평가용 자료’② 곤충을 사육ㆍ유통하려는 사람이나 현재 사육ㆍ유통하고 있는 사람이 위해성 평가를 의뢰하고자 할 경우에는 제1항 각 호의 서류를 작성하여 농촌진흥청장에게 제출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "곤충산업의 육성 및 지원에 관한 법률 시행규칙",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/곤충산업의 육성 및 지원에 관한 법률 시행규칙/제4조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0004",
+            "reference_id": "law:곤충산업의육성및지원에관한법률시행규칙#JO0004"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "별지 1호",
+            "line_text": "",
+            "target_law_name": "곤충의 위해성 평가 세부기준과 운영에 관한 고시",
+            "target_article_no": "별지1",
+            "target_article_title": "곤충의 위해성 평가용 자료",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150007689",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0004",
+            "reference_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "위해성 평가의 절차",
+        "chapter": "",
+        "content": "제5조(위해성 평가의 절차) 농촌진흥청장은 제4조 제1항 각 호의 서류를 갖추어 위해성 평가를 의뢰 받았을 경우, 15일 이내에 서류 검토를 완료한 후 위원회에 평가를 의뢰하여야 하며, 평가절차는 별표 1과 같다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "곤충산업의 육성 및 지원에 관한 법률 시행규칙",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/곤충산업의 육성 및 지원에 관한 법률 시행규칙/제4조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0005",
+            "reference_id": "law:곤충산업의육성및지원에관한법률시행규칙#JO0004"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "곤충의 위해성 평가 세부기준과 운영에 관한 고시",
+            "target_article_no": "별표1",
+            "target_article_title": "곤충의 위해성 평가 흐름도",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000256568&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0005",
+            "reference_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "위해성 판정과 등급 결정",
+        "chapter": "",
+        "content": "제6조(위해성 판정과 등급 결정) ① 곤충의 위해성 평가는 다음 각 호의 등급으로 판정한다.1. 위해성 1급: 생태계 또는 사람과 가축에 부정적 영향이 매우 크거나 향후 심각한 우려가 예상되므로 사육되거나 유통되는 곤충을 폐기해야 할 필요가 있는 종2. 위해성 2급: 주변 생태계로 침입하여 확산될 가능성이 크거나 사람과 가축에 부정적 영향을 줄 우려가 있으므로 사육과 유통을 제한하는 등 집중 관리가 필요한 종3. 위해성 없음: 생태계 또는 사람과 가축에 부정적 영향이 없어 사육되거나 유통될 수 있는 것으로 확인된 종② 위해성 등급이 판정된 곤충의 경우에도 해당 곤충의 위해성에 대한 새로운 과학적 사실이 밝혀진 경우 위원회의 의결을 거쳐 위해등급을 조정할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "평가위원회 구성",
+        "chapter": "",
+        "content": "제7조(평가위원회 구성) ① 곤충의 위해성 평가의 전문성을 높이기 위하여 국립농업과학원(이하 \"농과원\"이라 한다)에 위원회를 두며, 농업생물부장을 위원장으로 한다.② 위원회는 위원장 1인과 내ㆍ외 전문가 15인 이내를 평가위원(이하 \"위원\"이라 한다)으로 하여 다음 각 호와 같이 구성한다.1. 농림축산식품부의 종자생명산업과장, 농촌진흥청의 바이오푸드테크팀장, 기술보급과장, 농과원의 산업곤충과장, 해충잡초방제과장2. 농촌진흥청, 농림축산검역본부, 국립산림과학원, 국립환경과학원, 대학, 산업계 등의 위해성 평가 전문가 중에서 위원장이 추천한 10인 이내의 사람③ 위원의 임기는 1년으로 하고 연임할 수 있다.④ 위원회의 업무에 필요한 조사활동, 자료준비와 위원회의 사무 처리를 위하여 산업곤충과 소속 공무원 중에서 간사를 둘 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "위원회의 운영",
+        "chapter": "",
+        "content": "제8조(위원회의 운영) ① 위원장은 매년 1회 정기 위원회를 개최하고 필요에 따라 수시로 위원회를 개최할 수 있다.② 위원장은 제4조 제1항 제1호와 제2호의 서류가 접수되었을 경우, 간사의 조사활동을 거쳐 15일 내에 회의 개최일자와 내용을 사전에 위원에게 통보하고 위원회를 개최하여야 하며, 재적 위원 3분의 2이상의 출석으로 개의한다. 다만, 위원회 개최 전 위임장을 제출한 위원은 개의 정족수에 포함시킨다.③ 위원장은 위원회의 심의사항과 관련하여 필요할 때에는 관계인을 출석시켜 의견을 듣거나 외부의 전문가 또는 관련 학회 등에 자문을 구할 수 있다.④ 위원회는 접수된 서류와 간사의 조사활동 결과를 기반으로 위해성 평가를 실시하고 별지 제2호 서식의 ‘곤충의 위해성 평가표’를 작성한다.⑤ 위원회는 출석위원 과반수의 찬성 여부로 의결한다. <개정 2014. 9. 2.>⑥ 회의에 참석한 위원과 출석한 관계인에 대하여 예산의 범위에서 수당이나 여비를 지급할 수 있다. 또한, 자문을 구한 경우, 출석 관계인에 준하여 자문료를 지급할 수 있다. 다만, 공무원인 위원이 그 소관 직무와 관련하여 출석 또는 자문을 제공한 경우에는 지급하지 않을 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제2항",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "곤충산업의 육성 및 지원에 관한 법률 시행규칙",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/곤충산업의 육성 및 지원에 관한 법률 시행규칙/제4조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0008",
+            "reference_id": "law:곤충산업의육성및지원에관한법률시행규칙#JO0004"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제4항",
+            "link_text": "별지 제2호 서식",
+            "line_text": "",
+            "target_law_name": "곤충의 위해성 평가 세부기준과 운영에 관한 고시",
+            "target_article_no": "별지2",
+            "target_article_title": "곤충의 위해성 평가표",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150007743",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0008",
+            "reference_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0008"
+      },
+      {
+        "article_no": "제8조의2",
+        "article_title": "위원의 임무",
+        "chapter": "",
+        "content": "제8조의2(위원의 임무) ① 위원은 다음 각 호의 사항을 심의ㆍ의결한다.1. 대상 곤충의 위해성 평가2. 그 밖에 위원회와 관련하여 위원장이 심의ㆍ의결할 필요가 있다고 인정하는 사항② 위원은 위원회에 관련하여 전문지식에 입각하여 성실하게 그 임무를 수행하여야 한다.③ 위원은 부득이한 사유로 회의에 불참할 경우 별지 제3호 서식 \"위임장\"을 작성하여 사전에 간사에게 제출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조의2",
+            "source_clause": "제8조의2제3항",
+            "link_text": "별지 제3호 서식",
+            "line_text": "",
+            "target_law_name": "곤충의 위해성 평가 세부기준과 운영에 관한 고시",
+            "target_article_no": "별지3",
+            "target_article_title": "위임장",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150007749",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0008_02",
+            "reference_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#BJ0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0008_02"
+      },
+      {
+        "article_no": "제8조의3",
+        "article_title": "위원의 해촉과 승계",
+        "chapter": "",
+        "content": "제8조의3(위원의 해촉과 승계) ① 위원장은 위원이 다음 각 호의 어느 하나에 해당되는 경우에는 해당 위원을 해촉할 수 있다1. 직무를 성실하게 수행할 수 없게 된 경우2. 직무와 관련되어 비위사실이 있는 경우3. 위원 스스로 직무 수행이 곤란하다는 의사를 서면으로 밝히는 경우② 제7조 제2항 제1호의 위원이 인사이동으로 인하여 위원으로서의 직무를 수행할 수 없을 경우, 해당 직위의 후임자가 추가 절차 없이 위원의 자격을 자동으로 승계한다.③ 간사는 위원 변동사항 발생시 위원장에게 보고한 후, 7일 이내에 재적위원들에게 해당 사실을 고지한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조의3",
+            "source_clause": "제8조의3제2항",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "곤충산업의 육성 및 지원에 관한 법률 시행령",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/곤충산업의 육성 및 지원에 관한 법률 시행령/제7조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0008_03",
+            "reference_id": "law:곤충산업의육성및지원에관한법률시행령#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0008_03"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "평가 후속조치",
+        "chapter": "",
+        "content": "제9조(평가 후속조치) ① 위원장은 위원회 개최 후 규칙 제4조 제6항의 별지 제5호 서식 ‘곤충의 위해성 평가 결과서’를 포함하여 개최 결과를 10일 이내에 농촌진흥청장에게 보고하여야 한다.② 농촌진흥청장은 위원회의 위해성 평가 결과를 접수한 후, 7일 이내에 ‘곤충의 위해성 평가 결과서’를 이용하여 의뢰자에게 평가결과를 통보하여야 한다.③ 농촌진흥청장은 위원회의 위해성 평가 결과를 접수한 후, 7일 이내에 농림축산식품부장관에게 보고하여야 한다.④ 농촌진흥청장은 위해성 평가 결과를 홈페이지 등을 통하여 공개하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제1항",
+            "link_text": "규칙",
+            "line_text": "",
+            "target_law_name": "곤충산업의 육성 및 지원에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/곤충산업의 육성 및 지원에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0009",
+            "reference_id": "law:곤충산업의육성및지원에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제1항",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "곤충산업의 육성 및 지원에 관한 법률 시행령",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/곤충산업의 육성 및 지원에 관한 법률 시행령/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0009",
+            "reference_id": "law:곤충산업의육성및지원에관한법률시행령#JO0004"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제1항",
+            "link_text": "별지 제5호 서식",
+            "line_text": "",
+            "target_law_name": "곤충의 위해성 평가 세부기준과 운영에 관한 고시",
+            "target_article_no": "별지5",
+            "target_article_title": "",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": false,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000256568&bylNo=&bylBrNo=",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0009",
+            "reference_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#BJ0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "규칙 제4조",
+            "line_text": "제9조(평가 후속조치) ① 위원장은 위원회 개최 후 규칙 제4조 제6항의 별지 제5호 서식 ‘곤충의 위해성 평가 결과서’를 포함하여 개최 결과를 10일 이내에 농촌진흥청장에게 보고하여야 한다.② 농촌진흥청장은 위원회의 위해성 평가 결과를 접수한 후, 7일 이내에 ‘곤충의 위해성 평가 결과서’를 이용하여 의뢰자에게 평가결과를 통보하여야 한다.③ 농촌진흥청장은 위원회의 위해성 평가 결과를 접수한 후, 7일 이내에 농림축산식품부장관에게 보고하여야 한다.④ 농촌진흥청장은 위해성 평가 결과를 홈페이지 등을 통하여 공개하여야 한다.",
+            "target_law_name": "곤충산업의 육성 및 지원에 관한 법률 시행규칙",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/곤충산업의 육성 및 지원에 관한 법률 시행규칙/제4조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0009",
+            "reference_id": "law:곤충산업의육성및지원에관한법률시행규칙#JO0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "규칙",
+            "line_text": "제9조(평가 후속조치) ① 위원장은 위원회 개최 후 규칙 제4조 제6항의 별지 제5호 서식 ‘곤충의 위해성 평가 결과서’를 포함하여 개최 결과를 10일 이내에 농촌진흥청장에게 보고하여야 한다.② 농촌진흥청장은 위원회의 위해성 평가 결과를 접수한 후, 7일 이내에 ‘곤충의 위해성 평가 결과서’를 이용하여 의뢰자에게 평가결과를 통보하여야 한다.③ 농촌진흥청장은 위원회의 위해성 평가 결과를 접수한 후, 7일 이내에 농림축산식품부장관에게 보고하여야 한다.④ 농촌진흥청장은 위해성 평가 결과를 홈페이지 등을 통하여 공개하여야 한다.",
+            "target_law_name": "곤충산업의 육성 및 지원에 관한 법률 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/곤충산업의 육성 및 지원에 관한 법률 시행규칙",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0009",
+            "reference_id": "law:곤충산업의육성및지원에관한법률시행규칙#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "의뢰자 등의 준수 사항",
+        "chapter": "",
+        "content": "제10조(의뢰자 등의 준수 사항) 삭제 <2014. 9. 2.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제11조(재검토기한) 농촌진흥청장은 이 고시에 대하여「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2025년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 해야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0011",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#JO0011"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20131210",
+      "promulgation_no": "2013-40",
+      "content": "부칙 <제2013-40호,2013. 12. 10.>① (시행일) 이 규정은 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20140902",
+      "promulgation_no": "2014-20",
+      "content": "부칙 <제2014-20호,2014. 9. 2.>제1조(시행일) 이 규정은 고시한 날부터 시행한다.제2조(재검토 기한) 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제248호)에 따라 이 고시가 발령된 후에 법령이나 현실 여건의 변화 등을 검토하여 이 고시의 폐지, 개정 등의 조치를 하여야 하는 기한은 2017년 9월 1일까지로 한다."
+    },
+    {
+      "promulgation_date": "20161024",
+      "promulgation_no": "2016-43",
+      "content": "부칙 <제2016-43호,2016. 10. 24.>제1조(시행일) 이 규정은 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20171106",
+      "promulgation_no": "2017-32",
+      "content": "부칙(우량비료 인정기준 등 4건 일부개정령) <제2017-32호,2017. 11. 6.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20190130",
+      "promulgation_no": "2019-4",
+      "content": "부칙 <제2019-4호,2019. 1. 30.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20211018",
+      "promulgation_no": "2021-22",
+      "content": "부칙 <제2021-22호, 2021. 10. 18.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20250314",
+      "promulgation_no": "2025-7",
+      "content": "부칙(직제 개편사항 반영을 위한 8개 농촌진흥청 고시 일부개정에 관한 농촌진흥청고시) <제2025-7호, 2025. 3. 14.>이 훈령은 발령한 날 부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "곤충의 위해성 평가 흐름도",
+      "enforcement_date": "",
+      "content": "[별표 1]\n┌────────────────────────────────┐\n│곤충의 위해성 평가 흐름도                                       │\n├─────────┬──────────────────────┤\n│신청자            │농촌진흥청                                  │\n├─────────┼──────────────────────┤\n│                  │                                            │\n│┌──────┐  │┌─────────┐                      │\n││평가 의뢰서 │→││접    수          │                      │\n││            │  │├─────────┤                      │\n││            │  ││고객지원담당관실  │                      │\n│└──────┘  │└─────────┘                      │\n│                  │  ↓                                        │\n│                  │┌─────────┐  ┌────────┐│\n│                  ││검    토          │←│내부 평가요청   ││\n│                  │├─────────┤  │                ││\n│                  ││바이오푸드테크팀  │  │                ││\n│                  │└─────────┘  └────────┘│\n│                  │  ↓                                        │\n│                  │┌─────────┐                      │\n│                  ││분석·평가        │                      │\n│                  │├─────────┤                      │\n│                  ││곤충위해성평가위원│                      │\n│                  ││회                │                      │\n│                  ││(국립농업과학원)  │                      │\n│                  │└─────────┘                      │\n│                  │  ↓                                        │\n│                  │┌─────────┐  ┌────────┐│\n│                  ││결과 통보         │→│접    수        ││\n│                  ││                  │  ├────────┤│\n│                  │├─────────┤  │농식품부        ││\n│                  ││바이오푸드테크팀  │  │(종자생명산업과)││\n│                  │└─────────┘  └────────┘│\n│                  │  ↓                                        │\n│┌──────┐  │┌─────────┐  ┌────────┐│\n││평가 결과서 │←││결과 송부·공고   │→│홈페이지 공고   ││\n││            │  │├─────────┤  │                ││\n││            │  ││고객지원담당관실  │  │                ││\n│└──────┘  │└─────────┘  └────────┘│\n│                  │                                            │\n└─────────┴──────────────────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000256568&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150007681",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150007677",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150007681",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#BYL0001",
+      "filename": "별표1_곤충의 위해성 평가 흐름도.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "곤충의 위해성 평가용 자료",
+      "enforcement_date": "",
+      "content": "[별지 제1호 서식]\n곤충의 위해성 평가용 자료\n┌───────────────────────────────┐\n│평가용 자료에는 다음 각 호의 사항이 포함되어야 하며, 평가용   │\n│자료의 인쇄물 10부와 평가용 자료를 전자문서 형태로 저장한     │\n│유에스비(USB), 시디(CD) 등의 저장물 2매를 농촌진흥청 고객지원 │\n│담당관에게 우편 등으로 제출한다. 단, 해당 자료가 외국의 것일  │\n│경우에는 한글로 작성된 요약문을 원문과 함께 제출하여야 한다.  │\n└───────────────────────────────┘\n1. 요약문\n2. 본문\n가. 해당 곤충의 생리ㆍ생태 정보\n① 먹이와 섭식 방법\n② 서식처\n③ 생활사와 성충 수명\n④ 월동 여부 등 기타 생리ㆍ생태적 특징\n⑤ 생존에 미치는 환경 요인과 치사율\n나. 해당 곤충의 해충화 가능성 정보\n① 해당 곤충의 재배 식물에 직접 피해 여부 정보\n② 해당 곤충의 식물병 매개 가능성\n③ 해당 곤충의 질병 매개 기생충의 보유 여부\n다. 대상 곤충의 생산, 관리와 생태계 영향의 관계\n① 사육시설의 지리적 위치\n② 사육시설이 생물학적 중요성을 띤 장소와 보호지역과의 근접성\n③ 사육시설 준비 상태, 크기, 형태와 곤충 수용량\n④ 방출시 타 생물에게 생물 오염의 가능성과 관리 방법\n⑤ 수질, 대기, 토양 등 물리화학적 위해성 여부\n⑥ 문제 시 곤충의 제거와 성장 정지를 위해 제안된 기술\n⑦ 곤충의 방출에 관한 선례\n⑧ 곤충의 유통 관리 방안(운송 방법, 포장용기 등)\n라. 대상 곤충의 사람과 가축에 대한 독성 관계\n① 해당 곤충의 사람과 가축에 대한 공격 습성\n② 해당 곤충의 보유 독성이 사람과 가축에 대한 미치는 영향\n③ 기타 공중보건에 대한 위해성 여부\n마. 비상상황 시의 계획\n① 의도적 또는 비의도적 곤충 사육시설 등이 훼손됨으로써 곤충이 인체와 환경에 미치는 위해성을 방지하거나 최소화하기 위한 절차와 방법\n② 다른 생물체의 침입 통제 절차와 방법\n③ 시행 관리 계획\nㆍ 시설 점검과 유지 계획\nㆍ 감독 인원과 시설 작동 기록의 점검 계획\nㆍ 시설 현장에 대한 보완ㆍ유지 계획\n④ 곤충 폐기 처분에 관한 계획 수립(폐기물 수거와 처리 방안)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150007689",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150007683",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150007689",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#BJ0001",
+      "filename": "별지1_곤충의 위해성 평가용 자료.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "곤충의 위해성 평가표",
+      "enforcement_date": "",
+      "content": "[별지 제2호 서식]\n곤충의 위해성 평가표\n위원  소속                      성명            (서명)\n┌──┬┬──┬┐\n│학명││국명││\n└──┴┴──┴┘\n┌──────┬────────────────────────────────────┐\n│항목        │평가 요소                                                               │\n├──────┼────────────────────────────────────┤\n│1. 인축     │○ 가정이나 학교 등 실내에서 이용할 경우, 사람에게 위협이 되는가?       │\n│위해성      │ 0-생체의 실내 유입이 전혀 없거나 또는 사람에 대한 깨물음, 독털 등으    │\n│(총 24점,   │로 인한 피해가 전혀 알려진 바 없음                                      │\n│12x2)       │ 1-부주의하게 돌볼 때는 깨물음 같은 경미한 피해가 일어날 수 있음        │\n│            │ 2-알러지, 감염 등을 비롯한 치료를 요하거나 방제 수준까지의 피해가 발생 │\n│            │할 수 있음                                                              │\n│            │ 3-한 번의 공격으로 사람의 생명에 치명적인 수준까지도 갈 수 있음        │\n│            ├────────────────────────────────────┤\n│            │○ 야외로 탈출하였을 때, 사람들의 야외활동에 위협이 되는가?             │\n│            │ 0-사람에 대한 직접 공격 가능성은 전혀 알려진 바 없음                   │\n│            │ 1-사람에 대한 공격성을 갖고 있지는 않으나, 반사행동으로 경미한 상처    │\n│            │가 발생할 수는 있음                                                     │\n│            │ 2-사람에 대한 공격성은 없더라도, 한번 물거나 쏘는 등의 문제가 발생     │\n│            │하면 치료를 요하는 수준까지도 갈 수 있음                                │\n│            ├────────────────────────────────────┤\n│            │○ 사육환경에서 곤충자체의 위험성 또는 그의 배설물 등 2차 발생물로      │\n│            │인해 사육자의 보건위생에 위협이 될 수 있는가?                           │\n│            │ 0-특별한 인체 위해를 일으킬 수 있는 가능성이 알려진 바 없음            │\n│            │ 1-자체의 위험성이 약하거나 또는 2차 발생물 등에서 냄새 또는 분진 등    │\n│            │으로 인해 약간의 인체 위해를 일으킬 수 있는 가능성이 있음               │\n│            │ 2-자체의 위험성이 심하거나 또는 2차 발생물 등에서 냄새 또는 분진       │\n│            │등으로 인해 단순 호흡기 이상의 심각한 인체 위해가 발생할 가능성         │\n│            │이 있음                                                                 │\n│            ├────────────────────────────────────┤\n│            │○ 야외로 탈출하였을 때, 가축에게 위협이 되는가?                        │\n│            │ 0-가축 주변을 선호하지 않으며, 직접 공격 가능성은 전혀 알려진 바 없음  │\n│            │ 1-가축 주변 환경에 접근할 수 있으나, 가축 위생상의 문제를 일으킬 수    │\n│            │준은 아님                                                               │\n│            │ 2-가축에 대한 공격성을 갖고 있어 가축 위생상의 문제를 일으킬 수 있음   │\n│            ├────────────────────────────────────┤\n│            │○ 가정에서 생체로 이용할 경우, 반려동물에게 위협이 되는가?             │\n│            │ 0-생체의 실내 유입이 전혀 없거나 또는 반려동물에 대한 공격성이 없음    │\n│            │ 1-곤충의 큰턱이나 독침 등으로 반려동물에 상처를 줄 수 있음             │\n│            ├────────────────────────────────────┤\n│            │○ 야외로 탈출하였을 때, 공중위생 및 보건 상의 문제를 야기할 수 있는가? │\n│            │ 0-행동습성으로 인한 불쾌감 또는 오염 등의 문제가 알려진 바 없음        │\n│            │ 1-행동습성으로 인한 불쾌감 또는 오염 등이 유발되어 지역주민들의 민     │\n│            │원이 드물게 발생할 수 있음                                              │\n│            │ 2-행동습성으로 인한 불쾌감 또는 오염 등이 유발되어 지역주민들의 민     │\n│            │원이 빈발할 가능성이 높음                                               │\n├──────┼────────────────────────────────────┤\n│2. 작물 및  │○ 야외로 탈출하였을 때, 재배되는 농작물이나 수목에 직접 피해를 주는    │\n│산림        │해충으로 작용할 수 있는가?                                              │\n│위해성      │ 0-지금까지 또는 근거기록으로 보아 피해를 줄 가능성이 없음              │\n│(해충화     │ 1-근친 종이 식물을 가해한 적이 있어 해충화 가능성이 일부 있음          │\n│가능성)     │ 2-피해를 입힌 기록이나 가해습성이 뚜렷하여 해충화 가능성이 높음        │\n│(총 20점,   ├────────────────────────────────────┤\n│10X2)       │○ 야외에 정착할 경우, 저장 농작물 또는 목재에 직접 피해를 줄 가        │\n│            │능성이 있는가?                                                          │\n│            │ 0-가능성이 없음                                                        │\n│            │ 1-가능성이 일부 있음                                                   │\n│            │ 2-가능성이 높음                                                        │\n│            ├────────────────────────────────────┤\n│            │○ 정착할 경우, 농작물과 수목의 식물병 매개자가 될 수 있는가?           │\n│            │ 0-식물병 매개 가능성이 없음                                            │\n│            │ 1-식물병 매개 가능성이 일부 있음                                       │\n│            │ 2-식물병 매개 가능성이 높음                                            │\n│            ├────────────────────────────────────┤\n│            │○ 정착할 경우, 외래 기생충이나 곤충 질병을 퍼뜨릴 가능성이 있는가?     │\n│            │ 0-아직까지 매개 기생충이나 질병의 보고가 없음                          │\n│            │ 1-매개 기생충이나 질병은 있으나, 이들이 국제화된 기록은 없음           │\n│            │ 2-국제화된 매개 기생충이나 질병이 있어 위험성이 높음                   │\n│            ├────────────────────────────────────┤\n│            │○ 이 종을 도입되었던 국가의 사례로 볼 때, 해당 국가의 농림산업에       │\n│            │직·간접적으로 경제적 영향을 주었는가?                                  │\n│            │ 0-알려지지 않았거나 별도 관리 계획이 필요치 않은 정도의 영향이었음     │\n│            │ 1-해당 곤충의 침입으로 농림환경에 경제적 피해가 발생하였지만, 그 경    │\n│            │제적 피해가 박멸을 위한 경제적 비용보다 더 작은 경우                    │\n│            │ 2-박멸을 위한 경제적 비용이 경제적 피해규모 이상 이거나 박멸방법이     │\n│            │존재하지 않는 경우                                                      │\n├──────┼────────────────────────────────────┤\n│3. 생태계   │○ (외래종의 경우만) 원래 서식지가 우리나라 또는 유사한 기후지역인가?   │\n│위해성      │ 0-그렇지 않음                                                          │\n│(총 16점)   │ 1-일부 비슷하거나 확실하지 않음                                        │\n│            │ 2-우리나라와 같은 기후지역임                                           │\n│            ├────────────────────────────────────┤\n│            │○ 국외에서 국가 또는 지방자치단체의 위해종 목록에 등재되어 있는가?     │\n│            │ 0-등재되어 있지 않음                                                   │\n│            │ 1-등재되어 있음                                                        │\n│            ├────────────────────────────────────┤\n│            │○ 위해종 목록에 등재되진 않았으나, 원래 서식지가 아닌 곳으로 확산되    │\n│            │었거나 혹은 도입된 곳에서 주변 생태계를 위협하는 종으로 알려져          │\n│            │있는가?                                                                 │\n│            │ 0-알려져 있지 않거나 확실한 기록은 없음                                │\n│            │ 1-확실한 기록으로 알려져 있음                                          │\n│            ├────────────────────────────────────┤\n│            │○ 일반적으로 사육하는 환경조건이나 유통 또는 이용과정에서 생식집단     │\n│            │이 외부로 탈출할 가능성이 있는가?                                       │\n│            │ 0-인위적 유출 외에는 탈출할 가능성이 전혀 없음                         │\n│            │ 1-정주성이 강해 부주의만 아니면 탈출할 가능성이 낮음                   │\n│            │ 2-활동성이 강해 작은 틈으로도 탈출할 가능성이 높음                     │\n│            ├────────────────────────────────────┤\n│            │○ 사육장 주변 생태계에서 월동할 가능성이 있는가?                       │\n│            │ 0-가능성이 없음                                                        │\n│            │ 1-불확실하지만 가능성이 있음                                           │\n│            │ 2-가능성이 높음                                                        │\n│            ├────────────────────────────────────┤\n│            │○ 주변 생태계에서 연속적인 세대번식을 이룰 가능성이 있는가?            │\n│            │ 0-가능성이 없음                                                        │\n│            │ 1-불확실하지만 가능성이 있음                                           │\n│            │ 2-가능성이 높음                                                        │\n│            ├────────────────────────────────────┤\n│            │○ 외부로 탈출하면 자연적으로 얼마나 빨리 확산될 가능성이 있는가?       │\n│            │ 0-자연적으로는 전혀 확산될 가능성이 없음                               │\n│            │ 1-자체 분산력이 약하나 최소 5년 내에 간헐적 분포 가능성이 있음         │\n│            │ 2-자체 분산력 또는 환경인자의 도움으로 5년 내에 광범위한 분포 가능     │\n│            │성이 있음                                                               │\n│            ├────────────────────────────────────┤\n│            │○ 탈출 후 생존과 정착을 위하여 주변 생태계에서 먹이 동식물 종을 확     │\n│            │보할 가능성이 있는가?                                                   │\n│            │ 0-확보 불가능(국내에 존재하지 않는 많은 종들이 필요)                   │\n│            │ 1-자연에 존재하는 몇몇 종으로 대체 가능                                │\n│            │ 2-잡식성 또는 광식성으로 특별한 종과 관련 없이 확보할 가능성이 높음    │\n│            ├────────────────────────────────────┤\n│            │○ 주변 생태계에 정착할 경우, 그 생태계의 변화 및 손실에 영향을 줄 수   │\n│            │있는가?                                                                 │\n│            │ 0-영향을 주지 않음                                                     │\n│            │ 1-알 수 없거나 약간의 부정적 영향을 줌                                 │\n│            │ 2-뚜렷한 부정적 영향을 줌                                              │\n┝━━━━━━┿━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┥\n│결과        │  총점: │  등급:                                                       │\n└──────┴────┴───────────────────────────────┘\n※ 등급 기준(총 60점중)\n┌────┬────────────────────┬─────────────┐\n│평가등급│평가기준                                │비고                      │\n├────┼────────────────────┼─────────────┤\n│위해성  │ㆍ총점 : 23점 이상                      │사육?유통되는 곤충을 폐기│\n│1급     │ㆍ총점과 관계없이 인축 위해성이나 작물  │해야 할 필요가 있는 종    │\n│        │및 산림 위해성 항목에서 하나라도 10점   │                          │\n│        │이상인 경우                             │                          │\n├────┼────────────────────┼─────────────┤\n│위해성  │ㆍ총점 : 19∼22                         │사육과 유통을 제한하는 등 │\n│2급     │                                        │집중 관리가 필요한 종     │\n├────┼────────────────────┼─────────────┤\n│위해성  │ㆍ총점 : 0∼18                          │기본적 관리로 활용 가능   │\n│없음    │                                        │한 종                     │\n└────┴────────────────────┴─────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150007743",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150007691",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150007743",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#BJ0002",
+      "filename": "별지2_곤충의 위해성 평가표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "위임장",
+      "enforcement_date": "",
+      "content": "\n[별지 제3호 서식]\n\n위  임  장\n\n\n─────────────────────────────────────\n\n─────┬───────┬───────────────────────\n인적사항│성명(국문)    │성명(한문)\n│              │\n├───────┼───────────────────────\n│소속          │직위(전공)\n│              │\n├───────┴───────────────────────\n│주소\n│\n│\n├───────┬───────────────────────\n│(휴대)전화번호│전자우편\n│              │\n─────┴───────┴───────────────────────\n\n─────────────────────────────────────\n\n본인은 제  차 곤충위해성평가위원회의 안건 의결에 대한 권한을 위원장\n에게 위임하며, 이에 따른 의결 결과에 동의합니다.\n\n년    월    일\n\n위원 :                   (서명)\n\n곤충위해성평가위원회 위원장 귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n210mm×297mm[백상지 80g/㎡]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150007749",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150007745",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150007749",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#BJ0003",
+      "filename": "별지3_위임장.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "(고시2) 곤충의 위해성 평가 세부기준과 운영에 관한 고시(전문).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=150007699",
+      "file_store_url": "",
+      "filename": "(고시2) 곤충의 위해성 평가 세부기준과 운영에 관한 고시(전문).hwpx"
+    },
+    {
+      "name": "(고시2) 곤충의 위해성 평가 세부기준과 운영에 관한 고시(전문).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=150007703",
+      "file_store_url": "",
+      "filename": "(고시2) 곤충의 위해성 평가 세부기준과 운영에 관한 고시(전문).pdf"
+    },
+    {
+      "name": "직제 개편사항 반영을 위한 8개 농촌진흥청 고시 일부개정.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=150007707",
+      "file_store_url": "",
+      "filename": "직제 개편사항 반영을 위한 8개 농촌진흥청 고시 일부개정.hwpx"
+    },
+    {
+      "name": "직제 개편사항 반영을 위한 8개 농촌진흥청 고시 일부개정.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=150007711",
+      "file_store_url": "",
+      "filename": "직제 개편사항 반영을 위한 8개 농촌진흥청 고시 일부개정.pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 28,
+    "by_category": {
+      "법령": 22,
+      "별지": 4,
+      "별표": 1,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 23,
+      "appendix_ref": 5
+    },
+    "articles_total": 13,
+    "articles_with_relations": 9,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 7,
+    "appendices_count": 4,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/곤충의 위해성 평가 세부기준과 운영에 관한 고시"
+  },
+  "provision_id": "admrul:곤충의위해성평가세부기준과운영에관한고시#DOC"
+}
