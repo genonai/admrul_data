@@ -1,0 +1,527 @@
+{
+  "law_id": "2100000257762",
+  "mst": "2100000257762",
+  "law_name": "전자민원창구 운영에 관한 고시",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000257762",
+  "promulgation_no": "2025-112",
+  "promulgation_date": "20250408",
+  "enforcement_date": "20250408",
+  "revision_date": "20250408",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "법무부(체류관리과)",
+    "담당자명": "박중규",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "전자민원창구 운영에 관한 고시",
+    "발령일자": "20250408",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "법무부",
+    "전화번호": "02-2110-4058",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1270000",
+    "생성일자": "20250415",
+    "행정규칙ID": "86427",
+    "시행일자": "20250408",
+    "담당부서기관코드": "1271772",
+    "발령번호": "2025-112",
+    "행정규칙일련번호": "2100000257762",
+    "상위부처명": "법무부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n○ ‘국내 체류외국인 가사ㆍ육아분야’ 활동 허가 신청 및 ‘지역특화 숙련기능인력(E-7-4R)’ 제도를 전자민원 방식으로 시행하게 됨에 따라 전자민원 대상 업무를 추가하고 관련 서식 정비\n○ 민원인 편의 및 업무 효율성 제고를 위해 전자민원 처리결과의 통지 절차 명확화\n◇ 주요내용\n가. 전자민원 대상 업무 추가 및 관련 서식 개정\n○ 【별표】를 개정하여 전자민원 대상 업무에 \"지역특화 숙련 기능인력(E-7-4R) 체류자격변경 허가\" 및 \"국내 체류외국인 가사ㆍ육아분야 체류자격 외 활동허가, 활동개시신고\"를 추가\n○ 【별지】 서식 3호를 ‘가사ㆍ육아분야 체류자격 외 활동 전자민원 허가확인서’를 신설하고, 종전 서식 3호는 서식 4호로 이동\n나. 체류지(국내거소) 이기(移記) 규정 마련\n○ 제8조(전자민원 처리결과의 통지) 제2항 단서 규정을 신설하여, 전자민원으로 체류지(국내거소)변경신고를 한 경우 시ㆍ군ㆍ구 및 읍ㆍ면ㆍ동에서 외국인등록증(거소신고증 포함)에 신고사항 이기할 수 있도록 함\n다. 처리결과의 전자적 통지방식 개선\n○ 전자민원 처리결과를 전자적 방식으로 통지할 경우 통지한 사실을 즉시 신청인에게 전자우편이나 문자메시지 등으로 안내하고, 신청인이 전자민원창구를 통하여 전자문서를 확인했을 때 통지를 받은 것으로 보도록 함",
+  "body": {
+    "format": "articles",
+    "article_count": 11,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 고시는 「출입국관리법」시행령 제94조의3 제2항에 의한 전자민원창구의 설치ㆍ운영 및 민원업무처리의 절차 등에 관하여 필요한 사항을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제94조의3",
+            "line_text": "",
+            "target_law_name": "출입국관리법 시행령",
+            "target_article_no": "제94조의3",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/출입국관리법 시행령/제94조의3",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:전자민원창구운영에관한고시#JO0001",
+            "reference_id": "law:출입국관리법시행령#JO0094_03"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:전자민원창구운영에관한고시#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적용범위",
+        "chapter": "",
+        "content": "제2조(적용범위) 이 고시는 하이코리아(www.hikorea.go.kr)와 유학생정보시스템(fims.hikorea.go.kr) 전자민원창구를 통해 제공하는 업무에 대하여 적용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:전자민원창구운영에관한고시#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "용어의 정의",
+        "chapter": "",
+        "content": "제3조(용어의 정의) 이 고시에서 사용하는 용어의 정의는 다음과 같다.1. \"하이코리아\"란 외국인을 위한 전자정부 홈페이지(이하 ‘하이코리아’)를 말한다.2. \"유학생정보시스템\"란 각 대학에 재학 중인 외국인유학생 관리를 목적으로 구축된 시스템을 말한다.3. \"전자민원 담당기관의 장\"이란 전자민원 업무를 수행하는 청장ㆍ사무소장ㆍ출장소장을 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:전자민원창구운영에관한고시#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "전자민원 대상 업무",
+        "chapter": "",
+        "content": "제4조(전자민원 대상 업무) 하이코리아 또는 유학생정보시스템을 통하여 전자민원 신청을 할 수 있는 대상 업무는 별표와 같다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:전자민원창구운영에관한고시#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "삭제",
+        "chapter": "",
+        "content": "제5조 삭제 <2019. 3. 25.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:전자민원창구운영에관한고시#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "전자민원 신청가능시간",
+        "chapter": "",
+        "content": "제6조(전자민원 신청가능시간) 민원인이 전자민원을 신청할 수 있는 시간은 원칙적으로 「국가공무원 복무규정」제9조에 따른 근무시간으로 한다. 다만, 법무부장관은 필요하다고 인정하는 경우 전자민원 신청가능시간을 달리 정할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「국가공무원 복무규정」",
+            "line_text": "",
+            "target_law_name": "국가공무원 복무규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가공무원 복무규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전자민원창구운영에관한고시#JO0006",
+            "reference_id": "law:국가공무원복무규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제9조",
+            "line_text": "",
+            "target_law_name": "국가공무원 복무규정",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가공무원 복무규정/제9조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전자민원창구운영에관한고시#JO0006",
+            "reference_id": "law:국가공무원복무규정#JO0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:전자민원창구운영에관한고시#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "전자민원의 접수",
+        "chapter": "",
+        "content": "제7조(전자민원의 접수) ① 전자민원의 접수 시점은 다른 법령에 특별한 규정이 있는 경우를 제외하고는 해당 민원이 전자민원창구에 파일로 정상적으로 등록되었음이 확인된 때로 한다.② 전자민원 담당기관의 장은 제1항에 따라 전자민원이 정상적으로 접수된 경우, 민원인에 대하여 별지 제1호서식의 전자민원 접수증을 전자적 방법으로 교부한다.③ 제1항에 따라 접수된 전자민원에 보완이 필요한 경우에, 전자민원 담당기관의 장은 상당한 기간을 정하여 문서 또는 구술 등으로 민원인에게 보완을 요구하여야 한다. 이 경우, 민원인이 기간 내에 보완하지 아니한 경우에는 접수된 민원을 허가하지 아니할 수 있다.④ 제3항에도 불구하고, 민원인이 보완 요구 기간 내에 보완을 할 수 없음을 이유로 보완에 필요한 기간을 분명하게 밝혀 기간 연장을 요청하는 경우에는 보완 기간을 다시 정할 수 있다. 이 경우, 민원인의 보완 기간 연장 요청은 2회로 한정한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "전자민원창구 운영에 관한 고시",
+            "target_article_no": "별지1",
+            "target_article_title": "전자민원 접수증",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151064249",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전자민원창구운영에관한고시#JO0007",
+            "reference_id": "admrul:전자민원창구운영에관한고시#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:전자민원창구운영에관한고시#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "전자민원 처리결과의 통지",
+        "chapter": "",
+        "content": "제8조(전자민원 처리결과의 통지) ① 전자민원 담당기관의 장은 전자민원창구를 통하여 접수된 민원에 대한 처리 결과를 전자문서로 통지하되, 허가 또는 수리의 통지를 하는 경우에는 별지 제2호서식의 전자민원 허가(수리)확인서를 전자적 방법으로 교부함으로써 통지한다.② 제1항에 따른 전자민원 허가(수리)확인서를 소지한 민원인이 청ㆍ사무소 또는 출장소를 방문하여 여권 등에 허가인의 날인 또는 허가 및 신고사항 스티커의 부착을 요청하는 경우, 청장ㆍ사무소장 또는 출장소장은 관할구역에 관계없이 허가인을 날인하거나 허가 및 신고사항 스티커를 부착하여 줄 수 수 있으며, 시ㆍ군ㆍ구 및 읍ㆍ면ㆍ동사무소를 방문하여 외국인등록증(거소신고증 포함)에 체류지변경(국내거소이전) 신고  사항 기재를 요청하는 경우 시ㆍ군ㆍ구 및 읍ㆍ면ㆍ동사무소장은 관할구역에 관계 없이 신고사항을 기재하여 줄 수 있다.③ 전자민원 담당기관의 장은 전자민원창구를 통하여 신청한 민원을 반려하거나, 허가 또는 수리하지 아니하는 때에는 전자적 방법으로 신청인에게 통지한다. 다만, 허가 또는 수리하지 아니하는 경우에는 별지 제3호서식의 전자민원 불허(불수리)통지서를 전자적 방법으로 교부함으로써 통지한다. 이 경우 전자적 방법으로 통지한 사실을 즉시 신청인에게 전자우편이나 문자메시지 등의 방법으로 안내해야 한다.④ 제3항 본문에 따라 통지하는 경우에는 신청인이 전자민원창구를 통하여 전자문서를 확인했을 때에 통지를 받은 것으로 본다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "전자민원창구 운영에 관한 고시",
+            "target_article_no": "별지2",
+            "target_article_title": "전자민원 허가(수리)확인서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151064255",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전자민원창구운영에관한고시#JO0008",
+            "reference_id": "admrul:전자민원창구운영에관한고시#BJ0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제3항",
+            "link_text": "별지 제3호서식",
+            "line_text": "",
+            "target_law_name": "전자민원창구 운영에 관한 고시",
+            "target_article_no": "별지3",
+            "target_article_title": "가사·육아분야 체류자격 외 활동허가 전자민원 허가확인서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151064261",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전자민원창구운영에관한고시#JO0008",
+            "reference_id": "admrul:전자민원창구운영에관한고시#BJ0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:전자민원창구운영에관한고시#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "전자민원 수수료 납부 및 반환",
+        "chapter": "",
+        "content": "제9조(전자민원 수수료 납부 및 반환) ① 전자민원에 의한 수수료는 「출입국관리법」 제73조에 따라 신용카드, 계좌이체 등 법무부장관이 정하는 전자적 방법으로 납부할 수 있다.② 전자민원 담당기관의 장은 민원인이 제1항에 따라 수수료를 납부하는 경우에, 수수료 외에 전자적 납부 처리에 소요되는 별도의 업무처리비용을 민원인에게 청구할 수 있다.③ 전자민원 담당기관의 장은 민원이 정상적으로 접수되지 않았거나 전자민원 수수료가 잘못 납부된 경우 등 필요하다고 인정하는 경우에는 민원인의 신청을 받아 수수료를 반환할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제1항",
+            "link_text": "「출입국관리법」",
+            "line_text": "",
+            "target_law_name": "출입국관리법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/출입국관리법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전자민원창구운영에관한고시#JO0009",
+            "reference_id": "law:출입국관리법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제1항",
+            "link_text": "제73조",
+            "line_text": "",
+            "target_law_name": "출입국관리법",
+            "target_article_no": "제73조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/출입국관리법/제73조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전자민원창구운영에관한고시#JO0009",
+            "reference_id": "law:출입국관리법#JO0073"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:전자민원창구운영에관한고시#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "전자민원 처리결과의 효력",
+        "chapter": "",
+        "content": "제10조(전자민원 처리결과의 효력) 전자민원창구를 통해 전자민원 담당기관의 장이 허가 또는 수리한 전자민원은 체류지를 관할하는 청ㆍ사무소 또는 출장소장이 허가 또는 수리한 것과 동일한 효력을 갖는다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:전자민원창구운영에관한고시#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "재검토 기한",
+        "chapter": "",
+        "content": "제11조(재검토 기한) 법무부장관은 이 고시에 대하여 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2019년 1월 1일 기준으로 매 3년이 되는 시점(매 3년 째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전자민원창구운영에관한고시#JO0011",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:전자민원창구운영에관한고시#JO0011"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20230811",
+      "promulgation_no": "2023-389",
+      "content": "부칙 <제2023-389호, 2023. 8. 11.>제1조(시행일) 이 고시는 2023년 8월 11일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20250408",
+      "promulgation_no": "2025-112",
+      "content": "부칙 <제2025-112호, 2025. 4. 8.>제1조(시행일) 이 고시는 2025년 4월 8일부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "전자민원 대상 업무",
+      "enforcement_date": "",
+      "content": "【별표】전자민원 대상 업무\n?? 하이코리아\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━┓\n┃전자민원 대상 업무                                                          │신청 가능 체류자격                    ┃\n┠───┬───────────────┬──────────────────┤                                      ┃\n┃구 분 │대분류(근거법령)              │소분류                              │                                      ┃\n┣━━━┿━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━┫\n┃모든  │체류기간연장허가              │단기체류자격 체류기간연장허가       │모든 체류자격                         ┃\n┃자격  │(「출입국관리법」제25조)      ├──────────────────┼───────────────────┨\n┃      │                              │등록(거소)외국인 체류기간연장       │모든 체류자격                         ┃\n┃신청  │                              │허가                                │※ 단, 아래 체류자격은 제외           ┃\n┃가능  │                              │                                    │┌───────────────┐    ┃\n┃      │                              │                                    ││         <제외 대상>          │    ┃\n┃      │                              │                                    ││기술연수(D-3), 기업투자(D-8), │    ┃\n┃      │                              │                                    ││특정활동(E-7), 거주(F-2),     │    ┃\n┃      │                              │                                    ││결혼이민(F-6), 기타(G-1)      │    ┃\n┃      │                              │                                    ││방문동거(F-1) 일부            │    ┃\n┃      │                              │                                    │└───────────────┘    ┃\n┃      │                              ├──────────────────┼───────────────────┨\n┃      │                              │등록(거소)외국인 및 단기체류자의    │모든 체류자격                         ┃\n┃      │                              │출국을 위한 체류기간연장허가        │                                      ┃\n┃      ├───────────────┼──────────────────┼───────────────────┨\n┃      │재입국허가                    │재입국허가                          │모든 체류자격                         ┃\n┃      │(「출입국관리법」제30조)      │                                    │                                      ┃\n┃      ├───────────────┼──────────────────┼───────────────────┨\n┃      │외국인등록사항변경신고        │여권번호·발급일자·유효기간의      │모든 체류자격                         ┃\n┃      │(「출입국관리법」제35조제2호) │변경                                │                                      ┃\n┃      ├───────────────┼──────────────────┼───────────────────┨\n┃      │체류지·거소지 변경신고       │체류지·거소지 변경(이전) 신고      │모든 체류자격                         ┃\n┃      │(「출입국관리법」제36조,      │                                    │                                      ┃\n┃      │ 「재외동포법」제11조)        │                                    │                                      ┃\n┣━━━┿━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━┫\n┃일부  │체류자격변경허가              │등록외국인의                        │일반연수(D-4)→유학(D-2)              ┃\n┃자격  │(「출입국관리법」 제24조)     │체류자격변경허가                    │방문취업(H-2)→재외동포               ┃\n┃      │                              │- 허가에 따르는 외국인등록증        │(F-4-24,25,27,28)                     ┃\n┃신청  │                              │발급 또는 거소신고·거소증발급      │비전문취업(E-9), 선원취업(E-10),      ┃\n┃가능  │                              │포함                                │방문취업(H-2) → 숙련기능인력(E-7-4), ┃\n┃      │                              │                                    │지역특화 숙련기능인력(E-7-4R)         ┃\n┃      ├───────────────┼──────────────────┼───────────────────┨\n┃      │근무처변경허가                │근무처변경허가                      │비전문취업(E-9)                       ┃\n┃      │(「출입국관리법」제21조)      │                                    │                                      ┃\n┃      ├───────────────┼──────────────────┼───────────────────┨\n┃      │체류자격외활동허가            │시간제취업허가                      │유학(D-2),일반연수(D-4)               ┃\n┃      │(「출입국관리법」제20조)      ├──────────────────┼───────────────────┨\n┃      │                              │국내 체류외국인 가사·육아분야 활동 │유학(D-2), 구직(D-10-1), 결혼         ┃\n┃      │                              │ 1) 체류자격 외 활동허가            │이민자 가족(F-1-5), 동반(F-3)         ┃\n┃      │                              │ 2) 활동개시신고                    │                                      ┃\n┃      ├───────────────┼──────────────────┼───────────────────┨\n┃      │고용·연수외국인 변동사유     │고용·연수외국인 변동사유           │기술연수(D-3),교수(E-1)~선원취업      ┃\n┃      │발생신고                      │(퇴직·이탈 등)                     │(E-10), 방문취업(H-2)                 ┃\n┃      │(「출입국관리법」제19조)      │                                    │                                      ┃\n┃      ├───────────────┼──────────────────┼───────────────────┨\n┃      │외국인등록사항변경신고        │취업개시 및 근무처변경신고          │방문취업(H-2)                         ┃\n┃      │(「출입국관리법」제35조제3호) │                                    │                                      ┃\n┗━━━┷━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━┛\n?? 유학생정보시스템\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━┓\n┃전자민원 대상 업무                                  │신청 가능 체류자격      ┃\n┠──────────────┬───────────┤                        ┃\n┃대분류(근거법령)            │소분류                │                        ┃\n┠──────────────┼───────────┼────────────┨\n┃외국인유학생 변동신고       │ 외국인유학생 변동신고│유학(D-2), 일반연수(D-4)┃\n┃(「출입국관리법」 제19조의4)│                      │                        ┃\n┗━━━━━━━━━━━━━━┷━━━━━━━━━━━┷━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151064273",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151064269",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151064273",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:전자민원창구운영에관한고시#BYL0000",
+      "filename": "별표0_전자민원 대상 업무.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "전자민원 접수증",
+      "enforcement_date": "",
+      "content": "【별지 서식 1호】전자민원 접수증\n┌─────────────────────────────────────────────────────────┐\n│                                                                                                                  │\n│  법무부                    Korea Immigration Service                                                             │\n│  출입국·외국인정책본부    Ministry of Justice                                                                   │\n│────────────────────────────                                                          │\n│                                                                                                                  │\n│┌───────────────┐                                                                                │\n││전자민원 접수증               │                                                                                │\n││(E-certificate of Application)│                                                                                │\n│└───────────────┘                                                                                │\n│                                                                                                                  │\n│ □ 민원인 정보(Applicant Information)                                                                            │\n│   ? 국적(Nationality)                                                                                           │\n│   ? 성명(Full name)                                                                                             │\n│   ? 성별(Sex)                                                                                                   │\n│   ? 생년월일(Date of Birth)                                                                                     │\n│   ? 외국인등록번호(Alien Registration No.)                                                                      │\n│                                                                                                                  │\n│ □ 신청민원 종류(Type of e-Application)                                                                          │\n│    :                                                                                                             │\n│                                                                                                                  │\n│ □ 접수일자(Date of Application)                                                                                 │\n│    :                                                                                                             │\n│신청 민원이 상기와 같이 접수되었음을 확인합니다.                                                                  │\n│(We hereby certify that your application has been received as above.)                                             │\n│처리결과는 본인이 회원가입 시 등록한 E-mail 주소로 발송됩니다.                                                    │\n│(The outcome of application will be notified to your  email address provided at the time of                       │\n│lodgement.)                                                                                                       │\n│                                                                                                                  │\n│Chief, OO Immigration Office                                                                                      │\n│OO출입국·외국인청(사무소·출장소)장                                                                              │\n│┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓│\n│┃□ 공지사항(Note)                                                                                             ┃│\n│┃? 심사 중 체류기간이 만료되어도 심사가 완료될 때까지는 기존 체류자격으로 체류할 수 있습니다.                 ┃│\n│┃(You are qualified to stay in Korea with your existing status without regard to its expiration date until     ┃│\n│┃your application is concluded.)                                                                               ┃│\n│┃? 심사가 완료되기 전에 담당자에게 연락 없이 출국하는 경우 허가여부 결정 없이 심사가 종결될                   ┃│\n│┃수 있으니 유의하시기 바랍니다.                                                                                ┃│\n│┃(Please Note that if you depart without notifying the officer in charge of your application, your             ┃│\n│┃application may be terminated without permission.)                                                            ┃│\n│┃? 접수증은 온라인 민원접수에 대한 사실만을 증명합니다. 체류기간 연장 등 허가를 받은 후                       ┃│\n│┃출입국할 시에는 반드시 ‘전자민원 허가확인서’를 출력하여 심사관에게 제시하셔야 합니다.                       ┃│\n│┃(e-Certificate of application verifies on-line application recode only. You must print out a \"Certificate of  ┃│\n│┃permission/Acceptance for e-Application\" and present it to relevant officer when crossing Korea’s border     ┃│\n│┃after receiving any permission such as extension of stay)                                                     ┃│\n│┃※ 하이코리아 웹주소:www.hikorea.go.kr  외국인종합안내센터(Foreigner Complex Counseling Center)☎1345         ┃│\n│┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛│\n└─────────────────────────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151064249",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151064245",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151064249",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:전자민원창구운영에관한고시#BJ0001",
+      "filename": "별지1_전자민원 접수증.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "전자민원 허가(수리)확인서",
+      "enforcement_date": "",
+      "content": "【별지 서식 2호】전자민원 허가(수리)확인서\n┌─────────────────────────────────────────────────────┐\n│                                                                                                          │\n│  법무부                    Ministry of Justice                                                           │\n│  출입국·외국인정책본부    Korea Immigration Service                                                     │\n│────────────────────────────                                                  │\n│                                                                                                          │\n│┌────────────────────────────┐                                              │\n││전자민원 허가·수리확인서                               │                                              │\n││(Certificate of Permission/Acceptance for e-Application)│                                              │\n│└────────────────────────────┘                                              │\n│                                                                                                          │\n│ □ 민원인 정보(Applicant Information)                                                                    │\n│   ? 국적(Nationality)                                                                                   │\n│   ? 성명(Full name)                                                                                     │\n│   ? 성별(Sex)                                                                                           │\n│   ? 생년월일(Date of Birth)                                                                             │\n│   ? 외국인등록번호(Alien Registration No.)                                                              │\n│                                                                                                          │\n│ □ 허가·수리내용(Permission/Acceptance Details)                                                         │\n│   ? 허가·수리번호(Permission/Acceptance No.)                                                           │\n│   ? 민원종류(Application Type)                                                                          │\n│   ? 유효기간(Valid Until)                                                                               │\n│   ? 발급일자(Date of Permission/Acceptance)                                                             │\n│                                                                                                          │\n│상기 민원이 전자민원 창구를 통해 허가되었음을 확인합니다.                                                 │\n│(We hereby certify that the above permission has been granted through e-Application Service.)             │\n│                                                                                                          │\n│Chief, OO Immigration Office                                                                              │\n│OO출입국·외국인청(사무소·출장소)장                                                                      │\n│┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓│\n│┃ □ 공지사항(Note)                                                                                    ┃│\n│┃   ? 전자민원의 효력(Validation of Permission for e-Application)                                     ┃│\n│┃    - 하이코리아 전자민원 창구를 통해 허가받은 민원은 사무소를 방문하여 허가받은 것과 동일한          ┃│\n│┃효력을 갖습니다.(All permissions/acceptances granted through the Hi-Korea’s e-application            ┃│\n│┃service are equally valid as those granted through a physical visit to Immigration Office.)           ┃│\n│┃   ※ 동 확인서를 여권과 함께 소지하시고, 필요할 경우 관계 공무원에게 제시하시기 바랍니다.(Please     ┃│\n│┃keep this certificate with your passport and present it to the relevant immigration                   ┃│\n│┃officer when needed.)                                                                                 ┃│\n│┃   ※ 만일 외국인등록증 상에 허가(신고)사항 기재를 원하는 경우 가까운 출입국·외국인청(사무소·출장   ┃│\n│┃소)을 방문하시기를 바라며, 체류지(국내거소) 기재를 원할 때는 가까운 출입국·외국인청(사무소·         ┃│\n│┃출장소) 이나 시·군·구 또는 읍·면·동사무소를 방문하시기를 바랍니다. (If you wish to include        ┃│\n│┃your Permission(Acceptance) details on your Residence Card, please visit the nearest                  ┃│\n│┃immigration office. For including your residence address (domestic residence), please                 ┃│\n│┃visit the nearest immigration office, municipal office or community office.)                          ┃│\n│┃   ? 전자민원 확인서 발급조회(Confirmation or Certificate Issuance)                                  ┃│\n│┃    - 하이코리아 전자민원 창구를 통해 전자민원 확인서의 발급 여부를 확인할 수 있습니다.(You           ┃│\n│┃may verify this certificate on the Hi-Korea website.)                                                 ┃│\n│┃※ 하이코리아 웹주소:www.hikorea.go.kr  외국인종합안내센터(Foreigner Complex Counseling Center)☎1345 ┃│\n│┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛│\n└─────────────────────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151064255",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151064251",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151064255",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:전자민원창구운영에관한고시#BJ0002",
+      "filename": "별지2_전자민원 허가(수리)확인서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "가사·육아분야 체류자격 외 활동허가 전자민원 허가확인서",
+      "enforcement_date": "",
+      "content": "【별지 서식 3호】가사ㆍ육아분야 체류자격 외 활동허가 전자민원 허가확인서\n┌─────────────────────────────────────────────────────┐\n│                                                                                                          │\n│  법무부                    Ministry of Justice                                                           │\n│  출입국·외국인정책본부    Korea Immigration Service                                                     │\n│────────────────────────────                                                  │\n│                                                                                                          │\n│┌────────────────────────────┐                                              │\n││전자민원 허가확인서                                     │                                              │\n││(Certificate of Permission/Acceptance for e-Application)│                                              │\n│└────────────────────────────┘                                              │\n│                                                                                                          │\n│ □ 민원인 정보(Applicant Information)                                                                    │\n│   ? 국적(Nationality)                                                                                   │\n│   ? 성명(Full name)                                                                                     │\n│   ? 성별(Sex)                                                                                           │\n│   ? 생년월일(Date of Birth)                                                                             │\n│   ? 외국인등록번호(Alien Registration No.)                                                              │\n│                                                                                                          │\n│ □ 허가·수리내용(Permission/Acceptance Details)                                                         │\n│   ? 허가·수리번호(Permission/Acceptance No.)                                                           │\n│   ? 민원종류(Application Type) 가사·육아(만6세 이상) 활동, 구체적 허가조건은 붙임 참고                 │\n│   ? 유효기간(Valid Until)                                                                               │\n│   ? 발급일자(Date of Permission/Acceptance)                                                             │\n│                                                                                                          │\n│상기 민원이 전자민원 창구를 통해 허가되었음을 확인합니다.                                                 │\n│(We hereby certify that the above permission has been granted through e-Application Service.)             │\n│                                                                                                          │\n│Chief, OO Immigration Office                                                                              │\n│OO출입국·외국인청(사무소·출장소)장                                                                      │\n│┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓│\n│┃ □ 공지사항(Note)                                                                                    ┃│\n│┃   ? 전자민원의 효력(Validation of Permission for e-Application)                                     ┃│\n│┃    - 하이코리아 전자민원 창구를 통해 허가받은 민원은 사무소를 방문하여 허가받은 것과 동일한          ┃│\n│┃효력을 갖습니다.(All permissions/acceptances granted through the Hi-Korea’s                          ┃│\n│┃e-application service are equally valid as those granted through a physical visit to                  ┃│\n│┃Immigration Office.)                                                                                  ┃│\n│┃   ※ 동 확인서를 여권과 함께 소지하시고, 필요할 경우 관계 공무원에게 제시하시기 바랍니다.(Please     ┃│\n│┃keep this certificate with your passport and present it to the relevant immigration                   ┃│\n│┃officer when needed.)                                                                                 ┃│\n│┃   ※ 만일 외국인등록증상에 허가사항의 기재를 원하시는 경우에는 가까운 출입국·외국인청(사무소·      ┃│\n│┃출장소)을 방문하시기 바랍니다.(If you want your Alien Registration Card to be renewed,                ┃│\n│┃please just visit nearby Immigration Office.)                                                         ┃│\n│┃   ? 전자민원 확인서 발급조회(Confirmation or Certificate Issuance)                                  ┃│\n│┃    - 하이코리아 전자민원 창구를 통해 전자민원 확인서의 발급여부를 확인할 수 있습니다.(You            ┃│\n│┃may verify this certificate on the Hi-Korea website.)                                                 ┃│\n│┃※ 하이코리아 웹주소:www.hikorea.go.kr  외국인종합안내센터(Foreigner Complex Counseling Center)☎1345 ┃│\n│┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛│\n└─────────────────────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151064261",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151064257",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151064261",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:전자민원창구운영에관한고시#BJ0003",
+      "filename": "별지3_가사·육아분야 체류자격 외 활동허가 전자민원 허가확인서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "전자민원 불허(불수리)통지서",
+      "enforcement_date": "",
+      "content": "【별지 서식 4호】전자민원 불허(불수리)통지서\n┌─────────────────────────────────────────────────────┐\n│                                                                                                          │\n│  법무부                    Ministry of Justice                                                           │\n│  출입국·외국인정책본부    Korea Immigration Service                                                     │\n│────────────────────────────                                                  │\n│                                                                                                          │\n│┌───────────────────────────┐                                                │\n││전자민원 불허·불수리통지서                           │                                                │\n││(Disapproval/Non Acceptance Notice for e-Application) │                                                │\n│└───────────────────────────┘                                                │\n│                                                                                                          │\n│ □ 민원인 정보(Applicant Information)                                                                    │\n│   ? 국적(Nationality)                                                                                   │\n│   ? 성명(Full name)                                                                                     │\n│   ? 성별(Sex)                                                                                           │\n│   ? 생년월일(Date of Birth)                                                                             │\n│   ? 외국인등록번호(Alien Registration No.)                                                              │\n│                                                                                                          │\n│ □ 신청민원 종류(Type of e-Application)                                                                  │\n│    :                                                                                                     │\n│                                                                                                          │\n│ □ 불허사유(Reasons for Disapproval/Non Acceptance)                                                      │\n│    :                                                                                                     │\n│                                                                                                          │\n│ □ 출국기한(Deadline for Departure)                                                                      │\n│    :                                                                                                     │\n│                                                                                                          │\n│「「출입국관리법」 시행령」   조에 따라 상기 신청 민원에 대하여                                           │\n│허가·수리하지 아니하기로 결정하였음을 통보합니다.                                                        │\n│(In accordance with Article   of the Enforcement Decree of the Immigration Act,                           │\n│we notify that your e-Application has been denied.)                                                       │\n│                                                                                                          │\n│Chief, OO Immigration Office                                                                              │\n│OO출입국·외국인청(사무소·출장소)장                                                                      │\n│┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓│\n│┃□ 공지사항(Note)                                                                                     ┃│\n│┃?귀하는 위 처분에 대하여 이의가 있을 때에는 이 통지서를 받은 날부터 90일 이내에 행정심판 또는        ┃│\n│┃행정소송을 제기할 수 있습니다.                                                                        ┃│\n│┃ (A person who has an objection to the above disposition may file an administrative appeal or an      ┃│\n│┃administrative litigation within 90 days after receiving the disapproval notice.)                     ┃│\n│┃      ※ 행정심판을 청구할 때에는 온라인행정심판(www.simpan.go.kr), 행정소송을 청구할 때에는 전자     ┃│\n│┃소송(ecfs.scourt.go.kr)을 통하여 온라인으로도 청구할 수 있습니다.                                     ┃│\n│┃      (※ You may file an administrative appeal online (www.simpan.go.kr) and an administrative       ┃│\n│┃litigation on the Internet (ecfs.scourt.go.kr))                                                       ┃│\n│┃※ 하이코리아 웹주소:www.hikorea.go.kr  외국인종합안내센터(Foreigner Complex Counseling Center)☎1345 ┃│\n│┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛│\n└─────────────────────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151064267",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151064263",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151064267",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:전자민원창구운영에관한고시#BJ0004",
+      "filename": "별지4_전자민원 불허(불수리)통지서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "[법무부고시-112호] 전자민원창구 운영에 관한 고시 전문.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=151063701",
+      "file_store_url": "",
+      "filename": "[법무부고시-112호] 전자민원창구 운영에 관한 고시 전문.hwp"
+    },
+    {
+      "name": "[법무부고시-112호] 전자민원창구 운영에 관한 고시 전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=151063705",
+      "file_store_url": "",
+      "filename": "[법무부고시-112호] 전자민원창구 운영에 관한 고시 전문.pdf"
+    },
+    {
+      "name": "제개정이유서(전자민원창구 운영에 관한 고시).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=151063743",
+      "file_store_url": "",
+      "filename": "제개정이유서(전자민원창구 운영에 관한 고시).hwp"
+    },
+    {
+      "name": "제개정이유서(전자민원창구 운영에 관한 고시).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=151063747",
+      "file_store_url": "",
+      "filename": "제개정이유서(전자민원창구 운영에 관한 고시).pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 9,
+    "by_category": {
+      "법령": 5,
+      "별지": 3,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 6,
+      "appendix_ref": 3
+    },
+    "articles_total": 11,
+    "articles_with_relations": 6,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 2,
+    "appendices_count": 5,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/전자민원창구 운영에 관한 고시"
+  },
+  "provision_id": "admrul:전자민원창구운영에관한고시#DOC"
+}
