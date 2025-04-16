@@ -1,0 +1,508 @@
+{
+  "law_id": "2100000257844",
+  "mst": "2100000257844",
+  "law_name": "수입제한조치와 관련된 재식용 식물의 규제병해충위험분석 세부실시요령",
+  "law_abbr": "",
+  "law_type": "예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000257844",
+  "promulgation_no": "221",
+  "promulgation_date": "20250416",
+  "enforcement_date": "20250416",
+  "revision_date": "20250416",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "농림축산검역본부(위험관리과)",
+    "담당자명": "김민경",
+    "행정규칙종류코드": "B0002",
+    "행정규칙명": "수입제한조치와 관련된 재식용 식물의 규제병해충위험분석 세부실시요령",
+    "발령일자": "20250416",
+    "행정규칙종류": "예규",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "농림축산검역본부",
+    "전화번호": "054-912-0648",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1543000",
+    "생성일자": "20250417",
+    "행정규칙ID": "55166",
+    "시행일자": "20250416",
+    "담당부서기관코드": "1543074",
+    "발령번호": "221",
+    "행정규칙일련번호": "2100000257844",
+    "상위부처명": "농림축산식품부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정 이유\n가. 예규 제목을 관련 근거 규정 및 목적에 맞춰 명확히 함\n나. 국경검역 과정에서의 우려병해충 검출 상황을 상대국에 통보할 수 있도록 하였으며,\n다. 병해충위험평가 단계를 추가하여 현행의 위험분석 절차를 규정에 반영하였음\n라. 수출국 또는 상대국에 대해서 우려병해충의 위험관리방안을 요구할 수 있도록 하는 등의 재식용 식물의 병해충위험분석 시행 과정에서 나타난 일부 미비점에 대해 보완\n◇ 주요 내용\n가. 관련 근거 규정 및 예규의 목적을 반영하여 제목을 『수입제한조치와 관련된 재식용 식물의 규제병해충위험분석 세부실시 요령』변경\n* 관련 근거 : 식물방역법 제11조(수입제한조치)\n** 예규의 목적 : 재식용식물을 통한 규제병해충의 유입 등 위험관리방안 마련\n나. 국경검역 과정에서의 규제병해충 검출 상황을 수출지원과를 통해 상대국에 통보할 수 있도록 하고, 대상식물에 대하여 위험관리 방안 마련을 상대국에 요구할 수 있도록 함(제6조제4항)\n다. \"병해충위험평가\" 단계를 추가하여 현 수입금지식물의 위험관리방안 마련의 평가항목 일부를 예규에 반영(제7조)\n라. 현행의 위험분석 절차에 따라 식물검역심의위원회의 심의절차를 현행 제7조제3항에서 개정안 제10조로 이동(제10조)",
+  "body": {
+    "format": "articles",
+    "article_count": 12,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 예규는 외국으로부터 수입되는 재식용 식물을 통한 규제병해충의 유입을 효과적으로 방지하기 위하여, 「식물방역법」 제6조 및 제11조에 따라 재식용 식물의 병해충위험분석을 실시하는 방법과 절차를 정함으로써 합리적이고 일관된 병해충위험분석을 실시하는 데 그 목적이 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「식물방역법」",
+            "line_text": "",
+            "target_law_name": "식물방역법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#JO0001",
+            "reference_id": "law:식물방역법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제6조 및 제11조",
+            "line_text": "",
+            "target_law_name": "식물방역법",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#JO0001",
+            "reference_id": "law:식물방역법#JO0006"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제6조 및 제11조",
+            "line_text": "",
+            "target_law_name": "식물방역법",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#JO0001",
+            "reference_id": "law:식물방역법#JO0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) 이 예규에서 사용하는 용어의 뜻은 다음과 같다.1. \"재식용 식물\"이란 재식(栽植)을 목적으로 하는 묘, 묘목, 접수(접순), 삽수(꺾꽂이순), 알뿌리류, 씨앗류 등을 말한다.2. \"우려병해충\"이란 재식용 식물을 통해 국내에 유입될 경우 우리나라 농작물과 자연환경 등에 큰 경제적 피해를 줄 것으로 우려되어, 수출국 또는 생산국에서 병해충 위험을 경감하기 위한 위험관리방안을 적용할 필요가 있다고 판단되는 규제병해충을 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "적용범위",
+        "chapter": "",
+        "content": "제3조(적용범위) 이 예규에 따라 실시하는 병해충위험분석(이하 \"위험분석\"이라 한다)의 적용범위는 다음 각 호와 같다.1. 재식용 식물의 수입검역 과정에서 반복적으로 검출되는 규제병해충에 대하여 위험관리방안을 검토하는 경우2. 재식용 식물을 통해 국내에 유입될 우려가 있는 규제병해충에 대하여 위험관리방안을 검토하는 경우3. 기타 농림축산검역본부장이 필요하다고 판단하는 경우",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "위험분석 절차",
+        "chapter": "",
+        "content": "제4조(위험분석 절차) 위험분석은 우려병해충 확인, 대상 식물 및 국가 선정, 병해충위험평가, 위험관리방안 작성의 절차에 따라 실시한다. 다만, 다음 각 호의 어느 하나에 해당하는 경우에는 절차의 일부를 생략할 수 있다.1. 제6조의 대상 식물 또는 국가를 변경하거나 추가하는 경우2. 기존의 위험관리방안을 다시 검토하는 경우",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "식물방역법",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법/제6조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#JO0004",
+            "reference_id": "law:식물방역법#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "우려병해충 확인",
+        "chapter": "",
+        "content": "제5조(우려병해충 확인) ① 위험관리과장은 제3조에 해당하는 규제병해충을 대상으로 위험관리방안이 필요한 지 여부를 검토할 수 있다.② 위험관리과장은 제1항의 검토 결과 수출국 또는 생산국에서 위험관리방안을 적용할 필요가 있다고 판단되는 규제병해충을 우려병해충으로 선정한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "제3조",
+            "line_text": "",
+            "target_law_name": "수입제한조치와 관련된 재식용 식물의 규제병해충위험분석 세부실시요령",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수입제한조치와 관련된 재식용 식물의 규제병해충위험분석 세부실시요령/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#JO0005",
+            "reference_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#JO0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "대상 식물 및 국가 선정",
+        "chapter": "",
+        "content": "제6조(대상 식물 및 국가 선정) ① 위험관리과장은 다음 각 호의 어느 하나에 해당하는 식물 중 위험관리방안을 적용할 필요가 있다고 판단되는 식물을 위험관리 대상 식물로 선정한다.1. 우려병해충의 재식용 기주식물2. 수입검역 과정에서 우려병해충이 검출된 재식용 식물② 위험관리과장은 다음 각 호의 어느 하나에 해당하는 국가를 위험관리 대상 국가로 선정한다. 다만, 필요한 경우 국가 내 지역별로 구분하여 선정할 수 있다.1. 우려병해충이 분포하는 것으로 알려진 국가2. 수입검역 과정에서 우려병해충이 검출된 재식용 식물의 수출국 또는 생산국3. 제1호 및 제2호 이외에 위험분석 결과에 따라 위험관리가 필요하다고 인정되는 국가③ 위험관리과장은 제1항 및 제2항에 따라 대상 식물 및 국가를 선정하는 과정에서 대상 식물 또는 우려병해충의 발생 등과 관련된 추가 정보가 필요한 경우에는 수출지원과장을 통하여 수출국 또는 생산국에 자료를 요청할 수 있다.④ 위험관리과장은 수출지원과장을 통하여 우려병해충의 검출상황에 대한 상대국 통보 및 수출국 또는 상대국에 위험관리방안의 마련을 요구할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "병해충위험평가",
+        "chapter": "",
+        "content": "제7조(병해충위험평가) 위험관리과장은 제5조 및 제6조에 따라 선정된 우려병해충에 대하여 유입 가능성, 정착 가능성, 확산 가능성 경제적 중요성에 대하여 병해충위험평가를 실시한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "제5조 및 제6조",
+            "line_text": "",
+            "target_law_name": "수입제한조치와 관련된 재식용 식물의 규제병해충위험분석 세부실시요령",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수입제한조치와 관련된 재식용 식물의 규제병해충위험분석 세부실시요령/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#JO0007",
+            "reference_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "제5조 및 제6조",
+            "line_text": "",
+            "target_law_name": "식물방역법",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법/제6조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#JO0007",
+            "reference_id": "law:식물방역법#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "위험관리방안 작성",
+        "chapter": "",
+        "content": "제8조(위험관리방안 작성) ① 위험관리과장은 제7조의 병해충위험평가 결과에 따라 다음 각 호의 사항을 고려하여 위험관리방안(별지서식)을 작성한다.1. 우려병해충의 관리방법(예: 물리ㆍ화학적 소독처리 방법, 예찰조사, 재배지검역 증명, 무발생 증명, 화물 무감염 증명 등)2. 기타 우려병해충의 유입 위험을 경감하기 위하여 필요한 사항② 위험관리과장은 제1항의 위험관리방안 작성 과정에서 대상 식물의 재배, 수확, 선별 중 우려병해충에 대한 위생관리 등에 관한 자료가 필요한 경우 수출지원과장을 통하여 수출국 또는 생산국에 해당 자료의 제공을 요청할 수 있다.③ 위험관리과장은 제1항에 따른 위험관리방안 작성을 완료한 경우 제9조에 따라 의견을 수렴하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "수입제한조치와 관련된 재식용 식물의 규제병해충위험분석 세부실시요령",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수입제한조치와 관련된 재식용 식물의 규제병해충위험분석 세부실시요령/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#JO0008",
+            "reference_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#JO0007"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제3항",
+            "link_text": "제9조",
+            "line_text": "",
+            "target_law_name": "수입제한조치와 관련된 재식용 식물의 규제병해충위험분석 세부실시요령",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수입제한조치와 관련된 재식용 식물의 규제병해충위험분석 세부실시요령/제9조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#JO0008",
+            "reference_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#JO0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "의견수렴 등",
+        "chapter": "",
+        "content": "제9조(의견수렴 등) ① 위험관리과장은 제8조의 위험관리방안 작성을 완료한 경우 위험분석과 관련이 있는 정부기관ㆍ연구기관ㆍ식물검역 전문가 등에게 자문을 구하거나 이들로부터 의견을 수렴할 수 있다.② 제1항의 의견수렴은 인터넷, 서면, 공청회 등의 방법으로 할 수 있고, 의견수렴 기간은 20일 이상을 원칙으로 한다.③ 위험관리과장은 의견수렴 대상자의 요청이 있거나 필요하다고 판단되는 경우 의견수렴 기간을 연장하거나 추가적인 의견수렴을 실시할 수 있다.④ 위험관리과장은 의견수렴 결과 위험분석 및 위험관리 안에 중대한 변화가 있을 경우에는 수정된 새로운 안에 대하여 의견수렴을 다시 실시할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제1항",
+            "link_text": "제8조",
+            "line_text": "",
+            "target_law_name": "수입제한조치와 관련된 재식용 식물의 규제병해충위험분석 세부실시요령",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수입제한조치와 관련된 재식용 식물의 규제병해충위험분석 세부실시요령/제8조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#JO0009",
+            "reference_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#JO0008"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "위험관리방안 확정 및 조치",
+        "chapter": "",
+        "content": "제10조(위험관리방안 확정 및 조치) ① 위험관리과장은 위험관리방안에 대한 의견수렴 후에는 「식물검역심의위원회 규정」(농림축산검역본부예규)에 따른 식물검역심의위원회의 심의를 거쳐 위험관리방안을 확정하고 식물검역과장에게 위험분석 결과와 위험관리방안을 통보한다.② 식물검역과장은 제1항의 통보를 받은 경우에는 「식물방역법」 제11조에 따른 수입제한조치 및 수입되고 있는 재식용 식물에 대해 필요한 병해충 위험관리 조치를 취할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "「식물검역심의위원회 규정」",
+            "line_text": "",
+            "target_law_name": "식물검역심의위원회 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/식물검역심의위원회 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#JO0010",
+            "reference_id": "admrul:식물검역심의위원회규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제2항",
+            "link_text": "「식물방역법」",
+            "line_text": "",
+            "target_law_name": "식물방역법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#JO0010",
+            "reference_id": "law:식물방역법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제2항",
+            "link_text": "제11조",
+            "line_text": "",
+            "target_law_name": "식물방역법",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#JO0010",
+            "reference_id": "law:식물방역법#JO0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "위험분석 결과 보존",
+        "chapter": "",
+        "content": "제11조(위험분석 결과 보존) 위험관리과장은 위험분석 결과의 주요한 내용을 병해충정보시스템(PIS)에 등록하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제12조(재검토기한) 농림축산검역본부장은 이 예규에 대하여 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령)에 따라 2025년 7월 1일 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제12조",
+            "source_clause": "제12조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#JO0012",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#JO0012"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20161213",
+      "promulgation_no": "124",
+      "content": "부칙 <제124호,2016. 12. 13.>제1조(시행일) 이 예규는 발령한 날부터 시행한다.제2조(재검토기한) 농림축산검역본부장은 이 예규에 대하여 2017년 1월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다."
+    },
+    {
+      "promulgation_date": "20211027",
+      "promulgation_no": "180",
+      "content": "부칙 <제180호, 2021. 10. 27.>이 예규는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20250416",
+      "promulgation_no": "221",
+      "content": "부칙 <제221호, 2025. 4. 16.>이 예규는 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별지",
+      "title": "[병해충명] 위험관리방안",
+      "enforcement_date": "",
+      "content": "[별지 서식]\n[병해충명] 위험관리방안\n┏━━━━━━━┯━━━━━━━━━┯━━━━━┯━━━━━━┓\n┃우려병해충    │국가(지역)        │대상 식물 │위험관리방안┃\n┃Regulated Pest│Regions/Countries │Plants    │Requirements┃\n┠───────┼─────────┼─────┼──────┨\n┃              │                  │          │            ┃\n┗━━━━━━━┷━━━━━━━━━┷━━━━━┷━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151135743",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151135739",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151135743",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#BJ0000",
+      "filename": "별지0_[병해충명] 위험관리방안.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "수입제한조치와 관련된 재식용 식물의 규제병해충위험분석 세부실시요령 예규 전문 개정(안).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=151135707",
+      "file_store_url": "",
+      "filename": "수입제한조치와 관련된 재식용 식물의 규제병해충위험분석 세부실시요령 예규 전문 개정(안).hwpx"
+    },
+    {
+      "name": "수입제한조치와 관련된 재식용 식물의 규제병해충위험분석 세부실시요령 예규 전문 개정(안).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=151135711",
+      "file_store_url": "",
+      "filename": "수입제한조치와 관련된 재식용 식물의 규제병해충위험분석 세부실시요령 예규 전문 개정(안).pdf"
+    },
+    {
+      "name": "20250121_조문별 제개정이유서_「수입제한조치와 관련된 재식용식물 규제병해충위험분석 세부실시요령」 예규 일부 개정안 수정.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=151135651",
+      "file_store_url": "",
+      "filename": "20250121_조문별 제개정이유서_「수입제한조치와 관련된 재식용식물 규제병해충위험분석 세부실시요령」 예규 일부 개정안 수정.hwp"
+    },
+    {
+      "name": "20250121_조문별 제개정이유서_「수입제한조치와 관련된 재식용식물 규제병해충위험분석 세부실시요령」 예규 일부 개정안 수정.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=151135655",
+      "file_store_url": "",
+      "filename": "20250121_조문별 제개정이유서_「수입제한조치와 관련된 재식용식물 규제병해충위험분석 세부실시요령」 예규 일부 개정안 수정.pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 14,
+    "by_category": {
+      "법령": 7,
+      "행정규칙": 7
+    },
+    "by_relation_type": {
+      "citation": 9,
+      "internal_ref": 5
+    },
+    "articles_total": 12,
+    "articles_with_relations": 8,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 3,
+    "appendices_count": 1,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/수입제한조치와 관련된 재식용 식물의 규제병해충위험분석 세부실시요령"
+  },
+  "provision_id": "admrul:수입제한조치와관련된재식용식물의규제병해충위험분석세부실시요령#DOC"
+}
