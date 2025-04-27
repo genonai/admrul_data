@@ -1,0 +1,956 @@
+{
+  "law_id": "2100000258270",
+  "mst": "2100000258270",
+  "law_name": "캐비닛형자동소화장치의 형식승인 및 제품검사의 기술기준",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000258270",
+  "promulgation_no": "2025-10",
+  "promulgation_date": "20250427",
+  "enforcement_date": "20250427",
+  "revision_date": "20250427",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "소방청(소방산업진흥정책과)",
+    "담당자명": "김일수",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "캐비닛형자동소화장치의 형식승인 및 제품검사의 기술기준",
+    "발령일자": "20250427",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "소방청",
+    "전화번호": "044-205-7511",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1661000",
+    "생성일자": "20250429",
+    "행정규칙ID": "31017",
+    "시행일자": "20250427",
+    "담당부서기관코드": "1661076",
+    "발령번호": "2025-10",
+    "행정규칙일련번호": "2100000258270",
+    "상위부처명": "소방청"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n우수품질인증 및 형식승인 기술기준을 통합ㆍ강화된 형식시험을 통해 캐비닛형자동소화장치의 품질향상과 안전성 확보를 위한 기술기준을 개선ㆍ보완하려는 것임\n◇ 주요내용\n가. 패킹조립상태 검사(안 제4조제22호)\n나. 최소사용온도범위 규정(안 제4조제23호)\n다. 치수공차 KS 규격 적용(안 제4조제24호)\n라. 예비전원 성능시험(안 제5조제7호가목)\n마. 방출구 재질 명시(안 제11조제1항)\n바. 소화약제 기밀시험(안 제12조제2항)\n사. 소화약제 저장용기 내부용적(안 제12조의2)\n아. 작동장치 작동 문구 명확화(안 제14조)\n자. 소화약제 제품검사 합격품 사용(안 제15조제1항)\n차. 이산화탄소 순도(안 제15조제2항)\n카. 외함 부식 시험(안 제16조제2항)\n타. 도료밀착성 시험(안 제16조제3항)\n파. 난연성 시험(안 제20조의2)\n하. 설계방호체적 산정(안 제20조의3)\n거. 명판시험(안 제21조제2항)",
+  "body": {
+    "format": "articles",
+    "article_count": 28,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적)  이 기준은 「소방시설 설치 및 관리에 관한 법률」 제37조제5항에서 소방청장에게 위임한 캐비닛형자동소화장치의 형식승인 및 제품검사의 기술기준에 관한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「소방시설 설치 및 관리에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "소방시설 설치 및 관리에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소방시설 설치 및 관리에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0001",
+            "reference_id": "law:소방시설설치및관리에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제37조제5항",
+            "line_text": "",
+            "target_law_name": "소방시설 설치 및 관리에 관한 법률",
+            "target_article_no": "제37조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소방시설 설치 및 관리에 관한 법률/제37조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0001",
+            "reference_id": "law:소방시설설치및관리에관한법률#JO0037"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "자동소화장치의 정의",
+        "chapter": "",
+        "content": "제2조(자동소화장치의 정의) 캐비닛형자동소화장치(이하 \"자동소화장치\"라 한다)는 감지부, 방출구, 방출도관, 소화약제 저장용기등, 수신부, 작동장치등에 의해 구성된 것으로써 화재에 의하여 생기는 열 또는 연기 등을 자동으로 감지하여 경보를 발하고 작동장치 작동에 의해 소화약제를 방출하여 화재를 진압하는 고정된 소화장치를 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "용어의 정의",
+        "chapter": "",
+        "content": "제3조(용어의 정의) 이 기준에서 사용하는 용어의 정의는 다음과 같다.1. \"감지부\"란 화재시에 발생하는 열, 연기 등을 이용하여 화재발생을 자동적으로 감지하여 수신부에 신호를 발신하는 부분을 말한다.2. \"방출구\"란 화재의 소화를 위하여 소화약제를 유효하게 방사하도록 하는 부분을 말한다.3. \"방출도관\"이란 소화약제 저장용기로부터 방출구에 이르는 캐비넷 내부의 유도관을 말한다.4. \"소화약제 저장용기등\"이란 소화약제(축압식의 저장용기에 있어서는 소화약제와 압력원 가스)를 저장하는 용기, 압력원 가스를 저장하는 용기 및 그것에 부속된 부품을 말한다.5. \"수신부\"란 감지부에서 발하는 화재신호를 수신하여 음향장치(음성장치를 포함한다. 이하 같다)로 경보를 발하고 작동장치에 제어신호를 발신하는 부분을 말한다.6. \"작동장치\"란 수신부에서 발하여진 화재신호를 받아 밸브 등을 개방하여 소화약제 저장용기 등으로부터 소화약제를 방출하기 위한 장치를 말한다.7. \"예비전원 감시장치\"란 예비전원의 퓨즈단선, 예비전원이 없을 때, 예비전원의 용량이 부족할 때 등 예비전원의 상태가 정상적이 아니라는 것을 램프점등 등으로 나타내 주는 장치를 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "일반구조",
+        "chapter": "",
+        "content": "제4조(일반구조) 자동소화장치의 일반구조는 다음 각 호에 적합하여야 한다.1. 작동이 확실하고 취급, 점검이 쉬워야 하며 현저한 잡음을 발하지 아니하여야 한다.<후단 삭제>1의2. 외부에 노출되어 손상우려가 있는 부분은 이를 내장하거나 보호덮개 등을 씌워 충분히 보호될 수 있도록 조치하여야 한다.2. 보수 및 부속품의 교체가 쉬워야 한다. 다만 방폭형은 그러하지 아니하다.3. 주요부분은 내식성이 있는 재질로 제조하거나 그 부분에 부식되거나 녹슬지 아니하도록 내식가공 또는 방청가공을 하여야 하며, 전기적인 기능에 영향이 있는 단자, 나사 및 와셔 등은 동합금이거나 이와 동등의 내식성이 있는 재질을 사용하여야 한다.4. 자동소화장치의 외함은 캐비닛 형태의 불연성 또는 난연성 재질로서 내부에 소화약제 저장용기를 내장하는 구조이어야 한다.5. 방출구는 4개 이하이어야 하며 캐비닛에 부착되어 있어야 한다.6. 기기내의 배선은 충분한 전류용량을 갖는 것으로 하여야 하며 배선의 접속이 정확하고 확실하여야 한다.7. 극성이 있는 경우에는 오접속을 방지하기 위하여 필요한 조치를 하여야 한다.8. 부품의 부착은 기능에 이상을 일으키지 아니하고 쉽게 풀리지 아니하도록 하여야 한다.9. 전선 이외의 전류가 흐르는 부분과 가동축 부분의 접촉부의 접촉 불량을 방지하기 위한 적당한 조치를 하여야 한다.10. 외부에서 쉽게 사람이 접촉할 우려가 있는 충전부는 충분히 보호되어야 한다.11. 정격전압이 60 V를 넘는 자동소화장치의 금속제 외함에는 접지단자를 설치하여야 한다.12. 내부에는 예비전원을 설치하여야 한다.13. 예비전원회로에는 단락사고 등으로부터 보호하기 위한 퓨즈를 설치하여야 한다.14. 전면에는 예비전원 및 주전원의 상태를 감시할 수 있는 장치를 설치하여야 한다.15. 주전원이 정지한 경우에는 자동적으로 예비전원으로 전환되고 주전원이 복귀한 경우에는 자동적으로 예비전원으로부터 주전원으로 전환되는 기능이 있어야 한다.16. 예비전원의 양부시험을 할 수 있는 장치가 있어야 한다. 이 경우 양부시험은 정류기의 직류측에 자동복귀형 스위치를 설치하고 그 스위치의 조작에 의하여 예비전원은 정격전압의 85 % 이상이어야 한다.17. 내부의 부품 등에서 발생되는 열에 의하여 구조 및 성능에 이상이 생길 우려가 있는 것은 방열판 또는 방열공 등에 의하여 보호조치를 하여야 한다. 다만, 방폭형은 방열공을 설치하지 아니할 수 있다.18. 방폭형 자동소화장치는 다음 각 목의 어느 하나에서 정하는 방폭규정에 적합하여야 한다.가. 한국산업규격나. 산업안전보건법령에 의하여 정하는 규격다. 가스관계법령(고압가스안전관리법, 액화석유가스의 안전 및 사업관리법, 도시가스사업법)에 의하여 정하는 규격19. 주전원의 양극을 동시에 개폐할 수 있는 전원스위치를 설치하여야 한다.20. 전원입력측의 양선 및 외부부하에 직접 전원을 송출하도록 구성된 회로에는 퓨즈 또는 브레이커 등을 설치하여야 한다.21. 자동소화장치는 접지전극에 직류를 통하는 회로방식을 사용하지 아니하여야 한다.22. 결합부분에 패킹을 사용하는 경우에는 패킹이 외부로 노출되지 아니하는 구조로 하여야 한다.23. 자동소화장치의 사용온도범위는 (0 ∼ 40) ℃ 범위 이상이 되도록 설계하여야 한다. 다만, 사용온도범위를 확대하고자 하는 경우에는 5 ℃ 단위로 하여야 한다.24. 자동소화장치는 손상, 변형 및 가공불량 등이 없어야 하며 각 부 치수의 허용공차는 KS B 0250(주조품 - 치수공차 및 절삭 여유방식), KS B ISO 2768-1(일반 공차 - 제1부: 개별 공차 지시가 없는 선 치수와 각도 치수에 대한 공차) 및 KS B 0413(판재의 프레스 가공품 일반 치수 공차)을 준용하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "부품의 구조 및 기능",
+        "chapter": "",
+        "content": "제5조(부품의 구조 및 기능) 자동소화장치에 다음 각 호의 부품을 사용하는 경우 해당 각호의 규정에 적합하거나 이와 동등이상의 성능이 있는 것이어야 한다.1. 스위치가. 조작이 쉽고 작동이 확실하여야 하며 정지점이 명확하고 적정하여야 한다.나. <삭제>다. <삭제>2. 표시등가. <삭제>나. <삭제>다. 전구는 2개 이상을 병렬로 접속하여야 한다. 다만, 방전등 또는 발광다이오드의 경우에는 그러하지 아니하다.라. 전구에는 적당한 보호 덮개를 설치하여야 한다. 다만, 발광다이오드는 그러하지 아니하다.마. 주위의 밝기가 300 lx인 장소에서 측정하여 앞면으로부터 3 m 떨어진 곳에서 켜진 등이 확실히 식별되어야 한다.3. 전자계전기가. <삭제>나. <삭제>다. <삭제>라. 접점의 사용은 동일 접점에서 동시에 내부부하와 외부부하에 직접 전력을 공급하지 아니하도록 하여야 한다.4. 전압 지시전기계기의 최대눈금은 사용하는 회로의 정격전압의 140 % 이상 200 %이하이어야 한다.5. 퓨즈가. 퓨즈는 「산업표준화법」제15조에 따라 인증받은 제품이거나 「전기용품 및 생활용품 안전관리법」에 의한 안전인증품 또는 국제적 공인기관으로부터 인증받은 제품을 사용하여야 한다.나. 점검 및 교체가 쉬워야 한다.다. 쉽게 흔들리지 아니하도록 부착되어야 한다.6. 자동소화장치에 설치하는 음향장치가. 사용전압의 80 %인 전압에서부터 소리를 내어야 한다.나. 사용전압에서의 음압은 무향실 내에서 정위치에 부착된 음향장치의 중심으로부터 1 m 떨어진 지점에서 90 dB(음성장치일 경우 70 dB)이상이어야 한다. 다만, 고장표시장치 등의 음압은 60 dB이상이어야 한다.다. 사용전압으로 8시간 연속하여 울리게 하는 시험 또는 정격전압에서 3분 20초 동안 울리고 6분 40초 동안 정지하는 작동을 반복하여 통산한 울림시간이 20시간이 되도록 시험하는 경우 그 구조 또는 기능에 이상이 생기지 아니하여야 한다.7. 예비전원가. 예비전원은 「예비전원의 성능인증 및 제품검사의 기술기준」에 적합하여야 한다. 다만, 「소방시설 설치 및 관리에 관한 법률」 제40조에 따라 제품검사에 합격한 것은 시험을 생략할 수 있다.나. 예비전원은 다음에 적합하게 설치하여야 한다.(1) 자동소화장치의 주전원으로 사용하여서는 아니 된다.(2) 인출선은 적당한 색깔에 의하여 쉽게 구분할 수 있어야 한다.(3) 자동소화장치의 예비전원은 원통밀폐형 니켈카드륨 축전지로써 그 용량은 감시상태를 60분간 계속한 후 작동장치 및 음향장치 등을 10분 이상 작동할 수 있어야 한다.(4) 자동충전장치 및 전기적 기구에 의한 자동과충전방지장치를 설치하여야 한다. 다만, 과충전 상태가 되어도 성능 또는 구조에 이상이 생기지 아니하는 축전지를 사용하는 경우에는 자동과충전방지장치를 설치하지 아니할 수 있다.(5) 전기적 기구에 의한 자동과방전방지장치를 설치하여야 한다. 다만, 과방전의 상태가 되어도 성능 또는 구조에 이상이 생기지 아니하는 축전지를 사용하는 경우에는 그러하지 아니하다.다. <삭제>라. <삭제>마. <삭제>8. 반도체는 최대사용전압 및 최대사용전류에 충분히 견딜 수 있는 것이어야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「산업표준화법」",
+            "line_text": "",
+            "target_law_name": "산업표준화법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업표준화법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0005",
+            "reference_id": "law:산업표준화법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제15조",
+            "line_text": "",
+            "target_law_name": "산업표준화법",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업표준화법/제15조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0005",
+            "reference_id": "law:산업표준화법#JO0015"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「전기용품 및 생활용품 안전관리법」",
+            "line_text": "",
+            "target_law_name": "전기용품 및 생활용품 안전관리법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전기용품 및 생활용품 안전관리법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0005",
+            "reference_id": "law:전기용품및생활용품안전관리법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「예비전원의 성능인증 및 제품검사의 기술기준」",
+            "line_text": "",
+            "target_law_name": "예비전원의 성능인증 및 제품검사의 기술기준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/예비전원의 성능인증 및 제품검사의 기술기준",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0005",
+            "reference_id": "admrul:예비전원의성능인증및제품검사의기술기준#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「소방시설 설치 및 관리에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "소방시설 설치 및 관리에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소방시설 설치 및 관리에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0005",
+            "reference_id": "law:소방시설설치및관리에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제40조",
+            "line_text": "",
+            "target_law_name": "소방시설 설치 및 관리에 관한 법률",
+            "target_article_no": "제40조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소방시설 설치 및 관리에 관한 법률/제40조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0005",
+            "reference_id": "law:소방시설설치및관리에관한법률#JO0040"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "전원전압변동시의 기능",
+        "chapter": "",
+        "content": "제6조(전원전압변동시의 기능) 자동소화장치는 전원전압이 정격전압의 ±20 %범위에서 변동하는 경우에 이상이 생기지 아니하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "회로방식의 제한",
+        "chapter": "",
+        "content": "제7조(회로방식의 제한) <삭제>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "시험조건",
+        "chapter": "",
+        "content": "제8조(시험조건) <삭제>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "주위온도시험",
+        "chapter": "",
+        "content": "제9조(주위온도시험) <삭제>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "감지부",
+        "chapter": "",
+        "content": "제10조(감지부) 자동소화장치의 감지부는 「감지기의 형식승인 및 제품검사의 기술기준」에 적합한 것으로써 제품검사에 합격된 것이어야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "「감지기의 형식승인 및 제품검사의 기술기준」",
+            "line_text": "",
+            "target_law_name": "감지기의 형식승인 및 제품검사의 기술기준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/감지기의 형식승인 및 제품검사의 기술기준",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0010",
+            "reference_id": "admrul:감지기의형식승인및제품검사의기술기준#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "방출구 및 방출도관",
+        "chapter": "",
+        "content": "제11조(방출구 및 방출도관) ① 자동소화장치의 방출구는 KS D 6763(알루미늄 및 알루미늄 합금 봉 및 선) 또는 KS D 5101(구리 및 구리합금 봉) 등에 적합하여야 한다. 다만, 금속재 이외의 것은 200 ℃ 전기로에 30분간 보관한 후 물에 투입하였을 때 열에 의한 변형, 손상 등이 생기지 아니하여야 한다.② 방출구는 개방형이어야 한다.③ 방출도관은 저장용기 20 ℃ 충전압력의 2배의 압력을 5분간 수압력으로 가하는 경우 부품이나 결합부위에서 물이 새거나 현저한 변형이 생기지 아니하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "소화약제 저장용기등",
+        "chapter": "",
+        "content": "제12조(소화약제 저장용기등) ① 자동소화장치의 저장용기는 「소화기 형식승인 및 제품검사의 기술기준」 제11조부터 제14조, 제24조부터 제27조, 제29조, 제35조에 적합하여야 하며 이 규정의 적용에서 소화기는 자동소화장치로, 본체용기는 소화약제 저장용기 등으로, 노즐은 방출구로 본다.② 소화약제 저장용기는 물에 침지하거나 비눗물을 도포하여 기밀시험을 하는 경우 누설되지 않아야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "「소화기 형식승인 및 제품검사의 기술기준」",
+            "line_text": "",
+            "target_law_name": "소화기 형식승인 및 제품검사의 기술기준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/소화기 형식승인 및 제품검사의 기술기준",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0012",
+            "reference_id": "admrul:소화기형식승인및제품검사의기술기준#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "제11조부터 제14조",
+            "line_text": "",
+            "target_law_name": "소화기 형식승인 및 제품검사의 기술기준",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/소화기 형식승인 및 제품검사의 기술기준/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0012",
+            "reference_id": "admrul:소화기형식승인및제품검사의기술기준#JO0011"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "제24조부터 제27조",
+            "line_text": "",
+            "target_law_name": "소화기 형식승인 및 제품검사의 기술기준",
+            "target_article_no": "제24조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/소화기 형식승인 및 제품검사의 기술기준/제24조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0012",
+            "reference_id": "admrul:소화기형식승인및제품검사의기술기준#JO0024"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "제29조",
+            "line_text": "",
+            "target_law_name": "소화기 형식승인 및 제품검사의 기술기준",
+            "target_article_no": "제29조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/소화기 형식승인 및 제품검사의 기술기준/제29조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0012",
+            "reference_id": "admrul:소화기형식승인및제품검사의기술기준#JO0029"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "제35조",
+            "line_text": "",
+            "target_law_name": "소화기 형식승인 및 제품검사의 기술기준",
+            "target_article_no": "제35조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/소화기 형식승인 및 제품검사의 기술기준/제35조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0012",
+            "reference_id": "admrul:소화기형식승인및제품검사의기술기준#JO0035"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0012"
+      },
+      {
+        "article_no": "제12조의2",
+        "article_title": "내부용적등",
+        "chapter": "",
+        "content": "제12조의2(내부용적등) ① 용기의 내부용적은 설계값 ±2 % 이내이어야 한다. 단, 「고압가스 안전관리법」을 적용받는 용기의 내부용적은 용기증명서 등에 표기된 내부용적을 적용할 수 있다.② 자동소화장치의 충전비는 다음 표의 사용 소화약제 구분에 따라서 정한값 이상이어야 한다.[그림]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조의2",
+            "source_clause": "제12조의2제1항",
+            "link_text": "「고압가스 안전관리법」",
+            "line_text": "",
+            "target_law_name": "고압가스 안전관리법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/고압가스 안전관리법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0012_02",
+            "reference_id": "law:고압가스안전관리법#DOC"
+          }
+        ],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151393549",
+            "seq": "151393549"
+          }
+        ],
+        "provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0012_02"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "수신부",
+        "chapter": "",
+        "content": "제13조(수신부) 수신부의 구조 및 기능은 다음 각 호에 적합하여야 한다.1. 인접한 2개 이상의 감지부가 교차회로방식으로 서로 연동하여 작동하거나 복합형 감지기 등의 작동에 적합하도록 호환성이 있는 수신회로로 구성되어야 한다.2. 감지부로부터 화재신호를 수신한 경우에는 화재신호를 자동적으로 표시함과 동시에 경보음을 발하여야 하고 자동적으로 작동장치에 작동신호를 발신하여야 한다. 다만, 인접한 2개 이상의 감지부가 교차회로방식으로 서로 연동하여 작동장치에 작동신호를 발신하는 경우에는 그러하지 아니하다.3. 감지부 회로의 단선이 발생할 경우 단선을 알리는 표시를 하여야 한다.4. 수동으로 작동하기 위한 스위치를 설치하는 경우에는 그 목적에만 사용되는 것이어야 한다.5. 소화약제의 방출을 나타내는 표시등을 설치하여야 한다.6. 소화약제의 방출을 지연시키는 장치를 설치하는 경우에는 지연시간이 경보음을 발하고부터 30초 이내이어야 한다.7. 복귀스위치 또는 경보음 등의 발생을 정지하는 스위치를 설치하는 경우에는 그 목적에만 사용되는 것이어야 한다.8. 정위치에 자동적으로 복귀하지 아니하는 스위치를 설치하는 경우에  당해 스위치가 정위치에 있지 아니한 경우 음신호 또는 점멸하는 주의등이 작동하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "작동장치",
+        "chapter": "",
+        "content": "제14조(작동장치) 작동장치의 구조 및 기능은 다음 각 호에 적합하여야 한다.1. 작동장치는 점검 등을 위하여 복귀가 가능한 구조여야 하며, 수신부에서 발하여진 신호에 의해 자동으로 작동하여 용기 밸브를 정상적으로 개방시켜야 한다.2. 수동으로 작동할 수 있게 하는 장치를 설치하는 경우에는 부주의로 인한 작동을 방지하기 위한 보호장치를 강구하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "소화약제",
+        "chapter": "",
+        "content": "제15조(소화약제) ① 자동소화장치에 사용하는 할로겐화합물 및 불활성기체 소화약제는 「소화약제의 형식승인 및 제품검사의 기술기준」에 적합한 것으로서 제품검사에 합격한 것이어야 한다.② 자동소화장치에 사용하는 이산화탄소 소화약제는 순도가 99.5 % 이상인 것이어야 하며, 중량은 별표 1의 충전약제중량의 허용범위 이내이어야 한다.③ 자동소화장치에 충전하는 소화약제의 중량은 200 ㎏ 이하이어야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제1항",
+            "link_text": "「소화약제의 형식승인 및 제품검사의 기술기준」",
+            "line_text": "",
+            "target_law_name": "소화약제의 형식승인 및 제품검사의 기술기준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/소화약제의 형식승인 및 제품검사의 기술기준",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0015",
+            "reference_id": "admrul:소화약제의형식승인및제품검사의기술기준#DOC"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제2항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "캐비닛형자동소화장치의 형식승인 및 제품검사의 기술기준",
+            "target_article_no": "별표1",
+            "target_article_title": "소화약제 중량 허용범위",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000258270&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0015",
+            "reference_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "내식 및 방청시험",
+        "chapter": "",
+        "content": "제16조(내식 및 방청시험) ① 자동소화장치 중 충전된 소화약제에 상시 접촉하는 부분은 3 %의 염화나트륨수용액에 14일간 노출하였을 때 녹슬거나 그 밖의 이상이 없어야 한다. 다만, 내식성 재질로 제조된 것은 해당 시험을 생략할 수 있다.② 자동소화장치의 방출구 및 외함은 20 wt%의 염수분무에 240시간 노출하였을 때 다음 각 호에 적합하여야 한다.1. 부식이 발생하지 아니하여야 한다.2. 부식방지를 위한 칠을 손가락으로 문지를 때에 밀리거나 떨어지지 아니하여야 한다.③ 외부를 도료로 방청 가공한 외함은 KS M ISO 2409(도료와 바니시 - 도료의 밀착성 시험 방법)에 의한 시험을 실시하는 경우 도막의 벗겨짐이 없어야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "절연저항시험",
+        "chapter": "",
+        "content": "제17조(절연저항시험) ① 자동소화장치의 절연된 충전부와 외함간의 절연저항은 직류500 V의 절연저항계로 측정한 값이 5 ㏁(교류입력측과 외함간에는 20 ㏁) 이상이어야 한다.<개정 2012.2.9>② 절연된 선로간의 절연저항은 직류 500 V의 절연저항계로 측정한 값이 20 ㏁이상이어야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "절연내력시험",
+        "chapter": "",
+        "content": "제18조(절연내력시험) 제17조 규정에 의한 시험부위의 절연내력은 60 Hz의 정현파에 가까운 실효전압 500 V(정격전압이 60 V를 초과하고 150 V 이하인 것은 1000 V, 정격전압이 150 V를 초과하는 것은 그 정격전압에 2를 곱하여 1000 V를 더한 값)의 교류전압을 가하는 시험에서 1분간 견디는 것이어야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제18조",
+            "source_clause": "제18조",
+            "link_text": "제17조",
+            "line_text": "",
+            "target_law_name": "캐비닛형자동소화장치의 형식승인 및 제품검사의 기술기준",
+            "target_article_no": "제17조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/캐비닛형자동소화장치의 형식승인 및 제품검사의 기술기준/제17조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0018",
+            "reference_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0017"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "충격전압시험",
+        "chapter": "",
+        "content": "제19조(충격전압시험) 자동소화장치는 전류를 통한 상태에서 다음 각 호의 시험을 15초간 실시하는 경우 잘못 작동하거나 기능에 이상이 생기지 아니하여야 한다.<개정 2012.2.9>1. 내부저항 50 Ω인 전원에서 500 V의 전압을 펄스폭 1 ㎲, 반복주기 100 Hz로 가하는 시험2. 내부저항 50 Ω인 전원에서 500 V의 전압을 펄스폭 0.1 ㎲, 반복주기 100 Hz로 가하는 시험",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0019"
+      },
+      {
+        "article_no": "제19조의2",
+        "article_title": "전자파적합성",
+        "chapter": "",
+        "content": "제19조의2(전자파적합성) 자동소화장치는 「전파법」제47조의3제1항 및 「전파법 시행령」제67조의2에 따라 국립전파연구원장이 정하여 고시하는「전자파적합성 기준」에 적합하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제19조의2",
+            "source_clause": "제19조의2",
+            "link_text": "제47조의3제1항",
+            "line_text": "",
+            "target_law_name": "전파법",
+            "target_article_no": "제47조의3",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전파법/제47조의3",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0019_02",
+            "reference_id": "law:전파법#JO0047_03"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제19조의2",
+            "source_clause": "제19조의2",
+            "link_text": "「전파법 시행령」",
+            "line_text": "",
+            "target_law_name": "전파법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전파법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0019_02",
+            "reference_id": "law:전파법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제19조의2",
+            "source_clause": "제19조의2",
+            "link_text": "제67조의2",
+            "line_text": "",
+            "target_law_name": "전파법 시행령",
+            "target_article_no": "제67조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전파법 시행령/제67조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0019_02",
+            "reference_id": "law:전파법시행령#JO0067_02"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제19조의2",
+            "source_clause": "제19조의2",
+            "link_text": "「전자파적합성 기준」",
+            "line_text": "",
+            "target_law_name": "전자파적합성 기준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/전자파적합성 기준",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0019_02",
+            "reference_id": "admrul:전자파적합성기준#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0019_02"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "방사성능",
+        "chapter": "",
+        "content": "제20조(방사성능) 자동소화장치는 정상적으로 작동하는 경우 다음 각 호에 적합하여야 한다.1. 작동 후 신속하게 방호구역에 소화약제를 유효하게 방사하여야 한다.2. 충전된 소화약제 중량의 85 % 이상을 방사하여야 한다.3. 방사시간은 이산화탄소 및 불활성기체는 60초 이내, 할로겐화합물은 10초 이내 이어야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0020"
+      },
+      {
+        "article_no": "제20조의2",
+        "article_title": "난연성시험",
+        "chapter": "",
+        "content": "제20조의2(난연성시험) 자동소화장치의 외함에 사용하는 합성수지는 다음 각 호에 적합하여야 한다.1. UL 94 규정에 따른 V-2 이상의 난연성능이 있는 재료이어야 한다.2. (80 ± 2) ℃의 온도에서 24시간 놓아두는 때에 열변형 등의 이상이 생기지 않아야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0020_02"
+      },
+      {
+        "article_no": "제20조의3",
+        "article_title": "설계방호체적의 산정",
+        "chapter": "",
+        "content": "제20조의3(설계방호체적의 산정) 자동소화장치의 설계방호체적은 다음 각 호의 산식에 따라 산출된 값 이하이어야 한다.1. 할로겐화합물 소화약제[그림]2. 불활성기체 소화약제[그림]3. 이산화탄소 소화약제[그림]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151393551",
+            "seq": "151393551"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151393597",
+            "seq": "151393597"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151393599",
+            "seq": "151393599"
+          }
+        ],
+        "provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0020_03"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "표시",
+        "chapter": "",
+        "content": "제21조(표시) ① 자동소화장치는 다음 각 호의 사항을 보기 쉬운 부분에 쉽게 지워지지 아니하도록 표시하여야 한다. 다만, 제13호 및 제15호는 취급설명서에 표시할 수 있다.1. 종별 및 형식2. 형식승인번호3. 제조년월 및 제조번호4. 제조업체명 또는 상호, 수입업체명(수입품에 한함)5. 소화약제의 주성분 및 중량6. 설계농도(소화약제의 형식승인 소화농도에 1.3을 곱한 값)7. 설계방호체적(20 ℃ 기준), 방사시간8. 사용온도범위9. 극성이 있는 단자에는 극성을 표시하는 기호10. 예비전원으로 사용하는 축전지의 종류, 정격용량, 정격전압 및 접속하는 경우의 주의사항11. 퓨즈 및 퓨즈 호울더 부근에는 정격전류12. 스위치등 조작부 또는 조정부 부근에는 \"열림\" 및 \"닫힘\"등의 표시13. 설치방법 및 취급상의 주의사항14. <삭제>15. 품질보증에 관한 사항(보증기간, 보증내용, A/S방법, 자체 검사확인증 등)② 명판은 다음 각 호에서 정하는 시험을 하는 경우 적합하여야 한다. 다만, 제품에 직접 인쇄하는 하는 경우는 제외한다.1. 명판노출시험다음 각 목의 조건을 적용하여 시험하는 경우 명판의 오염, 흐려짐, 기포와 같은 현저한 변질이 없어야 하며 균열이나 말림이 없어야 한다.가. (80 ± 2) ℃에서 240시간 동안 보존나. (20 ± 2) ℃의 물에서 48시간 동안 침지2. 명판부착시험명판의 평균 부착력은 0.18 N/mm 이상이어야 한다.3. 명판마모시험코팅되어 있지 아니한 명판은 물을 묻힌 천에 18 N의 하중을 걸어 500회 반복하는 시험을 적용하는 경우 손상되지 아니하고 읽을 수 있는 상태를 유지하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "시험세칙",
+        "chapter": "",
+        "content": "제22조(시험세칙) 「소방산업의 진흥에 관한 법률」 제14조에 따라 설립한 한국소방산업기술원은 이 기준의 운영방법, 형식시험방법 및 제품검사방법 등에 관한 세부사항인 시험세칙을 정하여 소방청장 승인을 받아 운영할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제22조",
+            "source_clause": "제22조",
+            "link_text": "「소방산업의 진흥에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "소방산업의 진흥에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소방산업의 진흥에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0022",
+            "reference_id": "law:소방산업의진흥에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제22조",
+            "source_clause": "제22조",
+            "link_text": "제14조",
+            "line_text": "",
+            "target_law_name": "소방산업의 진흥에 관한 법률",
+            "target_article_no": "제14조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소방산업의 진흥에 관한 법률/제14조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0022",
+            "reference_id": "law:소방산업의진흥에관한법률#JO0014"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제23조(재검토기한) 소방청장은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2025년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제23조",
+            "source_clause": "제23조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0023",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "규제의 재검토",
+        "chapter": "",
+        "content": "제24조(규제의 재검토) 「행정규제기본법」 제8조에 따라 이 고시에 대하여 2025년 1월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제24조",
+            "source_clause": "제24조",
+            "link_text": "「행정규제기본법」",
+            "line_text": "",
+            "target_law_name": "행정규제기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/행정규제기본법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0024",
+            "reference_id": "law:행정규제기본법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제24조",
+            "source_clause": "제24조",
+            "link_text": "제8조",
+            "line_text": "",
+            "target_law_name": "행정규제기본법",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/행정규제기본법/제8조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0024",
+            "reference_id": "law:행정규제기본법#JO0008"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#JO0024"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20050810",
+      "promulgation_no": "2005-58",
+      "content": "부칙 <제2005-58호,2005. 8. 10.>제1조(시행일) 이 기준은 고시한 날부터 시행한다. 다만 제20조제3호에 관한 사항은 이 기준을 고시한 후 6월이 경과한 날부터 시행한다.제2조(사전제품검사에 관한 일반적 경과조치) 이 기준 시행 당시 종전의 규정에 의하여 형식승인 또는 형식변경승인 된 캐비넷형자동소화기기는 이 기준 시행일로부터 6월 이내에 종전의 규정에 의하여 사전제품검사를 받을 수 있다. 다만, 이 기간 중 사전제품검사에서 불합격된 캐비넷형자동소화기기(미제조에 의하여 불합격한 것은 제외한다)에 대해서는 동기간에도 불구하고 불합격통지를 받은 날부터 1월 이내에 종전의 규정에 의하여 1회에 한하여 사전제품검사를 받을 수 있다."
+    },
+    {
+      "promulgation_date": "20120209",
+      "promulgation_no": "2012-78",
+      "content": "부칙 <제2012-78호,2012. 2. 9.>제1조(시행일) 이 고시는 고시한 날부터 시행한다.제2조(형식승인 및 형식변경승인에 관한 일반적 경과조치) ①이 기준 시행당시 \"캐비넷형자동소화기기의 형식승인 및 검정기술기준\"(소방방재청고시 제2005-58호)에 따라 형식승인(형식승인의 변경승인을 포함한다. 이하 같다)을 받은 것은 이 기준에 따라 형식승인을 받은 것으로 본다.②이 기준 시행일 이전에 종전의 \"캐비넷형자동소화기기의 형식승인 및 검정기술기준\"(소방방재청고시 제2005-58호)에 따라 형식승인신청된 것은 이 기준에 따라 형식승인이 신청된 것으로 본다.제3조(표시사용에 관한 경과조치)부칙 제1조에도 불구하고 제21조는 기준시행일로부터 6월까지 \"캐비넷형자동소화기기의 형식승인 및 검정기술기준\"(소방방재청고시 제2005-58호)에 따라 표시할 수 있다.제4조(제품검사에 관한 경과조치)부칙 제1조에도 불구하고 이 기준 시행일 이전에 \"캐비넷형자동소화기기의 형식승인 및 검정기술기준\"(소방방재청고시 제2005-58호)에 의하여 신청된 것은 이 기준에 따라 제품검사를 신청한 것으로 본다."
+    },
+    {
+      "promulgation_date": "20130725",
+      "promulgation_no": "2013-31",
+      "content": "부칙 <제2013-31호,2013. 7. 25.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20150106",
+      "promulgation_no": "2015-1",
+      "content": "부칙 (정부조직개편에 따른 「유ㆍ도선의 규격 및 시설ㆍ설비 기준」 등의 정비에 관한 고시 제정안)<제2015-1호,2015. 1. 6.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.제2조 생략제3조 생략"
+    },
+    {
+      "promulgation_date": "20160715",
+      "promulgation_no": "2016-115",
+      "content": "부칙 <제2016-115호,2016. 7. 15.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20170726",
+      "promulgation_no": "2017-1",
+      "content": "부칙 (정부조직개편에 따른 복수의무인증제품의 인증방법 및 국가통합인증마트 표시요령 등의 정비에 관한 고시 제정)<제2017-1호,2017. 7. 26.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20180312",
+      "promulgation_no": "2018-4",
+      "content": "부칙 <제2018-4호, 2018. 3. 12.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.제2조(형식승인에 관한 일반적인 경과조치) ① 이 고시 시행일 이전에 형식승인(형식승인의 변경을 포함한다. 이하 같다)이 신청된 것은 종전의 고시를 적용할 수 있다. 다만, 신청인이 이 고시에 의하여 형식승인을 받고자 하는 경우에는 이 고시를 적용한다.② 이 고시 시행당시 종전의 규정에 의하여 형식승인을 받은 것 중 이 고시 제19조의2에 적합하지 아니한 것은 이 고시 시행일로부터 1년 이내에 이 고시에 의하여 형식승인을 받아야 한다.제3조(제품검사에 대한 경과조치) ① 부칙 제1조에도 불구하고 이 고시 시행당시 종전의 규정에 의하여 형식승인을 받은 것 중 이 고시 제19조의2에 대하여 적합하지 아니한 것은 이 고시 시행일로부터 1년 이내에는 종전의 규정에 의하여 제품검사를 받을 수 있다.② 부칙 제2조제2항에 따라 형식승인을 받지 않은 것은 고시 시행일로부터 1년이 경과한 날부터 이 고시에 의한 생산제품검사를 받을 수 없으며, 품질제품검사를 적용받는 경우 제품완성예정일이 이 고시 시행일로부터 1년이 경과한 날부터 합격표시를 발급받을 수 없다."
+    },
+    {
+      "promulgation_date": "20221201",
+      "promulgation_no": "2022-27",
+      "content": "부칙 (소방용품의 형식승인 및 제품검사의 기술기준 32개 고시 일괄개정 고시)<제2022-27호, 2022. 12. 1.>이 고시는 2022년 12월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20250427",
+      "promulgation_no": "2025-10",
+      "content": "부칙 <제2025-10호, 2025. 4. 27.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.제2조(형식승인에 관한 일반적 경과조치) ① 이 고시 시행 전에 형식승인(형식승인 변경 신청을 포함한다. 이하 같다)을 신청하여 이 고시 시행 당시 그 형식승인 절차가 진행 중인 경우에는 개정규정에도 불구하고 종전의 규정에 따른다.② 이 고시 시행 전에 종전의 규정에 따라 형식승인을 받은 경우 또는 제1항에 따라 형식승인을 받은 경우에는 이 고시에 따라 형식승인을 받은 것으로 본다. 다만, 이 고시 시행일로부터 1년 이내에 개정 규정에 따라 다시 형식승인을 받아야 한다.제3조(제품검사에 관한 일반적 경과조치) ① 이 고시 시행 전에 제품검사(품질제품검사의 경우에는 합격표시 교부를 말한다. 이하 같다.)를 신청한 경우로서 이 고시 시행 당시 그 검사가 진행 중인 경우에는 개정규정에도 불구하고 종전의 규정에 따른다.② 부칙 제2조제1항 및 같은 조 제2항 본문에 따라 형식승인을 받은 소방용품에 대한 제품검사는 개정규정에도 불구하고 이 고시 시행일로부터 1년 이내에는 종전의 규정에 따른다.③ 부칙 제2조제2항 단서에 따른 기간 내에 다시 형식승인을 받지 않은 경우 그 기간이 경과한 날부터 제품검사를 받을 수 없다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "소화약제 중량 허용범위",
+      "enforcement_date": "",
+      "content": "[별표1]\n소화약제 중량 허용범위\n┌─────────┬────────┐\n│약제충전량        │허용범위        │\n├─────────┼────────┤\n│1 kg미만          │ +50 g,  -0 g   │\n│1 ㎏～ 2 ㎏미만   │+100 g,  -0 g   │\n│2 ㎏～ 5 ㎏미만   │+150 g,  -0 g   │\n│5 ㎏～ 8 ㎏미만   │+200 g,  -0 g   │\n│8 ㎏～10 ㎏미만   │+250 g,  -0 g   │\n│10 ㎏～20 ㎏미만  │+350 g,  -0 g   │\n│20 ㎏～40 ㎏미만  │+500 g,  -0 g   │\n│40 ㎏～100 ㎏미만 │+800 g,  -0 g   │\n│100 ㎏이상        │+1.2 ㎏,  -0 g  │\n└─────────┴────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000258270&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151393971",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151393967",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151393971",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#BYL0001",
+      "filename": "별표1_소화약제 중량 허용범위.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "개정이유서(캐비닛형자동소화장치의 형식승인 및 제품검사의 기술기준).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=151387255",
+      "file_store_url": "",
+      "filename": "개정이유서(캐비닛형자동소화장치의 형식승인 및 제품검사의 기술기준).hwpx"
+    },
+    {
+      "name": "일부개정고시안(캐비닛형자동소화장치의 형식승인 및 제품검사의 기술기준).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=151391155",
+      "file_store_url": "",
+      "filename": "일부개정고시안(캐비닛형자동소화장치의 형식승인 및 제품검사의 기술기준).hwpx"
+    },
+    {
+      "name": "일부개정고시안(캐비닛형자동소화장치의 형식승인 및 제품검사의 기술기준).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=151391159",
+      "file_store_url": "",
+      "filename": "일부개정고시안(캐비닛형자동소화장치의 형식승인 및 제품검사의 기술기준).pdf"
+    },
+    {
+      "name": "(개정전문) 캐비닛형자동소화장치의 형식승인 및 제품검사의 기술기준(최종).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=151392153",
+      "file_store_url": "",
+      "filename": "(개정전문) 캐비닛형자동소화장치의 형식승인 및 제품검사의 기술기준(최종).pdf"
+    },
+    {
+      "name": "(개정전문) 캐비닛형자동소화장치의 형식승인 및 제품검사의 기술기준(최종).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=151392149",
+      "file_store_url": "",
+      "filename": "(개정전문) 캐비닛형자동소화장치의 형식승인 및 제품검사의 기술기준(최종).hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 27,
+    "by_category": {
+      "법령": 15,
+      "행정규칙": 11,
+      "별표": 1
+    },
+    "by_relation_type": {
+      "citation": 25,
+      "appendix_ref": 1,
+      "internal_ref": 1
+    },
+    "articles_total": 28,
+    "articles_with_relations": 11,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 9,
+    "appendices_count": 1,
+    "attachments_count": 5
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/캐비닛형자동소화장치의 형식승인 및 제품검사의 기술기준"
+  },
+  "provision_id": "admrul:캐비닛형자동소화장치의형식승인및제품검사의기술기준#DOC"
+}
