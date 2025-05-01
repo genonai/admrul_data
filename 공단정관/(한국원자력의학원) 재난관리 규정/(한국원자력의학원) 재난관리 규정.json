@@ -1,0 +1,472 @@
+{
+  "law_id": "2200000148655",
+  "mst": "2200000148655",
+  "law_name": "(한국원자력의학원) 재난관리 규정",
+  "law_abbr": "",
+  "law_type": "공단규정",
+  "doc_target": "pi",
+  "doc_kind": "공단정관",
+  "adm_uid": "pi:2200000148655",
+  "promulgation_no": "9999",
+  "promulgation_date": "20250423",
+  "enforcement_date": "20250501",
+  "revision_date": "20250423",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "한국원자력의학원",
+    "담당자명": "",
+    "행정규칙종류코드": "B0029",
+    "행정규칙명": "(한국원자력의학원) 재난관리 규정",
+    "발령일자": "20250423",
+    "행정규칙종류": "공단규정",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "한국원자력의학원",
+    "전화번호": "02-970-2055",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "B551913",
+    "생성일자": "20260414",
+    "행정규칙ID": "2134761",
+    "담당부서기관코드": "B551913",
+    "발령번호": "9999",
+    "행정규칙일련번호": "2200000148655"
+  },
+  "amendment_text": "",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 10,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규정은 한국원자력의학원에서 재난 발생 시 손상과 피해를 최소화하기 위해 국가, 지역사회, 의료기관 등에서 발생 가능성이 높은 응급재난을 파악하고 대비책 마련 및 훈련을 수행하기 위함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국원자력의학원)재난관리규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "용어의 정의",
+        "chapter": "",
+        "content": "제2조(용어의 정의) 이 규정에서 사용하는 용어의 정의는 다음 각 호와 같다.1. \"재난\"이라 함은 국민의 생명, 신체 및 재산과 국가에 피해를 주거나 줄 수 있는 것으로써 다음과 같다.가. 자연 재난태풍, 홍수, 호우, 강풍, 풍랑, 해일, 대설, 한파, 낙뢰, 가뭄, 폭염, 지진, 황사, 조류 대발생, 조수, 화산활동, 소행성ㆍ유성체 등 자연 우주물체의 추락ㆍ충돌, 그 밖에 이에 준하는 자연현상으로 인하여 발생하는 재해나. 사회 재난1) 화재, 붕괴, 폭발, 교통사고, 화생방 사고, 환경오염 사고 등으로 인하여 발생하는 대통령령으로 정하는 규모 이상의 피해와 국가 핵심기반의 마비2) 「감염병의 예방 및 관리에 관한 법률」 에 따른 감염병 또는 「가축전염병 예방법」 에 따른 가축 전염병의 확산, 「미세먼지 저감 및 관리에 관한 특별법」 에 따른 미세먼지 등으로 인한 피해2. \"재난관리\"라 함은 재난의 예방, 대비, 대응 및 복구를 위하여 하는 모든 활동을 말한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「감염병의 예방 및 관리에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "감염병의 예방 및 관리에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/감염병의 예방 및 관리에 관한 법률",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국원자력의학원)재난관리규정#JO0002",
+            "reference_id": "law:감염병의예방및관리에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「가축전염병 예방법」",
+            "line_text": "",
+            "target_law_name": "가축전염병 예방법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/가축전염병 예방법",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국원자력의학원)재난관리규정#JO0002",
+            "reference_id": "law:가축전염병예방법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「미세먼지 저감 및 관리에 관한 특별법」",
+            "line_text": "",
+            "target_law_name": "미세먼지 저감 및 관리에 관한 특별법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/미세먼지 저감 및 관리에 관한 특별법",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국원자력의학원)재난관리규정#JO0002",
+            "reference_id": "law:미세먼지저감및관리에관한특별법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국원자력의학원)재난관리규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "정책",
+        "chapter": "",
+        "content": "제3조(정책) ① 기관 내ㆍ외부 재난의 형태에 효과적으로 대처한다.② 지역사회 또는 원내 발생 가능성이 높은 각종 재난의 유형을 파악하여 재난관리 계획에 의거한 연 1회 이상 모의훈련을 실시한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국원자력의학원)재난관리규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "발생가능성이 높은 재난 유형 파악",
+        "chapter": "",
+        "content": "제4조(발생가능성이 높은 재난 유형 파악) ① 행정안전부 국민재난안전포털의 재난안전 분석결과를 활용하여 지역사회에서 발생 가능성이 높은 재난 유형을 파악한다.② 재난이 기관의 운영에 미치는 영향과 내부적 대응능력 등을 고려하여 위험도 평가도구표(별표 1)에 따라 위험성 평가를 실시하여 우선순위를 선정한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "(한국원자력의학원) 재난관리 규정",
+            "target_article_no": "별표1",
+            "target_article_title": "위험도 평가도구",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000148655&bylNo=0001&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국원자력의학원)재난관리규정#JO0004",
+            "reference_id": "pi:(한국원자력의학원)재난관리규정#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국원자력의학원)재난관리규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "재난 시 의료기관 내ㆍ외부 의사소통",
+        "chapter": "",
+        "content": "제5조(재난 시 의료기관 내ㆍ외부 의사소통) ① 재난 발생 시 외부 의사소통은 다음 각 호와 같다.1. 재난안전대책본부를 통해 지역사회 유관기관 및 협력병원(별표 2)에 재난정보를 공유하고, 비상연락체계를 유지한다.2. 지역사회와 협조하여 인원, 시설, 장비를 효율적으로 활용하고 신속하게 대처함으로써 피해를 최소화한다.② 원외 재난 발생 시 내부 신고ㆍ보고체계는 다음 각 호와 같다.1. 다수 사상자가 내원할 것을 인지한 경우 응급실 직원은 응급실장에게 보고한다.2. 응급실장은 재난의 규모에 따라 단계(별표 3)를 설정하고, 재난 2단계 이상부터 병원장에게 보고한다.3. 재난 2단계 이상부터 병원장 지휘하에 재난안전대책본부를 구성한다.4. 재난 발생 전파는 원내 방송 및 직원비상연락체계를 활용한다.5. 방사선 사고에 의한 재난상황인 경우 의학원장까지 보고하며, 의학원장 지휘하에 재난안전대책본부를 구성하여 \"방사선비상진료센터 매뉴얼\"에 따라 관리한다.③ 원내 재난 발생 시 신고ㆍ보고체계는 다음 각 호와 같다.1. 최초 발견자는 재난안전팀에 재난 발생 신고를 한다.2. 재난안전팀은 재난 및 피해 유형을 파악하여 재난 유형별(별표 4) 관련 부서장에게 연락하고 각 부서에서는 필요한 조치를 취한다.3. 병원장은 발생한 사상자 수와 피해 규모 등을 고려하여 재난안전대책본부의 구성을 결정한다.4. 재난 발생 전파는 원내 방송 및 직원비상연락체계를 활용한다.5. 방사선 사고에 의한 재난상황인 경우 의학원장까지 보고하며, 의학원장 지휘하에 재난안전대책본부를 구성하여 \"방사선비상진료센터 매뉴얼\"에 따라 관리한다.[그림]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "(한국원자력의학원) 재난관리 규정",
+            "target_article_no": "별표2",
+            "target_article_title": "유관기관 및 협력병원 연락처",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000148655&bylNo=0002&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국원자력의학원)재난관리규정#JO0005",
+            "reference_id": "pi:(한국원자력의학원)재난관리규정#BYL0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "(한국원자력의학원) 재난관리 규정",
+            "target_article_no": "별표3",
+            "target_article_title": "재난 발생 시 단계별 의료대응",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000148655&bylNo=0003&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국원자력의학원)재난관리규정#JO0005",
+            "reference_id": "pi:(한국원자력의학원)재난관리규정#BYL0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제3항",
+            "link_text": "별표 4",
+            "line_text": "",
+            "target_law_name": "(한국원자력의학원) 재난관리 규정",
+            "target_article_no": "별표4",
+            "target_article_title": "원내 재난 및 피해유형별 대응체계",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000148655&bylNo=0004&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국원자력의학원)재난관리규정#JO0005",
+            "reference_id": "pi:(한국원자력의학원)재난관리규정#BYL0004"
+          }
+        ],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156403915",
+            "seq": "156403915"
+          }
+        ],
+        "provision_id": "pi:(한국원자력의학원)재난관리규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "대응팀 구성 및 역할",
+        "chapter": "",
+        "content": "제6조(대응팀 구성 및 역할) 재난 발생 시 재난안전대책본부를 구성하여 운영한다.1. 재난안전대책본부 구성은 다음과 같다.가. 재난안전대책본부는 병원장의 총괄 지휘 하에 구성한다.나. 현장응급진료소는 응급실장이 총괄한다.[그림]2. 재난안전대책본부 구성원의 역할은 다음과 같다.[그림]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156404059",
+            "seq": "156404059"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156403917",
+            "seq": "156403917"
+          }
+        ],
+        "provision_id": "pi:(한국원자력의학원)재난관리규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "환자진료",
+        "chapter": "",
+        "content": "제7조(환자진료) ① 환자 분류장소와 진료구역, 입원공간 확보는 다음 각 호와 같다.1. 환자 분류를 위해 병원 앞 분수대 및 주차공간을 활용할 수 있다.2. 응급진료를 위해 응급실을 확장운영하며 재원중인 환자의 중증도 상태를 고려하여 조기퇴원, 병동이나 타병원으로 이송하여 진료공간을 확보한다.3. 진료구역에는 물품 보관을 위한 공간을 마련하고, 의약품이 안전하게 보관될 수 있도록 한다.4. 여유 병상이 있는 병동을 확인하여 입원공간을 확보한다.5. 화생방 환자 및 방사선 피폭 환자는 방사선응급진료실을 운영한다.6. 생물학적 테러나 신형 감염병 환자 발생 시 원내 주차장 등 위치에 이동형 음압 병실을 설치하여 치료할 수 있다.② 환자 진료는 다음 각 호와 같다.1. 환자 중증도 분류는 응급실 의사와 간호사가 한다.[그림]2. 중증도 분류가 완료된 환자는 손목, 이마, 가슴 등 식별이 가능한 곳에 스티커를 부착하거나 수기로 표시하여 구분한다.3. 중증도 분류가 완료된 환자는 \"응급환자 등록절차 규정\"에 따라 접수한다.4. 접수된 환자는 \"응급환자 초기평가 규정\"에 따라 수행하고 기록한다.5. 중증도 분류별 환자처치 절차는 다음과 같다.가. 긴급환자는 응급처치 후 중환자실, 수술실, 회복실 등으로 이동하며, 병상 부족 시 타병원으로 이송한다.나. 응급환자는 응급처치 후 항암요법센터, 입원실로 이동하며, 병상 부족 시타병원으로 이송한다.다. 비응급환자는 진료 후 퇴원하거나 타병원으로 이송한다.라. 사망환자는 원내 장례식장으로 이송한다.6. 입원중인 환자는 환자 중증도 상태를 고려하여 필요시 진료과와 협의하여 퇴원 또는 타병원으로 이송한다.③ 재난 시 검사 및 투약은 최소로 한다.④ 재난대응 2단계 이상 시 재난안전대책본부에서 환자 비율에 따라 필요한 인력을 구성한다.[그림]1. 응급실장은 재난 발생 시 필요한 인력을 판단하여 재난안전대책본부에 요청한다.2. 응급수술을 위한 의료진(전문의, 전공의, 간호사 등)을 비상소집한다.3. 간호부장은 응급실, 중환자실, 수술실에서 요청한 간호인력을 확보하여 파견한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156404061",
+            "seq": "156404061"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156403923",
+            "seq": "156403923"
+          }
+        ],
+        "provision_id": "pi:(한국원자력의학원)재난관리규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "의료기기 및 물품 확보",
+        "chapter": "",
+        "content": "제8조(의료기기 및 물품 확보) 재난 발생 시 필요한 의료기기 및 물품을 확보하여 제공한다.1. 자산장비팀, 중앙공급실은 치료에 필요한 의료기기 및 물품을 지원한다.2. 약제팀은 필요한 의약품을 지원한다.3. 진단검사의학과는 혈액의 재고를 파악하여 추가 혈액을 확보한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국원자력의학원)재난관리규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "보안관리",
+        "chapter": "",
+        "content": "제9조(보안관리) ① 재난 발생 시 출입통제는 다음 각 호와 같다.1. 재난 단계와 상관없이 출입을 통제한다.2. 병원 정문, 응급실 출입구, 중증도 분류 구역, 장례식장 등 환자 유입 지역에 통제선을 설치한다.3. 현장응급진료소에 안전요원을 배치하고 의료진 외 외부인의 출입을 통제한다.4. 직원은 신분증을 패용하며, 환자는 환자인식 팔찌, 보호자는 출입증으로 신분을 확인한다.5. 구급차의 원활한 진입, 출차를 위해 출입ㆍ주차 차량을 통제한다.② 언론 관리는 다음 각 호와 같다.1. 커뮤니케이션팀으로 발표창구를 일원화하여 언론사, 유관기관의 취재에 협조하고 보도자료를 제공한다.2. 모든 보도자료는 재난안전대책본부의 검토 후 제공한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국원자력의학원)재난관리규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "모의훈련 수행 및 관리",
+        "chapter": "",
+        "content": "제10조(모의훈련 수행 및 관리) ① 재난관리 담당부서는 관련 기관, 부서와 연계하여 재난 가능성이 높은 재난유형 파악 및 계획을 바탕으로 연 1회 이상 모의훈련을 실시한다.② 모의훈련을 시행하지 못한 경우 도상훈련으로 대체 할 수 있다.③ 모의 훈련은 재난 시 의사소통, 자원관리 등의 내용을 포함한다.④ 계획에 따른 모의훈련 수행 및 수행평가 결과에 따라 취약부분에 대한 개선방안 수립, 관리체계를 재정립하여 적용한다.⑤ 시행된 모의 훈련 결과를 경영진에게 보고한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국원자력의학원)재난관리규정#JO0010"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20120326",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2012.03.26.>이 규정은 2012년 3월 26일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20160825",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2016.08.25.>이 규정은 2016년 8월 25일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20200122",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2020.01.22.>이 규정은 2020년 1월 22일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20201105",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2020.11.05.>이 규정은 2020년 11월 5일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20220706",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2022.07.06.>이 규정은 2022년 7월 6일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20221108",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2022.11.08.>이 규정은 2022년 11월 8일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20231228",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2023.12.28.>이 규정은 2023년 12월 28일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20240625",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2024.06.25.>이 규정은 2024년 6월 25일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20250423",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2025.04.23.>이 규정은 2025년 5월 1일부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "위험도 평가도구",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000148655&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163447731",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163447731",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(한국원자력의학원)재난관리규정#BYL0001",
+      "filename": "별표1_위험도 평가도구.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "유관기관 및 협력병원 연락처",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000148655&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163447735",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163447735",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(한국원자력의학원)재난관리규정#BYL0002",
+      "filename": "별표2_유관기관 및 협력병원 연락처.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "재난 발생 시 단계별 의료대응",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000148655&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163447939",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163447939",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(한국원자력의학원)재난관리규정#BYL0003",
+      "filename": "별표3_재난 발생 시 단계별 의료대응.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별표",
+      "title": "원내 재난 및 피해유형별 대응체계",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000148655&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163447943",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163447943",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(한국원자력의학원)재난관리규정#BYL0004",
+      "filename": "별표4_원내 재난 및 피해유형별 대응체계.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 7,
+    "by_category": {
+      "법령": 3,
+      "별표": 4
+    },
+    "by_relation_type": {
+      "citation": 3,
+      "appendix_ref": 4
+    },
+    "articles_total": 10,
+    "articles_with_relations": 3,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 9,
+    "appendices_count": 4,
+    "attachments_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/학칙공단/(한국원자력의학원) 재난관리 규정"
+  },
+  "provision_id": "pi:(한국원자력의학원)재난관리규정#DOC"
+}
