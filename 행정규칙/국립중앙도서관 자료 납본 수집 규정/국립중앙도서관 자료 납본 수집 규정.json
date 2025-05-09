@@ -1,0 +1,558 @@
+{
+  "law_id": "2100000258322",
+  "mst": "2100000258322",
+  "law_name": "국립중앙도서관 자료 납본 수집 규정",
+  "law_abbr": "",
+  "law_type": "규정",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000258322",
+  "promulgation_no": "679",
+  "promulgation_date": "20250509",
+  "enforcement_date": "20250509",
+  "revision_date": "20250509",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국립중앙도서관(장서개발과)",
+    "담당자명": "노정미",
+    "행정규칙종류코드": "B0017",
+    "행정규칙명": "국립중앙도서관 자료 납본 수집 규정",
+    "발령일자": "20250509",
+    "행정규칙종류": "규정",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국립중앙도서관",
+    "전화번호": "02-590-6267",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1371000",
+    "생성일자": "20250509",
+    "행정규칙ID": "61015",
+    "시행일자": "20250509",
+    "담당부서기관코드": "1371870",
+    "발령번호": "679",
+    "행정규칙일련번호": "2100000258322",
+    "상위부처명": "문화체육관광부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n국가도서관의 핵심기능인 납본 수집 관련 규정의 일제 정비를 통해 납본 처리 업무의 일관성을 기하고, 납본 주체의 혼선 최소화\n◇ 주요내용\nㅇ 납본받지 않을 수 있는 자료의 종류 명확화 및 단순화(제3조2항1호)\nㅇ 용어 명확화\n- 발행처: 출판사 또는 기관 → 단체 또는 개인(제2조제3항)\n- ‘납본제외자료’ 용어 정의 신설(제2조제5항)\nㅇ 납본자료의 처리 조항 신설(제4조)\n- 납본증명서 발급 및 납본보상금 지급, 가격증빙 등\nㅇ 교체자료중 영구보존 대상 변경(제6조)\n- 전체 → 학위논문 한정\nㅇ 별지서식 수정(안 별지 2호 납본자료 교체 신청서) 등",
+  "body": {
+    "format": "articles",
+    "article_count": 7,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규정은 「도서관법」 및 「도서관법 시행령」에 따른 납본 처리에 관한 세부사항을 규정하는 것을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「도서관법 시행령」",
+            "line_text": "",
+            "target_law_name": "도서관법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도서관법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙도서관자료납본수집규정#JO0001",
+            "reference_id": "law:도서관법시행령#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립중앙도서관자료납본수집규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) ① \"납본\"이란 도서관자료를 발행하거나 제작한 자가 일정 부수를 법령에서 정한 기관에 의무적으로 제출하는 것을 말한다.② \"도서관자료\"란 「도서관법」제3조와 같은 법 시행령 제15조에 따른 자료를  말한다.③ \"발행처\"란 도서관자료를 발행하거나 제작한 단체 또는 개인을 말한다.④ \"반송\"이란 자료를 해당 발행처로 돌려보내거나 국립중앙도서관 전송시스템에서 반려 처리하는 것을 말한다.⑤ \"납본제외자료\"란 도서관자료심의위원회 심의 결과 또는 본 규정 제3조제2항에 따라 납본받지 않기로 결정된 자료를 말한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "제3조",
+            "line_text": "",
+            "target_law_name": "도서관법",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도서관법/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙도서관자료납본수집규정#JO0002",
+            "reference_id": "law:도서관법#JO0003"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "도서관법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도서관법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙도서관자료납본수집규정#JO0002",
+            "reference_id": "law:도서관법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "제15조",
+            "line_text": "",
+            "target_law_name": "도서관법 시행령",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도서관법 시행령/제15조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙도서관자료납본수집규정#JO0002",
+            "reference_id": "law:도서관법시행령#JO0015"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제5항",
+            "link_text": "제3조제2항",
+            "line_text": "",
+            "target_law_name": "도서관법",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도서관법/제3조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:국립중앙도서관자료납본수집규정#JO0002",
+            "reference_id": "law:도서관법#JO0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립중앙도서관자료납본수집규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "도서관자료의 납본",
+        "chapter": "",
+        "content": "제3조(도서관자료의 납본) ① 국립중앙도서관장은 「도서관법」제21조 및 같은 법 시행령 제15조에 따라 발행ㆍ제작되는 도서관자료를 납본받아야 한다.② 국립중앙도서관장이 제1항에도 불구하고 납본받지 않을 수 있는 자료의 종류는 다음과 같다.1. 자료의 종류가. 내용ㆍ형태상 통상적인 도서관자료의 요건을 갖추고 있지 않은 자료나. 소장 자료의 복본자료, 재쇄(중쇄)자료다. 누구나 자유롭게 이용할 수 있는 자료를 단순 편집한 자료라. 공중 배포 및 이용을 목적으로 하지 않거나, 한정된 집단만을 위한 자료마. 광고, 상품 정보를 주로 게재한 자료바. 학교 등 공공기관 외에서 제작한 학습ㆍ수험ㆍ활동 관련 온라인 자료사. 도서관자료심의위원회가 납본제외자료로 결정한 것과 같은 유형의 자료2. 그 외 필요한 경우 경우 도서관법 시행령 제17조제1항에 따라 「도서관자료심의위원회」의 심의를 거쳐 납본 수집에서 제외할 수 있다.3. 납본받지 않을 수 있는 자료에 관한 세부 사항은 「국립중앙도서관 납본 업무 지침」으로 정한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "제21조",
+            "line_text": "",
+            "target_law_name": "도서관법",
+            "target_article_no": "제21조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도서관법/제21조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙도서관자료납본수집규정#JO0003",
+            "reference_id": "law:도서관법#JO0021"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "도서관법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도서관법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙도서관자료납본수집규정#JO0003",
+            "reference_id": "law:도서관법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "제15조",
+            "line_text": "",
+            "target_law_name": "도서관법 시행령",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도서관법 시행령/제15조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙도서관자료납본수집규정#JO0003",
+            "reference_id": "law:도서관법시행령#JO0015"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "제17조제1항",
+            "line_text": "",
+            "target_law_name": "도서관법 시행령",
+            "target_article_no": "제17조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도서관법 시행령/제17조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:국립중앙도서관자료납본수집규정#JO0003",
+            "reference_id": "law:도서관법시행령#JO0017"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립중앙도서관자료납본수집규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "납본자료의 처리",
+        "chapter": "",
+        "content": "제4조(납본자료의 처리) ① 국립중앙도서관장은 납본받은 자료에 대해 도서관법 제21조제3항에 따라 납본증명서를 발급한다.② 국립중앙도서관장은 납본 보상 청구를 받으면「도서관법」제21조제3항 및 같은 법 시행령 제18조에 따라 정당한 보상을 하여야 한다.③ 국립중앙도서관장은 보상청구서를 제출한 자에게 보상금액 결정에 필요한 자료의 제출을 요구할 수 있으며, 자료의 제출을 요구받은 자는 다음 각 호의 서류 중 해당하는 증빙서류를 제출하여야 한다. 단, 증빙서류가 적절하지 않은 경우 도서관자료심의위원회에 안건으로 상정할 수 있다.1. 저자와의 저작권 관련 계약서2. 제작단가(자료출판과 관련하여 발생한 지출서류 등) 및 제작량3. 사업자등록증을 보유한 서점의 납품계약서 및 납품실적4. 기타 판매실적 등(신용카드 매출전표, 현금영수증 등(간이영수증 제외))④ 국립중앙도서관장은 제2항에도 불구하고 납본일로부터 5년이 경과한 자료로서 납본 관련 제출 서류가 누락된 경우 납본보상금을 지급하지 아니할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "제21조제3항",
+            "line_text": "",
+            "target_law_name": "도서관법",
+            "target_article_no": "제21조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도서관법/제21조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:국립중앙도서관자료납본수집규정#JO0004",
+            "reference_id": "law:도서관법#JO0021"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "제21조제3항",
+            "line_text": "",
+            "target_law_name": "도서관법",
+            "target_article_no": "제21조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도서관법/제21조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙도서관자료납본수집규정#JO0004",
+            "reference_id": "law:도서관법#JO0021"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "도서관법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도서관법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙도서관자료납본수집규정#JO0004",
+            "reference_id": "law:도서관법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "제18조",
+            "line_text": "",
+            "target_law_name": "도서관법 시행령",
+            "target_article_no": "제18조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도서관법 시행령/제18조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립중앙도서관자료납본수집규정#JO0004",
+            "reference_id": "law:도서관법시행령#JO0018"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립중앙도서관자료납본수집규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "납본제외자료의 처리",
+        "chapter": "",
+        "content": "제5조(납본제외자료의 처리) ① 납본수집 담당 부서의 장은 납본제외자료를 해당 발행처에 반송한다. 반송된 온라인 자료는 해당 발행처가 국립중앙도서관 전송시스템에서 직접 원문파일을 삭제하도록 안내한다.② 납본수집 담당 부서의 장은 제1항 관련 해당 발행처 요청 시 ‘납본 불가 사유서’ [별지서식 1호]를 발급하여 해당 발행처에 통지하여야 한다.③ 납본수집 담당 부서의 장은 반송한 자료를 해당 발행처가 정당한 이유 없이 3회 이상 수취를 거부하거나, 반송처리를 위한 요청에 협조하지 않을 경우, 자료를 최초로 반송한 날로부터 1년이 경과되면 실물자료는 다른 기관에 기증 또는 폐기하고, 온라인자료는 국립중앙도서관 전송시스템에서 삭제할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립중앙도서관자료납본수집규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "납본자료의 교체",
+        "chapter": "",
+        "content": "제6조(납본자료의 교체) ① 국립중앙도서관에 납본된 자료는 반환하지 않는 것을 원칙으로 한다. 단, 납본의무자가 내용 오류 등을 정정할 목적으로 기납본된 자료의 교체를 신청하는 경우, 교체할 자료와 함께 [별지서식 2호] 또는 [3호]의 신청서를 납본수집 부서에 제출하면, 납본수집 담당 부서의 장은 기존자료를 제출된 자료로 대체한다. 다만, 학위논문의 경우에는 자료 교체 시에도 기존자료를 비공개 처리하여 보존한다.② 납본수집 담당부서는 [별지서식 4-1, 4-2호]의 ‘교체인’을 기존자료의 측인, 장서인, RFID태그에 날인하여 처리한다.③ 그 외 자료 교체에 관한 세부 사항은 「국립중앙도서관 납본 업무 지침」으로 정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립중앙도서관자료납본수집규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "납본 업무의 대행",
+        "chapter": "",
+        "content": "제7조(납본 업무의 대행) 국립중앙도서관장은 효율적인 업무 처리를 위하여 납본 업무의 일부를 기관이나 단체에 대행하게 할 수 있으며, 이 경우 필요한 경비를 지불한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립중앙도서관자료납본수집규정#JO0007"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20171208",
+      "promulgation_no": "546",
+      "content": "부칙 <제546호,2017. 12. 8.>이 규정은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20190601",
+      "promulgation_no": "566",
+      "content": "부칙 <제566호,2019. 6. 1.>이 규정은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20210924",
+      "promulgation_no": "628",
+      "content": "부칙 <제628호, 2021. 9. 24.>이 규정은 2021년 9월 24일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20230324",
+      "promulgation_no": "647",
+      "content": "부칙 <제647호, 2023. 3. 24.>이 규정은 2022년 3월 24일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20240229",
+      "promulgation_no": "664",
+      "content": "부칙 <제664호, 2024. 2. 29.>이 규정은 2024년 2월 29일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20250509",
+      "promulgation_no": "679",
+      "content": "부칙 <제679호, 2025. 5. 9.>이 규정은 2025년 5월 9일부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "납본 불가 사유서",
+      "enforcement_date": "",
+      "content": "[별지서식 1호]\n납본 불가 사유서\n┏━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃자 료 명        │                                                      ┃\n┠────────┼───────────────────────────┨\n┃저 자 명        │                                                      ┃\n┠────────┼───────────────────────────┨\n┃발 행 처        │                                                      ┃\n┃                │* 도서관자료를 발행하거나 제작한 출판사 또는 기관     ┃\n┠────────┼───────────────────────────┨\n┃발 행 일        │       년      월      일                             ┃\n┠────────┼───────────────────────────┨\n┃가  격          │                                                      ┃\n┠────────┼───────────────────────────┨\n┃국제표준자료번호│                                                      ┃\n┃(ISBN?ISSN)    │                                                      ┃\n┠────────┼───────────────────────────┨\n┃해당항목        │                                                      ┃\n┠────────┴───────────────────────────┨\n┃                                                                        ┃\n┃위 자료는 「국립중앙도서관 자료 납본 수집 규정」 제3조제2항에 따른 납본 ┃\n┃제외자료에 해당하므로 반송합니다.                                       ┃\n┃                                                                        ┃\n┃                                                                        ┃\n┃                                                                        ┃\n┃                           년    월    일                               ┃\n┃                                                                        ┃\n┃국립중앙도서관장                                                        ┃\n┃                                                                        ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151432265",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151432261",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151432265",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립중앙도서관자료납본수집규정#BJ0001",
+      "filename": "별지1_납본 불가 사유서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "납본자료 교체 신청서",
+      "enforcement_date": "",
+      "content": "[별지서식 2호]\n납본자료 교체 신청서\n┏━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃교체자료명      │                                                  ┃\n┠────────┼─────────────────────────┨\n┃저 자 명        │                                                  ┃\n┠────────┼─────────────────────────┨\n┃발 행 처        │                                                  ┃\n┃                │ * 도서관자료를 발행하거나 제작한 출판사 또는 기관┃\n┠────────┼─────────────────────────┨\n┃발 행 일        │       년      월      일                         ┃\n┠────────┼─────────────────────────┨\n┃페이지, 크기    │                                                  ┃\n┠────────┼─────────────────────────┨\n┃가    격        │                                                  ┃\n┠────────┼─────────────────────────┨\n┃국제표준자료번호│                                                  ┃\n┃(ISBN·ISSN)    │                                                  ┃\n┠────────┼─────────────────────────┨\n┃발간등록번호    │                                                  ┃\n┠────────┼─────────────────────────┨\n┃교체사유        │□ 인쇄 파본      □ 제목 수정      □ 내용 수정  ┃\n┃                │□ 기타(                                   )      ┃\n┃                ├─────────────────────────┨\n┃                │교체 내용 (상세하게 기술)                         ┃\n┃                ├─────────────────────────┨\n┃                │                                                  ┃\n┠────────┴─────────────────────────┨\n┃                                                                    ┃\n┃                                 신청일       년     월     일      ┃\n┃                                 신청자                     (인)    ┃\n┃                                 발행처                     (인)    ┃\n┃                                                                    ┃\n┃                                                                    ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151432271",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151432267",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151432271",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립중앙도서관자료납본수집규정#BJ0002",
+      "filename": "별지2_납본자료 교체 신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "학위논문 교체 신청서",
+      "enforcement_date": "",
+      "content": "[별지서식 3호]\n학위논문 교체 신청서\n┏━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃교체논문명  │                                                    ┃\n┠──────┼──────────────────────────┨\n┃저 자 명    │                                                    ┃\n┠──────┼──────────────────────────┨\n┃학위수여기관│          대학교        대학원        전공          ┃\n┠──────┼──────────────────────────┨\n┃학위종별    │ [석사□ / 박사□]          년        월            ┃\n┃및 수여연월 │                                                    ┃\n┠──────┼──────────┬───────────────┨\n┃교체논문의  │디지털파일          │인쇄자료                      ┃\n┃공개 여부   ├────┬─────┼────┬──────────┨\n┃            │□ 공 개│□ 비공개 │□ 공 개│□ 비공개           ┃\n┠──────┼────┴─────┴────┴──────────┨\n┃교체사유    │□ 인쇄 파본   □ 논문제목 수정   □ 논문내용 수정  ┃\n┃            │□ 기타(                                          ) ┃\n┃            ├──────────────────────────┨\n┃            │교체 내용 (상세하게 기술)                           ┃\n┃            ├──────────────────────────┨\n┃            │                                                    ┃\n┠──────┴──────────────────────────┨\n┃                                                                  ┃\n┃                                 신청일       년     월     일    ┃\n┃                                 신청자                    (인)   ┃\n┃                                                                  ┃\n┃  * 납본한 기존 논문은 비공개 처리하여 보존합니다.                ┃\n┃                                                                  ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151432277",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151432273",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151432277",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립중앙도서관자료납본수집규정#BJ0003",
+      "filename": "별지3_학위논문 교체 신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "01",
+      "kind": "별지",
+      "title": "교체인",
+      "enforcement_date": "",
+      "content": "[별지서식 4-1호] (교체인)\n\n│  2cm   │\n├─    ─┤\n│        │\n├────┤─┬──\n│교   체 │  │\n│        │\n│        │  1cm\n│        │\n│        │  │\n└──────┴──",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151432283",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151432279",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151432283",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립중앙도서관자료납본수집규정#BJ0004_01",
+      "filename": "별지4의1_교체인.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "02",
+      "kind": "별지",
+      "title": "교체인",
+      "enforcement_date": "",
+      "content": "[별지서식 4-2호] (교체인)\n\n│  1.5cm   │\n├─      ─┤\n│          │\n├─────┤─┬───\n│교 체     │  │\n│          │\n│          │  0.5cm\n│          │\n│          │  │\n└───────┴───",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151432289",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151432285",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151432289",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립중앙도서관자료납본수집규정#BJ0004_02",
+      "filename": "별지4의2_교체인.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "「국립중앙도서관 자료 납본 수집 규정」 개정전문.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=151432151",
+      "file_store_url": "",
+      "filename": "「국립중앙도서관 자료 납본 수집 규정」 개정전문.hwp"
+    },
+    {
+      "name": "「국립중앙도서관 자료 납본 수집 규정」 개정전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=151432155",
+      "file_store_url": "",
+      "filename": "「국립중앙도서관 자료 납본 수집 규정」 개정전문.pdf"
+    },
+    {
+      "name": "(양식)조문별제개정이유서_「국립중앙도서관 자료 납본 수집 규정」   (신구조문대조표 포함).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=151432699",
+      "file_store_url": "",
+      "filename": "(양식)조문별제개정이유서_「국립중앙도서관 자료 납본 수집 규정」   (신구조문대조표 포함).hwp"
+    },
+    {
+      "name": "(양식)조문별제개정이유서_「국립중앙도서관 자료 납본 수집 규정」   (신구조문대조표 포함).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=151432703",
+      "file_store_url": "",
+      "filename": "(양식)조문별제개정이유서_「국립중앙도서관 자료 납본 수집 규정」   (신구조문대조표 포함).pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 13,
+    "by_category": {
+      "법령": 13
+    },
+    "by_relation_type": {
+      "citation": 13
+    },
+    "articles_total": 7,
+    "articles_with_relations": 4,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 6,
+    "appendices_count": 5,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/국립중앙도서관 자료 납본 수집 규정"
+  },
+  "provision_id": "admrul:국립중앙도서관자료납본수집규정#DOC"
+}
