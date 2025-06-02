@@ -1,0 +1,848 @@
+{
+  "law_id": "2100000259908",
+  "mst": "2100000259908",
+  "law_name": "산림항공 운항규정",
+  "law_abbr": "",
+  "law_type": "훈령",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000259908",
+  "promulgation_no": "372",
+  "promulgation_date": "20250602",
+  "enforcement_date": "20250602",
+  "revision_date": "20250602",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "산림항공본부(산림항공과)",
+    "담당자명": "김태권",
+    "행정규칙종류코드": "B0001",
+    "행정규칙명": "산림항공 운항규정",
+    "발령일자": "20250602",
+    "행정규칙종류": "훈령",
+    "제개정구분코드": "200403",
+    "조문형식여부": "N",
+    "소관부처명": "산림항공본부",
+    "전화번호": "033-769-6033",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1400000",
+    "생성일자": "20250604",
+    "행정규칙ID": "2084526",
+    "시행일자": "20250602",
+    "담당부서기관코드": "1400611",
+    "발령번호": "372",
+    "행정규칙일련번호": "2100000259908",
+    "상위부처명": "산림청"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n산림항공본부 운항규정 항공기 운항, 교육훈련과 관련하여 명확한 지침을 제공하고자 일부 내용을 개정함\n◇ 주요내용\n가. 최대 비행시간 수정\n나. 소형헬기 임무수행 시 2명으로 편성한다\n다. 비행근무관련 휴식보장 항목 중 단서 조항 삭제\n라. 조종교육증명 취득 교육 중 비행학은 관리소 여건에 따라 실시하되 비행학 과목 중 비정상 및 비상절차 훈련(5시간)을 제외하고 임무비행(20시간)과 병행 실시할 수 있다\n마. 씨스노클 훈련 중 해수훈련은 정비소요 등을 고려하여 년 1회 통합 실시할 수 있다.\n바. 별지 내용으로 조종사 지급기준에 비행지원 장비 추가 반영",
+  "body": {
+    "format": "articles",
+    "article_count": 0,
+    "articles": [],
+    "unmatched_relations": [
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "「전파법」",
+        "line_text": "",
+        "target_law_name": "전파법",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/법령/전파법",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "appendix_ref",
+        "delegation_type": null,
+        "target_category": "별지",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "별지 제1호",
+        "line_text": "",
+        "target_law_name": "산림항공 운항규정",
+        "target_article_no": "별지1",
+        "target_article_title": "항공기 비행승인 요청",
+        "appendix_no": "1",
+        "appendix_branch": "",
+        "appendix_kind": "별지",
+        "appendix_found": true,
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666329",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "appendix_ref",
+        "delegation_type": null,
+        "target_category": "별지",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "별지 제2호",
+        "line_text": "",
+        "target_law_name": "산림항공 운항규정",
+        "target_article_no": "별지2",
+        "target_article_title": "비행지시서(3.1.1 관련)",
+        "appendix_no": "2",
+        "appendix_branch": "",
+        "appendix_kind": "별지",
+        "appendix_found": true,
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666335",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "appendix_ref",
+        "delegation_type": null,
+        "target_category": "별지",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "별지 제3호",
+        "line_text": "",
+        "target_law_name": "산림항공 운항규정",
+        "target_article_no": "별지3",
+        "target_article_title": "산불 구두 비행지시(3.1.2 관련)",
+        "appendix_no": "3",
+        "appendix_branch": "",
+        "appendix_kind": "별지",
+        "appendix_found": true,
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666421",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "appendix_ref",
+        "delegation_type": null,
+        "target_category": "별지",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "별지 제4호",
+        "line_text": "",
+        "target_law_name": "산림항공 운항규정",
+        "target_article_no": "별지4",
+        "target_article_title": "비행 브리핑 일지",
+        "appendix_no": "4",
+        "appendix_branch": "",
+        "appendix_kind": "별지",
+        "appendix_found": true,
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666427",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "appendix_ref",
+        "delegation_type": null,
+        "target_category": "별표",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "별표 4",
+        "line_text": "",
+        "target_law_name": "산림항공 운항규정",
+        "target_article_no": "별표4",
+        "target_article_title": "조종교육증명 취득 교육(4.5.1 관련)",
+        "appendix_no": "4",
+        "appendix_branch": "",
+        "appendix_kind": "별표",
+        "appendix_found": true,
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000259908&bylNo=0004&bylBrNo=00",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "appendix_ref",
+        "delegation_type": null,
+        "target_category": "별지",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "별지 제5호",
+        "line_text": "",
+        "target_law_name": "산림항공 운항규정",
+        "target_article_no": "별지5",
+        "target_article_title": "교육일지(4.5.2 관련)",
+        "appendix_no": "5",
+        "appendix_branch": "",
+        "appendix_kind": "별지",
+        "appendix_found": true,
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666433",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "appendix_ref",
+        "delegation_type": null,
+        "target_category": "별표",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "별표 2",
+        "line_text": "",
+        "target_law_name": "산림항공 운항규정",
+        "target_article_no": "별표2",
+        "target_article_title": "한정자격 및 기종자격취득 지상교육 계획(4.5.3 관련)",
+        "appendix_no": "2",
+        "appendix_branch": "",
+        "appendix_kind": "별표",
+        "appendix_found": true,
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000259908&bylNo=0002&bylBrNo=00",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "appendix_ref",
+        "delegation_type": null,
+        "target_category": "별표",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "별표 2",
+        "line_text": "",
+        "target_law_name": "산림항공 운항규정",
+        "target_article_no": "별표2",
+        "target_article_title": "한정자격 및 기종자격취득 지상교육 계획(4.5.3 관련)",
+        "appendix_no": "2",
+        "appendix_branch": "",
+        "appendix_kind": "별표",
+        "appendix_found": true,
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000259908&bylNo=0002&bylBrNo=00",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "appendix_ref",
+        "delegation_type": null,
+        "target_category": "별표",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "별표 2",
+        "line_text": "",
+        "target_law_name": "산림항공 운항규정",
+        "target_article_no": "별표2",
+        "target_article_title": "한정자격 및 기종자격취득 지상교육 계획(4.5.3 관련)",
+        "appendix_no": "2",
+        "appendix_branch": "",
+        "appendix_kind": "별표",
+        "appendix_found": true,
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000259908&bylNo=0002&bylBrNo=00",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "appendix_ref",
+        "delegation_type": null,
+        "target_category": "별표",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "별표 5",
+        "line_text": "",
+        "target_law_name": "산림항공 운항규정",
+        "target_article_no": "별표5",
+        "target_article_title": "모의비행훈련장치 교관 자체 이수교육(5.1.3 관련)",
+        "appendix_no": "5",
+        "appendix_branch": "",
+        "appendix_kind": "별표",
+        "appendix_found": true,
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000259908&bylNo=0005&bylBrNo=00",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "행정규칙",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "「산림항공 안전규정」",
+        "line_text": "",
+        "target_law_name": "산림항공 안전규정",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/행정규칙/산림항공 안전규정",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "행정규칙",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "「산림항공 안전규정」",
+        "line_text": "",
+        "target_law_name": "산림항공 안전규정",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/행정규칙/산림항공 안전규정",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "appendix_ref",
+        "delegation_type": null,
+        "target_category": "별지",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "별지 제8호",
+        "line_text": "",
+        "target_law_name": "산림항공 운항규정",
+        "target_article_no": "별지8",
+        "target_article_title": "직무별 지급기준(6.3.2 관련)",
+        "appendix_no": "8",
+        "appendix_branch": "",
+        "appendix_kind": "별지",
+        "appendix_found": true,
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666451",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "행정규칙",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "「산림항공 안전규정」",
+        "line_text": "",
+        "target_law_name": "산림항공 안전규정",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/행정규칙/산림항공 안전규정",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "행정규칙",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "「산림항공 안전규정」",
+        "line_text": "",
+        "target_law_name": "산림항공 안전규정",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/행정규칙/산림항공 안전규정",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "행정규칙",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "「산림항공 안전규정」",
+        "line_text": "",
+        "target_law_name": "산림항공 안전규정",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/행정규칙/산림항공 안전규정",
+        "resolve_method": "html"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20200324",
+      "promulgation_no": "304",
+      "content": "부칙 <제304호,2020. 3. 24.>제1조 (시행일) 이 규정은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20201116",
+      "promulgation_no": "310",
+      "content": "부칙 <제310호,2020. 11. 16.>제1조 (시행일) 이 규정은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20210531",
+      "promulgation_no": "321",
+      "content": "부칙 <제321호, 2021. 5. 31.>이 규정은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20250602",
+      "promulgation_no": "372",
+      "content": "부칙 <제372호, 2025. 6. 2.>제1조 (시행일) 이 규정은 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "기관별 비행권역",
+      "enforcement_date": "",
+      "content": "[별표 1]\n기관별 비행권역\n┌──────┬───────────┬────────────────────────────────┒\n│기 관       │위  치                │비 행 권 역                                                     ┃\n├──────┼───────────┼────────────────────────────────┨\n│본  부      │ 강원도 원주 지정면   │ o 경기도(양평군, 여주시)                                       ┃\n│(권역 조정) │ 구재로 229           │ o 강원특별자치도(원주시, 홍천군, 영월군, 횡성군)               ┃\n│            │                      │ o 충청북도(제천시, 단양군)                                     ┃\n├──────┼───────────┼────────────────────────────────┨\n│익  산      │ 전북 익산시 왕궁면   │ o 전라북도(남원시, 장수군 제외)                                ┃\n│관리소      │ 우주로 433-9         │ o 충청남도(논산시, 금산군)                                     ┃\n├──────┼───────────┼────────────────────────────────┨\n│양  산      │ 경남 양산시 하북면   │ o 부산광역시                                                   ┃\n│관리소      │ 삼동로 24            │ o 울산광역시                                                   ┃\n│            │                      │ o 경상북도(경산시, 경주시, 영천시, 포항시, 청도군)             ┃\n│            │                      │ o 경상남도(함양관리소 권역 제외)                               ┃\n├──────┼───────────┼────────────────────────────────┨\n│영  암      │ 전남 영암군 덕진면   │ o 광주광역시                                                   ┃\n│관리소      │ 소방항공대길 95      │ o 전라남도(광양시, 여수시, 구례군 제외)                        ┃\n├──────┼───────────┼────────────────────────────────┨\n│안  동      │ 경북 안동시 바람이길 │ o 대구광역시                                                   ┃\n│관리소      │ 215(정하동)          │ o 경상북도(안동시, 영주시, 문경시, 상주시, 구미시,             ┃\n│            │                      │예천군, 칠곡군, 의성군, 청송군)                                 ┃\n├──────┼───────────┼────────────────────────────────┨\n│강  릉      │ 강원도 강릉시 공항길 │ o 강원특별자치도(강릉시, 동해시, 속초시, 삼척시, 태백시,       ┃\n│관리소      │ 142-10(남항진동)     │   고성군, 양양군, 인제군, 정선군, 평창군)                      ┃\n│(권역 조정) │                      │                                                                ┃\n├──────┼───────────┼────────────────────────────────┨\n│진  천      │ 충북 진천군 문백면   │ o 대전광역시                                                   ┃\n│관리소      │ 파재로 184-37        │ o 경기도(평택시, 안성시)                                       ┃\n│            │                      │ o 충청북도(제천시, 단양군 제외)                                ┃\n│            │                      │ o 충청남도(천안시, 아산시)                                     ┃\n│            │                      │ o 세종특별자치시                                               ┃\n├──────┼───────────┼────────────────────────────────┨\n│함  양      │ 경남 함양군 유림면   │ o 전라북도(남원시, 장수군)                                     ┃\n│관리소      │ 천왕봉로 3076        │ o 전라남도(구례군, 광양시, 여수시)                             ┃\n│            │                      │ o 경상북도(김천시, 고령군, 성주군)                             ┃\n│            │                      │ o 경상남도(거창군, 함양군, 합천군, 산청군, 의령군,             ┃\n│            │                      │하동군, 진주시, 사천시, 남해군)                                 ┃\n├──────┼───────────┼────────────────────────────────┨\n│청  양      │ 충남 청양군 남양면   │ o 충청남도(논산시, 금산군, 천안시, 아산시, 세종특별자치시 제외)┃\n│관리소      │ 용두리 452-4         │                                                                ┃\n├──────┼───────────┼────────────────────────────────┨\n│서  울      │ 서울시 강서구        │ o 서울특별시  o 인천광역시                                     ┃\n│관리소      │ 하늘길 84            │ o 경기도(평택시, 안성시, 양평군, 여주시, 연천군 제외)          ┃\n│(권역 조정) │                      │                                                                ┃\n├──────┼───────────┼────────────────────────────────┨\n│울  진      │ 경북 울진군 기성면   │ o 경상북도(울진군, 영덕군, 영양군, 봉화군, 울릉군)             ┃\n│관리소      │ 기성로 502           │                                                                ┃\n├──────┼───────────┼────────────────────────────────┨\n│제  주      │ 제주도 제주시        │ o 제주특별자치도                                               ┃\n│관리소      │ 용강동 516로 2596    │                                                                ┃\n├──────┼───────────┼────────────────────────────────┨\n│비무장      │ 강원도 철원군 김화읍 │ o 비무장지대 전 지역                                           ┃\n│지대        │ 청양리 556-2         │ o 강원특별자치도(춘천시, 철원군, 화천군, 양구군)               ┃\n│관리소      │                      │ o 경기도(연천군)                                               ┃\n┕━━━━━━┷━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000259908&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666457",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666453",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666457",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:산림항공운항규정#BYL0001",
+      "filename": "별표1_기관별 비행권역.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "한정자격 및 기종자격취득 지상교육 계획(4.5.3 관련)",
+      "enforcement_date": "",
+      "content": "[별표 2]\n한정자격 및 기종자격취득 지상교육 계획(4.5.3 관련)\n1. BELL-206\n가. BELL-206L 미운용인원(34시간 30분) <개정 ‘21.5.31>\n┌─────┬────────────────────────┬───┒\n│구    분  │과                목                            │시  간┃\n├─────┼────────────────────────┼───┨\n│Lesson 1  │ General Description  일반사항                  │02+00 ┃\n├─────┼────────────────────────┼───┨\n│Lesson 2  │ Crew Compartment  승무원실 기재취급 및 계기판독│01+30 ┃\n├─────┼────────────────────────┼───┨\n│Lesson 3  │ Limitations  제한사항                          │02+00 ┃\n├─────┼────────────────────────┼───┨\n│Lesson 4  │ Airframe 기체계통                              │02+00 ┃\n├─────┼────────────────────────┼───┨\n│Lesson 5  │ Power-plant 엔진계통                           │03+00 ┃\n├─────┼────────────────────────┼───┨\n│Lesson 6  │ Fuel System 연료계통                           │01+30 ┃\n├─────┼────────────────────────┼───┨\n│Lesson 7  │ Handling / Service / Maintenance               │01+30 ┃\n│          │ 항공기 취급 / 정비주기 / 기초 정비학           │      ┃\n├─────┼────────────────────────┼───┨\n│Lesson 8  │ Transmission / Drive train 동력전달계통        │02+00 ┃\n├─────┼────────────────────────┼───┨\n│Lesson 9  │ Hydraulic 유압계통                             │02+00 ┃\n├─────┼────────────────────────┼───┨\n│Lesson 10 │ Flight Controls 조종계통                       │01+30 ┃\n├─────┼────────────────────────┼───┨\n│Lesson 11 │ Electrical system 전기계통                     │02+00 ┃\n├─────┼────────────────────────┼───┨\n│Lesson 12 │ Performance chart 항공기 성능 및 성능차트 이해 │02+00 ┃\n├─────┼────────────────────────┼───┨\n│Lesson 13 │ Weight and Balance 항공기 무게 및 중심         │01+00 ┃\n├─────┼────────────────────────┼───┨\n│Lesson 14 │ Preflight Inspection 비행전 점검               │01+30 ┃\n├─────┼────────────────────────┼───┨\n│Lesson 15 │ Engine Starting & Run-Up Procedures            │01+30 ┃\n│          │ 엔진 시동 및 난기운전 절차                     │      ┃\n├─────┼────────────────────────┼───┨\n│Lesson 16 │ ATM 승무원 훈련 매뉴얼                         │06+00 ┃\n├─────┼────────────────────────┼───┨\n│Lesson 17 │ 복 습(Review)                                  │01+30 ┃\n├─────┴────────────────────────┼───┨\n│계                                                          │34+30 ┃\n┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━┛\n나. BELL-206L 운용인원(17시간) <신설 ‘21.5.31>\n┌────┬────────────────────────┬───┒\n│구    분│과                목                            │시  간┃\n├────┼────────────────────────┼───┨\n│Lesson 1│ General Description  일반사항                  │02+00 ┃\n├────┼────────────────────────┼───┨\n│Lesson 2│ Crew Compartment  승무원실 기재취급 및 계기판독│01+00 ┃\n├────┼────────────────────────┼───┨\n│Lesson 3│ Limitations  제한사항                          │02+00 ┃\n├────┼────────────────────────┼───┨\n│Lesson 4│ Performance chart 항공기 성능 및 성능차트 이해 │02+00 ┃\n├────┼────────────────────────┼───┨\n│Lesson 5│ Weight and Balance 항공기 무게 및 중심         │01+00 ┃\n├────┼────────────────────────┼───┨\n│Lesson 6│ Preflight Inspection 비행전 점검               │01+00 ┃\n├────┼────────────────────────┼───┨\n│Lesson 7│ Engine Starting & Run-Up Procedures            │01+00 ┃\n│        │ 엔진 시동 및 난기운전 절차                     │      ┃\n├────┼────────────────────────┼───┨\n│Lesson 8│ ATM 승무원 훈련 매뉴얼                         │06+00 ┃\n├────┼────────────────────────┼───┨\n│Lesson 9│ 복 습(Review)                                  │01+00 ┃\n├────┴────────────────────────┼───┨\n│계                                                        │17+00 ┃\n┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━┛\n2. AS-350B2\n가. AS-350B2 미운용인원(36시간) <개정 ‘21.5.31>\n┌─────┬─────────────────────────┬────┒\n│구    분  │내             용                                 │교육시간┃\n├─────┼─────────────────────────┼────┨\n│Lesson 1  │ Dimensions, Structure & Aircraft documentation   │01+00   ┃\n│          │ 항공기 일반현황                                  │        ┃\n├─────┼─────────────────────────┼────┨\n│Lesson 2  │ Engine, Rotors & Transmissions                   │03+00   ┃\n│          │ 엔진, 로타 및 미션계통                           │        ┃\n├─────┼─────────────────────────┼────┨\n│Lesson 3  │ Fuel Systems  연료계통                           │01+00   ┃\n├─────┼─────────────────────────┼────┨\n│Lesson 4  │ Air Conditioning (Ventilation & Heating system)  │01+30   ┃\n│          │ 에어콘 운용 (환기 및 난방 시스템 포함)           │        ┃\n├─────┼─────────────────────────┼────┨\n│Lesson 5  │ Ice protection and Windshield wipers             │01+00   ┃\n│          │ 방빙대책 및 윈드쉴드 와이퍼 작동                 │        ┃\n├─────┼─────────────────────────┼────┨\n│Lesson 6  │ Hydraulic system  유압계통                       │01+30   ┃\n├─────┼─────────────────────────┼────┨\n│Lesson 7  │ Landing gear 착륙장치                            │01+00   ┃\n├─────┼─────────────────────────┼────┨\n│Lesson 8  │ Flight controls, Stab and Autopilot systems      │03+00   ┃\n│          │ 비행조종계통 자동항법장치 계통                   │        ┃\n├─────┼─────────────────────────┼────┨\n│ Lesson 9 │ Electrical power supply 전기계통                 │02+00   ┃\n├─────┼─────────────────────────┼────┨\n│Lesson 10 │ Flight instruments, Communication, Radar and     │03+00   ┃\n│          │ Navigation equipment                             │        ┃\n│          │ 비행계기, 통신, 레이다, 항법장치                 │        ┃\n├─────┼─────────────────────────┼────┨\n│Lesson 11 │ Cockpit, cabin and cargo compartment             │03+00   ┃\n│          │ 조종실 및 화물실                                 │        ┃\n├─────┼─────────────────────────┼────┨\n│Lesson 12 │ Emergency equipment 비상장비                     │02+00   ┃\n├─────┼─────────────────────────┼────┨\n│Lesson 13 │ General limitations  제한사항                    │01+30   ┃\n├─────┼─────────────────────────┼────┨\n│Lesson 14 │ Load and balance  무게 및 균형                   │01+30   ┃\n├─────┼─────────────────────────┼────┨\n│Lesson 15 │ Performance and Flight planning                  │02+00   ┃\n│          │ 항공기 성능 및 비행계획                          │        ┃\n├─────┼─────────────────────────┼────┨\n│Lesson 16 │ Servicing on ground  지상에서의 운용             │02+00   ┃\n├─────┼─────────────────────────┼────┨\n│Lesson 17 │ Emergency procedures  비상절차                   │04+00   ┃\n├─────┼─────────────────────────┼────┨\n│Lesson 18 │ Optional equipment  추가 설치장비                │01+00   ┃\n├─────┼─────────────────────────┼────┨\n│Lesson 19 │ 복 습(Review)                                    │01+00   ┃\n├─────┴─────────────────────────┼────┨\n│계                                                            │36+00   ┃\n┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━┛\n나. AS-350B2 운용인원(18시간) <신설 ‘21.5.31>\n┌─────┬────────────────────────┬────┒\n│구    분  │내             용                               │교육시간┃\n├─────┼────────────────────────┼────┨\n│Lesson 1  │ Dimensions, Structure & Aircraft documentation │01+00   ┃\n│          │ 항공기 일반현황                                │        ┃\n├─────┼────────────────────────┼────┨\n│Lesson 2  │ Flight controls, Stab and Autopilot systems    │03+00   ┃\n│          │ 비행조종계통 자동항법장치 계통                 │        ┃\n├─────┼────────────────────────┼────┨\n│Lesson 3  │ Flight instruments, Communication, Radar and   │03+00   ┃\n│          │ Navigation equipment                           │        ┃\n│          │ 비행계기, 통신, 레이다, 항법장치               │        ┃\n├─────┼────────────────────────┼────┨\n│Lesson 4  │ General limitations  제한사항                  │01+30   ┃\n├─────┼────────────────────────┼────┨\n│Lesson 5  │ Load and balance  무게 및 균형                 │01+30   ┃\n├─────┼────────────────────────┼────┨\n│Lesson 6  │ Performance and Flight planning                │02+00   ┃\n│          │ 항공기 성능 및 비행계획                        │        ┃\n├─────┼────────────────────────┼────┨\n│Lesson 7  │ Emergency procedures  비상절차                 │04+00   ┃\n├─────┼────────────────────────┼────┨\n│Lesson 8  │ Optional equipment  추가 설치장비              │01+00   ┃\n├─────┼────────────────────────┼────┨\n│ Lesson 9 │ 복 습(Review)                                  │01+00   ┃\n├─────┴────────────────────────┼────┨\n│계                                                          │18+00   ┃\n┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━┛\n3. KA-32   <개정 ’20.3.24>\n┌──┬───────────────────────────────┬───┒\n│구분│과                   목                                       │시 간 ┃\n├──┼───────────────────────────────┼───┨\n│1   │ 비행 준비 및 계획(Flight preparation program)                │02+00 ┃\n├──┼───────────────────────────────┼───┨\n│2   │ 공중항법(Air Navigation)                                     │01+00 ┃\n├──┼───────────────────────────────┼───┨\n│3   │ 수색 및 구조(Search and rescue operations)                   │01+00 ┃\n├──┼───────────────────────────────┼───┨\n│4   │ 일반현황(General information about the helicopter)           │01+00 ┃\n├──┼───────────────────────────────┼───┨\n│5   │ KA-32 비행매뉴얼(KA-32 Helicopter Flight Manual)             │10+00 ┃\n├──┼───────────────────────────────┼───┨\n│6   │ 비행 임무수행 중 안전사항                                    │01+00 ┃\n│    │ (Safety Precautions while carrying out works on aircrafts)   │      ┃\n├──┼───────────────────────────────┼───┨\n│7   │ 헬리콥터 구조 및 각 구성품의 비행작동 이해                   │05+00 ┃\n│    │ (Structure of the helicopter and its flight operation)       │      ┃\n├──┼───────────────────────────────┼───┨\n│8   │ 엔진의 구조 및 각 구성품의 비행작동 이해                     │05+00 ┃\n│    │ (Structure of the engine and its flight operation)           │      ┃\n├──┼───────────────────────────────┼───┨\n│9   │ 전기계통 및 각 구성품의 비행작동 이해                        │10+00 ┃\n│    │ (Aircraft and electronic equipment and its flight operation) │      ┃\n├──┼───────────────────────────────┼───┨\n│10  │ 비행역학 및 원리(Practical aerodynamics)                     │02+00 ┃\n├──┼───────────────────────────────┼───┨\n│11  │ 승무원자원관리(FCRM)                                         │02+00 ┃\n├──┼───────────────────────────────┼───┨\n│12  │ 복 습(Review)                                                │02+00 ┃\n├──┴───────────────────────────────┼───┨\n│총 계                                                               │42+00 ┃\n┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━┛\n4. S-64\n┌────────┬────────────────────────┬───┒\n│구    분        │과                목                            │시  간┃\n├────────┼────────────────────────┼───┨\n│일반사항        │항공기 구조 및 제원(Aircraft structure,         │01+00 ┃\n│                │Dimensions, and Capacities)                     │      ┃\n├────────┼────────────────────────┼───┨\n│엔진 및 보조엔진│엔진 시스템, 엔진 조종 계통, 엔진계기(Engine    │04+00 ┃\n│                │systems, control, instrumentation)              │      ┃\n│                │보조엔진 계통 및 조작(Auxiliary power plant     │      ┃\n│                │components and operation)                       │      ┃\n├────────┼────────────────────────┼───┨\n│기어박스        │주, 중간, 꼬리 기어박스 계통(Main,              │03+00 ┃\n│                │intermediate, and tail gearbox lubrication and  │      ┃\n│                │indication systems)                             │      ┃\n├────────┼────────────────────────┼───┨\n│로타 계통       │주, 꼬리날개 로터 계통(Main and tail rotor      │02+00 ┃\n│                │heads, and rotor blade)                         │      ┃\n├────────┼────────────────────────┼───┨\n│조종 계통       │사이클릭, 컬렉티브, 페달 조종계통(Cyclic,       │01+00 ┃\n│                │Collective, Pedal controls)                     │      ┃\n├────────┼────────────────────────┼───┨\n│Automatic Flight│AFCS의 구성품 및 작동원리(The components        │02+00 ┃\n│Control System  │and theory of operation of AFCS system)         │      ┃\n├────────┼────────────────────────┼───┨\n│유압 계통       │유압계통의 조작 및 계통(Sources, control, and   │03+00 ┃\n│                │usage of all installed hydraulic systems)       │      ┃\n├────────┼────────────────────────┼───┨\n│연료 계통       │연료공급 및 기타 연료계통(Servicing, supply,    │02+00 ┃\n│                │indicating, and controls of the fuel system)    │      ┃\n├────────┼────────────────────────┼───┨\n│전기 계통       │AC 및 DC 전원 공급원 및 각 시스템               │01+00 ┃\n│                │계통(Sources of AC and DC power, and            │      ┃\n│                │distribution of each system)                    │      ┃\n├────────┼────────────────────────┼───┨\n│                │Normal procedures                               │03+00 ┃\n│비행 매뉴얼     ├────────────────────────┼───┨\n│                │Systems description                             │02+00 ┃\n│                ├────────────────────────┼───┨\n│                │Emergency procedures                            │02+00 ┃\n│                ├────────────────────────┼───┨\n│                │Limitation                                      │02+00 ┃\n│                ├────────────────────────┼───┨\n│                │Performance                                     │03+00 ┃\n│                ├────────────────────────┼───┨\n│                │Weight and Balance                              │02+00 ┃\n├────────┼────────────────────────┼───┨\n│총  계          │                                                │33시간┃\n┕━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━┷━━━┛\n5. KUH   <신설 ’18.5.23>\n가. 군 KUH-1 미 운용인원(140시간), <개정 ’21.5.31>\n┌──────────────────────┬───┒\n│과                목                        │시  간┃\n├──────────────────────┼───┨\n│항공기 소개                                 │1+00  ┃\n├──────────────────────┼───┨\n│항공기 운영간 부주의 사례                   │2+00  ┃\n├──────────────────────┼───┨\n│기술교범                                    │1+00  ┃\n├──────────────────────┼───┨\n│성능 및 동체 공력해석                       │4+00  ┃\n├──────────────────────┼───┨\n│비행성(Handling Quality)                    │2+00  ┃\n├──────────────────────┼───┨\n│하중                                        │2+00  ┃\n├──────────────────────┼───┨\n│중량 및 평형                                │2+00  ┃\n├──────────────────────┼───┨\n│기체구조 설계 및 해석                       │4+00  ┃\n├──────────────────────┼───┨\n│동력전달계통 작동원리 및 운용절차           │2+00  ┃\n├──────────────────────┼───┨\n│로터제빙 및 로터계통 작동원리 운용절차      │2+00  ┃\n├──────────────────────┼───┨\n│비행조종계통(MFCS)/ADS 작동원리 및 운용절차 │4+00  ┃\n├──────────────────────┼───┨\n│비행조종계통(AFCS) 작동원리 및 운용절차     │4+00  ┃\n├──────────────────────┼───┨\n│엔진 및 엔진장착계통 작동원리 및 운용절차   │4+00  ┃\n├──────────────────────┼───┨\n│연료계통 작동원리 및 운용절차               │2+00  ┃\n├──────────────────────┼───┨\n│보조동력계통 작동원리 및 운용절차           │2+00  ┃\n├──────────────────────┼───┨\n│착륙장치계통 작동원리 및 운용절차           │2+00  ┃\n├──────────────────────┼───┨\n│유압계통 작동원리 및 운용절차               │2+00  ┃\n├──────────────────────┼───┨\n│환경제어계통 작동원리 및 운용절차           │2+00  ┃\n├──────────────────────┼───┨\n│전기계통 작동원리 및 운용절차               │4+00  ┃\n├──────────────────────┼───┨\n│상태감시계통(HUMS) 작동원리 및 운용절차     │2+00  ┃\n├──────────────────────┼───┨\n│설비장치/지급장비계통 작동원리 및 운용절차  │4+00  ┃\n├──────────────────────┼───┨\n│항전 MEP 작동원리 및 운용절차               │40+00 ┃\n├──────────────────────┼───┨\n│항전 VEP 작동원리 및 운용절차               │2+00  ┃\n├──────────────────────┼───┨\n│물탱크 작동원리 및 운용절차                 │4+00  ┃\n├──────────────────────┼───┨\n│사용자 교범                                 │40+00 ┃\n├──────────────────────┼───┨\n│계                                          │140+00┃\n┕━━━━━━━━━━━━━━━━━━━━━━┷━━━┛\n나. 군 KUH-1 운용인원(60시간), <신설 ’21.5.31.>\n┌─────────────────────┬───┒\n│과                목                      │시  간┃\n├─────────────────────┼───┨\n│항공기 소개                               │1+00  ┃\n├─────────────────────┼───┨\n│항공기 운영간 부주의 사례                 │2+00  ┃\n├─────────────────────┼───┨\n│기술교범                                  │1+00  ┃\n├─────────────────────┼───┨\n│성능 및 동체 공력해석                     │4+00  ┃\n├─────────────────────┼───┨\n│비행성(Handling Quality)                  │2+00  ┃\n├─────────────────────┼───┨\n│하중                                      │2+00  ┃\n├─────────────────────┼───┨\n│중량 및 평형                              │2+00  ┃\n├─────────────────────┼───┨\n│설비장치/지급장비계통 작동원리 및 운용절차│2+00  ┃\n├─────────────────────┼───┨\n│물탱크 작동원리 및 운용절차               │4+00  ┃\n├─────────────────────┼───┨\n│사용자 교범                               │40+00 ┃\n├─────────────────────┼───┨\n│계                                        │60+00 ┃\n┕━━━━━━━━━━━━━━━━━━━━━┷━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000259908&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666477",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666459",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666477",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:산림항공운항규정#BYL0002",
+      "filename": "별표2_한정자격 및 기종자격취득 지상교육 계획(4.5.3 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "한정자격 및 기종자격취득 비행교육 계획(4.5.3 관련)",
+      "enforcement_date": "",
+      "content": "[별표 3]\n한정자격 및 기종자격취득 비행교육 계획(4.5.3 관련)\n1. BELL-206\n┌──────┬─────────────────────────────┬────┒\n│구  분      │과      제                                                │시  간  ┃\n├──────┼─────────────────────────────┼────┨\n│비행 전 절차│? Pre-flight planning(비행 전 계획)                      │  01+00 ┃\n│            │? Exterior Inspection(외부 점검)                         │        ┃\n│            │? Before starting procedure(시동 전 절차)                │        ┃\n│            │? Engine starting & Run-up(엔진시동 및 런업)             │        ┃\n├──────┼─────────────────────────────┼────┨\n│이륙 절차   │? Before Take-off check(이륙 전 점검)                    │  01+00 ┃\n│            │? Hover Take-off(제자리 이륙)                            │        ┃\n│            │? Hovering & Hover Taxing(제자리 및 활주비행)            │        ┃\n│            │? Normal Take-off(정상이륙)                              │        ┃\n│            │? Maximum performance Take-off(최대동력이륙)             │        ┃\n├──────┼─────────────────────────────┼────┨\n│비행 중 절차│? In-flight manuvers(공중조작 및 기동)                   │  01+00 ┃\n├──────┼─────────────────────────────┼────┨\n│접근 및     │? Landing form Hover altitude(제자리비행 고도로부터 착륙)│  01+00 ┃\n│착륙 절차   │? Normal Approach(정상접근)                              │        ┃\n│            │? Steep Approach(깊은 각 접근)                           │        ┃\n│            │? Shallow Approach(낮은 각 접근)                         │        ┃\n│            │? Running Landing(활주착륙)                              │        ┃\n│            │? Engine shutdown After Landing(착륙 후 엔진정지)        │        ┃\n├──────┼─────────────────────────────┼────┨\n│경사지 운용 │? Slope Area Take-off & Landing(경사지 이. 착륙)         │  00+40 ┃\n├──────┼─────────────────────────────┼────┨\n│ 제한지 운용│? Confined Area Take-off & Landing(제한지 이. 착륙)      │  00+40 ┃\n├──────┼─────────────────────────────┼────┨\n│산정 운용   │? Pinacle Area Take-off & Landing(산정 이. 착륙)         │  00+40 ┃\n├──────┼─────────────────────────────┼────┨\n│비상절차    │? Tail rotor fixed(테일로터 고착)                        │  03+00 ┃\n│            │? Hydraulic System failure(유압계통 고장)                │        ┃\n│            │? Engine Failure(엔진고장)                               │        ┃\n│            │  - Hovering Autorotation(하바링 중 자동활공)             │        ┃\n│            │  - Straight Autorotation(직진 자동활공 착륙)             │        ┃\n│            │  - 90° Turn Auotorotation(90°선회 자동활공 착륙)       │        ┃\n│            │  - 180° Turn Auotorotation(180°선회 자동활공 착륙)     │        ┃\n├──────┼─────────────────────────────┼────┨\n│계          │                                                          │  09+00 ┃\n┕━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━┛\n2. AS-350\n(  ) : AS-350FTD시간\n┌────────┬─────────────────────┬────┒\n│구     분       │과        목                              │시 간   ┃\n├────────┼─────────────────────┼────┨\n│기본훈련        │항공기 컨트롤 조작 및 반응(Displays -     │01+00   ┃\n│                │Flying controls - Helicopter response)    │        ┃\n│                │정상 이·착륙 절차(Normal take-off and    │        ┃\n│                │landing Procedures)                       │        ┃\n├────────┼─────────────────────┼────┨\n│응용된 다양한   │다양한 임무별 이.착륙 훈련(Miscellaneous  │02+00   ┃\n│이·착륙기동    │touch and landing maneuvers)              │        ┃\n│                │사용자 옵션 장비에 따른 추가              │        ┃\n│                │훈련(Familiarization with the optional    │        ┃\n│                │equipment)                                │        ┃\n│                │비상절차 훈련(Emergency procedures)       │        ┃\n│                │  - 엔진 정지 시 징후 및 조치             │        ┃\n│                │  - 유압계통의 모의 고장훈련              │        ┃\n├────────┼─────────────────────┼────┨\n│항공기 기계적인 │엔진 성능 검사(Engine health check)       │03+00   ┃\n│고장에 의한     │기계적 고장 시 비상절차(Emergency         │(02+00) ┃\n│비상절차        │procedures)                               │        ┃\n├────────┼─────────────────────┼────┨\n│정상 및 비정상  │회전익 항공기 등급 3 비상절차(Performance │03+00   ┃\n│절차            │Class Ⅲ)                                 │(02+00) ┃\n│                │엔진 정지 시 안전착륙 절차(Emergency      │        ┃\n│                │Procedures)                               │        ┃\n├────────┼─────────────────────┼────┨\n│계              │                                          │09+00   ┃\n│                │                                          │(04+00) ┃\n┕━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━┷━━━━┛\n* AS-350 FTD를 활용하여 4시간 대체가능(단발한정자격 보유자)\n** 단, 단발한정자격 미보유자 훈련과정은 실비행 9시간+FTD 4시간=13시간 과정으로 진행\n3. KA-32\n(  ):KA-32FFS\n┌─┬─────────────────────────┬────┒\n│No│과                   목                           │시 간   ┃\n├─┼─────────────────────────┼────┨\n│1 │비행전,후 점검 및 정상/비정상 시동                │01+00   ┃\n│  │제자리 비행, Ground & Hover Taxi                  │(01+00) ┃\n├─┼─────────────────────────┼────┨\n│2 │탑재장비 운용                                     │01+00   ┃\n│  │                                                  │(00+30) ┃\n├─┼─────────────────────────┼────┨\n│3 │정상운용절차                                      │04+00   ┃\n│  │   - 장주비행, 제한지 운용, 수면상공운용, 항법비행│(01+00) ┃\n├─┼─────────────────────────┼────┨\n│4 │(모의)비정상운용절차                              │02+00   ┃\n│  │(모의)비상절차                                    │(01+00) ┃\n├─┼─────────────────────────┼────┨\n│5 │임무장비 운용(Hoist, Snorkel 등)                  │01+00   ┃\n│  │                                                  │(00+30) ┃\n├─┴─────────────────────────┼────┨\n│계                                                    │09+00   ┃\n│                                                      │(04+00) ┃\n┕━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━┛\n* KA-32FFS를 활용하여 4시간 대체가능(다발한정자격 보유자)\n** 단, 다발한정자격 미보유자 훈련과정은 실비행 9시간+FTD 4시간=13시간 과정으로 진행\n4. S-64\n┌───────────┬─────────────────────┬───┒\n│구    분              │과                목                      │시  간┃\n├───────────┼─────────────────────┼───┨\n│비행 전 준비,         │항공기 시동 및 런업절차                   │01+30 ┃\n│기본적인 절차 및 기동 │지상활주 및 하버택시                      │      ┃\n│                      │정상이륙절차                              │      ┃\n│                      │이륙실패절차                              │      ┃\n│                      │급정지(Quick stops)                       │      ┃\n│                      │장주비행                                  │      ┃\n│                      │착륙실패절차(Rejected landing)            │      ┃\n│                      │엔진 정지 절차                            │      ┃\n├───────────┼─────────────────────┼───┨\n│비상절차              │이륙 및 비행 중 엔진 정지                 │01+30 ┃\n│                      │엔진정지 시 재시동절차                    │      ┃\n│                      │한쪽엔진 정지 시 착륙절차(OEI)            │      ┃\n│                      │화재 경보장치 지시 및 그에 따른 절차      │      ┃\n│                      │비상강화(Emergency descent)               │      ┃\n├───────────┼─────────────────────┼───┨\n│정상절차 및 기동      │경사지운용                                │01+30 ┃\n│                      │항법장비 사용                             │      ┃\n│                      │깊은각 선회                               │      ┃\n│                      │발전기 성능 검사(Generator drop out check)│      ┃\n├───────────┼─────────────────────┼───┨\n│비정상 상황하에서     │cross-feed 연료의 사용                    │01+30 ┃\n│비행절차 및 기동      │엔진 오버스피드(Engine overspeed)         │      ┃\n│                      │양쪽 엔진 정지                            │      ┃\n│                      │꼬리날개 시스템 고장                      │      ┃\n├───────────┼─────────────────────┼───┨\n│정비분야 절차         │파워 성능 검사                            │01+30 ┃\n│                      │파워 트림검사                             │      ┃\n│                      │엔진가속 성능검사                         │      ┃\n│                      │브리드 밴드 작동 검사                     │      ┃\n├───────────┼─────────────────────┼───┨\n│비정상 및 비상절차    │비행 중 예기치 않은 자세변화 시 정상회복  │01+30 ┃\n│                      │동력고착                                  │      ┃\n│                      │수직 바운드(Vertical bounce)              │      ┃\n├───────────┼─────────────────────┼───┨\n│계                    │                                          │09+00 ┃\n┕━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━┷━━━┛\n5. KUH  <신설 ’18.5.23>, <개정 ’21.5.31>\n┌───────┬────────────┬───┒\n│구    분      │과                목    │시 간 ┃\n├───────┼────────────┼───┨\n│정상절차      │엔진시동                │3+00  ┃\n│              │지상활주                │      ┃\n│              │이륙·착륙              │      ┃\n│              │계류·엔진정지          │      ┃\n│              │전자 점검표(ET) 운용    │      ┃\n│              │불리한 환경 조건 운용   │      ┃\n│              │기타사항                │      ┃\n├───────┼────────────┼───┨\n│비상 및       │동력장치 고장           │2+00  ┃\n│고장조치 절차 │동력전달계통 고장       │      ┃\n│              │시스템 고장             │      ┃\n│              │화재                    │      ┃\n│              │비상탈출                │      ┃\n├───────┼────────────┼───┨\n│임무수행절차  │산불진화                │3+00  ┃\n│              │인명구조                │      ┃\n│              │화물운반                │      ┃\n├───────┼────────────┼───┨\n│항공임무장비  │비상부주장치            │1+00  ┃\n│              │비상위치송신기(ELT)     │      ┃\n│              │구명보트                │      ┃\n│              │내부통화장치(ICS)       │      ┃\n│              │U/VHF, AM/FM 무전기     │      ┃\n│              │감시카메라              │      ┃\n│              │이동식 전자지도(DMM)    │      ┃\n│              │지상근접 경고장치(EGPWS)│      ┃\n│              │트랜스폰더              │      ┃\n│              │위성항법장치(GPS)       │      ┃\n│              │VOR, ILS, DME, ADF      │      ┃\n├───────┴────────────┼───┨\n│계                                      │09+00 ┃\n┕━━━━━━━━━━━━━━━━━━━━┷━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000259908&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666491",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666479",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666491",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:산림항공운항규정#BYL0003",
+      "filename": "별표3_한정자격 및 기종자격취득 비행교육 계획(4.5.3 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별표",
+      "title": "조종교육증명 취득 교육(4.5.1 관련)",
+      "enforcement_date": "",
+      "content": "[별표 4]\n조종교육증명 취득 교육(4.5.1 관련)\n1. 지상학\n┌───────────────────────────┬───┒\n│과  목                                                │시  간┃\n├───────────────────────────┼───┨\n│항공안전법                                            │10    ┃\n├───────────────────────────┼───┨\n│사업용조종사에 필요한 학과교육의 복습                 │40    ┃\n├───────────────────────────┼───┨\n│교육심리학                                            │50    ┃\n│(학습진도, 인간의 행동, 효과적인 의사소통,            │      ┃\n│교수과정,교육방법,비평,평가,교육보조자료의 이용 등을  │      ┃\n│포함)                                                 │      ┃\n├───────────────────────────┼───┨\n│교육방법(비행교육기술, 교육계획 등을 포함)            │20    ┃\n├───────────────────────────┼───┨\n│비행안전이론                                          │5     ┃\n├───────────────────────────┼───┨\n│인적수행능력                                          │5     ┃\n├───────────────────────────┼───┨\n│시험(Test)                                            │5     ┃\n├───────────────────────────┼───┨\n│계                                                    │135   ┃\n┕━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━┛\n2. 비행학\n┌─────────┬───┒\n│과  목            │시 간 ┃\n│                  ├───┨\n│                  │실비행┃\n├─────────┼───┨\n│비행 전·후 절차  │2     ┃\n├─────────┼───┨\n│정상 이착륙       │2     ┃\n├─────────┼───┨\n│산정 이착륙       │2     ┃\n├─────────┼───┨\n│제한지 이착륙     │2     ┃\n├─────────┼───┨\n│직무훈련비행      │12    ┃\n├─────────┼───┨\n│비정상 및 비상절차│5     ┃\n├─────────┼───┨\n│계                │25    ┃\n┕━━━━━━━━━┷━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000259908&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666497",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666493",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666497",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:산림항공운항규정#BYL0004",
+      "filename": "별표4_조종교육증명 취득 교육(4.5.1 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별표",
+      "title": "모의비행훈련장치 교관 자체 이수교육(5.1.3 관련)",
+      "enforcement_date": "",
+      "content": "[별표 5]\n모의비행훈련장치 교관 자체 이수교육(5.1.3 관련)\n1. AS-350FTD\n┌──────┬───────────────────┬────┒\n│과 목       │주요내용                              │교육시간┃\n├──────┼───────────────────┼────┨\n│지상학      │관련 규정 및 매뉴얼                   │5시간   ┃\n│            │모의비행훈련장치 운영규정             │        ┃\n│            │운영자 매뉴얼                         │        ┃\n│            │유지보수 매뉴얼 소개                  │        ┃\n│            │AS350B2 비행 매뉴얼                   │        ┃\n│            │GNS430 매뉴얼                         │        ┃\n├──────┼───────────────────┼────┨\n│IOS(교관석) │Gits 프로그램 운영법                  │5시간   ┃\n│            │장비 ON/OFF 절차 등                   │        ┃\n├──────┼───────────────────┼────┨\n│비행학      │시뮬레이터 비행절차 숙달  (VFR 및 IFR)│10시간  ┃\n├──────┴───────────────────┼────┨\n│총 계                                               │20시간  ┃\n┕━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━┛\n* IOS Operator 과정은 지상학 및 IOS(교관석)과목 10시간만 시행\n2. KA-32FFS\n┌──────┬───────────────────────────────┬────┒\n│과 목       │주요내용                                                      │교육시간┃\n├──────┼───────────────────────────────┼────┨\n│지상학      │관련 규정 및 매뉴얼                                           │10시간  ┃\n│            │모의비행훈련장치 운영규정                                     │        ┃\n│            │운영자 매뉴얼                                                 │        ┃\n│            │유지보수 매뉴얼 필수 사항 소개(약식)                          │        ┃\n│            │KA-32 비행 매뉴얼(비상절차 및 비정상상황하 운영)              │        ┃\n│            │GPS운용 매뉴얼                                                │        ┃\n│            │모의비행훈련장치 체계                                         │        ┃\n│            │장비작동교육                                                  │        ┃\n│            │  - 소프트웨어 및 지원요소(컴퓨터, 조종실, 입출력, 조종반력,  │        ┃\n│            │좌석진동, 영상, 음향, 전원, 운동시스템등) 소개                │        ┃\n│            │  - 각 서브 시스템 구성, 기능 및 작동원리                     │        ┃\n│            │  - 운용 전후 검사                                            │        ┃\n│            │  - 응급상황시 조치요령                                       │        ┃\n├──────┼───────────────────────────────┼────┨\n│IOS(교관석) │교관석 이해 및 운용                                           │5시간   ┃\n│            │장비 시동/종료 절차 등                                        │        ┃\n├──────┼───────────────────────────────┼────┨\n│비행학      │산림항공 4대 직무훈련 시현 숙달                               │15시간  ┃\n│            │단계별(시동, 비행) 비정상상황 및 비상절차운용                 │        ┃\n│            │악기상 상황하 운영절차 및 계기비행 숙달                       │        ┃\n│            │비행평가(종합): 2시간(훈련평가서 참조)                        │        ┃\n├──────┴───────────────────────────────┼────┨\n│총 계                                                                       │30시간  ┃\n┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━┛\n* IOS Operator 과정은 지상학 및 IOS(교관석)과목 10시간만 시행",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000259908&bylNo=0005&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666503",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666499",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666503",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:산림항공운항규정#BYL0005",
+      "filename": "별표5_모의비행훈련장치 교관 자체 이수교육(5.1.3 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별표",
+      "title": "계기비행증명 취득 지상학 교육(4.5.3 관련)",
+      "enforcement_date": "",
+      "content": "[별표 6]\n계기비행증명 취득 지상학 교육(4.5.3 관련)\n┌───────────┬────────────────┬────┒\n│구  분                │세 부 과 목                     │교육시간┃\n├───────────┼────────────────┼────┨\n│비행 전 준비 및 절차  │? 항공기상정보                 │2시간   ┃\n│                      │? 야외비행계획                 │        ┃\n│                      │? 비행전 절차                  │        ┃\n│                      │? ATC 인가                     │        ┃\n├───────────┼────────────────┼────┨\n│이륙 및 출항          │? ITO                          │1시간   ┃\n│                      │? SID                          │        ┃\n│                      │? RADAR VECTOR DEPARTURE       │        ┃\n├───────────┼────────────────┼────┨\n│항로비행              │? 항로진입                     │2시간   ┃\n│                      │? FIX to FIX                   │        ┃\n│                      │? 항로유지                     │        ┃\n├───────────┼────────────────┼────┨\n│비정밀접근            │? VOR / DME                    │3시간   ┃\n│                      │? HOLDING                      │        ┃\n│                      │? ARC 유지                     │        ┃\n│                      │  - ARC to RADIAL 및 RADIAL to  │        ┃\n│                      │ARC                             │        ┃\n│                      │? MISSED APPROACH              │        ┃\n├───────────┼────────────────┼────┨\n│정밀접근              │? VOR / ILS                    │3시간   ┃\n│                      │? PAR(GCA)                     │        ┃\n│                      │? MISSED APPROACH              │        ┃\n├───────────┼────────────────┼────┨\n│종 합                 │? 지정 비행장 이륙 및 계기접근 │3시간   ┃\n│                      │? 임의 비행장 이륙 및 계기접근 │        ┃\n├───────────┼────────────────┼────┨\n│총 계                 │-                               │14시간  ┃\n┕━━━━━━━━━━━┷━━━━━━━━━━━━━━━━┷━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000259908&bylNo=0006&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666509",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666505",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666509",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:산림항공운항규정#BYL0006",
+      "filename": "별표6_계기비행증명 취득 지상학 교육(4.5.3 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "별표",
+      "title": "계기비행증명 취득 모의비행교육(4.5.3 관련)",
+      "enforcement_date": "",
+      "content": "[별표 7]\n계기비행증명 취득 모의비행교육(4.5.3 관련)\n┌──────┬──────────────────────┬────┒\n│구  분      │세 부 과 목                                 │교육시간┃\n├──────┼──────────────────────┼────┨\n│계기비행    │? 직선-수평 비행                           │2시간   ┃\n│            │(STRAIGHT-AND LEVEL FLIGHT)                 │        ┃\n│            ├──────────────────────┤        ┃\n│            │? 속도 조절                                │        ┃\n│            │(CHANGE OF AIRSPEED)                        │        ┃\n│            ├──────────────────────┤        ┃\n│            │? 정속 상승 및  강하                       │        ┃\n│            │(CONSTANT AIRSPEED CLIMBS AND DESCENTS)     │        ┃\n│            ├──────────────────────┤        ┃\n│            │? 정률 상승 및 강하                        │        ┃\n│            │(CONSTANT RATE CLIMBS AND DESCENTS)         │        ┃\n│            ├──────────────────────┤        ┃\n│            │? 자기나침반을 이용한 시간차 선회          │        ┃\n│            │(TIMED TURNS TO MAGNETIC COMPAS HEADING)    │        ┃\n│            ├──────────────────────┤        ┃\n│            │? 급선회(STEEP TURNS)                      │        ┃\n│            ├──────────────────────┤        ┃\n│            │? 비정상 비행자세에서의 회복               │        ┃\n│            ├──────────────────────┤        ┃\n│            │? 시계비행기상상태 이하로의 기상악화       │        ┃\n│            │(Weather Deterioration Below VMC)           │        ┃\n├──────┼──────────────────────┼────┨\n│항법시스템  │? INTERCEPTING AND TRACKING NAVIGATIONAL   │2시간   ┃\n│(VOR운용)   │   SYSTEMS AND DME ARCS                     │        ┃\n│            │? Holding 절차                             │        ┃\n├──────┼──────────────────────┼────┨\n│계기접근절차│?비정밀 계기접근                           │5시간   ┃\n│            │(NONPRECISION INSTRUMENT APPROACH)          │        ┃\n│            ├──────────────────────┤        ┃\n│            │?ILS에 의한 정밀접근                       │        ┃\n│            │(PRECISION ILS INSTRUMENT APPROACH)         │        ┃\n│            ├──────────────────────┤        ┃\n│            │?실패접근(MISSED APPROACH)                 │        ┃\n│            ├──────────────────────┤        ┃\n│            │?선회접근(CIRCLING APPROACH)               │        ┃\n│            ├──────────────────────┤        ┃\n│            │? 직진 또는 선회접근으로부터 착륙          │        ┃\n│            │  (LANDING FROM A STRAIGHT-IN OR            │        ┃\n│            │CIRCLING APPROACH)                          │        ┃\n│            ├──────────────────────┤        ┃\n│            │? PAR(Precision Approach Radar) Approach   │        ┃\n├──────┼──────────────────────┼────┨\n│비상절차    │?통신두절(LOSS OF COMMUNICATION)           │1시간   ┃\n│            │?GYRO ATTITUDE와 HEADING INDICATOR의 고장  │        ┃\n│            │?ICING 상황화 운용                         │        ┃\n├──────┼──────────────────────┼────┨\n│종 합       │?임의지정비행장 이륙/항로/접근/착륙(총4회) │8시간   ┃\n├──────┼──────────────────────┼────┨\n│총  계      │-                                           │18시간  ┃\n┕━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━┷━━━━┛\n* 개인별 계기비행 자격취득 요건(과거 계기과정이수 등)에 따라 교육시간 조정 가능",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000259908&bylNo=0007&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666515",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666511",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666515",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:산림항공운항규정#BYL0007",
+      "filename": "별표7_계기비행증명 취득 모의비행교육(4.5.3 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0008",
+      "branch": "00",
+      "kind": "별표",
+      "title": "계기비행증명 취득 모의비행교육(4.5.3 관련)",
+      "enforcement_date": "",
+      "content": "[별표 8]\n계기비행증명 취득 모의비행교육(4.5.3 관련)\n┌──────┬─────────────────────┬─────┐\n│구  분      │세 부 과 목                               │교육시간  │\n├──────┼─────────────────────┼─────┤\n│기본        │? 직선-수평 비행                         │1시간 30분│\n│자세비행    │(STRAIGHT-AND LEVEL FLIGHT)               │          │\n│            ├─────────────────────┤          │\n│            │? 속도 조절                              │          │\n│            │(CHANGE OF AIRSPEED)                      │          │\n│            ├─────────────────────┤          │\n│            │? 정속 상승 및  강하                     │          │\n│            │(CONSTANT AIRSPEED CLIMBS AND             │          │\n│            │DESCENTS)                                 │          │\n│            ├─────────────────────┤          │\n│            │? 정률 상승 및 강하                      │          │\n│            │(CONSTANT RATE CLIMBS AND DESCENTS)       │          │\n│            ├─────────────────────┤          │\n│            │? 자기나침반을 이용한 시간차 선회        │          │\n│            │(TIMED TURNS TO MAGNETIC COMPASS          │          │\n│            │HEADING)                                  │          │\n│            ├─────────────────────┤          │\n│            │? 급선회(STEEP TURNS)                    │          │\n│            ├─────────────────────┤          │\n│            │? 비정상 비행자세에서의 회복             │          │\n│            ├─────────────────────┼─────┤\n│            │? 기본자세비행 종합                      │30분      │\n├──────┼─────────────────────┼─────┤\n│기상악화    │? 시계비행기상상태 이하로의 기상악화     │1시간     │\n│비행절차    │(Weather Deterioration Below VMC)         │          │\n├──────┼─────────────────────┼─────┤\n│GCA(Ground  │? PAR(Precision Approach Radar) Approach │1시간     │\n│Controlled  │                                          │          │\n│Approach)   │                                          │          │\n│절차        │                                          │          │\n├──────┼─────────────────────┼─────┤\n│총  계      │-                                         │4시간     │\n└──────┴─────────────────────┴─────┘\n* 개인별 계기비행 자격취득 요건에 따라 교육시간 조정 가능",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000259908&bylNo=0008&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666521",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666517",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666521",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:산림항공운항규정#BYL0008",
+      "filename": "별표8_계기비행증명 취득 모의비행교육(4.5.3 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "항공기 비행승인 요청",
+      "enforcement_date": "",
+      "content": "(별지 제1호)\n비행 승인 요청서(3.1.1 관련)\n\n\n\n기 관 명\n\n\n\n수신자\n\n(경유)\n\n제목    항공기 비행승인 요청\n────────────────\n본문내용\n┌──────┬───────────────────────────┒\n│운 항 목 적 │                                                      ┃\n├──────┼───────────────────────────┨\n│운 항 일 시 │                                                      ┃\n├──────┼───────────────────────────┨\n│운 항 지 역 │                                                      ┃\n├──────┼───────────────────────────┨\n│항공기 종류 │(필요시 호기도 기재)                                  ┃\n├──────┼───────────────────────────┨\n│승무원 명단 │(필요시에만 기재)위임된 사항임                        ┃\n├──────┼───────────────────────────┨\n│기       타 │※ 첨부서류                                           ┃\n│            │   1. 위치도 1부.                                     ┃\n│            │   2. 화물내역(화물운반시) 1부.                       ┃\n│            │   3. 탑승자 내역(직업, 성명, 주민등록번호, 주소) 1부.┃\n┕━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n발 신 명 의\n\n\n\n\n\n기안자\n\n\n\n협조자\n\n시행                  (           )   접수                (           )\n\n우                                              /\n\n전화          전송        /                             /   공개\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666329",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666325",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666329",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:산림항공운항규정#BJ0001",
+      "filename": "별지1_항공기 비행승인 요청.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비행지시서(3.1.1 관련)",
+      "enforcement_date": "",
+      "content": "(별지 제2호)   <개정 ’14.11.18.>, <개정 ’21.5.31.>\n비행지시서(3.1.2 관련)\n\n\n\n기 관 명\n\n\n\n수신자\n\n(경유)\n\n제목    비행지시 제   호\n──────────────\n본문내용\n┌───────────┬─────────────────┒\n│비 행 기 간           │                                  ┃\n├───────────┼─────────────────┨\n│비 행 지 역           │                                  ┃\n├───────────┼─────────────────┨\n│비 행 임 무           │                                  ┃\n├───────────┼─────────────────┨\n│항공기의 종류 및 호기 │ (예시 : 회전익 KA-32T, FPA602호) ┃\n├───┬───────┼─────────────────┨\n│조종사│기장          │                                  ┃\n│      ├───────┼─────────────────┨\n│      │부기장        │                                  ┃\n├───┴───────┼─────────────────┨\n│정   비   사          │                                  ┃\n├───────────┼─────────────────┨\n│유조차운전원          │                                  ┃\n├───────────┼─────────────────┨\n│탑   승   자          │                                  ┃\n├───────────┼─────────────────┨\n│기        타          │                                  ┃\n┕━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━┛\n\n발 신 명 의\n\n\n\n\n\n기안자\n\n\n\n협조자\n\n시행                  (           )   접수                (           )\n\n우                                              /\n\n전화          전송        /                             /   공개\n\n\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666335",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666331",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666335",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:산림항공운항규정#BJ0002",
+      "filename": "별지2_비행지시서(3.1.1 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "산불 구두 비행지시(3.1.2 관련)",
+      "enforcement_date": "",
+      "content": "(별지 제3호)   <개정 ’18.1.29>, <개정 ’18.5.23>\n산불 구두 비행지시(3.1.2 관련)\n┌──┬─────┐\n│담당│과장/소장 │\n├──┼─────┤\n│    │          │\n└──┴─────┘\n┌──┬──┬──┬───┬───┬───┬────┬──┬────────────┬────────┬───┬───┒\n│접수│기관│접수│송화자│1차   │2차   │발생장소│호기│탑  승  자              │시  각          │유형별│비 고 ┃\n│일자│    │시각│      │수화자│수화자│        │    ├───┬────┬───┼──┬──┬──┤      │      ┃\n│    │    │    │      │      │      │        │    │조종사│기장외  │정비사│이륙│진화│착륙│      │      ┃\n│    │    │    │      │      │      │        │    │      │조종사  │      │    │    │    │      │      ┃\n├──┼──┼──┼───┼───┼───┼────┼──┼───┼────┼───┼──┼──┼──┼───┼───┨\n│    │    │    │      │      │      │        │    │      │        │      │    │    │    │      │      ┃\n├──┼──┼──┼───┼───┼───┼────┼──┼───┼────┼───┼──┼──┼──┼───┼───┨\n│    │    │    │      │      │      │        │    │      │        │      │    │    │    │      │      ┃\n├──┼──┼──┼───┼───┼───┼────┼──┼───┼────┼───┼──┼──┼──┼───┼───┨\n│    │    │    │      │      │      │        │    │      │        │      │    │    │    │      │      ┃\n├──┼──┼──┼───┼───┼───┼────┼──┼───┼────┼───┼──┼──┼──┼───┼───┨\n│    │    │    │      │      │      │        │    │      │        │      │    │    │    │      │      ┃\n├──┼──┼──┼───┼───┼───┼────┼──┼───┼────┼───┼──┼──┼──┼───┼───┨\n│    │    │    │      │      │      │        │    │      │        │      │    │    │    │      │      ┃\n├──┼──┼──┼───┼───┼───┼────┼──┼───┼────┼───┼──┼──┼──┼───┼───┨\n│    │    │    │      │      │      │        │    │      │        │      │    │    │    │      │      ┃\n├──┼──┼──┼───┼───┼───┼────┼──┼───┼────┼───┼──┼──┼──┼───┼───┨\n│    │    │    │      │      │      │        │    │      │        │      │    │    │    │      │      ┃\n┕━━┷━━┷━━┷━━━┷━━━┷━━━┷━━━━┷━━┷━━━┷━━━━┷━━━┷━━┷━━┷━━┷━━━┷━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666421",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666337",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666421",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:산림항공운항규정#BJ0003",
+      "filename": "별지3_산불 구두 비행지시(3.1.2 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비행 브리핑 일지",
+      "enforcement_date": "",
+      "content": "(별지 제4호) 비행 브리핑 일지(3.2.2 관련)\n<개정 ’21.5.31>\n┌─┬────┬─────┒\n│결│임무팀장│과장/소장 ┃\n│  ├────┼─────┨\n│재│        │          ┃\n┕━┷━━━━┷━━━━━┛\n비행 브리핑 일지\n□ 비행정보                                       20   년    월     일\n┌─────┬───────┬────┬───────────┒\n│임무종류  │              │임무일자│                      ┃\n├─────┼───────┼────┼───────────┨\n│비행지시  │제          호│목 적 지│                      ┃\n├─────┼───────┼────┼───────────┨\n│기종/호기 │              │조 종 사│ 기장:        부기장: ┃\n├─────┼───────┼────┼───────────┨\n│정 비 사  │              │진화대원│                      ┃\n├─────┼───────┼────┼───────────┨\n│운 전 원  │              │기  타  │                      ┃\n┕━━━━━┷━━━━━━━┷━━━━┷━━━━━━━━━━━┛\n\n□ 기 상\n┌────┬──────┬─────┬─┒\n│기상정보│            │일출/일몰 │/ ┃\n├────┼┬────┬┼─────┼─┨\n│출발지  ││항 로 상││목 적 지  │  ┃\n├────┼┴────┴┴─────┴─┨\n│NOTAM 등│                            ┃\n┕━━━━┷━━━━━━━━━━━━━━┛\n□ 세부내용\n┌──────┬┬──┬┬──────┬┒\n│ETD         ││ETA ││Refuel Site │┃\n├──────┼┴──┴┴──────┴┨\n│FCRM        │                        ┃\n│(지시사항,  │                        ┃\n│임무분담,   │                        ┃\n│안전사항 등)│                        ┃\n┕━━━━━━┷━━━━━━━━━━━━┛\n┏━━━━━\n┃비행 후\n┗━━━━━━\n┌──────┬┒\n│특이사항    │┃\n│발생 시 보고│┃\n┕━━━━━━┷┛\n* 필요시 붙임내용 첨부",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666427",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666423",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666427",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:산림항공운항규정#BJ0004",
+      "filename": "별지4_비행 브리핑 일지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별지",
+      "title": "교육일지(4.5.2 관련)",
+      "enforcement_date": "",
+      "content": "(별지 제5호)    <신설 ’18.1.29>\n교육일지(4.5.2 관련)\n┌─┬────┐\n│확│담당교관│\n│  ├────┤\n│인│        │\n└─┴────┘\n○ 과 정 명 :\n○ 교육기간 :\n○ 장소ㆍ인원 :\n┌───┬──────┬───────┒\n│일 자 │교 육 내 용 │비 고         ┃\n│      │            │(교육시간 등) ┃\n├───┼──────┼───────┨\n│      │            │              ┃\n┕━━━┷━━━━━━┷━━━━━━━┛\n* 담당교관은 해당과목 교육 후 확인서명\n* 교육내용이 많을 경우 확인 서명은 해당교육 종료 후 첫 장에만 서명",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666433",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666429",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666433",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:산림항공운항규정#BJ0005",
+      "filename": "별지5_교육일지(4.5.2 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별지",
+      "title": "산악구조 구두 비행지시(3.1.2 관련)",
+      "enforcement_date": "",
+      "content": "(별지 제6호)    <신설 ’18.1.29>\n산악구조 구두 비행지시(3.1.2 관련)\n┏━━━┳━━━━━┓\n┃담 당 ┃과장/소장 ┃\n┣━━━╋━━━━━┫\n┃      ┃          ┃\n┗━━━┻━━━━━┛\n┌──┬──┬──┬───┬───┬───┬────┬──┬────────────────┬────────┬────┒\n│접수│기관│접수│송화자│1차   │2차   │구조장소│호기│탑  승  자                      │시  각          │비    고┃\n│일자│    │시각│      │수화자│수화자│        │    ├───┬───┬───┬────┼──┬──┬──┤        ┃\n│    │    │    │      │      │      │        │    │조종사│기장외│정비사│구조대원│이륙│구조│착륙│        ┃\n│    │    │    │      │      │      │        │    │      │조종사│      │        │    │    │    │        ┃\n├──┼──┼──┼───┼───┼───┼────┼──┼───┼───┼───┼────┼──┼──┼──┼────┨\n│    │    │    │      │      │      │        │    │      │      │      │        │    │    │    │        ┃\n├──┼──┼──┼───┼───┼───┼────┼──┼───┼───┼───┼────┼──┼──┼──┼────┨\n│    │    │    │      │      │      │        │    │      │      │      │        │    │    │    │        ┃\n├──┼──┼──┼───┼───┼───┼────┼──┼───┼───┼───┼────┼──┼──┼──┼────┨\n│    │    │    │      │      │      │        │    │      │      │      │        │    │    │    │        ┃\n├──┼──┼──┼───┼───┼───┼────┼──┼───┼───┼───┼────┼──┼──┼──┼────┨\n│    │    │    │      │      │      │        │    │      │      │      │        │    │    │    │        ┃\n├──┼──┼──┼───┼───┼───┼────┼──┼───┼───┼───┼────┼──┼──┼──┼────┨\n│    │    │    │      │      │      │        │    │      │      │      │        │    │    │    │        ┃\n├──┼──┼──┼───┼───┼───┼────┼──┼───┼───┼───┼────┼──┼──┼──┼────┨\n│    │    │    │      │      │      │        │    │      │      │      │        │    │    │    │        ┃\n├──┼──┼──┼───┼───┼───┼────┼──┼───┼───┼───┼────┼──┼──┼──┼────┨\n│    │    │    │      │      │      │        │    │      │      │      │        │    │    │    │        ┃\n┕━━┷━━┷━━┷━━━┷━━━┷━━━┷━━━━┷━━┷━━━┷━━━┷━━━┷━━━━┷━━┷━━┷━━┷━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666439",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666435",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666439",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:산림항공운항규정#BJ0006",
+      "filename": "별지6_산악구조 구두 비행지시(3.1.2 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "별지",
+      "title": "전진배치 등 구두 비행지시(3.1.2 관련)",
+      "enforcement_date": "",
+      "content": "(별지 제7호)    <신설 ’18.5.23>, <개정 ’20.3.24>\n전진배치 등 구두 비행지시(3.1.2 관련)\n┏━━━┳━━━━━┓\n┃담 당 ┃과장/소장 ┃\n┣━━━╋━━━━━┫\n┃      ┃          ┃\n┗━━━┻━━━━━┛\n┌───┬──┬──┬───┬───┬───┬───┬────┬───┒\n│소속명│이동│복귀│호 기 │승무원│유조차│장 소 │대기일수│비  고┃\n│      │일자│일자│      │      │      │      │        │      ┃\n├───┼──┼──┼───┼───┼───┼───┼────┼───┨\n│      │    │    │      │      │      │      │        │      ┃\n├───┼──┼──┼───┼───┼───┼───┼────┼───┨\n│      │    │    │      │      │      │      │        │      ┃\n├───┼──┼──┼───┼───┼───┼───┼────┼───┨\n│      │    │    │      │      │      │      │        │      ┃\n├───┼──┼──┼───┼───┼───┼───┼────┼───┨\n│      │    │    │      │      │      │      │        │      ┃\n├───┼──┼──┼───┼───┼───┼───┼────┼───┨\n│      │    │    │      │      │      │      │        │      ┃\n├───┼──┼──┼───┼───┼───┼───┼────┼───┨\n│      │    │    │      │      │      │      │        │      ┃\n┕━━━┷━━┷━━┷━━━┷━━━┷━━━┷━━━┷━━━━┷━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666445",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666441",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666445",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:산림항공운항규정#BJ0007",
+      "filename": "별지7_전진배치 등 구두 비행지시(3.1.2 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0008",
+      "branch": "00",
+      "kind": "별지",
+      "title": "직무별 지급기준(6.3.2 관련)",
+      "enforcement_date": "",
+      "content": "(별지 제8호)    <신설 ’25.6.2>\n직무별 지급기준(6.3.2 관련)\n┌────────────────────┬───┬─────┬───────┒\n│종      별                              │수 량 │내용년수  │비  고        ┃\n├────┬─────┬────┬────┼───┼─────┼───────┨\n│개인보호│보호      │조종복  │춘·추복│1     │2년       │최초 2착 지급 ┃\n│장비    │의류      │        ├────┼───┤          │              ┃\n│        │          │        │동계    │1     │          │              ┃\n│        │          ├────┴────┼───┼─────┼───────┨\n│        │          │산림항공 외투     │1     │4년       │              ┃\n│        │          ├────┬────┼───┼─────┼───────┨\n│        │          │보호장갑│비행    │1     │2년       │최초 2착      ┃\n│        │          │        │장갑    │      │/상태변경 │지급          ┃\n│        │          ├────┼────┼───┼─────┼───────┨\n│        │          │보호화  │임무화  │1     │2년       │미끄럼방지    ┃\n│        │          │        │        │      │          │등급          ┃\n│        ├─────┼────┴────┼───┼─────┼───────┨\n│        │머리·눈  │보안경            │1     │3년       │              ┃\n│        │보호구    ├────┬────┼───┼─────┼───────┨\n│        │          │모자    │하계    │1     │상태변경  │              ┃\n│        │          │        ├────┼───┼─────┤              ┃\n│        │          │        │동계    │1     │상태변경  │              ┃\n│        ├─────┼────┴────┼───┼─────┼───────┨\n│        │비행지원  │헤드셋            │1     │상태변경  │              ┃\n│        │장비      ├─────────┼───┼─────┼───────┨\n│        │          │항법용 테블릿 PC  │1     │상태변경  │              ┃\n│        │          ├─────────┼───┼─────┼───────┨\n│        │          │비행가방          │1     │상태변경  │              ┃\n│        │          ├─────────┼───┼─────┼───────┨\n│        │          │니보드            │1     │상태변경  │              ┃\n│        │          ├─────────┼───┼─────┼───────┨\n│        │          │NVG               │1     │상태변경  │야간비행시    ┃\n│        │          ├─────────┼───┼─────┤지급          ┃\n│        │          │헬멧              │1     │상태변경  │              ┃\n│        │          ├─────────┼───┼─────┤              ┃\n│        │          │핑거라이트 /      │각1   │상태변경  │              ┃\n│        │          │립라이트          │      │          │              ┃\n│        │          ├─────────┼───┼─────┼───────┨\n│        │          │헤드렌턴          │1     │상태변경  │              ┃\n│        │          ├─────────┼───┼─────┤              ┃\n│        │          │점검용 렌턴       │1     │상태변경  │              ┃\n├────┼─────┴─────────┼───┼─────┼───────┨\n│생존    │구명동의                      │1     │상태변경  │정밀검사      ┃\n│지원장비├───────────────┼───┼─────┤(제작사 기준) ┃\n│        │비상탈출용산소장비            │1     │상태변경  │              ┃\n┕━━━━┷━━━━━━━━━━━━━━━┷━━━┷━━━━━┷━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666451",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666447",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152666451",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:산림항공운항규정#BJ0008",
+      "filename": "별지8_직무별 지급기준(6.3.2 관련).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "「산림항공본부 운항규정」 전문(훈령 제372호).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=152635393",
+      "file_store_url": "",
+      "filename": "「산림항공본부 운항규정」 전문(훈령 제372호).hwpx"
+    },
+    {
+      "name": "(산림항공본부 운항규정)조문별제개정이유서_행정규칙.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=152665569",
+      "file_store_url": "",
+      "filename": "(산림항공본부 운항규정)조문별제개정이유서_행정규칙.hwpx"
+    },
+    {
+      "name": "(산림항공본부 운항규정)조문별제개정이유서_행정규칙.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=152665573",
+      "file_store_url": "",
+      "filename": "(산림항공본부 운항규정)조문별제개정이유서_행정규칙.pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 17,
+    "by_category": {
+      "법령": 1,
+      "별지": 6,
+      "별표": 5,
+      "행정규칙": 5
+    },
+    "by_relation_type": {
+      "citation": 6,
+      "appendix_ref": 11
+    },
+    "articles_total": 0,
+    "articles_with_relations": 0,
+    "unmatched_relations": 17,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 4,
+    "appendices_count": 16,
+    "attachments_count": 3
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/산림항공 운항규정"
+  },
+  "provision_id": "admrul:산림항공운항규정#DOC"
+}
