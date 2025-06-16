@@ -1,0 +1,983 @@
+{
+  "law_id": "2100000260344",
+  "mst": "2100000260344",
+  "law_name": "항공교통서비스 평가업무지침",
+  "law_abbr": "",
+  "law_type": "훈령",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000260344",
+  "promulgation_no": "1875",
+  "promulgation_date": "20250616",
+  "enforcement_date": "20250616",
+  "revision_date": "20250616",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국토교통부(항공산업과)",
+    "담당자명": "김은진",
+    "행정규칙종류코드": "B0001",
+    "행정규칙명": "항공교통서비스 평가업무지침",
+    "발령일자": "20250616",
+    "행정규칙종류": "훈령",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국토교통부",
+    "전화번호": "044-201-4224",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1613000",
+    "생성일자": "20250616",
+    "행정규칙ID": "2053625",
+    "시행일자": "20250616",
+    "담당부서기관코드": "1613085",
+    "발령번호": "1875",
+    "행정규칙일련번호": "2100000260344",
+    "상위부처명": "국토교통부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정이유\n항공교통이용자의 권익 보호 및 항공교통서비스의 품질제고를 위해 매년 실시하는 항공교통서비스 평가를 내실화하고자 항공운송서비스 세부평가 항목에 시간단위별 지연율을 추가하고, 공항서비스 평가 분야를 개편하는 등 세부평가기준과 방법을 개선하기 위함\n◇ 주요내용\n가. 항공사 대상 운항신뢰성 평가 시 지연율과 해당 지연이 발생한 시간을 함께 평가할 수 있도록 평가지표를 개선함(안 별표 1)\n나. 여객수요가 집중되는 설 또는 추석연휴기간의 여객처리실적을 반영할 수 있도록 공항서비스 신속성 평가를 현행 출도착 소요시간의 1개 분야에서 첨두시간 혼잡 및 여객 편차 분야를 추가하여 3개 분야로 개편(안 별표 3)\n다. 공항서비스 평가 항목을 공항 이용 편리성과 공항 시설 적정성 항목으로 재분류하고, 변별력이 없는 수하물처리 정확성 배점을 100점에서 20점으로 조정하여 공항 이용 편리성 평가 항목의 세부항목으로 포함할 수 있도록 평가기준을 조정(안 별표 3)",
+  "body": {
+    "format": "articles",
+    "article_count": 15,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조(목적) 이 지침은 「항공사업법」(이하 \"법\"이라 한다)",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제63조",
+            "line_text": "",
+            "target_law_name": "항공사업법",
+            "target_article_no": "제63조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공사업법/제63조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공교통서비스평가업무지침#JO0001",
+            "reference_id": "law:항공사업법#JO0063"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "법 시행규칙",
+            "line_text": "",
+            "target_law_name": "항공사업법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공사업법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공교통서비스평가업무지침#JO0001",
+            "reference_id": "law:항공사업법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제67조 및 제68조",
+            "line_text": "",
+            "target_law_name": "항공사업법 시행규칙",
+            "target_article_no": "제67조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공사업법 시행규칙/제67조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공교통서비스평가업무지침#JO0001",
+            "reference_id": "law:항공사업법시행규칙#JO0067"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제67조 및 제68조",
+            "line_text": "",
+            "target_law_name": "항공사업법 시행규칙",
+            "target_article_no": "제68조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공사업법 시행규칙/제68조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공교통서비스평가업무지침#JO0001",
+            "reference_id": "law:항공사업법시행규칙#JO0068"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제2조제39호",
+            "line_text": "",
+            "target_law_name": "항공사업법",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공사업법/제2조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:항공교통서비스평가업무지침#JO0001",
+            "reference_id": "law:항공사업법#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:항공교통서비스평가업무지침#JO0001"
+      },
+      {
+        "article_no": "제63조",
+        "article_title": "제60조에서 준용하는 경우를 포함한다",
+        "chapter": "제1장 총칙",
+        "content": "제63조(제60조에서 준용하는 경우를 포함한다), 법 시행규칙 제67조 및 제68조에 따라 항공교통사업자(법 제2조제39호에 따른 외국인 국제항공운송사업자를 포함한다. 이하 같다)가 제공하는 항공교통서비스를 평가하는 데 필요한 평가방법 및 절차를 정함으로써 서비스평가의 객관성과 공정성을 확보하고 항공교통이용자의 권익 보호 및 항공교통서비스의 품질제고에 이바지함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제63조",
+            "source_clause": "제63조",
+            "link_text": "법 제2조",
+            "line_text": "제63조(제60조에서 준용하는 경우를 포함한다), 법 시행규칙 제67조 및 제68조에 따라 항공교통사업자(법 제2조제39호에 따른 외국인 국제항공운송사업자를 포함한다. 이하 같다)가 제공하는 항공교통서비스를 평가하는 데 필요한 평가방법 및 절차를 정함으로써 서비스평가의 객관성과 공정성을 확보하고 항공교통이용자의 권익 보호 및 항공교통서비스의 품질제고에 이바지함을 목적으로 한다.",
+            "target_law_name": "항공사업법",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공사업법/제2조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:항공교통서비스평가업무지침#JO0063",
+            "reference_id": "law:항공사업법#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제63조",
+            "source_clause": "제63조",
+            "link_text": "법",
+            "line_text": "제63조(제60조에서 준용하는 경우를 포함한다), 법 시행규칙 제67조 및 제68조에 따라 항공교통사업자(법 제2조제39호에 따른 외국인 국제항공운송사업자를 포함한다. 이하 같다)가 제공하는 항공교통서비스를 평가하는 데 필요한 평가방법 및 절차를 정함으로써 서비스평가의 객관성과 공정성을 확보하고 항공교통이용자의 권익 보호 및 항공교통서비스의 품질제고에 이바지함을 목적으로 한다.",
+            "target_law_name": "항공사업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공사업법",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:항공교통서비스평가업무지침#JO0063",
+            "reference_id": "law:항공사업법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:항공교통서비스평가업무지침#JO0063"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "용어의 정의",
+        "chapter": "제1장 총칙",
+        "content": "제2조(용어의 정의) 이 지침에서 사용하는 용어의 뜻은 다음과 같다.1. \"평가기관\"이란 국토교통부장관 또는 법 제75조제2항에 따라 항공교통사업자에 대한 서비스평가(이하 \"서비스평가\"라 한다) 업무를 위탁받은 기관 또는 단체를 말한다.2. \"평가대상자\"란 법 제2조제35호 및 제39호에 따른 항공교통사업자로서 이 지침에 따라 실제 평가대상이 되는 자를 말한다.3. \"항공운송서비스\"란 법 제2조제10호ㆍ제12호ㆍ제14호 및 제39호에 따른 국내ㆍ국제ㆍ소형항공운송사업자(이하 \"국적사\"라 한다) 및 외국인 국제항공운송사업자(이하 \"외항사\"라 한다)가 제공하는 서비스를 말한다.4. \"공항서비스\"란 법 제2조제34호에 따른 공항운영자 및 공항상주 기관ㆍ업체가 공항에서 제공하는 서비스 등을 말한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "항공사업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공사업법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공교통서비스평가업무지침#JO0002",
+            "reference_id": "law:항공사업법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제75조제2항",
+            "line_text": "",
+            "target_law_name": "항공사업법",
+            "target_article_no": "제75조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공사업법/제75조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공교통서비스평가업무지침#JO0002",
+            "reference_id": "law:항공사업법#JO0075"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "항공사업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공사업법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공교통서비스평가업무지침#JO0002",
+            "reference_id": "law:항공사업법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2조제35호 및 제39호",
+            "line_text": "",
+            "target_law_name": "항공사업법",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공사업법/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공교통서비스평가업무지침#JO0002",
+            "reference_id": "law:항공사업법#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "항공사업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공사업법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공교통서비스평가업무지침#JO0002",
+            "reference_id": "law:항공사업법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2조제10호",
+            "line_text": "",
+            "target_law_name": "항공사업법",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공사업법/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공교통서비스평가업무지침#JO0002",
+            "reference_id": "law:항공사업법#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "항공사업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공사업법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공교통서비스평가업무지침#JO0002",
+            "reference_id": "law:항공사업법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2조제34호",
+            "line_text": "",
+            "target_law_name": "항공사업법",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공사업법/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공교통서비스평가업무지침#JO0002",
+            "reference_id": "law:항공사업법#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:항공교통서비스평가업무지침#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "적용범위",
+        "chapter": "제1장 총칙",
+        "content": "제3조(적용범위) ① 이 지침은 법 제63조에 따른 서비스평가와 관련한 업무에 적용한다.② 이 지침에서 정하지 않은 사항 중 서비스평가와 관련한 중요한 결정이 필요할 경우에는 법 제4조제1항제6호에 따라 \"항공정책위원회\" 심의에 부쳐 결정할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "항공사업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공사업법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공교통서비스평가업무지침#JO0003",
+            "reference_id": "law:항공사업법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "제63조",
+            "line_text": "",
+            "target_law_name": "항공사업법",
+            "target_article_no": "제63조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공사업법/제63조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공교통서비스평가업무지침#JO0003",
+            "reference_id": "law:항공사업법#JO0063"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "항공사업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공사업법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공교통서비스평가업무지침#JO0003",
+            "reference_id": "law:항공사업법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "제4조제1항제6호",
+            "line_text": "",
+            "target_law_name": "항공사업법",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공사업법/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공교통서비스평가업무지침#JO0003",
+            "reference_id": "law:항공사업법#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:항공교통서비스평가업무지침#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "평가의 구분 및 평가대상자의 선정",
+        "chapter": "제2장 서비스평가 항목 및 평가방법",
+        "content": "제4조(평가의 구분 및 평가대상자의 선정) ① 서비스평가는 항공운송서비스 분야에 대한 평가(이하 \"항공운송서비스 평가\"라 한다)와 공항서비스 분야에 대한 평가(이하 \"공항서비스 평가\"라 한다)를 구분하여 시행한다.② 항공운송서비스 평가는 국적사 또는 외항사의 매출규모, 여객 수, 사업운영방식, 주요 운항국가 및 노선 등을 고려하여 대상을 선정하고 평가집단을 구분하여 평가할 수 있다.③ 공항서비스 평가는 공항의 규모(이용객, 노선 수 등) 및 종류(국내공항, 국제공항) 등을 고려하여 대상을 선정하고 평가집단을 구분하여 평가할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:항공교통서비스평가업무지침#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "서비스평가 항목 등",
+        "chapter": "제2장 서비스평가 항목 및 평가방법",
+        "content": "제5조(서비스평가 항목 등) ① 항공운송서비스 평가는 다음 각 호의 평가항목에 대하여 실시하며, 평가항목별 세부항목 및 평가점수의 산정방법은 별표1, 별표2와 같다.1. 운항신뢰성2. 항공교통이용자 보호 충실성3. 이용자만족도4. 안전성(외항사 제외)② 공항서비스 평가는 다음 각 호의 평가항목에 대하여 실시하며, 평가항목별 세부항목 및 평가점수의 산정방법은 별표3과 같다.1. 신속성2. 공항 시설 적정성3. 공항 이용 편리성",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "별표1",
+            "line_text": "",
+            "target_law_name": "항공교통서비스 평가업무지침",
+            "target_article_no": "별표1",
+            "target_article_title": "항공운송서비스 평가항목(운항신뢰성·항공교통이용자 보호 충실성·이용자만족도) 및 평가점수 산정방법(제7조제1항 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000260344&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공교통서비스평가업무지침#JO0005",
+            "reference_id": "admrul:항공교통서비스평가업무지침#BYL0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "별표2",
+            "line_text": "",
+            "target_law_name": "항공교통서비스 평가업무지침",
+            "target_article_no": "별표2",
+            "target_article_title": "항공운송서비스 중 안전성 평가 세부기준(제7조제1항 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000260344&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공교통서비스평가업무지침#JO0005",
+            "reference_id": "admrul:항공교통서비스평가업무지침#BYL0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "별표3",
+            "line_text": "",
+            "target_law_name": "항공교통서비스 평가업무지침",
+            "target_article_no": "별표3",
+            "target_article_title": "공항서비스 평가 항목별 세부지표 및 산정방법(제7조제2항 관련)",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000260344&bylNo=0003&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공교통서비스평가업무지침#JO0005",
+            "reference_id": "admrul:항공교통서비스평가업무지침#BYL0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:항공교통서비스평가업무지침#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "서비스평가 시행매뉴얼 작성 등",
+        "chapter": "제2장 서비스평가 항목 및 평가방법",
+        "content": "제6조(서비스평가 시행매뉴얼 작성 등) ① 평가기관은 구체적인 평가 기간ㆍ일정ㆍ평가대상자ㆍ평가항목ㆍ평가방법 등을 포함한 평가시행매뉴얼(이하 \"평가시행매뉴얼\"이라 한다)을 작성하여야 한다.② 평가기관은 평가시행 2주 전까지 제1항에 따른 평가시행매뉴얼을 평가대상자에게 통보하고 평가기관 홈페이지에 게시하여야 하며, 평가대상자의 이해를 돕기 위해 설명회를 개최할 수 있다.③ 국토교통부장관이 아닌 평가기관은 제2항에 따른 통보 및 게시 전에 당해 평가시행매뉴얼에 대하여 국토교통부장관(항공산업과장)의 승인을 받아야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:항공교통서비스평가업무지침#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "자료 조사 등",
+        "chapter": "제2장 서비스평가 항목 및 평가방법",
+        "content": "제7조(자료 조사 등) ① 평가기관은 서비스평가를 위한 자료 확보를 위해 문헌조사, 현지조사, 유임 탑승조사(기내 또는 공항서비스 조사), 설문조사 등을 실시할 수 있다.② 평가기관은 자료조사 시 서비스평가의 신뢰도를 위하여 관련 증빙자료를 확보하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:항공교통서비스평가업무지침#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "이용자 만족도 조사",
+        "chapter": "제2장 서비스평가 항목 및 평가방법",
+        "content": "제8조(이용자 만족도 조사) ① 평가기관은 항공교통서비스평가의 평가항목 중 \"이용자 만족도\" 평가를 위하여 설문조사를 시행하여야 한다.② 제1항에 따른 항공교통이용자의 만족도 조사는 조사결과의 신뢰도를 높일 수 있도록 충분한 수의 표본과 다양한 계층을 대상으로 실시되어야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:항공교통서비스평가업무지침#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "안전성 평가",
+        "chapter": "제2장 서비스평가 항목 및 평가방법",
+        "content": "제9조(안전성 평가) ① 항공운송서비스 평가의 평가항목 중 \"안전성\"에 대한 평가는 항공안전정책관(항공안전정책과장)이 시행한다.② 제1항에 따른 \"안전성\" 평가항목 중 \"자체 안전관리\"는 항공운항과장이 평가(안전보고 활성도는 제외한다)하여 그 결과를 항공안전정책과장에게 제공한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:항공교통서비스평가업무지침#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "평가점수 산정",
+        "chapter": "제2장 서비스평가 항목 및 평가방법",
+        "content": "제10조(평가점수 산정) ① 평가점수는 법 시행규칙 제68조제1항제2호에 따른 평가기간 및 평가주기별로 평가한다.② 평가점수는 제7조제1항 및 제2항의 평가항목별로 산정함을 원칙으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "법 시행규칙",
+            "line_text": "",
+            "target_law_name": "항공사업법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공사업법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공교통서비스평가업무지침#JO0010",
+            "reference_id": "law:항공사업법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "제68조제1항제2호",
+            "line_text": "",
+            "target_law_name": "항공사업법 시행규칙",
+            "target_article_no": "제68조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공사업법 시행규칙/제68조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공교통서비스평가업무지침#JO0010",
+            "reference_id": "law:항공사업법시행규칙#JO0068"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제2항",
+            "link_text": "제7조제1항 및 제2항",
+            "line_text": "",
+            "target_law_name": "항공교통서비스 평가업무지침",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/항공교통서비스 평가업무지침/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공교통서비스평가업무지침#JO0010",
+            "reference_id": "admrul:항공교통서비스평가업무지침#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:항공교통서비스평가업무지침#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "평가등급",
+        "chapter": "제2장 서비스평가 항목 및 평가방법",
+        "content": "제11조(평가등급) 평가기관은 평가결과에 대한 항공교통이용자의 이해를 돕기 위하여 제12조제2항에 따른 평가항목별 점수에 따라 등급을 부여할 수 있으며 등급ㆍ상태ㆍ표기법은 별표4와 같다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "제12조제2항",
+            "line_text": "",
+            "target_law_name": "항공교통서비스 평가업무지침",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/항공교통서비스 평가업무지침/제12조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공교통서비스평가업무지침#JO0011",
+            "reference_id": "admrul:항공교통서비스평가업무지침#JO0012"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "별표4",
+            "line_text": "",
+            "target_law_name": "항공교통서비스 평가업무지침",
+            "target_article_no": "별표4",
+            "target_article_title": "평가점수에 따른 평가 등급·상태·표기법(제13조 관련)",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000260344&bylNo=0004&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공교통서비스평가업무지침#JO0011",
+            "reference_id": "admrul:항공교통서비스평가업무지침#BYL0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:항공교통서비스평가업무지침#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "평가결과 보고",
+        "chapter": "제3장 서비스평가 결과 보고 및 공개",
+        "content": "제12조(평가결과 보고) ① 평가기관(국토교통부장관이 평가하는 경우는 제외한다)은 서비스평가 종료 후 1개월 이내에 다음 각 호의 사항을 포함한 \"항공교통서비스 평가결과 보고서\"를 작성하여 국토교통부장관에게 보고하여야 한다.1. 서비스평가의 개요2. 평가대상 항공교통사업자의 개요3. 평가수행 방법 및 평가결과(평가기간별 평가점수 등)4. 평가결과에 대한 개선필요사항5. 우수기관 및 종사자 등의 우수사례",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:항공교통서비스평가업무지침#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "서비스 평가 결과의 공개",
+        "chapter": "제3장 서비스평가 결과 보고 및 공개",
+        "content": "제13조(서비스 평가 결과의 공개) ① 국토교통부장관은 항공교통서비스 평가가 완료되면 법 제63조제5항 및 같은 법 시행령 제26조에 따라 서비스평가 결과를 국토교통부 홈페이지를 통하여 공표하여야 한다.② 제1항에 따라 서비스평가 결과를 공표할 때에는 제14조 각 호에 따른 내용을 함께 공표하여야 한다. 또한, 그 밖에 연도별 평가점수, 관련 통계자료 등 필요한 사항을 함께 공표할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제1항",
+            "link_text": "제63조제5항",
+            "line_text": "",
+            "target_law_name": "항공사업법",
+            "target_article_no": "제63조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공사업법/제63조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공교통서비스평가업무지침#JO0013",
+            "reference_id": "law:항공사업법#JO0063"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제1항",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "항공사업법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공사업법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공교통서비스평가업무지침#JO0013",
+            "reference_id": "law:항공사업법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제1항",
+            "link_text": "제26조",
+            "line_text": "",
+            "target_law_name": "항공사업법 시행령",
+            "target_article_no": "제26조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공사업법 시행령/제26조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공교통서비스평가업무지침#JO0013",
+            "reference_id": "law:항공사업법시행령#JO0026"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제2항",
+            "link_text": "제14조",
+            "line_text": "",
+            "target_law_name": "항공교통서비스 평가업무지침",
+            "target_article_no": "제14조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/항공교통서비스 평가업무지침/제14조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:항공교통서비스평가업무지침#JO0013",
+            "reference_id": "admrul:항공교통서비스평가업무지침#JO0014"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조",
+            "link_text": "「항공사업법」 제26조",
+            "line_text": "제13조(서비스 평가 결과의 공개) ① 국토교통부장관은 항공교통서비스 평가가 완료되면 법 제63조제5항 및 같은 법 시행령 제26조에 따라 서비스평가 결과를 국토교통부 홈페이지를 통하여 공표하여야 한다.② 제1항에 따라 서비스평가 결과를 공표할 때에는 제14조 각 호에 따른 내용을 함께 공표하여야 한다. 또한, 그 밖에 연도별 평가점수, 관련 통계자료 등 필요한 사항을 함께 공표할 수 있다.",
+            "target_law_name": "항공사업법",
+            "target_article_no": "제26조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공사업법/제26조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:항공교통서비스평가업무지침#JO0013",
+            "reference_id": "law:항공사업법#JO0026"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:항공교통서비스평가업무지침#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "우수기관 포상 등",
+        "chapter": "제4장 서비스평가 결과 활용",
+        "content": "제14조(우수기관 포상 등) ① 국토교통부장관은 서비스평가 결과에 따라 우수기관 및 유공자에 대하여 포상할 수 있다.② 제1항에 따른 포상은 항공운송서비스 평가와 공항서비스 평가를 구분하여 시행한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:항공교통서비스평가업무지침#JO0014"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20120816",
+      "promulgation_no": "868",
+      "content": "부칙 <제868호,2012. 8. 16.>(시행일) 이 지침은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20130416",
+      "promulgation_no": "60",
+      "content": "부칙 <제60호,2013. 4. 16.>(시행일) 이 지침은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20131230",
+      "promulgation_no": "318",
+      "content": "부칙 <제318호,2013. 12. 30.>(시행일) 이 지침은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20140708",
+      "promulgation_no": "393",
+      "content": "부칙 <제393호,2014. 7. 8.>(시행일) 이 지침은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20150812",
+      "promulgation_no": "568",
+      "content": "부칙 <제568호,2015. 8. 12.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다.제2조(적용례) 별표 1, 별표 2, 별표 3 및 별표 5의 개정 규정은 이 훈령 시행 당시 평가절차가 진행 중인 것부터 적용한다."
+    },
+    {
+      "promulgation_date": "20170502",
+      "promulgation_no": "842",
+      "content": "부칙 <제842호,2017. 5. 2.>제1조(시행일) 이 훈령은 공포한 날부터 시행한다.제2조(적용례) 이 훈령의 개정규정은 이 훈령 시행 당시 평가절차가 진행 중인 서비스평가부터 적용한다."
+    },
+    {
+      "promulgation_date": "20171229",
+      "promulgation_no": "964",
+      "content": "부칙 <제964호,2017. 12. 29.>제1조(시행일) 이 훈령은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20200417",
+      "promulgation_no": "1293",
+      "content": "부칙 <제1293호,2020. 4. 17.>제1조(시행일) 이 훈령은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20220817",
+      "promulgation_no": "1548",
+      "content": "부칙 <제1548호, 2022. 8. 17.>제1조(시행일) 이 훈령은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20230814",
+      "promulgation_no": "1647",
+      "content": "부칙 <제1647호, 2023. 8. 14.>제1조(시행일) 이 훈령은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20250616",
+      "promulgation_no": "1875",
+      "content": "부칙 <제1875호, 2025. 6. 16.>제1조(시행일) 이 훈령은 공포한 날부터 시행한다.제2조(적용특례) 서비스평가 시점(時點)을 기준으로 영업기간이 1년 미만인 국적사 또는 외항사는 평가대상기관에서 제외한다. 이 경우 영업기간은 최초 운항개시일을 기산점으로 하여 산정한다.제3조(재검토기한) 국토교통부장관은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 훈령에 대하여 2025년 7월 1일 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "항공운송서비스 평가항목(운항신뢰성·항공교통이용자 보호 충실성·이용자만족도) 및 평가점수 산정방법(제7조제1항 관련)",
+      "enforcement_date": "",
+      "content": "■ 항공교통서비스 평가업무지침 [별표 1]\n항공운송서비스 평가항목(운항신뢰성ㆍ항공교통이용자 보호 충실성ㆍ이용자만족도) 및 평가점수 산정방법(제7조제1항 관련)\n1. 운항신뢰성 평가\n┏━━━━┯━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┑\n┃평가항목│세부평가항목│평가점수 산정방법                                                     │\n┃(배점)  │(배점)      │                                                                      │\n┣━━━━┿━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┥\n┃ 운항   │시간준수율  │?시간준수율=(정시운항편 수/운항계획편 수)×100                       │\n┃신뢰성  │(45)        │  - 정시운항편 수=운항계획편 수?(지연편 수+결항편 수)                │\n┃(100)   ├──────┼───────────────────────────────────┤\n┃        │시간단위별  │?시간단위별 지연율 = 100 - 시간단위별 지연율의 합                    │\n┃        │지연율      │  - 시간단위별 지연율은 운항편 수 대비 구간별* 지연편 수를            │\n┃        │(45)        │각각 백분률로 산출하되,                                               │\n┃        │            │  - 시간단위별 지연율의 합을 계산할 때에는, 1구간은 해당 지연         │\n┃        │            │율의 4배, 2구간은 8배, 3구간은 12배하여 합산                          │\n┃        │            │ * (국제선) 1구간: 2~4시간미만, 2구간:4~12시간 미만, 3구간: 12시간이상│\n┃        │            │(국내선) 1구간: 1~2시간미만, 2구간: 2~3시간미만, 3구간: 3시간 이상    │\n┃        │            │ ** 다만 지연율 계산 시 기상, 공항 및 출입국 절차, 항공교통흐름       │\n┃        │            │등 불가항력적인 사유로 발생한 지연인 경우는 제외                      │\n┃        ├──────┼───────────────────────────────────┤\n┃        │운항 서비스 │?운항 신뢰성 서비스 개선을 위한 노력과 성과                          │\n┃        │개선 이행   │                                                                      │\n┃        │노력(10)    │ - 상시 전담조직 구성 및 책임(30) + 비상시 대책 및 대응체계(30)       │\n┃        │            │+ 평가결과에 따른 개선계획 수립 및 이행(40)                           │\n┃        │            │  * 3인 이상의 위원회를 구성하여 평가점수부여(상: 100% /중상: 75%     │\n┃        │            │/중: 50%/하: 25%/없음: 0%)                                            │\n┃        ├──────┼───────────────────────────────────┤\n┃        │가점(최대 5)│?지방공항 국내선 운항 노선 유지?증편?신설에 따른 가점              │\n┃        │            │ * 대상지방공항: 7개 공항(양양, 원주, 울산, 포항, 사천, 여수, 군산)   │\n┃        │            │                                                                      │\n┃        │            │ - 1년단위 정기운항스케쥴 대비 노선별(내륙노선, 제주노선) 유지,       │\n┃        │            │증편?신설 구분 : 내륙신설 5점, 내륙증편 및 제주신설 3점, 내          │\n┃        │            │륙유지 및 제주증편 : 2점, 제주유지 : 1점                              │\n┗━━━━┷━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙\n가. 운항신뢰성 항목은 시간준수율 및 시간단위별 지연율, 운항서비스 개선 이행 노력 점수는 100점 기준으로 평가하여 각 항목별 배점으로 환산하고, 가점포함 최대 100점으로 한다.\n나. 국적항공사는 국내선과 국제선을 구분하여 점수를 산정하고, 외국적항공사는 국제선만 점수를 산정한다.\n\n2. 항공교통이용자 보호 충실성 평가\n┏━━━━┯━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃평가항목│세부평가항목          │평가점수 산정방법                                                 ┃\n┃(배점)  │(배점)                │                                                                  ┃\n┣━━━━┿━━━━━┯━━━━━┿━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━┫\n┃항공교통│보호조치  │보호조치  │항공교통이용자 서비스 │?미수립(0), 일부 수립(0.5), 전부 수립(1) ┃\n┃이용자  │충실성    │계획 수립 │계획 수립 및 게시(2)  │?미게시(0), 메인화면 노출 게시(1)        ┃\n┃보호    │(30)      │및 게시(6)├───────────┼─────────────────────┨\n┃충실성  │          │          │피해구제계획 수립     │?미수립(0), 일부 수립(0.5), 전부 수립(1) ┃\n┃(100)   │          │          │및 게시(2)            │?미게시(0), 메인화면 노출 게시(1)        ┃\n┃        │          │          ├───────────┼─────────────────────┨\n┃        │          │          │운송약관 게시(2)      │?미게시(0), 메인화면 노출 게시(2)        ┃\n┃        │          ├─────┼───────────┼─────────────────────┨\n┃        │          │정보제공  │홈페이지 접근성(2)    │?한글 홈페이지 제공(2)                   ┃\n┃        │          │(7)       ├──┬────────┼─────────────────────┨\n┃        │          │          │거래│취소·환불·    │?미고지(0), 결제 화면 내 고지(1)         ┃\n┃        │          │          │조건│변경 관련 (1)   │                                          ┃\n┃        │          │          │고지├────────┼─────────────────────┨\n┃        │          │          │(3) │수하물          │?미고지(0), 결제 화면 내 고지(1)         ┃\n┃        │          │          │    │관련(1)         │                                          ┃\n┃        │          │          │    ├────────┼─────────────────────┨\n┃        │          │          │    │공동운항        │?미고지(0), 결제 화면 내 고지(1)         ┃\n┃        │          │          │    │관련(1)         │                                          ┃\n┃        │          │          ├──┴────────┼─────────────────────┨\n┃        │          │          │국내선 항공운임 및    │?미고지(0), 일부고지(1), 고지(2)         ┃\n┃        │          │          │유류할증료 고지(2)    │                                          ┃\n┃        │          ├─────┼───────────┼─────────────────────┨\n┃        │          │접수처    │현장 접수처(2)        │?미설치(0), 설치(2)                      ┃\n┃        │          │설치 및   ├───────────┼─────────────────────┨\n┃        │          │운영      │인터넷 접수처(2)      │?미설치(0). 설치(2)                      ┃\n┃        │          │(12)      ├───────────┼─────────────────────┨\n┃        │          │          │모바일 접수처 (2)     │?미설치(0), 설치(2)                      ┃\n┃        │          │          ├───────────┼─────────────────────┨\n┃        │          │          │전화 응답 여부(3)     │?무작위 3회 전화 연결                    ┃\n┃        │          │          │                      │ - 미응답(0), 1회 응답(1), 2회 응답       ┃\n┃        │          │          │                      │(2), 3회 응답(3)                          ┃\n┃        │          │          ├───────────┼─────────────────────┨\n┃        │          │          │서면 회신 여부(3)     │?무작위 3회 이메일 등 서면 발송, 7일     ┃\n┃        │          │          │                      │이내 회신                                 ┃\n┃        │          │          │                      │ － 미회신(0), 1회 회신(1), 2회           ┃\n┃        │          │          │                      │회신(2), 3회 회신(3)                      ┃\n┃        │          ├─────┼───────────┼─────────────────────┨\n┃        │          │비상대비  │비상대응 모의훈련(5)  │?비상대응* 모의훈련 실시                 ┃\n┃        │          │훈련      │                      │  - 3개 모두 실시 : 5점, 2개 실시         ┃\n┃        │          │(5)       │                      │: 3점, 1개 실시 : 1점, 미실시 0점)        ┃\n┃        │          │          │                      │ * 발권시스템 고장, 풍수해, 항공          ┃\n┃        │          │          │                      │종사자 파업                               ┃\n┃        ├─────┼─────┼───────────┴─────────────────────┨\n┃        │피해      │피해구제  │?피해구제접수 점수 = 100?[여객 일백만명당 (국토교통부           ┃\n┃        │구제성    │접수      │민원 접수건수 + 한국소비자원 피해구제 미합의건수)]                ┃\n┃        │(40)      │(35)      │                                                                  ┃\n┃        │          ├─────┼─────────────────────────────────┨\n┃        │          │분쟁조정  │?분쟁조정결과 점수 =100?[분쟁조정결과 국적사 또는 외            ┃\n┃        │          │결과      │항사의 귀책사유로 판단된 건 수(조정 성립된 건 수는                ┃\n┃        │          │(5)       │제외)/분쟁조정 건 수]*100                                         ┃\n┃        ├─────┴─────┼─────────────────────────────────┨\n┃        │행정처분              │?행정처분 점수 = 100?[(사업정지 또는 과징금 부과 처             ┃\n┃        │(20)                  │분 1건당 20점)+(사업개선명령 또는 과태료 부과 처                  ┃\n┃        │                      │분 1건당 10점)]                                                   ┃\n┃        ├───────────┼─────────────────────────────────┨\n┃        │소비자보호 개선       │? 항공교통이용자보호 충실성 이행을 위한 노력과 성과              ┃\n┃        │이행 노력(10)         │  - 소비자보호 상시 대응체계(30) + 이해 관계자 협력사항           ┃\n┃        │                      │(30) + 평가결과에 따른 개선계획 수립 및 이행(40)                  ┃\n┃        │                      │   * 3인 이상의 위원회를 구성하여 평가점수 부여(상: 100% /중상:   ┃\n┃        │                      │75% /중: 50%/하: 25%/없음: 0%)                                    ┃\n┃        ├───────────┼─────────────────────────────────┨\n┃        │가점(최대 5)          │?가점 : 소비자 중심 경영(CCM) 인증(1점)                          ┃\n┃        │                      │  - 비정상상황 발생 시 대체기 지원 항공사(회당 1점),              ┃\n┃        │                      │  - 정부주관 항공운송마비 재난대응 훈련(상시훈련, 안전            ┃\n┃        │                      │한국훈련) 시 파업 항공사로 참여(회당 1점)                         ┃\n┗━━━━┷━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n가. 항공교통이용자 보호 관련 행정처분이란 법 제61조에 따른 피해구제계획의 수립, 항공교통이용자 보호기준 등 항공교통이용자 보호, 법 제62에 따른 운송약관 신고, 운임표 등의 비치, 항공운임 등 총액 정보의 제공, 법 제63조 및 제64에 따른 서비스평가 및 보고서 발간, 법 제27조 제6호 및 제7호에 따른 사업개선명령 등 항공교통이용자 보호와 밀접하게 관련된 것으로 항공법령에 따른 행정처분을 말하며, 평가대상기간 중 행정처분이 완료된 건을 평가한다.\n나. 세부평가항목 중 피해구제접수, 분쟁조정결과와 행정처분, 소비자보호 개선 이행노력 점수는 100점 기준으로 작성하여, 각 항목별 배점으로 환산한다.\n3. 이용자만족도 평가\n┏━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━┓\n┃평가항목    │세부평가항목 및 설문내용                              │평가점수        ┃\n┃(배점)      ├────────┬──────────────────┤산정방법        ┃\n┃            │평가내용        │설문내용                            │                ┃\n┣━━━━━━┿━━━━━━━━┿━━━━━━━━━━━━━━━━━━┿━━━━━━━━┫\n┃이용자만족도│예약 및 발권의  │항공권 예약?발권 방법              │?이용자만족도  ┃\n┃(100)       │용이성          ├──────────────────┤점수 =          ┃\n┃            │                │항공권의 취소, 변경 또는 환불 경험  │∑((세부항목    ┃\n┃            │                ├──────────────────┤점수 ×         ┃\n┃            │                │예약 및 발권의 용이성 전반적 만족도 │세부항목에      ┃\n┃            ├────────┼──────────────────┤대한 가중치*)   ┃\n┃            │탑승수속의      │탑승수속 이용방법                   │× 14.286)      ┃\n┃            │용이성          ├──────────────────┤                ┃\n┃            │                │체크인 시 수하물 위탁 여부 및       │                ┃\n┃            │                │소요시간                            │                ┃\n┃            │                ├──────────────────┤                ┃\n┃            │                │탑승 수속의 용이성 전반적 만족도    │                ┃\n┃            ├────────┼──────────────────┤                ┃\n┃            │정보제공의      │지연 및 결항 경험 여부              │                ┃\n┃            │적절성          ├──────────────────┤                ┃\n┃            │                │지연 및 결항 관련 정보 제공 방법    │                ┃\n┃            │                ├──────────────────┤                ┃\n┃            │                │정보제공의 적절성 전반적 만족도     │                ┃\n┃            ├────────┼──────────────────┤                ┃\n┃            │항공기의 쾌적성 │항공기의 쾌적성 전반적 만족도       │                ┃\n┃            │                ├──────────────────┤                ┃\n┃            │                │기내 환경 중 불만족 사항            │                ┃\n┃            ├────────┼──────────────────┤                ┃\n┃            │기내서비스      │기내에서 이용한 서비스              │                ┃\n┃            │만족도          ├──────────────────┤                ┃\n┃            │                │기내 서비스 전반적 만족도           │                ┃\n┃            ├────────┼──────────────────┤                ┃\n┃            │항공사 직원의   │항공사 직원의 친절도 전반적 만족도  │                ┃\n┃            │친절도          │                                    │                ┃\n┃            ├────────┼──────────────────┤                ┃\n┃            │항공운임 만족도 │항공기 이용서비스나 편익 대비       │                ┃\n┃            │                │항공운임의 적절성 만족도            │                ┃\n┃            ├────────┼──────────────────┤                ┃\n┃            │재이용 의사     │향후 항공사 재이용 여부             │                ┃\n┃            ├────────┼──────────────────┤                ┃\n┃            │전반적인 만족도 │상기 평가항목에 대한 전반적인       │                ┃\n┃            │                │만족도                              │                ┃\n┗━━━━━━┷━━━━━━━━┷━━━━━━━━━━━━━━━━━━┷━━━━━━━━┛\n※ 비고\n이용자만족도 점수 산정방법은 다음과 같다. (예: 예약ㆍ발권의 용이성)\n① 항공권 예약ㆍ발권의 용이성 획득점수 : 매우불만족(1점), 불만족(2), 다소불만족(3), 보통(4), 다소만족(5), 만족(6), 매우만족(7)\n② 이용자만족도 점수 = ∑((세부항목 점수 × 세부항목에 대한 가중치*) × 14.286)\n* 가중치는 설문결과를 토대로 항공교통이용자가 체감하는 세부 평가항목의 중요도를 자동 산출(PLS-구조방정식 적용)",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000260344&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153013889",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153013879",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153013889",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:항공교통서비스평가업무지침#BYL0001",
+      "filename": "별표1_항공운송서비스 평가항목(운항신뢰성·항공교통이용자 보호 충실성·이용자만족도) 및 평가점수 산정방법(제7조제1항 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "항공운송서비스 중 안전성 평가 세부기준(제7조제1항 관련)",
+      "enforcement_date": "",
+      "content": "■ 항공교통서비스 평가업무지침 [별표 2]\n항공운송서비스 중 안전성 평가 세부기준(제7조제1항 관련)\n1. 일반 기준\n가. ‘항공기 사고 및 준사고’, ‘자체안전관리’ 항목은 평가대상 기간의 마지막 일자를 기준으로 평가한다.\n나. ‘행정처분’ 항목은 평가대상 기간의 마지막 일자를 기준으로 최근 1년 이내 행정처분 확정통지가 완료된 건을 평가한다.\n다. 제2호의 평가항목 및 기준에도 불구하고, 평가대상 기간의 마지막 일자를 기준으로 1년 이내에 인명피해(사망 또는 10명 이상 중상) 사고가 발생한 경우 최하등급(F급, 49점)으로 평가하되, 천재지변 등 항공사의 귀책사유가 없다고 명백하게 인정된 사고는 제외한다.\n2. 세부평가항목 및 기준\n┌─────┬───────────┬──┬───────────────────────────────┐\n│세부      │평가내용              │배점│평가 기준                                                     │\n│평가항목  │                      │    │                                                              │\n├─────┼───────────┼──┼───────────────────────────────┤\n│항공기    │ 1. 항공기 사고       │20  │?최근 1년 이내 1백만 비행횟수 당 사고발생 건수를             │\n│사고 및   │발생률                │    │배점에서 뺀 점수                                              │\n│준사고    │ (인명피해(사망, 중상 │    │                                                              │\n│(30점)    │10명 이상)가 없는     │    │ * 계산식 : 20-{(최근 1년간 사고발생 건수 × 100만)/최근      │\n│          │사고에 한함)          │    │1년간 비행횟수}                                               │\n│          ├───────────┼──┼───────────────────────────────┤\n│          │ 2. 항공기 준사고     │10  │?최근 1년 이내 25만 비행횟수 당 준사고 발생 건               │\n│          │발생률                │    │수를 배점에서 뺀 점수                                         │\n│          │                      │    │                                                              │\n│          │                      │    │ * 계산식 : 10-{(최근 1년간 준사고 발생 건수 × 25만)/최근    │\n│          │                      │    │1년간 비행횟수}                                               │\n├─────┼───────────┼──┼───────────────────────────────┤\n│행정처분  │1. 안전규정           │10  │?10만 비행횟수 당 부과 받은 과징금 및 운항정지               │\n│(30점)    │위반으로 인한         │    │건수를 배점에서 뺀 점수                                       │\n│          │과징금 및             │    │                                                              │\n│          │운항정지 건수         │    │ * 계산식 : 10-{(최근 1년간 과징금 및 운항정지 건수           │\n│          │                      │    │× 10만)/최근 1년간 비행횟수}                                 │\n│          ├───────────┼──┼───────────────────────────────┤\n│          │2. 안전 관련          │10  │?과징금 1억원 초과시 2만 비행횟수 당 1억원을                 │\n│          │과징금 부과액         │    │초과한 과징금액을 1억원으로 나눈 점수를 배점                  │\n│          │(운항정지로 처분된    │    │에서 뺀 점수                                                  │\n│          │경우 과징금           │    │                                                              │\n│          │금액으로 환산하여     │    │ * 계산식 : 10-{(1억원 초과 과징금액 × 2만)/최근             │\n│          │적용)                 │    │1년간 비행횟수 ÷ 1억}                                        │\n│          │                      │    │                                                              │\n│          │                      │    │ - 운항정지로 처분된 경우, 해당 과징금 처분조항에             │\n│          │                      │    │명시된 금액으로 환산하여 적용한다. 운항정지                   │\n│          │                      │    │일수를 2분의1의 범위 내에서 늘리거나 줄인                     │\n│          │                      │    │경우도 동일하게 적용하여 환산한다.                            │\n│          ├───────────┼──┼───────────────────────────────┤\n│          │3. 항공종사자 처분    │10  │?1000명당 자격증명효력 정지 및 취소된 종사자                 │\n│          │건수                  │    │수 당 0.5점씩을 배점에서 뺀 점수                              │\n│          │                      │    │                                                              │\n│          │                      │    │ * 계산식 : 10-{(자격증명 효력정지 및 취소된                  │\n│          │                      │    │   항공종사자 수 × 1000)/근무 중인 항공종사자 수 × 0.5}     │\n├─────┼───────────┼──┼───────────────────────────────┤\n│자체      │ 1. 항공운항분야      │15  │?평가대상 기간의 마지막 일자를 기준으로, 당해                │\n│안전관리  │국가                  │+   │년도의 국가목표*를 달성한 항공사에 15점, 미달성한             │\n│(40점     │   안전지표?목표     │최  │항공사에 0～12.5점을 부여하고 목표달성 항공사                 │\n│+         │달성도                │대  │중에서 초과달성 정도에 따라 5점의 범위 내에서                 │\n│최대 5점  │                      │5점 │항공사별 가점 부여                                            │\n│범위내    │                      │범  │                                                              │\n│가점)     │                      │위  │  * 연간 비행편수가 1만편 미만인 항공사는 국토교통부          │\n│          │                      │내  │장관이 승인한 발생건수 기준 목표치로 달성 여부를              │\n│          │                      │가  │판정한다.                                                     │\n│          │                      │점  │                                                              │\n│          │                      │    │※ 목표 달성도별 배점                                         │\n│          │                      │    │┌──┬─────────────────────────┐  │\n│          │                      │    ││구분│목표치 달성 정도                                  │  │\n│          │                      │    ││    ├──┬──────────────────────┤  │\n│          │                      │    ││    │목표│목표 미달성                                 │  │\n│          │                      │    ││    │달성├───┬───┬───┬───┬───┬──┤  │\n│          │                      │    ││    │    │90%   │80%   │70%   │60%   │50%   │50% │  │\n│          │                      │    ││    │    │이상  │이상  │이상  │이상  │이상  │미만│  │\n│          │                      │    ││    │    │100%  │90%   │80%   │70%   │60%   │    │  │\n│          │                      │    ││    │    │미만  │미만  │미만  │미만  │미만  │    │  │\n│          │                      │    │├──┼──┼───┼───┼───┼───┼───┼──┤  │\n│          │                      │    ││배점│15점│12.5점│10.0점│7.5점 │5.0점 │2.5점 │0점 │  │\n│          │                      │    │└──┴──┴───┴───┴───┴───┴───┴──┘  │\n│          │                      │    │ ＋                                                           │\n│          │                      │    │┌──┬───────────┐                              │\n│          │                      │    ││구분│초과 달성 순위별 가점 │                              │\n│          │                      │    ││    ├──┬──┬─────┤                              │\n│          │                      │    ││    │1위 │2위 │3위       │                              │\n│          │                      │    │├──┼──┼──┼─────┤                              │\n│          │                      │    ││배점│5점 │3점 │1점       │                              │\n│          │                      │    │└──┴──┴──┴─────┘                              │\n│          ├───────────┼──┼───────────────────────────────┤\n│          │ 2. 항공안전관리      │15  │?평가대상 기간 중 「항공안전관리시스템 승인 및               │\n│          │시스템                │    │모니터링지침(훈령)」 제22조에  따라 국토교통부장관이          │\n│          │(SMS) 이행성숙도      │    │실시한 안전관리시스템 이행성숙도 평가결과에                   │\n│          │평가 단계             │    │따라 점수 부여                                                │\n│          │                      │    │                                                              │\n│          │                      │    │ ※ 단계별 배점                                               │\n│          │                      │    │┌──┬───┬───┬───┬───┬───┬───┐      │\n│          │                      │    ││평균│3.6～ │3.1～ │2.6～ │2.1～ │1.6～ │1.5점 │      │\n│          │                      │    ││    │4.0   │3.5   │3.0   │2.5   │2.0   │이하  │      │\n│          │                      │    │├──┼───┼───┼───┼───┼───┼───┤      │\n│          │                      │    ││배점│15점  │12.5점│10점  │7.5점 │5점   │0점   │      │\n│          │                      │    │└──┴───┴───┴───┴───┴───┴───┘      │\n│          ├───────────┼──┼───────────────────────────────┤\n│          │ 3. 안전문화 저해     │4   │?평가대상 기간 중 아래에 해당하는 사항 1건당 1               │\n│          │요인                  │    │점씩을 배점에서 뺀 점수                                       │\n│          │                      │    │                                                              │\n│          │                      │    │  -「항공안전법」 제94조에 따라 국토교통부장관으로            │\n│          │                      │    │부터 항공안전 관리시스템(SMS) 이행에 관한                     │\n│          │                      │    │안전 개선 명령을 받은 경우                                    │\n│          │                      │    │                                                              │\n│          │                      │    │  - 최고경영관리자, 총괄안전관리자, 고위관리자가              │\n│          │                      │    │항공안전관리시스템(SMS) 이행 책임을 다하지                    │\n│          │                      │    │않은 사례에 대한 제보가 국토교통부, 언론, 관계                │\n│          │                      │    │기관 등으로 접수(국토교통부가 사실조사 또는                   │\n│          │                      │    │진위확인을 실시하여 사실로 인정된 경우만 산정)                │\n│          │                      │    │                                                              │\n│          │                      │    │ * 계산식 : 4-해당건수                                        │\n│          ├───────────┼──┼───────────────────────────────┤\n│          │ 4. 안전문화          │2   │가. 퀵턴 저감노력                                             │\n│          │증진요인              │    │                                                              │\n│          │                      │    │?평가대상 기간 중 “편도 주 4회 이상 운항하고,               │\n│          │                      │    │운항시간이 4시간 이상 노선”에서 객실승무원                   │\n│          │                      │    │퀵턴 실시율(%)                                                │\n│          │                      │    │                                                              │\n│          │                      │    │ * 계산식 : 퀵턴 비행편수/해당노선 전체 비행편수 x 100        │\n│          │                      │    │                                                              │\n│          │                      │    │※ 단계별 배점                                                │\n│          │                      │    │┌──┬──────┬───┬───┬───┬───┬──┐  │\n│          │                      │    ││비율│15% 미만    │15%   │30%   │45%   │55%   │75% │  │\n│          │                      │    ││    │또는 퀵턴   │이상  │이상  │이상  │이상  │이상│  │\n│          │                      │    ││    │노선이 없는 │30%   │45%   │55%   │75%   │    │  │\n│          │                      │    ││    │경우        │미만  │미만  │미만  │미만  │    │  │\n│          │                      │    │├──┼──────┼───┼───┼───┼───┼──┤  │\n│          │                      │    ││배점│1점         │0.8점 │0.6점 │0.4점 │0.2점 │0점 │  │\n│          │                      │    │└──┴──────┴───┴───┴───┴───┴──┘  │\n│          │                      │    │                                                              │\n│          │                      │    │나. 객실승무원 탑승실적                                       │\n│          │                      │    │                                                              │\n│          │                      │    │?‘19년 동기 대비 평가대상기간 동안 비행편당 객실            │\n│          │                      │    │승무원 평균 탑승 인원의 증감 여부                             │\n│          │                      │    │                                                              │\n│          │                      │    │ - 단, 화물노선은 제외하며, ’19년과 평가대상기간에           │\n│          │                      │    │공통적으로 운영한 기종만 평가대상으로 한다                    │\n│          │                      │    │                                                              │\n│          │                      │    │(예 : ’19년 이후 신규도입, 퇴출, 여객운항 중단 기종 등 제외) │\n│          │                      │    │                                                              │\n│          │                      │    │ * 계산식 : 평가 대상기간의 기종별 객실승무원 평균            │\n│          │                      │    │탑승인원의 합 / ’19.1.1~12.31까지 기종별 객실승무원          │\n│          │                      │    │평균 탑승인원의 합                                            │\n│          │                      │    │※ 단계별 배점                                                │\n│          │                      │    │┌──┬───┬────┬────┬────┐                │\n│          │                      │    ││비율│1 이상│0.9 이상│0.7 이상│0.7 미만│                │\n│          │                      │    ││    │      │1 미만  │0.9 미만│        │                │\n│          │                      │    │├──┼───┼────┼────┼────┤                │\n│          │                      │    ││배점│1점   │0.75점  │0.5점   │0.25점  │                │\n│          │                      │    │└──┴───┴────┴────┴────┘                │\n│          │                      │    │ * ‘19년 이후에 설립된 항공사에는 만점(1점)을 준다.          │\n│          ├───────────┼──┼───────────────────────────────┤\n│          │ 5. 안전보고 활성도   │4   │?최근 1년 이내 「항공안전법」 제59조에 따른 항공안전         │\n│          │                      │    │의무보고 건수 대비 같은 법 제61조에 따른 자율보고 건수        │\n│          │                      │    │                                                              │\n│          │                      │    │ ※ 단계별 배점                                               │\n│          │                      │    │┌─────┬──┬──┬──┬──┐                        │\n│          │                      │    ││안전보고  │30  │20  │10  │5   │                        │\n│          │                      │    ││활성도    │이상│이상│이상│이상│                        │\n│          │                      │    │├─────┼──┼──┼──┼──┤                        │\n│          │                      │    ││배점      │4점 │3점 │2점 │1점 │                        │\n│          │                      │    │└─────┴──┴──┴──┴──┘                        │\n│          │                      │    │                                                              │\n│          │                      │    │ * 계산식 : {(최근 1년간 자율보고 건수)/(최근 1년간           │\n│          │                      │    │의무보고 건수)}*100                                           │\n│          │                      │    │                                                              │\n│          │                      │    │  -의무보고 건수 집계 시 중복보고 및 해당 항공사              │\n│          │                      │    │비귀책 건수는 제외한다.                                       │\n│          │                      │    │  -의무보고 건수가 0건인 항공사의 안전보고 활성도의           │\n│          │                      │    │경우, 나머지 항공사 안전보고 활성도 점수의 평균과             │\n│          │                      │    │동일한 점수를 부여한다.                                       │\n│          │                      │    │  -자율보고 건수 집계는 자율보고제도 위탁 수행기관인          │\n│          │                      │    │한국교통안전공단이 수행하며, 보고내용에서 평가                │\n│          │                      │    │대상(항공사)이 식별된 경우만 집계한다.                        │\n└─────┴───────────┴──┴───────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000260344&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153014941",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153013891",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153014941",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:항공교통서비스평가업무지침#BYL0002",
+      "filename": "별표2_항공운송서비스 중 안전성 평가 세부기준(제7조제1항 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "공항서비스 평가 항목별 세부지표 및 산정방법(제7조제2항 관련)",
+      "enforcement_date": "",
+      "content": "■ 항공교통서비스 평가업무지침 [별표 3]\n공항서비스 평가 항목별 세부지표 및 산정방법(제7조제2항 관련)\n1. 신속성 평가\n┌────┬──────┬─────────────────────────────────┐\n│평가항목│세부평가    │평가점수 산정방법                                                 │\n│(배점)  │항목        │                                                                  │\n│        │(배점)      │                                                                  │\n┝━━━━┿━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┥\n│신속성  │출국/출발/  │?항목별 소요시간 점수 = 12.5-(조사표본 전체 평균 소요시간-       │\n│(100)   │입국/도착   │기준시간)                                                         │\n│        │소요시간(50)│ * 단, 평균 소요시간이 기준시간 이내인 경우는 12.5점              │\n│        │            │** 국제선 출국/입국, 국내선 출발/도착을 각각 12.5점으로 계산하되, │\n│        │            │인천공항은 국제선 출국/입국 각 25점으로 계산한다.                 │\n│        ├──────┼─────────────────────────────────┤\n│        │출국/출발/  │?항목별 기준시간 초과 점수 = 5-5×(기준시간 초과한 값의 평       │\n│        │입국/도착   │균시간-기준시간)/(최대기준시간-기준시간)                          │\n│        │기준시간    │ * 국제선 출국/입국, 국내선 출발/도착을 각각 5점으로 계산하되, 인 │\n│        │초과(20)    │천공항은 국제선 출국/입국 각 10점으로 계산한다.                   │\n│        ├──────┼─────────────────────────────────┤\n│        │첨두시간    │?항목별 첨두시간 혼잡 점수 = 10-10×∑(Max(특별교통대책          │\n│        │혼잡(20)    │기간 중 공항이용객이 가장 많은 날의 시간대별 출발 여객            │\n│        │            │수 － 공항수용능력), 0)/(공항수용능력)                            │\n│        │            │                                                                  │\n│        │            │ - 공항수용능력은 「공항수용능력 설정지침」에 따라 설정된         │\n│        │            │해당공항 공항수용능력 중 시간당 처리 가능한 최대 여객             │\n│        │            │수(운영용량)를 기준으로 한다.                                     │\n│        │            │                                                                  │\n│        │            │ * 국제선과 국내선 터미널 기준 각각 10점으로 계산하여 합산하되,   │\n│        │            │인천공항은 T1과 T2를 각 10점으로 계산하여 합산한다.               │\n│        ├──────┼─────────────────────────────────┤\n│        │신속성 개선 │?연간 신속성 개선 노력도(5)                                      │\n│        │노력도(10)  │= 평가 결과를 반영한 신속성 개선계획 수립(40) + 개선계획          │\n│        │            │이행(60)                                                          │\n│        │            │                                                                  │\n│        │            │?특별교통대책기간 신속성 개선 노력도(5)                          │\n│        │            │= 여객 편차 등을 고려한 특별교통대책기간 신속성 개선계획          │\n│        │            │수립(40) + 개선계획 이행(60)                                      │\n│        │            │ * 국제선 출국(50) + 국내선 출발(50), 인천공항은 국제선 출발 기   │\n│        │            │준으로 계산                                                       │\n│        │            │ * 신속성 개선 노력도(10)는 3인 이상의 위원회를 구성하여 평가점   │\n│        │            │수부여 (상: 100% /중상: 75% /중: 50%/하: 25%/없음: 0%)            │\n└────┴──────┴─────────────────────────────────┘\n주1) 기준시간 : 출국(45분), 출발(15분), 입국(40분), 도착(12분)\n주2) 최대기준시간 : 출국(60분), 출발(27분), 입국(45분), 도착(18분)\n2. 공항 시설 적정성\n┏━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃평가항목  │평가점수 산정방법                                                             ┃\n┃(배점)    │                                                                              ┃\n┣━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃편의시설  │?의무실·약국 등 의료시설 운영 여부(6)                                       ┃\n┃(30)      │- 의무실 운영 및 약국 입점(6점)                                               ┃\n┃          │의무실 운영 및 약국 미입점(4점)                                               ┃\n┃          │의무실 미운영 및 약국 입점(2점)                                               ┃\n┃          │의무실 미운영 및 약국 미입점(0점)                                             ┃\n┃          │                                                                              ┃\n┃          │* 터미널이 2개 이상인 경우 각 터미널에 대해 평가한 후 평균 점수로 산출한다.   ┃\n┃          ├───────────────────────────────────────┨\n┃          │?안내데스크 인력(6)                                                          ┃\n┃          │= (첨두시 공항 이용여객×0.10/시간당 안내데스크 상주인력)                     ┃\n┃          │- 100 이하 6점, 200 이하 4점, 300 이하 2점, 300 초과 0점                      ┃\n┃          │                                                                              ┃\n┃          │* 터미널이 2개 이상인 경우 각 터미널에 대해 평가한 후 평균 점수로 산출한다.   ┃\n┃          ├───────────────────────────────────────┨\n┃          │?일반대합실 의자 수(5)                                                       ┃\n┃          │= 일반대합실 의자 수/(첨두시 공항이용 여객 수×6/13)                          ┃\n┃          │ - 25% 이상 5점, 20% 이상 4점, 15% 이상 3점, 10% 이상 2점, 5% 이상            ┃\n┃          │1점, 5% 미만 0점                                                              ┃\n┃          │                                                                              ┃\n┃          │* 국내선과 국제선으로 나누어 각각의 첨두시 여객 수로 가중평균 적용하여 지표를 ┃\n┃          │산출한다.                                                                     ┃\n┃          ├───────────────────────────────────────┨\n┃          │?격리대합실 의자 수(5)                                                       ┃\n┃          │= 격리대합실 의자 수/(첨두시 공항이용 여객 수×6/5)                           ┃\n┃          │ - 25% 이상 5점, 20% 이상 4점, 15% 이상 3점, 10% 이상 2점, 5% 이상            ┃\n┃          │1점, 5% 미만 0점                                                              ┃\n┃          │                                                                              ┃\n┃          │* 국내선과 국제선으로 나누어 각각의 첨두시 여객 수로 가중평균 적용하여 지표를 ┃\n┃          │산출한다.                                                                     ┃\n┃          ├───────────────────────────────────────┨\n┃          │?충전시설 설치(4)                                                            ┃\n┃          │- 일반대합실 및 격리대합실에 모두 설치한 경우(4), 일반대합실 또는 격리        ┃\n┃          │대합실 중 한 곳에 설치한 경우(2), 미설치(0)                                   ┃\n┃          │                                                                              ┃\n┃          │* 터미널이 2개 이상인 경우 각 터미널에 대해 평가한 후 평균 점수로 산출한다.   ┃\n┃          ├───────────────────────────────────────┨\n┃          │?종합안내 키오스크 (4)                                                       ┃\n┃          │- 일반대합실 및 격리대합실에 모두 설치한 경우(4), 일반대합실 또는 격리        ┃\n┃          │대합실 중 한 곳에 설치한 경우(2) 미설치(0)                                    ┃\n┃          │* 터미널이 2개 이상인 경우 각 터미널에 대해 평가한 후 평균 점수로 산출한다.   ┃\n┠─────┼───────────────────────────────────────┨\n┃수속시설  │?자동 출입국심사 이용률(10)                                                  ┃\n┃(20)      │= 10 × {자동출입국심사 여객 이용률 / (자동 출입국심사대 수/전체 출입         ┃\n┃          │국 심사대 수)}                                                                ┃\n┃          │- 단, 10점을 초과하는 경우 10점                                               ┃\n┃          ├───────────────────────────────────────┨\n┃          │?생체인식 신분검색대 이용률(10)                                              ┃\n┃          │= 10 × {생체인식 신분검색대 여객이용률/(생체인식 신분검색대 수/전체          ┃\n┃          │신분검색대 수)}                                                               ┃\n┃          │- 단, 10점을 초과하는 경우 10점                                               ┃\n┠─────┼───────────────────────────────────────┨\n┃교통약자  │?설치기준 적합률(20)                                                         ┃\n┃시설      │ = 0.20× 교통약자 이동편의 증진법」제25조에 따른 실태조사 중                 ┃\n┃(40)      │이동편의시설의 설치 및 관리 현황 조사에 따른 공항별 설치 적합도               ┃\n┃          │                                                                              ┃\n┃          │ * 평가일 기준으로 가장 최근의 교통약자 이동편의 실태조사 결과를 인용한다.    ┃\n┃          ├───────────────────────────────────────┨\n┃          │?어린이 놀이시설 설치율(10)                                                  ┃\n┃          │= 실제 설치 개수/필요 개수 × 100 (%)                                         ┃\n┃          │ - 필요 개수는 국내선, 국제선 각각 일반대합실(1), 격리대합실(1)로 적용한다.   ┃\n┃          │┌────────┬──┐                                                    ┃\n┃          ││설치율          │점수│                                                    ┃\n┃          │├────────┼──┤                                                    ┃\n┃          ││100%(모두 설치) │10점│                                                    ┃\n┃          │├────────┼──┤                                                    ┃\n┃          ││50% 초과        │7점 │                                                    ┃\n┃          │├────────┼──┤                                                    ┃\n┃          ││50% 이하        │3점 │                                                    ┃\n┃          │├────────┼──┤                                                    ┃\n┃          ││0%(미설치)      │0점 │                                                    ┃\n┃          │└────────┴──┘                                                    ┃\n┃          ├───────────────────────────────────────┨\n┃          │?임산부 휴게시설 설치율(10)                                                  ┃\n┃          │= 실제 설치 개수/필요 개수 × 100 (%)                                         ┃\n┃          │- 필요 개수는 국내선, 국제선 각각 일반대합실(1), 격리대합실(1)로 적용한다.    ┃\n┃          │┌────────┬──┐                                                    ┃\n┃          ││설치율          │점수│                                                    ┃\n┃          │├────────┼──┤                                                    ┃\n┃          ││100%(모두 설치) │10점│                                                    ┃\n┃          │├────────┼──┤                                                    ┃\n┃          ││50% 초과        │7점 │                                                    ┃\n┃          │├────────┼──┤                                                    ┃\n┃          ││50% 이하        │3점 │                                                    ┃\n┃          │├────────┼──┤                                                    ┃\n┃          ││0%(미설치)      │0점 │                                                    ┃\n┃          │└────────┴──┘                                                    ┃\n┠─────┼───────────────────────────────────────┨\n┃시설개선  │?연간 시설개선 계획 수립 및 이행 노력도(10)                                  ┃\n┃노력도    │= 평가 결과를 반영한 시설 개선 계획 수립(40) + 개선계획 이행(60)              ┃\n┃(10)      │ * 3인 이상의 위원회를 구성하여 평가점수부여(상: 100% /중상: 75% /중: 50%/    ┃\n┃          │하: 25%/없음: 0%)                                                             ┃\n┗━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n3. 공항 ┏━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃평가항목    │평가점수 산정방법                                                                 ┃\n┃(배점)      │                                                                                  ┃\n┣━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃수하물처리  │?수하물 처리 정확성(20)                                                          ┃\n┃정확성      │ = { 1 - (수하물 처리 1만개 당 처리 오류수-0.034)/(5-0.034)} × 100               ┃\n┃(20)        │                                                                                  ┃\n┠──────┼─────────────────────────────────────────┨\n┃교통이용    │?대중교통 수송분담률(20)                                                         ┃\n┃편리성      │ - 50% 이상 20점, 40% 이상 16점, 30% 이상 12점, 20% 이상 8점, 10%                 ┃\n┃(40)        │이상 4점, 10% 미만 0점                                                            ┃\n┃           │ * 공항별 이용자만족도 조사 자료를 기준으로 함                                    ┃\n┃            ├─────────────────────────────────────────┨\n┃            │?연계교통수단별 위치 및 동선 안내(5)                                             ┃\n┃            │ - 통합안내정보 제공 및 제공되는 정보의 정확성(5)                                 ┃\n┃            │ - 통합안내정보 제공 미흡 또는 오정보 제공 (2.5)                                  ┃\n┃            │ - 통합안내정보 미제공(0)                                                         ┃\n┃            ├─────────────────────────────────────────┨\n┃            │?연계교통수단 노선정보 안내(5)                                                   ┃\n┃            │ - 노선번호, 운행시간 등 노선 상세정보 제공(5)                                    ┃\n┃            │ - 노선번호 단순기재 등 정보부족(2.5)                                             ┃\n┃            │ - 노선정보 미제공(0)                                                             ┃\n┃            ├─────────────────────────────────────────┨\n┃            │?이용차량 대비 주차가능대수(5)                                                   ┃\n┃            │ = 5 - {(1일 평균 공항주차장 이용차량/주차장 이용가능대수)×5-5}                  ┃\n┃            │  * 주차가능대수가 이용 차량보다 많은 경우 5점                                    ┃\n┃            ├─────────────────────────────────────────┨\n┃            │?주차요금 적정성(5)                                                              ┃\n┃            │ = 5 - {(공항 일일주차요금/기준요금)×5-5}                                       ┃\n┃            │ - 기준요금: 공항이 위치한 지역의 1급지* 기준 공영주차장 일일요금                 ┃\n┃            │ - 공항 일일주차요금*이 기준요금보다 낮은 경우 5점                                ┃\n┃            │                                                                                  ┃\n┃            │  * 급지 구분은 각 지자체의 조례로 정하는 바를 따름                               ┃\n┃            │ ** 공항 일일주차요금은 단기와 장기 주차장으로 나누며 평일(4일), 주말(3일) 요금   ┃\n┃            │을 각각 적용하여 환산                                                             ┃\n┠──────┼─────────────────────────────────────────┨\n┃교통약자    │?휠체어 서비스 여부(8)                                                           ┃\n┃서비스      │ - 터미널마다 휠체어 구비 및 호출서비스 제공(8)                                   ┃\n┃(25)        │ - 터미널마다 휠체어 구비 및 호출서비스 미제공(6)                                 ┃\n┃            │ - 일부 터미널에 휠체어 구비 및 호출서비스 제공(4)                                ┃\n┃            │ - 일부 터미널에 휠체어 구비 및 호출서비스 미제공(2)                              ┃\n┃            │ - 모든 터미널에 휠체어 미구비(0)                                                 ┃\n┃            ├─────────────────────────────────────────┨\n┃            │?배리어 프리 (10)                                                                ┃\n┃            │ - 모든 게이트 이동에 제한이 없으며 이동거리 적절(10)                             ┃\n┃            │모든 게이트 이동에 제한이 없으나 이동거리 다소 김(6)                              ┃\n┃            │일부 게이트 이동에 어려움(3), 이동 불가능(0)                                      ┃\n┃            ├─────────────────────────────────────────┨\n┃            │?교통약자 서비스 개선 노력 (7)                                                   ┃\n┃            │ - 교통약자 공항 내 이동 편의를 위한 공항-항공사-지상조업사 협의 실적(3)          ┃\n┃            │ * 일시, 내용, 사진 등이 포함된 실적 제출 여부에 따라 점수 부여                   ┃\n┃            │                                                                                  ┃\n┃            │ - 교통약자 출입국(국내선 보안검색 포함) 우대 심사 서비스 (4)                     ┃\n┃            │출입국 우대 심사 서비스를 제공하며, 대상 기준 충족 (4)                            ┃\n┃            │출입국 우대 심사 서비스를 제공하나, 대상 기준 미충족 (2)                          ┃\n┃            │출입국 우대 심사 서비스 미제공 (0)                                                ┃\n┃            │ * 대상기준은 만 70세 이상, 만 7세 미만 유소아, 임산부, 보행장애인 및 동반자 최대 ┃\n┃            │3인을 기준으로 함                                                                 ┃\n┃            │** 국내선 보안검색 및 국제선 보안검색/출입국심사에서 서비스 제공여부 기준         ┃\n┠──────┼─────────────────────────────────────────┨\n┃상업시설    │?상업시설 이용요금 적정성(5)                                                     ┃\n┃이용요금    │ = 5 - {(공항가격/기준가격) × 5 - 6}                                             ┃\n┃(5)         │ - 기준가격: 한국소비자원의 참가격(www.price.go.kr)에서 제공하는 가격정보         ┃\n┃            │공항가격: 제6조에 따른 시행매뉴얼에서 정한 5개 품목의 가격                        ┃\n┃            │ * 단, 5점을 초과하는 경우 5점으로 적용                                           ┃\n┃            │** 평가품목이 없는 경우 대체 품목을 지정하여 산정하며, 계산 결과 음수(-)가 나     ┃\n┃            │오는 경우는 0점 부여                                                              ┃\n┠──────┼─────────────────────────────────────────┨\n┃서비스개선  │?연간 서비스개선 계획 수립 및 이행 노력도(10)                                    ┃\n┃노력도      │= 평가 결과를 반영한 서비스 개선 계획 수립(40) + 개선계획 이행(60)                ┃\n┃(10)        │ * 3인 이상의 위원회를 구성하여 평가점수부여(상: 100% /중상: 75% /중: 50%/하:     ┃\n┃            │25%/없음: 0%)                                                                     ┃\n┗━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n이용 편리성\n4. 이용자만족도\n┏━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━┓\n┃세부 평가항목       │평가내용                                      │평가점수 산정방법   ┃\n┠──────────┼───────────────────────┼──────────┨\n┃접근교통 편리성     │공항 방문 시 이용 교통수단                    │?이용자만족도 점수 ┃\n┃                    ├───────────────────────┤= ∑((세부항목 점수 ┃\n┃                    │대중교통 편리성 전반적 만족도                 │× 세부항목에 대한  ┃\n┠──────────┼───────────────────────┤가중치*) × 14.286) ┃\n┃주차시설 만족도     │주차시설 이용 시 가장 좋았던 점               │                    ┃\n┃                    ├───────────────────────┤                    ┃\n┃                    │주차시설 사용 전반적 만족도                   │                    ┃\n┠──────────┼───────────────────────┤                    ┃\n┃시설 청결/쾌적성/편 │공항에서 이용한 시설 및 기기                  │                    ┃\n┃리성                ├───────────────────────┤                    ┃\n┃                    │시설 청결성/쾌적성/편리성 전반적 만족도       │                    ┃\n┠──────────┼───────────────────────┤                    ┃\n┃식음료시설 만족도   │식음료 시설 전반적 만족도                     │                    ┃\n┠──────────┼───────────────────────┤                    ┃\n┃쇼핑시설 만족도     │쇼핑시설 전반적 만족도                        │                    ┃\n┠──────────┼───────────────────────┤                    ┃\n┃수속시설 만족도     │수속시설 전반적 만족도                        │                    ┃\n┠──────────┼───────────────────────┤                    ┃\n┃안내표지 품질 적정  │공항 내 안내표지 전반적 만족도                │                    ┃\n┃성                  ├───────────────────────┤                    ┃\n┃                    │안내 표지 개선 필요사항                       │                    ┃\n┠──────────┼───────────────────────┤                    ┃\n┃공항내 이동시설 사  │공항 내 이동시설 사용 편리성 전반적 만족도    │                    ┃\n┃용 편리성           ├───────────────────────┤                    ┃\n┃                    │안내 표지 개선 필요사항                       │                    ┃\n┠──────────┼───────────────────────┤                    ┃\n┃공항 상주직원의 친  │공항 상주직원의 업무처리 신속성, 전문성 및 친 │                    ┃\n┃절성 및 도움성      │절성                                          │                    ┃\n┠──────────┼───────────────────────┤                    ┃\n┃전반적 만족도       │상기 평가항목에 대한 전반적인 만족도          │                    ┃\n┗━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━┛\n※ 비고\n이용자만족도 점수 산정방법은 다음과 같다. (예: 접근교통 편리성의 경우)\n① 접근교통 편리성 획득점수 = 매우불만족(1점), 불만족(2), 다소불만족(3), 보통(4),\n다소만족(5), 만족(6), 매우만족(7)\n② 이용자만족도 점수 =∑((세부항목 점수 × 세부항목에 대한 가중치*) × 14.286)\n* 가중치는 설문결과를 토대로 항공교통이용자가 체감하는 세부 평가항목의 중요도를 자동 산출(PLS-구조방정식 적용)",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000260344&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153014955",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153014943",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153014955",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:항공교통서비스평가업무지침#BYL0003",
+      "filename": "별표3_공항서비스 평가 항목별 세부지표 및 산정방법(제7조제2항 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별표",
+      "title": "평가점수에 따른 평가 등급·상태·표기법(제13조 관련)",
+      "enforcement_date": "",
+      "content": "[별표 4] 평가점수에 따른 평가 등급ㆍ상태ㆍ표기법(제13조 관련)\n┏━━┯━━━━━━━━━━━━━━━━━━━━━┯━━━━┯━━━━━━━━━━┓\n┃등급│상태                                      │표기법  │점수대              ┃\n┣━━┿━━━━━━━━━━━━━━━━━━━━━┿━━━━┿━━━━━━━━━━┫\n┃A   │서비스에 대한 문제점이 없는 매우 우수한 상│매우우수│100점～90점 이상    ┃\n┃    │태                                        │        │                    ┃\n┠──┼─────────────────────┼────┼──────────┨\n┃B   │서비스에 대한 경미한 개선이 요구되나 전반 │우수    │90점 미만～80점 이상┃\n┃    │적으로 우수한 상태                        │        │                    ┃\n┠──┼─────────────────────┼────┼──────────┨\n┃C   │서비스에 대한 부분적 개선이 요구되는 보통 │보통    │80점 미만～70점 이상┃\n┃    │의 상태                                   │        │                    ┃\n┠──┼─────────────────────┼────┼──────────┨\n┃D   │서비스에 대한 전반적인 개선이 요구되는 미 │미흡    │70점 미만～60점 이상┃\n┃    │흡 상태                                   │        │                    ┃\n┠──┼─────────────────────┼────┼──────────┨\n┃E   │서비스가 불량하여 적극적인 개선이 요구되  │불량    │60점 미만～50점 이상┃\n┃    │는 상태                                   │        │                    ┃\n┠──┼─────────────────────┼────┼──────────┨\n┃F   │서비스가 매우 불량하여 시급한 개선이 요   │매우불량│50점 미만           ┃\n┃    │구되는 상태                               │        │                    ┃\n┗━━┷━━━━━━━━━━━━━━━━━━━━━┷━━━━┷━━━━━━━━━━┛\n비고\n1. 각 등급 내에서 차별화가 필요한 경우에는 점수대를 3개 구간으로 구분하여 세부등급을 산정할 수 있다.\n(예시) A등급 : A++(100～96.66), A+(96.65～93.33), A(93.32～90)B등급 : B++(90～86.66), B+(86.65～83.33), B(83.32～90) 등\n2. 각 등급별 점수대는 평가대상자의 평가점수 분포 및 서비스 수준을 고려하여 평가항목별로 조정할 수 있다.",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000260344&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153014961",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153014957",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153014961",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:항공교통서비스평가업무지침#BYL0004",
+      "filename": "별표4_평가점수에 따른 평가 등급·상태·표기법(제13조 관련).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "(개정전문) 항공교통서비스 평가업무지침.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=153012607",
+      "file_store_url": "",
+      "filename": "(개정전문) 항공교통서비스 평가업무지침.hwpx"
+    },
+    {
+      "name": "(개정전문) 항공교통서비스 평가업무지침.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=153012611",
+      "file_store_url": "",
+      "filename": "(개정전문) 항공교통서비스 평가업무지침.pdf"
+    },
+    {
+      "name": "(개정안) 항공교통서비스 평가업무지침 일부개정안.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=153012495",
+      "file_store_url": "",
+      "filename": "(개정안) 항공교통서비스 평가업무지침 일부개정안.hwpx"
+    },
+    {
+      "name": "(개정안) 항공교통서비스 평가업무지침 일부개정안.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=153012499",
+      "file_store_url": "",
+      "filename": "(개정안) 항공교통서비스 평가업무지침 일부개정안.pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 32,
+    "by_category": {
+      "법령": 25,
+      "별표": 4,
+      "행정규칙": 3
+    },
+    "by_relation_type": {
+      "citation": 25,
+      "appendix_ref": 4,
+      "internal_ref": 3
+    },
+    "articles_total": 15,
+    "articles_with_relations": 8,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 11,
+    "appendices_count": 4,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/항공교통서비스 평가업무지침"
+  },
+  "provision_id": "admrul:항공교통서비스평가업무지침#DOC"
+}
