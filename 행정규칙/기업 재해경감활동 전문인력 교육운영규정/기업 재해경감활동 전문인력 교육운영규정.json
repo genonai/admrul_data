@@ -1,25 +1,25 @@
 {
-  "law_id": "2100000269700",
-  "mst": "2100000269700",
+  "law_id": "2100000260410",
+  "mst": "2100000260410",
   "law_name": "기업 재해경감활동 전문인력 교육운영규정",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
-  "adm_uid": "admrul:2100000269700",
-  "promulgation_no": "2025-70",
-  "promulgation_date": "20251215",
-  "enforcement_date": "20270101",
-  "revision_date": "20251215",
+  "adm_uid": "admrul:2100000260410",
+  "promulgation_no": "2025-43",
+  "promulgation_date": "20250617",
+  "enforcement_date": "20250623",
+  "revision_date": "20250617",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "행정안전부(예방안전제도과)",
-    "담당자명": "정경수",
+    "담당자명": "이성건",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "기업 재해경감활동 전문인력 교육운영규정",
-    "발령일자": "20251215",
+    "발령일자": "20250617",
     "행정규칙종류": "고시",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,16 +27,16 @@
     "전화번호": "044-205-4149",
     "제개정구분명": "일부개정",
     "소관부처코드": "1741000",
-    "생성일자": "20251216",
+    "생성일자": "20260122",
     "행정규칙ID": "2042907",
-    "시행일자": "20270101",
+    "시행일자": "20250623",
     "담당부서기관코드": "1741758",
-    "발령번호": "2025-70",
-    "행정규칙일련번호": "2100000269700",
+    "발령번호": "2025-43",
+    "행정규칙일련번호": "2100000260410",
     "상위부처명": "행정안전부"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 개정이유\n기업 재해경감활동 전문인력 역량 강화 등을 위해 관련 규정 개정 필요\n◇ 주요내용\n가. 재해경감활동계획 수립 역량 강화를 위해 기업재난관리사 전문교육분야를 개편함(안 제3조∼5조, 제21조)",
+  "revision_reason": "1. 전문인력 양성 교육 통합(안 제2조)\n◇ 제ㆍ개정 이유\n○ 기업 실무자의 실질적 재해경감 역량 제고 및 교육 목적 달성을 위해 이론 중심의 교육분야 개편 필요\n◇ 제ㆍ개정 내용\n○ 「실무」와 「대행」 분야로 이원화된 전문인력 양성 교육을 「계획ㆍ관리」 분야로 통합 운영\n※ 실습 없는 이론 습득 위주의 「실무」 분야만으로 기업 실무자의 실질적 재해경감 역량 제고 및 교육 목적 달성이 어려우나, 대부분 「실무」 분야 합격자임\n2. 개별 심의위원회 통폐합(안 제6조)\n◇ 제ㆍ개정 이유\n○ 동일 법령에서 규정한 기능과 역할이 유사한 위원회임에도 일부 위원회는 운영실적*이 저조하여 비효율적으로 운영\n* (운영실적‘22~’24) 인증평가 47회(연15회), 교육운영 3회(연1회), 특성화대학원 3회(연1회)\n◇ 제ㆍ개정 내용\n○ 기업 재해경감 업무 전반의 효율적 관리ㆍ운영을 위해 교육운영 심의위원회를 ’기업재해경감 위원회‘로 통합\n3. 기업재난관리사 관리 (안 제27조)\n◇ 제ㆍ개정 이유\n○ 기업재난관리사 전문교육을 통해 전문인력을 꾸준히 양성함에 따라 전문인력의 체계적 관리를 통한 국가의 재난경감 역량 강화 필요\n◇ 제ㆍ개정 내용\n○ 행정안전부장관은 기업재난관리사 등록ㆍ관리 및 보수교육 등의 업무를 (특)기업재해경감협회에 위탁할 수 있도록 함.",
   "body": {
     "format": "articles",
     "article_count": 30,
@@ -47,7 +47,59 @@
         "chapter": "제1장 총칙",
         "content": "제1조(목적) 이 규정은 「재해경감을 위한 기업의 자율활동 지원에 관한 법률」제10조 및 같은 법 시행령 제10조에 따른 기업의 재해경감활동 전문인력 양성 교육운영을 외부 전문기관 또는 단체에 위탁할 때 교육운영기관의 지정기준과 절차, 교육실시 요령과 교육기관의 사후관리 등에 관해 필요한 사항을 정함을 목적으로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제10조",
+            "line_text": "",
+            "target_law_name": "재해경감을 위한 기업의 자율활동 지원에 관한 법률",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/재해경감을 위한 기업의 자율활동 지원에 관한 법률/제10조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0001",
+            "reference_id": "law:재해경감을위한기업의자율활동지원에관한법률#JO0010"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "재해경감을 위한 기업의 자율활동 지원에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/재해경감을 위한 기업의 자율활동 지원에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0001",
+            "reference_id": "law:재해경감을위한기업의자율활동지원에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제10조",
+            "line_text": "",
+            "target_law_name": "재해경감을 위한 기업의 자율활동 지원에 관한 법률 시행령",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/재해경감을 위한 기업의 자율활동 지원에 관한 법률 시행령/제10조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0001",
+            "reference_id": "law:재해경감을위한기업의자율활동지원에관한법률시행령#JO0010"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0001"
       },
@@ -55,9 +107,61 @@
         "article_no": "제2조",
         "article_title": "정의",
         "chapter": "제1장 총칙",
-        "content": "제2조(정의) 이 규정에서 사용하는 용어의 정의는 다음 각 호와 같다. 다만, 이 규정에서 정하는 것 외의 용어는 「재해경감을 위한 기업의 자율활동 지원에 관한 법률」(이하 \"법\"이라 한다), 같은 법 시행령(이하 \"영\"이라 한다) 및 같은 법 시행규칙(이하 \"규칙\"이라 한다)에서 정하는 바에 따른다.1. \"교육운영기관\"(이하 \"교육기관\"이라 한다)이란 행정안전부장관이 기업의 재해경감활동 전문인력 양성 교육의 운영에 관한 업무를 위탁한 전문기관 또는 단체를 말한다.2. \"교육분야\"란 기업의 재해경감활동 전문인력을 양성하기 위해 운영하는 다음 각 목의 분야를 말한다.가. 재해경감활동 계획관리분야 : 기업의 재해경감활동계획을 수립하고 시행하거나, 재해경감활동계획 수립을 대행할 전문인력 양성 교육과정나. 우수기업 인증평가분야 : 재해경감 우수기업 인증평가를 대행할 전문인력 양성 전문교육과정다. 그 밖에 행정안전부장관이 필요하다고 인정하는 재해경감활동 분야 전문교육과정3. \"전문교육과정\"이란 제2호의 각 분야별로 교육을 시행하기 위해 운영하는 교육과정을 말한다.4. \"기업재난관리사\"란 법 제10조의2제1항에 따라 전문교육과정을 이수하고 각 전문교육과정별로 실시하는 시험에 합격하여 행정안전부장관으로부터 기업의 재난을 관리하는 자격에 관한 인증서(이하 \"기업재난관리사 인증서\"라 한다)를 발급받은 사람을 말한다.",
+        "content": "제2조(정의) 이 규정에서 사용하는 용어의 정의는 다음 각 호와 같다. 다만, 이 규정에서 정하는 것 외의 용어는 「재해경감을 위한 기업의 자율활동 지원에 관한 법률」(이하 \"법\"이라 한다), 같은 법 시행령(이하 \"영\"이라 한다) 및 같은 법 시행규칙(이하 \"규칙\"이라 한다)에서 정하는 바에 따른다.1. \"교육운영기관\"(이하 \"교육기관\"이라 한다)이란 행정안전부장관이 기업의 재해경감활동 전문인력 양성 교육의 운영에 관한 업무를 위탁한 전문기관 또는 단체를 말한다.2. \"교육분야\"란 기업의 재해경감활동 전문인력을 양성하기 위해 운영하는 다음 각 목의 분야를 말한다.가. 재해경감활동 실무분야 : 기업에서 재해경감활동계획을 수립하고 시행할 전문인력 양성 전문교육과정나. 재해경감활동계획 수립 대행분야 : 기업의 재해경감활동계획 수립을 대행할 전문인력 양성 전문교육과정다. 우수기업 인증평가분야 : 재해경감 우수기업 인증평가를 대행할 전문인력 양성 전문교육과정라. 그 밖에 행정안전부장관이 필요하다고 인정하는 재해경감활동 분야 전문교육과정3. \"전문교육과정\"이란 제2호의 각 분야별로 교육을 시행하기 위해 운영하는 교육과정을 말한다.4. \"기업재난관리사\"란 법 제10조의2제1항에 따라 전문교육과정을 이수하고 각 전문교육과정별로 실시하는 시험에 합격하여 행정안전부장관으로부터 기업의 재난을 관리하는 자격에 관한 인증서(이하 \"기업재난관리사 인증서\"라 한다)를 발급받은 사람을 말한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "재해경감을 위한 기업의 자율활동 지원에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/재해경감을 위한 기업의 자율활동 지원에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0002",
+            "reference_id": "law:재해경감을위한기업의자율활동지원에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "같은 법 시행규칙",
+            "line_text": "",
+            "target_law_name": "재해경감을 위한 기업의 자율활동 지원에 관한 법률 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/재해경감을 위한 기업의 자율활동 지원에 관한 법률 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0002",
+            "reference_id": "law:재해경감을위한기업의자율활동지원에관한법률시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제10조의2제1항",
+            "line_text": "",
+            "target_law_name": "재해경감을 위한 기업의 자율활동 지원에 관한 법률",
+            "target_article_no": "제10조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/재해경감을 위한 기업의 자율활동 지원에 관한 법률/제10조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0002",
+            "reference_id": "law:재해경감을위한기업의자율활동지원에관한법률#JO0010_02"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0002"
       },
@@ -67,7 +171,42 @@
         "chapter": "제2장 교육기관 지정",
         "content": "제3조(교육기관의 공모) ① 행정안전부장관은 영 제10조제5항에 따라 기업의 재해경감활동 전문인력 양성 교육운영에 관한 업무를 외부 전문기관 및 단체에 위탁하기 위해 교육기관을 공개 모집할 수 있다.② 제1항에 따른 교육기관의 공모계획을 공고하려면 교육분야, 교육과정, 공모 제출기간, 심사일 및 결과발표일 등을 구체적으로 밝혀야 한다.③ 제1항에 따른 교육기관의 공모 공고는 일간지 또는 행정안전부 홈페이지에 게재해야 한다.④ 제1항에 따른 교육기관의 공개모집은 교육기관 지정일부터 3년이 경과할 때마다 다시 공개모집하여 교육기관을 지정할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "영",
+            "line_text": "",
+            "target_law_name": "재해경감을 위한 기업의 자율활동 지원에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/재해경감을 위한 기업의 자율활동 지원에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0003",
+            "reference_id": "law:재해경감을위한기업의자율활동지원에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "제10조제5항",
+            "line_text": "",
+            "target_law_name": "재해경감을 위한 기업의 자율활동 지원에 관한 법률 시행령",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/재해경감을 위한 기업의 자율활동 지원에 관한 법률 시행령/제10조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0003",
+            "reference_id": "law:재해경감을위한기업의자율활동지원에관한법률시행령#JO0010"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0003"
       },
@@ -77,7 +216,29 @@
         "chapter": "제2장 교육기관 지정",
         "content": "제4조(교육기관의 지정신청) ① 교육기관으로 지정 받으려는 자는 별지 제1호서식에 따른 교육기관 지정신청서와 다음 각 호의 사항이 포함된 교육운영사업계획서(이하 \"사업계획서\"라 한다)를 행정안전부장관에게 제출해야 한다.1. 신청기관 현황 및 운영조직 구성2. 재정계획서3. 교육운영계획가. 교육체계나. 세부교육과정 운영계획1) 교육과정 및 교과목 편성에 관한 사항2) 강사진 운영, 교재 제작에 관한 사항3) 교육생 모집 계획에 관한 사항4) 교육단위당 교육생 배분계획에 관한 사항다. 교육방법 및 운영요원 운용계획라. 교육과정 교육비(산출근거 포함)마. 교육평가 방법 및 절차4. 교육시설 구비현황(시설 및 기자재 등)5. 연간 교육수요 예측 및 경제성 분석6. 그 밖에 교육운영에 관한 사항② 제1항에 따른 사업계획서 작성에 필요한 자료는 행정기관 등에서 발행하는 서류에 따라 작성해야 하며, 이를 사업계획서와 함께 제출해야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "기업 재해경감활동 전문인력 교육운영규정",
+            "target_article_no": "별지1",
+            "target_article_title": "교육기관 지정신청서(규정 제4조제1항 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161110999",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0004",
+            "reference_id": "admrul:기업재해경감활동전문인력교육운영규정#BJ0001"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0004"
       },
@@ -87,7 +248,122 @@
         "chapter": "제2장 교육기관 지정",
         "content": "제5조(교육기관의 지정) ① 행정안전부장관은 제4조에 따라 신청한 응모기관ㆍ단체에 대해 별표 1에서 정한 교육기관 지정 평가기준에 따라 제6조에 따른 교육운영심의위원회 평가ㆍ심의를 거쳐 우수한 기관ㆍ단체를 교육기관으로 지정한다.② 제1항에 따라 교육기관이 지정되면 별지 제2호서식에 따른 기업 재해경감활동 전문인력 교육기관 지정서를 발급해야 한다.③ 제2항에 따라 교육기관 지정서를 발급하면 교육기관 명칭ㆍ대표자 및 소재지와 위탁업무의 내용을 관보에 고시하고, 별지 제3호서식에 따른 기업 재해경감활동 전문인력 교육기관 지정서 발급대장에 기록해 관리해야 한다.④ 제2항에 따라 지정된 교육기관은 지정서에 명시된 교육분야에 대해 제2조에 따른 전문교육과정을 개설ㆍ운영해야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "기업 재해경감활동 전문인력 교육운영규정",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/기업 재해경감활동 전문인력 교육운영규정/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0005",
+            "reference_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0004"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "기업 재해경감활동 전문인력 교육운영규정",
+            "target_article_no": "별표1",
+            "target_article_title": "교육기관 지정 평가기준(규정 제5조제1항 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000260410&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0005",
+            "reference_id": "admrul:기업재해경감활동전문인력교육운영규정#BYL0001"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "기업 재해경감활동 전문인력 교육운영규정",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/기업 재해경감활동 전문인력 교육운영규정/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0005",
+            "reference_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0006"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "기업 재해경감활동 전문인력 교육운영규정",
+            "target_article_no": "별지2",
+            "target_article_title": "기업 재해경감활동 전문인력 교육기관 지정서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111005",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0005",
+            "reference_id": "admrul:기업재해경감활동전문인력교육운영규정#BJ0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제3항",
+            "link_text": "별지 제3호서식",
+            "line_text": "",
+            "target_law_name": "기업 재해경감활동 전문인력 교육운영규정",
+            "target_article_no": "별지3",
+            "target_article_title": "기업 재해경감활동 전문인력 교육기관 지정서 발급대장",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111011",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0005",
+            "reference_id": "admrul:기업재해경감활동전문인력교육운영규정#BJ0003"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제4항",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "기업 재해경감활동 전문인력 교육운영규정",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/기업 재해경감활동 전문인력 교육운영규정/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0005",
+            "reference_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0002"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0005"
       },
@@ -97,7 +373,42 @@
         "chapter": "제3장 교육운영심의위원회 설치ㆍ운영",
         "content": "제6조(교육운영심의위원회의 설치 및 운영) ① 행정안전부장관은 이 규정에 따른 교육기관 지정, 교육운영 등과 관련된 사항을 심의하기 위해 교육운영심의위원회(이하 \"위원회\"라 한다)를 설치ㆍ운영할 수 있다.② 위원회의 구성 및 운영은 위원회의 효율적 운영을 위해 「재해경감 우수기업 인증 등에 관한 운영 규정」 제3조에 의해 설치하는 기업재해경감위원회에 따른다.③ 위원회는 다음 각 호의 사항을 심의한다.1. 교육과정 및 관련 제도의 개선ㆍ발전에 관한 사항2. 교육기관 응모자에 대한 심사에 관한 사항3. 교육기관의 운영계획 및 교육과정 평가ㆍ조정에 관한 사항4. 교육기관의 교육운영실태 점검ㆍ평가에 관한 사항5. 그 밖에 교육운영과 관련된 사항",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "「재해경감 우수기업 인증 등에 관한 운영 규정」",
+            "line_text": "",
+            "target_law_name": "재해경감 우수기업 인증 등에 관한 운영 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/재해경감 우수기업 인증 등에 관한 운영 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0006",
+            "reference_id": "admrul:재해경감우수기업인증등에관한운영규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "제3조",
+            "line_text": "",
+            "target_law_name": "재해경감 우수기업 인증 등에 관한 운영 규정",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/재해경감 우수기업 인증 등에 관한 운영 규정/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0006",
+            "reference_id": "admrul:재해경감우수기업인증등에관한운영규정#JO0003"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0006"
       },
@@ -177,7 +488,144 @@
         "chapter": "제4장 교육운영계획의 수립 및 시행",
         "content": "제14조(교육생 모집 및 일부 수강 면제 등) ① 교육기관의 장은 각 교육분야별로 전문교육과정을 개설하여 운영해야 한다.② 교육기관의 장은 교육생을 모집하려면 교육과정, 교육시기, 피교육생 자격, 교육비, 모집인원 등 교육생 모집 계획을 작성해 교육기관 홈페이지 등에 교육생 모집 공고를 해야 한다.③ 교육기관의 장은 영 제10조제2항에 따라 다음 각 호의 어느 하나에 해당하는 사람에 대해 제2조제3호에 따른 전문교육과정 교육과목 또는 교육시간과의 중복성을 검토하여 전부 또는 일부의 수강을 면제할 수 있다.1. 「자연재해대책법」 제65조 및 같은 법 시행령 제58조에 따라 방재전문인력 인증서를 발급받은 사람2. 「자격기본법」에 따라 재난관련분야 민간자격을 취득한 사람3. 그 밖에 국내ㆍ외에서 재난관련분야 자격을 취득한 사람으로 행정안전부장관이 인정하는 사람④ 제3항 각 호에 해당하는 사람이 전문교육과정 전부 또는 일부의 수강을 면제받으려면 교육생 모집공고 기간내에 이를 증명할 수 있는 서류를 교육기관의 장에게 제출해야 한다.⑤ 교육기관의 장은 제4항에 따라 제출된 서류를 검토하여 면제 대상자로 확인되면 행정안전부장관과 협의를 거쳐 제2조제3호에 따른 전문교육과정 전부 또는 일부의 교육시간 수강을 면제해야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제3항",
+            "link_text": "영",
+            "line_text": "",
+            "target_law_name": "재해경감을 위한 기업의 자율활동 지원에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/재해경감을 위한 기업의 자율활동 지원에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0014",
+            "reference_id": "law:재해경감을위한기업의자율활동지원에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제3항",
+            "link_text": "제10조제2항",
+            "line_text": "",
+            "target_law_name": "재해경감을 위한 기업의 자율활동 지원에 관한 법률 시행령",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/재해경감을 위한 기업의 자율활동 지원에 관한 법률 시행령/제10조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0014",
+            "reference_id": "law:재해경감을위한기업의자율활동지원에관한법률시행령#JO0010"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제3항",
+            "link_text": "제2조제3호",
+            "line_text": "",
+            "target_law_name": "기업 재해경감활동 전문인력 교육운영규정",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/기업 재해경감활동 전문인력 교육운영규정/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0014",
+            "reference_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제3항",
+            "link_text": "제65조",
+            "line_text": "",
+            "target_law_name": "자연재해대책법",
+            "target_article_no": "제65조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연재해대책법/제65조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0014",
+            "reference_id": "law:자연재해대책법#JO0065"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제3항",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "자연재해대책법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연재해대책법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0014",
+            "reference_id": "law:자연재해대책법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제3항",
+            "link_text": "제58조",
+            "line_text": "",
+            "target_law_name": "자연재해대책법 시행령",
+            "target_article_no": "제58조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연재해대책법 시행령/제58조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0014",
+            "reference_id": "law:자연재해대책법시행령#JO0058"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제3항",
+            "link_text": "「자격기본법」",
+            "line_text": "",
+            "target_law_name": "자격기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자격기본법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0014",
+            "reference_id": "law:자격기본법#DOC"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제5항",
+            "link_text": "제2조제3호",
+            "line_text": "",
+            "target_law_name": "기업 재해경감활동 전문인력 교육운영규정",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/기업 재해경감활동 전문인력 교육운영규정/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0014",
+            "reference_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0002"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0014"
       },
@@ -187,7 +635,29 @@
         "chapter": "제4장 교육운영계획의 수립 및 시행",
         "content": "제15조(분할교육 및 시간이수교육) ① 교육기관의 장은 피 교육생의 편의를 위해 교육과정 및 교육기간을 분할하거나 교육시간을 과목별 또는 강좌별로 총 교육이수시간제 교육을 시행할 수 있다.② 교육기관의 장은 제1항에 따라 교육을 실시하는 경우 피 교육생이 동일과목을 중복하여 이수하지 않도록 별표2의 시간이수교육 운영기준에 따라 관리해야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제2항",
+            "link_text": "별표2",
+            "line_text": "",
+            "target_law_name": "기업 재해경감활동 전문인력 교육운영규정",
+            "target_article_no": "별표2",
+            "target_article_title": "시간이수교육 운영기준(규정 제15조제2항 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000260410&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0015",
+            "reference_id": "admrul:기업재해경감활동전문인력교육운영규정#BYL0002"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0015"
       },
@@ -197,7 +667,29 @@
         "chapter": "제4장 교육운영계획의 수립 및 시행",
         "content": "제16조(사이버교육) ① 교육기관에서 개설하는 교육 내용의 일부를 인터넷 등을 통해 피 교육생이 직접 교육기관을 방문하지 않고 교육을 받을 수 있도록 사이버교육과정을 개발하여 운영할 수 있다.② 교육기관의 장은 제1항에 따라 교육을 실시하는 경우 별표3의 사이버교육 운영기준에 따라 운영해야 하고, 교육과정 운영 횟수, 교육인원, 교육시간 교육내용 등 교육계획을 수립하여 사전에 행정안전부장관의 승인을 받아 시행해야 한다.③ 교육기관의 장은 사이버교육효과 및 교육내용 등에 대한 설문조사를 연 2회 이상 실시해야 하며, 이를 분석하여 교육운영에 반영해야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제2항",
+            "link_text": "별표3",
+            "line_text": "",
+            "target_law_name": "기업 재해경감활동 전문인력 교육운영규정",
+            "target_article_no": "별표3",
+            "target_article_title": "사이버교육 운영기준(규정 제16조제2항 관련)",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000260410&bylNo=0003&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0016",
+            "reference_id": "admrul:기업재해경감활동전문인력교육운영규정#BYL0003"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0016"
       },
@@ -207,7 +699,29 @@
         "chapter": "제4장 교육운영계획의 수립 및 시행",
         "content": "제17조(교육운영 기준 등) ① 교육기관의 장은 전문교육과정의 내실 있는 운영을 위해 별표 4의 교육운영 기준을 준수하여 교육생 선발, 강사선정 및 교재작성, 교육시간, 교과목 편성 등의 교육운영계획을 수립 운영해야 한다.② 교육기관의 장은 전문교육의 수준을 높이기 위해 새로운 재난관리정책 및 기술변화를 수용하는 교육운영 프로그램을 지속적으로 개발하여 교육에 반영될 수 있도록 해야 한다.③ 교육운영 예산의 효율적인 집행ㆍ관리를 위해 교육기관의 장은 예산운용지침을 제정하여 행정안전부장관의 승인을 받아 시행해야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제1항",
+            "link_text": "별표 4",
+            "line_text": "",
+            "target_law_name": "기업 재해경감활동 전문인력 교육운영규정",
+            "target_article_no": "별표4",
+            "target_article_title": "교육운영 기준(규정 제17조제1항 관련)",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000260410&bylNo=0004&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0017",
+            "reference_id": "admrul:기업재해경감활동전문인력교육운영규정#BYL0004"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0017"
       },
@@ -217,7 +731,29 @@
         "chapter": "제4장 교육운영계획의 수립 및 시행",
         "content": "제18조(교육생 관리규정 등) ① 교육기관의 장은 교육생관리의 통일성을 기하고 효율적인 관리를 위해 별표 5에 따른 교육생관리규정 표준안에 따라 교육생관리규정을 제정ㆍ운영해야 한다.② 교육기관의 장은 무단결강, 무단결석 또는 대리출석 등 출결상황 등을 전담 관리해야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제1항",
+            "link_text": "별표 5",
+            "line_text": "",
+            "target_law_name": "기업 재해경감활동 전문인력 교육운영규정",
+            "target_article_no": "별표5",
+            "target_article_title": "교육생관리규정 표준안(규정 제18조제1항 관련)",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000260410&bylNo=0005&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0018",
+            "reference_id": "admrul:기업재해경감활동전문인력교육운영규정#BYL0005"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0018"
       },
@@ -227,7 +763,67 @@
         "chapter": "제4장 교육운영계획의 수립 및 시행",
         "content": "제19조(교육이수자 수료증 발급) ① 교육기관의 장은 소정의 교육과정을 이수하고 제18조에 따른 교육생관리규정의 수료기준에 적합한 사람에 대해 별지 제4호 서식에 따른 수료증을 발급해야 한다.② 수료증은 각 전문교육과정 분야별로 발급해야 한다.③ 교육기관의 장이 수료증을 발급하는 때에는 별지 제5호서식의 기업재해경감활동 전문인력 교육과정 수료증 발급대장에 기록해 관리해야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제1항",
+            "link_text": "제18조",
+            "line_text": "",
+            "target_law_name": "기업 재해경감활동 전문인력 교육운영규정",
+            "target_article_no": "제18조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/기업 재해경감활동 전문인력 교육운영규정/제18조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0019",
+            "reference_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0018"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제1항",
+            "link_text": "별지 제4호 서식",
+            "line_text": "",
+            "target_law_name": "기업 재해경감활동 전문인력 교육운영규정",
+            "target_article_no": "별지4",
+            "target_article_title": "수료증",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111017",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0019",
+            "reference_id": "admrul:기업재해경감활동전문인력교육운영규정#BJ0004"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제3항",
+            "link_text": "별지 제5호서식",
+            "line_text": "",
+            "target_law_name": "기업 재해경감활동 전문인력 교육운영규정",
+            "target_article_no": "별지5",
+            "target_article_title": "기업 재해경감활동 전문인력 교육과정 수료증 발급대장",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111023",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0019",
+            "reference_id": "admrul:기업재해경감활동전문인력교육운영규정#BJ0005"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0019"
       },
@@ -237,7 +833,59 @@
         "chapter": "제5장 기업재난관리사 인증시험의 실시",
         "content": "제20조(인증시험의 실시) ① 행정안전부장관은 영 제10조의4제1항에 따라 기업재난관리사 인증서를 발급하려면 제2조제3호에 따른 각 전문교육과정별로 인증시험을 실시하고 시험에 합격한 사람에 대해 기업재난관리사 인증서를 각 분야별로 발급해야 한다.② 행정안전부장관은 제1항에 따른 인증시험 업무를 효율적으로 관리하기 위해 다음 각 호의 업무를 전문기관 또는 단체(이하 \"인증시험 시행기관\"이라 한다)에 위탁하여 시행할 수 있다.1. 인증시험의 실시2. 응시원서의 교부 및 접수3. 인증시험에 관한 시험의 공고4. 인증시험의 출제 및 채점5. 인증시험의 합격자 결정 및 합격자 공고6. 그 밖에 인증시험의 시행과 관련하여 필요한 사항③ 제2항에 따라 인증시험 업무를 전문기관ㆍ단체에 위탁하려면 위탁기관의 명칭ㆍ대표자 및 소재지, 위탁업무의 내용 등을 일간지 또는 행정안전부 홈페이지에 게시 공고하고 이를 위탁기관에 통보해야 한다.④ 제3항에 따라 지정된 인증시험 시행기관의 장은 제2항 각 호의 사항이 포함된 인증시험 시행계획을 수립하여 행정안전부장관의 승인을 받은 후 인증시험업무를 처리해야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제1항",
+            "link_text": "영",
+            "line_text": "",
+            "target_law_name": "재해경감을 위한 기업의 자율활동 지원에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/재해경감을 위한 기업의 자율활동 지원에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0020",
+            "reference_id": "law:재해경감을위한기업의자율활동지원에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제1항",
+            "link_text": "제10조의4제1항",
+            "line_text": "",
+            "target_law_name": "재해경감을 위한 기업의 자율활동 지원에 관한 법률 시행령",
+            "target_article_no": "제10조의4",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/재해경감을 위한 기업의 자율활동 지원에 관한 법률 시행령/제10조의4",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0020",
+            "reference_id": "law:재해경감을위한기업의자율활동지원에관한법률시행령#JO0010_04"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제1항",
+            "link_text": "제2조제3호",
+            "line_text": "",
+            "target_law_name": "기업 재해경감활동 전문인력 교육운영규정",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/기업 재해경감활동 전문인력 교육운영규정/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0020",
+            "reference_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0002"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0020"
       },
@@ -245,9 +893,48 @@
         "article_no": "제21조",
         "article_title": "응시자격 및 원서접수",
         "chapter": "제5장 기업재난관리사 인증시험의 실시",
-        "content": "제21조(응시자격 및 원서접수) ① 제2조제3호에 따른 각 전문교육과정별로 실시하는 인증시험에 응시할 수 있는 자격은 다음 각 호와 같다.1. 재해경감활동 계획관리분야 : 재해경감활동 계획관리분야 전문교육과정을 이수하고 수료증을 발급받은 사람2. 우수기업 인증평가분야 : 재해경감활동계획 계획관리분야 인증시험에 합격하고 기업재난관리사 인증서를 발급받은 사람으로서, 우수기업 인증평가분야 전문교육과정을 이수하고 수료증을 발급받은 사람3. 삭제② 인증시험에 응시한 사람이 부정행위를 하거나 응시원서 등을 허위로 작성한 때에는 합격을 취소하고 시험시행한 날부터 3년간 시험응시자격을 정지할 수 있다.③ 인증시험에 응시하려는 사람은 별지 제6호서식에 따른 기업재난관리사 인증시험 응시원서를 인증시험 시행기관에 제출해야 한다.",
+        "content": "제21조(응시자격 및 원서접수) ① 제2조제3호에 따른 각 전문교육과정별로 실시하는 인증시험에 응시할 수 있는 자격은 다음 각 호와 같다.1. 재해경감활동 실무분야 : 재해경감활동 실무분야 전문교육과정을 이수하고 수료증을 발급받은 사람2. 재해경감활동계획 수립 대행분야 : 재해경감활동 실무분야 인증시험에 합격하고 기업재난관리사 인증서를 발급받은 사람으로서, 재해경감활동계획 수립 대행분야 전문교육과정을 이수하고 수료증을 발급받은 사람3. 우수기업 인증평가분야 : 재해경감활동계획 수립 대행분야 인증시험에 합격하고 기업재난관리사 인증서를 발급받은 사람으로서, 우수기업 인증평가분야 전문교육과정을 이수하고 수료증을 발급받은 사람② 인증시험에 응시한 사람이 부정행위를 하거나 응시원서 등을 허위로 작성한 때에는 합격을 취소하고 시험시행한 날부터 3년간 시험응시자격을 정지할 수 있다.③ 인증시험에 응시하려는 사람은 별지 제6호서식에 따른 기업재난관리사 인증시험 응시원서를 인증시험 시행기관에 제출해야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제21조",
+            "source_clause": "제21조제1항",
+            "link_text": "제2조제3호",
+            "line_text": "",
+            "target_law_name": "기업 재해경감활동 전문인력 교육운영규정",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/기업 재해경감활동 전문인력 교육운영규정/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0021",
+            "reference_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제21조",
+            "source_clause": "제21조제3항",
+            "link_text": "별지 제6호서식",
+            "line_text": "",
+            "target_law_name": "기업 재해경감활동 전문인력 교육운영규정",
+            "target_article_no": "별지6",
+            "target_article_title": "기업재난관리사 인증시험 응시원서",
+            "appendix_no": "6",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111031",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0021",
+            "reference_id": "admrul:기업재해경감활동전문인력교육운영규정#BJ0006"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0021"
       },
@@ -277,7 +964,29 @@
         "chapter": "제5장 기업재난관리사 인증시험의 실시",
         "content": "제24조(인증시험의 출제 및 채점) ① 인증시험 시행기관의 장은 인증시험위원으로 임명ㆍ위촉된 사람을 활용하여 다음 각 호의 기준에 부합하는 인증시험의 출제ㆍ채점 등을 수행하도록 해야 한다.1. 인증시험의 출제 및 채점 위원은 각각 과목별 3인 이상으로 구성2. 과목별 시험문항수의 5배수 이상을 출제하여 문제은행 방식에 따라 시험문제 출제3. 인증시험의 문제형식은 논술형과 단답형 주관식 문제 및 객관식 문제를 혼합하여 출제② 인증시험 시행기관의 장은 출제과목 및 문항수, 문항개발, 보안대책, 출제ㆍ검토ㆍ선제위원 선정 등 세부계획을 수립하여 시험시행의 오류가 발생하지 않도록 해야 한다.③ 인증시험 시행기관의 장은 인증시험결과 문제지 및 응시자 답안지를 시험시행한 날부터 5년 이상 보관해야 하며 별지 제7호서식의 응시자 시험성적 관리대장을 작성해 관리해야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제24조",
+            "source_clause": "제24조제3항",
+            "link_text": "별지 제7호서식",
+            "line_text": "",
+            "target_law_name": "기업 재해경감활동 전문인력 교육운영규정",
+            "target_article_no": "별지7",
+            "target_article_title": "응시자 시험성적 관리대장",
+            "appendix_no": "7",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111037",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0024",
+            "reference_id": "admrul:기업재해경감활동전문인력교육운영규정#BJ0007"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0024"
       },
@@ -287,7 +996,59 @@
         "chapter": "제5장 기업재난관리사 인증시험의 실시",
         "content": "제25조(합격기준 및 합격자 공고) ① 영 제10조의2제4항에 따라 자격인증시험의 합격자는 시험과목당 100점을 만점으로 하여 각 과목 40점 이상, 전 과목 평균 60점 이상을 받은 사람으로 한다.② 인증시험 시행기관의 장은 응시자의 시험결과를 채점하여 합격자를 결정한 후 합격자 명단을 인증시험 시행기관 및 행정안전부 홈페이지 등에 공고해야 한다.③ 인증시험 시행기관의 장은 합격자 명단을 행정안전부장관에게 서면으로 통보하고 제26조에 따른 기업재난관리사 인증서 발급을 요청할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제25조",
+            "source_clause": "제25조제1항",
+            "link_text": "영",
+            "line_text": "",
+            "target_law_name": "재해경감을 위한 기업의 자율활동 지원에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/재해경감을 위한 기업의 자율활동 지원에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0025",
+            "reference_id": "law:재해경감을위한기업의자율활동지원에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제25조",
+            "source_clause": "제25조제1항",
+            "link_text": "제10조의2제4항",
+            "line_text": "",
+            "target_law_name": "재해경감을 위한 기업의 자율활동 지원에 관한 법률 시행령",
+            "target_article_no": "제10조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/재해경감을 위한 기업의 자율활동 지원에 관한 법률 시행령/제10조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0025",
+            "reference_id": "law:재해경감을위한기업의자율활동지원에관한법률시행령#JO0010_02"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제25조",
+            "source_clause": "제25조제3항",
+            "link_text": "제26조",
+            "line_text": "",
+            "target_law_name": "기업 재해경감활동 전문인력 교육운영규정",
+            "target_article_no": "제26조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/기업 재해경감활동 전문인력 교육운영규정/제26조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0025",
+            "reference_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0026"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0025"
       },
@@ -297,7 +1058,71 @@
         "chapter": "제5장 기업재난관리사 인증시험의 실시",
         "content": "제26조(인증서 발급 등) ① 행정안전부장관은 인증시험에 합격한 사람에 대해 별지 제8호서식의 기업재난관리사 인증서를 발급해야 한다.② 행정안전부장관은 제1항에 따라 인증서를 발급한 때에는 별지 제9호서식의 기업재난관리사 인증서 발급대장에 기록하여 관리해야 한다.③ 인증서를 잃어버리거나 헐어서 못쓰게 되면 별지 제10호서식의 기업재난관리사 인증서 재발급 신청서를 행정안전부장관에게 제출해야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제26조",
+            "source_clause": "제26조제1항",
+            "link_text": "별지 제8호서식",
+            "line_text": "",
+            "target_law_name": "기업 재해경감활동 전문인력 교육운영규정",
+            "target_article_no": "별지8",
+            "target_article_title": "기업재난관리사 인증서",
+            "appendix_no": "8",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111043",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0026",
+            "reference_id": "admrul:기업재해경감활동전문인력교육운영규정#BJ0008"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제26조",
+            "source_clause": "제26조제2항",
+            "link_text": "별지 제9호서식",
+            "line_text": "",
+            "target_law_name": "기업 재해경감활동 전문인력 교육운영규정",
+            "target_article_no": "별지9",
+            "target_article_title": "기업재난관리사 인증서 발급대장",
+            "appendix_no": "9",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111049",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0026",
+            "reference_id": "admrul:기업재해경감활동전문인력교육운영규정#BJ0009"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제26조",
+            "source_clause": "제26조제3항",
+            "link_text": "별지 제10호서식",
+            "line_text": "",
+            "target_law_name": "기업 재해경감활동 전문인력 교육운영규정",
+            "target_article_no": "별지10",
+            "target_article_title": "기업재난관리사 인증서 재발급 신청서",
+            "appendix_no": "10",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111055",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0026",
+            "reference_id": "admrul:기업재해경감활동전문인력교육운영규정#BJ0010"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0026"
       },
@@ -305,9 +1130,61 @@
         "article_no": "제27조",
         "article_title": "기업재난관리사 능력향상 직무교육 실시 등",
         "chapter": "제5장 기업재난관리사 인증시험의 실시",
-        "content": "제27조(기업재난관리사 능력향상 직무교육 실시 등) ① 제26조에 따라 기업재난관리사 인증서를 발급한 날부터 1년이 지나면 매 3년마다 기업재난관리사에 대한 능력향상 직무교육을 받아야 한다.② 행정안전부장관은 제1항에 따라 실시하는 직무교육에 대한 세부사항을 제공할 수 있다.③ 행정안전부장관은 제2항에 따른 기업재난관리사 능력향상 직무교육을 효율적으로 실시하기 위해 기업재난관리사 등록ㆍ관리 및 보수교육 등의 업무를 법 제30조에 따라 설립된 기업재해경감협회(이하 \"협회\"라 한다)에 위탁하여 실시할 수 있다. 이 경우 협회는 교육과정, 교육일정, 교육대상 및 교육인원 등의 교육시행계획을 수립하여 행정안전부장관의 승인을 받은 후 교육을 시행해야 한다.",
+        "content": "제27조(기업재난관리사 능력향상 직무교육 실시 등) ① 기업재난관리사 인증서를 발급받은 자는 제26조에 따라 기업재난관리사 인증서를 발급한 날부터 1년이 지나면 매 3년마다 기업재난관리사에 대한 능력향상 직무교육을 받아야 한다.② 행정안전부장관은 제1항에 따라 실시하는 직무교육에 대한 세부사항을 제공할 수 있다.③ 행정안전부장관은 제2항에 따른 기업재난관리사 능력향상 직무교육을 효율적으로 실시하기 위해 기업재난관리사 등록ㆍ관리 및 보수교육 등의 업무를 법 제30조에 따라 설립된 기업재해경감협회(이하 \"협회\"라 한다)에 위탁하여 실시할 수 있다. 이 경우 협회는 교육과정, 교육일정, 교육대상 및 교육인원 등의 교육시행계획을 수립하여 행정안전부장관의 승인을 받은 후 교육을 시행해야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제27조",
+            "source_clause": "제27조제1항",
+            "link_text": "제26조",
+            "line_text": "",
+            "target_law_name": "기업 재해경감활동 전문인력 교육운영규정",
+            "target_article_no": "제26조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/기업 재해경감활동 전문인력 교육운영규정/제26조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0027",
+            "reference_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0026"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제27조",
+            "source_clause": "제27조제3항",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "재해경감을 위한 기업의 자율활동 지원에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/재해경감을 위한 기업의 자율활동 지원에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0027",
+            "reference_id": "law:재해경감을위한기업의자율활동지원에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제27조",
+            "source_clause": "제27조제3항",
+            "link_text": "제30조",
+            "line_text": "",
+            "target_law_name": "재해경감을 위한 기업의 자율활동 지원에 관한 법률",
+            "target_article_no": "제30조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/재해경감을 위한 기업의 자율활동 지원에 관한 법률/제30조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0027",
+            "reference_id": "law:재해경감을위한기업의자율활동지원에관한법률#JO0030"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0027"
       },
@@ -317,7 +1194,25 @@
         "chapter": "제6장 교육기관의 운영실태 지도ㆍ관리",
         "content": "제28조(교육기관의 사후관리 등) ① 행정안전부장관은 위탁교육의 효율적인 시행을 위해 교육기관의 교육시설 및 교육과정 등에 대한 점검ㆍ평가계획을 수립하여 교육기관의 운영실태, 교육실시 내용 및 교육효과 등을 매년 1회 이상 점검ㆍ평가할 수 있다.② 행정안전부장관은 제1항의 규정에 불구하고 필요하면 교육기관의 교육 운영실태를 수시로 점검할 수 있다.③ 행정안전부장관은 제1항에 따른 평가결과에 따라 교육효과가 우수하다고 인정되는 교육기관 또는 교육과정에 대해서는 우수 교육기관 또는 우수 교육과정으로 지정할 수 있다.④ 행정안전부장관은 제1항 및 제2항에 따른 점검결과 교육생관리 등 운영실태가 부실한 교육기관에 대해서는 교육기관 관계자에 대한 징계를 요구하거나, 제29조에 따른 시정명령 등 필요한 조치를 취할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제28조",
+            "source_clause": "제28조제4항",
+            "link_text": "제29조",
+            "line_text": "",
+            "target_law_name": "기업 재해경감활동 전문인력 교육운영규정",
+            "target_article_no": "제29조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/기업 재해경감활동 전문인력 교육운영규정/제29조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0028",
+            "reference_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0029"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0028"
       },
@@ -327,7 +1222,63 @@
         "chapter": "제6장 교육기관의 운영실태 지도ㆍ관리",
         "content": "제29조(시정명령) 행정안전부장관은 교육기관이 다음 각 호의 어느 하나에 해당하는 경우에는 그 시정을 명할 수 있다.1. 별표 4에서 정한 기준에 미달하게 되는 경우2. 무단결강 또는 무단결석을 제재하지 않는 등 교육생 관리가 부실한 것으로 인정되는 경우3. 제4조 및 제12조에 따라 제출된 교육운영사업계획서 및 교육운영계획과 다르게 교육을 실시하는 등 교육운영이 부실한 경우4. 교육과정에서 교육생 및 강사, 교육운용요원의 운영과정에서 사회적 물의가 야기되는 경우5. 그 밖에 이 규정에서 정한 교육취지에 반하는 운영을 하는 경우",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제29조",
+            "source_clause": "제29조",
+            "link_text": "별표 4",
+            "line_text": "",
+            "target_law_name": "기업 재해경감활동 전문인력 교육운영규정",
+            "target_article_no": "별표4",
+            "target_article_title": "교육운영 기준(규정 제17조제1항 관련)",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000260410&bylNo=0004&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0029",
+            "reference_id": "admrul:기업재해경감활동전문인력교육운영규정#BYL0004"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제29조",
+            "source_clause": "제29조",
+            "link_text": "제4조 및 제12조",
+            "line_text": "",
+            "target_law_name": "기업 재해경감활동 전문인력 교육운영규정",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/기업 재해경감활동 전문인력 교육운영규정/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0029",
+            "reference_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0004"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제29조",
+            "source_clause": "제29조",
+            "link_text": "제4조 및 제12조",
+            "line_text": "",
+            "target_law_name": "기업 재해경감활동 전문인력 교육운영규정",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/기업 재해경감활동 전문인력 교육운영규정/제12조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0029",
+            "reference_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0012"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0029"
       },
@@ -337,7 +1288,25 @@
         "chapter": "제6장 교육기관의 운영실태 지도ㆍ관리",
         "content": "제30조(재검토 기한) 행정안전부장관은「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2018년 1월 1일 기준으로 매3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제30조",
+            "source_clause": "제30조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0030",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#JO0030"
       }
@@ -378,38 +1347,454 @@
       "promulgation_date": "20170726",
       "promulgation_no": "2017-1",
       "content": "부칙 (정부조직개편에 따른 지방세 감면 총량비율 고시 등의 정비에 관한 고시)<제2017-1호,2017. 7. 26.>이 고시는 발령한 날부터 시행한다."
-    },
-    {
-      "promulgation_date": "20251215",
-      "promulgation_no": "2025-70",
-      "content": "부칙 <제2025-70호, 2025. 12. 15.>제1조(시행일) 이 고시는 2027년 1월 1일부터 시행한다.제2조(경과조치) 다음과 같다.① 기존 실무ㆍ대행분야 전문교육과정은 2026년 6월 30일까지 운영하고, 개정된 전문교육과정은 2026년 7월 1일부터 운영할 수 있다.② 기존 대행분야 자격인증시험 합격자가 행정안전부장관이 정하는 추가 과목 등을 이수하고 재발급 신청 시 개정된 자격증을 발급한다.③ 기존 실무분야 자격인증시험 합격자가 행정안전부장관이 정하는 대행분야 실습 및 개정된 추가 과목을 이수하고 재발급 신청 시 개정된  자격증을 발급한다.④ 개정된 전문교육과정을 이수한 자는 개정된 자격인증시험에 한하여 응시한다.⑤ 기존 실무ㆍ대행분야 전문교육과정을 이수한 자는 개정된 추가 과목 및 실습(실무분야 이수자에 한함)을 이수하고 개정된 자격인증시험에 응시한다."
     }
   ],
-  "appendices": [],
-  "attachments": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "교육기관 지정 평가기준(규정 제5조제1항 관련)",
+      "enforcement_date": "",
+      "content": "[별표 1]\n교육기관 지정 평가기준(규정 제5조제1항 관련)\n가. 평가표\n┌─────┬──────────┬────────────────────────┐\n│항목      │심사내용            │평가방법                                        │\n├─────┼──────────┼────────────────────────┤\n│재정 상태 │?자본금의 규모     │신청인의 재무관리상태 판단                      │\n│          │?자기자본 비율     │?실질자본금 규모로 평가                        │\n│          │?유동성 비율       │?자기자본비율 및 유동성비율로 평가             │\n├─────┼──────────┼────────────────────────┤\n│교육 시설 │?시설확보 여부     │시설규모?확보여부 등을 평가                    │\n│?설비    │?시설기준          │?확보여부 평가                                 │\n│          │                    │?교육인력과 강의실·강당의 규모평가            │\n│          │                    │                                                │\n│          │?편의시설          │응모기관을 위원회에서 순위평가                  │\n│          │?교육기자재        │?휴게실, 체육실 등 편의시설 확보정도평가       │\n│          │                    │?기자재 설치현황 평가(비디오?환등기?컴퓨터등)│\n├─────┼──────────┼────────────────────────┤\n│확보 인력 │                    │응모기관을 위원회에서 순위평가                  │\n│          │?강사              │?자체 및 외래강사의 수준 평가                  │\n│          │?대표자            │?대표자 자질평가                               │\n│          │?운영요원          │?소정기준에 따라 평가                          │\n├─────┼──────────┼────────────────────────┤\n│운영 계획 │?과정개설 시기     │응모기관을 위원회에서 순위평가                  │\n│          │  및 반 편성계획    │                                                │\n│          │?교육비 적정성     │                                                │\n│          │?재정운영계획      │                                                │\n├─────┼──────────┼────────────────────────┤\n│교    육  │?교육과정별 교육   │다음 착안사항에 따라 위원회에서 순위평가        │\n│프로그램  │  과목의 종류와     │?교육과정별?등급별과정별 편성과목의 적합 여부 │\n│          │  내용              │?실습?견학 등 교과목의 교육편성 내용 등       │\n│          │                    │?교과목의 교안작성 내용                        │\n├─────┼──────────┼────────────────────────┤\n│기  타    │?행정안전부장관이  │응모기관을 위원회에서 평가                      │\n│          │심사기준으로 제시   │                                                │\n│          │한 사항             │                                                │\n└─────┴──────────┴────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000260410&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161110969",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161110965",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161110969",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#BYL0001",
+      "filename": "별표1_교육기관 지정 평가기준(규정 제5조제1항 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "시간이수교육 운영기준(규정 제15조제2항 관련)",
+      "enforcement_date": "",
+      "content": "[별표 2]\n시간이수교육 운영기준(규정 제15조제2항 관련)\n○ 시간이수교육\n본 규정은 운영자 중심의 교육에서 수요자 중심의 교육으로 전환을 위해 과목(시간)이수제를 도입함으로써 원활한 교육운영에 필요한 제반사항을 규정함을 목적으로 한다.\n┌──────┬─────────────────────────────────┐\n│구 분       │시간이수교육 운영기준                                             │\n├──────┼─────────────────────────────────┤\n│1. 기본사항 │                                                                  │\n│            │                                                                  │\n│            │                                                                  │\n│            │                                                                  │\n│            │가. 연간 교육일정 및 교육운영 세부사항을 교육기관의 홈페이지를    │\n│            │통하여 공지한다.                                                  │\n│            │  - 과목별(시간별) 또는 강좌별로 수강신청 방법                    │\n│            │  - 교육수강 및 교육이수조건 등                                   │\n│            │나. 교육형태                                                      │\n│            │  - 교육기관에서 정한 해당 연도 전문교육과정(Off-Line 교육)의     │\n│            │    교육일정에 따라 수강신청하고 과목별(시간별) 또는 강좌별로     │\n│            │    이수조건을 충족해야 한다.                                     │\n│            │  - 이수기간은 교육개시 해당 연도에 한한다.                       │\n├──────┼─────────────────────────────────┤\n│2. 수강신청 │가. 수강신청 : 기수별(회차별) 교육과 동일시기에 신청              │\n│            │나. 수강과목 : 연간 교육일정에 따라 본인이 원하는 시간(기간)의    │\n│            │교과목 선택                                                       │\n│            │다. 시간이수교육을 신청 수강할 경우 교육과정별로 교과목을         │\n│            │달리하여 주간?야간 과정에 대하여 교차 수강가능.                  │\n│            │     단, 동일 교과목에 대하여는 주간?야간 교차수강 불가.         │\n├──────┼─────────────────────────────────┤\n│3. 교육수강 │가. 교육생은 총 교육이수의 80% 이상 수강해야 한다.                │\n│            │나. 과제평가는 기수별(회차별) 교육생과 동일하게 적용한다.         │\n│            │다. 교육생은 해당 교과목에 대하여 현장실습에 참여해야 한다.       │\n├──────┼─────────────────────────────────┤\n│4. 평가방법 │가. 평가일시 및 기준은 교육과정 시작 전에 교육기관의 홈페이지에   │\n│            │공지사항 등으로 공지한다.                                         │\n│            │나. 기수별(회차별) 교육생과 동일한 수료평가방법 적용              │\n│            │다. 수료평가 : 학습평가(60%)+과제평가(20%)+근태평가(20%)          │\n│            │             = 70%이상  ⇒ 교육수료증 발급                        │\n├──────┼─────────────────────────────────┤\n│5. 이수기준 │가. 교육시간 80%이상 이수 및 과제물 제출                          │\n└──────┴─────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000260410&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161110975",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161110971",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161110975",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#BYL0002",
+      "filename": "별표2_시간이수교육 운영기준(규정 제15조제2항 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "사이버교육 운영기준(규정 제16조제2항 관련)",
+      "enforcement_date": "",
+      "content": "[별표 3]\n사이버교육 운영기준(규정 제16조제2항 관련)\n┌──────┬──────────────────────────────────┐\n│구 분       │사이버교육 운영기준                                                 │\n├──────┼──────────────────────────────────┤\n│1. 기본사항 │가. 사이버교육과정 일정 및 세부사항은 교육기관의 홈페이지를 통하여  │\n│            │공지한다.                                                           │\n│            │나. 사이버교육과정은 집합교육없이 인터넷을 통한 교육생 개별         │\n│            │형태로 운영한다.                                                    │\n│            │다. 교육기관의 사이버교육과정 운영담당자는 피 교육생이 사이버교육시 │\n│            │스템에 원활하게 등록 수강할 수 있도록 안내하고 지원해야 한다.       │\n│            │라. 사이버교육과정의 편성                                           │\n│            │  ? 1일 학습분량                                                   │\n│            │    교육과정(과목)별 1일 학습 분량은 교육과정(과목)의 특성을        │\n│            │고려하여 교육을 실시하는 기관의 장이 결정하되, 학습이 내실          │\n│            │있게 이루어 질 수 있도록 해야 한다.                                 │\n│            │  ? 전체교육기간                                                   │\n│            │    교육과정(과목)별 전체 교육기간은 교육내용의 분량 등을           │\n│            │감안하여 6주 이하로 한다.                                           │\n├──────┼──────────────────────────────────┤\n│2. 진도관리 │가. 학습진도는 학습을 완료한 학습차시 대비 전체 학습차시의 비       │\n│            │율(%)로 나타내며 과정운영자는 전자우편 등의 방법으로 학             │\n│            │습진도가 부진한 교육생의 학습을 독려해야 한다.                      │\n│            │나. 학습내용은 단계별로 구성하여 순차적으로 학습할 수 있고 상호     │\n│            │독립적인 내용으로 구성된 학습차시의 순서에 관계없이 학습할 수       │\n│            │있도록 한다.                                                        │\n├──────┼──────────────────────────────────┤\n│3. 평가방법 │가. 평가일시 및 기준은 교육과정 시작 전에 교육기관의 홈페이지에     │\n│            │교육과정 공지사항 등으로 공지한다.                                  │\n│            │나. 기수별(회차별) 교육과정과 동일한 수료평가방법 적용              │\n│            │다. 수료평가 : 학습평가(60%)+과제평가(20%)+근태평가(20%)            │\n│            │             = 70%이상                                              │\n├──────┼──────────────────────────────────┤\n│4. 이수기준 │가. 교육시간 80%이상 이수 및 과제물 제출                            │\n└──────┴──────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000260410&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161110981",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161110977",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161110981",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#BYL0003",
+      "filename": "별표3_사이버교육 운영기준(규정 제16조제2항 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별표",
+      "title": "교육운영 기준(규정 제17조제1항 관련)",
+      "enforcement_date": "",
+      "content": "[별표 4]\n교육운영 기준(규정 제17조제1항 관련)\n┏━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃구 분       │일반적 기준                                                           ┃\n┠──────┼───────────────────────────────────┨\n┃1. 교육생   │가. 재해경감활동 실무분야 전문교육과정                                ┃\n┃ 선발       │  - 기업에서 재해경감활동계획의 수립·실행, 교육·훈련·개선 등의 역  ┃\n┃            │할을 직접 수행하려는 사람                                             ┃\n┃            │나. 재해경감활동계획 수립 대행분야 전문교육과정                       ┃\n┃            │  - 법 제11조제1항에 따른 재해경감활동계획 수립 대행자 등록 기술      ┃\n┃            │인력요건에 해당하는 사람으로, 기업의 재해경감활동계획 수립을          ┃\n┃            │대행하려는 사람                                                       ┃\n┃            │다. 우수기업 인증평가분야 전문교육과정                                ┃\n┃            │- 상기 나목의 대행분야 교육과정을 이수하고 기업재난관리사 인증        ┃\n┃            │서를 발급받은 사람으로, 재해경감 우수기업 인증평가를 대행하려         ┃\n┃            │는 사람                                                               ┃\n┠──────┼───────────────────────────────────┨\n┃2. 강사선정 │가. 강사의 자격기준                                                   ┃\n┃및 교재     │- 재해경감활동분야의 교육과정(교과목)을 강의할 수 있는 자로 기        ┃\n┃ (교안)작성 │술사 또는 석?박사학위 취득 후 해당분야 실무경력이 5년 이상           ┃\n┃            │인 사람. 다만, 재난관리정책 및 관련법규 등을 강의하는 공무원          ┃\n┃            │(퇴직공무원 포함)의 경우에는 그렇지 않다.                             ┃\n┃            │나. 교재(교안) 작성기준                                               ┃\n┃            │   교과목별 교재 및 교안을 작성 활용해야 하며 강사자격기준 이상의     ┃\n┃            │사람이 작성하고 강사자격 이상의 자가 감수해야 한다.                   ┃\n┠──────┼───────────────────────────────────┨\n┃3. 교육과정 │가. 교육과정은 각 교육분야별로 기본과정과 전문과정으로 구분하여 개설·┃\n┃및          │운영해야 한다.                                                        ┃\n┃교육시간    │나. 교육시간은 다음 기준 이상으로 해야 한다.                          ┃\n┃            │  1) 재해경감활동계획 수립 실무분야 전문교육과정 : 35시간             ┃\n┃            │  2) 재해경감활동계획 수립 대행분야 전문교육과정 : 70시간             ┃\n┃            │  3) 우수기업 인증평가분야 전문교육과정 : 35시간                      ┃\n┠──────┼───────────────────────────────────┨\n┃4. 교과목   │가. 기업의 재해경감활동 분야 전문교육과정의 목적을 달성할 수 있도록   ┃\n┃  편성기준  │행정안전부장관이 제시하는 분야별 교육과정의 편성내역을 준수해         ┃\n┃            │야 한다.                                                              ┃\n┃            │나. 교육기관에서 교육과정 및 교과목의 편성내역을 변경, 개설 및 운영   ┃\n┃            │하려면 사전에 행정안전부장관의 승인을 받아야 한다.                    ┃\n┗━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000260410&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161110987",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161110983",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161110987",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#BYL0004",
+      "filename": "별표4_교육운영 기준(규정 제17조제1항 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별표",
+      "title": "교육생관리규정 표준안(규정 제18조제1항 관련)",
+      "enforcement_date": "",
+      "content": "[별표 5]\n교육생관리규정 표준안(규정 제18조제1항 관련)\n┌──────┬────────────────────────────────┐\n│구 분       │관리 기준                                                       │\n├──────┼────────────────────────────────┤\n│1. 출결관리 │가. 출결관리는 매교육일 교육개시전 교육생의 개별 서명과 이를    │\n│            │확인하는 방법에 따른다.                                         │\n│            │                                                                │\n│            │나. 출석일수는 총 출석일수의 80% 이상이어야 한다.               │\n│            │                                                                │\n│            │다. 교육원장이 인정하는 타당한 결석의 경우 결석일수의 50%을     │\n│            │결석한 것으로 보며 무단 결석의 경우 100% 처리한다.              │\n│            │                                                                │\n│            │라. 직계존비속의 사망 등 부득이하게 교육을 이수치 못하는 경우   │\n│            │차기 교육과정을 이수할 수 있도록 조치해야 한다.                 │\n│            │   다만, 총 출석일수의 40% 미만인 경우에 한한다.                │\n│            │                                                                │\n│            │마. 다목의 ‘타당한 결석의 경우’와 라목의 ‘부득이 한 경우’에 │\n│            │대해서는 교육기관별로 따로 정하도록 한다.                       │\n│            │                                                                │\n│            │바. 교육생이 대리출석 행위 등 교육분위기를 해치는 경우 퇴교조치 │\n│            │토록 한다.                                                      │\n│            │                                                                │\n│            │사. 근태평가 기준은 교육기관별로 따로 정하도록 한다.            │\n├──────┼────────────────────────────────┤\n│2. 평가관리 │가. 평가는 100점 만점을 기준으로 절대평가를 실시해 점수를 부    │\n│(수료기준)  │여한다.                                                         │\n│            │나. 평가는 4지선다식의 필답고사에 의한 학습평가, 개인별 또는    │\n│            │조별 실습보고서에 의한 평가인 과제평가 및 근태평가로 이         │\n│            │루어 진다.                                                      │\n│            │다. 배점기준은 학습평가를 60%, 과제평가 20%, 근태평가 20%로     │\n│            │하여 총 점수의 70% 이상 득점한 자를 이수토록 한다. 다만,        │\n│            │이수 조건중 출석일수는 총수업일수의 80% 이상으로 한다.          │\n├──────┼────────────────────────────────┤\n│3. 설문조사 │가. 1주이상의 교육을 실시하는 경우 교육효과, 교육시설 등 교육   │\n│            │과 관련한 사항에 대해 설문조사를 실시해야 하며 이를 분석        │\n│            │하여 다음 교육과정에 반영토록 노력해야 한다.                    │\n└──────┴────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000260410&bylNo=0005&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161110993",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161110989",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161110993",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#BYL0005",
+      "filename": "별표5_교육생관리규정 표준안(규정 제18조제1항 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "서식",
+      "title": "교육기관 지정신청서(규정 제4조제1항 관련)",
+      "enforcement_date": "",
+      "content": "[별지 제1호서식]\n교육기관 지정신청서(규정 제4조제1항 관련)\n━━━━━━━━┯━━━━━━━━━┯┯━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━\n1. 신청기관  │ 법   인   명     ││ 대 표 자           │\n├─────────┼┴──────────┴──────────────────\n│ 법인등록번호     │\n├─────────┼──────────────────────────────\n│ 소   재   지     │\n├─────────┼──────────────────────────────\n│ 전 화  번 호     │\n────────┴─────────┴──────────────────────────────\n\n────────┬─────────┬──────────────────────────────\n2. 공모 교육 │ 과   정   명     │\n분야 및 교육  ├─────────┼──────────────────────────────\n과정          │ 교 육  분 야     │\n├─────────┼──────────────────────────────\n│ 주요교육내용     │※ 개설과정의 목적, 주요과목 등 기술\n├─────────┼──────────┬───────┬───────────\n│ 교육기간(시간)   │       일(    시간) │  반편성 규모 │       명\n├─────────┼──────────┴───────┴───────────\n│ 교육비           │         원(※ 세부내역 작성)\n├─────────┼──────────────────────────────\n│ 과목별 세부내용  │※ 개설과목의 내용정리\n────────┴─────────┴──────────────────────────────\n\n────────┬─────────┬┬──────────┬──────────────────\n3. 운영계획  │ 연간 교육횟수    ││ 연간교육인원       │\n├─────────┼┴──────────┴──────────────────\n│ 운영조직구성     │\n├─────────┼──────────────────────────────\n│ 재정계획         │\n├─────────┼──────────────────────────────\n│ 연간교육일정     │\n────────┴─────────┴──────────────────────────────\n\n──────────────────┬──────────────────────────────\n4. 시설현황                      │\n──────────────────┼──────────────────────────────\n5. 기타                          │\n━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n기업 재해경감활동 전문인력 교육운영규정 제4조제1항에 따라 기업의 재해경감활동 전문인력 양성을\n위한 교육기관의 지정을 신청합니다.\n년   월     일\n신청인(대표자) :                   (서명 또는 인)\n행정안전부장관 귀하\n※ 첨부자료 : 교육운영사업계획서 1부\n─────────────────────────────────────────────────\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161110999",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161110995",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161110999",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#BJ0001",
+      "filename": "서식1_교육기관 지정신청서(규정 제4조제1항 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "서식",
+      "title": "기업 재해경감활동 전문인력 교육기관 지정서",
+      "enforcement_date": "",
+      "content": "[별지 제2호서식]\n\n기업 재해경감활동 전문인력 교육기관 지정서\n━━━━━━━┯━━━━━━━┯┯━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━\n1. 지정기관│ 기관(법인)명 ││ 대 표 자 │\n├───────┼┴─────┴───────────────────────────\n│ 법인등록번호 │\n├───────┼──────────────────────────────────\n│ 소   재   지 │\n├───────┼┬────────┬────────────────────────\n│ 전 화  번 호 ││대표 이메일 주소│\n───────┴───────┴┴────────┴────────────────────────\n\n───────┬───────┬──────────────────────────────────\n2. 지정내역│위탁교육분야  │\n│(교육과정)    │\n├───────┼──────────────────────────────────\n│지정조건      │\n━━━━━━━┷━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n위 기관·단체를「재해경감을 위한 기업의 자율활동 지원에 관한 법률 시행령」제10조 및 기업 재해\n경감활동 전문인력 교육운영규정 제5조제2항에 따라 교육기관으로 지정합니다.\n\n\n년       월       일\n\n┌───┐\n행정안전부장│관직인│\n└───┘\n\n──────────────────────────────────────────────────\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111005",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111001",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111005",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#BJ0002",
+      "filename": "서식2_기업 재해경감활동 전문인력 교육기관 지정서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "서식",
+      "title": "기업 재해경감활동 전문인력 교육기관 지정서 발급대장",
+      "enforcement_date": "",
+      "content": "[별지 제3호서식]\n기업 재해경감활동 전문인력 교육기관 지정서 발급대장\n(규정 제5조제3항 관련)\n┌──┬──┬────────────────┬───────────────┬──┐\n│번호│일자│지 정 기 관                     │지 정 내 역                   │비고│\n│    │    ├───┬───┬────┬───┼─────┬───┬─────┤    │\n│    │    │기관명│대표자│법인등록│주  소│위    탁  │과정별│지정 조건 │    │\n│    │    │      │      │번    호│      │교육분야  │      │          │    │\n├──┼──┼───┼───┼────┼───┼─────┼───┼─────┼──┤\n│    │    │      │      │        │      │          │      │          │    │\n│    │    │      │      │        │      │          │      │          │    │\n├──┼──┼───┼───┼────┼───┼─────┼───┼─────┼──┤\n│    │    │      │      │        │      │          │      │          │    │\n│    │    │      │      │        │      │          │      │          │    │\n├──┼──┼───┼───┼────┼───┼─────┼───┼─────┼──┤\n│    │    │      │      │        │      │          │      │          │    │\n│    │    │      │      │        │      │          │      │          │    │\n├──┼──┼───┼───┼────┼───┼─────┼───┼─────┼──┤\n│    │    │      │      │        │      │          │      │          │    │\n│    │    │      │      │        │      │          │      │          │    │\n├──┼──┼───┼───┼────┼───┼─────┼───┼─────┼──┤\n│    │    │      │      │        │      │          │      │          │    │\n│    │    │      │      │        │      │          │      │          │    │\n├──┼──┼───┼───┼────┼───┼─────┼───┼─────┼──┤\n│    │    │      │      │        │      │          │      │          │    │\n│    │    │      │      │        │      │          │      │          │    │\n├──┼──┼───┼───┼────┼───┼─────┼───┼─────┼──┤\n│    │    │      │      │        │      │          │      │          │    │\n│    │    │      │      │        │      │          │      │          │    │\n├──┼──┼───┼───┼────┼───┼─────┼───┼─────┼──┤\n│    │    │      │      │        │      │          │      │          │    │\n│    │    │      │      │        │      │          │      │          │    │\n└──┴──┴───┴───┴────┴───┴─────┴───┴─────┴──┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111011",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111007",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111011",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#BJ0003",
+      "filename": "서식3_기업 재해경감활동 전문인력 교육기관 지정서 발급대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "서식",
+      "title": "수료증",
+      "enforcement_date": "",
+      "content": "[별지 제4호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                                  ┃\n┃제     호                                                         ┃\n┃                                                                  ┃\n┃수       료       증                                              ┃\n┃                                                                  ┃\n┃ ○ 성    명 :                                                    ┃\n┃ ○ 생년월일 :                                                    ┃\n┃ ○ 소    속 :                                                    ┃\n┃ ○ 교육분야 및 교육과정 :                                        ┃\n┃ ○ 교육기간 : 20  .    .    . ～ 20  .    .    . (    시간)      ┃\n┃                                                                  ┃\n┃   위 사람은 기업 재해경감활동 전문인력 교육운영규정 제19조       ┃\n┃제1항에 따라 위 분야의 교육과정을 수료하였으므로 이 증서를 수     ┃\n┃여합니다.                                                         ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃                                                년      월      일┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃                ┌──┐                                          ┃\n┃  교육기관의 장 │직인│                                          ┃\n┃                └──┘                                          ┃\n┃                                                                  ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111017",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111013",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111017",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#BJ0004",
+      "filename": "서식4_수료증.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "서식",
+      "title": "기업 재해경감활동 전문인력 교육과정 수료증 발급대장",
+      "enforcement_date": "",
+      "content": "[별지 제5호서식]\n기업 재해경감활동 전문인력 교육과정 수료증 발급대장(규정 제19조제3항 관련)\n┏━━┯━━┯━━━━━━━━━━━┯━━━━━━━━━━━━━━┯━━┓\n┃번호│일자│수료자 인적사항       │전문교육 이수사항           │비고┃\n┃    │    ├──┬────┬───┼────┬────┬────┤    ┃\n┃    │    │성명│생년월일│주 소 │이수분야│이수과정│교육기간│    ┃\n┠──┼──┼──┼────┼───┼────┼────┼────┼──┨\n┃    │    │    │        │      │        │        │        │    ┃\n┃    │    │    │        │      │        │        │        │    ┃\n┠──┼──┼──┼────┼───┼────┼────┼────┼──┨\n┃    │    │    │        │      │        │        │        │    ┃\n┃    │    │    │        │      │        │        │        │    ┃\n┠──┼──┼──┼────┼───┼────┼────┼────┼──┨\n┃    │    │    │        │      │        │        │        │    ┃\n┃    │    │    │        │      │        │        │        │    ┃\n┠──┼──┼──┼────┼───┼────┼────┼────┼──┨\n┃    │    │    │        │      │        │        │        │    ┃\n┃    │    │    │        │      │        │        │        │    ┃\n┠──┼──┼──┼────┼───┼────┼────┼────┼──┨\n┃    │    │    │        │      │        │        │        │    ┃\n┃    │    │    │        │      │        │        │        │    ┃\n┠──┼──┼──┼────┼───┼────┼────┼────┼──┨\n┃    │    │    │        │      │        │        │        │    ┃\n┃    │    │    │        │      │        │        │        │    ┃\n┠──┼──┼──┼────┼───┼────┼────┼────┼──┨\n┃    │    │    │        │      │        │        │        │    ┃\n┃    │    │    │        │      │        │        │        │    ┃\n┠──┼──┼──┼────┼───┼────┼────┼────┼──┨\n┃    │    │    │        │      │        │        │        │    ┃\n┃    │    │    │        │      │        │        │        │    ┃\n┗━━┷━━┷━━┷━━━━┷━━━┷━━━━┷━━━━┷━━━━┷━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111023",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111019",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111023",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#BJ0005",
+      "filename": "서식5_기업 재해경감활동 전문인력 교육과정 수료증 발급대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "서식",
+      "title": "기업재난관리사 인증시험 응시원서",
+      "enforcement_date": "",
+      "content": "\n[별지 제6호서식]                                          (앞쪽)\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃0000년도 제00회 기업재난관리사 인증시험 응시원서                                        ┃\n┃                                                    ┌─────────────────┨\n┃※  [  ]에는 해당되는 곳에 √표를 합니다.           │응시번호                          ┃\n┠─────┬───────┬────┬───────┼─────────────────┨\n┃성  명    │              │주민등록│              │사  진                            ┃\n┃(한  자)  │(            )│번    호│              │3.5㎝×4.5㎝                      ┃\n┠─────┼───────┴────┴───────┤(3개월 이내                       ┃\n┃주  소    │                                        │촬영사진)                         ┃\n┠─────┼────────────────────┤                                  ┃\n┃연락처    │(☎                 / H.P              )│                                  ┃\n┠─────┼────────────────────┤                                  ┃\n┃E-Mail    │                                        │                                  ┃\n┠─────┼────────────────────┴─────────────────┨\n┃최종학력  │       학교    과    년    월     일 (졸업, 수료, 기타)                     ┃\n┠─────┼──────────────────────────────────────┨\n┃응시분야  │ [  ] 재해경감활동 실무분야 [  ] 재해경감활동계획 대행분야                  ┃\n┃          │ [  ] 우수기업 인증평가분야                                                 ┃\n┠─────┼────┬─────────────────────────────────┨\n┃전문교육  │수료분야│ 재해경감활동 실무분야                                            ┃\n┃수료현황  ├────┼─────────────────────────────────┨\n┃          │교육기간│                                                                  ┃\n┃          ├────┼─────────────────────────────────┨\n┃          │교육기관│                                                                  ┃\n┠─────┴────┴─────────────────────────────────┨\n┃기업 재해경감활동 전문인력 교육운영규정 제21조제3항에 따라 위와 같이 응시원서를 제출합니┃\n┃다.                                                                                     ┃\n┃년     월      일                                                                       ┃\n┃응 시 자 :            (서명 또는 인)                                                    ┃\n┃인증시험 시행기관장 귀하                                                                ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n(절)                (취)        (선)\n─────━    ━──────━        ━━            ━─────────────────\n\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃년도 제 회 기업재난관리사 인증시험 응시표                                               ┃\n┠────┬─────────────────────┬─────────────────┨\n┃응시분야│ [  ] 재해경감활동 실무분야               │사  진                            ┃\n┃        │ [  ] 재해경감활동계획 대행분야           │3.5㎝×4.5㎝                      ┃\n┃        │ [  ] 우수기업 인증평가분야               │(3개월 이내                       ┃\n┠────┼─────────────────────┤촬영사진)                         ┃\n┃응시번호│                                          │                                  ┃\n┠────┼──────┬────┬─────────┤                                  ┃\n┃성    명│            │주민등록│                  │                                  ┃\n┃        │            │번    호│                  │                                  ┃\n┠────┴──────┴────┴─────────┴─────────────────┨\n┃년     월      일                                                                       ┃\n┃                    ┌───┐                                                          ┃\n┃  인증시험 시행기관 │장직인│                                                          ┃\n┃                    └───┘                                                          ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210×297mm(백상지 150g/㎡)\n\n\n(뒤쪽)\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n응시자 유의사항\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃1. 응시표 및 주민등록증 등 신분증을 지참하지 아니한 자는 응시할 수 없으며, 응시표를 분실한 경우 사진(응시원서에 첨부한      ┃\n┃사진과 동일 원판) 2매를 지참하여 응시표를 재발급 받아야 합니다.                                                             ┃\n┃   ※ 신분증 : 운전면허증, 유효기간 내 여권, 장애인증, 국가공인의 얼굴사진과 주민등록번호가 기재된 신분증                   ┃\n┃2. 응시원서 등을 허위로 작성한 경우, 응시자격이 없는 자가 시험에 응시한 경우, 시험 중 부정행위를 한 경우 당해 시험을 무효로 ┃\n┃처리하고, 시험 시행한 날부터 3년간 시험응시자격을 정지합니다.                                                               ┃\n┃3. 시험 응시 중에는 부정행위 방지를 위해 휴대폰 및 각종 통신수단을 사용할 수 없으며, 만약 사용할 경우 부정행위로 간주하     ┃\n┃여 상기 2호의 규정에 따릅니다.                                                                                              ┃\n┃4. 응시원서는 접수기간 내 취소 가능(취소 시 수수료 반환)하며, 접수기간 이후에는 취소가 불가능합니다.                        ┃\n┃5. 응시 수수료는 접수 마감일 18:00까지 입금 완료하여야 하며, 입금되지 않을 경우 원서접수 무효처리합니다.                    ┃\n┃6. 시험 당일 시험실 입실은 09:30부터 가능하며, 09:50까지 시험장 입실을 완료하셔야 합니다.                                   ┃\n┃7. 시험 응시자는 응시표 및 주민등록증 등 신분증을 지참하고 시험 시작 전 감독관의 확인을 받아야 합니다.                      ┃\n┃8. 답안지는 반드시 컴퓨터용 싸인펜으로만 작성하고, 수정테이프 등은 사용할 수 없습니다.                                      ┃\n┃9. 시험 문제지는 공개하지 않으므로 시험 종료 후 반드시 문제지 및 답안지는 제출하여야 합니다.                                ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111031",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111025",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111031",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#BJ0006",
+      "filename": "서식6_기업재난관리사 인증시험 응시원서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "서식",
+      "title": "응시자 시험성적 관리대장",
+      "enforcement_date": "",
+      "content": "[별지 제7호서식]\n응시자 시험성적 관리대장(규정 제24조제3항 관련)\n┌──┬──┬───────────┬──────────────────────┬──┐\n│응시│시험│인적 사항             │과목별 시험성적                             │비고│\n│번호│일자├──┬────┬───┼──┬───┬───┬───┬───┬───┤    │\n│    │    │성명│생년월일│주 소 │소계│과목1 │과목2 │과목3 │과목4 │과목5 │    │\n├──┼──┼──┼────┼───┼──┼───┼───┼───┼───┼───┼──┤\n│    │    │    │        │      │    │      │      │      │      │      │    │\n│    │    │    │        │      │    │      │      │      │      │      │    │\n├──┼──┼──┼────┼───┼──┼───┼───┼───┼───┼───┼──┤\n│    │    │    │        │      │    │      │      │      │      │      │    │\n│    │    │    │        │      │    │      │      │      │      │      │    │\n├──┼──┼──┼────┼───┼──┼───┼───┼───┼───┼───┼──┤\n│    │    │    │        │      │    │      │      │      │      │      │    │\n│    │    │    │        │      │    │      │      │      │      │      │    │\n├──┼──┼──┼────┼───┼──┼───┼───┼───┼───┼───┼──┤\n│    │    │    │        │      │    │      │      │      │      │      │    │\n│    │    │    │        │      │    │      │      │      │      │      │    │\n├──┼──┼──┼────┼───┼──┼───┼───┼───┼───┼───┼──┤\n│    │    │    │        │      │    │      │      │      │      │      │    │\n│    │    │    │        │      │    │      │      │      │      │      │    │\n├──┼──┼──┼────┼───┼──┼───┼───┼───┼───┼───┼──┤\n│    │    │    │        │      │    │      │      │      │      │      │    │\n│    │    │    │        │      │    │      │      │      │      │      │    │\n├──┼──┼──┼────┼───┼──┼───┼───┼───┼───┼───┼──┤\n│    │    │    │        │      │    │      │      │      │      │      │    │\n│    │    │    │        │      │    │      │      │      │      │      │    │\n├──┼──┼──┼────┼───┼──┼───┼───┼───┼───┼───┼──┤\n│    │    │    │        │      │    │      │      │      │      │      │    │\n│    │    │    │        │      │    │      │      │      │      │      │    │\n└──┴──┴──┴────┴───┴──┴───┴───┴───┴───┴───┴──┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111037",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111033",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111037",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#BJ0007",
+      "filename": "서식7_응시자 시험성적 관리대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0008",
+      "branch": "00",
+      "kind": "서식",
+      "title": "기업재난관리사 인증서",
+      "enforcement_date": "",
+      "content": "\n[별지 제8호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃  제           호                                                                                 ┃\n┃                                                                                                  ┃\n┃기업재난관리사 인증서                                                                             ┃\n┃                                                                                                  ┃\n┃                                                                                                  ┃\n┃                                                                                                  ┃\n┃성    명:                   (생년월일:                   )                                        ┃\n┃합 격 일:                                                                                         ┃\n┃인증 분야(부문):                                                                                  ┃\n┃                                                                                                  ┃\n┃                                                                                                  ┃\n┃                                                                                                  ┃\n┃                                                                                                  ┃\n┃   위 사람은 「재해경감을 위한 기업의 자율활동 지원에 관한 법률」 제10조의2에 따라 전문교육과정을 ┃\n┃이수하고, 위 인증 분야의 시험에 합격하였기에 기업재난관리사 인증서를 교부합니다.                  ┃\n┃                                                                                                  ┃\n┃년       월       일                                                                              ┃\n┃                                                                                                  ┃\n┃                                                                                                  ┃\n┃                                                                                                  ┃\n┃                                                                                                  ┃\n┃                                                                                                  ┃\n┃              ┏━━━┓                                                                          ┃\n┃  행정안전부장┃관직인┃                                                                          ┃\n┃              ┗━━━┛                                                                          ┃\n┃                                                                                                  ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210×297mm(백상지 150g/㎡)\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111043",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111039",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111043",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#BJ0008",
+      "filename": "서식8_기업재난관리사 인증서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0009",
+      "branch": "00",
+      "kind": "서식",
+      "title": "기업재난관리사 인증서 발급대장",
+      "enforcement_date": "",
+      "content": "[별지 제9호서식]\n기업재난관리사 인증서 발급대장(규정 제26조제2항 관련)\n┏━━┯━━┯━━━━━━━━━━━┯━━━━━━━━━━━━┯━━━━━━━┓\n┃인증│발급│인증서 발급 대상자    │전문교육과정 수료내역   │인증분야      ┃\n┃번호│일자├──┬────┬───┼───┬───┬────┼────┬──┨\n┃    │    │성명│생년월일│주 소 │교  육│교 육 │교육기간│인증분야│합격┃\n┃    │    │    │        │      │기관명│분 야 │        │        │일자┃\n┠──┼──┼──┼────┼───┼───┼───┼────┼────┼──┨\n┃    │    │    │        │      │      │      │        │        │    ┃\n┃    │    │    │        │      │      │      │        │        │    ┃\n┠──┼──┼──┼────┼───┼───┼───┼────┼────┼──┨\n┃    │    │    │        │      │      │      │        │        │    ┃\n┃    │    │    │        │      │      │      │        │        │    ┃\n┠──┼──┼──┼────┼───┼───┼───┼────┼────┼──┨\n┃    │    │    │        │      │      │      │        │        │    ┃\n┃    │    │    │        │      │      │      │        │        │    ┃\n┠──┼──┼──┼────┼───┼───┼───┼────┼────┼──┨\n┃    │    │    │        │      │      │      │        │        │    ┃\n┃    │    │    │        │      │      │      │        │        │    ┃\n┠──┼──┼──┼────┼───┼───┼───┼────┼────┼──┨\n┃    │    │    │        │      │      │      │        │        │    ┃\n┃    │    │    │        │      │      │      │        │        │    ┃\n┠──┼──┼──┼────┼───┼───┼───┼────┼────┼──┨\n┃    │    │    │        │      │      │      │        │        │    ┃\n┃    │    │    │        │      │      │      │        │        │    ┃\n┠──┼──┼──┼────┼───┼───┼───┼────┼────┼──┨\n┃    │    │    │        │      │      │      │        │        │    ┃\n┃    │    │    │        │      │      │      │        │        │    ┃\n┠──┼──┼──┼────┼───┼───┼───┼────┼────┼──┨\n┃    │    │    │        │      │      │      │        │        │    ┃\n┃    │    │    │        │      │      │      │        │        │    ┃\n┠──┼──┼──┼────┼───┼───┼───┼────┼────┼──┨\n┃    │    │    │        │      │      │      │        │        │    ┃\n┠──┼──┼──┼────┼───┼───┼───┼────┼────┼──┨\n┃    │    │    │        │      │      │      │        │        │    ┃\n┗━━┷━━┷━━┷━━━━┷━━━┷━━━┷━━━┷━━━━┷━━━━┷━━┛\n210×297mm(백상지 150g/㎡)\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111049",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111045",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111049",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#BJ0009",
+      "filename": "서식9_기업재난관리사 인증서 발급대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0010",
+      "branch": "00",
+      "kind": "서식",
+      "title": "기업재난관리사 인증서 재발급 신청서",
+      "enforcement_date": "",
+      "content": "[별지 제10호서식]\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n기업재난관리사 인증서 재발급 신청서\n─────────────────────┬────────────────────────────\n[  ]에는 해당되는 곳에 √표를 합니다.   │처리기간    일\n──┬────┬─────┬─────┬─┴────────────────────────────\n신│성명    │          │생년월일  │-\n├────┼─────┴─────┴──────────────────────────────\n청│주소    │\n│        │(전화 :              )\n인├────┼─────┬─────┬──────────────────────────────\n│인증번호│제     호 │시험합격일│       .        .        .\n├────┼─────┴─────┴──────────────────────────────\n│인증분야│[  ]  재해경감활동 실무분야\n│        │[  ]  재해경감활동계획 수립 대행분야\n│        │[  ]  우수기업 인증평가분야\n──┴────┴──────────────────────────────────────────\n\n○ 재발급 사유(구체적으로 기입합니다)\n\n\n\n──────────────────────────────────────────────────\n\n기업 재해경감활동 전문인력 교육운영규정 제26조제3항에 따라 위와 같이 기업재난관리사 인증서 재\n발급을 신청합니다.\n\n년      월      일\n\n신 청 인 :                 (서명 또는 인)\n행정안전부장관  귀하\n────────────────────┬─────────────────────────────\n│수수료\n├─────────────────────────────\n│없음\n━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n210×297mm(백상지 150g/㎡)\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111055",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111051",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161111055",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#BJ0010",
+      "filename": "서식10_기업재난관리사 인증서 재발급 신청서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "개정본문 (기업 재해경감활동 전문인력 교육운영규정 일부개정고시 20250616).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=161110847",
+      "file_store_url": "",
+      "filename": "개정본문 (기업 재해경감활동 전문인력 교육운영규정 일부개정고시 20250616).hwpx"
+    },
+    {
+      "name": "개정본문 (기업 재해경감활동 전문인력 교육운영규정 일부개정고시 20250616).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=161110851",
+      "file_store_url": "",
+      "filename": "개정본문 (기업 재해경감활동 전문인력 교육운영규정 일부개정고시 20250616).pdf"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 31,
+    "relations_total": 52,
     "by_category": {
-      "법령": 18,
-      "행정규칙": 13
+      "법령": 20,
+      "별지": 10,
+      "행정규칙": 16,
+      "별표": 6
     },
     "by_relation_type": {
-      "citation": 18,
+      "citation": 23,
+      "appendix_ref": 16,
       "internal_ref": 13
     },
     "articles_total": 30,
-    "articles_with_relations": 12,
+    "articles_with_relations": 21,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 8,
+    "addenda_count": 7,
     "appendices_count": 15,
-    "attachments_count": 1
+    "attachments_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/기업 재해경감활동 전문인력 교육운영규정"
   },
-  "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#DOC",
-  "is_future": false
+  "provision_id": "admrul:기업재해경감활동전문인력교육운영규정#DOC"
 }
