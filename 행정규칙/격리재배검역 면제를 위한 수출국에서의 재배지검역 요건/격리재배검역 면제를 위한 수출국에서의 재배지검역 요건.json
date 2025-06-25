@@ -1,0 +1,423 @@
+{
+  "law_id": "2100000260826",
+  "mst": "2100000260826",
+  "law_name": "격리재배검역 면제를 위한 수출국에서의 재배지검역 요건",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000260826",
+  "promulgation_no": "2025-20",
+  "promulgation_date": "20250625",
+  "enforcement_date": "20250625",
+  "revision_date": "20250625",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "농림축산검역본부(식물방제과)",
+    "담당자명": "이진화",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "격리재배검역 면제를 위한 수출국에서의 재배지검역 요건",
+    "발령일자": "20250625",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "농림축산검역본부",
+    "전화번호": "054-912-0656",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1543000",
+    "생성일자": "20250626",
+    "행정규칙ID": "2049051",
+    "시행일자": "20250625",
+    "담당부서기관코드": "1543078",
+    "발령번호": "2025-20",
+    "행정규칙일련번호": "2100000260826",
+    "상위부처명": "농림축산식품부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n현행 고시「격리재배검역 면제를 위한 수출국에서의 재배지검역 요건」(고시 제2019-6호)의 검역대상 병원체 및 검사방법양딸기묘ㆍ감자의 덩이줄기ㆍ고구마의 덩이뿌리 현행화 등 일부 미비점을 개선ㆍ보완하고자 함\n\n◇ 주요내용\n가. 검역대상병원체 및 검사방법양딸기묘ㆍ감자의 덩이줄기ㆍ고구마의   덩이뿌리에 대한 자료 업데이트(별표)\n- 식물바이러스 명명법국제식물명명규약ICBN 변경에 따른 병원체 학명 수정\n* 식물바이러스명 변경: 기존 3-4개 단어로 구성된 종명species → 이명법binomial nomenclature\n- 「식물별 현장검역방법과 실험실정밀검역방법」(고시 제2023-50호) 관련    누리집에 게시된 「식물별 주요 검사대상 병원체 목록」 반영\n* 수입식물별 병원체 검사대상 및 검사법 알림(2025.3.19.기준)\n- 검사항목에서 비검역대상병원체로 재평가된 병원체명 삭제\n* Tomato bushy stunt virus (비검역)\n나. 행정규칙 용어 정비(제4조 1항)\n- 농림축산식품부 법령용어정비위원회 검토 의견에 따른 어문 규범상 올바른 표기로 용어 정비\n* PCR→중합효소연쇄반응법(PCR: Polymerase Chain Reaction), strain→계통(strain)",
+  "body": {
+    "format": "articles",
+    "article_count": 7,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 요건은 격리재배검역 대상식물 중 수출국에서의 재배지검역을 조건으로 격리재배검역을 면제받으려는 식물에 대한 수출국에서의 재배지검역 요건을 정하는 데 그 목적이 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:격리재배검역면제를위한수출국에서의재배지검역요건#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적용식물",
+        "chapter": "",
+        "content": "제2조(적용식물) 식물방역법 시행규칙 제19조제2항제4호의 식물로서 양딸기 묘, 감자의 덩이줄기 및 고구마의 덩이뿌리에 적용한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제19조제2항제4호",
+            "line_text": "",
+            "target_law_name": "식물방역법 시행규칙",
+            "target_article_no": "제19조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법 시행규칙/제19조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:격리재배검역면제를위한수출국에서의재배지검역요건#JO0002",
+            "reference_id": "law:식물방역법시행규칙#JO0019"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:격리재배검역면제를위한수출국에서의재배지검역요건#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "재배지 포장요건",
+        "chapter": "",
+        "content": "제3조(재배지 포장요건) ① 대한국 수출용 식물 재배포장은 수출국 검역기관에서 지정한 포장이어야 한다.② 대한국 수출용 식물 재배지 포장을 지정한 수출국 검역기관은 농가별ㆍ품목별ㆍ생산포장별로 롯트를 구성하고 관리대장을 비치하여 병해충 발생 상황 등에 대한 역추적이 가능토록 관리하여야 한다.③ 대한국 수출용 식물 재배포장은 다른 나라 수출용 포장 및 내수용 식물 재배포장과 구분되어야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:격리재배검역면제를위한수출국에서의재배지검역요건#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "재배지 포장검역",
+        "chapter": "",
+        "content": "제4조(재배지 포장검역) ① 생육중 재배지 포장검역은 수출국 검역기관이 검역시기마다 롯트별로 육안검역, 혈청학적 검사 또는 중합효소연쇄반응법(PCR: Polymerase Chain Reaction) 검사, 선충검사를 병행하여 실시한다.② 품목별 검역시기는 다음 각 호와 같다.1. 양딸기묘 : 1회1회 : 생육최성기2. 감자의 덩이줄기 : 2회1회 : 초장 15cm 내외2회 : 생육최성기3. 고구마의 덩이뿌리 : 2회1회 : 초장 15cm 내외2회 : 생육최성기③ 품목별 검역대상 병해충 및 병해충별 검역기준은 별표 1, 별표 2 및 별표 3과 같다.④ 검역결과 다음 각 호와 같이 조치한다.1. 제3항의 검역대상 병해충별 검역기준(허용치)을 초과하는 포장은 당해연도 대한국 수출포장에서 제외시켜야 한다.2. 포장검역 결과 롯트별로 병원체 검출률 등을 기록유지 하여야 한다.⑤ 수확물은 롯트별로 수확하여 롯트 번호가 표시된 상자에 보관, 수출검역시 까지 섞이지 않도록 구분 관리되어야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제3항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "격리재배검역 면제를 위한 수출국에서의 재배지검역 요건",
+            "target_article_no": "별표1",
+            "target_article_title": "양딸기묘 검역대상 병원체 및 검역기준",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000260826&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:격리재배검역면제를위한수출국에서의재배지검역요건#JO0004",
+            "reference_id": "admrul:격리재배검역면제를위한수출국에서의재배지검역요건#BYL0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제3항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "격리재배검역 면제를 위한 수출국에서의 재배지검역 요건",
+            "target_article_no": "별표2",
+            "target_article_title": "감자의 덩이줄기 검역대상병원체 및 검역기준",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000260826&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:격리재배검역면제를위한수출국에서의재배지검역요건#JO0004",
+            "reference_id": "admrul:격리재배검역면제를위한수출국에서의재배지검역요건#BYL0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제3항",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "격리재배검역 면제를 위한 수출국에서의 재배지검역 요건",
+            "target_article_no": "별표3",
+            "target_article_title": "고구마의 덩이뿌리 검역대상병원체 및 검역기준",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000260826&bylNo=0003&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:격리재배검역면제를위한수출국에서의재배지검역요건#JO0004",
+            "reference_id": "admrul:격리재배검역면제를위한수출국에서의재배지검역요건#BYL0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:격리재배검역면제를위한수출국에서의재배지검역요건#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "수출검역 및 증명",
+        "chapter": "",
+        "content": "제5조(수출검역 및 증명) ① 수출검역은 다음 각 호과 같이 실시한다.1. 수출국 검역기관은 재배지 포장검역에 합격된 포장에서 생산된 양딸기 묘, 감자의 덩이줄기 및 고구마의 덩이뿌리를 대상으로 실시한다.2. 수출검역 시에는 자국의 수출검역 관련 규정에 의거 검역하되 한국에서 규제하는 병해충의 감염여부에 대해서 검역한다.3. 수출품의 각 상자에는 지정포장의 롯트번호 및 \"대한국 수출용\" 문구가 표시되어야 한다.② 수출국 검역기관은 수출검역에 합격된 양딸기 묘, 감자의 덩이줄기 및 고구마의 덩이뿌리에 대하여 다음 각 호의 사항이 부기된 식물검역증명서를 발급한다. 이 때 이 증명서에는 별지 제1호서식의 \"재배지포장검역결과서(양딸기 묘, 감자의 덩이줄기 및 고구마의 덩이뿌리)\"가 첨부되어야 한다.1. 지정포장별 롯트번호 : (LOT NO. of designated field :    )2. 당해 식물(품목별)은 대한민국 검역 요건에 부합되게 생산되었음.   {These seedlings(tubers) have been produced in compliance with the import requirements of the Republic of Korea｝",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "격리재배검역 면제를 위한 수출국에서의 재배지검역 요건",
+            "target_article_no": "별지1",
+            "target_article_title": "재배지포장검역결과서(양딸기 묘, 감자의 덩이줄기 및 고구마의 덩이뿌리)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153557461",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:격리재배검역면제를위한수출국에서의재배지검역요건#JO0005",
+            "reference_id": "admrul:격리재배검역면제를위한수출국에서의재배지검역요건#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:격리재배검역면제를위한수출국에서의재배지검역요건#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "수입검역",
+        "chapter": "",
+        "content": "제6조(수입검역) ① 한국 식물검역관은 수출국에서 재배지 포장검역을 받은 제2조의 식물에 대한 수입검역 신청이 있는 경우 다음 각 호를 확인한다.1. 수출국에서 발급한 식물검역증명서 첨부여부 및 부기사항2. 재배지포장검역결과서 첨부여부3. 상자에 지정포장 롯트번호 및 \"대한국 수출용\" 표지여부② 제1항의 각 호를 확인한 결과 이상이 없으면 한국의 수입식물검역 규정에 따라 검역을 실시한다. 다만, 이상이 있으면 수입식물검역 규정에 따라 검역 후 격리재배명령한다.③ 제2항 본문의 수입식물검역 결과는 다음 각 호과 같이 처리한다.1. 한국의 수입검역 규정에 적합한 경우 당해 식물은 격리재배를 면제하고 합격조치 한다.2. 수입검역 결과 한국의 규제병해충 또는 잠정규제병해충이 발견된 경우 당해 화물 전체 또는 롯트별로 소독명령하여 소독이 완료되면 격리재배를 면제하고 합격 조치한다. 다만, 소독방법이 없는 등 소독을 할 수 없을 경우 폐기 또는 반송명령한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "격리재배검역 면제를 위한 수출국에서의 재배지검역 요건",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/격리재배검역 면제를 위한 수출국에서의 재배지검역 요건/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:격리재배검역면제를위한수출국에서의재배지검역요건#JO0006",
+            "reference_id": "admrul:격리재배검역면제를위한수출국에서의재배지검역요건#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:격리재배검역면제를위한수출국에서의재배지검역요건#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "기타사항",
+        "chapter": "",
+        "content": "제7조(기타사항) 이 고시에 규정되지 아니한 사항은 한국의 수입식물검역 관련 규정을 따른다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:격리재배검역면제를위한수출국에서의재배지검역요건#JO0007"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20130323",
+      "promulgation_no": "2013-113",
+      "content": "부칙 <제2013-113호,2013. 3. 23.>제1조(시행일) 이 고시는 2013년 3월 23일부터 시행한다.제2조(고시등의 폐지) 이 고시 시행과 동시에 종전의 농림수산검역검사본부고시 제2012-109호「격리재배검역 면제를 위한 수출국에서의 재배지검역 요건」은 폐지한다.제3조(재검토기한) 이 고시는 2016년 3월 22일까지 \"「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제248호)\" 제7조제3항 제2호에 따라 재검토하여야 한다."
+    },
+    {
+      "promulgation_date": "20160309",
+      "promulgation_no": "2016-72",
+      "content": "부칙 <제2016-72호,2016. 3. 9.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.제2조(재검토기한) 농림축산검역본부장은 이 고시에 대하여 2016년 7월 1일 기준으로 매3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다."
+    },
+    {
+      "promulgation_date": "20190122",
+      "promulgation_no": "2019-6",
+      "content": "부칙 <제2019-6호,2019. 1. 22.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.제2조(재검토기한) 농림축산검역본부장은 이 고시에 대하여 2019년 7월 1일 기준으로 매3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다."
+    },
+    {
+      "promulgation_date": "20250625",
+      "promulgation_no": "2025-20",
+      "content": "부칙 <제2025-20호, 2025. 6. 25.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.제2조(재검토기한) 농림축산검역본부장은 이 고시에 대하여 2025년 7월 1일 기준으로 매3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "양딸기묘 검역대상 병원체 및 검역기준",
+      "enforcement_date": "",
+      "content": "[별표 1]\n양딸기묘 검역대상 병원체 및 검역기준\n┌──────────────────────────────────┬───────┬────────┐\n│병원체명                                                            │재배지검역결과│검사방법        │\n│                                                                    │보증방법      │                │\n│                                                                    │(허용기준)    │                │\n├──────────────────────────────────┼───────┼────────┤\n│Nepovirus lycopersici(=Tomato ringspot virus)                       │무발생        │ELISA, PCR      │\n├──────────────────────────────────┼───────┼────────┤\n│Carlavirus fragariae(=Strawberry pseudo mild yellow edge virus)     │무발생        │생물검정, ELISA │\n├──────────────────────────────────┼───────┼────────┤\n│Strawberry latent C virus                                           │무발생        │생물검정        │\n├──────────────────────────────────┼───────┼────────┤\n│Caulimovirus venafragariae(=Strawberry vein banding virus)          │무발생        │생물검정, PCR   │\n├──────────────────────────────────┼───────┼────────┤\n│Alphanecrovirus nicotianae(=Tobacco necrosis virus)                 │무발생        │ELISA, PCR      │\n├──────────────────────────────────┼───────┼────────┤\n│Nepovirus arabis(=Arabis mosaic virus)                              │무발생        │ELISA, PCR      │\n├──────────────────────────────────┼───────┼────────┤\n│Nepovirus rubi(=Raspberry ringspot virus)                           │무발생        │ELISA, PCR      │\n├──────────────────────────────────┼───────┼────────┤\n│Nepovirus nigranuli(=Tomato black ring virus)                       │무발생        │ELISA, PCR      │\n├──────────────────────────────────┼───────┼────────┤\n│Stralarivirus fragariae(=Strawberry latent ringspot virus)          │무발생        │ELISA, PCR      │\n├──────────────────────────────────┼───────┼────────┤\n│Cytorhabdovirus fragariarugosus(=Strawberry crinkle virus)          │무발생        │ PCR            │\n├──────────────────────────────────┼───────┼────────┤\n│Ilarvirus TSV(=Tobacco streak virus)                                │무발생        │ELISA, PCR      │\n├──────────────────────────────────┼───────┼────────┤\n│Ilarvirus FCILV(=Fragaria chiloensis latent virus)                  │무발생        │생물검정        │\n│                                                                    │              │ELISA, PCR      │\n├──────────────────────────────────┼───────┼────────┤\n│Crinivirus palidofragariae(=Strawberry pallidosis associated virus) │무발생        │생물검정, ELISA │\n├──────────────────────────────────┼───────┼────────┤\n│Potexvirus fragariae(=Strawberry mild yellow edge-associated        │무발생        │ELISA, PCR      │\n│virus)                                                              │              │                │\n├──────────────────────────────────┼───────┼────────┤\n│< 삭  제 >                                                          │< 삭  제 >    │< 삭  제 >      │\n├──────────────────────────────────┼───────┼────────┤\n│Rhodococcus fascians                                                │무발생        │ELISA, PCR      │\n├──────────────────────────────────┼───────┼────────┤\n│Xanthomonas fragariae                                               │무발생        │ELISA, PCR      │\n├──────────────────────────────────┼───────┼────────┤\n│Idaeovirus rubi(=Raspberry bushy dwarf virus)                       │무발생        │ELISA           │\n├──────────────────────────────────┼───────┼────────┤\n│Raspberry leaf curl virus                                           │무발생        │생물검정        │\n├──────────────────────────────────┼───────┼────────┤\n│Cytorhabdovirus rubus(=Raspberry vein chlorosis virus)              │무발생        │생물검정        │\n├──────────────────────────────────┼───────┼────────┤\n│Badnavirus reterubi(=Rubus yellow net virus)                        │무발생        │생물검정        │\n├──────────────────────────────────┼───────┼────────┤\n│Candidatus Phytoplasma asteris(=Aster yellows phytoplasma)          │무발생        │PCR             │\n├──────────────────────────────────┼───────┼────────┤\n│Candidatus Phlomobacter fragariae                                   │무발생        │ 전자현미경, PCR│\n├──────────────────────────────────┼───────┼────────┤\n│Candidatus Phytoplasma australiense                                 │무발생        │PCR             │\n├──────────────────────────────────┼───────┼────────┤\n│Candidatus Phytoplasma americanum                                   │무발생        │PCR             │\n├──────────────────────────────────┼───────┼────────┤\n│Strawberry witches’ broom Phytoplasma                              │무발생        │전자현미경, PCR │\n├──────────────────────────────────┼───────┼────────┤\n│Erwinia amylovora                                                   │무발생        │ELISA, PCR      │\n├──────────────────────────────────┼───────┼────────┤\n│Xylella fastidiosa                                                  │무발생        │ELISA, PCR      │\n├──────────────────────────────────┼───────┼────────┤\n│Erwinia pyrifoliae                                                  │무발생        │PCR             │\n├──────────────────────────────────┼───────┼────────┤\n│Ilarvirus BCRV(=Blackberry chlorotic ringspot virus)                │무발생        │전자현미경, PCR │\n└──────────────────────────────────┴───────┴────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000260826&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153557467",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153557463",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153557467",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:격리재배검역면제를위한수출국에서의재배지검역요건#BYL0001",
+      "filename": "별표1_양딸기묘 검역대상 병원체 및 검역기준.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "감자의 덩이줄기 검역대상병원체 및 검역기준",
+      "enforcement_date": "",
+      "content": "[별표 2]\n감자의 덩이줄기 검역대상병원체 및 검역기준\n┌────────────────────────────────────────┬──────────┬───────┐\n│병원체명                                                                        │재배지검역결과      │검사방법      │\n│                                                                                │보증방법(허용기준)  │              │\n├────────────────────────────────────────┼──────────┼───────┤\n│Polerovirus PLRV(=Potato leaf roll virus)                                       │‘규제병해충’고시  │ELISA, PCR    │\n│                                                                                │준수                │              │\n├────────────────────────────────────────┼──────────┼───────┤\n│Potyvirus yituberosi(=Potato virus Y)                                           │‘규제병해충’고시  │ELISA, PCR    │\n│                                                                                │준수                │              │\n├────────────────────────────────────────┼──────────┼───────┤\n│Potato virus V                                                                  │무발생              │ELISA         │\n├────────────────────────────────────────┼──────────┼───────┤\n│Potexvirus marmoraucuba(=Potato aucuba mosaic virus)                            │무발생              │ELISA, PCR    │\n├────────────────────────────────────────┼──────────┼───────┤\n│Potato yellowing virus                                                          │무발생              │ELISA         │\n├────────────────────────────────────────┼──────────┼───────┤\n│Potyvirus muricati(=Wild potato mosaic virus)                                   │무발생              │ELISA         │\n├────────────────────────────────────────┼──────────┼───────┤\n│Tymovirus latandigenum(=Andean potato latent virus)                             │무발생              │ELISA, PCR    │\n├────────────────────────────────────────┼──────────┼───────┤\n│Comovirus andesense(=Andean potato mottle virus)                                │무발생              │ELISA, PCR    │\n├────────────────────────────────────────┼──────────┼───────┤\n│Pomovirus solani(=Potato mop-top virus)                                         │무발생              │ELISA, PCR    │\n├────────────────────────────────────────┼──────────┼───────┤\n│Betanecrovirus nicotianae(=Tobacco necrosis virus)                              │무발생              │ELISA, PCR    │\n├────────────────────────────────────────┼──────────┼───────┤\n│Curtovirus betae(=Beet curly top virus)                                         │무발생              │ELISA, PCR    │\n├────────────────────────────────────────┼──────────┼───────┤\n│Alphanucleorhabdovirus tuberosum(=Potato yellow dwarf virus)                    │무발생              │ELISA, PCR    │\n├────────────────────────────────────────┼──────────┼───────┤\n│Nepovirus solani(=Potato black ringspot virus)                                  │무발생              │ELISA         │\n├────────────────────────────────────────┼──────────┼───────┤\n│Nepovirus usolani(=Potato virus U)                                              │무발생              │생물검정      │\n├────────────────────────────────────────┼──────────┼───────┤\n│Nepovirus nigranuli(=Tomato black ring virus)                                   │무발생              │ELISA, PCR    │\n├────────────────────────────────────────┼──────────┼───────┤\n│Ilarvirus TSV(=Tobacco streak virus)                                            │무발생              │ELISA, PCR    │\n├────────────────────────────────────────┼──────────┼───────┤\n│Begomovirus solanumflavusvenae(=Potato deforming mosaic virus)                  │무발생              │생물검정      │\n├────────────────────────────────────────┼──────────┼───────┤\n│Begomovirus tuberosi(=Potato yellow mosaic virus)                               │무발생              │생물검정      │\n├────────────────────────────────────────┼──────────┼───────┤\n│Crinivirus flavisolani(=Potato yellow vein virus)                               │무발생              │ELISA, PCR    │\n├────────────────────────────────────────┼──────────┼───────┤\n│Begomovirus solanumaureimusivi(=Tomato golden mosaic virus=Tomato yellow mosaic │무발생              │생물검정      │\n│virus)                                                                          │                    │              │\n├────────────────────────────────────────┼──────────┼───────┤\n│Cheravirus arracaciae(=Arracacha virus B, oca 계통(strain))                     │무발생              │ELISA         │\n├────────────────────────────────────────┼──────────┼───────┤\n│Pospiviroid fusituberis(=Potato spindle tuber viroid)                           │무발생              │PCR           │\n├────────────────────────────────────────┼──────────┼───────┤\n│Solanum apical leaf curling virus                                               │무발생              │생물검정      │\n├────────────────────────────────────────┼──────────┼───────┤\n│Tymovirus melongenae                                                            │무발생              │생물검정      │\n├────────────────────────────────────────┼──────────┼───────┤\n│Begomovirus bauri(=Abutilon mosaic virus)                                       │무발생              │생물검정, PCR │\n└────────────────────────────────────────┴──────────┴───────┘\n┌────────────────────────────────┬──────────┬───────┐\n│병원체명                                                        │재배지검역결과      │검사방법      │\n│                                                                │보증방법(허용기준)  │              │\n├────────────────────────────────┼──────────┼───────┤\n│Nepovirus arabis(=Arabis mosaic virus)                          │무발생              │ELISA, PCR    │\n├────────────────────────────────┼──────────┼───────┤\n│Arracaccha virus A                                              │무발생              │생물검정      │\n├────────────────────────────────┼──────────┼───────┤\n│Potexvirus triasparagi(=Asparagus 3 virus)                      │무발생              │생물검정      │\n├────────────────────────────────┼──────────┼───────┤\n│Nepovirus manihotis(=Cassava green mottle virus)                │무발생              │생물검정      │\n├────────────────────────────────┼──────────┼───────┤\n│Allexivirus sennae(=Cassia mild mosaic virus)                   │무발생              │생물검정      │\n├────────────────────────────────┼──────────┼───────┤\n│Tymovirus melongenae(=Egg plant mosaic virus)                   │무발생              │ELISA         │\n├────────────────────────────────┼──────────┼───────┤\n│Potyvirus henbanis(=Henbane mosaic virus)                       │무발생              │생물검정      │\n├────────────────────────────────┼──────────┼───────┤\n│Pelarspovirus lineapelargonii(=Pelargonium line pattern virus)  │무발생              │ELISA         │\n├────────────────────────────────┼──────────┼───────┤\n│Potexvirus pepini(=Pepino mosaic virus)                         │무발생              │ELISA, PCR    │\n├────────────────────────────────┼──────────┼───────┤\n│Potyvirus capsivenae(=Pepper veinal mottle virus)               │무발생              │생물검정      │\n├────────────────────────────────┼──────────┼───────┤\n│< 삭  제 >                                                      │< 삭  제 >          │< 삭  제 >    │\n├────────────────────────────────┼──────────┼───────┤\n│Southern potato latent virus                                    │무발생              │생물검정      │\n├────────────────────────────────┼──────────┼───────┤\n│Potyvirus nicotianainsculpentis(=Tobacco etch virus)            │무발생              │ELISA, PCR    │\n├────────────────────────────────┼──────────┼───────┤\n│Polerovirus TNDV(=Tobacco necrotic dwarf virus)                 │무발생              │생물검정      │\n├────────────────────────────────┼──────────┼───────┤\n│Nepovirus nicotianae(=Tobacco ringspot virus)                   │무발생              │ELISA, PCR    │\n├────────────────────────────────┼──────────┼───────┤\n│Tobacco stunt virus                                             │무발생              │생물검정, PCR │\n├────────────────────────────────┼──────────┼───────┤\n│Begomovirus solanumaustraliaense(=Tomato Australian leaf curl   │무발생              │생물검정      │\n│virus)                                                          │                    │              │\n├────────────────────────────────┼──────────┼───────┤\n│< 삭  제 >                                                      │< 삭  제 >          │< 삭  제 >    │\n├────────────────────────────────┼──────────┼───────┤\n│Crinivirus contagichlorosis(=Tomato infectious chlorosis virus) │무발생              │생물검정, PCR │\n├────────────────────────────────┼──────────┼───────┤\n│Nepovirus lycopersici(=Tomato ringspot virus)                   │무발생              │ELISA, PCR    │\n├────────────────────────────────┼──────────┼───────┤\n│< 삭  제 >                                                      │< 삭  제 >          │< 삭  제 >    │\n├────────────────────────────────┼──────────┼───────┤\n│Candidatus Liberibacter solanacearum                            │무발생              │PCR           │\n├────────────────────────────────┼──────────┼───────┤\n│Candidatus Phytoplasma asteris(=Aster yellows phytoplasma)      │무발생              │PCR           │\n├────────────────────────────────┼──────────┼───────┤\n│Candidatus Phytoplasma americanum                               │무발생              │PCR           │\n├────────────────────────────────┼──────────┼───────┤\n│Candidatus Phytoplasma australiense                             │무발생              │PCR           │\n├────────────────────────────────┼──────────┼───────┤\n│Potyvirus trompetae(=Colombian datura virus )                   │무발생              │PCR           │\n├────────────────────────────────┼──────────┼───────┤\n│Alphanucleorhabdovirus melongenae                               │무발생              │ELISA, PCR    │\n│(=Eggplant mottled dwarf virus= Tomato vein yellowing virus)    │                    │              │\n├────────────────────────────────┼──────────┼───────┤\n│Pospiviroid chloronani(=Tomato chlorotic dwarf viroid )         │무발생              │PCR           │\n├────────────────────────────────┼──────────┼───────┤\n│Begomovirus solanumdelhiense                                    │무발생              │PCR           │\n├────────────────────────────────┼──────────┼───────┤\n│Torradovirus lycopersici(=Tomato torrado virus )                │무발생              │ELISA, PCR    │\n├────────────────────────────────┼──────────┼───────┤\n│ Clavibacter michiganense pv. sepedonicum                       │무발생              │ELISA, PCR    │\n├────────────────────────────────┼──────────┼───────┤\n│Ralstonia solanacearum                                          │무발생              │ELISA, PCR    │\n├────────────────────────────────┼──────────┼───────┤\n│Streptomyces scabies                                            │‘규제병해충’고시  │선택배지      │\n│                                                                │준수                │              │\n├────────────────────────────────┼──────────┼───────┤\n│Streptomyces stelliscabiei                                      │무발생              │ELISA, PCR    │\n├────────────────────────────────┼──────────┼───────┤\n│Dickeya dianthicola                                             │무발생              │PCR           │\n└────────────────────────────────┴──────────┴───────┘\n※ 허용치(감염율) 기준 : 조사 개체수에 대한 감염 개체수의 비율\n- 조사개체수의 시료채취는 포장(또는 LOT)의 네 모퉁이에서 중앙부 쪽으로 2m 이상 되는 지점과 포장의 중심부 지점에서 임의로 무작위 채취",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000260826&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153557475",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153557469",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153557475",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:격리재배검역면제를위한수출국에서의재배지검역요건#BYL0002",
+      "filename": "별표2_감자의 덩이줄기 검역대상병원체 및 검역기준.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "고구마의 덩이뿌리 검역대상병원체 및 검역기준",
+      "enforcement_date": "",
+      "content": "[별표 3]\n고구마의 덩이뿌리 검역대상병원체 및 검역기준\n┌───────────────────────────┬─────────┬──────┐\n│병원체명                                              │재배지검역결과    │검사방법    │\n│                                                      │보증방법(허용기준)│            │\n├───────────────────────────┼─────────┼──────┤\n│Candidatus?Phytoplasma aurantifolia                  │무발생            │PCR         │\n├───────────────────────────┼─────────┼──────┤\n│Pospiviroid fusituberis(=Potato spindle tuber viroid) │무발생            │PCR         │\n├───────────────────────────┼─────────┼──────┤\n│Xylella fastidiosa                                    │무발생            │ELISA, PCR  │\n├───────────────────────────┼─────────┼──────┤\n│Alphanucleorhabdovirus tuberosum(=Potato  yellow      │무발생            │ELISA, PCR  │\n│dwarf virus)                                          │                  │            │\n├───────────────────────────┼─────────┼──────┤\n│Rhodococcus fascians                                  │무발생            │ELISA, PCR  │\n├───────────────────────────┼─────────┼──────┤\n│Ipomovirus lenisbatatae                               │무발생            │ELISA, PCR  │\n├───────────────────────────┼─────────┼──────┤\n│Sweet potato yellow dwarf virus                       │무발생            │PCR         │\n├───────────────────────────┼─────────┼──────┤\n│Ilarvirus TSV(=Tobacco streak virus)                  │무발생            │ELISA, PCR  │\n└───────────────────────────┴─────────┴──────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000260826&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153557481",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153557477",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153557481",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:격리재배검역면제를위한수출국에서의재배지검역요건#BYL0003",
+      "filename": "별표3_고구마의 덩이뿌리 검역대상병원체 및 검역기준.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "재배지포장검역결과서(양딸기 묘, 감자의 덩이줄기 및 고구마의 덩이뿌리)",
+      "enforcement_date": "",
+      "content": "[(Appendix No. 1 Form)][별지 제1호 서식]\n(Strawberry seedlings or Potato tubers or Sweet potato tubers)\nGrowing Field Inspection Result\n재배지포장검역결과서(양딸기 묘, 감자의 덩이줄기 및 고구마의 덩이뿌리)\n┌────┬────┬────┬────┬─────┬────┬────┬────┬──────┐\n│Field   │Name of │Acreage │Address │Date of   │Date of │Inspecti│Inspecti│Inspection  │\n│lot No. │grower  │(㎡)    │of      │sowing or │inspecti│on      │on      │results     │\n│재배지  │재배자  │재배    │grower  │transplant│on      │amount  │method  │[detection  │\n│LOT번호 │성명    │면적    │재배지  │ing       │검역    │(ea, kg)│검역    │rate(%) per │\n│        │        │        │주소    │파종 또는 │일자    │검역량  │방법    │pathogen]   │\n│        │        │        │        │정식일자  │        │        │        │검역결과    │\n│        │        │        │        │          │        │        │        │(병원체별   │\n│        │        │        │        │          │        │        │        │검출율)     │\n├────┼────┼────┼────┼─────┼────┼────┼────┼──────┤\n│        │        │        │        │          │        │        │        │            │\n├────┼────┼────┼────┼─────┼────┼────┼────┼──────┤\n│        │        │        │        │          │        │        │        │            │\n├────┼────┼────┼────┼─────┼────┼────┼────┼──────┤\n│        │        │        │        │          │        │        │        │            │\n├────┴────┴────┴────┴─────┴────┴────┴────┴──────┤\n│                                                                                              │\n│ ※ Copy of field management record and laboratory test results(O.D table,                    │\n│picture of electrophoresis, etc.)                                                             │\n│    첨부물(총매수) : 관리대장 및 실험실검역결과(O.D table, 전기영동사진 등) 사본              │\n│                                                                                              │\n│     This is to certify that field inspections were done as described above in                │\n│accordance with the plant quarantine regulation of Korea.                                     │\n│     한국의 식물검역 규정에 따라 재배지 포장검역을 상기와 같이 실시하였음을 증명합니다.       │\n│                                                                                              │\n│year     month   date                                                                         │\n│년     월     일                                                                              │\n│                                                                                              │\n│                                                                                              │\n│(○○ Organization, ○○ Country)                                                             │\n│○○국가,  ○○기관                                                                           │\n│                                                                                              │\n│                                                                                              │\n│        Quarantine Officer                      (Signature)                                   │\n│               ○○ 검역관                      (서명)                                        │\n└───────────────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153557461",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153557457",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153557461",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:격리재배검역면제를위한수출국에서의재배지검역요건#BJ0001",
+      "filename": "별지1_재배지포장검역결과서(양딸기 묘, 감자의 덩이줄기 및 고구마의 덩이뿌리).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "「격리재배검역 면제를 위한 수출국에서의 재배지검역 요건」일부개정(안) 전문 1부.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=153556757",
+      "file_store_url": "",
+      "filename": "「격리재배검역 면제를 위한 수출국에서의 재배지검역 요건」일부개정(안) 전문 1부.pdf"
+    },
+    {
+      "name": "「격리재배검역 면제를 위한 수출국에서의 재배지검역 요건」일부개정(안) 전문 1부.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=153556753",
+      "file_store_url": "",
+      "filename": "「격리재배검역 면제를 위한 수출국에서의 재배지검역 요건」일부개정(안) 전문 1부.hwpx"
+    },
+    {
+      "name": "조문별제개정이유서_행정규칙.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=153556737",
+      "file_store_url": "",
+      "filename": "조문별제개정이유서_행정규칙.hwp"
+    },
+    {
+      "name": "조문별제개정이유서_행정규칙.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=153556741",
+      "file_store_url": "",
+      "filename": "조문별제개정이유서_행정규칙.pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 6,
+    "by_category": {
+      "법령": 1,
+      "별표": 3,
+      "별지": 1,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 1,
+      "appendix_ref": 4,
+      "internal_ref": 1
+    },
+    "articles_total": 7,
+    "articles_with_relations": 4,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 4,
+    "appendices_count": 4,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/격리재배검역 면제를 위한 수출국에서의 재배지검역 요건"
+  },
+  "provision_id": "admrul:격리재배검역면제를위한수출국에서의재배지검역요건#DOC"
+}
