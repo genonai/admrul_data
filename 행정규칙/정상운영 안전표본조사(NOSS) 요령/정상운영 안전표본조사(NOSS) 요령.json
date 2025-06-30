@@ -1,0 +1,938 @@
+{
+  "law_id": "2100000261142",
+  "mst": "2100000261142",
+  "law_name": "정상운영 안전표본조사(NOSS) 요령",
+  "law_abbr": "",
+  "law_type": "예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000261142",
+  "promulgation_no": "435",
+  "promulgation_date": "20250630",
+  "enforcement_date": "20250630",
+  "revision_date": "20250630",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국토교통부(항공교통과)",
+    "담당자명": "김종성",
+    "행정규칙종류코드": "B0002",
+    "행정규칙명": "정상운영 안전표본조사(NOSS) 요령",
+    "발령일자": "20250630",
+    "행정규칙종류": "예규",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국토교통부",
+    "전화번호": "044-201-4276",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1613000",
+    "생성일자": "20250704",
+    "행정규칙ID": "31654",
+    "시행일자": "20250630",
+    "담당부서기관코드": "1613541",
+    "발령번호": "435",
+    "행정규칙일련번호": "2100000261142",
+    "상위부처명": "국토교통부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」제7조에 따라 유효기간을 ‘2025년 6월 30일’에서 ‘2028년 6월 30일’로 연장하고자 함\n\n◇ 주요내용\n가. 유효기간을 2025년 6월 30일에서 2028년 6월 30일로 개정",
+  "body": {
+    "format": "articles",
+    "article_count": 25,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 예규는 「항공교통업무 안전관리시스템 운영지침」(국토교통부훈령) 제30조에 따라 정상적인 항공교통관제업무 수행 중에 발생하는 특정한 항공안전데이터의 수집ㆍ분석 및 개선조치를 위한 정상운영 안전표본조사(Normal Operations Safety Survey)의 운영에 필요한 사항을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「항공교통업무 안전관리시스템 운영지침」",
+            "line_text": "",
+            "target_law_name": "항공교통업무 안전관리시스템 운영지침",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/항공교통업무 안전관리시스템 운영지침",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0001",
+            "reference_id": "admrul:항공교통업무안전관리시스템운영지침#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제30조",
+            "line_text": "",
+            "target_law_name": "항공교통업무 안전관리시스템 운영지침",
+            "target_article_no": "제30조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/항공교통업무 안전관리시스템 운영지침/제30조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0001",
+            "reference_id": "admrul:항공교통업무안전관리시스템운영지침#JO0030"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적용범위 및 다른 규정과의 관계",
+        "chapter": "",
+        "content": "제2조(적용범위 및 다른 규정과의 관계) ① 이 예규는 「항공안전법」제85조제1항에 따른 항공교통업무증명을 받은 자와 항공교통업무를 수행하는 국토교통부 소속 지방항공청 및 항공교통본부와 그 소속 직원 등에게 적용한다.② 제1항에서 규정한 사람 외에 항공교통업무 안전관리 활동의 일환으로 정상운영 안전표본조사를 시행하려는 경우, 이 예규를 준용할 수 있다.③ 이 예규에서 정하지 않은 사항은 국제민간항공기구(ICAO) 지침서(Doc 9910, Cir 314)를 준용할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제1항",
+            "link_text": "「항공안전법」",
+            "line_text": "",
+            "target_law_name": "항공안전법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공안전법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0002",
+            "reference_id": "law:항공안전법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제1항",
+            "link_text": "제85조제1항",
+            "line_text": "",
+            "target_law_name": "항공안전법",
+            "target_article_no": "제85조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공안전법/제85조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0002",
+            "reference_id": "law:항공안전법#JO0085"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "용어의 정의",
+        "chapter": "",
+        "content": "제3조(용어의 정의) 이 예규에서 사용하는 용어의 정의는 다음과 같다.1. \"정상운영 안전표본조사(Normal operations safety survey, 이하 ‘NOSS’라 한다)\"라 함은 위협 및 오류 관리를 기반으로 하여 정상적인 항공교통관제업무 수행 중에 발생하는 특정한 항공안전데이터를 수집ㆍ분석 및 개선하기 위한 일련의 시스템적인 절차를 말한다.2. \"위협 및 오류 관리(Threat & Error Management, 이하 ‘TEM’이라 한다)\"라 함은 원하지 않는 상황으로 발전할 수 있는 위협과 오류를 명확히 식별하고 관리함으로써 안전을 도모하는 기법을 말한다.3. \"관찰자(Observer)\"라 함은 NOSS 운영에 필요한 전문교육을 이수하고 정상적인 관제업무 수행내용을 관찰ㆍ기록하는 사람을 말한다.4. \"위협(Threats)\"이라 함은 항공교통관제사(이하 ‘관제사’라 한다)의 영향력 밖에서 발생하여 운영 상의 복잡성을 증가시키고, 안전여유를 유지하기 위해 관리가 요구되는 사건 또는 오류를 말한다.5. \"오류(Errors)\"라 함은 관제사 또는 조직의 의도와 예상으로부터 벗어나는 상황에 이르도록 하는 관제사의 조치 또는 조치하지 않는 행동을 말하며, 관리되지 않거나 잘못 관리된 오류는 원하지 않는 상황으로 이어질 수 있다.6. \"원하지 않는 상황(Undesired states)\"이라 함은 의도하지 않은 교통상황으로 안전여유가 감소된 상황을 말한다.7. \"자료분석자(Data analyst)\"라 함은 관찰자가 NOSS 수행 중 수집한 항공안전데이터를 ‘TEM’ 기법에 따라 위협, 오류 및 원하지 않는 상황 등으로 검증 및 분석 하는 사람을 말한다.8. \"항공안전데이터(safety data, 이하 ‘안전데이터’라 한다)\"라 함은 「항공안전법」제2조제10호의4에서 정한 사항을 말한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「항공안전법」",
+            "line_text": "",
+            "target_law_name": "항공안전법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공안전법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0003",
+            "reference_id": "law:항공안전법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제2조제10호의4",
+            "line_text": "",
+            "target_law_name": "항공안전법",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공안전법/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0003",
+            "reference_id": "law:항공안전법#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "NOSS의 수행목적 및 기본방향",
+        "chapter": "",
+        "content": "제4조(NOSS의 수행목적 및 기본방향) NOSS는 일상적인 항공교통관제업무 수행 중에 발생할 수 있는 특정 안전데이터를 수집함으로써, 위해요인을 사전에 발굴하여 해결하기 위한 안전관리 기법으로, 그 기본원칙은 별표 1과 같다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "정상운영 안전표본조사(NOSS) 요령",
+            "target_article_no": "별표1",
+            "target_article_title": "NOSS의 기본원칙",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261142&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0004",
+            "reference_id": "admrul:정상운영안전표본조사(NOSS)요령#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "NOSS의 수행방법",
+        "chapter": "",
+        "content": "제5조(NOSS의 수행방법) 항공교통업무기관은 NOSS를 다음과 같은 방법으로 수행한다.1. NOSS 이행계획 수립2. NOSS 수행을 위한 조직과 인력의 구성 및 운영3. 안전데이터 수집4. 별표 2의 위협 및 오류관리 기법(TEM)을 사용한 자료검증 및 분설절차 수행 등 유효성 검토5. 최종보고서 작성",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "정상운영 안전표본조사(NOSS) 요령",
+            "target_article_no": "별표2",
+            "target_article_title": "위협 및 오류관리 기법(TEM)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261142&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0005",
+            "reference_id": "admrul:정상운영안전표본조사(NOSS)요령#BYL0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "NOSS 이행계획 수립",
+        "chapter": "",
+        "content": "제6조(NOSS 이행계획 수립) ① 항공교통업무기관은 교통량, 관제석 운영, 관제사의 수, 비행절차, 장비 등 기관환경의 변화를 감안하여 자체 NOSS 이행계획을 수립ㆍ시행한다.② 제1항의 NOSS 이행계획은 NOSS를 수행할 때마다 대상 관제시설별로 수립하고, 「항공교통업무 안전관리시스템 운영지침」(국토교통부훈령) 제11조에 따른 ‘안전위원회’ 및 ‘안전실행그룹’ 안건으로 상정하여 심의ㆍ결정할 수 있다.③ NOSS 이행계획에 포함하여야 할 주요 사항은 다음과 같다.1. 대상 관제시설2. 기간 및 관찰횟수(가능한 경우)3. 주요 관찰대상4. 운영조직5. 수행방법6. 주요 추진일정 등④ NOSS는 수행대상 관제시설별로 3년에 1회이상 수행한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "「항공교통업무 안전관리시스템 운영지침」",
+            "line_text": "",
+            "target_law_name": "항공교통업무 안전관리시스템 운영지침",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/항공교통업무 안전관리시스템 운영지침",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0006",
+            "reference_id": "admrul:항공교통업무안전관리시스템운영지침#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "제11조",
+            "line_text": "",
+            "target_law_name": "항공교통업무 안전관리시스템 운영지침",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/항공교통업무 안전관리시스템 운영지침/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0006",
+            "reference_id": "admrul:항공교통업무안전관리시스템운영지침#JO0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "NOSS 운영조직 등",
+        "chapter": "",
+        "content": "제7조(NOSS 운영조직 등) ① 항공교통업무기관은 NOSS의 원활한 수행을 위하여 NOSS를 수행할 때마다 다음과 같은 조직 및 인력을 운영할 수 있다.1. 안전표본조사 위원회(이하 ‘위원회’라 한다)2. NOSS 업무담당자3. 관찰자4. 자료분석자 등② 제1항의 조직은 NOSS 대상시설, 업무량 등을 고려하여 지방항공청장 또는 항공교통본부장이 그 규모(인원수)와 구성원을 정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "위원회의 구성 및 임무",
+        "chapter": "",
+        "content": "제8조(위원회의 구성 및 임무) ① 위원회는 다음 각 호의 위원으로 구성하며, 항공교통업무기관의 장이 지정한다.1. 관찰자2. 해당 관제시설 선임 관제사(팀장급 이상)3. 자료분석자4. 기타 지방항공청장 또는 항공교통본부장이 필요하다고 인정하는 사람② 항공교통업무기관의 장은 필요에 따라 국내외의 전문가를 위원으로 선정할 수 있다.③ 항공교통업무기관의 장은 상기 가.의 위원 중에서 위원장 1명을 지정한다.④ 위원장은 위원회의 업무를 총괄하며, 위원회를 대표한다.⑤ 위원회는 NOSS 수행기간동안 운영한다.⑥ 위원회는 NOSS 수행에 따른 제반사항을 주관하며 최종보고서를 심의ㆍ결정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "NOSS 업무담당자의 지정 및 임무",
+        "chapter": "",
+        "content": "제9조(NOSS 업무담당자의 지정 및 임무) ① 항공교통업무기관의 장은 NOSS 업무에 정통한 사람 중에서 NOSS 수행을 총괄할 NOSS 업무담당자 1명을 지정한다.② NOSS 업무담당자는 NOSS 수행에 필요한 다음의 사항을 지원한다.1. NOSS 대상 관제시설의 관제사들의 적극적인 참여 유도2. NOSS 이행계획 수립 및 홍보 총괄3. 관찰자의 원활한 안전데이터 수집 지원4. 관찰자와 대상 관제시설의 관제사간 의견조정5. NOSS 수행과정 중 도출되는 문제점의 분석과 개선방안 등의 제안",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "관찰자의 지정 및 임무",
+        "chapter": "",
+        "content": "제10조(관찰자의 지정 및 임무) ① 관찰자는 NOSS 수행대상 관제시설의 운영 및 절차에 관한 경험을 가지고 있는 관제사 중에서 다음의 특성을 고려하여 항공교통업무기관의 장이 지정한다. 이 경우 해당 관제시설의 업무한정을 취득한 사람 중 3년 이상의 관제업무경력을 가진 사람을 우선적으로 지정하여야 한다.1. \"업무능력 및 신뢰도\" : 동료들로부터 좋은 관제사, 신뢰할 만한 관제사2. \"분석적 능력\" : 관찰하는 업무에 대한 기술적인 사항에 집중하기보다는 상황 분석을 통한 위협, 오류 등 운영상황 전반을 파악할 수 있는 능력을 갖춘 관제사3. \"개방성\" : 자신이 사용하는 방식과 다른 방식ㆍ기술도 업무를 처리할 수 있는 효과적인 방식임을 받아들일 수 있는 관제사4. \"동기유발\" : 항공안전절차에 대한 본질적인 관심을 가지고, 이러한 관심을 주변 동료에게 확산할 수 있는 관제사5. \"분별력 있는 판단\" : 관찰자로서 보고서에 무엇을 포함할지, 관찰을 언제 종료할지 등에 대해 상당히 광범위한 재량권을 가지고 있음을 인지하고 있는 관제사② 관찰자는 일상적으로 수행중인 관제업무를 관찰하고 그 내용을 기록한다. 다만 관제사가 관찰을 거부할 경우, 관찰을 중단하고 그 내용을 신속히 위원회에 보고하여야 한다.③ 관찰자는 교육훈련, 자료 검증 및 분석, 최종보고서 작성 등에 적극 참여하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "자료분석자의 지정 및 임무",
+        "chapter": "",
+        "content": "제11조(자료분석자의 지정 및 임무) ① 자료분석자는 데이터를 관리하고 분석한 경험이 있는 경력자 이거나, 자료를 해석할 수 있는 관제사 또는 다른 전문가 중에서 항공교통업무기관의 장이 지정한다.② 자료분석자는 관찰자가 작성한 관찰보고서에 대하여 검증 및 분석한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "교육 및 훈련",
+        "chapter": "",
+        "content": "제12조(교육 및 훈련) ① 관찰자와 자료분석자로 지정된 자는 NOSS를 수행하기 전에 관련 교육훈련과정을 이수하여야 한다.② 교육훈련과정은 항공교통업무기관의 환경을 감안하여 내부에서 개설하여 운영하는 자체교육 및 전문교육기관에서 운영하는 외부교육 중에서 택하여 실시할 수 있다.③ 과목은 이론, 실습 및 보고서 작성 등으로 구성되고, 그 기간은 5일 이내로 한다. 교육훈련과정에 관한 세부사항은 별표 3과 같다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제3항",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "정상운영 안전표본조사(NOSS) 요령",
+            "target_article_no": "별표3",
+            "target_article_title": "NOSS 교육훈련과정",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261142&bylNo=0003&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0012",
+            "reference_id": "admrul:정상운영안전표본조사(NOSS)요령#BYL0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "NOSS 브리핑",
+        "chapter": "",
+        "content": "제13조(NOSS 브리핑) ① NOSS 업무담당자는 NOSS 시행전 관제시설의 장,  근무팀장, 관제사 및 관찰자 등 관계자를 대상으로 별표 4의 내용을 브리핑하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제1항",
+            "link_text": "별표 4",
+            "line_text": "",
+            "target_law_name": "정상운영 안전표본조사(NOSS) 요령",
+            "target_article_no": "별표4",
+            "target_article_title": "브리핑 대상 및 내용",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261142&bylNo=0004&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0013",
+            "reference_id": "admrul:정상운영안전표본조사(NOSS)요령#BYL0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "관찰의 실시",
+        "chapter": "",
+        "content": "제14조(관찰의 실시) ① 관찰자는 별표 2의 TEM 모델을 바탕으로 정상적인 관제업무 수행과정을 관찰하여 안전데이터를 수집한다.② 관찰자는 관찰 시 관제업무 수행에 어떠한 영향도 주어서는 아니 되며, 이를 위한 행동요령 및 주의사항은 다음과 같다.1. 근무 중인 관제사와 불필요한 토의 또는 관찰한 사항에 대한 언급 등 관제업무에 방해가 되는 행동 지양2. 관찰대상 관제사에 사전에 자신의 역할 및 관찰자료 수집 목적 설명3. 관찰업무 중에는 보고서 양식이 아닌 간략히 메모할 수 있는 메모지만 소지4. 관찰업무 종료 직후, 가급적 관찰장소가 아닌 장소에서 관찰보고서 작성5. 관찰대상 관제사가 대화를 시도하거나 질문하는 경우, 관찰업무 종료 후에 진행토록 안내6. 직접적인 근접 관찰이 필요한 경우를 제외하고 관제석과 충분히 이격된 위치에서 관찰",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제1항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "정상운영 안전표본조사(NOSS) 요령",
+            "target_article_no": "별표2",
+            "target_article_title": "위협 및 오류관리 기법(TEM)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261142&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0014",
+            "reference_id": "admrul:정상운영안전표본조사(NOSS)요령#BYL0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "관찰보고서의 작성 및 제출",
+        "chapter": "",
+        "content": "제15조(관찰보고서의 작성 및 제출) ① 관찰자는 관찰보고서를 다음 각 호의 요령으로 작성한다.1. 관찰보고서에 피 관찰자의 이름이나 약명 등 신원확인이 가능한 인적사항 기록 지양2. 관찰시작 당시의 교통흐름, 교통상황 및 관제상황 등을 상세히 기술하고, 평가나 판단의 표현은 사용자제3. 관제상황 기술 시, 관찰된 모든 위협, 오류 및 원하지 않는 상황을 묘사4. 식별한 위협, 오류 및 원하지 않는 상황에 대하여 관제사 또는 팀에서 대처한 사항 및 대처를 통해 발생한 결과를 기술5. 위협, 오류 및 원하지 않는 상황 등 관찰자료의 DB화를 위해 별표 5를 참고하여 코드화한 후 관찰보고서에 기록② 관찰자는 관찰이 종료된 후 1주일이내에 관찰보고서를 별지 제1호서식으로 작성하여 NOSS 업무담당자에게 제출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제1항",
+            "link_text": "별표 5",
+            "line_text": "",
+            "target_law_name": "정상운영 안전표본조사(NOSS) 요령",
+            "target_article_no": "별표5",
+            "target_article_title": "TEM 코드북",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261142&bylNo=0005&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0015",
+            "reference_id": "admrul:정상운영안전표본조사(NOSS)요령#BYL0005"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제2항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "정상운영 안전표본조사(NOSS) 요령",
+            "target_article_no": "별지1",
+            "target_article_title": "관찰보고서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154019853",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0015",
+            "reference_id": "admrul:정상운영안전표본조사(NOSS)요령#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "행정지원에 관한 사항",
+        "chapter": "",
+        "content": "제16조(행정지원에 관한 사항) NOSS 업무담당자는 관찰자의 효율적 관찰업무 수행에 필요한 행정지원을 한다. 행정지원에는 다음 각 호를 포함할 수 있다.1. 관찰보고서 작성가능한 개인 사무공간2. PC 등 작성가능한 전자 도구3. 관찰자 명단 및 교대 시간표4. 관찰업무 기간 중 관제업무 배제 및 제한 등",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "사용불가 자료의 처리",
+        "chapter": "",
+        "content": "제17조(사용불가 자료의 처리) 자료분석자는 유효성이 의심되는 관찰보고서의 내용을 자료검증 및 분석에 사용해서는 아니 된다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "자료검증",
+        "chapter": "",
+        "content": "제18조(자료검증) ① 자료분석자는 관찰보고서를 수집한 후 자료분석 과정에 들어가기 전, 자료의 품질 확인ㆍ관리 및 일관성 확보와 함께 관찰자의 주관적 의견을 배제하기 위해 자료검증을 수행하여야 한다.② 자료분석자는 관찰보고서에 대한 초도 검증을 수행하여야 한다. 검증 시에는 관련 절차ㆍ규정, 운영 자료 등을 참고하여 관찰자가 기술한 사항과 코드화한 위협, 오류, 원하지 않는 상황 등의 자료를 일치시켜야 한다.③ 초도 검증 과정에서 관찰자와 자료분석자가 코드화한 내용의 차이가 있는 경우, 검증그룹에서 별도로 논의하여야 한다.④ 초도 검증이 완료되면 NOSS 업무담당자, 자료분석자, 운영ㆍ절차 전문가 등으로 검증그룹을 구성하여 관찰자로부터 수집한 자료를 검토한다.⑤ 검증그룹은 관찰보고서에 기술된 위협, 오류, 원하지 않는 상황 등의 자료를 검토하여 분석단계에서 고려할 수 있도록 해야 한다. 필요 시 관찰자가 기록하지 못한 잠재적 위협, 오류, 원하지 않는 상황을 논의하거나 추가할 수 있다.⑥ 검증그룹은 자료에 포함된 모든 TEM 구성요소에 대해 코드화한 내용이 적정성ㆍ일관성을 유지할 수 있도록 하고, 관찰자의 주관적 의견이 자료에 포함되지 않도록 검토한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "자료의 분석",
+        "chapter": "",
+        "content": "제19조(자료의 분석) 자료분석자는 자료검증을 통해 식별이 완료된 위협, 오류 및 원하지 않는 상황에 대해 발생빈도, 후속영향, 관제사가 조치ㆍ관리한 사항 및 경향을 분석하여야 한다. 자료분석자는 분석이 종료된 후 2주일 이내에 NOSS 자료 분석보고서를 별지 제2호서식으로 작성하여 NOSS 업무담당자에게 제출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제19조",
+            "source_clause": "제19조",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "정상운영 안전표본조사(NOSS) 요령",
+            "target_article_no": "별지2",
+            "target_article_title": "NOSS 자료 분석 보고서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154019861",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0019",
+            "reference_id": "admrul:정상운영안전표본조사(NOSS)요령#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "최종보고서의 작성",
+        "chapter": "",
+        "content": "제20조(최종보고서의 작성) ① 최종보고서에는 관찰된 자료, 분석결과, 개선권고사항 등이 상세하게 기록되어야 한다.② 최종보고서에 포함하여야 할 주요 내용은 다음과 같다.1. 서론 및 총괄요약2. 위협 분석결과3. 오류 분석결과4. 원하지 않는 상황 분석결과5. 모범 사례6. NOSS 시행에서 얻은 교훈7. 개선 제안 및 맺음말8. 사용된 양식, 코드북 등 참고자료③ 최종보고서는 NOSS 업무담당자 및 위원회의 위원 간 협의를 통하여 작성하고, 위원회가 심의ㆍ결정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "NOSS 수행과정에 대한 평가",
+        "chapter": "",
+        "content": "제21조(NOSS 수행과정에 대한 평가) 항공교통업무기관은 NOSS수행이 완료되면 NOSS 시행초기에 계획한 목적과 그 결과를 비교하여 전체 과정에 대한 평가를 수행하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "NOSS 수행결과의 활용",
+        "chapter": "",
+        "content": "제22조(NOSS 수행결과의 활용) ① 항공교통업무기관은 NOSS 최종보고서를 다음과 같이 활용한다.1. 안전관리시스템(SMS)과 연계하여 안전향상에 활용2. 개선권고 사항의 이행을 위한 조치3. 중장기 운영계획 수립 시 반영② NOSS 수행중 관찰 및 자료분석을 통하여 나타난 사실을 이유로 관련 관제사에게 처벌 등 신분상의 불이익을 주어서는 아니 된다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "NOSS 수행결과의 보고 및 후속조치",
+        "chapter": "",
+        "content": "제23조(NOSS 수행결과의 보고 및 후속조치) NOSS 수행이 완료된 경우, 항공교통업무기관은 최종보고서 및 그 조치결과를 국토교통부장관에게 보고한다. 다만, 개선권고사항 중 장기간이 소요되는 경우 진행사항 및 조치결과를 「항공교통업무 안전관리시스템 운영지침(국토부 훈령)」 제25조제6항에 따라 매 분기마다 국토교통부장관에게 제출할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제23조",
+            "source_clause": "제23조",
+            "link_text": "제25조",
+            "line_text": "제23조(NOSS 수행결과의 보고 및 후속조치) NOSS 수행이 완료된 경우, 항공교통업무기관은 최종보고서 및 그 조치결과를 국토교통부장관에게 보고한다. 다만, 개선권고사항 중 장기간이 소요되는 경우 진행사항 및 조치결과를 「항공교통업무 안전관리시스템 운영지침(국토부 훈령)」 제25조제6항에 따라 매 분기마다 국토교통부장관에게 제출할 수 있다.",
+            "target_law_name": "정상운영 안전표본조사(NOSS) 요령",
+            "target_article_no": "제25조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/정상운영 안전표본조사(NOSS) 요령/제25조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0023",
+            "reference_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0025"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "자료의 보관 등",
+        "chapter": "",
+        "content": "제24조(자료의 보관 등) ① 항공교통업무기관은 관찰보고서 및 최종보고서를 최소 5년간 보관하여야 하며, 보고서의 외부공개 방지를 위해 보안조치 후 \"항공교통업무자료관리시스템(ADAMS)\"에 입력하여 관리한다.② 항공교통업무기관은「항공교통업무 안전관리시스템 운영지침」(국토교통부 훈령) 제30조제7항에 따라 비밀 보호 조치 등을 취한 후 안전관리 목적으로 관련 기관 또는 부서와 공유할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제24조",
+            "source_clause": "제24조제2항",
+            "link_text": "「항공교통업무 안전관리시스템 운영지침」",
+            "line_text": "",
+            "target_law_name": "항공교통업무 안전관리시스템 운영지침",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/항공교통업무 안전관리시스템 운영지침",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0024",
+            "reference_id": "admrul:항공교통업무안전관리시스템운영지침#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제24조",
+            "source_clause": "제24조제2항",
+            "link_text": "제30조제7항",
+            "line_text": "",
+            "target_law_name": "항공교통업무 안전관리시스템 운영지침",
+            "target_article_no": "제30조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/항공교통업무 안전관리시스템 운영지침/제30조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0024",
+            "reference_id": "admrul:항공교통업무안전관리시스템운영지침#JO0030"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "유효기간",
+        "chapter": "",
+        "content": "제25조(유효기간) 이 예규는 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 예규를 발령한 후의 법령이나 현실 여건의 변화 등을 검토하여야 하는 2028년 6월 30일까지 효력을 가진다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제25조",
+            "source_clause": "제25조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0025",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#JO0025"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20220713",
+      "promulgation_no": "354",
+      "content": "부칙 <제354호, 2022. 7. 13.>이 예규는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20250630",
+      "promulgation_no": "435",
+      "content": "부칙 <제435호, 2025. 6. 30.>이 예규는 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "NOSS의 기본원칙",
+      "enforcement_date": "",
+      "content": "[별표 1]\nNOSS의 기본원칙\n┏━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━┓\n┃연번│기본 원칙                                                       │비고┃\n┣━━┿━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━┿━━┫\n┃1   │무간섭 관찰       │ 관찰자가 관제석에서 근무하는 관제사의 근처 │    ┃\n┃    │                  │또는 뒤에 위치하여 관제업무 수행에 영향을   │    ┃\n┃    │                  │미치지 않는 상태에서 관찰하는 것을 말한다.  │    ┃\n┠──┼─────────┼──────────────────────┼──┨\n┃2   │기관장/관제사간   │ NOSS의 원활한 수행을 위하여 관제기관의 장  │    ┃\n┃    │공동체 의식       │과 관제사 모두의 공동체 의식을 가지고 적극  │    ┃\n┃    │                  │적인 협력이 필요하다.                       │    ┃\n┠──┼─────────┼──────────────────────┼──┨\n┃3   │자발적 참여       │ NOSS에 참여하는 관찰자 및 관찰대상 관제사  │    ┃\n┃    │                  │는 모두 자발적인 참여의사에 의해 참석여부   │    ┃\n┃    │                  │를 결정하여야 한다.                         │    ┃\n┠──┼─────────┼──────────────────────┼──┨\n┃4   │표준화된 관찰자   │ NOSS 관찰자는 TEM모델 적용, 표준양식 사    │    ┃\n┃    │                  │용, 적절한 코드 사용, 관찰 수행에 대한 지침 │    ┃\n┃    │                  │등의 교육훈련을 받아야 한다.                │    ┃\n┠──┼─────────┼──────────────────────┼──┨\n┃5   │TEM에 근거한      │ NOSS는 관찰자들이 위협, 오류 및 원하지 않  │    ┃\n┃    │체계적 관찰 수행  │는 상황을 관찰할 수 있도록 고안한 방법을    │    ┃\n┃    │                  │이용한다.                                   │    ┃\n┠──┼─────────┼──────────────────────┼──┨\n┃6   │익명, 기밀 등     │ NOSS에서 관찰된 모든 자료는 기관에서 기밀  │    ┃\n┃    │자료수집          │문서로 간주되며, 어떤 상황에서도 처벌목적으 │    ┃\n┃    │                  │로 사용해서는 아니 된다.                    │    ┃\n┠──┼─────────┼──────────────────────┼──┨\n┃7   │자료 검증절차     │ 분석과정에 들어가기 전에 관찰자가 작성한   │    ┃\n┃    │                  │관찰보고서 중 위협, 오류, 원하지 않는 상황  │    ┃\n┃    │                  │등의 자료가 적합하게 코드화되었는지 확인하  │    ┃\n┃    │                  │여야 한다.                                  │    ┃\n┠──┼─────────┼──────────────────────┼──┨\n┃8   │관제사에게 피드백 │ NOSS의 시행결과, 개선 필요사항에 대한 조치 │    ┃\n┃    │                  │결과를 해당 기관 소속 관제사들에게 통보한   │    ┃\n┃    │                  │다.                                         │    ┃\n┠──┼─────────┼──────────────────────┼──┨\n┃9   │철저한 자료보관   │ NOSS 프로그램에서 도출된 자료는 해당기관   │    ┃\n┃    │                  │이 기밀을 유지할 수 있는 장소에서 관리한다. │    ┃\n┠──┼─────────┼──────────────────────┼──┨\n┃10  │안전목표 설정     │ 안전관리자는 NOSS의 최종보고서를 기관의    │    ┃\n┃    │                  │안전전략 및 목표 설정시 참고자료로 활용할   │    ┃\n┃    │                  │수 있다.                                    │    ┃\n┗━━┷━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━┷━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261142&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154019803",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154019799",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154019803",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#BYL0001",
+      "filename": "별표1_NOSS의 기본원칙.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "위협 및 오류관리 기법(TEM)",
+      "enforcement_date": "",
+      "content": "[별표 2]\n위협 및 오류관리 기법(TEM)\n1. 개요\nTEM(Threat and Error Management)은 원하지 않는 상황으로 발전할 수 있는 위협과 오류를 식별하고 관리함으로써 안전을 도모하는 기법을 말한다.\n2. 구성요소\nTEM의 구성요소는 관제사 관점에서 분류한 위협, 오류, 원하지 않는 상황을 말한다.\n가. 위협(Threats)은 항공교통관제사(이하 ‘관제사’라 한다)의 영향력 밖에서 발생하여 운영 상의 복잡성을 증가시키고 안전여유를 유지하기 위해 관리가 요구되는 사건 또는 오류를 말한다.\n< 항공교통관제의 위협(예시) >\n━━━━━━━━━━┯━━━━━━━━━┯━━━━━┯━━━━━\nATS 제공기관 내부 │ATS 제공기관 외부 │항공기    │환경\n━━━━━━━━━━┿━━━━━━━━━┿━━━━━┿━━━━━\n장비              │공항배치          │조종사    │기상\n──────────┼─────────┼─────┼─────\n관제실 요소       │항행안전시설      │항공기성능│지형환경\n──────────┼─────────┼─────┼─────\n절차              │공역구조?설계    │무선통신  │\n──────────┼─────────┼─────┼─────\n타 관제사         │인접관제시설      │교통      │주의산만\n━━━━━━━━━━┷━━━━━━━━━┷━━━━━┷━━━━━\n나. 오류(Errors)는 관제사 또는 조직의 의도와 예상으로부터 벗어나는 상황에 이르도록 하는 관제사의 조치 또는 조치하지 않는 행동을 말하며, 관리되지 않거나 잘못 관리된 오류는 원하지 않는 상황으로 이어질 수 있다.\n< 항공교통관제의 오류(예시) >\n━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n구 분       │내 용\n━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n장비조작오류│ㅇ 레이더 사용 : 부적절한 레이더 자료 선택, 부적절한 관제범위 설정\n│ㅇ 부정확한 자료 입력\n│ㅇ 잘못된 주파수 선택, 인터콤 사용 시 잘못된 버튼/번호 선택\n│ㅇ 비행기록지의 잘못된 위치 및 해당관제사에게 전달하지 않음\n───────┼─────────────────────────────────────\n절차오류    │ㅇ 근무석 이양 : 급한 관제이양, 상번 관제사의 이양 준비전 관제석 이탈\n│ㅇ 정보 제공\n│  - 접근/출발절차, 기상/ATIS, 항행안전시설에 관한 정보를 조종사에게 제공\n│하지 않았거나 적시에 제공하지 않음\n───────┼─────────────────────────────────────\n의사소통오류│ㅇ 관제사와 조종사간 :\n│  - 요구사항에 대한 잘못된 해석\n│  - 부정확한 Hear-back\n│  - 부적당한 허가, 유도로 및 게이트?활주로 배정\n│ㅇ 관제사간, 시설 간 및 외부기관과의 협조 중 잘못된 의사소통이나 오해\n━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n다. 원하지 않는 상황(Undesired states)은 의도하지 않은 교통상황으로 안전여유가 감소된 상황을 말한다.\n< 항공교통관제의 원하지 않는 상황(예시) >\n━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n구 분 │내 용\n━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n지상  │ㅇ 항공기가 정지하여야 할 시기/장소에서 계속하여 이동하는 것 ; 항공기가 계속\n│이동하여야 할 시기/장소에서 정지하는 것\n│ㅇ 항공기가 사용하지 말아야 할 유도로에 진입하는 것 ; 항공기가 사용하여야 하\n│는 유도로에 진입하지 않는 것\n│ㅇ 항공기가 가야하는 곳 이외의 탑승구로 진행하는 것\n│ㅇ 항공기가 탑승구에서 대기하여야 할 때 Push-back을 하는 것 ; 항공기\n│Push-back을 해야 할 때 탑승구에 대기하는 것\n│ㅇ 항공기가 개방을 하는 곳 이외의 위치에서 활주로 개방하는 것 ; 항공기가 활주\n│로 개방하여야 하는 곳에서 개방하지 않는 것\n────┼────────────────────────────────────────\n비행중│ㅇ 항공기가 선회해야 할 시기에 선회를 하지 않는 것 ; 항공기가 선회를 하지 않\n│아야 할 시기에 선회하는 것 ; 항공기가 계획한 것과 다른 방향으로 선회하는 것\n│ㅇ 항공기가 비행하여야 하는 고도 이외의 고도로 상승/강하하는 것 ; 항공기가 비\n│행하여야 하는 비행고도로 상승/강하를 하지 않는 것\n│ㅇ 항공기가 비행하여야하는 시간/위치에서 요구된 비행고도에 도달하지 못 하는 것\n│ㅇ 항공기가 비행하여야하는 Way point/위치와 다른 곳으로 비행하는 것 ; 항공기\n│가 비행하여야 하는 Way point/위치로 비행하지 못 하는 것\n│ㅇ 항공기가 비행하여야하는 속도 이외의 속도로 비행하는 것\n━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261142&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154019811",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154019805",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154019811",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#BYL0002",
+      "filename": "별표2_위협 및 오류관리 기법(TEM).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "NOSS 교육훈련과정",
+      "enforcement_date": "",
+      "content": "[별표 3]\nNOSS 교육훈련과정\n━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━\n구 분           │교육내용                                        │비 고\n━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━\n이론교육        │ 1. NOSS 방법 개론                              │\n(1~2일차)       │ 2. NOSS의 기대효과                             │\n│ 3. TEM 개요 및 세부 구성요소                   │\n│ 4. TEM 이해증진을 위한 사례연구                │\n│ 5. 관찰보고서 양식 및 TEM 코드북 설명          │\n│ 6. ‘잘된’ 보고서 및 ‘미흡’ 보고서 예시     │\n│ 7. 관찰중단 규칙 등 관찰 프로토콜 설명         │\n│ 8. 관찰자별 관찰대상 및 근무석 지정            │\n│ 9. 관찰기간 중 NOSS 업무담당자 간 연락체계     │\n─────────┼────────────────────────┼────\n관찰 및         │ 1. 관찰실습                                    │\n보고서 작성 실습│  - 관찰 요청·거절 처리방법, 관제업무 방해하지 │\n(3~4일차)       │않는 방법, 메모하는 방법, 질문에 답하는 방      │\n│법, 관찰중단 규칙, 관찰 시간, 관찰 및 관련기    │\n│록 완수를 위한 시간 관리                        │\n│ 2. 관찰보고서 작성 실습                        │\n│  - 위협 및 오류, 원하지 않는 상황 분류 등      │\n─────────┼────────────────────────┼────\n실습결과        │ 1. 관찰보고서 검토(훈련교관, NOSS 업무담당자)  │\n피드백          │  - 보고서 구성 및 내용 등                      │\n(5일차)         │ 2. 관찰보고서 피드백                           │\n│ 3. 피드백 결과를 관찰보고서에 반영             │\n━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261142&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154019817",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154019813",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154019817",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#BYL0003",
+      "filename": "별표3_NOSS 교육훈련과정.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별표",
+      "title": "브리핑 대상 및 내용",
+      "enforcement_date": "",
+      "content": "[별표 4]\n브리핑 대상 및 내용\n━━━━━━┯━━━━━━━━━━━━━━━━━━━┯━━━━\n구 분     │주요내용                              │비 고\n━━━━━━┿━━━━━━━━━━━━━━━━━━━┿━━━━\n공통      │가. NOSS 개요                         │\n│나. NOSS의 목적                       │\n│나. NOSS의 기대효과                   │\n│다. 관찰대상기관 및 NOSS 이행계획     │\n│라. NOSS의 특성                       │\n│마. NOSS의 혜택                       │\n│바. NOSS가 SMS에 미치는 영향          │\n│사. 자료보안                          │\n│아. 각 관찰의 계획                    │\n│자. 정상운영의 중단                   │\n│차. 직원들과 관찰자의 교류            │\n│카. 관찰과 훈련/점검 등의 통합        │\n──────┼───────────────────┼────\n탑/실장   │가. 관찰선정에 참여하는 감독관        │\n│나. 관찰 중 직원과 교류하는 감독관    │\n│다. 정상운영의 중단/관찰자와의 교류   │\n│라. 관찰과 훈련/점검 등의 통합        │\n──────┼───────────────────┼────\n근무팀장  │가. 자료보안 및 자료관리              │\n│나. 자료 익명화 및 관리절차           │\n│다. NOSS 거절절차                     │\n│라. 최종보고서 제출양식               │\n│마. 관찰자선정 프로토콜               │\n──────┼───────────────────┼────\n일반관제사│가. NOSS 운영특성                     │\n│나. 각 섹터의 예상 관찰횟수           │\n│다. 인접한 근무석에서 발생하는 활동에 │\n│    대한 기록절차                     │\n│라. 자료의 익명성 및 관리절차         │\n│마. 자료보안 및 자료관리              │\n│바. 관찰중단 프로토콜                 │\n│사. 관찰자선정 프로토콜               │\n━━━━━━┷━━━━━━━━━━━━━━━━━━━┷━━━━",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261142&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154019823",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154019819",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154019823",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#BYL0004",
+      "filename": "별표4_브리핑 대상 및 내용.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별표",
+      "title": "TEM 코드북",
+      "enforcement_date": "",
+      "content": "[별표 5]\nTEM 코드북\n1. 위협(Threats)\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃내부위협(Internal threats)                                                                                                      ┃\n┠──────────────────────────────┬─────────────────┬───────────────┨\n┃ 장비/작업공간 위협요소(Equipment/workspace                 │기타 관제사/비행정보              │운영상의 활동 위협요소        ┃\n┃threats)                                                    │(Other controller/flight data )   │(Operational performance      ┃\n┃                                                            │                                  │threats)                      ┃\n┣━━┯━━━━━━━━━━━┯━━┯━━━━━━━━━━━━┿━━┯━━━━━━━━━━━━━━┿━━┯━━━━━━━━━━━━┫\n┃101 │무선통신              │114 │방문객                  │141 │조기/지연정보 제공          │181 │절차                    ┃\n┃    │(Radios)              │    │(Visitors)              │    │(Early/late transfer)       │    │(Procedure)             ┃\n┠──┼───────────┼──┼────────────┼──┼──────────────┼──┼────────────┨\n┃102 │전화                  │115 │시야 불량               │142 │다른 관제사의 비표준용어    │182 │흐름통제지시            ┃\n┃    │(Telephones)          │    │(Poor sight lines)      │    │사용                        │    │(Flow control           ┃\n┃    │                      │    │                        │    │(Non-standard phraseology   │    │command)                ┃\n┃    │                      │    │                        │    │by other controller)        │    │                        ┃\n┠──┼───────────┼──┼────────────┼──┼──────────────┼──┼────────────┨\n┃103 │전시된 교통상황       │116 │조명                    │143 │다른 관제사의 불완전한 복창 │183 │비표준고도              ┃\n┃    │(레이더화면)          │    │(Lighting)              │    │(Incomplete readback        │    │(Non-standard level)    ┃\n┃    │Traffic display event │    │                        │    │by other controller)        │    │                        ┃\n┃    │(radar screen)        │    │                        │    │                            │    │                        ┃\n┠──┼───────────┼──┼────────────┼──┼──────────────┼──┼────────────┨\n┃104 │레이더 포착범위       │117 │차트/매뉴얼오류         │144 │다른 관제사와 통신곤란      │184 │폐쇄된 활주로의 사용    ┃\n┃    │(Radar coverage)      │    │(Chart/manual error)    │    │(Communication              │    │(Non-duty runway        ┃\n┃    │                      │    │                        │    │difficulty with other       │    │usage)                  ┃\n┃    │                      │    │                        │    │controller)                 │    │                        ┃\n┠──┼───────────┼──┼────────────┼──┼──────────────┼──┼────────────┨\n┃105 │주파수 포착범위       │118 │창(오물, 반점 등)       │145 │다른 관제사의 통신채널      │185 │사용 활주로 변경        ┃\n┃    │(Frequency            │    │(Windows (dirty,        │    │선점 (Communication         │    │(Change in duty         ┃\n┃    │coverage)             │    │spots, etc.))           │    │channel used by other       │    │runway)                 ┃\n┃    │                      │    │                        │    │ controller)                │    │                        ┃\n┠──┼───────────┼──┼────────────┼──┼──────────────┼──┼────────────┨\n┃106 │전시화면 간섭 에코    │119 │자동관제 이양 실패      │146 │관제사 시스템 자료 입       │186 │회항 등                 ┃\n┃    │(Screen clutter)      │    │(Automated handoff      │    │력문제                      │    │(Diversions)            ┃\n┃    │                      │    │failure)                │    │(Controller system input    │    │                        ┃\n┃    │                      │    │                        │    │)                           │    │                        ┃\n┠──┼───────────┼──┼────────────┼──┼──────────────┼──┼────────────┨\n┃107 │사용 불가능 장비      │120 │항행안전시설 문제       │147 │협조 문제                   │187 │우선순위 항공기/VIP     ┃\n┃    │(Unserviceable        │    │(Navigation aid         │    │(Coordination issue)        │    │(Priority flight/VIPs)  ┃\n┃    │equipment)            │    │issue)                  │    │                            │    │                        ┃\n┠──┼───────────┼──┼────────────┼──┼──────────────┼──┼────────────┨\n┃108 │ATS 시스템간 자료     │121 │비행계획서-ATS 시스     │148 │스트립 문제                 │188 │순서문제                ┃\n┃    │의 불일치             │    │템 불일치               │    │(Strip issue)               │    │(Sequencing issue )     ┃\n┃    │(Data incongruence    │    │(Flight plan ? ATS     │    │                            │    │                        ┃\n┃    │between ATS           │    │system incongruence)    │    │                            │    │                        ┃\n┃    │system)               │    │                        │    │                            │    │                        ┃\n┠──┼───────────┼──┼────────────┼──┼──────────────┼──┼────────────┨\n┃109 │소프트웨어/장비       │122 │장비 유지보수           │149 │레이더와 비행자료 관제      │189 │통합/비통합 섹터(정     ┃\n┃    │(Software/equipmen    │    │(Equipment              │    │사간 상호작용               │    │상적 구성에서 벗어난)   ┃\n┃    │t issue)              │    │maintenance)            │    │(Radar-data controller      │    │(Combined/de-combi      ┃\n┃    │                      │    │                        │    │interaction                 │    │ned sectors (outside of ┃\n┃    │                      │    │                        │    │                            │    │normal configuration)   ┃\n┠──┼───────────┼──┼────────────┼──┼──────────────┼──┼────────────┨\n┃110 │잘못된 시스템 경보    │123 │장비고장(관찰중에 고    │150 │ADC-SMC 상호작용            │190 │다른 운영상의 요구      ┃\n┃    │(False system alarm)  │    │장남) (Equipment        │    │(ADC-SMC interaction)       │    │위협                    ┃\n┃    │                      │    │failure (failed during  │    │                            │    │(Other operational      ┃\n┃    │                      │    │observation)            │    │                            │    │demand threat)          ┃\n┠──┼───────────┼──┼────────────┼──┼──────────────┼──┼────────────┨\n┃111 │장비 점검             │139 │기타 장비/작업공간      │151 │감독 행위                   │    │                        ┃\n┃    │(Equipment checks)    │    │위협요소                │    │(Supervisory action)        │    │                        ┃\n┃    │                      │    │(Other equipment/       │    │                            │    │                        ┃\n┃    │                      │    │workspace threat)       │    │                            │    │                        ┃\n┠──┼───────────┼──┼────────────┼──┼──────────────┼──┼────────────┨\n┃112 │잡음                  │    │                        │152 │비행계획서 오류-관제사      │    │                        ┃\n┃    │(Noise)               │    │                        │    │(Flight plan error ?       │    │                        ┃\n┃    │                      │    │                        │    │controller)                 │    │                        ┃\n┠──┼───────────┼──┼────────────┼──┼──────────────┼──┼────────────┨\n┃113 │참고자료에의 접근용   │    │                        │153 │다른 관제사의 위협          │    │                        ┃\n┃    │이성                  │    │                        │    │(Unspecified controller     │    │                        ┃\n┃    │(Difficult to access  │    │                        │    │threat)                     │    │                        ┃\n┃    │reference materials)  │    │                        │    │                            │    │                        ┃\n┠──┼───────────┼──┼────────────┼──┼──────────────┼──┼────────────┨\n┃    │                      │    │                        │154 │다른 관제사의 부정확한      │    │                        ┃\n┃    │                      │    │                        │    │복창                        │    │                        ┃\n┃    │                      │    │                        │    │(Incorrect readback by      │    │                        ┃\n┃    │                      │    │                        │    │other controller)           │    │                        ┃\n┠──┼───────────┼──┼────────────┼──┼──────────────┼──┼────────────┨\n┃    │                      │    │                        │171 │사적대화                    │    │                        ┃\n┃    │                      │    │                        │    │(Non-operational            │    │                        ┃\n┃    │                      │    │                        │    │conversation)               │    │                        ┃\n┗━━┷━━━━━━━━━━━┷━━┷━━━━━━━━━━━━┷━━┷━━━━━━━━━━━━━━┷━━┷━━━━━━━━━━━━┛\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃ 공중 위협요소(Airborne Threats)                                                                                          ┃\n┠────────────────────┬────────────────────┬───────────────────┨\n┃ 조종사 문제(Aircraft pilot issues)     │ R/T 통신(R/T communication)            │교통(Traffic)                         ┃\n┣━━┯━━━━━━━━━━━━━━━━━┿━━┯━━━━━━━━━━━━━━━━━┿━━┯━━━━━━━━━━━━━━━━┫\n┃221 │항공기 미식별                     │201 │조종사의 불완전한 복창            │261 │교통 혼란                       ┃\n┃    │(Aircraft not identifying)        │    │(Pilot incomplete readback)       │    │(Traffic mix)                   ┃\n┠──┼─────────────────┼──┼─────────────────┼──┼────────────────┨\n┃222 │기수 이탈                         │202 │조종사의 비표준용어               │262 │군항공기                        ┃\n┃    │(Heading deviation)               │    │(Pilot non-standard               │    │(Military flights)              ┃\n┃    │                                  │    │phraseology)                      │    │                                ┃\n┠──┼─────────────────┼──┼─────────────────┼──┼────────────────┨\n┃223 │속도 이탈                         │203 │조종사의 언어 판독곤란            │263 │낙하산 활동                     ┃\n┃    │(Speed deviation)                 │    │(Pilot language difficulty)       │    │(Parachute activity)            ┃\n┠──┼─────────────────┼──┼─────────────────┼──┼────────────────┨\n┃224 │고도 이탈                         │204 │호출에 대한 조종사의 응답실패     │264 │갑자기 나타나는 항공기          ┃\n┃    │(Altitude deviation)              │    │(Pilot failure to respond to      │    │(Pop-up flight)                 ┃\n┃    │                                  │    │call)                             │    │                                ┃\n┠──┼─────────────────┼──┼─────────────────┼──┼────────────────┨\n┃225 │경로 이탈                         │205 │주파수 폭주/정체된 호출           │265 │편대비행                        ┃\n┃    │(Routing deviation)               │    │(Frequency congestion/calls       │    │(Formation flight)              ┃\n┃    │                                  │    │stepped on)                       │    │                                ┃\n┠──┼─────────────────┼──┼─────────────────┼──┼────────────────┨\n┃226 │복합이탈(방향, 고도, 속도 등)     │206 │차단된 주파수                     │266 │정찰 항공기                     ┃\n┃    │(Combo deviations (heading,       │    │(Blocked frequency)               │    │(Survey flight)                 ┃\n┃    │altitude,   speed, etc.))         │    │                                  │    │                                ┃\n┠──┼─────────────────┼──┼─────────────────┼──┼────────────────┨\n┃227 │항공기의 느린 지시 이행           │207 │조종사의 통신 곤란                │267 │훈련 항공기                     ┃\n┃    │(Aircraft slow to comply with     │    │(Pilot communication difficulty)  │    │(Training flight)               ┃\n┃    │command)                          │    │                                  │    │                                ┃\n┠──┼─────────────────┼──┼─────────────────┼──┼────────────────┨\n┃228 │비행승무원의 미보고               │208 │조종사의 부정확한 호출부호 사용   │268 │열기구                          ┃\n┃    │(Flight crew failure to report)   │    │(Pilot use of incorrect call sign)│    │(Hot air balloon)               ┃\n┠──┼─────────────────┼──┼─────────────────┼──┼────────────────┨\n┃229 │항공기 장비                       │209 │다른 항공기에 대한 호출에 응      │269 │유사 호출부호                   ┃\n┃    │(Aircraft equipment)              │    │답하는 항공기                     │    │(Similar call signs)            ┃\n┃    │                                  │    │(Aircraft answering call for      │    │                                ┃\n┃    │                                  │    │another   aircraft)               │    │                                ┃\n┠──┼─────────────────┼──┼─────────────────┼──┼────────────────┨\n┃260 │상승률/강하율                     │210 │조종사의 부정확한 복창            │270 │기상관측 기구 방출              ┃\n┃    │(Rate of climb/descent)           │    │(Pilot incorrect readback)        │    │(Meteorological balloon release)┃\n┠──┼─────────────────┼──┼─────────────────┼──┼────────────────┨\n┃231 │조종사가 지시에 따르지 못함       │219 │다른 R/T 통신 위협                │271 │특별 시계비행                   ┃\n┃    │(Pilot unable to comply with      │    │(Other R/T communication          │    │(Special VFR)                   ┃\n┃    │instruction)                      │    │threat)                           │    │                                ┃\n┠──┼─────────────────┼──┼─────────────────┼──┼────────────────┨\n┃232 │접근속도/추월                     │    │                                  │272 │비행검사                        ┃\n┃    │(Closing speed/overtake)          │    │                                  │    │(Flight check)                  ┃\n┠──┼─────────────────┼──┼─────────────────┼──┼────────────────┨\n┃233 │항공기 비상                       │    │                                  │273 │수색 및 구조 활동               ┃\n┃    │(Aircraft emergency)              │    │                                  │    │(Search and rescue action)      ┃\n┠──┼─────────────────┼──┼─────────────────┼──┼────────────────┨\n┃234 │항공사 절차                       │    │                                  │289 │기타 교통 위협                  ┃\n┃    │(Airline procedure)               │    │                                  │    │(Other traffic threat)          ┃\n┠──┼─────────────────┼──┴─────────────────┴──┴────────────────┨\n┃235 │비표준항공기 프로파일             │                                                                                ┃\n┃    │(Non-standard aircraft profile)   │                                                                                ┃\n┠──┼─────────────────┤                                                                                ┃\n┃236 │예상보다 활주로 오래 점유         │                                                                                ┃\n┃    │(Runway occupied longer than      │                                                                                ┃\n┃    │expected)                         │                                                                                ┃\n┠──┼─────────────────┤                                                                                ┃\n┃237 │조종사 지상활주 실수              │                                                                                ┃\n┃    │(Pilot taxi error)                │                                                                                ┃\n┠──┼─────────────────┤                                                                                ┃\n┃238 │조종사 SSR 코드 실수              │                                                                                ┃\n┃    │(Pilot SSR code error)            │                                                                                ┃\n┠──┼─────────────────┤                                                                                ┃\n┃239 │조종사 SSR 코드 실수 - 조종사     │                                                                                ┃\n┃    │(Pilot SSR code error ? pilot)   │                                                                                ┃\n┠──┼─────────────────┤                                                                                ┃\n┃240 │조종사 예측 실수                  │                                                                                ┃\n┃    │(Pilot estimate error)            │                                                                                ┃\n┠──┼─────────────────┤                                                                                ┃\n┃241 │RVSM 공역에 비 RVSM 항공기        │                                                                                ┃\n┃    │(Non-RVSM aircraft in RVSM        │                                                                                ┃\n┃    │airspace)                         │                                                                                ┃\n┠──┼─────────────────┤                                                                                ┃\n┃242 │기타 조종사 실수                  │                                                                                ┃\n┃    │(Other (miscellaneous) pilot      │                                                                                ┃\n┃    │error)                            │                                                                                ┃\n┠──┼─────────────────┤                                                                                ┃\n┃243 │조종사 요청                       │                                                                                ┃\n┃    │(Pilot request)                   │                                                                                ┃\n┠──┼─────────────────┤                                                                                ┃\n┃244 │비행계획서 문제 - 조종사/항공사   │                                                                                ┃\n┃    │(Flight plan issue ?             │                                                                                ┃\n┃    │pilot/airline)                    │                                                                                ┃\n┠──┼─────────────────┤                                                                                ┃\n┃245 │연료문제                          │                                                                                ┃\n┃    │(Fuel issue)                      │                                                                                ┃\n┠──┼─────────────────┤                                                                                ┃\n┃259 │다른 조종사/항공기 성능 위협      │                                                                                ┃\n┃    │(Other pilot/aircraft performance │                                                                                ┃\n┃    │threat)                           │                                                                                ┃\n┗━━┷━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃항공교통업무기관 외부위협요소(Air traffic service provider external threats)                                    ┃\n┠───────────────┬──────────────┬─────────────────────────┨\n┃ 공항 레이아웃(Airport layout)│공역 인프라/설계            │외국 항공교통업무제공기관                         ┃\n┃                              │(Airspace                   │(Foreign service providers)                       ┃\n┃                              │infrastructure/design)      │                                                  ┃\n┣━━┯━━━━━━━━━━━━┿━━┯━━━━━━━━━━━┿━━┯━━━━━━━━━━━━━━━━━━━━━━┫\n┃301 │지상 구조물             │321 │공역 설계             │341 │외부항공교통업무제공기관 - 비표준용어       ┃\n┃    │(Ground construction)   │    │(Airspace design)     │    │(External ATSP ? Non-standard              ┃\n┃    │                        │    │                      │    │phraseology)                                ┃\n┠──┼────────────┼──┼───────────┼──┼──────────────────────┨\n┃302 │활주로 오염             │322 │제한공역              │342 │외부항공교통업무제공기관 - 복창실수         ┃\n┃    │(Runway contamination)  │    │(Restricted airspace) │    │(External ATSP ? Readback error)           ┃\n┠──┼────────────┼──┼───────────┼──┼──────────────────────┨\n┃303 │활주로/유도로 구성      │339 │기타 공역 위협        │343 │외부항공교통업무제공기관 - 통신곤란         ┃\n┃    │(Runway/taxiway         │    │(Other airspace       │    │(External ATSP ? Communication             ┃\n┃    │configuration)          │    │threats)              │    │difficulty)                                 ┃\n┠──┼────────────┼──┼───────────┼──┼──────────────────────┨\n┃304 │신호/표지판 불량        │    │                      │344 │외부항공교통업무제공기관 - 다른 관제사가    ┃\n┃    │(Poor signage)          │    │                      │    │통신 채널 사용                              ┃\n┃    │                        │    │                      │    │(External ATSP ? Communication channel     ┃\n┃    │                        │    │                      │    │ used by other controller)                  ┃\n┠──┼────────────┼──┼───────────┼──┼──────────────────────┨\n┃305 │유도로 폐쇄             │    │                      │345 │외부항공교통업무제공기관 - 관제사 시스템 입 ┃\n┃    │(Taxiway closures)      │    │                      │    │력 (External ATSP ? Controller system      ┃\n┃    │                        │    │                      │    │input)                                      ┃\n┠──┼────────────┼──┼───────────┼──┼──────────────────────┨\n┃306 │공항 레이아웃           │    │                      │346 │외부항공교통업무제공기관 - 장비             ┃\n┃    │(Airport layout)        │    │                      │    │(External ATSP ? Equipment)                ┃\n┠──┼────────────┼──┼───────────┼──┼──────────────────────┨\n┃307 │조류 활동               │    │                      │347 │외부항공교통업무제공기관 - 협조문제         ┃\n┃    │(Bird activity)         │    │                      │    │(External ATSP ? Coordination issue)       ┃\n┠──┼────────────┼──┼───────────┼──┼──────────────────────┨\n┃308 │지상 정지 위치          │    │                      │348 │외부항공교통업무제공기관 - 관제권 이양관련  ┃\n┃    │(Ground stop)           │    │                      │    │(External ATSP ? Aircraft transfer issue)  ┃\n┠──┼────────────┼──┼───────────┼──┼──────────────────────┨\n┃319 │기타 공항 위협          │    │                      │349 │외부항공교통업무제공기관 - 비행계획서 결함  ┃\n┃    │(Other airport threats) │    │                      │    │-외부관제사                                 ┃\n┃    │                        │    │                      │    │(External ATSP ? Flight plan error ?      ┃\n┃    │                        │    │                      │    │external controller)                        ┃\n┠──┼────────────┼──┼───────────┼──┼──────────────────────┨\n┃    │                        │    │                      │359 │기타 외부항공교통업무제공기관 위협          ┃\n┃    │                        │    │                      │    │(Other external ATSP threats)               ┃\n┗━━┷━━━━━━━━━━━━┷━━┷━━━━━━━━━━━┷━━┷━━━━━━━━━━━━━━━━━━━━━━┛\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃환경적 위협요소(Environmental threats)                                          ┃\n┠────────────────────┬───────────────────┨\n┃기상 위협요소(Weather (WX) threats )    │지리적 환경(Geographical environment) ┃\n┣━━┯━━━━━━━━━━━━━━━━━┿━━┯━━━━━━━━━━━━━━━━┫\n┃361 │난기류 동반 뇌우                  │381 │태양/눈부심(자연광)             ┃\n┃    │(Thunderstorms with turbulence)   │    │(Sun/glare (natural light))     ┃\n┠──┼─────────────────┼──┼────────────────┨\n┃362 │난기류(만)                        │382 │지형                            ┃\n┃    │(Turbulence (only))               │    │(Terrain)                       ┃\n┠──┼─────────────────┼──┼────────────────┨\n┃363 │결빙                              │383 │소음 감소                       ┃\n┃    │(Icing)                           │    │(Noise abatement)               ┃\n┠──┼─────────────────┼──┼────────────────┨\n┃364 │윈드쉬어                          │398 │기타 지리적 위협                ┃\n┃    │(Wind shear)                      │    │(Other geographical threats)    ┃\n┠──┼─────────────────┼──┼────────────────┨\n┃365 │바람                              │399 │기타 위협                       ┃\n┃    │(Winds)                           │    │(Other threats)                 ┃\n┠──┼─────────────────┼──┴────────────────┨\n┃366 │시정-기상                         │                                      ┃\n┃    │(Visibility ? meteorological)    │                                      ┃\n┠──┼─────────────────┤                                      ┃\n┃367 │운저                              │                                      ┃\n┃    │(Cloud base)                      │                                      ┃\n┠──┼─────────────────┤                                      ┃\n┃368 │조합/복수 기상 위협               │                                      ┃\n┃    │(Combination/multiple WX threats) │                                      ┃\n┠──┼─────────────────┤                                      ┃\n┃379 │기타 기상 위협                    │                                      ┃\n┃    │(Other weather threats)           │                                      ┃\n┗━━┷━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━┛\n2. 오류(Errors)\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃근무교대 오류(Position relief errors)                                                             ┃\n┣━━┯━━━━━━━━━━━━━━━━━━━┯━━┯━━━━━━━━━━━━━━━━━━━━━━━┫\n┃501 │불완전한 근무석 교대 브리핑           │503 │근무석 상태를 설명 시 근무석이 운영되지 않았음┃\n┃    │(Incomplete position relief briefing) │    │(Did not open an position when conditions     ┃\n┃    │                                      │    │dictated)                                     ┃\n┠──┼───────────────────┼──┼───────────────────────┨\n┃502 │체크리스트 사용하지 않음              │509 │기타 근무석 변경 실수                         ┃\n┃    │(Checklist not used)                  │    │(Other position change error)                 ┃\n┗━━┷━━━━━━━━━━━━━━━━━━━┷━━┷━━━━━━━━━━━━━━━━━━━━━━━┛\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃통신오류(Communication errors)                                                                    ┃\n┣━━┯━━━━━━━━━━━━━━━━━━┯━━┯━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃511 │전체 복창을 받지 못함               │520 │항공기 형식을 최초 호출에서 누락함              ┃\n┃    │(Incomplete readback not challenged)│    │(Aircraft type omitted in initial call)         ┃\n┠──┼──────────────────┼──┼────────────────────────┨\n┃512 │부정확한 복창을 했음                │521 │식별부호 누락/잘림                              ┃\n┃    │(Incorrect readback given)          │    │(Call sign omission/truncation)                 ┃\n┠──┼──────────────────┼──┼────────────────────────┨\n┃514 │불완전한 복창에 이의를 제기하지 않음│522 │호출 잘려나감                                   ┃\n┃    │(Incorrect readback not challenged) │    │(Clipped call)                                  ┃\n┠──┼──────────────────┼──┼────────────────────────┨\n┃515 │부정확한 호출부호를 사용함          │523 │최초 접촉에서 기관명칭 식별 없었음              ┃\n┃    │(Wrong call sign used)              │    │(No station identification on initial contact ) ┃\n┠──┼──────────────────┼──┼────────────────────────┨\n┃516 │비표준 용어를 사용함                │524 │1000피트 이하에서 주파수 변경                   ┃\n┃    │(Non-standard phraseology)          │    │(Frequency change below 1000 ft)                ┃\n┠──┼──────────────────┼──┼────────────────────────┨\n┃517 │잘못된 호출                         │539 │기타 통신 실수                                  ┃\n┃    │(Missed call)                       │    │(Other communication error)                     ┃\n┗━━┷━━━━━━━━━━━━━━━━━━┷━━┷━━━━━━━━━━━━━━━━━━━━━━━━┛\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃장비/자동화 오류(Equipment/automation errors)                                                                 ┃\n┣━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━┯━━━━━━━━━━━━━━━━━━━━━┫\n┃541 │컴퓨터/자동화 입력 실수                               │546 │통신 시스템 조작 실수                     ┃\n┃    │(Computer/automation input error)                     │    │(Communication system manipulation error) ┃\n┠──┼───────────────────────────┼──┼─────────────────────┨\n┃542 │화면에 불완전/부정확한 정보 전시                      │547 │비행장 조명 결함                          ┃\n┃    │(Incomplete/inaccurate information display on screen) │    │(Aerodrome lighting error)                ┃\n┠──┼───────────────────────────┼──┼─────────────────────┨\n┃543 │레이더 화면 범위 선택                                 │548 │화면 설정                                 ┃\n┃    │(Radar screen range selection)                        │    │(Screen setup)                            ┃\n┠──┼───────────────────────────┼──┼─────────────────────┨\n┃544 │자료 태그 정보 흐릿함                                 │549 │비행계획서를 업데이트 하지 않음           ┃\n┃    │(Data tag information obscured)                       │    │(Flight plan not updated)                 ┃\n┠──┼───────────────────────────┼──┼─────────────────────┨\n┃545 │자료 태그 불완전/부정확 정보                          │559 │기타 장비/자동화 결함                     ┃\n┃    │(Data tag incomplete/inaccurate information)          │    │(Other equipment/automation error)        ┃\n┗━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━┷━━━━━━━━━━━━━━━━━━━━━┛\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃비행자료 진행 기록지 오류(Flight data progress strip errors)                                            ┃\n┣━━┯━━━━━━━━━━━━━━━━━━━┯━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃561 │비행진행 스트립 조작                  │568 │스트립에 고도 미 기록                               ┃\n┃    │(Flight progress strip manipulation)  │    │(No altitude written on strip)                      ┃\n┠──┼───────────────────┼──┼──────────────────────────┨\n┃562 │비행진행 스트립 기록 오류             │569 │스트립에 협조내용 미 표기                           ┃\n┃    │(Flight progress strip marking error) │    │(Coordination not indicated on strip)               ┃\n┠──┼───────────────────┼──┼──────────────────────────┨\n┃563 │배정 속도가 스트립에 기입되지 않음    │570 │항공기의 고도를 확인했지만 스트립에 미 표기         ┃\n┃    │(Assigned speed not noted on strip)   │    │(Aircraft verified level, not marked on strip)      ┃\n┠──┼───────────────────┼──┼──────────────────────────┨\n┃564 │스트립 작성과 조작의 결합             │571 │필요한 조치가 스트립에 표시되지 않음                ┃\n┃    │(Combined strip writing/manipulation) │    │(Strip not indicating required action)              ┃\n┠──┼───────────────────┼──┼──────────────────────────┨\n┃565 │시간이 스트립에 쓰여 있지 않음        │572 │차단 스트립을 사용하지 않음(예: 점유 활주로의 경우) ┃\n┃    │(Times not written on strips)         │    │(Blocking strip not used (e.g. for occupied RWY))   ┃\n┠──┼───────────────────┼──┼──────────────────────────┨\n┃566 │어떤 항공기에 대한 스트립 없음        │573 │사전 스트립 기록                                    ┃\n┃    │(No strip on board for an aircraft)   │    │(Strip marked too early)                            ┃\n┠──┼───────────────────┼──┼──────────────────────────┨\n┃567 │비행자료 보드의 배열순서가 틀림       │599 │기타 스트립 작성 실수                               ┃\n┃    │(Flight data board out of sequence)   │    │(Other strip marking error)                         ┃\n┗━━┷━━━━━━━━━━━━━━━━━━━┷━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃절차상 오류(Procedural errors)                                                                                          ┃\n┣━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃601 │사적 대화                                           │617 │무응답 호출에 응대하지 못함                           ┃\n┃    │(Non-operational conversation)                      │    │(Failure to respond to unanswered call)               ┃\n┠──┼──────────────────────────┼──┼───────────────────────────┨\n┃574 │비행계획서를 업데이트 하지 않음                     │618 │경고에 대한 대응이 늦음/하지 못함                     ┃\n┃    │(Flight plan not updated)                           │    │(No/late response to alarm)                           ┃\n┠──┼──────────────────────────┼──┼───────────────────────────┨\n┃575 │유도로를 감시하지 않았음                            │619 │녹음회선을 사용하지 않음                              ┃\n┃    │(Did not scan TWY)                                  │    │(Recorded line not used)                              ┃\n┠──┼──────────────────────────┼──┼───────────────────────────┨\n┃576 │이륙/착륙 상황을 감시하지 않았음                    │620 │교통상황을 감시하지 않았음(예: 화면을 장시간 보지     ┃\n┃    │(Did not monitor take-off/landing)                  │    │않았음)                                               ┃\n┃    │                                                    │    │(Failure to monitor traffic situation (e.g. not       ┃\n┃    │                                                    │    │looking at screen for prolonged periods))             ┃\n┠──┼──────────────────────────┼──┼───────────────────────────┨\n┃577 │주파수 상에 없는 항공기에게 시각분리 제공           │621 │고도 확인 없음                                        ┃\n┃    │(Visual separation provided with aircraft that was  │    │(No level verification)                               ┃\n┃    │not on frequency)                                   │    │                                                      ┃\n┠──┼──────────────────────────┼──┼───────────────────────────┨\n┃578 │관제사 팀내에 비표준적인 임무 할당                  │622 │항공기 식별 없음                                      ┃\n┃    │(Non-standard allocation of duties within the       │    │(No identification of aircraft)                       ┃\n┃    │controller team)                                    │    │                                                      ┃\n┠──┼──────────────────────────┼──┼───────────────────────────┨\n┃579 │새로운 정보를 확인하지 않았음(날씨 등)              │623 │후류요란 적용                                         ┃\n┃    │(New information not checked (weather, etc.))       │    │(Wake turbulence application)                         ┃\n┠──┼──────────────────────────┼──┼───────────────────────────┨\n┃580 │비상항공기/차량에 대해 합당한 우선순위를 주시 않음  │624 │부적절한 조종사 요청 수용                             ┃\n┃    │(Reasonable priority not given to emergency         │    │(Inappropriate accommodation of pilot request)        ┃\n┃    │flight/vehicle)                                     │    │                                                      ┃\n┠──┼──────────────────────────┼──┼───────────────────────────┨\n┃581 │항공기 이탈에 대한 미 조치                          │625 │부적절한 관제사 요청 수용                             ┃\n┃    │(Failure to act on aircraft deviation)              │    │(Inappropriate accommodation of controller request)   ┃\n┠──┼──────────────────────────┼──┼───────────────────────────┨\n┃582 │예측 실수                                           │626 │유도항공기가 없는 항공기에 대한 최저유도고도 발부     ┃\n┃    │(Estimate error)                                    │    │(Minimum vectoring altitude issued to aircraft not    ┃\n┃    │                                                    │    │on vectors)                                           ┃\n┠──┼──────────────────────────┼──┼───────────────────────────┨\n┃583 │부적절한 수색구조 대응                              │627 │레이더 업무가 종료되지 않음                           ┃\n┃    │(Inappropriate search and rescue response)          │    │(Radar services not terminated)                       ┃\n┠──┼──────────────────────────┼──┼───────────────────────────┨\n┃611 │협조 지체                                           │628 │착륙허가 발부 지체/미 발부                            ┃\n┃    │(Late coordination)                                 │    │(Late/no issuance of landing clearance)               ┃\n┠──┼──────────────────────────┼──┼───────────────────────────┨\n┃612 │협조 안함                                           │629 │레이더 유도의 사유를 제시하지 않음                    ┃\n┃    │(No coordination)                                   │    │(Reasons for vectoring not given)                     ┃\n┠──┼──────────────────────────┼──┼───────────────────────────┨\n┃613 │무응답 호출에 대한 미응대                           │630 │정보를 항공기에 전달하지 않음(교통, 지형 등)          ┃\n┃    │(Failure to respond to unanswered call)             │    │(Did not pass information (traffic, terrain, etc.) to ┃\n┃    │                                                    │    │aircraft)                                             ┃\n┠──┼──────────────────────────┼──┼───────────────────────────┨\n┃614 │잘못된 섹터와의 협조                                │631 │협조과정에서 불완전/부정확한 정보를 제공              ┃\n┃    │(Coordination with wrong sector)                    │    │(Incomplete/incorrect information given during        ┃\n┃    │                                                    │    │coordination)                                         ┃\n┠──┼──────────────────────────┼──┼───────────────────────────┨\n┃615 │충돌확인 안함                                       │639 │기타 절차적 결함                                      ┃\n┃    │(No conflict check)                                 │    │(Other procedural error)                              ┃\n┠──┼──────────────────────────┼──┼───────────────────────────┨\n┃616 │활주로에 대한 육안 스캔 없음                        │    │                                                      ┃\n┃    │(No visual scan of RWY)                             │    │                                                      ┃\n┗━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃항공기 지시 오류(Aircraft instruction errors)                                                     ┃\n┣━━┯━━━━━━━━━━━━━━━━━━━━━┯━━┯━━━━━━━━━━━━━━━━━━━━━┫\n┃641 │항공기에 부정확한 정보 전달               │647 │트랜스폰더/고도계 지시 실수               ┃\n┃    │(Incorrect information passed to aircraft)│    │(Transponder/altimeter instruction error) ┃\n┠──┼─────────────────────┼──┼─────────────────────┨\n┃642 │부정확한 주파수 발급                      │648 │방향 지시 실수                            ┃\n┃    │(Incorrect frequency issued)              │    │(Heading instruction error)               ┃\n┠──┼─────────────────────┼──┼─────────────────────┨\n┃643 │늦은 강하                                 │649 │체공 지시 실수                            ┃\n┃    │(Late descent)                            │    │(Hold instruction error)                  ┃\n┠──┼─────────────────────┼──┼─────────────────────┨\n┃644 │늦은 변경                                 │650 │허가 지시 실수                            ┃\n┃    │(Late change)                             │    │(Clearance instruction error)             ┃\n┠──┼─────────────────────┼──┼─────────────────────┨\n┃645 │고도 지시 실수                            │651 │유도 지시 실수                            ┃\n┃    │(Altitude instruction error)              │    │(Taxi instruction error)                  ┃\n┠──┼─────────────────────┼──┼─────────────────────┨\n┃646 │속도 지시 실수                            │659 │기타 항공기 지시 실수                     ┃\n┃    │(Speed instruction error)                 │    │(Other aircraft instruction error)        ┃\n┗━━┷━━━━━━━━━━━━━━━━━━━━━┷━━┷━━━━━━━━━━━━━━━━━━━━━┛\n3. 원하지 않는 상황(Undesired states)\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃원하지 않는 교통상황(Traffic undesired states)                                                                          ┃\n┣━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃901 │비 인가된 서비스 제공                                 │912 │제한공역이 보호되지 않음                            ┃\n┃    │(Unauthorized provision of services)                  │    │(Restricted airspace not protected)                 ┃\n┠──┼───────────────────────────┼──┼──────────────────────────┨\n┃902 │분리확보에 대한 확인 부족                             │913 │유도로상에서 분리확보에 대한 확인 부족              ┃\n┃    │(Lack of separation assurance)                        │    │(Lack of separation assurance ? taxiways)          ┃\n┠──┼───────────────────────────┼──┼──────────────────────────┨\n┃903 │사전 협조 없이 다른 관제사 공역으로 항공기 진입       │914 │착륙허가 발부의 지체                                ┃\n┃    │(Uncoordinated movements in another controller’s     │    │(Very late issuance of landing clearance)           ┃\n┃    │airspace)                                             │    │                                                    ┃\n┠──┼───────────────────────────┼──┼──────────────────────────┨\n┃904 │협조한 내용과 다른 고도로 항공기의 상승/강하          │915 │항공기가 후류요란으로부터 보호 받지 못함            ┃\n┃    │(Aircraft climbing/descending to different            │    │(Aircraft not protected from wake turbulence)       ┃\n┃    │altitude/level than coordinated)                      │    │                                                    ┃\n┠──┼───────────────────────────┼──┼──────────────────────────┨\n┃905 │협조한 내용과 다른 고도로 항공기 비행                 │916 │항공기가 지시한 것과 다른 지점으로 지상활주         ┃\n┃    │(Aircraft at other altitude/level than coordinated)   │    │(Aircraft taxiing to point other than   instructed) ┃\n┠──┼───────────────────────────┼──┼──────────────────────────┨\n┃906 │협조한 내용과 다른 방향/트랙으로 항공기 비행          │917 │공역 통과                                           ┃\n┃    │(Aircraft at other heading/track than coordinated)    │    │(Airspace penetration)                              ┃\n┠──┼───────────────────────────┼──┼──────────────────────────┨\n┃907 │협조한 내용과 다른 속도로 항공기 비행                 │918 │항공기가 중요한 정보를 갖고 있지 않음               ┃\n┃    │(Aircraft at other speed than coordinated)            │    │(Aircraft not in possession of important            ┃\n┃    │                                                      │    │information)                                        ┃\n┠──┼───────────────────────────┼──┼──────────────────────────┨\n┃908 │활주로 진입대기 또는 진입/통과 등의 지시를 따르지     │919 │만료된 SAR 시간을 조사하지 않음                     ┃\n┃    │않고 활주로에 진입                                    │    │(Expired SAR time not investigated)                 ┃\n┃    │(Aircraft taxiing towards runway without instruction  │    │                                                    ┃\n┃    │to hold short or clearance to enter/cross the         │    │                                                    ┃\n┃    │runway)                                               │    │                                                    ┃\n┠──┼───────────────────────────┼──┼──────────────────────────┨\n┃909 │항공기가 관제기관과 교신이 이루어지지 않음            │920 │항공기에게 부정확한 정보를 제공                     ┃\n┃    │(Aircraft not in contact with ATC)                    │    │(Aircraft provided incorrect information)           ┃\n┠──┼───────────────────────────┼──┼──────────────────────────┨\n┃910 │둘 이상의 사용자가 동시에 활주로 점유하도록 허가를    │921 │잘못된 자료를 바탕으로 분리 기준을 적용됨           ┃\n┃    │받음 (Two (or more) users cleared to occupy a         │    │(Separation standards being applied based on        ┃\n┃    │runway at the same time)                              │    │faulty data)                                        ┃\n┠──┼───────────────────────────┼──┼──────────────────────────┨\n┃911 │둘 이상의 항공기가 동시에 같은 공간 지점(3D)에 위     │939 │기타 원하지 않는 교통상황                           ┃\n┃    │치하도록 허가를 받음                                  │    │(Other traffic undesired states)                    ┃\n┃    │(Two (or more) aircraft cleared to the same point in  │    │                                                    ┃\n┃    │space (3D) at the same time)                          │    │                                                    ┃\n┗━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃원하지 않는 근무 위치(Workspace position undesired states)                                                ┃\n┣━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━┯━━━━━━━━━━━━━━━━━━━━┫\n┃941 │교통상황에 대한 부정확한 표시                       │945 │전체 공역을 표시하지 않음               ┃\n┃    │(Inaccurate representation of traffic)              │    │(Entire airspace not displayed)         ┃\n┠──┼──────────────────────────┼──┼────────────────────┨\n┃942 │교통 상황을 장시간 감시하지 않음                    │946 │관제사 근무석 미 운영                   ┃\n┃    │(Traffic display not being monitored for prolonged  │    │(Controller position not opened)        ┃\n┃    │period of time)                                     │    │                                        ┃\n┠──┼──────────────────────────┼──┼────────────────────┨\n┃943 │주파수를 모니터 하지 않음                           │959 │기타 원하지 않는 관제위치               ┃\n┃    │(Frequency not being monitored)                     │    │(Other control position undesired state)┃\n┠──┼──────────────────────────┼──┼────────────────────┨\n┃944 │잘못된 장비를 사용함                                │    │                                        ┃\n┃    │(Faulty equipment being used)                       │    │                                        ┃\n┗━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━┷━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261142&bylNo=0005&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154019841",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154019827",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154019841",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#BYL0005",
+      "filename": "별표5_TEM 코드북.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "관찰보고서",
+      "enforcement_date": "",
+      "content": "[별지 제1호서식]                                                    (제1면)\n관찰보고서\n(보고서 번호: yyyy-000)\n\n관찰자 정보\n┌────────┬────────┬────────────────┬──────────┐\n│관찰자 ID       │                │이 관제시설을 몇 번 관찰했는가? │                    │\n├────────┴────────┴────────────────┼──────────┤\n│이번 관찰 전에 전체적으로 몇 번의 관찰을 실시하였는가?              │                    │\n└──────────────────────────────────┴──────────┘\n\n\n관찰 통계\n┌────────┬─────────────┬───────┬──────────────┐\n│관제시설 명칭   │                          │관찰 근무석   │                            │\n├────────┼─────────────┼───────┼──────────────┤\n│관찰시작 시각   │                     (UTC)│관찰종료 시각 │                  (UTC)     │\n│(HH:MM)         │                          │(HH:MM)       │                            │\n└────────┴─────────────┴───────┴──────────────┘\n\n\n관찰시작 당시의 교통상황\n┌──────┬──────────────────────────────────────┐\n│서술기법    │내용은 육하원칙에 따라 작성한다. 관찰시작 시점의 교통상황, 관제장비         │\n│            │상태, 기상상황 등을 기술한다. 당시 교통흐름과 복잡성에 대해 묘사한다.       │\n├──────┴──────────────────────────────────────┤\n│                                                                                          │\n└─────────────────────────────────────────────┘\n[210mm×297mm[일반용지 60g/㎡(재활용품)]\n\n(제2면)\n\n관찰내용\n┌─────┬───────────────────────────────────────┐\n│서술기법  │내용은 육하원칙에 따라 작성한다. 관찰과정에서 교통흐름이 어떻게 변화          │\n│          │하는지를 설명한다. 어떤 문제를 처리해야 했는가? 관제사/팀이 위협, 오류        │\n│          │및 원하지 않는 상황을 어떻게 처리했는가?                                      │\n├─────┴───────────────────────────────────────┤\n│                                                                                          │\n└─────────────────────────────────────────────┘\n근무석 교대\n┌────┬────────────────────────────────────────┐\n│서술기법│내용은 육하원칙에 따라 작성한다. 관제사는 인수인계 준비를 어떻게 했는           │\n│        │가? 관제사는 헤드셋을 뽑은 후에도 섹터 근처에 머물러 있었는가? 교대             │\n│        │전에 관련 자료를 검토하였는가? 브리핑 중 안전문제 관련사항을 다루었             │\n│        │는가? 관제사는 교통상황에 어떤 방식으로 적응하였는가?                           │\n├────┴──┬────────┬──────────────┬─────────────┤\n│브리핑 ＃1    │브리핑 시간 기록│ (시작)            (UTC)    │ (종료)            (UTC)  │\n├───────┴────────┴──────────────┴─────────────┤\n│                                                                                          │\n├───────┬─────────┬──────────────┬────────────┤\n│브리핑 ＃2    │브리핑 시간 기록  │ (시작)            (UTC)    │ (종료)            (UTC)│\n├───────┴─────────┴──────────────┴────────────┤\n│                                                                                          │\n└─────────────────────────────────────────────┘\n(제3면)\n\n모범 사례(Best practices)\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃관찰하는 동안 관제사가 특별히 모범적으로 조치한 사항이 있었는가?                          ┃\n┠─────────────────────────────────────────────┨\n┃                                                                                          ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n\n전체적으로 느낀점\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃자신이 관찰한 것에 대한 느낌과 자료 검증그룹이 참작해야 된다고 생각하는 문제를            ┃\n┃기록한다. (예: 해당 코드가 없는 위협이나 오류)                                            ┃\n┠─────────────────────────────────────────────┨\n┃                                                                                          ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n(제4면)\n위협(T) 관리 워크시트\n┏━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━┓\n┃구분│위협 설명                                                                       │위협 관리     ┃\n┠──┼─────┬───────┬─────┬───────────┬────────┼───────┨\n┃T   │위협에    │위협 코드     │시간(UTC) │근무석 교대 또는      │위협 결과       │관제사는      ┃\n┃ID  │대한 설명 │(코드북 참조) │(HH:MM)   │업무시작/종료와 연결? │                │위협을 어떻게 ┃\n┃    │          │              │          │                      │                │관리하였는가? ┃\n┣━━┿━━━━━┿━━━━━━━┿━━━━━┿━━━━━━━━━━━┿━━━━━━━━┿━━━━━━━┫\n┃T1  │          │              │          │                      │                │              ┃\n┠──┼─────┼───────┼─────┼───────────┼────────┼───────┨\n┃T2  │          │              │          │                      │                │              ┃\n┠──┼─────┼───────┼─────┼───────────┼────────┼───────┨\n┃비고│          │              │          │1. 연결 없음          │ 1. 결과 없음   │              ┃\n┃    │          │              │          │2. 근무석 교대        │ 2. 실수로 연결 │              ┃\n┃    │          │              │          │3. 업무시작           │                │              ┃\n┃    │          │              │          │4. 종료               │                │              ┃\n┗━━┷━━━━━┷━━━━━━━┷━━━━━┷━━━━━━━━━━━┷━━━━━━━━┷━━━━━━━┛\n오류(E) 관리 워크시트\n┏━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━┯━━━━━━━┓\n┃구분│오류 설명                                               │오류 결과                               │오류 관리     ┃\n┠──┼──────┬───────┬─────┬───────┼──────────┬─────────┼───────┨\n┃E   │관제사      │오류 코드     │시간(UTC) │근무석 교대   │누가 오류를         │오류 결과         │관제사는      ┃\n┃ID  │오류에 대한 │(코드북 참조) │(HH:MM)   │또는 업무시작 │탐지했는가?         │                  │오류를 어떻게 ┃\n┃    │설명        │              │          │/종료와 연결? │                    │                  │관리했는가?   ┃\n┣━━┿━━━━━━┿━━━━━━━┿━━━━━┿━━━━━━━┿━━━━━━━━━━┿━━━━━━━━━┿━━━━━━━┫\n┃E1  │            │              │          │              │                    │                  │              ┃\n┠──┼──────┼───────┼─────┼───────┼──────────┼─────────┼───────┨\n┃E2  │            │              │          │              │                    │                  │              ┃\n┠──┼──────┼───────┼─────┼───────┼──────────┼─────────┼───────┨\n┃비고│            │              │          │1. 연결 없음  │1. 없음             │1. 결과 없음      │              ┃\n┃    │            │              │          │2. 근무석 교대│2. 레이더           │2. 추가 오류      │              ┃\n┃    │            │              │          │3. 업무시작   │3. 비행 자료        │3. 바로 US로 연결 │              ┃\n┃    │            │              │          │4. 종료       │4. 슈퍼바이저       │                  │              ┃\n┃    │            │              │          │              │5. 섹터 밖의 관제사 │                  │              ┃\n┃    │            │              │          │              │6. 조종사           │                  │              ┃\n┃    │            │              │          │              │7. 자동화 시스템    │                  │              ┃\n┃    │            │              │          │              │8. 기타             │                  │              ┃\n┗━━┷━━━━━━┷━━━━━━━┷━━━━━┷━━━━━━━┷━━━━━━━━━━┷━━━━━━━━━┷━━━━━━━┛\n원하지 않는 상황(US) 관리 워크시트\n┏━━┯━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━┯━━━━━━━━━┓\n┃구분│원하지 않는 상황 설명                             │원하지 않는 상황 대응/결과        │원하지 않는 상황  ┃\n┃    │                                                  │                                  │관리              ┃\n┠──┼────────┬───────┬─────┬──┼──────────┬──────┼─────────┨\n┃US  │원하지 않는     │원하지 않는   │시간(UTC) │오류│누가 원하지         │원하지 않는 │관제사는 원하지   ┃\n┃ID  │상황에 대한 설명│상황 코드     │(HH:MM)   │연결│않는 상황을         │상황 결과   │않는 상황을       ┃\n┃    │                │(코드북 참조) │          │    │탐지했는가?         │            │어떻게            ┃\n┃    │                │              │          │    │                    │            │관리하였는가?     ┃\n┣━━┿━━━━━━━━┿━━━━━━━┿━━━━━┿━━┿━━━━━━━━━━┿━━━━━━┿━━━━━━━━━┫\n┃US1 │                │              │          │    │                    │            │                  ┃\n┠──┼────────┼───────┼─────┼──┼──────────┼──────┼─────────┨\n┃US2 │                │              │          │    │                    │            │                  ┃\n┠──┼────────┼───────┼─────┼──┼──────────┼──────┼─────────┨\n┃비고│                │              │          │    │1. 없음             │1. 결과 없음│                  ┃\n┃    │                │              │          │    │2. 관찰된 관제사    │2. 추가 오류│                  ┃\n┃    │                │              │          │    │3. 비행 자료        │            │                  ┃\n┃    │                │              │          │    │4. 슈퍼바이저       │            │                  ┃\n┃    │                │              │          │    │5. 섹터 밖의 관제사 │            │                  ┃\n┃    │                │              │          │    │6. 조종사           │            │                  ┃\n┃    │                │              │          │    │7. 자동화 시스템    │            │                  ┃\n┃    │                │              │          │    │8. 기타             │            │                  ┃\n┗━━┷━━━━━━━━┷━━━━━━━┷━━━━━┷━━┷━━━━━━━━━━┷━━━━━━┷━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154019853",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154019843",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154019853",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#BJ0001",
+      "filename": "별지1_관찰보고서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "NOSS 자료 분석 보고서",
+      "enforcement_date": "",
+      "content": "[별지 제2호서식]\nNOSS 자료 분석 보고서\n┌─────┬────────────┬────┬┬────────┬────┐\n│자료분석자│(소속)           (성명) │분석기간││관련 관찰보고서 │2022-05 │\n└─────┴────────────┴────┴┴────────┴────┘\n1. 위협 (Threats)\n┌─────┬──────────────┬─────┬────┬───────────────┬─────────────────┐\n│TEM Code  │유형                        │발생 횟수 │후속영향│관제사 조치·관리             │자료분석자 의견                   │\n├─────┼──────────────┼─────┼────┼───────────────┼─────────────────┤\n│(예시) 321│공역 설계 (Airspace design) │12        │1       │훈련기 출발시간 제한사항 발부 │대구-김해-포항-사천 공역구조 개선 │\n├─────┼──────────────┼─────┼────┼───────────────┼─────────────────┤\n│          │                            │          │        │                              │                                  │\n├─────┼──────────────┼─────┼────┼───────────────┼─────────────────┤\n│          │                            │          │        │                              │                                  │\n├─────┼──────────────┼─────┼────┼───────────────┼─────────────────┤\n│          │                            │          │        │                              │                                  │\n├─────┼──────────────┼─────┼────┼───────────────┼─────────────────┤\n│          │                            │          │        │                              │                                  │\n├─────┼──────────────┼─────┼────┼───────────────┼─────────────────┤\n│          │                            │          │        │                              │                                  │\n└─────┴──────────────┴─────┴────┴───────────────┴─────────────────┘\n2. 오류 (Errors)\n┌─────┬─────────────┬─────┬────┬────────────────┬──────────────┐\n│TEM Code  │유형                      │발생 횟수 │후속영향│관제사 조치·관리               │자료분석자 의견             │\n├─────┼─────────────┼─────┼────┼────────────────┼──────────────┤\n│(예시) 646│속도 지시 실수            │4         │0       │감독관 조언, 관제지시 수정발부  │미숙련 관제사 역량 강화 필요│\n│          │(Speed instruction error) │          │        │                                │                            │\n├─────┼─────────────┼─────┼────┼────────────────┼──────────────┤\n│          │                          │          │        │                                │                            │\n├─────┼─────────────┼─────┼────┼────────────────┼──────────────┤\n│          │                          │          │        │                                │                            │\n├─────┼─────────────┼─────┼────┼────────────────┼──────────────┤\n│          │                          │          │        │                                │                            │\n├─────┼─────────────┼─────┼────┼────────────────┼──────────────┤\n│          │                          │          │        │                                │                            │\n├─────┼─────────────┼─────┼────┼────────────────┼──────────────┤\n│          │                          │          │        │                                │                            │\n└─────┴─────────────┴─────┴────┴────────────────┴──────────────┘\n3. 원하지 않는 상황 (Undesired States)\n┌─────┬───────────────┬──────────┬──────────────┬──────────────┐\n│TEM Code  │유형                          │발생 경로           │관제사 조치·관리           │자료분석자 의견             │\n├─────┼───────────────┼──────────┼──────────────┼──────────────┤\n│(예시) 902│분리확보에 대한 확인 부족     │위협 171 → 오류 620│감독관이 해당 항공기와      │안전 분리치 확보 등을 위한  │\n│          │(Lack of separation assurance)│                    │무선교신 하여 회피지시 발부 │관제사 교육훈련 강화 필요   │\n├─────┼───────────────┼──────────┼──────────────┼──────────────┤\n│          │                              │                    │                            │                            │\n├─────┼───────────────┼──────────┼──────────────┼──────────────┤\n│          │                              │                    │                            │                            │\n├─────┼───────────────┼──────────┼──────────────┼──────────────┤\n│          │                              │                    │                            │                            │\n├─────┼───────────────┼──────────┼──────────────┼──────────────┤\n│          │                              │                    │                            │                            │\n├─────┼───────────────┼──────────┼──────────────┼──────────────┤\n│          │                              │                    │                            │                            │\n└─────┴───────────────┴──────────┴──────────────┴──────────────┘\n4. 제안 및 종합의견\n┌───┬──────────┬────────────────────────────────────────────────┐\n│순번  │관련 유형           │          제안 및 종합의견          (※ 자료 분석결과를 토대로 최종보고서 작성 시 고려사항 포함)│\n├───┼──────────┼────────────────────────────────────────────────┤\n│1     │ □ 위협            │                                                                                                │\n│      │ □ 오류            │                                                                                                │\n│      │ □ 원하지 않는 상황│                                                                                                │\n├───┼──────────┼────────────────────────────────────────────────┤\n│2     │ □ 위협            │                                                                                                │\n│      │ □ 오류            │                                                                                                │\n│      │ □ 원하지 않는 상황│                                                                                                │\n├───┼──────────┼────────────────────────────────────────────────┤\n│3     │ □ 위협            │                                                                                                │\n│      │ □ 오류            │                                                                                                │\n│      │ □ 원하지 않는 상황│                                                                                                │\n├───┼──────────┼────────────────────────────────────────────────┤\n│4     │ □ 위협            │                                                                                                │\n│      │ □ 오류            │                                                                                                │\n│      │ □ 원하지 않는 상황│                                                                                                │\n├───┼──────────┼────────────────────────────────────────────────┤\n│5     │ □ 위협            │                                                                                                │\n│      │ □ 오류            │                                                                                                │\n│      │ □ 원하지 않는 상황│                                                                                                │\n└───┴──────────┴────────────────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154019861",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154019855",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154019861",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#BJ0002",
+      "filename": "별지2_NOSS 자료 분석 보고서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "조문별제개정이유서_정상운영 안전표본조사(NOSS) 요령.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=154019455",
+      "file_store_url": "",
+      "filename": "조문별제개정이유서_정상운영 안전표본조사(NOSS) 요령.pdf"
+    },
+    {
+      "name": "조문별제개정이유서_정상운영 안전표본조사(NOSS) 요령.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=154019451",
+      "file_store_url": "",
+      "filename": "조문별제개정이유서_정상운영 안전표본조사(NOSS) 요령.hwpx"
+    },
+    {
+      "name": "(개정전문) 정상운영 안전표본조사(NOSS) 요령 전부개정 전문.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=154019499",
+      "file_store_url": "",
+      "filename": "(개정전문) 정상운영 안전표본조사(NOSS) 요령 전부개정 전문.hwp"
+    },
+    {
+      "name": "(개정전문) 정상운영 안전표본조사(NOSS) 요령 전부개정 전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=154019503",
+      "file_store_url": "",
+      "filename": "(개정전문) 정상운영 안전표본조사(NOSS) 요령 전부개정 전문.pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 20,
+    "by_category": {
+      "행정규칙": 8,
+      "법령": 4,
+      "별표": 6,
+      "별지": 2
+    },
+    "by_relation_type": {
+      "citation": 11,
+      "appendix_ref": 8,
+      "internal_ref": 1
+    },
+    "articles_total": 25,
+    "articles_with_relations": 14,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 2,
+    "appendices_count": 7,
+    "attachments_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/정상운영 안전표본조사(NOSS) 요령"
+  },
+  "provision_id": "admrul:정상운영안전표본조사(NOSS)요령#DOC"
+}
