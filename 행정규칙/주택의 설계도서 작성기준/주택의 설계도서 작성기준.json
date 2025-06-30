@@ -1,0 +1,1048 @@
+{
+  "law_id": "2100000261138",
+  "mst": "2100000261138",
+  "law_name": "주택의 설계도서 작성기준",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000261138",
+  "promulgation_no": "2025-370",
+  "promulgation_date": "20250630",
+  "enforcement_date": "20250630",
+  "revision_date": "20250630",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국토교통부(주택건설운영과)",
+    "담당자명": "이은정",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "주택의 설계도서 작성기준",
+    "발령일자": "20250630",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국토교통부",
+    "전화번호": "044-201-3370",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1613000",
+    "생성일자": "20250701",
+    "행정규칙ID": "2002387",
+    "시행일자": "20250630",
+    "담당부서기관코드": "1613012",
+    "발령번호": "2025-370",
+    "행정규칙일련번호": "2100000261138",
+    "상위부처명": "국토교통부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정 이유\nㅇ ‘행정규칙상 장애인 비하 용어 정비방안(법제처)’에 따라 \"맹인용\"을 \"시각장애인용\"으로 장애인을 비하하는 용어를 정비하려는 것임\n◇ 주요내용\nㅇ 맹인용 → 시각장애인용(별표 2)",
+  "body": {
+    "format": "articles",
+    "article_count": 23,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장  총  칙",
+        "content": "제1조(목적) 이 기준은 공동주택의 자재 및 부품의 표준화를 유도하여 시공의 합리화를 도모하고 양질의 시설물을 건설하기 위한 설계도서 작성기준을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:주택의설계도서작성기준#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적용범위",
+        "chapter": "제1장  총  칙",
+        "content": "제2조(적용범위) 이 기준은 「주택법」(이하 \"법\" 이라 한다) 제33조제1항 및 같은 법 시행령(이하 \"시행령\" 이라 한다) 제43조제1항에 따라 주택을 설계하는 자가 주택단지의 주택 및 그 부대시설ㆍ복리시설의 설계도서를 작성하는데 적용한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제33조제1항",
+            "line_text": "",
+            "target_law_name": "주택법",
+            "target_article_no": "제33조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/주택법/제33조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주택의설계도서작성기준#JO0002",
+            "reference_id": "law:주택법#JO0033"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "주택법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/주택법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주택의설계도서작성기준#JO0002",
+            "reference_id": "law:주택법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제43조제1항",
+            "line_text": "",
+            "target_law_name": "주택법 시행령",
+            "target_article_no": "제43조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/주택법 시행령/제43조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주택의설계도서작성기준#JO0002",
+            "reference_id": "law:주택법시행령#JO0043"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:주택의설계도서작성기준#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "용어의 정의",
+        "chapter": "제1장  총  칙",
+        "content": "제3조(용어의 정의) 이 기준에 사용하는 용어의 정의는 다음과 같다.1. \"설계도서\"라 함은 설계도면ㆍ시방서ㆍ구조계산서ㆍ수량산출서 및 품질관리계획서를 말한다.2. \"구성재\"라 함은 치수가 명시된 형태로 제작된 건축재료로서 부품ㆍ형재ㆍ조립품 및 부재 등의 건축용 제작품을 말한다.3. \"구성재의 치수체계\"라 함은 구성재의 조합설계시 요구되는 치수체계로서 다음 각목에 해당하는 치수를 말한다.가. \"호칭치수\"라 함은 각 구성재의 영역을 의미하는 치수로서 기준면간의 거리를 말한다.나. \"제작치수\"라 함은 호칭치수에서 구성재 조합시 요구되는 틈을 제외한 치수로서 제작면 사이의 거리를 말하며 구성재의 목표치수가 된다.다. \"실제치수\"라 함은 실제로 제작된 구성재의 치수를 말하며 구성재의 결과치수가 된다.4. \"오차\"라 함은 실제치수와 제작치수의 차이를 말한다.5. \"공차\"라 함은 구성재의 제작과 현장 조립시 발생하는 허용오차의 한계로서 최대 허용치수와 최소 허용치수의 차이를 말하며 다음 각목의 규정에 의한 공차로 구분된다.가. \"제작공차\"라 함은 제작치수에 대한 실제치수의 과부족, 구성재 특성에 따른 변형, 면의 요철 등을 고려하여 구성재 제작시 미리 지정된 공차를 말한다.나. \"위치공차\"라 함은 먹줄치기 등의 현장작업에서 발생할 수 있는 오차를 고려하여 현장작업시 미리 지정한 공차를 말한다.6. \"틈\"이라 함은 구성재 기준면(호칭치수)과 제작면(제작치수)간의 치수로서 제작오차, 위치오차, 조립시공에 필요한 여유오차와 그 구성재의 특성에 의한 변형오차의 개념을 모두 포함한다.7. \"치수조정\"이라 함은 생산ㆍ설계 및 시공시 건축설계기준과의 정합성을 유지하기 위하여 구성재의 치수체계를 조정하는 것을 말한다.8. \"모듈정합\"이라 함은 건축설계 및 구성재의 치수체계를 모듈치수로 정합하는 것을 말한다.9. \"모듈\"이라 함은 모듈정합을 위한 치수의 단위기준을 말하는 것으로 다음 각목의 규정에 의한 모듈로 구분된다.가. \"기본모듈\"이라 함은 모듈정합에서 기본이 되는 단위로서 1M으로 표시하며 그 치수는 100밀리미터로 한다.나. \"증대모듈\"이라 함은 기본모듈의 정수배가 되는 모듈로서 3Mㆍ6Mㆍ9Mㆍ12Mㆍ15Mㆍ30M 및 60M을 말한다.다. \"보조모듈증분치\"라 함은 기본모듈을 정수로 나눈 모듈로서 기본모듈보다 작은 증분치수를 필요로 할 때 사용하며 M/2ㆍM/4 및 M/5을 말한다.10. \"우선치수\"라 함은 모듈정합을 목적으로 증대모듈 중에서 우선적으로 채택한 건축 구성재의 치수를 말한다.11. \"계획모듈\"이라 함은 건축계획시 기준이 되는 모듈로서 기본모듈의 증분치로 구성되는 모듈을 말하며, 구조계획모듈, 수평계획모듈과 수직계획모듈로 구분된다.12. \"모듈격자\"라 함은 모듈간격으로 설정된 격자를 말한다.13. \"격자\"라 함은 공간이나 평면에 일정한 치수로 설정된 가상선을 말하며 다음 각목의 규정에 의한 격자로 구분된다.가. \"단선격자\"라 함은 모듈격자의 간격이 단선으로 일정하게 설정되는 격자를 말한다.나. \"복선격자\"라 함은 모듈격자의 간격이 복선으로 설정되는 격자를 말하며 연속 복선격자와 불연속 복선격자로 구분된다.다. \"쌍줄격자\"라 함은 격자간격이 모듈대와 중립대로 구성되어 모듈대와 중립대가 통합되면 정수배의 모듈치수를 확보할 수 있는 격자를 말한다.라. \"중립대\"라 함은 준거체계속에서 규칙적인 모듈치수의 적용이 중단된 영역을 말한다.마. \"모듈대\"라 함은 모듈면 사이에 설정된 모듈공간을 말한다.바. \"모듈면\", \"모듈선\"이라 함은 건축모듈정합설계의 기준이 되는 면 및 선을 말한다.14. \"준거체계\"라 함은 공간을 구성하는 건축 구성재의 위치와 영역을 지정하는 기준점ㆍ기준선 및 기준면에 관한 체계를 말하며, 3차원의 공간을 의미하는 모듈공간격자와 2차원의 평면을 의미하는 모듈격자로 구분된다.15. \"기준면\"이라 함은 구조부위의 이론적 위치를 결정하는데 기준이 되는 면을 말한다.16. \"면잡기\"라 함은 준거체계에서 주요 부위의 개념적 위치를 결정하는 것을 말하는 것으로 다음 각목의 면잡기로 구분된다.가. \"안목기준면잡기\"라 함은 건축구성재로 구획되는 건축공간을 모듈치수로 확보하기 위한 기준면을 말한다.나. \"중심기준면잡기\"라 함은 공간을 구성하는 건축구성재의 중심간 거리를 모듈치수로 확보하기 위한 기준면을 말한다.17. \"최대한계치수\"라 함은 기준면과 제작면간에 접합이 가능한 최대 이격치수로서 앞서 시공되는 구성재의 기준면내에 설정된다.18. \"구조대\"라 함은 기둥의 주위에 설정되는 기준면사이의 영역으로서 기둥골조의 치수와 마감재 치수, 틈을 합한 영역을 말한다.19. \"층간대\"라 함은 천장하부 기준면에서 위층 슬래브 바닥마감기준면까지를 모듈로 설정한 치수로서 슬래브두께ㆍ보 높이 및 마감두께 기타 건축설비에 필요한 공간을 포함한다.20. \"천장대\"라 함은 천장하부 기준면에서부터 위층 슬래브 상부 제작면까지의 모듈로 설정한 치수로서 슬래브 두께 및 보높이, 기타 건축설비 등에 필요한 공간을 포함한다.② 제1항에서 규정하지 아니한 건축모듈정합에 관한 용어의 정의는 한국산업규격 KSF 1503(건축모듈정합원칙 및 기준) KSF 1508(건축모듈정합관련 용어)을 준용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:주택의설계도서작성기준#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "설계도서의 제출",
+        "chapter": "제1장  총  칙",
+        "content": "제4조(설계도서의 제출) ① 법 제15조제1항에 따라 주택건설사업계획승인을 얻고자 하는 자가 주택건설사업계획승인을 신청하는 때에는 별표 1의 기본설계도면을, 법 제16조제2항에 따라 착공신고를 하는 때에는 별표 2의 실시설계도면 및 시행령 제43조제1항제1호에서 정하는 시방서ㆍ구조계산서ㆍ수량산출서 및 품질관리계획서를 사업계획승인권자에게 각각 제출하여야 한다.② 제1항의 규정에 불구하고 건축법령에 따라 표준설계도서로 건설하고자 하는 경우에는 건축법시행규칙 제6조제1항에 따른 설계도서를, 주택법령에 따라 표본설계도서로 건설하고자 하는 경우에는 시행령 제29조에 따른 설계도서를 제출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "제15조제1항",
+            "line_text": "",
+            "target_law_name": "주택법",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/주택법/제15조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주택의설계도서작성기준#JO0004",
+            "reference_id": "law:주택법#JO0015"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "주택의 설계도서 작성기준",
+            "target_article_no": "별표1",
+            "target_article_title": "기본설계도면 작성내용",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261138&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주택의설계도서작성기준#JO0004",
+            "reference_id": "admrul:주택의설계도서작성기준#BYL0001"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "제16조제2항",
+            "line_text": "",
+            "target_law_name": "주택법",
+            "target_article_no": "제16조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/주택법/제16조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주택의설계도서작성기준#JO0004",
+            "reference_id": "law:주택법#JO0016"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "주택의 설계도서 작성기준",
+            "target_article_no": "별표2",
+            "target_article_title": "실시설계도면 작성내용",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261138&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주택의설계도서작성기준#JO0004",
+            "reference_id": "admrul:주택의설계도서작성기준#BYL0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "시행령",
+            "line_text": "",
+            "target_law_name": "주택법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/주택법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주택의설계도서작성기준#JO0004",
+            "reference_id": "law:주택법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "제43조제1항제1호",
+            "line_text": "",
+            "target_law_name": "주택법 시행령",
+            "target_article_no": "제43조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/주택법 시행령/제43조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주택의설계도서작성기준#JO0004",
+            "reference_id": "law:주택법시행령#JO0043"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "제6조제1항",
+            "line_text": "",
+            "target_law_name": "건축법시행규칙",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건축법시행규칙/제6조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:주택의설계도서작성기준#JO0004",
+            "reference_id": "law:건축법시행규칙#JO0006"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "시행령",
+            "line_text": "",
+            "target_law_name": "주택법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/주택법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주택의설계도서작성기준#JO0004",
+            "reference_id": "law:주택법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "제29조",
+            "line_text": "",
+            "target_law_name": "주택법 시행령",
+            "target_article_no": "제29조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/주택법 시행령/제29조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주택의설계도서작성기준#JO0004",
+            "reference_id": "law:주택법시행령#JO0029"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:주택의설계도서작성기준#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "설계도서의 작성 등",
+        "chapter": "제1장  총  칙",
+        "content": "제5조(설계도서의 작성 등) ① 설계도면은 기본설계도면과 실시설계도면으로 구분하여 작성한다.② 제1항의 규정에 의한 기본설계도면 및 실시설계도면의 종류와 축적 및 작성내용은 별표 1 및 별표 2와 같다.③ 건축물에 사용하는 건축재료는 품명 및 규격 등을 설계도면에 표기하여야 한다. 다만, 설계도면에 표기할 수 없는 재료의 성능 및 재질 등에 관한 사항은 시방서에 표기할 수 있다.④ 제3항의 규정에 의하여 표기하는 건축재료의 규격은 산업표준화법에 의한 한국산업규격을 적용하는 것을 원칙으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "주택의 설계도서 작성기준",
+            "target_article_no": "별표1",
+            "target_article_title": "기본설계도면 작성내용",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261138&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주택의설계도서작성기준#JO0005",
+            "reference_id": "admrul:주택의설계도서작성기준#BYL0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "주택의 설계도서 작성기준",
+            "target_article_no": "별표2",
+            "target_article_title": "실시설계도면 작성내용",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261138&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주택의설계도서작성기준#JO0005",
+            "reference_id": "admrul:주택의설계도서작성기준#BYL0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:주택의설계도서작성기준#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "시방서",
+        "chapter": "제1장  총  칙",
+        "content": "제6조(시방서) ① 시방서에는 당해 공사의 수행을 위한 재료ㆍ공법ㆍ시험 및 검사 등에 관한 사항을 기술하여야 한다.② 시방서는 당해 공사의 특수성ㆍ지역여건ㆍ층수 및 공사방법 등을 고려하여 공사별ㆍ공종별로 작성하며, 표준시방서의 내용을 인용하는 경우에는 그 인용내용을 상세히 기술하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:주택의설계도서작성기준#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "구조계산서",
+        "chapter": "제1장  총  칙",
+        "content": "제7조(구조계산서) ① 구조계산서는 건축법 제48조 및 동법시행령 제32조의 규정에 적합하게 작성하여야 한다.② 제1항의 규정에 의한 구조계산서를 작성하는 때에는 당해 주택단지에 대한 지질조사를 실시하고 그 결과를 첨부하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "제48조",
+            "line_text": "",
+            "target_law_name": "건축법",
+            "target_article_no": "제48조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건축법/제48조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:주택의설계도서작성기준#JO0007",
+            "reference_id": "law:건축법#JO0048"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:주택의설계도서작성기준#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "흙막이등 도서",
+        "chapter": "제1장  총  칙",
+        "content": "제8조(흙막이등 도서) 지하층의 설치 등을 위하여 토지를 굴착하는 경우에는 지하흙막이등 경사면 안정공법에 관한 설계도면 및 시방서를 작성하여 착공신고시에 제출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:주택의설계도서작성기준#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "수량산출조서 작성",
+        "chapter": "제1장  총  칙",
+        "content": "제9조(수량산출조서 작성) 설계도서를 작성ㆍ완료한 후에는 공종별로 재료의 수량산출서를 작성하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:주택의설계도서작성기준#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "설계도서의 해석",
+        "chapter": "제1장  총  칙",
+        "content": "제10조(설계도서의 해석) ① 설계도서의 내용이 서로 일치하지 아니하는 경우에는 관계법령의 규정에 적합한 범위내에서 감리자의 지시에 따라야 하며, 그 내용이 설계상 주요한 사항인 경우에 감리자는 설계자와 협의하여 지시내용을 결정하여야 한다.② 제1항의 경우로서 감리자 및 설계자의 해석이 곤란한 경우에는 당해 공사계약의 내용에 따라 적용의 우선순위등을 결정하여야 하며, 계약으로 그 적용의 우선순위를 정하지 아니한 경우에는 다음의 순서를 원칙으로 한다.1. 특별시방서2. 설계도면3. 일반시방서ㆍ표준시방서4. 수량산출서5. 승인된 시공도면",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:주택의설계도서작성기준#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "품질관리계획서 작성",
+        "chapter": "제1장  총  칙",
+        "content": "제11조(품질관리계획서 작성) 품질관리계획서는 건설기술진흥법 제55조에 적합하게 품질관리계획 또는 품질시험계획을 수립 작성하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "제55조",
+            "line_text": "",
+            "target_law_name": "건설기술진흥법",
+            "target_article_no": "제55조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건설기술진흥법/제55조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:주택의설계도서작성기준#JO0011",
+            "reference_id": "law:건설기술진흥법#JO0055"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:주택의설계도서작성기준#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "건축제도 통칙의 적용",
+        "chapter": "제1장  총  칙",
+        "content": "제12조(건축제도 통칙의 적용) 이 기준에서 규정한 사항 외에 설계도서의 작성에 필요한 사항은 한국산업규격 KSF 1501이 정하는 바에 따른다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:주택의설계도서작성기준#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "적용범위",
+        "chapter": "제2장 철근콘크리트벽식 공동주택의 표준화 설계기준",
+        "content": "제13조(적용범위) 이 장의 규정은 습식공법으로 건설하는 철근콘크리트조 벽식 공동주택(이하 \"벽식 공동주택\"이라 한다)의 설계에 대하여 적용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:주택의설계도서작성기준#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "설계방법",
+        "chapter": "제2장 철근콘크리트벽식 공동주택의 표준화 설계기준",
+        "content": "제14조(설계방법) ① 벽식 공동주택의 설계도면은 안목치수 설계방법을 적용하는 것을 원칙으로 한다. 다만, 발코니ㆍ복도ㆍ계단 등 제15조제2항각호의 규정에 해당하는 경우에는 중심선치수 설계방법을 적용할 수 있다.② 제1항의 규정에 의한 설계도면의 격자체계는 불연속 복선격자를 적용하는 것을 원칙으로 한다.③ 공동주택 세대 내부의 주요간수에 따른 안목치수 확보방법은 별표 3의 예시와 같다.④ 안목치수 설계시 설계도면의 도면표기는 별표 4에서 정하는 기호를 사용하여야 한다, 다만, 이에 규정되지 아니한 기호는 중심선치수 설계시에 사용하는 기호를 사용할 수 있다.⑤ 제4항의 규정에 의한 도면표기방법의 세부작성은 별표 5의 예시와 같다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제1항",
+            "link_text": "제15조제2항",
+            "line_text": "",
+            "target_law_name": "주택법",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/주택법/제15조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:주택의설계도서작성기준#JO0014",
+            "reference_id": "law:주택법#JO0015"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제3항",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "주택의 설계도서 작성기준",
+            "target_article_no": "별표3",
+            "target_article_title": "주요 간수에 따른 안목치수 확보방법(예시)",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261138&bylNo=0003&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주택의설계도서작성기준#JO0014",
+            "reference_id": "admrul:주택의설계도서작성기준#BYL0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제4항",
+            "link_text": "별표 4",
+            "line_text": "",
+            "target_law_name": "주택의 설계도서 작성기준",
+            "target_article_no": "별표4",
+            "target_article_title": "도면표시방법",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261138&bylNo=0004&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주택의설계도서작성기준#JO0014",
+            "reference_id": "admrul:주택의설계도서작성기준#BYL0004"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제5항",
+            "link_text": "별표 5",
+            "line_text": "",
+            "target_law_name": "주택의 설계도서 작성기준",
+            "target_article_no": "별표5",
+            "target_article_title": "도면표기의 세부작성 방법",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261138&bylNo=0005&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주택의설계도서작성기준#JO0014",
+            "reference_id": "admrul:주택의설계도서작성기준#BYL0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:주택의설계도서작성기준#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "수평계획모듈",
+        "chapter": "제2장 철근콘크리트벽식 공동주택의 표준화 설계기준",
+        "content": "제15조(수평계획모듈) ① 공동주택의 거실 및 침실의 각변의 치수는 안목치수 M/2의 증분치를 적용하는 것을 원칙으로 한다.② 다음 각호의 1에 해당하는 구성실 각변의 치수는 안목치수 M/2의 증분치를 적용하는 것을 원칙으로 한다. 다만, 평면 구성상 부득이한 경우에는 보조모듈 증분치를 우선적으로 적용할 수 있다.1. 부엌ㆍ식당ㆍ욕실 및 화장실의 각변의 치수2. 복도ㆍ계단ㆍ계단참 및 발코니의 너비3. 현관ㆍ창고 및 다용도실의 각변의 치수4. 온실ㆍ수납공간 등 기타 공간의 각변의 치수",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:주택의설계도서작성기준#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "수직계획모듈",
+        "chapter": "제2장 철근콘크리트벽식 공동주택의 표준화 설계기준",
+        "content": "제16조(수직계획모듈) ① 수직계획모듈은 M/2의 증분치를 적용하는 것을 원칙으로 한다.② 층높이는 구성자재의 규격화와 주택건설의 생산성 향상을 고려하여 정하되 다음 각호의 1의 기준에 적합하여야 한다.1. 아래층 슬래브바닥 상부기준면에서 위층 슬래브바닥 상부기준면까지의 높이는 2.6미터 이상으로 M/2의 증분치2. 아래층 슬래브바닥 상부기준면에서 위층 슬래브바닥 하부기준면까지의 높이는 2.5미터 이상으로 M/2의 증분치3. 아래층 온돌층 상부기준면에서 위층 슬래브바닥 하부기준면까지의 높이는 2.4미터 이상으로 M/2의 증분치③ 거실 및 침실의 반자높이는 2.2미터 이상으로 M/2의 증분치를 적용하는 것을 원칙으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:주택의설계도서작성기준#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "면잡기 및 기준면의 설정원칙",
+        "chapter": "제2장 철근콘크리트벽식 공동주택의 표준화 설계기준",
+        "content": "제17조(면잡기 및 기준면의 설정원칙) ① 면잡기는 안목기준면잡기를 적용하는 것을 원칙으로 한다.② 제1항의 규정에 의한 안목기준면은 구조체의 두께ㆍ마감두께ㆍ허용오차 및 보정치수의 합이 M/10의 정수배가 되도록 설정하는 것을 원칙으로 한다.③ 제2항의 규정에 의한 보정치수는 구조체의 두께ㆍ마감두께ㆍ허용오차의 합이 M/10의 정수배가 되지 아니할 경우에만 M/10의 정수배가 되도록 하는 보조치수로 사용하여야 하며, 마감두께에는 벽지바름층의 두께 등 미세한 치수를 포함하지 아니한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:주택의설계도서작성기준#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "세부기준에 대한 매뉴얼의 제작ㆍ활용",
+        "chapter": "제2장 철근콘크리트벽식 공동주택의 표준화 설계기준",
+        "content": "제18조(세부기준에 대한 매뉴얼의 제작ㆍ활용) 이 기준의 시행에 필요한 주요구성재의 조립기준면설정 등 세부기준에 대하여는 건축사법 제31조의 규정에 의하여 설립된 건축사협회장이 제작한 매뉴얼을 활용할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제18조",
+            "source_clause": "제18조",
+            "link_text": "제31조",
+            "line_text": "",
+            "target_law_name": "건축사법",
+            "target_article_no": "제31조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건축사법/제31조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:주택의설계도서작성기준#JO0018",
+            "reference_id": "law:건축사법#JO0031"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:주택의설계도서작성기준#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "적용범위",
+        "chapter": "제3장 라멘조 및 철골조 공동주택의 표준화설계기준",
+        "content": "제19조(적용범위) 이 장의 규정은 건축물의구조내력에관한기준에서 규정하는 철골구조, 철근콘크리트라멘구조, 철골철근콘크리트구조로 건설되는 공동주택의 설계에 대하여 적용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:주택의설계도서작성기준#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "구조계획모듈 및 수평계획모듈",
+        "chapter": "제3장 라멘조 및 철골조 공동주택의 표준화설계기준",
+        "content": "제20조(구조계획모듈 및 수평계획모듈) ① 구조계획모듈 및 수평계획모듈은 다음 각호의 규정을 원칙으로 한다.1. 기둥 중심간의 치수는 6M의 증분치로 하며, 보조적으로 3M의 증분치도 사용할 수 있다.2. 구성실 각변의 수평계획모듈격자간 치수는 M/2의 증분치로 한다.② 제1항의 규정에 의한 스팬치수의 설정방법은 별표 6의 예시와 같다",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제2항",
+            "link_text": "별표 6",
+            "line_text": "",
+            "target_law_name": "주택의 설계도서 작성기준",
+            "target_article_no": "별표6",
+            "target_article_title": "구조계획 및 수평계획모듈 등 설정방법(제20조 관련)",
+            "appendix_no": "6",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261138&bylNo=0006&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주택의설계도서작성기준#JO0020",
+            "reference_id": "admrul:주택의설계도서작성기준#BYL0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:주택의설계도서작성기준#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "수직계획모듈",
+        "chapter": "제3장 라멘조 및 철골조 공동주택의 표준화설계기준",
+        "content": "제21조(수직계획모듈) ① 수직계획모듈은 다음 각호의 1의 기준을 원칙으로 한다.1. 층높이는 아래층 바닥마감 상부기준면에서 위층 바닥마감 상부기준면까지를 2.7미터 이상으로 하여 이상으로 하고 M/2의 증분치를 적용2. 천장높이는 바닥마감 상부기준면에서 천장의 하부기준면까지를 2.2미터 이상으로 하고 M/2의 증분치를 적용② 보밑 기준면의 최저기준높이는 바닥마감 상부기준면에서 보밑 하부기준면까지 2.1미터이상을 원칙으로 한다.③ 창문대의 높이는 바닥마감 상부기준면으로부터 개구부의 하부기준면까지로 M/2의 증분치를 적용하는 것을 원칙으로 한다.③ 제1항 및 제3항의 규정에 의한 면잡기 및 기준면설정방법은 별표7의 예시와 같다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제21조",
+            "source_clause": "제21조제3항",
+            "link_text": "별표7",
+            "line_text": "",
+            "target_law_name": "주택의 설계도서 작성기준",
+            "target_article_no": "별표7",
+            "target_article_title": "수직계획모듈 및 창문대기준면 설정방법(제21조 관련)",
+            "appendix_no": "7",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261138&bylNo=0007&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주택의설계도서작성기준#JO0021",
+            "reference_id": "admrul:주택의설계도서작성기준#BYL0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:주택의설계도서작성기준#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "세부기준에 대한 매뉴얼의 제작ㆍ활용",
+        "chapter": "제3장 라멘조 및 철골조 공동주택의 표준화설계기준",
+        "content": "제22조(세부기준에 대한 매뉴얼의 제작ㆍ활용) 이 기준의 시행에 필요한 주요구성재의 조립기준면설정 등 세부기준에 대하여는 건축사법 제31조의 규정에 의하여 설립된 건축사협회장이 제작한 매뉴얼을 활용할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제22조",
+            "source_clause": "제22조",
+            "link_text": "제31조",
+            "line_text": "",
+            "target_law_name": "건축사법",
+            "target_article_no": "제31조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/건축사법/제31조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:주택의설계도서작성기준#JO0022",
+            "reference_id": "law:건축사법#JO0031"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:주택의설계도서작성기준#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "재검토기한",
+        "chapter": "제4장 행정사항",
+        "content": "제23조(재검토기한) 국토교통부장관은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령 훈령 334호)에 따라 이 고시에 대하여 2019년 1월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제23조",
+            "source_clause": "제23조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:주택의설계도서작성기준#JO0023",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:주택의설계도서작성기준#JO0023"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20020528",
+      "promulgation_no": "2002-99",
+      "content": "부칙 <제2002-99호,2002. 5. 28.>제1조(시행일) 이 기준은 2002년 12월 1일이후 사업계획승인신청분부터 적용한다."
+    },
+    {
+      "promulgation_date": "20081217",
+      "promulgation_no": "2008-776",
+      "content": "부칙 <제2008-776호,2008. 12. 17.>제1조(시행일) 이 기준은 시행 후 최초로 주택법 제16조에 따른 사업계획승인을 신청하는 분부터 적용한다."
+    },
+    {
+      "promulgation_date": "20090824",
+      "promulgation_no": "2009-654",
+      "content": "부칙 <제2009-654호,2009. 8. 24.>이 기준은 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20120820",
+      "promulgation_no": "2012-533",
+      "content": "부칙 (사이버견본주택 운용기준 등 23개 국토해양부 고시 일부개정령) <제2012-533호,2012. 8. 20.>제1조(시행일) 이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20140918",
+      "promulgation_no": "2014-540",
+      "content": "부칙 <제2014-540호,2014. 9. 18.>이 기준은 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20150526",
+      "promulgation_no": "2015-322",
+      "content": "부칙 (규제 재검토기한 연장을 위한 주택단지 분할 건설ㆍ공급절차 및 방법에 관한 기준 등 일부개정령) <제2015-322호,2015. 5. 26.>이 기준은 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20161101",
+      "promulgation_no": "2016-721",
+      "content": "부칙 <제2016-721호,2016. 11. 1.>이 고시는 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20180831",
+      "promulgation_no": "2018-540",
+      "content": "부칙 <제2018-540호,2018. 8. 31.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20220620",
+      "promulgation_no": "2022-329",
+      "content": "부칙 <제2022-329호, 2022. 6. 20.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.제2조(적용례) 별표 1의 제5호, 별표 2의 제4호의 개정규정은 이 고시 시행 후 최초로 주택법 제15조제1항 또는 제3항에 따른 사업계획승인을 신청하는 경우부터 적용한다."
+    },
+    {
+      "promulgation_date": "20250630",
+      "promulgation_no": "2025-370",
+      "content": "부칙 <제2025-370호, 2025. 6. 30.>이 고시는 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "기본설계도면 작성내용",
+      "enforcement_date": "",
+      "content": "[별표1]\n기본설계도면 작성내용\n1. 총괄표\n┌───┬─────────┬────┬──────────────────────┐\n│구  분│작성도서          │축 척   │작 성 내 용                                 │\n├───┼─────────┼────┼──────────────────────┤\n│목록  │타이틀            │-       │공사명, 공사구분, 작성년월, 설계사무소명    │\n│      │                  │        │                                            │\n│      │도면 목록표       │-       │도면목차, 도면번호                          │\n├───┼─────────┼────┼──────────────────────┤\n│개요  │설계 개요서       │-       │설계 및 공사개요, 부대 및 복리시설개요,     │\n│      │                  │        │대지위치, 대지면적, 지역지구, 건축면적,     │\n│      │                  │        │연면적, 지하층면적, 건폐율, 용적률, 구조,   │\n│      │                  │        │층수 및 규모, 평형별세대수, 주차장          │\n│      │                  │        │                                            │\n│      │면적표            │-       │대지지분별면적, 분양면적, 동별면적, 부대    │\n│      │                  │        │및 복리시설면적                             │\n│      │                  │        │                                            │\n│      │구적표            │1/100∼ │구적도, 구적표 및 산출근거                  │\n│      │                  │1/600   │                                            │\n│      │                  │        │                                            │\n│      │배치도            │1/300∼ │축척 및 방위, 대지면적, 건축선, 대지경계선  │\n│      │                  │1/1,200 │및 대지가 접하는 도로의 위치와 폭, 건축선   │\n│      │                  │        │및 대지경계선으로부터 건축물의 거리, 허     │\n│      │                  │        │가신청에 관계되는 건축물과 다른 건축물      │\n│      │                  │        │과의 구별, 옹벽, 우물, 배수시설, 오수정     │\n│      │                  │        │화시설, 분뇨정화조, 기타 건축물에 부수되    │\n│      │                  │        │는 시설 및 공작물의 위치, 공사용 가설건     │\n│      │                  │        │축물의 축조위치, 공사기간중의 도로점용      │\n│      │                  │        │범위, 조경계획, 주출입구, 쓰레기분리수거    │\n│      │                  │        │용기 위치                                   │\n│      │                  │        │                                            │\n│      │주차계획도        │〃      │법정 주차면적 대비 주차공간 계산표, 옥      │\n│      │                  │        │외 및 지하주차장 도면, 주차 배치도          │\n│      │                  │        │                                            │\n│      │단지조감도        │-       │단지 전체의 조감도                          │\n├───┼─────────┼────┼──────────────────────┤\n│안내도│부근안내도        │1/500∼ │지적도, 위치도                              │\n│      │                  │1/3,000 │                                            │\n│      │                  │        │                                            │\n│      │단지밖 교통체계도 │〃      │진입도로 표시, 대중교통정류장 위치 단지     │\n│      │                  │        │주변의 교통흐름과 교통체계, 차량 및 보행자  │\n│      │                  │        │도로계획                                    │\n│      │                  │        │                                            │\n│      │단지안 교통체계도 │1/500∼ │단지내 교통체계, 택시승강장 위치, 소방      │\n│      │                  │1/1,000 │도로 확보상황                               │\n│      │                  │        │                                            │\n│      │토지이용계획도    │〃      │기존 나대지의 현황 및 수목상태 등을         │\n│      │                  │        │최대로 이용할 수 있는 토지이용계획          │\n└───┴─────────┴────┴──────────────────────┘\n2. 토목공사\n┌────┬─────────┬────┬─────────────────────┐\n│구  분  │작성도서          │축 척   │작 성 내 용                               │\n├────┼─────────┼────┼─────────────────────┤\n│토공사  │현황측량도        │1/600   │측량도                                    │\n│        │                  │～1/1,20│                                          │\n│        │                  │0       │                                          │\n│        │                  │        │                                          │\n│        │택지개발계획      │1/1,200 │방위, 축척, 토지이용계획, 도로망, 지구계  │\n│        │평면도            │～1/3,00│                                          │\n│        │                  │0       │                                          │\n│        │                  │        │                                          │\n│        │공사계획 평면도   │1/600   │방위, 축척, 도로망, 구배, 도로 및 단지 조 │\n│        │                  │～1/1,20│성고, 비탈면위치, 구조물표시              │\n│        │                  │0       │                                          │\n│        │                  │        │                                          │\n│        │대지 종?횡 단면도│〃      │대표적인 주된부분 단면도                  │\n│        │                  │        │                                          │\n│        │공동구계획 평면도 │〃      │평면도                                    │\n│        │                  │        │                                          │\n│        │공동구종횡 단면도 │〃      │단면도                                    │\n├────┼─────────┼────┼─────────────────────┤\n│도로 및 │포장계획 평면도   │1/600   │교차점의 간격, 축척 및 방위, 교차점의 평  │\n│포장공사│                  │～1/1,20│면 곡선반경                               │\n│        │                  │0       │                                          │\n│        │                  │        │                                          │\n│        │아스팔트 포장     │1/50    │포장구조, 각층의 두께, 차선폭             │\n│        │단면도            │～1/300 │                                          │\n│        │                  │        │                                          │\n│        │콘크리트 포장     │〃      │포장구조, 각층의 두께, 차선폭             │\n│        │단면도            │        │                                          │\n│        │                  │        │                                          │\n│        │보도블럭 평면도   │1/300   │교차로 부근의 우각부 곡선반경,보도폭, 횡  │\n│        │                  │～1/500 │단구배, 계획고, 축척 및 방위              │\n├────┼─────────┼────┼─────────────────────┤\n│배수공사│우?오수종합계획평│1/300   │시설물배치, 맨홀배치, 관배치, 관로도, 단  │\n│        │면도              │～1/1,20│지외부의 기존관로 연결상태, 관구경, 집수  │\n│        │                  │0       │정 위치?크기 등                          │\n│        │                  │        │                                          │\n│        │배수유역도        │1/600   │도로, 주택형상, 우?오수관 배치, 맨홀     │\n│        │                  │～1/2,50│                                          │\n│        │                  │0       │                                          │\n│        │                  │        │                                          │\n│        │우수관로 종단면도 │1/100   │구배, 관경, 지반고, 토피, 관저고, 연장    │\n│        │                  │～1/300 │맨홀위치 및 크기                          │\n│        │                  │        │                                          │\n│        │오수관로 종단면도 │〃      │〃                                        │\n├────┼─────────┼────┼─────────────────────┤\n│옹벽공사│옹벽계획 평면도   │1/100   │설치위치, 계획 평면도                     │\n│        │                  │～1/600 │                                          │\n│        │                  │        │                                          │\n│        │옹벽단면도        │〃      │단면도                                    │\n│        │                  │        │                                          │\n│        │옹벽전개도        │〃      │옹벽의 연속적모양, 시작 및 끝부분 표시    │\n└────┴─────────┴────┴─────────────────────┘\n3. 조경공사\n┌────┬─────────┬────┬─────────────────────┐\n│구  분  │작성도서          │축 척   │작 성 내 용                               │\n├────┼─────────┼────┼─────────────────────┤\n│조경부문│녹지 종합계획도   │1/500   │조경계획도, 조경개념도, 토지이용 및 동선  │\n│        │                  │～1/3,00│계획, 시설물배치, 단지내 및 단지외 고저차 │\n│        │                  │0       │                                          │\n│        │                  │        │                                          │\n│        │녹지 구적도 및    │1/200   │구적도, 구적표 및 산출근거, 축척          │\n│        │구적표            │～1/2,00│                                          │\n│        │                  │0       │                                          │\n│        │                  │        │                                          │\n│        │조경 평면도       │1/200   │배식 평면도, 가로수 식재 평면도, 완충     │\n│        │                  │～1/600 │녹지 식재 평면도                          │\n│        │                  │        │                                          │\n│        │조경수량 총괄표   │-       │식재종류, 기호표시, 수종표시, 규격, 수량, │\n│        │                  │        │식재위치, 법정조경 면적대비 실조경면적,   │\n│        │                  │        │수종별 식재비율                           │\n├────┼─────────┼────┼─────────────────────┤\n│휴게시설│휴게시설 평면도   │1/10    │공종, 규격, 단위, 수량, 방위, 축척        │\n│        │                  │～1/200 │                                          │\n│        │                  │        │                                          │\n│        │휴게시설 배치도   │〃      │〃                                        │\n├────┼─────────┼────┼─────────────────────┤\n│어린이  │놀이터 구적도     │1/100   │면적 및 산출방법                          │\n│놀이터  │                  │～1/200 │                                          │\n│        │                  │        │                                          │\n│        │놀이터 배치도 및  │〃      │방위, 축척                                │\n│        │위치도            │        │                                          │\n│        │                  │        │                                          │\n│        │놀이터 평면도     │〃      │규격, 방위, 축척                          │\n├────┼─────────┼────┼─────────────────────┤\n│체육시설│체육시설 배치도   │1/600   │시설배치도                                │\n│        │                  │～1/1,20│                                          │\n│        │                  │0       │                                          │\n└────┴─────────┴────┴─────────────────────┘\n4. 건축공사\n┌───┬─────────┬────┬───────────────────────┐\n│구  분│작성도서          │축 척   │작 성 내 용                                   │\n├───┼─────────┼────┼───────────────────────┤\n│평면도│지하층 평면도     │1/100   │각층별 평면, 각실의 용도 및 면적, 기둥?      │\n│      │                  │～1/200 │벽?창문의 위치, 방화구획 및 방화문의 위      │\n│      │                  │        │치, 복도, 직통계단?피난계단 또는 특별피      │\n│      │                  │        │난계단의 위치 및 치수, 비상용승강기?승용     │\n│      │                  │        │승강기의 위치 및 치수, 파이프닥트 단위        │\n│      │                  │        │세대구획, 건축물의 중심선 및 외곽선, 출       │\n│      │                  │        │입구의 위치, 발코니, 창문위치 등              │\n│      │                  │        │                                              │\n│      │1층 평면도        │〃      │〃                                            │\n│      │                  │        │                                              │\n│      │2층 평면도        │〃      │〃                                            │\n│      │                  │        │                                              │\n│      │기준층 평면도     │〃      │〃                                            │\n│      │                  │        │                                              │\n│      │지붕층 평면도     │〃      │〃                                            │\n│      │                  │        │                                              │\n│      │옥탑층 평면도     │〃      │〃                                            │\n│      │                  │        │                                              │\n│      │단위세대 평면도   │1/30    │기준격자, 중심선치수, 안목치수, 창호크기?재  │\n│      │                  │～1/60  │질 및 개폐방향, 가구설치위치 및 크기(신       │\n│      │                  │        │발장?욕실장?주방가구?거실장 등), 실명, 세  │\n│      │                  │        │대에 면하는 복도 탈출구 위치 및 규격,         │\n│      │                  │        │선홈통드레인 위치 및 구배방향, 소화전?방     │\n│      │                  │        │수구함 등의 위치 등                           │\n│      │                  │        │                                              │\n│      │지하층 코아평면도 │〃      │옹벽두께, 방수한계, 트렌치, 집수정 등         │\n│      │                  │        │                                              │\n│      │1층 코아평면도    │〃      │관리인실, 부속실, 주현관, 진입계단 및 경      │\n│      │                  │        │사로, 우편물수취함, 부착시설물 등             │\n│      │                  │        │                                              │\n│      │기준층 코아평면도 │〃      │엘리베이터, 규모 및 크기, 방화문 위치,        │\n│      │                  │        │방화구획(변화되는 층마다 작성)                │\n│      │                  │        │                                              │\n│      │옥탑층 코아평면도 │〃      │물탱크규격?기계실?바닥마감?옥상 수평피트? │\n│      │                  │        │루프드레인 위치 및 크기?사다리 등            │\n│      │                  │        │                                              │\n│      │지하주차장 평면도 │〃      │재료마감, 각종설비(집수정?트렌치?배기설비   │\n│      │                  │        │등), 주차구획, 경사로 등                      │\n│      │                  │        │                                              │\n│      │열교환실?전기실?│〃      │각종 설비기기 위치, 점검구 위치 및 크기       │\n│      │기계실 평면도     │        │                                              │\n└───┴─────────┴────┴───────────────────────┘\n┌───┬──────────┬────┬───────────────────────┐\n│구  분│작성도서            │축 척   │작 성 내 용                                   │\n├───┼──────────┼────┼───────────────────────┤\n│입면도│정면도              │1/100   │외벽 마감재료, 층수 및 층바닥위치, 창호       │\n│      │                    │～1/200 │개구부 형상 및 위치, 외벽시설물(사다리?      │\n│      │                    │        │난간?경사로?홈통 등), 굴뚝 및 옥상돌출부 등 │\n│      │                    │        │                                              │\n│      │배면도              │〃      │〃                                            │\n│      │                    │        │                                              │\n│      │좌측면도            │〃      │〃                                            │\n│      │                    │        │                                              │\n│      │우측면도            │〃      │〃                                            │\n├───┼──────────┼────┼───────────────────────┤\n│단면도│주단면도            │1/30    │지표면위치?기준격자?중심선치수?안목치수?창│\n│      │                    │～1/100 │호 및 개구부위치, 실명, 바닥마감, 층고        │\n│      │                    │        │및 천정고 최고높이                            │\n│      │                    │        │                                              │\n│      │횡단면도            │1/100   │〃                                            │\n│      │                    │～1/200 │                                              │\n│      │                    │        │                                              │\n│      │종단면도            │〃      │〃                                            │\n│      │                    │        │                                              │\n│      │코아 단면도         │1/10    │〃                                            │\n│      │                    │～1/50  │                                              │\n│      │                    │        │                                              │\n│      │계단 단면도         │〃      │디딤판?챌판?벽 및 기둥?출입구 등과 관계,   │\n│      │                    │        │층고?계단참 크기 등                          │\n├───┼──────────┼────┼───────────────────────┤\n│구조도│기둥?보 일람표     │1/30    │단부 및 중앙부에서의 보의 크기, 배근형        │\n│      │(필요시 옹벽일람표) │～1/50  │식                                            │\n│      │                    │        │(상단 및 하단), 전단보강근의 종류 및 간격,    │\n│      │                    │        │기둥의 크기, 주근의 배치형태 및 개수, 대      │\n│      │                    │        │근의 종류 및 간격                             │\n│      │                    │        │                                              │\n│      │주심도              │1/30    │기둥 및 벽체의 정확한 위치표기, 기둥 또는     │\n│      │(이중스케일 사용)   │～1/200 │수평?수직 단면의 변화관계 상세 표시          │\n├───┼──────────┼────┼───────────────────────┤\n│마감  │실내?외 재료       │-       │천정?벽?걸레받이?바닥부위의 바탕 및마감    │\n│상세도│마감표              │        │                                              │\n├───┼──────────┼────┼───────────────────────┤\n│창호도│창호 일람표         │1/30    │모듈치수, 개구부의 수, 제작치수, 명칭, 적     │\n│      │                    │～1/60  │용위치, 부속틀재의 재질 및 규격, 개폐방       │\n│      │                    │        │향, 유리종류 및 두께                          │\n└───┴──────────┴────┴───────────────────────┘\n5. 건축설비공사\n┌─────┬──────────┬────┬──────────────────────┐\n│구  분    │작성도서            │축 척   │작 성 내 용                                 │\n├─────┼──────────┼────┼──────────────────────┤\n│지하      │평면도              │1/30    │각 구조물의 외곽선?벽체두께, 저수조 내?외 │\n│저수조    │                    │～1/200 │부 경사, 환기구, 맨홀 등                    │\n│          │                    │        │                                            │\n│          │단면도              │〃      │구조물의 크기(높이?길이 등) 및 단면, 단면  │\n│          │                    │        │치수, 내부마감재                            │\n├─────┼──────────┼────┼──────────────────────┤\n│오수?분뇨│평면도              │1/30    │각 시설물의 외곽선?벽체두께?개구부 등     │\n│정화조    │                    │～1/200 │                                            │\n│          │                    │        │                                            │\n│          │단면도              │〃      │시설물의 바닥두께 및 높이 수위선?월        │\n│          │                    │        │류구 등                                     │\n│          │                    │        │                                            │\n│          │상세도              │-       │맨홀, 난간 등                               │\n│          │                    │        │                                            │\n│          │처리계통도          │-       │오수계통, 오니계통, 공기계통, 주요장비      │\n│          │                    │        │등                                          │\n├─────┼──────────┼────┼──────────────────────┤\n│옥외      │상수도 계획평면도   │1/600   │축척, 방위, 분기위치, 규격 등               │\n│급수공사  │                    │～1/1,20│                                            │\n│          │                    │0       │                                            │\n├─────┼──────────┼────┼──────────────────────┤\n│고가수조  │평면도              │1/50    │수조의 규격?형상 등                        │\n│도(옥상물 │                    │～1/200 │                                            │\n│탱크)     │                    │        │                                            │\n│          │입면도              │〃      │구조물의 형상?높이?마감 등                │\n│          │                    │        │                                            │\n│          │단면도              │1/30    │각부 단면의 치수, 내부마감재                │\n│          │                    │～1/100 │                                            │\n├─────┼──────────┼────┼──────────────────────┤\n│기계설비  │급수?급탕배관      │-       │공급계통?공급체계?배관경 표시?밸브위치   │\n│도(옥내)  │계통도              │        │표시?옥상물탱크 설치높이                   │\n│          │                    │        │                                            │\n│          │단위세대 위생배관   │1/30    │위생기구 및 수도꼭지 위치, 배관관로,        │\n│          │평면도              │～1/60  │배기설비, 냉온수 계량기 위치                │\n├─────┼──────────┼────┼──────────────────────┤\n│전기설비  │전력간선 계통도     │-       │주 분전반에서 각세대 분전반 사이의 간선     │\n│          │                    │        │계통 및 연결                                │\n│          │                    │        │                                            │\n│          │보안등 배선도       │1/300   │보안등 위치?배관?배선                     │\n│          │(옥내?옥외)        │～1/600 │                                            │\n│          │                    │        │                                            │\n│          │전기 부하용량 계산표│-       │용량 산출근거                               │\n├─────┼──────────┼────┼──────────────────────┤\n│통신설비  │단위세대 통신설비   │-       │홈네트워크 세대단말기 설치 위치, 예비       │\n│          │평면도              │        │전원 공급 확인(지능형 홈네트워크 설비를     │\n│          │                    │        │설치하는 경우 작성)                         │\n└─────┴──────────┴────┴──────────────────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261138&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153912251",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153912235",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153912251",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:주택의설계도서작성기준#BYL0001",
+      "filename": "별표1_기본설계도면 작성내용.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "실시설계도면 작성내용",
+      "enforcement_date": "",
+      "content": "■ 주택의 설계도서 작성기준 [별표 2]\n실시설계도면 작성내용\n1. 토목공사\n┌────┬───────────┬────┬──────────────────────┐\n│구  분  │작성도서              │축 척   │작 성 내 용                                 │\n├────┼───────────┼────┼──────────────────────┤\n│토공사  │토사량 도표           │-       │대지조성에 따른 토사량                      │\n├────┼───────────┼────┼──────────────────────┤\n│도로 및 │포장 구적도           │1/50    │-                                           │\n│포장공사│                      │～1/100 │                                            │\n│        │                      │        │                                            │\n│        │도로 종횡 단면도      │1/50    │포장형식, 차선폭, 평면 곡선변경, 종횡단     │\n│        │                      │～1/300 │구배, 보도폭 계획고, 축척, 곡선부 편구배 등 │\n│        │                      │        │                                            │\n│        │주차장 표시선 및      │〃      │노면표시 색채 및 도료종류, 기호, 문자 및    │\n│        │경계명시 표시선       │        │선의 길이, 간격, 폭, 위치                   │\n│        │                      │        │                                            │\n│        │도로 및 보도면        │1/50    │-                                           │\n│        │토공정리도            │～1/200 │                                            │\n│        │                      │        │                                            │\n│        │과속 방지턱 계획도    │1/30    │과속 방지턱의 설치규격과 형상, 설치간격,    │\n│        │및 상세도             │～1/300 │도료재료                                    │\n│        │                      │        │                                            │\n│        │가로등 계획도         │-       │차도폭, 설치위치, 축척 및 방위, 설치간격    │\n│        │                      │        │                                            │\n│        │보차도 경계블럭       │1/10    │보도 경사구간 구배, 재료 종류 및 크기,      │\n│        │및 측구 상세도        │～1/100 │보도폭, 연석폭                              │\n│        │                      │        │                                            │\n│        │도로 경계블럭 상세도  │〃      │경계블럭의 형식, 크기, 재료, 종류           │\n│        │                      │        │                                            │\n│        │시각장애인용          │1/30    │점자블럭 크기, 재질 및 색채, 설치폭, 계     │\n│        │점자블럭 계획도       │～1/500 │획고, 설치단면도                            │\n│        │및 상세도             │        │                                            │\n│        │                      │        │                                            │\n│        │도로 표준단면도       │1/30    │차선폭, 각층의 두께, 포장구조, 횡단구배     │\n│        │                      │～1/100 │계획고                                      │\n│        │                      │        │                                            │\n│        │보도블럭 상세도       │1/10    │상세도                                      │\n│        │                      │～1/30  │                                            │\n│        │                      │        │                                            │\n│        │포장수량 집계표       │1/10    │공종, 단위, 수량 등                         │\n│        │                      │～1/600 │                                            │\n├────┼───────────┼────┼──────────────────────┤\n│배수공사│측구도                │1/10    │L, U형                                      │\n│        │                      │～1/100 │                                            │\n│        │                      │        │                                            │\n│        │외곽유입수 처리상세도 │1/10    │관경, 점검구, 맨홀 등                       │\n│        │                      │～1/200 │                                            │\n│        │                      │        │                                            │\n│        │우수 홈통받이 상세도  │1/20    │재료, 구경, 위치                            │\n│        │                      │～1/100 │                                            │\n└────┴───────────┴────┴──────────────────────┘\n┌────┬──────────┬────┬────────────────────┐\n│구  분  │작성도서            │축 척   │작 성 내 용                             │\n├────┼──────────┼────┼────────────────────┤\n│배수공사│오수받이 상세도     │1/10    │인버트형상, 크기 등                     │\n│        │                    │～1/100 │                                        │\n│        │                    │        │                                        │\n│        │우수받이 상세도     │〃      │트렙형상?크기 등                       │\n│        │                    │        │                                        │\n│        │시공?신축이음      │1/10    │신축이음용 상세도, 이음부 크기 및 위치  │\n│        │상세도              │～1/50  │등                                      │\n│        │                    │        │                                        │\n│        │원심력수도관        │1/10    │〃                                      │\n│        │상세도              │～1/30  │                                        │\n│        │                    │        │                                        │\n│        │관연결부분 상세도   │〃      │연결각도, 기초공, 관재료, 연결방법      │\n│        │                    │        │                                        │\n│        │도로우수받이 상세도 │1/10    │형상, 크기, 기초공, 배근도, 상부형태,   │\n│        │                    │～1/100 │배근도, 관로연결 각도 및 위치 등        │\n│        │                    │        │                                        │\n│        │합류식 종평면도     │1/100   │배수관, 인접지역 경계, 공사도, 경계배   │\n│        │                    │～1/200 │수구의 배치 및 명칭, 건물배치, 건물내부 │\n│        │                    │        │의 개략스케치, 오수발생시설 위치 등     │\n│        │                    │        │                                        │\n│        │분류식 종평면도     │〃      │관의 배치는 우수관이 위에 오수관이 밑에 │\n│        │                    │        │가도록 배치, 기타사항은 합류식 종평면도 │\n│        │                    │        │와 동일(우?오수관을 구분하여 작성)     │\n│        │                    │        │                                        │\n│        │우수관 보호         │1/10    │보호재료의 종류, 보호공 등              │\n│        │콘크리트 상세도     │～1/100 │                                        │\n│        │                    │        │                                        │\n│        │도로배수 평면도     │1/100   │우?오수관 위치, 연장, 맨홀위치?구배 등│\n│        │                    │～1/600 │                                        │\n│        │                    │        │                                        │\n│        │건물주위 우?오수   │1/20    │받이 위치, 건물배치, 연결관과 지선관의  │\n│        │배관 평면 상세도    │～1/200 │연결형태, 관거구배, 관경 등             │\n│        │                    │        │                                        │\n│        │맨홀표준도 및       │1/30    │기초내용, 외경 및 내경, 상부구조, 발판  │\n│        │상세도              │～1/100 │사다리, 인버트 등                       │\n│        │                    │        │                                        │\n│        │집수정 상세도       │1/10    │건물주위 우?오수관 평면도에 포함       │\n│        │                    │～1/100 │                                        │\n├────┼──────────┼────┼────────────────────┤\n│옹벽공사│옹벽 상세도         │1/10    │옹벽설계도 1매에 단면도, 배근도, 배수   │\n│        │                    │～1/100 │처리, 시공이음, 재료 집계표 포함        │\n│        │                    │        │                                        │\n│        │옹벽 철근배근도     │1/100   │철근배근도                              │\n│        │                    │～1/600 │                                        │\n└────┴──────────┴────┴────────────────────┘\n2. 조경공사\n┌────┬──────────┬────┬──────────────────────┐\n│구  분  │작성도서            │축 척   │작 성 내 용                                 │\n├────┼──────────┼────┼──────────────────────┤\n│담장공사│담장 계획도         │1/10    │위치, 구간, 사용재료 등                     │\n│        │                    │～1/100 │                                            │\n│        │                    │        │                                            │\n│        │담장 단면도         │〃      │단면도, 상세도                              │\n│        │                    │        │                                            │\n│        │담장 입면도         │1/100   │정면도, 측면도, 담장의 연속적 모양, 시작    │\n│        │                    │～1/600 │및 끝부분 표시                              │\n│        │                    │        │                                            │\n│        │방음벽 설계도       │1/10    │설치위치, 방음성능, 계획도, 단면도, 입면도, │\n│        │                    │～1/100 │상세도, 전개도, 구조도 등                   │\n├────┼──────────┼────┼──────────────────────┤\n│조경공사│지주목 상세도       │1/10    │규격, 재질, 형태                            │\n│        │                    │～1/30  │                                            │\n│        │                    │        │                                            │\n│        │주거동?부대복리시  │1/100   │수종, 규격 등                               │\n│        │설주변 식재         │～1/300 │                                            │\n│        │상세도              │        │                                            │\n│        │                    │        │                                            │\n│        │가로수 식재 평면도  │1/100   │가로수 간격?규격 등                        │\n│        │                    │～1/600 │                                            │\n│        │                    │        │                                            │\n│        │완충녹지식재 평면도 │〃      │수종, 규격 등                               │\n│        │                    │        │                                            │\n│        │토지이용 및         │1/300   │토지이용, 동선계획                          │\n│        │동선계획도          │～1/600 │                                            │\n│        │                    │        │                                            │\n│        │단지내 식재 상세도  │1/100   │수종, 규격, 단위, 수량                      │\n│        │                    │～1/600 │                                            │\n│        │                    │        │                                            │\n│        │수목 보호홀 덮게    │1/20    │규격, 평면도                                │\n│        │상세도              │～1/200 │                                            │\n├────┼──────────┼────┼──────────────────────┤\n│안내시설│시설물 종합도       │1/10    │규격, 재질, 형태, 색상, 방위, 축척, 글씨    │\n│        │                    │～1/200 │체, 시설명, 기타 안내내용                   │\n│        │                    │        │                                            │\n│        │단지종합 안내판     │1/10    │-                                           │\n│        │                    │～1/100 │                                            │\n│        │                    │        │                                            │\n│        │단지 유도 표지판    │〃      │-                                           │\n│        │                    │        │                                            │\n│        │방향 안내판         │〃      │-                                           │\n├────┼──────────┼────┼──────────────────────┤\n│휴게시설│파고라?평의자?등의│1/10    │규격, 평면도                                │\n│        │자?사각의자        │～1/30  │                                            │\n│        │상세도              │        │                                            │\n│        │                    │        │                                            │\n│        │휴지통 상세도       │〃      │규격, 재질, 형태                            │\n│        │                    │        │                                            │\n│        │시설물 수량표       │-       │공종, 규격, 단위, 수량 등                   │\n└────┴──────────┴────┴──────────────────────┘\n┌────┬──────────┬────┬─────────────────────┐\n│구  분  │작성도서            │축 척   │작 성 내 용                               │\n├────┼──────────┼────┼─────────────────────┤\n│어린이  │놀이터 단면도       │1/10    │단면상세, 포장규격 등                     │\n│놀이터  │                    │～1/30  │                                          │\n│        │                    │        │                                          │\n│        │놀이터 철책         │〃      │규격, 재질, 형태 등                       │\n│        │                    │        │                                          │\n│        │휴지통              │〃      │〃                                        │\n│        │                    │        │                                          │\n│        │놀이터배수 평면도   │1/100   │배수망 등                                 │\n│        │                    │～1/200 │                                          │\n│        │                    │        │                                          │\n│        │암거?경계석        │〃      │규격, 재질, 형태 등                       │\n│        │?모래막이 상세도   │        │                                          │\n├────┼──────────┼────┼─────────────────────┤\n│놀이시설│놀이기구 수량       │-       │모든 놀이기구의 수량 집계표               │\n│        │집계표              │        │                                          │\n│        │                    │        │                                          │\n│        │놀이시설            │1/10    │규격, 재질, 형태                          │\n│        │평면?입면?단면    │～1/30  │(망루, 외다리, 연결통로, 미끄럼대, 흔들다 │\n│        │상세도              │        │리, 봉오르기, 원통굴리기, 외줄건너기, 사닥│\n│        │                    │        │다리, 타이어터널, 통나무오르기, 창작놀이  │\n│        │                    │        │대, 유격놀이대, 타잔놀이대, 회전그네, 평  │\n│        │                    │        │균대, 원형그네, 고리던지기, 균형잡기, 육  │\n│        │                    │        │각철봉, 윗몸일으키기, 높이뛰기, 말차기,   │\n│        │                    │        │그네, 평행봉, 시이소, 나무오르기, 줄타기, │\n│        │                    │        │공중사다리 등)                            │\n├────┼──────────┼────┼─────────────────────┤\n│체육시설│정구장 평면도       │1/100   │배수평면도, 규격?경사표시, 배수처리도    │\n│        │                    │～1/600 │                                          │\n│        │                    │        │                                          │\n│        │정구장 백보드 및    │1/20    │코트단면도, 정면도, 코트구성 두께, 수량   │\n│        │코트단면            │～1/300 │표                                        │\n│        │                    │        │                                          │\n│        │정구장 암거         │1/20    │단면도, 수량표                            │\n│        │                    │～1/200 │                                          │\n│        │                    │        │                                          │\n│        │정구장 U형측구,     │〃      │시점단면 상세도, 종점단면 상세도, 재료    │\n│        │L형측구, 집수정     │        │표, 측구?덮게 상세도, 평면도             │\n│        │                    │        │                                          │\n│        │정수장 휀스?포스트 │1/20    │규격, 치수, 재료표, 정면도, 상세도        │\n│        │                    │～1/300 │                                          │\n│        │                    │        │                                          │\n│        │농구장 평면도       │1/100   │규격, 배수 처리도                         │\n│        │                    │～1/600 │                                          │\n│        │                    │        │                                          │\n│        │농구대              │1/10    │정면도, 측면도, 재료표                    │\n│        │                    │～1/20  │                                          │\n└────┴──────────┴────┴─────────────────────┘\n┌────┬──────────┬────┬──────────────────────┐\n│구  분  │작성도서            │축 척   │작 성 내 용                                 │\n├────┼──────────┼────┼──────────────────────┤\n│체육시설│배드민턴장 평면도   │1/100   │규격, 배수 처리도                           │\n│        │                    │～1/600 │                                            │\n│        │                    │        │                                            │\n│        │배구장 평면도       │〃      │〃                                          │\n│        │                    │        │                                            │\n│        │배구장 상세도       │1/20    │휀스, 출입문, 코트장 코트처리 단면도,       │\n│        │                    │～1/300 │포스트 상세도, 재료표                       │\n│        │                    │        │                                            │\n│        │야구장?소프트볼장?│1/100   │운동장 표면조성, 백네트단면, 배수 처리      │\n│        │어린이야구장        │～1/600 │도, 평면도, 규격, 홈프레이트 상세도         │\n│        │평면도              │        │                                            │\n│        │                    │        │                                            │\n│        │축구장 평면도       │1/10    │평면도, 규격, 골문상세도, 배수처리도        │\n│        │                    │～1/600 │                                            │\n│        │                    │        │                                            │\n│        │로라스케이트장      │〃      │평면도, 난간상세도, 신축이음 상세도, 단면도 │\n└────┴──────────┴────┴──────────────────────┘\n3. 건축공사\n┌───┬─────────┬───┬──────────────────────┐\n│구  분│작성도서          │축 척 │작 성 내 용                                 │\n├───┼─────────┼───┼──────────────────────┤\n│단면도│주단면 상세도     │1/10  │디딤판?챌판?벽 및 기둥?출입구 등과 관계, │\n│      │                  │～1/50│층고?계단참 크기 등                        │\n├───┼─────────┼───┼──────────────────────┤\n│상세도│욕실평면?입면    │1/10  │위생기구배치, 드레인위치, AD?PD위치, 방    │\n│      │상세도            │～1/50│수방법, 구배 및 마감재 등                   │\n│      │                  │      │                                            │\n│      │주방 상세도       │〃    │주방기구 평면도, 입면 전개도, 주방벽        │\n│      │                  │      │마감재 등                                   │\n│      │                  │      │                                            │\n│      │주현관 상세도     │〃    │평면도, 단면도, 지표면과의 출입관계, 1층    │\n│      │                  │      │바닥높이?보도와의 관계, 계단, 경사로 등    │\n│      │                  │      │                                            │\n│      │복도 상세도       │〃    │입면도, 단면도, 벽체부착물 위치, 선홈통 등  │\n│      │                  │      │                                            │\n│      │반침?선반 상세도 │〃    │평면도, 단면도, 선반재료 및 규격, 설치      │\n│      │                  │      │높이 및 선반 고정방법 등                    │\n│      │                  │      │                                            │\n│      │침실?거실천정틀  │〃    │재질, 규격, 천정 마감재 등                  │\n│      │상세도            │      │                                            │\n│      │                  │      │                                            │\n│      │익스펜션죠인트    │〃    │죠인트 마감재, 충진재 간격 등               │\n│      │상세도            │      │                                            │\n│      │                  │      │                                            │\n│      │MC 중심선도       │〃    │중심선치수, 골조치수, 개구부치수 등         │\n└───┴─────────┴───┴──────────────────────┘\n┌───┬─────────┬────┬────────────────────────┐\n│구  분│작성도서          │축 척   │작 성 내 용                                     │\n├───┼─────────┼────┼────────────────────────┤\n│상세도│램프평면?단면    │1/10    │경사로의 노면처리, 난간?지표면과의 관계        │\n│      │상세도            │～1/50  │등                                              │\n│      │                  │        │                                                │\n│      │옥외계단 상세도   │〃      │층별 평면도, 단면도, 논슬립 재질, 바닥마감      │\n│      │                  │        │선홈통, 난간 등                                 │\n│      │                  │        │                                                │\n│      │방수 및 결로보완  │〃      │방수재료?결로 방지재 등의 설치부위 및 상       │\n│      │상세도            │        │세 등                                           │\n├───┼─────────┼────┼────────────────────────┤\n│구조도│구조개요도        │-       │구조계산서 일반사항 요약, 건물규모, 층          │\n│      │                  │        │수,구조방식, 철근 및 콘크리트 강도, 설계근      │\n│      │                  │        │거 및 해석방법, 지내력                          │\n│      │                  │        │                                                │\n│      │바닥구조 평면도   │1/50    │각층의 구조평면도, 철근의 이음 및 정착          │\n│      │(지하, 기준층,    │～1/100 │거리, 기둥 또는 옹벽의 위치, 보의 위치,         │\n│      │지붕단위세대,     │        │개구부의 위치, 기둥?옹벽?슬라브?계단?보의 기│\n│      │옥탑층)           │        │호표시, 보강근표기, 슬라브 요철표기, 열부호     │\n│      │                  │        │표기, 드라이 에어리어 표기                      │\n│      │                  │        │                                                │\n│      │바닥구조 평면도   │〃      │옹벽?피트?계단부분의 확대표시, 각종기         │\n│      │(코아부)          │        │호, 주호, 치수표기, 중심선으로부터 거리         │\n│      │                  │        │및 두께 등                                      │\n│      │                  │        │                                                │\n│      │슬라브 배근도     │1/30    │슬라브 두께, 배근위치 및 형식, 철근의 종        │\n│      │(평면도 또는      │～1/50  │류 및 간격, 상부?하부?장변?단변별 표시,개    │\n│      │표형식)           │        │구부의 보강, 배근간격이 다른 경우 철근          │\n│      │                  │        │의 위치, 세대간 거리 등                         │\n│      │                  │        │                                                │\n│      │계단 배근도       │〃      │철근의 종류 및 배근형식, 캔틸레버 또는          │\n│      │                  │        │2변고정계단 명기, 보강근의 위치                 │\n│      │                  │        │                                                │\n│      │기초일람표        │1/50    │기초의 크기?폭?두께?배근방법, 철근종류,보강  │\n│      │                  │～1/100 │근의 위치, 파일의 위치?크기?간격              │\n│      │                  │        │                                                │\n│      │잡배근도(현관램프,│1/5     │상세도에 준함                                   │\n│      │파라펫, 공동구,   │～1/30  │                                                │\n│      │맨홀 등)          │        │                                                │\n│      │                  │        │                                                │\n│      │라멘도            │1/30    │종횡구조 단면도, 골조의 철근배근형식 기         │\n│      │                  │～1/200 │입, 철근의 종류, 배근방법, 벤트위치, 보강       │\n│      │                  │        │근 표시, 늑근 및 대근의 종류?간격              │\n│      │                  │        │                                                │\n│      │각부 구조 및      │1/5     │철근종류 및 배근방법, 각종보강근의 종류         │\n│      │평면의 단면       │～1/30  │및 배근방법, 각종 부재의 위치?거리 표시,중     │\n│      │상세도            │        │요부분의 단면접합 방식을 상세표시               │\n└───┴─────────┴────┴────────────────────────┘\n┌───┬──────────┬───┬───────────────────────┐\n│구  분│작성도서            │축 척 │작 성 내 용                                   │\n├───┼──────────┼───┼───────────────────────┤\n│부품도│우편함 상세도       │1/1   │규격?부착방법 등                             │\n│      │                    │～1/20│                                              │\n│      │                    │      │                                              │\n│      │신발장 상세도       │1/2   │폭, 높이, 평면, 단면, 입면, 재료마감, 조립도, │\n│      │                    │～1/20│부착철물, 문양 등                             │\n│      │                    │      │                                              │\n│      │욕실장 상세도       │〃    │〃                                            │\n│      │                    │      │                                              │\n│      │주방기구 상세도     │〃    │〃                                            │\n│      │                    │      │                                              │\n│      │세대 현관문         │〃    │개구부 치수, 설치부위 상세, 골구의 형태,      │\n│      │상세도              │      │재료, 부착물(도어뷰?차임벨?수취함 등)의     │\n│      │                    │      │위치?규격, 충진재의 종류 등                  │\n│      │                    │      │                                              │\n│      │철문(방화문)상세도  │〃    │〃                                            │\n│      │                    │      │                                              │\n│      │창고 상세도         │〃    │창고규격, 선반규격 및 재질 등                 │\n│      │                    │      │                                              │\n│      │발코니 세대칸막이   │〃    │재료, 접합상세, 규격, 접합철물 등             │\n│      │상세도              │      │                                              │\n│      │                    │      │                                              │\n│      │점검구 상세도       │〃    │규격, 철물, 재료, 충진재의 종류               │\n│      │                    │      │                                              │\n│      │지하 대피창 상세도  │〃    │규격, 개폐방법 등                             │\n│      │                    │      │                                              │\n│      │주계단 난간         │〃    │난간?간살의 재질, 규격, 손스침 재료 및       │\n│      │상세도              │      │규격                                          │\n│      │                    │      │                                              │\n│      │지하철재 사다리     │〃    │재질, 규격, 철물 등                           │\n│      │상세도              │      │                                              │\n│      │                    │      │                                              │\n│      │폐건전지 수거함     │〃    │규격, 부착방법, 명칭의 표기에 관한 사항       │\n│      │상세도              │      │                                              │\n│      │                    │      │                                              │\n│      │층 및 세대별        │〃    │서체, 규격, 처리방법, 부착방법 등             │\n│      │표시판 상세도       │      │                                              │\n│      │                    │      │                                              │\n│      │옥상 익스팬션죠인트 │1/10  │죠인트 간격?폭?깊이?재질 및 상세도 등      │\n│      │                    │～1/60│                                              │\n│      │                    │      │                                              │\n│      │비상계단 난간       │〃    │난간, 간살의 규격?형상?고정상태 등          │\n│      │상세도              │      │                                              │\n│      │                    │      │                                              │\n│      │옥탑층 내부계단     │〃    │〃                                            │\n│      │난간 상세도         │      │                                              │\n└───┴──────────┴───┴───────────────────────┘\n┌───┬──────────┬───┬──────────────────────┐\n│구  분│작성도서            │축 척 │작 성 내 용                                 │\n├───┼──────────┼───┼──────────────────────┤\n│마감  │천정마감 상세도     │1/2   │바탕면, 마감재 등                           │\n│상세도│                    │～1/20│                                            │\n│      │                    │      │                                            │\n│      │벽체마감 상세도     │〃    │〃                                          │\n│      │                    │      │                                            │\n│      │측벽및코아벽틀      │〃    │틀재의 규격, 마감재두께, 적용부위           │\n│      │상세도              │      │                                            │\n│      │                    │      │                                            │\n│      │바닥상세도(세대내)  │〃    │바탕면, 마감재두께, 적용부위 등             │\n│      │                    │      │                                            │\n│      │바닥상세도(세대외)  │〃    │〃                                          │\n│      │                    │      │                                            │\n│      │지붕층 파라펫       │〃    │줄눈재의 재질, 상세 등                      │\n│      │신축줄눈 상세도     │      │                                            │\n│      │                    │      │                                            │\n│      │수장 상세도         │〃    │수장부분 상세, 마감부위에 포함되지 않는     │\n│      │                    │      │상세                                        │\n│      │                    │      │                                            │\n│      │석고판붙이기 상세도 │〃    │틀재의 규격?간격?부착방법 등              │\n│      │                    │      │                                            │\n│      │단열재 이음상세도   │〃    │바탕재처리, 단열재 이음부위 및 이음 방법 등 │\n├───┼──────────┼───┼──────────────────────┤\n│창호도│외부 이중창호 입면도│1/30  │바탕재처리?단열 이음부위 및 이음방법       │\n│      │                    │～1/60│                                            │\n│      │                    │      │                                            │\n│      │외부 단창 입면도    │〃    │〃                                          │\n│      │                    │      │                                            │\n│      │내부창호 입면도     │〃    │〃                                          │\n│      │                    │      │                                            │\n│      │철재창호 입면도     │〃    │〃                                          │\n│      │                    │      │                                            │\n│      │알미늄창호 입면도   │〃    │〃                                          │\n│      │                    │      │                                            │\n│      │합성수지창호 입면도 │〃    │〃                                          │\n│      │                    │      │                                            │\n│      │외부창호 상세도     │1/10  │상틀?선틀?밑틀과 개구부와의 접합상태 등   │\n│      │                    │～1/30│                                            │\n│      │                    │      │                                            │\n│      │알미늄문 상세도     │〃    │〃                                          │\n│      │                    │      │                                            │\n│      │합성수지창호 상세도 │〃    │〃                                          │\n│      │                    │      │                                            │\n│      │내부창호 상세도     │〃    │〃                                          │\n│      │                    │      │                                            │\n│      │환기구 상세도       │-     │환기구의 재질?규격?부착상태?틀재의 형상  │\n│      │                    │      │및 치수                                     │\n│      │                    │      │                                            │\n│      │압축성형 시멘트문   │1/10  │틀재의 형상 및 치수                         │\n│      │?창틀 상세도       │～1/30│                                            │\n└───┴──────────┴───┴──────────────────────┘\n4. 건축설비공사\n┌──────┬───────────┬────┬─────────────────────┐\n│구  분      │작성도서              │축 척   │작 성 내 용                               │\n├──────┼───────────┼────┼─────────────────────┤\n│지하        │철근 배근도           │1/30    │철근의 배근위치?간격?크기               │\n│저수조      │                      │～1/200 │                                          │\n│            │                      │        │                                          │\n│            │각부 상세도           │-       │환기구, 사다리, 집수정                    │\n├──────┼───────────┼────┼─────────────────────┤\n│오수?분뇨정│철근 배근도           │1/30    │배근위치, 배근간격, 철근규격 등           │\n│화조        │                      │～1/200 │                                          │\n├──────┼───────────┼────┼─────────────────────┤\n│옥외급수    │단지내 간선의 분기    │1/10    │종류별 분기상세도                         │\n│공사        │배관도                │～1/100 │                                          │\n│            │                      │        │                                          │\n│            │구조물과의            │〃      │구조물 시공도, 오배수 배관 통과부위 시    │\n│            │연결부위 시공도       │        │공도, 고저차별 시공도                     │\n│            │                      │        │                                          │\n│            │구조물로의            │〃      │종류별 인입분기 상세도                    │\n│            │인입분기  배관        │        │                                          │\n│            │                      │        │                                          │\n│            │소화전?급수전표준도  │〃      │소화전 평면도 및 단면도, 급수탑 단면도    │\n├──────┼───────────┼────┼─────────────────────┤\n│고가수조    │각부 단면 상세도      │1/20    │출입구, 사다리 등                         │\n│도          │                      │～1/60  │                                          │\n│(옥상물탱   │                      │        │                                          │\n│크)         │물탱크 벽체 배근도    │-       │배근도                                    │\n│            │                      │        │                                          │\n│            │물탱크 스라브 배근도  │-       │〃                                        │\n│            │                      │        │                                          │\n│            │기초 배근도           │-       │〃                                        │\n├──────┼───────────┼────┼─────────────────────┤\n│기계설비    │난방배관 계통도       │-       │난방배관구획 또는 유량조절기기설치, 난    │\n│도 (옥내)   │                      │        │방배관 공급계통, 배관경표시, 밸브 위치    │\n│            │                      │        │표시                                      │\n│            │                      │        │                                          │\n│            │단위세대 난방배관     │1/30    │난방코일의 배관재?배관경?피치표시, 열량 │\n│            │평면도                │～1/60  │계?유량계?온도밸브위치                  │\n│            │                      │        │                                          │\n│            │지하층 난방배관       │1/100   │난방배관 관로, 배관표시, 구조물 관통관계  │\n│            │평면도                │～1/200 │                                          │\n│            │                      │        │                                          │\n│            │1층 난방배관 평면도   │〃      │〃                                        │\n│            │                      │        │                                          │\n│            │기준층 난방배관       │〃      │〃                                        │\n│            │평면도                │        │                                          │\n│            │                      │        │                                          │\n│            │옥상층 난방배관       │〃      │〃                                        │\n│            │평면도                │        │                                          │\n│            │                      │        │                                          │\n│            │오수?배수배관 계통도 │-       │배관계통, 배출체계, 배관경표시            │\n│            │                      │        │                                          │\n│            │지하층 급수?급탕     │1/100   │급수, 급탕관로, 배관경, 구조물관통 관계   │\n│            │평면도                │～1/200 │                                          │\n└──────┴───────────┴────┴─────────────────────┘\n┌────┬──────────┬────┬───────────────────┐\n│구  분  │작성도서            │축 척   │작 성 내 용                           │\n├────┼──────────┼────┼───────────────────┤\n│기계설비│지하층 오배수관     │1/100   │급수, 급탕관로, 배관경, 구조물관통관계│\n│도(옥내)│평면도              │～1/200 │                                      │\n│        │                    │        │                                      │\n│        │1층 오수관 평면도   │〃      │ 〃                                   │\n│        │                    │        │                                      │\n│        │기준층              │〃      │〃                                    │\n│        │급수?급탕평면도    │        │                                      │\n│        │                    │        │                                      │\n│        │기준층 오수배관     │〃      │〃                                    │\n│        │평면도              │        │                                      │\n│        │                    │        │                                      │\n│        │옥상 급수?급탕     │〃      │〃                                    │\n│        │?오수배관 평면도   │        │                                      │\n│        │                    │        │                                      │\n│        │소화배관 계통도     │-       │소방시설물 배관계통 및 시설물 표시    │\n│        │                    │        │                                      │\n│        │단위세대            │1/30    │소방시설물 설치표시                   │\n│        │소화배관평면도      │～1/60  │                                      │\n│        │                    │        │                                      │\n│        │지하층?1층         │1/100   │소방시설물 배관계통?시설물 설치표시  │\n│        │소화배관 평면도     │～1/200 │                                      │\n│        │                    │        │                                      │\n│        │기준층?옥상층      │〃      │〃                                    │\n│        │소화배관 평면도     │        │                                      │\n│        │                    │        │                                      │\n│        │동별가스배관        │-       │각종계기 위치, 배관경                 │\n│        │입상계통도          │        │                                      │\n│        │                    │        │                                      │\n│        │단위세대가스 평면도 │-       │계량기 위치, 배관경                   │\n│        │                    │        │                                      │\n│        │단위세대            │1/10    │장비배치, 급배기시설, 연료계통        │\n│        │보일러실 평면도     │～1/30  │                                      │\n│        │(개별난방인 경우)   │        │                                      │\n│        │                    │        │                                      │\n│        │옥상물탱크 제작     │1/5     │제작 상세도                           │\n│        │설치 상세도         │～1/10  │                                      │\n│        │                    │        │                                      │\n│        │E.L기계실           │〃      │설치 상세도                           │\n│        │배기휀설치          │        │                                      │\n│        │상세도              │        │                                      │\n│        │                    │        │                                      │\n│        │지하층 배관지지     │〃      │상세도                                │\n│        │상세도              │        │                                      │\n└────┴──────────┴────┴───────────────────┘\n┌────┬─────────┬───┬──────┐\n│구  분  │작성도서          │축 척 │작 성 내 용 │\n├────┼─────────┼───┼──────┤\n│기계설비│방열기 설치 상세도│1/5   │상세도      │\n│도(옥내)│                  │～1/10│            │\n│        │                  │      │            │\n│        │온도조절기 설치   │〃    │설치 상세도 │\n│        │상세도            │      │            │\n│        │                  │      │            │\n│        │열량계 설치 상세도│〃    │〃          │\n│        │                  │      │            │\n│        │난방용 온수       │〃    │〃          │\n│        │유량계 설치       │      │            │\n│        │상세도            │      │            │\n│        │                  │      │            │\n│        │온수분배기 배수   │〃    │〃          │\n│        │상세도            │      │            │\n│        │                  │      │            │\n│        │온수분배기 주위   │〃    │〃          │\n│        │배관 상세도       │      │            │\n│        │                  │      │            │\n│        │동관 접합 상세도  │〃    │〃          │\n│        │                  │      │            │\n│        │용접이음 상세도   │〃    │〃          │\n│        │                  │      │            │\n│        │배관받침대 및     │〃    │〃          │\n│        │관플렌지 상세도   │      │            │\n│        │                  │      │            │\n│        │닥트내 밸브설치   │〃    │〃          │\n│        │상세도            │      │            │\n│        │                  │      │            │\n│        │계량기함 설치     │〃    │〃          │\n│        │상세도            │      │            │\n│        │                  │      │            │\n│        │통기관 설치 상세도│〃    │〃          │\n│        │                  │      │            │\n│        │소재구 설치 상세도│〃    │〃          │\n│        │                  │      │            │\n│        │PVC관 및 주철관   │〃    │〃          │\n│        │연결 상세도       │      │            │\n│        │                  │      │            │\n│        │오?배수 입상관   │〃    │〃          │\n│        │소재구 및 옥외    │      │            │\n│        │연결 상세도       │      │            │\n│        │                  │      │            │\n│        │배기그릴 설치도   │〃    │〃          │\n│        │및 상세도         │      │            │\n│        │                  │      │            │\n│        │배기휀설치 상세도 │〃    │〃          │\n└────┴─────────┴───┴──────┘\n┌────┬──────────┬────┬────────────────────┐\n│구  분  │작성도서            │축 척   │작 성 내 용                             │\n├────┼──────────┼────┼────────────────────┤\n│기계설비│화이어댐파 설치     │1/5     │설치 상세도                             │\n│도(옥내)│상세도              │～1/10  │                                        │\n│        │                    │        │                                        │\n│        │옥상 PIT내 배관     │〃      │〃                                      │\n│        │보온 상세도         │        │                                        │\n│        │                    │        │                                        │\n│        │배수펌프 설치       │〃      │〃                                      │\n│        │상세도              │        │                                        │\n│        │                    │        │                                        │\n│        │온도계?압력계      │〃      │〃                                      │\n│        │설치 상세도         │        │                                        │\n│        │                    │        │                                        │\n│        │파이프 슬리브       │〃      │〃                                      │\n│        │상세도              │        │                                        │\n│        │                    │        │                                        │\n│        │인써트 플레이트     │〃      │〃                                      │\n│        │상세도              │        │                                        │\n│        │                    │        │                                        │\n│        │클렘프 설치 상세도  │〃      │〃                                      │\n│        │                    │        │                                        │\n│        │옥상 통기관 상세도  │〃      │〃                                      │\n│        │                    │        │                                        │\n│        │배관 및 보온설치    │〃      │〃                                      │\n│        │상세도              │        │                                        │\n├────┼──────────┼────┼────────────────────┤\n│기계설비│옥외공동구 단면도   │1/10    │난방, 급수, 급탕, 소화의 관로 등        │\n│도(옥외)│                    │～1/50  │                                        │\n│        │                    │        │                                        │\n│        │옥외공동구          │1/300   │보일러실?중간기계실에서 각동에 난방공  │\n│        │난방배관 평면도     │～1/600 │급 및 환수를 위한 배관관로 및 분기장    │\n│        │                    │        │치, 담당 기계실 표시                    │\n│        │                    │        │                                        │\n│        │옥외공동구          │〃      │단지입구 시수 관로로부터 분기위치 및    │\n│        │급수배관 평면도     │        │관경, 펌프실 위치, 펌프실 위치로부터    │\n│        │                    │        │각동에 급수공급 관로 및 관경표시        │\n│        │                    │        │                                        │\n│        │옥외공동구          │1/300   │옥내소화전 관로 및 관경, 옥내스프링클러 │\n│        │소화배관 평면도     │～1/600 │관로 및 관경, 기타 소방법에서 정하고    │\n│        │                    │        │있는 소화관로 및 관경표시               │\n│        │                    │        │                                        │\n│        │옥외가스배관        │〃      │각종계기, 밸브의 위치표시, 배관경       │\n│        │평면도              │        │                                        │\n│        │                    │        │                                        │\n│        │우?오수배관 계통도 │〃      │배관계통, 배관의 재질, 규격, 맨홀위치,  │\n│        │                    │        │건축배관 한계 등                        │\n└────┴──────────┴────┴────────────────────┘\n┌─────┬─────────┬───┬────────────────────┐\n│구  분    │작성도서          │축 척 │작 성 내 용                             │\n├─────┼─────────┼───┼────────────────────┤\n│기계설비  │장비일람표        │-     │기계설비 장비일람표                     │\n│도(보일러 │                  │      │                                        │\n│실)       │보일러실 배관     │-     │기계설비 전체구성 및 운영계통을 파악할  │\n│          │계통도            │      │수 있는 사항표시                        │\n│          │                  │      │                                        │\n│          │중간기계실 배관   │-     │〃                                      │\n│          │계통도            │      │                                        │\n│          │                  │      │                                        │\n│          │중간기계실 장비   │-     │장비 배치도                             │\n│          │배치도            │      │                                        │\n│          │                  │      │                                        │\n│          │펌프실 급수배관   │-     │급수배관, 펌프구성, 배열, 관경 표시     │\n│          │평면도            │      │                                        │\n│          │                  │      │                                        │\n│          │펌프실 소화배관   │-     │소화배관, 소화펌프 구성?배열, 관경 표시│\n│          │평면도            │      │                                        │\n│          │                  │      │                                        │\n│          │자동제어 계통도   │-     │기계설비 전체구성 및 운영계통을 파악할  │\n│          │                  │      │수 있는 사항표시                        │\n├─────┼─────────┼───┼────────────────────┤\n│기계설비  │옥내소화전 상세도 │1/5   │설치 상세도                             │\n│상세도    │                  │～1/10│                                        │\n│          │                  │      │                                        │\n│          │옥외소화전 상세도 │〃    │〃                                      │\n│          │                  │      │                                        │\n│          │연결 송수관 상세도│〃    │〃                                      │\n│          │                  │      │                                        │\n│          │자동확산 소화용구 │〃    │〃                                      │\n│          │설치 상세도       │      │                                        │\n│          │                  │      │                                        │\n│          │방수용 기구함     │〃    │〃                                      │\n│          │설치 상세도       │      │                                        │\n│          │                  │      │                                        │\n│          │쌍구 방수구함     │〃    │〃                                      │\n│          │설치 상세도       │      │                                        │\n│          │                  │      │                                        │\n│          │단구 방수구함     │〃    │〃                                      │\n│          │설치 상세도       │      │                                        │\n│          │                  │      │                                        │\n│          │시험밸브 상세도   │〃    │〃                                      │\n│          │                  │      │                                        │\n│          │스프링클러 설치   │〃    │〃                                      │\n│          │상세도            │      │                                        │\n│          │                  │      │                                        │\n│          │옥내소화전 감압   │〃    │〃                                      │\n│          │밸브 상세도       │      │                                        │\n└─────┴─────────┴───┴────────────────────┘\n┌────┬──────────┬────┬──────────────────────┐\n│구  분  │작성도서            │축 척   │작 성 내 용                                 │\n├────┼──────────┼────┼──────────────────────┤\n│전기설비│단위세대 배전도     │1/30    │조명기구?스위치?콘센트?세대분전반 설치   │\n│        │                    │～1/60  │위치 및 배치                                │\n│        │                    │        │                                            │\n│        │공용부 회로 계통도  │-       │계단?복도?지하층 등 전등 및 전열회로 계통 │\n│        │                    │        │                                            │\n│        │지하층 전력간선     │1/100   │전력간선 : 주분전반에서 각 세대분전반       │\n│        │및 전등배선도       │～1/200 │간의 배관배선                               │\n│        │                    │        │전등?전열 : 지하층 전등?전열설치, 배관배  │\n│        │                    │        │선                                          │\n│        │                    │        │                                            │\n│        │1층 전력간선 및     │〃      │- 1층 공용부분 전등?전열설치위치 및 배선   │\n│        │전등배선도          │        │-각세대 분전반?계량기함 설치위치 및  배선  │\n│        │                    │        │                                            │\n│        │기준층 전력간선     │〃      │-기준층 공용부문 전등?전열 설치위치  및    │\n│        │및 전등배선도       │        │배선                                        │\n│        │                    │        │-각 세대 분전반?계량기함 설치위치 및 배    │\n│        │                    │        │선                                          │\n│        │                    │        │                                            │\n│        │지붕층 전력간선     │〃      │-지붕층 공용부분 전등?전열 설치위치 및     │\n│        │및 전등배선도       │        │배선                                        │\n│        │                    │        │-동력분전함 설치위치 및 배선                │\n│        │                    │        │-피뢰침 설치위치 및 배선                    │\n│        │                    │        │                                            │\n│        │전력 및 통신인입    │1/300   │-전력통신 인입위치 및 배관배선, 맨홀 및     │\n│        │제어배선도          │～1/600 │수공                                        │\n│        │                    │        │-개폐기 및 변압기 위치                      │\n│        │                    │        │-옥외 스피커 배관?배선                     │\n│        │                    │        │                                            │\n│        │수전반?배전반?변압│1/10    │수전반?배전반?변압기반 등 설치상태        │\n│        │기반 설치 상세도    │～1/50  │                                            │\n│        │                    │        │                                            │\n│        │변전실 접지 및      │1/30    │각종접지 배선?조작?고장상태 감시, 계측 배 │\n│        │제어 배선도         │～1/50  │관배선                                      │\n│        │                    │        │                                            │\n│        │중앙감시 제어일람표 │-       │판넬별 조작 및 감시?계측?변환기 수량      │\n│        │                    │        │                                            │\n│        │보일러실 동력배선도 │1/100   │동력반 및 모터위치, 배관?배선              │\n│        │                    │～1/200 │                                            │\n│        │                    │        │                                            │\n│        │보일러실 배선       │-       │장비명, 모터용량, 대수, 배관, 배선상시?예  │\n│        │일람표              │        │비 구분, 시공방법                           │\n└────┴──────────┴────┴──────────────────────┘\n┌─────┬──────────┬────┬─────────────────────┐\n│구  분    │작성도서            │축 척   │작 성 내 용                               │\n├─────┼──────────┼────┼─────────────────────┤\n│전기설비  │공동구내 전력       │1/300   │구간별 아파트, 지하저수조?중간기계실등   │\n│          │간선계통도          │～1/600 │배선                                      │\n│          │                    │        │                                          │\n│          │중간기계실 전등     │1/20    │동력반 및 모터위치?배관배선 등           │\n│          │및 동력배선도       │～1/50  │                                          │\n│          │                    │        │                                          │\n│          │지하저수조 동력반   │〃      │단선결선도 모터용량?차단기?변류기?콘테 │\n│          │결선도              │        │이너 규격,상시 및 예비구분                │\n│          │                    │        │                                          │\n│          │지하저수조 동력     │〃      │동력반 및 모터위치?배관배선 등           │\n│          │및 전등 배선도      │        │                                          │\n│          │                    │        │                                          │\n│          │변전실 단선결선도   │-       │수변전설비?배전설비?발전설비 기기 규격  │\n│          │                    │        │및 계통                                   │\n│          │                    │        │                                          │\n│          │변전실 배선도       │1/20    │특고반?변압기반, 저압판 발전기 및 운전   │\n│          │                    │～1/50  │반 위치, 특고인입 배관배선, 저압반과 발   │\n│          │                    │        │전기간 배관배선                           │\n│          │                    │        │                                          │\n│          │중간기계실 동력반   │〃      │단선결선도, 모터용량, 차단기?변류기?콘  │\n│          │결선도              │        │덴서규격, 상시 및 예비구분                │\n│          │                    │        │                                          │\n│          │보일러실 동력       │〃      │〃                                        │\n│          │결선도              │        │                                          │\n│          │                    │        │                                          │\n│          │세대별 배선기구류   │-       │각 세대당 설치하는 배선 기구류 등의 설    │\n│          │설치 상세도         │        │치 상세도                                 │\n│          │                    │        │                                          │\n│          │계량기함 상세도     │-       │〃                                        │\n│          │                    │        │                                          │\n│          │주 분전반 및        │-       │〃                                        │\n│          │행거설치 상세도     │        │                                          │\n│          │                    │        │                                          │\n│          │전기실 상세도       │-       │〃                                        │\n│          │                    │        │                                          │\n│          │곤도라 작동         │-       │〃                                        │\n│          │회로도 및           │        │                                          │\n│          │판넬외형도          │        │                                          │\n│          │                    │        │                                          │\n│          │곤도라 전원함 상세도│-       │〃                                        │\n│          │                    │        │                                          │\n│          │발전기 설치 상세도  │1/20    │평면도, 단면도, 설치방법                  │\n│          │                    │～1/50  │                                          │\n└─────┴──────────┴────┴─────────────────────┘\n┌──────┬──────────┬────┬──────────────────────┐\n│구  분      │작성도서            │축 척   │작 성 내 용                                 │\n├──────┼──────────┼────┼──────────────────────┤\n│전기설비    │중앙감시 그래픽     │-       │각종감시 계통도(화재경보?전력계통?승강    │\n│            │판넬 상세도         │        │기)                                         │\n│            │                    │        │                                            │\n│            │공동구 찬넬 설치    │1/20    │구간별 수직?수평 찬넬 길이 및 고정위치?케 │\n│            │상세도              │～1/50  │이트레이 및 덕트규격                        │\n│            │                    │        │                                            │\n│            │중간기계실 단면     │〃      │중간기계실 정면?측면도                     │\n│            │상세도              │        │                                            │\n│            │                    │        │                                            │\n│            │공동구 단면         │-       │지지금구, 케이블트레이, 덕트, 캐이블,       │\n│            │상세도              │        │전등, 콘센트 설치도 등                      │\n│            │                    │        │                                            │\n│            │유니트 상세도       │1/20    │상세도                                      │\n│            │                    │～1/50  │                                            │\n│            │                    │        │                                            │\n│            │동력반 상세도       │〃      │동력반 및 모터 위치 등                      │\n│            │                    │        │                                            │\n│            │공동구 지지금구     │-       │수직?수평브라켓트, 케이블트레이, 덕트 및   │\n│            │상세도              │        │부속류 등                                   │\n│            │                    │        │                                            │\n│            │터파기 및 전력      │1/10    │터파기 및 관로 매설도, 맨홀상세, 외벽       │\n│            │인입맨홀 상세도     │～1/30  │관통 스라브 상세 등                         │\n│            │                    │        │                                            │\n│            │발전기 기초 및      │-       │기초 및 연료탱크                            │\n│            │연료탱크 상세도     │        │                                            │\n│            │                    │        │                                            │\n│            │한전인입 상세도     │-       │평면도, 정면도                              │\n│            │                    │        │                                            │\n│            │굴뚝 피뢰침 상세도  │-       │상세도                                      │\n│            │                    │        │                                            │\n│            │접지시험 단자함 및  │-       │접지시험 단자함 및 설치상세, 모터배관       │\n│            │모타배관지지 상세도 │        │지지상세 등                                 │\n│            │                    │        │                                            │\n│            │옥외 보안등 설치    │-       │기초?등주?등기구?안정기설치 상세         │\n│            │상세도              │        │                                            │\n├──────┼──────────┼────┼──────────────────────┤\n│통신?방송?│유도등?유도표지    │-       │소방설비 배관배선                           │\n│화재경보설  │상세도(각층별)      │        │                                            │\n│비          │                    │        │                                            │\n│            │TV공청안테나 및     │1/100   │TV공청안테나와 피뢰침 설치 상세             │\n│            │피뢰침 설치 상세도  │～1/200 │                                            │\n│            │                    │        │                                            │\n│            │옥외용 스피커       │1/20    │스피커외형도, 스피커지지밴드 상세, 배       │\n│            │상세도              │～1/50  │선인출 방법                                 │\n└──────┴──────────┴────┴──────────────────────┘\n┌──────┬──────────┬────┬────────────────────┐\n│구  분      │작성도서            │축 척   │작 성 내 용                             │\n├──────┼──────────┼────┼────────────────────┤\n│통신?방송?│화재경보설비 계통도 │-       │화재경보설비 입상                       │\n│화재경보설  │                    │        │                                        │\n│비          │유도등?유도표지    │-       │각층의 유도등 설비 계통표기             │\n│            │계통도              │        │                                        │\n│            │                    │        │                                        │\n│            │화재설비 계통도     │1/100   │소방설비 배선배관                       │\n│            │(지하층, 1층,       │～1/300 │                                        │\n│            │기준층, 지붕층)     │        │                                        │\n│            │                    │        │                                        │\n│            │안내실 배선도       │-       │배선도                                  │\n│            │                    │        │                                        │\n│            │유도등?유도표지    │-       │〃                                      │\n│            │상세도              │        │                                        │\n│            │                    │        │                                        │\n│            │전화?TV공시청?인  │-       │배관배선 입상계통                       │\n│            │터폰?방송시설      │        │                                        │\n│            │계통도(지하층,      │        │                                        │\n│            │1층, 기준층,        │        │                                        │\n│            │지붕층)             │        │                                        │\n│            │                    │        │                                        │\n│            │공동구내 인터폰     │1/300   │구간별 방송?인터폰?인터컴 배선        │\n│            │및 방송계통도       │～1/600 │                                        │\n│            │                    │        │                                        │\n│            │공동구내 방재 및    │〃      │구간별 화재감시, 소화?승강기 감시배선  │\n│            │승강기 감시 계통도  │        │                                        │\n│            │                    │        │                                        │\n│(신설)      │지능형 홈네트워크   │-       │단지서버 상호 연동체계(지능형 홈네트워크│\n│            │(스마트홈) 구성도   │        │설비를 설치하는 경우 작성)              │\n└──────┴──────────┴────┴────────────────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261138&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153912289",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153912253",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153912289",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:주택의설계도서작성기준#BYL0002",
+      "filename": "별표2_실시설계도면 작성내용.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "주요 간수에 따른 안목치수 확보방법(예시)",
+      "enforcement_date": "",
+      "content": "[별표 3]\n주요 간수에 따른 안목치수 확보방법(예시)\n1. \"1 간수\"에서의 확보방법\n2. \"2 간수\"에서의 확보방법\n3. \"3 간수\"에서의 확보방법",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261138&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153912295",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153912291",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153912295",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:주택의설계도서작성기준#BYL0003",
+      "filename": "별표3_주요 간수에 따른 안목치수 확보방법(예시).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별표",
+      "title": "도면표시방법",
+      "enforcement_date": "",
+      "content": "[별표 4]\n도면표시방법\n┌──────────┬──────────────────────────┬────┒\n│구    분            │내      용                                          │사용기호┃\n├─┬────────┼──────────────────────────┼────┨\n│치│중심선          │- 구조체의 구조계산, 면적, 견적시 기준으로 사용     │        ┃\n│수├────────┼──────────────────────────┼────┨\n│기│모듈대 기준선   │- 기준선 사이 치수가 모듈치수일 경우 사용           │        ┃\n│준├────────┼──────────────────────────┼────┨\n│선│조절대 기준선   │- 기준선 사이 치수가 비모듈치수일 경우 사용         │        ┃\n│  ├────────┼──────────────────────────┼────┨\n│  │보조 기준선     │- 기준선을 기점으로 한 이격거리로 표시되며, 구성재  │        ┃\n│  │                │의 위치 및 영역을 지정                              │        ┃\n│  ├────────┼──────────────────────────┼────┨\n│  │비모듈대 기준선 │- 기준선으로부터 비모듈 치수만큼 떨어진 거리에서    │        ┃\n│  │                │건축구성재를 조합할 경우 사용하는 기준선            │        ┃\n│  ├────────┼──────────────────────────┼────┨\n│  │연속치수        │- 어떤 기점을 기준으로 하여 설정된 간격을 동일 직   │        ┃\n│  │                │선상에서 단계적으로 합한 치수를 표시하여 부정확     │        ┃\n│  │                │한 치수계산을 최소화시킴                            │        ┃\n│  ├────────┼──────────────────────────┼────┨\n│  │위치 기준선     │- 시공오차를 최소화시킬 수 있는 위치에 설정되는 기  │        ┃\n│  │                │준선으로 현장 먹줄치기의 기준 등으로 활용           │        ┃\n├─┼────────┼──────────────────────────┼────┨\n│공│ 모듈대         │- 모듈치수가 좌우에 인접할 경우의 모듈대 표시       │        ┃\n│간│                ├──────────────────────────┼────┨\n│대│                │- 비모듈 치수가 좌우에 인접할 경우의 모듈대 표시    │        ┃\n│  │                ├──────────────────────────┼────┨\n│  │                │- 모듈과 비모듈 치수가 인접할 경우의 모듈대 표시    │        ┃\n│  ├────────┼──────────────────────────┼────┨\n│  │비모듈대        │- 비모듈 치수가 좌우에 인접할 경우의 비모듈대 표시  │        ┃\n│  │                ├──────────────────────────┼────┨\n│  │                │- 모듈치수가 좌우에 인접할 경우의 비모듈대 표시     │        ┃\n│  │                ├──────────────────────────┼────┨\n│  │                │- 모듈과 비모듈 치수가 인접할 경우의 비모듈대 표시  │        ┃\n├─┴────────┼──────────────────────────┼────┨\n│모듈화된 건축구성재 │- 창호재                                            │        ┃\n│                    ├──────────────────────────┼────┨\n│                    │- 기타부품                                          │        ┃\n│                    │  ? 단위부품 : 간막이벽체, 바닥판, 천장판 등       │        ┃\n│                    │  ? 조립부품 : 수납벽체, 조립식욕실,               │        ┃\n│                    │               조립식 파이프덕트 등                 │        ┃\n┕━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261138&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153912301",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153912297",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153912301",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:주택의설계도서작성기준#BYL0004",
+      "filename": "별표4_도면표시방법.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별표",
+      "title": "도면표기의 세부작성 방법",
+      "enforcement_date": "",
+      "content": "[별표 5]\n도면표기의 세부작성 방법\n1. 치수기입 및 기준선 표기\n2. 기준선과 중심선의 표기\n3. 창호 모듈치수 표기\n4. 구조계산 및 면적 산정 등을 위한 표기방법\n- 전ㆍ후면 외벽(전용면적 산정시)\n- 세대간 경계벽(측벽, 내벽, 코아벽)",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261138&bylNo=0005&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153912309",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153912303",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153912309",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:주택의설계도서작성기준#BYL0005",
+      "filename": "별표5_도면표기의 세부작성 방법.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별표",
+      "title": "구조계획 및 수평계획모듈 등 설정방법(제20조 관련)",
+      "enforcement_date": "",
+      "content": "[별표6] 구조계획 및 수평계획모듈 등 설정방법(제20조 관련)\n- 구조계획모듈 설정방법\n- 수평계획모듈 설정방법",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261138&bylNo=0006&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153912315",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153912311",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153912315",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:주택의설계도서작성기준#BYL0006",
+      "filename": "별표6_구조계획 및 수평계획모듈 등 설정방법(제20조 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "별표",
+      "title": "수직계획모듈 및 창문대기준면 설정방법(제21조 관련)",
+      "enforcement_date": "",
+      "content": "[별표7] 수직계획모듈 및 창문대기준면 설정방법(제21조 관련)\n- 수직계획모듈 설정방법(층고/천장고)\n- 창문대기준면 설정방법",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000261138&bylNo=0007&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153912321",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153912317",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153912321",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:주택의설계도서작성기준#BYL0007",
+      "filename": "별표7_수직계획모듈 및 창문대기준면 설정방법(제21조 관련).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "6. 전문_주택의 설계도서 작성기준.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=153827261",
+      "file_store_url": "",
+      "filename": "6. 전문_주택의 설계도서 작성기준.hwpx"
+    },
+    {
+      "name": "6. 주택의 설계도서 작성기준_[별표 2] 실시설계도면 작성내용.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=153827265",
+      "file_store_url": "",
+      "filename": "6. 주택의 설계도서 작성기준_[별표 2] 실시설계도면 작성내용.hwpx"
+    },
+    {
+      "name": "6. 370 고시안_주택의 설계도서 작성기준.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=153827267",
+      "file_store_url": "",
+      "filename": "6. 370 고시안_주택의 설계도서 작성기준.pdf"
+    },
+    {
+      "name": "6. (양식)조문별제개정이유서_주택의 설계도서 작성기준.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=153912155",
+      "file_store_url": "",
+      "filename": "6. (양식)조문별제개정이유서_주택의 설계도서 작성기준.hwpx"
+    },
+    {
+      "name": "6. (양식)조문별제개정이유서_주택의 설계도서 작성기준.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=153912159",
+      "file_store_url": "",
+      "filename": "6. (양식)조문별제개정이유서_주택의 설계도서 작성기준.pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 25,
+    "by_category": {
+      "법령": 15,
+      "별표": 9,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 16,
+      "appendix_ref": 9
+    },
+    "articles_total": 23,
+    "articles_with_relations": 11,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 10,
+    "appendices_count": 7,
+    "attachments_count": 5
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/주택의 설계도서 작성기준"
+  },
+  "provision_id": "admrul:주택의설계도서작성기준#DOC"
+}
