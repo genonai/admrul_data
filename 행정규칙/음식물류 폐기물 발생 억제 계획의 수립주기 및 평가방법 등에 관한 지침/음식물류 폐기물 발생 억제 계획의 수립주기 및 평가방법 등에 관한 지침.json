@@ -1,0 +1,820 @@
+{
+  "law_id": "2100000266096",
+  "mst": "2100000266096",
+  "law_name": "음식물류 폐기물 발생 억제 계획의 수립주기 및 평가방법 등에 관한 지침",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000266096",
+  "promulgation_no": "2025-165",
+  "promulgation_date": "20251001",
+  "enforcement_date": "20251001",
+  "revision_date": "20251001",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "기후에너지환경부(생활폐기물과)",
+    "담당자명": "강명주",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "음식물류 폐기물 발생 억제 계획의 수립주기 및 평가방법 등에 관한 지침",
+    "발령일자": "20251001",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "기후에너지환경부",
+    "전화번호": "044-201-7422",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1482000",
+    "생성일자": "20251111",
+    "행정규칙ID": "2089248",
+    "시행일자": "20251001",
+    "담당부서기관코드": "1482144",
+    "발령번호": "2025-165",
+    "행정규칙일련번호": "2100000266096",
+    "상위부처명": "기후에너지환경부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n○ 정부조직법 개정(‘25.10.1. 공포ㆍ시행)\n\n◇ 주요내용\n○ 정부조직법 개정에 따라 기관명칭(환경부 → 기후에너지환경부)을 변경",
+  "body": {
+    "format": "articles",
+    "article_count": 13,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 지침은 「폐기물관리법」(이하 \"법\"이라 한다) 제14조의3 및 같은 법 시행규칙(이하 \"시행규칙\"이라 한다) 제16조제5항에 따라 음식물류 폐기물 발생 억제 계획의 수립주기 및 평가방법 등에 관한 세부사항을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제14조의3",
+            "line_text": "",
+            "target_law_name": "폐기물관리법",
+            "target_article_no": "제14조의3",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/폐기물관리법/제14조의3",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0001",
+            "reference_id": "law:폐기물관리법#JO0014_03"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행규칙",
+            "line_text": "",
+            "target_law_name": "폐기물관리법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/폐기물관리법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0001",
+            "reference_id": "law:폐기물관리법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제16조제5항",
+            "line_text": "",
+            "target_law_name": "폐기물관리법 시행규칙",
+            "target_article_no": "제16조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/폐기물관리법 시행규칙/제16조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0001",
+            "reference_id": "law:폐기물관리법시행규칙#JO0016"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) 이 지침에서 사용하는 용어의 정의는 다음과 같다.1. \"평가대상기관\"이란 법 제14조의3제1항에 따라 음식물류 폐기물(농산물류ㆍ수산물류ㆍ축산물류 폐기물을 포함한다. 이하 같다) 발생 억제 계획을 수립ㆍ시행하고, 그 추진성과를 평가하여야 하는 특별자치시장, 특별자치도지사, 시장ㆍ군수ㆍ구청장을 말한다.2. \"성과보고서\"란 평가대상기관이 음식물류 폐기물 발생 억제 계획의 연도별 세부 추진계획의 성과를 평가하기 위하여 작성한 보고서를 말한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "폐기물관리법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/폐기물관리법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0002",
+            "reference_id": "law:폐기물관리법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제14조의3제1항",
+            "line_text": "",
+            "target_law_name": "폐기물관리법",
+            "target_article_no": "제14조의3",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/폐기물관리법/제14조의3",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0002",
+            "reference_id": "law:폐기물관리법#JO0014_03"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "적용범위",
+        "chapter": "",
+        "content": "제3조(적용범위) 이 지침은 음식물류 폐기물 발생 억제 계획의 수립ㆍ시행 및 평가에 대하여 적용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "음식물류 폐기물 발생 억제 계획의 수립절차 및 수립시기",
+        "chapter": "",
+        "content": "제4조(음식물류 폐기물 발생 억제 계획의 수립절차 및 수립시기) ① 평가대상기관은 법 제14조의3제1항에 따라 음식물류 폐기물 발생 억제 계획의 수립대상기간이 시작되기 전년도 말까지 연도별 세부 추진계획을 포함하여 음식물류 폐기물 발생 억제 계획을 수립하여야 한다.② 제1항에 따른 연도별 세부추진계획에는 다음 각 호의 사항을 포함하여야 한다.1. 주택(단독ㆍ공동), 소형음식점, 다량배출사업장 등 발생원별 음식물류 폐기물 발생 억제 계획2. 음식물류 폐기물 RFID 및 감량기 확산계획3. 재활용 방법, 처리시설 운영 및 확충, 수집ㆍ운반체계 개선 등 음식물류 폐기물 처리에 관한 계획4. 음식물류 폐기물 수수료 현실화 계획5. 그 밖의 음식물류 폐기물 발생 억제를 위한 홍보 계획 등③ 법 제14조의3제1항제3호의 음식물류 폐기물의 발생 억제 목표는 평가대상기관의 재정적, 제도적 여건을 고려하여 연차별로 수립하여야 하며, 구체적인 음식물류 폐기물 발생 억제 목표 수립기준은 「별표 1」과 같다.④ 평가대상기관은 음식물류 폐기물 발생 억제 계획을 수립할 때에는 시행규칙 제16조제4항에 따른 평가위원회(이하 \"평가위원회\"라 한다)의 의견을 들을 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "제14조의3제1항",
+            "line_text": "",
+            "target_law_name": "폐기물관리법",
+            "target_article_no": "제14조의3",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/폐기물관리법/제14조의3",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0004",
+            "reference_id": "law:폐기물관리법#JO0014_03"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제4항",
+            "link_text": "시행규칙",
+            "line_text": "",
+            "target_law_name": "폐기물관리법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/폐기물관리법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0004",
+            "reference_id": "law:폐기물관리법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제4항",
+            "link_text": "제16조제4항",
+            "line_text": "",
+            "target_law_name": "폐기물관리법 시행규칙",
+            "target_article_no": "제16조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/폐기물관리법 시행규칙/제16조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0004",
+            "reference_id": "law:폐기물관리법시행규칙#JO0016"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "음식물류 폐기물 발생 억제 계획의 연도별 성과평가 절차 및 방법",
+        "chapter": "",
+        "content": "제5조(음식물류 폐기물 발생 억제 계획의 연도별 성과평가 절차 및 방법) ① 평가대상기관은 제4조에 따라 수립한 연도별 세부 추진계획의 성과를 평가(이하 \"성과평가\"라 한다)하기 위하여 다음 연도 3월 10일까지 [별지 제1호 서식]에 따라 성과보고서를 작성하여 평가위원회에 평가를 의뢰하여야 한다.② 평가위원회는 제1항에 따라 평가대상기관이 의뢰한 성과보고서를 평가하고 그 결과를 [별지 제2호 서식]에 따라 3월 20일까지 평가대상기관에 제출하여야 하며 성과평가에 대한 구체적인 기준 및 방법은 「별표 2」와 같다.③ 평가대상기관은 제2항에 따라 평가위원회로부터 제출받은 평가결과를 반영, 연도별 세부 추진계획을 조정하여 4월 10일까지 성과평가를 완료하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "음식물류 폐기물 발생 억제 계획의 수립주기 및 평가방법 등에 관한 지침",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/음식물류 폐기물 발생 억제 계획의 수립주기 및 평가방법 등에 관한 지침/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0005",
+            "reference_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0004"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "별지 제1호 서식",
+            "line_text": "",
+            "target_law_name": "음식물류 폐기물 발생 억제 계획의 수립주기 및 평가방법 등에 관한 지침",
+            "target_article_no": "별지1",
+            "target_article_title": "음식물류 폐기물 발생 억제 성과보고서(제5조제1항 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157822263",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0005",
+            "reference_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "평가위원회 기능",
+        "chapter": "",
+        "content": "제6조(평가위원회 기능) 평가위원회는 음식물류 폐기물 발생 억제 계획의 연도별 세부 추진계획의 성과를 평가한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "평가위원회 구성",
+        "chapter": "",
+        "content": "제7조(평가위원회 구성) ① 평가위원회는 시행규칙 제16조제4항의 규정에 따라 구성한다.② 평가위원회의 원활한 운영을 위하여 위원장을 둘 수 있으며, 위원장 및 위원의 임기는 2년으로 하고 연임할 수 있다. 다만 위원이 궐위된 경우 후임 위원의 임기는 전임자의 잔여기간으로 한다.③ 평가위원회의 업무를 보좌하고 평가업무 수행을 원활히 추진하기 위하여 간사를 두며, 간사는 평가대상기관의 담당부서장으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "시행규칙",
+            "line_text": "",
+            "target_law_name": "폐기물관리법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/폐기물관리법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0007",
+            "reference_id": "law:폐기물관리법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "제16조제4항",
+            "line_text": "",
+            "target_law_name": "폐기물관리법 시행규칙",
+            "target_article_no": "제16조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/폐기물관리법 시행규칙/제16조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0007",
+            "reference_id": "law:폐기물관리법시행규칙#JO0016"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "평가위원회 운영",
+        "chapter": "",
+        "content": "제8조(평가위원회 운영) 평가위원회의 회의는 성과평가를 위하여 연 1회 개최를 원칙으로 하며, 평가대상기관은 구성 위원 과반수이상이 성과평가에 참여할 수 있도록 하여야 한다. 다만, 제4조제4항에 따라 평가대상기관의 음식물류 폐기물 발생 억제 계획에 대한 의견 요청이 있을 경우에는 수시로 개최할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "제4조제4항",
+            "line_text": "",
+            "target_law_name": "음식물류 폐기물 발생 억제 계획의 수립주기 및 평가방법 등에 관한 지침",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/음식물류 폐기물 발생 억제 계획의 수립주기 및 평가방법 등에 관한 지침/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0008",
+            "reference_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "평가위원 수당 등",
+        "chapter": "",
+        "content": "제9조(평가위원 수당 등) 평가위원회에 참석한 위원에 대하여는 예산의 범위내에서 수당ㆍ여비 기타 필요한 경비를 지급할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "보고서 등 제출",
+        "chapter": "",
+        "content": "제10조(보고서 등 제출) 평가대상기관은 제4조에 따른 음식물류 폐기물 발생 억제 계획, 제5조에 따른 성과보고서 및 평가위원회의 성과평가결과를 4월 30일까지 기후에너지환경부장관에게 제출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "음식물류 폐기물 발생 억제 계획의 수립주기 및 평가방법 등에 관한 지침",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/음식물류 폐기물 발생 억제 계획의 수립주기 및 평가방법 등에 관한 지침/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0010",
+            "reference_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0004"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "제5조",
+            "line_text": "",
+            "target_law_name": "음식물류 폐기물 발생 억제 계획의 수립주기 및 평가방법 등에 관한 지침",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/음식물류 폐기물 발생 억제 계획의 수립주기 및 평가방법 등에 관한 지침/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0010",
+            "reference_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "평가결과의 활용",
+        "chapter": "",
+        "content": "제11조(평가결과의 활용) ① 평가대상기관은 법 제9조에 따른 폐기물처리기본계획 및 폐기물처리시설 설치계획을 수립할 경우에는 제4조 및 제5조에 따른 음식물류 폐기물 발생 억제 계획과 성과평가 결과를 반영하여야 한다.② 기후에너지환경부장관은 법 제56조에 따라 폐기물처리시설의 설치에 필요한 비용을 지원하거나 음식물류 폐기물과 관련된 사업에 필요한 비용을 지원할 경우 제5조에 따른 평가결과를 고려할 수 있다.③ 기후에너지환경부장관은 제5조의 성과평가 결과에 따라 우수 기관을 선정하여 표창을 수여하거나 예산의 범위 내에서 인센티브를 지원할 수 있다.④ 기후에너지환경부장관은 제2항 및 제3항에 따른 지원을 할 경우에는 평가대상기관에서 제출한 성과평가결과를 확인ㆍ검증하여야 하며, 제출자료의 확인ㆍ검증을 위해서는 폐기물관리법 제58조의2에 따른 한국폐기물협회에 업무의 전부 또는 일부를 대행하게 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "폐기물관리법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/폐기물관리법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0011",
+            "reference_id": "law:폐기물관리법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "제9조",
+            "line_text": "",
+            "target_law_name": "폐기물관리법",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/폐기물관리법/제9조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0011",
+            "reference_id": "law:폐기물관리법#JO0009"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "제4조 및 제5조",
+            "line_text": "",
+            "target_law_name": "음식물류 폐기물 발생 억제 계획의 수립주기 및 평가방법 등에 관한 지침",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/음식물류 폐기물 발생 억제 계획의 수립주기 및 평가방법 등에 관한 지침/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0011",
+            "reference_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0004"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "제4조 및 제5조",
+            "line_text": "",
+            "target_law_name": "음식물류 폐기물 발생 억제 계획의 수립주기 및 평가방법 등에 관한 지침",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/음식물류 폐기물 발생 억제 계획의 수립주기 및 평가방법 등에 관한 지침/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0011",
+            "reference_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제2항",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "폐기물관리법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/폐기물관리법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0011",
+            "reference_id": "law:폐기물관리법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제2항",
+            "link_text": "제56조",
+            "line_text": "",
+            "target_law_name": "폐기물관리법",
+            "target_article_no": "제56조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/폐기물관리법/제56조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0011",
+            "reference_id": "law:폐기물관리법#JO0056"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제2항",
+            "link_text": "제5조",
+            "line_text": "",
+            "target_law_name": "음식물류 폐기물 발생 억제 계획의 수립주기 및 평가방법 등에 관한 지침",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/음식물류 폐기물 발생 억제 계획의 수립주기 및 평가방법 등에 관한 지침/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0011",
+            "reference_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0005"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제3항",
+            "link_text": "제5조",
+            "line_text": "",
+            "target_law_name": "음식물류 폐기물 발생 억제 계획의 수립주기 및 평가방법 등에 관한 지침",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/음식물류 폐기물 발생 억제 계획의 수립주기 및 평가방법 등에 관한 지침/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0011",
+            "reference_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제4항",
+            "link_text": "제58조의2",
+            "line_text": "",
+            "target_law_name": "폐기물관리법",
+            "target_article_no": "제58조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/폐기물관리법/제58조의2",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0011",
+            "reference_id": "law:폐기물관리법#JO0058_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "기술지원 등",
+        "chapter": "",
+        "content": "제12조(기술지원 등) ① 기후에너지환경부장관은 제10조에 따라 제출한 성과평가결과에 대하여 개선이 필요한 경우 평가대상기관에 개선대책을 수립ㆍ제출하도록 조치할 수 있다.② 기후에너지환경부장관은 제1항에 따라 평가대상기관에서 제출한 개선대책을 검토하고 필요할 경우 기술지원을 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "제10조",
+            "line_text": "",
+            "target_law_name": "음식물류 폐기물 발생 억제 계획의 수립주기 및 평가방법 등에 관한 지침",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/음식물류 폐기물 발생 억제 계획의 수립주기 및 평가방법 등에 관한 지침/제10조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0012",
+            "reference_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0010"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제13조(재검토기한) 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제334호)에 따라 이 고시 발령 후의 법령이나 현실여건의 변화 등을 검토하여 이 고시의 폐지, 개정 등의 조치를 하여야 하는 기한은 2025년 12월 31일까지로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조",
+            "source_clause": "제13조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0013",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#JO0013"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20150903",
+      "promulgation_no": "2015-164",
+      "content": "부칙 <제2015-164호,2015. 9. 3.>제1조 이 지침은 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20200908",
+      "promulgation_no": "2020-190",
+      "content": "부칙 <제2020-190호,2020. 9. 8.>제1조 이 지침은 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20251001",
+      "promulgation_no": "2025-165",
+      "content": "부칙 <제2025-165호, 2025. 10. 1.>제1조 이 지침은 고시한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "음식물류 폐기물 발생 억제 목표 수립 기준(제4조제3항 관련)",
+      "enforcement_date": "",
+      "content": "[별표 1]\n음식물류 폐기물 발생 억제 목표 수립 기준\n(제4조제3항 관련)\n1. 목표수립 항목\n○ 평가대상기관은 다음 각 목의 사항에 대하여 연간 목표를 수립하여야 한다.\n가. 전체 음식물류 폐기물 발생량 감량목표\n나. 가정 1인당 음식물류 폐기물 발생량 감량목표\n다. 다량배출사업장당 음식물류 폐기물 발생량 감량목표\n2. 목표수립 기준년도\n○ 감량목표는 목표수립 시작년도 전 3년간의 평균자료를 기준으로 수립한다.\n3. 목표수립 기준 및 방법\n○ 연간 목표를 수립할 경우에는 다음의 감량목표 최소기준 이상으로 하여야 한다.\n┌────────────┬──────────────────┬────┐\n│항 목                   │매해 감량목표 최소기준              │기준년도│\n├────────────┼──────────────────┼────┤\n│전체 발생량             │가정 1인당 발생량의 최소목표값과    │3년간   │\n│(톤/년)                 │동일한 기준을 설정                  │평균자료│\n├────────────┼──────────────────┤        │\n│가정 1인당 발생량       │- 45.0 kg/인?년 미만 ; 매년 0.3%   │        │\n│(kg/인?년)             │- 45.0~90 kg/인?년 미만 ; 매년 0.5%│        │\n│                        │- 90 kg/인?년 이상 ; 매년 0.7%     │        │\n├────────────┼──────────────────┤        │\n│다량배출사업장당        │매년 0.5%                           │        │\n│발생량(kg/사업장수?년) │                                    │        │\n└────────────┴──────────────────┴────┘\n※ 가정 1인당 발생량은 가정 및 소형음식점 포함\n※ 가정 1인당 발생량 최소감량목표는 매년 0.5%이상 설정하되, 상위 20%는 0.3%, 하위 20%는 0.7% 이상을 설정\n4. 음식물류 폐기물 발생량 및 감량 목표\n○ 감량목표 작성양식은 전체 발생량, 가정 1인당 발생량, 다량배출사업장당 발생량에 대하여 기준년도와 향후 5년간의 발생량 목표를 기재\n○ 감량률은 감량목표 최소기준에 적합하게 수립\n┌───────┬──────────┬────┬──┬──┬──┬──┬──┐\n│항목          │구분                │기준년도│Y+1 │Y+2 │Y+3 │Y+4 │Y+5 │\n├───────┼───┬──────┼────┼──┼──┼──┼──┼──┤\n│전체 발생량   │가정  │발생(예상)량│        │    │    │    │    │    │\n│              │      │(톤/년)     │        │    │    │    │    │    │\n│              │      ├──────┼────┼──┼──┼──┼──┼──┤\n│              │      │감량률(%)   │        │    │    │    │    │    │\n│              ├───┼──────┼────┼──┼──┼──┼──┼──┤\n│              │다량배│발생(예상)량│        │    │    │    │    │    │\n│              │출사업│(톤/년)     │        │    │    │    │    │    │\n│              │장    ├──────┼────┼──┼──┼──┼──┼──┤\n│              │      │감량률(%)   │        │    │    │    │    │    │\n│              ├───┼──────┼────┼──┼──┼──┼──┼──┤\n│              │합계  │발생(예상)량│        │    │    │    │    │    │\n│              │      │(톤/년)     │        │    │    │    │    │    │\n│              │      ├──────┼────┼──┼──┼──┼──┼──┤\n│              │      │감량률(%)   │        │    │    │    │    │    │\n├───────┼───┴──────┼────┼──┼──┼──┼──┼──┤\n│가정 1인당    │가정 1인당          │        │    │    │    │    │    │\n│발생량        │발생(예상)량        │        │    │    │    │    │    │\n│              │(kg/인?년)         │        │    │    │    │    │    │\n│              ├──────────┼────┼──┼──┼──┼──┼──┤\n│              │감량률(%)           │        │    │    │    │    │    │\n├───────┼──────────┼────┼──┼──┼──┼──┼──┤\n│다량배출사업장│다량배출사업장당    │        │    │    │    │    │    │\n│당 발생량     │발생(예상)량        │        │    │    │    │    │    │\n│              │(kg/사업장수?년)   │        │    │    │    │    │    │\n│              ├──────────┼────┼──┼──┼──┼──┼──┤\n│              │감량률(%)           │        │    │    │    │    │    │\n└───────┴──────────┴────┴──┴──┴──┴──┴──┘\n※ 발생량은 소수점 첫째자리까지, 감량률은 소수점 둘째자리까지 기재",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266096&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157822243",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157822237",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157822243",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#BYL0001",
+      "filename": "별표1_음식물류 폐기물 발생 억제 목표 수립 기준(제4조제3항 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "음식물류 폐기물 발생 억제 성과평가 세부기준 및 방법(제5조제2항 관련)",
+      "enforcement_date": "",
+      "content": "[별표 2]\n음식물류 폐기물 발생 억제 성과평가 세부기준 및 방법\n(제5조제2항 관련)\n□ 평가항목 및 배점\n┌───────────────┬──────────────────────────┬───┐\n│평가 항목                     │세부항목                                            │배 점 │\n├───────────────┼──────────────────────────┼───┤\n│1. 발생억제 계획수립의 적정성 │1-1. 발생억제 계획 수립의 적정성                    │5     │\n│(20)                          ├──────────────────────────┼───┤\n│                              │1-2. 기초자치단체의 “발생억제 계획 평가”의 적정성 │10    │\n│                              ├──────────────────────────┼───┤\n│                              │1-3. 광역자치단체의 “발생억제 계획 평가” 관심도   │5     │\n├───────────────┼──────────────────────────┼───┤\n│2. 음식물류 폐기물 감량실적   │2-1. 전체 음식물류폐기물 감량 실적                  │10    │\n│(20)                          ├──────────────────────────┼───┤\n│                              │2-2. 가정 1인당 음식물류폐기물 감량 실적            │5     │\n│                              ├──────────────────────────┼───┤\n│                              │2-3. 다량배출사업장 음식물류폐기물 감량 실적        │5     │\n├───────────────┼──────────────────────────┼───┤\n│3. 기술적?재정적 지원성과    │3-1. 음식물류폐기물 수수료 현실화                   │15    │\n│(40)                          ├──────────────────────────┼───┤\n│                              │3-2. 음식물류폐기물 RFID 또는 음식물 감량기 확산    │5     │\n│                              ├──────────────────────────┼───┤\n│                              │3-3. 교육 및 홍보 실적                              │10    │\n│                              ├──────────────────────────┼───┤\n│                              │3-4. 음식물류폐기물 담당부서 전문성 확보            │5     │\n│                              ├──────────────────────────┼───┤\n│                              │3-5. 음식물류폐기물 관련 인센티브 확보              │5     │\n├───────────────┼──────────────────────────┼───┤\n│4. 음식물류폐기물 적정처리    │4-1. 음식물류폐기물 수집·운반 차량 현대화          │5     │\n│(15)                          ├──────────────────────────┼───┤\n│                              │4-2. 음식물류폐기물 수집·운반 관리 강화            │5     │\n│                              ├──────────────────────────┼───┤\n│                              │4-3. 음식물류폐기물 처리시설 관리 강화              │5     │\n├───────────────┼──────────────────────────┼───┤\n│5. 발생억제 우수사례          │5-1. 음식물류폐기물 발생억제 관련 우수사례          │5     │\n│(5)                           │                                                    │      │\n└───────────────┴──────────────────────────┴───┘\n□ 세부항목별 평가 기준 및 방법\n1. 계획수립의 적정성(20점)\n1-1. 발생억제 계획 수립의 적정성(5점)\n┌─────────────┬────┬─────────────────────────────┐\n│평가항목                  │배점(5) │배 점 기 준                                               │\n├─────────────┼────┼─────────────────────────────┤\n│발생억제 계획서 수립 여부 │2       │○ 수립(2점), 미 수립(0점)                                │\n├─────────────┼────┼─────────────────────────────┤\n│발생억제 계획서 최종      │1       │○ 기관장(1점), 부기관장(0.5점), 실·국장급(0.3점), 과장급│\n│결재권자                  │        │(0.1점), 과장급 이하(0점)                                 │\n├─────────────┼────┼─────────────────────────────┤\n│발생억제 계획서의 충실성  │2       │○ 적정(2점), 보통(1.2점), 미흡(0.5점)                    │\n└─────────────┴────┴─────────────────────────────┘\n- “발생억제계획의 충실성”은 「폐기물관리법」제14조의3 제1항 제1호부터 제5호까지의 내용의 반영 여부\n1-2. 기초자치단체의 “발생억제 계획 평가”의 적정성(10점)\n┌─────────────┬────┬─────────────────────────────┐\n│평가항목                  │배점(10)│배 점 기 준                                               │\n├─────────────┼────┼─────────────────────────────┤\n│발생억제 계획 평가 계획서 │3       │○ 수립(3점), 미 수립(0점)                                │\n│수립 여부                 │        │                                                          │\n├─────────────┼────┼─────────────────────────────┤\n│발생억제 계획 평가 계획서 │2       │○ 기관장(2점), 부기관장(1.2점), 실·국장급(0.8점), 과장급│\n│최종 결재권자             │        │(0.5점), 과장급 이하(0점)                                 │\n├─────────────┼────┼─────────────────────────────┤\n│발생억제 계획 평가위원회  │3       │○ 대면 개최(3점), 서면 개최(1.5점), 미 개최(0점)         │\n│개최 여부                 │        │                                                          │\n├─────────────┼────┼─────────────────────────────┤\n│발생억제 계획 평가위원회  │2       │○ 적정(2점), 보통(0.5점), 미흡(0점)                      │\n│구성의 적정성             │        │                                                          │\n└─────────────┴────┴─────────────────────────────┘\n- “발생억제계획 평가위원회 구성의 적정성(소속공무원 4명, 의회추천 주민대표 4인, 환경분야 전문가 4명)\n1-3. 광역자치단체의 ”발생억제 계획 평가“ 관심도(5점)\n┌─────────────┬────┬────────────────────────────┐\n│평가항목                  │배점(5) │배 점 기 준                                             │\n├─────────────┼────┼────────────────────────────┤\n│발생억제 계획 평가 계획서 │5       │○ 관내 시군군 전체(5점), 80% 이상(3점), 60%이상(2점),  │\n│제출 여부                 │        │40%이상(1점), 40%이하(0점)                              │\n└─────────────┴────┴────────────────────────────┘\n2. 음식물류폐기물 감량실적(20점)\n2-1. 전체 음식물류폐기물 감량 실적(10점)\n┌───────────┬────┬────────────────────────────┐\n│평가항목              │배점(10)│배 점 기 준                                             │\n├───────────┼────┼────────────────────────────┤\n│발생량 산정 적정 여부 │2       │○ 적합(2점), 일부 부적합(1점), 부적합(0점)             │\n├───────────┼────┼────────────────────────────┤\n│감량 목표 달성        │4       │○ 달성(4점), 미 달성(0점)                              │\n├───────────┼────┼────────────────────────────┤\n│초과 달성             │4       │○ 초과 달성 1.0%이상(4점), 0.5%이상(2점), 0.5%이하(1점)│\n└───────────┴────┴────────────────────────────┘\n- 발생량 산출결과 별표1의 발생량 산정기준에 적합하고 명확한 근거가 있어야 하며, 그 산출결과가 정확하여야 한다. 허위 근거 자료로 판명 될시 ”0“점 처리\n2-2. 가정 1인당 음식물류폐기물 감량실적(5점)\n┌───────────┬────┬─────────────────────────┐\n│평가항목              │배점(5) │배 점 기 준                                       │\n├───────────┼────┼─────────────────────────┤\n│발생량 산정 적정 여부 │1       │○ 적합(1점), 일부 부적합(0.5점), 부적합(0점)     │\n├───────────┼────┼─────────────────────────┤\n│감량 목표 달성        │2       │○ 달성(2점), 미달성(0점)                         │\n├───────────┼────┼─────────────────────────┤\n│초과 달성             │2       │○ 초과달성 1.0%이상(2점), 0.5%이상(1점), 0.5%이하│\n│                      │        │(0.5점)                                           │\n└───────────┴────┴─────────────────────────┘\n- 발생량 산출결과 별표1의 발생량 산정기준에 적합하고 명확한 근거가 있어야 하며, 그 산출결과가 정확하여야 한다. 허위 근거 자료로 판명 될시 ”0“점 처리\n2-3. 다량배출사업장 음식물류폐기물 감량실적(5점)\n┌───────────┬────┬─────────────────────────┐\n│평가항목              │배점(5) │배 점 기 준                                       │\n├───────────┼────┼─────────────────────────┤\n│발생량 산정 적정 여부 │1       │○ 적합(1점), 일부 부적합(0.5점), 부적합(0점)     │\n├───────────┼────┼─────────────────────────┤\n│감량 목표 달성        │2       │○ 달성(2점), 미달성(0점)                         │\n├───────────┼────┼─────────────────────────┤\n│초과 달성             │2       │○ 초과달성 1.0%이상(2점), 0.5%이상(1점), 0.5%이하│\n│                      │        │(0.5점)                                           │\n└───────────┴────┴─────────────────────────┘\n- 발생량 산출결과 별표1의 발생량 산정기준에 적합하고 명확한 근거가 있어야 하며, 그 산출결과가 정확하여야 한다. 허위 근거 자료로 판명 될시 ”0“점 처리\n3. 발생억제를 위한 기술적?재정적 지원성과(40점)\n3-1. 음식물류폐기물 수수료 현실화(15점)\n┌───────────┬────┬─────────────────────────────┐\n│평가항목              │배점(15)│배 점 기 준                                               │\n├───────────┼────┼─────────────────────────────┤\n│종량제 수수료 현실화  │5       │○ 당해 년도 수수료 인상(5점), 지방 의회 안건 상정(4점),  │\n│                      │        │물가위원회 안건 상정(3점), 수수료 현실화 관련 기관장      │\n│                      │        │보고(2점), 미인상(0점)                                    │\n├───────────┼────┼─────────────────────────────┤\n│음식물류폐기물 수수료 │10      │○ 주민부담률 70%이상(10점), 60%이상(8점), 50%이상        │\n│주민부담율            │        │(6점), 40%이상(4점), 30%이상(2점), 30%이하(0점)           │\n└───────────┴────┴─────────────────────────────┘\n3-2. 음식물류폐기물 RFID 또는 음식물 감량기 확산(5점)\n┌──────────────┬────┬────────────────────────────┐\n│평가항목                    │배점(5) │배 점 기 준                                             │\n├──────────────┼────┼────────────────────────────┤\n│RFID 또는 감량기 보급  예산 │3       │○ 당해 년도 예산 편성 및 증액(3점), 편성 및 동일(2점), │\n│편성 및 증액 여부           │        │편성 및 감액(1점), 미편성(0점)                          │\n├──────────────┼────┼────────────────────────────┤\n│RFID 또는 감량기 유지관리비 │2       │○ 당해 년도 예산 편성 및 증액(2점), 편성 및 동일(1점), │\n│예산 편성 및 증액 여부      │        │편성 및 감액(0.5점), 미편성(0점)                        │\n└──────────────┴────┴────────────────────────────┘\n3-3. 교육 및 홍보(10점)\n┌───────────────┬────┬─────────────────────────────┐\n│평가항목                      │배점(10)│배 점 기 준                                               │\n├───────────────┼────┼─────────────────────────────┤\n│교육·홍보 예산 편성 및 증액  │5       │○ 당해 년도 예산 편성 및 증액(5점), 편성 및 동일(3점), 편│\n│여부                          │        │성 및 감액(2점), 미편성(0점)                              │\n├───────────────┼────┼─────────────────────────────┤\n│교육·홍보 추진 여부          │5       │○ 우수(5점), 보통(3점), 미흡(2점), 실적 없음(0점)        │\n└───────────────┴────┴─────────────────────────────┘\n- 시군구별로 자체 추진하는 음식물줄이기 교육·홍보실적 제출, 평가단에서 정성평가\n? 교육 : 주민교육, 설명회, 간담회, 켐페인 등 실적\n? 광고 : TV, 라디오, 신문, 잡지, 영화관, 대중교통 등 광고 게재 실적\n? 보도자료 제공 : 언론에 기사화된 보도자료 제공 실적\n? 홍보물 제작 : 포스터, 리플렛, 전단지, 스티커, 기념품, 현수막 등 제작 실적\n? 온라인 홍보 : 홈페이지, 페이스북, 유튜브 등 SNS 홍보 실적\n3-4. 음식물류폐기물 담당부서 전문성 확보(5점)\n┌──────────────┬────┬───────────────────────────┐\n│평가항목                    │배점(5) │ 배 점 기 준                                          │\n├──────────────┼────┼───────────────────────────┤\n│담당부서 내 별도의 음식물팀 │3       │○ 구성(3점), 미구성(0점)                             │\n│구성 여부                   │        │                                                      │\n├──────────────┼────┼───────────────────────────┤\n│담당부서 음식물 업무 담당자 │2       │○ 18월 이상(2점), 12월 이상(1.5점), 12월 이하(0.5점) │\n│평균 재직 기간              │        │                                                      │\n└──────────────┴────┴───────────────────────────┘\n- 조직도에 음식물 명칭 부서 구성 및 직원 업무 분장표(음식물 시설 분야 포함)\n3-5. 음식물류폐기물 관련 인센티브 확보(5점)\n┌──────────────┬────┬──────────────────────────────┐\n│평가항목                    │배점(5) │배 점 기 준                                                 │\n├──────────────┼────┼──────────────────────────────┤\n│음식물 관련 표창 수여 여부  │3       │○ 광역자치단체장 표창(3점), 기초자치단체장 표창(2점), 표창 │\n│                            │        │없음(0점)                                                   │\n├──────────────┼────┼──────────────────────────────┤\n│음식물 감량 사업장 및       │2       │○ 제공(2점), 실적 없음(0점)                                │\n│공동주택 인센티브 제공 여부 │        │                                                            │\n└──────────────┴────┴──────────────────────────────┘\n- 인센티브 예시 : 우수사업장 및 공동주택 지정, 세금 및 수수료 감면, 우수사업장 및 공동주택 소유주 등 표창 등\n4. 음식물류폐기물 적정처리(15점)\n4-1. 음식물류폐기물 수집·운반차량 현대화(5점)\n┌───────────────┬────┬───────────────────────────┐\n│평가항목                      │배점(5) │배 점 기 준                                           │\n├───────────────┼────┼───────────────────────────┤\n│공공 수집·운반 차량 전용차량 │5       │○ 100%(5점), 85%이상(3점), 70%이상(2점), 70%이하(1점)│\n│확보 비율                     │        │                                                      │\n└───────────────┴────┴───────────────────────────┘\n- 수집·운반을 전량 외부 위탁시에는 위탁업체의 전체 차량에 대한 비율 기준\n4-2. 음식물류폐기물 수집·운반 관리 강화(5점)\n┌───────────────┬────┬─────────────┐\n│평가항목                      │배점(5) │배 점 기 준               │\n├───────────────┼────┼─────────────┤\n│수집·운반 관리 지도점검 계획 │2       │○ 수립(2점), 미 수립(0점)│\n│수립 여부                     │        │                          │\n├───────────────┼────┼─────────────┤\n│수집·운반 관리 지도점검 실시 │3       │○ 보고(3점), 미 보고(0점)│\n│결과보고 여부                 │        │                          │\n└───────────────┴────┴─────────────┘\n4-3. 음식물류폐기물 처리시설 관리 강화(5점)\n┌──────────────┬────┬─────────────┐\n│평가항목                    │배점(5) │배 점 기 준               │\n├──────────────┼────┼─────────────┤\n│처리시설 지도점검 계획 수립 │2       │○ 수립(2점), 미 수립(0점)│\n│여부                        │        │                          │\n├──────────────┼────┼─────────────┤\n│처리시설 지도점검 실시      │3       │○ 보고(3점), 미 보고(0점)│\n│결과보고 여부               │        │                          │\n└──────────────┴────┴─────────────┘\n- 처리시설이 없는 지자체는 RFID 또는 감량기 시설 포함 가능\n5. 음식물류폐기물 발생억제 관련 우수사례(5점)\n5-1. 음식물류폐기물 발생억제 관련 우수사례(5점)\n┌─────────┬────┬─────────────────────────┐\n│평가항목          │배점(5) │배 점 기 준                                       │\n├─────────┼────┼─────────────────────────┤\n│발생억제 우수사례 │5       │○ 우수(5점), 보통(3점), 미흡(2점), 실적 없음(0점)│\n└─────────┴────┴─────────────────────────┘\n- 시군구별로 자체 추진하는 음식물줄이기 정책 중 우수사례 1건 이상 제출, 평가단에서 정성평가",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266096&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157822257",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157822245",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157822257",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#BYL0002",
+      "filename": "별표2_음식물류 폐기물 발생 억제 성과평가 세부기준 및 방법(제5조제2항 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "음식물류 폐기물 발생 억제 성과보고서(제5조제1항 관련)",
+      "enforcement_date": "",
+      "content": "[별지 제1호 서식]\n음식물류 폐기물 발생 억제 성과보고서(제5조제1항 관련)\n━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━\n목   차                                     │작 성 방 법\n━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━\nⅠ. 개 요                                   │목적 및 의의\n│법적 근거(조례 포함)\n───────────────────────┼──────────────────────────\nⅡ. 일반현황                                │행정구역, 인구, 주거형태, 관광객, 다량배출사업장\n│현황\n───────────────────────┴──────────────────────────\nⅢ. 음식물류 폐기물 발생량 감량실적\n───────────────────────┬──────────────────────────\n1. 발생량 산정방법                          │발생원별 발생량 산정방법\n───────────────────────┼──────────────────────────\n2. 전체 및 발생원별 발생량                  │주택(단독?공동), 소형음식점, 다량배출사업장 등\n───────────────────────┤발생원별 억제 실적\n3. 가정 1인당 발생량                        │월별 발생량 분석\n───────────────────────┤계획 대비 실적 비교\n4. 다량배출사업장당 발생량                  │\n───────────────────────┼──────────────────────────\nⅣ. 기술적?재정적 지원 실적                │수수료 현실화(주민부담율)\n│음식물류 관련 RFID 및 감량기 확산 실적\n│교육 및 홍보 실적\n│담당부서 전문성 확보현황\n│음식물류폐기물 관련 인센티브 제공 등\n───────────────────────┴──────────────────────────\nⅤ. 음식물류폐기물 적정처리 실적\n───────────────────────┬──────────────────────────\n1. 수집?운반 체계 및 개선실적              │발생원별 발생량 산정을 위한 수거체계 개선 실적\n│수집?운반 전용차량 확보 현황\n│수집?운반 지도점검 계획 수립 및 결과 현황\n───────────────────────┼──────────────────────────\n2. 음식물류폐기물 처리시설 현황             │공공처리시설 및 민간위탁처리시설 현황\n│처리시설 지도점검 계획 수립 및 결과 현황\n│RFID 및 감량기 설치?운영 현황\n───────────────────────┼──────────────────────────\nⅥ. 음식물류폐기물 발생억제 우수사례        │시?군?구별 음식물줄이기 정책 자체 추진 현황\n───────────────────────┼──────────────────────────\n<첨부>음식물류 폐기물 발생억제 계획(요약)   │발생억제 5년 계획서에서 해당연도에 관한 계획을\n───────────────────────┤원용하여 작성\n1. 발생량 산정계획                          │\n───────────────────────┤\n2. 발생예상량 및 감량목표                   │\n───────────────────────┤\n3. 발생억제를 위한 기술적·재정적 지원 계획 │\n───────────────────────┤\n4. 적정처리 개선 계획                       │\n━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157822263",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157822259",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157822263",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#BJ0001",
+      "filename": "별지1_음식물류 폐기물 발생 억제 성과보고서(제5조제1항 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "음식물류 폐기물 발생 억제 성과 평가결과서(제5조제2항 관련)",
+      "enforcement_date": "",
+      "content": "[별지 제2호 서식]\n음식물류 폐기물 발생 억제 성과 평가결과서(제5조제2항 관련)\n┌────┬┬────┬──┐\n│지자체명││추진기간│    │\n├────┼┼────┼──┤\n│평가일시││평가위원│(명)│\n└────┴┴────┴──┘\n━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━┯━━━\n평가 항목     │세부항목                                                                  │배 점 │평점\n────────┾━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━┿━━━┿━━━\n1. 계획수립의 │1-1. 발생억제 계획 수립의       │발생억제 계획서 수립 여부               │2     │\n적정성        │적정성                          ├────────────────────┼───┼───\n│                                │발생억제 계획서 최종 결제권자           │1     │\n│                                ├────────────────────┼───┼───\n│                                │발생억제 계획서의 충실성                │2     │\n├────────────────┼────────────────────┼───┼───\n│1-2. 기초자치단체의             │발생억제 계획 평가 계획서 수립 여부     │3     │\n│“발생억제 계획 평가”의        ├────────────────────┼───┼───\n│적정성                          │발생억제 계획 평가 게획서 최종 결재권자 │2     │\n│                                ├────────────────────┼───┼───\n│                                │발생억제 계획 평가위원회 개최 여부      │3     │\n│                                ├────────────────────┼───┼───\n│                                │발생억제 계획 평가위원회 구성의 적정성  │2     │\n├────────────────┼────────────────────┼───┼───\n│1-3. 광역자치단체의 “발생억제  │발생억제 계획 평가 계획서 제출 여부     │5     │\n│계획 평가” 관심도              │                                        │      │\n├────────────────┴────────────────────┼───┼───\n│소  계                                                                    │20    │\n────────┼────────────────┬────────────────────┼───┼───\n2. 음식물류   │2-1. 전체 음식물류폐기물        │발생량 산정 적정 여부                   │2     │\n폐기물        │감량 실적                       ├────────────────────┼───┼───\n감량실적      │                                │감량 목표 달성                          │4     │\n│                                ├────────────────────┼───┼───\n│                                │초과 달성                               │4     │\n├────────────────┼────────────────────┼───┼───\n│2-2. 가정 1인당                 │발생량 산정 적정 여부                   │1     │\n│음식물류폐기물                  ├────────────────────┼───┼───\n│감량실적                        │감량 목표 달성                          │2     │\n│                                ├────────────────────┼───┼───\n│                                │초과 달성                               │2     │\n├────────────────┼────────────────────┼───┼───\n│2-3. 다량배출사업장             │발생량 산정 적정 여부                   │1     │\n│음식물류폐기물                  ├────────────────────┼───┼───\n│감량실적                        │감량 목표 달성                          │2     │\n│                                ├────────────────────┼───┼───\n│                                │초과 달성                               │2     │\n├────────────────┴────────────────────┼───┼───\n│소  계                                                                    │20    │\n━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━┷━━━\n━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━┯━━━\n평가 항목           │세부항목                                                                │배 점 │평점\n━━━━━━━━━━━┿━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━┿━━━┿━━━\n3. 발생억제를 위한  │3-1. 음식물류폐기물 수수료  │종량제 수수료 현실화                      │5     │\n기술적?재정적      │현실화                      ├─────────────────────┼───┼───\n지원성과            │                            │음식물류폐기물 수수료 주민부담율          │10    │\n├──────────────┼─────────────────────┼───┼───\n│3-2. 음식물류폐기물 RFID    │RFID 또는 감량기 보급 예산 편성 및        │3     │\n│또는 음식물 감량기          │증액 여부                                 │      │\n│확산                        ├─────────────────────┼───┼───\n│                            │RFID 또는 감량기 유지관리비 예산 편성     │2     │\n│                            │및 증액 여부                              │      │\n├──────────────┼─────────────────────┼───┼───\n│3-3. 교육 및 홍보           │교육?홍보 예산 편성 및 증액 여부         │5     │\n│                            ├─────────────────────┼───┼───\n│                            │교육?홍보 추진 여부                      │5     │\n├──────────────┼─────────────────────┼───┼───\n│3-4. 음식물류 폐기물        │담당부서 내 별도의 음식물팀 구성 여부     │3     │\n│담당부서 전문성 확보        ├─────────────────────┼───┼───\n│                            │담당부서 음식물 업무 담당자 평균 재직 기간│2     │\n├──────────────┼─────────────────────┼───┼───\n│3-5. 음식물류폐기물 관련    │음식물 관련 표창 수여 여부                │3     │\n│인센티브 확보               ├─────────────────────┼───┼───\n│                            │음식물 감량 사업장 및 공동주택 인센티브   │2     │\n│                            │제공 여부                                 │      │\n├──────────────┴─────────────────────┼───┼───\n│소계                                                                    │40    │\n───────────┼──────────────┬─────────────────────┼───┼───\n4. 음식물류         │4-1. 음식물류 폐기물        │공공수집?운반 차량 전용차량 확보 비율    │5     │\n폐기물              │수집?운반차량 현대화       │                                          │      │\n적정처리            ├──────────────┼─────────────────────┼───┼───\n│4-2. 음식물류폐기물         │수집?운반 관리 지도점검 계획 수립 여부   │2     │\n│수집?운반 관리 강화        ├─────────────────────┼───┼───\n│                            │수집?운반 관리 지도점검 실시 결과보고    │3     │\n│                            │여부                                      │      │\n├──────────────┼─────────────────────┼───┼───\n│4-3. 음식물류폐기물         │처리시설 지도점검 계획 수립 여부          │2     │\n│처리시설 관리 강화          ├─────────────────────┼───┼───\n│                            │처리시설 지도점검 실시 결과보고 여부      │3     │\n├──────────────┴─────────────────────┼───┼───\n│소계                                                                    │15    │\n───────────┼──────────────┬─────────────────────┼───┼───\n5. 음식물류         │5-1. 발생억제 우수사례      │발생억제 우수사례                         │5     │\n폐기물 발생         ├──────────────┴─────────────────────┼───┼───\n억제 관련           │소계                                                                    │5     │\n우수사례            │                                                                        │      │\n───────────┴────────────────────────────────────┼───┼───\n총 점                                                                                         │100   │\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━┷━━━\n<평가결과 주요내용>\n\n\n\n○ 성과평가 결과 문제점 또는 미흡한 점, 개선사항 등\n\n\n\n\n\n\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157822271",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157822265",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157822271",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#BJ0002",
+      "filename": "별지2_음식물류 폐기물 발생 억제 성과 평가결과서(제5조제2항 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별첨",
+      "title": "음식물류 폐기물 발생량 산정기준 및 방법",
+      "enforcement_date": "",
+      "content": "[별첨]\n음식물류 폐기물 발생량 산정기준 및 방법\n1. 음식물류 폐기물의 발생량 산정 범위\n- 음식물류 폐기물 발생량은 가정 및 소형음식점, 다량배출사업장에 대하여 산정한다.\n2. 음식물류 폐기물 발생량 산정 단위\n- 발생량 단위는 중량단위로 나타내며, \"kg\" 또는 \"톤\"으로 표시함을 원칙으로 한다.\n- 부피 단위는 중량환산계수를 곱하여 중량 단위로 변환하여 표시한다.\n※ 중량(kg) = 부피(리터) × 중량환산계수(0.75)\n3. 음식물류 폐기물 발생량 산정방법의 인정\n- 음식물류 폐기물 발생량은 배출 당시의 발생량을 기준으로 한다.\n- 음식물류 폐기물 발생량 산정은 다음의 방법에 대해서만 인정한다.\n┌───────┬───────────────────────────┐\n│구 분         │음식물류 폐기물 발생량 산정시 인정 방법               │\n├───────┼───────────────────────────┤\n│생활폐기물    │- RFID 기기에 부착된 계측장치에 의한 측정데이터       │\n│              │- 운반차량에 부착된 계측장치에 의한 측정데이터        │\n│              │- 음식물류 폐기물 처리시설 계량장치에 의한 측정데이터 │\n├───────┼───────────────────────────┤\n│다량배출사업장│- 운반차량에 부착된 계측장치에 의한 측정데이터        │\n│폐기물        │- 음식물류 폐기물 처리시설 계량장치에 의한 측정데이터 │\n│              │- 사업장에서 지자체에 제출한 실적보고 자료            │\n└───────┴───────────────────────────┘\n※ 다량배출사업장폐기물은 통계의 정확도를 위해 가급적 계측장치에 의한 데이터 활용 권장\n4. 음식물류 폐기물 발생량 산정 기준 및 방법\n가. 전체 음식물류 폐기물 발생량\n- 전체 음식물류 폐기물 발생량은 다음과 같이 가정과 다량배출사업장으로 구분하고 가급적 발생원별로 세부적으로 구분하여 산출한다.\n┌──────────┬───────────────────────┐\n│가정 음식물류폐기물 │다량배출사업장 음식물류폐기물                 │\n├──┬──┬────┼───┬───┬───┬───┬────┬──┤\n│단독│공동│소형    │집단  │대형  │대규모│농수산│관광숙박│기타│\n│주택│주택│음식점  │급식소│음식점│점포  │시장  │시설    │    │\n└──┴──┴────┴───┴───┴───┴───┴────┴──┘\n※ 기타는 폐기물관리법 시행령 제8조의4 제6호에 따라 지자체 조례로 정한 사업장\n나. 가정 1인당 음식물류 폐기물 발생량\n- 가정 1인당 음식물류 폐기물 발생량은 가정과 소형음식점에서 발생하는 연간 음식물류폐기물 발생량을 해당연도 인구수로 나누어 산출한다.\n- 가정 음식물류폐기물 발생량과 인구수는 환경부 통계자료(전국 폐기물 발생 및 처리현황)를 근거로 한다.\n┌────────────────────────────────────────────┐\n│ 가정 1인당 음식물류 폐기물 발생량(kg/인?년) = 연간 가정 음식물류 폐기물 발생량(kg/년) │\n│÷ 관리지역의 인구(명)                                                                  │\n└────────────────────────────────────────────┘\n다. 다량배출사업장당 음식물류 폐기물 발생량\n- 다량배출사업장당 음식물류 폐기물 발생량은 다량배출사업장에서 발생하는 연간 음식물류폐기물을 다량배출사업장 수로 나누어 산출한다.\n┌────────────────────────────────────────┐\n│ 다량배출사업장당 음식물류 폐기물 발생량(kg/사업장수?년) = 다량배출사업장 음식 │\n│물류 폐기물 발생량(kg/년) ÷ 다량배출사업장수(개소)                             │\n└────────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157822279",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157822273",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157822279",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#BYL0000",
+      "filename": "별첨0_음식물류 폐기물 발생량 산정기준 및 방법.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "음식물류 폐기물 발생 억제 계획의 수립주기 및 평가방법 등에 관한 지침 개정전문.zip",
+      "url": "http://law.go.kr/flDownload.do?flSeq=157628459",
+      "file_store_url": "",
+      "filename": "음식물류 폐기물 발생 억제 계획의 수립주기 및 평가방법 등에 관한 지침 개정전문.zip"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 26,
+    "by_category": {
+      "법령": 15,
+      "행정규칙": 10,
+      "별지": 1
+    },
+    "by_relation_type": {
+      "citation": 16,
+      "internal_ref": 9,
+      "appendix_ref": 1
+    },
+    "articles_total": 13,
+    "articles_with_relations": 10,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 3,
+    "appendices_count": 5,
+    "attachments_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/음식물류 폐기물 발생 억제 계획의 수립주기 및 평가방법 등에 관한 지침"
+  },
+  "provision_id": "admrul:음식물류폐기물발생억제계획의수립주기및평가방법등에관한지침#DOC"
+}
