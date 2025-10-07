@@ -1,0 +1,261 @@
+{
+  "law_id": "2100000266024",
+  "mst": "2100000266024",
+  "law_name": "자동차 총 오염물질 배출량 산정방법에 관한 규정",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000266024",
+  "promulgation_no": "2025-165",
+  "promulgation_date": "20251001",
+  "enforcement_date": "20251007",
+  "revision_date": "20251001",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "기후에너지환경부(교통환경과)",
+    "담당자명": "이정윤",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "자동차 총 오염물질 배출량 산정방법에 관한 규정",
+    "발령일자": "20251001",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "기후에너지환경부",
+    "전화번호": "044-201-6927",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1482000",
+    "생성일자": "20251111",
+    "행정규칙ID": "35906",
+    "시행일자": "20251007",
+    "담당부서기관코드": "1482134",
+    "발령번호": "2025-165",
+    "행정규칙일련번호": "2100000266024",
+    "상위부처명": "기후에너지환경부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n○ 정부조직법 개정(‘25.10.1. 공포ㆍ시행)\n\n◇ 주요내용\n○ 정부조직법 개정에 따라 기관명칭(환경부 → 기후에너지환경부)을 변경",
+  "body": {
+    "format": "articles",
+    "article_count": 5,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규정은 수도권 대기환경개선에 관한 특별법 제23조제5항 및 동법 시행규칙 제22조 내지 제24조의 규정에 의한 자동차의 총오염물질 배출량 산정방법에 관하여 필요한 사항을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제23조제5항",
+            "line_text": "",
+            "target_law_name": "특별법",
+            "target_article_no": "제23조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/특별법/제23조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:자동차총오염물질배출량산정방법에관한규정#JO0001",
+            "reference_id": "law:특별법#JO0023"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:자동차총오염물질배출량산정방법에관한규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "용어의 정의",
+        "chapter": "",
+        "content": "제2조(용어의 정의) 이 규정에서 사용되는 용어의 정의는 다음과 같다.1. \"자동차의 총오염물질 배출량\"이라 함은 자동차가 배출하는 연평균 오염물질 배출량으로서 열간시동 배출량(Hot Start Emission), 냉간시동 배출량(Cold Start Emission), 증발배출량(Evaporative Hydrocarbon) 및 황산화물배출량(SO2 Emission)을 포함한다.2. \"열간시동 배출량\"이라 함은 자동차 엔진이 예열된 상태에서 배출되는 오염물질량으로서 배출계수(Ef)에 일일주행거리(VKT)를 곱하여 산출한다.3. \"냉간시동 배출량\"이라 함은 자동차 엔진이 예열되지 않은 상태에서 배출되는 오염물질량으로서 열간시동 배출량에 냉간시동 배출량 환산계수를 곱하여 산출하며 차량총중량 3.5톤이상의 중량자동차에는 적용하지 아니한다.4. \"배출계수\"라 함은 배출량 산정 대상 자동차 또는 배출가스 인증 동일차종 중 대표차종의 배출가스 인증시험 결과를 말한다.5. \"일일주행거리\"라 함은 본 규정에서 제시하는 일일 평균주행거리를 말한다.6. \"냉간시동 배출량 환산계수\"라 함은 냉간시동엔진 또는 촉매활성온도(T50)이하의 온도에서 주행하는 주행거리 분율 및 대기 평균 온도를 이용하여 산출한 값으로 본 규정에서 제시한 값을 사용한다.7. \"증발 배출량\"이라 함은 휘발유 및 LPG자동차의 연료탱크 및 엔진의 연료공급계통에서 대기중으로 증발하는 휘발성탄화수소를 말하며 주간증발손실(Diurnal Loss)과 주행손실(Running Loss)을 말한다.8. \"주간증발손실\"이라 함은 자동차가 주차시 태양열에 의하여 연료탱크나 엔진이 가열되어 연료가 증발하여 배출하는 휘발성탄화수소를 말한다.9. \"주행손실\"이라 함은 자동차가 주행시 엔진의 가열상태에서 증발하는 휘발성탄화수소를 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:자동차총오염물질배출량산정방법에관한규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "자동차 오염물질의 종류",
+        "chapter": "",
+        "content": "제3조(자동차 오염물질의 종류) 이 규정에서 정하는 자동차 오염물질의 종류는 다음 각호와 같다. 다만, 오염물질 배출량 산정 또는 자동차 배출가스물질의 배출량 자료 수집을 위하여 필요한 경우 항목을 추가할 수 있다.1. 휘발유 및 가스를 연료로 사용하는 자동차의 경우, 일산화탄소(CO), 탄화수소(HC), 질소산화물(NOx) 및 황산화물(SO2)을 말하며, 휘발유 직접분사식 기술이 적용된 휘발유 사용 자동차의 경우는 입자상물질(PM)을 포함한다.2. 경유를 연료로 사용하는 자동차의 경우 일산화탄소(CO), 탄화수소(HC), 질소산화물(NOx), 황산화물(SO2) 및 입자상물질(PM)을 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:자동차총오염물질배출량산정방법에관한규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "총오염물질 배출량의 산정",
+        "chapter": "",
+        "content": "제4조(총오염물질 배출량의 산정) 자동차 총오염물질 배출량은 별표1의 「자동차 총오염물질 배출량 산정방법」에 의하여 산정한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "별표1",
+            "line_text": "",
+            "target_law_name": "자동차 총 오염물질 배출량 산정방법에 관한 규정",
+            "target_article_no": "별표1",
+            "target_article_title": "자동차의 총 오염물질 배출량의 산정방법(제4조 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266024&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:자동차총오염물질배출량산정방법에관한규정#JO0004",
+            "reference_id": "admrul:자동차총오염물질배출량산정방법에관한규정#BYL0001"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「자동차 총오염물질 배출량 산정방법」",
+            "line_text": "제4조(총오염물질 배출량의 산정) 자동차 총오염물질 배출량은 별표1의 「자동차 총오염물질 배출량 산정방법」에 의하여 산정한다.",
+            "target_law_name": "자동차 총오염물질 배출량 산정방법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자동차 총오염물질 배출량 산정방법",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:자동차총오염물질배출량산정방법에관한규정#JO0004",
+            "reference_id": "law:자동차총오염물질배출량산정방법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:자동차총오염물질배출량산정방법에관한규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제5조(재검토기한) 기후에너지환경부장관은「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2018년 1월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:자동차총오염물질배출량산정방법에관한규정#JO0005",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:자동차총오염물질배출량산정방법에관한규정#JO0005"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20050318",
+      "promulgation_no": "2005-041",
+      "content": "부칙 <제2005-041호,2005. 3. 18.>이 규정은 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20101126",
+      "promulgation_no": "2010-161",
+      "content": "부칙 <제2010-161호,2010. 12. 2.>이 규정은 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20130726",
+      "promulgation_no": "2013-94",
+      "content": "부칙 <제2013-94호,2013. 7. 26.>이 규정은 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20170908",
+      "promulgation_no": "2017-166",
+      "content": "부칙 <제2017-166호,2017. 9. 8.>이 규정은 고시한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "자동차의 총 오염물질 배출량의 산정방법(제4조 관련)",
+      "enforcement_date": "",
+      "content": "[별표 1]\n자동차의 총 오염물질 배출량의 산정방법(제4조 관련)\n1. 열간시동 배출량\n가. 열간시동 배출량은 자동차 엔진이 예열된 상태에서 배출되는 오염물질로서 차종별, 배출가스 규제 연식별 오염물질별 배출량을 합하여 산출하며 산출식은 다음과 같다.\nERHOTij=∑(EHOTijm × VKTj × Njm)×365×10^(-3)\n여기서  ERHOTij : 오염물질별(i), 대상자동차별(j) 열간시동 배출량(kg/년)\nEHOTijm : 오염물질별(i), 대상자동차별(j), 배출가스 규제연식별(m)(또는 저공해자동차 종별) 배출계수(g/km) (이때, 배출가스 결과의 측정단위가 [g/kWh]로 주어지는 인증시험결과의 경우에는 인증시험결과에 0.88을 곱한 값을 [g/km] 결과로 사용한다)\n나. 인증시험결과를 배출계수로 사용함에 있어, 배출허용기준이 ‘탄화수소+질소산화물’ 등으로 관리되는 경우는 자체 보유중인 시험결과를 활용하여 두 결과를 분리한다.\n2. 냉간시동 배출량\n가. 자동차 엔진이 예열되지 않은 상태에서 배출하는 오염물질로서 열간시동 배출량에 냉간시동 배출량 환산계수를 곱하여 다음과 같이 산출한다\nERcoldij=ERHOTij × 냉간시동 배출량 환산계수\n여기서 ERcoldij : 오염물질별(i), 차종별(j) 냉간시동 배출량(kg/년)\nERHOTij : 오염물질별(i), 차종별(j) 열간시동 배출량(kg/년)\n<냉간시동 배출량 환산계수>\n┌───────┬───┬───┬───┬───┐\n│차종          │HC    │CO    │NOx   │PM    │\n├───────┼───┼───┼───┼───┤\n│휘발유 자동차 │2.952 │1.875 │0.705 │-     │\n├───────┼───┼───┼───┼───┤\n│LPG 자동차    │0.125 │0.406 │0.000 │-     │\n├───────┼───┼───┼───┼───┤\n│경유 자동차   │0.253 │0.139 │0.036 │0.217 │\n└───────┴───┴───┴───┴───┘\n3. 증발 배출량\n가. 휘발유 자동차와 가스자동차에서 배출되는 증발가스에 의한 탄화수소 배출량은 연료탱크나 엔진의 연료공급부위에서 배출되는 것으로서 주간증발손실(Diurnal Loss)과 주행증발손실(Running Loss)로 구분된다.\n나. 증발 배출량은 다음 식과 같이 산출한다.\n증발배출량(Eeva,voc)=ed×N×365×10^(-3)+R\n여기서 Eeva,voc : 증발배출량(kg/년)\ned : 주간증발손실량(g/day-veh)\nN : 자동차 판매대수\nR : 주행증발배출량에 의한 년간 총배출량(kg/년)\nR=Ref×N×VKT×365×10^(-3)\n┌──────────┬──────────┐\n│주간증발 손실량(ed) │주행손실 배출량(Ref)│\n├──────────┼──────────┤\n│0.732 g/day-veh     │0.0055 g/km         │\n└──────────┴──────────┘\n4. 황산화물 배출량\n황산화물은 연료중에 함유한 황의 연소에 의하여 배출하는 오염물질로서 차종별 년간 평균 연료소비량을 산출하여 다음 식과 같이 계산한다.\nSO2배출량(kg/년)=연료소비량(ℓ/년ㆍ대)×연료비중×황함유량×2/100×N\n여기서,\n연료소비량(ℓ/년ㆍ대) : 차종별 대당 연간 주행거리(km/년)에 공인연비(km/ℓ)의 80%를 나누어 산출한다.\n연료비중 : 휘발유 0.730, 경유 0.825, LPG 0.508\nN : 자동차판매대수\n<연료중 황함유량>\n┌──────────┬───┬───┬───┐\n│년도                │휘발유│경유  │LPG   │\n├──────────┼───┼───┼───┤\n│2005년 1월 1일 이후 │0.013%│0.043%│0.01% │\n├──────────┼───┼───┼───┤\n│2006년 1월 1일 이후 │0.005%│0.003%│0.01% │\n├──────────┼───┼───┼───┤\n│2009년 1월 1일 이후 │0.001%│0.001%│0.004%│\n└──────────┴───┴───┴───┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266024&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157830033",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157830025",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157830033",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:자동차총오염물질배출량산정방법에관한규정#BYL0001",
+      "filename": "별표1_자동차의 총 오염물질 배출량의 산정방법(제4조 관련).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "개정전문_자동차 총 오염물질 배출량 산정방법에 관한 규정.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=157829837",
+      "file_store_url": "",
+      "filename": "개정전문_자동차 총 오염물질 배출량 산정방법에 관한 규정.hwpx"
+    },
+    {
+      "name": "개정전문_자동차 총 오염물질 배출량 산정방법에 관한 규정.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=157829841",
+      "file_store_url": "",
+      "filename": "개정전문_자동차 총 오염물질 배출량 산정방법에 관한 규정.pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 4,
+    "by_category": {
+      "법령": 2,
+      "별표": 1,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 3,
+      "appendix_ref": 1
+    },
+    "articles_total": 5,
+    "articles_with_relations": 3,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 4,
+    "appendices_count": 1,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/자동차 총 오염물질 배출량 산정방법에 관한 규정"
+  },
+  "provision_id": "admrul:자동차총오염물질배출량산정방법에관한규정#DOC"
+}
