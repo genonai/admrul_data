@@ -1,0 +1,320 @@
+{
+  "law_id": "2100000266952",
+  "mst": "2100000266952",
+  "law_name": "측정기기 미부착 배출시설의 배출량 산정방법",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000266952",
+  "promulgation_no": "2025-165",
+  "promulgation_date": "20251001",
+  "enforcement_date": "20251007",
+  "revision_date": "20251001",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "기후에너지환경부(대기관리과)",
+    "담당자명": "정지민",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "측정기기 미부착 배출시설의 배출량 산정방법",
+    "발령일자": "20251001",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "기후에너지환경부",
+    "전화번호": "044-201-6902",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1482000",
+    "생성일자": "20260320",
+    "행정규칙ID": "26078",
+    "시행일자": "20251007",
+    "담당부서기관코드": "1482101",
+    "발령번호": "2025-165",
+    "행정규칙일련번호": "2100000266952",
+    "상위부처명": "기후에너지환경부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n○ 정부조직법 개정(‘25.10.1. 공포ㆍ시행)\n\n◇ 주요내용\n○ 정부조직법 개정에 따라 기관명칭(환경부 → 기후에너지환경부)을 변경",
+  "body": {
+    "format": "articles",
+    "article_count": 4,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 고시는「대기관리권역의 대기환경개선에 관한 특별법」(이하 \"법\"이라 한다) 제17조제5항 및 같은 법 시행규칙 제16조제2항에 따라 측정기기 미부착 배출시설의 배출계수, 배출계수별 단위량의 확인방법 등 배출량 산정에 필요한 사항을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제17조제5항",
+            "line_text": "",
+            "target_law_name": "대기관리권역의 대기환경개선에 관한 특별법",
+            "target_article_no": "제17조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대기관리권역의 대기환경개선에 관한 특별법/제17조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:측정기기미부착배출시설의배출량산정방법#JO0001",
+            "reference_id": "law:대기관리권역의대기환경개선에관한특별법#JO0017"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행규칙",
+            "line_text": "",
+            "target_law_name": "대기관리권역의 대기환경개선에 관한 특별법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대기관리권역의 대기환경개선에 관한 특별법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:측정기기미부착배출시설의배출량산정방법#JO0001",
+            "reference_id": "law:대기관리권역의대기환경개선에관한특별법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제16조제2항",
+            "line_text": "",
+            "target_law_name": "대기관리권역의 대기환경개선에 관한 특별법 시행규칙",
+            "target_article_no": "제16조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대기관리권역의 대기환경개선에 관한 특별법 시행규칙/제16조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:측정기기미부착배출시설의배출량산정방법#JO0001",
+            "reference_id": "law:대기관리권역의대기환경개선에관한특별법시행규칙#JO0016"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:측정기기미부착배출시설의배출량산정방법#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "배출량 산정방법",
+        "chapter": "",
+        "content": "제2조(배출량 산정방법) 측정기기 미부착 배출시설의 배출량 산정방법은 다음 각 호와 같다.1. 측정기기 미부착 배출시설의 배출량은 「대기환경보전법 시행규칙」별표 10의 「배출시설의 시간당 대기오염물질 발생량 산정방법」제1호 가목 및 나목에 따른 ‘대기오염물질 배출계수’를 사용하여 아래와 같이 산정한다.[그림]나. 가목의 방지시설 효율은 설계효율을 원칙으로 하며 설계효율을 구할 수 없는 경우에는 법 시행령 별표 3에 따라 산정한다.2. 제1호를 적용하기 어려운 경우에는 해당 시설의 최근 연도 연료 사용량, 원료 사용량 또는 제품 생산량을 기준으로 오염물질의 단위배출량을 산정하고, 그 단위배출량에 연료 사용량, 원료 사용량 또는 제품 생산량을 곱하여 배출량을 산정한다.3. 제1호 및 제2호를 적용하기 어려운 경우에는「대기환경보전법」제39조에 따른 자가측정 결과를 기준으로 배출량을 산정한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「대기환경보전법 시행규칙」",
+            "line_text": "",
+            "target_law_name": "대기환경보전법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대기환경보전법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:측정기기미부착배출시설의배출량산정방법#JO0002",
+            "reference_id": "law:대기환경보전법시행규칙#DOC"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별표 10",
+            "line_text": "",
+            "target_law_name": "대기환경보전법 시행규칙",
+            "target_article_no": "별표10",
+            "target_article_title": "",
+            "appendix_no": "10",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": false,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대기환경보전법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:측정기기미부착배출시설의배출량산정방법#JO0002",
+            "reference_id": "law:대기환경보전법시행규칙#BYL0010"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "측정기기 미부착 배출시설의 배출량 산정방법",
+            "target_article_no": "별표3",
+            "target_article_title": "",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": false,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000266952&bylNo=&bylBrNo=",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:측정기기미부착배출시설의배출량산정방법#JO0002",
+            "reference_id": "admrul:측정기기미부착배출시설의배출량산정방법#BYL0003"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제39조",
+            "line_text": "",
+            "target_law_name": "대기환경보전법",
+            "target_article_no": "제39조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대기환경보전법/제39조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:측정기기미부착배출시설의배출량산정방법#JO0002",
+            "reference_id": "law:대기환경보전법#JO0039"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「배출시설의 시간당 대기오염물질 발생량 산정방법」",
+            "line_text": "제2조(배출량 산정방법) 측정기기 미부착 배출시설의 배출량 산정방법은 다음 각 호와 같다.1. 측정기기 미부착 배출시설의 배출량은 「대기환경보전법 시행규칙」별표 10의 「배출시설의 시간당 대기오염물질 발생량 산정방법」제1호 가목 및 나목에 따른 ‘대기오염물질 배출계수’를 사용하여 아래와 같이 산정한다.[그림]나. 가목의 방지시설 효율은 설계효율을 원칙으로 하며 설계효율을 구할 수 없는 경우에는 법 시행령 별표 3에 따라 산정한다.2. 제1호를 적용하기 어려운 경우에는 해당 시설의 최근 연도 연료 사용량, 원료 사용량 또는 제품 생산량을 기준으로 오염물질의 단위배출량을 산정하고, 그 단위배출량에 연료 사용량, 원료 사용량 또는 제품 생산량을 곱하여 배출량을 산정한다.3. 제1호 및 제2호를 적용하기 어려운 경우에는「대기환경보전법」제39조에 따른 자가측정 결과를 기준으로 배출량을 산정한다.",
+            "target_law_name": "배출시설의 시간당 대기오염물질 발생량 산정방법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/배출시설의 시간당 대기오염물질 발생량 산정방법",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:측정기기미부착배출시설의배출량산정방법#JO0002",
+            "reference_id": "law:배출시설의시간당대기오염물질발생량산정방법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "법",
+            "line_text": "제2조(배출량 산정방법) 측정기기 미부착 배출시설의 배출량 산정방법은 다음 각 호와 같다.1. 측정기기 미부착 배출시설의 배출량은 「대기환경보전법 시행규칙」별표 10의 「배출시설의 시간당 대기오염물질 발생량 산정방법」제1호 가목 및 나목에 따른 ‘대기오염물질 배출계수’를 사용하여 아래와 같이 산정한다.[그림]나. 가목의 방지시설 효율은 설계효율을 원칙으로 하며 설계효율을 구할 수 없는 경우에는 법 시행령 별표 3에 따라 산정한다.2. 제1호를 적용하기 어려운 경우에는 해당 시설의 최근 연도 연료 사용량, 원료 사용량 또는 제품 생산량을 기준으로 오염물질의 단위배출량을 산정하고, 그 단위배출량에 연료 사용량, 원료 사용량 또는 제품 생산량을 곱하여 배출량을 산정한다.3. 제1호 및 제2호를 적용하기 어려운 경우에는「대기환경보전법」제39조에 따른 자가측정 결과를 기준으로 배출량을 산정한다.",
+            "target_law_name": "대기관리권역의 대기환경개선에 관한 특별법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대기관리권역의 대기환경개선에 관한 특별법",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:측정기기미부착배출시설의배출량산정방법#JO0002",
+            "reference_id": "law:대기관리권역의대기환경개선에관한특별법#DOC"
+          }
+        ],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162342303",
+            "seq": "162342303"
+          }
+        ],
+        "provision_id": "admrul:측정기기미부착배출시설의배출량산정방법#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "배출량 산정근거의 제시",
+        "chapter": "",
+        "content": "제3조(배출량 산정근거의 제시) 총량관리사업자는 해당 배출시설의 생산일지 및 작업일지 등 배출량 산정결과를 확인할 수 있는 근거 자료를 제시해야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:측정기기미부착배출시설의배출량산정방법#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제4조(재검토기한) 기후에너지환경부장관은 이 고시에 대하여 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제394호)에 따라 2020년 7월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다) 마다 그 타당성을 검토하여 개선 등의 조치를 해야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:측정기기미부착배출시설의배출량산정방법#JO0004",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:측정기기미부착배출시설의배출량산정방법#JO0004"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20200403",
+      "promulgation_no": "2020-66",
+      "content": "부칙 <제2020-66호,2020. 4. 3.>제1조(시행일) 이 고시는 2020년 4월 3일부터 시행한다.제2조(다른 고시의 폐지) 「측정기기 미부착 배출시설의 배출량 산정방법(환경부고시 제2018-23호, 2018. 2. 9.)」은 폐지한다.제3조(일반적 경과조치) 이 고시 시행 당시 종전「측정기기 미부착 배출시설의 배출량 산정방법(환경부고시 제2018-23호, 2018. 2. 9.)」에 따라 행한 측정기기 미부착 배출시설의 배출량 산정은 이 고시에 따라 행한 것으로 본다."
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "개정본문 (측정기기 미부착 배출시설의 배출량 산정방법 일부개정고시안 20250910)_가목 추가.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=162342301",
+      "file_store_url": "",
+      "filename": "개정본문 (측정기기 미부착 배출시설의 배출량 산정방법 일부개정고시안 20250910)_가목 추가.pdf"
+    },
+    {
+      "name": "개정본문 (측정기기 미부착 배출시설의 배출량 산정방법 일부개정고시안 20250910)_가목 추가.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=162342297",
+      "file_store_url": "",
+      "filename": "개정본문 (측정기기 미부착 배출시설의 배출량 산정방법 일부개정고시안 20250910)_가목 추가.hwpx"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 10,
+    "by_category": {
+      "법령": 7,
+      "별표": 2,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 8,
+      "appendix_ref": 2
+    },
+    "articles_total": 4,
+    "articles_with_relations": 3,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/측정기기 미부착 배출시설의 배출량 산정방법"
+  },
+  "provision_id": "admrul:측정기기미부착배출시설의배출량산정방법#DOC"
+}
