@@ -1,0 +1,937 @@
+{
+  "law_id": "2100000267460",
+  "mst": "2100000267460",
+  "law_name": "공회전제한장치의 성능인증 시험방법 및 절차 등에 관한 규정",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000267460",
+  "promulgation_no": "2025-165",
+  "promulgation_date": "20251001",
+  "enforcement_date": "20251007",
+  "revision_date": "20251001",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "기후에너지환경부(교통환경과)",
+    "담당자명": "마승아",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "공회전제한장치의 성능인증 시험방법 및 절차 등에 관한 규정",
+    "발령일자": "20251001",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "기후에너지환경부",
+    "전화번호": "044-201-6928",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1482000",
+    "생성일자": "20251111",
+    "행정규칙ID": "36441",
+    "시행일자": "20251007",
+    "담당부서기관코드": "1482064",
+    "발령번호": "2025-165",
+    "행정규칙일련번호": "2100000267460",
+    "상위부처명": "기후에너지환경부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n○ 정부조직법 개정(‘25.10.1. 공포ㆍ시행)\n\n◇ 주요내용\n○ 정부조직법 개정에 따라 기관명칭(환경부 → 기후에너지환경부)을 변경",
+  "body": {
+    "format": "articles",
+    "article_count": 18,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조(목적) 이 고시는 「대기환경보전법」제60조제6항 및 같은 법 시행규칙 제10조의2 및 제81조의2 규정에 의한 공회전제한장치 성능인증의 세부적인 지침과 절차 등에 관한 사항을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제60조제6항",
+            "line_text": "",
+            "target_law_name": "대기환경보전법",
+            "target_article_no": "제60조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대기환경보전법/제60조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0001",
+            "reference_id": "law:대기환경보전법#JO0060"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행규칙",
+            "line_text": "",
+            "target_law_name": "대기환경보전법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대기환경보전법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0001",
+            "reference_id": "law:대기환경보전법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제10조의2 및 제81조의2",
+            "line_text": "",
+            "target_law_name": "대기환경보전법 시행규칙",
+            "target_article_no": "제10조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대기환경보전법 시행규칙/제10조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0001",
+            "reference_id": "law:대기환경보전법시행규칙#JO0010_02"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제10조의2 및 제81조의2",
+            "line_text": "",
+            "target_law_name": "대기환경보전법 시행규칙",
+            "target_article_no": "제81조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대기환경보전법 시행규칙/제81조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0001",
+            "reference_id": "law:대기환경보전법시행규칙#JO0081_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "용어의 정의",
+        "chapter": "제1장 총칙",
+        "content": "제2조(용어의 정의) 이 고시에서 사용되는 용어의 뜻은 다음과 같다.1. \"인증시험\"이란 인증시험기관이 장치의 성능 등을 평가하여 성능기준에 적합한지 여부를 확인하는 시험을 말한다.2. \"보증기간\"이란 장치의 성능이 정상적으로 유지되도록 장치 제작자 또는 판매자가 부품 및 정비 서비스를 무상으로 제공하여야 하는 기간을 말한다.3. \"공회전 정지율\"이란 공회전 제한장치를 통해 ‘엔진이 정지한 시간의 총합’을 ‘차량의 공회전 시간과 엔진 정지 시간의 총합’으로 나눈 값의 백분율을 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "다른 고시와의 관계",
+        "chapter": "제1장 총칙",
+        "content": "제3조(다른 고시와의 관계) 이 규정에서 정하지 아니한 사항에 대하여는 「제작자동차 인증 및 검사 방법과 절차에 관한 규정」(기후에너지환경부 고시), 「제작자동차 시험검사 및 절차에 관한 규정」(기후에너지환경부 고시) 및 「운행자동차 배출가스저감장치ㆍ저공해엔진 인증방법 및 절차 등에 관한 규정」(기후에너지환경부 고시)을 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「제작자동차 시험검사 및 절차에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "제작자동차 시험검사 및 절차에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/제작자동차 시험검사 및 절차에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0003",
+            "reference_id": "admrul:제작자동차시험검사및절차에관한규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「운행자동차 배출가스저감장치ㆍ저공해엔진 인증방법 및 절차 등에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "운행자동차 배출가스저감장치ㆍ저공해엔진 인증방법 및 절차 등에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/운행자동차 배출가스저감장치ㆍ저공해엔진 인증방법 및 절차 등에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0003",
+            "reference_id": "admrul:운행자동차배출가스저감장치저공해엔진인증방법및절차등에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "공회전 제한장치의 시험방법",
+        "chapter": "제2장 성능기준 및 시험 방법, 인증시험기관 등",
+        "content": "제4조(공회전 제한장치의 시험방법) 시행규칙 제10조의2 공회전제한장치 성능기준 시험방법은 별표 1과 같다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제10조의2",
+            "line_text": "",
+            "target_law_name": "대기환경보전법 시행규칙",
+            "target_article_no": "제10조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대기환경보전법 시행규칙/제10조의2",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0004",
+            "reference_id": "law:대기환경보전법시행규칙#JO0010_02"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "공회전제한장치의 성능인증 시험방법 및 절차 등에 관한 규정",
+            "target_article_no": "별표1",
+            "target_article_title": "공회전제한장치의 성능인증 시험방법(제4조 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000267460&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0004",
+            "reference_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "인증시험기관",
+        "chapter": "제2장 성능기준 및 시험 방법, 인증시험기관 등",
+        "content": "제5조(인증시험기관) 시행규칙 제81조의2 제4항에 따른 인증시험은 ‘국립환경과학원 교통환경연구소’에서 수행 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제81조의2",
+            "line_text": "",
+            "target_law_name": "대기환경보전법 시행규칙",
+            "target_article_no": "제81조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대기환경보전법 시행규칙/제81조의2",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0005",
+            "reference_id": "law:대기환경보전법시행규칙#JO0081_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "인증시험 대상자동차 선정방법",
+        "chapter": "제2장 성능기준 및 시험 방법, 인증시험기관 등",
+        "content": "제6조(인증시험 대상자동차 선정방법) 국립환경과학원장은 인증시험을 위한 대상차종 선정 시 시행규칙 제79조의8에 규정된 공회전제한장치 부착 대상 차종의 사용연료 및 기계적 특성을 반영하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "기술적 타당성 평가",
+        "chapter": "제2장 성능기준 및 시험 방법, 인증시험기관 등",
+        "content": "제7조(기술적 타당성 평가) 국립환경과학원장은 인증시험 외에 장치의 작동원리ㆍ구조ㆍ기능 등에 관한 기술적 타당성평가가 필요하다고 판단하는 경우 신청 자료에 근거하여 이를 평가할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "인증시험 신청 및 수수료 등",
+        "chapter": "제3장 인증절차",
+        "content": "제8조(인증시험 신청 및 수수료 등) ① 시행규칙 제81조의2 제1항에 따라 공회전제한장치의 성능 인증을 신청하고자 하는 공회전 제한장치의 제조자(수입하는 자를 포함한다) 및 판매자(이하 \"제작자\"라 한다)는 시행규칙 별지 제36호의2 성능인증 시험 신청서를 국립환경과학원장에게 제출하여야한다.② 인증시험 신청을 접수한 국립환경과학원장은 다음 각 호의 사항이 포함된 인증시험계획서를 작성하여 기후에너지환경부장관에게 제출하여야 한다.1. 인증시험대상 장치의 작동원리, 특성분석 및 장치 구성품 리스트2. 인증시험대상 자동차3. 인증 시험을 위한 적용대상 차종범위 및 적용근거4. 인증시험 일정 및 체계도 등 세부 시험계획서5. 그 밖에 인증시험에 필요한 세부적인 사항③ 국립환경과학원장은 인증시험 신청자의 요청이 있거나, 인증시험 기관에서 보유하지 않는 장비로 인증시험을 실시하는 등 필요하다고 인정되는 경우, 국립환경과학원 소속 공무원의 입회하에 타 기관에서 인증시험을 진행할 수 있다.④ 인증시험 수수료는 항목별 1회 시험을 기준으로 「국립환경과학원 시험의뢰규칙」 별표의 \"간이OBD\" 시험항목의 수수료를 적용한다. 다만, 제3항에 따라 국립환경과학원 이외의 기관에서 시험하는 경우 해당 기관에서 기후에너지환경부장관과 협의하여 정하는 수수료 기준을 적용한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "제81조의2",
+            "line_text": "",
+            "target_law_name": "대기환경보전법 시행규칙",
+            "target_article_no": "제81조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대기환경보전법 시행규칙/제81조의2",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0008",
+            "reference_id": "law:대기환경보전법시행규칙#JO0081_02"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "별지 제36호의2",
+            "line_text": "",
+            "target_law_name": "공회전제한장치의 성능인증 시험방법 및 절차 등에 관한 규정",
+            "target_article_no": "별지36의2",
+            "target_article_title": "",
+            "appendix_no": "36",
+            "appendix_branch": "2",
+            "appendix_kind": "별지",
+            "appendix_found": false,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000267460&bylNo=&bylBrNo=",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0008",
+            "reference_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#BJ0036_02"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제4항",
+            "link_text": "「국립환경과학원 시험의뢰규칙」",
+            "line_text": "",
+            "target_law_name": "국립환경과학원 시험의뢰규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국립환경과학원 시험의뢰규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0008",
+            "reference_id": "law:국립환경과학원시험의뢰규칙#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "인증신청서 제출서류 내용 등",
+        "chapter": "제3장 인증절차",
+        "content": "제9조(인증신청서 제출서류 내용 등) ① 공회전제한장치 제작자가 시행규칙 제81조의2 제1항에 따라 제출하는 서류의 세부내용은 별표 2와 같다.② 공회전제한장치 인증을 받은 제작자가 이미 인증 받은 장치와 원리 및 구조는 동일하나 크기가 확대 또는 축소된 장치에 대하여 인증을 신청하고자 하는 경우에는 해당 장치에 대한 기술적 설명서의 일부를 생략하거나 인증 받을 때 제출했던 서류의 사본으로 이를 대신할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제1항",
+            "link_text": "제81조의2",
+            "line_text": "",
+            "target_law_name": "대기환경보전법 시행규칙",
+            "target_article_no": "제81조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대기환경보전법 시행규칙/제81조의2",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0009",
+            "reference_id": "law:대기환경보전법시행규칙#JO0081_02"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제1항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "공회전제한장치의 성능인증 시험방법 및 절차 등에 관한 규정",
+            "target_article_no": "별표2",
+            "target_article_title": "인증신청서 첨부서류(제9조제1항 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000267460&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0009",
+            "reference_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#BYL0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "인증시험 결과보고",
+        "chapter": "제3장 인증절차",
+        "content": "제10조(인증시험 결과보고) 국립환경과학원장은 인증시험을 마친 후 20일 이내에 별지 제1호서식의 공회전제한장치의 성능기준 시험결과서 및 시험결과서를 분석한 검토의견서를 작성하여 기후에너지환경부장관에게 제출하여야 한다. 부적합한 항목이 있는 경우에는 부적합 사유를 첨부하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "공회전제한장치의 성능인증 시험방법 및 절차 등에 관한 규정",
+            "target_article_no": "별지1",
+            "target_article_title": "공회전 제한장치의 성능기준 시험 결과서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158062829",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0010",
+            "reference_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "인증서 교부",
+        "chapter": "제3장 인증절차",
+        "content": "제11조(인증서 교부) 기후에너지환경부장관은 시행규칙 제10조의2의 성능기준을 만족한 장치에 대한 인증서 교부 시 별지 제1호 서식의 성능기준 시험결과서를 첨부하여야 하며, 부적합한 경우에는 시험결과서에 부적합 사유를 명시하여 제작자에게 부적합 통보를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "제10조의2",
+            "line_text": "",
+            "target_law_name": "대기환경보전법 시행규칙",
+            "target_article_no": "제10조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대기환경보전법 시행규칙/제10조의2",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0011",
+            "reference_id": "law:대기환경보전법시행규칙#JO0010_02"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "별지 제1호 서식",
+            "line_text": "",
+            "target_law_name": "공회전제한장치의 성능인증 시험방법 및 절차 등에 관한 규정",
+            "target_article_no": "별지1",
+            "target_article_title": "공회전 제한장치의 성능기준 시험 결과서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158062829",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0011",
+            "reference_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "인증내용의 변경",
+        "chapter": "제3장 인증절차",
+        "content": "제12조(인증내용의 변경) ① 국립환경과학원장은 제작자가 시행규칙 제81조의2제1호에 따라 공회전제한장치의 성능과 관련된 변경신청 시 변경으로 인하여 장치 성능에 미치는 영향이 경미하다고 판단하는 경우에는 인증시험의 일부를 생략할 수 있다.② 제작자는 시행규칙 제81조의2 제2항 제2호에 따라 상호, 대표자, 주소 등 인증서에 명시된 사항을 변경한 경우 변경일로부터 30일 이내에 기후에너지환경부장관에게 변경신청을 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "제81조의2제1호",
+            "line_text": "",
+            "target_law_name": "대기환경보전법 시행규칙",
+            "target_article_no": "제81조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대기환경보전법 시행규칙/제81조의2",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0012",
+            "reference_id": "law:대기환경보전법시행규칙#JO0081_02"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제2항",
+            "link_text": "제81조의2",
+            "line_text": "",
+            "target_law_name": "대기환경보전법 시행규칙",
+            "target_article_no": "제81조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대기환경보전법 시행규칙/제81조의2",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0012",
+            "reference_id": "law:대기환경보전법시행규칙#JO0081_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "기술위원회의 구성 및 운영 등",
+        "chapter": "제4장 기술위원회 구성ㆍ운영",
+        "content": "제13조(기술위원회의 구성 및 운영 등) ① 제8조 및 제10조의 검토 등을 위하여 국립환경과학원에 공회전제한장치 기술위원회(이하 \"기술위원회\"라 한다)를 둔다.② 기술위원회는 다음 각 호의 사항을 심의한다.1. 공회전제한장치의 인증시험 결과2. 공회전제한장치의 최종인증 적합 여부3. 기타 장치의 성능 및 인증과 관련하여 국립환경과학원장이 요청하는 사항③ 기술위원회는 장치에 관하여 학식과 경험이 풍부한 자 및 관계 공무원 중에서 국립환경과학원장이 위촉하는 15인 이상의 위원(이하 ‘기술위원’이라 한다)으로 구성한다.④ 위원장은 위원 중에서 호선하며, 위원회를 대표하고 위원회 업무를 통할한다.⑤ 기술위원회는 재적위원 과반수의 출석으로 개의하고, 출석위원 전원의 찬성으로 의결한다.⑥ 제5항에도 불구하고 기술위원 과반수가 성능시험결과 검토서에 보완이 필요하다는 의견을 제시하는 경우 부적합으로 판정하여야 한다. 다만, 즉시 시정될 수 있는 결함에 한해서는 재검토할 수 있다.⑦ 기술위원회에 참석한 기술위원은 별지 제2호서식의 성능시험결과 검토서를 작성하여야 한다.⑧ 기술위원회는 필요한 경우 인증신청인 또는 국립환경과학원의 의견을 들을 수 있다.⑨ 국립환경과학원장은 제8조제2항의 인증시험계획 수립, 제9조의 인증신청서 검토 등을 수행하는데 있어서 필요하다고 인정되는 경우에는 기술위원회의 의견을 들을 수 있다⑩ 국립환경과학원장은 기 인증 받은 장치와 동일한 기술이 적용된 것으로 판단되는 장치에 대해서는 제2항과 관련된 심의를 기술위원회에 서면으로 요청할 수 있으며, 재적위원 과반수가 의견을 제출하고, 의견을 제출한 전원의 찬성으로 의결한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제1항",
+            "link_text": "제8조 및 제10조",
+            "line_text": "",
+            "target_law_name": "공회전제한장치의 성능인증 시험방법 및 절차 등에 관한 규정",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/공회전제한장치의 성능인증 시험방법 및 절차 등에 관한 규정/제8조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0013",
+            "reference_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0008"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제1항",
+            "link_text": "제8조 및 제10조",
+            "line_text": "",
+            "target_law_name": "공회전제한장치의 성능인증 시험방법 및 절차 등에 관한 규정",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/공회전제한장치의 성능인증 시험방법 및 절차 등에 관한 규정/제10조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0013",
+            "reference_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0010"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제7항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "공회전제한장치의 성능인증 시험방법 및 절차 등에 관한 규정",
+            "target_article_no": "별지2",
+            "target_article_title": "성능시험 결과 검토서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158062835",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0013",
+            "reference_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#BJ0002"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제9항",
+            "link_text": "제8조제2항",
+            "line_text": "",
+            "target_law_name": "공회전제한장치의 성능인증 시험방법 및 절차 등에 관한 규정",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/공회전제한장치의 성능인증 시험방법 및 절차 등에 관한 규정/제8조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0013",
+            "reference_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0008"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제9항",
+            "link_text": "제9조",
+            "line_text": "",
+            "target_law_name": "공회전제한장치의 성능인증 시험방법 및 절차 등에 관한 규정",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/공회전제한장치의 성능인증 시험방법 및 절차 등에 관한 규정/제9조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0013",
+            "reference_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "장치의 부착 및 사용 등",
+        "chapter": "제5장 인증장치의 관리",
+        "content": "제14조(장치의 부착 및 사용 등) ① 공회전제한장치 제작자는 장치 사용자가 인증서에 기재된 장착대상 자동차의 범위 등과 동일한 조건에서만 사용하도록 하여야 하고, 사용자는 이를 준수하여야 한다.② 제작자는 다음 각 호의 자료를 사용자에게 제공하여야 한다.1. 사용자가 부착ㆍ사용하고 있는 장치의 사용 및 정비안내서2. 보증기간 동안 성능 및 내구성을 보증하는 보증서(사용자의 고의 또는 부주의로 발생할 수 있는 장치의 고장 사항을 포함한다)",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "장치의 인증내용 표지",
+        "chapter": "제5장 인증장치의 관리",
+        "content": "제15조(장치의 인증내용 표지) ① 제작자가 공회전제한장치 성능 인증을 받은 장치에 표시하여야 하는 내용은 별표 3과 같다.② 제작자는 제1항에 따른 인증내용을 기재한 표지를 장치의 본체에 인쇄ㆍ각인 및 라벨 등의 방법으로 식별이 용이하고 쉽게 훼손되지 않도록 부착하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제1항",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "공회전제한장치의 성능인증 시험방법 및 절차 등에 관한 규정",
+            "target_article_no": "별표3",
+            "target_article_title": "공회전제한장치의 인증내용 표시내용(제15조 제1항 관련)",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000267460&bylNo=0003&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0015",
+            "reference_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#BYL0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "사후관리",
+        "chapter": "제5장 인증장치의 관리",
+        "content": "제16조(사후관리) 기후에너지환경부장관은 인증받은 장치에 결함이 발생하여 시행규칙 제10조의2의 성능을 계속하여 유지할 수 없을 경우에는 장치 제작자로 하여금 해당 장치를 수거하여 무상 수리하거나 교환하도록 명령할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조",
+            "link_text": "제10조의2",
+            "line_text": "",
+            "target_law_name": "대기환경보전법 시행규칙",
+            "target_article_no": "제10조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대기환경보전법 시행규칙/제10조의2",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0016",
+            "reference_id": "law:대기환경보전법시행규칙#JO0010_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "장치 부착 표지의 규격",
+        "chapter": "제6장 자동차의 장치 부착 표시 등",
+        "content": "제17조(장치 부착 표지의 규격) ① 자동차 소유자는 공회전제한장치를 부착한 자동차에 장치 부착사실을 알리는 표지를 자동차의 뒷면 유리 중앙에 부착하여야 한다.② 장치를 부착한 자동차에 부착하는 표지의 규격 및 내용은 서울특별시장 ㆍ광역시장ㆍ도지사, 특별자치도지사 및 특별자치시장이 따로 정할 수 있다. 이 경우 기후에너지환경부장관에게 별도로 정한 표지의 규격을 통보하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "재검토기한",
+        "chapter": "제6장 자동차의 장치 부착 표시 등",
+        "content": "제18조(재검토기한) 기후에너지환경부장관은「행정규제기본법」및「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2016년 7월 1일을 기준으로 매 3년이 되는 시점마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제18조",
+            "source_clause": "제18조",
+            "link_text": "「행정규제기본법」",
+            "line_text": "",
+            "target_law_name": "행정규제기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/행정규제기본법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0018",
+            "reference_id": "law:행정규제기본법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제18조",
+            "source_clause": "제18조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0018",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#JO0018"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20091229",
+      "promulgation_no": "2009-280",
+      "content": "부칙 <제2009-280호,2009. 12. 29.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20121106",
+      "promulgation_no": "2012-216",
+      "content": "부칙 (「연료용 유류 등의 황함유기준」 등 개정)<제2012-216호,2012. 11. 6.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20130705",
+      "promulgation_no": "2013-87",
+      "content": "부칙 <제2013-87호,2013. 7. 5.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20160616",
+      "promulgation_no": "2016-111",
+      "content": "부칙 <제2016-111호,2016. 6. 16.>이 고시는 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "공회전제한장치의 성능인증 시험방법(제4조 관련)",
+      "enforcement_date": "",
+      "content": "[별표 1]\n공회전제한장치의 성능인증 시험방법(제4조 관련)\n주행로 또는 실제 도로 상에서 다음의 성능 기준 항목에 대하여 3회 이상의 반복시험을 통해 정상 작동여부, 성능기준의 만족여부 등을 평가\n┌───────────────────┬─────────────────────┐\n│성  능  기  준                        │시 험 방 법                               │\n│(시행규칙 제10조의 2)                 │                                          │\n├───────────────────┼─────────────────────┤\n│가. 냉각수 온도가 설정 값 이하에서는  │- 공회전제한장치가 동작하지 않는 엔진     │\n│차량이 정지되더라도 엔진은 정지되     │냉각수 온도를 설정할 수 있는지를 확인     │\n│지 않을 것                            │하고, 시험차량의 엔진 냉각수 온도 보다    │\n│                                      │높은 값으로 조정                          │\n│                                      │- 설정 차량 속도 이상으로 가속한 후 정지  │\n│                                      │하였을 때 엔진이 정지되지 않는지 확인     │\n├───────────────────┼─────────────────────┤\n│나. 차간거리 좁히기와 같은 저속 운전  │- 공회전제한장치가 동작하지 않는 차량     │\n│상황에서는 차량이 정지되더라도 엔     │속도를 설정할 수 있는지를 확인하고, 조    │\n│진이 정지되지 아니할 것               │정                                        │\n│                                      │- 설정 차량 속도 미만으로 가속한 후 정지  │\n│                                      │하였을 때 엔진이 정지되지 않는 지 확인    │\n├───────────────────┼─────────────────────┤\n│다. 일정 경사로 이상에서는 차량이 정  │- 장치의 도로 경사도 감지 기능이 있는지를 │\n│지되더라도 엔진이 정지되지 아니할     │확인하고, 설정 경사도 이상의 주행로 또는  │\n│것. 다만, 경사로에서 제동력 확보      │도로에서 차량을 설정 속도 이상으로 가속한 │\n│및 유지가 가능할 경우에는 적용하      │후 정지하였을 때 엔진이 정지되지 않는지를 │\n│지 아니한다.                          │확인                                      │\n│                                      │- 또는, 경사도에 따라 요구되는 제동력을   │\n│                                      │산출하고, 실제로 제동력이 확보 및 유지    │\n│                                      │되는 지를 장치에서 표시되는 데이터를 통해 │\n│                                      │확인                                      │\n├───────────────────┼─────────────────────┤\n│라. 공기압을 이용하여 제동하는 대형차 │- 제동장치를 수차례 동작하여 공기압을     │\n│량의 경우에는 제동장치용 공기압이     │설정값 이하로 조정하였을 때 이를 감지     │\n│설정 값 이하에서는 차량이 정지되      │할 수 있는 지를 확인함                    │\n│더라도 엔진이 정지되지 아니할 것      │- 설정값 미만의 공기압에서 차량이 정지된  │\n│                                      │상태에서 엔진이 정지되지 않는지를 확인    │\n└───────────────────┴─────────────────────┘\n┌───────────────────┬─────────────────────────┐\n│마. 가목부터 라목까지에 해당하지 아니 │- 장치가 차량의 제동 신호, 속도, 엔진 정지여부 및 │\n│하는 경우 차량의 제동 및 정지 이      │엔진 정지를 위한 관련 신호를 감지하는 지 확인     │\n│후에 일정시간이 경과되면 엔진이       │- 차량 정지 후 시간 측정 및 설정 기능이 있는지를  │\n│정지되도록 할 것                      │확인하고, 차량 정지 후 설정시간이 경과된 후에     │\n│                                      │엔진이 정지되는 지를 확인                         │\n├───────────────────┼─────────────────────────┤\n│바. 야간에 차량 및 엔진 정지 시 차량  │- 장치를 동작시켜서 엔진을 정지하고, 이 때        │\n│식별을 위한 등화 시스템을 유지할      │전조등은 소등되고, 미등 및 브레이크 등            │\n│것                                    │은 점등되는 지를 확인                             │\n├───────────────────┼─────────────────────────┤\n│사. 엔진 재시동 시 고에너지 소비 보조 │- 장치를 동작시켜서 엔진을 정지하고, 재 시        │\n│장치는 엔진 시동이 완료된 후 에너     │동했을 때 시동이 완료된 후 전조등 점등,           │\n│지 소비율에 따라 순차적으로 작동      │에어컨 가동 순으로 작동되는 지를 확인             │\n│되도록 할 것                          │- 차량의 제어기능을 통해 엔진 재시동 시           │\n│                                      │일정 기간 후에 에어컨이 작동된다면, 공회          │\n│                                      │전 제한장치는 에어컨의 작동을 제어할 필           │\n│                                      │요가 없음                                         │\n├───────────────────┼─────────────────────────┤\n│아. 공회전제한장치의 사용여부를 운전  │- 공회전제한장치의 사용여부를 선택할 수           │\n│자가 선택할 수 있도록 할 것           │있는 스위치 등이 운전자가 조작이 용이             │\n│                                      │하도록 설치되어 있는지를 확인                     │\n├───────────────────┼─────────────────────────┤\n│자. 공회전제한장치를 작동하지 아니하  │- 공회전제한장치를 사용하지 않도록 설정           │\n│고 장시간 공회전 상태로 정차 시에     │하고, 5분 동안 공회전 상태를 유지하였을           │\n│경보를 발생하도록 할 것               │때 경보음이 울리는지를 확인                       │\n├───────────────────┼─────────────────────────┤\n│차. 장치의 재시동을 위해 일정 횟수 이 │- 시동모터 사용횟수가 저장 또는 표시되는          │\n│상으로 시동모터가 사용된 경우 경      │지를 확인함                                       │\n│보를 발생하도록 할 것                 │- 시동모터 사용횟수가 설정값 보다 커지게          │\n│                                      │되는 조건을 모사하여 경보가 발생하는지            │\n│                                      │를 확인                                           │\n├───────────────────┼─────────────────────────┤\n│카. 공회전 정지 시간과 실시율(차량 정 │- 1일 공회전 정지시간 및 실시율 값을  저          │\n│지 시간과 공회전 정지 시간의 비       │장하거나 원격으로 해당 정보가 전달되는지          │\n│율)을 저장하고 표시하거나, 또는       │를 확인                                           │\n│원격으로 해당 정보를 전달할 수 있을 것│                                                  │\n├───────────────────┼─────────────────────────┤\n│타. 대도시의 도심지 주행모드를 반영하 │- 가목부터 카목까지의 성능시험이 완료된           │\n│여 200km 이상 실제 도로를 주행하      │후 200km 이상 실제 도로를 주행 하고, 저           │\n│였을 때 장치 관련 정보들이 저장되     │장장치의 데이터를 확인하였을 때 관련 정보         │\n│어 있을 것                            │들이 정상적으로 저장되어 있는지를 확인            │\n└───────────────────┴─────────────────────────┘\n※  각 성능 기준에 요구되는 장치의 입ㆍ출력 신호는 1초 단위의 실시간으로 장치에 저장되어야 함.",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000267460&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158062843",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158062837",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158062843",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#BYL0001",
+      "filename": "별표1_공회전제한장치의 성능인증 시험방법(제4조 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "인증신청서 첨부서류(제9조제1항 관련)",
+      "enforcement_date": "",
+      "content": "[별표 2]\n인증신청서 첨부서류(제9조제1항 관련)\n1. 공회전 제한장치의 구조ㆍ성능ㆍ내구성 등에 관한 설명서\n(1) 개략도 및 순서도 등을 통한 구체적 원리\n(2) 개조구성부품의 제작사, 제원, 규격, 성능, 작동원리, 제작차 적용사례(사진 및 도면 포함)\n(3) 안전성 및 신뢰성에 관한 설명서(관련 부품의 작동 원리에 근거하여 설명)\n(4) 장치 장착 절차 및 방법(도면 및 사진 포함)\n(5) 보증기간이내의 장치 내구에 관한 설명서\n2. 공회전제한장치 관련 자체 시험결과서\n(1) 별표 1 시험방법에 따른 자체 시험 결과서\n(2) 시험장소, 시험장비, 시험일 등 시험에 관한 일반적 사항\n3. 장치의 내환경성 시험결과서 및 적정부품 사용여부 설명서\n(1) 진동 시험, 내염성 시험, 전자파 시험 등 전자장치 자체평가 시험 결과서\n(2) 하네스, 컨넥터, 스위치, 릴레이 등의 부품을 적정 용량 제품으로 사용여부 설명서\n4. 장치의 판매 및 사후관리체계에 관한 설명서\n(1) 부착업체 및 정비업체 현황\n(2) A/S 접수된 사항에 대한 관리 방안\n(3) 고장발생 시 응급조치 사항 및 사진 등을 포함한 정비 지침서\n(4) 공회전제한장치의 사용설명서에 다음의 내용이 포함되어야함\n- 고부하 운전 후 차량 엔진을 정지하는 경우에는 공회전 제한기능을 사용하지 않고 시동키로서 엔진을 정지하여야 함\n- 이상신호 발생 시 공회전 제한기능을 사용하지 않아야 함\n5. 제품보증에 관한 서류\n(1) 무상 및 유상수리 대상 등 보증에 관한 사항(보증기간 2년)\n(2) 보증보험 가입 관련 서류",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000267460&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158062851",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158062845",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158062851",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#BYL0002",
+      "filename": "별표2_인증신청서 첨부서류(제9조제1항 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "공회전제한장치의 인증내용 표시내용(제15조 제1항 관련)",
+      "enforcement_date": "",
+      "content": "[별표 3]\n공회전제한장치의 인증내용 표시내용(제15조 제1항 관련)\n1. 표지판의 명칭 - 공회전제한장치 표지판\n2. 제작자 또는 판매자 명칭 - 표지판의 상단 또는 하단에 표시\n3. 인증번호\n4. 장치의 명칭, 종류 및 형식\n5. 장착대상 자동차 범위 - 장착할 수 있는 차종 명시",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000267460&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158062857",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158062853",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158062857",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#BYL0003",
+      "filename": "별표3_공회전제한장치의 인증내용 표시내용(제15조 제1항 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "공회전 제한장치의 성능기준 시험 결과서",
+      "enforcement_date": "",
+      "content": "[별지 1호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃공회전 제한장치의 성능기준 시험 결과서                                          ┃\n┠─┬───────┬──────────────────────────────┨\n┃신│①상 호 명    │                                                            ┃\n┃청├───────┼──────────────────────────────┨\n┃인│②대 표 자    │                                                            ┃\n┃  ├───────┼──────────────────────────────┨\n┃  │③주    소    │                                     (전화:               ) ┃\n┠─┴───────┼──────────────────────────────┨\n┃④공회전 제한장치의 │                                                            ┃\n┃명칭 및 형식      │                                                            ┃\n┠─────────┴──────────────────────────────┨\n┃⑤시험차량 현황                                                                 ┃\n┠─────────┬───────┬─────┬────────────────┨\n┃차     명 (차 종) │              │용      도│                                ┃\n┠─────────┼───────┼─────┼────────────────┨\n┃원동기형식(배기량)│              │차량총중량│㎏                              ┃\n┠─────────┴───────┴─────┴────────────────┨\n┃⑥시험 결과(항목별)                                                             ┃\n┠─────┬──────────┰─────┬─────────────────┨\n┃①-1 항목 │□ 적합    □ 부적합┃①-8 항목 │□ 적합    □ 부적합              ┃\n┠─────┼──────────╂─────┼─────────────────┨\n┃①-2 항목 │□ 적합    □ 부적합┃①-9 항목 │□ 적합    □ 부적합              ┃\n┠─────┼──────────╂─────┼─────────────────┨\n┃①-3 항목 │□ 적합    □ 부적합┃①-10 항목│□ 적합    □ 부적합              ┃\n┠─────┼──────────╂─────┼─────────────────┨\n┃①-4 항목 │□ 적합    □ 부적합┃①-11 항목│□ 적합    □ 부적합              ┃\n┠─────┼──────────╂─────┼─────────────────┨\n┃①-5 항목 │□ 적합    □ 부적합┃①-12 항목│□ 적합    □ 부적합              ┃\n┠─────┼──────────╂─────┼─────────────────┨\n┃①-6 항목 │□ 적합    □ 부적합┃①-13 항목│□ 적합    □ 부적합              ┃\n┠─────┼──────────╂─────┼─────────────────┨\n┃①-7 항목 │□ 적합    □ 부적합┃② 항   목│□ 적합    □ 부적합              ┃\n┠─────┴──────────┸─────┴─────────────────┨\n┃                                                                                ┃\n┃  「공회전 제한장치의 성능기준, 인증방법 및 절차 등에 관한 규정」(기후에너지    ┃\n┃환경부 고시) 제4조 및 제8조에 따라 시험한 결과임을 증명합니다.                  ┃\n┃                                                          년      월       일   ┃\n┃                                                                                ┃\n┃                          ┏━━┓                                              ┃\n┃  국 립 환 경 과 학 원 장 ┃직인┃                                              ┃\n┃                          ┗━━┛                                              ┃\n┃                                                                                ┃\n┠────────────────────────────────────────┨\n┃ ※ 첨부 : 세부 시험결과서                                                      ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210㎜×297㎜[일반용지 60g/㎡(재활용품)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158062829",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158062825",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158062829",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#BJ0001",
+      "filename": "별지1_공회전 제한장치의 성능기준 시험 결과서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "성능시험 결과 검토서",
+      "enforcement_date": "",
+      "content": "[별지 제2호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃성능시험 결과 검토서                                                          ┃\n┠─┬───────┬─────────────────────────────┨\n┃신│①상 호 명    │                                                          ┃\n┃청├───────┼────────────┬─────┬──────────┨\n┃인│②대 표 자    │                        │③생년월일│                    ┃\n┃  ├───────┼────────────┴─────┴──────────┨\n┃  │④주    소    │                                                          ┃\n┠─┴───────┼─────────────────────────────┨\n┃ ⑤장   치   명   │                                                          ┃\n┠─────────┼─────────────────────────────┨\n┃ ⑥대상차종/적용조건│                                                          ┃\n┠─────────┼─────────────────────────────┨\n┃ ⑦평 가 기 관 명 │                                                          ┃\n┣━━━━━━━━━┷━━━━━━━━┯━━━━━━━━━━┯━━━━━━━━━┫\n┃                         구  분     │검  토  결  과      │최종 인증         ┃\n┃                                    ├────┬─────┤여부              ┃\n┃  심의항목                          │적합    │부적합    │                  ┃\n┠──────┬───────────┼────┼─────┼─────────┨\n┃⑧인증시험  │ 1. 성능기준 만족 여부│        │          │                  ┃\n┃결과        ├───────────┼────┼─────┤                  ┃\n┃보고서      │ 2. 인증시험 적정 수행여부│        │          │                  ┃\n┃            ├───────────┼────┼─────┤                  ┃\n┃            │ 3. 적용차종의 범위   │        │          │                  ┃\n┃            ├───────────┼────┼─────┤                  ┃\n┃            │ 4. 인증조건의 타당성 │        │          │                  ┃\n┠──────┼───────────┼────┼─────┤                  ┃\n┃⑨추가검토  │                      │        │          │                  ┃\n┃사항        │                      │        │          │                  ┃\n┣━━━━━━┷┯━━━━━━┯━━━┷━━━━┷━━━━━┷━━━━━━━━━┫\n┃⑩판정등급    │            │※ 등급기준   - 모든 항목이 적합인 경우 : 적합  ┃\n┃              │            │                                                ┃\n┃              │            │              - 부적합 항목이 있을 경우 : 부적합┃\n┠───────┼──────┼────────────────────────┨\n┃⑪보완요망내용│인증시험내용│                                                ┃\n┃              ├──────┼────────────────────────┨\n┃              │결과분석    │                                                ┃\n┃              ├──────┼────────────────────────┨\n┃              │기 타       │                                                ┃\n┠───────┼──────┴────────────────────────┨\n┃⑫평 가 자    │소속 :                          성명 :                (서명)  ┃\n┠───────┴───────────────────────────────┨\n┃※ 작성방법                                                                   ┃\n┃ ⑧ 검토결과 ‘부적합’인 경우 해당 사유에 대하여 간략히 기재                 ┃\n┃ ⑨ 장치 인증과 관련하여 기후에너지환경부 또는 과학원에 요청하는 사항         ┃\n┃ ⑪ 인증시험내용 : 추가 또는 보완 시험이 필요한지 여부를 판단하여 기재        ┃\n┃    결과분석 : 결과분석에 대한 추가 또는 보완 여부를 판단하여 기재            ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210㎜×297㎜[일반용지 60g/㎡(재활용품)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158062835",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158062831",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158062835",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#BJ0002",
+      "filename": "별지2_성능시험 결과 검토서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "개정본문 (공회전제한장치의 성능인증 시험방법 및 절차 등에 관한 규정 일부개정고시안).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=158057555",
+      "file_store_url": "",
+      "filename": "개정본문 (공회전제한장치의 성능인증 시험방법 및 절차 등에 관한 규정 일부개정고시안).hwpx"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 28,
+    "by_category": {
+      "법령": 14,
+      "행정규칙": 7,
+      "별표": 3,
+      "별지": 4
+    },
+    "by_relation_type": {
+      "citation": 17,
+      "appendix_ref": 7,
+      "internal_ref": 4
+    },
+    "articles_total": 18,
+    "articles_with_relations": 13,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 4,
+    "appendices_count": 5,
+    "attachments_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/공회전제한장치의 성능인증 시험방법 및 절차 등에 관한 규정"
+  },
+  "provision_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#DOC"
+}
