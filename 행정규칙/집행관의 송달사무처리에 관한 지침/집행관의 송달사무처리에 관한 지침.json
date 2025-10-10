@@ -1,0 +1,451 @@
+{
+  "law_id": "2200000107689",
+  "mst": "2200000107689",
+  "law_name": "집행관의 송달사무처리에 관한 지침",
+  "law_abbr": "",
+  "law_type": "행정예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2200000107689",
+  "promulgation_no": "1443",
+  "promulgation_date": "20250801",
+  "enforcement_date": "20251010",
+  "revision_date": "20250801",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "대법원(대법원)",
+    "담당자명": "",
+    "행정규칙종류코드": "B0012",
+    "행정규칙명": "집행관의 송달사무처리에 관한 지침",
+    "발령일자": "20250801",
+    "행정규칙종류": "행정예규",
+    "제개정구분코드": "200403",
+    "조문형식여부": "N",
+    "소관부처명": "대법원",
+    "전화번호": "",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "9740000",
+    "생성일자": "20251023",
+    "행정규칙ID": "2111379",
+    "시행일자": "20251010",
+    "담당부서기관코드": "",
+    "발령번호": "1443",
+    "행정규칙일련번호": "2200000107689",
+    "상위부처명": "대법원"
+  },
+  "amendment_text": "",
+  "revision_reason": "1. 개정이유\n○ 형사전자소송의 시행에 따라 전자문서의 출력서면에 의한 집행관 송달을 실시하는 경우에 관한 사항을 정비함\n2. 주요내용\n○ 「형사사법절차에서의 전자문서 이용 등에 관한 법률」이 적용되는 절차에서 전자문서의 출력서면에 의한 집행관 송달 시 그 송달이 불능된 때라도 반송이 필요하지 않음을 명확히 함(제3조제4항 단서)",
+  "body": {
+    "format": "articles",
+    "article_count": 3,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "송달사무의 처리기한 등",
+        "chapter": "",
+        "content": "제1조 (송달사무의 처리기한 등) ① 집행관은 서류송달사건을 접수한 날로부터 7일(휴일송달과 제3조제1항 후단에서 정한 통합송달의 경우에는 20일) 이내에 송달을 실시하여야 한다.② 집행관이 송달을 실시한 때에는 [별지1] 양식(전산양식 A1440)의 송달사유통지서에 의하여 지체 없이 송달에 관한 사유를 통지하되, 위 통지는 「민사소송규칙」제53조 단서에 따라 전자통신매체를 이용하여 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제3조",
+            "line_text": "제1조 (송달사무의 처리기한 등) ① 집행관은 서류송달사건을 접수한 날로부터 7일(휴일송달과 제3조제1항 후단에서 정한 통합송달의 경우에는 20일) 이내에 송달을 실시하여야 한다.② 집행관이 송달을 실시한 때에는 [별지1] 양식(전산양식 A1440)의 송달사유통지서에 의하여 지체 없이 송달에 관한 사유를 통지하되, 위 통지는 「민사소송규칙」제53조 단서에 따라 전자통신매체를 이용하여 한다.",
+            "target_law_name": "집행관의 송달사무처리에 관한 지침",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/집행관의 송달사무처리에 관한 지침/제3조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:집행관의송달사무처리에관한지침#JO0001",
+            "reference_id": "admrul:집행관의송달사무처리에관한지침#JO0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:집행관의송달사무처리에관한지침#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "송달실시시간",
+        "chapter": "",
+        "content": "제2조 (송달실시시간) ① 집행관에 의한 송달을 신청하는 사람은 송달실시를 희망하는 시간을 미리 표시할 수 있다.② 야간송달은 부득이한 사정이 없는 한 20:00 이후 또는 08:00 이전에 실시하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:집행관의송달사무처리에관한지침#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "송달불능시의 조치",
+        "chapter": "",
+        "content": "제3조 (송달불능시의 조치) ① 집행관이 송달을 실시하였으나 수취인부재 또는 폐문부재로 송달불능된 경우에는 제1조제1항에 규정된 송달사무처리기한 내에서 총 3회까지 송달을 실시하되, 주간ㆍ야간ㆍ휴일송달을 각 1회씩 실시하는 통합송달의 경우 각 송달실시일 사이에 3일 이상의 간격을 두어야 한다.② 집행관이 송달을 실시하였으나 송달불능이 된 때에는 이웃사람, 공동주택의 관리인 또는 경비원 등에게 송달받을 사람의 거주 여부 등을 확인한 내용과 건물의 외관상 나타나는 특이사항(가스ㆍ전기 등의 사용 상황, 우편물의 수취 상황 등 포함) 및 제2조제2항의 20:00 이후 또는 08:00 이전 외의 시간에 송달한 사유 등을 [별지2] 양식(전산양식 A1441)의 ‘송달현장상황탐지 등 결과통지서’ 해당란에 구체적으로 적어서 전자통신매체를 이용하여 법원에 제출하여야 한다.③ 제2항의 ‘송달현장상황탐지 등 결과통지서’에는 현장상황의 설명을 위하여 건물의 외부 사진ㆍ도면 등의 자료를 붙여야 한다.④ 집행관은 송달이 불능된 때에는 송달물을 해당 법원으로 반송하여야 한다. 다만 「 민사소송 등에서의 전자문서 이용 등에 관한 법률 」 제12조제1항 및 「형사사법절차에서의 전자문서 이용 등에 관한 법률」 제15조제1항에 따른 송달의 경우에는 그러하지 아니하다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제1조",
+            "line_text": "제3조 (송달불능시의 조치) ① 집행관이 송달을 실시하였으나 수취인부재 또는 폐문부재로 송달불능된 경우에는 제1조제1항에 규정된 송달사무처리기한 내에서 총 3회까지 송달을 실시하되, 주간ㆍ야간ㆍ휴일송달을 각 1회씩 실시하는 통합송달의 경우 각 송달실시일 사이에 3일 이상의 간격을 두어야 한다.② 집행관이 송달을 실시하였으나 송달불능이 된 때에는 이웃사람, 공동주택의 관리인 또는 경비원 등에게 송달받을 사람의 거주 여부 등을 확인한 내용과 건물의 외관상 나타나는 특이사항(가스ㆍ전기 등의 사용 상황, 우편물의 수취 상황 등 포함) 및 제2조제2항의 20:00 이후 또는 08:00 이전 외의 시간에 송달한 사유 등을 [별지2] 양식(전산양식 A1441)의 ‘송달현장상황탐지 등 결과통지서’ 해당란에 구체적으로 적어서 전자통신매체를 이용하여 법원에 제출하여야 한다.③ 제2항의 ‘송달현장상황탐지 등 결과통지서’에는 현장상황의 설명을 위하여 건물의 외부 사진ㆍ도면 등의 자료를 붙여야 한다.④ 집행관은 송달이 불능된 때에는 송달물을 해당 법원으로 반송하여야 한다. 다만 「 민사소송 등에서의 전자문서 이용 등에 관한 법률 」 제12조제1항 및 「형사사법절차에서의 전자문서 이용 등에 관한 법률」 제15조제1항에 따른 송달의 경우에는 그러하지 아니하다.",
+            "target_law_name": "집행관의 송달사무처리에 관한 지침",
+            "target_article_no": "제1조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/집행관의 송달사무처리에 관한 지침/제1조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:집행관의송달사무처리에관한지침#JO0003",
+            "reference_id": "admrul:집행관의송달사무처리에관한지침#JO0001"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제2조",
+            "line_text": "제3조 (송달불능시의 조치) ① 집행관이 송달을 실시하였으나 수취인부재 또는 폐문부재로 송달불능된 경우에는 제1조제1항에 규정된 송달사무처리기한 내에서 총 3회까지 송달을 실시하되, 주간ㆍ야간ㆍ휴일송달을 각 1회씩 실시하는 통합송달의 경우 각 송달실시일 사이에 3일 이상의 간격을 두어야 한다.② 집행관이 송달을 실시하였으나 송달불능이 된 때에는 이웃사람, 공동주택의 관리인 또는 경비원 등에게 송달받을 사람의 거주 여부 등을 확인한 내용과 건물의 외관상 나타나는 특이사항(가스ㆍ전기 등의 사용 상황, 우편물의 수취 상황 등 포함) 및 제2조제2항의 20:00 이후 또는 08:00 이전 외의 시간에 송달한 사유 등을 [별지2] 양식(전산양식 A1441)의 ‘송달현장상황탐지 등 결과통지서’ 해당란에 구체적으로 적어서 전자통신매체를 이용하여 법원에 제출하여야 한다.③ 제2항의 ‘송달현장상황탐지 등 결과통지서’에는 현장상황의 설명을 위하여 건물의 외부 사진ㆍ도면 등의 자료를 붙여야 한다.④ 집행관은 송달이 불능된 때에는 송달물을 해당 법원으로 반송하여야 한다. 다만 「 민사소송 등에서의 전자문서 이용 등에 관한 법률 」 제12조제1항 및 「형사사법절차에서의 전자문서 이용 등에 관한 법률」 제15조제1항에 따른 송달의 경우에는 그러하지 아니하다.",
+            "target_law_name": "집행관의 송달사무처리에 관한 지침",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/집행관의 송달사무처리에 관한 지침/제2조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:집행관의송달사무처리에관한지침#JO0003",
+            "reference_id": "admrul:집행관의송달사무처리에관한지침#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「민사소송 등에서의 전자문서 이용 등에 관한 법률」 제12조",
+            "line_text": "제3조 (송달불능시의 조치) ① 집행관이 송달을 실시하였으나 수취인부재 또는 폐문부재로 송달불능된 경우에는 제1조제1항에 규정된 송달사무처리기한 내에서 총 3회까지 송달을 실시하되, 주간ㆍ야간ㆍ휴일송달을 각 1회씩 실시하는 통합송달의 경우 각 송달실시일 사이에 3일 이상의 간격을 두어야 한다.② 집행관이 송달을 실시하였으나 송달불능이 된 때에는 이웃사람, 공동주택의 관리인 또는 경비원 등에게 송달받을 사람의 거주 여부 등을 확인한 내용과 건물의 외관상 나타나는 특이사항(가스ㆍ전기 등의 사용 상황, 우편물의 수취 상황 등 포함) 및 제2조제2항의 20:00 이후 또는 08:00 이전 외의 시간에 송달한 사유 등을 [별지2] 양식(전산양식 A1441)의 ‘송달현장상황탐지 등 결과통지서’ 해당란에 구체적으로 적어서 전자통신매체를 이용하여 법원에 제출하여야 한다.③ 제2항의 ‘송달현장상황탐지 등 결과통지서’에는 현장상황의 설명을 위하여 건물의 외부 사진ㆍ도면 등의 자료를 붙여야 한다.④ 집행관은 송달이 불능된 때에는 송달물을 해당 법원으로 반송하여야 한다. 다만 「 민사소송 등에서의 전자문서 이용 등에 관한 법률 」 제12조제1항 및 「형사사법절차에서의 전자문서 이용 등에 관한 법률」 제15조제1항에 따른 송달의 경우에는 그러하지 아니하다.",
+            "target_law_name": "민사소송 등에서의 전자문서 이용 등에 관한 법률",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/민사소송 등에서의 전자문서 이용 등에 관한 법률/제12조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:집행관의송달사무처리에관한지침#JO0003",
+            "reference_id": "law:민사소송등에서의전자문서이용등에관한법률#JO0012"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「형사사법절차에서의 전자문서 이용 등에 관한 법률」 제15조",
+            "line_text": "제3조 (송달불능시의 조치) ① 집행관이 송달을 실시하였으나 수취인부재 또는 폐문부재로 송달불능된 경우에는 제1조제1항에 규정된 송달사무처리기한 내에서 총 3회까지 송달을 실시하되, 주간ㆍ야간ㆍ휴일송달을 각 1회씩 실시하는 통합송달의 경우 각 송달실시일 사이에 3일 이상의 간격을 두어야 한다.② 집행관이 송달을 실시하였으나 송달불능이 된 때에는 이웃사람, 공동주택의 관리인 또는 경비원 등에게 송달받을 사람의 거주 여부 등을 확인한 내용과 건물의 외관상 나타나는 특이사항(가스ㆍ전기 등의 사용 상황, 우편물의 수취 상황 등 포함) 및 제2조제2항의 20:00 이후 또는 08:00 이전 외의 시간에 송달한 사유 등을 [별지2] 양식(전산양식 A1441)의 ‘송달현장상황탐지 등 결과통지서’ 해당란에 구체적으로 적어서 전자통신매체를 이용하여 법원에 제출하여야 한다.③ 제2항의 ‘송달현장상황탐지 등 결과통지서’에는 현장상황의 설명을 위하여 건물의 외부 사진ㆍ도면 등의 자료를 붙여야 한다.④ 집행관은 송달이 불능된 때에는 송달물을 해당 법원으로 반송하여야 한다. 다만 「 민사소송 등에서의 전자문서 이용 등에 관한 법률 」 제12조제1항 및 「형사사법절차에서의 전자문서 이용 등에 관한 법률」 제15조제1항에 따른 송달의 경우에는 그러하지 아니하다.",
+            "target_law_name": "형사사법절차에서의 전자문서 이용 등에 관한 법률",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/형사사법절차에서의 전자문서 이용 등에 관한 법률/제15조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:집행관의송달사무처리에관한지침#JO0003",
+            "reference_id": "law:형사사법절차에서의전자문서이용등에관한법률#JO0015"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:집행관의송달사무처리에관한지침#JO0003"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "internal_ref",
+        "delegation_type": null,
+        "target_category": "행정규칙",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "제3조제1항",
+        "line_text": "",
+        "target_law_name": "집행관의 송달사무처리에 관한 지침",
+        "target_article_no": "제3조",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/행정규칙/집행관의 송달사무처리에 관한 지침/제3조",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "appendix_ref",
+        "delegation_type": null,
+        "target_category": "별지",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "별지1",
+        "line_text": "",
+        "target_law_name": "집행관의 송달사무처리에 관한 지침",
+        "target_article_no": "별지1",
+        "target_article_title": "[별지1] 송달사유통지서(전산양식 A1440)",
+        "appendix_no": "1",
+        "appendix_branch": "",
+        "appendix_kind": "별지",
+        "appendix_found": true,
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155212569",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "「민사소송규칙」",
+        "line_text": "",
+        "target_law_name": "민사소송규칙",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/법령/민사소송규칙",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "제53조",
+        "line_text": "",
+        "target_law_name": "민사소송규칙",
+        "target_article_no": "제53조",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/법령/민사소송규칙/제53조",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "internal_ref",
+        "delegation_type": null,
+        "target_category": "행정규칙",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "제1조제1항",
+        "line_text": "",
+        "target_law_name": "집행관의 송달사무처리에 관한 지침",
+        "target_article_no": "제1조",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/행정규칙/집행관의 송달사무처리에 관한 지침/제1조",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "「 민사소송 등에서의 전자문서 이용 등에 관한 법률 」",
+        "line_text": "",
+        "target_law_name": "민사소송 등에서의 전자문서 이용 등에 관한 법률",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/법령/민사소송 등에서의 전자문서 이용 등에 관한 법률",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "제12조제1항",
+        "line_text": "",
+        "target_law_name": "민사소송 등에서의 전자문서 이용 등에 관한 법률",
+        "target_article_no": "제12조",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/법령/민사소송 등에서의 전자문서 이용 등에 관한 법률/제12조",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "「형사사법절차에서의 전자문서 이용 등에 관한 법률」",
+        "line_text": "",
+        "target_law_name": "형사사법절차에서의 전자문서 이용 등에 관한 법률",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/법령/형사사법절차에서의 전자문서 이용 등에 관한 법률",
+        "resolve_method": "html"
+      },
+      {
+        "relation_type": "citation",
+        "delegation_type": null,
+        "target_category": "법령",
+        "source_article_no": "",
+        "source_clause": "",
+        "link_text": "제15조제1항",
+        "line_text": "",
+        "target_law_name": "형사사법절차에서의 전자문서 이용 등에 관한 법률",
+        "target_article_no": "제15조",
+        "target_article_title": "",
+        "target_mst": "",
+        "target_url": "https://www.law.go.kr/법령/형사사법절차에서의 전자문서 이용 등에 관한 법률/제15조",
+        "resolve_method": "html"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20050114",
+      "promulgation_no": "568",
+      "content": "부  칙(2005. 1. 14. 제568호)이 예규는 2005. 2. 1.부터 시행한다."
+    },
+    {
+      "promulgation_date": "20050224",
+      "promulgation_no": "580",
+      "content": "부  칙(2005. 2. 24. 제580호)이 예규는 2005. 3. 1.부터 시행한다."
+    },
+    {
+      "promulgation_date": "20061117",
+      "promulgation_no": "684",
+      "content": "부  칙(2006. 11. 17. 제684호)이 예규는 2006. 11. 21.부터 시행한다."
+    },
+    {
+      "promulgation_date": "20070706",
+      "promulgation_no": "713",
+      "content": "부  칙(2007. 7. 6. 제713호)이 예규는 2007. 7. 23.부터 시행한다."
+    },
+    {
+      "promulgation_date": "20080130",
+      "promulgation_no": "739",
+      "content": "부  칙(2008. 1. 30. 제739호)이 예규는 2008. 2. 21.부터 시행한다."
+    },
+    {
+      "promulgation_date": "20160205",
+      "promulgation_no": "1068",
+      "content": "부  칙(2016. 2. 5. 제1068호)이 예규는 2016년 4월 29일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20170807",
+      "promulgation_no": "1136",
+      "content": "부  칙(2017. 8. 7. 제1136호)이 예규는 2017년 9월 29일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20211220",
+      "promulgation_no": "1284",
+      "content": "부  칙(2021. 12. 20. 제1284호)이 예규는 2022년 1월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20250801",
+      "promulgation_no": "1443",
+      "content": "부  칙(2025. 8. 1. 제1443호)이 예규는 2025년 10월 10일부터 시행한다."
+    },
+    {
+      "promulgation_date": "99991231",
+      "promulgation_no": "9999",
+      "content": "부  칙1. 이 예규는 2001. 7. 1.부터 시행한다.2. 집행관의 송달사무처리를 위한 지침(1963. 6. 1. 행정예규 제9호)은 폐지한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "[별지1] 송달사유통지서(전산양식 A1440)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155212569",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155212569",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:집행관의송달사무처리에관한지침#BJ0001",
+      "filename": "별지1_[별지1] 송달사유통지서(전산양식 A1440).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "[별지2] 송달현장상황탐지 등 결과통지서(전산양식 A1441)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155212573",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155212573",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:집행관의송달사무처리에관한지침#BJ0002",
+      "filename": "별지2_[별지2] 송달현장상황탐지 등 결과통지서(전산양식 A1441).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "[별지2] 송달현장상황탐지 등 결과통지서(전산양식 A1441)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155212571",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155212571",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:집행관의송달사무처리에관한지침#BJ0002",
+      "filename": "별지2_[별지2] 송달현장상황탐지 등 결과통지서(전산양식 A1441).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 14,
+    "by_category": {
+      "행정규칙": 5,
+      "법령": 8,
+      "별지": 1
+    },
+    "by_relation_type": {
+      "internal_ref": 5,
+      "citation": 8,
+      "appendix_ref": 1
+    },
+    "articles_total": 3,
+    "articles_with_relations": 2,
+    "unmatched_relations": 9,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 10,
+    "appendices_count": 3,
+    "attachments_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/집행관의 송달사무처리에 관한 지침"
+  },
+  "provision_id": "admrul:집행관의송달사무처리에관한지침#DOC"
+}
