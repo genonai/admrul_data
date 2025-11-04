@@ -1,0 +1,343 @@
+{
+  "law_id": "2100000266456",
+  "mst": "2100000266456",
+  "law_name": "소방용전선의 성능인증 및 제품검사의 기술기준",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000266456",
+  "promulgation_no": "2025-18",
+  "promulgation_date": "20251104",
+  "enforcement_date": "20251104",
+  "revision_date": "20251104",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "소방청(소방산업진흥정책과)",
+    "담당자명": "정상연",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "소방용전선의 성능인증 및 제품검사의 기술기준",
+    "발령일자": "20251104",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "소방청",
+    "전화번호": "044-205-7512",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1661000",
+    "생성일자": "20251107",
+    "행정규칙ID": "39690",
+    "시행일자": "20251104",
+    "담당부서기관코드": "1661076",
+    "발령번호": "2025-18",
+    "행정규칙일련번호": "2100000266456",
+    "상위부처명": "소방청"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n소방용전선 내화성능을 강화하는 「옥내소화전설비의 화재안전기준(NFSC203)」 개정(‘23.3.4.)에 따라 내열전선 관련 정의 및 시험기준을 삭제하고, 내화전선의 내화시험을 강화하는 등 기술기준을 개선ㆍ보완하고자 함\n◇ 주요내용\n가. 화재안전기준 내열전선 삭제에 따른 관련 내용 삭제(안 제2조제1호, 제3호)\n나. 내화전선의 내화시험 강화에 따른 KS 규정 인용(안 제7조)\n다. 각 조항 현행화(안 제8조, 제9조, 제10조)\n라. 별표 자료 삭제(별도 2, 별도 3, 별도 4, 별도 5)",
+  "body": {
+    "format": "articles",
+    "article_count": 10,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 기준은 「소방시설 설치 및 관리에 관한 법률」 제40조제4항에서 소방청장에게 위임한 소방용전선의 성능인증 및 제품검사의 기술기준에 관한 사항을 규정함을 목적으로 한다. <개정 2012. 2. 9., 2012. 12. 31., 2015. 1. 6., 2016. 5. 13., 2017. 7. 26.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「소방시설 설치 및 관리에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "소방시설 설치 및 관리에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소방시설 설치 및 관리에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소방용전선의성능인증및제품검사의기술기준#JO0001",
+            "reference_id": "law:소방시설설치및관리에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제40조제4항",
+            "line_text": "",
+            "target_law_name": "소방시설 설치 및 관리에 관한 법률",
+            "target_article_no": "제40조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소방시설 설치 및 관리에 관한 법률/제40조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소방용전선의성능인증및제품검사의기술기준#JO0001",
+            "reference_id": "law:소방시설설치및관리에관한법률#JO0040"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:소방용전선의성능인증및제품검사의기술기준#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "용어의 정의",
+        "chapter": "",
+        "content": "제2조(용어의 정의) 이 기준에서 사용하는 용어의 정의는 다음과 같다.1. \"소방용전선\"이란 국가화재안전기준에서 정한 옥내소화전설비 등의 배선에 사용되는 내화전선을 말한다. <신설 2012. 12. 31. 개정 2025. 11. 4.>2. \"내화전선\"이란 내화성을 가진 소방용전선을 말한다. <개정 2012. 12. 31.>3. <삭제 2025. 11. 4.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:소방용전선의성능인증및제품검사의기술기준#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "일반성능 및 구조",
+        "chapter": "",
+        "content": "제3조(일반성능 및 구조) 소방용전선은 전기용품안전인증 또는 KS인증, V-check인증에 적합하거나 이와 동등 이상의 난연성을 갖은 전선이어야 한다. <개정 2012. 12. 31. 개정 2025. 11. 4.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:소방용전선의성능인증및제품검사의기술기준#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "연기밀도시험",
+        "chapter": "",
+        "content": "제4조(연기밀도시험) 소방용전선은 다음 각 호에 따라 시험을 실시하였을 때에 연기밀도는 150 이하이어야 한다. <개정 2012. 12. 31.>1. 연기밀도 시험용 시험장치는 ASTM E 662(고체물질에서 발생하는 연기의 특성광학밀도)에서 규정된 것을 사용한다.2. 쉬이즈 길이가 76 ㎝되도록 전선축 방향으로 여러 조각으로 분리한 시편이 서로 밀착 및 겹치지 아니하도록 75 ㎜×75 ㎜ 시편대에 고정한다.3. 시험중 시편이 시편대에 녹아 붙지 아니하도록 하며 시편대와 시편 조각이 겹치는 부분에 0.4 ㎜의 알루미늄 박판을 설치한다.4. 시험편을 부착하지 아니한 시편대를 시험대 위치에 고정시킨 다음 가열로를 점화하여 조사 열량이 (2.5 ± 0.05) W/㎠이 되도록 가열로 인가전압을 조정한다.5. 제4호의 규정에서 정한 상태로 광선투과장치와 시험기록계를 작동시킨 다음 기준점을 조정한다.6. 기준점 조정후 시험장치의 배출구를 차단하고, 시편을 부착한 시편대를 교환한 다음 시험장치의 문을 닫는다.7. 시험기록계의 광선 투과율이 최저가 된 다음 3분후 또는 시험개시 20분에 가열로를 소화한 다음 배출구를 개방한다.8. 시험기록계는 연기가 배출되어 다시 광선투과율이 최대가 될때까지 작동시킨다.9. 연기밀도는 다음 계산식에 의하여 산출한다. <개정 2012. 12. 31.>[그림]<개정 2012. 12. 31.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157938365",
+            "seq": "157938365"
+          }
+        ],
+        "provision_id": "admrul:소방용전선의성능인증및제품검사의기술기준#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "연소가스부식성시험 방법",
+        "chapter": "",
+        "content": "제5조(연소가스부식성시험 방법) 소방용전선은 다음 각 호에 따라 시험을 실시하였을 때에 수소이온 농도지수(pH)는 3.5 이상이어야 하고, 연소가스의 전도도는 100 ㎲/㎝ 이하이어야 한다. <개정 2012. 12. 31.>1. 시험편은 외부 쉬이즈에서 1 g이상 채취하여 잘게 부순 다음 깨끗한 접시에 1 g을 담아 수정투명관 안에 넣는다.2. [별도 1]과 같이 수정관을 유량계와 가스정제 플라스크의 중간에 설치한다. <개정 2012. 12. 31.>3. 연결된 가스정제 플라스크 3개에 각각 170 ㎖의 증류수를 채우고 pH값과 전기분해 전도도를 측정하기 위하여 전극을 수정유리관과 가장 가까운 플라스크에 설치한다.4. 수정유리관을 (780 ± 20) ℃까지 올릴 수 있는 전기로에 설치한다.5. 가스유량은 시간당 (10 ± 2) ℓ로 공급한다.6. pH 및 전도도는 연소가 시작된 다음 5분 동안은 1분 간격으로 그후 25분 동안을 5분 간격으로 측정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:소방용전선의성능인증및제품검사의기술기준#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "절연내력시험",
+        "chapter": "",
+        "content": "제6조(절연내력시험) 소방용전선은 다음 각 호에 따라 시험을 실시하였을 때에 5분간 견디어야한다. <개정 2012. 12. 31.>1. 시료는 제출된 시료로 한다. <개정 2012. 12. 31.>2. 시료가 단심인 경우는 도체와 쉬이즈 사이를 시험한다. 다만, 절연체가 있는 경우는 절연체와 도체사이를 시험한다.3. 2개 이상의 도체를 가지고 있는 내화전선은 도체와 도체간, 최외각도체와 쉬이즈간 도체를 일괄한 것과 쉬이즈 간에 전압을 인가한다. 다만, 절연체가 있는 경우 절연체와 일괄한 도체 사이에 절연내력을 시험한다.4. 시험 인가전압은 60 Hz의 정현파에 가까운 시험전압을 사용한다. <개정 2012. 12. 31.>5. 절연내력 시험기에서 선택하는 누설전류는 50 mA로 한다.6. <삭제 2012.12.31>7. <삭제 2012.12.31>8. <삭제 2012.12.31.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:소방용전선의성능인증및제품검사의기술기준#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "내화시험",
+        "chapter": "",
+        "content": "제7조(내화시험) ① 소방용전선은 다음 각 호의 시험방법에 따라 120분간 가열하는 경우 단선, 단락이 없어야 한다.<개정 2025. 11. 4.>1. 바깥지름이 20 mm를 초과하는 것은 KS C IEC  60331-1 에 따른다.2. 바깥지름이 20 mm 이하인 것은 KS C IEC 60331-2 에 따른다.② 소방용전선의 난연성능의 시험방법은  KS C IEC 60332-3-24 에 따른다.  이 경우, 시험편의 탄화된 높이는 버너의 바닥 모서리 부분으로부터 높이 2.5 m를 초과하지 않아야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:소방용전선의성능인증및제품검사의기술기준#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "표시",
+        "chapter": "",
+        "content": "제8조(표시) ① 소방용전선에는 그 표면에 쉽게 지워지지 아니하는 방법으로 다음 각 호의 사항을 연속표시 하여야 한다. <개정 2012. 12. 31.>1. 기호 및 성능인증번호 <개정 2012. 2. 9.>2. 제조자명 또는 그 상호3. 제조년도4. 사용전압② 소방용전선의 포장은 1조씩 드럼 또는 다발로 하고, 운반도중 손상되지 아니하도록 하여야 하며, 또한 포장에는 다음 각 호의 사항을 표시하여야 한다. <개정 2012. 12. 31.>1. 품명 및 성능인증번호 <개정 2012. 2. 9.>2. 선심수 및 도체지름 또는 공칭단면적3. 길이4. 실중량(드럼인 경우 총중량)5. 드럼의 회전방향(드럼인 경우)6. 소방용전선의 감은 끝자리(드럼인 경우) <개정 2012. 12. 31.>7. 제조업체명 또는 그 상호(수입한 경우 수입원)8. 제조년월③ 제품의 호칭방법은 종류, 선심수, 도체지름, 공칭단면적에 의한다.(예 : 내화전선 3C×25㎟ 또는 NFR-8 3C×25㎟) <개정 2012. 12. 31.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:소방용전선의성능인증및제품검사의기술기준#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "시험세칙",
+        "chapter": "",
+        "content": "제9조(시험세칙) 「소방산업의 진흥에 관한 법률」 제14조에 따른 한국소방산업기술원은 이 기준의 운영방법, 성능시험방법 및 제품검사방법 등에 관한 세부사항인 시험세칙을 정하여 소방청장 승인을 받아 운영할 수 있다. <신설 2025. 11. 4.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "「소방산업의 진흥에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "소방산업의 진흥에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소방산업의 진흥에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소방용전선의성능인증및제품검사의기술기준#JO0009",
+            "reference_id": "law:소방산업의진흥에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "제14조",
+            "line_text": "",
+            "target_law_name": "소방산업의 진흥에 관한 법률",
+            "target_article_no": "제14조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소방산업의 진흥에 관한 법률/제14조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소방용전선의성능인증및제품검사의기술기준#JO0009",
+            "reference_id": "law:소방산업의진흥에관한법률#JO0014"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:소방용전선의성능인증및제품검사의기술기준#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제10조(재검토기한) 소방청장은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2026년 1월 1일 기준으로 매3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다. <개정 2012. 12. 31., 2016. 5. 13., 2017. 7. 26., 2025. 11. 4.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소방용전선의성능인증및제품검사의기술기준#JO0010",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:소방용전선의성능인증및제품검사의기술기준#JO0010"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20120209",
+      "promulgation_no": "2012-28",
+      "content": "부칙 <제2012-28호,2012. 2. 9.>제1조(시행일) 이 기준은 고시한 날부터 시행한다.제2조(성능인증에 관한 일반적 경과조치) 이 기준 시행 당시 종전의 규정에 의하여 제품승인을 얻은 소방용품은 이 기준에 의한 성능인증을 받은 것으로 본다.제3조(표시사용에 관한 경과조치) 부칙 제1조에도 불구하고 제10조는 이 기준 시행일로부터 6월까지 종전규정에 따라 표시할 수 있다."
+    },
+    {
+      "promulgation_date": "20121231",
+      "promulgation_no": "2012-161",
+      "content": "부칙 <제2012-161호,2012. 12. 31.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.제2조(성능인증 및 제품검사에 관한 경과조치) ① 이 기준 시행당시 종전기준 및\"내열전선의 성능인증 및 제품검사의 기술기준\"(소방방재청고시 제2012-27호)에 따라 성능인증(변경인증을 포함한다. 이하 같다)을 받은 것은 이 기준에 따라 성능인증을 받은 것으로 본다.② 이 기준 시행일 이전에 종전기준 및\"내열전선의 성능인증 및 제품검사의 기술기준\"(소방방재청고시 제2012-27호)에 따라 성능인증 또는 제품검사가 신청된 것은 이 기준에 따라 신청된 것으로 본다.제3조(기준의 폐지) \"내열전선의 성능인증 및 제품검사의 기술기준(소방방재청장 고시 제2012-27호)\"는 제1조의 시행일부터 폐지한다."
+    },
+    {
+      "promulgation_date": "20150106",
+      "promulgation_no": "2015-1",
+      "content": "부칙 (정부조직개편에 따른 「유ㆍ도선의 규격 및 시설ㆍ설비 기준」 등의  정비에 관한 고시 제정) <제2015-1호,2015. 1. 6.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.제2조 및 제3조 생략"
+    },
+    {
+      "promulgation_date": "20160513",
+      "promulgation_no": "2016-45",
+      "content": "부칙 <제2016-45호,2016. 5. 13.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20170726",
+      "promulgation_no": "2017-1",
+      "content": "부칙 (정부조직개편에 따른 복수의무인증제품의 인증방법 및 국가통합인증마트 표시요령 등의 정비에 관한 고시 제정)<제2017-1호,2017. 7. 26.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20221201",
+      "promulgation_no": "2022-28",
+      "content": "부칙 (소방용품의 성능인증 및 제품검사의 기술기준 36개 고시 일괄 개정)<제2022-28호, 2022. 12. 1.>이 고시는 2022년 12월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20251104",
+      "promulgation_no": "2025-18",
+      "content": "부칙 <제2025-18호, 2025. 11. 4.>제1조(시행일) 이 고시는 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별도",
+      "title": "연소가스 부식성시험 장치(제5조제2호 관련)",
+      "enforcement_date": "",
+      "content": "[별도 1] 연소가스 부식성시험 장치(제5조제2호 관련)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157938373",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157938369",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157938373",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:소방용전선의성능인증및제품검사의기술기준#BYL0001",
+      "filename": "별도1_연소가스 부식성시험 장치(제5조제2호 관련).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "(전문)소방용전선의 성능인증 및 제품검사의 기술기준(개정 2025.11.4.).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=157938353",
+      "file_store_url": "",
+      "filename": "(전문)소방용전선의 성능인증 및 제품검사의 기술기준(개정 2025.11.4.).pdf"
+    },
+    {
+      "name": "(전문)소방용전선의 성능인증 및 제품검사의 기술기준(개정 2025.11.4.).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=157938349",
+      "file_store_url": "",
+      "filename": "(전문)소방용전선의 성능인증 및 제품검사의 기술기준(개정 2025.11.4.).hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 5,
+    "by_category": {
+      "법령": 4,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 5
+    },
+    "articles_total": 10,
+    "articles_with_relations": 3,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 7,
+    "appendices_count": 1,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/소방용전선의 성능인증 및 제품검사의 기술기준"
+  },
+  "provision_id": "admrul:소방용전선의성능인증및제품검사의기술기준#DOC"
+}
