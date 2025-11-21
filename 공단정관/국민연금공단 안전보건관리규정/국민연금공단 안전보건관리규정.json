@@ -1,0 +1,1520 @@
+{
+  "law_id": "2200000151539",
+  "mst": "2200000151539",
+  "law_name": "국민연금공단 안전보건관리규정",
+  "law_abbr": "",
+  "law_type": "공단규정",
+  "doc_target": "pi",
+  "doc_kind": "공단정관",
+  "adm_uid": "pi:2200000151539",
+  "promulgation_no": "627",
+  "promulgation_date": "20251121",
+  "enforcement_date": "20251121",
+  "revision_date": "20251121",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국민연금공단 안전관리실 안전보건부",
+    "담당자명": "공경록",
+    "행정규칙종류코드": "B0029",
+    "행정규칙명": "국민연금공단 안전보건관리규정",
+    "발령일자": "20251121",
+    "행정규칙종류": "공단규정",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국민연금공단",
+    "전화번호": "063-713-5357",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "B552015",
+    "생성일자": "20260128",
+    "행정규칙ID": "2117349",
+    "담당부서기관코드": "",
+    "발령번호": "627",
+    "행정규칙일련번호": "2200000151539"
+  },
+  "amendment_text": "",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 62,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조(목적) 이 규정은 「산업안전보건법」, 「중대재해 처벌 등에 관한 법률」 , 「공공기관의 안전관리에 관한 지침」 에 따라 국민연금공단 근로자의 안전과 보건에 관한 기준을 마련하여 재해 및 사고를 예방하고 근로자의 안전과 보건을 유지ㆍ증진하며, 시설물, 발주 건설공사 안전관리는 물론 시설을 이용하는 국민의 생명보호ㆍ안전에 대한 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「산업안전보건법」",
+            "line_text": "",
+            "target_law_name": "산업안전보건법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법",
+            "resolve_method": "render",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0001",
+            "reference_id": "law:산업안전보건법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「중대재해 처벌 등에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "중대재해 처벌 등에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/중대재해 처벌 등에 관한 법률",
+            "resolve_method": "render",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0001",
+            "reference_id": "law:중대재해처벌등에관한법률#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "제1장 총칙",
+        "content": "제2조(정의) ① 이 규정에서 사용하는 용어의 뜻은 다음과 같다. <개정 2025. 11. 21.>1. \"재난\"이란 국민의 생명ㆍ신체ㆍ재산과 국가에 피해를 주거나 줄 수 있는 것으로서 다음 각 목의 것을 말한다.가. 자연재난: 태풍, 홍수, 호우, 강풍, 풍랑, 해일, 대설, 한파, 낙뢰, 가뭄, 폭염, 지진, 황사, 조류(藻類)대발생, 화산활동, 소행성ㆍ유성체 등 자연우주물체의 추락ㆍ충돌, 그 밖에 이에 준하는 자연현상으로 인하여 발생하는 재해나. 사회재난: 화재ㆍ붕괴ㆍ폭발ㆍ교통사고(항공사고 및 해상사고를 포함한다)ㆍ화생방사고ㆍ환경오염사고 등으로 인하여 발생하는 「재난 및 안전관리 기본법」 (이하 \"재난안전법\"이라 한다) 시행령으로 정하는 규모 이상의 피해와 에너지ㆍ통신ㆍ교통ㆍ금융ㆍ의료ㆍ수도 등 국가기반체계의 마비, 「감염병의 예방 및 관리에 관한 법률」 에 따른 감염병 또는 「가축전염병예방법」 에 따른 가축전염병의 확산, 「미세먼지 저감 및 관리에 관한 특별법」 에 따른 미세먼지 등으로 인한 피해2. \"안전관리\"란 재해 및 산업재해, 재난이나 그 밖의 각종사고를 예방하기 위해 국민연금공단(이하 \"공단\"이라 한다) 시설물의 불안전한 상태 또는 시설물 이용자, 작업자의 불안전한 행동을 시정하고 제거함으로써 안전사고를 예방하고, 사고 발생 시 피해를 최소화하기 위한 모든 활동을 말한다.3. \"보건관리\"란 공단 근로자와 수급인 근로자의 건강을 유지ㆍ증진하고 직무 스트레스 유해요인을 제거하기 위한 활동과 계획을 말한다.4. \"본부\"란 「직제규정」 에 따른 본부 각 부서와 기금운용본부, 준법감시인, 디지털혁신본부, 국제연금지원센터, 장애심사센터 및 국민연금연구원을 말한다.5. \"안전보건전담부서\"란 공단의 재난 및 안전보건관리에 관한 업무를 총괄 전담하는 본부 부서를 말한다.6. \"위험성평가\"란 「산업안전보건법」 (이하 \"법\"이라 한다)에 따른 공단 사업 및 작업장에 대한 유해ㆍ위험요인을 파악하고 해당 유해ㆍ위험요인에 대해 평가하고 감소대책을 수립하여 실행하는 일련의 과정을 말한다.7. \"재해\"란 사고로 인하여 인명 및 재산에 피해가 발생한 것을 말하며, 특히 \"산업재해\"란 노무를 제공하는 사람이 업무에 관계되는 건설물ㆍ설비ㆍ원재료ㆍ가스ㆍ증기ㆍ분진 등에 의하여 작업 또는 그 밖의 업무로 인하여 사망 또는 부상하거나 질병에 걸리는 것을 말한다.8. \"사고\"란 유해ㆍ위험요인을 근원적으로 제거하지 못하고 위험에 노출되어 발생되는 바람직스럽지 못한 결과를 불러일으키는 것으로서 사망을 포함한 상해, 질병 및 기타 경제적 손실을 발생시키는 예상치 못한 사상을 말한다.9. \"중대재해\"란 산업재해 중 사망 등 재해 정도가 심한 것으로 사망자가 1명 이상, 3개월 이상의 요양이 필요한 부상자가 동시에 2명 이상, 부상자 또는 직업성 질병자가 동시에 10명 이상 발생한 재해를 말한다.10. \"도급인\"이란 물건의 제조ㆍ건설ㆍ수리 또는 서비스의 제공, 그 밖의 업무를 도급하는 사업주를 말한다. 다만, 건설공사발주자는 제외한다.11. \"건설공사발주자\"란 건설공사를 도급하는 자로서 건설공사의 시공을 주도하여 총괄ㆍ관리하지 아니하는 자를 말한다. 다만, 도급받은 건설공사를 다시 도급하는 자는 제외한다.12. \"수급인\"이란 공단으로부터 물건의 제조ㆍ건설ㆍ수리 또는 서비스의 제공, 그 밖의 업무를 도급받은 사업주를 말한다.13. \"관계법령\"이란 법과 같은 법 시행령ㆍ시행규칙, 「중대재해 처벌 등에 관한 법률」 과 같은 법 시행령, 「산업안전보건기준에 관한 규칙」 (이하 \"안전보건규칙\"이라 한다), 「공공기관의 안전관리에 관한 지침」 , 「재난안전법」 , 「시설물의 안전 및 유지관리에 관한 특별법」 등 관련 규정을 말한다.② 이 규정에서 특별히 정하는 것을 제외하고는 관계법령에서 정하는 바에 따른다. <개정 2025. 11. 21.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제1항",
+            "link_text": "「재난 및 안전관리 기본법」",
+            "line_text": "",
+            "target_law_name": "재난 및 안전관리 기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/재난 및 안전관리 기본법",
+            "resolve_method": "render",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0002",
+            "reference_id": "law:재난및안전관리기본법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제1항",
+            "link_text": "「감염병의 예방 및 관리에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "감염병의 예방 및 관리에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/감염병의 예방 및 관리에 관한 법률",
+            "resolve_method": "render",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0002",
+            "reference_id": "law:감염병의예방및관리에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제1항",
+            "link_text": "「가축전염병예방법」",
+            "line_text": "",
+            "target_law_name": "가축전염병예방법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/가축전염병예방법",
+            "resolve_method": "render",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0002",
+            "reference_id": "law:가축전염병예방법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제1항",
+            "link_text": "「미세먼지 저감 및 관리에 관한 특별법」",
+            "line_text": "",
+            "target_law_name": "미세먼지 저감 및 관리에 관한 특별법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/미세먼지 저감 및 관리에 관한 특별법",
+            "resolve_method": "render",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0002",
+            "reference_id": "law:미세먼지저감및관리에관한특별법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제1항",
+            "link_text": "「산업안전보건법」",
+            "line_text": "",
+            "target_law_name": "산업안전보건법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법",
+            "resolve_method": "render",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0002",
+            "reference_id": "law:산업안전보건법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제1항",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "중대재해 처벌 등에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/중대재해 처벌 등에 관한 법률 시행령",
+            "resolve_method": "render",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0002",
+            "reference_id": "law:중대재해처벌등에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제1항",
+            "link_text": "「산업안전보건기준에 관한 규칙」",
+            "line_text": "",
+            "target_law_name": "산업안전보건기준에 관한 규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건기준에 관한 규칙",
+            "resolve_method": "render",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0002",
+            "reference_id": "law:산업안전보건기준에관한규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제1항",
+            "link_text": "「시설물의 안전 및 유지관리에 관한 특별법」",
+            "line_text": "",
+            "target_law_name": "시설물의 안전 및 유지관리에 관한 특별법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/시설물의 안전 및 유지관리에 관한 특별법",
+            "resolve_method": "render",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0002",
+            "reference_id": "law:시설물의안전및유지관리에관한특별법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「재난안전법」",
+            "line_text": "제2조(정의) ① 이 규정에서 사용하는 용어의 뜻은 다음과 같다. <개정 2025. 11. 21.>1. \"재난\"이란 국민의 생명ㆍ신체ㆍ재산과 국가에 피해를 주거나 줄 수 있는 것으로서 다음 각 목의 것을 말한다.가. 자연재난: 태풍, 홍수, 호우, 강풍, 풍랑, 해일, 대설, 한파, 낙뢰, 가뭄, 폭염, 지진, 황사, 조류(藻類)대발생, 화산활동, 소행성ㆍ유성체 등 자연우주물체의 추락ㆍ충돌, 그 밖에 이에 준하는 자연현상으로 인하여 발생하는 재해나. 사회재난: 화재ㆍ붕괴ㆍ폭발ㆍ교통사고(항공사고 및 해상사고를 포함한다)ㆍ화생방사고ㆍ환경오염사고 등으로 인하여 발생하는 「재난 및 안전관리 기본법」 (이하 \"재난안전법\"이라 한다) 시행령으로 정하는 규모 이상의 피해와 에너지ㆍ통신ㆍ교통ㆍ금융ㆍ의료ㆍ수도 등 국가기반체계의 마비, 「감염병의 예방 및 관리에 관한 법률」 에 따른 감염병 또는 「가축전염병예방법」 에 따른 가축전염병의 확산, 「미세먼지 저감 및 관리에 관한 특별법」 에 따른 미세먼지 등으로 인한 피해2. \"안전관리\"란 재해 및 산업재해, 재난이나 그 밖의 각종사고를 예방하기 위해 국민연금공단(이하 \"공단\"이라 한다) 시설물의 불안전한 상태 또는 시설물 이용자, 작업자의 불안전한 행동을 시정하고 제거함으로써 안전사고를 예방하고, 사고 발생 시 피해를 최소화하기 위한 모든 활동을 말한다.3. \"보건관리\"란 공단 근로자와 수급인 근로자의 건강을 유지ㆍ증진하고 직무 스트레스 유해요인을 제거하기 위한 활동과 계획을 말한다.4. \"본부\"란 「직제규정」 에 따른 본부 각 부서와 기금운용본부, 준법감시인, 디지털혁신본부, 국제연금지원센터, 장애심사센터 및 국민연금연구원을 말한다.5. \"안전보건전담부서\"란 공단의 재난 및 안전보건관리에 관한 업무를 총괄 전담하는 본부 부서를 말한다.6. \"위험성평가\"란 「산업안전보건법」 (이하 \"법\"이라 한다)에 따른 공단 사업 및 작업장에 대한 유해ㆍ위험요인을 파악하고 해당 유해ㆍ위험요인에 대해 평가하고 감소대책을 수립하여 실행하는 일련의 과정을 말한다.7. \"재해\"란 사고로 인하여 인명 및 재산에 피해가 발생한 것을 말하며, 특히 \"산업재해\"란 노무를 제공하는 사람이 업무에 관계되는 건설물ㆍ설비ㆍ원재료ㆍ가스ㆍ증기ㆍ분진 등에 의하여 작업 또는 그 밖의 업무로 인하여 사망 또는 부상하거나 질병에 걸리는 것을 말한다.8. \"사고\"란 유해ㆍ위험요인을 근원적으로 제거하지 못하고 위험에 노출되어 발생되는 바람직스럽지 못한 결과를 불러일으키는 것으로서 사망을 포함한 상해, 질병 및 기타 경제적 손실을 발생시키는 예상치 못한 사상을 말한다.9. \"중대재해\"란 산업재해 중 사망 등 재해 정도가 심한 것으로 사망자가 1명 이상, 3개월 이상의 요양이 필요한 부상자가 동시에 2명 이상, 부상자 또는 직업성 질병자가 동시에 10명 이상 발생한 재해를 말한다.10. \"도급인\"이란 물건의 제조ㆍ건설ㆍ수리 또는 서비스의 제공, 그 밖의 업무를 도급하는 사업주를 말한다. 다만, 건설공사발주자는 제외한다.11. \"건설공사발주자\"란 건설공사를 도급하는 자로서 건설공사의 시공을 주도하여 총괄ㆍ관리하지 아니하는 자를 말한다. 다만, 도급받은 건설공사를 다시 도급하는 자는 제외한다.12. \"수급인\"이란 공단으로부터 물건의 제조ㆍ건설ㆍ수리 또는 서비스의 제공, 그 밖의 업무를 도급받은 사업주를 말한다.13. \"관계법령\"이란 법과 같은 법 시행령ㆍ시행규칙, 「중대재해 처벌 등에 관한 법률」 과 같은 법 시행령, 「산업안전보건기준에 관한 규칙」 (이하 \"안전보건규칙\"이라 한다), 「공공기관의 안전관리에 관한 지침」 , 「재난안전법」 , 「시설물의 안전 및 유지관리에 관한 특별법」 등 관련 규정을 말한다.② 이 규정에서 특별히 정하는 것을 제외하고는 관계법령에서 정하는 바에 따른다. <개정 2025. 11. 21.>",
+            "target_law_name": "재난 및 안전관리 기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/재난 및 안전관리 기본법",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0002",
+            "reference_id": "law:재난및안전관리기본법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "적용범위",
+        "chapter": "제1장 총칙",
+        "content": "제3조(적용범위) 이 규정은 공단에 근무하는 공단 근로자, 수급인 근로자 및 공단 방문 국민에게 적용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "안전보건관리규정과 다른 규정ㆍ문서와의 관계",
+        "chapter": "제1장 총칙",
+        "content": "제4조(안전보건관리규정과 다른 규정ㆍ문서와의 관계) ① 공단 안전보건관리에 관하여 관계법령과 공단의 단체협약에서 정한 것을 제외하고는 이 규정에 따른다. <개정 2025. 11. 21.>② 이 규정에서 정한 업무 추진을 위한 세부사항은 별표 3과 같이 공단 안전보건관리를 위하여 작성ㆍ운영하는 안전보건경영시스템 규격서(매뉴얼ㆍ절차서ㆍ지침서)와 관련 문서에 따른다. <신설 2025. 11. 21.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "국민연금공단 안전보건관리규정",
+            "target_article_no": "별표3",
+            "target_article_title": "조항별 안전보건경영시스템 규격서 및 관련문서 연계현황",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000151539&bylNo=0003&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0004",
+            "reference_id": "pi:국민연금공단안전보건관리규정#BYL0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "안전보건경영방침",
+        "chapter": "제1장 총칙",
+        "content": "제5조(안전보건경영방침) ① 이사장은 재해 및 사고 예방에 필요한 안전보건관리 체계를 확립하기 위해 안전보건에 관한 경영방침과 목표, 성과개선에 대한 내용을 명확하게 포함하여 안전보건경영방침을 정하고, 이를 임직원 등에게 알려야 한다. <개정 2025. 11. 21.>② 공단에 근무하는 근로자는 관계법령과 이 규정에서 정하는 안전보건경영방침을 지키며, 공단에서 실시하는 사고 및 재해 예방에 관한 제반 조치에 적극적으로 협조한다. <개정 2025. 11. 21.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "준수 의무",
+        "chapter": "제1장 총칙",
+        "content": "제6조(준수 의무) ① 이사장은 다음 각 호의 사항을 이행함으로써 근로자의 안전과 보건을 유지ㆍ증진하여야 한다.1. 관계법령, 안전보건경영시스템 내 절차서ㆍ지침서 및 이 규정에서 정하는 산업재해 예방 기준 준수2. 안전보건에 관한 정보를 근로자에게 제공3. 근로조건을 개선하여 적절한 작업환경을 조성② 근로자는 관계법령, 안전보건경영시스템 내 절차서ㆍ지침서 및 이 규정에서 정하는 산업재해 예방을 위하여 필요한 사항을 준수하여야 한다. <개정 2025. 11. 21.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "도급인의 안전조치 및 보건조치",
+        "chapter": "제1장 총칙",
+        "content": "제7조(도급인의 안전조치 및 보건조치) 이사장은 수급인 근로자가 공단 사업장에서 작업하는 경우 공단 근로자와 수급인 근로자의 산업재해 예방을 위해 필요한 안전 및 보건 조치를 하여야 한다. 다만, 보호구 착용 지시 등 수급인 근로자의 작업 행동에 관한 직접적인 조치는 제외한다. <개정 2025. 11. 21.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "건설공사발주자의 산업재해 예방 조치",
+        "chapter": "제1장 총칙",
+        "content": "제8조(건설공사발주자의 산업재해 예방 조치) 이사장은 건설공사발주자로서 법 시행령에서 정하는 건설공사의 산업재해 예방을 위하여 법에 따른 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "법",
+            "line_text": "제8조(건설공사발주자의 산업재해 예방 조치) 이사장은 건설공사발주자로서 법 시행령에서 정하는 건설공사의 산업재해 예방을 위하여 법에 따른 조치를 하여야 한다.",
+            "target_law_name": "산업안전보건법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0008",
+            "reference_id": "law:산업안전보건법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "안전보건관리 조직",
+        "chapter": "제2장 안전보건관리 조직 및 직무",
+        "content": "제9조(안전보건관리 조직) ① 이사장은 안전보건관리 업무의 효과적 수행을 위하여 별표 1과 같이 안전보건관리 조직을 설치한다.② 이사장은 업무수행에 필요한 권한과 책임을 안전보건관리 조직에 부여하고, 시설ㆍ장비ㆍ예산 등 업무수행에 필요한 인적ㆍ물적 자원을 지원하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제1항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "국민연금공단 안전보건관리규정",
+            "target_article_no": "별표1",
+            "target_article_title": "안전보건관리 조직도",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000151539&bylNo=0001&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0009",
+            "reference_id": "pi:국민연금공단안전보건관리규정#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "안전보건관리책임자",
+        "chapter": "제2장 안전보건관리 조직 및 직무",
+        "content": "제10조(안전보건관리책임자) ① 이사장은 제5조의 안전보건경영방침 이행 및 안전보건관리 업무 총괄을 위해 다음 각 호에 해당하는 사람을 안전보건관리책임자(이하 \"관리책임자\"라 한다)로 지정한다.1. 총괄 관리책임자: 기획이사2. 지역 관리책임자: 각 지역본부장② 관리책임자는 다음 각 호의 직무를 수행한다. <개정 2025. 11. 21.>1. 법에서 정한 업무2. 안전보건관리 종사자 지휘 및 감독 업무③ 총괄 관리책임자는 지역 관리책임자의 안전보건관리 업무를 지휘ㆍ감독한다.④ 지역 관리책임자는 관할 지사의 안전보건관리 업무를 지휘ㆍ감독한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "제5조",
+            "line_text": "",
+            "target_law_name": "국민연금공단 안전보건관리규정",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/국민연금공단 안전보건관리규정/제5조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0010",
+            "reference_id": "pi:국민연금공단안전보건관리규정#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "법",
+            "line_text": "제10조(안전보건관리책임자) ① 이사장은 제5조의 안전보건경영방침 이행 및 안전보건관리 업무 총괄을 위해 다음 각 호에 해당하는 사람을 안전보건관리책임자(이하 \"관리책임자\"라 한다)로 지정한다.1. 총괄 관리책임자: 기획이사2. 지역 관리책임자: 각 지역본부장② 관리책임자는 다음 각 호의 직무를 수행한다. <개정 2025. 11. 21.>1. 법에서 정한 업무2. 안전보건관리 종사자 지휘 및 감독 업무③ 총괄 관리책임자는 지역 관리책임자의 안전보건관리 업무를 지휘ㆍ감독한다.④ 지역 관리책임자는 관할 지사의 안전보건관리 업무를 지휘ㆍ감독한다.",
+            "target_law_name": "산업안전보건법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0010",
+            "reference_id": "law:산업안전보건법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "안전보건총괄책임자",
+        "chapter": "제2장 안전보건관리 조직 및 직무",
+        "content": "제11조(안전보건총괄책임자) ① 이사장은 수급인 근로자가 공단 사업장에서 작업을 하는 경우 공단 근로자와 수급인 근로자의 산업재해를 예방하기 위해 관리책임자를 안전보건총괄책임자(이하 \"총괄책임자\"라 한다)로 지정한다. <개정 2025. 11. 21.>② 제1항에 따른 총괄책임자를 지정해야 하는 사업의 종류 및 사업장의 상시 근로자 수는 법 시행령 관련 조항을 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "법",
+            "line_text": "제11조(안전보건총괄책임자) ① 이사장은 수급인 근로자가 공단 사업장에서 작업을 하는 경우 공단 근로자와 수급인 근로자의 산업재해를 예방하기 위해 관리책임자를 안전보건총괄책임자(이하 \"총괄책임자\"라 한다)로 지정한다. <개정 2025. 11. 21.>② 제1항에 따른 총괄책임자를 지정해야 하는 사업의 종류 및 사업장의 상시 근로자 수는 법 시행령 관련 조항을 따른다.",
+            "target_law_name": "산업안전보건법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0011",
+            "reference_id": "law:산업안전보건법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "안전보건관리 종사자",
+        "chapter": "제2장 안전보건관리 조직 및 직무",
+        "content": "제12조(안전보건관리 종사자) 안전보건관리 종사자는 안전보건전담부서장, 안전보건업무담당관, 안전보건관리감독자(이하 \"관리감독자\"라 한다), 안전관리 전담인력 및 보건관리자를 말하며, 다음 각 호에 따라 구성할 수 있다. <개정 2025. 11. 21.>1. 안전보건전담부서장: 「직제규정」에 따라 재난, 안전, 보건 업무를 총괄하는 부서의 장2. 안전보건업무담당관: 각 부서장3. 관리감독자: 공단의 재난 및 안전보건관리 업무를 관리ㆍ감독하는 사람으로서 각 부서 주무부장과 시설소장4. 안전관리 전담인력: 이사장이 지명한 근로자5. 보건관리자: 법 시행령의 자격을 갖춘 사람",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조",
+            "link_text": "법",
+            "line_text": "제12조(안전보건관리 종사자) 안전보건관리 종사자는 안전보건전담부서장, 안전보건업무담당관, 안전보건관리감독자(이하 \"관리감독자\"라 한다), 안전관리 전담인력 및 보건관리자를 말하며, 다음 각 호에 따라 구성할 수 있다. <개정 2025. 11. 21.>1. 안전보건전담부서장: 「직제규정」에 따라 재난, 안전, 보건 업무를 총괄하는 부서의 장2. 안전보건업무담당관: 각 부서장3. 관리감독자: 공단의 재난 및 안전보건관리 업무를 관리ㆍ감독하는 사람으로서 각 부서 주무부장과 시설소장4. 안전관리 전담인력: 이사장이 지명한 근로자5. 보건관리자: 법 시행령의 자격을 갖춘 사람",
+            "target_law_name": "산업안전보건법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0012",
+            "reference_id": "law:산업안전보건법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "안전보건관리 종사자의 업무",
+        "chapter": "제2장 안전보건관리 조직 및 직무",
+        "content": "제13조(안전보건관리 종사자의 업무) ① 안전보건전담부서장은 다음 각 호의 업무를 수행한다. <개정 2025. 11. 21.>1. 제10조제2항에서 정한 총괄 관리책임자의 직무 중 안전 및 보건에 관한 기술적인 사항에 관하여 총괄 관리책임자를 보좌2. 안전경영책임계획의 수립 및 이행 관리3. 법 시행령에서 정한 업무4. 그 밖에 안전보건관리 업무에 관한 사항② 안전보건업무담당관은 다음 각 호의 업무를 수행한다. <개정 2025. 11. 21.>1. 소관 부서의 안전보건관리 업무 이행 및 관리2. 안전경영책임계획 이행 및 협조3. 소속 근로자의 건강장해 예방 및 사무실 환경관리에 관한 사항4. 관리감독자 수행 업무에 대한 지휘 및 감독5. 그 밖에 안전보건관리 업무에 관한 사항③ 관리감독자는 법 시행령에서 정한 업무를 수행하며, 안전보건업무담당관 부재 시 제13조제2항에서 정한 안전보건업무담당관의 업무를 대행한다. <개정 2025. 11. 21.>④ 안전관리 전담인력은 다음 각 호의 업무를 수행한다.1. 사옥 및 임차지사 도급사업 관리2. 권역내 사옥(지사) 안전관리 순회점검 계획 수립3. 권역내 지사 정기 위험성평가 관리 및 교육4. 지역본부 내 중대형 사옥 안전보건 교육계획 수립 및 실시5. 그 밖에 지역 관리책임자와 안전보건전담부서장이 지시하는 안전보건관리 업무에 관한 사항⑤ 보건관리자는 다음 각 호의 업무를 수행한다. <개정 2025. 11. 21.>1. 제10조제2항에서 정한 총괄 관리책임자의 직무 중 보건에 관한 기술적인 사항에 관하여 총괄 관리책임자를 보좌ㆍ조언2. 법 시행령에서 정한 업무",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제1항",
+            "link_text": "제10조제2항",
+            "line_text": "",
+            "target_law_name": "국민연금공단 안전보건관리규정",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/국민연금공단 안전보건관리규정/제10조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0013",
+            "reference_id": "pi:국민연금공단안전보건관리규정#JO0010"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제5항",
+            "link_text": "제10조제2항",
+            "line_text": "",
+            "target_law_name": "국민연금공단 안전보건관리규정",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/국민연금공단 안전보건관리규정/제10조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0013",
+            "reference_id": "pi:국민연금공단안전보건관리규정#JO0010"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조",
+            "link_text": "법",
+            "line_text": "제13조(안전보건관리 종사자의 업무) ① 안전보건전담부서장은 다음 각 호의 업무를 수행한다. <개정 2025. 11. 21.>1. 제10조제2항에서 정한 총괄 관리책임자의 직무 중 안전 및 보건에 관한 기술적인 사항에 관하여 총괄 관리책임자를 보좌2. 안전경영책임계획의 수립 및 이행 관리3. 법 시행령에서 정한 업무4. 그 밖에 안전보건관리 업무에 관한 사항② 안전보건업무담당관은 다음 각 호의 업무를 수행한다. <개정 2025. 11. 21.>1. 소관 부서의 안전보건관리 업무 이행 및 관리2. 안전경영책임계획 이행 및 협조3. 소속 근로자의 건강장해 예방 및 사무실 환경관리에 관한 사항4. 관리감독자 수행 업무에 대한 지휘 및 감독5. 그 밖에 안전보건관리 업무에 관한 사항③ 관리감독자는 법 시행령에서 정한 업무를 수행하며, 안전보건업무담당관 부재 시 제13조제2항에서 정한 안전보건업무담당관의 업무를 대행한다. <개정 2025. 11. 21.>④ 안전관리 전담인력은 다음 각 호의 업무를 수행한다.1. 사옥 및 임차지사 도급사업 관리2. 권역내 사옥(지사) 안전관리 순회점검 계획 수립3. 권역내 지사 정기 위험성평가 관리 및 교육4. 지역본부 내 중대형 사옥 안전보건 교육계획 수립 및 실시5. 그 밖에 지역 관리책임자와 안전보건전담부서장이 지시하는 안전보건관리 업무에 관한 사항⑤ 보건관리자는 다음 각 호의 업무를 수행한다. <개정 2025. 11. 21.>1. 제10조제2항에서 정한 총괄 관리책임자의 직무 중 보건에 관한 기술적인 사항에 관하여 총괄 관리책임자를 보좌ㆍ조언2. 법 시행령에서 정한 업무",
+            "target_law_name": "산업안전보건법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0013",
+            "reference_id": "law:산업안전보건법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "산업안전보건위원회",
+        "chapter": "제2장 안전보건관리 조직 및 직무",
+        "content": "제14조(산업안전보건위원회) ① 이사장은 사업장의 안전 및 보건에 관한 중요 사항을 심의ㆍ의결하기 위하여 산업안전보건위원회를 구성ㆍ운영한다.② 산업안전보건위원회의 구성 및 운영에 필요한 세부사항은 이사장이 따로 정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "명예산업안전감독관",
+        "chapter": "제2장 안전보건관리 조직 및 직무",
+        "content": "제15조(명예산업안전감독관) ① 이사장은 법 및 단체협약에 따라 산업재해 예방 활동을 활성화하기 위해 명예산업안전감독관을 운영할 수 있다.② 명예산업안전감독관의 대상 범위 및 직무 등에 대해서는 법 시행령에서 정하는 바에 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조",
+            "link_text": "법",
+            "line_text": "제15조(명예산업안전감독관) ① 이사장은 법 및 단체협약에 따라 산업재해 예방 활동을 활성화하기 위해 명예산업안전감독관을 운영할 수 있다.② 명예산업안전감독관의 대상 범위 및 직무 등에 대해서는 법 시행령에서 정하는 바에 따른다.",
+            "target_law_name": "산업안전보건법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0015",
+            "reference_id": "law:산업안전보건법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "안전근로협의체",
+        "chapter": "제2장 안전보건관리 조직 및 직무",
+        "content": "제16조(안전근로협의체) ① 이사장은 「공공기관의 안전관리에 관한 지침」 (이하 \"안전관리지침\"이라 한다)에 따라 안전보건에 관한 중요사항을 협의하기 위해 공단의 산업안전보건위원회와 수급인 노사대표로 구성된 안전근로협의체를 운영하여야 한다.② 안전근로협의체 구성 및 운영에 필요한 세부사항은 이사장이 따로 정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "안전경영위원회",
+        "chapter": "제2장 안전보건관리 조직 및 직무",
+        "content": "제17조(안전경영위원회) ① 이사장은 안전관리지침에 따라 안전에 관한 사항을 심의ㆍ자문하기 위해 근로자, 전문가 등이 참여하는 안전경영위원회를 구성ㆍ운영하여야 한다.② 안전경영위원회 구성 및 운영에 필요한 세부사항은 이사장이 따로 정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "안전보건교육",
+        "chapter": "제3장 안전보건교육",
+        "content": "제18조(안전보건교육) ① 총괄 관리책임자는 법과 같은 법 시행규칙에 따른 안전보건교육을 실시하기 위하여 안전보건교육 계획을 수립하고, 전 부서에 알려야 한다. <개정 2025. 11. 21.>② 제1항에 따른 안전보건교육 계획을 수립하는 경우 다음 각 호에 해당하는 내용을 포함하도록 하여야 한다. <개정 2025. 11. 21.>1. 관계법령에 적용되는 소방ㆍ가스ㆍ전기ㆍ승강기 등 사옥시설 안전관리 직무교육2. 고용노동부장관이 총괄 관리책임자를 대상으로 실시하는 안전보건에 관한 직무교육3. 고용노동부 고시에 따른 현업업무에 종사하는 공무직 근로자를 대상으로 실시하는 특별교육③ 관리책임자는 근로자를 채용하거나 근로자의 업무가 변경된 경우에는 해당 근로자에 대해 담당업무와 관련한 안전보건교육을 실시하여야 하며, 유해하거나 위험한 작업을 담당하는 경우에는 특별교육을 실시하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제18조",
+            "source_clause": "제18조",
+            "link_text": "법",
+            "line_text": "제18조(안전보건교육) ① 총괄 관리책임자는 법과 같은 법 시행규칙에 따른 안전보건교육을 실시하기 위하여 안전보건교육 계획을 수립하고, 전 부서에 알려야 한다. <개정 2025. 11. 21.>② 제1항에 따른 안전보건교육 계획을 수립하는 경우 다음 각 호에 해당하는 내용을 포함하도록 하여야 한다. <개정 2025. 11. 21.>1. 관계법령에 적용되는 소방ㆍ가스ㆍ전기ㆍ승강기 등 사옥시설 안전관리 직무교육2. 고용노동부장관이 총괄 관리책임자를 대상으로 실시하는 안전보건에 관한 직무교육3. 고용노동부 고시에 따른 현업업무에 종사하는 공무직 근로자를 대상으로 실시하는 특별교육③ 관리책임자는 근로자를 채용하거나 근로자의 업무가 변경된 경우에는 해당 근로자에 대해 담당업무와 관련한 안전보건교육을 실시하여야 하며, 유해하거나 위험한 작업을 담당하는 경우에는 특별교육을 실시하여야 한다.",
+            "target_law_name": "산업안전보건법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0018",
+            "reference_id": "law:산업안전보건법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "교육 시간 및 방법",
+        "chapter": "제3장 안전보건교육",
+        "content": "제19조(교육 시간 및 방법) 안전보건교육에 관한 사항과 시간, 방법 및 내용은 공단 안전보건경영시스템 규격서에 따른다. <개정 2025. 11. 21.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "교육 기록ㆍ보존",
+        "chapter": "제3장 안전보건교육",
+        "content": "제20조(교육 기록ㆍ보존) 관리감독자는 안전보건교육을 실시하는 경우 다음 각 호의 사항을 기록하여 보관하여야 한다. 위탁 교육은 해당 교육기관으로부터 교육확인서 등을 받아 보존한다. <개정 2025. 11. 21.>1. 교육일시 및 장소2. 교육담당자3. 교육과정 및 내용4. 교육대상자 및 참석인원5. 그 밖에 교육 결과를 증명하기 위해 필요한 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "안전경영책임계획 수립 및 실행",
+        "chapter": "제4장 작업장 안전관리",
+        "content": "제21조(안전경영책임계획 수립 및 실행) ① 총괄 관리책임자는 매년 12월 31일까지 다음 연도 안전경영책임계획을 수립하여야 한다.② 제1항에 따른 안전경영책임계획에는 다음 각 호의 내용이 포함되어야 한다.1. 전년도 안전경영 활동 실적 및 평가2. 안전보건경영방침 및 안전경영 활동 계획3. 안전 조직 구성ㆍ인원 및 역할4. 안전에 관한 시설 및 예산5. 산업재해 및 안전사고 감축목표6. 그 밖에 안전관리에 관한 계획③ 제1항의 안전경영책임계획은 보건복지부장관과의 협의를 거쳐 수립하고 이사회의 승인을 거쳐 확정한다.④ 총괄 관리책임자는 전년도 안전경영책임계획의 이행 상황을 주기적으로 점검하고, 매년 1월 31일까지 전년도 안전경영책임계획의 이행실적을 보건복지부장관에게 점검받아야 한다.⑤ 공단의 모든 근로자는 안전경영책임계획을 성실히 이행하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "안전경영책임보고서 작성 및 공시",
+        "chapter": "제4장 작업장 안전관리",
+        "content": "제22조(안전경영책임보고서 작성 및 공시) ① 총괄 관리책임자는 매년 1월 말일까지 별표 2에서 정하는 사항과 당해연도 안전경영책임계획의 주요내용을 포함하여 전년도 안전경영책임보고서를 작성하여야 한다.② 안전경영책임보고서는 보건복지부장관과 협의를 거쳐 작성하고 안전관리지침에 따라 공시하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제1항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "국민연금공단 안전보건관리규정",
+            "target_article_no": "별표2",
+            "target_article_title": "안전경영책임보고서 포함내용",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000151539&bylNo=0002&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0022",
+            "reference_id": "pi:국민연금공단안전보건관리규정#BYL0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "안전기준 수립",
+        "chapter": "제4장 작업장 안전관리",
+        "content": "제23조(안전기준 수립) ① 총괄 관리책임자는 2인 1조로 근무하여야 하는 위험작업에 대해 근속기간이 6개월 미만인 근로자가 단독으로 할 수 없는 작업 기준을 마련하여야 한다.② 총괄 관리책임자는 폭염, 한랭, 미세먼지 등 이상기후 시 근로자의 건강장해 예방을 위한 계획을 수립ㆍ운영하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "표준작업안전수칙 작성 및 준수",
+        "chapter": "제4장 작업장 안전관리",
+        "content": "제24조(표준작업안전수칙 작성 및 준수) ① 총괄 관리책임자는 수행 작업별로 재해 위험이 높은 작업행동을 방지하기 위하여 안전보건규칙을 반영한 표준작업안전수칙을 작성하여 배포하고, 해당 작업 근로자를 교육해야 한다.② 공단의 모든 근로자(임원 포함)는 표준작업안전수칙을 지켜야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "위험물질의 보관 및 사용",
+        "chapter": "제4장 작업장 안전관리",
+        "content": "제25조(위험물질의 보관 및 사용) ① 총괄 관리책임자는 안전보건규칙 별표 1의 위험물질을 취급하는 작업장에 위험물 취급책임자를 지정하여 관리하도록 하여야 한다.② 총괄 관리책임자는 위험물질을 작업장 외 별도의 지정된 장소에 보관하여야 하며, 작업장 내부에는 작업에 필요한 최소량만을 두어야 한다. <개정 2025. 11. 21.>③ 총괄 관리책임자는 위험물질 취급 장소에 대하여 관계자 외 출입과 화기물질 반입을 금지하는 조치를 하여야 한다. 이 경우 위험물질 취급 장소에 출입금지 표지를 부착하고 해당 물질의 위험성을 게시하여 위험장소임을 알려야 한다. <개정 2025. 11. 21.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0025"
+      },
+      {
+        "article_no": "제26조",
+        "article_title": "작업중지",
+        "chapter": "제4장 작업장 안전관리",
+        "content": "제26조(작업중지) ① 관리감독자 및 안전보건업무담당관(이하 \"관리감독자 등\"이라 한다)은 산업재해가 발생할 급박한 위험이 있을 때 또는 중대재해가 발생하였을 때에는 즉시 작업을 중지시키고 근로자를 작업 장소로부터 대피시키는 등 필요한 안전보건상의 조치를 하여야 한다.② 근로자는 산업재해가 발생할 위험이 있다고 판단하는 경우 관리감독자 등에 작업중지를 요청할 수 있다. <개정 2025. 11. 21.>③ 근로자는 제1항 및 제2항에도 불구하고 산업재해가 발생할 급박한 위험이 있는 경우에는 작업을 중지하고 대피할 수 있다.④ 제3항에 따라 작업을 중지하고 대피한 근로자는 지체없이 그 사실을 관리감독자 등에게 보고하여야 한다. <개정 2025. 11. 21.>⑤ 관리감독자 등은 제2항 또는 제4항에 따른 요청 및 보고를 받으면 안전 및 보건에 관하여 필요한 조치를 하여야 하며, 작업중지 해당 근로자에 대해 불리한 처우를 하여서는 안 된다.⑥ 작업중지 조치 및 절차에 관한 세부사항은 총괄 관리책임자가 따로 정한다. <개정 2025. 11. 21.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0026"
+      },
+      {
+        "article_no": "제27조",
+        "article_title": "안전보건표지 설치 및 부착",
+        "chapter": "제4장 작업장 안전관리",
+        "content": "제27조(안전보건표지 설치 및 부착) ① 총괄 관리책임자는 각 호의 사항을 기재하여 근로자가 확인할 수 있도록 안전보건표지를 설치ㆍ부착하여야 한다. <개정 2025. 11. 21.>1. 유해하거나 위험한 시설 및 장소에 대한 금지ㆍ경고2. 비상시 조치에 대한 지시 및 안내3. 그 밖에 근로자의 안전의식 고취를 위해 관계법령에서 정하는 사항② 총괄 관리책임자는 근로자가 쉽게 알아볼 수 있는 크기로 안전보건표지를 제작하여야 한다.[제목개정 2025. 11. 21.]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0027"
+      },
+      {
+        "article_no": "제28조",
+        "article_title": "시설물 안전 점검",
+        "chapter": "제4장 작업장 안전관리",
+        "content": "제28조(시설물 안전 점검) ① 총괄 관리책임자는 사업장 위험요소를 조기에 발견하여 사업장 내 사고와 재해를 예방하고 공단 시설물을 이용하는 국민의 안전보건 확보를 위하여 정기적으로 시설물 점검을 실시하여야 한다.② 총괄 관리책임자는 제1항에 따른 점검을 실시하는 경우 근로자로부터 의견을 수렴하고, 제시된 문제점을 검토하여 개선하여야 한다.③ 사옥시설을 운영하는 부서의 장은 시설물 점검 주기 및 방법에 관한 세부계획을 수립ㆍ운영하여야 한다.[제목개정 2025. 11. 21.]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0028"
+      },
+      {
+        "article_no": "제29조",
+        "article_title": "안전작업허가서 발급 등",
+        "chapter": "제4장 작업장 안전관리",
+        "content": "제29조(안전작업허가서 발급 등) ① 총괄 관리책임자는 도급사업의 경우 고용노동부 고시에 따라 위험성 평가를 실시하고, 위험성이 높은 위험요인에 대한 개선ㆍ감소대책을 마련하고 조치사항을 확인하여야 한다.② 총괄 관리책임자는 도급공사 중 시설공사, 정비ㆍ보수 공사 등으로 작업장 내 추락, 화재, 질식, 감전 등의 위험이 발생할 우려가 있는 경우에는 작업 전 안전작업허가서를 발급하여야 한다.③ 삭제 <2025. 11. 21.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0029"
+      },
+      {
+        "article_no": "제29조의2",
+        "article_title": "작업지휘자",
+        "chapter": "제4장 작업장 안전관리",
+        "content": "제29조의2(작업지휘자) ① 관리감독자는 안전보건규칙 제38조제1항 본문에서 정한 작업을 실시하는 경우에는 작업계획서를 작성하여야 한다.② 관리감독자는 제1항에 따른 작업을 지휘ㆍ감독하는 사람을 작업지휘자로 지정하고, 작업지휘자는 작업계획서에 따라 작업을 지휘ㆍ감독하여야 한다.[본조신설 2025. 11. 21.]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0029_02"
+      },
+      {
+        "article_no": "제30조",
+        "article_title": "교통재해 예방",
+        "chapter": "제4장 작업장 안전관리",
+        "content": "제30조(교통재해 예방) ① 공단 내 모든 주행 차량은 차량 통행로를 이용하고, 제한속도(20km 이내)를 지켜야 한다.② 공단을 출입하는 근로자와 이용 국민은 주행 차량에 의한 재해 예방을 위해 표시된 보행자 통로 및 횡단 장소를 이용하여야 한다. <개정 2025. 11. 21.>③ 근로자는 「도로교통법」 등 관련 법규를 준수하여 안전운전을 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제30조",
+            "source_clause": "제30조제3항",
+            "link_text": "「도로교통법」",
+            "line_text": "",
+            "target_law_name": "도로교통법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/도로교통법",
+            "resolve_method": "render",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0030",
+            "reference_id": "law:도로교통법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0030"
+      },
+      {
+        "article_no": "제31조",
+        "article_title": "비상조치계획",
+        "chapter": "제4장 작업장 안전관리",
+        "content": "제31조(비상조치계획) ① 관리감독자는 다음 각 호에 내용을 포함한 비상조치계획을 작성하여야 한다. <개정 2025. 11. 21.>1. 중대재해ㆍ화재폭발 등에 관한 대비 및 대응 방안2. 비상사태별 시나리오와 대책3. 근로자, 공단시설 이용 국민, 인근 주민 및 환경을 고려한 홍보 방안4. 피난 및 대응훈련 주기② 그 밖에 비상조치 계획을 실시하기 위한 세부사항은 공단의 「재난 및 중대재해 대응 표준행동 매뉴얼」 에 따른다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0031"
+      },
+      {
+        "article_no": "제32조",
+        "article_title": "피난 및 대응훈련",
+        "chapter": "제4장 작업장 안전관리",
+        "content": "제32조(피난 및 대응훈련) 관리감독자는 비상사태 시나리오별로 정기적인 교육을 포함한 피난 및 대응훈련을 실시하여야 하며, 대응훈련 성과를 평가하여 필요에 따라 수정ㆍ보완하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0032"
+      },
+      {
+        "article_no": "제33조",
+        "article_title": "방호조치",
+        "chapter": "제4장 작업장 안전관리",
+        "content": "제33조(방호조치) 총괄 관리책임자는 법 시행령에서 정한 유해 기계ㆍ기구 및 설비를 설치하거나 유지ㆍ관리할 때에는 법 시행규칙에 의한 방호장치를 설치하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제33조",
+            "source_clause": "제33조",
+            "link_text": "법",
+            "line_text": "제33조(방호조치) 총괄 관리책임자는 법 시행령에서 정한 유해 기계ㆍ기구 및 설비를 설치하거나 유지ㆍ관리할 때에는 법 시행규칙에 의한 방호장치를 설치하여야 한다.",
+            "target_law_name": "산업안전보건법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0033",
+            "reference_id": "law:산업안전보건법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0033"
+      },
+      {
+        "article_no": "제34조",
+        "article_title": "안전검사 등",
+        "chapter": "제4장 작업장 안전관리",
+        "content": "제34조(안전검사 등) 총괄 관리책임자는 법 및 관계법령에 따라 사옥 내 설치된 위험설비에 대한 정기적인 법정검사를 실시하고 그 결과를 보관하여야 한다. <개정 2025. 11. 21.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제34조",
+            "source_clause": "제34조",
+            "link_text": "법",
+            "line_text": "제34조(안전검사 등) 총괄 관리책임자는 법 및 관계법령에 따라 사옥 내 설치된 위험설비에 대한 정기적인 법정검사를 실시하고 그 결과를 보관하여야 한다. <개정 2025. 11. 21.>",
+            "target_law_name": "산업안전보건법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0034",
+            "reference_id": "law:산업안전보건법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0034"
+      },
+      {
+        "article_no": "제35조",
+        "article_title": "근로자 건강진단 및 관리",
+        "chapter": "제5장 작업장 보건관리",
+        "content": "제35조(근로자 건강진단 및 관리) ① 공단에서 실시하는 건강진단의 종류는 다음 각 호와 같이 구분한다.1. 일반건강진단2. 특수건강진단3. 배치 전 건강진단② 총괄 관리책임자는 근로자의 건강관리를 위하여 주기적으로 일반건강진단을 실시하여야 한다.③ 총괄 관리책임자는 다음 각 호의 어느 하나에 해당하는 경우 근로자의 건강관리를 위하여 특수건강진단을 실시하여야 한다.1. 법 시행규칙에서 정한 특수건강진단 대상 유해인자에 노출되는 업무에 종사하는 근로자2. 근로자 건강진단 실시결과 직업병 유소견자로 판정받은 후 작업 전환을 하거나 작업장소를 변경했음에도 불구하고 직업병 유소견 판정의 원인이 된 유해인자에 대한 건강진단이 필요하다는 의사의 소견이 있는 근로자④ 총괄 관리책임자는 제3항제1호에 해당하는 근로자에게 배치 예정 업무에 대한 적합성 평가(의사의 소견에 따라 해당 업무를 수행할 경우 건강장해가 있는지를 평가하는 것을 말한다)를 위하여 배치 전 건강진단을 실시하여야 하며, 시행시기 및 주기는 법 시행규칙에 따른다.⑤ 근로자는 제1항에 따른 건강진단을 정당한 이유 없이 기피하거나 고의로 거부하여서는 아니 된다.⑥ 총괄 관리책임자는 건강진단 결과 사후관리가 필요한 공단 근로자에 대하여 법 시행규칙에 따라 건강을 유지하기 위하여 필요한 조치를 할 수 있다. <개정 2025. 11. 21.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제35조",
+            "source_clause": "제35조",
+            "link_text": "법",
+            "line_text": "제35조(근로자 건강진단 및 관리) ① 공단에서 실시하는 건강진단의 종류는 다음 각 호와 같이 구분한다.1. 일반건강진단2. 특수건강진단3. 배치 전 건강진단② 총괄 관리책임자는 근로자의 건강관리를 위하여 주기적으로 일반건강진단을 실시하여야 한다.③ 총괄 관리책임자는 다음 각 호의 어느 하나에 해당하는 경우 근로자의 건강관리를 위하여 특수건강진단을 실시하여야 한다.1. 법 시행규칙에서 정한 특수건강진단 대상 유해인자에 노출되는 업무에 종사하는 근로자2. 근로자 건강진단 실시결과 직업병 유소견자로 판정받은 후 작업 전환을 하거나 작업장소를 변경했음에도 불구하고 직업병 유소견 판정의 원인이 된 유해인자에 대한 건강진단이 필요하다는 의사의 소견이 있는 근로자④ 총괄 관리책임자는 제3항제1호에 해당하는 근로자에게 배치 예정 업무에 대한 적합성 평가(의사의 소견에 따라 해당 업무를 수행할 경우 건강장해가 있는지를 평가하는 것을 말한다)를 위하여 배치 전 건강진단을 실시하여야 하며, 시행시기 및 주기는 법 시행규칙에 따른다.⑤ 근로자는 제1항에 따른 건강진단을 정당한 이유 없이 기피하거나 고의로 거부하여서는 아니 된다.⑥ 총괄 관리책임자는 건강진단 결과 사후관리가 필요한 공단 근로자에 대하여 법 시행규칙에 따라 건강을 유지하기 위하여 필요한 조치를 할 수 있다. <개정 2025. 11. 21.>",
+            "target_law_name": "산업안전보건법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0035",
+            "reference_id": "law:산업안전보건법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0035"
+      },
+      {
+        "article_no": "제36조",
+        "article_title": "유해물질 취급 및 관리",
+        "chapter": "제5장 작업장 보건관리",
+        "content": "제36조(유해물질 취급 및 관리) ① 총괄 관리책임자는 공단에서 법에서 정하는 유해물질을 취급하는 경우 다음 각 호에 따른 현장 안전관리를 하여야 한다.1. 건강장해가 발생하지 않도록 작업 지휘2. 환기설비의 이상 유무 점검 및 보호구 착용 상황 감시② 총괄 관리책임자는 관계 근로자 외 사람이 관리 대상 유해물질을 취급하는 장소에 출입하지 않도록 조치하여야 하며, 출입금지에 대한 표시를 보기 쉬운 장소에 게시하여야 한다. <개정 2025. 11. 21.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제36조",
+            "source_clause": "제36조",
+            "link_text": "법",
+            "line_text": "제36조(유해물질 취급 및 관리) ① 총괄 관리책임자는 공단에서 법에서 정하는 유해물질을 취급하는 경우 다음 각 호에 따른 현장 안전관리를 하여야 한다.1. 건강장해가 발생하지 않도록 작업 지휘2. 환기설비의 이상 유무 점검 및 보호구 착용 상황 감시② 총괄 관리책임자는 관계 근로자 외 사람이 관리 대상 유해물질을 취급하는 장소에 출입하지 않도록 조치하여야 하며, 출입금지에 대한 표시를 보기 쉬운 장소에 게시하여야 한다. <개정 2025. 11. 21.>",
+            "target_law_name": "산업안전보건법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0036",
+            "reference_id": "law:산업안전보건법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0036"
+      },
+      {
+        "article_no": "제37조",
+        "article_title": "안전보건 보호구",
+        "chapter": "제5장 작업장 보건관리",
+        "content": "제37조(안전보건 보호구) ① 총괄 관리책임자는 근로자가 유해ㆍ위험작업으로부터 보호받을 수 있도록 필요한 조치를 하여야 한다.② 총괄 관리책임자는 제1항의 조치가 곤란한 경우 작업환경과 조건에 적합한 보호구를 작업하는 근로자 수 이상으로 지급하고, 근로자가 보호구를 착용하도록 하여야 한다.③ 근로자는 작업환경과 작업조건에 적합한 보호구를 착용할 권리와 의무가 있으며, 공단에서 제공받거나 착용 지시를 받은 근로자는 그 보호구를 착용하여야 한다.④ 관리감독자는 근로자에게 보호구를 지급하는 경우 상시 점검하여 이상이 있는 것은 수리하거나 다른 것으로 교환해 주는 등 항시 사용할 수 있도록 보호구를 청결하게 관리하여야 한다. 다만, 근로자가 직접 청결을 유지하는 안전화, 안전모, 보안경 등은 관리감독자의 관리 대상에서 제외한다. <개정 2025. 11. 21.>⑤ 관리감독자는 질병 감염 우려가 있는 경우 근로자에게 개인전용 보호구를 지급하여야 한다. <개정 2025. 11. 21.>⑥ 관리감독자는 방진마스크 필터 등 교환이 필요한 물품은 상시 교환할 수 있도록 충분한 양을 갖추어야 한다.⑦ 보호구 지급기준, 작업별 사용할 보호구에 관한 세부사항은 총괄 관리책임자가 정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0037"
+      },
+      {
+        "article_no": "제38조",
+        "article_title": "물질안전보건자료의 작성ㆍ비치",
+        "chapter": "제5장 작업장 보건관리",
+        "content": "제38조(물질안전보건자료의 작성ㆍ비치) ① 총괄 관리책임자는 법에서 유해ㆍ위험물질로 정하고 있는 화학물질(이하 \"대상 화학물질\"이라 한다)을 취급하는 근로자가 볼 수 있도록 다음 각 호의 사항을 준수하여야 한다.1. 각 대상 화학물질의 물질안전보건자료를 쉽게 보거나 접근할 수 있는 장소에 게시2. 물질안전보건자료를 쉽게 확인할 수 있는 자료 또는 전산장비 게시② 총괄 관리책임자는 사업장 내에서 사용하는 대상 화학물질을 담은 용기에 법으로 정하는 방법에 따라 경고 표시를 하여야 한다. 다만, 용기에 이미 법 시행규칙에 의해 경고 표시가 되어있는 경우는 제외한다.③ 총괄 관리책임자는 법에 따른 대상 화학물질(이하 \"물질안전보건자료 대상물질\"이라 한다)을 취급하는 작업공정별로 다음 각 호의 사항이 포함된 관리 요령을 게시하여야 한다. 이 경우 관리 요령은 유해성ㆍ위험성이 유사한 물질안전보건자료 대상물질의 그룹별로 작성하여 게시할 수 있다.1. 제품명2. 건강 및 환경에 대한 유해성, 물리적 위험성3. 안전 및 보건상의 취급 주의사항4. 적절한 보호구5. 응급조치 요령 및 사고 시 대처 방법④ 총괄 관리책임자는 물질안전보건자료 대상물질을 취급하는 근로자의 안전 및 보건을 위하여 다음 각 호의 경우 근로자에게 교육을 실시하여야 한다.1. 물질안전보건자료 대상물질을 제조ㆍ사용ㆍ운반 또는 저장하는 작업에 근로자를 배치하게 된 경우2. 새로운 물질안전보건자료 대상물질이 도입된 경우3. 유해성ㆍ위험성 정보가 변경된 경우",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제38조",
+            "source_clause": "제38조",
+            "link_text": "법",
+            "line_text": "제38조(물질안전보건자료의 작성ㆍ비치) ① 총괄 관리책임자는 법에서 유해ㆍ위험물질로 정하고 있는 화학물질(이하 \"대상 화학물질\"이라 한다)을 취급하는 근로자가 볼 수 있도록 다음 각 호의 사항을 준수하여야 한다.1. 각 대상 화학물질의 물질안전보건자료를 쉽게 보거나 접근할 수 있는 장소에 게시2. 물질안전보건자료를 쉽게 확인할 수 있는 자료 또는 전산장비 게시② 총괄 관리책임자는 사업장 내에서 사용하는 대상 화학물질을 담은 용기에 법으로 정하는 방법에 따라 경고 표시를 하여야 한다. 다만, 용기에 이미 법 시행규칙에 의해 경고 표시가 되어있는 경우는 제외한다.③ 총괄 관리책임자는 법에 따른 대상 화학물질(이하 \"물질안전보건자료 대상물질\"이라 한다)을 취급하는 작업공정별로 다음 각 호의 사항이 포함된 관리 요령을 게시하여야 한다. 이 경우 관리 요령은 유해성ㆍ위험성이 유사한 물질안전보건자료 대상물질의 그룹별로 작성하여 게시할 수 있다.1. 제품명2. 건강 및 환경에 대한 유해성, 물리적 위험성3. 안전 및 보건상의 취급 주의사항4. 적절한 보호구5. 응급조치 요령 및 사고 시 대처 방법④ 총괄 관리책임자는 물질안전보건자료 대상물질을 취급하는 근로자의 안전 및 보건을 위하여 다음 각 호의 경우 근로자에게 교육을 실시하여야 한다.1. 물질안전보건자료 대상물질을 제조ㆍ사용ㆍ운반 또는 저장하는 작업에 근로자를 배치하게 된 경우2. 새로운 물질안전보건자료 대상물질이 도입된 경우3. 유해성ㆍ위험성 정보가 변경된 경우",
+            "target_law_name": "산업안전보건법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0038",
+            "reference_id": "law:산업안전보건법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0038"
+      },
+      {
+        "article_no": "제39조",
+        "article_title": "근골격계 질환 예방",
+        "chapter": "제5장 작업장 보건관리",
+        "content": "제39조(근골격계 질환 예방) ① 총괄 관리책임자는 근골격계 부담 작업으로 인하여 근로자에게 근골격계 질환이 발생할 우려가 있는 경우 이 질환 예방을 위한 관리기준을 수립하고 이에 대한 교육을 실시하여야 한다. <개정 2025. 11. 21.>② 총괄 관리책임자는 근골격계 질환 유소견자가 발생한 경우 해당 근로자의 건강관리를 위하여 적절한 요양을 받도록 하여야 한다.③ 총괄 관리책임자는 제2항에 따른 요양을 마친 근로자가 작업에 복귀할 경우 해당 근로자와 협의하여 다른 작업으로 전환할 수 있다. 다만, 작업의 특성상 작업 전환이 어려운 경우 작업 자세 및 작업환경의 개선 등 적절한 조치를 하여야 한다. <개정 2025. 11. 21.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0039"
+      },
+      {
+        "article_no": "제40조",
+        "article_title": "감정노동 실태 조사",
+        "chapter": "제5장 작업장 보건관리",
+        "content": "제40조(감정노동 실태 조사) ① 총괄 관리책임자는 감정노동으로 인한 정신적 스트레스 요인 분석을 위해 전 근로자를 대상으로 감정노동 실태 조사를 주기적으로 실시하여야 한다.② 총괄 관리책임자는 제1항의 조사 결과 분석 후 정신적 스트레스 해소 등 대책을 마련하고 시행하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0040"
+      },
+      {
+        "article_no": "제41조",
+        "article_title": "직무스트레스 등 관리ㆍ조치",
+        "chapter": "제5장 작업장 보건관리",
+        "content": "제41조(직무스트레스 등 관리ㆍ조치) ① 총괄 관리책임자는 다음 각 호의 업무를 수행하는 근로자가 신체적 피로와 감정노동에 따른 정신적 스트레스(이하 \"직무스트레스\"라 한다)가 높은 작업을 하는 경우에 직무스트레스로 인한 건강장해 예방을 위하여 안전보건규칙에 따른 조치를 하여야 한다.1. 장시간 근로를 하는 업무2. 야간작업을 포함한 교대작업3. 차량운전. 이 경우 전업(專業)으로 하는 경우에만 해당한다.② 총괄 관리책임자는 다음 각 호의 근로자가 의료 및 심리치료 등을 받을 수 있도록 노력하여야 한다. <개정 2025. 11. 21.>1. 민원인에 의한 폭행 및 폭언, 성희롱을 당한 경우2. 직장 내 발생한 사건ㆍ사고로 트라우마 등 건강장해가 발생한 경우",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0041"
+      },
+      {
+        "article_no": "제42조",
+        "article_title": "쾌적한 작업환경 조성 및 관리",
+        "chapter": "제5장 작업장 보건관리",
+        "content": "제42조(쾌적한 작업환경 조성 및 관리) ① 총괄 관리책임자는 근로자가 작업하는 장소가 환기ㆍ채광ㆍ조명ㆍ보온ㆍ방습ㆍ청결상태 등을 적정수준으로 유지되도록 관리하여야 하며, 폐기물을 정해진 장소에만 버릴 수 있도록 조치하여야 한다.② 총괄 관리책임자는 근로자의 성별ㆍ나이 또는 신체적 조건 등 특성에 따른 사업장환경을 개선하기 위하여 노력하여야 한다.③ 총괄 관리책임자는 근로자가 직무스트레스를 해소할 수 있도록 휴식시간에 이용할 수 있는 휴게시설을 갖추도록 노력하여야 한다.④ 총괄 관리책임자는 제3항에 따른 휴게시설을 인체에 해로운 분진 등을 발산하는 장소나 유해물질을 취급하는 장소와 분리된 곳에 설치하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0042"
+      },
+      {
+        "article_no": "제43조",
+        "article_title": "건강증진센터, 마음나눔센터 설치ㆍ운영",
+        "chapter": "제5장 작업장 보건관리",
+        "content": "제43조(건강증진센터, 마음나눔센터 설치ㆍ운영) ① 이사장은 근로자의 정신ㆍ신체 건강증진을 위하여 건강증진센터와 마음나눔센터를 설치ㆍ운영하고 근로자의 건강을 유지ㆍ증진하도록 노력하여야 한다. <개정 2025. 11. 21.>② 이사장은 건강증진센터와 마음나눔센터 설치ㆍ운영에 필요한 시설ㆍ예산ㆍ인력ㆍ장비 등을 지원할 수 있다. <개정 2025. 11. 21.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0043"
+      },
+      {
+        "article_no": "제44조",
+        "article_title": "질병자의 근로 금지ㆍ제한",
+        "chapter": "제5장 작업장 보건관리",
+        "content": "제44조(질병자의 근로 금지ㆍ제한) ① 총괄 관리책임자는 감염병, 정신질환 또는 근로로 인하여 병세가 크게 나빠질 우려가 있는 질병으로서 법 시행규칙에서 정하는 질병에 걸린 사람에게는 「의료법」 에 따른 의사의 진단에 따라 근로를 금지하거나 제한하여야 한다. 다만, 전염을 예방하기 위한 조치를 한 경우에는 그러하지 아니한다.② 총괄 관리책임자는 제1항에 따라 근로를 금지ㆍ제한하거나 근로를 재개하도록 할 때는 건강진단을 실시한 의사의 의견을 들어야 한다.③ 질병자의 근로 금지ㆍ제한 관련하여 업무에 관여한 근로자는 그 직무상 알게 된 비밀을 누설하여서는 아니 된다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제44조",
+            "source_clause": "제44조제1항",
+            "link_text": "「의료법」",
+            "line_text": "",
+            "target_law_name": "의료법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/의료법",
+            "resolve_method": "render",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0044",
+            "reference_id": "law:의료법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제44조",
+            "source_clause": "제44조",
+            "link_text": "법",
+            "line_text": "제44조(질병자의 근로 금지ㆍ제한) ① 총괄 관리책임자는 감염병, 정신질환 또는 근로로 인하여 병세가 크게 나빠질 우려가 있는 질병으로서 법 시행규칙에서 정하는 질병에 걸린 사람에게는 「의료법」 에 따른 의사의 진단에 따라 근로를 금지하거나 제한하여야 한다. 다만, 전염을 예방하기 위한 조치를 한 경우에는 그러하지 아니한다.② 총괄 관리책임자는 제1항에 따라 근로를 금지ㆍ제한하거나 근로를 재개하도록 할 때는 건강진단을 실시한 의사의 의견을 들어야 한다.③ 질병자의 근로 금지ㆍ제한 관련하여 업무에 관여한 근로자는 그 직무상 알게 된 비밀을 누설하여서는 아니 된다.",
+            "target_law_name": "산업안전보건법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0044",
+            "reference_id": "law:산업안전보건법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0044"
+      },
+      {
+        "article_no": "제45조",
+        "article_title": "사고 발생 시 처리절차",
+        "chapter": "제6장 사고조사 및 대책 수립",
+        "content": "제45조(사고 발생 시 처리절차) ① 안전보건업무담당관은 근로자, 수급인 근로자, 공단시설 이용 국민에게 재해 및 사고가 발생한 경우 구출ㆍ호송ㆍ응급조치 등 인명구조를 최우선으로 하여야 한다. <개정 2025. 11. 21.>② 안전보건업무담당관은 사고 발생 시 피해가 최소화 되도록 노력하여야 한다.③ 재해 및 사고 발생 시 최초 목격자 또는 동료근로자, 재해자는 관리감독자 등에게 보고하여야 한다.④ 제3항에 따른 보고를 받은 관리감독자는 즉시 재해발생보고서를 작성하여 전담부서장에게 지체없이 보고하여야 한다. <개정 2025. 11. 21.>⑤ 사고 발생 현장은 사고조사가 마무리될 때까지 원형대로 보존되어야 하며, 중대재해의 경우는 관계 행정기관의 조사가 마무리될 때까지 변형하거나 훼손하여서는 안 된다.⑥ 안전보건업무담당관은 관계법령에서 정하는 행정기관 신고 대상 사고발생 시 절차에 따라 신고하여야 한다. <개정 2025. 11. 21.>⑦ 이사장은 중대재해 발생 후 조사가 완료되면 산업안전보건위원회에 안건으로 상정하여 재해원인 및 대책 등에 대한 보고를 하여야 한다.⑧ 이사장은 재해자가 「산업재해보상보험법」 에 따라 조속하게 보상을 받을 수 있도록 지원하여야 한다.⑨ 이사장은 중대재해 발생 시 총괄 관리책임자에게 사고조사위원회를 별도로 구성ㆍ운영하도록 하여야 하며, 사고조사와 보고에 관한 세부사항은 이사장이 따로 정한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제45조",
+            "source_clause": "제45조제8항",
+            "link_text": "「산업재해보상보험법」",
+            "line_text": "",
+            "target_law_name": "산업재해보상보험법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업재해보상보험법",
+            "resolve_method": "render",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0045",
+            "reference_id": "law:산업재해보상보험법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0045"
+      },
+      {
+        "article_no": "제46조",
+        "article_title": "사고원인조사 및 대책수립",
+        "chapter": "제6장 사고조사 및 대책 수립",
+        "content": "제46조(사고원인조사 및 대책수립) ① 총괄 관리책임자는 3일 이상 휴업하는 사고에 대하여 사고조사를 실시할 수 있다.② 제1항에 따른 사고조사를 실시하는 경우에는 신속하고 중립적인 자세로 근본적인 사고원인을 찾아내고, 사고조사 결과에 따른 대책을 수립하여 동종사고 재발 방지를 위해 노력하여야 한다.③ 총괄 관리책임자는 필요시 안전보건 관련 분야의 교수 또는 전문기관에서 위촉한 전문가를 사고조사에 참여시킬 수 있다. <개정 2025. 11. 21.>④ 안전보건업무담당관은 사고원인과 재발 방지 대책을 재해 재발방지 계획서에 작성하여 총괄 관리책임자에게 보고하여야 한다. <개정 2025. 11. 21.>⑤ 제1항에 따른 사고조사 결과는 공람 등의 방법으로 모든 근로자에게 공유할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0046"
+      },
+      {
+        "article_no": "제47조",
+        "article_title": "재해 발생 현황분석 및 종합대책수립",
+        "chapter": "제6장 사고조사 및 대책 수립",
+        "content": "제47조(재해 발생 현황분석 및 종합대책수립) ① 안전보건전담부서장은 정기적으로 재해 발생 현황을 총괄 분석하고 이에 대한 대책을 수립하여 총괄 관리책임자에게 보고하고 시행한다.② 안전보건전담부서장은 매년 1월 31일까지 다음 각 호의 사항을 분석하여 대책을 수립ㆍ시행하여야 한다.1. 전년도 재해 발생 현황2. 재해 발생 원인③ 안전보건전담부서장은 연간 재해분석 결과를 모든 근로자에게 안내하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0047"
+      },
+      {
+        "article_no": "제48조",
+        "article_title": "위험성평가",
+        "chapter": "제7장 위험성평가 등",
+        "content": "제48조(위험성평가) 총괄 관리책임자는 유해ㆍ위험요인에 대한 위험성평가를 효율적으로 수행하기 위하여 다음 각 호의 사항을 포함한 안전보건경영시스템 규격서(위험성평가 관련 절차서ㆍ지침서)를 운영하여야 한다. <개정 2025. 11. 21.>1. 위험성 평가의 목적2. 평가방법3. 담당자 역할, 책임자 역할, 평가 대상(또는 범위)별 역할4. 주지방법 및 유의사항[제목개정 2025. 11. 21.]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0048"
+      },
+      {
+        "article_no": "제49조",
+        "article_title": "위험성평가 실시 및 실행",
+        "chapter": "제7장 위험성평가 등",
+        "content": "제49조(위험성평가 실시 및 실행) ① 안전보건업무담당관은 법 및 「사업장 위험성평가에 관한 지침」(고용노동부 고시)에서 정한 바에 따라 유해ㆍ위험요인을 파악하는 것이 필요한 부서(이하 이 조에서 \"위험성평가부서\"라 한다)에 대하여 위험성평가를 실시하여야 한다. <개정 2025. 11. 21.>② 안전보건업무담당관은 다음 각 호에 해당하여 위험성평가를 실시하는 경우 소관 업무 관련 근로자를 반드시 참여시켜야 한다.1. 해당 작업 유해ㆍ위험요인이 파악된 경우2. 위험성 감소대책을 수립하는 경우3. 위험성 감소대책 이행여부를 확인하는 경우",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제49조",
+            "source_clause": "제49조제1항",
+            "link_text": "「사업장 위험성평가에 관한 지침」",
+            "line_text": "",
+            "target_law_name": "사업장 위험성평가에 관한 지침",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/사업장 위험성평가에 관한 지침",
+            "resolve_method": "render",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0049",
+            "reference_id": "admrul:사업장위험성평가에관한지침#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제49조",
+            "source_clause": "제49조",
+            "link_text": "법",
+            "line_text": "제49조(위험성평가 실시 및 실행) ① 안전보건업무담당관은 법 및 「사업장 위험성평가에 관한 지침」(고용노동부 고시)에서 정한 바에 따라 유해ㆍ위험요인을 파악하는 것이 필요한 부서(이하 이 조에서 \"위험성평가부서\"라 한다)에 대하여 위험성평가를 실시하여야 한다. <개정 2025. 11. 21.>② 안전보건업무담당관은 다음 각 호에 해당하여 위험성평가를 실시하는 경우 소관 업무 관련 근로자를 반드시 참여시켜야 한다.1. 해당 작업 유해ㆍ위험요인이 파악된 경우2. 위험성 감소대책을 수립하는 경우3. 위험성 감소대책 이행여부를 확인하는 경우",
+            "target_law_name": "산업안전보건법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0049",
+            "reference_id": "law:산업안전보건법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0049"
+      },
+      {
+        "article_no": "제50조",
+        "article_title": "위험성평가 주기",
+        "chapter": "제7장 위험성평가 등",
+        "content": "제50조(위험성평가 주기) ① 위험성평가의 주기에 따라 다음 각 호와 같이 구분한다. 이 경우 최초평가와 정기평가는 공단 전체를 대상으로 실시하는 경우를 말한다.1. 최초평가: 사업장이 개시한 후 처음으로 실시하는 위험성평가2. 정기평가: 최초평가 후 매년 정기적으로 실시하는 위험성평가3. 수시평가: 보수ㆍ정비 등 실시할 사유가 발생할 때 주기와 시기에 상관없이 실시하는 위험성평가② 위험성평가 실시 주기는 「사업장 위험성평가에 관한 지침」 (고용노동부 고시)에서 정한 바에 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제50조",
+            "source_clause": "제50조제2항",
+            "link_text": "「사업장 위험성평가에 관한 지침」",
+            "line_text": "",
+            "target_law_name": "사업장 위험성평가에 관한 지침",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/사업장 위험성평가에 관한 지침",
+            "resolve_method": "render",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0050",
+            "reference_id": "admrul:사업장위험성평가에관한지침#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0050"
+      },
+      {
+        "article_no": "제51조",
+        "article_title": "삭제",
+        "chapter": "제7장 위험성평가 등",
+        "content": "제51조 삭제",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0051"
+      },
+      {
+        "article_no": "제52조",
+        "article_title": "적격 수급인 선정 의무",
+        "chapter": "제8장 도급 시 산업재해 예방",
+        "content": "제52조(적격 수급인 선정 의무) 총괄 관리책임자는 산업재해 예방을 위한 조치를 할 수 있는 능력을 갖춘 사업주에게 도급하여야 하며, 사업주 선정에 필요한 세부사항은 총괄 관리책임자가 따로 정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0052"
+      },
+      {
+        "article_no": "제53조",
+        "article_title": "도급에 따른 산업재해 예방조치",
+        "chapter": "제8장 도급 시 산업재해 예방",
+        "content": "제53조(도급에 따른 산업재해 예방조치) ① 총괄 관리책임자는 수급인 근로자가 공단 사업장에서 작업을 하는 경우 다음 각 호의 사항을 이행하여야 한다. <개정 2025. 11. 21.>1. 공단과 수급인을 구성원으로 하는 안전 및 보건에 관한 협의체 구성 및 운영2. 작업장 순회점검3. 수급인이 수급인 근로자에게 하는 법에 따른 안전보건교육을 위한 장소 및 자료의 제공 등 지원4. 수급인이 수급인 근로자에게 하는 법에 따른 안전보건교육의 실시 확인5. 작업장소에서의 화재ㆍ폭발, 토사ㆍ구축물 등의 붕괴 또는 지진 등 발생에 대비한 경보체계 운영과 대피방법 등 훈련6. 공단이 설치한 휴게 및 위생시설 이용 협조7. 같은 장소에서 이루어지는 공단과 수급인 등의 작업에 있어서 수급인 등의 작업시기, 내용, 안전조치 및 보건조치 등의 확인8. 제7호에 따른 확인 결과 수급인 등의 작업 혼재로 인하여 화재ㆍ폭발 등 위험이 발생할 우려가 있는 경우 수급인 등의 작업시기ㆍ내용 등의 조정② 총괄 관리책임자는 법 시행규칙에 따라 근로자 및 수급인 근로자와 함께 정기적으로 또는 수시로 작업장의 안전 및 보건에 관한 점검을 하여야 한다.③ 제1항 각 호의 이행에 필요한 세부사항은 총괄 관리책임자가 따로 정한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제53조",
+            "source_clause": "제53조",
+            "link_text": "법",
+            "line_text": "제53조(도급에 따른 산업재해 예방조치) ① 총괄 관리책임자는 수급인 근로자가 공단 사업장에서 작업을 하는 경우 다음 각 호의 사항을 이행하여야 한다. <개정 2025. 11. 21.>1. 공단과 수급인을 구성원으로 하는 안전 및 보건에 관한 협의체 구성 및 운영2. 작업장 순회점검3. 수급인이 수급인 근로자에게 하는 법에 따른 안전보건교육을 위한 장소 및 자료의 제공 등 지원4. 수급인이 수급인 근로자에게 하는 법에 따른 안전보건교육의 실시 확인5. 작업장소에서의 화재ㆍ폭발, 토사ㆍ구축물 등의 붕괴 또는 지진 등 발생에 대비한 경보체계 운영과 대피방법 등 훈련6. 공단이 설치한 휴게 및 위생시설 이용 협조7. 같은 장소에서 이루어지는 공단과 수급인 등의 작업에 있어서 수급인 등의 작업시기, 내용, 안전조치 및 보건조치 등의 확인8. 제7호에 따른 확인 결과 수급인 등의 작업 혼재로 인하여 화재ㆍ폭발 등 위험이 발생할 우려가 있는 경우 수급인 등의 작업시기ㆍ내용 등의 조정② 총괄 관리책임자는 법 시행규칙에 따라 근로자 및 수급인 근로자와 함께 정기적으로 또는 수시로 작업장의 안전 및 보건에 관한 점검을 하여야 한다.③ 제1항 각 호의 이행에 필요한 세부사항은 총괄 관리책임자가 따로 정한다.",
+            "target_law_name": "산업안전보건법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업안전보건법",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0053",
+            "reference_id": "law:산업안전보건법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0053"
+      },
+      {
+        "article_no": "제54조",
+        "article_title": "안전 및 보건에 관한 정보 제공 등",
+        "chapter": "제8장 도급 시 산업재해 예방",
+        "content": "제54조(안전 및 보건에 관한 정보 제공 등) 총괄 관리책임자는 다음 각 호의 작업을 도급할 때에는 그 작업을 수행하는 수급인 근로자의 산업재해 예방을 위하여 해당 작업 시작 전에 수급인에게 안전 및 보건에 관한 정보를 문서로 제공하여야 한다.1. 산소결핍, 유해가스 등으로 인한 질식의 위험이 있는 안전보건규칙 별표 18 에서 정한 밀폐공간에서의 작업2. 토사ㆍ구축물ㆍ인공구조물 등의 붕괴 우려가 있는 장소에서 이루어지는 작업",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0054"
+      },
+      {
+        "article_no": "제55조",
+        "article_title": "안전문화조성",
+        "chapter": "제9장 보칙",
+        "content": "제55조(안전문화조성) ① 총괄 관리책임자는 안전문화조성을 위하여 다음 각 호의 제도를 운영할 수 있다.1. 안전보건 제안제도: 전 근로자가 안전보건관리에 관한 방안을 연구하고 개선조치에 관한 제안서를 제출하는 제도2. 안전신문고: 국민이 공단 안전관리에 관하여 제안ㆍ신고를 할 수 있는 제도② 총괄 관리책임자는 제1항에 따른 제도를 근로자나 국민에게 홍보ㆍ안내하여 제도 활성화에 노력하여야 한다.③ 총괄 관리책임자는 제1항에 따른 제안사항에 대하여 시정 등 필요한 조치를 하여 개선하도록 노력하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0055"
+      },
+      {
+        "article_no": "제56조",
+        "article_title": "전문성 강화 등",
+        "chapter": "제9장 보칙",
+        "content": "제56조(전문성 강화 등) ① 안전보건전담부서장은 안전보건관리 업무의 전문성을 강화할 수 있도록 안전보건전담부서 근로자의 보직 및 전보에 대하여 인사담당부서의 장과 협의할 수 있다.② 안전보건전담부서 근로자에 대한 근무경력, 전문성, 자격, 성과 등을 근무평정, 성과평가 등에서 우대할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0056"
+      },
+      {
+        "article_no": "제57조",
+        "article_title": "포상",
+        "chapter": "제9장 보칙",
+        "content": "제57조(포상) 이사장은 안전보건관리 실적이 우수한 기관, 부서 또는 근로자에 대하여 포상을 실시할 수 있으며, 포상 대상자 선정 시 다음 각 호의 사항이 포함되도록 한다.1. 안전보건제안이 채택된 자2. 안전보건활동에 공적이 현저한 자",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0057"
+      },
+      {
+        "article_no": "제58조",
+        "article_title": "징계",
+        "chapter": "제9장 보칙",
+        "content": "제58조(징계) 안전보건전담부서장은 다음 각 호에 해당하는 근로자에 대하여 「인사규정」 에 따라 징계를 요구할 수 있다. <개정 2025. 11. 21.>1. 관계법령에서 정한 명령이나 이 규정에서 정한 사항을 정당한 사유 없이 위반한 근로자2. 정당한 사유 없이 안전보건관리상의 지시 및 명령을 위반하거나 응하지 아니한 근로자3. 각종 사고 및 재해의 은폐, 허위보고, 태만으로 안전사고 사후처리를 지연시킨 근로자4. 고의 또는 중대한 과실로 사고를 불러일으킨 근로자",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0058"
+      },
+      {
+        "article_no": "제59조",
+        "article_title": "전문관리분야 위임",
+        "chapter": "제9장 보칙",
+        "content": "제59조(전문관리분야 위임) 총괄 관리책임자는 관계법령에 따라 별도의 전문성을 필요로 하는 안전보건관리(방사선, 전기, 고압가스, 위험물, 건축물 등) 담당 업무부서에 제반 사항을 위임하여 관리할 수 있다. <개정 2025. 11. 21.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0059"
+      },
+      {
+        "article_no": "제60조",
+        "article_title": "건설안전",
+        "chapter": "제9장 보칙",
+        "content": "제60조(건설안전) 공단이 발주 및 직접 시행하는 건설공사 안전관리에 관한 사항은 이사장이 따로 정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0060"
+      },
+      {
+        "article_no": "제61조",
+        "article_title": "재난관리",
+        "chapter": "제9장 보칙",
+        "content": "제61조(재난관리) ① 이사장은 재난으로부터 근로자 및 국민의 생명과 재산을 보호하기 위하여 재난 예방, 대응, 복구(이하 \"재난관리\"라 한다) 체계를 마련하여야 한다.② 제1항에 따른 재난관리에 관하여 필요한 사항은 이사장이 따로 정한다.[제51조에서 이동 <2025. 11. 21.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제61조",
+            "source_clause": "제61조",
+            "link_text": "제51조",
+            "line_text": "제61조(재난관리) ① 이사장은 재난으로부터 근로자 및 국민의 생명과 재산을 보호하기 위하여 재난 예방, 대응, 복구(이하 \"재난관리\"라 한다) 체계를 마련하여야 한다.② 제1항에 따른 재난관리에 관하여 필요한 사항은 이사장이 따로 정한다.[제51조에서 이동 <2025. 11. 21.>]",
+            "target_law_name": "국민연금공단 안전보건관리규정",
+            "target_article_no": "제51조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/국민연금공단 안전보건관리규정/제51조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:국민연금공단안전보건관리규정#JO0061",
+            "reference_id": "pi:국민연금공단안전보건관리규정#JO0051"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:국민연금공단안전보건관리규정#JO0061"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20241220",
+      "promulgation_no": "615",
+      "content": "부칙 <제615호, 2024.12.20.>이 규정은 2024년 12월 20일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20251121",
+      "promulgation_no": "627",
+      "content": "부칙 <제627호, 2025.11.21.>이 규정은 2025년 11월 21일부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "안전보건관리 조직도",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000151539&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161248407",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161248407",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:국민연금공단안전보건관리규정#BYL0001",
+      "filename": "별표1_안전보건관리 조직도.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "안전경영책임보고서 포함내용",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000151539&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161248411",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161248411",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:국민연금공단안전보건관리규정#BYL0002",
+      "filename": "별표2_안전경영책임보고서 포함내용.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "조항별 안전보건경영시스템 규격서 및 관련문서 연계현황",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000151539&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161248415",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161248415",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:국민연금공단안전보건관리규정#BYL0003",
+      "filename": "별표3_조항별 안전보건경영시스템 규격서 및 관련문서 연계현황.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "삭제 <2025. 11. 21.>",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161248423",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161248423",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:국민연금공단안전보건관리규정#BJ0001",
+      "filename": "별지1_삭제 _2025. 11. 21._.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "삭제 <2025. 11. 21.>",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161248427",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161248427",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:국민연금공단안전보건관리규정#BJ0002",
+      "filename": "별지2_삭제 _2025. 11. 21._.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "삭제 <2025. 11. 21.>",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161248431",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161248431",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:국민연금공단안전보건관리규정#BJ0003",
+      "filename": "별지3_삭제 _2025. 11. 21._.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 38,
+    "by_category": {
+      "법령": 29,
+      "별표": 3,
+      "학칙공단": 4,
+      "행정규칙": 2
+    },
+    "by_relation_type": {
+      "citation": 31,
+      "appendix_ref": 3,
+      "internal_ref": 4
+    },
+    "articles_total": 62,
+    "articles_with_relations": 24,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 2,
+    "appendices_count": 6,
+    "attachments_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/학칙공단/국민연금공단 안전보건관리규정"
+  },
+  "provision_id": "pi:국민연금공단안전보건관리규정#DOC"
+}
