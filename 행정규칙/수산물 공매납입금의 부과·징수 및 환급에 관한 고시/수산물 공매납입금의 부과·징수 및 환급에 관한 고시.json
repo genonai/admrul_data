@@ -1,0 +1,783 @@
+{
+  "law_id": "2100000270040",
+  "mst": "2100000270040",
+  "law_name": "수산물 공매납입금의 부과·징수 및 환급에 관한 고시",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000270040",
+  "promulgation_no": "2025-210",
+  "promulgation_date": "20251218",
+  "enforcement_date": "20251218",
+  "revision_date": "20251218",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "해양수산부(통상무역협력과)",
+    "담당자명": "이지애",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "수산물 공매납입금의 부과·징수 및 환급에 관한 고시",
+    "발령일자": "20251218",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "해양수산부",
+    "전화번호": "051-773-5387",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1192000",
+    "생성일자": "20251219",
+    "행정규칙ID": "32954",
+    "시행일자": "20251218",
+    "담당부서기관코드": "1192570",
+    "발령번호": "2025-210",
+    "행정규칙일련번호": "2100000270040",
+    "상위부처명": "해양수산부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정이유\n수산물 TRQ 공매납입금 부과ㆍ징수 절차를 효율화하고 일부 미비점을 정비ㆍ보완하기 위함\n◇ 주요내용\n가. 위임 법률 개정에 따른 현행화(제1조)\n나. 공매납입금 부과 기준을 현행대로 수정(제4조)\n다. 공매납입금 징수 절차, 환급신청 절차 명확화 및 현행화(제5조 제4∼6항, 제6조)\n라. 공매납입금 고지ㆍ수납현황 보고기한 조정 및 통보 절차 명확화(제10조)\n마. 사업자등록번호 기재란 신설, 품명 삭제 등 서식 정비(별지 서식 제1호, 제3∼6호)",
+  "body": {
+    "format": "articles",
+    "article_count": 11,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 고시는 「자유무역협정 체결에 따른 농어업인 등의 지원에 관한 특별법」 제22조 및 제23조, 「수산업ㆍ어촌 발전 기본법」 제46조 및 제47조에 따른 수산물 공매납입금의 부과, 징수 및 환급에 관하여 필요한 구체적인 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「자유무역협정 체결에 따른 농어업인 등의 지원에 관한 특별법」",
+            "line_text": "",
+            "target_law_name": "자유무역협정 체결에 따른 농어업인 등의 지원에 관한 특별법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자유무역협정 체결에 따른 농어업인 등의 지원에 관한 특별법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0001",
+            "reference_id": "law:자유무역협정체결에따른농어업인등의지원에관한특별법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제22조 및 제23조",
+            "line_text": "",
+            "target_law_name": "자유무역협정 체결에 따른 농어업인 등의 지원에 관한 특별법",
+            "target_article_no": "제22조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자유무역협정 체결에 따른 농어업인 등의 지원에 관한 특별법/제22조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0001",
+            "reference_id": "law:자유무역협정체결에따른농어업인등의지원에관한특별법#JO0022"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제22조 및 제23조",
+            "line_text": "",
+            "target_law_name": "자유무역협정 체결에 따른 농어업인 등의 지원에 관한 특별법",
+            "target_article_no": "제23조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자유무역협정 체결에 따른 농어업인 등의 지원에 관한 특별법/제23조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0001",
+            "reference_id": "law:자유무역협정체결에따른농어업인등의지원에관한특별법#JO0023"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「수산업ㆍ어촌 발전 기본법」",
+            "line_text": "",
+            "target_law_name": "수산업ㆍ어촌 발전 기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수산업ㆍ어촌 발전 기본법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0001",
+            "reference_id": "law:수산업어촌발전기본법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제46조 및 제47조",
+            "line_text": "",
+            "target_law_name": "수산업ㆍ어촌 발전 기본법",
+            "target_article_no": "제46조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수산업ㆍ어촌 발전 기본법/제46조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0001",
+            "reference_id": "law:수산업어촌발전기본법#JO0046"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제46조 및 제47조",
+            "line_text": "",
+            "target_law_name": "수산업ㆍ어촌 발전 기본법",
+            "target_article_no": "제47조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수산업ㆍ어촌 발전 기본법/제47조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0001",
+            "reference_id": "law:수산업어촌발전기본법#JO0047"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적용범위",
+        "chapter": "",
+        "content": "제2조(적용범위) 수산물 공매납입금 부과, 징수 및 환급에 관하여는 다른 법령에 특별한 규정이 있는 경우를 제외하고는 이 고시를 적용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "징수대상자",
+        "chapter": "",
+        "content": "제3조(징수대상자) 공매납입금의 징수대상자는 수산물 관세율할당 적용물량의 낙찰자로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "부과기준",
+        "chapter": "",
+        "content": "제4조(부과기준) ① 관세율할당 적용물량의 낙찰자(이하\"낙찰자\"라 한다)가 수입권 공매시 납입의 의사로 표시한 금액을 공매납입금으로 한다.② 공매납입금은 톤당 낙찰단가와 낙찰수량을 곱하여 정한 금액으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "징수절차",
+        "chapter": "",
+        "content": "제5조(징수절차) ① 공매납입금을 납부하려는 낙찰자는 품명별로 별지 제1호서식에 따른 수입통관계획서를 한국수산무역협회장(이하\"협회장\"이라 한다)에게 제출해야 한다.② 협회장은 수산발전기금수입담당이사(이하\"수입징수관\"이라 한다)에게 별지 제2호서식에 따른 수산물 공매납입금 납입고지서 발행을 요청하고, 수입징수관은 낙찰자에게 수산물 공매납입금 납입고지서를 발행하여 송부한다.③ 제2항에 따라 납입고지서를 송부할 때에는 「국고금 관리법 시행령」제13조제1항에 따라 고지한 날로부터 15일 이내로 납부기한을 정하여 고지해야 한다.④ 협회장은 공매납입금을 납부하려는 낙찰자가 납부기한 내에 납부기한 연장을 요청하면 납부기한을 연장할 것을 수입징수관에게 요청하고, 수입징수관은 납부기한을 연장한다. 단, 연장된 납부기한은 수입이행기간을 도과할 수 없다.⑤ 낙찰자가 공매납입금을 납부기한내에 납부하지 않는 경우 해당 공매납입금 납입고지서는 폐기된다.⑥ 공매납입금 납부자는 「자유무역협정의 이행을 위한 관세법의 특례에 관한 법률 시행령」 제4조제1항에 따라 협정관세 적용을 받기 위한 협정관세적용 추천신청 전에 공매납입금을 납부해야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "수산물 공매납입금의 부과·징수 및 환급에 관한 고시",
+            "target_article_no": "별지1",
+            "target_article_title": "수입통관계획서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159366687",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0005",
+            "reference_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#BJ0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "수산물 공매납입금의 부과·징수 및 환급에 관한 고시",
+            "target_article_no": "별지2",
+            "target_article_title": "수산물 공매납입금 납입고지서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159366693",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0005",
+            "reference_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#BJ0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제3항",
+            "link_text": "「국고금 관리법 시행령」",
+            "line_text": "",
+            "target_law_name": "국고금 관리법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국고금 관리법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0005",
+            "reference_id": "law:국고금관리법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제3항",
+            "link_text": "제13조제1항",
+            "line_text": "",
+            "target_law_name": "국고금 관리법 시행령",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국고금 관리법 시행령/제13조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0005",
+            "reference_id": "law:국고금관리법시행령#JO0013"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제6항",
+            "link_text": "「자유무역협정의 이행을 위한 관세법의 특례에 관한 법률 시행령」",
+            "line_text": "",
+            "target_law_name": "자유무역협정의 이행을 위한 관세법의 특례에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자유무역협정의 이행을 위한 관세법의 특례에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0005",
+            "reference_id": "law:자유무역협정의이행을위한관세법의특례에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제6항",
+            "link_text": "제4조제1항",
+            "line_text": "",
+            "target_law_name": "자유무역협정의 이행을 위한 관세법의 특례에 관한 법률 시행령",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자유무역협정의 이행을 위한 관세법의 특례에 관한 법률 시행령/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0005",
+            "reference_id": "law:자유무역협정의이행을위한관세법의특례에관한법률시행령#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "환급신청",
+        "chapter": "",
+        "content": "제6조(환급신청) 공매납입금을 납부한 낙찰자는 다음 각 호의 어느 하나에 해당되면 별지 제3호서식에 따른 수산물 공매납입금 환급신청서를 협회장을 거쳐 해양수산부장관(이하\"장관\"이라 한다)에게 제출하여 납부한 공매납입금을 환급신청 할 수 있다.1. 낙찰자가 수입이행기간내에 수입하지 못하는 경우2. 낙찰자가 공매납입금을 과오납(過誤納)한 경우",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "별지 제3호서식",
+            "line_text": "",
+            "target_law_name": "수산물 공매납입금의 부과·징수 및 환급에 관한 고시",
+            "target_article_no": "별지3",
+            "target_article_title": "수산물 공매납입금 환급신청서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159366699",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0006",
+            "reference_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#BJ0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "환급금 지급요청 및 환급금 결정",
+        "chapter": "",
+        "content": "제7조(환급금 지급요청 및 환급금 결정) ① 장관은 제6조의 환급 청구가 타당하다고 인정되는 경우 3근무일 이내에 별지 제4호서식에 따른 수산물 공매납입금 환급결정서를 협회장 및 환급 신청인에게 송부해야 한다.② 장관은 제1항에 따라 결정된 환급금에 대하여 별지 제5호서식에 따른 수산물 공매납입금 환급금 지급통보서를 수입징수관에게 송부해야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "수산물 공매납입금의 부과·징수 및 환급에 관한 고시",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수산물 공매납입금의 부과·징수 및 환급에 관한 고시/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0007",
+            "reference_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0006"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "별지 제4호서식",
+            "line_text": "",
+            "target_law_name": "수산물 공매납입금의 부과·징수 및 환급에 관한 고시",
+            "target_article_no": "별지4",
+            "target_article_title": "수산물 공매납입금 환급결정서",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159366705",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0007",
+            "reference_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#BJ0004"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "별지 제5호서식",
+            "line_text": "",
+            "target_law_name": "수산물 공매납입금의 부과·징수 및 환급에 관한 고시",
+            "target_article_no": "별지5",
+            "target_article_title": "수산물 공매납입금 환급금 지급통보서",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159366711",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0007",
+            "reference_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#BJ0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "환급금 지급",
+        "chapter": "",
+        "content": "제8조(환급금 지급) 수입징수관은 제7조제2항에 따른 환급금을 환급 신청인 계좌에 지급하고 별지 제6호서식에 따른 수산물 공매납입금 환급금 지급확인서를 장관 및 협회장에게 통보한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "제7조제2항",
+            "line_text": "",
+            "target_law_name": "수산물 공매납입금의 부과·징수 및 환급에 관한 고시",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수산물 공매납입금의 부과·징수 및 환급에 관한 고시/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0008",
+            "reference_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0007"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "별지 제6호서식",
+            "line_text": "",
+            "target_law_name": "수산물 공매납입금의 부과·징수 및 환급에 관한 고시",
+            "target_article_no": "별지6",
+            "target_article_title": "수산물 공매납입금 환급금 지급확인서",
+            "appendix_no": "6",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159366717",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0008",
+            "reference_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#BJ0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "과다환급금 징수",
+        "chapter": "",
+        "content": "제9조(과다환급금 징수) ① 장관은 환급해야 할 금액보다 과다환급된 사실이 있음을 알았을 경우에는 안 날로부터 15일 이내에 제5조제2항 및 제3항에 따라 과다환급 대상자에게 별지 제2호서식에 따른 수산물 공매납입금 납입고지서를 발송하여 과다 환급금을 부과하여 징수해야 한다.② 과다환급 대상자가 납부기일내에 과다환급액을 납부하지 않을 경우에는 납부기한 다음일부터 납부일 전일까지의 기간에 대하여 수협중앙회의 여신관계규정을 준용한 연체이자를 징수해야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제1항",
+            "link_text": "제5조제2항 및 제3항",
+            "line_text": "",
+            "target_law_name": "수산물 공매납입금의 부과·징수 및 환급에 관한 고시",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수산물 공매납입금의 부과·징수 및 환급에 관한 고시/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0009",
+            "reference_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0005"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제1항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "수산물 공매납입금의 부과·징수 및 환급에 관한 고시",
+            "target_article_no": "별지2",
+            "target_article_title": "수산물 공매납입금 납입고지서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159366693",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0009",
+            "reference_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "보고 및 통보",
+        "chapter": "",
+        "content": "제10조(보고 및 통보) ① 수입징수관은 매월 공매납입금 고지ㆍ수납 현황을 파악하여 다음 달 10일까지 장관에게 보고해야 한다.② 수입징수관은 낙찰자가 공매납입금을 수납한 경우 수납현황을 협회장에게 통보한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제11조(재검토기한) 장관은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2025년 7월 1일 기준으로 매3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 해야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0011",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#JO0011"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20080407",
+      "promulgation_no": "2008-6",
+      "content": "부칙 <제2008-6호,2008. 4. 7.>이 고시는 관보에 게재한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20090825",
+      "promulgation_no": "2009-115",
+      "content": "부칙 <제2009-115호,2009. 8. 25.>이 고시는 2009년 8월 25일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20120316",
+      "promulgation_no": "2012-35",
+      "content": "부칙 <제2012-35호,2012. 3. 16.>이 고시는 2012년 3월 19일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20130531",
+      "promulgation_no": "2013-138",
+      "content": "부칙 <제2013-138호,2013. 5. 31.>이 고시는 2013년 5월 31일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20150428",
+      "promulgation_no": "2015-50",
+      "content": "부칙 <제2015-50호,2015. 4. 28.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20181210",
+      "promulgation_no": "2018-150",
+      "content": "부칙 <제2018-150호,2018. 12. 10.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20251218",
+      "promulgation_no": "2025-210",
+      "content": "부칙 <제2025-210호, 2025. 12. 18.>이 고시는 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "수입통관계획서",
+      "enforcement_date": "",
+      "content": "수산물 공매납입금의 부과ㆍ징수 및 환급에 관한 고시 [별지 제1호서식]\n수입통관계획서\n1. 입찰번호 :\n2. 품명 및 물량\n┌─────┬────┬────────┬────────┬───────┬────┐\n│품     명 │HS 번호 │낙찰물량        │응찰단가        │수입물량      │수입예정│\n│          │        ├────┬───┼────┬───┼───┬───┤일자    │\n│          │        │최초입찰│재입찰│최초입찰│재입찰│금 회 │누 계 │        │\n├─────┼────┼────┼───┼────┼───┼───┼───┼────┤\n│계        │        │톤      │톤    │  원/톤 │원/톤 │톤    │톤    │ 월 일  │\n├─────┼────┼────┼───┼────┼───┼───┼───┼────┤\n│          │        │        │      │        │      │      │      │        │\n├─────┼────┼────┼───┼────┼───┼───┼───┼────┤\n│          │        │        │      │        │      │      │      │        │\n├─────┼────┼────┼───┼────┼───┼───┼───┼────┤\n│          │        │        │      │        │      │      │      │        │\n├─────┼────┼────┼───┼────┼───┼───┼───┼────┤\n│          │        │        │      │        │      │      │      │        │\n├─────┼────┼────┼───┼────┼───┼───┼───┼────┤\n│          │        │        │      │        │      │      │      │        │\n└─────┴────┴────┴───┴────┴───┴───┴───┴────┘\n3. 공매납입금액 : 일금               원정(￦               )\n4. 기타 사항\n년     월     일\n상호(또는 명칭) :\n사업자등록번호 :\n주         소  :\n대 표 자 성 명  :              (인)\n한국수산무역협회장 귀하",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159366687",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159366683",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159366687",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#BJ0001",
+      "filename": "별지1_수입통관계획서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "수산물 공매납입금 납입고지서",
+      "enforcement_date": "",
+      "content": "수산물 공매납입금의 부과ㆍ징수 및 환급에 관한 고시 [별지 제2호서식]\n수산물 공매납입금 납입고지서\n┌────┐\n│부과내역│   ● 납입고지서 및 영수증(납부자용)\n├────┤          ┌──────────────────────────────────────────────┐\n│        │  납부번호│                                                                                            │\n│        │          └──────────────────────────────────────────────┘\n│        │\n│        │┌───┬────────┬────┬─────────────────────────────────┐\n│        ││납부자│                │실명번호│                                                                  │\n│        │├───┼────────┴────┴─────────────────────────────────┤\n│        ││주  소│                                                                                              │\n│        │└───┴───────────────────────────────────────────────┘\n│        │5\n│        │┌────────────┬───────────────────────┬──────────────┐\n│        ││세   목                 │납 기 내                                      │납 기 후                    │\n│        ││                        ├───────────────────────┼──────────────┤\n│        ││                        │    년   월   일                              │                            │\n│        │├────────────┼───────────────────────┼──────────────┤\n│        ││법정부담금              │원                                            │                            │\n│        │├────────────┼───────────────────────┼──────────────┤\n│        ││법                      │                                              │                            │\n│        │├────────────┼───────────────────────┼──────────────┤\n└────┤│                        │                                              │                            │\n││                        │                                              │                            │\n┌────┤│                        │                                              │                            │\n│산출근거│├────────────┼───────────────────────┼──────────────┤\n│        ││                        │                                              │                            │\n│        │├────────────┼───────────────────────┼──────────────┤\n├────┤│                        │원                                            │                            │\n│        │└────────────┴───────────────────────┴──────────────┘\n│        │   위 금액을 한국은행 국고(수납) 대리점인 은행 또는 우체국, 신용협동조합,   위 금액을 정히 영수합니다.\n│        │   새마을금고, 상호저축은행에 납부하시기 바랍니다.                           ★납기후 수납불가\n│        │\n│        │\n│        │\n│        │   담당자 :\n│        │\n│        │        년      월      일   해양수산부  (인)                                    년   월   일    수납인\n│        │\n└────┘\n------------------------------------------------------------------------\n┌─────────────────┐\n│안내말씀                          │  ● 납입고지서 및 영수증(수납기관용)\n├─────────────────┤          ┌────────────────────┬─┬──┐\n│                                  │          │                                        │  │    │\n│◆ 은행이나 우체국, 신용협동조합, │          ├──────────────────┬┬┴─┴─┬┤\n│새마을금고, 상호저축은행을        │  납부번호│                                    ││        ││\n│    방문하거나 인터넷 뱅킹의      │          ├──────────────────┴┴┬─┬─┴┤\n│    방법으로 납부하실수 있습니다. │          │                                        │  │    │\n│                                  │          └────────────────────┴─┴──┘\n│                                  │\n│◆ 인터넷 납부는 은행             │\n│   인터넷뱅킹 및 금융결제원       │   회계연도 :          회계 :   수산발전기금      소관 : 해양수산부\n│   (www.giro.or.kr)에서 납부      │\n│   할 수 있습니다.                │   납부자 :                                                    설명번호 :\n│                                  │\n│                                  │5\n│                                  │┌──┬───────────┬───┬─────────┬───────────┐\n│                                  ││금융│징수관계좌            │세목  │납기내            │납기후                │\n│                                  ││기관│                      │(   ) ├─────────┼───────────┤\n│                                  ││    │                      │      │    년   월   일  │                      │\n│                                  │├──┼───────────┼───┼─────────┼───────────┤\n│                                  ││    │                      │      │원                │                      │\n│                                  │├──┼───────────┼───┼─────────┼───────────┤\n│                                  ││    │                      │      │                  │                      │\n│                                  │├──┼───────────┼───┼─────────┼───────────┤\n│                                  ││    │                      │      │                  │                      │\n│                                  │├──┼───────────┼───┼─────────┼───────────┤\n│                                  ││    │                      │      │                  │                      │\n│                                  │├──┴───────────┴───┼─────────┼───────────┤\n│                                  ││                                    │원                │                      │\n│                                  │└──────────────────┴─────────┴───────────┘\n│                                  │   위금액을 수납하여 주시기 바랍니다.                     .\n│                                  │                                                            ★납기후 수납불가\n│                                  │\n│                                  │\n│                                  │\n│                                  │   담당자 :\n│                                  │\n│                                  │           년      월      일          해양수산부  (인)                    수납인\n│                                  │\n└─────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159366693",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159366689",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159366693",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#BJ0002",
+      "filename": "별지2_수산물 공매납입금 납입고지서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "수산물 공매납입금 환급신청서",
+      "enforcement_date": "",
+      "content": "수산물 공매납입금의 부과ㆍ징수 및 환급에 관한 고시 [별지 제3호서식]\n┌───────────────────────────────────────────┐\n│                                                                                      │\n│수산물 공매납입금 환급신청서                                                          │\n│                                                                                      │\n│  1. 입찰번호 :                                                                       │\n│                                                                                      │\n│  2. 예금계좌 :          은행            지점                                         │\n│                                                                                      │\n│  3. 예금주명 :                                                                       │\n│                                                                                      │\n│  4. 예금주 주민등록번호(사업자등록번호) :                                            │\n│                                                                                      │\n│  5. 계좌번호 :                                                                       │\n│                                                                                      │\n│  6. 환급 신청액 : 일금              원정 (￦                )                        │\n│                                                                                      │\n│  7. 신청사유 :                                                                       │\n│                                                                                      │\n│  8. 본인(당사)은 기 납부한 공매납입금 중 상기 금액을 환급신청하오니 지급하여 주시기  │\n│바랍니다.                                                                             │\n│                                                                                      │\n│                                                                                      │\n│.                                                                                     │\n│                                                                                      │\n│                상호(또는 명칭) :                                                     │\n│                주          소 :                                                      │\n│                대표자성명:                                                           │\n│                연  락  처:                                                           │\n│                                                                                      │\n│                                      년     월     일                                │\n│                                                                                      │\n│ 해양수산부장관 귀하                                                                  │\n└───────────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159366699",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159366695",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159366699",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#BJ0003",
+      "filename": "별지3_수산물 공매납입금 환급신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "수산물 공매납입금 환급결정서",
+      "enforcement_date": "",
+      "content": "수산물 공매납입금의 부과ㆍ징수 및 환급에 관한 고시 [별지 제4호서식]\n┌────────────────────────────────────────────┐\n│                                                                                        │\n│                                                                                        │\n│수산물 공매납입금 환급결정서                                                            │\n│                                                                                        │\n│                                                          수신 :                    귀하│\n│ (단위 : 원)                                                                            │\n├─────────┬──────────────────────────────────┤\n│ ①입 찰 번 호    │                                                                    │\n├─────────┼──────────────────────────────────┤\n│ ②상  호   및    │                                                                    │\n│   대표자 성명    │                                                                    │\n├─────────┼──────────────────────────────────┤\n│ ③사업자등록번호 │                                                                    │\n├─────────┼┬──────┬──────────────────────────┤\n│ ④주       소    ││ ⑨신청금액 │                                                    │\n├─────────┼┼──────┼──────────────────────────┤\n│ ⑤신 청 일 자    ││ ⑩차 감 액 │                                                    │\n├─────────┼┼──────┼──────────────────────────┤\n│ ⑥신 청 번 호    ││ ⑪차감사유 │                                                    │\n├─────────┼┤            │                                                    │\n│ ⑦지 급 은 행    ││            │                                                    │\n├─────────┼┴──────┴──────────────────────────┤\n│ ⑧계 좌 번 호    │                                                                    │\n├─────────┴──────────────────────────────────┤\n│                                                                                        │\n│                                                                                        │\n│                                                                                        │\n│  ㅇ 환급금 결정액 : 일금                 원정( ￦                    )                 │\n│                                                                                        │\n│                                                                                        │\n│        위와 같이 공매납입금 환급금을 결정하였음을 통지합니다.                          │\n│                                                                                        │\n│                                           년     월     일                             │\n│                                                                                        │\n│                                                                                        │\n│                             해양수산부장관   (인)                                      │\n└────────────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159366705",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159366701",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159366705",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#BJ0004",
+      "filename": "별지4_수산물 공매납입금 환급결정서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별지",
+      "title": "수산물 공매납입금 환급금 지급통보서",
+      "enforcement_date": "",
+      "content": "수산물 공매납입금의 부과ㆍ징수 및 환급에 관한 고시 [별지 제5호서식]\n┌────────────────────────────────────────┐\n│                                                                                │\n│                                                                                │\n│수산물 공매납입금 환급금 지급통보서                                             │\n│                                                                                │\n│(단위 : 원)                                                                     │\n├───────────┬────────────────────────────┤\n│ ①입 찰 번 호        │                                                        │\n├───────────┼────────────────────────────┤\n│ ②상  호   및        │                                                        │\n│  대표자 성명         │                                                        │\n├───────────┼────────────────────────────┤\n│ ③사업자등록번호 및  │                                                        │\n│주민등록번호          │                                                        │\n├───────────┼┬──────┬────────────────────┤\n│ ④주       소        ││ ⑨신청금액 │                                        │\n├───────────┼┼──────┼────────────────────┤\n│ ⑤신 청 일 자        ││ ⑩차 감 액 │                                        │\n├───────────┼┼──────┼────────────────────┤\n│ ⑥신 청 번 호        ││ ⑪차감사유 │                                        │\n├───────────┼┤            │                                        │\n│ ⑦지 급 은 행        ││            │                                        │\n├───────────┼┴──────┴────────────────────┤\n│ ⑧계 좌 번 호        │                                                        │\n├───────────┴────────────────────────────┤\n│                                                                                │\n│  관세율할당물량 협정관세적용 수입권공매를 통하여 배정받은 물량의 공매납입금    │\n│환급금 지급을 요청하오니 지급하여 주시기 바랍니다.                              │\n│                                                                                │\n│년     월    일                                                                 │\n│                                                                                │\n│해양수산부장관                                                                  │\n│                                                                                │\n│                                                                                │\n│ 수산발전기금수입담당이사 귀하                                                  │\n│                                                                                │\n│                                                                                │\n└────────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159366711",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159366707",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159366711",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#BJ0005",
+      "filename": "별지5_수산물 공매납입금 환급금 지급통보서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별지",
+      "title": "수산물 공매납입금 환급금 지급확인서",
+      "enforcement_date": "",
+      "content": "수산물 공매납입금의 부과ㆍ징수 및 환급에 관한 고시 [별지 제6호서식]\n┌─────────────────────────────────┐\n│                                                                  │\n│                                                                  │\n│수산물 공매납입금 환급금 지급확인서                               │\n│                                                                  │\n│(단위 : 원)                                                       │\n├─────────┬───────────────────────┤\n│ ①입 찰 번 호    │                                              │\n├─────────┼───────────────────────┤\n│ ②상  호   및    │                                              │\n│   대표자 성명    │                                              │\n├─────────┼───────────────────────┤\n│ ③사업자등록번호 │                                              │\n├─────────┼┬──────┬───────────────┤\n│ ④주       소    ││ ⑨신청금액 │                              │\n├─────────┼┼──────┼───────────────┤\n│ ⑤신 청 일 자    ││ ⑩차 감 액 │                              │\n├─────────┼┼──────┼───────────────┤\n│ ⑥신 청 번 호    ││ ⑪차감사유 │                              │\n├─────────┼┤            │                              │\n│ ⑦지 급 은 행    ││            │                              │\n├─────────┤│            │                              │\n│ ⑧계 좌 번 호    ├┴──────┴───────────────┤\n│                  │                                              │\n├─────────┴───────────────────────┤\n│                                                                  │\n│                                                                  │\n│  ㅇ 환급금 지급일자 :         년      월     일                  │\n│                                                                  │\n│  ㅇ 환급금액 : 일금                원정( ￦                    ) │\n│                                                                  │\n│                                                                  │\n│위와 같이 공매납입금 환급금을 지급하였음을 확인합니다.            │\n│                                                                  │\n│년     월     일                                                  │\n│                                                                  │\n│                                                                  │\n│ 수산발전기금수입담당이사  (인)                                   │\n│                                                                  │\n│                                                                  │\n└─────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159366717",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159366713",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159366717",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#BJ0006",
+      "filename": "별지6_수산물 공매납입금 환급금 지급확인서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "수산물 공매납입금의 부과·징수 및 환급에 관한 고시 개정전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=159345423",
+      "file_store_url": "",
+      "filename": "수산물 공매납입금의 부과·징수 및 환급에 관한 고시 개정전문.hwpx"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 21,
+    "by_category": {
+      "법령": 10,
+      "별지": 7,
+      "행정규칙": 4
+    },
+    "by_relation_type": {
+      "citation": 11,
+      "appendix_ref": 7,
+      "internal_ref": 3
+    },
+    "articles_total": 11,
+    "articles_with_relations": 7,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 7,
+    "appendices_count": 6,
+    "attachments_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/수산물 공매납입금의 부과·징수 및 환급에 관한 고시"
+  },
+  "provision_id": "admrul:수산물공매납입금의부과징수및환급에관한고시#DOC"
+}
