@@ -1,0 +1,636 @@
+{
+  "law_id": "2100000269978",
+  "mst": "2100000269978",
+  "law_name": "독립유공자 포상 공적심사위원회 운영규정",
+  "law_abbr": "",
+  "law_type": "훈령",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000269978",
+  "promulgation_no": "128",
+  "promulgation_date": "20251219",
+  "enforcement_date": "20251219",
+  "revision_date": "20251219",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국가보훈부(공훈심사과)",
+    "담당자명": "변은숙",
+    "행정규칙종류코드": "B0001",
+    "행정규칙명": "독립유공자 포상 공적심사위원회 운영규정",
+    "발령일자": "20251219",
+    "행정규칙종류": "훈령",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국가보훈부",
+    "전화번호": "044-202-5456",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1830000",
+    "생성일자": "20251219",
+    "행정규칙ID": "20781",
+    "시행일자": "20251219",
+    "담당부서기관코드": "1830209",
+    "발령번호": "128",
+    "행정규칙일련번호": "2100000269978",
+    "상위부처명": "국가보훈부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n독립유공자 포상 공적심사위원회의 효율적인 운영을 위해 현행 제도의 일부 미비점을 보완하고자 함\n◇ 주요내용\n가. 당연직 위원의 공적심사위원회 참석이 어려운 경우 대리인을 지정하여  심사에 참여할 수 있도록 하여 심사의 운영 공백을 최소화 하고자 함(안 제3조 4항)\n나. 별지 제3호 서식 신설\n- 위임장",
+  "body": {
+    "format": "articles",
+    "article_count": 15,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규정은 「상훈법」 제5조, 동법 시행령 제2조 및 「정부 표창 규정」 제8조의 규정에 의하여 독립운동의 공로가 있는 자를 건국훈장ㆍ건국포장 또는 대통령표창의 수여대상자로 추천하기 위하여 설치하는 독립유공자 포상 공적심사위원회의 운영에 관한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제5조",
+            "line_text": "",
+            "target_law_name": "상훈법",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/상훈법/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:독립유공자포상공적심사위원회운영규정#JO0001",
+            "reference_id": "law:상훈법#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "동법 시행령",
+            "line_text": "",
+            "target_law_name": "상훈법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/상훈법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:독립유공자포상공적심사위원회운영규정#JO0001",
+            "reference_id": "law:상훈법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "상훈법 시행령",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/상훈법 시행령/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:독립유공자포상공적심사위원회운영규정#JO0001",
+            "reference_id": "law:상훈법시행령#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「정부 표창 규정」",
+            "line_text": "",
+            "target_law_name": "정부 표창 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/정부 표창 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:독립유공자포상공적심사위원회운영규정#JO0001",
+            "reference_id": "law:정부표창규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제8조",
+            "line_text": "",
+            "target_law_name": "정부 표창 규정",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/정부 표창 규정/제8조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:독립유공자포상공적심사위원회운영규정#JO0001",
+            "reference_id": "law:정부표창규정#JO0008"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:독립유공자포상공적심사위원회운영규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "설치",
+        "chapter": "",
+        "content": "제2조(설치) ① 국가보훈부장관(이하 \"장관\"이라 한다)은 다음 각 호의 사항을 공정하게 심사하기 위하여 독립유공자 포상 공적심사위원회(이하 \"공적심사위원회\"라 한다)를 둔다.1. 독립운동의 공로가 있는 자를 건국훈장ㆍ건국포장 또는 대통령표창의 수여대상자로 추천하기 위한 추천 대상자의 공적 및 포상 추천의 적정성 여부2. 독립운동의 공로로 포상을 받은 자의 포상 취소 사유 해당 여부② 공적심사위원회에는 예비심사위원회를 두되, 예비심사위원회는 전문적이고 심층적인 공적심사를 위하여 독립운동분야와 계열 등을 감안하여 2개 이상의 분과위원회로 운영한다.③ 삭제",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:독립유공자포상공적심사위원회운영규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "구성",
+        "chapter": "",
+        "content": "제3조(구성) ① 예비심사위원회의 각 분과위원회(이하 \"각 분과위원회\"라 한다) 및 공적심사위원회는 위원장 1인을 포함하여 11인 이내의 위원으로 구성한다.② 각 분과위원회와 공적심사위원회(이하 \"각 위원회\"라 한다) 위원장은 민간위원 중에서 호선한다.③ 각 위원회의 민간위원은 「상훈법 시행령」 제2조 제2항 각 호의 요건에 해당하는 사람으로서 독립운동 관련 분야를 다년간 연구했거나 대학과 연구기관 등에서 한국 근ㆍ현대사를 연구한 사람과 정치ㆍ사회ㆍ법률분야 등에서 학식과 경험이 풍부한 사람으로 장관이 위촉한다.④ 공훈심사과장은 각 분과위원회의 위원이 되며, 보훈예우정책관ㆍ광복회장ㆍ각 분과위원회의 위원장은 공적심사위원회의 위원이 된다. 다만, 위의 공적심사위원이 부득이한 사유로 인해 위원회 참석이 어려운 경우 대리인 1인을 지정하여 대리참석할 수 있도록 한다. 이 경우 별지 제3호 서식의 위임장을 제출하여야 한다.⑤ 제3항에 따라 위촉된 민간위원의 임기는 2년으로 하되 두 차례에 한하여 연임할 수 있다. 다만, 공적심사위원회의 위원은 연임횟수에 제한 없이 2년 단위로 연임할 수 있다.⑥ 위원회의 공정한 운영 및 이해충돌 방지를 위하여 위원 위촉 후보자는 별지 제1호서식의 직무윤리 서약서 및 별지 제2호서식의 직무윤리 사전진단서를 제출한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제3항",
+            "link_text": "「상훈법 시행령」",
+            "line_text": "",
+            "target_law_name": "상훈법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/상훈법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:독립유공자포상공적심사위원회운영규정#JO0003",
+            "reference_id": "law:상훈법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제3항",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "상훈법 시행령",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/상훈법 시행령/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:독립유공자포상공적심사위원회운영규정#JO0003",
+            "reference_id": "law:상훈법시행령#JO0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제4항",
+            "link_text": "별지 제3호 서식",
+            "line_text": "",
+            "target_law_name": "독립유공자 포상 공적심사위원회 운영규정",
+            "target_article_no": "별지3",
+            "target_article_title": "위임장",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159357539",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:독립유공자포상공적심사위원회운영규정#JO0003",
+            "reference_id": "admrul:독립유공자포상공적심사위원회운영규정#BJ0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제6항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "독립유공자 포상 공적심사위원회 운영규정",
+            "target_article_no": "별지1",
+            "target_article_title": "서약서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159357527",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:독립유공자포상공적심사위원회운영규정#JO0003",
+            "reference_id": "admrul:독립유공자포상공적심사위원회운영규정#BJ0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제6항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "독립유공자 포상 공적심사위원회 운영규정",
+            "target_article_no": "별지2",
+            "target_article_title": "직무윤리 사전진단서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159357533",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:독립유공자포상공적심사위원회운영규정#JO0003",
+            "reference_id": "admrul:독립유공자포상공적심사위원회운영규정#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:독립유공자포상공적심사위원회운영규정#JO0003"
+      },
+      {
+        "article_no": "제3조의2",
+        "article_title": "위원회 위원의 해임 및 해촉",
+        "chapter": "",
+        "content": "제3조의2(위원회 위원의 해임 및 해촉) 장관은 위원이 다음 각 호의 어느 하나에 해당하는 경우에는 해당 위원을 해임하거나 해촉(解囑)할 수 있다.1. 심신 장애로 인하여 직무를 수행할 수 없게 된 경우2. 직무와 관련된 비위사실이 있는 경우3. 직무태만, 품위손상이나 그 밖의 사유로 인하여 위원으로 적합하지 아니하다고 인정되는 경우4. 위원 스스로 직무를 수행하는 것이 곤란하다고 의사를 밝히는 경우",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:독립유공자포상공적심사위원회운영규정#JO0003_02"
+      },
+      {
+        "article_no": "제3조의3",
+        "article_title": "제척 및 회피",
+        "chapter": "",
+        "content": "제3조의3(제척 및 회피) ① 각 위원회의 위원은 다음 각 호의 어느 하나에 해당하는 경우에는 각 위원회의 심사에서 제척된다.1. 위원이 해당 안건의 심사 대상자인 경우2. 위원이 해당 안건의 심사 대상자와 친족(「민법」 제777조에 따른 친족을 말한다) 관계에 있거나 있었던 경우3. 위원이 해당 안건의 심사 대상자와 관련하여 최근 3년 이내에 연구, 용역, 자문 등을 수행하였거나 향후 수행할 것으로 확정된 경우4. 위원이 해당 안건의 심사 대상자와 관련한 단체에 재직중이거나 재직하였던 경우② 위원은 제1항 각 호에 따른 제척 사유에 해당하거나 본인에게 심사의 공정성을 기대하기 어려운 사정이 있다고 판단되는 경우에는 위원회에 그 사실을 알리고  해당 안건의 심사를 회피하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조의3",
+            "source_clause": "제3조의3제1항",
+            "link_text": "「민법」",
+            "line_text": "",
+            "target_law_name": "민법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/민법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:독립유공자포상공적심사위원회운영규정#JO0003_03",
+            "reference_id": "law:민법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조의3",
+            "source_clause": "제3조의3제1항",
+            "link_text": "제777조",
+            "line_text": "",
+            "target_law_name": "민법",
+            "target_article_no": "제777조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/민법/제777조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:독립유공자포상공적심사위원회운영규정#JO0003_03",
+            "reference_id": "law:민법#JO0777"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:독립유공자포상공적심사위원회운영규정#JO0003_03"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "위원장의 직무 등",
+        "chapter": "",
+        "content": "제4조(위원장의 직무 등) ① 각 위원회 위원장은 위원회를 대표하며, 회의업무를 총괄한다.② 각 위원장이 부득이한 사유로 그 직무를 수행할 수 없는 경우에는 민간위원 중 호선으로 선정된 위원이 그 직무를 대행한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:독립유공자포상공적심사위원회운영규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "심의 대상 및 방법",
+        "chapter": "",
+        "content": "제5조(심의 대상 및 방법) ① 각 위원회는 장관이 상정하는 다음 사항을 심의한다.1. 독립운동의 공로가 있는 사람에 대한 건국훈장ㆍ건국포장 또는 대통령표창 수여대상자 추천 여부와 추천 훈격에 관한 사항2. 독립운동의 공로로 포상을 받은 자의 포상 취소 사유 해당 여부에 관한 사항3. 공적심사와 관련한 주요정책의 결정을 위한 자문사항② 제1항제1호와 제2호에 관한 사항을 다음과 같이 심사한다.1. 각 분과위원회는 객관적 자료에 의거하여 전문적이고 심층적인 심사를 한다.2. 공적심사위원회는 각 분과위원회에서 포상 추천하기로 의결한 안건과 포상 추천 여부 결정이 어려운 사안 및 포상을 받은 자의 취소 사유 해당 여부를 심사한 안건에 대해 다양한 분야의 폭넓은 의견을 반영하여 심사하며, 공적심사위원회의 의결로 최종 결정한다.3. 삭제4. 삭제5. 각 위원회는 안건 심사에 필요한 경우 외부 전문가를 출석시켜 의견을 청취할 수 있다.6. 장관은 각 위원회의 심도 있는 심사를 위하여 회의 개최에 앞서 위원에게 해당 안건에 대한 의견을 서면으로 제출하도록 요청할 수 있다. 다만, 제출된 의견은 위원회에서 해당 위원의 의견을 기속하지 아니한다..",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:독립유공자포상공적심사위원회운영규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "회의",
+        "chapter": "",
+        "content": "제6조(회의) ① 각 위원장은 위원회의 회의를 소집하고, 그 의장이 된다.② 각 위원회는 재적위원 과반수의 출석으로 개의하고, 출석위원 2/3 이상의 찬성으로 의결한다. 다만, 제3조의3에 따라 제척 또는 회피된 위원은 해당 안건에 대한 심의ㆍ의결에 관여하지 못하며, 해당 안건 심의ㆍ의결 정족수 산정에서 제외한다.③ 각 위원회 회의에는 간사가 배석한다.④ 각 위원회의 회의는 비공개한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "제3조의3",
+            "line_text": "",
+            "target_law_name": "독립유공자 포상 공적심사위원회 운영규정",
+            "target_article_no": "제3조의3",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/독립유공자 포상 공적심사위원회 운영규정/제3조의3",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:독립유공자포상공적심사위원회운영규정#JO0006",
+            "reference_id": "admrul:독립유공자포상공적심사위원회운영규정#JO0003_03"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:독립유공자포상공적심사위원회운영규정#JO0006"
+      },
+      {
+        "article_no": "제6조의2",
+        "article_title": "공적심사 국민참여제도",
+        "chapter": "",
+        "content": "제6조의2(공적심사 국민참여제도) ① 각 위원회는 심의ㆍ의결의 공정성과 투명성을 높이기 위하여 제5조제1항 제1호의 사항에 관한 심의 과정에 국민을 참여시킬 수 있다.② 제1항에 따른 국민참여를 위하여 참여단을 구성하여 운영할 수 있으며, 참여단의 구성 및 운영 등에 필요한 사항은 별도 운영지침으로 정한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조의2",
+            "source_clause": "제6조의2제1항",
+            "link_text": "제5조제1항",
+            "line_text": "",
+            "target_law_name": "상훈법",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/상훈법/제5조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:독립유공자포상공적심사위원회운영규정#JO0006_02",
+            "reference_id": "law:상훈법#JO0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:독립유공자포상공적심사위원회운영규정#JO0006_02"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "자문ㆍ현지조사",
+        "chapter": "",
+        "content": "제7조(자문ㆍ현지조사) ① 각 위원회는 심의를 위해서 필요하다고 인정할 경우 관련분야 외부전문가의 자문을 구할 수 있다.② 각 위원회는 공적심사를 위해 현지조사가 필요하다고 인정할 경우 증언녹취, 현지확인 등의 조치를 취하고 조사결과를 심사에 반영할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:독립유공자포상공적심사위원회운영규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "수당 등",
+        "chapter": "",
+        "content": "제8조(수당 등) 각 위원회에 출석하는 위원과 자문을 한 전문가 등에 대하여는 예산의 범위 안에서 수당, 심사료, 활동비, 여비 등 기타 필요한 경비를 지급할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:독립유공자포상공적심사위원회운영규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "간사",
+        "chapter": "",
+        "content": "제9조(간사) 공적심사위원회 간사는 공훈심사과장이 되며, 각 분과위원회의 간사는 독립유공자 공적심사 경력이 있는 공훈심사과 직원으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:독립유공자포상공적심사위원회운영규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "회의록 작성",
+        "chapter": "",
+        "content": "제10조(회의록 작성) 각 위원회의 간사는 위원회의 회의에 관하여 다음 각 호의 사항을 기재한 회의록을 기록ㆍ정리하여야 한다.1. 회의개최ㆍ중지와 폐회의 일시2. 회의장소3. 출석인원ㆍ결석인원 및 참석자성명4. 회의내용5. 그 밖에 필요하다고 인정한 사항[전문개정]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:독립유공자포상공적심사위원회운영규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "비밀엄수",
+        "chapter": "",
+        "content": "제11조(비밀엄수) 각 위원회의 위원이나 위원이었던 사람과 간사는 심사과정에서 알게 된 내용을 누설하여서는 아니 된다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:독립유공자포상공적심사위원회운영규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "그밖의 사항",
+        "chapter": "",
+        "content": "제12조(그밖의 사항) 이 훈령에서 규정한 사항 외에 위원회의 운영에 필요한 사항은 위원회에서 정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:독립유공자포상공적심사위원회운영규정#JO0012"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20060131",
+      "promulgation_no": "786",
+      "content": "부칙 <제786호,2006. 1. 31.>이 규정은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20120208",
+      "promulgation_no": "975",
+      "content": "부칙 <제975호,2012. 2. 8.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20120501",
+      "promulgation_no": "979",
+      "content": "부칙 <제979호,2012. 5. 1.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20130522",
+      "promulgation_no": "1028",
+      "content": "부칙 <제1028호,2013. 5. 22.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20160321",
+      "promulgation_no": "1115",
+      "content": "부칙 <제1115호,2016. 3. 21.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20170807",
+      "promulgation_no": "1163",
+      "content": "부칙 <제1163호,2017. 8. 7.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20180222",
+      "promulgation_no": "1206",
+      "content": "부칙 <제1206호,2018. 2. 22.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20201103",
+      "promulgation_no": "1343",
+      "content": "부칙 <제1343호,2020. 11. 3.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20220317",
+      "promulgation_no": "1412",
+      "content": "부칙 <제1412호, 2022. 3. 17.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다.제2조(위원의 연임에 관한 경과조치) 이 훈령 시행 전에 위촉된 독립유공자서훈 공적심사위원회의 위원에 대하여 제3조제5항의 개정 규정을 적용하는 경우 이 훈령 시행 전에 한 차례 연임하여 임기 중에 있는 위원은 그 임기 만료 후 한 차례만 연임할 수 있고, 이 훈령 시행 전에 두 차례 이상 연임하여 임기 중에 있는 위원은 그 임기 만료 후에는 연임할 수 없다."
+    },
+    {
+      "promulgation_date": "20230605",
+      "promulgation_no": "2",
+      "content": "부칙(정부조직법 개정에 따른 4ㆍ19혁명유공자 서훈공적심사위원회 운영규정 등 78개 훈령의 정비에 관한 훈령) <제2호, 2023. 6. 5.>이 훈령은 2023년 6월 5일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20230703",
+      "promulgation_no": "17",
+      "content": "부칙 <제17호, 2023. 7. 3.>이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20250915",
+      "promulgation_no": "120",
+      "content": "부칙 <제120호, 2025. 9. 15.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다.제2조(공적심사 국민참여제도 적용례) 제6조의2의 개정 규정은 2026년 광복절 계기 독립유공자 포상 심사부터 적용한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "서약서",
+      "enforcement_date": "",
+      "content": "■ 독립유공자 서훈 공적심사위원회 운영규정 [별지 제1호서식]\n┌─────────────────────────────────────────┐\n│서     약     서                                                                  │\n│                                                                                  │\n│                                                                                  │\n│직위 : ○○○○위원회 위원(장)                                                    │\n│성명 : ○ ○ ○                                                                   │\n│  상기 본인은 ○○○위원회 위원(장)으로서 직무를 수행함에 있어 아래 사항          │\n│을 위반하지 않겠으며, 이를 위반할 경우 위원(장) 해촉 및 관련 법령에 따            │\n│른 책임을 질 것을 서약합니다.                                                     │\n│┌───────────────────────────────────────┐│\n││1. 위원회 직무 수행에서의 공정 및 중립 준수                                   ││\n││2. 위원회 직무 수행 과정에서 취득한 비밀 준수                                 ││\n││3. 위원회 직무와 직접 관련된 연구용역·공사·계약 등 이득을 취하는 행위 금지  ││\n││4. 위원회 직무와 관련하여 부동산·주식 등 재산상 이득을 취하는 행위 금지      ││\n││5. 위원회 직무수행 과정에서 취득한 정보를 허가되지 않은 방법으로 사적인       ││\n││연구 등에 활용하는 행위 금지                                                  ││\n││6. 위원회 직무수행 과정에서 본인 및 가족, 본인이 속한 단체 및 기관 등과       ││\n││밀접한 관계가 있는 심의가 발생할 경우 회피                                    ││\n││7. 위원회 직무와 관련된 사업체를 경영하거나 해당 사업체 취업행위 금지         ││\n││8. 위원회 업무와 관련 부당한 편의·향응·금품 등을 수수하거나 청탁·알선 행위 ││\n││금지                                                                          ││\n││9. 기타 위원회 직무와 관련하여 부당한 이득을 취하거나 공공이익에 반하는       ││\n││행위 금지                                                                     ││\n│└───────────────────────────────────────┘│\n│                                                                                  │\n│년        월        일                                                            │\n│                                                                                  │\n│                                                ○  ○  ○  (서명)                │\n└─────────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159357527",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159357523",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159357527",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:독립유공자포상공적심사위원회운영규정#BJ0001",
+      "filename": "별지1_서약서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "직무윤리 사전진단서",
+      "enforcement_date": "",
+      "content": "■ 독립유공자 서훈 공적심사위원회 운영규정 [별지 제2호서식]\n┌─────────────────────────────────────────────────┐\n│직무윤리 사전진단서                                                                               │\n├──┬─────────────────────────────────┬────────────┤\n│연번│진    단    내    용                                              │체크사항                │\n├──┼─────────────────────────────────┼───┬────────┤\n│1   │위원회의 기능과 직접 관련된 업체를 경영하거나 근무하고 있다.      │예    │아니오          │\n│    │                                                                  │(   ) │(   )           │\n├──┼─────────────────────────────────┼───┼────────┤\n│2   │위원회의 심의 · 의결 대상사업 관련지역에 부동산 또는 주식을      │예    │아니오          │\n│    │보유하고 있다.                                                    │(   ) │(   )           │\n├──┼─────────────────────────────────┼───┼────────┤\n│3   │위원회의 직접적인 심의 대상이 되는 인가 · 허가 · 면허 · 특허   │예    │아니오          │\n│    │등의 당사자이다.                                                  │(   ) │(   )           │\n├──┼─────────────────────────────────┼───┼────────┤\n│4   │위원회 기능과 직접 관련된 공사 · 용역 · 계약 또는 연구 · 논문  │예    │아니오          │\n│    │등을 진행 중 이거나 진행할 예정이다.                              │(   ) │(   )           │\n├──┼─────────────────────────────────┼───┼────────┤\n│5   │위원회 직무와 관련된 사안으로 수사를 받고 있거나 재판 · 소송     │예    │아니오          │\n│    │등을 진행 중이다.                                                 │(   ) │(   )           │\n├──┼─────────────────────────────────┼───┼────────┤\n│6   │위원회 직무의 공정한 수행에 지장을 줄 우려가 있는 기관, 단체,     │예    │아니오          │\n│    │타 위원회에서 현재 활동 중이다.                                   │(   ) │(   )           │\n├──┼─────────────────────────────────┼───┼────────┤\n│7   │위원회 기능 관련 정보나 심의 · 의결 결과가 본인의 권리 · 의무   │예    │아니오          │\n│    │관계 변동, 재산상의 이익 등을 발생시킬 가능성이 크다.             │(   ) │(   )           │\n├──┴─────────────────────────────────┴───┴────────┤\n│                                                                                                  │\n│ ※ ‘예’라고 답변 하였음에도 불구하고 위원회 직무를 공정하게 수행할 수 있는 타당한 사유가 있을  │\n│경우 기재하여 주시기 바랍니다.                                                                    │\n└─────────────────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159357533",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159357529",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159357533",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:독립유공자포상공적심사위원회운영규정#BJ0002",
+      "filename": "별지2_직무윤리 사전진단서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "위임장",
+      "enforcement_date": "",
+      "content": "■ 독립유공자 포상 공적심사위원회 운영규정 [별지 제3호서식]\n\n위  임  장\n─────────┬────┬────────────────────────────────\n위임받는 자     │성명    │소속/직위\n├────┼────────────────────────────────\n│생년월일│전화번호\n├────┴────────────────────────────────\n│주소\n─────────┼────┬────────────────────────────────\n위 임 자        │성명    │소속/직위\n├────┼────────────────────────────────\n│생년월일│전화번호\n├────┴────────────────────────────────\n│주소\n─────────┼─────────────────────────────────────\n위 임 내 용     │\n─────────┴─────────────────────────────────────\n「독립유공자 포상 공적심사위원회 운영규정」 제3조제4항 단서 조항에 따라 위와 같이 위임합\n니다.\n\n\n\n년    월    일\n\n\n\n위임자    (서명 또는 인)\n\n\n\n국가보훈부장관\n귀하\n\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159357539",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159357535",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159357539",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:독립유공자포상공적심사위원회운영규정#BJ0003",
+      "filename": "별지3_위임장.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "독립유공자 포상 공적심사위원회 운영규정(국가보훈부훈령)(제128호)(20251219).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=159355377",
+      "file_store_url": "",
+      "filename": "독립유공자 포상 공적심사위원회 운영규정(국가보훈부훈령)(제128호)(20251219).hwp"
+    },
+    {
+      "name": "독립유공자 포상 공적심사위원회 운영규정(국가보훈부훈령)(제128호)(20251219).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=159355381",
+      "file_store_url": "",
+      "filename": "독립유공자 포상 공적심사위원회 운영규정(국가보훈부훈령)(제128호)(20251219).pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 14,
+    "by_category": {
+      "법령": 10,
+      "별지": 3,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 10,
+      "appendix_ref": 3,
+      "internal_ref": 1
+    },
+    "articles_total": 15,
+    "articles_with_relations": 5,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 12,
+    "appendices_count": 3,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/독립유공자 포상 공적심사위원회 운영규정"
+  },
+  "provision_id": "admrul:독립유공자포상공적심사위원회운영규정#DOC"
+}
