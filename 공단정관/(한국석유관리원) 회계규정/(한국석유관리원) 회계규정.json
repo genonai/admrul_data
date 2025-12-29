@@ -1,0 +1,2943 @@
+{
+  "law_id": "2200000155805",
+  "mst": "2200000155805",
+  "law_name": "(한국석유관리원) 회계규정",
+  "law_abbr": "",
+  "law_type": "공단규정",
+  "doc_target": "pi",
+  "doc_kind": "공단정관",
+  "adm_uid": "pi:2200000155805",
+  "promulgation_no": "14",
+  "promulgation_date": "20251229",
+  "enforcement_date": "20251229",
+  "revision_date": "20251229",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "한국석유관리원",
+    "담당자명": "",
+    "행정규칙종류코드": "B0029",
+    "행정규칙명": "(한국석유관리원) 회계규정",
+    "발령일자": "20251229",
+    "행정규칙종류": "공단규정",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "한국석유관리원",
+    "전화번호": "031-789-0242",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "B552532",
+    "생성일자": "20260601",
+    "행정규칙ID": "2134347",
+    "담당부서기관코드": "B552532",
+    "발령번호": "14",
+    "행정규칙일련번호": "2200000155805"
+  },
+  "amendment_text": "",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 131,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조(목적) 이 규정은 한국석유관리원의 공정타당하고 일관성 있는 회계업무를 수행하기 위하여 이에 관한 주요기준과 절차를 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적용범위",
+        "chapter": "제1장 총칙",
+        "content": "제2조(적용범위) ① 한국석유관리원의 회계처리에 관하여 다른 법령에 특별한 규정이 있는 경우를 제외하고는 「공기업ㆍ준정부기관 회계사무규칙 및 기준」 에 따른다.② 1항에서 정하지 아니한 사항은 「주식회사의 외부감사에 관한 법률」 제13조제1항제1호의 회계처리기준을 따른다. <개정 2013. 10. 25.>③ 이사장은 회계처리원칙 등과 관련하여 업무의 특성 및 재무건전성 확보, 그 밖의 불가피한 사유가 있는 경우에는 주무기관의 장을 거쳐 기획재정부장관의 승인을 받아 1항에서 정하는 내용과 다른 내용의 회계처리원칙 등을 정할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "「주식회사의 외부감사에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "주식회사의 외부감사에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/주식회사의 외부감사에 관한 법률",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0002",
+            "reference_id": "law:주식회사의외부감사에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "제13조제1항제1호",
+            "line_text": "",
+            "target_law_name": "주식회사의 외부감사에 관한 법률",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/주식회사의 외부감사에 관한 법률/제13조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0002",
+            "reference_id": "law:주식회사의외부감사에관한법률#JO0013"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "회계연도",
+        "chapter": "제1장 총칙",
+        "content": "제3조(회계연도) 한국석유관리원의 회계연도는 매년 1월 1일부터 12월 31일까지 1년간으로 한다. <개정 2015. 09. 24.>[제목개정 2015. 09. 24]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "회계원칙",
+        "chapter": "제1장 총칙",
+        "content": "제4조(회계원칙) 한국석유관리원의 경영활동에서 발생하는 경제적 거래 등은 발생한 시점을 기준으로 복식부기 방식으로 회계처리 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "회계단위",
+        "chapter": "제1장 총칙",
+        "content": "제5조(회계단위) ① 한국석유관리원의 회계단위는 총계정원장의 설치부서로 한다.② 각 회계단위의 회계는 본사에 소속된 회계단위에서 총괄한다.③ 제1항에 규정한 회계단위 이외의 부속회계는 직제에 따라 소속된 회계단위에서 관장한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "회계관계업무의 위임",
+        "chapter": "제1장 총칙",
+        "content": "제6조(회계관계업무의 위임) ① 이사장은 회계업무를 수행하기 위하여 필요하다고 인정할 때에는 회계업무에 관한 사무를 위임할 수 있다.② 제1항의 규정에 의한 사무의 위임은 그 직을 지정함으로써 이에 갈음할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "회계담당",
+        "chapter": "제1장 총칙",
+        "content": "제7조(회계담당) ① 회계에 관한 독립의 업무를 담당하게 하기 위하여 회계단위별로 다음의 회계담당을 둘 수 있다.1. 수입에 관한 업무를 담당하는 수입담당2. 지출에 관한 업무를 담당하는 지출담당3. 계약 및 기타의 지출원인 행위를 담당하는 지출원인행위담당 또는 계약을 담당하는 계약담당4. 현금지급을 위한 전도금을 취급하는 전도금 취급담당5. 유가증권을 관리하는 유가증권관리담당6. 유형자산 및 물품 기타 자산을 관리하는 각 자산관리담당② 제1항의 규정에 의한 회계담당은 대리분임 또는 분임대리를 둘 수 있다.③ 제1항제1호와 제2호 및 제2호와 제3호의 회계담당은 겸직할 수 없다. 다만, 정원의 과소 등으로 겸직이 불가피할 경우에는 그러하지 아니할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "회계관계직의 임면통보",
+        "chapter": "제1장 총칙",
+        "content": "제8조(회계관계직의 임면통보) 회계관계직의 임면이 있는 때에는 필요한 거래점 등 관계기관에 그 사실을 즉시 통보하고 필요한 조치를 취하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "회계업무의 인계인수",
+        "chapter": "제1장 총칙",
+        "content": "제9조(회계업무의 인계인수) 회계업무의 인계인수를 함에 있어서는 인계자 또는 그 대리자가 작성한 문서의 내용을 입회자의 입회하에 확인한 후 인계자 인수자 및 입회자가 기명날인하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "회계관계 직원의 책임",
+        "chapter": "제1장 총칙",
+        "content": "제10조(회계관계 직원의 책임) ① 회계관계 직원은 법령기타 관계규정의 정하는 바에 따라 성실하게 그 직분에 따른 회계처리를 하여야 한다.② 회계관계 직원 등의 책임에 관하여는 회계관계직원 등의 책임에 관한 법률이 정하는 바에 의한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "회계관계직원의 재정보증",
+        "chapter": "제1장 총칙",
+        "content": "제11조(회계관계직원의 재정보증) ① 회계관계직원은 재정보증 없이는 그 직무를 담당하게 할 수 없다.② 제1항의 회계관계직원의 범위 및 기타 재정보증에 관한 사항은 이사장이 따로 정하되, 상임이사는 위임전결규정이 정하는 바에 따라 회계관계직원으로 본다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "회계관계직원의 직인사용 등",
+        "chapter": "제1장 총칙",
+        "content": "제12조(회계관계직원의 직인사용 등) ① 제7조의 규정에 의한 회계담당은 회계업무를 처리함에 있어 그 업무 또는 직무를 표시하는 인장을 사용할 수 있다.② 직인의 비치, 규격, 내용, 보관, 관리, 대장정리 기타 직인의 사용절차에 관한 사항은 사무관리규정을 준용한다. <개정 2013. 10. 25.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제7조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0012",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "채권의 대손처리",
+        "chapter": "제1장 총칙",
+        "content": "제13조(채권의 대손처리) ① 이사장은 다음 각 호의 어느 하나에 해당하는 경우에는 소멸시효가 완성되기 전이라도 해당 채권을 대손처리 하여야 한다.1. 채무자인 법인이 해산하거나 그 사업을 중지하여 재개(再開)의 가능성이 없다고 판단되는 경우에 강제집행에 드는 비용과 다른 우선변제채권의 합계액이 압류할 수 있는 재산의 가액을 초과하는 경우2. 채무자인 법인에 대하여 가지는 채권이 「채무자 회생 및 파산에 관한 법률」 에 따른 회생계획인가의 결정 또는 파산선고에 따라 회수불능으로 확정된 경우3. 채무자가 사망한 경우에 강제집행에 드는 비용과 다른 우선변제 채권의 합계액이 그 상속재산의 가액을 초과하는 경우4. 추심에 드는 비용이 채권액을 초과하는 경우② 연대채무자 또는 보증인 등 채무를 이행하여야 할 자가 따로 있는 경우에는 제1항제1호부터 제3호까지를 적용하지 아니한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제1항",
+            "link_text": "「채무자 회생 및 파산에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "채무자 회생 및 파산에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/채무자 회생 및 파산에 관한 법률",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0013",
+            "reference_id": "law:채무자회생및파산에관한법률#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "회계서류의 보관 등",
+        "chapter": "제1장 총칙",
+        "content": "제14조(회계서류의 보관 등) ① 회계서류의 보관ㆍ열람ㆍ보존ㆍ편철ㆍ대출 및 복사는 사무관리규정을 준용한다. <개정 2013. 10. 25.>② 제1항에 따른 회계서류의 보존기간은 「공공기관의 기록물 관리에 관한 법률 시행규칙」에 정한 바를 준용한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제2항",
+            "link_text": "「공공기관의 기록물 관리에 관한 법률 시행규칙」",
+            "line_text": "",
+            "target_law_name": "공공기관의 기록물 관리에 관한 법률 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 기록물 관리에 관한 법률 시행규칙",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0014",
+            "reference_id": "law:공공기관의기록물관리에관한법률시행규칙#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "내부통제",
+        "chapter": "제1장 총칙",
+        "content": "제15조(내부통제) ① 이사장은 회계처리의 적정 여부와 재무제표의 신뢰성을 평가하기 위하여 내부통제를 하여야 한다.② 이사장은 제1항에 따른 내부통제를 하기 위하여 내부통제책임자를 임명하여야 하며, 내부통제를 위하여 필요한 절차와 방법을 정하여야 한다.③ 이사장은 직원의 정원 또는 자산의 규모 등을 고려하여 불가피한 경우에는 내부통제책임자와 회계책임자를 겸직하게 할 수 있다.④ 이사장은 내부통제를 위하여 다음 각 호의 사항이 포함되도록 필요한 절차와 방법을 갖추어야 한다.1. 회계정보의 식별ㆍ측정ㆍ분류ㆍ기록 및 보고방법에 관한 사항2. 회계정보의 오류 통제 및 부정 방지 사항3. 회계정보의 주기적 점검 및 조정 등 내부검증에 관한 사항4. 회계장부(자기테이프ㆍ디스켓 그 밖의 정보보존장치를 포함한다)의 관리방법과 위조ㆍ변조ㆍ훼손 및 파기의 방지 방안5. 임ㆍ직원의 업무분장과 책임에 관한 사항6. 그 밖에 신뢰성 있는 회계정보의 작성 및 보고를 위하여 필요한 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "시행세칙",
+        "chapter": "제1장 총칙",
+        "content": "제16조(시행세칙) 이 규정의 시행에 필요한 사항은 이사장이 세칙으로 따로 정할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "거래의 처리",
+        "chapter": "제2장 회계처리와 회계장표",
+        "content": "제17조(거래의 처리) 모든 거래는 전표에 의하여 처리되어야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "전산화에 따른 회계장표의 생략",
+        "chapter": "제2장 회계처리와 회계장표",
+        "content": "제18조(전산화에 따른 회계장표의 생략) ① 회계업무의 전산화에 따라 이 규정에 의한 회계장표의 비치 등을 생략할 수 있다.② 제1항에 따라 회계장표의 비치를 생략한 경우에는 감독기관이나 이해관계자의 요구가 있으면 회계장표와 동일한 대용전표를 신속히 제공할 수 있는 필요한 조치를 취하여야 한다.③ 회계장표의 생략에 따른 전자기록의 보전은 「전자기록의보전방법등에관한고시」에 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제3항",
+            "link_text": "「전자기록의보전방법등에관한고시」",
+            "line_text": "",
+            "target_law_name": "전자기록의보전방법등에관한고시",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/전자기록의보전방법등에관한고시",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0018",
+            "reference_id": "admrul:전자기록의보전방법등에관한고시#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "회계장부의 종류",
+        "chapter": "제2장 회계처리와 회계장표",
+        "content": "제19조(회계장부의 종류) ① 회계장부는 주요부와 보조부로 구분한다.② 주요부는 분개장과 총계정원장으로 하고 보조부는 각 계정원장 및 명세장으로 한다. 다만, 전표 및 일계표를 일자순으로 철하여 분개장에 갈음할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "재무제표",
+        "chapter": "제2장 회계처리와 회계장표",
+        "content": "제20조(재무제표) 재무제표는 재무상태표, 손익계산서 또는 포괄손익계산서, 현금흐름표, 자본변동표 및 주석(이익잉여금처분계산서 또는 결손금처리계산서를 포함한다)으로 한다. <개정 2013. 10. 25.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "본사 및 본부",
+        "chapter": "제2장 회계처리와 회계장표",
+        "content": "제21조(본사 및 본부) 본사와 본부 및 연구소간의 거래는 본지점 또는 전도금 계정으로 정리한다. <개정 2013. 10. 25., 2015. 09. 24.>[제목개정 2013. 10. 25.]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "계약보증금 등",
+        "chapter": "제2장 회계처리와 회계장표",
+        "content": "제22조(계약보증금 등) ① 계약에 따른 보증금은 자산 및 부채계정에 계상한다. 다만, 이행보증보험증권 및 지급보증서는 그 귀속사유가 발생하지 아니하는 경우에는 그러하지 아니한다.② 귀속된 보증금 및 지체상금은 사업외수익으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "정부보조금 등의 처리",
+        "chapter": "제2장 회계처리와 회계장표",
+        "content": "제23조(정부보조금 등의 처리) 정부 또는 지방자치단체로부터 수령하는 국고보조금ㆍ공사부담금 및 출연금 등(이하 \"정부보조금 등\"이라 한다)을 받는 경우 다음 각 호에 따라 처리한다. <개정 2015. 09. 24.>1. 자산의 취득에 충당할 정부보조금 등으로 자산을 취득한 경우에는 이를 취득자산에서 차감하는 형식으로 표시하고 당해 자산의 내용연수에 걸쳐 상각금액과 상계하며, 당해 자산을 처분하는 경우에는 그 잔액을 당해 자산의 처분손익에 차감 또는 부가한다. <개정 2015. 09. 24.>2. 정부의 대행사업 및 특별법 등에서 정한 목적을 수행하기 위하여 정부보조금 등을 충당하는 경우에는 사업수익으로 계상한다. <개정 2015. 09. 24.>[제목개정 2015. 09. 24.]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "전표의 종류",
+        "chapter": "제2장 회계처리와 회계장표",
+        "content": "제24조(전표의 종류) 전표는 입금전표, 출금전표, 대체전표로 구분한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "전표의 대용",
+        "chapter": "제2장 회계처리와 회계장표",
+        "content": "제25조(전표의 대용) 결의서 또는 증빙서는 전표로 대용할 수 있으며 전표의 대용범위는 이사장이 정하는 바에 의한다. 이 경우 결의서 및 증빙서의 서식에는 전표의 기능이 포함되어야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0025"
+      },
+      {
+        "article_no": "제26조",
+        "article_title": "전표의 내용",
+        "chapter": "제2장 회계처리와 회계장표",
+        "content": "제26조(전표의 내용) ① 전표에는 계정과목을 표시하여야 한다.② 전표의 합계금액은 이를 정정하지 못한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0026"
+      },
+      {
+        "article_no": "제27조",
+        "article_title": "기장사무의 분리",
+        "chapter": "제2장 회계처리와 회계장표",
+        "content": "제27조(기장사무의 분리) ① 주요부와 보조부는 그 기장 사무의 담당자를 달리하여야 한다.② 장부의 기장사무와 현금 및 물품출납사무는 그 담당자를 달리하여야 한다.③ 제1항 및 제2항의 경우 회계단위의 규모ㆍ업무의 성질에 따라 예외로 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0027"
+      },
+      {
+        "article_no": "제28조",
+        "article_title": "증빙서류의 범위",
+        "chapter": "제2장 회계처리와 회계장표",
+        "content": "제28조(증빙서류의 범위) ① 증빙서류는 거래사실의 경위를 입증하며 기장의 증거가 되는 서류로서 그 범위는 이사장이 정한다.② 제1항에 따라 정하지 아니한 증빙서라 할지라도 특히 필요하다고 인정되는 경우에는 이를 증빙서류로 첨부하여야 한다.③ 증빙서류는 원본으로 구비하여야 한다. 다만, 원본에 따르기 곤란한 경우에는 그 사본으로 갈음하고, 원본대조자가 이에 확인표시를 하여야 한다.④ 전산조직(ERP, CMS 등)을 이용하여 생산된 장부 및 증빙서류와 「여신전문금융업법」 에 의한 신용카드사업자로부터 전송받아 보관하고 있는 신용카드 및 직불카드 등의 거래정보는 제3항에서 정한 증빙서류 원본으로 본다. <신설 2013. 10. 25.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제28조",
+            "source_clause": "제28조제4항",
+            "link_text": "「여신전문금융업법」",
+            "line_text": "",
+            "target_law_name": "여신전문금융업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/여신전문금융업법",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0028",
+            "reference_id": "law:여신전문금융업법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0028"
+      },
+      {
+        "article_no": "제29조",
+        "article_title": "증빙서류의 생략",
+        "chapter": "제2장 회계처리와 회계장표",
+        "content": "제29조(증빙서류의 생략) ① 오기정정 또는 결산시 계정간대체 등과 같이 단순히 계산적 조작의 필요에 의하여 발생한 준거래에 있어서는 그 전표로써 증빙서류에 갈음할 수 있다. 다만, 이 경우에는 전표의 적요란에 사유 및 산출내역을 기재하여야 한다.② 급여대장, 인부사역부 등 지출에 필요한 증빙서류를 첨부하기 곤란한 경우에는 지출결의서의 적요란에 대조필로써 갈음할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0029"
+      },
+      {
+        "article_no": "제30조",
+        "article_title": "증빙서류의 작성",
+        "chapter": "제2장 회계처리와 회계장표",
+        "content": "제30조(증빙서류의 작성) 증빙서류는 다음 각 호에 의하여 작성하여야 한다.1. 지출결의서가. 지출결의서의 지출금액은 정정하지 못한다.나. 적요란에는 지급의 뜻, 공사명, 품명 및 수량, 산출내역, 부분급 내용과 지급회수, 선급금 및 개산급의 표시 등 필요한 사항을 명기하여야 한다.2. 영수증서가. 정당한 채권자가 지출결의서의 영수란에 기명날인 또는 채권자 및 지출금액을 명백히 한 사유서, 이 경우에 채권자가 사업자인 경우에는 「부가가치세법」 제16조에 따른 세금계산서 또는 「소득세법」 제163조에 따른 계산서, 「여신전문금융업법」 에 따른 신용카드의 매출전표나. 채권자 또는 채권자가 지명하는 자가 지정하는 예금계좌 또는 우편대체계좌에 입금함으로써 지급하는 경우에는 금융기관이 발행하는 입금증명 또는 체신관서가 발행하는 영수증을 가목에 따른 영수증서로 본다.다. 신용카드를 사용하는 사업체에 지급하는 접대성경비는 원칙적으로 신용카드를 사용하여야 하며 카드이용대금의 결제에 따른 영수증서는 위 나목에 따른 경우와 같다.3. 청구서: 청구서의 합계금액은 정정하지 못하며 그 명세는 계약서 등 다른 관계서류의 명세와 일치하여야 한다.4. 계약서가. 계약서의 합계금액은 정정하지 못한다.나. 계약서와 그 부속서류는 그 내용이 서로 부합되어야 한다.5. 기타 증빙서류 : 기타 증빙서류의 작성에 필요한 사항은 이사장이 정하는 바에 의한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제30조",
+            "source_clause": "제30조",
+            "link_text": "「부가가치세법」",
+            "line_text": "",
+            "target_law_name": "부가가치세법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/부가가치세법",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0030",
+            "reference_id": "law:부가가치세법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제30조",
+            "source_clause": "제30조",
+            "link_text": "제16조",
+            "line_text": "",
+            "target_law_name": "부가가치세법",
+            "target_article_no": "제16조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/부가가치세법/제16조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0030",
+            "reference_id": "law:부가가치세법#JO0016"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제30조",
+            "source_clause": "제30조",
+            "link_text": "「소득세법」",
+            "line_text": "",
+            "target_law_name": "소득세법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소득세법",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0030",
+            "reference_id": "law:소득세법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제30조",
+            "source_clause": "제30조",
+            "link_text": "제163조",
+            "line_text": "",
+            "target_law_name": "소득세법",
+            "target_article_no": "제163조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소득세법/제163조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0030",
+            "reference_id": "law:소득세법#JO0163"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제30조",
+            "source_clause": "제30조",
+            "link_text": "「여신전문금융업법」",
+            "line_text": "",
+            "target_law_name": "여신전문금융업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/여신전문금융업법",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0030",
+            "reference_id": "law:여신전문금융업법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0030"
+      },
+      {
+        "article_no": "제31조",
+        "article_title": "금전출납의 범위",
+        "chapter": "제3장 금전회계",
+        "content": "제31조(금전출납의 범위) ① 금전은 현금, 예금, 수표, 우편환증서를 말한다.② 당일로 현금화 할 수 있는 어음과 기타 유가증권 등 제증서도 금전에 준하여 취급한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0031"
+      },
+      {
+        "article_no": "제32조",
+        "article_title": "금전수납사무의 대행",
+        "chapter": "제3장 금전회계",
+        "content": "제32조(금전수납사무의 대행) 이사장은 금융기관을 지정하여 금전의 수납에 관한 사무를 대행하게 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0032"
+      },
+      {
+        "article_no": "제33조",
+        "article_title": "출납마감",
+        "chapter": "제3장 금전회계",
+        "content": "제33조(출납마감) ① 출납의 마감시간은 업무종료전 일정한 시간을 정하여 공시하여야 한다.② 출납 마감 후에는 원칙적으로 출납을 하지 아니한다. 다만, 부득이한 경우에는 이사장이 정하는 바에 따라 취급할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0033"
+      },
+      {
+        "article_no": "제34조",
+        "article_title": "금전의 보관",
+        "chapter": "제3장 금전회계",
+        "content": "제34조(금전의 보관) ① 금전 및 수표장은 견고한 금고에 보관하고 보관에 필요한 조치를 취하여야 한다.② 전도금의 지급잔액과 마감 후에 출납된 수입현금을 제외하고는 현금을 보관할 수 없다.③ 현금시재액은 매일 책임자가 검사한 후 보관하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0034"
+      },
+      {
+        "article_no": "제35조",
+        "article_title": "금전의 과부족처리",
+        "chapter": "제3장 금전회계",
+        "content": "제35조(금전의 과부족처리) ① 금전의 부족을 발견하였을 때에는 즉시 해당 금액을 가지급으로 처리하고 그 경위를 조사하여 이사장과 감사에게 보고하여야 한다.② 제1항의 가지급 처리 후 1월이 경과하여도 그 원인을 발견하지 못한 때에는 취급자가 즉시 변상조치를 하여야 한다.③ 금전의 과오를 발견하였을 때에는 가수금으로 처리하고 그 원인을 규명하여 정리하여야 한다.④ 제3항의 가수금 처리 후 3월이 경과하여도 그 내용이 판명되지 아니한 때에는 이사장에게 보고하고 사업외수익으로 처리한다.⑤ 제1항 및 제4항의 경우 일정금액을 따로 정하고 보고를 생략할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0035"
+      },
+      {
+        "article_no": "제36조",
+        "article_title": "수표 및 어음행위",
+        "chapter": "제3장 금전회계",
+        "content": "제36조(수표 및 어음행위) ① 수표 또는 어음행위는 이사장의 명의로 행한다. 다만, 이사장이 위임한 경우에는 그 위임을 받은 자의 명의로 행할 수 있다.② 수표 및 어음의 금액은 정정할 수 없으며 오기 등의 사유로 인하여 무효 또는 폐기된 수표 및 어음은 수표첩 또는 어음첩에 첨부하여 보존하는 것을 원칙으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0036"
+      },
+      {
+        "article_no": "제37조",
+        "article_title": "자금의 차입 등",
+        "chapter": "제3장 금전회계",
+        "content": "제37조(자금의 차입 등) 자금의 차입상환, 출연 및 투자 등 중요거래사항은 이사회 등의 의결을 거쳐 이사장의 명의로 행한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0037"
+      },
+      {
+        "article_no": "제38조",
+        "article_title": "수입사무의 분리",
+        "chapter": "제3장 금전회계",
+        "content": "제38조(수입사무의 분리) 수입사무를 위하여 납입의 고지 등 징수결정을 하는 징수사무의 담당자와 징수결정액을 수납하는 수납사무의 담당자를 따로 정하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0038"
+      },
+      {
+        "article_no": "제39조",
+        "article_title": "수납의 원칙",
+        "chapter": "제3장 금전회계",
+        "content": "제39조(수납의 원칙) ① 수납은 현금, 금융기관발행 자기앞수표, 국고수표, 송금수표에 의하여 수납함을 원칙으로 한다.② 금전이 현저하게 손상되었거나 변조의 의심이 있는 경우와 현금으로서 교환기준에 미달되는 경우에는 수납할 수 없다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0039"
+      },
+      {
+        "article_no": "제40조",
+        "article_title": "수입금의 관리",
+        "chapter": "제3장 금전회계",
+        "content": "제40조(수입금의 관리) 한국석유관리원의 모든 수입금은 본사에 집중관리함을 원칙으로 한다. 단, 용역계약의 특수성 등으로 인해 그러하지 아니할 경우에는 이를 별도 관리할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0040"
+      },
+      {
+        "article_no": "제41조",
+        "article_title": "수입금의 징수",
+        "chapter": "제3장 금전회계",
+        "content": "제41조(수입금의 징수) ① 수입금을 징수 결정하고자 할 때에는 수입결의서에 의하여야 하며 납입의무자에게 납입고지서를 발부하여야 한다.② 다음 각 호의 경우에는 수입결의서에 의하지 아니하고 수납할 수 있다.1. 위약금 및 해약금2. 변상금3. 과태료4. 반납료5. 이자수입 및 배당수입6. 기타 관계법령 및 계약 등에 의한 확정수입",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0041"
+      },
+      {
+        "article_no": "제42조",
+        "article_title": "수입금의 수납",
+        "chapter": "제3장 금전회계",
+        "content": "제42조(수입금의 수납) ① 이사장은 수입금을 수납하는 경우에는 현금ㆍ체신관서 또는 「은행법」 의 적용을 받는 금융기관이 발행한 자기앞수표ㆍ국고수표에 따라 수납하도록 하여야 한다. 다만, 이사장이 따로 정하는 경우에는 그러하지 아니하다.② 이사장은 납입기한이 정하여진 수입금을 납입 고지하는 때에는 납입개시 5일전에 납입고지서를 발행하여야 한다.③ 납입고지서의 납입기한은 특별한 사유가 있는 경우를 제외하고는 고지일부터 15일 이내로 한다. 이 경우 납입기한이 공휴일에 해당하는 때에는 그 공휴일의 다음날을 납입기한으로 한다.④ 납입기한이 경과하여도 납입하지 아니하는 납입의무자에 대하여는 납입기한 경과 후 7일 이내에 독촉장을 발부하여야 한다. 다만, 이사장이 따로 정하는 경우에는 그러하지 아니하다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제42조",
+            "source_clause": "제42조제1항",
+            "link_text": "「은행법」",
+            "line_text": "",
+            "target_law_name": "은행법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/은행법",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0042",
+            "reference_id": "law:은행법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0042"
+      },
+      {
+        "article_no": "제43조",
+        "article_title": "과오납금 처리",
+        "chapter": "제3장 금전회계",
+        "content": "제43조(과오납금 처리) 수납담당자는 다음 각 호의 사유로 인하여 수입금이 과오납된 사실을 발견하였을 때에는 지체없이 수입금에서 환급조치를 취하여야 한다.1. 수입금 납입에 따른 신청서 또는 수입금 수납필통지서의 오기로 인한 때2. 수입금 납입에 따른 신청서가 중복되었을 때3. 수입금 납입신청서 기재 금액보다 초과 징수되었을 때",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0043"
+      },
+      {
+        "article_no": "제44조",
+        "article_title": "장기미납금의 처리",
+        "chapter": "제3장 금전회계",
+        "content": "제44조(장기미납금의 처리) 수차례의 독촉장을 발부한 후에도 수입금이 납부되지 아니한 경우에는 체납자 또는 재정보증인의 재산상황을 조사하여 제소 등 필요한 조치를 취하여야 한다. 다만, 시효가 완성되었거나 제13조제1항의 규정에 해당되는 경우에는 그러하지 아니하다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제44조",
+            "source_clause": "제44조",
+            "link_text": "제13조제1항",
+            "line_text": "",
+            "target_law_name": "주식회사의 외부감사에 관한 법률",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/주식회사의 외부감사에 관한 법률/제13조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0044",
+            "reference_id": "law:주식회사의외부감사에관한법률#JO0013"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0044"
+      },
+      {
+        "article_no": "제45조",
+        "article_title": "금전지출의 원칙",
+        "chapter": "제3장 금전회계",
+        "content": "제45조(금전지출의 원칙) ① 지출은 자금관리시스템(CMS)에 의하여 수취인별로 함을 원칙으로 한다. 다만, 전도금 지급, 소액지급, 급여여비와 기타 특별한 경비 및 CMS 미설치 회계단위는 예외로 할 수 있다. <개정 2013. 10. 25., 2015. 09. 24.>② 인건비, 여비 또는 기관 상용의 경비 기타 소액의 경비는 수표를 일괄하여 발행할 수 있다. 다만, 영수증서는 수취인별로 받아야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0045"
+      },
+      {
+        "article_no": "제46조",
+        "article_title": "지출원인 행위의 준칙",
+        "chapter": "제3장 금전회계",
+        "content": "제46조(지출원인 행위의 준칙) 지출원인행위는 배정된 예산범위 내에서 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0046"
+      },
+      {
+        "article_no": "제47조",
+        "article_title": "지출품의",
+        "chapter": "제3장 금전회계",
+        "content": "제47조(지출품의) ① 지출행위를 할 때에는 배정된 예산의 범위 내에서 내부결재 또는 ERP 등록을 통하여 품의를 득하여야 한다. <개정 2013. 10. 25.>② 다음 각 호의 경비는 품의서 작성을 생략할 수 있다. <개정 2013. 10. 25.>1. 공공요금, 제세공과금, 인건비, 여비, 판공비2. 법령규정 등 일정한 기준에 의한 경비3. 기타 정례적인 확정경비③ 품의없이 지출할 수 있는 세부사항은 이사장이 별도로 정한다. <신설 2015. 09. 24.>[제목개정 2013. 10. 25.]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0047"
+      },
+      {
+        "article_no": "제48조",
+        "article_title": "지출원인행위의 증감취소",
+        "chapter": "제3장 금전회계",
+        "content": "제48조(지출원인행위의 증감취소) 지출원인행위자는 계약의 해제, 계약금액의 변경 등으로 인하여 그 지출원인 행위액을 취소하거나 증감하고자 할 때에는 당초의 지출원인행위를 소급하여 취소 또는 정정하지 아니하고 따로 지출원인행위 취소결의서 또는 지출원인행위 증감 결의서를 작성하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0048"
+      },
+      {
+        "article_no": "제49조",
+        "article_title": "지출원인행위 서류의 송부",
+        "chapter": "제3장 금전회계",
+        "content": "제49조(지출원인행위 서류의 송부) 지출원인행위자는 지출원인행위가 끝나면 지출원인행위 관계서류를 지출담당에게 송부하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0049"
+      },
+      {
+        "article_no": "제50조",
+        "article_title": "전도금의 교부",
+        "chapter": "제3장 금전회계",
+        "content": "제50조(전도금의 교부) ① 업무의 성질상 현금으로 지급하지 아니하면 업무수행에 지장을 초래할 우려가 있는 경우에 한하여 자금을 전도할 수 있다.② 전도금을 교부할 때에는 가지급금 또는 전도금으로 처리하고 전도금 취급담당자의 정산보고에 따라 가지급금 또는 전도금을 정리하여야 한다. <개정 2015. 09. 24.>③ 전도금 취급담당자는 지급받은 전도금에 대하여 특히 정한 경우를 제외하고는 지출담당에 준하여 그 업무를 처리하여야 한다.④ 전도금 취급담당자는 매월말까지 전도금 정산보고서를 관계증빙서와 같이 지출담당에게 제출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0050"
+      },
+      {
+        "article_no": "제51조",
+        "article_title": "전도금의 지급",
+        "chapter": "제3장 금전회계",
+        "content": "제51조(전도금의 지급) ① 전도금 취급담당에게 자금을 전도할 수 있는 경비의 범위는 다음 각 호와 같다.1. 외국에서 지급하는 경비2. 교통통신이 불편한 지방에서 지급하는 경비3. 기관의 일상적 경비와 여비로서 500만원 한도의 경비4. 기관 직영의 공사ㆍ제조 또는 조립에 필요한 경비로서 2천만원 한도의 경비5. 업무추진비6. 증인ㆍ감정인 등에게 지급하는 경비7. 사례금8. 법령에 따른 시료 구입비 및 시험조사 수수료9. 기타 기준을 정하여 이사회의 의결을 받은 경우② 전도금은 다음 각 호의 기준에 따라 지급하여야 한다.1. 기관의 일상적 경비는 매 1개월분 범위의 금액을 예정하여 지급할 것. 다만, 외국에서 지급하는 경비, 교통이나 통신이 불편한 지역에서 지급하는 경비 또는 지급장소가 일정하지 아니한 사무소의 경비는 사무의 필요에 따라 3개월분 범위의 금액을 지급할 수 있다.2. 수시로 지출하는 비용은 그 금액을 예정하여 사무에 지장이 없는 범위에서 가능하면 나누어 지급할 것",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0051"
+      },
+      {
+        "article_no": "제52조",
+        "article_title": "선급금과 개산급의 지급",
+        "chapter": "제3장 금전회계",
+        "content": "제52조(선급금과 개산급의 지급) ① 지출담당은 업무의 성질상 필요하다고 인정된 경우에 한하여 선급금 또는 개산급을 지급할 수 있다.② 지출담당은 선급금 또는 개산급의 지급에 따른 업무가 완료되면 지체없이 정산하고 선급금 또는 개산급을 정리하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0052"
+      },
+      {
+        "article_no": "제53조",
+        "article_title": "선급금 지급의 범위",
+        "chapter": "제3장 금전회계",
+        "content": "제53조(선급금 지급의 범위) ① 선급금을 지급할 수 있는 범위는 다음 각 호와 같다.1. 외국에서 직접 구입하는 기계, 도서, 표본 또는 실험용 재료의 대가2. 정기 간행물의 대가3. 토지 또는 가옥의 임대료와 용선료4. 운임5. 급여지급일에 전출, 출장 또는 휴가를 받은 자에게 지급하는 제급여6. 국가기관 또는 다른 기관에 대하여 지급하는 경비7. 외국에서 연구, 연수 또는 조사에 종사하는 자에 대하여 지급하는 제급여8. 교통이 불편한 장소에 근무하는 자 또는 선박 승무원에게 지급하는 급여와 금융기관의 예금계좌를 통하여 급여를 지급하기 위하여 급여지급일 전 3일 이내에 금융기관에 입금하는 급여9. 업무 등의 위탁에 필요한 경비, 보조금 또는 부담금, 사례금10. 한국석유관리원에서 매수하거나 수용하는 토지 또는 그 토지상에 있는 물건의 대금 보상금 또는 이전료11. 계약금액이 3천만원 이상인 공사 또는 제조와 계약금액이 500만원 이상인 용역의 경우 계약금액의 100분의 70을 초과하지 아니하는 금액12. 한국석유관리원에서 초청한 외국인에게 국내에서 지급하는 경비13. 기타 기준을 정하여 이사회의 승인을 받은 경비② 제1항11호에 따른 경비를 미리 지급할 때에는 계약체결 후 계약상대자의 청구를 받은 날부터 14일 이내에 지급하여야 한다. 다만, 불가피한 사유로 지급이 불가능하여 그 사유를 계약상대자에게 문자로써 통지한 경우에는 그러하지 아니하다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0053"
+      },
+      {
+        "article_no": "제54조",
+        "article_title": "개산급의 지급범위",
+        "chapter": "제3장 금전회계",
+        "content": "제54조(개산급의 지급범위) 개산급을 지급할 수 있는 범위는 다음 각 호와 같다.1. 여비, 업무추진비 또는 사무소운영비2. 국가기관 또는 다른 기관에 대하여 지급하는 경비3. 보조금 또는 부담금4. 「산업재해보상보험법」 에 따라 지급하는 요양비5. 재해구호 및 복구에 드는 경비6. 기타 기준을 정하여 이사회의 승인을 받은 경비",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제54조",
+            "source_clause": "제54조",
+            "link_text": "「산업재해보상보험법」",
+            "line_text": "",
+            "target_law_name": "산업재해보상보험법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업재해보상보험법",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0054",
+            "reference_id": "law:산업재해보상보험법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0054"
+      },
+      {
+        "article_no": "제55조",
+        "article_title": "잔액 조회",
+        "chapter": "제3장 금전회계",
+        "content": "제55조(잔액 조회) 지출담당은 매월말에 거래점의 잔액증명을 받아 예금원장과 대조하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0055"
+      },
+      {
+        "article_no": "제56조",
+        "article_title": "유가증권의 취득 등",
+        "chapter": "제3장 금전회계",
+        "content": "제56조(유가증권의 취득 등) 유가증권의 취득, 매도, 상환, 담보제공 등을 할 때에는 종류, 수량, 금액 및 사유를 표시하여 이사회의 의결을 거쳐야 한다. 다만, 이사회의 위임을 받은 경우에는 그러하지 아니한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0056"
+      },
+      {
+        "article_no": "제57조",
+        "article_title": "유가증권의 관리",
+        "chapter": "제3장 금전회계",
+        "content": "제57조(유가증권의 관리) ① 유가증권은 금전에 관한 규정을 준용하여 관리하되, 특별한 사유가 없는 한 만기까지 보유하는 것으로 한다.② 이행보증 보험증권 및 지급보증서는 유가증권에 준하여 별도 관리하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0057"
+      },
+      {
+        "article_no": "제58조",
+        "article_title": "유가증권의 가액",
+        "chapter": "제3장 금전회계",
+        "content": "제58조(유가증권의 가액) 유가증권의 장부가액은 액면가액으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0058"
+      },
+      {
+        "article_no": "제59조",
+        "article_title": "유가증권 관리대장의 비치",
+        "chapter": "제3장 금전회계",
+        "content": "제59조(유가증권 관리대장의 비치) 유가증권 관리담당은 유가증권의 관리에 관한 장부를 비치하고 거래의 내용을 기록 보관하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0059"
+      },
+      {
+        "article_no": "제60조",
+        "article_title": "자금관리",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제60조(자금관리) ① \"자금관리\"란 회계규정과 회계규정 시행세칙에 따라 자금을 관리ㆍ운용하는 것을 말한다.② \"자금관리부서\"란 자금관리 업무를 수행하는 부서로 예산업무 담당직원이 속한 기획처를 말한다.[본조신설 2015. 09. 24.]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0060"
+      },
+      {
+        "article_no": "제61조",
+        "article_title": "자금집행",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제61조(자금집행) ① \"자금집행\"이란 지출원인행위를 통해 작성된 전표 등을 취합하여 자금운용계획에 따라 자금을 집행하고, 관련 회계기록을 작성ㆍ관리하는 것을 말한다.② \"자금집행부서\"란 자금집행 업무를 수행하는 부서이며, 통상 회계담당 직원이 속한 회계단위별 부서를 말한다.[본조신설 2015. 09. 24.]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0061"
+      },
+      {
+        "article_no": "제62조",
+        "article_title": "자금관리ㆍ집행 분리",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제62조(자금관리ㆍ집행 분리) 자금관리부서와 집행부서는 분리하여 운영한다. 다만, 분리가 곤란한 경우 부서 내 자금관리자와 집행자를 분리하여 운영해야 한다.[본조신설 2015. 09. 24.]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0062"
+      },
+      {
+        "article_no": "제63조",
+        "article_title": "자금관리 접근권한",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제63조(자금관리 접근권한) ① 자금관리책임자는 자금관리부서의 팀장으로 한다.② 자금관리 접근권한에 대한 세부사항은 이사장이 별도로 정한다.[본조신설 2015. 09. 24.]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0063"
+      },
+      {
+        "article_no": "제64조",
+        "article_title": "자금집행 접근권한",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제64조(자금집행 접근권한) ① 자금집행을 위해 자금집행부서의 팀장 또는 회계담당직원이 자금집행책임자가 된다.② 자금집행 접근권한에 대한 세부사항은 이사장이 별도로 정한다.[본조신설 2015. 09. 24]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0064"
+      },
+      {
+        "article_no": "제65조",
+        "article_title": "자금현황보고",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제65조(자금현황보고) ① 자금관리부서는 연간 자금운용ㆍ수지계획을 수립하거나 자금현황의 변동이 있는 경우 이사장에게 보고하여야 한다.② 자금현황보고에 대한 세부사항은 이사장이 별도로 정한다.[본조신설 2015. 09. 24.]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0065"
+      },
+      {
+        "article_no": "제66조",
+        "article_title": "자산의 구분",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제66조(자산의 구분) 자산은 유동자산과 비유동자산으로 구분한다. 유동자산은 현금 및 현금성자산, 유동금융자산, 매출채권 및 기타채권, 유동비금융자산 등으로 구분하고, 비유동자산은 비유동금융자산, 유형자산, 무형자산, 기타비유동자산 등으로 구분한다. <개정 2015. 09. 24.>[종전 제60조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제66조",
+            "source_clause": "제66조",
+            "link_text": "제60조",
+            "line_text": "제66조(자산의 구분) 자산은 유동자산과 비유동자산으로 구분한다. 유동자산은 현금 및 현금성자산, 유동금융자산, 매출채권 및 기타채권, 유동비금융자산 등으로 구분하고, 비유동자산은 비유동금융자산, 유형자산, 무형자산, 기타비유동자산 등으로 구분한다. <개정 2015. 09. 24.>[종전 제60조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제60조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제60조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0066",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0060"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0066"
+      },
+      {
+        "article_no": "제67조",
+        "article_title": "재무상태표",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제67조(재무상태표) 재무상태표는 한국석유관리원의 재무상태를 명확히 보고하기 위하여 재무상태표일 현재의 자산, 부채 및 자본을 적정하게 표시하여야 한다. <개정 2013. 10. 25.>[제목개정 2013. 10. 25][종전 제61조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제67조",
+            "source_clause": "제67조",
+            "link_text": "제61조",
+            "line_text": "제67조(재무상태표) 재무상태표는 한국석유관리원의 재무상태를 명확히 보고하기 위하여 재무상태표일 현재의 자산, 부채 및 자본을 적정하게 표시하여야 한다. <개정 2013. 10. 25.>[제목개정 2013. 10. 25][종전 제61조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제61조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제61조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0067",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0061"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0067"
+      },
+      {
+        "article_no": "제68조",
+        "article_title": "재무상태표 작성기준",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제68조(재무상태표 작성기준) ① 재무상태표는 자산, 부채 및 자본으로 구분한다. <개정 2013. 10. 25.>② 자산과 부채는 유동성이 높은 항목부터 작성한다. 유동성이란 현금으로 전환되기 용이한 정도를 말한다.③ 자산, 부채 및 자본은 총액에 따라 기재함을 원칙으로 하고, 자산의 항목과 부채 또는 자본의 항목을 상계함으로써 그 전부 또는 일부를 재무상태표에서 제외하여서는 아니 된다. <개정 2013. 10. 25.>[제목개정 2013. 10. 25.][종전 제62조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제68조",
+            "source_clause": "제68조",
+            "link_text": "제62조",
+            "line_text": "제68조(재무상태표 작성기준) ① 재무상태표는 자산, 부채 및 자본으로 구분한다. <개정 2013. 10. 25.>② 자산과 부채는 유동성이 높은 항목부터 작성한다. 유동성이란 현금으로 전환되기 용이한 정도를 말한다.③ 자산, 부채 및 자본은 총액에 따라 기재함을 원칙으로 하고, 자산의 항목과 부채 또는 자본의 항목을 상계함으로써 그 전부 또는 일부를 재무상태표에서 제외하여서는 아니 된다. <개정 2013. 10. 25.>[제목개정 2013. 10. 25.][종전 제62조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제62조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제62조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0068",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0062"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0068"
+      },
+      {
+        "article_no": "제69조",
+        "article_title": "유동자산",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제69조(유동자산) 유동자산은 정상적인 사업주기 내에 사용ㆍ실현될 것으로 예상되거나, 재무상태표일로부터 1년 이내에 현금화 또는 실현될 것으로 예상되는 자산을 말한다. 다만, 유동자산으로 분류한 금액 중 1년 이내에 실현되지 않을 금액은 주석으로 기재한다. <개정 2013. 10. 25.>[종전 제63조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제69조",
+            "source_clause": "제69조",
+            "link_text": "제63조",
+            "line_text": "제69조(유동자산) 유동자산은 정상적인 사업주기 내에 사용ㆍ실현될 것으로 예상되거나, 재무상태표일로부터 1년 이내에 현금화 또는 실현될 것으로 예상되는 자산을 말한다. 다만, 유동자산으로 분류한 금액 중 1년 이내에 실현되지 않을 금액은 주석으로 기재한다. <개정 2013. 10. 25.>[종전 제63조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제63조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제63조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0069",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0063"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0069"
+      },
+      {
+        "article_no": "제70조",
+        "article_title": "부채의 분류",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제70조(부채의 분류) 부채는 유동부채와 비유동부채로 구분한다.[종전 제64조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제70조",
+            "source_clause": "제70조",
+            "link_text": "제64조",
+            "line_text": "제70조(부채의 분류) 부채는 유동부채와 비유동부채로 구분한다.[종전 제64조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제64조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제64조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0070",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0064"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0070"
+      },
+      {
+        "article_no": "제71조",
+        "article_title": "유동부채",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제71조(유동부채) 유동부채는 정상적인 사업주기 내에 상환 등을 통하여 소멸할 것이 예상되거나, 재무상태표일로부터 1년 이내에 상환되어야 하는 부채를 말한다. <개정 2013. 10. 25.>[종전 제65조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제71조",
+            "source_clause": "제71조",
+            "link_text": "제65조",
+            "line_text": "제71조(유동부채) 유동부채는 정상적인 사업주기 내에 상환 등을 통하여 소멸할 것이 예상되거나, 재무상태표일로부터 1년 이내에 상환되어야 하는 부채를 말한다. <개정 2013. 10. 25.>[종전 제65조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제65조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제65조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0071",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0065"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0071"
+      },
+      {
+        "article_no": "제72조",
+        "article_title": "손익계산서 등",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제72조(손익계산서 등) 손익계산서 또는 포괄손익계산서는 경영성과를 명확히 보고하기 위하여 그 회계기간에 속하는 모든 수익과 이에 대응하는 모든 비용을 적정하게 표시하여야 하며, 경영성과를 명확히 이해할 수 있도록 구분하여 표시하여야 한다. <개정 2013. 10. 25.>[제목개정 2015. 09. 24][종전 제66조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제72조",
+            "source_clause": "제72조",
+            "link_text": "제66조",
+            "line_text": "제72조(손익계산서 등) 손익계산서 또는 포괄손익계산서는 경영성과를 명확히 보고하기 위하여 그 회계기간에 속하는 모든 수익과 이에 대응하는 모든 비용을 적정하게 표시하여야 하며, 경영성과를 명확히 이해할 수 있도록 구분하여 표시하여야 한다. <개정 2013. 10. 25.>[제목개정 2015. 09. 24][종전 제66조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제66조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제66조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0072",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0066"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0072"
+      },
+      {
+        "article_no": "제73조",
+        "article_title": "손익계산서 작성기준",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제73조(손익계산서 작성기준) 모든 수익과 비용은 그것이 발생한 기간에 정당하게 배분되도록 처리하여야 한다. 다만, 수익은 실현시를 기준으로 계상하고 미실현수익은 당기의 손익계산에 산입하지 않음을 원칙으로 한다.[종전 제67조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제73조",
+            "source_clause": "제73조",
+            "link_text": "제67조",
+            "line_text": "제73조(손익계산서 작성기준) 모든 수익과 비용은 그것이 발생한 기간에 정당하게 배분되도록 처리하여야 한다. 다만, 수익은 실현시를 기준으로 계상하고 미실현수익은 당기의 손익계산에 산입하지 않음을 원칙으로 한다.[종전 제67조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제67조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제67조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0073",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0067"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0073"
+      },
+      {
+        "article_no": "제74조",
+        "article_title": "이익잉여금처분계산서",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제74조(이익잉여금처분계산서) ① 이익잉여금처분계산서는 이익잉여금의 처분사항을 명확히 보고하기 위하여 이월이익잉여금의 총변동 사항을 주석으로 공시하여야 한다. <개정 2013. 10. 25.>② 결손금처리계산서는 결손금의 처리사항을 명확히 보고하기 위하여 이월결손금의 총변동사항을 주석으로 공시하여야 한다. <개정 2013. 10. 25.>[종전 제68조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제74조",
+            "source_clause": "제74조",
+            "link_text": "제68조",
+            "line_text": "제74조(이익잉여금처분계산서) ① 이익잉여금처분계산서는 이익잉여금의 처분사항을 명확히 보고하기 위하여 이월이익잉여금의 총변동 사항을 주석으로 공시하여야 한다. <개정 2013. 10. 25.>② 결손금처리계산서는 결손금의 처리사항을 명확히 보고하기 위하여 이월결손금의 총변동사항을 주석으로 공시하여야 한다. <개정 2013. 10. 25.>[종전 제68조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제68조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제68조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0074",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0068"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0074"
+      },
+      {
+        "article_no": "제75조",
+        "article_title": "고유목적사업준비금",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제75조(고유목적사업준비금) ① 한국석유관리원의 수익사업 중 법인세법상 과세대상 수익에 대하여는 고유목적사업준비금을 적립할 수 있다.② 한국석유관리원이 적립 또는 환입하는 고유목적사업준비금은 이익잉여금처분계산서상의 처분으로 한다. 다만, 다른 법령의 특별한 규정이 있는 경우는 비용 또는 수익으로 계상할 수 있다.[종전 제69조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제75조",
+            "source_clause": "제75조",
+            "link_text": "제69조",
+            "line_text": "제75조(고유목적사업준비금) ① 한국석유관리원의 수익사업 중 법인세법상 과세대상 수익에 대하여는 고유목적사업준비금을 적립할 수 있다.② 한국석유관리원이 적립 또는 환입하는 고유목적사업준비금은 이익잉여금처분계산서상의 처분으로 한다. 다만, 다른 법령의 특별한 규정이 있는 경우는 비용 또는 수익으로 계상할 수 있다.[종전 제69조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제69조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제69조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0075",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0069"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0075"
+      },
+      {
+        "article_no": "제76조",
+        "article_title": "현금흐름표",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제76조(현금흐름표) 현금흐름표는 한국석유관리원의 현금흐름을 나타내는 표로서 현금의 변동내용을 명확하게 보고하기 위하여 당해 회계기간에 속하는 현금의 유입과 유출내용을 적정하게 표시하여야 한다.[종전 제70조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제76조",
+            "source_clause": "제76조",
+            "link_text": "제70조",
+            "line_text": "제76조(현금흐름표) 현금흐름표는 한국석유관리원의 현금흐름을 나타내는 표로서 현금의 변동내용을 명확하게 보고하기 위하여 당해 회계기간에 속하는 현금의 유입과 유출내용을 적정하게 표시하여야 한다.[종전 제70조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제70조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제70조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0076",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0070"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0076"
+      },
+      {
+        "article_no": "제77조",
+        "article_title": "현금흐름표의 구분표시",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제77조(현금흐름표의 구분표시) 현금흐름표는 영업활동으로 인한 현금흐름, 투자활동으로 인한 현금흐름, 재무활동으로 인한 현금흐름으로 구분하여 표시하고, 이에 기초의 현금을 가산하여 기말의 현금을 산출하는 형식으로 표시한다.[종전 제71조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제77조",
+            "source_clause": "제77조",
+            "link_text": "제71조",
+            "line_text": "제77조(현금흐름표의 구분표시) 현금흐름표는 영업활동으로 인한 현금흐름, 투자활동으로 인한 현금흐름, 재무활동으로 인한 현금흐름으로 구분하여 표시하고, 이에 기초의 현금을 가산하여 기말의 현금을 산출하는 형식으로 표시한다.[종전 제71조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제71조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제71조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0077",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0071"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0077"
+      },
+      {
+        "article_no": "제78조",
+        "article_title": "자본변동표",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제78조(자본변동표) 자본변동표는 자본의 크기와 그 변동에 관한 정보를 제공하는 재무보고서로서, 한국석유관리원 자본의 변동에 대한 포괄적인 정보를 제공하여야 한다.[종전 제72조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제78조",
+            "source_clause": "제78조",
+            "link_text": "제72조",
+            "line_text": "제78조(자본변동표) 자본변동표는 자본의 크기와 그 변동에 관한 정보를 제공하는 재무보고서로서, 한국석유관리원 자본의 변동에 대한 포괄적인 정보를 제공하여야 한다.[종전 제72조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제72조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제72조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0078",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0072"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0078"
+      },
+      {
+        "article_no": "제79조",
+        "article_title": "자본변동표의 구분",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제79조(자본변동표의 구분) 한국석유관리원의 자본변동표는 납입자본, 이익잉여금(또는 결손금) 및 기타자본구성요소 등의 각 항목별로 기초잔액, 변동사항, 기말잔액을 표시한다. <개정 2013. 10. 25.>[종전 제73조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제79조",
+            "source_clause": "제79조",
+            "link_text": "제73조",
+            "line_text": "제79조(자본변동표의 구분) 한국석유관리원의 자본변동표는 납입자본, 이익잉여금(또는 결손금) 및 기타자본구성요소 등의 각 항목별로 기초잔액, 변동사항, 기말잔액을 표시한다. <개정 2013. 10. 25.>[종전 제73조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제73조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제73조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0079",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0073"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0079"
+      },
+      {
+        "article_no": "제80조",
+        "article_title": "관리기준의 제정",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제80조(관리기준의 제정) ① 이사장은 유형자산으로 취득관리하여야 할 품목과 기준을 정하여야 한다.② 이사장은 자산중 필요한 것에 대하여는 정수(T/E)와 소모기준을 정하여 운용할 수 있다.[종전 제75조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제80조",
+            "source_clause": "제80조",
+            "link_text": "제75조",
+            "line_text": "제80조(관리기준의 제정) ① 이사장은 유형자산으로 취득관리하여야 할 품목과 기준을 정하여야 한다.② 이사장은 자산중 필요한 것에 대하여는 정수(T/E)와 소모기준을 정하여 운용할 수 있다.[종전 제75조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제75조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제75조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0080",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0075"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0080"
+      },
+      {
+        "article_no": "제81조",
+        "article_title": "관리보고",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제81조(관리보고) ① 자산관리담당은 매년 6월 30일 현재의 자산에 대한 상태를 파악하여 과부족 및 망실, 훼손, 성능저하 등 변동상황에 대한 관리보고서를 8월 31일까지 이사장에게 보고하여야 한다.② 자산관리담당은 자산의 변동 및 증감사항을 분기별로 이사장에게 보고하여야 한다.[종전 제76조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제81조",
+            "source_clause": "제81조",
+            "link_text": "제76조",
+            "line_text": "제81조(관리보고) ① 자산관리담당은 매년 6월 30일 현재의 자산에 대한 상태를 파악하여 과부족 및 망실, 훼손, 성능저하 등 변동상황에 대한 관리보고서를 8월 31일까지 이사장에게 보고하여야 한다.② 자산관리담당은 자산의 변동 및 증감사항을 분기별로 이사장에게 보고하여야 한다.[종전 제76조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제76조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제76조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0081",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0076"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0081"
+      },
+      {
+        "article_no": "제82조",
+        "article_title": "감가상각",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제82조(감가상각) ① 자산 중 감가상각을 필요로 하는 자산에 대하여는 매회계연도마다 한국채택 국제회계기준에 따른 간접법 등에 의하여 감가상각을 하여야 한다.② 감가상각에 대한 세부사항은 이사장이 별도로 정한다.[본조신설 2015. 09. 24]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0082"
+      },
+      {
+        "article_no": "제83조",
+        "article_title": "자본적지출과 수익적지출",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제83조(자본적지출과 수익적지출) 자산의 내용연수를 연장시키거나 가치를 실질적으로 증가시키는 지출은 자본적지출로 하고, 당해 자산의 원상을 회복시키거나 능률유지를 위한 지출은 수익적지출로 한다.[본조신설 2015. 09. 24]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0083"
+      },
+      {
+        "article_no": "제84조",
+        "article_title": "자산의 재평가",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제84조(자산의 재평가) 자산은 관련 법령에 따라 현실에 적합한 가액으로 재평가 할 수 있다.[본조신설 2015. 09. 24]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0084"
+      },
+      {
+        "article_no": "제85조",
+        "article_title": "업무용 부동산의 매각 또는 매수",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제85조(업무용 부동산의 매각 또는 매수) 유형자산 중 한국석유관리원의 기본재산이나 정부의 현물출자 재산 등의 중요한 업무용 토지 및 건물을 매각 또는 매수하고자 할 때에는 이사회의 의결을 거쳐 주무기관의 장에게 보고한다.[종전 제77조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제85조",
+            "source_clause": "제85조",
+            "link_text": "제77조",
+            "line_text": "제85조(업무용 부동산의 매각 또는 매수) 유형자산 중 한국석유관리원의 기본재산이나 정부의 현물출자 재산 등의 중요한 업무용 토지 및 건물을 매각 또는 매수하고자 할 때에는 이사회의 의결을 거쳐 주무기관의 장에게 보고한다.[종전 제77조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제77조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제77조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0085",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0077"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0085"
+      },
+      {
+        "article_no": "제86조",
+        "article_title": "유형자산의 처분결정",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제86조(유형자산의 처분결정) ① 유형자산을 처분하고자 할 때에는 당해 유형자산에 대하여 불용결정을 하여야 한다.② 기본재산의 불용결정을 할 경우에는 이사회의 의결을 거쳐 주무기관의 장에게 보고한다.[종전 제78조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제86조",
+            "source_clause": "제86조",
+            "link_text": "제78조",
+            "line_text": "제86조(유형자산의 처분결정) ① 유형자산을 처분하고자 할 때에는 당해 유형자산에 대하여 불용결정을 하여야 한다.② 기본재산의 불용결정을 할 경우에는 이사회의 의결을 거쳐 주무기관의 장에게 보고한다.[종전 제78조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제78조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제78조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0086",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0078"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0086"
+      },
+      {
+        "article_no": "제87조",
+        "article_title": "권리보존",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제87조(권리보존) 유형자산의 권리보존을 위하여 당해자산의 관리담당은 소유권 기타의 권리에 대하여 등기, 인증 등 필요한 절차를 취하여야 한다.[종전 제79조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제87조",
+            "source_clause": "제87조",
+            "link_text": "제79조",
+            "line_text": "제87조(권리보존) 유형자산의 권리보존을 위하여 당해자산의 관리담당은 소유권 기타의 권리에 대하여 등기, 인증 등 필요한 절차를 취하여야 한다.[종전 제79조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제79조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제79조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0087",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0079"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0087"
+      },
+      {
+        "article_no": "제88조",
+        "article_title": "보험의 가입",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제88조(보험의 가입) 유형자산에 대하여는 보험에 가입하여야 한다. 다만, 토지 또는 이사장이 보험에 가입할 필요가 없다고 인정하는 유형자산은 그러하지 아니할 수 있다.[종전 제80조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제88조",
+            "source_clause": "제88조",
+            "link_text": "제80조",
+            "line_text": "제88조(보험의 가입) 유형자산에 대하여는 보험에 가입하여야 한다. 다만, 토지 또는 이사장이 보험에 가입할 필요가 없다고 인정하는 유형자산은 그러하지 아니할 수 있다.[종전 제80조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제80조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제80조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0088",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0080"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0088"
+      },
+      {
+        "article_no": "제89조",
+        "article_title": "임대차",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제89조(임대차) 유형자산을 임ㆍ대차 하고자 하는 경우에는 이사장이 이를 결정한다. 다만 중요한 사항은 이사회 등의 의결을 얻어야 한다.[종전 제81조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제89조",
+            "source_clause": "제89조",
+            "link_text": "제81조",
+            "line_text": "제89조(임대차) 유형자산을 임ㆍ대차 하고자 하는 경우에는 이사장이 이를 결정한다. 다만 중요한 사항은 이사회 등의 의결을 얻어야 한다.[종전 제81조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제81조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제81조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0089",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0081"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0089"
+      },
+      {
+        "article_no": "제90조",
+        "article_title": "담보제공",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제90조(담보제공) ① 유형자산을 담보로 제공하고자 할 때에는 이사회의 의결을 거쳐 주무기관의 장에게 보고한다.② 담보를 제공한 때에는 유형자산 대장에 그 사유를 명기하고 말소사항은 반드시 주서로 기재하여야 한다.[종전 제82조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제90조",
+            "source_clause": "제90조",
+            "link_text": "제82조",
+            "line_text": "제90조(담보제공) ① 유형자산을 담보로 제공하고자 할 때에는 이사회의 의결을 거쳐 주무기관의 장에게 보고한다.② 담보를 제공한 때에는 유형자산 대장에 그 사유를 명기하고 말소사항은 반드시 주서로 기재하여야 한다.[종전 제82조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제82조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제82조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0090",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0082"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0090"
+      },
+      {
+        "article_no": "제91조",
+        "article_title": "부외자산의 범위",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제91조(부외자산의 범위) ① 부외자산은 성질상 당연히 자산으로 취급되어야 하거나 자산으로 관리할 가치가 있는 자산이 재무상태표의 자산의 부에 계상되지 아니한 자산을 말한다. <개정 2013. 10. 25.>② 실질적으로 사용하고 있으나 소유권이 타인에게 속해 있는 임차자산, 담보자산, 국유재산 등은 부외자산에 준하여 관리한다.[종전 제83조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제91조",
+            "source_clause": "제91조",
+            "link_text": "제83조",
+            "line_text": "제91조(부외자산의 범위) ① 부외자산은 성질상 당연히 자산으로 취급되어야 하거나 자산으로 관리할 가치가 있는 자산이 재무상태표의 자산의 부에 계상되지 아니한 자산을 말한다. <개정 2013. 10. 25.>② 실질적으로 사용하고 있으나 소유권이 타인에게 속해 있는 임차자산, 담보자산, 국유재산 등은 부외자산에 준하여 관리한다.[종전 제83조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제83조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제83조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0091",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0083"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0091"
+      },
+      {
+        "article_no": "제92조",
+        "article_title": "부외자산의 자산등재",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제92조(부외자산의 자산등재) ① 부외자산을 자산에 등재하는 경우의 등재가액은 취득가액 또는 시가 또는 평가액으로 한다. 이 경우 등재가액은 사업외수익으로 계상한다.② 감가상각이 완료된 자산에서 제각된 자산 중 불용된 자산은 평가에 따라 자산에 등재할 수 있다. 이 경우 평가익은 사업외수익으로 계상한다. <개정 2015. 09. 24.>③ 자산의 기증 또는 증여가 있을 경우 적절한 평가를 하여 자산으로 등재할 수 있다. 이 경우 자산에 등재한 취득원가는 사업외수익으로 계상한다. <개정 2015. 09. 24.>④ 수익적 지출에 의하여 비용 처리된 자산으로서 사용 후 반납된 것은 그 상태를 감안하여 재생 후 재입고 시키거나 폐기처리 하여야 한다. 이 경우 재활용의 가치가 있는 것은 재생 후 그 상태에 따른 평가액을 입고가액으로 할 수 있으며 평가액에서 재생비용을 공제한 가액을 평가익으로 하고 이를 사업외수익으로 계상한다.[종전 제84조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제92조",
+            "source_clause": "제92조",
+            "link_text": "제84조",
+            "line_text": "제92조(부외자산의 자산등재) ① 부외자산을 자산에 등재하는 경우의 등재가액은 취득가액 또는 시가 또는 평가액으로 한다. 이 경우 등재가액은 사업외수익으로 계상한다.② 감가상각이 완료된 자산에서 제각된 자산 중 불용된 자산은 평가에 따라 자산에 등재할 수 있다. 이 경우 평가익은 사업외수익으로 계상한다. <개정 2015. 09. 24.>③ 자산의 기증 또는 증여가 있을 경우 적절한 평가를 하여 자산으로 등재할 수 있다. 이 경우 자산에 등재한 취득원가는 사업외수익으로 계상한다. <개정 2015. 09. 24.>④ 수익적 지출에 의하여 비용 처리된 자산으로서 사용 후 반납된 것은 그 상태를 감안하여 재생 후 재입고 시키거나 폐기처리 하여야 한다. 이 경우 재활용의 가치가 있는 것은 재생 후 그 상태에 따른 평가액을 입고가액으로 할 수 있으며 평가액에서 재생비용을 공제한 가액을 평가익으로 하고 이를 사업외수익으로 계상한다.[종전 제84조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제84조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제84조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0092",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0084"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0092"
+      },
+      {
+        "article_no": "제93조",
+        "article_title": "임차자산 등의 관리",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제93조(임차자산 등의 관리) 임차자산 등 타인의 소유에 속하는 자산은 원상을 유지할 수 있도록 관리하여야 하며, 유지에 지출된 비용은 그 자산의 용도에 따라 사업비용 또는 사업외비용으로 계상한다.[종전 제85조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제93조",
+            "source_clause": "제93조",
+            "link_text": "제85조",
+            "line_text": "제93조(임차자산 등의 관리) 임차자산 등 타인의 소유에 속하는 자산은 원상을 유지할 수 있도록 관리하여야 하며, 유지에 지출된 비용은 그 자산의 용도에 따라 사업비용 또는 사업외비용으로 계상한다.[종전 제85조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제85조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제85조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0093",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0085"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0093"
+      },
+      {
+        "article_no": "제94조",
+        "article_title": "관리대장",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제94조(관리대장) 유형자산, 부외자산의 관리를 위하여 자산별 대장을 비치하고 취득, 처분, 교환 등의 내용을 발생순으로 기장 정리하여야 한다.[종전 제86조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제94조",
+            "source_clause": "제94조",
+            "link_text": "제86조",
+            "line_text": "제94조(관리대장) 유형자산, 부외자산의 관리를 위하여 자산별 대장을 비치하고 취득, 처분, 교환 등의 내용을 발생순으로 기장 정리하여야 한다.[종전 제86조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제86조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제86조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0094",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0086"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0094"
+      },
+      {
+        "article_no": "제95조",
+        "article_title": "장부 및 부속서류",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제95조(장부 및 부속서류) ① 유형자산에 관한 장부 및 부속서류는 다음 각 호와 같다.1. 유형자산 총괄대장2. 유형자산대장(사용부서)3. 유형자산 감가상각대장4. 토지건물의 도면5. 기타부속서류② 부외자산에 관한 장부 및 부속서류는 세칙으로 정한다.[종전 제87조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제95조",
+            "source_clause": "제95조",
+            "link_text": "제87조",
+            "line_text": "제95조(장부 및 부속서류) ① 유형자산에 관한 장부 및 부속서류는 다음 각 호와 같다.1. 유형자산 총괄대장2. 유형자산대장(사용부서)3. 유형자산 감가상각대장4. 토지건물의 도면5. 기타부속서류② 부외자산에 관한 장부 및 부속서류는 세칙으로 정한다.[종전 제87조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제87조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제87조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0095",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0087"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0095"
+      },
+      {
+        "article_no": "제96조",
+        "article_title": "취득일",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제96조(취득일) 유형자산의 취득일은 취득에 관한 조서작성일로 한다.[종전 제88조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제96조",
+            "source_clause": "제96조",
+            "link_text": "제88조",
+            "line_text": "제96조(취득일) 유형자산의 취득일은 취득에 관한 조서작성일로 한다.[종전 제88조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제88조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제88조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0096",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0088"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0096"
+      },
+      {
+        "article_no": "제97조",
+        "article_title": "결산",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제97조(결산) ① 결산은 당해연도의 경영성과와 재정상태를 명확히 파악할 수 있도록 명료하게 하여야 한다.② 결산은 회계년도말을 기준으로 하여 실시하고 시산표는 매월 작성한다. 다만, 필요한 경우에는 제계정 정리 등의 절차를 생략한 가결산 및 회계년도 중에 결산에 준하는 임시결산을 실시할 수 있다.[종전 제89조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제97조",
+            "source_clause": "제97조",
+            "link_text": "제89조",
+            "line_text": "제97조(결산) ① 결산은 당해연도의 경영성과와 재정상태를 명확히 파악할 수 있도록 명료하게 하여야 한다.② 결산은 회계년도말을 기준으로 하여 실시하고 시산표는 매월 작성한다. 다만, 필요한 경우에는 제계정 정리 등의 절차를 생략한 가결산 및 회계년도 중에 결산에 준하는 임시결산을 실시할 수 있다.[종전 제89조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제89조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제89조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0097",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0089"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0097"
+      },
+      {
+        "article_no": "제98조",
+        "article_title": "결산지침",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제98조(결산지침) 이사장은 다음 각 호의 사항을 포함한 자체결산지침을 작성하여 결산일 15일전까지 각 회계단위에 시달하여야 한다.1. 회계단위별 결산일정2. 결산에 관한 기준과 원칙 및 제규정3. 결산정리에 관련되는 사항4. 기타 결산에 필요한 사항[종전 제90조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제98조",
+            "source_clause": "제98조",
+            "link_text": "제90조",
+            "line_text": "제98조(결산지침) 이사장은 다음 각 호의 사항을 포함한 자체결산지침을 작성하여 결산일 15일전까지 각 회계단위에 시달하여야 한다.1. 회계단위별 결산일정2. 결산에 관한 기준과 원칙 및 제규정3. 결산정리에 관련되는 사항4. 기타 결산에 필요한 사항[종전 제90조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제90조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제90조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0098",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0090"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0098"
+      },
+      {
+        "article_no": "제99조",
+        "article_title": "결산정리",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제99조(결산정리) ① 결산에 앞서 자산, 부채 및 자본과 손익에 관련되는 항목중 결산에 필요한 사항은 정리하여야 한다.② 결산 시에는 연도이월이 불가피한 사항을 제외하고는 모든 미결산계정을 정리하여야 한다.[종전 제91조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제99조",
+            "source_clause": "제99조",
+            "link_text": "제91조",
+            "line_text": "제99조(결산정리) ① 결산에 앞서 자산, 부채 및 자본과 손익에 관련되는 항목중 결산에 필요한 사항은 정리하여야 한다.② 결산 시에는 연도이월이 불가피한 사항을 제외하고는 모든 미결산계정을 정리하여야 한다.[종전 제91조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제91조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제91조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0099",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0091"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0099"
+      },
+      {
+        "article_no": "제100조",
+        "article_title": "결산의 수행",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제100조(결산의 수행) ① 이사장은 회계연도가 끝난 후 지체 없이 그 회계연도의 결산서를 작성하여야 한다.② 이사장은 결산을 할 때 해당 회계연도의 경영성과와 재무상태를 명확하게 표시할 수 있도록 하여야 한다.③ 결산은 각 회계단위별로 실시하고 본사의 총괄회계단위에서 총괄하여 결산서를 작성한다.[종전 제92조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제100조",
+            "source_clause": "제100조",
+            "link_text": "제92조",
+            "line_text": "제100조(결산의 수행) ① 이사장은 회계연도가 끝난 후 지체 없이 그 회계연도의 결산서를 작성하여야 한다.② 이사장은 결산을 할 때 해당 회계연도의 경영성과와 재무상태를 명확하게 표시할 수 있도록 하여야 한다.③ 결산은 각 회계단위별로 실시하고 본사의 총괄회계단위에서 총괄하여 결산서를 작성한다.[종전 제92조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제92조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제92조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0100",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0092"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0100"
+      },
+      {
+        "article_no": "제101조",
+        "article_title": "결산서 제출",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제101조(결산서 제출) ① 회계연도가 종료된 때에는 지체 없이 그 회계연도의 결산서를 작성하고, 감사원규칙이 정하는 바에 따라 공인회계사나 「공인회계사법」\n제23조(설립)의 규정에 따라 설립된 회계법인(이하 \"회계법인\"이라 한다)을 선정하여 회계감사를 받아야 한다.② 이사장은 주무기관의 장에게 제1항의 규정에 따른 결산서에 다음 각 호의 서류를 첨부하여 「공공기관의 운영에 관한 법률」 제43조제2항에서 정한 기한 이내에 각각 제출하고, 그 승인을 얻어 결산을 확정하여야 한다. <개정 2025. 12. 29.>1. 삭제 <2025. 12. 29.>2. 삭제 <2025. 12. 29.>3. 재무제표(공인회계사나 회계법인의 감사의견서를 포함한다)와 그 부속서류4. 삭제 <2025. 12. 29.>5. 그 밖에 결산의 내용을 명확하게 하기 위하여 필요한 서류[종전 제93조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제101조",
+            "source_clause": "제101조제1항",
+            "link_text": "「공인회계사법」",
+            "line_text": "",
+            "target_law_name": "공인회계사법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공인회계사법",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0101",
+            "reference_id": "law:공인회계사법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제101조",
+            "source_clause": "제101조제1항",
+            "link_text": "제23조",
+            "line_text": "",
+            "target_law_name": "공인회계사법",
+            "target_article_no": "제23조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공인회계사법/제23조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0101",
+            "reference_id": "law:공인회계사법#JO0023"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제101조",
+            "source_clause": "제101조제2항",
+            "link_text": "「공공기관의 운영에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "공공기관의 운영에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0101",
+            "reference_id": "law:공공기관의운영에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제101조",
+            "source_clause": "제101조제2항",
+            "link_text": "제43조제2항",
+            "line_text": "",
+            "target_law_name": "공공기관의 운영에 관한 법률",
+            "target_article_no": "제43조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률/제43조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0101",
+            "reference_id": "law:공공기관의운영에관한법률#JO0043"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제101조",
+            "source_clause": "제101조",
+            "link_text": "제93조",
+            "line_text": "제101조(결산서 제출) ① 회계연도가 종료된 때에는 지체 없이 그 회계연도의 결산서를 작성하고, 감사원규칙이 정하는 바에 따라 공인회계사나 「공인회계사법」\n제23조(설립)의 규정에 따라 설립된 회계법인(이하 \"회계법인\"이라 한다)을 선정하여 회계감사를 받아야 한다.② 이사장은 주무기관의 장에게 제1항의 규정에 따른 결산서에 다음 각 호의 서류를 첨부하여 「공공기관의 운영에 관한 법률」 제43조제2항에서 정한 기한 이내에 각각 제출하고, 그 승인을 얻어 결산을 확정하여야 한다. <개정 2025. 12. 29.>1. 삭제 <2025. 12. 29.>2. 삭제 <2025. 12. 29.>3. 재무제표(공인회계사나 회계법인의 감사의견서를 포함한다)와 그 부속서류4. 삭제 <2025. 12. 29.>5. 그 밖에 결산의 내용을 명확하게 하기 위하여 필요한 서류[종전 제93조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제93조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제93조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0101",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0093"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0101"
+      },
+      {
+        "article_no": "제102조",
+        "article_title": "결산총평",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제102조(결산총평) 결산총평은 결산서의 내용을 요약하고 결산결과를 분석함으로써 한국석유관리원의 재무상태 및 경영성과의 결과에 관하여 종합적인 평가정보가 제공될 수 있도록 다음 각 호의 사항이 포함되어야 한다.1. 조직구조와 주요업무2. 경영목표와 결과3. 당해 회계연도의 경영상태 요약 및 직전 회계연도 요약4. 수익ㆍ비용ㆍ시설투자ㆍ장기부채 등 주요 항목에 대한 비교분석5. 재무제표가 관련 법령에 따라 적정하게 작성되었는지에 관한 사항6. 결산이 신뢰성 있게 작성되었는지에 관한 사항7. 기타 경영 전반에 관한 객관적 평가ㆍ분석[종전 제94조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제102조",
+            "source_clause": "제102조",
+            "link_text": "제94조",
+            "line_text": "제102조(결산총평) 결산총평은 결산서의 내용을 요약하고 결산결과를 분석함으로써 한국석유관리원의 재무상태 및 경영성과의 결과에 관하여 종합적인 평가정보가 제공될 수 있도록 다음 각 호의 사항이 포함되어야 한다.1. 조직구조와 주요업무2. 경영목표와 결과3. 당해 회계연도의 경영상태 요약 및 직전 회계연도 요약4. 수익ㆍ비용ㆍ시설투자ㆍ장기부채 등 주요 항목에 대한 비교분석5. 재무제표가 관련 법령에 따라 적정하게 작성되었는지에 관한 사항6. 결산이 신뢰성 있게 작성되었는지에 관한 사항7. 기타 경영 전반에 관한 객관적 평가ㆍ분석[종전 제94조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제94조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제94조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0102",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0094"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0102"
+      },
+      {
+        "article_no": "제103조",
+        "article_title": "주석",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제103조(주석) ① 주석은 재무제표의 일부분으로서 정보이용자에게 충분한 회계정보를 제공하기 위하여 채택한 주요한 회계정책 및 과목의 세부내역과 재무제표에 중대한 영향을 미치는 사항을 설명한 것을 말한다.② 다른 법령의 특별한 규정에 따라 이 규정과 다르게 적용한 경우에는 그 차이 내역, 순자산 및 당기손익에 미치는 영향을 주석으로 기재한다.[종전 제95조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제103조",
+            "source_clause": "제103조",
+            "link_text": "제95조",
+            "line_text": "제103조(주석) ① 주석은 재무제표의 일부분으로서 정보이용자에게 충분한 회계정보를 제공하기 위하여 채택한 주요한 회계정책 및 과목의 세부내역과 재무제표에 중대한 영향을 미치는 사항을 설명한 것을 말한다.② 다른 법령의 특별한 규정에 따라 이 규정과 다르게 적용한 경우에는 그 차이 내역, 순자산 및 당기손익에 미치는 영향을 주석으로 기재한다.[종전 제95조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제95조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제95조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0103",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0095"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0103"
+      },
+      {
+        "article_no": "제104조",
+        "article_title": "부속명세서",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제104조(부속명세서) 부속명세서는 재무제표에 표시된 과목에 대한 세부내역을 명시할 필요가 있을 때 추가적인 정보를 제공하기 위한 것을 말한다.[종전 제96조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제104조",
+            "source_clause": "제104조",
+            "link_text": "제96조",
+            "line_text": "제104조(부속명세서) 부속명세서는 재무제표에 표시된 과목에 대한 세부내역을 명시할 필요가 있을 때 추가적인 정보를 제공하기 위한 것을 말한다.[종전 제96조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제96조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제96조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0104",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0096"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0104"
+      },
+      {
+        "article_no": "제105조",
+        "article_title": "결산서의 비치, 공시, 공고",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제105조(결산서의 비치, 공시, 공고) 결산서류의 비치, 공시 및 공고에 관한 사항은 정관 또는 공공기관이 운영에 관한 법률 제11조의 규정에 의한다.[종전 제97조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제105조",
+            "source_clause": "제105조",
+            "link_text": "제11조",
+            "line_text": "",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제11조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0105",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0011"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제105조",
+            "source_clause": "제105조",
+            "link_text": "제97조",
+            "line_text": "제105조(결산서의 비치, 공시, 공고) 결산서류의 비치, 공시 및 공고에 관한 사항은 정관 또는 공공기관이 운영에 관한 법률 제11조의 규정에 의한다.[종전 제97조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제97조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제97조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0105",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0097"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0105"
+      },
+      {
+        "article_no": "제106조",
+        "article_title": "외화자산 등의 평가기준",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제106조(외화자산 등의 평가기준) 외화자산 및 외화부채의 평가는 특별한 경우를 제외하고는 결산일 현재 외국환은행이 고시하는 외국환 대고객 매도율을 기준으로 한다.[종전 제99조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제106조",
+            "source_clause": "제106조",
+            "link_text": "제99조",
+            "line_text": "제106조(외화자산 등의 평가기준) 외화자산 및 외화부채의 평가는 특별한 경우를 제외하고는 결산일 현재 외국환은행이 고시하는 외국환 대고객 매도율을 기준으로 한다.[종전 제99조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제99조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제99조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0106",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0099"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0106"
+      },
+      {
+        "article_no": "제107조",
+        "article_title": "불확정채권ㆍ채무의 정리",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제107조(불확정채권ㆍ채무의 정리) 불확정 채권은 귀속의 사유가 확정되지 아니하는 한 계상하지 아니하고 불확정 채무에 대하여는 면책의 사유가 확정되지 아니하는 한 계상하여야 한다.[종전 제100조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제107조",
+            "source_clause": "제107조",
+            "link_text": "제100조",
+            "line_text": "제107조(불확정채권ㆍ채무의 정리) 불확정 채권은 귀속의 사유가 확정되지 아니하는 한 계상하지 아니하고 불확정 채무에 대하여는 면책의 사유가 확정되지 아니하는 한 계상하여야 한다.[종전 제100조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제100조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제100조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0107",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0100"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0107"
+      },
+      {
+        "article_no": "제108조",
+        "article_title": "확정급여채무",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제108조(확정급여채무) 확정급여채무는 현재가치로 평가하며 결산일을 기준으로 K-IFRS 제1019호에 따라 예측단위적립방식으로 계상한다. <개정 2015. 09. 24.>[제목개정 2015. 09. 24.][종전 제101조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제108조",
+            "source_clause": "제108조",
+            "link_text": "제101조",
+            "line_text": "제108조(확정급여채무) 확정급여채무는 현재가치로 평가하며 결산일을 기준으로 K-IFRS 제1019호에 따라 예측단위적립방식으로 계상한다. <개정 2015. 09. 24.>[제목개정 2015. 09. 24.][종전 제101조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제101조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제101조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0108",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0101"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0108"
+      },
+      {
+        "article_no": "제109조",
+        "article_title": "대손충당금의 적립",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제109조(대손충당금의 적립) 이사장은 외상매출금, 받을어음, 미수금 및 미수수익과 이와 비슷한 채권, 장기성매출채권 등에 대하여 대손충당금을 적립하여야 한다. 이 경우 대손추산액을 산정할 때에 채무자가 국가ㆍ지방자치단체인 채권액은 제외한다.[종전 제102조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제109조",
+            "source_clause": "제109조",
+            "link_text": "제102조",
+            "line_text": "제109조(대손충당금의 적립) 이사장은 외상매출금, 받을어음, 미수금 및 미수수익과 이와 비슷한 채권, 장기성매출채권 등에 대하여 대손충당금을 적립하여야 한다. 이 경우 대손추산액을 산정할 때에 채무자가 국가ㆍ지방자치단체인 채권액은 제외한다.[종전 제102조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제102조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제102조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0109",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0102"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0109"
+      },
+      {
+        "article_no": "제110조",
+        "article_title": "결손처리",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제110조(결손처리) 결산정리에 따라 결손처리하여야 할 사항이 발생하는 경우에는 이사회의 의결을 거쳐 사업외비용으로 계상한다.[종전 제103조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제110조",
+            "source_clause": "제110조",
+            "link_text": "제103조",
+            "line_text": "제110조(결손처리) 결산정리에 따라 결손처리하여야 할 사항이 발생하는 경우에는 이사회의 의결을 거쳐 사업외비용으로 계상한다.[종전 제103조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제103조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제103조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0110",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0103"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0110"
+      },
+      {
+        "article_no": "제111조",
+        "article_title": "장부의 마감 및 이월",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제111조(장부의 마감 및 이월) ① 결산정리후의 총계정원장에 의하여 시산표를 작성하고 제장부를 마감한다.② 결산정리후의 총계정원장의 각 잔액은 신장부에 이월한다.[종전 제104조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제111조",
+            "source_clause": "제111조",
+            "link_text": "제104조",
+            "line_text": "제111조(장부의 마감 및 이월) ① 결산정리후의 총계정원장에 의하여 시산표를 작성하고 제장부를 마감한다.② 결산정리후의 총계정원장의 각 잔액은 신장부에 이월한다.[종전 제104조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제104조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제104조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0111",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0104"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0111"
+      },
+      {
+        "article_no": "제112조",
+        "article_title": "결산보고",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제112조(결산보고) 각 회계단위는 결산에 관한 자료를 결산일로부터 20일 이내에 본사의 결산총괄부서에 제출하여야 한다.[종전 제105조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제112조",
+            "source_clause": "제112조",
+            "link_text": "제105조",
+            "line_text": "제112조(결산보고) 각 회계단위는 결산에 관한 자료를 결산일로부터 20일 이내에 본사의 결산총괄부서에 제출하여야 한다.[종전 제105조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제105조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제105조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0112",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0105"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0112"
+      },
+      {
+        "article_no": "제113조",
+        "article_title": "잉여금의 처분",
+        "chapter": "제4장 회계 및 결산",
+        "content": "제113조(잉여금의 처분) 당기말 미처분이익잉여금의 처분은 이사회의 의결을 거쳐 그 사실을 주무기관의 장에게 보고하여야 한다.[종전 제106조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제113조",
+            "source_clause": "제113조",
+            "link_text": "제106조",
+            "line_text": "제113조(잉여금의 처분) 당기말 미처분이익잉여금의 처분은 이사회의 의결을 거쳐 그 사실을 주무기관의 장에게 보고하여야 한다.[종전 제106조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제106조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제106조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0113",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0106"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0113"
+      },
+      {
+        "article_no": "제114조",
+        "article_title": "예산 총액주의 원칙",
+        "chapter": "제5장 예산",
+        "content": "제114조(예산 총액주의 원칙) 예산은 총액주의의 원칙에 의하여 작성하여야 한다.[종전 제107조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제114조",
+            "source_clause": "제114조",
+            "link_text": "제107조",
+            "line_text": "제114조(예산 총액주의 원칙) 예산은 총액주의의 원칙에 의하여 작성하여야 한다.[종전 제107조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제107조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제107조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0114",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0107"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0114"
+      },
+      {
+        "article_no": "제115조",
+        "article_title": "예산의 종류",
+        "chapter": "제5장 예산",
+        "content": "제115조(예산의 종류) 한국석유관리원의 예산은 손익예산과 자본예산으로 구분한다.[종전 제108조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제115조",
+            "source_clause": "제115조",
+            "link_text": "제108조",
+            "line_text": "제115조(예산의 종류) 한국석유관리원의 예산은 손익예산과 자본예산으로 구분한다.[종전 제108조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제108조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제108조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0115",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0108"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0115"
+      },
+      {
+        "article_no": "제116조",
+        "article_title": "예산의 내용 및 구분",
+        "chapter": "제5장 예산",
+        "content": "제116조(예산의 내용 및 구분) ① 예산은 예산총칙, 추정손익계산서, 추정재무상태표 및 자금계획서로 한다. <개정 2015. 09. 24.>② 추정손익계산서 및 추정재무상태표는 기능별, 성질별 또는 기관별로 각각 관, 항, 목으로 구분한다. <개정 2015. 09. 24.>[종전 제109조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제116조",
+            "source_clause": "제116조",
+            "link_text": "제109조",
+            "line_text": "제116조(예산의 내용 및 구분) ① 예산은 예산총칙, 추정손익계산서, 추정재무상태표 및 자금계획서로 한다. <개정 2015. 09. 24.>② 추정손익계산서 및 추정재무상태표는 기능별, 성질별 또는 기관별로 각각 관, 항, 목으로 구분한다. <개정 2015. 09. 24.>[종전 제109조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제109조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제109조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0116",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0109"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0116"
+      },
+      {
+        "article_no": "제117조",
+        "article_title": "예산관리자",
+        "chapter": "제5장 예산",
+        "content": "제117조(예산관리자) 본사의 예산총괄부서의 장을 예산관리자로 하고 본사의 각 부서의 장과 각 회계단위의 장을 부문예산관리자로 한다. 다만 1개의 회계단위내에 2개 이상의 조직단위가 있을 때에는 그 조직단위의 장을 부문예산관리자로 할 수 있다.[종전 제110조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제117조",
+            "source_clause": "제117조",
+            "link_text": "제110조",
+            "line_text": "제117조(예산관리자) 본사의 예산총괄부서의 장을 예산관리자로 하고 본사의 각 부서의 장과 각 회계단위의 장을 부문예산관리자로 한다. 다만 1개의 회계단위내에 2개 이상의 조직단위가 있을 때에는 그 조직단위의 장을 부문예산관리자로 할 수 있다.[종전 제110조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제110조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제110조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0117",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0110"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0117"
+      },
+      {
+        "article_no": "제118조",
+        "article_title": "예산의 전용",
+        "chapter": "제5장 예산",
+        "content": "제118조(예산의 전용) ① 이사장은 예산이 정한 각 관간에는 상호 전용할 수 없다.② 각 항간의 예산전용은 이사회의 의결을 거쳐 산업통상부장관에게 보고하여야 한다. <개정 2013. 10. 25, 2025. 12. 29.>③ 예산집행상 불가피하다고 인정될 경우에 각 목간의 예산은 이사장이 상호 전용하여 사용할 수 있으며 이사장은 이를 차기 이사회에 보고하여야 한다.[종전 제111조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제118조",
+            "source_clause": "제118조",
+            "link_text": "제111조",
+            "line_text": "제118조(예산의 전용) ① 이사장은 예산이 정한 각 관간에는 상호 전용할 수 없다.② 각 항간의 예산전용은 이사회의 의결을 거쳐 산업통상부장관에게 보고하여야 한다. <개정 2013. 10. 25, 2025. 12. 29.>③ 예산집행상 불가피하다고 인정될 경우에 각 목간의 예산은 이사장이 상호 전용하여 사용할 수 있으며 이사장은 이를 차기 이사회에 보고하여야 한다.[종전 제111조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제111조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제111조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0118",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0111"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0118"
+      },
+      {
+        "article_no": "제119조",
+        "article_title": "예산의 이월",
+        "chapter": "제5장 예산",
+        "content": "제119조(예산의 이월) 매회계년도의 지출예산은 다음회계년도에 이월하여 사용할 수 없다. 다만, 다음 각 호의 경우에는 이사회의 승인을 얻어 다음 회계년도에 이월하여 사용할 수 있다. <개정 2013. 10. 25.>1. 공사제조 또는 구매 중에 있는 자본예산 <신설 2013. 10. 25.>2. 연도 내 지출원인행위를 하였으나 불가피한 사유로 연도 내에 지출을 하지 못한 경비와 그에 수반되는 지출원인행위를 하지 아니한 부대경비 <신설 2013. 10. 25.>3. 지출원인행위를 위한 입찰공고 후 지출원인행위까지 장기간이 소요되는 경우로서 국가재정법시행령 제20조제1항에서 정하는 경비 <신설 2013. 10. 25.>[종전 제112조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제119조",
+            "source_clause": "제119조",
+            "link_text": "제20조제1항",
+            "line_text": "",
+            "target_law_name": "국가재정법시행령",
+            "target_article_no": "제20조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가재정법시행령/제20조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0119",
+            "reference_id": "law:국가재정법시행령#JO0020"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제119조",
+            "source_clause": "제119조",
+            "link_text": "제112조",
+            "line_text": "제119조(예산의 이월) 매회계년도의 지출예산은 다음회계년도에 이월하여 사용할 수 없다. 다만, 다음 각 호의 경우에는 이사회의 승인을 얻어 다음 회계년도에 이월하여 사용할 수 있다. <개정 2013. 10. 25.>1. 공사제조 또는 구매 중에 있는 자본예산 <신설 2013. 10. 25.>2. 연도 내 지출원인행위를 하였으나 불가피한 사유로 연도 내에 지출을 하지 못한 경비와 그에 수반되는 지출원인행위를 하지 아니한 부대경비 <신설 2013. 10. 25.>3. 지출원인행위를 위한 입찰공고 후 지출원인행위까지 장기간이 소요되는 경우로서 국가재정법시행령 제20조제1항에서 정하는 경비 <신설 2013. 10. 25.>[종전 제112조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제112조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제112조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0119",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0112"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0119"
+      },
+      {
+        "article_no": "제120조",
+        "article_title": "예산편성지침",
+        "chapter": "제5장 예산",
+        "content": "제120조(예산편성지침) 예산관리자는 자체예산편성지침을 전년도 9월 30일까지 작성하여 이를 부문예산관리자에게 통보하여야 한다.[종전 제113조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제120조",
+            "source_clause": "제120조",
+            "link_text": "제113조",
+            "line_text": "제120조(예산편성지침) 예산관리자는 자체예산편성지침을 전년도 9월 30일까지 작성하여 이를 부문예산관리자에게 통보하여야 한다.[종전 제113조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제113조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제113조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0120",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0113"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0120"
+      },
+      {
+        "article_no": "제121조",
+        "article_title": "예산의 편성",
+        "chapter": "제5장 예산",
+        "content": "제121조(예산의 편성) ① 부문예산관리자는 제113조의 예산편성지침에 따라 소관 예산요구서와 이에 필요한 첨부서류를 전년도 10월 31일까지 예산관리자에게 제출하여야 한다.② 예산관리자는 각 부문별 예산요구서를 종합심의 조정 후 예산안을 편성하여 이사회의결로써 예산을 확정한다.③ 예산관리자는 확정된 예산의 내용을 기획재정부장관, 산업통상부장관 및 감사원장에게 보고하고 부문 예산관리자에게 통보하여야 한다. <개정 2013. 10. 25, 2025. 12. 29.>④ 예산이 확정된 후 경영목표가 변경되거나 그 밖의 불가피한 사유로 인하여 예산을 변경하고자 하는 경우에는 예산 확정에 관한 전항의 규정을 적용한다.[종전 제114조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제121조",
+            "source_clause": "제121조제1항",
+            "link_text": "제113조",
+            "line_text": "",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제113조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제113조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0121",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0113"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제121조",
+            "source_clause": "제121조",
+            "link_text": "제114조",
+            "line_text": "제121조(예산의 편성) ① 부문예산관리자는 제113조의 예산편성지침에 따라 소관 예산요구서와 이에 필요한 첨부서류를 전년도 10월 31일까지 예산관리자에게 제출하여야 한다.② 예산관리자는 각 부문별 예산요구서를 종합심의 조정 후 예산안을 편성하여 이사회의결로써 예산을 확정한다.③ 예산관리자는 확정된 예산의 내용을 기획재정부장관, 산업통상부장관 및 감사원장에게 보고하고 부문 예산관리자에게 통보하여야 한다. <개정 2013. 10. 25, 2025. 12. 29.>④ 예산이 확정된 후 경영목표가 변경되거나 그 밖의 불가피한 사유로 인하여 예산을 변경하고자 하는 경우에는 예산 확정에 관한 전항의 규정을 적용한다.[종전 제114조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제114조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제114조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0121",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0114"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0121"
+      },
+      {
+        "article_no": "제122조",
+        "article_title": "사업운영계획",
+        "chapter": "제5장 예산",
+        "content": "제122조(사업운영계획) ① 부문예산관리자는 예산결정 통지를 받은 후 지체 없이 4분기별 사업운영 계획을 작성하여 사업계획 및 예산담당 부서장에게 제출하여야 한다.② 사업계획 및 예산담당 부서장은 전항의 사업운영계획을 종합ㆍ심의 조정 후 이사회 의결로써 사업운영계획을 확정한다.③ 사업계획 및 예산담당 부서장은 전항의 규정에 따라 수립된 그 회계연도의 운영계획을 지식경제부장관에게 예산이 확정된 후 2월 이내에 제출하고 부문예산관리자에게 통보하여야 한다.④ 제114조제4항의 규정에 따라 확정된 예산을 변경한 경우에는 이사회 의결을 거쳐 수립된 운영계획을 변경하여야 한다.[종전 제115조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제122조",
+            "source_clause": "제122조제4항",
+            "link_text": "제114조제4항",
+            "line_text": "",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제114조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제114조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0122",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0114"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제122조",
+            "source_clause": "제122조",
+            "link_text": "제115조",
+            "line_text": "제122조(사업운영계획) ① 부문예산관리자는 예산결정 통지를 받은 후 지체 없이 4분기별 사업운영 계획을 작성하여 사업계획 및 예산담당 부서장에게 제출하여야 한다.② 사업계획 및 예산담당 부서장은 전항의 사업운영계획을 종합ㆍ심의 조정 후 이사회 의결로써 사업운영계획을 확정한다.③ 사업계획 및 예산담당 부서장은 전항의 규정에 따라 수립된 그 회계연도의 운영계획을 지식경제부장관에게 예산이 확정된 후 2월 이내에 제출하고 부문예산관리자에게 통보하여야 한다.④ 제114조제4항의 규정에 따라 확정된 예산을 변경한 경우에는 이사회 의결을 거쳐 수립된 운영계획을 변경하여야 한다.[종전 제115조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제115조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제115조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0122",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0115"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0122"
+      },
+      {
+        "article_no": "제123조",
+        "article_title": "계속비",
+        "chapter": "제5장 예산",
+        "content": "제123조(계속비) ① 이사장은 완성에 수년도를 요하는 공사ㆍ제조 및 연구개발사업에 대한 비용의 총액과 연부액을 정하여 미리 이사회의 의결을 얻은 범위 안에서 수년도에 걸쳐서 지출할 수 있다.② 제1항에 따라 지출할 수 있는 연한은 당해 회계연도부터 5년 이내로 한다. 다만, 이사장이 필요하다고 인정하는 때에는 이사회의 의결을 거쳐 다시 그 연한을 연장할 수 있다.[종전 제116조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제123조",
+            "source_clause": "제123조",
+            "link_text": "제116조",
+            "line_text": "제123조(계속비) ① 이사장은 완성에 수년도를 요하는 공사ㆍ제조 및 연구개발사업에 대한 비용의 총액과 연부액을 정하여 미리 이사회의 의결을 얻은 범위 안에서 수년도에 걸쳐서 지출할 수 있다.② 제1항에 따라 지출할 수 있는 연한은 당해 회계연도부터 5년 이내로 한다. 다만, 이사장이 필요하다고 인정하는 때에는 이사회의 의결을 거쳐 다시 그 연한을 연장할 수 있다.[종전 제116조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제116조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제116조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0123",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0116"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0123"
+      },
+      {
+        "article_no": "제124조",
+        "article_title": "예비비",
+        "chapter": "제5장 예산",
+        "content": "제124조(예비비) ① 예측할 수 없는 예산외의 지출 또는 예산 초과지출에 충당하기 위하여 지출예산에 예비비를 계상한다.② 예비비는 독립된 관으로 계상한다.[종전 제117조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제124조",
+            "source_clause": "제124조",
+            "link_text": "제117조",
+            "line_text": "제124조(예비비) ① 예측할 수 없는 예산외의 지출 또는 예산 초과지출에 충당하기 위하여 지출예산에 예비비를 계상한다.② 예비비는 독립된 관으로 계상한다.[종전 제117조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제117조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제117조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0124",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0117"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0124"
+      },
+      {
+        "article_no": "제125조",
+        "article_title": "추가경정예산",
+        "chapter": "제5장 예산",
+        "content": "제125조(추가경정예산) ① 예산이 성립된 후에 사업계획의 변경 또는 기타 불가피한 사유로 이미 성립된 예산을 변경할 필요가 있을 때에는 추가경정예산을 편성할 수 있다.② 제1항의 추가경정예산의 편성 및 집행절차는 본예산에 준하여 처리한다.[종전 제118조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제125조",
+            "source_clause": "제125조",
+            "link_text": "제118조",
+            "line_text": "제125조(추가경정예산) ① 예산이 성립된 후에 사업계획의 변경 또는 기타 불가피한 사유로 이미 성립된 예산을 변경할 필요가 있을 때에는 추가경정예산을 편성할 수 있다.② 제1항의 추가경정예산의 편성 및 집행절차는 본예산에 준하여 처리한다.[종전 제118조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제118조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제118조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0125",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0118"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0125"
+      },
+      {
+        "article_no": "제126조",
+        "article_title": "예산불성립시의 예산집행",
+        "chapter": "제5장 예산",
+        "content": "제126조(예산불성립시의 예산집행) ① 예산이 부득이한 사유로 인하여 회계년도 개시 전까지 성립되지 아니한 때에는 당해 회계년도 예산안에 계상된 것으로써 다음 각 호의 경우에는 전년도 실적 범위내에서 집행할 수 있다.1. 임직원의 보수와 사업 활동에 필요한 기본경비 시설의 유지비② 제1항에 의하여 집행된 예산은 당해년도 예산이 성립되면 그 성립된 예산에 의하여 집행된 것으로 본다.[종전 제119조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제126조",
+            "source_clause": "제126조",
+            "link_text": "제119조",
+            "line_text": "제126조(예산불성립시의 예산집행) ① 예산이 부득이한 사유로 인하여 회계년도 개시 전까지 성립되지 아니한 때에는 당해 회계년도 예산안에 계상된 것으로써 다음 각 호의 경우에는 전년도 실적 범위내에서 집행할 수 있다.1. 임직원의 보수와 사업 활동에 필요한 기본경비 시설의 유지비② 제1항에 의하여 집행된 예산은 당해년도 예산이 성립되면 그 성립된 예산에 의하여 집행된 것으로 본다.[종전 제119조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제119조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제119조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0126",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0119"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0126"
+      },
+      {
+        "article_no": "제127조",
+        "article_title": "예산의 수정",
+        "chapter": "제5장 예산",
+        "content": "제127조(예산의 수정) 성립확정된 예산은 수정할 수 없다. 다만, 사업계획의 변경, 경제여건의 변동, 천재지변, 정부의 정책변경, 자금사정 기타 불가피사유가 발생하였을 경우에는 그러하지 아니하다.[종전 제120조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제127조",
+            "source_clause": "제127조",
+            "link_text": "제120조",
+            "line_text": "제127조(예산의 수정) 성립확정된 예산은 수정할 수 없다. 다만, 사업계획의 변경, 경제여건의 변동, 천재지변, 정부의 정책변경, 자금사정 기타 불가피사유가 발생하였을 경우에는 그러하지 아니하다.[종전 제120조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제120조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제120조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0127",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0120"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0127"
+      },
+      {
+        "article_no": "제128조",
+        "article_title": "예산통제",
+        "chapter": "제5장 예산",
+        "content": "제128조(예산통제) ① 예산의 통제는 금액통제를 원칙으로 하되 필요에 따라서 사업항목, 물량, 단가 또는 원단위로 통제할 수 있다.② 예산통제 기준시점은 손익예산은 발생시점, 자본예산과 구매예산은 지출원인 행위시점을 기준으로 한다.[종전 제121조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제128조",
+            "source_clause": "제128조",
+            "link_text": "제121조",
+            "line_text": "제128조(예산통제) ① 예산의 통제는 금액통제를 원칙으로 하되 필요에 따라서 사업항목, 물량, 단가 또는 원단위로 통제할 수 있다.② 예산통제 기준시점은 손익예산은 발생시점, 자본예산과 구매예산은 지출원인 행위시점을 기준으로 한다.[종전 제121조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제121조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제121조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0128",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0121"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0128"
+      },
+      {
+        "article_no": "제129조",
+        "article_title": "예산의 배정",
+        "chapter": "제5장 예산",
+        "content": "제129조(예산의 배정) ① 예산이 성립되면 예산관리자는 분기별 실행예산을 편성하고 분기 개시전에 예산을 배정하여야 한다.② 예산관리자는 분기별 또는 월별 사업시행 계획의 변경에 따라 예산배정을 조정할 수 있다.[종전 제122조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제129조",
+            "source_clause": "제129조",
+            "link_text": "제122조",
+            "line_text": "제129조(예산의 배정) ① 예산이 성립되면 예산관리자는 분기별 실행예산을 편성하고 분기 개시전에 예산을 배정하여야 한다.② 예산관리자는 분기별 또는 월별 사업시행 계획의 변경에 따라 예산배정을 조정할 수 있다.[종전 제122조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제122조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제122조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0129",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0122"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0129"
+      },
+      {
+        "article_no": "제130조",
+        "article_title": "예비비 사용",
+        "chapter": "제5장 예산",
+        "content": "제130조(예비비 사용) 이사장은 예비비를 사용하고자 할 때에는 미리 그 사용이유 및 금액을 명시한 조서를 작성하여 이사회의 의결을 거쳐 산업통상부장관에게 보고하여야 한다. 다만, 정부 경영평가 결과에 따른 경영평가성과급 예비비 사용은 이사회의 의결을 거치지 아니하고, 경영실적 평가결과 및 후속조치 등 정부지침에 따라 지급할 수 있다. <개정 2010. 07. 29., 2013. 10. 25., 2025. 12. 29.>[종전 제123조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제130조",
+            "source_clause": "제130조",
+            "link_text": "제123조",
+            "line_text": "제130조(예비비 사용) 이사장은 예비비를 사용하고자 할 때에는 미리 그 사용이유 및 금액을 명시한 조서를 작성하여 이사회의 의결을 거쳐 산업통상부장관에게 보고하여야 한다. 다만, 정부 경영평가 결과에 따른 경영평가성과급 예비비 사용은 이사회의 의결을 거치지 아니하고, 경영실적 평가결과 및 후속조치 등 정부지침에 따라 지급할 수 있다. <개정 2010. 07. 29., 2013. 10. 25., 2025. 12. 29.>[종전 제123조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제123조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제123조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0130",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0123"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0130"
+      },
+      {
+        "article_no": "제131조",
+        "article_title": "예산집행 실적보고",
+        "chapter": "제5장 예산",
+        "content": "제131조(예산집행 실적보고) ① 부문예산관리자는 매분기 말일을 기준으로 하여 예산배정액과 대비한 예산집행실적을 예산관리자에게 보고하여야 한다.② 예산관리자는 제1항의 보고서를 종합 분석하고 그 결과를 매분기마다 이사장에게 보고한다.③ 제1항의 보고서에는 사업실적과 수지사항에 관한 자료를 첨부하여야 한다.[종전 제124조에서 이동 <2015. 09. 24.>]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제131조",
+            "source_clause": "제131조",
+            "link_text": "제124조",
+            "line_text": "제131조(예산집행 실적보고) ① 부문예산관리자는 매분기 말일을 기준으로 하여 예산배정액과 대비한 예산집행실적을 예산관리자에게 보고하여야 한다.② 예산관리자는 제1항의 보고서를 종합 분석하고 그 결과를 매분기마다 이사장에게 보고한다.③ 제1항의 보고서에는 사업실적과 수지사항에 관한 자료를 첨부하여야 한다.[종전 제124조에서 이동 <2015. 09. 24.>]",
+            "target_law_name": "(한국석유관리원) 회계규정",
+            "target_article_no": "제124조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정/제124조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(한국석유관리원)회계규정#JO0131",
+            "reference_id": "pi:(한국석유관리원)회계규정#JO0124"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(한국석유관리원)회계규정#JO0131"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20090424",
+      "promulgation_no": "10",
+      "content": "부칙 <제10호, 2009.04.24.>이 규정은 한국석유관리원이 설립등기를 한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20100729",
+      "promulgation_no": "11",
+      "content": "부칙 <제11호, 2010.07.29.>이 규정은 이사회에서 의결한 날부터 시행한다"
+    },
+    {
+      "promulgation_date": "20131025",
+      "promulgation_no": "12",
+      "content": "부칙 <제12호, 2013.10.25.>제1조 (시행일) 이 규정은 이사회의 의결을 받은 날부터 시행한다.제2조 (정부조직법 개정에 따른 용어변경) 이 규정에서 인용한 정부조직의 기관 및 기관장 명칭은 정부조직법 개정(법률 제11690호, 2013. 3. 23)을 따른다."
+    },
+    {
+      "promulgation_date": "20150924",
+      "promulgation_no": "13",
+      "content": "부칙 <제13호, 2015.09.24.>이 규정은 이사회의 의결을 받은 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20251229",
+      "promulgation_no": "14",
+      "content": "부칙 <제14호, 2025.12.29.>제1조 (시행일) 이 규정은 이사회의 의결을 받은 날부터 시행한다.제2조 (정부조직법 개정에 따른 용어변경) 이 규정에서 인용한 정부조직의 기관 및 기관장 명칭은 「정부조직법」 개정(법률 제21065호, 2025. 10. 01)을 따른다."
+    }
+  ],
+  "appendices": [],
+  "attachments": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 86,
+    "by_category": {
+      "법령": 18,
+      "학칙공단": 67,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 19,
+      "internal_ref": 67
+    },
+    "articles_total": 131,
+    "articles_with_relations": 73,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 5,
+    "appendices_count": 0,
+    "attachments_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/학칙공단/(한국석유관리원) 회계규정"
+  },
+  "provision_id": "pi:(한국석유관리원)회계규정#DOC"
+}
