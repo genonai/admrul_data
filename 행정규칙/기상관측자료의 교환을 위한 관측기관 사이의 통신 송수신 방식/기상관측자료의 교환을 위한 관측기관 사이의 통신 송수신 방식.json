@@ -1,0 +1,381 @@
+{
+  "law_id": "2100000271120",
+  "mst": "2100000271120",
+  "law_name": "기상관측자료의 교환을 위한 관측기관 사이의 통신 송수신 방식",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000271120",
+  "promulgation_no": "2025-26",
+  "promulgation_date": "20251230",
+  "enforcement_date": "20251230",
+  "revision_date": "20251230",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "기상청(정보통신기술과)",
+    "담당자명": "김태형",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "기상관측자료의 교환을 위한 관측기관 사이의 통신 송수신 방식",
+    "발령일자": "20251230",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "기상청",
+    "전화번호": "02-2181-0722",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1360000",
+    "생성일자": "20260102",
+    "행정규칙ID": "33794",
+    "시행일자": "20251230",
+    "담당부서기관코드": "1360000",
+    "발령번호": "2025-26",
+    "행정규칙일련번호": "2100000271120",
+    "상위부처명": "기상청"
+  },
+  "amendment_text": "",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 9,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 고시는 「기상관측표준화법」 제12조제3항에 따른 기상관측자료의 원활한 교환을 위한 관측기관 사이의 통신 송수신 방식을 규정함을 목적으로 한다. <개정 2025. 12. 30.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「기상관측표준화법」",
+            "line_text": "",
+            "target_law_name": "기상관측표준화법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/기상관측표준화법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기상관측자료의교환을위한관측기관사이의통신송수신방식#JO0001",
+            "reference_id": "law:기상관측표준화법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제12조제3항",
+            "line_text": "",
+            "target_law_name": "기상관측표준화법",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/기상관측표준화법/제12조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기상관측자료의교환을위한관측기관사이의통신송수신방식#JO0001",
+            "reference_id": "law:기상관측표준화법#JO0012"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:기상관측자료의교환을위한관측기관사이의통신송수신방식#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) 이 고시에서 사용하는 용어의 정의는 「기상관측표준화법」 및 「자동기상관측장비의 표준규격」(기상청고시)이 정하는 바에 따른다.<개정 2015.8.20>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「기상관측표준화법」",
+            "line_text": "",
+            "target_law_name": "기상관측표준화법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/기상관측표준화법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기상관측자료의교환을위한관측기관사이의통신송수신방식#JO0002",
+            "reference_id": "law:기상관측표준화법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「자동기상관측장비의 표준규격」",
+            "line_text": "",
+            "target_law_name": "자동기상관측장비의 표준규격",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/자동기상관측장비의 표준규격",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기상관측자료의교환을위한관측기관사이의통신송수신방식#JO0002",
+            "reference_id": "admrul:자동기상관측장비의표준규격#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:기상관측자료의교환을위한관측기관사이의통신송수신방식#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "통신 송수신 방식 설정 시 고려사항",
+        "chapter": "",
+        "content": "제3조(통신 송수신 방식 설정 시 고려사항) 관측기관 사이의 통신 송수신 방식 설정 시 고려하여야 할 사항은 다음 각 호와 같다. <개정 2025. 12. 30.>1. 기존의 통신운영체제를 가능한 유지하면서 기상관측자료 수집ㆍ품질검사ㆍ분배의 일원화2. 기상관측자료 수집ㆍ분배의 신속성 및 효율성3. 기상관측자료 송수신의 안정성 및 경제성4. 관측기관의 기상관측자료 통합관리를 위한 통신운영체제 마련[제목개정 2025. 12. 30.]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:기상관측자료의교환을위한관측기관사이의통신송수신방식#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "기상관측자료의 구조",
+        "chapter": "",
+        "content": "제4조(기상관측자료의 구조) 기상관측자료의 교환 시 기상관측자료의 구조는 「자동기상관측장비의 표준규격」(기상청고시)(이하 \"자동관측 표준규격\"라 한다) 제10조를 따라야 한다.<개정 2015.8.20>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「자동기상관측장비의 표준규격」",
+            "line_text": "",
+            "target_law_name": "자동기상관측장비의 표준규격",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/자동기상관측장비의 표준규격",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기상관측자료의교환을위한관측기관사이의통신송수신방식#JO0004",
+            "reference_id": "admrul:자동기상관측장비의표준규격#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제10조",
+            "line_text": "",
+            "target_law_name": "자동기상관측장비의 표준규격",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/자동기상관측장비의 표준규격/제10조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기상관측자료의교환을위한관측기관사이의통신송수신방식#JO0004",
+            "reference_id": "admrul:자동기상관측장비의표준규격#JO0010"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:기상관측자료의교환을위한관측기관사이의통신송수신방식#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "기상관측의 시각동기화",
+        "chapter": "",
+        "content": "제5조(기상관측의 시각동기화) 기상관측자료의 원활한 송수신을 위하여 기상관측의 시각동기화는 자동관측 표준규격 제11조를 따라야 한다. <개정 2025. 12. 30.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:기상관측자료의교환을위한관측기관사이의통신송수신방식#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "기상관측자료의 송수신 방식",
+        "chapter": "",
+        "content": "제6조(기상관측자료의 송수신 방식) ① 관측기관이 기상관측자료의 공동활용을 위하여 관측소에서 관측된 기상관측자료를 기상정보시스템으로 송수신하는 방식은 다음 각 호와 같다. <개정 2025. 12. 30.>1. 기상관측자료 수집부가 있는 다른 관측기관: 보유 수집부를 기상정보시스템에 연계하여 기상관측자료를 송수신2. 기상관측자료 수집부가 없는 다른 관측기관: 관측소에서 가장 가까운 기상관서(기상청의 본청ㆍ지방기상청ㆍ기상지청ㆍ기상대)를 활용하여 기상관측자료를 송신<개정 2015.8.20>② 다른 관측기관은 기상관측자료를 보유 수집부를 통해 직접 수신 또는 기상정보시스템에 접속하여 활용할 수 있다.[제목개정 2025. 12. 30.]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:기상관측자료의교환을위한관측기관사이의통신송수신방식#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "기상관측자료의 송수신 구성도",
+        "chapter": "",
+        "content": "제7조(기상관측자료의 송수신 구성도) 제6조에 따른 기상관측자료의 송수신을 위한 통신운영시스템의 구성도는 별표와 같다. <개정 2025. 12. 30.>[제목개정 2025. 12. 30.]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "기상관측자료의 교환을 위한 관측기관 사이의 통신 송수신 방식",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/기상관측자료의 교환을 위한 관측기관 사이의 통신 송수신 방식/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기상관측자료의교환을위한관측기관사이의통신송수신방식#JO0007",
+            "reference_id": "admrul:기상관측자료의교환을위한관측기관사이의통신송수신방식#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:기상관측자료의교환을위한관측기관사이의통신송수신방식#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "기상관측자료의 관측주기 및 수집 소요시간",
+        "chapter": "",
+        "content": "제8조(기상관측자료의 관측주기 및 수집 소요시간) ① 기상관측자료의 관측주기는 다음 각 호와 같다.1. 유선통신망 : 1분을 권장하되 5분도 가능2. 무선통신망 : 10분을 권장하되 15분ㆍ30분ㆍ1시간도 가능② 기상관측자료의 수집 소요시간은 다음 각 호와 같다.1. 유선통신망 : 1분 이내2. 무선통신망 : 10분 이내",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:기상관측자료의교환을위한관측기관사이의통신송수신방식#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제9조(재검토기한) 기상청장은 이 고시에 대하여 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2026년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 해야 한다. <개정 2018.12.31., 2022.2.8., 2025. 12. 30.>[전문개정 2015.8.20]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:기상관측자료의교환을위한관측기관사이의통신송수신방식#JO0009",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:기상관측자료의교환을위한관측기관사이의통신송수신방식#JO0009"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20060630",
+      "promulgation_no": "33",
+      "content": "부칙 <제33호,2006. 6. 30.>이 고시는 2006년 7월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20090824",
+      "promulgation_no": "2009-1",
+      "content": "부칙 <제2009-1호,2009. 8. 24.>이 고시는 2009년 8월 24일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20120823",
+      "promulgation_no": "2012-1",
+      "content": "부칙 (일몰기간 연장을 위한 기상요소별 관측방법 등 일부개정)<제2012-1호,2012. 8. 23.>이 고시는 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20150820",
+      "promulgation_no": "2015-7",
+      "content": "부칙(기상요소별 관측방법 등 고시 일괄개정령) <제2015-7호,2015. 8. 20.>이 고시는 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20181231",
+      "promulgation_no": "2018-11",
+      "content": "부칙(재검토기한 도래에 따른 「황사 관측업무 위탁에 관한 고시」등 고시 일괄개정) <제2018-11호,2018. 12. 31.>이 고시는 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20220208",
+      "promulgation_no": "2022-2",
+      "content": "부칙 <제2022-2호, 2022. 2. 8.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20251230",
+      "promulgation_no": "2025-26",
+      "content": "부칙 <제2025-26호, 2025. 12. 30.>이 고시는 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "기상관측자료의 송수신 통신운영시스템의 구성도(제7조 관련)",
+      "enforcement_date": "",
+      "content": "■ [별표] <개정 2015.8.20., 2025. 12. 30.>\n기상관측자료의 송수신 통신운영시스템의 구성도(제7조 관련)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160444271",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160444267",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160444271",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:기상관측자료의교환을위한관측기관사이의통신송수신방식#BYL0000",
+      "filename": "별표0_기상관측자료의 송수신 통신운영시스템의 구성도(제7조 관련).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "「기상관측자료의 교환을 위한 관측기관 사이의 통신 송·수신 방식」 일부개정 전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=160444183",
+      "file_store_url": "",
+      "filename": "「기상관측자료의 교환을 위한 관측기관 사이의 통신 송·수신 방식」 일부개정 전문.hwpx"
+    },
+    {
+      "name": "「기상관측자료의 교환을 위한 관측기관 사이의 통신 송·수신 방식」 일부개정 전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=160444187",
+      "file_store_url": "",
+      "filename": "「기상관측자료의 교환을 위한 관측기관 사이의 통신 송·수신 방식」 일부개정 전문.pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 8,
+    "by_category": {
+      "법령": 3,
+      "행정규칙": 5
+    },
+    "by_relation_type": {
+      "citation": 7,
+      "internal_ref": 1
+    },
+    "articles_total": 9,
+    "articles_with_relations": 5,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 7,
+    "appendices_count": 1,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/기상관측자료의 교환을 위한 관측기관 사이의 통신 송수신 방식"
+  },
+  "provision_id": "admrul:기상관측자료의교환을위한관측기관사이의통신송수신방식#DOC"
+}
