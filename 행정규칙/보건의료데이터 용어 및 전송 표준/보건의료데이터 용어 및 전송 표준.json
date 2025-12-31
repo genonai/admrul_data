@@ -1,0 +1,294 @@
+{
+  "law_id": "2100000271160",
+  "mst": "2100000271160",
+  "law_name": "보건의료데이터 용어 및 전송 표준",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000271160",
+  "promulgation_no": "2025-244",
+  "promulgation_date": "20251231",
+  "enforcement_date": "20251231",
+  "revision_date": "20251231",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "보건복지부(보건의료데이터진흥과)",
+    "담당자명": "박정언",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "보건의료데이터 용어 및 전송 표준",
+    "발령일자": "20251231",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "보건복지부",
+    "전화번호": "044-202-2947",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1352000",
+    "생성일자": "20260105",
+    "행정규칙ID": "62344",
+    "시행일자": "20251231",
+    "담당부서기관코드": "1352794",
+    "발령번호": "2025-244",
+    "행정규칙일련번호": "2100000271160",
+    "상위부처명": "보건복지부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n보건의료데이터의 상호운용성 보장 범위 확대와 국제용어표준의 적용을 위해 핵심교류데이터 및 핵심교류데이터 전송 표준의 항목과 항목값을 추가하고, 일부 항목의 명칭을 변경하고자 함\n\n◇ 주요내용\n가. [별표1] 한국 핵심교류데이터 기존 분류명 통합\n나. [별표1] 한국 핵심교류데이터 기존 분류명 수정\n다. [별표1] 한국 핵심교류데이터의 항목 4건 신설\n라. [별표1] 한국 핵심교류데이터 기존 항목에 적용 가능한 항목값 3건 신설\n마. [별표2] 한국 핵심교류데이터 전송 표준의 상세규격 목록 4건 신설",
+  "body": {
+    "format": "articles",
+    "article_count": 4,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 고시는 「의료법」 제22조제4항에 따라 보건의료데이터의 용어 및 전송 표준을 정하여 데이터를 상호 교류하는 의료기관 등에게 그 사용을 권장함으로써 국민들의 의료 이용 편의를 높이며 나아가 국민건강 증진에 기여함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「의료법」",
+            "line_text": "",
+            "target_law_name": "의료법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/의료법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:보건의료데이터용어및전송표준#JO0001",
+            "reference_id": "law:의료법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제22조제4항",
+            "line_text": "",
+            "target_law_name": "의료법",
+            "target_article_no": "제22조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/의료법/제22조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:보건의료데이터용어및전송표준#JO0001",
+            "reference_id": "law:의료법#JO0022"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:보건의료데이터용어및전송표준#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) 이 고시에서 사용하는 용어의 뜻은 다음과 같다.1. \"핵심교류데이터\"란 데이터 상호 교류가 필요한 핵심 데이터 항목과 항목 값을 정의한 것을 말한다.2. \"핵심교류데이터 전송 표준\"이란 핵심교류데이터를 상호 교환할 때 따라야 하는 데이터 형식, 규격 등이 정의된 전송 기술 상세규격 및 컴퓨터 프로그램 코드 등을 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:보건의료데이터용어및전송표준#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "표준고시",
+        "chapter": "",
+        "content": "제3조(표준고시) ① 보건복지부장관은 다음 각 호의 데이터 표준을 보건의료정보표준관리시스템에 등록하여야 한다.1. 한국 핵심교류데이터2. 한국 핵심교류데이터 전송 표준② 제3조제1항제1호, 제2호는 각각 별표 1, 별표 2와 같다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "보건의료데이터 용어 및 전송 표준",
+            "target_article_no": "별표1",
+            "target_article_title": "한국 핵심교류데이터(제3조제1항제1호 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000271160&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:보건의료데이터용어및전송표준#JO0003",
+            "reference_id": "admrul:보건의료데이터용어및전송표준#BYL0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "보건의료데이터 용어 및 전송 표준",
+            "target_article_no": "별표2",
+            "target_article_title": "한국 핵심교류데이터 전송 표준(KR Core)(제3조제1항제2호 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000271160&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:보건의료데이터용어및전송표준#JO0003",
+            "reference_id": "admrul:보건의료데이터용어및전송표준#BYL0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:보건의료데이터용어및전송표준#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제4조(재검토기한) 보건복지부장관은「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2025년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:보건의료데이터용어및전송표준#JO0004",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:보건의료데이터용어및전송표준#JO0004"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20230915",
+      "promulgation_no": "2023-174",
+      "content": "부칙 <제2023-174호, 2023. 9. 15.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20241218",
+      "promulgation_no": "2024-256",
+      "content": "부칙 <제2024-256호, 2024. 12. 18.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20251231",
+      "promulgation_no": "2025-244",
+      "content": "부칙 <제2025-244호, 2025. 12. 31.>이 고시는 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "한국 핵심교류데이터(제3조제1항제1호 관련)",
+      "enforcement_date": "",
+      "content": "[별표 1]\n한국 핵심교류데이터(제3조제1항제1호 관련)\n(KR CDI: Korea Core Data for Interoperability)\n한국 핵심교류데이터(KR CDI) 정의\n가. 한국 내 의료데이터 교류 시 필요로 하는 최소한의 정보 집합을 말한다.\n나. 분류(Class, 14개), 항목(Element, 80개), 항목값(Value set)으로 구성되어있다.\n2. 용어설명\n가. ‘분류(Class)’란, 환자정보, 수술 및 처치정보, 약물정보 등 공통 주제 또는 항목의 집합을 말한다.\n나. ‘항목(Element)’이란, 성명, 수술명 및 처치명, 약품제품명 등 데이터 교류를 위해 정의한 최소 단위를 말한다.\n다. ‘항목값(Value set)’이란, 다양하게 사용하는 용어를 동일한 의미로 교류할 수 있도록 일원화한 특정 값, 용어 및 해당 코드의 목록을 말한다.\n3. 활용 방법\n가. ‘분류(Class)’는 전체를 활용하거나, 활용사례별로 일부 분류(Class)만을 선택하여 활용할 수 있다. 단, 환자정보는 필수 분류(Class) 이므로 반드시 포함해야 한다.\n나. ‘항목(Element)’은 필수여부에 따라 다음과 같이 활용한다.\n1) ‘필수여부’는 R(Required, 필수), R2(Required if exists, 조건부 필수), O(Optional, 선택)로 구분되며 의미는 다음과 같다.\n- R(Required, 필수): 필수적으로 입력\n- R2(Required if exists, 조건부 필수): 해당 데이터가 있다면 필수적으로 입력\n- O(Optional, 선택): 선택적으로 입력\n다. ‘항목값(Value set)’은 항목별 용어세트 및 필수여부에 따라 다음과 같이 활용한다.\n1) ‘용어세트’는 항목에 값을 입력할 때 상호운용성 확보가 가능한 참조 용어체계이다.\n※ 참조 용어체계가 없는 경우(‘-’): 입력 형식은 KR Core 기술구현 가이드(IG) 참조\n2) ‘필수여부’는 필수, 선택으로 구분되며 의미는 다음과 같다.\n- 필수: 필수적으로 명시한 용어분류체계 사용\n- 선택: 명시한 용어체계를 사용을 권장하지만, Free text 등 다른 용어 사용 가능\n라. 한국 핵심교류데이터(KR CDI)에 대한 자세한 설명은 보건의료정보표준관리시스템(http://www.hins.or.kr)를 참고한다.\n<한국 핵심교류데이터(KR CDI)>\n┌──────────────────────────────────────────┐\n│ 1) 기본정보                                                                        │\n├──┬────────┬─────────────┬────────────────┤\n│연번│분류            │항목(Element)             │항목값(Value set)               │\n│    │(Class)         ├──────────┬──┼─────────────┬──┤\n│    │                │명칭                │필수│용어세트                  │필수│\n│    │                │                    │여부│                          │여부│\n├──┼────────┼──────────┼──┼─────────────┼──┤\n│1   │환자 정보       │환자ID              │R   │-                         │-   │\n│    │                ├──────────┼──┼─────────────┼──┤\n│    │                │성명                │R   │-                         │-   │\n│    │                ├──────────┼──┼─────────────┼──┤\n│    │                │생년월일            │R   │-                         │-   │\n│    │                ├──────────┼──┼─────────────┼──┤\n│    │                │성별                │R   │FHIR AdministrativeGender │필수│\n│    │                ├───┬──────┼──┼─────────────┼──┤\n│    │                │연락처│전화번호    │O   │-                         │-   │\n│    │                │      ├──────┼──┼─────────────┼──┤\n│    │                │      │이메일      │O   │-                         │-   │\n│    │                ├───┴──────┼──┼─────────────┼──┤\n│    │                │주소                │O   │-                         │-   │\n│    │                ├──────────┼──┼─────────────┼──┤\n│    │                │건강보험유형        │O   │심평원 보험자 구분코드    │필수│\n│    │                ├──────────┼──┼─────────────┼──┤\n│    │                │연명의료 의향       │O   │-                         │-   │\n├──┼────────┼──────────┼──┼─────────────┼──┤\n│2   │진료의 정보 및  │진료의ID            │R   │보건복지부 의료인 면허코드│필수│\n│    │역할 정보       ├──────────┼──┼─────────────┼──┤\n│    │                │성명                │R   │-                         │    │\n│    │                ├──────────┼──┼─────────────┼──┤\n│    │                │진료과              │R   │심평원 진료과목코드       │필수│\n├──┼────────┼──────────┼──┼─────────────┼──┤\n│3   │의료기관 정보   │의료기관 ID         │R   │심평원 요양기관번호       │필수│\n│    │                ├──────────┼──┼─────────────┼──┤\n│    │                │의료기관명          │R   │-                         │-   │\n│    │                ├──────────┼──┼─────────────┼──┤\n│    │                │의료기관 유형       │R2  │심평원 종별코드           │필수│\n│    │                ├───┬──────┼──┼─────────────┼──┤\n│    │                │연락처│전화번호    │O   │-                         │-   │\n│    │                │      ├──────┼──┼─────────────┼──┤\n│    │                │      │주소        │O   │-                         │-   │\n│    │                │      ├──────┼──┼─────────────┼──┤\n│    │                │      │팩스번호    │O   │-                         │-   │\n├──┼────────┼───┴──────┼──┼─────────────┼──┤\n│4   │내원 정보       │진료 구분           │R   │FHIR ActEncounterCode     │필수│\n│    │                ├──────────┼──┼─────────────┼──┤\n│    │                │내원 상태           │R   │FHIR EncounterStatus      │필수│\n│    │                ├────┬─────┼──┼─────────────┼──┤\n│    │                │내원    │시작 일자 │R2  │-                         │-   │\n│    │                │기간    ├─────┼──┼─────────────┼──┤\n│    │                │        │종료 일자 │R2  │-                         │-   │\n└──┴────────┴────┴─────┴──┴─────────────┴──┘\n┌──────────────────────────────────────────┐\n│2) 진료정보                                                                         │\n├──┬────────┬────────────┬─────────────────┤\n│연번│분류            │항목(Element)           │항목값(Value set)                 │\n│    │(Class)         ├─────────┬──┼──────────────┬──┤\n│    │                │명칭              │필수│용어세트                    │필수│\n│    │                │                  │여부│                            │여부│\n├──┼────────┼─────────┼──┼──────────────┼──┤\n│5   │진단 및 주호소  │진단 일자         │R   │-                           │-   │\n│    │정보            ├─────────┼──┼──────────────┼──┤\n│    │                │진단명            │R   │KCD-8                       │필수│\n│    │                ├─────────┼──┼──────────────┼──┤\n│    │                │진단 임상적 상태  │R2  │FHIR                        │필수│\n│    │                │                  │    │ConditionClinicalStatusCodes│    │\n│    │                ├─────────┼──┼──────────────┼──┤\n│    │                │주호소 발생 일자  │O   │-                           │-   │\n│    │                ├─────────┼──┼──────────────┼──┤\n│    │                │주호소명          │O   │-                           │-   │\n│    │                ├─────────┼──┼──────────────┼──┤\n│    │                │주호소 임상적 상태│O   │FHIR                        │필수│\n│    │                │                  │    │ConditionClinicalStatusCodes│    │\n├──┼────────┼─────────┼──┼──────────────┼──┤\n│6   │수술 및 처치    │수술 및 처치 일자 │R   │-                           │-   │\n│    │정보            ├─────────┼──┼──────────────┼──┤\n│    │                │수술명 및 처치명  │R   │심평원 EDI                  │선택│\n│    │                │                  │    ├──────────────┼──┤\n│    │                │                  │    │SNOMED CT                   │선택│\n│    │                ├─────────┼──┼──────────────┼──┤\n│    │                │마취 방법         │O   │SNOMED CT                   │선택│\n│    │                ├─────────┼──┼──────────────┼──┤\n│    │                │수술 및 처치 상태 │R   │FHIR EventStatus            │필수│\n├──┼────────┼─────────┼──┼──────────────┼──┤\n│7   │약물정보        │약품 제품명       │R   │심평원 EDI                  │선택│\n│    │                ├─────────┼──┼──────────────┼──┤\n│    │                │약품 성분명       │R   │ATC 코드                    │선택│\n│    │                ├─────────┼──┼──────────────┼──┤\n│    │                │1회량             │R   │-                           │-   │\n│    │                ├─────────┼──┼──────────────┼──┤\n│    │                │1회량 단위        │R   │-                           │-   │\n│    │                ├─────────┼──┼──────────────┼──┤\n│    │                │복용 횟수         │R2  │-                           │-   │\n│    │                ├─────────┼──┼──────────────┼──┤\n│    │                │용법              │R2  │-                           │-   │\n│    │                ├─────────┼──┼──────────────┼──┤\n│    │                │처방 일수         │R2  │-                           │-   │\n│    │                ├─────────┼──┼──────────────┼──┤\n│    │                │총량              │O   │-                           │-   │\n│    │                ├─────────┼──┼──────────────┼──┤\n│    │                │총량 단위         │O   │-                           │-   │\n│    │                ├─────────┼──┼──────────────┼──┤\n│    │                │처방 상태         │R   │FHIR                        │필수│\n│    │                │                  │    │MedicationRequestStatus     │    │\n│    │                ├─────────┼──┼──────────────┼──┤\n│    │                │처방 의도         │R   │FHIR MedicationRequestIntent│필수│\n│    │                ├─────────┼──┼──────────────┼──┤\n│    │                │처방 일시         │R   │-                           │-   │\n└──┴────────┴─────────┴──┴──────────────┴──┘\n┌────────────────────────────────────────┐\n│3) 검사정보                                                                     │\n├──┬──────┬────────────┬─────────────────┤\n│연번│분류        │항목(Element)           │항목값(Value set)                 │\n│    │(Class)     ├─────────┬──┼──────────────┬──┤\n│    │            │명칭              │필수│용어세트                    │필수│\n│    │            │                  │여부│                            │여부│\n├──┼──────┼─────────┼──┼──────────────┼──┤\n│8   │검체검사    │검체 검사명       │R   │심평원 EDI                  │선택│\n│    │            │                  │    ├──────────────┼──┤\n│    │            │                  │    │LOINC                       │선택│\n│    │            │                  │    ├──────────────┼──┤\n│    │            │                  │    │SNOMED CT                   │선택│\n│    │            ├─────────┼──┼──────────────┼──┤\n│    │            │검체 종류         │O   │SNOMED CT                   │선택│\n│    │            ├─────────┼──┼──────────────┼──┤\n│    │            │검사 결과         │R2  │-                           │-   │\n│    │            ├─────────┼──┼──────────────┼──┤\n│    │            │보고일시          │R2  │-                           │-   │\n│    │            ├─────────┼──┼──────────────┼──┤\n│    │            │참고구간          │R2  │-                           │-   │\n│    │            ├─────────┼──┼──────────────┼──┤\n│    │            │결과 판독         │O   │-                           │-   │\n│    │            ├─────────┼──┼──────────────┼──┤\n│    │            │검사 상태         │R   │FHIR DiagnosticReportStatus │필수│\n│    │            ├─────────┼──┼──────────────┼──┤\n│    │            │검체채취일시      │O   │-                           │-   │\n├──┼──────┼─────────┼──┼──────────────┼──┤\n│9   │진단영상검사│진단영상검사명    │R   │심평원 EDI                  │선택│\n│    │            │                  │    ├──────────────┼──┤\n│    │            │                  │    │LOINC                       │선택│\n│    │            ├─────────┼──┼──────────────┼──┤\n│    │            │진단영상검사 결과 │R2  │-                           │-   │\n│    │            ├─────────┼──┼──────────────┼──┤\n│    │            │진단영상검사 상태 │R   │FHIR DiagnosticReportStatus │필수│\n│    │            ├─────────┼──┼──────────────┼──┤\n│    │            │진단영상          │O   │-                           │-   │\n│    │            ├─────────┼──┼──────────────┼──┤\n│    │            │진단영상 상태     │O   │FHIR ImagingStudyStatus     │필수│\n├──┼──────┼─────────┼──┼──────────────┼──┤\n│10  │기능검사    │기능검사명        │R   │심평원 EDI                  │선택│\n│    │            ├─────────┼──┼──────────────┼──┤\n│    │            │기능검사 결과     │R2  │-                           │-   │\n│    │            ├─────────┼──┼──────────────┼──┤\n│    │            │기능검사 일자     │R   │-                           │-   │\n│    │            ├─────────┼──┼──────────────┼──┤\n│    │            │기능검사 상태     │R   │FHIR DiagnosticReportStatus │필수│\n└──┴──────┴─────────┴──┴──────────────┴──┘\n┌───────────────────────────────────────┐\n│ 4) 건강정보                                                                  │\n├──┬───────┬───────────┬────────────────┤\n│연번│분류          │항목(Element)         │항목값(Value set)               │\n│    │(Class)       ├────────┬──┼─────────────┬──┤\n│    │              │명칭            │필수│용어세트                  │필수│\n│    │              │                │여부│                          │여부│\n├──┼───────┼────────┼──┼─────────────┼──┤\n│11  │활력징후 및   │수축기 혈압     │R2  │-                         │-   │\n│    │신체 계측 정보├────────┼──┼─────────────┼──┤\n│    │              │이완기 혈압     │R2  │-                         │-   │\n│    │              ├────────┼──┼─────────────┼──┤\n│    │              │맥박수          │R2  │-                         │-   │\n│    │              ├────────┼──┼─────────────┼──┤\n│    │              │호흡수          │R2  │-                         │-   │\n│    │              ├────────┼──┼─────────────┼──┤\n│    │              │체온            │R2  │-                         │-   │\n│    │              ├────────┼──┼─────────────┼──┤\n│    │              │산소포화도      │R2  │-                         │-   │\n│    │              ├────────┼──┼─────────────┼──┤\n│    │              │키              │R2  │-                         │-   │\n│    │              ├────────┼──┼─────────────┼──┤\n│    │              │몸무게          │R2  │-                         │-   │\n├──┼───────┼────────┼──┼─────────────┼──┤\n│12  │알레르기      │원인 구분       │O   │FHIR                      │필수│\n│    │불내성        │                │    │AllergyIntoleranceCategory│    │\n│    │              ├────────┼──┼─────────────┼──┤\n│    │              │원인 물질       │R   │ATC 코드                  │선택│\n│    │              ├────────┼──┼─────────────┼──┤\n│    │              │증상            │O   │-                         │-   │\n│    │              ├────────┼──┼─────────────┼──┤\n│    │              │발생일          │O   │-                         │-   │\n├──┼───────┼────────┼──┼─────────────┼──┤\n│13  │예방접종      │예방접종명      │R   │질병관리청 예방접종 분류  │필수│\n│    │내역          │                │    ├─────────────┼──┤\n│    │              │                │    │SNOMED CT                 │선택│\n│    │              ├────────┼──┼─────────────┼──┤\n│    │              │예방접종 약품명 │O   │KD코드                    │필수│\n│    │              │                │    ├─────────────┼──┤\n│    │              │                │    │ATC                       │선택│\n│    │              ├────────┼──┼─────────────┼──┤\n│    │              │예방접종 차수   │O   │-                         │-   │\n│    │              ├────────┼──┼─────────────┼──┤\n│    │              │예방접종 일자   │R   │-                         │-   │\n│    │              ├────────┼──┼─────────────┼──┤\n│    │              │예방접종 상태   │R   │FHIR                      │필수│\n│    │              │                │    │ImmunizationStatusCodes   │    │\n├──┼───────┼────────┼──┼─────────────┼──┤\n│14  │건강상태평가  │음주상태        │O   │SNOMED CT                 │선택│\n│    │              ├────────┼──┼─────────────┼──┤\n│    │              │흡연상태        │O   │SNOMED CT                 │선택│\n└──┴───────┴────────┴──┴─────────────┴──┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000271160&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160548287",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160548275",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160548287",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:보건의료데이터용어및전송표준#BYL0001",
+      "filename": "별표1_한국 핵심교류데이터(제3조제1항제1호 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "한국 핵심교류데이터 전송 표준(KR Core)(제3조제1항제2호 관련)",
+      "enforcement_date": "",
+      "content": "[별표 2]\n한국 핵심교류데이터 전송 표준(KR Core)(제3조제1항제2호 관련)\n┌──┬──────────┬───────────────────────────────┐\n│연번│핵심교류데이터      │전송기술 상세규격(27종)                                       │\n│    │분류(Class)         │                                                              │\n├──┼──────────┼───────────────────────────────┤\n│1   │환자정보            │KR Core Patient Profile                                       │\n├──┼──────────┼───────────────────────────────┤\n│2   │진료의 정보 및 역할 │KR Core Practitioner Profile                                  │\n│    │정보                │KR Core Practitioner Profile for Medical Doctor               │\n│    │                    │KR Core PractitionerRole Profile                              │\n│    │                    │KR Core PractitionerRole Profile for Medical Doctor           │\n├──┼──────────┼───────────────────────────────┤\n│3   │의료기관 정보       │KR Core Organization Profile                                  │\n│    │                    │KR Core Healthcare Organization Profile                       │\n├──┼──────────┼───────────────────────────────┤\n│4   │내원정보            │KR Core Encounter Profile                                     │\n├──┼──────────┼───────────────────────────────┤\n│5   │진단 및 주호소 정보 │KR Core Condition Profile for Encounter Diagnosis             │\n│    │                    │KR Core Condition Profile for Chief Complaint                 │\n├──┼──────────┼───────────────────────────────┤\n│6   │수술 및 처치 정보   │KR Core Procedure Profile                                     │\n├──┼──────────┼───────────────────────────────┤\n│7   │약물정보            │KR Core Medication Profile                                    │\n│    │                    │KR Core MedicationRequest Profile                             │\n├──┼──────────┼───────────────────────────────┤\n│8   │진단검사            │KR Core DiagnosticReport Profile for Laboratory Results       │\n│    │                    │KR Core Observation Profile for Laboratory Result             │\n│    │                    │KR Core Specimen Profile                                      │\n├──┼──────────┼───────────────────────────────┤\n│9   │병리검사            │KR Core DiagnosticReport Profile for Pathology Results        │\n├──┼──────────┼───────────────────────────────┤\n│10  │진단영상검사        │KR Core DiagnosticReport Profile for Diagnostic Imaging       │\n│    │                    │KR Core ImagingStudy Profile                                  │\n├──┼──────────┼───────────────────────────────┤\n│11  │기능검사            │KR Core DiagnosticReport Profile for Function Tests           │\n│    │                    │KR Core Observation Profile for Function Test                 │\n├──┼──────────┼───────────────────────────────┤\n│12  │활력징후 및         │KR Core Observation Profile for Vital Signs                   │\n│    │신체계측 정보       │KR Core Observation Profile for Vital Signs: Blood Pressure   │\n│    │                    │KR Core Observation Profile for Vital Signs: Body Height      │\n│    │                    │KR Core Observation Profile for Vital Signs: Body Temperature │\n│    │                    │KR Core Observation Profile for Vital Signs: Body Weight      │\n│    │                    │KR Core Observation Profile for Vital Signs: Heart Rate       │\n│    │                    │KR Core Observation Profile for Vital Signs: Pulse Oximetry   │\n│    │                    │KR Core Observation Profile for Vital Signs: Respiratory Rate │\n├──┼──────────┼───────────────────────────────┤\n│13  │알레르기 불내성     │KR Core AllergyIntolerance Profile                            │\n├──┼──────────┼───────────────────────────────┤\n│14  │예방접종 내역       │KR Core Immunization Profile                                  │\n└──┴──────────┴───────────────────────────────┘\n* 전송기술 상세규격은 보건의료정보표준관리시스템(http://www.hins.or.kr)에 등록",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000271160&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160548293",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160548289",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160548293",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:보건의료데이터용어및전송표준#BYL0002",
+      "filename": "별표2_한국 핵심교류데이터 전송 표준(KR Core)(제3조제1항제2호 관련).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "[일부개정안]보건의료데이터 용어 및 전송 표준 개정.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=160548259",
+      "file_store_url": "",
+      "filename": "[일부개정안]보건의료데이터 용어 및 전송 표준 개정.hwpx"
+    },
+    {
+      "name": "[일부개정안]보건의료데이터 용어 및 전송 표준 개정.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=160548263",
+      "file_store_url": "",
+      "filename": "[일부개정안]보건의료데이터 용어 및 전송 표준 개정.pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 5,
+    "by_category": {
+      "법령": 2,
+      "별표": 2,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 3,
+      "appendix_ref": 2
+    },
+    "articles_total": 4,
+    "articles_with_relations": 3,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 3,
+    "appendices_count": 2,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/보건의료데이터 용어 및 전송 표준"
+  },
+  "provision_id": "admrul:보건의료데이터용어및전송표준#DOC"
+}
