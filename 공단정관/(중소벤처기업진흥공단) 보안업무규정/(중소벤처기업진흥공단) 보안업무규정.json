@@ -1,0 +1,2432 @@
+{
+  "law_id": "2200000152901",
+  "mst": "2200000152901",
+  "law_name": "(중소벤처기업진흥공단) 보안업무규정",
+  "law_abbr": "",
+  "law_type": "공단규정",
+  "doc_target": "pi",
+  "doc_kind": "공단정관",
+  "adm_uid": "pi:2200000152901",
+  "promulgation_no": "9999",
+  "promulgation_date": "20260122",
+  "enforcement_date": "20260101",
+  "revision_date": "20260122",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "중소벤처기업진흥공단",
+    "담당자명": "",
+    "행정규칙종류코드": "B0029",
+    "행정규칙명": "(중소벤처기업진흥공단) 보안업무규정",
+    "발령일자": "20260122",
+    "행정규칙종류": "공단규정",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "중소벤처기업진흥공단",
+    "전화번호": "055-751-9394",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "B554009",
+    "생성일자": "20260219",
+    "행정규칙ID": "2115793",
+    "담당부서기관코드": "B554009",
+    "발령번호": "9999",
+    "행정규칙일련번호": "2200000152901"
+  },
+  "amendment_text": "",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 76,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조(목적) 이 규정은 「보안업무규정」(대통령령), 「보안업무규정 시행규칙」(대통령훈령) 및 「중소벤처기업부 보안업무시행세칙」에 따라 중소벤처기업진흥공단 보안업무의 운영과 관리를 위하여 필요한 사항을 규정함을 목적으로 한다. <개정 2025. 12. 23.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「보안업무규정 시행규칙」",
+            "line_text": "",
+            "target_law_name": "보안업무규정 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정 시행규칙",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0001",
+            "reference_id": "admrul:보안업무규정시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「중소벤처기업부 보안업무시행세칙」",
+            "line_text": "",
+            "target_law_name": "중소벤처기업부 보안업무시행세칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/중소벤처기업부 보안업무시행세칙",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0001",
+            "reference_id": "admrul:중소벤처기업부보안업무시행세칙#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "제1장 총칙",
+        "content": "제2조(정의) 이 규정에 사용되는 용어의 정의는 다음 각 호와 같다. <개정 2025. 12. 23.>1. \"비밀\"이라 함은 그 내용이 누설되는 경우 국가안전보장에 유해로운 결과를 초래할 우려가 있는 국가기밀로서 「보안업무규정」(대통령령), 「보안업무규정 시행규칙」(대통령훈령) 및 「중소벤처기업부 보안업무시행세칙」과 이 규정에 의하여 비밀로 분류된 것을 말한다.2. \"암호자재\"라 함은 통신보안을 위하여 통신문의 내용을 보호할 목적으로 문자, 숫자, 기호 등의 암호로 만들어진 문서나 기재를 말한다.3. \"대외비\"라 함은 「보안업무규정」(대통령령) 제4조에 따른 비밀 외에 「공공기관의 정보공개에 관한 법률」 제9조에서 정한 공공기관의 비공개 대상 정보 가운데 직무 수행상 일반문서와 구분하여 특별한 보호를 요하는 다음 각 목의 사항을 말한다.가. 누설되는 경우 정부정책의 집행에 차질이 초래되거나 계획 자체가 무산될 우려가 있는 사항나. 누설되는 경우 이해 관계자들의 공정한 기회보장 등을 저해할 우려가 있는 사항다. 중소벤처기업진흥공단 업무와 관련한 정보 중 확정 또는 공개이전 단계에서 누설될 경우 부동산 투기, 매점매석, 부당한 주식취득의 원인이 되는 등 사회ㆍ경제적 부작용이 발생할 우려가 있는 내용을 포함한 사항4. \"제한지역\"이라 함은 비밀 또는 정부재산의 보호를 위하여 울타리 또는 경호원에 의하여 일반인의 출입에 감시가 요구되는 지역을 말한다.5. \"제한구역\"이라 함은 비밀 또는 주요시설 및 자재에 대한 비인가자의 접근을 방지하기 위하여 그 출입에 안내가 요구되는 지역을 말한다.6. \"통제구역\"이라 함은 비인가자의 출입이 금지되는 보안상 극히 중요한 구역을 말한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「보안업무규정 시행규칙」",
+            "line_text": "",
+            "target_law_name": "보안업무규정 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정 시행규칙",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0002",
+            "reference_id": "admrul:보안업무규정시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「중소벤처기업부 보안업무시행세칙」",
+            "line_text": "",
+            "target_law_name": "중소벤처기업부 보안업무시행세칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/중소벤처기업부 보안업무시행세칙",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0002",
+            "reference_id": "admrul:중소벤처기업부보안업무시행세칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "보안업무규정",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/보안업무규정/제4조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0002",
+            "reference_id": "law:보안업무규정#JO0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「공공기관의 정보공개에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "공공기관의 정보공개에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0002",
+            "reference_id": "law:공공기관의정보공개에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제9조",
+            "line_text": "",
+            "target_law_name": "공공기관의 정보공개에 관한 법률",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률/제9조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0002",
+            "reference_id": "law:공공기관의정보공개에관한법률#JO0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "다른 규정과의 관계",
+        "chapter": "제1장 총칙",
+        "content": "제3조(다른 규정과의 관계) 중소벤처기업진흥공단(이하 \"중진공\"이라 한다)의 보안업무에 관하여 다른 규정에서 특별히 정한 것을 제외하고는 이 규정에 따른다.[제2조에서 이동 <2025. 12. 23.>][전문개정 2025. 12. 23.]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제2조",
+            "line_text": "제3조(다른 규정과의 관계) 중소벤처기업진흥공단(이하 \"중진공\"이라 한다)의 보안업무에 관하여 다른 규정에서 특별히 정한 것을 제외하고는 이 규정에 따른다.[제2조에서 이동 <2025. 12. 23.>][전문개정 2025. 12. 23.]",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(중소벤처기업진흥공단) 보안업무규정/제2조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0003",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "보안업무 주관부서",
+        "chapter": "제2장 보안관리체제",
+        "content": "제4조(보안업무 주관부서) 중진공 보안업무의 관리 및 사무처리는 「직제규정 시행규칙」(이하 \"직제규칙\"이라 한다)에서 정하는 보안업무 담당부서에서 주관한다. <개정 2023. 11. 29., 2025. 12. 23.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "보안심사위원회의 설치운영",
+        "chapter": "제2장 보안관리체제",
+        "content": "제5조(보안심사위원회의 설치운영) ① 「중소벤처기업부 보안업무시행세칙」 제3조에 의거 중진공 자체 보안업무의 효율적인 처리와 운영ㆍ관리에 관한 사항을 심의결정하기 위하여 보안심사위원회(이하 \"위원회\"라 한다)를 둔다.② 위원회는 위원장을 포함하여 다음 각 호와 같이 구성한다. 다만, 긴급을 요하는 경우에는 위원장이 관련 업무를 담당하는 팀장 이상 직원 중에서 임시 위원을 지명하여 소집할 수 있다.1. 위원장: 보안업무 소관 임원 <개정 2024. 2. 1.>2. 부위원장: 보안 담당 부서장(보안업무 주관부서의 장)3. 위원가. 기획조정 담당 부서장나. 인사 담당 부서장다. 정보공개 담당 부서장라. 정보보안 담당 부서장마. 정책자금 기획 담당 부서장바. 해외거점 관리 담당 부서장③ 위원장이 부득이한 사유로 직무를 수행할 수 없을 때에는 부위원장이 그 직무를 대행한다.④ 위원장은 위원회의 업무를 총괄하며, 위원장이 필요하다고 인정할 때에는 관계자를 출석시켜 의견의 진술 또는 자료의 제출을 요구할 수 있다.1. 삭제 <2022. 3. 28.>2. 삭제 <2022. 3. 28.>3. 삭제 <2022. 3. 28.>⑤ 위원회는 다음 각 호의 사항에 대하여 심의 결정한다.1. 보안업무규정의 제정 및 개정에 관한 사항2. 보안제도의 수립에 관한 사항3. 보안위반자의 심사처리에 관한 사항4. 신원특이자의 관리에 관한 사항5. 삭제 <2022. 3. 28.>6. 기타 보안업무 수행 상 협의조정을 요하는 사항⑥ 위원회는 위원장이 필요하다고 인정하거나 위원 2인 이상의 요구가 있을 때에 위원장이 소집한다. 다만, 소집이 곤란하거나 긴급을 요하는 경우에는 서면결의로써 갈음할 수 있다.⑦ 위원회의 의사는 재적위원 과반수의 출석과 출석위원 과반수의 찬성으로 의결하며, 가부동수인 경우에는 위원장이 결정권을 가진다.⑧ 위원회 운영에 관한 업무를 처리하기 위하여 보안업무 주관부서의 장이 소속 직원 중 추천하여 위원장이 지명하는 직원 1인을 간사로 둘 수 있으며, 간사는 위원회 개최시마다 별지 제1호서식의 보안심사의결서를 활용하여 의결서를 작성하고 보관하여야 한다. <개정 2025. 12. 23.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "「중소벤처기업부 보안업무시행세칙」",
+            "line_text": "",
+            "target_law_name": "중소벤처기업부 보안업무시행세칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/중소벤처기업부 보안업무시행세칙",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0005",
+            "reference_id": "admrul:중소벤처기업부보안업무시행세칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "제3조",
+            "line_text": "",
+            "target_law_name": "중소벤처기업부 보안업무시행세칙",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/중소벤처기업부 보안업무시행세칙/제3조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0005",
+            "reference_id": "admrul:중소벤처기업부보안업무시행세칙#JO0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제8항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "별지1",
+            "target_article_title": "보안심사의결서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693249",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0005",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "보안담당관의 지정 및 임무",
+        "chapter": "제2장 보안관리체제",
+        "content": "제6조(보안담당관의 지정 및 임무) ⓛ 제4조에 따른 보안업무 주관부서의 장은 보직과 동시에 보안담당관으로 임명된 것으로 본다.② 제1항에 따른 보안담당관은 다음 각 호의 임무를 수행한다.1. 자체보안업무 수행에 관한 계획, 조정 및 감독2. 보안교육 및 서약의 집행3. 비밀소유 현황조사 및 통신보안에 관한 업무4. 자체보안감사 및 보안진단5. 비밀취급인가에 관한 업무6. 기타 보안업무 수행상 필요하다고 인정되는 사항",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "보안업무규정",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/보안업무규정/제4조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0006",
+            "reference_id": "law:보안업무규정#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "보안담당관의 교체",
+        "chapter": "제2장 보안관리체제",
+        "content": "제7조(보안담당관의 교체) 보안담당관이 교체되었을 때에는 다음 각 호의 서류를 구비하여 즉시 중소벤처기업부장관에게 보고하고 신구보안담당관은 인계인수를 하여야 한다.1. 신ㆍ구보안담당관 명단 l부2. 인사기록카드(신임보안담당관) 사본 1부3. 명함판 사진 1매",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "분임보안담당관의 지정 및 임무",
+        "chapter": "제2장 보안관리체제",
+        "content": "제8조(분임보안담당관의 지정 및 임무) ① 중진공 각 부서의 장은 보직과 동시에 분임보안담당관이 된다. 다만, 해당 부서의 장 중 보안상 결격사유가 있을 때에는 보안담당관이 위원회의 심의를 거쳐 분임보안담당관을 별도로 지정하여야 한다.② 분임보안담당관은 보안담당관의 지휘감독을 받아 자체 소관업무의 범위 내에서 다음 각 호의 임무를 수행하여야 한다.1. 보안업무에 관한 자체 계획의 수립2. 소속직원에 대한 보안교육 등 소속 부서 내의 보안활동3. 소관업무에 대한 보안대책 강구4. 기타 보안담당관이 지시하는 보안업무의 이행5. 삭제 <2022. 3. 28.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "보안업무 시행계획의 수립ㆍ운영",
+        "chapter": "제2장 보안관리체제",
+        "content": "제9조(보안업무 시행계획의 수립ㆍ운영) 보안업무의 향상을 기하기 위하여 보안담당관은 매년 보안업무 시행계획을 수립ㆍ운영하여야 하며, 그 절차는 다음 각 호와 같다.1. 보안담당관은 매년 중소벤처기업부로부터 국가정보원의 정기보안감사 강평서 및 보안업무지침을 시달 받는 즉시 분임보안담당관에게 이를 통보한다.2. 분임보안담당관은 제1호에 따른 통보를 받은 날로부터 15일 이내에 각기 소관업무 기능에 따라 별지 제2호서식의 보안업무 시행계획서를 작성하여 보안담당관에게 제출한다.3. 보안담당관은 이를 종합 검토하여 중진공 보안업무 시행계획을 수립하고, 위원회의 의결을 통해 최종 확정한다.4. 보안담당관은 제3호의 시행계획에 의거 보안업무 운영현황을 점검하고, 각 분임보안담당관에게 그 결과를 통보하여 개선이 필요한 사항은 조치토록 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "별지2",
+            "target_article_title": "보안업무시행계획서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693253",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0009",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "일반문서보안",
+        "chapter": "제3장 일반문서보안 및 인원보안",
+        "content": "제10조(일반문서보안) ① 모든 공문서는 관계직원만이 취급하는 것을 원칙으로 한다.② 완결된 문서는 안전한 서류함(캐비닛, 파일박스 등)에 보관하고 퇴근 시에는 반드시 시건장치를 하여야 한다.③ 모든 서류함에는 다음과 같이 관리번호를 부여하고 보관책임자(정, 부)를 표시하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "신원조사",
+        "chapter": "제3장 일반문서보안 및 인원보안",
+        "content": "제11조(신원조사) ① 이사장은 제2호에서 정하는 신원조사 대상에 대하여 신원내용을 확인할 책임을 진다.② 중진공의 신원조사 대상자는 다음 각 호와 같다.1. 정부의 승인이나 동의를 요하는 임원2. 직원임용 예정자3. 그 밖에 이사장이 국가보안상 필요하다고 인정하는 자③ 이사장은 중소벤처기업부장관 또는 중진공 본사 소재지를 관할하는 경찰청장 등에게 신원조사를 요청할 수 있으며, 신원조사 요청 시에는 관계 법령에서 정하는 구비서류를 갖추어야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "삭제",
+        "chapter": "제3장 일반문서보안 및 인원보안",
+        "content": "제12조 삭제 <2022. 3. 28.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "신원대장의 비치 및 기록유지",
+        "chapter": "제3장 일반문서보안 및 인원보안",
+        "content": "제13조(신원대장의 비치 및 기록유지) ① 보안업무 주관부서의 장은 별지 제3호서식의 신원조회대장을 비치하여 관리하고, 인사담당부서의 장은 이를 비밀취급인가 및 제반 인사관리의 기본자료로 활용하여야 한다.② 직원이 타 기관으로 전출될 때에는 신원조회 회보서를 인사기록카드와 함께 전출기관으로 이송하고 신원조회대장 비고란에 전출일자 및 기관을 명시하고 주서로 삭제하여야 한다.③ 직원이 퇴직하는 때에는 퇴직자의 신원조회대장 비고란에 퇴직일자를 명시하고 주서로 삭제하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제1항",
+            "link_text": "별지 제3호서식",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "별지3",
+            "target_article_title": "신원조회대장",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693257",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0013",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "임시고용원의 관리",
+        "chapter": "제3장 일반문서보안 및 인원보안",
+        "content": "제14조(임시고용원의 관리) ① 임시고용원을 채용하는 부서의 장은 임시고용원의 채용을 위해 필요시 신원증명서를 요청하는 등 신원확인을 실시하여야 한다. 다만, 주민등록초본 등을 통해 신원을 확인한 사람에게는 신원확인 절차를 생략할 수 있다.② 삭제 <2022. 3. 28.>③ 삭제 <2022. 3. 28.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "임시고용원의 업무한계",
+        "chapter": "제3장 일반문서보안 및 인원보안",
+        "content": "제15조(임시고용원의 업무한계) ① 임시고용원은 보안상 극히 취약점을 지니고 있으므로 그 취급할 수 있는 업무는 단순노무직에 국한하여야 하며, 업무의 전담 및 중요한 직책에는 보직시킬 수 없다. 단순노무라 하더라도 비밀문서의 수발 및 사송업무는 취급 시켜서는 아니 된다.② 삭제 <2022. 3. 28.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "해외사무소 근무인원에 대한 보안관리",
+        "chapter": "제3장 일반문서보안 및 인원보안",
+        "content": "제16조(해외사무소 근무인원에 대한 보안관리) 해외사무소 근무인원에 대한 보안관리는 직제규칙에서 정하는 해외거점 총괄부서에서 관장한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "비밀의 구분 및 제목표시",
+        "chapter": "제1절 비밀의 구분",
+        "content": "제17조(비밀의 구분 및 제목표시) ① 비밀은 그 중요성과 가치의 정도에 따라 다음 각 호에 의하여Ⅰ급비밀, Ⅱ급비밀 및 Ⅲ급비밀로 구분한다.1. Ⅰ급비밀: 누설되는 경우 대한민국과 외교관계가 단절되고 전쟁을 유발하며 국가의 방위계획, 정보활동 및 국가방위상 필요불가결한 과학과 기술의 개발을 위태롭게 하는 등의 우려가 있는 비밀2. Ⅱ급비밀: 누설되는 경우 국가안전보장에 막대한 지장을 초래할 우려가 있는 비밀3. Ⅲ급비밀: 누설되는 경우 국가안전보장에 손해를 끼칠 우려가 있는 비밀② 삭제 <2022. 3. 28.>③ 비밀의 제목표시에 있어서는 어떠한 경우를 막론하고 비밀내용이 포함된 제목은 사용할 수 없다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "비밀ㆍ암호자재의 취급",
+        "chapter": "제2절 비밀ㆍ암호자재 취급인가 및 해제",
+        "content": "제18조(비밀ㆍ암호자재의 취급) ① 비밀ㆍ암호자재 취급인가를 받은 자는 해당등급에 한하여 비밀ㆍ암호자재의 수집, 작성, 관리, 분류(재분류 포함) 및 수발행위를 할 수 있다.② 비밀ㆍ암호자재 취급인가를 받은 자가 취급할 수 있는 비밀ㆍ암호자재의 한계는 관계업무와 그 협조문서의 범위 내에 국한한다.③ 비밀ㆍ암호자재를 취급하는 자는 이 규정에서 정하는 바에 따라 특별한 보안조치를 취하여야 하며, 비인가자가 접근할 때에는 경고를 발하여야 한다.④ 비인가자가 비밀ㆍ암호자재를 인수하였을 때에는 지체없이 해당 비밀ㆍ암호자재 취급인가를 받은 자에게 이를 인도하여야 한다.⑤ 비밀ㆍ암호자재 취급의 인가, 해제 및 등급의 변경은 문서로 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "비밀ㆍ암호자재취급 인가권자",
+        "chapter": "제2절 비밀ㆍ암호자재 취급인가 및 해제",
+        "content": "제19조(비밀ㆍ암호자재취급 인가권자) 「중소벤처기업부 보안업무시행세칙」 제6조에 따라 중진공의 비밀ㆍ암호자재 취급인가권자는 이사장으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제19조",
+            "source_clause": "제19조",
+            "link_text": "「중소벤처기업부 보안업무시행세칙」",
+            "line_text": "",
+            "target_law_name": "중소벤처기업부 보안업무시행세칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/중소벤처기업부 보안업무시행세칙",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0019",
+            "reference_id": "admrul:중소벤처기업부보안업무시행세칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제19조",
+            "source_clause": "제19조",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "중소벤처기업부 보안업무시행세칙",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/중소벤처기업부 보안업무시행세칙/제6조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0019",
+            "reference_id": "admrul:중소벤처기업부보안업무시행세칙#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "비밀ㆍ암호자재취급 인가 대상 및 제한",
+        "chapter": "제2절 비밀ㆍ암호자재 취급인가 및 해제",
+        "content": "제20조(비밀ㆍ암호자재취급 인가 대상 및 제한) ① 이사장은 다음 각 호의 어느 하나에 해당하는 자에 한하여 비밀ㆍ암호자재취급 인가를 하여야 한다. 다만, 암호자재취급 인가 대상자는 비밀취급 인가 등급보다 높을 수 없다.1. 임원, 부서장2. 비밀보관 정ㆍ부 책임자3. 문서수발 담당자 및 기록물 관리부서의 기록물 관리 담당자4. 직책상 비밀을 항상 사무적으로 취급하는 자5. 암호자재를 운용 및 관리하는 자6. 그 밖에 인가권자가 필요하다고 인정하는 자② 비밀ㆍ암호자재취급 인가는 대상자의 직책에 따라 필요한 최소한의 인원으로 제한하여야 한다.③ 이사장은 임무 및 직책상 해당등급의 비밀을 항상 사무적으로 취급하는 자에 한하여 비밀ㆍ암호자재취급 인가를 하여야 하며, 다음 각 호에 해당하는 자에게는 비밀취급 인가를 할 수 없다.1. 신원조사결과 국가안보상 유해로운 정보가 발견된 자2. 삭제 <2022. 3. 28.>3. 삭제 <2022. 3. 28.>4. 기타 보안사고를 일으킬 우려가 있다고 인정되는 자",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "서약",
+        "chapter": "제2절 비밀ㆍ암호자재 취급인가 및 해제",
+        "content": "제21조(서약) 중진공 보안담당관은 비밀ㆍ암호자재취급 인가를 받은 자에 대하여 이사장의 인가와 동시에 별지 제4호서식에 의한 서약을 집행하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제21조",
+            "source_clause": "제21조",
+            "link_text": "별지 제4호서식",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "별지4",
+            "target_article_title": "서약서",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693381",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0021",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "당연직 비밀취급 인가",
+        "chapter": "제2절 비밀ㆍ암호자재 취급인가 및 해제",
+        "content": "제22조(당연직 비밀취급 인가) ① 다음 각 호의 직위에 보직된 자는 신원조사결과 결격사유가 없는 한, 별도의 인가절차를 거침이 없이 보직과 동시에 Ⅱ급비밀취급 인가를 받은 것으로 본다.1. 이사장2. 이사3. 보안담당관② 보안담당관은 제l항의 규정에 의하여 비밀취급 인가를 받은 자에게도 제21조의 규정에 의한 서약을 집행하고 비밀취급인가증을 발급하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제2항",
+            "link_text": "제21조",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "제21조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(중소벤처기업진흥공단) 보안업무규정/제21조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0022",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0021"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "비밀ㆍ암호자재취급 인가 절차",
+        "chapter": "제2절 비밀ㆍ암호자재 취급인가 및 해제",
+        "content": "제23조(비밀ㆍ암호자재취급 인가 절차) ① 중진공 각 부서의 장은 보직과 동시에 비밀ㆍ암호자재취급인가 제청권자가 되며 소속직원 중 비밀ㆍ암호자재취급인가가 필요하다고 인정될 때에는 다음 서류를 구비하여 보안담당관에게 제출한다.1. 비밀ㆍ암호자재취급인가 신청서 l통(별지 제5호서식 또는 별지 제5-2호서식)2. 서약서 l통(별지 제4호서식)3. 신원조사 회보서4. 삭제 <2008. 5. 26>5. 삭제 <2008. 5. 26>② 전항의 제청을 받은 보안담당관은 대상자의 인사기록카드, 신원조사내용 등을 통하여 인가의 필요성을 검토 후 인가권자에게 상신하여야 하며, 인가권자로부터 비밀취급이 인가되면 관련 부서와 협조하여 다음 각 호의 사항을 조치하여야 한다.1. 인가자 서약의 집행 및 보안교육2. 비밀ㆍ암호자재취급인가증(별지 제6호서식) 교부(인사명령으로 갈음 가능)3. 비밀ㆍ암호자재취급인가대장(별지 제7호서식 또는 별지 제7-2호서식)에 등재관리4. 삭제 <2022. 3. 28.>5. 인가사항을 각 부서에 문서로 통지(인사명령으로 갈음 가능)③ Ⅱ급 및 Ⅲ급비밀은 임용시의 신원조사 회보서 등에 의하여 따로 신원조사를 행하지 않고 취급인가를 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제23조",
+            "source_clause": "제23조제1항",
+            "link_text": "별지 제5호서식",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "별지5",
+            "target_article_title": "비밀취급 인가 신청서",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693385",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0023",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0005"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제23조",
+            "source_clause": "제23조제1항",
+            "link_text": "별지 제5",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "별지5",
+            "target_article_title": "비밀취급 인가 신청서",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693385",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0023",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0005"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제23조",
+            "source_clause": "제23조제1항",
+            "link_text": "별지 제4호서식",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "별지4",
+            "target_article_title": "서약서",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693381",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0023",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0004"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제23조",
+            "source_clause": "제23조제2항",
+            "link_text": "별지 제6호서식",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "별지6",
+            "target_article_title": "비밀·암호자재취급 인가증",
+            "appendix_no": "6",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693393",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0023",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0006"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제23조",
+            "source_clause": "제23조제2항",
+            "link_text": "별지 제7호서식",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "별지7",
+            "target_article_title": "비밀취급 인가대장",
+            "appendix_no": "7",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693397",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0023",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0007"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제23조",
+            "source_clause": "제23조제2항",
+            "link_text": "별지 제7",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "별지7",
+            "target_article_title": "비밀취급 인가대장",
+            "appendix_no": "7",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693397",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0023",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "비밀ㆍ암호자재취급 인가의 해제사유",
+        "chapter": "제2절 비밀ㆍ암호자재 취급인가 및 해제",
+        "content": "제24조(비밀ㆍ암호자재취급 인가의 해제사유) 이사장은 비밀ㆍ암호자재 취급의 인가를 받은 자가 다음 각 호에 해당하는 사유가 발생하였을 때에는 지체없이 인가를 해제하여야 한다.1. 고의 또는 중대한 과실로 보안사고를 범하였거나 보안관계규정에 위반하여 보안업무에 지장을 초래하였을 때2. 퇴직, 휴직, 직위해제 또는 인가권을 달리하는 타 기관으로 전출된 때3. 중진공 내 전보발령의 경우(해외근무자의 국내근무 발령은 제외)에는 당해 부서의 장 또는 보안담당관이 현 부서의 담당직책을 검토하여 비밀ㆍ암호자재 취급이 불필요하다고 인정될 때4. 해외사무소에서 근무하면서 비밀ㆍ암호자재취급인가를 받은 해외근무자가 국내근무발령을 받고 귀국한 때(중진공 각 부서의 장으로 보직되는 자 제외)5. 기타 비밀취급이 불필요하게 된 때",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "비밀ㆍ암호자재취급인가 해제절차",
+        "chapter": "제2절 비밀ㆍ암호자재 취급인가 및 해제",
+        "content": "제25조(비밀ㆍ암호자재취급인가 해제절차) ① 삭제 <2008. 5. 26>② 보안담당관은 제24조에 따라 이사장이 비밀ㆍ암호자재취급의 인가를 해제한 때에는 이를 비밀ㆍ암호자재 취급인가가 해제된 자에게 서면으로 통보하여야 한다.③ 보안담당관은 비밀ㆍ암호자재취급인가가 해제된 자에 대하여는 별지 제7호서식의 비밀취급인가대장 및 별지 제7-2호서식의 암호자재취급인가대장에 주선으로 삭제한 다음 해제일자 및 사유를 기재하여야 한다.④ 이사장은 제24조제1항에서 정하는 사유로 비밀ㆍ암호자재취급인가가 해제된 자는 비밀ㆍ암호자재를 취급하는 직책으로부터 해임시켜야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제25조",
+            "source_clause": "제25조제2항",
+            "link_text": "제24조",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "제24조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(중소벤처기업진흥공단) 보안업무규정/제24조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0025",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0024"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제25조",
+            "source_clause": "제25조제3항",
+            "link_text": "별지 제7호서식",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "별지7",
+            "target_article_title": "비밀취급 인가대장",
+            "appendix_no": "7",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693397",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0025",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0007"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제25조",
+            "source_clause": "제25조제3항",
+            "link_text": "별지 제7",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "별지7",
+            "target_article_title": "비밀취급 인가대장",
+            "appendix_no": "7",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693397",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0025",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0007"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제25조",
+            "source_clause": "제25조제4항",
+            "link_text": "제24조제1항",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "제24조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(중소벤처기업진흥공단) 보안업무규정/제24조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0025",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0024"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0025"
+      },
+      {
+        "article_no": "제26조",
+        "article_title": "비밀ㆍ암호자재취급인가증의 회수",
+        "chapter": "제2절 비밀ㆍ암호자재 취급인가 및 해제",
+        "content": "제26조(비밀ㆍ암호자재취급인가증의 회수) 비밀ㆍ암호자재취급인가가 해제된 자의 인가증은 해제발령일로 부터 3일 이내에 회수하여 파기조치 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0026"
+      },
+      {
+        "article_no": "제27조",
+        "article_title": "비밀ㆍ암호자재취급인가증 재발급",
+        "chapter": "제2절 비밀ㆍ암호자재 취급인가 및 해제",
+        "content": "제27조(비밀ㆍ암호자재취급인가증 재발급) ① 비밀ㆍ암호자재취급인가증을 분실하였을 때에는 5일 이내에 다음 서류를 구비하여 보안담당관에게 재발급요청을 하여야 한다.1. 재발급 요청서(별지 제8호서식)2. 증명사진 1매3. 분실사유서(인가제청권자 확인 필요)(별지 제9호서식)② 이사장은 분실사유를 검토하여 분실자에 대한 경고, 문책 등 필요한 조치를 할 수 있다. 또한 중소벤처기업부 장관도 이와 같은 조치를 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제27조",
+            "source_clause": "제27조제1항",
+            "link_text": "별지 제8호서식",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "별지8",
+            "target_article_title": "비밀·암호자재취급 인가증 재발급 요청서",
+            "appendix_no": "8",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693405",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0027",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0008"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제27조",
+            "source_clause": "제27조제1항",
+            "link_text": "별지 제9호서식",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "별지9",
+            "target_article_title": "비밀·암호자재취급 인가증 분실사유서",
+            "appendix_no": "9",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693409",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0027",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0027"
+      },
+      {
+        "article_no": "제28조",
+        "article_title": "비밀의 분류",
+        "chapter": "제3절 비밀의 분류",
+        "content": "제28조(비밀의 분류) ① 비밀취급인가를 받은 자는 동급 및 하위 등급의 비밀분류권을 가지며, 동급이상의 비밀취급인가를 받은 자로서 직속 상급직위에 있는 자는 그 하위직에 있는 자가 분류한 비밀등급을 조정할 수 있다.② 비밀을 생산 또는 관리하는 자는 그 비밀을 분류 또는 재분류할 책임이 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0028"
+      },
+      {
+        "article_no": "제29조",
+        "article_title": "분류원칙",
+        "chapter": "제3절 비밀의 분류",
+        "content": "제29조(분류원칙) ① 비밀은 적절히 보호할 수 있는 최저등급으로 분류하되 과도 또는 과소하게 분류하여서는 아니 된다. 다만, 암호자재는 제17조의 규정에 불구하고 Ⅱ급이상으로 분류하여야 한다.② 비밀은 그 자체의 내용과 가치의 정도에 따라 분류하여야 하며 다른 비밀과 관련하여 분류하여서는 아니 된다.③ 외국정부 또는 국제기구로부터 접수한 비밀은 그 발행기관이 필요로 하는 정도로 보호할 수 있도록 분류되어야 한다.④ 비밀분류권자는 업무상의 과실을 은닉할 목적으로 비밀이 아닌 사항을 비밀로 분류할 수 없다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제29조",
+            "source_clause": "제29조제1항",
+            "link_text": "제17조",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "제17조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(중소벤처기업진흥공단) 보안업무규정/제17조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0029",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0017"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0029"
+      },
+      {
+        "article_no": "제30조",
+        "article_title": "분류기준",
+        "chapter": "제3절 비밀의 분류",
+        "content": "제30조(분류기준) ① 비밀의 분류기준은 별도로 작성하지 않고 국가정보원 비밀세부분류지침에 의한다.② 삭제 <2008. 5. 26>③ 삭제 <2008. 5. 26>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0030"
+      },
+      {
+        "article_no": "제31조",
+        "article_title": "예고문",
+        "chapter": "제3절 비밀의 분류",
+        "content": "제31조(예고문) ① 분류된 비밀에는 보호기간을 명시하기 위하여 예고문을 기재하여야 한다.② 제1항의 예고문은 다음과 같이 기재하여야 한다.③ 제2항의 예고문의 재분류 일자 또는 경우는 도래가 명확한 것이어야 하며 \"처리후\", \"불필요시\" 또는 \"참고후\"와 같이 불확실한 것을 기재하여서는 아니 된다.④ 재분류시기를 예측할 수 없는 비밀은 통상발행일로 부터 1년 이내의 일자를 기재한다.⑤ 유첨문서의 본문이 첨부물로 인하여 비밀로 분류되었거나 자체 내용보다 상위 비밀등급으로 분류되었을 때에는 다음과 같은 예고문을 기입하고 첨부물에는 따로 제2항의 예고문을 기입하여야 한다.⑥ 예고문은 비밀이 문서(책자를 포함한다. 이하 같다)인 때에는 본문 말미 여백에 기입하며, 비밀자체에 기입할 수 없는 때에는 비밀관리기록부에 기록하고 이를 발송할 때에는 송증 또는 비밀통고서 말미에 기입한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0031"
+      },
+      {
+        "article_no": "제32조",
+        "article_title": "재분류",
+        "chapter": "제3절 비밀의 분류",
+        "content": "제32조(재분류) ① 비밀을 취급하는 자는 비밀의 효율적인 보호를 위하여 계속적으로 예고문에 의거 등급의 변경 또는 파기 등의 재분류를 실시하며 발행자는 직권에 의하여 재분류를 실시할 수 있다.② 외국정부 또는 국제기구로부터 접수한 비밀 중 예고문이 없거나 기재된 예고문이 비밀관리상 부적당하다고 인정되는 것은 이사장이 그 비밀을 최대한 보호할 수 있는 범위 안에서 재분류할 수 있다.③ 비밀보관책임자는 비밀원본에 대하여 연2회(6월과 12월) 의무적으로 소관비밀의 예고문에 의한 재분류 검토를 실시하며, 원본 표면의 적당한 여백에 다음과 같은 검토필 표지를 하여야 한다.④ 재분류 검토는 Ⅱ급이상 비밀취급인가를 받은 직원이 함을 원칙으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0032"
+      },
+      {
+        "article_no": "제33조",
+        "article_title": "재분류 요청 등",
+        "chapter": "제3절 비밀의 분류",
+        "content": "제33조(재분류 요청 등) ① 접수한 비밀이 과도하게 분류되었을 때에는 발행기관에 그 사유를 명시하여 재분류 요청하며 과소분류시에는 적절한 상위비밀등급으로 취급보호한 후 발행기관에 재분류 요청한다.② 비밀의 발행기관이 불명확하여 제1항의 요청을 할 수 없을 때에는 중진공의 직권으로 재분류한다.③ 접수한 비밀의 예고문에 의한 재분류가 업무수행에 지장을 가져온다고 인정할 때에는 그 사유를 명시하여 발행기관에 예고문의 변경을 요청할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0033"
+      },
+      {
+        "article_no": "제34조",
+        "article_title": "재분류 통고",
+        "chapter": "제3절 비밀의 분류",
+        "content": "제34조(재분류 통고) 중진공이 발행한 비밀의 예고문에 명시된 일자 또는 경우의 도래전에 중진공의 직권으로 재분류하였거나 예고문을 변경하였을 때에는 그 비밀이 배포된 모든 기관에 이를 통고하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0034"
+      },
+      {
+        "article_no": "제35조",
+        "article_title": "파기",
+        "chapter": "제3절 비밀의 분류",
+        "content": "제35조(파기) ① 비밀의 파기는 소각, 용해, 분쇄 또는 기타 방법으로 원형을 완전히 소멸시켜야 한다.② 비밀의 파기는 보안담당관이 지정하는 장소에서 보관책임자 또는 그가 지정하는 비밀취급인가자의 참여 아래 그 비밀의 처리담당자가 행하여야 한다. 이 경우 파기한 비밀에 관하여 비밀관리기록부에 2개의 주선을 긋고 파기란에 파기일자를 기록 날인하며, 파기확인란에는 참여자가 파기 확인날인을 하고 파기근거를 명시하여야 한다.③ 비밀의 파기는 원칙적으로 예고문에 의하여 실시하여야 하나, 다음의 경우에는 예고문에 불구하고 비밀을 파기할 수 있다.1. 긴급 부득이한 사정으로 비밀을 계속 보관하거나 안전하게 반출할 수 없을 때2. 국가정보원장의 통보가 있을 때3. 보안유지를 위하여 예고문의 파기시기까지 계속 보관할 필요가 없을 때④ 제3항제l호 및 제2호의 경우에는 사후에 그 사유와 근거를 그 비밀의 발행기관(또는 배포기관)에 통고하여야 하며, 제3호의 경우에는 사전에 이사장의 승인을 얻어야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0035"
+      },
+      {
+        "article_no": "제36조",
+        "article_title": "비밀의 원본보관",
+        "chapter": "제3절 비밀의 분류",
+        "content": "제36조(비밀의 원본보관) ① 중진공이 발행한 비밀의 원본은 그 예고문에 의하여 파기하여야 할 경우라도 보안담당관의 승인을 받아 계속 보관할 수 있다. 이때 승인문서는 해당비밀문서와 합철한다.② 제1항의 경우 보안담당관은 비밀문서 원본 전면 여백에 다음과 같이 직권보관승인을 표시하고 확인 날인 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0036"
+      },
+      {
+        "article_no": "제37조",
+        "article_title": "비밀의 표지",
+        "chapter": "제4절 비밀의 표지",
+        "content": "제37조(비밀의 표지) ① 비밀은 그 취급자 또는 관리자에게 경고하고 비밀취급 비인가자의 접근을 방지하기 위하여 분류(재분류를 포함한다. 이하 같다)와 동시에 등급에 따라 구분된 표지를 하여야 한다.② 비밀등급의 표지는 적색으로 함을 원칙으로 하되 복제 또는 복사하는 때에는 복제 또는 복사물과 동일한 색으로 표지할 수 있으며, 이 경우 비밀표지는 복제 또는 복사물의 글자보다 뚜렷하게 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0037"
+      },
+      {
+        "article_no": "제38조",
+        "article_title": "문서의 비밀표지",
+        "chapter": "제4절 비밀의 표지",
+        "content": "제38조(문서의 비밀표지) ① 비밀문서는 전후면의 표지와 매면 상하단의 중앙에 다음과 같은 비밀등급표지를 등급에 따라 표지한다.② 대외비 문서에는 다음과 같은 표지를 그 문서의 중앙상단에 적색으로 표시하고 보호기간을 기입한다.③ 단일문서로서 매면마다 비밀등급을 달리하는 때에는 매면별로 해당등급의 비밀표지를 하되 그 표지의 양면에는 그중 최고의 비밀등급으로 표지한다.④ 비밀등급을 달리하는 수개의 문서를 1건으로 편철할 때의 표지양면의 비밀표지는 그중 최고의 등급으로 한다.⑤ 비밀문서는 철하여져 있거나 보관되어 있을 때를 제외하고 비밀표지를 해당등급에 따라 첨부하고 취급한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0038"
+      },
+      {
+        "article_no": "제39조",
+        "article_title": "재분류 표지",
+        "chapter": "제4절 비밀의 표지",
+        "content": "제39조(재분류 표지) ① 재분류한 비밀은 구표지를 대각선으로 주선을 쳐서 삭제하고 그 측면 또는 상하단의 적당한 여백에 변경된 비밀등급을 재차 표지한다.② 비밀을 재분류한 때에는 재분류 근거를 다음 서식에 의하여 그 비밀의 첫면 적당한 여백에 기입하고 날인한다.③ 책자, 팸플릿 기타 영구적으로 철하여져 있는 비밀문서를 재분류한 때에는 양면표지의 비밀표지만을 전항과 같이 삭제하고 표지한다. 다만, 매면별로 재분류한 때에는 그 면마다 제2항에 정하는 절차에 의하여 재차 표지를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0039"
+      },
+      {
+        "article_no": "제40조",
+        "article_title": "비밀수발의 일반원칙",
+        "chapter": "제5절 비밀의 수발",
+        "content": "제40조(비밀수발의 일반원칙) ① 비밀의 수발은 다음 각 호의 정하는 방법에 의하되 비밀을 최대한으로 보호할 수 있도록 가능한 한 직접 접촉에 의하여야 한다. 다만, Ⅰ급비밀은 제1호의 방법에 의해서만 수발할 수 있다.1. 취급자의 직접 접촉에 의한 수발2. 문서수발계통에 의한 수발3. 국제간의 문서는 외무부 외교행낭에 의한 수발② 비밀은 어떠한 경우를 막론하고 전신ㆍ전화ㆍ팩시밀리 등의 통신수단에 의하여 평문으로 수발하여서는 아니 된다.③ 비밀을 수발할 때에는 별지 2중봉투를 이용하되 내부봉투에는 비밀표지를 하고 외부봉투에는 아무런 표시를 하지 않는다. 다만, Ⅲ급비밀을 등기우편으로 발송할 때에는 Ⅰ급 및 Ⅱ급비밀에 준하여 2중봉투를 사용하여야 한다.④ 문서이외의 비밀자재는 내용이 노출되지 아니하도록 제3항에 준하여 완전히 포장하여야 한다.⑤ 비밀의 대외수발은 문서수발계통에 의하되 등기우편으로 하여야 한다. 다만, 긴급을 요할 때에는 주무부서에서 직접 발송할 수 있다.⑥ 사내 각 부서간의 비밀수발은 직접 접촉에 의하여 해당부서의 취급자에게 인계하고 비밀관리기록부의 영수자난에 날인을 받는다.⑦ 비밀수발계통에 종사하는 직원은 Ⅱ급이상의 비밀취급인가를 받은 직원이어야 한다.⑧ 다른 기관으로부터 접수한 비밀은 발행기관의 승인없이 재차 다른 기관으로 발송할 수 없다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제40조",
+            "source_clause": "제40조제3항",
+            "link_text": "별지 2",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "별지2",
+            "target_article_title": "보안업무시행계획서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693253",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0040",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0040"
+      },
+      {
+        "article_no": "제41조",
+        "article_title": "비밀의 발송절차",
+        "chapter": "제5절 비밀의 수발",
+        "content": "제41조(비밀의 발송절차) ① 발송할 비밀은 취급주무자가 문서수발담당자에게 직접 시행문과 원본을 함께 인계하고 별지 제10호서식으로 작성한 비밀접수 및 발송대장의 수령자란에 문서수발담당자의 날인을 받는다.② 문서수발담당자는 인수한 비밀에 관하여 분류, 표지, 예고문, 비밀열람기록전 및 배포선 등을 검토한 후, 별지 제10호서식의 비밀접수 및 발송대장에 등재한 후 원본을 발송의뢰자에게 넘겨주고 비밀수발대장의 원본인수자란에 날인을 받는다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제41조",
+            "source_clause": "제41조제1항",
+            "link_text": "별지 제10호서식",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "별지10",
+            "target_article_title": "비밀접수 및 발송대장",
+            "appendix_no": "10",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693413",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0041",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0010"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제41조",
+            "source_clause": "제41조제2항",
+            "link_text": "별지 제10호서식",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "별지10",
+            "target_article_title": "비밀접수 및 발송대장",
+            "appendix_no": "10",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693413",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0041",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0010"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0041"
+      },
+      {
+        "article_no": "제42조",
+        "article_title": "비밀영수증",
+        "chapter": "제5절 비밀의 수발",
+        "content": "제42조(비밀영수증) ① Ⅰ급 및 Ⅱ급비밀을 수발할 때에는 이를 확인하기 위하여 별지 제11호서식의 비밀영수증을 사용하여야 한다.② 비밀영수증은 문서수발계통을 통하여 발송할 때에는 문서수발담당부서에서, 주무부서에서 직송할 때에는 주무부서에서 각기 작성하여야 한다.③ 비밀송증 및 영수증의 기재요령은 다음과 같다.1. 영수증의 접수일자, 이상시의 사유, 접수자란은 기재하지 않는다.2. 송증과 영수증의 일련번호는 항상 일치되게 한다.3. 영수증의 수신란에는 발송기관의 장을 기재한다.4. 송증의 수신란에는 비밀의 접수기관명을 기재한다.④ 비밀영수증은 발송문서의 내부봉투와 외부봉투 사이에 삽입하여 발송한다. 다만, 취급자의 직접 접촉에 의하는 때에는 직접 교부한다.⑤ 비밀영수증을 반송받았을 때에는 그 영수증과 분리하여 절취한 송증을 원안대로 첨부하여 담당자의 계인을 날인한 다음 비밀영수증철에 보관하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제42조",
+            "source_clause": "제42조제1항",
+            "link_text": "별지 제11호서식",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "별지11",
+            "target_article_title": "비밀영수증",
+            "appendix_no": "11",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693417",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0042",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0042"
+      },
+      {
+        "article_no": "제43조",
+        "article_title": "비밀의 접수절차",
+        "chapter": "제5절 비밀의 수발",
+        "content": "제43조(비밀의 접수절차) ① 타 기관으로부터 접수된 비밀은 문서수발담당자가 별지 제10호서식의 비밀접수 및 발송대장에 등재한 후 즉시 해당주무부서 비밀취급인가자에게 인계 및 수령인 란에 날인을 받는다.② 제1항에 의하여 비밀을 인수한 주무부서의 보관책임자는 비밀관리기록부에 등재하고 관리번호를 부여하여야 한다.③ Ⅰ급 또는 Ⅱ급비밀의 경우 비밀영수증을 접수한 때에는 그 비밀과 영수증을 대조한 후 이상이 없을 때에는 즉시 발행기관에 반송하고 이상이 있을 때에는 그 사유를 영수증에 기재하여 반송하며, 또한 그 비밀을 처리한 관계부서의 담당직원에게도 이를 알려야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제43조",
+            "source_clause": "제43조제1항",
+            "link_text": "별지 제10호서식",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "별지10",
+            "target_article_title": "비밀접수 및 발송대장",
+            "appendix_no": "10",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693413",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0043",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0010"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0043"
+      },
+      {
+        "article_no": "제44조",
+        "article_title": "비밀의 보관단위",
+        "chapter": "제6절 비밀의 보관, 관리",
+        "content": "제44조(비밀의 보관단위) ① 비밀문서는 일반문서나 자재와 혼합보관할 수 없으며, 비밀 중에도 Ⅰ급비밀은 타비밀과 혼합 보관하여서는 아니 된다.② 보관책임자가 Ⅱ급비밀 취급인가를 받은 때에는 Ⅱ급 및 Ⅲ급비밀을 동일용기에 혼합보관할 수 있다.③ 비밀문서는 보안업무주무부서에서 통합보관함을 원칙으로 하되 업무상 불가피한 경우에는 보안담당관의 승인을 얻어 보관책임자의 책임하에 분산보관할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0044"
+      },
+      {
+        "article_no": "제45조",
+        "article_title": "비밀의 보관방법",
+        "chapter": "제6절 비밀의 보관, 관리",
+        "content": "제45조(비밀의 보관방법) ①Ⅰ급비밀은 반드시 파괴나 휴대가 용이하지 않는 금고에 보관하여야 하며 Ⅱ급 및 Ⅲ급비밀은 위와 같은 금고 또는 2중 철재 캐비닛이나 이에 준하는 안전한 용기에 보관하여야 한다.② 비밀의 보관용기 외부에는 비밀의 보관을 알리거나 이를 나타내는 어떠한 표시도 하여서는 안되며 일반서류함과 같이 관리번호와 보관책임자를 명시하여야 한다.③ 비밀보관용기의 열쇠나 열쇠번호는 2개(부)를 작성하여 l개(부)는 비밀보관책임자가 보관하고 나머지 l개(부)는 안전반출 및 긴급파기함(목재로 제작)에 넣어 보안담당관이 보관한다.④ 보관용기의 자물쇠의 종류 및 사용방법은 보관책임자 이외의 자는 알지 못하도록 특별한 통제를 하여야 하며, 타인이 알았을 때에는 즉시 이를 변경하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0045"
+      },
+      {
+        "article_no": "제46조",
+        "article_title": "보관책임자의 지정",
+        "chapter": "제6절 비밀의 보관, 관리",
+        "content": "제46조(보관책임자의 지정) ①Ⅰ급비밀은 보안담당관이 집중 보관하여야 한다.② 다음 각 호의 자는 해당부서의 비밀보관책임자가 된다. 다만, 비밀보관책임자로서 결격사유가 있을 때에는 별도의 비밀보관책임자를 지정하여야 한다.1. 보관책임자(정): 해당부서장2. 보관책임자(부): 해당부서장이 지정하는 자③ 제2항에 의한 정ㆍ부 보관책임자는 제47조에서 정하는 임무 사항을 성실히 수행하여야 한다.④ 보안담당관은 비밀보관책임자의 명부를 작성 비치하여 정ㆍ부책임자의 지정사항을 기록 유지하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제46조",
+            "source_clause": "제46조제3항",
+            "link_text": "제47조",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "제47조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(중소벤처기업진흥공단) 보안업무규정/제47조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0046",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0047"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0046"
+      },
+      {
+        "article_no": "제47조",
+        "article_title": "보관책임자의 임무 및 교체",
+        "chapter": "제6절 비밀의 보관, 관리",
+        "content": "제47조(보관책임자의 임무 및 교체) ⓛ 보관책임자는 다음 각 호의 임무를 수행하여야 한다.1. 비밀을 최선의 상태로 보관한다.2. 비밀의 누설, 도난, 분실 및 기타 손괴 등의 방지를 위한 감독을 이행한다.3. 비밀관리기록부, 비밀열람기록전 및 비밀대출부 등을 기록 유지한다.② 비밀보관 정·부 책임자가 교체될 때에는 보안담당관의 확인하에 인계인수하여야 하며 이 경우 인계인수는 비밀관리기록부에 의하되 그 기재요령은 다음과 같다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0047"
+      },
+      {
+        "article_no": "제48조",
+        "article_title": "비밀관리기록부",
+        "chapter": "제6절 비밀의 보관, 관리",
+        "content": "제48조(비밀관리기록부) ⓛ 비밀의 작성, 분류, 수발 및 취급 등에 관한 일체의 관리사항을 기록하기 위하여 비밀보관책임자 단위로 별지 제11호서식을 활용하여 비밀관리기록부를 작성 및 비치하여야 한다. 다만, Ⅰ급비밀 관리기록부는 따로 작성 비치하여야 한다.② 비밀을 재분류하였거나 다른 곳으로 이송하였을 때에는 관리기록부의 해당란을 2개의 주선으로 삭제한 후 그 사유를 재분류란에 명시한다. (이송의 경우는 재분류란에 이송처와 이송의 취지를 기재한다)③ 비밀관리기록부의 기재요령은 다음과 같다.1. 부서명: 비밀을 보관하고 있는 보관단위부서명을 기재2. 보관책임자: 정, 부 보관책임자의 성명만 기재(사용하기 전에 다음 면에 미리 기입하지 않도록 주의)3. 관리번호: 자체생산문서는 그 비밀의 최종결재권자가 결재하여 그 내용이 확정 된 후에, 접수문서는 접수와 동시에 기재, 관리번호는 연도별·등급별로 일련번호 부여가. 삭제나. 삭제4. 수발년월일: 비밀의 접수 또는 발송년월일을 기입5. 생산처: 비밀의 발행기관명을 기입(중진공 내에서 발행된 것은 구체적인 부서명을 기입)6. 수신처: 비밀을 실제로 접수하여 관리하는 수신처를 구체적으로 기재7. 문서번호: 문서번호 및 시행일을 기재8. 비밀등급: 비밀등급은 로마숫자(Ⅱ, Ⅲ)로 주서9. 형태: 외형상의 형태 즉 문서, 책자, 사진, 필름, 상황판, 괘도등 구체적으로 기입10. 건 명: 비밀제목 기재11. 사본번호: 비밀에 표시된 사본번호 기재12. 보호기간: 비밀의 예고문 기재13. 보존기간: 비밀의 원본 보존기간 기재14. 보관장소: 보관용기가 위치한 사무실명 기재15. 등급변경: 비밀 재분류를 통하여 등급을 변경하는 경우 \"O\" 표시16. 파기: 예고문 도래 파기 시 \"O\" 표시17. 보호기간 만료: 보호기간 만료 후 이관 비밀인 경우 \"O\" 표시18. 일반문서 재분류: 비밀 보호기간 만료 후 일반문서로 재분류될 경우 \"O\" 표시19. 근거(처리일자): 비밀 등급 변경, 파기, 보호기간 만료, 일반문서로 재분류한 일자 기재20. 처리자: 그 비밀을 직접 처리하는 자의 성명 및 서명21. 확인자: 그 비밀을 처리하는 것을 확인한 자의 성명 및 서명(비밀보관 정책임자)22. 비 고: 비밀 대체 파기·재분류·이기·이첩 시 근거 및 기타 필요사항 기재23. 기 타: 비밀문서를 일반문서로 재분류하였거나 파기·이관하였을 때에는 \"비밀등급\"란에서 \"사본번호\"란까지 2개의 붉은 선으로 긋기④ 비밀관리기록부를 갱신하고자 할 때에는 구관리기록부상의 유효한 비밀을 신관리기록부에 이기하고 다음 양식에 의거 구관리기록부상에는 보안담당관의 이기승인을 받아 신관리기록부상에는 보안담당관의 이기확인을 받아야 한다.⑤ 비밀관리기록부를 갱신하는 때의 관리번호는 신기록부에서 새로 일련번호를 부여할 수 있다. 이 경우 비밀에 부여된 구기록부의 관리번호는 주선 2행으로 삭제하고 보관 비밀에도 관리번호를 변경 기록하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제48조",
+            "source_clause": "제48조",
+            "link_text": "별지 제11호서식",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "별지11",
+            "target_article_title": "비밀영수증",
+            "appendix_no": "11",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693417",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0048",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0048"
+      },
+      {
+        "article_no": "제49조",
+        "article_title": "관리번호의 표시",
+        "chapter": "제6절 비밀의 보관, 관리",
+        "content": "제49조(관리번호의 표시) 관리번호는 다음 규격에 의하여 문서인 때에는 표지의 좌측상단에 기입하고 기타 도서나 자재 등에는 이에 준하여 식별이 용이하도록 적절한 부위에 기입한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0049"
+      },
+      {
+        "article_no": "제50조",
+        "article_title": "비밀의 복제, 복사 및 발간의 제한",
+        "chapter": "제6절 비밀의 보관, 관리",
+        "content": "제50조(비밀의 복제, 복사 및 발간의 제한) ① 비밀의 일부 또는 전부의 복제, 복사 또는 발간은 다음 각 호에 해당하는 경우를 제외하고는 불가하다. 다만, 암호 및 음어자재는 어떠한 경우를 막론하고 이를 복제, 복사하지 못한다.1. Ⅰ급비밀은 그 발행자의 허가를 받을 때2. Ⅱ급·Ⅲ급비밀은 당해 발행자의 특정한 제한이 없는 것으로서 비밀취급인가를 받은 자가 공용으로 사용할 때② Ⅱ급·Ⅲ급비밀에 대한 복제, 복사, 발간을 제한하고자 할 경우에는 그 비밀표지 이면 또는 예고문 상단에 다음과 같이 적색으로 기입한다.③ 비밀을 복제, 복사 또는 발간한 경우에 사본에는 그 원본과 동일한 비밀등급과 예고문을 명시하고 사본번호를 부여하여야 하며, 비밀원본의 말미에는 사본번호를 포함한 배포선을 작성, 첨부하여야 한다. 이 경우 비밀의 사본번호는 전(全) 사본부수에 대한 개개(個個)의 일련번호를 부여하며 다음 규격에 의하여 비밀의 표면 우측 상단에 기입한다.④ 사본에 예고문을 명시하는 경우 재분류 구분이 \"파기\"로 되어 있는 때에는 원본의 파기시기보다 그 시기를 줄일 수 있다.⑤ 비밀을  접수한 기관이 비밀을 복제, 복사, 발간한 때에는 그 비밀 및 대외비의 첫면 또는 말미중 적절한 여백에 사본근거를 다음과 같이 기입하여야 한다.⑥ 비밀 및 대외비의 의 복제, 복사 또는 발간은 자체 시설과 장비를 이용함을 원칙으로 한다. 다만, 면수 또는 부수의 방대함, 제작기술의 곤란성 등으로 부득이한 경우에는 민간시설을 이용할 수 있으나 제51조에 의한 통제절차를 거쳐야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제50조",
+            "source_clause": "제50조제6항",
+            "link_text": "제51조",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "제51조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(중소벤처기업진흥공단) 보안업무규정/제51조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0050",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0051"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0050"
+      },
+      {
+        "article_no": "제51조",
+        "article_title": "민간시설에 의한 복제, 복사",
+        "chapter": "제6절 비밀의 보관, 관리",
+        "content": "제51조(민간시설에 의한 복제, 복사) ① 민간시설을 이용하여 비밀을 복제, 복사, 발간할 경우에는 보안담당관이 조달청장의 비밀취급인가 근거와 인가 연월일을 확인한 민간시설을 이용한다.② 비밀 발간 입회자는 당해 등급 비밀취급인가를 받은 자이어야 하며 시종 작업과정을 입회 감독하여 필요한 모든 보안조치를 취하고 파지, 활판 등 모든 형태의 비밀잔류물을 파기하여야 한다.③ 민간시설을 이용하여 비밀 또는 대외비 문서를 발간하였을 때에는 그 문서의 말미 또는 후면 표지 이면에 다음과 같은 표시를 하여야 한다.주) 인가근거란에는 조달청장의 비밀취급인가 근거와 인가일자를 기재(예: 내자 126-383, 2010. 4. 5. )",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0051"
+      },
+      {
+        "article_no": "제52조",
+        "article_title": "비밀작업일지",
+        "chapter": "제6절 비밀의 보관, 관리",
+        "content": "제52조(비밀작업일지) ① 비밀보관책임자는 비밀자료 입ㆍ출력대장을 비치하여 발간 등 작업내용을 기록 유지하여야 한다.② 해당 등급 비밀취급인가를 받지 않은 자에게는 비밀의 발간업무 등을 취급하게 하여서는 아니 된다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0052"
+      },
+      {
+        "article_no": "제53조",
+        "article_title": "비밀문서의 분리",
+        "chapter": "제6절 비밀의 보관, 관리",
+        "content": "제53조(비밀문서의 분리) ① 단일문서로 된 비밀은 이를 분리할 수 없다. 다만, Ⅲ급비밀인 첩보 및 정보문서가 2이상의 부서에 관련되고 그 처리에 신속을 요하는 경우에만 관계취급자에게 분리 취급시킬 수 있다.② 제1항의 비밀문서의 분리는 별지 제13호서식의 비밀대출부에 그 기록사항을 등재한 후 취급부서의 보관책임자에게 인계한다.③ 분리된 비밀은 취급부서의 보관책임자가 보관하여 업무처리가 끝난 후에는 주무부서의 보관책임자에게 반환하여 예고문에 의한 종합처리를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제53조",
+            "source_clause": "제53조제2항",
+            "link_text": "별지 제13호서식",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "별지13",
+            "target_article_title": "비밀대출부",
+            "appendix_no": "13",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693425",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0053",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0013"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0053"
+      },
+      {
+        "article_no": "제54조",
+        "article_title": "비밀의 대출·열람",
+        "chapter": "제6절 비밀의 보관, 관리",
+        "content": "제54조(비밀의 대출·열람) ① 비밀의 열람 또는 대출은 해당 등급의 비밀취급인가를 받은 자로서 그 비밀과 업무상 직접 관계가 있는 자에 한하여 할 수 있다.② 비밀보관책임자는 보관 비밀을 대출할 때에는 비밀대출부에 소요사항을 기록 유지하여야 한다.③ 비밀의 생산기관은 비밀에 대한 열람자의 범위를 파악하기 위하여 각기 비밀문서의 말미에 별지 제14호서식의 비밀열람기록전을 첨부하여야 하며, 비밀을 열람할 때에는 소정사항을 기재하고 서명 날인한 후에 열람하여야 한다.④ 비밀을 파기할 때에는 제3항에 따라 작성한 비밀열람기록전을 그 비밀에서 분리시켜 따로 철하여 보관하여야 한다.⑤ 삭제 <2022. 3. 28.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제54조",
+            "source_clause": "제54조제3항",
+            "link_text": "별지 제14호서식",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "별지14",
+            "target_article_title": "비밀열람기록전",
+            "appendix_no": "14",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693429",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0054",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0014"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0054"
+      },
+      {
+        "article_no": "제55조",
+        "article_title": "비밀의 반출",
+        "chapter": "제6절 비밀의 보관, 관리",
+        "content": "제55조(비밀의 반출) ① 비밀은 원칙적으로 시설 밖으로 반출할 수 없다. 다만, 공무상 당해 비밀을 지참하지 않고는 그 임무를 수행할 수 없다고 인정될 때에 한하여 이사장의 승인을 얻어 반출할 수 있다. 이때 승인권자는 보안담당관으로 갈음할 수 있다.② 반출자는 별지 제15호서식의 비밀반출승인서를 작성하여 보안책임관에게 제출하고 비밀과 교환하여 반출한다.③ 비밀을 반출하여 휴대하고 출장 또는 여행할 때에는 반드시 포장하거나 봉투에 넣어 밀봉하여야 하며 비밀보호에 대한 안전이 우려될 때에는 인근 경찰기관, 국가정보원, 국군기무부대 또는 국외주재공관에 보관조치하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제55조",
+            "source_clause": "제55조제2항",
+            "link_text": "별지 제15호서식",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "별지15",
+            "target_article_title": "비밀(대외비)반출승인서",
+            "appendix_no": "15",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693433",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0055",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0015"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0055"
+      },
+      {
+        "article_no": "제56조",
+        "article_title": "안전반출 및 파기계획",
+        "chapter": "제6절 비밀의 보관, 관리",
+        "content": "제56조(안전반출 및 파기계획) ① 이사장은 비상시를 대비하여 비밀을 안전하게 반출 또는 파기할 수 있는 계획을 수립하여 전 직원에게 주지시켜야 한다.② 제1항의 안전반출 및 파기계획에는 다음 사항이 포함되어야 한다.1. 목적2. 적용범위3. 반출 또는 파기의 시기(상황)4. 시행책임(일과중 또는 일과후로 구분하고 일과후는 다시 야간, 공휴일 등으로 구분한다)5. 반출 또는 파기의 절차 및 장소6. 최종 확인 및 보고7. 행정사항(열쇠관리, 계획서의 비치등)③ 비밀보관책임자는 제2항에 의하여 작성된 \"안전반출 및 긴급파기 기본계획\"에 의거 필요에 따라 비상시 행동을 취하여야 한다.④ 비밀보관책임자가 제3항의 행동을 취하였을 때에는 지체없이 그 결과를 보안담당관을 경유, 이사장에게 보고하여야 한다.⑤ 보안담당관은 기본계획에 의한 모의훈련을 연1회 이상 실시하여 비상사태에 대비하여야 한다.⑥ 비밀통제시 비밀관리기록부 및 비밀열람기록전의 여백에 파기내용(파기일시, 장소, 방법, 파기자, 파기문서 매수)을 기재한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0056"
+      },
+      {
+        "article_no": "제57조",
+        "article_title": "비밀소유 및 비밀취급인가자의 현황조사",
+        "chapter": "제6절 비밀의 보관, 관리",
+        "content": "제57조(비밀소유 및 비밀취급인가자의 현황조사) ⓛ 각 부서장은 비밀의 재분류 검토를 실시한 후 매년 6월말과 12월말을 기준하여 별지 제16호서식의 비밀소유현황 및 별지 제17호서식의 비밀취급인가자 현황을 조사하여 익월 5일까지 보안담당관에게 제출하여야 한다.② 보안담당관은 제l항의 현황을 종합하여 이사장에게 보고하고 조사기준 익월 10일까지 중소벤처기업부 보안담당관에게 제출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제57조",
+            "source_clause": "제57조",
+            "link_text": "별지 제16호서식",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "별지16",
+            "target_article_title": "비밀소유현황",
+            "appendix_no": "16",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693437",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0057",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0016"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제57조",
+            "source_clause": "제57조",
+            "link_text": "별지 제17호서식",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "별지17",
+            "target_article_title": "비밀취급 인가자 현황조사서",
+            "appendix_no": "17",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693441",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0057",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0017"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0057"
+      },
+      {
+        "article_no": "제58조",
+        "article_title": "비밀관리부철의 보존",
+        "chapter": "제6절 비밀의 보관, 관리",
+        "content": "제58조(비밀관리부철의 보존) 다음 각 호의 부철은 5년간 보존하여야 하며 그 이전에 폐기하고자 할 때에는 국가정보원장의 승인을 얻어야 한다.1. 서약서철2. 비밀영수증철3. 비밀관리기록부4. 비밀수발대장5. 비밀열람기록전철6. 비밀대출부7. 인감등록서철",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0058"
+      },
+      {
+        "article_no": "제59조",
+        "article_title": "국제통신일반",
+        "chapter": "제5장 통신보안 및 시설보안",
+        "content": "제59조(국제통신일반) ⓛ 국제간의 통신문은 비밀의 분류기준을 국내에서보다 상향분류하여야 한다.② 비밀이 아니라도 누설될 경우 국가의 이익을 해할 우려가 있을 때에는 평문으로 통신할 수 없다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0059"
+      },
+      {
+        "article_no": "제60조",
+        "article_title": "통신보안 규정위반",
+        "chapter": "제5장 통신보안 및 시설보안",
+        "content": "제60조(통신보안 규정위반) ① 이사장은 「보안업무규정 시행규칙」(대통령훈령)에서 정하는 통신보안 규정위반 사항이 발생하지 않도록 관리하여야 한다.② 이사장은 제1항에 따른 통신보안 규정 위반 사항을 적발한 때에는 이를 중소벤처기업부장관에게 지체없이 통보하여야 한다.③ 기타 통신보안과 관련하여 이 규정에서 정하지 않은 사항은 이사장이 별도 정하는 바에 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제60조",
+            "source_clause": "제60조제1항",
+            "link_text": "「보안업무규정 시행규칙」",
+            "line_text": "",
+            "target_law_name": "보안업무규정 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/보안업무규정 시행규칙",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0060",
+            "reference_id": "admrul:보안업무규정시행규칙#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0060"
+      },
+      {
+        "article_no": "제61조",
+        "article_title": "팩시밀리 보안통제",
+        "chapter": "제5장 통신보안 및 시설보안",
+        "content": "제61조(팩시밀리 보안통제) 팩시밀리에 의한 문서의 수발은 일반문서에 한하여 가능하며, 비밀·대외비 문건은 수발이 불가하다. 다만, 암호기를 설치한 때에는 암호기의 기종에 따라 보안담당관의 사전 검열을 필한 범위 안에서 비밀·대외비 문건을 수발할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0061"
+      },
+      {
+        "article_no": "제62조",
+        "article_title": "삭제",
+        "chapter": "제5장 통신보안 및 시설보안",
+        "content": "제62조 삭제 <2022. 3. 28.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0062"
+      },
+      {
+        "article_no": "제63조",
+        "article_title": "삭제",
+        "chapter": "제5장 통신보안 및 시설보안",
+        "content": "제63조 삭제 <2022. 3. 28.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0063"
+      },
+      {
+        "article_no": "제64조",
+        "article_title": "삭제",
+        "chapter": "제5장 통신보안 및 시설보안",
+        "content": "제64조 삭제 <2022. 3. 28.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0064"
+      },
+      {
+        "article_no": "제65조",
+        "article_title": "보호구역의 설정",
+        "chapter": "제5장 통신보안 및 시설보안",
+        "content": "제65조(보호구역의 설정) ① 보호구역은 그 중요도에 따라 제한지역, 제한구역 및 통제구역으로 나눈다.②  삭제 <2022. 3. 28.>③ 중진공의 보호구역은 다음과 같다.1. 제한지역: 중진공이 사용하는 시설2. 제한구역:(가) 본부시설: 이사장실, 방재실, 전기실, 보일러실(나) 연수원시설: 변전실, 보일러실(다) 삭제 <2022. 3. 28.>3. 통제구역: 비상계획실, ICT운영실, 정보보안실 <개정 2026. 1. 22.>(가) 삭제 <2008. 5. 26>(나) 삭제 <2008. 5. 26>(다) 삭제 <2008. 5. 26>(라) 삭제 <2008. 5. 26>4. 을지연습 기간중 상황실은 통제구역이 된다.5. 보호구역의 관리책임자(가) 제한구역- 이사장실: 비서실장- 본부시설: 시설관리담당팀장- 연수원시설: 시설관리담당팀장- 삭제 <2022. 3. 28.>(나) 통제구역- 비상계획실: 비상계획실장 <개정 2026. 1. 22.>- 삭제 <2008. 5. 26>- 삭제 <2008. 5. 26>- ICT운영실: 전산담당부서장 <개정 2026. 1. 22.>- 삭제 <2008. 5. 26.>- 정보보안실: 보안담당부서장 <신설 2026. 1. 22.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0065"
+      },
+      {
+        "article_no": "제66조",
+        "article_title": "보호구역의 출입통제",
+        "chapter": "제5장 통신보안 및 시설보안",
+        "content": "제66조(보호구역의 출입통제)  ① 제한구역의 출입통제에 관한 사항은 다음 각 호에 따른다.1. 제한구역에는 출입문 중앙부에 다음과 같이 주서로 제한구역 표시를 하여야 한다. 다만, 이사장실에는 이를 생략할 수 있다.(20cm × 30cm)2. 제한구역에 출입하고자 할 때에는 사전에 당해 구역관리책임자에게 신고하여야 하며 관리책임자는 출입자의 신분과 용무를 확인한 후 출입을 안내한다.② 통제구역의 출입통제에 관한 사항은 다음 각 호에 따른다. <개정 2022. 3. 28.>1. 통제구역에는 출입문 중앙부에서 주서로 다음과 같은 통제구역 표시와 출입통제 경고문을 게시하여야 한다.(20cm × 30cm)(15cm × 40cm)2. 업무상 필요에 의하여 통제구역에 출입하고자 하는 자는 사전에 당해 구역 관리책임자의 허가를 받아야 하며, 관리책임자는 출입현장에 입회 감독하고 별지 제18호서식의 통제구역 출입대장을 비치하고 출입통제사항을 기록 유지하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제66조",
+            "source_clause": "제66조제2항",
+            "link_text": "별지 제18호서식",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "별지18",
+            "target_article_title": "통제구역 출입대장",
+            "appendix_no": "18",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693445",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0066",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0018"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0066"
+      },
+      {
+        "article_no": "제67조",
+        "article_title": "시설보안",
+        "chapter": "제5장 통신보안 및 시설보안",
+        "content": "제67조(시설보안) ① 각 사무실의 최종 퇴실자는 실내보안 및 화기의 이상유무를 확인하고, 별지 제19호서식의 보안점검표에 기입한 후 기록 유지하여야 한다.② 삭제 <2022. 3. 28.>③ 보안담당관은 월l회 제1항의 보안점검표를 점검하여 시정을 요하는 사항에 관하여는 필요한 조치를 취하여야 한다.④ 보안담당관은 수시 방화교육 및 소방훈련을 실시하고 소화기구를 정규적으로 점검 비치하여야 한다.⑤ 보안담당관은 자체 비상연락망을 수시 정비하여 비상소집을 대비하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제67조",
+            "source_clause": "제67조제1항",
+            "link_text": "별지 제19호서식",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "별지19",
+            "target_article_title": "보안점검표",
+            "appendix_no": "19",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693449",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0067",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0019"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0067"
+      },
+      {
+        "article_no": "제68조",
+        "article_title": "산업보안대상",
+        "chapter": "제6장 산업보안",
+        "content": "제68조(산업보안대상) 기업경영 및 생산ㆍ연구활동과정에서 산출되는 기술상, 영업상 각종 정보로서 비밀성을 유지하고 있는 유무형의 정보를 산업보안의 대상으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0068"
+      },
+      {
+        "article_no": "제69조",
+        "article_title": "삭제",
+        "chapter": "제6장 산업보안",
+        "content": "제69조 삭제 <2022. 3. 28.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0069"
+      },
+      {
+        "article_no": "제70조",
+        "article_title": "보안조치",
+        "chapter": "제6장 산업보안",
+        "content": "제70조(보안조치) ① 각종 사업을 수행하는 과정에서 알게 된 기업의 비밀에 관한 사항을 공표하거나 타인에게 누설하여서는 아니 된다.② 산업보안 대상 정보를 취득하게 될 각종 평가위원, 경영ㆍ기술지도위원 및 수탁연구과제 등에 참여할 연구원등에 대하여는 사전에 보안 서약서를 징구한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0070"
+      },
+      {
+        "article_no": "제71조",
+        "article_title": "정보보안업무",
+        "chapter": "제7장 정보보안",
+        "content": "제71조(정보보안업무) 정보보안업무란 정보시스템 및 정보통신망을 통해 수집, 가공, 저장, 검색, 송·수신되는 정보의 유출, 위·변조, 훼손 등을 방지하기 위하여 관리적·물리적·기술적 수단을 강구하는 일체의 행위(「국가사이버안전관리규정」 제2조제3호의 사이버안전을 포함한다)를 말하며, 이 규정에서 정한 사항 외에 정보보안업무에 관련된 사항은 별도의 지침으로 정한다. <개정 2025. 12. 23.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제71조",
+            "source_clause": "제71조",
+            "link_text": "「국가사이버안전관리규정」",
+            "line_text": "",
+            "target_law_name": "국가사이버안전관리규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국가사이버안전관리규정",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0071",
+            "reference_id": "admrul:국가사이버안전관리규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제71조",
+            "source_clause": "제71조",
+            "link_text": "제2조제3호",
+            "line_text": "",
+            "target_law_name": "국가사이버안전관리규정",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국가사이버안전관리규정/제2조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0071",
+            "reference_id": "admrul:국가사이버안전관리규정#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0071"
+      },
+      {
+        "article_no": "제72조",
+        "article_title": "보안교육",
+        "chapter": "제8장 보안교육 및 보안조치",
+        "content": "제72조(보안교육) 보안담당관은 다음 구분에 따라 자체계획을 수립하여 보안교육을 실시하여야 한다.1. 보안업무의 향상과 보안관리의 철저를 기하기 위하여 전직원을 대상으로 연1회 이상 정기보안교육을 실시하여야 한다.2. 신규채용자에 대하여는 채용과 동시에 보안업무 전반에 대한 교육을 실시하여야 한다.3. 해외여행자에 대하여는 출국전에 적절한 자체보안교육을 실시하여야 한다.4. 삭제 <2022. 3. 28.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0072"
+      },
+      {
+        "article_no": "제73조",
+        "article_title": "보안점검",
+        "chapter": "제8장 보안교육 및 보안조치",
+        "content": "제73조(보안점검) ① 보안담당관은 매월 보안의 날(첫째주 금요일)에 다음 사항의 점검을 실시하여야 한다.1. 사내 현재원과 비밀취급인가자 현황2. 비밀ㆍ대외비 및 암호자재의 관리상태점검 및 보안관계 현황 파악3. 외부인 출입통제의 강화4. 경비요원에 대한 교육훈련 실시5. 삭제 <2022. 3. 28.>6. 분야별, 요소별 보안관리 실태 진단7. 삭제 <2022. 3. 28.>8. 보안업무 규정의 숙지 및 이행상태② 보안담당관은 각사무실의 보안관리상태를 점검하기 위하여 연 l회 이상 야간에 불시 보안점검을 실시하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0073"
+      },
+      {
+        "article_no": "제74조",
+        "article_title": "보안사고",
+        "chapter": "제8장 보안교육 및 보안조치",
+        "content": "제74조(보안사고) ① 보안사고라 함은 다음 각 호의 경우를 말한다.1. 비밀의 누설 및 전파2. 비밀의 분실, 도난 또는 손실3. 보안대상인 자재 또는 시설에 대한 파괴4. 통제구역 또는 제한구역의 불법침입② 제1항 각 호의 보안사고를 범한 자 또는 이를 발견한 자는 지체없이 다음 사항을 소속 부서장을 경유 보안담당관에게 보고하고 동시에 비밀발행기관 및 제 배포선에도 통보하여야 한다. 다만, 비밀을 휴대하고 출장 또는 여행중 보안사고가 야기되었을 때에는 먼저 인근 경찰기관 또는 국군기무부대에 이를 통보하여야 한다.1. 사고의 일시 및 장소2. 사고내용3. 현재 취하고 있는 조치③ 제2항의 보고를 받은 보안담당관은 이를 즉시 이사장에게 보고하고 중소벤처기업부 보안담당관에게 통보하여야 하며 자체조사를 실시하여 사고책임자를 엄중문책 또는 징계조치하여야 한다.④ 이사장은 보안사고 발생의 전말과 조치결과를 중소벤처기업부장관에게 서면으로 보고하여야 한다.⑤ 보안사고는 이에 대한 전말조사가 종결될 때까지 공개하여서는 아니 된다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0074"
+      },
+      {
+        "article_no": "제75조",
+        "article_title": "대외비의 관리",
+        "chapter": "제9장 대외비의 관리 등",
+        "content": "제75조(대외비의 관리) ① 대외비는 비밀에 준하여 관리하여야 하며, 보호기간이 만료된 대외비는 일반문서로 재분류 한다. 이 경우 해당 기록물의 관리 등에 관하여는 「공공기록물 관리에 관한 법률」에 따른다.② 대외비는 그 문서의 맨 앞면 표지와 각 면 위의 중앙에 다음과 같이 대외비 표시 및 예고문(보호기간)을 기재 하여야 한다.③ 대외비를 2부 이상 생산하였을 때에는 전체 부수에 대한 개개의 사본번호를 부여하여야 하며, 그 방법은 제50조에서 정하는 비밀에 대한 관리 방법을 따른다.④ 대외비는 제46조에서 정하는 비밀 보관책임자가 관리하며, 비밀 보관책임자는 별지 제20호서식을 활용하여 대외비관리기록부를 작성 및 유지하고 매 건마다 관리번호를 부여하여야 한다.⑤ 대외비는 비밀취급 비인가자도 취급할 수 있으며, 비밀 보관책임자의 책임 하에 비밀에 준하여 금고 또는 캐비닛 등 잠금장치가 있는 안전한 용기에 보관하여야 한다.⑥ 모든 대외비는 담당부서별로 보관 및 관리하여야 하며, 해당부서의 비밀 보관책임자는 대외비 관리와 관련하여 다음 각 호의 임무를 수행한다.1. 소속 부서 대외비 관리업무 총괄2. 업무와 관계되지 않은 사람이 열람, 복제·복사, 배부할 수 없도록 관리3. 대외비관리기록부 작성 및 유지(단, 대외비 배부표는 생산자가 작성 유지)",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제75조",
+            "source_clause": "제75조제1항",
+            "link_text": "「공공기록물 관리에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "공공기록물 관리에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기록물 관리에 관한 법률",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0075",
+            "reference_id": "law:공공기록물관리에관한법률#DOC"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제75조",
+            "source_clause": "제75조제3항",
+            "link_text": "제50조",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "제50조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(중소벤처기업진흥공단) 보안업무규정/제50조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0075",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0050"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제75조",
+            "source_clause": "제75조제4항",
+            "link_text": "제46조",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "제46조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/(중소벤처기업진흥공단) 보안업무규정/제46조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0075",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0046"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제75조",
+            "source_clause": "제75조제4항",
+            "link_text": "별지 제20호서식",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "별지20",
+            "target_article_title": "대외비관리기록부",
+            "appendix_no": "20",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693453",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0075",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0020"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0075"
+      },
+      {
+        "article_no": "제76조",
+        "article_title": "대외비의 반출",
+        "chapter": "제9장 대외비의 관리 등",
+        "content": "제76조(대외비의 반출) ① 대외비는 보관하고 있는 시설 밖으로 반출하여서는 아니 된다. 다만, 공무상 부득이하게 반출이 필요할 때에는 사전에 이사장의 승인을 얻어 반출할 수 있다.② 대외비를 반출하고자 할 때에는 대외비 반출승인서(비밀반출승인서를 준용한다)를 소속부서의 보관책임자에게 제출하여야 하며, 보관책임자는 반출을 승인하는 승인서에 통제인을 날인하여 보안담당관에게 승인요청 하여야 한다.③ 생산한 대외비를 타 기관(또는 부서)에 배부할 경우에는 별지 제21호서식의 대외비 배부표를 작성하여야 한다. 이 경우 원본의 마지막에 부착하여 결재하고, 결재 후에는 분리하여 대외비 배부표 목록으로 관리한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제76조",
+            "source_clause": "제76조제3항",
+            "link_text": "별지 제21호서식",
+            "line_text": "",
+            "target_law_name": "(중소벤처기업진흥공단) 보안업무규정",
+            "target_article_no": "별지21",
+            "target_article_title": "대외비 배부표",
+            "appendix_no": "21",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693457",
+            "resolve_method": "render",
+            "source_provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0076",
+            "reference_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0021"
+          }
+        ],
+        "images": [],
+        "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#JO0076"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20220328",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2022.03.28.>이 규정은 2022년 3월 28일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20231129",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2023.11.29.>제1조(시행일) ① 이 규정은 2024년 1월 1일부터 시행한다.② 제1항에도 불구하고 이 요령에 의한 신설ㆍ폐지 및 변경부서에 관한 사항은 동 요령에 의한 인사명령일로부터 시행한다.제2조(다른 규정ㆍ요령 및 지침의 개정) ① 계약사무처리요령의 일부를 다음과 같이 개정한다.제3조제1항의 \"「중소벤처기업진흥공단과 그 소속기관 직제 시행요령」(이하 \"직제규정 시행요령\"이라 한다)\"를 \"「직제규정 시행요령」\"이라 한다.② ESG 경영위원회 운영지침의 일부를 다음과 같이 개정한다.제3조제2항제3호의 \"직제시행요령\"을 \"「직제규정 시행요령」\" 이라 한다.제4조제1항의 \"직제시행요령\"을 \"「직제규정 시행요령」\" 이라 한다.③ 자산유동화사업 추진지침의 일부를 다음과 같이 개정한다.제19조제3항의 \"직제시행요령\"을 \"「직제규정 시행요령」\" 이라 한다.④ 제1항부터 제3항까지의 개정 사항 외의 제 규정ㆍ요령 및 지침 중 \"중소벤처기업진흥공단과 그 소속기관 직제 시행요령\"을 \"직제규정 시행요령\"으로 한다."
+    },
+    {
+      "promulgation_date": "20240201",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2024.02.01.>이 규정은 2024년 1월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20251223",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2025.12.23.>이 규정은 2026년 1월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20260122",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2026.01.22.>이 규정은 2026년 1월 1일부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "보안심사의결서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693249",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693249",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0001",
+      "filename": "별지1_보안심사의결서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "보안업무시행계획서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693253",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693253",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0002",
+      "filename": "별지2_보안업무시행계획서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "신원조회대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693257",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693257",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0003",
+      "filename": "별지3_신원조회대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "서약서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693381",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693381",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0004",
+      "filename": "별지4_서약서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비밀취급 인가 신청서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693385",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693385",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0005",
+      "filename": "별지5_비밀취급 인가 신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "02",
+      "kind": "별지",
+      "title": "암호자재취급 인가 요청서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693389",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693389",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0005_02",
+      "filename": "별지5의2_암호자재취급 인가 요청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비밀·암호자재취급 인가증",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693393",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693393",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0006",
+      "filename": "별지6_비밀·암호자재취급 인가증.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비밀취급 인가대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693397",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693397",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0007",
+      "filename": "별지7_비밀취급 인가대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "02",
+      "kind": "별지",
+      "title": "암호자재취급 인가대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693401",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693401",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0007_02",
+      "filename": "별지7의2_암호자재취급 인가대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0008",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비밀·암호자재취급 인가증 재발급 요청서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693405",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693405",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0008",
+      "filename": "별지8_비밀·암호자재취급 인가증 재발급 요청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0009",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비밀·암호자재취급 인가증 분실사유서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693409",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693409",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0009",
+      "filename": "별지9_비밀·암호자재취급 인가증 분실사유서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0010",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비밀접수 및 발송대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693413",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693413",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0010",
+      "filename": "별지10_비밀접수 및 발송대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0011",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비밀영수증",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693417",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693417",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0011",
+      "filename": "별지11_비밀영수증.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0012",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비밀관리기록부",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693421",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693421",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0012",
+      "filename": "별지12_비밀관리기록부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0013",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비밀대출부",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693425",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693425",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0013",
+      "filename": "별지13_비밀대출부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0014",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비밀열람기록전",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693429",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693429",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0014",
+      "filename": "별지14_비밀열람기록전.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0015",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비밀(대외비)반출승인서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693433",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693433",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0015",
+      "filename": "별지15_비밀(대외비)반출승인서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0016",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비밀소유현황",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693437",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693437",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0016",
+      "filename": "별지16_비밀소유현황.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0017",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비밀취급 인가자 현황조사서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693441",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693441",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0017",
+      "filename": "별지17_비밀취급 인가자 현황조사서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0018",
+      "branch": "00",
+      "kind": "별지",
+      "title": "통제구역 출입대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693445",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693445",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0018",
+      "filename": "별지18_통제구역 출입대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0019",
+      "branch": "00",
+      "kind": "별지",
+      "title": "보안점검표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693449",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693449",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0019",
+      "filename": "별지19_보안점검표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0020",
+      "branch": "00",
+      "kind": "별지",
+      "title": "대외비관리기록부",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693453",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693453",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0020",
+      "filename": "별지20_대외비관리기록부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0021",
+      "branch": "00",
+      "kind": "별지",
+      "title": "대외비 배부표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693457",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161693457",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#BJ0021",
+      "filename": "별지21_대외비 배부표.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 54,
+    "by_category": {
+      "행정규칙": 11,
+      "법령": 4,
+      "학칙공단": 10,
+      "별지": 29
+    },
+    "by_relation_type": {
+      "citation": 16,
+      "internal_ref": 9,
+      "appendix_ref": 29
+    },
+    "articles_total": 76,
+    "articles_with_relations": 31,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 5,
+    "appendices_count": 23,
+    "attachments_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/학칙공단/(중소벤처기업진흥공단) 보안업무규정"
+  },
+  "provision_id": "pi:(중소벤처기업진흥공단)보안업무규정#DOC"
+}
