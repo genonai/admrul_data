@@ -1,25 +1,25 @@
 {
-  "law_id": "2200000146665",
-  "mst": "2200000146665",
+  "law_id": "2200000152209",
+  "mst": "2200000152209",
   "law_name": "대한적십자사 고용원 운영규정",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "pi",
   "doc_kind": "공단정관",
-  "adm_uid": "pi:2200000146665",
+  "adm_uid": "pi:2200000152209",
   "promulgation_no": "9999",
-  "promulgation_date": "20250401",
-  "enforcement_date": "20250401",
-  "revision_date": "20250401",
+  "promulgation_date": "20260101",
+  "enforcement_date": "20260101",
+  "revision_date": "20260101",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "대한적십자사",
-    "담당자명": "김승기",
+    "담당자명": "허주녕",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "대한적십자사 고용원 운영규정",
-    "발령일자": "20250401",
+    "발령일자": "20260101",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,11 +27,11 @@
     "전화번호": "033-811-0321",
     "제개정구분명": "일부개정",
     "소관부처코드": "B460004",
-    "생성일자": "20260127",
-    "행정규칙ID": "2137211",
-    "담당부서기관코드": "",
+    "생성일자": "20260723",
+    "행정규칙ID": "2140567",
+    "담당부서기관코드": "B460004",
     "발령번호": "9999",
-    "행정규칙일련번호": "2200000146665"
+    "행정규칙일련번호": "2200000152209"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -65,7 +65,29 @@
         "chapter": "제1장 총칙",
         "content": "제3조(구분) 고용원의 직종구분과 직급은 별표 1호와 같다. <개정 2008. 1. 1., 2015. 1. 1., 2016. 4. 1.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "별표 1호",
+            "line_text": "",
+            "target_law_name": "대한적십자사 고용원 운영규정",
+            "target_article_no": "별표1",
+            "target_article_title": "고용원 직종 및 직급 구분",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000152209&bylNo=0001&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "pi:대한적십자사고용원운영규정#JO0003",
+            "reference_id": "pi:대한적십자사고용원운영규정#BYL0001"
+          }
+        ],
         "images": [],
         "provision_id": "pi:대한적십자사고용원운영규정#JO0003"
       },
@@ -83,7 +105,7 @@
         "article_no": "제5조",
         "article_title": "임용권자",
         "chapter": "제2장 임용",
-        "content": "제5조(임용권자) 고용원의 임용은 기관장(본사는 사무총장) 또는 소속기관장이 행한다. <개정 1999. 4. 1, 2008. 1. 1.>",
+        "content": "제5조(임용권자) 고용원의 임용은 기관장(본사는 사무총장) 또는 소속기관장이 행한다. <개정 1999. 4. 1., 2008. 1. 1.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -223,7 +245,7 @@
         "article_no": "제18조의2",
         "article_title": "휴직 등",
         "chapter": "제3장 복무",
-        "content": "제18조의2(휴직 등) ① 고용원의 휴직은 「직원 운영규정」 제53조의 규정을 준용한다. <개정 2025. 1. 1.>② 고용원의 휴직기간은 「직원 운영규정」 제54조의 규정을 준용한다. <개정 2025. 1. 1.>③ 고용원의 휴직의 효력은 「직원 운영규정」 제55조의 규정을 준용한다. <개정 2025. 1. 1.>④ 고용원의 육아기 근로시간 단축은 「직원 운영규정」 제54조의2의 규정을 준용한다. <개정 2025. 1. 1.>[본조신설 2012. 8. 20.]",
+        "content": "제18조의2(휴직 등) ① 고용원의 휴직은 「직원 운영규정」 제53조의 규정을 준용한다. <개정 2025. 1. 1>② 고용원의 휴직기간은 「직원 운영규정」 제54조의 규정을 준용한다. <개정 2025. 1. 1.>③ 고용원의 휴직의 효력은 「직원 운영규정」 제55조의 규정을 준용한다. <개정 2025. 1. 1.>④ 고용원의 육아기 근로시간 단축은 「직원 운영규정」 제54조의2의 규정을 준용한다. <개정 2025. 1. 1.>[본조신설 2012. 8. 20.]",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -235,7 +257,25 @@
         "chapter": "제4장 보수",
         "content": "제19조(봉급) ① 고용원의 봉급은 그 담당직무의 책임도량에 따라 봉급을 지급한다.② 고용원의 봉급은 그 근무일수에 의하여 지급한다. 다만, 근무일에 계속되는 공휴일과 사정휴일은 근무일수로 본다.③ 제4조에 규정한 임시고용원의 봉급은 제1항에 준하여 결정 지급한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제3항",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "대한적십자사 고용원 운영규정",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/대한적십자사 고용원 운영규정/제4조",
+            "resolve_method": "render",
+            "source_provision_id": "pi:대한적십자사고용원운영규정#JO0019",
+            "reference_id": "pi:대한적십자사고용원운영규정#JO0004"
+          }
+        ],
         "images": [],
         "provision_id": "pi:대한적십자사고용원운영규정#JO0019"
       },
@@ -255,7 +295,29 @@
         "chapter": "제4장 보수",
         "content": "제21조(봉급지급액) ① 고용원의 봉급은 별표 제2호와 같다.② 삭제",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제21조",
+            "source_clause": "제21조제1항",
+            "link_text": "별표 제2호",
+            "line_text": "",
+            "target_law_name": "대한적십자사 고용원 운영규정",
+            "target_article_no": "별표2",
+            "target_article_title": "고용원 봉급표",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000152209&bylNo=0002&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "pi:대한적십자사고용원운영규정#JO0021",
+            "reference_id": "pi:대한적십자사고용원운영규정#BYL0002"
+          }
+        ],
         "images": [],
         "provision_id": "pi:대한적십자사고용원운영규정#JO0021"
       },
@@ -273,7 +335,7 @@
         "article_no": "제23조",
         "article_title": "보수지급일",
         "chapter": "제4장 보수",
-        "content": "제23조(보수지급일) 고용원의 보수지급은 「직원 보수 운영규정」 제39조를 준용한다. <개정 2010. 9. 1., 2025. 1. 1.>",
+        "content": "제23조(보수지급일) 고용원의 보수지급은 「직원 보수 운영규정」 제39조를 준용한다. <개정 2010. 9. 1., 2025. 1. 1>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -373,7 +435,7 @@
         "article_no": "제30조의2",
         "article_title": "특전",
         "chapter": "제4장 보수",
-        "content": "제30조의2(특전) 고용원은 「직원 운영규정」 제25조에 규정된 바와 동일한 특전을 향유한다. <개정 2025. 1. 1.>",
+        "content": "제30조의2(특전) 고용원은 「직원 운영규정」 제25조에 규정된 바와 동일한 특전을 향유한다. <개정 2025. 1. 1>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -393,7 +455,7 @@
         "article_no": "제31조의2",
         "article_title": "훈련 및 제안제도",
         "chapter": "제5장 상벌",
-        "content": "제31조의2(훈련 및 제안제도) 고용원의 훈련 및 제안제도에 관한 사항은 「직원 운영규정」 제26조 및 제28조의2를 준용한다. <신설 2008. 4. 1. 개정 2025. 1. 1.>",
+        "content": "제31조의2(훈련 및 제안제도) 고용원의 훈련 및 제안제도에 관한 사항은 「직원 운영규정」 제26조 및 제28조의2를 준용한다. <신설 2008. 4. 1., 2025. 1. 1.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -488,9 +550,9 @@
       "content": "부칙 <제9999호, 1978.04.01.>이 규칙은 1978년 4월 1일부터 시행한다."
     },
     {
-      "promulgation_date": "19790401",
+      "promulgation_date": "19790417",
       "promulgation_no": "9999",
-      "content": "부칙 <제9999호, 1979.04.01.>이 규칙은 1979년 4월 1일부터 시행한다."
+      "content": "부칙 <제9999호, 1979.04.17.>이 규칙은 1979년 4월 1일부터 시행한다."
     },
     {
       "promulgation_date": "19800401",
@@ -498,9 +560,9 @@
       "content": "부칙 <제9999호, 1980.04.01.>이 규칙은 1980년 4월 1일부터 시행한다."
     },
     {
-      "promulgation_date": "19800701",
+      "promulgation_date": "19800626",
       "promulgation_no": "9999",
-      "content": "부칙 <제9999호, 1980.07.01.>이 규칙은 1980년 7월 1일부터 시행한다."
+      "content": "부칙 <제9999호, 1980.06.26.>이 규칙은 1980년 7월 1일부터 시행한다."
     },
     {
       "promulgation_date": "19810401",
@@ -513,29 +575,29 @@
       "content": "부칙 <제9999호, 1982.04.01.>이 규칙은 1982년 4월 1일부터 시행한다."
     },
     {
-      "promulgation_date": "19830401",
-      "promulgation_no": "9999",
-      "content": "부칙 <제9999호, 1983.04.01.>이 규칙은 1983년 4월 1일부터 시행한다."
+      "promulgation_date": "19830302",
+      "promulgation_no": "99999",
+      "content": "부칙 <제99999호, 1983.03.02.>이 규칙은 1983년 4월 1일부터 시행한다."
     },
     {
-      "promulgation_date": "19850401",
+      "promulgation_date": "19850326",
       "promulgation_no": "9999",
-      "content": "부칙 <제9999호, 1985.04.01.>이 규칙은 1985년 4월 1일부터 시행한다."
+      "content": "부칙 <제9999호, 1985.03.26.>이 규칙은 1985년 4월 1일부터 시행한다."
     },
     {
-      "promulgation_date": "19860401",
+      "promulgation_date": "19860320",
       "promulgation_no": "9999",
-      "content": "부칙 <제9999호, 1986.04.01.>이 규칙은 1986년 4월 1일부터 시행한다."
+      "content": "부칙 <제9999호, 1986.03.20.>이 규칙은 1986년 4월 1일부터 시행한다."
     },
     {
-      "promulgation_date": "19870401",
+      "promulgation_date": "19870324",
       "promulgation_no": "9999",
-      "content": "부칙 <제9999호, 1987.04.01.>이 규칙은 1987년 4월 1일부터 시행한다."
+      "content": "부칙 <제9999호, 1987.03.24.>이 규칙은 1987년 4월 1일부터 시행한다."
     },
     {
-      "promulgation_date": "19880401",
-      "promulgation_no": "999",
-      "content": "부칙 <제999호, 1988.04.01.>이 규칙은 1988년 4월 1일부터 시행한다."
+      "promulgation_date": "19880210",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 1988.02.10.>이 규칙은 1988년 4월 1일부터 시행한다."
     },
     {
       "promulgation_date": "19900401",
@@ -553,9 +615,9 @@
       "content": "부칙 <제9999호, 1993.01.01.>이 규칙은 1993년 1월 1일부터 시행한다."
     },
     {
-      "promulgation_date": "19940101",
+      "promulgation_date": "19940109",
       "promulgation_no": "9999",
-      "content": "부칙 <제9999호, 1994.01.01.>이 규칙은 1994년 1월 1일부터 시행한다."
+      "content": "부칙 <제9999호, 1994.01.09.>이 규칙은 1994년 1월 1일부터 시행한다."
     },
     {
       "promulgation_date": "19940422",
@@ -605,7 +667,7 @@
     {
       "promulgation_date": "20080101",
       "promulgation_no": "9999",
-      "content": "부칙 <제9999호, 2008.01.01.>①(시행일) 2008년 1월 1일부터 시행한다.② (적용예외) 직원보수운영규정 제9조제1항에도불구하고 직원운영규정 제10조제2항제7호에 의거한 기능적 고용원의 경력산출은 매 2년당 1호봉을 산출한다."
+      "content": "부칙 <제9999호, 2008.01.01.>① (시행일) 2008년 1월 1일부터 시행한다.② (적용예외) 직원보수운영규정 제9조제1항에도불구하고 직원운영규정 제10조제2항제7호에 의거한 기능적 고용원의 경력산출은 매 2년당 1호봉을 산출한다."
     },
     {
       "promulgation_date": "20080401",
@@ -650,7 +712,7 @@
     {
       "promulgation_date": "20150101",
       "promulgation_no": "9999",
-      "content": "부칙 <제9999호, 2015.01.01.>①(시행일) 2015년 1월 1일부터 시행한다.② (경과규정) 본 규정 시행당시 사무보조원으로 재직중인 자는 전직될 때까지 종전의 직급을 갖는다. <개정 2016. 4. 1.>"
+      "content": "부칙 <제9999호, 2015.01.01.>① (시행일) 2015년 1월 1일부터 시행한다.② (경과규정) 본 규정 시행당시 사무보조원으로 재직중인 자는 전직될 때까지 종전의 직급을 갖는다. <개정 2016. 4. 1.>"
     },
     {
       "promulgation_date": "20160101",
@@ -665,7 +727,7 @@
     {
       "promulgation_date": "20170101",
       "promulgation_no": "9999",
-      "content": "부칙 <제9999호, 2017.01.01.>① (시행일) 이 운영규정은 2017년 1월 1일부터 시행한다.② (고용원 승급에 관한 경과조치) 제25조 및 26조 개정규정에도 불구하고 기본과정을 미이수한 고용원은 2017년도 까지 승급할 수 있다.③ (직원기본연수 미이수 고용원에 대한 특례) 2019년 12월 31일 이전에 정년퇴직하는 고용원에 대해서는 기본과정을 미이수하였더라도 승급할 수 있다.④ (기본급 인상의 소급적용) 2016년도 적용 임금ㆍ단체약에 따른 기본급 인상은  2016년 1월 1일자로 소급하여 적용한다."
+      "content": "부칙 <제9999호, 2017.01.01.>① (시행일) 이 운영규정은 2017년 1월 1일부터 시행한다.② (고용원 승급에 관한 경과조치) 제25조 및 26조 개정규정에도 불구하고 기본과정을 미이수한 고용원은 2017년도 까지 승급할 수 있다.③ (직원기본연수 미이수 고용원에 대한 특례) 2019년 12월 31일 이전에 정년퇴직하는 고용원에 대해서는 기본과정을 미이수하였더라도 승급할 수 있다.④ (기본급 인상의 소급적용) 2016년도 적용 임금ㆍ단체약에 따른 기본급 인상은 2016년 1월 1일자로 소급하여 적용한다."
     },
     {
       "promulgation_date": "20170603",
@@ -721,9 +783,59 @@
       "promulgation_date": "20250401",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2025.04.01.>이 운영규정은 2025년 4월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20260101",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2026.01.01.>① (시행일) 이 운영규정은 2026년 1월 1일부터 시행한다.② (기본급 인상 등의 소급적용) 2025년도 적용 임금ㆍ단체협약에 따른 기본급 인상은 2025년 1월 1자로 소급하여 적용한다.③ (보수(통상임금) 범위 변경의 소급적용) 상여수당 월할금액의 보수(통상임금) 반영은 2024년 12월 19일자로 소급하여 적용한다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "고용원 직종 및 직급 구분",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000152209&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167404887",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167404887",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:대한적십자사고용원운영규정#BYL0001",
+      "filename": "별표1_고용원 직종 및 직급 구분.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "고용원 봉급표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000152209&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167404891",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167404891",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "pi:대한적십자사고용원운영규정#BYL0002",
+      "filename": "별표2_고용원 봉급표.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
@@ -741,13 +853,12 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 52,
+    "addenda_count": 53,
     "appendices_count": 2,
     "attachments_count": 0
   },
   "source": {
     "source_url": "https://www.law.go.kr/학칙공단/대한적십자사 고용원 운영규정"
   },
-  "provision_id": "pi:대한적십자사고용원운영규정#DOC",
-  "is_future": false
+  "provision_id": "pi:대한적십자사고용원운영규정#DOC"
 }
