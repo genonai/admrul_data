@@ -1,0 +1,4019 @@
+{
+  "law_id": "2200000152577",
+  "mst": "2200000152577",
+  "law_name": "대구교통공사  보안업무운용규정",
+  "law_abbr": "",
+  "law_type": "공단규정",
+  "doc_target": "public",
+  "doc_kind": "공공기관",
+  "adm_uid": "public:2200000152577",
+  "promulgation_no": "789",
+  "promulgation_date": "20251215",
+  "enforcement_date": "20260101",
+  "revision_date": "20251215",
+  "revision_type": "타법개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "대구교통공사",
+    "담당자명": "민혜빈",
+    "행정규칙종류코드": "B0029",
+    "행정규칙명": "대구교통공사  보안업무운용규정",
+    "발령일자": "20251215",
+    "행정규칙종류": "공단규정",
+    "제개정구분코드": "200409",
+    "조문형식여부": "Y",
+    "소관부처명": "대구교통공사",
+    "전화번호": "0536400893",
+    "제개정구분명": "타법개정",
+    "소관부처코드": "B554805",
+    "생성일자": "20260206",
+    "행정규칙ID": "2126869",
+    "담당부서기관코드": "B554805",
+    "발령번호": "789",
+    "행정규칙일련번호": "2200000152577"
+  },
+  "amendment_text": "",
+  "revision_reason": "-",
+  "body": {
+    "format": "articles",
+    "article_count": 80,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장  총   칙",
+        "content": "제1조(목적)  이 규정은 대구교통공사(이하 “공사”라 한다)의 보안업무의 적정한 운용을 위한 절차를 규정함을 목적으로 한다. <개정 ‘08. 9. 25, ’22. 8. 30>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적용범위",
+        "chapter": "제1장  총   칙",
+        "content": "제2조(적용범위)  보안업무에 관하여서는 다른 규정에 특별히 정한 경우를 제외하고는 이 규정에 정하는 바에 의한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "정의",
+        "chapter": "제1장  총   칙",
+        "content": "제3조(정의)  이 규정에서 사용하는 용어의 정의는 다음과 같다.1. “비밀”이라 함은 국가정보원법에 따른 국가기밀로서 보안업무규정, 보안업무규정시행규칙과 이 규정에 의하여 비밀로 분류된 것을 말한다. <개정 ‘21. 7. 28>2. “암호자재”라 함은 비밀의 보호 및 정보통신 보안을 위하여 암호기술이 적용된 장치나 수단으로서 Ⅰ급, Ⅱ급 및 Ⅲ급 비밀 소통용 암호자재로 구분되는 장치나 수단을 말한다. <개정 ‘21. 7. 28>3. “보안”이라 함은 그 내용이 누설되는 경우 국가안전보장상 및 공사의 운영상 유해로운 결과를 가져올 우려가 있는 기밀로서 인원, 문서, 자재, 시설, 정보통신 등에 관한 사항을 보호함을 말한다.4. “공사 보안담당관”라 함은 공사의 보안담당부서의 장을 말한다.5. “주요정보통신기반시설”이라 함은 정보통신기반보호법 제8조에 의해 지정된 철도운영종합관제시스템을 말한다. <신설 ’16. 9. 21>6. “침해사고”라 함은 해킹, 컴퓨터 바이러스, 논리·메일폭탄, 서비스 거부 또는 고출력 전자기파 등에 의하여 주요정보통신기반시설을 공격하는 행위로 인하여 발생한 사태를 말한다. <신설 ’16. 9. 21>7. “정보보호”라 함은 정보시스템 및 정보통신망을 통해 정보의 수집·가공·저장·검색·송수신되는 정보의 유출, 위·변조, 훼손 등을 방지하기 위하여 관리적·물리적·기술적 수단을 강구하는 일체의 행위를 말한다. <신설 ’16. 9. 21>8. “정보보호책임자”라 함은 주요정보통신기반시설의 보호에 관한 업무를 총괄하는 자를 말한다. <신설 ’16. 9. 21>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제8조",
+            "line_text": "",
+            "target_law_name": "정보통신기반보호법",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/정보통신기반보호법/제8조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0003",
+            "reference_id": "law:정보통신기반보호법#JO0008"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "업무분담",
+        "chapter": "제1장  총   칙",
+        "content": "제4조(업무분담)  ①공사의 주요정보통신기반시설 보호업무 및 보안업무는 다음 각호와 같이 업무관리자를 둔다. <개정 ’06. 9. 22, ‘16. 9. 21, ’22. 12. 29>1. 총괄관리  <개정 ’09. 6. 25, ‘16. 9. 21>가. 주요정보통신기반시설 보호업무 : 운영본부장 <신설 ’16. 9. 21>나. 보안업무 : 안전관리처장 <신설 ’16. 9. 21>2. 주요정보통신기반시설 보호 : 기술팀장, 경전철관제팀장, 전기통신팀장, 신호전자팀장<신설 ’16. 9. 21, ’19. 3. 8, ’23. 12. 7>3. 인원보안 : 총무팀장 <개정 ’09. 6. 25, ’23. 12. 7>4. 시설보안가. 본    사 : 총무팀장 <개정 ’09. 6. 25>나. 삭제 <당연개정 ’15. 12. 22>다. 현업기관 : 교육원장, 1·2·3고객센터장, 종합관제센터장, 1·2호선승무사업소장, 차량기지사업소장, 시설기계사업소장, 전기통신사업소장, 신호전자사업소장, 경전철기술사업소장 <개정 ’09. 6. 25, ’12. 11. 1, ’14. 4. 18, ’22. 12. 29>5. 정보통신보안가. 정보, 전산분야 : AX정보팀장 <개정 ’09. 6. 25, ’23. 12. 7, ’25. 12. 15>나. 통신분야 : 통신관리팀장 <개정 ’09. 6. 25, ’14. 4. 18, ’23. 12. 7>다. 삭제 <’16. 9. 21>라. 역무자동설비분야 : 전자관리팀장 <개정 ’09. 6. 25, ’14. 4. 18, ’23. 12. 7>6. 공간정보보안 : 궤도토목팀장 <개정 ’09. 6. 25, ’12. 11. 1, ’23. 12. 7>②제1항 제1호 내지 제5호의 사무처리범위는 다음 각호에 국한한다.1. 인원보안 : 신원조사, 비밀취급인가 및 해제와 비밀취급인가증 발급 및 회수처리2. 시설보안 : 경비구역 내 시설보안에 관한 사항3. 정보통신보안 : 전산망 장비 및 통신장비, 정보통신망에 대한 운용방식 및 장비의 신·증설4. 공간정보보안 : 공간정보의 보호 및 관리, 데이터베이스 및 정보유통망 관리, 공개, 외주용역 등에 관한 사항 <개정 ’12. 11. 1>5. 주요정보통신기반시설 보호 : 주요정보통신기반시설의 보호대책 수립 및 시행에 관한 사항 <신설 ’16. 9. 21>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "보안책임",
+        "chapter": "제1장  총   칙",
+        "content": "제5조(보안책임)  각 부서장은 담당 업무 수행과정에서 발생하는 보안사항에 대하여 철저한 비밀을 유지하여야 하며 보안사고에 대한 책임을 진다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "보안업무 심사위원회",
+        "chapter": "제1장  총   칙",
+        "content": "제6조(보안업무 심사위원회)  ①보안업무의 효과적인 처리, 통제 및 적정한 운영관리에 관한 다음 각호의 사항을 심의하기 위하여 보안업무 심사위원회(이하 “심사위원회”라 한다)를 설치하며, 주요정보통신기반시설 보호업무 및 정보화사업에 대한 심의는 소관부서에서 따로 정한다. <개정 ’16. 9. 21, ’21. 7. 28>1. 보안업무의 기본계획수립 및 기능별 보안대책수립에 관한 사항2. 신원특이자 임용 및 비밀취급인가 등 인사관리에 관한 사항3. 보안상 문제점이 있는 자의 해외여행 추천심사에 관한 사항4. 보안위반자 심사 및 처리에 관한 사항5. 공사 관련 대외 공개 및 자료 제공에 관한 사항6. 보안업무 관련 규정의 제정 및 개정에 관한 사항 <신설 ‘21. 7. 28>②심사위원회의 구성 및 운영은 다음과 같다. <개정 ‘21. 7. 28>1. 심사위원회의 위원장은 안전관리처장이 되며 위원은 각 팀장 및 위원장이 지명하는 자로 구성하되 7인 이상 10인 이내로 하고 부위원장은 재난관리팀장이 된다. <개정 ’06. 9. 22, ’09. 6. 25, ‘21. 7. 28, ’23. 12. 7>2. 위원장은 위원회의 업무를 총괄하고 심사위원회를 대표하며, 부위원장은 위원장을 보좌하고 위원장 유고시 그 직무를 대행한다. <개정 ‘21. 7. 28>3. 심사위원회에는 간사 1인, 서기 1인을 두되 간사는 보안업무담당자가 되며 서기는 간사가 지정하는 자가 된다. <개정 ’06. 9. 22, ‘21. 7. 28>③의안 제출 및 심사위원회 회의는 다음과 같다. <개정 ‘21. 7. 28>1. 위원장이 필요하다고 인정하거나 각 부서장의 요구가 있을 경우에 심사위원회를 개최한다. <개정 ‘21. 7. 28>2. 각 부서장은 소관 보안업무에 대한 의안을 발의하고자 할 때에는 심의요구서를 작성해서 간사를 경유하여 발의한다.3. 심사위원회 의결사항은 재적의원 과반수의 출석과 출석위원 과반수의 찬성으로 의결하되 가부 동수인 경우에는 위원장이 결정한다. <개정 ‘21. 7. 28>4. 위원장은 필요하다고 인정할 때에는 관계자를 출석시켜 의견을 들을 수 있다.5. 위원장은 심사위원회의 부의 안건이 긴급을 요하거나 기타 사유로 심사위원회를 소집할 수 없을 때에는 서면으로 의결할 수 있다. <개정 ‘21. 7. 28>[제목개정 ‘21. 7. 28]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "정보보호책임자 및 보안담당관의 지정 <개정 ‘16. 9. 21>",
+        "chapter": "제1장  총   칙",
+        "content": "제7조(정보보호책임자 및 보안담당관의 지정 <개정 ‘16. 9. 21>)  ①공사 주요정보통신기반시설 보호업무를 위해 총괄관리자(정보보호책임자)를 운영본부장으로 하고, 업무 및 부서별로 관리감독자, 총괄관리자, 부문관리자를 다음 각호와 같이 지정한다. <개정 ’16. 9. 21>1. 운영관리감독자 : 종합관제센터장 <신설 ’16. 9. 21>2. 운영총괄관리자 : 기술팀장 <신설 ’16. 9. 21, ’23. 12. 7>3. 운영부문관리자 : 경전철관제팀장, 전기통신팀장, 신호전자팀장 <신설 ’16. 9. 21, ’19. 3, ’23. 12. 78>②공사 보안업무를 위해 보안담당관을 안전관리처장으로 하고, 업무분야 및 부서별로 분임보안담당관으로 지정한다. <개정 ’06. 9. 22, ’09. 9. 3, ‘16. 9. 21>③공사 정보통신분임보안담당관 <개정 ’06. 9. 22>1. 정보, 전산분야  : AX정보팀장 <개정 ’09. 6. 25, ’23. 12. 7, ’25. 12. 15>2. 통신, 역무자동설비분야 : 통신관리팀장, 전자관리팀장 <개정 ’09. 6. 25, ’12. 11. 1, ’23. 12. 7>3. 삭제 <’16. 9. 21>4. 삭제 <’12. 11. 1>④공사 공간정보분임보안담당관 <개정 ’06. 9. 22, ’12. 11. 1>1.  “정” : 궤도토목팀장 <개정 ’09. 6. 25, ’23. 12. 7>2.  “부” : 각 분야별 업무담당 팀장, AX정보팀장 <개정 ’09. 6. 25, ’23. 12. 7, ’25. 12. 15>⑤각 부서 분임보안담당관 : 각 처장(실장)이 지정하는 팀장, 현업의 장 <개정 ’06. 9. 22, ’09. 9. 3, ’12. 11. 1, ’14. 4. 18, ’14. 12. 29, ’23. 12. 7>1.  삭제 <’09. 9. 3>2.  삭제 <’09. 9. 3>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "정보보호책임자 및 보안담당관의 임무 <개정 ‘16. 9. 21>",
+        "chapter": "제1장  총   칙",
+        "content": "제8조(정보보호책임자 및 보안담당관의 임무 <개정 ‘16. 9. 21>)  ①주요정보통신기반시설 보호책임자의 임무는 다음과 같다. <신설 ‘16. 9. 21>1. 정보보호책임자 : 1·2·3호선 주요정보통신기반시설 보호대책 수립·시행·승인 등 주요정보통신기반시설 보호업무 총괄 <신설 ‘16. 9. 21>2. 운영관리감독자 : 1·2·3호선 주요정보통신기반시설 보호조직 총괄 관리·감독 <신설 ‘16. 9. 21>3. 운영총괄관리자 : 1·2·3호선 주요정보통신기반시설 보호대책 수립·시행 및 1·2·3호선 주요정보통신기반시설 보호업무 대외보고 <신설 ‘16. 9. 21>4. 운영부문관리자 : 3호선 소관 주요정보통신기반시설 보호대책 수립 협조·시행 및 대외보고관련 운영총괄자에게 자료제출 등 협조 <신설 ‘16. 9. 21>②공사 보안담당관의 임무는 다음과 같다.1. 분야 및 부서 분임보안담당관의 지도 감독 및 통제2. 보안업무의 기본계획수립 및 시행에 관한 사항3. 공사직원 및 용역원, 일용직에 대한 보안교육에 관한 사항4. 비밀취급인가자 관리 및 현황조사 <개정 ‘21. 7. 28>5. 보안점검·진단 및 보안업무 심사분석6. 정보통신보안 및 공간정보보안업무에 관한 사항 <개정 ’12. 11. 1>7. 보안관계규정 검토 및 내용 보완8. 심사위원회 운영 <개정 ‘21. 7. 28>9. 전·평시 비밀관리 사항10. 비밀문서의 생산통제에 관한 사항11. 보안업무 지도 및 심사12. 시설보안에 관한 사항13. 비밀문서 안전반출 및 파기계획 수립 시행에 관한 사항 <개정 ‘21. 7. 28>14. 국가보안시설 세부 보호대책 수립 및 시행에 관한 사항 <신설 ‘21. 7. 28>③정보통신분임보안담당관의 임무는 다음과 같다. <개정 ’12. 11. 1>1. 정보, 전산 분임보안담당관의 임무가. 정보, 전산분야 보안업무의 운영지침 및 제도개선, 심사분석, 계획수립나. 정보, 전산분야 정보자료의 보안대책 강구, 사이버위협에 대한 보안관리다. 정보, 전산분야 보안관리를 위한 지도·점검 및 교육라. 정보, 전산분야 정보의 보안진단 및 현황조사, 취약성 점검·조치마. 정보, 전산분야 망 신·증설시 보안대책 수립바. 기타 정보, 전산분야 관련 보안업무2. 통신, 역무자동설비 분임보안담당관의 임무가. 통신, 역무자동설비분야 보안업무의 운영지침 및 제도개선, 심사분석, 계획수립나. 통신, 역무자동설비 정보자료의 보안대책 강구, 사이버위협에 대한 보안관리다. 통신, 역무자동설비분야의 보안관리를 위한 지도·점검 및 교육라. 통신, 역무자동설비 정보의 보안진단 및 현황조사, 취약성 점검·조치마  통신, 역무자동설비 망 신·증설시 보안대책 수립바. 기타 통신 및 역무자동설비분야 관련 보안업무3. 삭제 <’16. 9. 21>가. 삭제 <’16. 9. 21>나. 삭제 <’16. 9. 21>다. 삭제 <’16. 9. 21>라. 삭제 <’16. 9. 21>마. 삭제 <’16. 9. 21>④공간정보분임보안담당관의 임무는 다음과 같다. <개정 ’12. 11. 1>1. 공간정보보안업무의 계획수립 및 시행2. 공간정보의 생산·구축·관리·유통 및 활용에 따른 보안대책 강구3. 공간정보의 보안관리를 위한 지도·점검 및 교육4. 기타 공간정보 관련 보안업무 및 공사 보안담당관 지시사항⑤각 부서 분임보안담당관의 임무는 다음과 같다.1. 소속 및 기능별 소관 보안업무관리에 관한 사항2. 사무실 내 일반문서(도면 포함) 및 비밀관리에 관한 사항3. 시설보안에 관한 사항(출입통제 조치 등)4. 사무실 출입문 및 책상, 보관함 등 열쇠관리에 관한 사항 <개정 ‘21. 7. 28>5. 소속 직원 및 용역원, 일용직에 대한 보안교육6. 일일보안점검 및 보안진단에 관한 사항7. 비밀취급인가 조정, 보안 관계 규정 및 내용 보완 건의 <개정 ‘21. 7. 28>8. 전시 비밀문서관리와 안전반출 및 파기계획 수립 시행 <개정 ‘21. 7. 28>9. 정보통신보안 및 공간정보보안업무에 관한 사항 <개정 ’12. 11. 1>10. 기타 공사 보안담당관의 지시사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "보안담당관의 인계인수",
+        "chapter": "제1장  총   칙",
+        "content": "제9조(보안담당관의 인계인수)  ①공사 보안담당관(정)이 교체되어 인계인수할 때에는 다음 사항을 인계인수한다. <개정 ’06. 9. 22>1. 비밀취급인가자 현황2. 비밀소유 현황3. 비밀보관단위 부서 및 비밀보관책임자4. 신원특이자 현황5. 당면과제(인원, 문서, 자재 및 시설 등)6. 진행사항7. 기타 참고사항②부서 분임보안담당관이 교체되어 인계인수할 때에는 공사보안담당관 확인하에 제1항의 사항을 인계인수한다. <개정 ’06. 9. 22, ’09. 9. 3>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "신원조사",
+        "chapter": "제2장  인원보안",
+        "content": "제10조(신원조사)  ①보안업무규정(대통령령) 제36조의 규정에 의한 신원조사 대상자는 신원조사를 실시하고 회보사항을 신중히 고려하여 발령 조치하여야 한다. [전문개정 ’16. 3. 18] <개정 ‘16. 9. 21, ‘21. 7. 28>②삭제 <’09. 9. 3>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "제36조",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "제36조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/대구교통공사 보안업무운용규정/제36조",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0010",
+            "reference_id": "public:대구교통공사보안업무운용규정#JO0036"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "신원조사 구비서류",
+        "chapter": "제2장  인원보안",
+        "content": "제11조(신원조사 구비서류)  신원조사 요청 시엔 요구사항을 명확히 기재하여야 하며, 다음 각호의 서류를 첨부한다.1. 신원조사 대상자 명단(별지 제1호 서식) 1부 <개정 ‘21. 7. 28>2. 신원진술서(약식) 및 개인정보제공 동의서(약식)(별지 제2호, 제2-2호서식) <개정 ‘16. 9. 21, ‘21. 7. 28>3. 최근 6개월 내에 촬영한 상반신 반명함판 사진 또는 여권용 사진 1장(신원진술서에 붙인다) <개정 ‘16. 9. 21, ‘21. 7. 28>4. 가족관계의 등록 등에 관한 법률 제15조제1항 각호의 증명서 중 1부 <신설 ’14. 4. 18> <개정 ‘21. 7. 28>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "별지 제1호 서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지1",
+            "target_article_title": "신원조사 대상자 명단",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516669",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0011",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "별지 제2호",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지2",
+            "target_article_title": "신원진술서(약식)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516673",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0011",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0002"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "제15조제1항",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/대구교통공사 보안업무운용규정/제15조",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0011",
+            "reference_id": "public:대구교통공사보안업무운용규정#JO0015"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "신원대장 및 조사회보서 관리",
+        "chapter": "제2장  인원보안",
+        "content": "제12조(신원대장 및 조사회보서 관리)  ①신원대장 관리는 다음과 같다.1. 인사담당자는 신원대장(별지 제3호서식)을 비치하여 신원조사 회보내용을 공사 보안담당관에게 통보하고, 제반 인사관리에 기본자료로 활용한다. <개정 ‘21. 7. 28>2. 용역·공사 등 시행 부서장은 용역·공사 등 계약자가 공사에 근로를 제공할 근로자 고용시 보안각서를 제출받고 신원을 확인하여 별지 제4호서식을 비치 기록 유지하도록 하여야 한다. <개정 ’07. 8. 30, ’09. 9. 3, ‘16. 9. 21, ‘21. 7. 28, ‘22. 5. 31>3. 인사담당부서장은 제1호에 의하여 통보받은 신원조사회보서 내용을 신원대장에 기록 유지하고 비밀취급인가신청 및 제반 보안업무의 기본자료로 활용한다.<개정 ’07. 8. 30, ‘21. 7. 28>②신원조사회보서는 접수 후 신원대장에 등재한 후 개인별 인사기록카드와 함께 보관하거나 서류철로 관리한다. <개정 ‘21. 7. 28>1. 신원조사기관으로부터 신원특이자로 통보받은 자에 대하여는 신원특이자 명단을 관리하고 임용 및 보직결정 등 신상관리에 참고한다.2. 신원특이자에 대한 신원내용은 대외비로 하여 직접 관계자(보안담당관) 이외에 본인 또는 타인에게 누설되지 않도록 하여야 한다.3. 퇴직자는 신원대장 비고란에 퇴직내용을 적색으로 표기하고 신원 조사회보서는 인사담당부서에서 퇴직자 인사기록카드와 함께 관리한다. <개정 ‘21. 7. 28>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "별지 제3호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지3",
+            "target_article_title": "신원대장",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516683",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0012",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "별지 제4호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지4",
+            "target_article_title": "민간인 종사자 신원대장",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516687",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0012",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "신원특이자 심사 및 관리",
+        "chapter": "제2장  인원보안",
+        "content": "제13조(신원특이자 심사 및 관리)  ①신원특이자의 임용은 사전에 심사위원회의 의결을 거쳐야 하며 보직에 있어서도 신중히 고려하여야 한다. <개정 ‘21. 7. 28>②신원특이자는 심사위원회의 결정 없이 보안분야, 비밀수발부서 및 중요직책에 보직시킬 수 없다. <개정 ‘21. 7. 28>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "일용직의 업무한계",
+        "chapter": "제2장  인원보안",
+        "content": "제14조(일용직의 업무한계)  일용직에 대한 업무의 한계는 단순한 업무에 국한하며, 업무의 전담과 비밀취급의 인가 등 중요 직책의 보직을 하여서는 아니 된다. 다만, 보안분야업무에 종사시키고자 할 경우에는 심사위원회의 심의를 거쳐야 하며, 부서의 장은 보안대책(교육, 감독, 입회 등)을 선행하여야한다. <개정 ‘21. 7. 28>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "비밀취급인가 승인",
+        "chapter": "제2장  인원보안",
+        "content": "제15조(비밀취급인가 승인)  ①비밀취급 직원에 대하여 해당 등급(Ⅱ급, Ⅲ급)별 비밀취급인가는 대상자의 직책에 따라 필요한 최소한의 인원으로 제한하여 대구광역시장에게 신청하여야 하며 다음 각호의 절차와 순서에 의한다.1. 각 부서의 장이 다음 사항을 갖추어 인사담당부서에 인가신청가. 비밀취급인가신청서(별지 제5호서식)나. 보안서약서(별지 제6호서식)다. 삭제 <‘21. 7. 28>2. 인사담당부서의 장은 비밀취급인가신청시 다음 사항을 검토하여 신청 <개정 ‘21. 7. 28>가. 직책상 필요성 여부나. 비밀취급인가대상자 직위현황 대조(별표 2)다. 과거 비밀취급인가 유무라. 삭제 <‘21. 7. 28>3. 삭제 <‘21. 7. 28>4. 심사위원회에 회부할 필요성이 있으면 최종 결재 이전에 회부 결정 <개정 ‘21. 7. 28>5. 인사담당부서의 장은 대구광역시장에게 인가를 신청하고 인가와 동시에 서약 집행 및 교육 실시6. 비밀취급인가 여부를 해당 부서에 서면 통지7. 삭제 <‘21. 7. 28>8. 인사기록카드에 등재②제1항 각호에 의하여 비밀취급인가를 하였을 경우 인사담당자는 비밀취급인가자명부(별지 제8호서식)를 부서별로 정보화시스템에 작성 관리하며, 각 부서 분임보안담당관은 해당 직원에 대한 비밀취급인가현황을 정보화시스템으로 관리한다. <개정 ‘22. 5. 31>③비밀취급의 인가 및 해제와 인가등급의 변경은 문서로써 하여야 하며 당해 직원의 인사기록사항에 이를 기록하여야 한다.④ 삭제 <‘21. 7. 28>⑤ 삭제 <‘21. 7. 28>1. 삭제 <‘21. 7. 28>2. 삭제 <‘21. 7. 28>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제1항",
+            "link_text": "별지 제5호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지5",
+            "target_article_title": "비밀취급인가신청서",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516691",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0015",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0005"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제1항",
+            "link_text": "별지 제6호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지6",
+            "target_article_title": "보안서약서",
+            "appendix_no": "6",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516699",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0015",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0006"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제1항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별표2",
+            "target_article_title": "비밀취급인가대상자 직위현황",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000152577&bylNo=0002&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0015",
+            "reference_id": "public:대구교통공사보안업무운용규정#BYL0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제2항",
+            "link_text": "별지 제8호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지8",
+            "target_article_title": "비밀취급인가자명부",
+            "appendix_no": "8",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516711",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0015",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0008"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "비밀취급인가 해제",
+        "chapter": "제2장  인원보안",
+        "content": "제16조(비밀취급인가 해제)  ①각종 사유로 비밀취급인가를 해제할 때에는 그 사유를 명시하여 대구광역시장에게 해제신청(별지 제11호서식)을 하여야 하며, 해제시 서면으로 발령하고 인사기록카드에 기록한다.②회수된 인가증은 즉시 대구광역시장에게 반납하고 관계 대장을 정리하여야 한다.③비밀취급인가를 받은 자가 다음 각호에 해당하는 경우에는 대구광역시장에게 그 취급의 인가를 해제 요청하여야 한다.1. 고의 또는 중대한 과실로 보안사고를 범한 경우2. 비밀취급과 관련이 없는 직책을 보직 받았을 경우3. 퇴직하는 경우",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제1항",
+            "link_text": "별지 제11호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지11",
+            "target_article_title": "비밀취급인가 해제신청서",
+            "appendix_no": "11",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516723",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0016",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "비밀의 취급",
+        "chapter": "제2장  인원보안",
+        "content": "제17조(비밀의 취급)  ①비밀취급인가를 받은 자(이하 “비취자”라 한다)는 해당 등급에 한하여 비밀의 수집, 작성, 관리, 분류(재분류 포함) 및 수발하는 행위를 할 수 있다.②비취자가 취급할 수 있는 비밀의 한계는 관계 업무와 그 협조문서의 범위 내로 국한하며, 인가받은 비밀등급보다 상위 등급의 비밀 또는 업무상 관련 없는 비밀에 대하여는 취급, 열람할 수 없다.③비취자는 비밀이 누설되지 않도록 특별한 보안조치를 취하여야하며, 비밀취급인가를 받지 아니한 자(이하 “비인가자”라 한다)가 접근할 때에는 경고를 발하여야 한다.④ “비인가자”가 비밀을 입수하였을 때에는 지체없이 해당 비취자에게 이를 인도하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "비밀의 분류",
+        "chapter": "제3장  문서보안",
+        "content": "제18조(비밀의 분류)  ①비밀의 분류는 비밀분류원칙(과대·과소분류금지, 독립분류, 섭외비밀의 존중)에 의하여 분류하여야 하며, 분류자는 기안책임자란에 분류근거(비밀 세부분류지침 항목 및 분류하게 된 근거)를 명시하여야 한다.②보조기관 및 최종결재권자는 결재과정에서 분류지침 및 분류원칙에 의하여 비밀분류 사항을 검토 조정할 수 있으며, 이를 조정하였을 때에는 기안용지 결재란에 분류 조정 사항을 기록하고 보안조치를 강구하여야 한다.③분류착오로 인한 보안사고에 대하여는 기안책임자, 중간보조자, 최종결재권자가 연대책임을 진다.④비밀의 통일성을 유지하고 과대 또는 과소분류를 방지하기 위한 공사 비밀세부분류지침은 별표 1과 같다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제4항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별표1",
+            "target_article_title": "비밀세부 분류지침",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000152577&bylNo=0001&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0018",
+            "reference_id": "public:대구교통공사보안업무운용규정#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "비밀문서의 표시",
+        "chapter": "제3장  문서보안",
+        "content": "제19조(비밀문서의 표시)  ①비밀은 그 취급자 또는 관리자에게 경고하고 비인가자의 접근을 방지하기 위하여 분류(재분류 포함)와 동시에 등급에 따라 구분된 표시를 하여야 한다. <개정 ‘21. 7. 28>②비밀문서는 맨 앞면과 맨 뒷면의 표지와 각 면 위·아래의 중앙에 비밀등급표(별지 제13호서식)을 등급에 따라 표시한다. <개정 ‘21. 7. 28>1. 비밀등급의 표시는 적색으로 하되, 복제 또는 복사하는 때에는 복제 또는 복사물과 동일한 색으로 표시할 수 있다. <개정 ‘21. 7. 28>2. 단일문서로서 매면마다 비밀등급을 달리할 때에는 매면 별로 해당 등급의 비밀표시를 하되, 맨 앞면과 맨 뒷면의 표지에는 면별로 표시된 비밀등급 중 최고의 비밀등급으로 표시한다. <개정 ‘21. 7. 28>3. 비밀등급을 달리하는 수개의 문서를 1건으로 편철할 경우 그 문서 맨 앞면과 맨 뒷면의 표지에는 각 문서에 표시된 비밀등급 중 최고의 비밀등급을 표시한다. <개정 ‘21. 7. 28>4. 비밀문서는 철하여져 있거나 보관되어 있을 때를 제외하고는 별지 제14호 내지 제16호서식의 비밀표시를 해당 등급에 따라 전면에 첨부하고 취급한다. <개정 ‘21. 7. 28>③대외비문서는 매면 위쪽 중앙에 대외비(별지 제13호서식)를 표시한다. <개정 ‘21. 7. 28>1. 대외비의 표시는 적색으로 하되, 복제 또는 복사하는 때에는 복제 또는 복사물과 동일한 색으로 표시할 수 있다. <개정 ‘21. 7. 28>2. 단일문서로서 매면 마다 대외비, 평문 등을 달리할 때에는 매면 별로 해당 등급의 대외비, 평문을 구분하여 표시를 하되, 그 표시는 대외비로 표시한다. <개정 ‘21. 7. 28>[제목개정 ‘21. 7. 28]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제2항",
+            "link_text": "별지 제13호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지13",
+            "target_article_title": "비밀등급표",
+            "appendix_no": "13",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516731",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0019",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0013"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제2항",
+            "link_text": "별지 제14호",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지14",
+            "target_article_title": "비밀표시",
+            "appendix_no": "14",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516735",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0019",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0014"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제3항",
+            "link_text": "별지 제13호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지13",
+            "target_article_title": "비밀등급표",
+            "appendix_no": "13",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516731",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0019",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0013"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "관리번호",
+        "chapter": "제3장  문서보안",
+        "content": "제20조(관리번호)  ①모든 비밀에는 작성 및 접수되는 순서에 따라 관리번호를 부여하여야 하며, 자체 작성한 비밀의 관리번호는 최종결재권자가 결재하여 그 내용이 확정된 후에 부여한다.②관리번호는 다음 규격에 의하며 문서인 때에는 표지의 왼쪽 위에 기입하고 문서 형태 외의 비밀인 경우에는 알아보기 쉽도록 적절한 부위에 기입한다. <개정 ‘21. 7. 28>[그림]③관리번호는 연도별 접수·생산일자 순으로 기입한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161514471",
+            "seq": "161514471"
+          }
+        ],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "복제 복사의 제한근거",
+        "chapter": "제3장  문서보안",
+        "content": "제21조(복제 복사의 제한근거)  Ⅱ급 및 Ⅲ급비밀에 대한 복제 복사를 제한하고자 할 때에는 그 비밀의 표지 뒷면 또는 예고문 위에 다음과 같이 적색으로 기입한다. <개정 ‘21. 7. 28>[그림]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161514587",
+            "seq": "161514587"
+          }
+        ],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "사본근거 표시",
+        "chapter": "제3장  문서보안",
+        "content": "제22조(사본근거 표시)  ①비밀의 사본을 제작한 경우에는 각 사본의 사본번호 및 배부처를 작성하여 사본의 제작에 사용된 비밀에 첨부해야 한다. <개정 ‘21. 7. 28>②비밀을 접수한 기관이 접수 비밀을 복제 또는 복사한 때에는 그 비밀의 맨 앞면 또는 맨 뒷면 중 적당한 여백에 사본근거를 다음과 같이 기입하여야 한다. <개정 ‘21. 7. 28>[그림]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161514589",
+            "seq": "161514589"
+          }
+        ],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "사본번호",
+        "chapter": "제3장  문서보안",
+        "content": "제23조(사본번호)  ①비밀의 사본번호는 전 사본 부수에 대하여 일련번호를 부여하며 다음 규격에 의하여 비밀의 표지 오른쪽 위에 기입한다. <개정 ‘21. 7. 28>[그림]②사본번호 부여는 배부처에 준하여 표시한다. <개정 ‘21. 7. 28>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161514591",
+            "seq": "161514591"
+          }
+        ],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "예고문",
+        "chapter": "제3장  문서보안",
+        "content": "제24조(예고문)  ①모든 비밀 및 대외비에는 “예고문”을 기재하여야 한다.②비밀문서의 예고문의 표시는 다음과 같이 기재하여야 한다. [전문개정 ’16. 3. 18] <개정 ‘21. 7. 28>[그림]③유첨문서의 본문이 첨부물로 인하여 비밀로 분류되었거나 자체 내용보다 상위비밀등급으로 분류되었을 때에는 다음과 같은 예고문을 기입하고 첨부물에는 제2항의 예고문을 기입하여야 한다.[그림]④ 삭제 <’21. 7. 28>⑤ 삭제 <’21. 7. 28>⑥예고문을 재분류하여 변경시는 예고문을 적색 2선을 긋고, 수정, 날인하고 다음과 같이 근거를 유지한다. <개정 ‘21. 7. 28>[그림][그림]⑦ 삭제 <’21. 7. 28>⑧비밀의 보호기간은 보호되어야 할 필요가 있는 기간으로 정하여야 하고, 보존기간이 시작되는 일자는 비밀원본을 생산한 날이 속하는 해의 다음 해 1월 1일로 한다. 이 경우 보존기간은 보호기간 이상으로 정하여야 한다. <신설 ‘21. 7. 28>⑨예고문 중 보호기간의 \"일자” 또는 “ 경우”는 도래가 명확한 것이어야하며, “처리 후”, “불필요 시” 또는 “참고 후”와 같이 불확실하게 기재해서는 안 된다. <신설 ‘21. 7. 28>⑩재분류 시기를 예측할 수 없는 비밀은 통상 생산일부터 1년 이내의 일자를 예고문의 보호기간에 기재한다. <신설 ‘21. 7. 28>⑪보호기간 만료 시 비밀의 외부유출을 차단할 필요가 있는 경우 비밀의 원본은 “이관”하도록, 비밀의 사본은 “파기”하도록 예고문에 기재하고, 보호기간 만료 시 비밀로 보호해야 할 가치를 상실하여 일반문서로 활용할 필요가 있는 경우에는 “일반문서로 재분류”하도록 예고문에 기재한다. <신설 ‘21. 7. 28>⑫예고문은 비밀이 문서 형태(책자를 포함한다. 이하 같다)인 때에는 본문 끝부분 여백에 기입한다. 다만, 예고문을 비밀 자체에 기입할 수 없는 때에는 비밀관리기록부에 기록하고, 그 비밀을 발송할 때에는 별지 제25호서식에 따른 접수증의 발송기록 부분 또는 비밀통보서 끝부분에 기입한다.<신설 ‘21. 7. 28>⑬대외비는 그 문서의 표지 중앙 위에 다음과 같은 예고문을 적색으로 기재하여야 한다. <신설 ‘21. 7. 28>[그림]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제24조",
+            "source_clause": "제24조제12항",
+            "link_text": "별지 제25호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지25",
+            "target_article_title": "접수증",
+            "appendix_no": "25",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516781",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0024",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0025"
+          }
+        ],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161514473",
+            "seq": "161514473"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161514475",
+            "seq": "161514475"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161514477",
+            "seq": "161514477"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161514593",
+            "seq": "161514593"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161514679",
+            "seq": "161514679"
+          }
+        ],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "비밀의 통제",
+        "chapter": "제3장  문서보안",
+        "content": "제25조(비밀의 통제)  사본 생산시에는 공사 보안담당관 또는 부서 분임보안담당관에게 통제를 받아야 하며, 통제를 할 때에는 다음 각호의 사항을 검토한 후 통제인을 날인하고 비밀(대외비) 통제대장(별지 제22호서식)에 기록 유지한다. <개정 ‘08. 9. 25>1. 비밀분류의 적정 여부2. 예고문의 누락 또는 적정 여부3. 비밀형식의 적정 여부[그림]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제25조",
+            "source_clause": "제25조",
+            "link_text": "별지 제22호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지22",
+            "target_article_title": "비밀(대외비)문서 통제대장",
+            "appendix_no": "22",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516769",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0025",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0022"
+          }
+        ],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161514595",
+            "seq": "161514595"
+          }
+        ],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0025"
+      },
+      {
+        "article_no": "제26조",
+        "article_title": "비밀발간 및 복제 복사",
+        "chapter": "제3장  문서보안",
+        "content": "제26조(비밀발간 및 복제 복사)  ①비밀 또는 대외비를 외주 인쇄발간 또는 제작하거나 복제·복사하고자 할 때에는 비밀문서(대외비) 발간(복제, 복사) 승인신청서(별지 제17호서식)에 의하여 사전에 공사 보안담당관의 통제와 승인을 받아야 한다.②공사 보안담당관은 제1항에 의한 승인신청서를 접수한 후 다음 각호 사항을 검토하여 비밀(대외비)문서 발간(복제·복사)통제부(별지 제18호서식)에 등재하고 승인된 경우 통제인을 날인하고 통제번호를 부여한다.<개정 ‘08. 9. 25>1. 발간업체의 적정여부2. 발간부수(매수) 및 배포선의 타당성 여부3. 입회자의 지정 및 감독4. 전반적인 보안대책 및 검수절차5. 기타 비밀문서발간 승인, 신청사항 검토[그림]③비밀 또는 대외비를 발간할 경우에는 비밀(대외비)문서 발간(복제, 복사)승인서를 첨부하여 계약담당부서에 의뢰하여야 한다.④비밀 또는 대외비 문서의 발간은 가급적 자체시설을 이용한다.⑤비밀의 자체 복제·복사를 실시할 경우에는 비인가자 접근 통제대책을 강구하여야 하며 비밀작업 및 복사대장(별지 제19호서식)을 비치하여 복제·복사 내용을 기록 유지한다.⑥비밀의 발간, 인쇄, 제작, 복제 또는 복사한 때에는 반드시 입회자가 시종 작업과정에 입회하여 발행 부수와 요구 부수를 확인하고 초안지, 작업지 및 기타 잔여분을 입회자 책임하에 파기 조치를 한다.⑦외부 민간의 시설을 이용한 비밀발간에 따른 검수에 있어서도 입회자와 종사원(국가정보원에 보안조치를 받은 시설 종사자)과 함께 물품출·입하 담당 직원의 검수를 받아야 한다.⑧민간시설을 이용하여 비밀 또는 대외비 문서를 발간하였을 때에는 그 문서의 맨 뒷면 또는 맨 뒷면 표지 안쪽에 다음과 같은 표시를 하여야 한다. <개정 ‘21. 7. 28>[그림]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제26조",
+            "source_clause": "제26조제1항",
+            "link_text": "별지 제17호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지17",
+            "target_article_title": "비밀문서 발간 승인신청서",
+            "appendix_no": "17",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516747",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0026",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0017"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제26조",
+            "source_clause": "제26조제2항",
+            "link_text": "별지 제18호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지18",
+            "target_article_title": "비밀문서 발간 통제부",
+            "appendix_no": "18",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516753",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0026",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0018"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제26조",
+            "source_clause": "제26조제5항",
+            "link_text": "별지 제19호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지19",
+            "target_article_title": "비밀작업 및 복사대장",
+            "appendix_no": "19",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516757",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0026",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0019"
+          }
+        ],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161514753",
+            "seq": "161514753"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161514681",
+            "seq": "161514681"
+          }
+        ],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0026"
+      },
+      {
+        "article_no": "제27조",
+        "article_title": "대외비문서 관리",
+        "chapter": "제3장  문서보안",
+        "content": "제27조(대외비문서 관리)  ①제18조에서 규정한 보안과 관련되는 사항으로 직무수행상 특별히 보호를 요하는 사항은 대외비로 분류한다.②대외비문서는 부서별 비밀보관책임자가 집중관리하여야 하며 대외비관리기록부(별지 제20호서식)에 기록 유지하여야 한다.③대외비문서의 수발은 직접 수발하거나 문서수발부서를 통하여 수발시에는 비밀(대외비)문서수발대장에 등재하여야 하고 일반문서와 혼합 보관할 수 없으며, 비밀보관함 또는 이에 준하는 용기에 별도 보관하여야 한다.④대외비문서 사본을 생산할 때에는 대외비문서 원본 맨 뒷면에 배부처를 작성 첨부하여야 한다. <개정 ‘21. 7. 28>⑤대외비문서에는 제24조 제13항에 준하여 예고문을 기재하여야 한다. <개정 ‘21. 7. 28>⑥비밀보관책임자는 소관 대외비문서 원본에 대하여 제37조에 의한 재분류 검토를 실시하고 적당한 여백에 검토필 표시를 하여야 한다.⑦보호기간이 만료된 대외비는 일반문서로 재분류한다. <신설 ‘21. 7. 28>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제27조",
+            "source_clause": "제27조제1항",
+            "link_text": "제18조",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "제18조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/대구교통공사 보안업무운용규정/제18조",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0027",
+            "reference_id": "public:대구교통공사보안업무운용규정#JO0018"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제27조",
+            "source_clause": "제27조제2항",
+            "link_text": "별지 제20호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지20",
+            "target_article_title": "비밀(대외비)관리기록부",
+            "appendix_no": "20",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516761",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0027",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0020"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제27조",
+            "source_clause": "제27조제5항",
+            "link_text": "제24조",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "제24조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/대구교통공사 보안업무운용규정/제24조",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0027",
+            "reference_id": "public:대구교통공사보안업무운용규정#JO0024"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제27조",
+            "source_clause": "제27조제6항",
+            "link_text": "제37조",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "제37조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/대구교통공사 보안업무운용규정/제37조",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0027",
+            "reference_id": "public:대구교통공사보안업무운용규정#JO0037"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0027"
+      },
+      {
+        "article_no": "제28조",
+        "article_title": "비밀작업",
+        "chapter": "제3장  문서보안",
+        "content": "제28조(비밀작업)  ①비밀을 생산할 때에는 비밀작업 및 복사대장(별지 제19호서식) 및 비밀 입·출력 작업대장(별지 제21호서식)을 비치하고 그 내용을 기록 유지한다.②초안, 타자, 컴퓨터 작업 등의 생산 또는 사본 생산을 위해 작업한 내용을 기록 유지한다.③비밀문서(대외비포함) 작성시 발생한 폐·휴지는 비밀보관책임자가 입회하여 파쇄하여야 한다. <개정 ‘21. 7. 28>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제28조",
+            "source_clause": "제28조제1항",
+            "link_text": "별지 제19호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지19",
+            "target_article_title": "비밀작업 및 복사대장",
+            "appendix_no": "19",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516757",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0028",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0019"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제28조",
+            "source_clause": "제28조제1항",
+            "link_text": "별지 제21호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지21",
+            "target_article_title": "비밀 입출력 작업대장",
+            "appendix_no": "21",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516765",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0028",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0021"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0028"
+      },
+      {
+        "article_no": "제29조",
+        "article_title": "비밀수발",
+        "chapter": "제3장  문서보안",
+        "content": "제29조(비밀수발)  ①공사의 비밀수발은 문서수발계통에 의한 비밀수발시는 비밀문서접수 및 발송대장(별지 제23호서식)에 기록하여야 한다. 다만, 공사 내 부서 및 현업기관의 비밀수발은 문서수발계통을 경유함이 없이 비밀취급자간에 비밀(대외비)관리기록부(별지 제20호서식)에 의하여 직접할 수 있다. <개정 ‘21. 7. 28>②암호자재는 암호화하여 전신으로 수발하거나 취급자의 직접 접촉에 의하여 수발하여야 한다.③비밀을 수발할 때에는 별지 제24호서식에 의한 봉투로 밀봉하여야 하며, 문서 이외의 비밀자재는 내용이 노출되지 않도록 이에 준하여 완전히 밀봉하여야 한다.④비밀을 등기우편으로 발송할 때에는 접수증(별지 제25호서식)의 발송기록 부분 전체와 접수기록 부분 중 수신, 참조, 건명, 사본번호 및 수량을 작성한 후 하단의 접수기록 부분을 잘라내어 발송문서의 내부봉투와 외부봉투 사이에 삽입하여 발송하며, 비밀취급자의 직접 접촉에 의하여 수발할 때에는 접수증을 직접 교부한다. <개정 ‘21. 7. 28>⑤비밀은 어떠한 경우를 막론하고 전화에 의하여 평문으로 수발하여서는 아니 된다.⑥다른 기관으로부터 접수한 비밀은 발행기관 승인 없이 다른 기관으로 발송할 수 없다. 다만, 비밀을 이첩·시달하는 경우는 예외로 한다. <개정 ‘21. 7. 28>⑦비밀수발계통에 종사하는 직원은 Ⅱ급 이상의 비밀취급인가를 받은 직원이어야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제29조",
+            "source_clause": "제29조제1항",
+            "link_text": "별지 제23호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지23",
+            "target_article_title": "비밀문서접수 및 발송대장",
+            "appendix_no": "23",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516773",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0029",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0023"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제29조",
+            "source_clause": "제29조제1항",
+            "link_text": "별지 제20호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지20",
+            "target_article_title": "비밀(대외비)관리기록부",
+            "appendix_no": "20",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516761",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0029",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0020"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제29조",
+            "source_clause": "제29조제3항",
+            "link_text": "별지 제24호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지24",
+            "target_article_title": "이중 봉투 양식",
+            "appendix_no": "24",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516777",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0029",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0024"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제29조",
+            "source_clause": "제29조제4항",
+            "link_text": "별지 제25호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지25",
+            "target_article_title": "접수증",
+            "appendix_no": "25",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516781",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0029",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0025"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0029"
+      },
+      {
+        "article_no": "제30조",
+        "article_title": "접수증의 관리",
+        "chapter": "제3장  문서보안",
+        "content": "제30조(접수증의 관리)  ①접수기관은 비밀을 접수한 즉시 접수증의 접수기록 부분 중 작성되지 않은 내용을 작성하여 생산기관에 반송해야 한다. <개정 ‘21. 7. 28>②제1항에 따라 접수증의 접수기록 부분을 반송받은 비밀 생산기관은 그 접수증의 접수기록 부분과 발송기록 부분을 함께 보관한다. <개정 ‘21. 7. 28>③등기우편으로 발송된 등기영수증은 발송번호와 발송과정의 근거를 기입하고 등기영수증철을 비치 보관하여야 한다.[제목개정 ‘21. 7. 28]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0030"
+      },
+      {
+        "article_no": "제31조",
+        "article_title": "비밀 보관 및 관리",
+        "chapter": "제3장  문서보안",
+        "content": "제31조(비밀 보관 및 관리)  ①비밀은 도난, 화재 또는 파괴로부터 보호하고 비인가자의 접근을 방지할 수 있는 적절한 시설에 보관하여야 한다.②비밀은 Ⅱ·Ⅲ급비밀이나 대외비는 금고 또는 안전한 보관용기에 보관하되 반드시 2중 시건 장치를 하여야 하며 일반문서나 자재와 혼합 보관할 수 없다.③비밀보관책임자가 Ⅱ급 비밀취급인가를 받은 때에는 Ⅱ·Ⅲ급비밀을 동일 용기 내에 구분하여 보관할 수 있다.④보관용기에 넣을 수 없는 비밀을 제한구역 또는 통제구역 내에 보관할때에는 내용이 노출되지 않도록 특별한 보호책을 강구하여야 한다.⑤비밀을 휴대하고 출장 또는 여행하는 직원은 적절한 보호대책을 강구하여야 한다.⑥비밀은 보관 관리하는 부서에서 통합 보관하되, 업무상 별도로 보관할 필요가 있는 부서는 별도로 비밀보관함을 설치 보관 관리할 수 있다.⑦단일문서로 된 비밀을 분리하고자 할 때에는 사전에 승인을 얻어야 하며 퇴청할 때에는 종합 일괄 보관하고 처리 완료 후에는 그 예고문에 의하여 보관 관리하여야 한다.⑧비밀문서 보관용기의 표시는 외부에 비밀을 알리거나 나타내는 어떠한 표시도 하여서는 아니되며 모든 서류보관 용기에는 다음과 같이 관리번호를 부여하고 정·부 보관책임자를 표시하여야 한다. <개정 ‘21. 7. 28>[그림]⑨비밀보관용기의 열쇠(외·내부열쇠 및 다이얼번호 포함)는 제1열쇠(비상열쇠)는 다음 예시와 같이 두꺼운 종이봉투에 열쇠를 넣고 밀봉 및 간인 날인하여 비밀보관책임자 “정”이 보관 관리하며, 제2열쇠(상용열쇠)는 일과중에는 보안담당자가, 일과 후에는 부서 열쇠보관함에 넣어 관리한다. <개정 ‘12. 11. 1>[그림]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161514755",
+            "seq": "161514755"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161514843",
+            "seq": "161514843"
+          }
+        ],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0031"
+      },
+      {
+        "article_no": "제32조",
+        "article_title": "비밀보관책임자 지정",
+        "chapter": "제3장  문서보안",
+        "content": "제32조(비밀보관책임자 지정)  ①비밀을 보관하는 경우에는 비밀보관책임자를 지정하여야 한다.②비밀보관책임자는 팀 단위로 정책임자 1인을 두고 보관용기의 수, 보관장소, 업무수행에 따라 다수의 부책임자를 둘 수 있다. <개정 ’06. 9. 22, ’09. 6. 25, ’12. 11. 1, ’23. 12. 7>③비밀보관책임자의 임무는 다음 각호와 같다.1. 비밀을 최선의 상태로 보관한다.2. 비밀의 누설, 도난, 분실 및 기타 손괴 등의 방지를 위한 감독을 한다.3. 비밀(대외비)관리기록부를 비치하고 기록 유지하며 비밀대출부 및 비밀열람기록전에 그 내용을 기록 유지한다.④부서별 비밀보관책임자의 지정은 다음과 같다. <개정 ’06. 9. 22>1. 비밀보관책임자 “정”가. 본    사 : 각 팀장 <개정 ’09. 6. 25, ’23. 12. 7>나. 현업기관 : 각 팀장 <개정 ’09. 6. 25, ’12. 11. 1, ’14. 4. 18, ’14. 12. 29, ’23. 12. 7>2. 비밀보관책임자 “부”(다수 지정 가능)가. 본    사 : 각 팀장이 지정하는 자 <개정 ’09. 6. 25, ’23. 12. 7>나. 현업기관 : 각 팀장이 지정하는 자, 분소장, 역장 <개정 ’09. 6. 25, ’14. 4. 18, ’14. 12. 29, ’23. 12. 7>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0032"
+      },
+      {
+        "article_no": "제33조",
+        "article_title": "비밀관리기록부",
+        "chapter": "제3장  문서보안",
+        "content": "제33조(비밀관리기록부)  ①각 팀장은 비밀의 작성분류 및 취급 등에 관한 일체의 비밀관리사항을 비밀관리기록부에 기록 관리한다. <개정 ’06. 9. 22, ’09. 6. 25, ’23. 12. 7>②각 팀의 비밀보관책임자는 비밀의 작성과 등급변경, 파기, 이송 및 수발에 관한 일체의 관리사항을 비밀(대외비)관리기록부(별지 제20호서식)에 기록 유지하여야 한다. <개정 ’06. 9. 22, ’09. 6. 25, ’23. 12. 7>③비밀(대외비)관리기록부를 갱신하고자 할 때에는 구·신 관리기록부에 분임보안담당관의 확인을 받아야 한다. <개정 ’06. 9. 22>④이기요령은 다음 각호에 의한다.1. 현재 사용중인 비밀관리기록부 끝부분에 다음과 같이 기재 <개정 ‘21. 7. 28>[그림]2. 갱신한 신 비밀관리기록부의 이기 끝부분에 다음과 같이 기재 <개정 ‘21. 7. 28>[그림]⑤비밀관리기록부를 갱신하였을 때의 관리번호는 특별한 사유가 없는 한 변경하지 아니한다.⑥비밀을 재분류, 이송 또는 파기시에는 관리기록부의 “비밀등급부터 사본번호”란까지 적색 2선을 긋고 삭제부분을 해독할 수 있도록 하고 그 사유를 재분류란에 기록하여야 한다. <개정 ‘21. 7. 28>⑦비밀관리기록부 기재요령은 다음 각호에 의한다.1. 문서번호란에는 발행기관(부서)의 분류기호 및 시행년월일 기재2. 비밀등급, 예고문은 적색으로 기재3. 형태란에는 문서, 책자, CD, 디스켓, 상황판 등으로 기재4. 등급변경란에는 비밀문건의 등급을 변경하고 재분류를 실시한 일자 기재 후 날인5. 근거란엔 재분류 또는 파기근거(예고문에 의거 또는 지시공문서의 분류기호 및 근거일자 등) 기재",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제33조",
+            "source_clause": "제33조제2항",
+            "link_text": "별지 제20호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지20",
+            "target_article_title": "비밀(대외비)관리기록부",
+            "appendix_no": "20",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516761",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0033",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0020"
+          }
+        ],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161514757",
+            "seq": "161514757"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161514759",
+            "seq": "161514759"
+          }
+        ],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0033"
+      },
+      {
+        "article_no": "제34조",
+        "article_title": "비밀 인계인수",
+        "chapter": "제3장  문서보안",
+        "content": "제34조(비밀 인계인수)  ①비밀보관책임자(정) 교체시에는 따로 인계인수 조서를 작성하지 아니하고 분임보안담당관 확인하에 비밀(대외비)관리기록부에 의해서 인계인수를 실시한다.②인계인수는 비밀(대외비)관리기록부 끝부분의 중앙여백에 다음과 같이 기재한다. <개정 ‘21. 7. 28>[그림]③비밀보관책임자(부) 교체시에는 소관 비밀의 인계인수 사실을 비밀열람기록전에 기록하여야 한다. <신설 ’12. 11. 1>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161514845",
+            "seq": "161514845"
+          }
+        ],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0034"
+      },
+      {
+        "article_no": "제35조",
+        "article_title": "비밀의 대출 및 열람",
+        "chapter": "제3장  문서보안",
+        "content": "제35조(비밀의 대출 및 열람)  ①비밀의 대출 및 열람은 해당 등급의 비밀취급인가를 받은 자로서 그 비밀과 업무상 직접 관계가 있는 자에 한하여 할 수 있다.②비밀보관책임자는 보관 비밀을 대출 또는 열람을 할 때에는 비밀대출부(별지 제26호서식)에 대출사항을 기록하여야 한다.③관리부서는 비밀에 관한 열람자의 범위를 파악하기 위하여 비밀문서의 맨뒷면에 비밀열람기록전(별지 제27호서식)을 첨부하여야 하며 비밀을 열람할 때에는 소정 사항을 기재하고 서명 날인한 후 열람하여야 한다. <개정 ‘21. 7. 28>④비밀을 파기할 때에는 비밀열람기록전을 그 비밀에서 분리시켜 따로 철하여 보관하여야 한다.⑤비밀의 작성 등 발간업무에 종사하는 사람은 비밀작업 및 복사대장에 작업에 관한 사항을 기록·보관해야 한다. 이 경우 비밀작업 및 복사대장은 비밀열람기록전을 갈음하는 것으로 본다. <개정 ‘21. 7. 28>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제35조",
+            "source_clause": "제35조제2항",
+            "link_text": "별지 제26호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지26",
+            "target_article_title": "비밀대출부",
+            "appendix_no": "26",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516785",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0035",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0026"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제35조",
+            "source_clause": "제35조제3항",
+            "link_text": "별지 제27호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지27",
+            "target_article_title": "비밀열람기록전",
+            "appendix_no": "27",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516789",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0035",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0027"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0035"
+      },
+      {
+        "article_no": "제36조",
+        "article_title": "비인가자의 비밀열람, 공개, 취급시 보안조치",
+        "chapter": "제3장  문서보안",
+        "content": "제36조(비인가자의 비밀열람, 공개, 취급시 보안조치)  비인가자에게 비밀을 열람 또는 공개시키거나 취급하게 할 때에는 20일 전(긴급을 요하는 사항은 3일 전)에 공사 보안담당관의 협의와 사장의 승인, 국정원 심의를 거쳐야 한다. 다만, 업무수행상 비인가자에게 열람, 공개 또는 취급하고자 할때에는 공사 보안담당관를 경유 사장의 승인을 얻어 부서 분임보안담당관 입회하에 서약집행, 열람기록전 서명 및 보안교육 등의 보안조치를 취하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0036"
+      },
+      {
+        "article_no": "제37조",
+        "article_title": "재분류",
+        "chapter": "제3장  문서보안",
+        "content": "제37조(재분류)  ①비밀의 효율적인 보호를 위하여 등급의 변경 또는 파기 등의 재분류를 실시한다.②비밀의 재분류는 그 비밀의 예고문 또는 발행자의 직권에 의하여 실시한다. 다만, 다음 각호의 경우에는 예고문에 관계없이 파기할 수 있다.1. 긴급, 부득이한 사정으로 비밀을 계속 보관하거나 반출할 수 없을 때 <개정 ‘21. 7. 28>2. 상급 보안업무 감독기관의 요청이 있을 때3. 보안유지를 위하여 예고문의 파기시까지 계속 보관할 필요가 없을 때4. 현 비밀을 대체할 수 있는 수정 보완된 동일 비밀 생산하였을 경우③제2항 제3호 의한 파기는 공사 보안담당관를 경유하여 사장의 사전 승인을 얻어야 한다.④비밀을 재분류한 때에는 재분류 근거를 다음 서식에 따라 그 비밀의 맨 앞면 적당한 여백에 기입하고 날인한다. <신설 ‘21. 7. 28>[그림][그림]⑤재분류한 비밀은 기존의 비밀 표시에 대각선을 그어 삭제하고, 그 측면이나 위·아래의 적당한 여백에 변경된 비밀등급을 다시 한번 표시한다. <신설 ‘21. 7. 28>⑥책자, 팸플릿 및 그 밖에 영구적으로 철하여져 있는 비밀문서를 재분류한 때에는 양면표지의 비밀표시만을 제5항과 같이 삭제하고 표시한다. 다만, 면별로 재분류한 때에는 그 면마다 제4항 및 제5항에 따라 다시 한번 표시를 하여야 한다. <신설 ‘21. 7. 28>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161514847",
+            "seq": "161514847"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161514761",
+            "seq": "161514761"
+          }
+        ],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0037"
+      },
+      {
+        "article_no": "제38조",
+        "article_title": "재분류 검토 및 현황조사 보고",
+        "chapter": "제3장  문서보안",
+        "content": "제38조(재분류 검토 및 현황조사 보고)  ①비밀보관책임자는 소관 비밀의 예고문에 의한 재분류검토를 연 2회(6월 말, 12월 말) 실시하고 비밀 원본에 대하여는 다음과 같이 검토필 표기를 하여야 한다.[그림]②비밀보관책임자는 매월 비밀소유현황을 파악하여 비밀관리기록부에 비밀(대외비) 월별 소유현황을 기록 유지하여야 하며, 비밀소유현황조사서(별지 제12호서식)와 비밀취급인가자 현황을 매년 6월 말과 12월 말 기준으로 작성하여 익월 5일까지 공사 보안담당관에게 보고한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제38조",
+            "source_clause": "제38조제2항",
+            "link_text": "별지 제12호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지12",
+            "target_article_title": "비밀소유현황조사서, 비밀현황증감내역",
+            "appendix_no": "12",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516727",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0038",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0012"
+          }
+        ],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161514849",
+            "seq": "161514849"
+          }
+        ],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0038"
+      },
+      {
+        "article_no": "제39조",
+        "article_title": "비밀의 반출",
+        "chapter": "제3장  문서보안",
+        "content": "제39조(비밀의 반출)  ①비밀은 보관하고 있는 시설 밖으로 반출하여서는 아니된다. 다만, 공무상 반출이 필요한 때에는 사전에 그 사유와 보안대책을 명시하여 공사 보안담당관의 승인을 얻어 반출할 수 있다. <개정 ‘21. 7. 28>②반출자는 승인받은 비밀반출승인서(별지 제28호서식)를 비밀보관책임자에게 제출하여 비밀과 교환하여 반출한다. <개정 ‘21. 7. 28>③비밀반납은 지정시간 내에 하여야 하며 반출역순에 따라 한다. <개정 ‘21. 7. 28>[제목개정 ‘21. 7. 28]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제39조",
+            "source_clause": "제39조제2항",
+            "link_text": "별지 제28호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지28",
+            "target_article_title": "비밀반출승인서",
+            "appendix_no": "28",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516793",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0039",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0028"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0039"
+      },
+      {
+        "article_no": "제40조",
+        "article_title": "비밀원본 직권보관",
+        "chapter": "제3장  문서보안",
+        "content": "제40조(비밀원본 직권보관)  ①비밀의 원본은 그 예고문에 의하여 보호기간 경과, 보존기간 보존 후 파기 또는 이관하여야 할 경우라도 부서 분임보안담당관의 승인을 받아 계속 보관할 수 있다. 이 경우 승인문서에는 다음 사항을 포함하여야 한다.1. 관리번호2. 발행일자 및 발행처3. 예고문4. 변경예고문5. 변경사유②승인문서는 해당 비밀문서와 합철 관리하여야 하며, 원본 예고문에는 적색 2선을 긋고, 수정, 날인하고 여백에 다음과 같이 근거를 기록하며, 보관 비밀관리기록부의 예고문 및 근거란에도 동일하게 수정한다. <개정 ‘21. 7. 28>[그림]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161514851",
+            "seq": "161514851"
+          }
+        ],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0040"
+      },
+      {
+        "article_no": "제41조",
+        "article_title": "파기",
+        "chapter": "제3장  문서보안",
+        "content": "제41조(파기)  ①비밀의 파기는 파쇄, 용해 또는 기타의 방법으로 원형을 완전히 소멸시켜야 한다. <개정 ‘21. 7. 28>②비밀의 파기는 분임보안담당관이 지정하는 장소에서 비밀보관책임자 또는 그가 지정하는 비밀취급인가자의 참여 아래 그 비밀의 업무담당자가 행하며 파기한 후에는 비밀관리기록부의 해당란(“비밀등급”란에서 “사본번호”란 까지)에 적색 2선을 긋고, “처리방법”란의 “파기”란에 파기일자를 기록하고, “확인”란의 근거란에 파기 근거 기록, 처리자 성명·날인을 기록하고, “확인자”란에는 입회책임자가 성명·날인하여야 한다. <개정 ‘21. 7. 28>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0041"
+      },
+      {
+        "article_no": "제42조",
+        "article_title": "안전반출 및 파기계획",
+        "chapter": "제3장  문서보안",
+        "content": "제42조(안전반출 및 파기계획)  ①비밀의 안전반출 및 파기는 공사 보안담당관 및 부서 분임보안담당관이 별표 3의 비밀의 비밀안전반출 및 파기 기본계획에 의거 자체계획을 수립 시행한다. <개정 ‘21. 7. 28>②제1항의 계획을 수립할 때에는 자체 실정에 적용할 수 있는 안전반출장소, 운반기구 등에 대한 반출계획을 작성하되 공휴일 및 일과 후에 중점을 두어 작성한다. <개정 ‘21. 7. 28>③공휴일 및 일과 후 비밀안전반출 또는 긴급 파기코자 할 때에는 당직근무자와 청내 근무인원으로 행하며, 안전반출 및 긴급파기 계획과 비상열쇠함의 제작은 별표 4의 “제작요령”에 따른다. <개정 ‘21. 7. 28>[제목개정 ‘21. 7. 28]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제42조",
+            "source_clause": "제42조제1항",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별표3",
+            "target_article_title": "비밀안전지출 및 파기 기본계획",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000152577&bylNo=0003&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0042",
+            "reference_id": "public:대구교통공사보안업무운용규정#BYL0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제42조",
+            "source_clause": "제42조제3항",
+            "link_text": "별표 4",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별표4",
+            "target_article_title": "당직근무자 준수사항 및 비상열쇠함 제작요령",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000152577&bylNo=0004&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0042",
+            "reference_id": "public:대구교통공사보안업무운용규정#BYL0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0042"
+      },
+      {
+        "article_no": "제43조",
+        "article_title": "비밀관리 부철의 보존",
+        "chapter": "제3장  문서보안",
+        "content": "제43조(비밀관리 부철의 보존)  ①다음 각호의 자료는 비밀과 함께 철하여 보관·활용하고, 비밀의 보호기간이 만료되면 비밀에서 분리한 후 각각 편철하여 5년간 보관해야 한다. <개정 ‘21. 7. 28>1. 비밀접수증 <개정 ‘21. 7. 28>2. 비밀열람기록전 <개정 ‘21. 7. 28>3. 배부처 <개정 ‘21. 7. 28>4. 삭제 <‘21. 7. 28>5. 삭제 <‘21. 7. 28>6. 삭제 <‘21. 7. 28>②다음 각호의 자료는 새로운 관리부철로 옮겨서 관리할 경우 기존 관리부철을 5년간 보관해야 한다. <신설 ‘21. 7. 28>1. 비밀관리기록부2. 비밀 접수 및 발송대장3. 비밀대출부③서약서는 서약서를 작성한 비밀취급인가자의 인사기록카드와 함께 철하여 인가 해제 시까지 보관하되, 인사기록카드와 함께 철할 수 없는 경우에는 별도로 편철하여 보관해야 한다. <신설 ‘21. 7. 28>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0043"
+      },
+      {
+        "article_no": "제44조",
+        "article_title": "비밀의 공개금지",
+        "chapter": "제3장  문서보안",
+        "content": "제44조(비밀의 공개금지)  비밀취급을 위해 신원조사를 받았던 자는 법률이 정하는 경우를 제외하고는 사장의 승인 없이 비밀 또는 보안사항을 공개하지 못한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0044"
+      },
+      {
+        "article_no": "제45조",
+        "article_title": "외국인에 대한 자료 제공",
+        "chapter": "제3장  문서보안",
+        "content": "제45조(외국인에 대한 자료 제공)  ①외국인에 대하여 비밀 및 중요 자료를 제공할 때에는 사전에 자료 제공 목적과 목록을 작성하여 공사 보안담당관을 경유하여 사장의 승인을 얻어야 한다.②공사 보안담당관은 외국인의 시찰, 방문에 따른 각종 자료 제공시 사전에 외국인자료제공신청서(별지 제29호서식)를 주관부서에서 접수받아 승인여부를 검토해야 하며, 주관부서의 장은 공사보안담당관과 보안성 검토 및 제공에 따른 보안대책(방문코스 및 안내자 지정, 핵심시설 경비상황, 위험방지책, 사진촬영 금지 등)을 협의하여야 한다.③주관부서에서는 제2항에 의한 공사 보안담당관과 협의를 거쳐 사장의 승인을 득한 후 보안담당부서의 외국인에 대한 자료제공 통제대장(별지 제30호서식)에 등재하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제45조",
+            "source_clause": "제45조제2항",
+            "link_text": "별지 제29호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지29",
+            "target_article_title": "외국인자료제공신청서",
+            "appendix_no": "29",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516797",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0045",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0029"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제45조",
+            "source_clause": "제45조제3항",
+            "link_text": "별지 제30호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지30",
+            "target_article_title": "외국인에 대한 자료제공 통제대장",
+            "appendix_no": "30",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516801",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0045",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0030"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0045"
+      },
+      {
+        "article_no": "제46조",
+        "article_title": "도면 분류",
+        "chapter": "제3장  문서보안",
+        "content": "제46조(도면 분류)  ①공사의 일반도면의 적용은 비밀(대외비 포함)도면을 제외한 다음 각호에 의한 도면을 말한다.1. 도시철도(기계, 차량, 전기, 신호, 통신, 선로분야)에 관한 도면 <개정 ‘08. 9. 25>2. 토목·건축 기본 및 실시설계도면과 궤도 실시설계도면3. 시설물의 신·증축 및 개량공사를 위하여 설계한 도면②도면은 원도, 복사도, 마이크로필름 도면 및 책자 등으로 구분한다.③공사 외에서 도시철도운행과 관련하여 설계한 도면을 포함한다. <개정 ‘08. 9. 25>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0046"
+      },
+      {
+        "article_no": "제47조",
+        "article_title": "도면보관관리",
+        "chapter": "제3장  문서보안",
+        "content": "제47조(도면보관관리)  ①도면은 최선의 상태로 보관 유지하여야 하며, 내용의 누설, 분실 및 손괴 등을 방지하여야 하며, 각 부서의 도면관리책임자는 제32조를 준용한다.②도면의 보관용기는 일반문서와 구분하여 별도 보관함에 보관하고 보관용기의 열쇠는 상용은, 주간에는 부 책임자가 일과후에는 부서 열쇠보관함에 보관하며 비상용은 봉인하여 정 책임자가 관리한다. <개정 ‘14. 4. 18>③원도 또는 복사 도면을 생산할 때에는 도면목록대장(별지 제31호서식) 및 도면현황(별지 제32호서식), 도면작업 및 복사대장(별지 제33호서식), 도면 입·출력관리대장(별지 제34호서식)을 비치하고 관리사항 일체를 기록 유지하여야 한다.④도면의 관리번호는 별지 제35호서식에 의한 관리번호와 생산, 접수 순에 따른 관리번호를 기재한다. 다만, 원도의 오손으로 내용 개정 없이 재작성한때에는 “구”도면 관리번호를 사용할 수 있다.⑤복제 또는 복사한 원도 맨 뒷면 여백에는 제22조 제2항에 의한 사본근거 표시와 배부처를 작성 첨부하고 복제(복사) 도면의 앞표지 중앙 위에 다음과 같이 표시하여야 한다. <개정 ‘21. 7. 28>⑥전산화된 도면은 도면번호와 동일하게 부여하되 각 부서 및 AX정보팀에서 자료관리 하되 일부 또는 전체를 외부기관에 사본을 제공하거나 공지할 경우에는 사전에 도면관리부서의 장과 분임보안담당관의 승인을  받아야 하며 그 결과를 공사보안담당관에게 반기 1회 통보하여야 한다. <신설 ’06. 9. 22> <개정 ’09. 6. 25, ‘21. 7. 28>>[그림][그림]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제47조",
+            "source_clause": "제47조제1항",
+            "link_text": "제32조",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "제32조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/대구교통공사 보안업무운용규정/제32조",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0047",
+            "reference_id": "public:대구교통공사보안업무운용규정#JO0032"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제47조",
+            "source_clause": "제47조제3항",
+            "link_text": "별지 제31호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지31",
+            "target_article_title": "도면목록대장",
+            "appendix_no": "31",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516805",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0047",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0031"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제47조",
+            "source_clause": "제47조제3항",
+            "link_text": "별지 제32호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지32",
+            "target_article_title": "도면현황",
+            "appendix_no": "32",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516809",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0047",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0032"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제47조",
+            "source_clause": "제47조제3항",
+            "link_text": "별지 제33호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지33",
+            "target_article_title": "도면작업 및 복사대장",
+            "appendix_no": "33",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516813",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0047",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0033"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제47조",
+            "source_clause": "제47조제3항",
+            "link_text": "별지 제34호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지34",
+            "target_article_title": "도면 입출력 관리대장",
+            "appendix_no": "34",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516817",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0047",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0034"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제47조",
+            "source_clause": "제47조제4항",
+            "link_text": "별지 제35호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지35",
+            "target_article_title": "도면 관리번호 부여",
+            "appendix_no": "35",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516821",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0047",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0035"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제47조",
+            "source_clause": "제47조제5항",
+            "link_text": "제22조",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "제22조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/대구교통공사 보안업무운용규정/제22조",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0047",
+            "reference_id": "public:대구교통공사보안업무운용규정#JO0022"
+          }
+        ],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161514765",
+            "seq": "161514765"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161514763",
+            "seq": "161514763"
+          }
+        ],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0047"
+      },
+      {
+        "article_no": "제48조",
+        "article_title": "도면의 대출 및 열람",
+        "chapter": "제3장  문서보안",
+        "content": "제48조(도면의 대출 및 열람)  ①도면관리책임자는 타기관에 도면을 대출(열람)할 때에는 도면대출(열람)신청서(별지 제36호서식)를 제출받아 공사 보안담당관을 경유하여 사장의 승인을 얻어야 하고, 대출(열람)시는 도면대출(열람)기록부(별지 제37호서식)에 기록 유지하여야 하며, 도면을 반납 받은 때에는 도면반납증(별지 제38호서식)을 발급하여야 한다. <개정 ‘21. 7. 28>②도면관리책임자는 다음 각호에 의한 업무추진에 필요한 도면을 대출(열람)할 때에는 제1항에 의한 절차를 생략할 수 있으며, 이때는 도면의 대출(열람) 범위를 파악하기 위하여 대출부에 대출사항을 기록 유지한다.1. 외주계약 이행 또는 공사 사업개발에 필요할 경우2. 담당 업무 취급자의 업무수행상 필요할 경우③도면의 일부 또는 전체를 외부기관에 사본을 제공하거나 업무상 관련하여 공지할 경우에는 분임보안담당관의 승인을 받아야 하며 그 결과를 공사 보안담당관에게 반기 1회 통보하여야 한다. <신설 ’06. 9. 22>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제48조",
+            "source_clause": "제48조제1항",
+            "link_text": "별지 제36호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지36",
+            "target_article_title": "도면대출(열람)신청서",
+            "appendix_no": "36",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516825",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0048",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0036"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제48조",
+            "source_clause": "제48조제1항",
+            "link_text": "별지 제37호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지37",
+            "target_article_title": "도면대출(열람)기록부",
+            "appendix_no": "37",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516829",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0048",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0037"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제48조",
+            "source_clause": "제48조제1항",
+            "link_text": "별지 제38호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지38",
+            "target_article_title": "도면반납증",
+            "appendix_no": "38",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516833",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0048",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0038"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0048"
+      },
+      {
+        "article_no": "제49조",
+        "article_title": "비밀도면의 폐지",
+        "chapter": "제3장  문서보안",
+        "content": "제49조(비밀도면의 폐지)  ①비밀(대외비)도면을 폐지하고자 할 때에는 공사 보안담당관을 경유하여 사전에 사장의 승인을 받아 폐지 또는 파기하고 그 사유를 도면목록대장(별지 제31호서식)에 기록 유지한다. <개정 ‘14. 4 18, ’22. 5. 31>②도면 파기시는 파기장면을 사진촬영하여 1매를 도면목록대장에 첨부 보관 관리하고 파기사항을 기록 유지한다.③도면관리부책의 보존은 5년으로 한다.[제목개정 ‘22. 5. 31]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제49조",
+            "source_clause": "제49조제1항",
+            "link_text": "별지 제31호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지31",
+            "target_article_title": "도면목록대장",
+            "appendix_no": "31",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516805",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0049",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0031"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0049"
+      },
+      {
+        "article_no": "제50조",
+        "article_title": "도면관리책임자 인계인수 <개정 ‘14. 4 18>",
+        "chapter": "제3장  문서보안",
+        "content": "제50조(도면관리책임자 인계인수 <개정 ‘14. 4 18>)  ①도면관리 “정”책임자의 교체시에는 따로 인계인수조서를 작성하지 아니하고 분임보안담당관 확인하에 도면목록대장에 의해서 인계인수를 실시한다.②인계인수는 도면목록대장 끝부분의 중앙 여백에 다음과 같이 기재한다. <개정 ‘14. 4 18, ‘21. 7. 28>[그림]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161514853",
+            "seq": "161514853"
+          }
+        ],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0050"
+      },
+      {
+        "article_no": "제51조",
+        "article_title": "도서도면의 관리",
+        "chapter": "제3장  문서보안",
+        "content": "제51조(도서도면의 관리)  ①도서도면이라 함은 준공도, 승인도를 제외한 시설 또는 기계장치의 유지 보수관리를 위한 책자로 된 도면을 말한다.②도서도면의 관리는 제47조 제3항에 의한 도면목록대장을 비치하고 도서도면 관리번호를 부여하여 관리한다.③도서도면의 인쇄, 발간, 복제 또는 복사할 때에는 도서도면의 맨 뒷면 여백에 제22조에 의한 사본근거, 목차 및 배부처를 작성 첨부하여야 한다. <개정 ‘21. 7. 28>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제51조",
+            "source_clause": "제51조제2항",
+            "link_text": "제47조",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "제47조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/대구교통공사 보안업무운용규정/제47조",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0051",
+            "reference_id": "public:대구교통공사보안업무운용규정#JO0047"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제51조",
+            "source_clause": "제51조제3항",
+            "link_text": "제22조",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "제22조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/대구교통공사 보안업무운용규정/제22조",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0051",
+            "reference_id": "public:대구교통공사보안업무운용규정#JO0022"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0051"
+      },
+      {
+        "article_no": "제52조",
+        "article_title": "보호지역의 설정 및 관리",
+        "chapter": "제4장  시설보안",
+        "content": "제52조(보호지역의 설정 및 관리)  ①보호지역을 설정하거나 해제하고자 할 때에는 심사위원회를 거쳐야 하며 보호지역 중 제한구역 및 통제구역의 설정은 필요한 최소한의 범위로 하여야 한다. <개정 ‘21. 7. 28>②공사의 보호지역은 별표 5와 같다. <개정 ‘21. 7. 28>③보호지역에는 보호지역 출입자 통제부(별지 제39호서식)를 비치하고 출입자를 기록 유지하여야 하며 관리책임자는 항시 보안대책을 강구하여야 한다. <개정 ‘21. 7. 28>④제한구역 및 통제구역으로 설정된 곳에는 그 출입문 중앙부 상단 또는 잘 보이는 곳에 다음과 같은 표시를 게시하여야 한다. <개정 ‘21. 7. 28>[그림][그림]⑤업무수행상 필요한 때에는 특정구역을 임시보호구역으로 지정 운영할 수 있으며 임시보호구역을 설정하여 일반인과 사원의 출입을 제한하고자 할 때에는 사전에 공사 보안담당관과 협의하여 다음과 같은 표지를 게시할 수 있다. <개정 ‘21. 7. 28>관계자 외 출입을 금함[제목개정 ‘21. 7. 28]제52조2(보호지역)  ①보안업무규정(대통령령) 제34조에 따라 국가안전보장에 관련되는 인원·문서·자재·시설의 보호를 위하여 필요한 장소에 일정한 범위의 보호지역을 설정할 수 있다. ②제1항에 따라 설정된 보호지역은 그 중요도에 따라 제한지역, 제한구역 및 통제구역으로 나누며, 제한지역, 제한구역 및 통제구역이란 각각 다음 각호의 지역 또는 구역을 말한다.1. 제한지역 : 비밀 또는 국·공유재산의 보호를 위하여 울타리 또는 방호·경비인력에 의하여 승인을 받지 않은 사람의 접근이나 출입에 대한 감시가 필요한 지역2. 제한구역 : 비인가자가 비밀, 주요시설 및 Ⅲ급 비밀 소통용 암호자재에 접근하는 것을 방지하기 위하여 안내를 받아 출입하여야 하는 구역3. 통제구역 : 보안상 매우 중요한 구역으로서 비인가자의 출입이 금지되는 구역③보호지역에 대해서는 승인을 받지 않은 사람의 접근이나 출입을 제한하거나 금지할 수 있는 보안대책을 수립·시행해야 하며, 제한구역 및 통제구역에는 그 구역의 기능 및 구조에 따라 다음 각호의 대책이 마련되어야 한다. 1. 출입할 수 있는 사람의 지정과 비인가자에 대한 출입 통제대책2. 주야간 경계대책3. 외부로부터의 투시, 도청 및 파괴물질의 투척 방지 대책4. 방화대책5. 경보대책6. 그 밖에 필요한 보안대책④보호지역 내 세부 보안대책은 국가보안시설 및 국가보호장비 관리지침에 따른다.[본조신설 ‘21. 7. 28]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제52조",
+            "source_clause": "제52조제2항",
+            "link_text": "별표 5",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별표5",
+            "target_article_title": "보호구역",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000152577&bylNo=0005&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0052",
+            "reference_id": "public:대구교통공사보안업무운용규정#BYL0005"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제52조",
+            "source_clause": "제52조제3항",
+            "link_text": "별지 제39호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지39",
+            "target_article_title": "보호지역 출입자 통제부",
+            "appendix_no": "39",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516837",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0052",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0039"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제52조",
+            "source_clause": "제52조제1항",
+            "link_text": "제34조",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "제34조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/대구교통공사 보안업무운용규정/제34조",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0052",
+            "reference_id": "public:대구교통공사보안업무운용규정#JO0034"
+          }
+        ],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161514855",
+            "seq": "161514855"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161514857",
+            "seq": "161514857"
+          }
+        ],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0052"
+      },
+      {
+        "article_no": "제53조",
+        "article_title": "보호지역의 출입자 통제 및 순찰",
+        "chapter": "제4장  시설보안",
+        "content": "제53조(보호지역의 출입자 통제 및 순찰)  ①보호지역에 출입하고자 할 때에는 승인을 받아야 한다. 다만, 보호지역 내에 일상 출근하는 직원, 업무 담당 부서직원과 기타 업무 관련 직원은 보직과 동시에 승인받은 것으로 인정하며, 일정기간 계약에 의해 종사하는 종사원을 일괄하여 출입 승인할 수 있으며, 이는 보안상 유해로운 사실이 없는 자이어야 한다. <개정 ‘21. 7. 28>②보호지역 내 출입을 승인받은 자 이외의 사원, 일용직 종사원 또는 외래방문객에 대하여는 출입자통제부에 기록하는 등 적절한 보안조치를 하여야 한다. <개정 ‘21. 7. 28>③각 시설관리책임자는 출입자 통제를 위하여 외래인의 신분증과 방문증(별지 제40호서식)을 교환하여 방문증을 패용토록 하고 방문자기록부(별지 제41호서식)에 기록 유지한다. 다만, 특별한 사유가 있는 경우에는 이를 생략할 수 있다.④외래인의 보호지역 방문은 정상근무시간 내로 하며 방문 목적과 피방문자를 확인한 후 피방문자가 승인하는 경우에 한하여 출입을 허가한다. <개정 ‘21. 7. 28>⑤야간 및 공휴일에는 민간인의 청사출입을 금하며 특별한 경우 당직책임자의 승인을 받아 경비근무자가 입회 또는 안내업무를 수행한다.⑥당직책임자는 각종 비상시를 대비하여 야간근무자의 근무상태, 보안 점검상태, 경비근무수칙 준수여부를 수시 점검하여야 한다.⑦보호지역의 순찰은 「청원경찰경비근무내규」에 의한다.  <개정 ‘21. 7. 28>⑧제한구역 및 통제구역은 출입 인가자를 사전 지정하고 상시 출입자 명단을 비치하여야 한다. <신설 ‘21. 7. 28>⑨제한구역은 사전에 출입을 인가받지 못한 인원은 해당 제한구역 관리책임자의 허가를 받은 후 안내를 받아 출입하되 구역 내 단독 업무수행을 할 수 있다. <신설 ‘21. 7. 28>⑩통제구역은 상시 근무·감독자 이외 출입이 금지된다. <신설 ‘21. 7. 28>⑪통제구역 내 보안업무 총괄, 유지·보수 등 업무상 필요한 경우는 다음과 같이 시행한다.<신설 ‘21. 7. 28> 1. 통제구역 관리책임자 또는 시설보안담당관의 사전 허가를 받아 출입이 가능하며 상시출입자 이외의 출입      자에 대해 해당 통제구역 근무자가 항시 동행 및 입회 감독을 실시(단독 업무수행 불가)한다. 2. 제어시스템 유지·보수 등 업무상 출입이 필요하며 사전 허가를 받을 여유가 없을 시 해당 부서장은 선출     입 조치 후 보안각서를 받고 사유를 명시하여 시설보안담당관에게 보고하여야 한다.[제목개정 ‘21. 7. 28]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제53조",
+            "source_clause": "제53조제3항",
+            "link_text": "별지 제40호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지40",
+            "target_article_title": "방문증",
+            "appendix_no": "40",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516841",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0053",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0040"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제53조",
+            "source_clause": "제53조제3항",
+            "link_text": "별지 제41호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지41",
+            "target_article_title": "방문자기록부",
+            "appendix_no": "41",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516845",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0053",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0041"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0053"
+      },
+      {
+        "article_no": "제54조",
+        "article_title": "시설방호책임자의 지정",
+        "chapter": "제4장  시설보안",
+        "content": "제54조(시설방호책임자의 지정) 시설방호책임자는 다음 각호에 의한다.1. 본  사 : 재난관리팀장 <개정 ’06. 9. 22, ’09. 6. 25, ’23. 12. 7>2. 차량기지(사월통합관리소 포함) : 차량기지사업소장3. 역사 및 선로 : 1,2,3고객센터장, 시설기계사업소장, 경전철기술사업소장 <개정 ’09. 6. 25, ’12. 11. 1, ‘21. 7. 28>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0054"
+      },
+      {
+        "article_no": "제55조",
+        "article_title": "시설방호의 책임",
+        "chapter": "제4장  시설보안",
+        "content": "제55조(시설방호의 책임)  ①시설물의 안전한 관리와 방호를 위하여 공사시설물에 방호책임자를 둔다. 다만, 동일지역에 소속을 달리하는 수 개의 시설물이 있는 경우에는 통합방호책임자를 둘 수 있다.②시설방호책임자는 방호업무를 총괄 지휘감독한다. 다만, 시설물의 개선 및 보수에 대하여는 직접 시설을 관리하는 부서장이 자체 안전에 대하여 책임을 진다. <개정 ‘21. 7. 28>③제1항 단서에 의한 통합된 시설 내에 상주하는 부서는 비상사태 발생시 통합방호책임자의 지휘를 받아야 한다.④시설방호책임자는 비상시를 대비하여 자체 방호계획을 수립하여야 하며, 계획에는 시설의 입지적 환경과 제반 취약성을 고려하여 다음 각호의 내용이 포함되어야 한다.1. 자체방호계획 수립과 방호대 편성2. 유관기관 비상통신망 구성 및 비상연락망 구성과 정비3. 비상반출 우선순위 결정 <개정 ‘21. 7. 28>4. 중요 시설물의 위장 설비5. 비상대피로 설치6. 보안등 가설 및 소화시설 장비7. 경비초소, 경비망, 진지 설치8. 기타 시설보안 및 방호에 필요한 조치⑤시설방호책임자는 제4항의 계획에 의하여 연 2회 이상 방호훈련(소방 및 재난훈련 포함)을 실시하여야 한다.⑥시설방호책임자는 관할 시설물의 출입자에 대하여 출입자명부를 기록 유지하는 등 통제대책을 강구하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0055"
+      },
+      {
+        "article_no": "제56조",
+        "article_title": "열쇠관리",
+        "chapter": "제4장  시설보안",
+        "content": "제56조(열쇠관리)  ①시설물(기능실 포함)의 출입문 및 책상, 보관함의 열쇠(키,ID카드,도어록 번호 포함)에 대하여 도난·분실·복제와 비상사태에 대비한 관리를 철저히 하여야 한다. <개정 ’14. 4. 18, ‘21. 7. 28>②제1항의 규정에 의한 열쇠는 비상열쇠와 상용열쇠로 구분하여 관리한다.③각 부서는 열쇠관리대장(별지 제42호서식)을 비치하고 관리하며 열쇠관리책임자 교체시 관리대장 끝부분에 인계인수를 실시한다. <개정 ‘21. 7. 28>④시설물(기능실 포함)의 출입문 열쇠관리는 비상열쇠는 청사(시설물) 총괄부서에서 봉인하여 종합 열쇠보관함에 보관 관리하며 상용열쇠는 일과 중에는 보안담당자가, 일과 후에는 당직자(상시 근무자)가 관리한다. 단, 원거리에 위치하는 등 일과 후에 상용열쇠 인계가 곤란한 부서에서는 상용열쇠를 당직자(상시 근무자)가 상시 보관 관리할 수 있다. 책상, 보관함의 열쇠관리는 비상열쇠는 개인이 봉인하여 부서 열쇠보관함에 보관 관리하며 상용열쇠는 개인이 관리한다. <개정 ’12. 11. 1, ‘21. 7. 28>⑤일과 후 상용열쇠(사무실 출입문)관리를 철저히 하기 위하여 열쇠일일관리부(별지 제43호서식)를 당직실에 비치하여 당직자가 매일 관리하도록 할 수 있다.⑥각 시설별 기능실 출입문의 열쇠는 시설물을 직접 관리하는 부서에서 관리하되 열쇠수불대장(별지 제44호서식)을 비치하고 수불사항을 기록 유지한다.⑦제6항에 의한 기능실이 역에 소재하고 있는 경우에는 기능실 출입문열쇠 중 한 개를 당해 역의 열쇠보관함에 보관 관리하고 비상시에 한하여 역장이 불출한다. <개정 ‘16. 9. 21>⑧역에 소재한 현업기관(분소 포함)의 출입문 상용열쇠는 현업기관의 장이 관리한다. <개정 ’16. 3. 18>⑨각 시설 내 임대시설물의 열쇠관리는 당해 각 부서의 분임보안담당관이 임대 시작과 만료시 열쇠목록대장에 의해 인계인수사항을 기록 유지한다.⑩비밀보관함 열쇠관리는 일과중에는 보안담당자가 일과후에는 부서 열쇠보관함에 보관한다. <개정 ’14. 4. 18>⑪제3항 내지 제10항에 정하지 아니한 열쇠관리는 당해 업무의 관할부서의 장이 정한다. <개정 ’14. 4. 18>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제56조",
+            "source_clause": "제56조제3항",
+            "link_text": "별지 제42호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지42",
+            "target_article_title": "열쇠관리대장",
+            "appendix_no": "42",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516849",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0056",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0042"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제56조",
+            "source_clause": "제56조제5항",
+            "link_text": "별지 제43호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지43",
+            "target_article_title": "열쇠일일관리부",
+            "appendix_no": "43",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516853",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0056",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0043"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제56조",
+            "source_clause": "제56조제6항",
+            "link_text": "별지 제44호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지44",
+            "target_article_title": "열쇠수불대장",
+            "appendix_no": "44",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516857",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0056",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0044"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0056"
+      },
+      {
+        "article_no": "제57조",
+        "article_title": "열쇠함의 열쇠관리",
+        "chapter": "제4장  시설보안",
+        "content": "제57조(열쇠함의 열쇠관리)  ①제56조 제4항에 의한 비상열쇠함은 본사 및 현업 부서별로 자체실정에 따라 임의  제작하여 보관 관리한다.  <개정 ’12. 11. 1>1. 삭제 <’12. 11. 1>2. 삭제 <’12. 11. 1>②상용열쇠(사무실출입문)함은 각 부서의 여건에 따라 제작, 당직실(상시근무 사무실)에 보관 관리한다.③책상, 보관함 등의 열쇠관리는 1조는 개인이 밀봉하여 부서열쇠보관함에 보관하고, 1조는 개인이 지참한다. <개정 ’09. 6. 25, ’12. 11. 1, ‘21. 7. 28>④청사 종합열쇠(비상)보관함의 잠금열쇠 관리는 1조는 일과중에는 청사(시설물) 총괄부서에서 관리하며 일과 후에는 당직자(상시 근무자)가 관리하고 2조는 총괄부서장이 밀봉하여 보관(관리) 하며 부서별 부서 열쇠보관함의 잠금열쇠 관리는 1조는 일과중에는 부서 보안담당자가 관리하며 일과 후에는 당직자(상시 근무자)가 관리하고 2조는 부서장이 밀봉하여 보관(관리) 한다. <신설 ’12. 11. 1>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제57조",
+            "source_clause": "제57조제1항",
+            "link_text": "제56조",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "제56조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/대구교통공사 보안업무운용규정/제56조",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0057",
+            "reference_id": "public:대구교통공사보안업무운용규정#JO0056"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0057"
+      },
+      {
+        "article_no": "제58조",
+        "article_title": "열쇠파손 및 복제",
+        "chapter": "제4장  시설보안",
+        "content": "제58조(열쇠파손 및 복제)  ①열쇠가 파손 또는 훼손되어 교체가 요구될  때에는 당해 부서의 장이 수리 보수하고 그 결과를 열쇠관리대장 비고란에 기록 유지한다. <개정 ‘21. 7. 28>②개인별 열쇠 복제사용을 일체 금하며 업무수행상 부득이 복제 사용코자할 때에는 사전에 분임보안담당관의 승인을 받아야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0058"
+      },
+      {
+        "article_no": "제59조",
+        "article_title": "정보화자료의 대책",
+        "chapter": "제5장  정보통신보안",
+        "content": "제59조(정보화자료의 대책)  정보통신실 또는 정보통신망 운영부서의 장은 자료의 유출, 파괴 등에 대비하여 다음 각호에서 정한 보호대책을 강구하여야 한다.1. 자료복사본(예비) 확보 및 안전지역 별도 보관2. 정보화자료(보조기억매체) 보유현황 관리3. 정보화자료 및 장비의 반·출입 통제4. 정보통신망 불법침입(해킹) 및 바이러스 피해 예방",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0059"
+      },
+      {
+        "article_no": "제60조",
+        "article_title": "정보통신실의 보호대책",
+        "chapter": "제5장  정보통신보안",
+        "content": "제60조(정보통신실의 보호대책)  정보통신실 또는 정보통신망 운영부서장은 다음 각호에 정하는 보호대책을 강구하여야 한다.1. 보조기억매체를 보관할 수 있는 철제용기 비치2. 보조기억매체에 대한 안전반출 및 파기계획 수립 <개정 ‘21. 7. 28>3. 정보통신실 관리책임자 및 자료 또는 장비별 취급자 지정 운영",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0060"
+      },
+      {
+        "article_no": "제61조",
+        "article_title": "정보통신망 보안대책",
+        "chapter": "제5장  정보통신보안",
+        "content": "제61조(정보통신망 보안대책)  ①정보통신망 운영부서의 장은 자료의 유출방지 등을 위해 내부망과 외부망의 접속을 최소한으로 제한하여야 한다.②내부망과 외부망을 접속하고자 할 때에는 비인가자의 무단침입 방지를 위해 비인가자를 색출하고 차단하는 정보통신망 보호조치를 취하여야 한다.③다음 각 호와 같은 정보통신망 침해행위 등을 금지한다. <신설 ’10. 8. 30>1. 정당한 접근권한 없이 또는 허용된 접근권한을 넘어 정보통신망에 침입하여서는 아니 된다.2. 정당한 사유 없이 정보통신시스템, 데이터 또는 프로그램 등을 훼손·멸실·변경·위조하거나 방해하여서는아니 된다.3.정보통신망의 안정적 운영을 방해할 목적으로 대량의 신호 또는 데이터를 보내거나 부정한 명령을 처리하도록 하는 등의 방법으로 정보통신망에 접근하여서는 아니 된다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0061"
+      },
+      {
+        "article_no": "제62조",
+        "article_title": "자료접근 범위의 제한",
+        "chapter": "제5장  정보통신보안",
+        "content": "제62조(자료접근 범위의 제한)  ①정보통신실 관리책임자는 자료 사용을 필요 정도에 따라 최소한의 자료만 사용하도록 자료 접근범위를 제한하여야 한다.②자료 접근범위는 다음 각호와 같이 구분한다.1. 자료별로 접근권한이 있는 자를 제한2. 작업범위는 소관 업무에 따라 열람·출력·갱신 등으로 제한3. 열람항목은 필요 정도에 따라 기본항목, 전 항목 등으로 제한",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0062"
+      },
+      {
+        "article_no": "제63조",
+        "article_title": "단말기 취급자 관리",
+        "chapter": "제5장  정보통신보안",
+        "content": "제63조(단말기 취급자 관리)  ①주전산기 관리책임자는 응용프로그램별로 접근하는 단말기 취급자의 인적사항과 자료 접근범위를 관리하여야 한다.②단말기 취급자의 자료 접근범위는 주전산기에 등록하여 취급자인지 여부를 식별하고 인가된 범위 이외의 자료접근을 통제하여야 한다.③응용프로그램 취급자가 변경될 때에는 지체없이 자료 접근권한을 변경하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0063"
+      },
+      {
+        "article_no": "제64조",
+        "article_title": "개인용컴퓨터 보안관리",
+        "chapter": "제5장  정보통신보안",
+        "content": "제64조(개인용컴퓨터 보안관리)  ①개인용컴퓨터(단말기 포함)를 사용하여 정보화자료를 생성·수정·열람하고자 할 때에는 장비별로 취급자 및 관리책임자를 지정·운용 하여야 한다.②개인용컴퓨터 취급자는 무단으로 조작하여 정보화자료를 수정·파괴·열람하거나 출력하지 못하도록 다음 각호에 정한 보호대책을 강구하여야 한다.1. 장비사용 인가자 여부를 확인하는 비밀번호 부여 사용2. 10분 이상 작업 중단시 화면보호 조치",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0064"
+      },
+      {
+        "article_no": "제65조",
+        "article_title": "비밀번호 사용 및 관리",
+        "chapter": "제5장  정보통신보안",
+        "content": "제65조(비밀번호 사용 및 관리)  ①비밀번호는 주전산기의 사용권한을 식별하기 위하여 다음과 같이 구분·사용하여야 한다.1. 비인가 단말기의 부정사용 방지를 위한 단말기 확인용 비밀번호(1차)2. 정보통신망에 접속하는 단말기 취급자의 인가자 여부 확인용 비밀번호(2차)3. 소관 업무 외에는 열람 및 출력을 제한할 수 있는 자료 접근권한 확인용 비밀번호(3차)②비밀번호는 숫자와 문자, 특수문자 등을 혼합하여 9자리 이상으로 부여하고 분기1회 이상 변경하여 사용하여야 한다. 다만, 취급자 등이 교체된 경우에는 즉시 변경하여야 한다.<개정 ’07. 8. 30, ‘16. 9. 21>③ 삭제 <‘22. 5. 31>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0065"
+      },
+      {
+        "article_no": "제66조",
+        "article_title": "비밀자료 입·출력",
+        "chapter": "제5장  정보통신보안",
+        "content": "제66조(비밀자료 입·출력)  ①대외비 이상의 비밀자료를 입력하고자 할 때에는 반드시 해당 비밀등급과 예고문을 동시에 입력하여 열람 또는 출력시 비밀등급과 예고문이 표시되도록 하여야 한다.②비밀자료를 입력할 때에는 미리 비밀자료만을 입력할 컴퓨터 또는 개인용 컴퓨터로부터 분리가 가능한 보조기억매체(디스켓 등)를 별도로 지정하여 사용하고 그 보조기억매체에는 비밀자료만을 입력하여야 한다. 다만, 주전산기와 분리가 불가능할 경우에는 독립된 파일로 지정하여 입력한다.③비밀자료 입·출력시 작업내용을 기록유지 하여야 한다.(별지 제21호서식)",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제66조",
+            "source_clause": "제66조제3항",
+            "link_text": "별지 제21호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지21",
+            "target_article_title": "비밀 입출력 작업대장",
+            "appendix_no": "21",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516765",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0066",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0021"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0066"
+      },
+      {
+        "article_no": "제67조",
+        "article_title": "보조기억매체 관리",
+        "chapter": "제5장  정보통신보안",
+        "content": "제67조(보조기억매체 관리)  ①주요 정보화자료가 입력된 보조기억매체는 각 매체별로 별개의 관리번호를 부착 관리하여야 한다. 그 중 비밀자료가 입력된 보조기억매체는 앞면 중앙에 관리번호, 건명, 비밀등급, 사본번호 등이 표시된 스티커를 부착하여 비밀의 표시를 하고 비밀관리기록부에 등재한 후, 비밀보관용기에 보관 관리하여야 한다. <개정 ‘21. 7. 28>②보조기억매체 관리자는 주요 정보화자료가 입력된 보조기억매체의 보유현황을 월 1회 이상 점검하고 관리책임자의 확인 점검을 받아야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0067"
+      },
+      {
+        "article_no": "제68조",
+        "article_title": "정보통신보안성 검토",
+        "chapter": "제5장  정보통신보안",
+        "content": "제68조(정보통신보안성 검토)  ①정보통신실 또는 정보통신망 운영부서장은 업무에 대한 정보화를 추진하고자 할 때는 계획수립단계부터 자체보안대책을 강구하여야 한다.②다음 각호의 1에 해당하는 경우에는 공사 보안담당관과 협의를 거쳐 심사위원회 검토 후 국가정보원장의 보안성 검토를 받아야 한다. <개정 ‘21. 7. 28>1. 유·무선 네트워크를 신·증설하거나 정보시스템을 구축하는 경우 <개정 ’12. 11. 1>2. 내부 정보통신망을 외부망과 연결하고자 하는 경우 <개정 ’12. 11. 1>3. 국정원장이 개발하거나 안전성을 검증한 암호장비·보안자재·정보보호시스템을 도입 운용하고자 할 경우 <개정 ’12. 11. 1>4. 무선랜 등 무선망을 사용하여 업무를 처리하거나 원격근무 지원 등을 위해 정보시스템을 도입하는 경우 <신설 ’12. 11. 1>5. 외부기관 및 업체의 보안감리 또는 보안컨설팅(보안취약성 분석·평가포함)을 받거나 정보화·정보보호사업 업무를 위탁할 경우 <신설 ’12. 11. 1>6. 기타 정보통신 운용환경 변화로 보안성검토가 필요한 경우 <신설 ’12. 11. 1>③ 정보통신 보안성 검토를 요청할 경우 자체적으로 보안대책을 수립한 후 국가정보원의 대구지부장에게 요청하여야 하며 보안성 검토를 요청할 경우에 다음 각 호의 서류를 제출하여야 한다. <신설 ’12. 11. 1>1. 사업 목적 및 추진계획2. 사업계획서3. 기술제안요구서(RFP)4. 정보통신망 구성도5. 자체 보안대책 강구사항가. 보안관리 수행체계(조직, 인원) 등 관리적 보안대책나. 시스템 설치장소에 대한 보안관리방안 등 물리적 보안대책다. 국가용 보안시스템 및 국정원장이 개발하거나 안전성을 검증한 정보보호시스템 도입 운용 계획라. 국가기관 간 망 연동 시 당해 기관 간 보안관리 협의사항마. 서버, 단말기, 보조기억매체, 네트워크 등 정보통신망의 요소별 기술적보안대책바. 재난복구 계획 또는 상시 운용계획",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0068"
+      },
+      {
+        "article_no": "제69조",
+        "article_title": "통신수단에 의한 비밀수발 제한",
+        "chapter": "제5장  정보통신보안",
+        "content": "제69조(통신수단에 의한 비밀수발 제한)  ①비밀은 전신, 전화 등의 통신수단에 의하여 평문으로 수발하여서는 아니 된다.②비밀문서 또는 누설시 국가이익을 해할 우려가 있는 내용은 모사전송기에 의하여 발송할 수 없다. 단 암호장비가 설치된 모사전송기는 발송이 가능하다.③모사전송기 운용 및 보안관리의 구체적인 절차는 별도로 정할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0069"
+      },
+      {
+        "article_no": "제70조",
+        "article_title": "정보통신보안대책",
+        "chapter": "제5장  정보통신보안",
+        "content": "제70조(정보통신보안대책)  ①통신망을 운용하고 있는 각 부서는 해당 통신망에 대해 통신보안담당자를 지정하여 자체 통신보안을 실시하여야 한다. <개정 ’12. 11. 1>② 무선망을 운용하는 부서의 장은 다음 각 호에 대하여 보안대책을 강구하여야 한다. <신설 ’12. 11. 1>1. 전파월경 방지대책 강구2. 삭제 <’14. 4. 18>3. 무선국의 현황 관리와 보안지도 점검4. 삭제 <’14. 4. 18>5. 공중통신망 이용 시 국가용 보안시스템 활용③ 기반시설을 관리하는 부서의 장은 「정보통신기반보호법」및 같은 법 시행령에 따라 기반시설에 대한 보호대책을 수립·시행하여야 하며,  국가안보상 중요한 기반시설의 정보통신망은 인터넷 등 상용망과 분리 운용함을 원칙으로 하고 외부기관에 의뢰하여 보안취약점 분석·평가를 수행하는 경우 세부 결과를 그 중요성과 가치의 정도에 따라 비밀 또는 대외비로 지정 관리하여야 한다. <신설 ’12. 11. 1>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제70조",
+            "source_clause": "제70조제3항",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "정보통신기반보호법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/정보통신기반보호법 시행령",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0070",
+            "reference_id": "law:정보통신기반보호법시행령#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0070"
+      },
+      {
+        "article_no": "제71조",
+        "article_title": "공간정보데이타의 분류",
+        "chapter": "제6장  공간정보보안",
+        "content": "제71조(공간정보데이타의 분류)  공간정보는 별표 6의 분류기준에 의하여 “비공개”, “공개제한”, “공개”로 분류하여 관리하여야 한다. <개정 ’12. 11. 1>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제71조",
+            "source_clause": "제71조",
+            "link_text": "별표 6",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별표6",
+            "target_article_title": "국가공간정보  세부분류기준",
+            "appendix_no": "6",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000152577&bylNo=0006&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0071",
+            "reference_id": "public:대구교통공사보안업무운용규정#BYL0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0071"
+      },
+      {
+        "article_no": "제72조",
+        "article_title": "공간정보의 비공개 또는 공개제한<개정’14. 4. 18>",
+        "chapter": "제6장  공간정보보안",
+        "content": "제72조(공간정보의 비공개 또는 공개제한<개정’14. 4. 18>)  ①분야별 공간정보분임보안담당관은 보유 관리하고 있는 공간정보를 일반에게 공개할 때에는 사전에 공사 보안담당관를 경유하여 사장의 승인을 받아야 한다. <개정 ’12. 11. 1>②“비공개” 또는 “공개제한” 공간정보는 그 공간정보와 업무상 관련이 없는 일반에게 공개하여서는 아니 된다. <개정 ’12. 11. 1>③비공개 또는 공개제한 공간정보는 적정등급의 비밀 또는 대외비로 분류 관리하여야 한다. <개정 ’12. 11. 1>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0072"
+      },
+      {
+        "article_no": "제73조",
+        "article_title": "공간정보 데이터베이스의 보호",
+        "chapter": "제6장  공간정보보안",
+        "content": "제73조(공간정보 데이터베이스의 보호)  ①공간정보 데이터베이스의 훼손·파괴·유출 등을 방지하기 위한 보호대책은 각호와 같다. <개정 ’12. 11. 1>1. 보안관리책임자 지정2. 출입문 카드키 등 시건장치 설치, 무단침입 방지3. 테이터베이스 복제(복사)본을 확보하여 철제용기 등에 별도 보관하고, 데이터베이스 복제(복사)본 관리대장(별지 제46호서식)을 비치 및 기록 유지 <개정 ‘21. 7. 28>4. 공간정보 데이터베이스에 대한 접근 차단대책 강구가. 부서 및 사용자별 ID·비밀번호 부여, 자료 유형별 접근권한 제한나. 작업 범위는 소관 업무에 따라 열람·출력·갱신 등으로 제한다. 열람은 필요 내용에 따라 기본항목·전 항목 등으로 구분라. 공간정보 취급자 이외에 업무상 필요에 의하여 “비공개” 또는 “공개제한”지리정보 데이터베이스를 이용하고자 하는 자는 분임보안담당관의 사전허가 후 접근하고 공간정보목록 관리대장(별지 제47호서식)에 기록 유지한다.②공간정보 데이터베이스는 열람·전송·출력 등 사용내역에 대한 확인이 가능하도록 전산시스템을 구축·관리한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제73조",
+            "source_clause": "제73조제1항",
+            "link_text": "별지 제46호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지46",
+            "target_article_title": "데이터베이스 복제(복사)본 관리대장",
+            "appendix_no": "46",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516865",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0073",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0046"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제73조",
+            "source_clause": "제73조제1항",
+            "link_text": "별지 제47호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지47",
+            "target_article_title": "공간정보목록 관리대장",
+            "appendix_no": "47",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516869",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0073",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0047"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0073"
+      },
+      {
+        "article_no": "제74조",
+        "article_title": "공간정보유통망 관리",
+        "chapter": "제6장  공간정보보안",
+        "content": "제74조(공간정보유통망 관리)  공간정보의 위·변조, 불법유출 등을 방지하기 위하여 다음 각호의 공간정보유통망 보호대책을 강구한다. <개정 ’12. 11. 1>1. 보안관리책임자 지정(AX정보팀장) <개정 ’09. 6. 25, ’23. 12. 7, ’25. 12. 15>2. 방호벽 등 침입방지 및 감시시스템 설치 운영3. 인터넷 등 외부망과 분리 설치 및 해킹·컴퓨터바이러스 예방대책 강구4. 공간정보 유통망에 대해서는 월 1회 이상 점검·확인",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0074"
+      },
+      {
+        "article_no": "제75조",
+        "article_title": "공개제한 공간정보의 활용",
+        "chapter": "제6장  공간정보보안",
+        "content": "제75조(공개제한 공간정보의 활용)  ①공간정보분임보안담당관(정, 부)은 소관 공개제한 공간정보에 대한 학술연구 등의 목적으로 공개를 요청받은 경우에는 다음 각호의 사항을 확인·검토하여 제공할 수 있다.(별지 제48호서식) <개정 ’12. 11. 1>1. 신청인 인적사항(성명, 주소, 생년월일, 소속기관·단체 및 직책) <개정 ‘21. 7. 28>2. 사용목적 및 타당성3. 활용 후 관리대책②공간정보분임보안담당관은 공개제한 공간정보를 제공할 때에는 공사 보안담당관의 승인을 받은 후 제공하며, 제공일시, 자료의 내용 및 방법 등 관련 사항을 기록 유지한다.(별지 제49호서식) <개정 ’12. 11. 1>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제75조",
+            "source_clause": "제75조제1항",
+            "link_text": "별지 제48호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지48",
+            "target_article_title": "공개제한 공간정보 신청서",
+            "appendix_no": "48",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516873",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0075",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0048"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제75조",
+            "source_clause": "제75조제2항",
+            "link_text": "별지 제49호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지49",
+            "target_article_title": "공간정보자료 복제출력대장",
+            "appendix_no": "49",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516877",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0075",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0049"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0075"
+      },
+      {
+        "article_no": "제76조",
+        "article_title": "공간정보의 외주용역",
+        "chapter": "제6장  공간정보보안",
+        "content": "제76조(공간정보의 외주용역)  ①비공개 또는 공개가 제한되는 공간정보의 생산·구축·관리·유통 및 활용 등을 위하여 외주용역하고자 할 경우에는 미리 공사 보안담당관의 승인을 받아야 하며, 다음 각호의 보안대책을 강구하여야 한다. <개정 ’12. 11. 1>1. 계약서상에 공간정보 보호의무와 위반시 조치사항 명시2. 참여인원에 대한 신원확인, 서약집행 및 보안교육3. 작업장소를 통제구역 또는 제한구역으로 설정4. 용역 종료시 성과물과 제공된 각종 자료 회수5. 기타 보안관리상 필요한 사항②공간정보를 외주용역할 때에는 미리 용역감독책임자를 지정하여 용역업체에 대한 보안관리 실태를 파악하여 대책을 강구한다. <개정 ’12. 11. 1>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0076"
+      },
+      {
+        "article_no": "제77조",
+        "article_title": "자체 보안진단",
+        "chapter": "제7장  보안관리",
+        "content": "제77조(자체 보안진단)  ① 매월 첫째 주 금요일(휴일인 경우 다음 근무일)을 보안진단의 날로 지정하며 분임보안담당관은 자체 보안진단을 실시하여 통합포털시스템 드림스 보안진단부(별지 제50호서식)에 그 결과를 기록 유지하고 공사 보안담당관에게 보고하여야 한다. <개정 ‘21. 7. 28>②사무실보안책임자(부서장이 지정하는 자 또는 최종퇴청자)는 매일 당해 부서의 보안점검을 실시하고 사무실 일일 보안점검부(별지 제51호서식)에 그 결과를 기록 유지한다. <개정 ’09. 9. 3>③당직근무자는 각 부서의 보안상태를 점검하고 그 결과를 점검부에 기록하여야 하며, 분임보안담당관은 익일 점검결과를 확인하고 시정을 요하는 사항에 대하여는 적절한 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제77조",
+            "source_clause": "제77조제1항",
+            "link_text": "별지 제50호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지50",
+            "target_article_title": "보안진단부",
+            "appendix_no": "50",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516881",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0077",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0050"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제77조",
+            "source_clause": "제77조제2항",
+            "link_text": "별지 제51호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지51",
+            "target_article_title": "사무실 일일 보안점검부",
+            "appendix_no": "51",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516887",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0077",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0051"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0077"
+      },
+      {
+        "article_no": "제78조",
+        "article_title": "보안교육",
+        "chapter": "제7장  보안관리",
+        "content": "제78조(보안교육)  ①각 부서장은 소속 직원을 대상으로 하여 분기1회 이상 정기 및 수시 보안교육을 실시하여야 한다. 다만, 필요에 따라 공사 보안담당관은 보안업무취급자, 비밀취급인가자를 대상으로 당해 연도 보안업무세부시행계획 및 실무교육, 보안업무 지도검열과 병행하여 교육을 실시할 수 있다. 이 경우 각 부서장은 소속 직원에 대한 전달교육을 실시하여야 한다. <개정 ’12. 11. 1>②각 부서 분임보안담당관은 상시출입자를 대상으로 매 반기 1회 이상 교육을 실시하여야 한다.③인사담당부서의 장은 다음 각호에 당하는 자에 대하여 국가 및 공사의 운영상 보안의 중요성을 인식시킬 수 있는 보안교육을 실시하여야한다. 다만, 일용직에 대한 보안 교육은 해당 부서의 장이 실시한다. <개정 ‘16. 9. 21>1. 신규채용 사원2. 삭제 <‘16. 9. 21>④제1항과 제2항에 의한 보안교육 및 자체 보안교육을 실시하였을 때에는 보안교육일지(별지 제52호서식)에 기록 유지한다. <개정 ‘16. 9. 21>⑤모든 국외출장자에 대하여는 분임보안담당관이 필요한 보안교육을 실시하고, 해외출장자등록부(별지 제54호서식)에 기록 유지하여야 한다.<신설 ‘19. 1. 31>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제78조",
+            "source_clause": "제78조제4항",
+            "link_text": "별지 제52호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지52",
+            "target_article_title": "보안교육일지",
+            "appendix_no": "52",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516891",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0078",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0052"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제78조",
+            "source_clause": "제78조제5항",
+            "link_text": "별지 제54호서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 보안업무운용규정",
+            "target_article_no": "별지54",
+            "target_article_title": "해외출장자 등록부",
+            "appendix_no": "54",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516899",
+            "resolve_method": "render",
+            "source_provision_id": "public:대구교통공사보안업무운용규정#JO0078",
+            "reference_id": "public:대구교통공사보안업무운용규정#BJ0054"
+          }
+        ],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0078"
+      },
+      {
+        "article_no": "제79조",
+        "article_title": "보안사고의 보고",
+        "chapter": "제7장  보안관리",
+        "content": "제79조(보안사고의 보고)  ①보안사고를 발견한 자 또는 이를 인지한 자는 즉시 공사 보안담당관에게 보고하여야 한다.②공사 보안담당관은 제1항의 보고를 받았을 때에는 지체없이 사고의 일시, 장소, 사고내용 및 현재 취하고 있는 조치내용을 사장에게 보고한 후 대구광역시장 또는 인근 경찰기관에 통보한다.③비밀이 누설 또는 분실되었을 때에는 그 비밀의 발행기관 및 배포기관에 통보한다.④보안사고의 내용은 발생경위 및 이에 대한 전말조사가 종결될 때까지 공개할 수 없다.⑤보안사고를 유발한 자 또는 사고의 발생을 인지하고도 보고하지 아니한 자와 그 직무감독자에 대하여는 심사위원회에 회부하여 그 심의결정에 따라 조치하여야 한다. <개정 ‘21. 7. 28>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0079"
+      },
+      {
+        "article_no": "제80조",
+        "article_title": "보안감사의 실시",
+        "chapter": "제7장  보안관리",
+        "content": "제80조(보안감사의 실시)  ①각 부서의 보안실태를 확인 감독하기 위하여 연 1회 정기보안감사를 실시하여야 하며 이 경우 감사계획을 미리 통보하여야 한다. 다만, 수시 감사와 보안점검은 통보없이 실시할 수 있다.②제1항에 의한 보안감사는 공사 보안담당관을 감사반장으로 편성 운영한다.③공사나 대구광역시에서 실시하는 감사 또는 점검을 실시하여 규정에 위배되거나 부당한 사실이 발견된 때에는 당해 부서장에게 시정조치를 요구하고 관계 직원과 감독자에 대한 적절한 조치를 요구하여야 한다. <개정 ‘21. 7. 28>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "public:대구교통공사보안업무운용규정#JO0080"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19961206",
+      "promulgation_no": "00046",
+      "content": "부칙 <제46호,1996.12.6>①(시행일) 이 규정은 1996년 12월 6일부터 시행한다.②(경과규정) 이 규정 시행 이전에 시행된 사항은 이 규정에 의하여 시행된 것으로 본다."
+    },
+    {
+      "promulgation_date": "20000403",
+      "promulgation_no": "00089",
+      "content": "부칙 <제89호,2000.4.3>이 규정은 2000년 4월 3일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20050729",
+      "promulgation_no": "00212",
+      "content": "부칙 <제212호,2005.7.29>①(시행일)  이 규정은 2005년 7월 29일부터 시행한다.②(경과조치)  이 규정 시행 이전에 시행된 사항은 이 내규에 의하여 시행된 것으로 본다."
+    },
+    {
+      "promulgation_date": "20060922",
+      "promulgation_no": "00258",
+      "content": "부칙 <제258호,2006.9.22>이 규정은 2006년 9월 22일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20070830",
+      "promulgation_no": "00274",
+      "content": "부칙 <제274호,2007.8.30>이 규정은 2007년 8월 30일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20080925",
+      "promulgation_no": "00275",
+      "content": "부칙 <제275호,2008.9.25><정관 제20호, ’08. 9. 25>①(시행일) 이 정관은 2008년 10월 1일부터 시행한다.②(포괄승계 사항의 경과조치) 이 정관 제정 당시에 지하철 운영에 관하여 공사에 포괄승계된 사항은 이 정관 시행에 의하여 도시철도 운영에 관하여 공사에 포괄승계된 것으로 본다.③(다른 사규의 개정) 이 정관 시행일 현재 공사의 모든 사규에서 사용하고 있는 사명 “대구광역시지하철공사”를 각각 “대구도시철도공사”로 하고, 용어 “지하철”을 각각 “도시철도”로 하며, 명칭 “행정자치부장관”을 각각 “행정안전부장관”으로 한다."
+    },
+    {
+      "promulgation_date": "20090903",
+      "promulgation_no": "00327",
+      "content": "부칙 <제327호,2009.9.3>이 규정은 2009년 9월 3일부터 시행하되, 직제규정 제309호에 의한 기구 및 직위명칭 변경에 관한 사항은 2009년 6월 25일부터 적용한다."
+    },
+    {
+      "promulgation_date": "20100830",
+      "promulgation_no": "00345",
+      "content": "부칙 <제345호,2010.8.30>이 규정은 2010년 8월 30일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20121101",
+      "promulgation_no": "00395",
+      "content": "부칙 <제395호,2012.11.1>이 규정은 2012년 11월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20140418",
+      "promulgation_no": "00437",
+      "content": "부칙 <제437호,2014.4.18>이 규정은 2014년 4월 18일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20160318",
+      "promulgation_no": "00514",
+      "content": "부칙 <제514호,2016.3.18>이 규정은 2016년 3월 18일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20160921",
+      "promulgation_no": "00523",
+      "content": "부칙 <제523호,2016.9.21>이 규정은 2016년 9월 21일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20190131",
+      "promulgation_no": "00590",
+      "content": "부칙 <제590호,2019.1.31>이 규정은 2016년 9월 21일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20190308",
+      "promulgation_no": "00597",
+      "content": "부칙 <제597호,2019.3.8>①(시행일)이 규정은 2019년 3월 8일부터 시행한다.②(경과조치)이 규정 시행일 이전에 시행된 사항에 대하여는 이 규정에 의하여 시행된 것으로 본다."
+    },
+    {
+      "promulgation_date": "20210728",
+      "promulgation_no": "00681",
+      "content": "부칙 <제681호,2021.7.28>이 규정은 2021년 7월 28일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20220531",
+      "promulgation_no": "00703",
+      "content": "부칙 <제703호,2022.5.31>이 규정은  2022년  5월  31일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20220830",
+      "promulgation_no": "00038",
+      "content": "부칙 <정관 제38호,2022.8.30>제1조 (시행일) 이 정관은 2022년 9월 1일부터 시행한다.제2조 <생략>제3조(다른 사규의 개정) ①이 정관 시행일 현재 공사의 모든 사규에서 사용하고 있는 사명 \"대구도시철도공사\"를 \"대구교통공사\"로 한다.② <생략>"
+    },
+    {
+      "promulgation_date": "20231207",
+      "promulgation_no": "00739",
+      "content": "부칙 <제739호,2023.12.7>(직제규정)제1조(시행일) 이 규정은 2023년 12월 7일부터 시행한다. 다만, 직제의 전환시기는 개정 규정에 의한 최초 인사발령 시행일로 한다.제2조(기구 등에 관한 경과조치) 이 규정 시행일 현재 다른 규정에서 인용하고 있는 기구명칭, 직위 등이 이 규정에 의한 기구명칭, 직위 등과 다른 경우에는 이 규정 중 해당 기구명칭, 직위 등으로 변경된 것으로 본다."
+    },
+    {
+      "promulgation_date": "20251215",
+      "promulgation_no": "00789",
+      "content": "부칙 <제789호,2025.12.15>(직제규정)제1조(시행일) 이 규정은 2026년 1월 1일부터 시행한다.제2조(기구 등에 관한 경과조치) 이 규정 시행일 현재 다른 규정에서 인용하고 있는 기구명칭, 직위 등이 이 규정에 의한 기구명칭, 직위 등과 다른 경우에는 이 규정 중 해당 기구명칭, 직위 등으로 변경된 것으로 본다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "비밀세부 분류지침",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000152577&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516641",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516641",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BYL0001",
+      "filename": "별표1_비밀세부 분류지침.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "비밀취급인가대상자 직위현황",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000152577&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516645",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516645",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BYL0002",
+      "filename": "별표2_비밀취급인가대상자 직위현황.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "비밀안전지출 및 파기 기본계획",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000152577&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516649",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516649",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BYL0003",
+      "filename": "별표3_비밀안전지출 및 파기 기본계획.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별표",
+      "title": "당직근무자 준수사항 및 비상열쇠함 제작요령",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000152577&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516653",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516653",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BYL0004",
+      "filename": "별표4_당직근무자 준수사항 및 비상열쇠함 제작요령.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별표",
+      "title": "보호구역",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000152577&bylNo=0005&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516657",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516657",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BYL0005",
+      "filename": "별표5_보호구역.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별표",
+      "title": "국가공간정보  세부분류기준",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000152577&bylNo=0006&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516661",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516661",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BYL0006",
+      "filename": "별표6_국가공간정보 세부분류기준.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "신원조사 대상자 명단",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516669",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516669",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0001",
+      "filename": "별지1_신원조사 대상자 명단.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "신원진술서(약식)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516673",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516673",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0002",
+      "filename": "별지2_신원진술서(약식).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "02",
+      "kind": "별지",
+      "title": "개인정보 제공 동의서(약식)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516679",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516679",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0002_02",
+      "filename": "별지2의2_개인정보 제공 동의서(약식).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "신원대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516683",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516683",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0003",
+      "filename": "별지3_신원대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "민간인 종사자 신원대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516687",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516687",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0004",
+      "filename": "별지4_민간인 종사자 신원대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비밀취급인가신청서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516691",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516691",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0005",
+      "filename": "별지5_비밀취급인가신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "02",
+      "kind": "별지",
+      "title": "비밀취급 신청서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516695",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516695",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0005_02",
+      "filename": "별지5의2_비밀취급 신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별지",
+      "title": "보안서약서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516699",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516699",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0006",
+      "filename": "별지6_보안서약서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "02",
+      "kind": "별지",
+      "title": "보안각서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516703",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516703",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0006_02",
+      "filename": "별지6의2_보안각서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "별지",
+      "title": "삭제",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516707",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516707",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0007",
+      "filename": "별지7_삭제.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0008",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비밀취급인가자명부",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516711",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516711",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0008",
+      "filename": "별지8_비밀취급인가자명부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0009",
+      "branch": "00",
+      "kind": "별지",
+      "title": "삭제",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516715",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516715",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0009",
+      "filename": "별지9_삭제.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0010",
+      "branch": "00",
+      "kind": "별지",
+      "title": "삭제",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516719",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516719",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0010",
+      "filename": "별지10_삭제.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0011",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비밀취급인가 해제신청서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516723",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516723",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0011",
+      "filename": "별지11_비밀취급인가 해제신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0012",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비밀소유현황조사서, 비밀현황증감내역",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516727",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516727",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0012",
+      "filename": "별지12_비밀소유현황조사서, 비밀현황증감내역.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0013",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비밀등급표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516731",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516731",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0013",
+      "filename": "별지13_비밀등급표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0014",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비밀표시",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516735",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516735",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0014",
+      "filename": "별지14_비밀표시.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0015",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비밀표시",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516739",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516739",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0015",
+      "filename": "별지15_비밀표시.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0016",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비밀표시",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516743",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516743",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0016",
+      "filename": "별지16_비밀표시.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0017",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비밀문서 발간 승인신청서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516747",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516747",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0017",
+      "filename": "별지17_비밀문서 발간 승인신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0018",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비밀문서 발간 통제부",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516753",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516753",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0018",
+      "filename": "별지18_비밀문서 발간 통제부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0019",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비밀작업 및 복사대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516757",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516757",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0019",
+      "filename": "별지19_비밀작업 및 복사대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0020",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비밀(대외비)관리기록부",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516761",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516761",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0020",
+      "filename": "별지20_비밀(대외비)관리기록부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0021",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비밀 입출력 작업대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516765",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516765",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0021",
+      "filename": "별지21_비밀 입출력 작업대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0022",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비밀(대외비)문서 통제대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516769",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516769",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0022",
+      "filename": "별지22_비밀(대외비)문서 통제대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0023",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비밀문서접수 및 발송대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516773",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516773",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0023",
+      "filename": "별지23_비밀문서접수 및 발송대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0024",
+      "branch": "00",
+      "kind": "별지",
+      "title": "이중 봉투 양식",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516777",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516777",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0024",
+      "filename": "별지24_이중 봉투 양식.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0025",
+      "branch": "00",
+      "kind": "별지",
+      "title": "접수증",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516781",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516781",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0025",
+      "filename": "별지25_접수증.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0026",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비밀대출부",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516785",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516785",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0026",
+      "filename": "별지26_비밀대출부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0027",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비밀열람기록전",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516789",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516789",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0027",
+      "filename": "별지27_비밀열람기록전.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0028",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비밀반출승인서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516793",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516793",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0028",
+      "filename": "별지28_비밀반출승인서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0029",
+      "branch": "00",
+      "kind": "별지",
+      "title": "외국인자료제공신청서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516797",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516797",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0029",
+      "filename": "별지29_외국인자료제공신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0030",
+      "branch": "00",
+      "kind": "별지",
+      "title": "외국인에 대한 자료제공 통제대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516801",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516801",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0030",
+      "filename": "별지30_외국인에 대한 자료제공 통제대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0031",
+      "branch": "00",
+      "kind": "별지",
+      "title": "도면목록대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516805",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516805",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0031",
+      "filename": "별지31_도면목록대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0032",
+      "branch": "00",
+      "kind": "별지",
+      "title": "도면현황",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516809",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516809",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0032",
+      "filename": "별지32_도면현황.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0033",
+      "branch": "00",
+      "kind": "별지",
+      "title": "도면작업 및 복사대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516813",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516813",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0033",
+      "filename": "별지33_도면작업 및 복사대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0034",
+      "branch": "00",
+      "kind": "별지",
+      "title": "도면 입출력 관리대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516817",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516817",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0034",
+      "filename": "별지34_도면 입출력 관리대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0035",
+      "branch": "00",
+      "kind": "별지",
+      "title": "도면 관리번호 부여",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516821",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516821",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0035",
+      "filename": "별지35_도면 관리번호 부여.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0036",
+      "branch": "00",
+      "kind": "별지",
+      "title": "도면대출(열람)신청서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516825",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516825",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0036",
+      "filename": "별지36_도면대출(열람)신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0037",
+      "branch": "00",
+      "kind": "별지",
+      "title": "도면대출(열람)기록부",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516829",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516829",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0037",
+      "filename": "별지37_도면대출(열람)기록부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0038",
+      "branch": "00",
+      "kind": "별지",
+      "title": "도면반납증",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516833",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516833",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0038",
+      "filename": "별지38_도면반납증.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0039",
+      "branch": "00",
+      "kind": "별지",
+      "title": "보호지역 출입자 통제부",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516837",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516837",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0039",
+      "filename": "별지39_보호지역 출입자 통제부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0040",
+      "branch": "00",
+      "kind": "별지",
+      "title": "방문증",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516841",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516841",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0040",
+      "filename": "별지40_방문증.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0041",
+      "branch": "00",
+      "kind": "별지",
+      "title": "방문자기록부",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516845",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516845",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0041",
+      "filename": "별지41_방문자기록부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0042",
+      "branch": "00",
+      "kind": "별지",
+      "title": "열쇠관리대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516849",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516849",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0042",
+      "filename": "별지42_열쇠관리대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0043",
+      "branch": "00",
+      "kind": "별지",
+      "title": "열쇠일일관리부",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516853",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516853",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0043",
+      "filename": "별지43_열쇠일일관리부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0044",
+      "branch": "00",
+      "kind": "별지",
+      "title": "열쇠수불대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516857",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516857",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0044",
+      "filename": "별지44_열쇠수불대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0045",
+      "branch": "00",
+      "kind": "별지",
+      "title": "삭제",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516861",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516861",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0045",
+      "filename": "별지45_삭제.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0046",
+      "branch": "00",
+      "kind": "별지",
+      "title": "데이터베이스 복제(복사)본 관리대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516865",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516865",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0046",
+      "filename": "별지46_데이터베이스 복제(복사)본 관리대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0047",
+      "branch": "00",
+      "kind": "별지",
+      "title": "공간정보목록 관리대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516869",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516869",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0047",
+      "filename": "별지47_공간정보목록 관리대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0048",
+      "branch": "00",
+      "kind": "별지",
+      "title": "공개제한 공간정보 신청서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516873",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516873",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0048",
+      "filename": "별지48_공개제한 공간정보 신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0049",
+      "branch": "00",
+      "kind": "별지",
+      "title": "공간정보자료 복제출력대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516877",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516877",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0049",
+      "filename": "별지49_공간정보자료 복제출력대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0050",
+      "branch": "00",
+      "kind": "별지",
+      "title": "보안진단부",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516881",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516881",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0050",
+      "filename": "별지50_보안진단부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0051",
+      "branch": "00",
+      "kind": "별지",
+      "title": "사무실 일일 보안점검부",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516887",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516887",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0051",
+      "filename": "별지51_사무실 일일 보안점검부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0052",
+      "branch": "00",
+      "kind": "별지",
+      "title": "보안교육일지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516891",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516891",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0052",
+      "filename": "별지52_보안교육일지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0053",
+      "branch": "00",
+      "kind": "별지",
+      "title": "보안진단결과",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516895",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516895",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0053",
+      "filename": "별지53_보안진단결과.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0054",
+      "branch": "00",
+      "kind": "별지",
+      "title": "해외출장자 등록부",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516899",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161516899",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "public:대구교통공사보안업무운용규정#BJ0054",
+      "filename": "별지54_해외출장자 등록부.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 73,
+    "by_category": {
+      "법령": 2,
+      "학칙공단": 11,
+      "별지": 54,
+      "별표": 6
+    },
+    "by_relation_type": {
+      "citation": 2,
+      "internal_ref": 11,
+      "appendix_ref": 60
+    },
+    "articles_total": 80,
+    "articles_with_relations": 35,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 19,
+    "appendices_count": 63,
+    "attachments_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/학칙공단/대구교통공사  보안업무운용규정"
+  },
+  "provision_id": "public:대구교통공사보안업무운용규정#DOC"
+}
