@@ -1,0 +1,1509 @@
+{
+  "law_id": "2100000271292",
+  "mst": "2100000271292",
+  "law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+  "law_abbr": "",
+  "law_type": "예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000271292",
+  "promulgation_no": "583",
+  "promulgation_date": "20251231",
+  "enforcement_date": "20260101",
+  "revision_date": "20251231",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국립과학수사연구원(기획전략과)",
+    "담당자명": "우수혜",
+    "행정규칙종류코드": "B0002",
+    "행정규칙명": "국립과학수사연구원 정보화 추진 및 운영 규정",
+    "발령일자": "20251231",
+    "행정규칙종류": "예규",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국립과학수사연구원",
+    "전화번호": "033-902-5091",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1741000",
+    "생성일자": "20260103",
+    "행정규칙ID": "2086407",
+    "시행일자": "20260101",
+    "담당부서기관코드": "1741598",
+    "발령번호": "583",
+    "행정규칙일련번호": "2100000271292",
+    "상위부처명": "행정안전부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정이유\n「국립과학수사연구원 정보화 추진 및 운영 규정」을 현행화함으로써 정보화 업무의 전문성을 강화하고, 관련 부서의 업무 효율성을 제고하고자 함\n◇ 주요내용\n○ 정보화위원회 설치 및 운영 등에 관한 사항(제4조, 제5조, 제6조)\n○ 정보화 추진계획 수립 및 정보화 업무 선정 등에 관한 사항(제7조, 제8조 등)\n○ 시설ㆍ장비 관련 비상대책 수립 및 장애처리에 관한 사항(제26조)",
+  "body": {
+    "format": "articles",
+    "article_count": 35,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조(목적) 이 규정은 국립과학수사연구원(이하 \"연구원\"이라 한다)의 정보화를 효율적으로 추진하기 위하여 정보화운영위원회 설치 및 운영, 정보화 계획수립ㆍ업무개발, 연구원 및 지방과학수사연구소(이하 \"지방연구소\"라 한다)에서 운영 중인 정보화 장비 및 정보자료 등의 관리절차, 보안 및 이용 등에 관한 사항을 규정한다. <개정 2017. 8. 23., 2022. 1. 3., 2025. 12. 31.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적용범위",
+        "chapter": "제1장 총칙",
+        "content": "제2조(적용범위) 연구원의 정보화와 관련된 장비의 도입설치ㆍ운영 관리ㆍ업무개발ㆍ보안ㆍ이용 등의 정보화 업무 전반에 대한 내용 및 자원 활용을 위하여 필요한 사항에 대하여 이 규정을 적용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "용어 정의",
+        "chapter": "제1장 총칙",
+        "content": "제3조(용어 정의) 이 규정에서 사용하는 용어의 정의는 다음과 같다.1. \"국립과학수사연구원정보화\"란 정보통신기반을 조성하고 다양한 정보를 생산ㆍ유통 또는 활용하여 과학수사분야의 감정 및 연구 활동을 가능하게 하거나 효율화를 도모하는 것을 말한다. <개정 2022. 1. 3.>2. \"정보통신\"이란 정보의 수집ㆍ가공ㆍ저장ㆍ검색ㆍ송신ㆍ수신 및 그 활용과 이에 관련되는 기기ㆍ기술ㆍ서비스 기타 정보화를 촉진하기 위한 일련의 활동과 수단을 말한다. <개정 2022. 1. 3.>3. \"정보자원\"이란 정보와 이와 관련되는 설비ㆍ기술ㆍ인력 및 자금 등 정보화에 필요한 자원을 말한다. <개정 2022. 1. 3.>4. \"정보시스템\"이라 함은 정보를 수집ㆍ가공ㆍ저장ㆍ검색하기 위한 기기 및 소프트웨어의 조직화된 체계를 말한다. <개정 2021. 1. 3..>5. <삭제 2017. 8. 23.>6. \"정보화담당관\"이란 연구원의 정보화업무를 총괄하는 부서의 장을 말한다. <개정 2017. 8. 23., 2022. 1. 3., 2025. 12. 31.>7. \"분임정보화담당관\"이란 지방연구소 및 자체 개발 시스템의 정보화업무를 담당하는 부서의 장을 말한다. <신설 2025. 12. 31.>8. \"정보화담당자\"란 연구원 및 지방연구소의 정보시스템 운영관리를 담당하는 자를 말한다. <개정 2022. 1. 3., 2025. 12. 31.>  <종전의 제7호에서 이동>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "정보화운영위원회의 설치 및 기능",
+        "chapter": "제2장 정보화운영위원회 설치 및 운영 <개정 2025. 12. 31.>",
+        "content": "제4조(정보화운영위원회의 설치 및 기능) ① 연구원 정보화와 관련된 사안들을 전문적ㆍ효율적으로 논의할 수 있는 정보화운영위원회(이하 \"위원회\"라 한다)를 둔다.② 위원회는 다음 각 호의 사항을 심의ㆍ의결한다.  <전문개정 2025. 12. 31.>1. 신규 정보화 개발 업무의 추진 여부에 관한 사항2. 정보화 업무 범위 및 기능에 관한 사항3. 국립과학수사연구원 감정정보관리시스템 기능개선, 추가 개발 등 운영에 관한 사항4. 그 밖에 효율적 정보화 업무 추진을 위하여 국립과학수사연구원장(이하 \"원장\"이라 한다)이 필요하다고 인정하는 사항[본조신설 2017. 8. 23.][종전의 제4조의2에서 이동]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제4조의2",
+            "line_text": "제4조(정보화운영위원회의 설치 및 기능) ① 연구원 정보화와 관련된 사안들을 전문적ㆍ효율적으로 논의할 수 있는 정보화운영위원회(이하 \"위원회\"라 한다)를 둔다.② 위원회는 다음 각 호의 사항을 심의ㆍ의결한다.  <전문개정 2025. 12. 31.>1. 신규 정보화 개발 업무의 추진 여부에 관한 사항2. 정보화 업무 범위 및 기능에 관한 사항3. 국립과학수사연구원 감정정보관리시스템 기능개선, 추가 개발 등 운영에 관한 사항4. 그 밖에 효율적 정보화 업무 추진을 위하여 국립과학수사연구원장(이하 \"원장\"이라 한다)이 필요하다고 인정하는 사항[본조신설 2017. 8. 23.][종전의 제4조의2에서 이동]",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "제4조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 정보화 추진 및 운영 규정/제4조의2",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0004",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0004_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0004"
+      },
+      {
+        "article_no": "제4조의2",
+        "article_title": "삭제",
+        "chapter": "제2장 정보화운영위원회 설치 및 운영 <개정 2025. 12. 31.>",
+        "content": "제4조의2 삭제 <2025. 12. 31.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0004_02"
+      },
+      {
+        "article_no": "제4조의3",
+        "article_title": "삭제",
+        "chapter": "제2장 정보화운영위원회 설치 및 운영 <개정 2025. 12. 31.>",
+        "content": "제4조의3 삭제 <2025. 12. 31.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0004_03"
+      },
+      {
+        "article_no": "제4조의4",
+        "article_title": "삭제",
+        "chapter": "제2장 정보화운영위원회 설치 및 운영 <개정 2025. 12. 31.>",
+        "content": "제4조의4 삭제 <2025. 12. 31.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0004_04"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "정보화운영위원회의 구성",
+        "chapter": "제2장 정보화운영위원회 설치 및 운영 <개정 2025. 12. 31.>",
+        "content": "제5조(정보화운영위원회의 구성) ① 정보화운영위원회는 위원장 1명, 당연직 위원을 포함하여 18명 이내의 위원으로 구성한다. <개정 2022. 1. 3.>② 위원장은 본원 과장(4급 상당 이상 직위를 갖는 연구관 및 서기관) 중 1인을 원장이 임명한다. <신설 2025. 12. 31.>③ 당연직 위원은 기획전략과 소속의 정보화담당자로 하되, 정보화 업무를 분야별로 나누어 담당할 수 있다. <개정 2025. 12. 31.>  <종전의 제2항에서 이동>④ 당연직이 아닌 위원은 5급 상당 이하의 소속 공무원 중에서 각 부서 및 지방연구소의 장의 추천을 받아 원장이 임명한다. <개정 2022. 1. 3.>  <종전의 제3항에서 이동>⑤ 위원장 및 당연직이 아닌 위원의 임기는 2년으로 하고, 업무의 일관성과 연속성을 유지하기 위하여 연임할 수 있다. <개정 2025. 12. 31.>  <종전의 제4항에서 이동>[본조신설 2017. 8. 23.][종전의 제4조의3에서 이동]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제4조의3",
+            "line_text": "제5조(정보화운영위원회의 구성) ① 정보화운영위원회는 위원장 1명, 당연직 위원을 포함하여 18명 이내의 위원으로 구성한다. <개정 2022. 1. 3.>② 위원장은 본원 과장(4급 상당 이상 직위를 갖는 연구관 및 서기관) 중 1인을 원장이 임명한다. <신설 2025. 12. 31.>③ 당연직 위원은 기획전략과 소속의 정보화담당자로 하되, 정보화 업무를 분야별로 나누어 담당할 수 있다. <개정 2025. 12. 31.>  <종전의 제2항에서 이동>④ 당연직이 아닌 위원은 5급 상당 이하의 소속 공무원 중에서 각 부서 및 지방연구소의 장의 추천을 받아 원장이 임명한다. <개정 2022. 1. 3.>  <종전의 제3항에서 이동>⑤ 위원장 및 당연직이 아닌 위원의 임기는 2년으로 하고, 업무의 일관성과 연속성을 유지하기 위하여 연임할 수 있다. <개정 2025. 12. 31.>  <종전의 제4항에서 이동>[본조신설 2017. 8. 23.][종전의 제4조의3에서 이동]",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "제4조의3",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 정보화 추진 및 운영 규정/제4조의3",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0005",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0004_03"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "정보화운영위원회의 운영",
+        "chapter": "제2장 정보화운영위원회 설치 및 운영 <개정 2025. 12. 31.>",
+        "content": "제6조(정보화운영위원회의 운영) ① 위원회의 회의는 위원장이 필요하다고 인정한 경우 수시로 개최할 수 있다. 다만, 긴급을 요하거나 대면회의 개최가 어려운 경우 서면회의로 대체할 수 있다.② 위원회의 사무는 기획전략과 소속의 정보화담당자가 처리한다. <개정 2025. 12. 31.>[본조신설 2017. 8. 23.][종전의 제4조의4에서 이동]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제4조의4",
+            "line_text": "제6조(정보화운영위원회의 운영) ① 위원회의 회의는 위원장이 필요하다고 인정한 경우 수시로 개최할 수 있다. 다만, 긴급을 요하거나 대면회의 개최가 어려운 경우 서면회의로 대체할 수 있다.② 위원회의 사무는 기획전략과 소속의 정보화담당자가 처리한다. <개정 2025. 12. 31.>[본조신설 2017. 8. 23.][종전의 제4조의4에서 이동]",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "제4조의4",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 정보화 추진 및 운영 규정/제4조의4",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0006",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0004_04"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "정보화 추진계획의 수립시행",
+        "chapter": "제3장 정보화 계획수립과 업무개발  <신설 2025. 12. 31.>",
+        "content": "제7조(정보화 추진계획의 수립시행) ① 원장은 정보화 추진을 위해 정보화 장비의 설치, 운영, 업무개발 및 보급, 이용에 관한 추진계획을 수립, 시행하여야 하며 필요시 관계 전문기관 또는 전문가의 자문과 협조를 구할 수 있다. <개정 2017. 8. 23., 2022. 1. 3., 2025. 12. 31.>② 정보화담당관은 다음 각 호의 업무를 수행하기 위하여 위원회의 심의를 요구할 수 있다. <신설 2025. 12. 31.>1. 정보화 관련 예규ㆍ제도 개선에 관한 사항2. 정보화 추진계획의 수립에 관한 사항3. 제4조제2항제3호에 따른 정보화 대상 업무에 관한 사항4. 정보화 관련 외주용역개발 사업계획에 관한 사항5. 정보시스템의 운영성과에 관한 사항6. 운영성과 심의결과에 따른 정보시스템의 통폐합ㆍ재개발ㆍ폐기에 관한 사항[종전의 제4조에서 이동]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "제4조제2항제3호",
+            "line_text": "",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 정보화 추진 및 운영 규정/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0007",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "정보화 업무의 선정",
+        "chapter": "제3장 정보화 계획수립과 업무개발  <신설 2025. 12. 31.>",
+        "content": "제8조(정보화 업무의 선정) ① 연구원 각 부서의 장 및 지방연구소의 장은 정보화 대상 업무를 발굴ㆍ선정하여 정보화담당관에게 업무개발(재개발을 포함한다)을 요청할 수 있다. <개정 2017. 8. 23., 2022. 1. 3., 2025. 12. 31.>② 정보화담당관은 접수된 개발업무의 추진여부를 심의 및 의결하도록 위원회에 요청한다.  <전문개정 2025. 12. 31.>③ 위원회 위원장은 요청받은 정보화 대상 업무 추진 여부를 확정하여 정보화담당관에게 전달하며, 정보화담당관은 해당 요청기관에 결과를 통보하여야 한다.  <전문개정 2025. 12. 31.>④ 정보화담당관은 제3항에 따라 확정된 업무에 대해 업무의 규모, 추진방법, 소요기간, 예산편성현황 및 유관기관과의 협의결과 등 다양한 사항을 고려하여 업무를 추진한다. <개정 2025. 12. 31.>⑤ 정보화담당관은 제3항에 따라 확정된 업무라도 그 필요성이 해소되었다고 인정되는 경우 정보화 대상 업무에서 제외할 수 있으며, 이 경우 제외된 업무와 그 사유를 관련 부서 및 기관에 통보하여야 한다. <개정 2025. 12. 31.>[본조신설 2017. 8. 23.][종전의 제5조에서 이동]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "제5조",
+            "line_text": "제8조(정보화 업무의 선정) ① 연구원 각 부서의 장 및 지방연구소의 장은 정보화 대상 업무를 발굴ㆍ선정하여 정보화담당관에게 업무개발(재개발을 포함한다)을 요청할 수 있다. <개정 2017. 8. 23., 2022. 1. 3., 2025. 12. 31.>② 정보화담당관은 접수된 개발업무의 추진여부를 심의 및 의결하도록 위원회에 요청한다.  <전문개정 2025. 12. 31.>③ 위원회 위원장은 요청받은 정보화 대상 업무 추진 여부를 확정하여 정보화담당관에게 전달하며, 정보화담당관은 해당 요청기관에 결과를 통보하여야 한다.  <전문개정 2025. 12. 31.>④ 정보화담당관은 제3항에 따라 확정된 업무에 대해 업무의 규모, 추진방법, 소요기간, 예산편성현황 및 유관기관과의 협의결과 등 다양한 사항을 고려하여 업무를 추진한다. <개정 2025. 12. 31.>⑤ 정보화담당관은 제3항에 따라 확정된 업무라도 그 필요성이 해소되었다고 인정되는 경우 정보화 대상 업무에서 제외할 수 있으며, 이 경우 제외된 업무와 그 사유를 관련 부서 및 기관에 통보하여야 한다. <개정 2025. 12. 31.>[본조신설 2017. 8. 23.][종전의 제5조에서 이동]",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 정보화 추진 및 운영 규정/제5조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0008",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "업무개발 절차",
+        "chapter": "제3장 정보화 계획수립과 업무개발  <신설 2025. 12. 31.>",
+        "content": "제9조(업무개발 절차) ① 정보화 업무개발은 다음의 각 단계별로 실시하여야 한다. 다만, 특수한 업무의 경우 각 단계를 병합 또는 생략할 수 있다.1. 업무의 실태 및 타당성 조사2. 업무분석 및 시스템 설계3. 프로그램 작성4. 병행처리 및 시험적용5. 문서화 및 업무개발결과 보고② 정보화 업무개발 단계의 일부 또는 전부를 외부 용역업체에 의뢰하여 외주용역개발로 추진할 수 있다. <신설 2017. 8. 23.>[종전의 제6조에서 이동]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "제6조",
+            "line_text": "제9조(업무개발 절차) ① 정보화 업무개발은 다음의 각 단계별로 실시하여야 한다. 다만, 특수한 업무의 경우 각 단계를 병합 또는 생략할 수 있다.1. 업무의 실태 및 타당성 조사2. 업무분석 및 시스템 설계3. 프로그램 작성4. 병행처리 및 시험적용5. 문서화 및 업무개발결과 보고② 정보화 업무개발 단계의 일부 또는 전부를 외부 용역업체에 의뢰하여 외주용역개발로 추진할 수 있다. <신설 2017. 8. 23.>[종전의 제6조에서 이동]",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 정보화 추진 및 운영 규정/제6조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0009",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "업무개발에 관한 협조",
+        "chapter": "제3장 정보화 계획수립과 업무개발  <신설 2025. 12. 31.>",
+        "content": "제10조(업무개발에 관한 협조) 정보화 업무개발을 위하여 해당 부서의 장은 업무개발에 필요한 각종 협의, 자료제출, 기술 및 예산지원 등에 적극적으로 협조하여야 한다.[종전의 제7조에서 이동]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "제7조",
+            "line_text": "제10조(업무개발에 관한 협조) 정보화 업무개발을 위하여 해당 부서의 장은 업무개발에 필요한 각종 협의, 자료제출, 기술 및 예산지원 등에 적극적으로 협조하여야 한다.[종전의 제7조에서 이동]",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 정보화 추진 및 운영 규정/제7조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0010",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "개발된 업무의 문서화 및 보고",
+        "chapter": "제3장 정보화 계획수립과 업무개발  <신설 2025. 12. 31.>",
+        "content": "제11조(개발된 업무의 문서화 및 보고) ① 업무개발 담당자는 업무개발 단계별로 업무 개발 진행상황을 보고해야 하며 업무개발이 완료되면 프로그램의 구성, 내용, 사용방법(필요한 경우에는 참고문헌) 등을 상세하게 문서화하고, 별지 제1호서식에 의한 정보화 업무개발결과 보고서에 관계 문서철을 첨부하여 보고하여야 한다.② 외주용역개발로 추진한 경우 제1항에 따른 문서화 및 정보화 업무개발결과 보고서는 외부 용역업체에서 제출한 해당 내용을 포함하는 산출물(전자문서)로 갈음할 수 있다. <신설 2017. 8. 23.>[종전의 제8조에서 이동]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "별지1",
+            "target_article_title": "정보화업무 개발 결과보고서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484407",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0011",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#BJ0001"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "제8조",
+            "line_text": "제11조(개발된 업무의 문서화 및 보고) ① 업무개발 담당자는 업무개발 단계별로 업무 개발 진행상황을 보고해야 하며 업무개발이 완료되면 프로그램의 구성, 내용, 사용방법(필요한 경우에는 참고문헌) 등을 상세하게 문서화하고, 별지 제1호서식에 의한 정보화 업무개발결과 보고서에 관계 문서철을 첨부하여 보고하여야 한다.② 외주용역개발로 추진한 경우 제1항에 따른 문서화 및 정보화 업무개발결과 보고서는 외부 용역업체에서 제출한 해당 내용을 포함하는 산출물(전자문서)로 갈음할 수 있다. <신설 2017. 8. 23.>[종전의 제8조에서 이동]",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 정보화 추진 및 운영 규정/제8조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0011",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0008"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "연구원 각 부서 및 지방연구소의 자체업무개발",
+        "chapter": "제3장 정보화 계획수립과 업무개발  <신설 2025. 12. 31.>",
+        "content": "제12조(연구원 각 부서 및 지방연구소의 자체업무개발) 연구원 각 부서 및 지방연구소의 장은 소관분야의 정보화 개발을 적극 추진하여야 하며 업무개발(자체개발 및 외주용역개발)을 하였을 경우에는 별지 제1호서식에 의한 정보화 업무개발결과 보고서를 정보화담당관에게 제출하여야 한다. <개정 2017. 8. 23., 2025. 12. 31.>[종전의 제9조에서 이동]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제12조",
+            "source_clause": "제12조",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "별지1",
+            "target_article_title": "정보화업무 개발 결과보고서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484407",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0012",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#BJ0001"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제12조",
+            "source_clause": "제12조",
+            "link_text": "제9조",
+            "line_text": "제12조(연구원 각 부서 및 지방연구소의 자체업무개발) 연구원 각 부서 및 지방연구소의 장은 소관분야의 정보화 개발을 적극 추진하여야 하며 업무개발(자체개발 및 외주용역개발)을 하였을 경우에는 별지 제1호서식에 의한 정보화 업무개발결과 보고서를 정보화담당관에게 제출하여야 한다. <개정 2017. 8. 23., 2025. 12. 31.>[종전의 제9조에서 이동]",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 정보화 추진 및 운영 규정/제9조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0012",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "프로그램의 등록과 수정 및 폐기",
+        "chapter": "제3장 정보화 계획수립과 업무개발  <신설 2025. 12. 31.>",
+        "content": "제13조(프로그램의 등록과 수정 및 폐기) 개발된 프로그램 또는 공동 활용이 가능한 프로그램의 효율적인 관리를 위하여 정보화담당자는 별지 제2호서식에 의한 프로그램 등록부를 수기 또는 전자적으로 작성하여 관리하여야 하며 등록된 프로그램을 수정할 때는 프로그램 등록부를 현행화하여 관리하여야 한다. <개정 2017. 8. 23., 2022. 1. 3.>[종전의 제10조에서 이동]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제13조",
+            "source_clause": "제13조",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "별지2",
+            "target_article_title": "프로그램 등록부",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484413",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0013",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#BJ0002"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조",
+            "source_clause": "제13조",
+            "link_text": "제10조",
+            "line_text": "제13조(프로그램의 등록과 수정 및 폐기) 개발된 프로그램 또는 공동 활용이 가능한 프로그램의 효율적인 관리를 위하여 정보화담당자는 별지 제2호서식에 의한 프로그램 등록부를 수기 또는 전자적으로 작성하여 관리하여야 하며 등록된 프로그램을 수정할 때는 프로그램 등록부를 현행화하여 관리하여야 한다. <개정 2017. 8. 23., 2022. 1. 3.>[종전의 제10조에서 이동]",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 정보화 추진 및 운영 규정/제10조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0013",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0010"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "프로그램 패키지 관리",
+        "chapter": "제3장 정보화 계획수립과 업무개발  <신설 2025. 12. 31.>",
+        "content": "제14조(프로그램 패키지 관리) 정보화담당자는 보유하고 있는 각종 프로그램 패키지에 대한 대장을 별지 제4호서식에 의하여 수기 또는 전자적으로 작성, 관리하여 패키지의 효율적인 이용을 할 수 있도록 하여야 한다. <개정 2017. 8. 23., 2022. 1. 3.>[종전의 제11조에서 이동]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제14조",
+            "source_clause": "제14조",
+            "link_text": "별지 제4호서식",
+            "line_text": "",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "별지4",
+            "target_article_title": "프로그램 패키지 관리대장",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484425",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0014",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#BJ0004"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제14조",
+            "source_clause": "제14조",
+            "link_text": "제11조",
+            "line_text": "제14조(프로그램 패키지 관리) 정보화담당자는 보유하고 있는 각종 프로그램 패키지에 대한 대장을 별지 제4호서식에 의하여 수기 또는 전자적으로 작성, 관리하여 패키지의 효율적인 이용을 할 수 있도록 하여야 한다. <개정 2017. 8. 23., 2022. 1. 3.>[종전의 제11조에서 이동]",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 정보화 추진 및 운영 규정/제11조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0014",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "정보화 장비설치",
+        "chapter": "제4장 정보화 장비 및 자료관리 <신설 2025. 12. 31.>",
+        "content": "제15조(정보화 장비설치) PC 및 프린터 등 사무용장비를 제외한 정보화 장비의 신ㆍ증설이 필요한 경우 해당부서 및 기관의 장은 정보화담당관에게 별지 제5호서식에 의한 정보화 장비 설치 협의서를 제출해야 하며 정보화담당관은 타당성 검토 후 설치여부 회신 및 이에 따르는 기술지원을 하여야 한다. <개정 2025. 12. 31.>[종전의 제12조에서 이동]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제15조",
+            "source_clause": "제15조",
+            "link_text": "별지 제5호서식",
+            "line_text": "",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "별지5",
+            "target_article_title": "정보화장비 설치 협의서",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484431",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0015",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#BJ0005"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제15조",
+            "source_clause": "제15조",
+            "link_text": "제12조",
+            "line_text": "제15조(정보화 장비설치) PC 및 프린터 등 사무용장비를 제외한 정보화 장비의 신ㆍ증설이 필요한 경우 해당부서 및 기관의 장은 정보화담당관에게 별지 제5호서식에 의한 정보화 장비 설치 협의서를 제출해야 하며 정보화담당관은 타당성 검토 후 설치여부 회신 및 이에 따르는 기술지원을 하여야 한다. <개정 2025. 12. 31.>[종전의 제12조에서 이동]",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 정보화 추진 및 운영 규정/제12조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0015",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0012"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "정보화 장비의 관리",
+        "chapter": "제4장 정보화 장비 및 자료관리 <신설 2025. 12. 31.>",
+        "content": "제16조(정보화 장비의 관리) ① <삭제 2017.08.23.>② 원장은 정보화장비의 효율적인 관리를 위하여 정보화담당관 또는 분임정보화담당관을 지정하여야 한다. <개정 2017. 8. 23., 2022. 1. 3., 2025. 12. 31.>③ 연구원 및 지방연구소의 장은 컴퓨터 소프트웨어 정품사용을 의무화하도록 조치를 취하고 수시로 자체점검을 실시하여야 한다. <개정 2017. 8. 23.>④ 정보망 및 정보화 장비에 장애가 발생하였을 경우 연구원 및 지방연구소 정보화담당자는 유지관리 담당기관에 통보하여 적절한 회복조치를 취하고 그 결과를 별지 제6호서식에 따라 기록하여 관리하고, 별지 제7호서식에 따른 관리대장에 등록관리하여야 한다. <개정 2017. 8. 23., 2022. 1. 3.>⑤ 리스계약에 의해 설치된 정보화 장비는 물품관리법에 따라 정부 소유물품에 준하여 관리ㆍ사용하여야 한다. 다만, 물품관리법상의 \"처분\"(불용결정, 관리전환, 매각, 양여, 대부, 해체, 폐기 등)은 할 수 없다.[종전의 제13조에서 이동]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제4항",
+            "link_text": "별지 제6호서식",
+            "line_text": "",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "별지6",
+            "target_article_title": "장애처리 결과보고서",
+            "appendix_no": "6",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484437",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0016",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#BJ0006"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제4항",
+            "link_text": "별지 제7호서식",
+            "line_text": "",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "별지7",
+            "target_article_title": "장애처리 관리대장",
+            "appendix_no": "7",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484443",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0016",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#BJ0007"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제16조",
+            "source_clause": "제16조",
+            "link_text": "제13조",
+            "line_text": "제16조(정보화 장비의 관리) ① <삭제 2017.08.23.>② 원장은 정보화장비의 효율적인 관리를 위하여 정보화담당관 또는 분임정보화담당관을 지정하여야 한다. <개정 2017. 8. 23., 2022. 1. 3., 2025. 12. 31.>③ 연구원 및 지방연구소의 장은 컴퓨터 소프트웨어 정품사용을 의무화하도록 조치를 취하고 수시로 자체점검을 실시하여야 한다. <개정 2017. 8. 23.>④ 정보망 및 정보화 장비에 장애가 발생하였을 경우 연구원 및 지방연구소 정보화담당자는 유지관리 담당기관에 통보하여 적절한 회복조치를 취하고 그 결과를 별지 제6호서식에 따라 기록하여 관리하고, 별지 제7호서식에 따른 관리대장에 등록관리하여야 한다. <개정 2017. 8. 23., 2022. 1. 3.>⑤ 리스계약에 의해 설치된 정보화 장비는 물품관리법에 따라 정부 소유물품에 준하여 관리ㆍ사용하여야 한다. 다만, 물품관리법상의 \"처분\"(불용결정, 관리전환, 매각, 양여, 대부, 해체, 폐기 등)은 할 수 없다.[종전의 제13조에서 이동]",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 정보화 추진 및 운영 규정/제13조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0016",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0013"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "정보화 장비 보호",
+        "chapter": "제4장 정보화 장비 및 자료관리 <신설 2025. 12. 31.>",
+        "content": "제17조(정보화 장비 보호) 정보화담당관 및 분임정보화담당관은 「정보통신보안규정」에 의거 전산실 및 통신실은 통제구역으로 설정하여야 하며 다음 각 호에 정하는 보호대책을 강구해야 한다. <개정 2017. 8. 23., 2022. 1. 3., 2025. 12. 31.>1. 장애 방지대책 및 해커ㆍ바이러스 등 외부로부터의 위해 방지대책 수립2. 비밀자료는 철제용기에 보관하고 보관 장치에 대한 안전지침 수립3. 전산실 관리책임자 및 자료, 장비별 취급자 지정운영4. 전산실 및 통신실의 출입은 출입 인가자에 한한다. 다만, 비인가자가 업무상 부득이한 사유로 출입하여야 할 경우에는 사전에 전산실 관리책임자의 승인을 얻어 담당자의 안내에 따라야 한다.[종전의 제14조에서 이동][제목개정 2025. 12. 31.]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제17조",
+            "source_clause": "제17조",
+            "link_text": "제14조",
+            "line_text": "제17조(정보화 장비 보호) 정보화담당관 및 분임정보화담당관은 「정보통신보안규정」에 의거 전산실 및 통신실은 통제구역으로 설정하여야 하며 다음 각 호에 정하는 보호대책을 강구해야 한다. <개정 2017. 8. 23., 2022. 1. 3., 2025. 12. 31.>1. 장애 방지대책 및 해커ㆍ바이러스 등 외부로부터의 위해 방지대책 수립2. 비밀자료는 철제용기에 보관하고 보관 장치에 대한 안전지침 수립3. 전산실 관리책임자 및 자료, 장비별 취급자 지정운영4. 전산실 및 통신실의 출입은 출입 인가자에 한한다. 다만, 비인가자가 업무상 부득이한 사유로 출입하여야 할 경우에는 사전에 전산실 관리책임자의 승인을 얻어 담당자의 안내에 따라야 한다.[종전의 제14조에서 이동][제목개정 2025. 12. 31.]",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "제14조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 정보화 추진 및 운영 규정/제14조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0017",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0014"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "정보화 자료 및 소프트웨어의 보존",
+        "chapter": "제4장 정보화 장비 및 자료관리 <신설 2025. 12. 31.>",
+        "content": "제18조(정보화 자료 및 소프트웨어의 보존) 연구원 및 지방연구소의 정보화담당자는 자료의 안전관리를 위하여 주기적으로 시스템과 자료에 대한 백업(Back-Up) 테이프를 작성하여 보관하여야 한다. <개정 2017. 8. 23., 2022. 1. 3.>[종전의 제15조에서 이동]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제18조",
+            "source_clause": "제18조",
+            "link_text": "제15조",
+            "line_text": "제18조(정보화 자료 및 소프트웨어의 보존) 연구원 및 지방연구소의 정보화담당자는 자료의 안전관리를 위하여 주기적으로 시스템과 자료에 대한 백업(Back-Up) 테이프를 작성하여 보관하여야 한다. <개정 2017. 8. 23., 2022. 1. 3.>[종전의 제15조에서 이동]",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 정보화 추진 및 운영 규정/제15조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0018",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0015"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "정보화 자료의 보존기간",
+        "chapter": "제4장 정보화 장비 및 자료관리 <신설 2025. 12. 31.>",
+        "content": "제19조(정보화 자료의 보존기간) 연구원 및 지방연구소에서 보유하고 있는 자료의 보존기간은 정부공문서 보존기간에 준한다. <개정 2017. 8. 23.>[종전의 제16조에서 이동]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제19조",
+            "source_clause": "제19조",
+            "link_text": "제16조",
+            "line_text": "제19조(정보화 자료의 보존기간) 연구원 및 지방연구소에서 보유하고 있는 자료의 보존기간은 정부공문서 보존기간에 준한다. <개정 2017. 8. 23.>[종전의 제16조에서 이동]",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "제16조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 정보화 추진 및 운영 규정/제16조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0019",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0016"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "자료의 보호",
+        "chapter": "제4장 정보화 장비 및 자료관리 <신설 2025. 12. 31.>",
+        "content": "제20조(자료의 보호) ① 연구원 및 지방연구소의 정보화담당자는 비인가자가 무단으로 정보화기기내에 수록된 자료를 수정, 파괴, 열람, 출력하지 못하도록 인증서 또는 권한부여 등 보호대책을 통해 정보시스템의 자료 접근권한을 제한하여야 한다. <개정 2017. 8. 23., 2022. 1. 3.>② 통신회선을 이용하여 자료를 송ㆍ수신하고자 할 때에는 자료 내용을 암호화 하여 송ㆍ수신하여야 한다.[종전의 제17조에서 이동]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제20조",
+            "source_clause": "제20조",
+            "link_text": "제17조",
+            "line_text": "제20조(자료의 보호) ① 연구원 및 지방연구소의 정보화담당자는 비인가자가 무단으로 정보화기기내에 수록된 자료를 수정, 파괴, 열람, 출력하지 못하도록 인증서 또는 권한부여 등 보호대책을 통해 정보시스템의 자료 접근권한을 제한하여야 한다. <개정 2017. 8. 23., 2022. 1. 3.>② 통신회선을 이용하여 자료를 송ㆍ수신하고자 할 때에는 자료 내용을 암호화 하여 송ㆍ수신하여야 한다.[종전의 제17조에서 이동]",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "제17조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 정보화 추진 및 운영 규정/제17조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0020",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0017"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "비밀자료의 관리 및 이용",
+        "chapter": "제4장 정보화 장비 및 자료관리 <신설 2025. 12. 31.>",
+        "content": "제21조(비밀자료의 관리 및 이용) 정보화담당관 또는 분임정보화담당관은 비밀자료의 안전관리를 위하여 비밀자료를 일반자료와 구분하여 정기 또는 수시로 백업하여 별도관리하고 비밀자료에 대해서는 행정지원과 비밀관리 대장에 등록하여 사용해야 한다. <개정 2017. 8. 23., 2022. 1. 3., 2025. 12. 31.>[종전의 제18조에서 이동]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제21조",
+            "source_clause": "제21조",
+            "link_text": "제18조",
+            "line_text": "제21조(비밀자료의 관리 및 이용) 정보화담당관 또는 분임정보화담당관은 비밀자료의 안전관리를 위하여 비밀자료를 일반자료와 구분하여 정기 또는 수시로 백업하여 별도관리하고 비밀자료에 대해서는 행정지원과 비밀관리 대장에 등록하여 사용해야 한다. <개정 2017. 8. 23., 2022. 1. 3., 2025. 12. 31.>[종전의 제18조에서 이동]",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "제18조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 정보화 추진 및 운영 규정/제18조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0021",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0018"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "비밀유지",
+        "chapter": "제4장 정보화 장비 및 자료관리 <신설 2025. 12. 31.>",
+        "content": "제22조(비밀유지) 정보화 장비의 운영ㆍ관리ㆍ이용자들은 업무상 지득한 비밀 내용을 임의로 누설하거나 정보로 제공하여서는 아니 된다.[종전의 제19조에서 이동]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제22조",
+            "source_clause": "제22조",
+            "link_text": "제19조",
+            "line_text": "제22조(비밀유지) 정보화 장비의 운영ㆍ관리ㆍ이용자들은 업무상 지득한 비밀 내용을 임의로 누설하거나 정보로 제공하여서는 아니 된다.[종전의 제19조에서 이동]",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "제19조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 정보화 추진 및 운영 규정/제19조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0022",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0019"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "홈페이지 개설",
+        "chapter": "제4장 정보화 장비 및 자료관리 <신설 2025. 12. 31.>",
+        "content": "제23조(홈페이지 개설) ① 인터넷 홈페이지를 개설할 때는 개설목적, 수록정보 등에 대하여 사전에 해당 부서장의 승인을 얻어야 하며 개설된 후에는 운영 담당자를 지정하고 개설결과를 원장에게 보고하여야 한다. <개정 2022. 1. 3.>② 인터넷 홈페이지 개설을 승인하기 전에 해당 부서의 장은 정보화담당관과 사전협의하여야 한다. <개정 2022. 1. 3., 2025. 12. 31.>[종전의 제20조에서 이동]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제23조",
+            "source_clause": "제23조",
+            "link_text": "제20조",
+            "line_text": "제23조(홈페이지 개설) ① 인터넷 홈페이지를 개설할 때는 개설목적, 수록정보 등에 대하여 사전에 해당 부서장의 승인을 얻어야 하며 개설된 후에는 운영 담당자를 지정하고 개설결과를 원장에게 보고하여야 한다. <개정 2022. 1. 3.>② 인터넷 홈페이지 개설을 승인하기 전에 해당 부서의 장은 정보화담당관과 사전협의하여야 한다. <개정 2022. 1. 3., 2025. 12. 31.>[종전의 제20조에서 이동]",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "제20조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 정보화 추진 및 운영 규정/제20조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0023",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0020"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "홈페이지 자료의 운영",
+        "chapter": "제4장 정보화 장비 및 자료관리 <신설 2025. 12. 31.>",
+        "content": "제24조(홈페이지 자료의 운영) ① 홈페이지는 24시간 운영을 원칙으로 하며 시스템 장애복구 등 홈페이지 운영을 중단해야 할 사유가 발생 시 사전에 해당부서장의 승인을 받아 운영을 중단할 수 있다.② 삭제③ 홈페이지 운영담당자는 자료의 최신화 및 발굴, 오류 점검에 대하여 해당부서에 자료를 요청할 수 있으며, 항상 최신의 자료가 제공될 수 있도록 운영하여야 한다.④ 삭제 <2025. 12. 31.>[종전의 제21조에서 이동]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제24조",
+            "source_clause": "제24조",
+            "link_text": "제21조",
+            "line_text": "제24조(홈페이지 자료의 운영) ① 홈페이지는 24시간 운영을 원칙으로 하며 시스템 장애복구 등 홈페이지 운영을 중단해야 할 사유가 발생 시 사전에 해당부서장의 승인을 받아 운영을 중단할 수 있다.② 삭제③ 홈페이지 운영담당자는 자료의 최신화 및 발굴, 오류 점검에 대하여 해당부서에 자료를 요청할 수 있으며, 항상 최신의 자료가 제공될 수 있도록 운영하여야 한다.④ 삭제 <2025. 12. 31.>[종전의 제21조에서 이동]",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "제21조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 정보화 추진 및 운영 규정/제21조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0024",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0021"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "감정정보관리시스템의 운영",
+        "chapter": "제4장 정보화 장비 및 자료관리 <신설 2025. 12. 31.>",
+        "content": "제25조(감정정보관리시스템의 운영) ① 원장은 연구원의 효율적인 감정업무처리를 지원하기 위하여 감정정보관리시스템(이하 \"NFIS\"라 한다)을 운영할 수 있다. <개정 2022. 1. 3.>② NFIS 계정(ID)을 부여받아 사용하고자 하는 자는 별지 제8호서식에 따른 신청서와 별지 제9호서식에 따른 보안서약서를 수기 또는 전자적으로 작성하여 신청하여야 한다. <개정 2022. 1. 3.>③ NFIS의 이용자는 이용상의 장애처리, 기술지원 등이 필요한 경우 동 시스템 내의 장애처리 게시판을 이용하여 요청하는 것을 원칙으로 한다. <개정 2022. 1. 3.>④ 감정정보관리시스템의 감정유형에 관한 기준은 「국립과학수사연구원 감정절차 규정」 별표 1에 따른다. <개정 2022. 1. 3.>[본조신설 2017. 8. 23.][종전의 제22조에서 이동]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제25조",
+            "source_clause": "제25조제2항",
+            "link_text": "별지 제8호서식",
+            "line_text": "",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "별지8",
+            "target_article_title": "감정정보관리시스템 사용 신청서",
+            "appendix_no": "8",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484451",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0025",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#BJ0008"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제25조",
+            "source_clause": "제25조제2항",
+            "link_text": "별지 제9호서식",
+            "line_text": "",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "별지9",
+            "target_article_title": "감정정보관리시스템 보안서약서",
+            "appendix_no": "9",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484457",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0025",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#BJ0009"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제25조",
+            "source_clause": "제25조제4항",
+            "link_text": "「국립과학수사연구원 감정절차 규정」",
+            "line_text": "",
+            "target_law_name": "국립과학수사연구원 감정절차 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 감정절차 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0025",
+            "reference_id": "admrul:국립과학수사연구원감정절차규정#DOC"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제25조",
+            "source_clause": "제25조제4항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "국립과학수사연구원 감정절차 규정",
+            "target_article_no": "별표1",
+            "target_article_title": "",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": false,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국립과학수사연구원 감정절차 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0025",
+            "reference_id": "law:국립과학수사연구원감정절차규정#BYL0001"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제25조",
+            "source_clause": "제25조",
+            "link_text": "제22조",
+            "line_text": "제25조(감정정보관리시스템의 운영) ① 원장은 연구원의 효율적인 감정업무처리를 지원하기 위하여 감정정보관리시스템(이하 \"NFIS\"라 한다)을 운영할 수 있다. <개정 2022. 1. 3.>② NFIS 계정(ID)을 부여받아 사용하고자 하는 자는 별지 제8호서식에 따른 신청서와 별지 제9호서식에 따른 보안서약서를 수기 또는 전자적으로 작성하여 신청하여야 한다. <개정 2022. 1. 3.>③ NFIS의 이용자는 이용상의 장애처리, 기술지원 등이 필요한 경우 동 시스템 내의 장애처리 게시판을 이용하여 요청하는 것을 원칙으로 한다. <개정 2022. 1. 3.>④ 감정정보관리시스템의 감정유형에 관한 기준은 「국립과학수사연구원 감정절차 규정」 별표 1에 따른다. <개정 2022. 1. 3.>[본조신설 2017. 8. 23.][종전의 제22조에서 이동]",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "제22조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 정보화 추진 및 운영 규정/제22조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0025",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0022"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0025"
+      },
+      {
+        "article_no": "제26조",
+        "article_title": "비상대책 및 장애처리",
+        "chapter": "제4장 정보화 장비 및 자료관리 <신설 2025. 12. 31.>",
+        "content": "제26조(비상대책 및 장애처리) ① 정보화담당관 및 분임정보화담당관은 정보시스템 등 주요 시설 및 장비(이하 이 조에서 \"시설ㆍ장비\"라 한다)에 대한 상시점검체계를 유지하여 자연적ㆍ인위적 재해로부터 시설ㆍ장비가 정상적으로 운영될 수 있도록 관리하여야 한다.② 정보화담당관 및 분임정보화담당관은 시설ㆍ장비에 대한 장애발생 시 신속한 원인분석과 재해복구를 통해 업무 연속성을 유지할 수 있도록 비상 시 업무처리계획을 수립하여야 한다.③ 정보화담당관 및 분임정보화담당관은 시설ㆍ장비에 대한 장애복구 시 유지보수업체 등의 지원이 필요한 경우 유지보수업체 등에 장애상황 및 지원요청 사항 등을 통보하여 복구조치가 신속하게 이루어지도록 하여야 한다.④ 정보시스템이 원격지 정보화 장비에서 위탁 운영되는 경우에는 수탁 기관의 비상대책 및 장애처리 규정에 따른다.[본조신설 2025. 12. 31.]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0026"
+      },
+      {
+        "article_no": "제27조",
+        "article_title": "게시물의 삭제",
+        "chapter": "제5장 정보망의 이용 <개정 2025. 12. 31.>",
+        "content": "제27조 (게시물의 삭제) 정보화담당관은 홈페이지 및 NFIS(업무포털 포함) 등 게시판에 등록된 게시물 중 다음 각 호에 해당하는 경우 삭제할 수 있다. <신설 2022. 1. 3., 개정 2025. 12. 31.>1. 법령에 규정된 공무원의 의무를 위반하는 내용이 포함된 게시물2. 특정기관, 단체, 부서를 근거없이 비난하는 경우3. 개인의 명예훼손, 상호비방 등 인권침해 관련 내용이 포함된 게시물4. 주민등록번호 등 개인정보 유출이 우려되는 내용이 포함된 게시물5. 실명을 원칙으로 하는 게시물에 실명을 사용하지 않은 경우6. 광고, 음란물 등 업무와 무관한 내용이 포함된 게시물7. 시스템 이용에 불편을 초래할 정도의 대용량 파일이 포함된 게시물8. 동일하거나 유사한 내용을 정당한 이유없이 반복하여 게시하는 경우9. 게시자가 자신이 입력한 게시물의 삭제를 요구한 경우10. 최초 등록 후 3년이 경과하고 최근 3개월 이내에 이용자가 없는 게시물11. 그 밖에 해당 게시판의 개설취지와 부합하지 않는 경우[종전의 제23조에서 이동]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제27조",
+            "source_clause": "제27조",
+            "link_text": "제23조",
+            "line_text": "제27조 (게시물의 삭제) 정보화담당관은 홈페이지 및 NFIS(업무포털 포함) 등 게시판에 등록된 게시물 중 다음 각 호에 해당하는 경우 삭제할 수 있다. <신설 2022. 1. 3., 개정 2025. 12. 31.>1. 법령에 규정된 공무원의 의무를 위반하는 내용이 포함된 게시물2. 특정기관, 단체, 부서를 근거없이 비난하는 경우3. 개인의 명예훼손, 상호비방 등 인권침해 관련 내용이 포함된 게시물4. 주민등록번호 등 개인정보 유출이 우려되는 내용이 포함된 게시물5. 실명을 원칙으로 하는 게시물에 실명을 사용하지 않은 경우6. 광고, 음란물 등 업무와 무관한 내용이 포함된 게시물7. 시스템 이용에 불편을 초래할 정도의 대용량 파일이 포함된 게시물8. 동일하거나 유사한 내용을 정당한 이유없이 반복하여 게시하는 경우9. 게시자가 자신이 입력한 게시물의 삭제를 요구한 경우10. 최초 등록 후 3년이 경과하고 최근 3개월 이내에 이용자가 없는 게시물11. 그 밖에 해당 게시판의 개설취지와 부합하지 않는 경우[종전의 제23조에서 이동]",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "제23조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 정보화 추진 및 운영 규정/제23조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0027",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0023"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0027"
+      },
+      {
+        "article_no": "제28조",
+        "article_title": "이용범위",
+        "chapter": "제5장 정보망의 이용 <개정 2025. 12. 31.>",
+        "content": "제28조(이용범위) 정보망을 이용할 수 있는 범위는 연구원 및 지방연구소에 근무하는 자와 원장이 승인 하는 자로 한다. <개정 2017. 8. 23., 2022. 1. 3.>[종전의 제24조에서 이동]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제28조",
+            "source_clause": "제28조",
+            "link_text": "제24조",
+            "line_text": "제28조(이용범위) 정보망을 이용할 수 있는 범위는 연구원 및 지방연구소에 근무하는 자와 원장이 승인 하는 자로 한다. <개정 2017. 8. 23., 2022. 1. 3.>[종전의 제24조에서 이동]",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "제24조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 정보화 추진 및 운영 규정/제24조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0028",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0024"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0028"
+      },
+      {
+        "article_no": "제29조",
+        "article_title": "이용자 등록",
+        "chapter": "제5장 정보망의 이용 <개정 2025. 12. 31.>",
+        "content": "제29조(이용자 등록) ① 각 부서의 장은 소속 직원 중 정보망을 이용(신규, 변경)하고자 하는 직원이 있을 때는 별지 제10호서식에 따라 신청서를 작성하여 정보화담당관에게 신청하여야 하며 정보화담당관은 처리 후 그 결과를 해당 부서의 장에게 알려야 한다. <신설 2017. 8. 23., 개정 2022. 1. 3., 2025. 12. 31.>② 삭제③ 삭제④ 제28조에 따라 원장이 승인한 자는 정보망을 이용하고자 하는 경우 제1항에 따른 신청서와 원장의 승인문서를 함께 제출하여야한다. <신설 2017. 8. 23., 개정 2022. 1. 3., 2025. 12. 31.>[종전의 제25조에서 이동]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제29조",
+            "source_clause": "제29조제1항",
+            "link_text": "별지 제10호서식",
+            "line_text": "",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "별지10",
+            "target_article_title": "네트워크 이용 신청서",
+            "appendix_no": "10",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484463",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0029",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#BJ0010"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제29조",
+            "source_clause": "제29조제4항",
+            "link_text": "제28조",
+            "line_text": "",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "제28조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 정보화 추진 및 운영 규정/제28조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0029",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0028"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제29조",
+            "source_clause": "제29조",
+            "link_text": "제25조",
+            "line_text": "제29조(이용자 등록) ① 각 부서의 장은 소속 직원 중 정보망을 이용(신규, 변경)하고자 하는 직원이 있을 때는 별지 제10호서식에 따라 신청서를 작성하여 정보화담당관에게 신청하여야 하며 정보화담당관은 처리 후 그 결과를 해당 부서의 장에게 알려야 한다. <신설 2017. 8. 23., 개정 2022. 1. 3., 2025. 12. 31.>② 삭제③ 삭제④ 제28조에 따라 원장이 승인한 자는 정보망을 이용하고자 하는 경우 제1항에 따른 신청서와 원장의 승인문서를 함께 제출하여야한다. <신설 2017. 8. 23., 개정 2022. 1. 3., 2025. 12. 31.>[종전의 제25조에서 이동]",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "제25조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 정보화 추진 및 운영 규정/제25조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0029",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0025"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0029"
+      },
+      {
+        "article_no": "제30조",
+        "article_title": "이용장소",
+        "chapter": "제5장 정보망의 이용 <개정 2025. 12. 31.>",
+        "content": "제30조(이용장소) 정보망의 이용은 부서별 및 지방연구소의 장비를 사용하는 것을 원칙으로 하되, 다음의 경우는 전산실의 장비를 사용할 수 있다. <개정 2017. 8. 23.>1. 정보화조직이 설치되어 있지 않은 부서 또는 지방연구소 <개정 2022. 1. 3.>2. 업무량 과다로 자체 정보화조직을 이용할 수 없을 때 <개정 2022. 1. 3.>3. 부서별 또는 지방연구소의 정보화조직으로 처리할 수 없는 대형업무 <개정 2017. 8. 23., 2022. 1. 3.>[종전의 제26조에서 이동]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제30조",
+            "source_clause": "제30조",
+            "link_text": "제26조",
+            "line_text": "제30조(이용장소) 정보망의 이용은 부서별 및 지방연구소의 장비를 사용하는 것을 원칙으로 하되, 다음의 경우는 전산실의 장비를 사용할 수 있다. <개정 2017. 8. 23.>1. 정보화조직이 설치되어 있지 않은 부서 또는 지방연구소 <개정 2022. 1. 3.>2. 업무량 과다로 자체 정보화조직을 이용할 수 없을 때 <개정 2022. 1. 3.>3. 부서별 또는 지방연구소의 정보화조직으로 처리할 수 없는 대형업무 <개정 2017. 8. 23., 2022. 1. 3.>[종전의 제26조에서 이동]",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "제26조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 정보화 추진 및 운영 규정/제26조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0030",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0026"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0030"
+      },
+      {
+        "article_no": "제31조",
+        "article_title": "이용시간ㆍ절차",
+        "chapter": "제6장 보칙 <신설 25. 12. 31.>",
+        "content": "제31조(이용시간ㆍ절차) ① 정보망을 이용할 수 있는 시간은 24시간을 원칙으로 하며 시스템 장애복구 및 변경(증설, 업그레이드, 이전 등)작업 또는 원장이 정하는 특정일에는 정보망 이용을 중단할 수 있다. <개정 2022. 1. 3.>② 자료입력은 이용자 자신이 직접 처리하는 것을 원칙으로 하되 부서별 또는 지방연구소 정보망으로 입력할 수 없는 대량자료는 정보화담당자에게 입력을 요청할 수 있다. <개정 2022. 1. 3.>[종전의 제27조에서 이동]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제31조",
+            "source_clause": "제31조",
+            "link_text": "제27조",
+            "line_text": "제31조(이용시간ㆍ절차) ① 정보망을 이용할 수 있는 시간은 24시간을 원칙으로 하며 시스템 장애복구 및 변경(증설, 업그레이드, 이전 등)작업 또는 원장이 정하는 특정일에는 정보망 이용을 중단할 수 있다. <개정 2022. 1. 3.>② 자료입력은 이용자 자신이 직접 처리하는 것을 원칙으로 하되 부서별 또는 지방연구소 정보망으로 입력할 수 없는 대량자료는 정보화담당자에게 입력을 요청할 수 있다. <개정 2022. 1. 3.>[종전의 제27조에서 이동]",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "제27조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 정보화 추진 및 운영 규정/제27조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0031",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0027"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0031"
+      },
+      {
+        "article_no": "제32조",
+        "article_title": "운영세칙",
+        "chapter": "제6장 보칙 <신설 25. 12. 31.>",
+        "content": "제32조(운영세칙) 정보화담당부서에는 원활한 업무 수행과 정보화 장비 보호를 위해 별도의 정보 보안 업무 지침을 둘 수 있다. <개정 2022. 1. 3.>[종전의 제28조에서 이동]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제32조",
+            "source_clause": "제32조",
+            "link_text": "제28조",
+            "line_text": "제32조(운영세칙) 정보화담당부서에는 원활한 업무 수행과 정보화 장비 보호를 위해 별도의 정보 보안 업무 지침을 둘 수 있다. <개정 2022. 1. 3.>[종전의 제28조에서 이동]",
+            "target_law_name": "국립과학수사연구원 정보화 추진 및 운영 규정",
+            "target_article_no": "제28조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 정보화 추진 및 운영 규정/제28조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0032",
+            "reference_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0028"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#JO0032"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20131118",
+      "promulgation_no": "106",
+      "content": "부칙 <제106호,2013. 11. 18.>이 규정은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20170823",
+      "promulgation_no": "232",
+      "content": "부칙 <제232호,2017. 8. 23.>이 규정은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20180316",
+      "promulgation_no": "257",
+      "content": "부칙 <제257호,2018. 3. 16.>이 규정은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20220103",
+      "promulgation_no": "417",
+      "content": "부칙 <제417호, 2022. 1. 3.>이 규정은 2022년 1월 3일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20220222",
+      "promulgation_no": "479",
+      "content": "부칙 <제479호, 2022. 2. 22.>이 규정은 2022년 2월 22일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20251231",
+      "promulgation_no": "583",
+      "content": "부칙 <제583호, 2025. 12. 31.>이 규정은 2026년 1월 1일부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "정보화업무 개발 결과보고서",
+      "enforcement_date": "",
+      "content": "■ 국립과학수사연구원 정보화 추진 및 운영 규정 [별지 제1호서식]\n정 보 화 업 무 개 발 결 과 보 고 서\n1. 목     적\n2. 업무개발자\n3. 업무개발 추진내용\n4. 시스템 분석 및 설계내용\n가. 업무개요\n나. 시스템 흐름도\n다. 코드에 관한 설명\n라. 입출력 현황\n마. 프로그램 현황\n5. 전산처리 내용\n가. 개    요\n나. 업무별 흐름도 및 원시 프로그램 리스트\n다. 파일에 관한 설명\n라. 시험처리결과\n6. 운영상의 문제점 및 처리방안\n7. 기대효과",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484407",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484403",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484407",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#BJ0001",
+      "filename": "별지1_정보화업무 개발 결과보고서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "프로그램 등록부",
+      "enforcement_date": "",
+      "content": "■ 국립과학수사연구원 정보화 추진 및 운영 규정 [별지 제2호서식]\n프 로 그 램 등 록 부\n┏━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━┑\n┃등록번호 :          │업무명 :                                      │\n┣━━━━━━━━━━┷━━━━━━━┯━━━━━━━━━━━━━━━┪\n┃프로그램명 :                        │사용언어 :                    ┃\n┠─────────┬───────┬┴───┬───────────┨\n┃개발자 :          │개발일시 :    │크 기 : │스텝수 :              ┃\n┠─────────┴───────┴────┴───────────┨\n┃수    정    사    항                                                ┃\n┠────┬───┬───┬───┬──────────────┬──┨\n┃담당관  │담당자│ 일 시│수정자│     주  요  수  정  내  용 │날인┃\n┠────┼───┼───┼───┼──────────────┼──┨\n┃        │      │      │      │                            │    ┃\n┠────┼───┼───┼───┼──────────────┼──┨\n┃        │      │      │      │                            │    ┃\n┠────┼───┼───┼───┼──────────────┼──┨\n┃        │      │      │      │                            │    ┃\n┠────┼───┼───┼───┼──────────────┼──┨\n┃        │      │      │      │                            │    ┃\n┠────┼───┼───┼───┼──────────────┼──┨\n┃        │      │      │      │                            │    ┃\n┠────┼───┼───┼───┼──────────────┼──┨\n┃        │      │      │      │                            │    ┃\n┠────┼───┼───┼───┼──────────────┼──┨\n┃        │      │      │      │                            │    ┃\n┠────┼───┼───┼───┼──────────────┼──┨\n┃        │      │      │      │                            │    ┃\n┠────┼───┼───┼───┼──────────────┼──┨\n┃        │      │      │      │                            │    ┃\n┠────┼───┼───┼───┼──────────────┼──┨\n┃        │      │      │      │                            │    ┃\n┠────┼───┼───┼───┼──────────────┼──┨\n┃        │      │      │      │                            │    ┃\n┠────┼───┼───┼───┼──────────────┼──┨\n┃        │      │      │      │                            │    ┃\n┠────┼───┼───┼───┼──────────────┼──┨\n┃        │      │      │      │                            │    ┃\n┠────┼───┼───┼───┼──────────────┼──┨\n┃        │      │      │      │                            │    ┃\n┠────┼───┼───┼───┼──────────────┼──┨\n┃        │      │      │      │                            │    ┃\n┠────┼───┼───┼───┼──────────────┼──┨\n┃        │      │      │      │                            │    ┃\n┠────┼───┼───┼───┼──────────────┼──┨\n┃        │      │      │      │                            │    ┃\n┖────┴───┴───┴───┴──────────────┴──┚\n210mm×297mm[백상지(80g/㎡)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484413",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484409",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484413",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#BJ0002",
+      "filename": "별지2_프로그램 등록부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "삭제",
+      "enforcement_date": "",
+      "content": "■ 국립과학수사연구원 정보화 추진 및 운영 규정 [별지 제3호서식]<삭제 2017.08.23.>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484419",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484415",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484419",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#BJ0003",
+      "filename": "별지3_삭제.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "프로그램 패키지 관리대장",
+      "enforcement_date": "",
+      "content": "■ 국립과학수사연구원 정보화 추진 및 운영 규정 [별지 제4호서식]\n프 로 그 램 패 키 지 관 리 대 장\n┏┯┯┯━━┓\n┃│││ 결 ┃\n┠┼┼┤    ┃\n┃│││ 재 ┃\n┗┷┷┷━━┛\n┏━━━━━━━━━━┯━━━━━━━━━┓\n┃ 패키지명 :         │ 도입선 및 기관 : ┃\n┠──────────┼─────────┨\n┃ 도입방법 및 가격 : │ 구성언어 :       ┃\n┠──────────┼─────────┨\n┃ 프로그램수 :       │ 프로그램 관리자 :┃\n┠──────────┴─────────┨\n┃주        요        내        용        ┃\n┣━━━━━━━━━━━━━━━━━━━━┫\n┃                                        ┃\n┗━━━━━━━━━━━━━━━━━━━━┛\n210mm×297mm[백상지(80g/㎡)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484425",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484421",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484425",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#BJ0004",
+      "filename": "별지4_프로그램 패키지 관리대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별지",
+      "title": "정보화장비 설치 협의서",
+      "enforcement_date": "",
+      "content": "■ 국립과학수사연구원 정보화 추진 및 운영 규정 [별지 제5호서식]\n정 보 화 장 비 설 치 협 의 서\n1. 설치 목적\n2. 설치 기종 및 기기규모(구성도 포함)\n3. 도입 방법 및 금액\n4. 국내외 전산망과의 접속방법 및 호환성 검토결과\n5. 사용 운영체제 및 소프트웨어 내용\n6. 주전산조직과의 접속방법 및 호환성 검토결과\n7. 향후 발전계획\n8. 기타 특이사항",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484431",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484427",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484431",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#BJ0005",
+      "filename": "별지5_정보화장비 설치 협의서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별지",
+      "title": "장애처리 결과보고서",
+      "enforcement_date": "",
+      "content": "■ 국립과학수사연구원 정보화 추진 및 운영 규정 [별지 제6호서식]\n장애처리 결과보고서\n┌────┬─────────┐\n│유지보수│결 재 자          │\n├────┼───┬──┬──┤\n│담당자  │담당자│팀장│과장│\n├────┼───┼──┼──┤\n│        │      │    │    │\n└────┴───┴──┴──┘\n[장애번호 :                ]\n┌──────┬───────────────────────┐\n│장애제목    │                                              │\n├──────┼─────┬────┬┬────┬──────┤\n│접수일시    │          │발생일시││완료일시│            │\n├──────┼─────┴────┴┴────┴──────┤\n│처리상태    │ □ 해결 □ 임시조치 □ 미해결                │\n├──────┼──────┬─────┬──────────┤\n│장애 처리자 │업체명      │이름      │연락처              │\n│            ├──────┼─────┼──────────┤\n│            │            │          │                    │\n├──────┼──────┴─────┴──────────┤\n│장애유형    │ □ H/W  □ S/W  □ 통신  □ 정보부족  □ 기타│\n├──────┼───────────────────────┤\n│장애증상    │                                              │\n├──────┼───────────────────────┤\n│장애원인    │                                              │\n├──────┼────┬──────────────────┤\n│조치사항    │조치시간│조치내용                            │\n│            ├────┼──────────────────┤\n│            │        │                                    │\n├──────┼────┴──────────────────┤\n│향후대책    │                                              │\n└──────┴───────────────────────┘\n210mm×297mm[백상지(80g/㎡)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484437",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484433",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484437",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#BJ0006",
+      "filename": "별지6_장애처리 결과보고서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "별지",
+      "title": "장애처리 관리대장",
+      "enforcement_date": "",
+      "content": "■ 국립과학수사연구원 정보화 추진 및 운영 규정 [별지 제7호서식]\n장애처리 관리대장\n┌──┬────┬──┬──┬────┬───┐\n│일련│장애번호│장애│내용│조치사항│처리  │\n│번호│        │유형│    │        │담당자│\n├──┼────┼──┼──┼────┼───┤\n│    │        │    │    │        │      │\n├──┼────┼──┼──┼────┼───┤\n│    │        │    │    │        │      │\n├──┼────┼──┼──┼────┼───┤\n│    │        │    │    │        │      │\n├──┼────┼──┼──┼────┼───┤\n│    │        │    │    │        │      │\n├──┼────┼──┼──┼────┼───┤\n│    │        │    │    │        │      │\n├──┼────┼──┼──┼────┼───┤\n│    │        │    │    │        │      │\n├──┼────┼──┼──┼────┼───┤\n│    │        │    │    │        │      │\n├──┼────┼──┼──┼────┼───┤\n│    │        │    │    │        │      │\n├──┼────┼──┼──┼────┼───┤\n│    │        │    │    │        │      │\n├──┼────┼──┼──┼────┼───┤\n│    │        │    │    │        │      │\n├──┼────┼──┼──┼────┼───┤\n│    │        │    │    │        │      │\n├──┼────┼──┼──┼────┼───┤\n│    │        │    │    │        │      │\n├──┼────┼──┼──┼────┼───┤\n│    │        │    │    │        │      │\n├──┼────┼──┼──┼────┼───┤\n│    │        │    │    │        │      │\n├──┼────┼──┼──┼────┼───┤\n│    │        │    │    │        │      │\n├──┼────┼──┼──┼────┼───┤\n│    │        │    │    │        │      │\n├──┼────┼──┼──┼────┼───┤\n│    │        │    │    │        │      │\n├──┼────┼──┼──┼────┼───┤\n│    │        │    │    │        │      │\n├──┼────┼──┼──┼────┼───┤\n│    │        │    │    │        │      │\n├──┼────┼──┼──┼────┼───┤\n│    │        │    │    │        │      │\n├──┼────┼──┼──┼────┼───┤\n│    │        │    │    │        │      │\n├──┼────┼──┼──┼────┼───┤\n│    │        │    │    │        │      │\n└──┴────┴──┴──┴────┴───┘\n210mm×297mm[백상지(80g/㎡)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484443",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484439",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484443",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#BJ0007",
+      "filename": "별지7_장애처리 관리대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0008",
+      "branch": "00",
+      "kind": "별지",
+      "title": "감정정보관리시스템 사용 신청서",
+      "enforcement_date": "",
+      "content": "■ 국립과학수사연구원 정보화 추진 및 운영 규정 [별지 제8호서식]\n┌─────────────────────────────────────────────────┐\n│감정정보관리시스템 사용 신청서                                                                    │\n├───────┬───────────┬─────────────────────────────┤\n│신청인        │성명                  │온나라 ID                                                 │\n│              │                      │                                                          │\n│              ├───────────┼─────────────────────────────┤\n│              │소속(기관-부서-실)    │직급                                                      │\n│              │                      │                                                          │\n│              │                      │※ 파견, 임기제 등 근무기간 : < 201 .  .  .~ 201 .  .  .> │\n│              ├───────────┼─────────────────────────────┤\n│              │사무실 전화번호       │직위                                                      │\n│              │                      │                                                          │\n│              ├───────────┼─────────────────────────────┤\n│              │휴대폰 번호(선택항목) │팩스번호(선택항목)                                        │\n│              │                      │                                                          │\n│              ├───────────┴─────────────────────────────┤\n│              │신청 ID                                                                           │\n│              │                                                                                  │\n│              │※ 영문자로 시작, 영ㆍ숫자나’-’만을 조합해서 6자∼10자 이내로 작성해 주십시오.  │\n│              │※ 초기 비밀번호는”nfs1”입니다. 개인설정 메뉴에서 변경하시기 바랍니다.          │\n├───────┴─────────────────────────────────────────┤\n│                                                                                                  │\n├───────┬─────────────────────────────────────────┤\n│활용업무      │ [  ]감정서 작성  [  ]일반접수권한  [  ]부검접수권한  [  ]검안접수권한            │\n│              │ [  ]서무권한(과마스터)   [  ]행정지원업무   [  ]인사담당권한                     │\n├───────┴─────────────────────────────────────────┤\n│                                                                                                  │\n├───────┬─────────────────────────────────────────┤\n│개인정보 수집 │▣ 개인정보 수집ㆍ이용에 관한 사항                                                │\n│ㆍ이용ㆍ제공  │  감정정보관리시스템(NFIS) 서비스 및 유지보수의 목적으로 아래와 같이 개인         │\n│              │정보를 수집ㆍ이용함을 알려드립니다.                                               │\n│              │                                                                                  │\n│              │ ○ 개인정보의 수집 및 이용 목적: 사용자 정보 확인 및 온-나라 시스템 연계         │\n│              │ ○ 수집 및 이용 항목:                                                            │\n│              │   - 필수항목: NFIS ID, 온나라 ID, 성명, 소속, 직급, 직위, 사무실 전화번호        │\n│              │   - 선택항목: 휴대폰 번호, 팩스번호                                              │\n│              │ ○ 개인정보의 보유 및 이용 기간: 행정안전부 재직 기간(파견ㆍ지원근무 기간)       │\n│              │ ○ 동의거부 권리 및 불이익 내용                                                  │\n│              │   개인정보의 수집ㆍ이용에 대한 동의를 거부하실 수 있으며, 동의하지 않을 경우     │\n│              │감정정보관리시스템(NFIS) 이용이 제한됩니다.                                       │\n│              ├─────────────────────────────────────────┤\n│              │ ☞ 개인정보의 수집ㆍ이용에 대한 동의: [  ] 동의함  [  ] 동의하지 않음            │\n├───────┴─────────────────────────────────────────┤\n│                                                                                                  │\n├─────────────────────────────────────────────────┤\n│위와 같이 감정정보관리시스템 사용을 신청합니다.                                                   │\n│       년   월   일                                                                               │\n│                                                                                                  │\n│신청인                       (서명 또는 인)                                                       │\n└─────────────────────────────────────────────────┘\n210mm×297mm[백상지(80g/㎡)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484451",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484447",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484451",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#BJ0008",
+      "filename": "별지8_감정정보관리시스템 사용 신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0009",
+      "branch": "00",
+      "kind": "별지",
+      "title": "감정정보관리시스템 보안서약서",
+      "enforcement_date": "",
+      "content": "■ 국립과학수사연구원 정보화 추진 및 운영 규정 [별지 제9호서식]<신설 2017.8.23.>\n┌──────────────────────────────────────────┐\n│감정정보관리시스템 보안서약서                                                       │\n│                                                                                    │\n│본인은   년   월   일부로 감정정보관리시스템(NFIS)을 활용한 업무를 수행함에 있어    │\n│다음 사항을 준수할 것을 엄숙히 서약합니다.                                          │\n│                                                                                    │\n│ 1. 나는 나에게 부여된 감정정보관리시스템 계정을 타인과 공유하지 않으며, 부여된     │\n│계정의 용도 외로 사용하지 아니한다.                                                 │\n│ 2. 나는 감정정보관리시스템을 활용함으로써 취득한 국립과학수사연구원 내 업무 관련   │\n│정보를 타인에게 유출하지 아니한다.                                                  │\n│ 3. 나는 감정정보관리시스템을 활용하여 작성ㆍ저장ㆍ열람ㆍ출력한 문서를 업무목적     │\n│으로만 활용하고 타인에게 유출하지 아니한다.                                         │\n│ 4. 나는 여타 보안사항들을 성실히 준수하며 위반 시 관련 규정에 따라 처벌도 감수한다.│\n│                                                                                    │\n│                                     년     월     일                               │\n│                                                                                    │\n│     서  약  자                소속:                                                │\n│                               직급:                                                │\n│                               성명:                       (서명 또는 인)           │\n│                                                                                    │\n│     서약집행자                소속:                                                │\n│                               직급:                                                │\n│                               성명:                       (서명 또는 인)           │\n└──────────────────────────────────────────┘\n210mm×297mm[백상지(80g/㎡)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484457",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484453",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484457",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#BJ0009",
+      "filename": "별지9_감정정보관리시스템 보안서약서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0010",
+      "branch": "00",
+      "kind": "별지",
+      "title": "네트워크 이용 신청서",
+      "enforcement_date": "",
+      "content": "■ 국립과학수사연구원 정보화 추진 및 운영 규정 [별지 제10호서식]<신설 2017.8.23.>\n네트워크 이용 신청서\n1. 신청서\n┏━━━━━┯┯━━━━┯━━━━━━━━━━━━━━━━━┓\n┃부서명    ││사용자  │                                  ┃\n┠─────┼┼────┼─────────────────┨\n┃연구실명  ││전화번호│                                  ┃\n┃(팀명)    ││        │                                  ┃\n┠─────┼┴────┴─────────────────┨\n┃네트워크  │ ? Line 신규 설치 ( □ 업무망, □ 인터넷망 ) ┃\n┃          │ ? IP 신규 발급   ( □ 업무망, □ 인터넷망 ) ┃\n┠─────┼───────────────────────┨\n┃신청 사유 │                                              ┃\n┗━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━┛\n2. 처리 결과\n┌──────┬───────────┬──────────────┐\n│처리일시    │관리 시스템 등록 여부 │연결 위치(스위치 Port)      │\n├──────┼───────────┼──────────────┤\n│            │                      │                            │\n├─────┬┴───────────┴──────────────┤\n│처리 결과 │                                                      │\n├─────┴───────────────────────────┤\n│신청인의 요청에 따라 작업이 처리 완료되었음                       │\n│                                              년    월    일      │\n│                                    처리자 :               (서 명)│\n└─────────────────────────────────┘\n210mm×297mm[백상지(80g/㎡)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484463",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484459",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160484463",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#BJ0010",
+      "filename": "별지10_네트워크 이용 신청서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "251231 원예규 제583호 국립과학수사연구원 정보화 추진 및 운영 규정 개정전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=160484179",
+      "file_store_url": "",
+      "filename": "251231 원예규 제583호 국립과학수사연구원 정보화 추진 및 운영 규정 개정전문.hwpx"
+    },
+    {
+      "name": "251231 원예규 제583호 국립과학수사연구원 정보화 추진 및 운영 규정 개정전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=160484183",
+      "file_store_url": "",
+      "filename": "251231 원예규 제583호 국립과학수사연구원 정보화 추진 및 운영 규정 개정전문.pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 41,
+    "by_category": {
+      "행정규칙": 30,
+      "별지": 10,
+      "별표": 1
+    },
+    "by_relation_type": {
+      "internal_ref": 29,
+      "appendix_ref": 11,
+      "citation": 1
+    },
+    "articles_total": 35,
+    "articles_with_relations": 28,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 6,
+    "appendices_count": 10,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 정보화 추진 및 운영 규정"
+  },
+  "provision_id": "admrul:국립과학수사연구원정보화추진및운영규정#DOC"
+}
