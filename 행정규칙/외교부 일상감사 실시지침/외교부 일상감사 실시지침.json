@@ -1,0 +1,647 @@
+{
+  "law_id": "2100000272250",
+  "mst": "2100000272250",
+  "law_name": "외교부 일상감사 실시지침",
+  "law_abbr": "",
+  "law_type": "예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000272250",
+  "promulgation_no": "305",
+  "promulgation_date": "20260107",
+  "enforcement_date": "20260107",
+  "revision_date": "20260107",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "외교부(감사담당관실)",
+    "담당자명": "김성훈",
+    "행정규칙종류코드": "B0002",
+    "행정규칙명": "외교부 일상감사 실시지침",
+    "발령일자": "20260107",
+    "행정규칙종류": "예규",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "외교부",
+    "전화번호": "02-2100-8413",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1262000",
+    "생성일자": "20260428",
+    "행정규칙ID": "39087",
+    "시행일자": "20260107",
+    "담당부서기관코드": "1262014",
+    "발령번호": "305",
+    "행정규칙일련번호": "2100000272250",
+    "상위부처명": "외교부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n○ 재검토기한 규정 신설\n◇ 주요내용\n○ 일몰기한 신설(지침 제13조)\n- (신설) 2026.1.1.을 기준으로 매 3년이 되는 시점에 지침 재검토",
+  "body": {
+    "format": "articles",
+    "article_count": 14,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 지침은 「공공감사에 관한 법률」 제22조 및 같은 법 시행령 제13조, 「중앙행정기관 및 지방자치단체 자체감사기준」 제21조 및 「외교부 자체감사규정」 제4조에서 정하고 있는 일상감사의 수행에 필요한 세부사항을 규정하여 외교부의 주요 업무처리에 있어 최종 결재권자의 의사결정 전에 감사를 실시함으로써 행정 및 재정상의 낭비를 예방함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제22조",
+            "line_text": "",
+            "target_law_name": "공공감사에 관한 법률",
+            "target_article_no": "제22조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공감사에 관한 법률/제22조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:외교부일상감사실시지침#JO0001",
+            "reference_id": "law:공공감사에관한법률#JO0022"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "공공감사에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공감사에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:외교부일상감사실시지침#JO0001",
+            "reference_id": "law:공공감사에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제13조",
+            "line_text": "",
+            "target_law_name": "공공감사에 관한 법률 시행령",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공감사에 관한 법률 시행령/제13조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:외교부일상감사실시지침#JO0001",
+            "reference_id": "law:공공감사에관한법률시행령#JO0013"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「중앙행정기관 및 지방자치단체 자체감사기준」",
+            "line_text": "",
+            "target_law_name": "중앙행정기관 및 지방자치단체 자체감사기준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/중앙행정기관 및 지방자치단체 자체감사기준",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:외교부일상감사실시지침#JO0001",
+            "reference_id": "law:중앙행정기관및지방자치단체자체감사기준#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제21조",
+            "line_text": "",
+            "target_law_name": "중앙행정기관 및 지방자치단체 자체감사기준",
+            "target_article_no": "제21조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/중앙행정기관 및 지방자치단체 자체감사기준/제21조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:외교부일상감사실시지침#JO0001",
+            "reference_id": "law:중앙행정기관및지방자치단체자체감사기준#JO0021"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「외교부 자체감사규정」",
+            "line_text": "",
+            "target_law_name": "외교부 자체감사규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/외교부 자체감사규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:외교부일상감사실시지침#JO0001",
+            "reference_id": "admrul:외교부자체감사규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "외교부 자체감사규정",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/외교부 자체감사규정/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:외교부일상감사실시지침#JO0001",
+            "reference_id": "admrul:외교부자체감사규정#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:외교부일상감사실시지침#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적용범위",
+        "chapter": "",
+        "content": "제2조(적용범위) 이 지침은 외교부 및 그 소속기관에 대하여 적용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:외교부일상감사실시지침#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "일상감사 원칙",
+        "chapter": "",
+        "content": "제3조(일상감사 원칙) ① 감사관은 일상감사의 대상이 되는 업무를 처리하고자 하는 부서 및 재외공관(이하 \"집행부서\"라 한다)의 의견을 최대한 존중하고, 집행부서에서 일상감사의 결과를 납득할 수 있도록 최대한 협조하여야 한다.② 집행부서의 장은 일상감사 대상업무에 대하여 최종결재권자의 결재를 받을 때에는 일상감사 의견서 및 그 조치결과를 첨부하여야 한다.③ 일상감사는 업무를 처리하는 데 도움을 주기 위한 의견제시이므로 집행부서는 일상감사를 거쳤다는 이유로 자체감사를 거부할 수 없고, 감사 결과 지적된 위법ㆍ부당한 사항은 일상감사를 거쳤다는 이유로 면책되지 아니한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:외교부일상감사실시지침#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "일상감사 대상업무",
+        "chapter": "",
+        "content": "제4조(일상감사 대상업무) ① 일상감사의 대상업무는 다음 각 호로 한다.1. 총사업비 기준으로 5억원 이상이 소요되는 사업2. 삭제3. 추정가격이 2천만원을 초과하는 물품 제조ㆍ구매, 용역, 시설공사, 그 밖의 계약으로 수의계약에 의한 경우4. 장관이 사전감사를 지시한 사항5. 그 밖에 비리 발생이 우려되는 업무로서 집행부서의 장이 감사를 요청한 사항② 제1항에도 불구하고 다음 각 호의 사항은 일상감사의 대상에서 제외한다.1. 인건비, 법정경비, 부담금, 출연금, 전출금, 보상금, 상환금 등의 지급2. 국비 국외훈련 체재비ㆍ학자금의 지급, 각종 행사개최에 소요되는 임차료",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:외교부일상감사실시지침#JO0004"
+      },
+      {
+        "article_no": "제4조의2",
+        "article_title": "신청에 의한 일상감사",
+        "chapter": "",
+        "content": "제4조의2(신청에 의한 일상감사) ① 집행부서는 제4조에 따른 일상감사 대상업무가 아닌 업무로서 다음 각 호의 어느 하나에 해당하는 업무의 수행에 앞서 감사관에게 일상감사를 신청할 수 있다.1. 인ㆍ허가 등 규제 관련 업무2. 규제 관련 법령의 해석에 대한 이견 등으로 인하여 발생한 민원 업무3. 그 밖에 장관이 규제 개선 등을 위하여 필요하다고 인정하는 업무② 상기 제1항에 따른 일상감사의 대상ㆍ기준ㆍ절차 등은「외교부 적극행정 면책제도 운영 규정」을 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조의2",
+            "source_clause": "제4조의2제1항",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "외교부 자체감사규정",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/외교부 자체감사규정/제4조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:외교부일상감사실시지침#JO0004_02",
+            "reference_id": "admrul:외교부자체감사규정#JO0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조의2",
+            "source_clause": "제4조의2제2항",
+            "link_text": "「외교부 적극행정 면책제도 운영 규정」",
+            "line_text": "",
+            "target_law_name": "외교부 적극행정 면책제도 운영 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/외교부 적극행정 면책제도 운영 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:외교부일상감사실시지침#JO0004_02",
+            "reference_id": "admrul:외교부적극행정면책제도운영규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:외교부일상감사실시지침#JO0004_02"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "감사중점사항",
+        "chapter": "",
+        "content": "제5조(감사중점사항) 일상감사의 중점사항은 다음 각 호와 같다.1. 예산의 확보 및 예산액의 적정 여부2. 사업의 필요성ㆍ규모ㆍ시기의 적정 여부3. 국가계약법령 등에 의한 계약방법ㆍ절차의 적법 여부4. 예산의 목적 외 사용 여부 등",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:외교부일상감사실시지침#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "일상감사 시기",
+        "chapter": "",
+        "content": "제6조(일상감사 시기) ① 일상감사는 최종 결재권자가 결재하기 전에 실시하는 것을 원칙으로 한다. 다만, 일상감사 실시에 장시간이 소요되는 등 불가피한 경우에는 사전에 집행부서로부터 관련 자료를 제출받아 사전검토를 하는 것으로 일상감사를 대신할 수 있다.② 집행부서의 장은 일상감사를 거칠 수 없을 만큼 긴급한 업무추진이 필요한 경우에는 감사관과 사전협의를 거쳐 최종결재 이후에 일상감사를 실시할 수 있으며, 감사관은 이미 진행된 사항이라 하더라도 일상감사 결과 위법ㆍ부당한 사항이 드러난 경우에는 해당 집행행위에 대하여 적정한 조치요구를 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:외교부일상감사실시지침#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "일상감사 의뢰",
+        "chapter": "",
+        "content": "제7조(일상감사 의뢰) ① 집행부서의 장은 제4조의 대상업무를 시행하기 위한 기본방침에 대하여 최종 결재권자가 결재를 하기 전에 별지 제1호서식의 일상감사 의뢰서, 관계서류 등을 첨부하여 일상감사를 감사관에게 의뢰하여야 한다.② 감사관은 집행부서의 장이 일상감사 대상업무에 대하여 일상감사를 의뢰하지 않을 경우 해당업무의 추진을 중지시킨 후, 집행부서의 장에게 관련 서류를 첨부한 일상감사 의뢰를 요구할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "외교부 자체감사규정",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/외교부 자체감사규정/제4조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:외교부일상감사실시지침#JO0007",
+            "reference_id": "admrul:외교부자체감사규정#JO0004"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "외교부 일상감사 실시지침",
+            "target_article_no": "별지1",
+            "target_article_title": "일상감사 의뢰서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160726677",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:외교부일상감사실시지침#JO0007",
+            "reference_id": "admrul:외교부일상감사실시지침#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:외교부일상감사실시지침#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "일상감사 접수",
+        "chapter": "",
+        "content": "제8조(일상감사 접수) ① 감사관은 일상감사를 의뢰받은 경우 별지 제4호서식의 일상감사 처리대장에 해당사항을 기입한 후, 일상감사를 할 담당자를 지정한다.② 일상감사 담당자는 일상감사 대상 여부를 검토한 후 일상감사 대상이 아니면 의뢰문서를 반려하고, 일상감사 대상이면 제9조에 따라 일상감사를 실시한 후, 제10조에서 정한 기일 내에 감사결과를 집행부서의 장에게 통보하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "별지 제4호서식",
+            "line_text": "",
+            "target_law_name": "외교부 일상감사 실시지침",
+            "target_article_no": "별지4",
+            "target_article_title": "",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": false,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000272250&bylNo=&bylBrNo=",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:외교부일상감사실시지침#JO0008",
+            "reference_id": "admrul:외교부일상감사실시지침#BJ0004"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제2항",
+            "link_text": "제9조",
+            "line_text": "",
+            "target_law_name": "외교부 일상감사 실시지침",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/외교부 일상감사 실시지침/제9조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:외교부일상감사실시지침#JO0008",
+            "reference_id": "admrul:외교부일상감사실시지침#JO0009"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제2항",
+            "link_text": "제10조",
+            "line_text": "",
+            "target_law_name": "외교부 일상감사 실시지침",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/외교부 일상감사 실시지침/제10조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:외교부일상감사실시지침#JO0008",
+            "reference_id": "admrul:외교부일상감사실시지침#JO0010"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:외교부일상감사실시지침#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "감사실시 방법",
+        "chapter": "",
+        "content": "제9조(감사실시 방법) ① 일상감사는 집행부서의 장이 제출한 서류 등에 의하여 서면감사를 실시하는 것을 원칙으로 한다. 다만, 감사관이 필요하다고 인정하는 경우에는 실지감사를 실시할 수 있다.② 일상감사 담당자는 일상감사의 처리를 위하여 필요한 경우 집행부서의 장 및 그 직원에게 출석 및 진술을 요청하거나, 의문사항에 대한 질의 및 확인을 할 수 있다.③ 일상감사 담당자는 추가적인 자료제출이 필요한 경우 집행부서의 장 또는 직원에게 관련되는 자료의 추가제출을 요구할 수 있고, 집행부서의 장 및 직원은 추가자료의 제출요구에 응하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:외교부일상감사실시지침#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "감사결과 처리",
+        "chapter": "",
+        "content": "제10조(감사결과 처리) ① 감사관은 일상감사 요청서 및 관련 자료를 제출받은 날로부터 7일 이내에 별지 제2호서식의 일상감사 의견서를 작성하여 집행부서의 장에게 송부하여야 한다. 다만, 사안이 복잡하거나 신중한 처리 등이 요구되어 검토기간의 연장이 필요한 경우에는 집행부서의 장과 협의를 거쳐 1회에 한하여 7일 이내의 기간을 연장할 수 있다.② 감사관은 일상감사 결과 위법ㆍ부당한 사항이 있을 때에는 일상감사 의견서에 그 사항을 명시하여 집행부서의 장에게 통보하여야 한다.③ 집행부서의 장은 제2항의 의견서에 대하여 이의가 있는 경우에는 의견서를 받은 날로부터 7일 이내에 그 사유와 입증자료 등 필요한 관계 증명자료를 첨부하여 감사관에게 재검토를 요청할 수 있다.④ 감사관은 재검토 요청이 있은 날로부터 7일 이내에 재검토 요구사유와 관계 증빙자료를 재검토한 후 재검토 요청이 이유 없다고 인정될 때에는 이를 기각하고, 이유 있다고 인정될 때에는 일상감사 의견서 내용의 변경 등 필요한 조치를 취하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "외교부 일상감사 실시지침",
+            "target_article_no": "별지2",
+            "target_article_title": "일상감사 의견서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160726683",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:외교부일상감사실시지침#JO0010",
+            "reference_id": "admrul:외교부일상감사실시지침#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:외교부일상감사실시지침#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "일상감사 의견의 이행",
+        "chapter": "",
+        "content": "제11조(일상감사 의견의 이행) ① 집행부서의 장은 일상감사 의견서를 받기 전까지는 집행행위를 할 수 없다. 다만, 긴급한 경우로서 감사관과 협의를 거쳐 최종결재 이후에 일상감사를 실시하기로 한 경우는 제외한다.② 집행부서의 장은 일상감사 의견에 따라 적절한 조치를 취한 후, 별지 제3호서식의 일상감사 조치결과 통보서를 14일 이내에 감사관에게 통보하여야 한다. 다만, 일상감사 결과 별도 의견이 없는 경우에는 조치결과의 통보를 생략할 수 있다.③ 감사관은 통보받은 일상감사 조치결과 통보서를 검토하여 그 조치가 적정하지 않다고 판단되는 때에는 집행부서의 장에게 그 사유를 통보하여 시정ㆍ주의ㆍ개선 등 추가적인 조치를 요구할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제2항",
+            "link_text": "별지 제3호서식",
+            "line_text": "",
+            "target_law_name": "외교부 일상감사 실시지침",
+            "target_article_no": "별지3",
+            "target_article_title": "감사의견에 대한 조치결과 통보서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160726689",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:외교부일상감사실시지침#JO0011",
+            "reference_id": "admrul:외교부일상감사실시지침#BJ0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:외교부일상감사실시지침#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "사후관리",
+        "chapter": "",
+        "content": "제12조(사후관리) 감사관은 일상감사 의견서, 조치결과 통보서 등을 관리하여야 하고, 자체감사 등 필요 시에 일상감사 의견서에 대한 조치결과 적정이행 여부를 확인하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:외교부일상감사실시지침#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제13조(재검토기한)「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 지침에 대하여 2026년 1월  1일을 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조",
+            "source_clause": "제13조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:외교부일상감사실시지침#JO0013",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:외교부일상감사실시지침#JO0013"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20131209",
+      "promulgation_no": "24",
+      "content": "부칙 <제24호,2013. 12. 9.>제1조(시행일) 이 지침은 발령한 날로부터 시행한다.제2조(종전 예규의 폐지) 종전의 외교통상부예규 제192호는 이를 폐지한다."
+    },
+    {
+      "promulgation_date": "20150611",
+      "promulgation_no": "76",
+      "content": "부칙 <제76호,2015. 6. 11.>제1조(시행일) 이 지침은 발령한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20181023",
+      "promulgation_no": "129",
+      "content": "부칙 <제129호,2018. 10. 23.>이 예규는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20191014",
+      "promulgation_no": "154",
+      "content": "부칙 <제154호,2019. 10. 14.>이 예규는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20220114",
+      "promulgation_no": "202",
+      "content": "부칙 <제202호, 2022. 1. 14.>이 예규는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20260107",
+      "promulgation_no": "305",
+      "content": "부칙 <제305호, 2026. 1. 7.>이 예규는 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "일상감사 의뢰서",
+      "enforcement_date": "",
+      "content": "\n[별지 제1호 서식]\n일상감사 의뢰서\n날짜: 2015.   .\n┏━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃건    명┃                                                    ┃\n┣━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃                                                              ┃\n┃1. 사업개요                                                   ┃\n┃                                                              ┃\n┃2. 사업 목적 및 필요성                                        ┃\n┃                                                              ┃\n┃3. 일상감사 의뢰사항                                          ┃\n┃ ㅇ 감사시 중점적으로 검토해야 할 부분을 기술                 ┃\n┃                                                              ┃\n┃4. 소요예산 현황                                              ┃\n┃                                                              ┃\n┃5. 근거 법령 등 관련법규                                      ┃\n┃                                                              ┃\n┃6. 예상되는 문제점                                            ┃\n┃                                                              ┃\n┃7. 기타                                                       ┃\n┃                                                              ┃\n┃                                                              ┃\n┃                                                              ┃\n┃                                                              ┃\n┃첨부서류                                                      ┃\n┃ 1. 예산현황 또는 소요경비 자료                               ┃\n┃ 2. 사업추진 경위                                             ┃\n┃ 3. 기타 사업추진 관련 검토 자료 등                           ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160726677",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160726673",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160726677",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:외교부일상감사실시지침#BJ0001",
+      "filename": "별지1_일상감사 의뢰서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "일상감사 의견서",
+      "enforcement_date": "",
+      "content": "\n[별지 제2호 서식]\n일상감사 의견서\n\n날짜: 2015.   .\n┏━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃건    명┃                                                    ┃\n┣━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃                                                              ┃\n┃1. 사업개요                                                   ┃\n┃                                                              ┃\n┃                                                              ┃\n┃                                                              ┃\n┃                                                              ┃\n┃                                                              ┃\n┃                                                              ┃\n┃                                                              ┃\n┃                                                              ┃\n┃2. 검토내용                                                   ┃\n┃                                                              ┃\n┃                                                              ┃\n┃                                                              ┃\n┃                                                              ┃\n┃                                                              ┃\n┃                                                              ┃\n┃                                                              ┃\n┃                                                              ┃\n┃                                                              ┃\n┃3. 조치의견                                                   ┃\n┃                                                              ┃\n┃                                                              ┃\n┃                                                              ┃\n┃                                                              ┃\n┃                                                              ┃\n┃                                                              ┃\n┃                                                              ┃\n┠───────────────────────────────┨\n┃                감사관           (서명 또는 인)               ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160726683",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160726679",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160726683",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:외교부일상감사실시지침#BJ0002",
+      "filename": "별지2_일상감사 의견서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "감사의견에 대한 조치결과 통보서",
+      "enforcement_date": "",
+      "content": "\n[별지 제3호 서식]\n\n감사의견에 대한 조치결과 통보서\n┏━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃건    명┃                                                        ┃\n┣━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃1. 사업개요                                                       ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃2. 감사자 조치의견                                                ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃3. 조치내용(불채택시 그 사유)                                     ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃4. 관계자료 및 기타 첨부자료                                      ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┠─────────────────────────────────┨\n┃작성자  소속         직급             성명         (서명 또는 인) ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160726689",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160726685",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160726689",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:외교부일상감사실시지침#BJ0003",
+      "filename": "별지3_감사의견에 대한 조치결과 통보서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "외교부 일상감사 실시지침_예규 305호_20260107.zip",
+      "url": "http://law.go.kr/flDownload.do?flSeq=160701273",
+      "file_store_url": "",
+      "filename": "외교부 일상감사 실시지침_예규 305호_20260107.zip"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 17,
+    "by_category": {
+      "법령": 5,
+      "행정규칙": 8,
+      "별지": 4
+    },
+    "by_relation_type": {
+      "citation": 11,
+      "appendix_ref": 4,
+      "internal_ref": 2
+    },
+    "articles_total": 14,
+    "articles_with_relations": 7,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 6,
+    "appendices_count": 3,
+    "attachments_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/외교부 일상감사 실시지침"
+  },
+  "provision_id": "admrul:외교부일상감사실시지침#DOC"
+}
