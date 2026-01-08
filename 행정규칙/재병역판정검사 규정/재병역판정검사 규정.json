@@ -1,0 +1,2455 @@
+{
+  "law_id": "2100000272260",
+  "mst": "2100000272260",
+  "law_name": "재병역판정검사 규정",
+  "law_abbr": "",
+  "law_type": "훈령",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000272260",
+  "promulgation_no": "2176",
+  "promulgation_date": "20260107",
+  "enforcement_date": "20260108",
+  "revision_date": "20260107",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "병무청(병역판정검사과)",
+    "담당자명": "노윤정",
+    "행정규칙종류코드": "B0001",
+    "행정규칙명": "재병역판정검사 규정",
+    "발령일자": "20260107",
+    "행정규칙종류": "훈령",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "병무청",
+    "전화번호": "042-481-2942",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1300000",
+    "생성일자": "20260108",
+    "행정규칙ID": "39619",
+    "시행일자": "20260108",
+    "담당부서기관코드": "1300722",
+    "발령번호": "2176",
+    "행정규칙일련번호": "2100000272260",
+    "상위부처명": "병무청"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정이유\n재병역판정검사의 제외대상을 명확히 하여 업무 혼란을 방지하고, 병역법 시행령 개정(’25. 1. 3.)으로 병역법 위반범죄에 대한 수형사유 병역감면 제외 대상이 확대됨에 따라 신체검사 및 징ㆍ소집 기피자에 대한 재병역판정검사 보류 규정을 삭제하여 의무부과 지연을 방지하며, 공중보건의사 등 지원자에 대해 연기할 수 있는 근거를 마련하여 국민의 편익 및 업무의 효율성을 높이려는 것임.\n\n◇ 주요내용\n가. ‘복무 중’ 편입이 취소된 사람으로 제외대상을 명확히 하고 대체복무요원 복무 중 편입이 취소된 사람도 재병역판정검사 제외대상에 포함하여 제외 기준 형평성 확보(제6조)\n나. 수형 사유 병역감면 폐지에 따라 신체검사 및 징ㆍ소집 기피자에 대한 재병역판정검사 보류 규정 등 삭제(제7조, 제8조)\n다. 「병역의무부과 통지서 송달 및 전자우편센터 운영규정」이 개정됨에 따라 재병역판정검사 통지서 송달 관련 규정에 반영(제10조)\n라. 재병역판정검사 대상자가 공중보건의사 등에 지원한 경우 재병역판정검사를 연기할 수 있는 근거 마련(제13조의2)",
+  "body": {
+    "format": "articles",
+    "article_count": 27,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장  총칙",
+        "content": "제1조(목적) 이 규정은 「병역법」 제14조의2 및 같은 법 시행령 제18조의2에 따라 재병역판정검사 대상자에 대한 정확한 검사와 병역처분의 형평성을 높이기 위하여 「병역법」, 같은 법 시행령 및 같은 법 시행규칙에서 위임한 사항과 재병역판정검사의 구체적 절차 등을 규정함을 목적으로 한다. <개정 2016.11.30., 2020.1.30.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제14조의2",
+            "line_text": "",
+            "target_law_name": "병역법",
+            "target_article_no": "제14조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/병역법/제14조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0001",
+            "reference_id": "law:병역법#JO0014_02"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "병역법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/병역법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0001",
+            "reference_id": "law:병역법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제18조의2",
+            "line_text": "",
+            "target_law_name": "병역법 시행령",
+            "target_article_no": "제18조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/병역법 시행령/제18조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0001",
+            "reference_id": "law:병역법시행령#JO0018_02"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "병역법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/병역법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0001",
+            "reference_id": "law:병역법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행규칙",
+            "line_text": "",
+            "target_law_name": "병역법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/병역법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0001",
+            "reference_id": "law:병역법시행규칙#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:재병역판정검사규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "제1장  총칙",
+        "content": "제2조(정의) 이 규정에서 사용하는 용어의 뜻은 다음과 같다.1. \"법\"이란 「병역법」을, \"영\"이란 「병역법 시행령」을, \"규칙\"이란 「병역법 시행규칙」을 말한다.2. \"지방병무청장\"이란 지방병무청장과 병무지청장을, \"지방병무청\"이란 지방병무청과 병무지청을 말한다.3. \"자원관리 소관과장\"이란 현역병입영대상자, 보충역, 각종 입영연기 자원을 관리하는 부서의 장을 말한다.4. \"병역판정검사과장\"에는 병역판정병검사 관련 업무를 담당하는 부서의 장을 포함한다. <개정 2016.11.30.>5. \"재병역판정검사 해당연도\"란 현역병입영대상자 또는 보충역으로 병역처분을 받은 사람이 그 처분을 받은 다음 해부터 4년이 되는 해의 12월 31일까지 징집 또는 소집되지 아니하여 재병역판정검사를 받아야 하는 5년이 되는 해 및 재병역판정검사 연기 해소로 재병역판정검사를 받아야 하는 해를 말한다. <개정 2016.11.30., 2021.2.15.>6. \"영 제18조의2제2항제1호\"는 법 제60조제2항에 따라 국외에 체재하거나 거주하고 있는 사유로 징집 또는 소집이 연기된 사람만을 말한다.7. \"본인선택\"이란 병역판정검사 일자 및 장소를 본인이 직접 선택하는 것을 말한다. <신설 2016.1.7., 개정 2016.11.30.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「병역법 시행령」",
+            "line_text": "",
+            "target_law_name": "병역법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/병역법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0002",
+            "reference_id": "law:병역법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「병역법 시행규칙」",
+            "line_text": "",
+            "target_law_name": "병역법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/병역법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0002",
+            "reference_id": "law:병역법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제18조의2제2항제1호",
+            "line_text": "",
+            "target_law_name": "병역법 시행규칙",
+            "target_article_no": "제18조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/병역법 시행규칙/제18조의2",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0002",
+            "reference_id": "law:병역법시행규칙#JO0018_02"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제60조제2항",
+            "line_text": "",
+            "target_law_name": "병역법 시행규칙",
+            "target_article_no": "제60조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/병역법 시행규칙/제60조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0002",
+            "reference_id": "law:병역법시행규칙#JO0060"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:재병역판정검사규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "재병역판정검사 계획수립",
+        "chapter": "제1장  총칙",
+        "content": "제3조(재병역판정검사 계획수립) ① 병무청장은 다음연도의 재병역판정검사 계획을 매년 12월 30일까지 수립하고 그 결과를 지방병무청장에게 통보한다. 다만, 필요한 경우에는 병역판정검사 계획에 포함할 수 있다. <개정 2016.11.30.>② 지방병무청장은 제1항에 따라 재병역판정검사 계획을 통보받은 때에는 자체 재병역판정검사 계획을 수립ㆍ시행하여야 한다. <개정 2016.11.30.>③ 그 밖에 재병역판정검사 업무에 대하여 별도의 규정이 없는 사항은 「병역판정검사 규정」을 준용한다. <개정 2016.11.30.>[제목개정 2016.11.30.]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제3항",
+            "link_text": "「병역판정검사 규정」",
+            "line_text": "",
+            "target_law_name": "병역판정검사 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/병역판정검사 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0003",
+            "reference_id": "admrul:병역판정검사규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:재병역판정검사규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "사전준비",
+        "chapter": "제1장  총칙",
+        "content": "제4조(사전준비) 지방병무청장은 해당연도 재병역판정검사 전에 다음 각 호의 사항을 조치하여야 한다. <개정 2016.11.30., 2020.1.30.>1. 자원관리 소관과장은 매년 1월 1일 기준으로 별지 제1호서식에 따른 해당연도 재병역판정검사 대상자 현황 및 별지 제2호서식에 따른 명단을 작성한 후, 향후 대상자 선발ㆍ통지에 정확성을 높이기 위하여 입영 등 신상변동 여부를 연중 확인 <개정 2016.11.30, 2020.1.30.>2. 자원관리 소관과장은 제1호에 따른 해당연도 재병역판정검사 대상자에 대해서는 매년 1월 10일(공휴일인 경우에는 다음 날 근무일)기준으로 별표 서식에 따른 재병역판정검사 안내문을 작성하여, 일반우편 등을 통하여 송달 <개정 2016.11.30., 2020.1.30.>3. 담당직원 지정 및 교육 등 그 밖의 재병역판정검사 준비 <개정 2016.11.30.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "별지1",
+            "target_article_title": "재병역판정검사 대상자 현황",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758367",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0004",
+            "reference_id": "admrul:재병역판정검사규정#BJ0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "별지2",
+            "target_article_title": "재병역판정검사 대상자 명단",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758373",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0004",
+            "reference_id": "admrul:재병역판정검사규정#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:재병역판정검사규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "재병역판정검사 대상",
+        "chapter": "제2장  재병역판정검사 대상 및 제외 대상 등 <개정 2016.11.30.>",
+        "content": "제5조(재병역판정검사 대상) ① 지방병무청장은 현역병입영대상자 또는 보충역으로 병역처분을 받은 사람이 그 처분을 받은 다음 해부터 4년이 되는 해의 12월 31일까지 징집 또는 소집되지 않은 경우에는(각종 입영연기자와 입영일자연기자를 포함한다) 5년이 되는 해에 재병역판정검사를 한다. <개정 2016.11.30., 2020.1.30.>② 다음 각 호의 어느 하나에 해당하는 사람의 재병역판정검사 대상기간은 병역처분을 받은 다음 해부터 계산한다. <개정 2016.11.30., 2020.1.30., 2021.2.15., 2021.10.14.>1. 법 제14조의3제3항 또는 제4항에 따른 입영판정검사에서 현역병입영 대상자 또는 보충역으로 병역처분을 받은 사람 <신설 2021.10.14.>2. 법 제14조의3제7항에 따른 입영신체검사에서 귀가된 후 재신체검사 결과 현역병입영 대상자 또는 보충역으로 병역처분을 받은 사람. 다만, 귀가된 사람 중 재신체검사 대상이 아닌 경우에는 입영신체검사를 받은 다음 해부터 계산한다. <개정 2020.1.30., 2021.2.15., 2021.10.14.>3. 현역병입영대상자로서 법 제65조제1항제1호에 따라 보충역으로 병역처분이 변경된 사람 <개정 2020.1.30.>4. 영 제135조의2제2항에 따라 현역병입영대상자 또는 보충역으로 병역처분이 변경된 사람 <개정 2020.1.30.>5. 삭제 <2024. 4. 26.>6. 삭제 <2024. 4. 26.>[제목개정 2016.11.30.]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:재병역판정검사규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "재병역판정검사 제외 대상",
+        "chapter": "제2장  재병역판정검사 대상 및 제외 대상 등 <개정 2016.11.30.>",
+        "content": "제6조(재병역판정검사 제외 대상) ① 다음 각 호의 어느 하나에 해당하는 사람은 재병역판정검사 대상에서 제외한다. <개정 2016.11.30.>1. 법 제14조의2제1항에 따라 이미 재병역판정검사를 받은 사람 <개정 2016.11.30.>2. 법 제60조제3항에 따른 징집이나 소집 등의 연기사유가 끝난 사람으로서 재병역판정검사 해당연도의 징집일자 또는 소집일자가 결정된 사람.(귀가된 사람을 포함한다.) 다만, 입영일에 징집 또는 소집되지 아니한 사람은 제외한다. <개정 2016.11.30., 2017.1.11., 2020.1.30.>3. 전ㆍ공상, 수형 또는 학력 등의 사유로 보충역에 편입된 사람(보충역 편입 후 수형 보충역에 해당하는 사실이 있는 사람 및 현역복무 중 질병 또는 심신장애가 있는 사람으로서 심사에 의해 보충역에 편입된 사람 포함) <개정 2017.1.11., 2020.1.30.>4. 각종 병적에 편입된 사람(의무경찰, 의무소방 및 지원병 합격자는 입영한 사람에 한하며, 법 제37조제2항에 따라 전문연구요원 편입대상자로 선발된 사람 포함) <개정 2014.1.16.>5. 전문연구요원, 산업기능요원, 공중보건의사, 병역판정검사전담의사, 공중방역수의사, 공익법무관, 승선근무예비역 또는 대체복무요원으로 복무 중에 편입이 취소된 사람 <개정 2013.1.24., 2016.7.22., 2016.11.30., 2026.1.7.>6. 군사교육소집 중 퇴영된 사람 <개정 2016.11.30.>7. 「사회복무요원 소집업무 규정」 제17조제1항제5호에 해당하는 사람과 같은 규정 제21조제1항제3호에 따라 군사교육소집 제외 대상자로 결정된 사람 <신설 2016.1.7., 개정 2016.11.30., 2017.1.11., 2019.1.25., 2020.1.30., 2020.2.6., 2021.10.14., 2026.1.7.>② 제1항의 제외대상 사유가 변동된 사람에 대해서는 재병역판정검사 대상 여부를 확인하여 후속조치를 하여야 한다. <개정 2016.11.30.>[제목개정 2016.11.30.]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "제14조의2제1항",
+            "line_text": "",
+            "target_law_name": "병역법",
+            "target_article_no": "제14조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/병역법/제14조의2",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0006",
+            "reference_id": "law:병역법#JO0014_02"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "제60조제3항",
+            "line_text": "",
+            "target_law_name": "병역법 시행규칙",
+            "target_article_no": "제60조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/병역법 시행규칙/제60조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0006",
+            "reference_id": "law:병역법시행규칙#JO0060"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "「사회복무요원 소집업무 규정」",
+            "line_text": "",
+            "target_law_name": "사회복무요원 소집업무 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/사회복무요원 소집업무 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0006",
+            "reference_id": "admrul:사회복무요원소집업무규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "제17조제1항제5호",
+            "line_text": "",
+            "target_law_name": "사회복무요원 소집업무 규정",
+            "target_article_no": "제17조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/사회복무요원 소집업무 규정/제17조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0006",
+            "reference_id": "admrul:사회복무요원소집업무규정#JO0017"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "제21조제1항제3호",
+            "line_text": "",
+            "target_law_name": "사회복무요원 소집업무 규정",
+            "target_article_no": "제21조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/사회복무요원 소집업무 규정/제21조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0006",
+            "reference_id": "admrul:사회복무요원소집업무규정#JO0021"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:재병역판정검사규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "재병역판정검사 실시 시기 등",
+        "chapter": "제3장  재병역판정검사 준비 <개정 2016.11.30.>",
+        "content": "제7조(재병역판정검사 실시 시기 등) ① 지방병무청장은 법 제11조에 따른 병역판정검사를 먼저 실시하고 이어서 별도로 기간을 정하여 재병역판정검사를 실시하되, 해당연도 (재)병역판정검사 계획에 따라 그 시기를 변경할 수 있다. <개정 2016.11.30.>② 병역판정검사과장은 병역판정검사 기간 중 재병역판정검사를 실시 할 수 있으며 법 제11조에 따른 병역판정검사 대상자를 고려한 적정 검사인원 범위에서 재병역판정검사 대상자가 본인선택할 수 있도록 사전조치 하여야 한다. <개정 2016.1.7., 2016.11.30., 2020.1.30.>③ 지방병무청장은 해당연도 병역판정검사기간이 종료된 경우에는 해당연도 (재)병역판정검사 계획에서 정하는 바에 따라 다른 병역판정검사장에 재병역판정검사를 의뢰한다. <개정 2016.11.30.>④ 제1항에도 불구하고 다음 각 호의 어느 하나에 해당하는 경우 재병역판정검사 시기는 각 호와 같다. 다만, 제2호부터 제5호까지에 해당하는 대상자 중 재병역판정검사 해당연도 내에 징집이나 소집이 될 수 있는 사람은 제1호와 같이 처리한다. <개정 2016.11.30., 2019.1.25., 2025.1.10.>1. 영 제18조의2제2항 각 호의 어느 하나에 해당하는 사람 중 재병역판정검사 해당연도 내에 징집이나 소집이 될 수 있는 사람은 재병역판정검사를 보류.다만, 재병역판정검사 해당연도 내에 징집이나 소집되지 않는 사람(다음연도의 징집이나 소집일자 결정된 사람 포함)과 다음연도로 재병역판정검사가 연기된 후 그 사유가 해소된 사람은 지체 없이 실시 <개정 2016.11.30., 2020.1.30.>2. 제8조의 재병역판정검사 대상자 선발보류 해소자, 제22조의 재병역판정검사 연기사유 해소자 및 해당연도에 재병역판정검사를 받지 않은 사람 등 재병역판정검사 대상자로 확인된 사람은 지체 없이 실시 <개정 2016.11.30., 2020.1.30.>3. 삭제 <2020.1.30.>4. 재병역판정검사 통지서가 송달된 후에 병역처분변경원 제출을 희망하는 사람은 이미 통지된 재병역판정검사일자에 실시. 다만, 영 제135조제5항의 단서에 해당하는 사람에 대해서는 신체검사를 하지 아니할 수 있다. <개정 2016.11.30., 2025.1.10.>5. 삭제 <2026.1.7.>6. 그 밖에 민원불편 해소 등에 필요하다고 인정하는 사람에 대해서는 재병역판정검사 해당연도 중이라도 개별통지 후 실시 <개정 2016.11.30., 2020.1.30.>[제목개정 2016.11.30.]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "제11조",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/재병역판정검사 규정/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0007",
+            "reference_id": "admrul:재병역판정검사규정#JO0011"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "제11조",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/재병역판정검사 규정/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0007",
+            "reference_id": "admrul:재병역판정검사규정#JO0011"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제4항",
+            "link_text": "제18조의2제2항",
+            "line_text": "",
+            "target_law_name": "병역법 시행령",
+            "target_article_no": "제18조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/병역법 시행령/제18조의2",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0007",
+            "reference_id": "law:병역법시행령#JO0018_02"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제4항",
+            "link_text": "제8조",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/재병역판정검사 규정/제8조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0007",
+            "reference_id": "admrul:재병역판정검사규정#JO0008"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제4항",
+            "link_text": "제22조",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "제22조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/재병역판정검사 규정/제22조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0007",
+            "reference_id": "admrul:재병역판정검사규정#JO0022"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:재병역판정검사규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "재병역판정검사대상자 선발 보류",
+        "chapter": "제3장  재병역판정검사 준비 <개정 2016.11.30.>",
+        "content": "제8조(재병역판정검사대상자 선발 보류) ① 자원관리 소관과장은 재병역판정검사 해당연도 대상자 선발시 다음 각 호의 어느 하나에 해당하는 사유가 확인된 사람에 대해서는 그 사유가 종료될 때까지 그 선발을 보류하고 별지 제3호서식에 따른 명부를 작성하여, 이후 변동사항을 확인하고 재병역판정검사 대상이 될 경우 후속조치를 하여야 한다. <개정 2016.11.30.>1. 신체등급 7급, 정밀검사, 서류보완 등의 사유로 병역처분이 종료되지 않은 사람 <개정 2016.11.30.>2. 삭제 <2020.1.30.>3. 병역처분변경원 제출로 재신체검사를 받아야 할 사람4. 재병역판정검사 해당연도의 징집이나 소집일자가 결정된 사람(다만, 입영연기 등으로 재병역판정검사 해당연도에 입영하지 않은 사람은 다음 연도의 징집이나 소집일자가 결정되었더라도 재병역판정검사 대상) <개정 2016.11.30., 2020.1.30.>5. 삭제 <2026.1.7.>6. 각 군 모집에 합격 후 해당연도 입영 대기중인 사람② 자원관리 소관과장은 재병역판정검사 해당연도 말까지 징집 또는 소집이 가능하다고 판단한 사람에 대해서는 재병역판정검사 대상자 선발을 보류하고, 그 명단을 별지 제4호서식에 따라 작성 후 입영일자 연기 등으로 재병역판정검사 해당연도에 징집 또는 소집되지 않은 사람에 대해서는 지체 없이 재병역판정검사를 받을 수 있도록 조치한다. 이 경우 해당연도 미입영자는 다음연도의 징집이나 소집일자가 결정되었다 하더라도 재병역판정검사 대상이 되므로 선발보류에 신중하게 선발보류 하여야 한다. <개정 2016.11.30., 2017.1.11, 2020.1.30.>③ 자원관리 소관과장은 재병역판정검사 대상자로서 법 제60조제1항에 해당하는 사유로 입영 등의 연기 중인 사람(국외왕래 선원, 국외 체재ㆍ거주자, 범죄로 구속되거나 형 집행중인 사람 등)에 대해서는 재병역판정검사 대상자 선발을 보류(행방불명 사유로 입영 등이 연기중인 사람 포함)하고 그 명단을 별지 제5호서식에 따라 작성ㆍ관리한 후, 그 사유가 없어진 사람에 대해서는 지체 없이 재병역판정검사를 받을 수 있도록 조치한다. <개정 2016.11.30., 2017.1.11.>[제목개정 2016.11.30.]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "별지 제3호서식",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "별지3",
+            "target_article_title": "재병역판정검사 대상 선발 보류(1) 명부",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758379",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0008",
+            "reference_id": "admrul:재병역판정검사규정#BJ0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제2항",
+            "link_text": "별지 제4호서식",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "별지4",
+            "target_article_title": "재병역판정검사 대상 선발 보류(2) 명부",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758385",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0008",
+            "reference_id": "admrul:재병역판정검사규정#BJ0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제3항",
+            "link_text": "제60조제1항",
+            "line_text": "",
+            "target_law_name": "병역법 시행규칙",
+            "target_article_no": "제60조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/병역법 시행규칙/제60조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0008",
+            "reference_id": "law:병역법시행규칙#JO0060"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제3항",
+            "link_text": "별지 제5호서식",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "별지5",
+            "target_article_title": "재병역판정검사 대상 선발 보류(3) 명부",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758391",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0008",
+            "reference_id": "admrul:재병역판정검사규정#BJ0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:재병역판정검사규정#JO0008"
+      },
+      {
+        "article_no": "제8조의2",
+        "article_title": "재병역판정검사 일자 및 장소 본인선택 등",
+        "chapter": "제3장  재병역판정검사 준비 <개정 2016.11.30.>",
+        "content": "제8조의2(재병역판정검사 일자 및 장소 본인선택 등) ① 지방병무청장은 병무청 홈페이지에 본인선택 공석을 공개하여 제7조제4항 각 호에 해당하는 사람을 제외한 재병역판정검사 대상자가 공동인증서 등에 의하여 본인여부를 확인한 후 본인선택을 할 수 있도록 한다. 다만, 공동인증서 등 발급이 곤란한 사람으로 지방병무청을 방문하여 별지 제23호서식의 재병역판정검사 일자 및 장소 본인선택(변경ㆍ취소) 신청서를 제출한 경우에는 주민등록증, 운전면허증, 여권, 사진이 있는 학생증 등 공적신분증으로 본인여부를 확인한 후 공석 범위에서 본인이 원하는 재병역판정검사 일자를 정하거나 변경 또는 취소할 수 있다. <개정 2016.11.30., 2020.1.30.. 2021.2.15.>② 본인선택은 공고된 병적지 관할 지방병무청의 병역판정검사 기간 중 검사 받기를 희망하는 일자의 1일 전까지 신청할 수 있으며, 병적지와 실거주지가 다른 학생, 학원수강생, 직장인 등에 한정하여 실거주지 관할 지방병무청을 선택할 수 있다. 다만, 재병역판정검사 해당연도 대상자 이외의 신청자는 신청일부터 2개월 이내 일자만 선택할 수 있다. <개정 2016.11.30., 2019.1.25., 2020.1.30.>③ 본인선택을 신청하려는 사람의 병적지 관할 지방병무청이 연중 병역판정검사를 실시하지 않는 지방병무청인 경우에는 병무청장이 정하는 가까운 지방병무청을 본인선택할 수 있다. <개정 2016.11.30.>④ 본인선택한 사람 중 일자(장소)를 변경하고자 할 경우에는 선택한 재병역판정검사기일 1일 전까지 공석 범위에서 본인선택 일자 및 장소를 변경할 수 있다. <개정 2016.11.30., 2017.1.11.>⑤ 본인선택자 중 본인선택 취소를 제한하는 경우는 다음 각호와 같다.1. 본인선택한 재병역판정검사일 35일 전부터 1일 전까지 취소하고자 하는 경우 <개정 2016.11.30., 2017.1.11.>2. 실거주지 관할 지방병무청을 선택한 사람의 병적지 관할 지방병무청 병역판정검사가 종료된 경우 <개정 2016.11.30.>[본조신설 2016. 1. 7][전문개정 2016.11.30.]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조의2",
+            "source_clause": "제8조의2제1항",
+            "link_text": "제7조제4항",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/재병역판정검사 규정/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0008_02",
+            "reference_id": "admrul:재병역판정검사규정#JO0007"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조의2",
+            "source_clause": "제8조의2제1항",
+            "link_text": "별지 제23호서식",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "별지23",
+            "target_article_title": "재병역판정검사 일자 및 장소 본인선택(취소ㆍ변경) 신청서",
+            "appendix_no": "23",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758501",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0008_02",
+            "reference_id": "admrul:재병역판정검사규정#BJ0023"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:재병역판정검사규정#JO0008_02"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "재병역판정검사 대상자 선발 및 통보",
+        "chapter": "제3장  재병역판정검사 준비 <개정 2016.11.30.>",
+        "content": "제9조(재병역판정검사 대상자 선발 및 통보) ① 현역병입영대상자 및 보충역, 입영연기자 등의 자원관리하는 지방병무청 소관과장은 제8조의2에 따른 재병역판정검사 일자 및 장소 본인선택자를 제외한 재병역판정검사 대상자(재병역판정검사 일자 및 본인선택 후 참석하지 않은 미수검자 포함) 를 검사일 50일 전까지 선발하고, 그 명단 등을 병역판정검사과장에게 통보하여야 한다. <개정 2016.11.30., 2017.1.11., 2020.1.30.>② 제1항에 따른 재병역판정검사 대상자 명단을 통보받은 지방병무청 병역판정검사과장은 재병역판정검사일 45일 전까지 통지대상자 선정작업을 완료하여 전자우편센터 관할 부서의 장에게 전송하여 재병역판정검사일 30일 전까지 본인에게 재병역판정검사 통지서가 송달될 수 있도록 한다. <개정 2016.11.30., 2017.1.11., 2020.1.30.>③ 제7조제3항에 따라 다른 지방병무청장에게 재병역판정검사를 의뢰하는 지방병무청장은 재병역판정검사를 실시하는 지방병무청장(병역판정검사과장)과 사전 협의하여 제1항 및 제2항의 절차를 따른다. <개정 2016.11.30.>[제목개정 2016.11.30.]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제1항",
+            "link_text": "제8조의2",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "제8조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/재병역판정검사 규정/제8조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0009",
+            "reference_id": "admrul:재병역판정검사규정#JO0008_02"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제3항",
+            "link_text": "제7조제3항",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/재병역판정검사 규정/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0009",
+            "reference_id": "admrul:재병역판정검사규정#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:재병역판정검사규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "재병역판정검사 통지서 송달",
+        "chapter": "제3장  재병역판정검사 준비 <개정 2016.11.30.>",
+        "content": "제10조(재병역판정검사 통지서 송달) ① 전자우편센터 관할 부서의 장은 제9조제2항에 따라 인수한 재병역판정검사 통지대상자에 대하여 별지 제6호서식에 따른 재병역판정검사 통지서를 「병역의무부과 통지서 송달 및 전자우편센터 운영규정」 제6조를 준용하여 등기우편으로 발송한다. 다만, 지방병무청장은 부득이한 사유로 방문교부시에는 별지 제7호서식의 통지서 수령증을 받아야 한다. <개정 2013.1.24., 2016.11.30.,2026.1.7.>② 재병역판정검사 통지서상의 생년월일 기재 등 작성방법과 그 밖의 발송자료 등은 「병역판정검사 규정」을 준용한다. <개정 2016.11.30., 2020.1.30.>③ 자원관리 소관과장은 전자우편센터를 통하여 재병역판정검사 통지서를 한꺼번에 통지한 이후 발생한 반송 통지서 재통지 또는 연기사유 해소 등으로 개별통지가 필요한 경우에는 지방병무청장(자원관리 소관과장)이 자체적으로 작성ㆍ송달함을 원칙으로 하되, 필요한 경우에는 전자우편센터 관할 부서의 장과 협의하여 통지서 발송을 의뢰할 수 있다. <개정 2016.11.30.>④ 제1항과 제3항의 통지서 송달기간을 7일전까지 단축할 수 있는 경우는 다음 각 호와 같다. <개정 2018.1.31.>1. 재병역판정검사 연기사유가 해소된 사람 <개정 2016.11.30.>2. 정당한 사유없이 재병역판정검사를 받지 않아 재통지가 필요한 사람 <개정 2016.11.30.>⑤ 재병역판정검사를 본인선택한 사람은 영 제3조의3에 따라 본인의 동의를 받아 본인선택 시 입력한 전자우편 주소에 병역판정검사 통지서를 전송함으로써 송달에 갈음할 수 있다. 이 경우 본인이 선택한 재병역판정검사일 35일 전까지 병무청 대량메일서버에 의해 전송하되, 재병역판정검사일 35일 전부터 1일 전까지 본인선택한 사람에 대해서는 재병역판정검사 일자를 선택한 다음 날 전송한다. <신설 2016.1.7., 개정 2016.11.30., 2017.1.11., 2018.1.31.>[제목개정 2016.11.30.]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "제9조제2항",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/재병역판정검사 규정/제9조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0010",
+            "reference_id": "admrul:재병역판정검사규정#JO0009"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "별지 제6호서식",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "별지6",
+            "target_article_title": "재병역판정검사 통지서",
+            "appendix_no": "6",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758399",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0010",
+            "reference_id": "admrul:재병역판정검사규정#BJ0006"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "「병역의무부과 통지서 송달 및 전자우편센터 운영규정」",
+            "line_text": "",
+            "target_law_name": "병역의무부과 통지서 송달 및 전자우편센터 운영규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/병역의무부과 통지서 송달 및 전자우편센터 운영규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0010",
+            "reference_id": "admrul:병역의무부과통지서송달및전자우편센터운영규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "병역의무부과 통지서 송달 및 전자우편센터 운영규정",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/병역의무부과 통지서 송달 및 전자우편센터 운영규정/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0010",
+            "reference_id": "admrul:병역의무부과통지서송달및전자우편센터운영규정#JO0006"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "별지 제7호서식",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "별지7",
+            "target_article_title": "재병역판정검사 통지서 수령증",
+            "appendix_no": "7",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758405",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0010",
+            "reference_id": "admrul:재병역판정검사규정#BJ0007"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제2항",
+            "link_text": "「병역판정검사 규정」",
+            "line_text": "",
+            "target_law_name": "병역판정검사 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/병역판정검사 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0010",
+            "reference_id": "admrul:병역판정검사규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제5항",
+            "link_text": "제3조의3",
+            "line_text": "",
+            "target_law_name": "병역판정검사 규정",
+            "target_article_no": "제3조의3",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/병역판정검사 규정/제3조의3",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0010",
+            "reference_id": "admrul:병역판정검사규정#JO0003_03"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:재병역판정검사규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "반송된 재병역판정검사 통지서 처리",
+        "chapter": "제3장  재병역판정검사 준비 <개정 2016.11.30.>",
+        "content": "제11조(반송된 재병역판정검사 통지서 처리) 지방병무청장은 재병역판정검사 통지서가 반송된 경우에는 ‘행정정보공동이용시스템’ 등에 의하여 주소지를 재확인하고 다음 각 호와 같이 처리한다. <개정 2015.1.8., 2016.11.30.>1. 같은 지방병무청 관내로 주소지를 이동한 사람은 재병역판정검사 통지서를 신주소지로 우편 송달 <개정 2016.11.30.>2. 재병역판정검사일 전에 다른 지방병무청 관내로 주소지를 이동하여 병적이 이관된 사람은 재병역판정검사 통지를 취소하되 재병역판정검사 통지가 취소된 사람이 병역판정검사장에 출석한 때에는 재병역판정검사를 실시 <개정 2016.11.30., 2020.1.30.>3. 다른 지방병무청에서 전입하여 병적이 이관된 사람은 전주소지에서의 재병역판정검사 수검여부를 확인하여 미수검자는 신주소지 관할 지방병무청장이 재병역판정검사 통지서 송달 <개정 2016.11.30., 2020.1.30.>[제목개정 2016.11.30.]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:재병역판정검사규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "재병역판정검사 수검 독려",
+        "chapter": "제3장  재병역판정검사 준비 <개정 2016.11.30.>",
+        "content": "제12조(재병역판정검사 수검 독려) ① 재병역판정검사가 단기간에 실시되는 만큼 자원관리 소관과장은 통지서 발송 후 송달여부 확인 및 수검독려 활동을 철저히 하여 미수검자가 발생하지 않도록 한다. <개정 2016.11.30., 2020.1.30.>② 자원관리 소관과장 등은 민원상담 및 재병역판정검사 독려 과정에서 신분증, 나라사랑카드(이미 발급받은 자에 한함), 병무용 진단서(필요자에 한함) 지참 등을 함께 안내한다. <개정 2016.11.30.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:재병역판정검사규정#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "재병역판정검사일자 조정 등",
+        "chapter": "제3장  재병역판정검사 준비 <개정 2016.11.30.>",
+        "content": "제13조(재병역판정검사일자 조정 등) 자원관리 소관과장은 재병역판정검사 통지서를 받은 사람이 부득이한 사유로 재병역판정검사 일자 변경을 원하거나 다른 병역판정검사장에서 재병역판정검사 받기를 원하는 경우에는 다음 각 호와 같이 처리한다. <개정 2016.11.30.>1. 이미 통지된 같은 병역판정검사장내에서 가급적 희망일자에 수검할 수 있도록 재병역판정검사일자를 조정 <개정 2016.11.30.>2. 질병ㆍ거동불편 등으로 불가피하게 다른 병역판정검사장에서의 재병역판정검사가 필요하다고 지방병무청장이 인정하는 경우에 한정하여 「병역판정검사 규정」에서 정하는 절차에 따라 처리 <개정 2016.11.30., 2020.1.30.>[제목개정 2016.11.30.]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조",
+            "source_clause": "제13조",
+            "link_text": "「병역판정검사 규정」",
+            "line_text": "",
+            "target_law_name": "병역판정검사 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/병역판정검사 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0013",
+            "reference_id": "admrul:병역판정검사규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:재병역판정검사규정#JO0013"
+      },
+      {
+        "article_no": "제13조의2",
+        "article_title": "재병역판정검사일자연기 등",
+        "chapter": "제3장  재병역판정검사 준비 <개정 2016.11.30.>",
+        "content": "제13조의2(재병역판정검사일자연기 등) ① 지방병무청장은 재병역판정검사 통지서를 받은 사람으로서 영 제129조제1항 각 호의 사유로 재병역판정검사의 일자 연기를 희망하는 사람에 대하여는 그 일자를 연기할 수 있다.② 재병역판정검사 통지서를 받은 사람이 다음 각 호에 해당하는 경우 규칙 별지 제103호의2서식의 병역이행일 등 연기신청서를 제출하여 재병역판정검사 연기를 신청할 수 있으며, 지방병무청장은 신청한 사람에 대하여 사실 여부를 확인하여 그 일자를 연기할 수 있다. <개정 2026.1.7.>1. 「대체역의 편입 및 복무 등에 관한 법률」 제3조에 따라 대체역으로 편입을 신청한 경우 <신설 2026.1.7.>2. 법 제34조, 제34조의6 및 제34조의7에 따라 공중보건의사, 공중방역수의사 또는 공익법무관으로 지원한 경우 <신설 2026.1.7.>③ 제2항에 따른 연기 기간은 90일 이내로 정하여야 한다. 다만, 대체역 심사위원회의 편입 결정이 이루어지지 않은 등의 부득이한 사유가 있을 시 60일 이내에서 연장할 수 있다.④ 해당 자원관리 소관과장은 제2항에 따른 연기 사유가 해소된 사람이 재병역판정검사 대상자로 확인될 경우 지체 없이 재병역판정검사 통지를 하여야 한다. <신설 2026.1.7.>[본조신설 2021. 2. 15.]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제13조의2",
+            "source_clause": "제13조의2제2항",
+            "link_text": "별지 제103호의2서식",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "별지103의2",
+            "target_article_title": "",
+            "appendix_no": "103",
+            "appendix_branch": "2",
+            "appendix_kind": "별지",
+            "appendix_found": false,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000272260&bylNo=&bylBrNo=",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0013_02",
+            "reference_id": "admrul:재병역판정검사규정#BJ0103_02"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제13조의2",
+            "source_clause": "제13조의2제2항",
+            "link_text": "「대체역의 편입 및 복무 등에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "대체역의 편입 및 복무 등에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대체역의 편입 및 복무 등에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0013_02",
+            "reference_id": "law:대체역의편입및복무등에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제13조의2",
+            "source_clause": "제13조의2제2항",
+            "link_text": "제3조",
+            "line_text": "",
+            "target_law_name": "대체역의 편입 및 복무 등에 관한 법률",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대체역의 편입 및 복무 등에 관한 법률/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0013_02",
+            "reference_id": "law:대체역의편입및복무등에관한법률#JO0003"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제13조의2",
+            "source_clause": "제13조의2제2항",
+            "link_text": "제34조",
+            "line_text": "",
+            "target_law_name": "대체역의 편입 및 복무 등에 관한 법률",
+            "target_article_no": "제34조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대체역의 편입 및 복무 등에 관한 법률/제34조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0013_02",
+            "reference_id": "law:대체역의편입및복무등에관한법률#JO0034"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제13조의2",
+            "source_clause": "제13조의2제2항",
+            "link_text": "제34조의6 및 제34조의7",
+            "line_text": "",
+            "target_law_name": "대체역의 편입 및 복무 등에 관한 법률",
+            "target_article_no": "제34조의6",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대체역의 편입 및 복무 등에 관한 법률/제34조의6",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0013_02",
+            "reference_id": "law:대체역의편입및복무등에관한법률#JO0034_06"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제13조의2",
+            "source_clause": "제13조의2제2항",
+            "link_text": "제34조의6 및 제34조의7",
+            "line_text": "",
+            "target_law_name": "대체역의 편입 및 복무 등에 관한 법률",
+            "target_article_no": "제34조의7",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대체역의 편입 및 복무 등에 관한 법률/제34조의7",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0013_02",
+            "reference_id": "law:대체역의편입및복무등에관한법률#JO0034_07"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:재병역판정검사규정#JO0013_02"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "재병역판정검사 의뢰 등",
+        "chapter": "제3장  재병역판정검사 준비 <개정 2016.11.30.>",
+        "content": "제14조(재병역판정검사 의뢰 등) ① 병역판정검사과장 및 자원관리 소관과장은 재병역판정검사 일자별 인원현황 및 별지 제2호서식에 따른 명단을 재병역판정검사일 5일 전까지 병역판정관에게 통보한다. <개정 2016.11.30., 2017.1.11.>② 제7조제3항에 따라 해당연도 병역판정검사 일정이 종료되어 다른 병역판정검사장에 재병역판정검사를 의뢰하는 지방병무청장은 재병역판정검사를 실시하는 지방병무청장과 검사인원 등을 사전에 충분히 협의하여 재병역판정검사 실시에 차질이 없도록 하여야 한다. <개정 2016.11.30.>[제목개정 2016.11.30.]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제1항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "별지2",
+            "target_article_title": "재병역판정검사 대상자 명단",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758373",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0014",
+            "reference_id": "admrul:재병역판정검사규정#BJ0002"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제2항",
+            "link_text": "제7조제3항",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/재병역판정검사 규정/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0014",
+            "reference_id": "admrul:재병역판정검사규정#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:재병역판정검사규정#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "재병역판정검사 전산처리 등",
+        "chapter": "제4장  재병역판정검사 실시 <개정 2016.11.30.>",
+        "content": "제15조(재병역판정검사 전산처리 등) ① 지방병무청장은 재병역판정검사 업무를 재병역판정검사 시스템에 의하여 전산으로 처리하되, 종전의 병역판정검사 사항도 그대로 유지하여 병적조회 등에서 병역판정검사 및 재병역판정검사 결과를 한꺼번에 확인할 수 있도록 관리한다. <개정 2016.11.30.>② 병역판정관은 각종 통계현황을 병역판정검사와 재병역판정검사를 구분하여 관리한다. <개정 2016.11.30.>[제목개정 2016.11.30.]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:재병역판정검사규정#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "재병역판정검사 대상자 등록 등",
+        "chapter": "제4장  재병역판정검사 실시 <개정 2016.11.30.>",
+        "content": "제16조(재병역판정검사 대상자 등록 등) ① 심리검사 사무원은 재병역판정검사 대상자를 인접하고 재병역판정검사 배경, 방법 및 절차 등의 설명과 신분확인 과정을 철저히 한다. <개정 2016.11.30.>② 심리검사 사무원은 신상명세서 및 질병상태 문진표를 작성할 때 병역판정검사 대상자와 동일한 서식을 활용하되, 재병역판정검사 대상자가 작성하지 않는 사항에 대해서는 그 이유를 상세히 설명하여 향후 병역이행에 착오 없도록 하여야 한다. <개정 2016.11.30, 2020.1.30.>③ 심리검사 사무원은 병역판정검사시 발급한 나라사랑카드를 소지한 사람은 그대로 활용할 수 있도록 하되, 소지하지 않았거나 재발급 등이 필요한 사람에 대해서는 나라사랑카드를 발급(임시카드 발급 포함)하여 재병역판정검사에 임하도록 하고, 나라사랑카드 외 별도의 금융계좌를 통한 여비수령 희망자는 신상명세서를 받을 때 관련 계좌 등을 정확히 파악하여 여비지급에 차질 없도록 한다. <개정 2016.11.30.>④ 그 밖에 심리검사장에서의 안내 등은 「병역판정검사 규정」을 준용한다. <개정 2016.11.30.>[제목개정 2016.11.30.]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제4항",
+            "link_text": "「병역판정검사 규정」",
+            "line_text": "",
+            "target_law_name": "병역판정검사 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/병역판정검사 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0016",
+            "reference_id": "admrul:병역판정검사규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:재병역판정검사규정#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "재병역판정검사 및 병역증 교부",
+        "chapter": "제4장  재병역판정검사 실시 <개정 2016.11.30.>",
+        "content": "제17조(재병역판정검사 및 병역증 교부) ① 재병역판정검사의 절차와 방법에 관하여는 법 제10조부터 제14조까지의 규정을 준용한다.② 재병역판정검사 전 신체등급 3급 ㆍ 4급으로 판정받은 사람에 대해서는 해당 질병에 대해 현재 건강상태를 재검사하여야 한다. 다만, 선천성 질환이나 수술 후 상태 변동이 없는 질환, 질병 상태 변동이 없는 질환 등은 병역판정검사의사의 판단에 따라 이미 제출된 자료를 활용하여 판정할 수 있다. <신설 2013.1.24., 개정 2014.1.16., 2016.11.30., 2017.1.11., 2018.1.31., 2020.1.30.>③ 재병역판정검사를 받는 사람의 신체등급 결정은 재병역판정검사를 받는 해의 신체등급 판정기준을 적용한다. 다만, 신체등급 이외의 사항에 관하여는 당초 병역판정검사를 받은 해의 병역처분 기준을 적용한다. <개정 2016.1.7., 2016.11.30.>④ 제1항에 따라 재병역판정검사를 받은 사람에게는 병역판정신체검사 결과 통보서와 병역증을 교부한다. 다만, 병역판정검사시 나라사랑카드를 발급받았으나 재병역판정검사시 지참하지 않은 사람에 대해서는 나라사랑카드 재발급 방법 등을 안내하여 처리한다. <개정 2013.1.24., 2016.11.30.>[제목개정 2016.11.30.]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제1항",
+            "link_text": "제10조부터 제14조",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/재병역판정검사 규정/제10조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0017",
+            "reference_id": "admrul:재병역판정검사규정#JO0010"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제1항",
+            "link_text": "제10조부터 제14조",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/재병역판정검사 규정/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0017",
+            "reference_id": "admrul:재병역판정검사규정#JO0011"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제1항",
+            "link_text": "제10조부터 제14조",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/재병역판정검사 규정/제12조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0017",
+            "reference_id": "admrul:재병역판정검사규정#JO0012"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제1항",
+            "link_text": "제10조부터 제14조",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/재병역판정검사 규정/제13조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0017",
+            "reference_id": "admrul:재병역판정검사규정#JO0013"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제1항",
+            "link_text": "제10조부터 제14조",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "제13조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/재병역판정검사 규정/제13조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0017",
+            "reference_id": "admrul:재병역판정검사규정#JO0013_02"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제1항",
+            "link_text": "제10조부터 제14조",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "제14조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/재병역판정검사 규정/제14조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0017",
+            "reference_id": "admrul:재병역판정검사규정#JO0014"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:재병역판정검사규정#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "이의신청자 처리",
+        "chapter": "제4장  재병역판정검사 실시 <개정 2016.11.30.>",
+        "content": "제18조(이의신청자 처리) 재병역판정검사 결과에 대한 이의신청 처리 방법은 「병역판정검사 규정」을 준용한다. <개정 2016.11.30.>[전문개정 2014.1.16.]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제18조",
+            "source_clause": "제18조",
+            "link_text": "「병역판정검사 규정」",
+            "line_text": "",
+            "target_law_name": "병역판정검사 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/병역판정검사 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0018",
+            "reference_id": "admrul:병역판정검사규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:재병역판정검사규정#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "우선ㆍ실거주지 재병역판정검사 희망자 처리 등",
+        "chapter": "제4장  재병역판정검사 실시 <개정 2016.11.30.>",
+        "content": "제19조(우선ㆍ실거주지 재병역판정검사 희망자 처리 등) ① 국외여행, 학사일정 등의 사유로 우선 재병역판정검사를 받고자 하는 사람은 별지 제8호서식에 따른 우선ㆍ실거주지 재병역판정검사 신청서를 제출하여야 한다. 다만, 병역의무자가 재병역판정검사대상이 되는 해에 병역처분변경원 제출로 재신체검사 시 본인이 원할 경우 재병역판정검사를 실시할 수 있으며, 이때에는 우선 재병역판정검사 신청자와 동일하게 처리한다. <개정 2015.1.8., 2016.1.7., 2016.11.30., 2020.1.30.>② 자원관리 소관과장은 제1항에 따른 우선ㆍ실거주지 재병역판정검사 신청서를 접수한 경우에는 증빙서류 등을 검토하여 타당한 사유라고 인정되면 가급적 본인 희망일자에 재병역판정검사를 받을 수 있도록 한다. <개정 2016.1.7., 2016.11.30.>③ 병적지와 실거주지가 다른 고등학교 이상의 학교에 재학중인 학생, 학원수강생 또는 직장인 등으로서 우선 재병역판정검사를 희망하거나 재병역판정검사 통지서를 받은 경우 실거주지 관할 지방병무청(실거주지 인근 지방병무청 포함)에서 재병역판정검사를 받고자 하는 사람은 별지 제8호서식에 따른 우선ㆍ실거주지 재병역판정검사 신청서를 제출하여야 한다. <신설 2013.1.24., 개정 2015.1.8., 2016.1.7., 2016.11.30.>④ 병적지 지방병무청장은 제3항에 따라 우선ㆍ실거주지 재병역판정검사 신청서를 접수한 경우에는 재학증명서(병무행정시스템을 통하여 확인가능한 경우는 제외), 학원수강증명서 또는 재직증명서 등 증빙서류를 확인하고, 실거주지 관할 지방병무청과 검사 일자 등을 협조하여 재병역판정검사를 의뢰하고 통지서를 교부한다. <신설 2013.1.24., 개정 2016.1.7., 2016.11.30.>[제목개정 2013.1.24., 2016.1.7., 2016.11.30.]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제1항",
+            "link_text": "별지 제8호서식",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "별지8",
+            "target_article_title": "우선·실거주지 재병역판정검사 신청서",
+            "appendix_no": "8",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758411",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0019",
+            "reference_id": "admrul:재병역판정검사규정#BJ0008"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제3항",
+            "link_text": "별지 제8호서식",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "별지8",
+            "target_article_title": "우선·실거주지 재병역판정검사 신청서",
+            "appendix_no": "8",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758411",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0019",
+            "reference_id": "admrul:재병역판정검사규정#BJ0008"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:재병역판정검사규정#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "신체등급판정 심의위원회 심의",
+        "chapter": "제4장  재병역판정검사 실시 <개정 2016.11.30.>",
+        "content": "제20조(신체등급판정 심의위원회 심의) 신체등급 판정심의위원회 심의 대상 등 필요한 사항은 「병역판정검사 규정」을 준용하여 처리한다. <개정 2016.11.30.>[전문개정 2014.1.16.][제목개정 2016.11.30.]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제20조",
+            "source_clause": "제20조",
+            "link_text": "「병역판정검사 규정」",
+            "line_text": "",
+            "target_law_name": "병역판정검사 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/병역판정검사 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0020",
+            "reference_id": "admrul:병역판정검사규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:재병역판정검사규정#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "재병역판정검사결과 통보 등",
+        "chapter": "제5장  재병역판정검사 결과통보 및 후속처리 <개정 2016.11.30.>",
+        "content": "제21조(재병역판정검사결과 통보 등) ① 병역판정관은 재병역판정검사 결과 병역처분이 종료된 사람에 대해서는 지체 없이 해당 자원관리 소관과장에게 자원이관한다. 다만, 전시근로역 등 의무부과에 지장이 없는 경우에는 지방병무청장이 정하는 때에 자원이관할 수 있다. <개정 2016.11.30, 2021. 2. 15.>② 제1항에 따라 재병역판정검사 결과를 통보할 경우에는 별지 제9호서식부터 별지 제12호서식에 따른 현역병 입영대상자 처분 명부 등을 병적번호순으로 각각 2부를 작성하여 병역판정검사장에 각 1부를 보관하고, 나머지는 해당 자원관리 소관과장에게 송부한다. <개정 2016.11.30.>③ 병역판정관은 해당연도 재병역판정검사 일정에 재병역판정검사를 받지 않은 사람에 대해서는 재병역판정검사 의뢰 당시의 신분별로 구분하여 병적번호순으로 별지 제13호서식에 따른 재병역판정검사 미수검자 명부를 2부 작성하여 병역판정검사장에 1부를 보관하고, 나머지는 해당 자원관리 소관과장에게 송부한다. <개정 2016.11.30., 2020.1.30.>④ 제3항에 따라 재병역판정검사 미수검자를 통보받은 자원관리 소관과장은 그 사유를 신속히 파악하고 제22조에 해당하지 않는 사람은 별지 제13호서식에 따른 미수검자 명부를 재작성ㆍ관리하며 재병역판정검사 대상여부를 지속적으로 확인한다. <개정 2016.11.30.>[제목개정 2016.11.30.]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제21조",
+            "source_clause": "제21조제2항",
+            "link_text": "별지 제9호서식",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "별지9",
+            "target_article_title": "현역병 입영대상자 처분 명부",
+            "appendix_no": "9",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758417",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0021",
+            "reference_id": "admrul:재병역판정검사규정#BJ0009"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제21조",
+            "source_clause": "제21조제2항",
+            "link_text": "별지 제12호서식",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "별지12",
+            "target_article_title": "7급 재신체검사대상 처분 명부",
+            "appendix_no": "12",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758435",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0021",
+            "reference_id": "admrul:재병역판정검사규정#BJ0012"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제21조",
+            "source_clause": "제21조제3항",
+            "link_text": "별지 제13호서식",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "별지13",
+            "target_article_title": "재병역판정검사 미수검자 명부",
+            "appendix_no": "13",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758441",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0021",
+            "reference_id": "admrul:재병역판정검사규정#BJ0013"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제21조",
+            "source_clause": "제21조제4항",
+            "link_text": "제22조",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "제22조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/재병역판정검사 규정/제22조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0021",
+            "reference_id": "admrul:재병역판정검사규정#JO0022"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제21조",
+            "source_clause": "제21조제4항",
+            "link_text": "별지 제13호서식",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "별지13",
+            "target_article_title": "재병역판정검사 미수검자 명부",
+            "appendix_no": "13",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758441",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0021",
+            "reference_id": "admrul:재병역판정검사규정#BJ0013"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:재병역판정검사규정#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "재병역판정검사 연기자 등 처리",
+        "chapter": "제5장  재병역판정검사 결과통보 및 후속처리 <개정 2016.11.30.>",
+        "content": "제22조(재병역판정검사 연기자 등 처리) ① 자원관리 소관과장은 제8조에 의한 재병역판정검사 대상자 선발보류 사유가 계속되거나 제21조제3항에 의한 재병역판정검사 미수검자 파악결과 재병역판정검사 해당연도에 검사를 받지 않은 사람에 대해서는 다음 각 호와 같이 처리한다. <개정 2016.11.30.>1. 국외왕래 선원, 국외 체재ㆍ거주자, 범죄로 구속되거나 형의 집행중에 있는 사람은 법 제60조제1항의 규정을 준용하여 재병역판정검사 연기처분 <개정 2016.11.30.>2. 질병ㆍ심신장애ㆍ재난ㆍ행방불명 등으로 재병역판정검사일 연기가 다음연도까지 계속되는 사람은 법 제61조제1항의 규정을 준용하여 재병역판정검사 연기처분 <개정 2016.11.30.>3. 재병역판정검사 통지 후 재병역판정검사 해당연도의 징집(소집) 계획에 따라 추가로 해당연도 징집(소집) 통지대상이 되거나 병적편입, 수형, 사망 등의 사유로 재병역판정검사 비대상이 되는 사람은 통지취소 <개정 2016.11.30.>4. 재병역판정검사 통지서를 받은 사람이 정당한 사유없이 불응한 경우에는 재병역판정검사 기피자로 관리 <개정 2016.11.30.>5. 재병역판정검사 대상자 선발보류 사유가 계속되는 사람 중 제1호와 제2호에 해당하지 않는 사람은 선발보류자로 계속관리 <개정 2016.11.30.>② 자원관리 소관과장은 제1항에 따른 병역처분 사항이 병적조회 화면에서 확인될 수 있도록 재병역판정검사 전산시스템에 입력하고 다음 각 호와 같이 명단을 관리하면서 사유해소로 재병역판정검사 대상이 될 경우 지체 없이 수검조치 한다. <개정 2016.11.30.>1. 제1항제1호 및 제2호에 해당하는 사람은 별지 제14호서식에 따른 명부 작성ㆍ관리2. 제1항제3호에 해당하는 사람은 별지 제15호서식에 따른 명부 작성ㆍ관리3. 제1항제4호에 해당하는 사람은 별지 제16호서식에 따른 명부 작성ㆍ관리4. 제1항제5호에 해당하는 사람은 별지 제3호서식에 따른 명부 작성ㆍ관리③ 자원관리 소관과장은 재병역판정검사 통지 전부터 각종 입영연기, 행방불명, 기피자 등으로 병적관리 되고 있는 사람에 대하여 재병역판정검사 연기 등의 처분과는 별도로 종전의 병적관리를 계속한다. <개정 2016.11.30.>④ 자원관리 소관과장은 재병역판정검사 연기중인 경우 등으로 재병역판정검사가 종결되지 않은 사람이 징집이나 소집되지 않도록 자원관리에 유의하여야 한다. <개정 2016.11.30., 2020.1.30., 2021.2.15.>[제목개정 2016.11.30.]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제1항",
+            "link_text": "제8조",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/재병역판정검사 규정/제8조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0022",
+            "reference_id": "admrul:재병역판정검사규정#JO0008"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제1항",
+            "link_text": "제21조제3항",
+            "line_text": "",
+            "target_law_name": "사회복무요원 소집업무 규정",
+            "target_article_no": "제21조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/사회복무요원 소집업무 규정/제21조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0022",
+            "reference_id": "admrul:사회복무요원소집업무규정#JO0021"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제1항",
+            "link_text": "제60조제1항",
+            "line_text": "",
+            "target_law_name": "병역법 시행규칙",
+            "target_article_no": "제60조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/병역법 시행규칙/제60조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0022",
+            "reference_id": "law:병역법시행규칙#JO0060"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제2항",
+            "link_text": "별지 제14호서식",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "별지14",
+            "target_article_title": "재병역판정검사 연기자 명부",
+            "appendix_no": "14",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758447",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0022",
+            "reference_id": "admrul:재병역판정검사규정#BJ0014"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제2항",
+            "link_text": "별지 제15호서식",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "별지15",
+            "target_article_title": "재병역판정검사 통지취소자 명부",
+            "appendix_no": "15",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758453",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0022",
+            "reference_id": "admrul:재병역판정검사규정#BJ0015"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제2항",
+            "link_text": "별지 제16호서식",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "별지16",
+            "target_article_title": "재병역판정검사 기피자 명부",
+            "appendix_no": "16",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758459",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0022",
+            "reference_id": "admrul:재병역판정검사규정#BJ0016"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제2항",
+            "link_text": "별지 제3호서식",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "별지3",
+            "target_article_title": "재병역판정검사 대상 선발 보류(1) 명부",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758379",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0022",
+            "reference_id": "admrul:재병역판정검사규정#BJ0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:재병역판정검사규정#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "업무분장",
+        "chapter": "제6장  업무분장 및 행정사항",
+        "content": "제23조(업무분장) ① 지방병무청의 재병역판정검사 업무분장은 다음과 같다. <개정 2016.11.30., 2018.1.31.>[그림]② 제1항에도 불구하고 지방병무청장이 특별히 필요하다고 인정하는 경우에는 업무분장 내용을 일부 조정할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160757725",
+            "seq": "160757725"
+          }
+        ],
+        "provision_id": "admrul:재병역판정검사규정#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "현황관리 및 보고",
+        "chapter": "제6장  업무분장 및 행정사항",
+        "content": "제24조(현황관리 및 보고) ① 자원관리 소관과장은 재병역판정검사 연기자, 통지취소자, 기피자 등의 현황 및 명부를 연도별로 작성ㆍ관리한다. <개정 2016.11.30.>② 병역판정검사과장은 재병역판정검사 통지 현황을 연도별로 종합 작성ㆍ관리한다. <개정 2016.11.30.>③ 병역판정관은 현역병입영대상자 처분 현황 등을 별지 제17호서식부터 별지 제21호서식까지를 작성ㆍ관리한다. <개정 2016.11.30.>④ 이 규정에서 정한 사항 외에 각종 보고에 관한 사항은 「병역판정검사 규정」을 준용한다. <개정 2016.11.30.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제24조",
+            "source_clause": "제24조제3항",
+            "link_text": "별지 제17호서식",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "별지17",
+            "target_article_title": "현역병 입영대상 처분 현황",
+            "appendix_no": "17",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758465",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0024",
+            "reference_id": "admrul:재병역판정검사규정#BJ0017"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제24조",
+            "source_clause": "제24조제3항",
+            "link_text": "별지 제21호서식",
+            "line_text": "",
+            "target_law_name": "재병역판정검사 규정",
+            "target_article_no": "별지21",
+            "target_article_title": "전시근로역 처분 사유별 현황",
+            "appendix_no": "21",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758489",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0024",
+            "reference_id": "admrul:재병역판정검사규정#BJ0021"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제24조",
+            "source_clause": "제24조제4항",
+            "link_text": "「병역판정검사 규정」",
+            "line_text": "",
+            "target_law_name": "병역판정검사 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/병역판정검사 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0024",
+            "reference_id": "admrul:병역판정검사규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:재병역판정검사규정#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "재검토기한",
+        "chapter": "제6장  업무분장 및 행정사항",
+        "content": "제25조(재검토기한) 병무청장은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 훈령에 대하여 2026년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다. <개정 2016.11.30., 2017.1.11., 2018.1.31, 2019.1.25, 2020.1.30, 2021.2.15., 2025.1.10., 2026.1.7.>[전문개정 2016. 1. 7]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제25조",
+            "source_clause": "제25조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:재병역판정검사규정#JO0025",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:재병역판정검사규정#JO0025"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20120120",
+      "promulgation_no": "985",
+      "content": "부칙 <제985호,2012. 1. 20.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.제2조(재징병검사에 관한 적용례) 재징병검사 대상자는 2007년 1월 19일 이후 최초 징병검사를 받고 현역병입영대상자 또는 보충역으로 병역처분을 받은 사람부터 적용한다.제3조 이 훈령에 별도의 규정이 없는 사항은 「징병검사 규정」을 준용한다."
+    },
+    {
+      "promulgation_date": "20130124",
+      "promulgation_no": "1051",
+      "content": "부칙 <제1051호,2013. 1. 24.>이 규정은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20140116",
+      "promulgation_no": "1169",
+      "content": "부칙 <제1169호,2014. 1. 16.>이 규정은 2014년 1월 27일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20150108",
+      "promulgation_no": "1240",
+      "content": "부칙 <제1240호,2015. 1. 8.>이 규정은 2015년 1월 21일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20160107",
+      "promulgation_no": "1314",
+      "content": "부칙 <제1314호,2016. 1. 7.>이 규정은 2016년 1월 21일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20160722",
+      "promulgation_no": "1350",
+      "content": "부칙 (국제협력봉사요원 편입 및 관리 규정)<제1350호,2016. 7. 22.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.제2조(다른 훈령의 개정) ① ～ ⑬ (생략)⑭ 「재징병검사 규정」 일부를 다음과 같이 개정한다.제6조제1항제5호 중 \"국제협력의사, 공중방역수의사\"를 \"공중방역수의사\"로 한다."
+    },
+    {
+      "promulgation_date": "20161130",
+      "promulgation_no": "1381",
+      "content": "부칙 <제1381호,2016. 11. 30.>이 규정은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20170111",
+      "promulgation_no": "1432",
+      "content": "부칙 <제1432호,2017. 1. 11.>이 규정은 2017년 1월 23일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20180131",
+      "promulgation_no": "1504",
+      "content": "부칙 <제1504호,2018. 1. 31.>이 규정은 2018년 2월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20190125",
+      "promulgation_no": "1555",
+      "content": "부칙 <제1555호,2019. 1. 25.>이 규정은 2019년 1월 28일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20200130",
+      "promulgation_no": "1665",
+      "content": "부칙 <제1665호,2020. 1. 30.>이 규정은 2020년 2월 3일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20200206",
+      "promulgation_no": "1667",
+      "content": "부칙 (사회복무요원 소집업무 규정)<제1667호,2020. 2. 6.>제1조(시행일) 이 규정은 발령한 날부터 시행한다.제2조(다른 훈령의 개정)「재병역판정검사 규정」일부를 다음과 같이 개정한다.제6조제1항제7호 본문 중 \"마목\"을 \"바목\"으로 하고, 같은 호 단서 중 \"제21조 제1항제3호마목\"을 \"제21조제1항제3호바목\"으로 한다."
+    },
+    {
+      "promulgation_date": "20210215",
+      "promulgation_no": "1768",
+      "content": "부칙 <제1768호,2021. 2. 15.>이 규정은 2021년 2월 17일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20211014",
+      "promulgation_no": "1825",
+      "content": "부칙 <제1825호, 2021. 10. 14.>이 규정은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20221230",
+      "promulgation_no": "1921",
+      "content": "부칙 (조직 개편에 따른 병무연수원 운영규정 등 35개 훈령 일괄개정에 관한 규정)<제1921호, 2022. 12. 30.>이 규정은 2022년 12월 31일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20240426",
+      "promulgation_no": "2059",
+      "content": "부칙 <제2059호, 2024. 4. 26.>이 규정은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20250110",
+      "promulgation_no": "2116",
+      "content": "부칙 <제2116호, 2025. 1. 10.>이 규정은 2025년 1월 13일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20260107",
+      "promulgation_no": "39619",
+      "content": "부칙 <제39619호, 2026. 1. 7.>이 규정은 2026년 1월 8일부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "재병역판정검사 안내문",
+      "enforcement_date": "",
+      "content": "\n■ 재병역판정검사 규정 [별표] <개정 2013. 1.24, 개정 2015. 1, 8, 2016. 1. 7, 2016.11.30., 2017. 1.11, 2019. 1.25. 2020. 1.30>\n\n재병역판정검사 안내문\n\n\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                                                                                              ┃\n┃  안녕하십니까?                                                                                                               ┃\n┃                                                                                                                              ┃\n┃  귀하는 0000년 재병역판정검사 대상자입니다.                                                                                  ┃\n┃                                                                                                                              ┃\n┃  재병역판정검사는 최초 병역판정검사 결과 현역병 입영대상자 또는 보충역                                                       ┃\n┃(사회복무요원 소집대상)으로 병역처분을 받은 사람이 그 처분을 받은 다음                                                        ┃\n┃해부터 4년이 되는 해의 12월 31일까지 입영하지 않은 경우 5년이 되는                                                            ┃\n┃해에 받게 됩니다.                                                                                                             ┃\n┃                                                                                                                              ┃\n┃  다만 0000년 입영하거나, 입영(소집)일자가 결정된 사람은 재병역판정검사                                                       ┃\n┃대상에서 제외되며, 입영연기 등으로 0000년도 내에 입영하지 않은 사람은                                                         ┃\n┃다음연도에 입영일자가 결정되었더라도 재병역판정검사를 받게 됩니다.                                                            ┃\n┃                                                                                                                              ┃\n┃  올해 재병역판정검사 기간은 0000년 00월 00일~00월 00일이며 재병역판정                                                        ┃\n┃검사 일자 및 장소 본인선택제도를 통하여 희망하는 일자(장소)를 선택하여                                                        ┃\n┃재병역판정검사를 받으실 수 있습니다. 다만, 본인이 선택한 재병역판정                                                           ┃\n┃검사 일자 전이라도 입영(소집)일자는 결정될 수 있으며, 이 경우 당초                                                            ┃\n┃선택한 재병역판정검사 일자는 자동으로 취소가 됩니다. 또한 해당연도                                                            ┃\n┃대상자 이외의 신청자는 신청일부터 2개월 이내 일자만 선택할 수 있습니다.                                                       ┃\n┃                                                                                                                              ┃\n┃  재병역판정검사에 따른 신체등급 결정은 검사받는 해의 신체등급 판정                                                           ┃\n┃기준을 적용합니다. 다만 신체등급 이외의 사항(학력, 수형 등)에 관하여는                                                        ┃\n┃당초 병역판정검사를 받은 해의 병역처분 기준을 적용합니다.                                                                     ┃\n┃                                                                                                                              ┃\n┃  그 밖의 자세한 사항은 병무청 홈페이지(www.mma.go.kr) 및 병무민원                                                            ┃\n┃상담소(1588-9090)로 문의하여 주시기 바랍니다.                                                                                 ┃\n┃                                                                                                                              ┃\n┃  끝으로 귀하의 건승과 가정의 행복을 기원합니다.                                                                              ┃\n┃                                                                                                                              ┃\n┃년   월   일                                                                                                                  ┃\n┃                                       ┌───┐                                                                             ┃\n┃         ○ ○ 지방병무청(병무지청)장  │직인  │                                                                             ┃\n┃                                       │생략  │                                                                             ┃\n┃                                       └───┘                                                                             ┃\n┃                                                                                                                              ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758361",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758357",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758361",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:재병역판정검사규정#BYL0000",
+      "filename": "별표0_재병역판정검사 안내문.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "재병역판정검사 대상자 현황",
+      "enforcement_date": "",
+      "content": "\n■ 재병역판정검사 규정 [별지 제1호서식]\n\n재병역판정검사 대상자 현황\n\n\n───────────────────────────────────\n(               )지방병무청(병무지청)  00년도 재병역판정검사\n───────────────────────────────────\n\n━━━━━┯━┯━━┯━━┯━━━━━━━━┯━━┯━━┯━━┯━━━\n연령별  │계│24세│25세│26세            │27세│28세│29세│30세\n자원구분│  │    │    │                │    │    │    │이상\n─────┼─┼──┼──┼────────┼──┼──┼──┼───\n계      │  │    │    │                │    │    │    │\n─────┼─┼──┼──┼────────┼──┼──┼──┼───\n현    역│  │    │    │                │    │    │    │\n─────┼─┼──┼──┼────────┼──┼──┼──┼───\n보 충 역│  │    │    │                │    │    │    │\n─────┼─┼──┼──┼────────┼──┼──┼──┼───\n선   병 │  │    │    │                │    │    │    │\n─────┼─┼──┼──┼────────┼──┼──┼──┼───\n기   타 │  │    │    │                │    │    │    │\n━━━━━┷━┷━━┷━━┷━━━━━━━━┷━━┷━━┷━━┷━━━\n\n───────────────────────────────────\n210㎜×297㎜[백상지 80g/㎡]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758367",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758363",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758367",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:재병역판정검사규정#BJ0001",
+      "filename": "별지1_재병역판정검사 대상자 현황.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "재병역판정검사 대상자 명단",
+      "enforcement_date": "",
+      "content": "\n■ 재병역판정검사 규정 [별지 제2호서식]\n\n재병역판정검사 대상자 명단\n\n\n─────────────────────────────────────────────\n(               )지방병무청(병무지청)  00년도 재병역판정검사\n─────────────────────────────────────────────\n\n━━━┯━━━┯━━━━┯━━━━━━━━━┯━━━━┯━━━━━━━━━━━━━━━━━\n연번│성  명│병적번호│자원구분          │검사일자│비  고\n───┼───┼────┼─────────┼────┼─────────────────\n│      │        │                  │        │\n───┼───┼────┼─────────┼────┼─────────────────\n│      │        │                  │        │\n───┼───┼────┼─────────┼────┼─────────────────\n│      │        │                  │        │\n───┼───┼────┼─────────┼────┼─────────────────\n│      │        │                  │        │\n───┼───┼────┼─────────┼────┼─────────────────\n│      │        │                  │        │\n───┼───┼────┼─────────┼────┼─────────────────\n│      │        │                  │        │\n───┼───┼────┼─────────┼────┼─────────────────\n│      │        │                  │        │\n───┼───┼────┼─────────┼────┼─────────────────\n│      │        │                  │        │\n───┼───┼────┼─────────┼────┼─────────────────\n│      │        │                  │        │\n───┼───┼────┼─────────┼────┼─────────────────\n│      │        │                  │        │\n───┼───┼────┼─────────┼────┼─────────────────\n│      │        │                  │        │\n───┼───┼────┼─────────┼────┼─────────────────\n│      │        │                  │        │\n───┼───┼────┼─────────┼────┼─────────────────\n│      │        │                  │        │\n───┼───┼────┼─────────┼────┼─────────────────\n│      │        │                  │        │\n───┼───┼────┼─────────┼────┼─────────────────\n│      │        │                  │        │\n━━━┷━━━┷━━━━┷━━━━━━━━━┷━━━━┷━━━━━━━━━━━━━━━━━\n※ 기재요령\n1. 자원구분: 현역, 보충역 등      2. 검사일자: 병역판정검사장 통보 등 필요시 기재\n─────────────────────────────────────────────\n210㎜×297㎜[백상지 80g/㎡]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758373",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758369",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758373",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:재병역판정검사규정#BJ0002",
+      "filename": "별지2_재병역판정검사 대상자 명단.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "재병역판정검사 대상 선발 보류(1) 명부",
+      "enforcement_date": "",
+      "content": "\n■ 재병역판정검사 규정 [별지 제3호서식] <개정 2020. 1.30., 2022.12.30.>\n\n재병역판정검사 대상 선발 보류(1) 명부\n\n\n────────────────────────────────────────────────────────────────────────────\n(               )지방병무청(병무지청)  00년도 재병역판정검사\n────────────────────────────────────────────────────────────────────────────\n\n━━━┯━━━┯━━━━┯━━━┯━━━━━┯━━━━┯━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n연번│성  명│병적번호│주  소│선발보류일│신체등급│자원구분│비  고\n───┼───┼────┼───┼─────┼────┼────┼───────────────────────────────────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼───────────────────────────────────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼───────────────────────────────────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼───────────────────────────────────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼───────────────────────────────────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼───────────────────────────────────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼───────────────────────────────────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼───────────────────────────────────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼───────────────────────────────────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼───────────────────────────────────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼───────────────────────────────────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼───────────────────────────────────────────\n│      │        │      │          │        │        │\n━━━┷━━━┷━━━━┷━━━┷━━━━━┷━━━━┷━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n※ 기재요령\n1. 자원구분: 현역, 보충역 등\n2. 비고: 보류사유 기재 - ① 7급 재검  ② 서류보완   ③ 중앙병억판정검사소 의뢰   ④ 병역처분변경원 출원   ? 해당 연도 입영일자 결정자   ⑥ 기타\n────────────────────────────────────────────────────────────────────────────\n297㎜×210㎜[백상지 80g/㎡]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758379",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758375",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758379",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:재병역판정검사규정#BJ0003",
+      "filename": "별지3_재병역판정검사 대상 선발 보류(1) 명부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "재병역판정검사 대상 선발 보류(2) 명부",
+      "enforcement_date": "",
+      "content": "\n■ 재병역판정검사 규정 [별지 제4호서식]\n\n재병역판정검사 대상 선발 보류(2) 명부\n\n\n───────────────────────────────────────────────\n(               )지방병무청(병무지청)  00년도 재병역판정검사\n───────────────────────────────────────────────\n\n━━━┯━━━┯━━━━┯━━━┯━━━━━┯━━━━┯━━━━┯━━━━━━━━━━━━━━\n연번│성  명│병적번호│주  소│선발보류일│신체등급│자원구분│비  고\n───┼───┼────┼───┼─────┼────┼────┼──────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼──────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼──────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼──────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼──────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼──────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼──────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼──────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼──────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼──────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼──────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼──────────────\n│      │        │      │          │        │        │\n━━━┷━━━┷━━━━┷━━━┷━━━━━┷━━━━┷━━━━┷━━━━━━━━━━━━━━\n※ 기재요령\n1. 자원구분: 현역, 보충역 등       2. 비고: 보류사유 기재 - 해당년도 입영 가능(예정)자\n───────────────────────────────────────────────\n297㎜×210㎜[백상지 80g/㎡]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758385",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758381",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758385",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:재병역판정검사규정#BJ0004",
+      "filename": "별지4_재병역판정검사 대상 선발 보류(2) 명부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별지",
+      "title": "재병역판정검사 대상 선발 보류(3) 명부",
+      "enforcement_date": "",
+      "content": "\n■ 재병역판정검사 규정 [별지 제5호서식]\n\n재병역판정검사 대상 선발 보류(3) 명부\n\n\n────────────────────────────────────────────────────────────────\n(               )지방병무청(병무지청)  00년도 재병역판정검사\n────────────────────────────────────────────────────────────────\n\n━━━┯━━━┯━━━━┯━━━┯━━━━━┯━━━━┯━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n연번│성  명│병적번호│주  소│선발보류일│신체등급│자원구분│비  고\n───┼───┼────┼───┼─────┼────┼────┼───────────────────────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼───────────────────────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼───────────────────────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼───────────────────────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼───────────────────────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼───────────────────────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼───────────────────────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼───────────────────────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼───────────────────────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼───────────────────────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼───────────────────────────────\n│      │        │      │          │        │        │\n───┼───┼────┼───┼─────┼────┼────┼───────────────────────────────\n│      │        │      │          │        │        │\n━━━┷━━━┷━━━━┷━━━┷━━━━━┷━━━━┷━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n※ 기재요령\n1. 자원구분: 현역, 보충역 등            2. 비고: 보류사유 기재 - ① 국외왕래선원   ② 국외 체재/거주   ③ 재감   ④ 기타\n────────────────────────────────────────────────────────────────\n297㎜×210㎜[백상지 80g/㎡]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758391",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758387",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758391",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:재병역판정검사규정#BJ0005",
+      "filename": "별지5_재병역판정검사 대상 선발 보류(3) 명부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별지",
+      "title": "재병역판정검사 통지서",
+      "enforcement_date": "",
+      "content": "\n■ 재병역판정검사 규정 [별지 제6호서식] <개정 2017. 1.11, 2019. 1.25.>\n\n(앞 쪽)\n───────────────────────────────────────────────────────────────────\n보내는 사람\n\n\n\n받는 사람\n\n\n\n이 통지서를 수령 또는 전달할 의무가 있는 사람이 정당한 사유 없이 그 수령을 거부한 경우와 통지서를 대리\n수령하고 본인에게 전달하지 아니하거나 지체한 때에는 6월이하 징역 또는 100만원 이하의 벌금을 받게 됩니다.\n───────────────────────────────────────────────────────────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n\n재병역판정검사 통지서\n\n통지번호:\n───────────────────────────────────────────────────────────────────\n\n─────┬─────────────────────────────────────────────────────────────\n구분    │    재병역판정검사\n─────┴─────────────────────────────────────────────────────────────\n\n─────┬────────────┬────────────────────────────────────────────────\n대상자  │성명                    │생년월일\n├────────────┴────────────────────────────────────────────────\n│주소\n─────┴─────────────────────────────────────────────────────────────\n\n─────┬──────────┬──────────────────────────────────────────────────\n통지내역│재병역판정검사 일시 │ 년      월     일(    시    분)\n├──────────┼──────────────────────────────────────────────────\n│재병역판정검사 장소 │\n─────┴──────────┴──────────────────────────────────────────────────\n병역법 제14조의2에 따라 위와 같이 통지합니다.\n년     월     일\n┏━━┓\n○○지방병무청(병무지청)장┃직인┃\n┗━━┛\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n유의사항\n───────────────────────────────────────────────────────────────────\n「병역법」 제84조제2항에 따라 거주지이동 신고를 하지 않은 사람은 200만원 이하의 벌금이나 구류에 처하고, 같은 법 제87조제3항에\n따라 정당한 사유 없이 재병역판정검사를 받지 않은 사람은 6개월 이하의 징역에 처하게 됩니다. 또한 병역법 제81조의2에 따라 정당한 사\n유 없이 병역판정검사를 받지 않은 사람은 인적사항(성명, 연령, 주소 등)을 병무청 홈페이지(누리집)에 공개합니다.\n───────────────────────────────────────────────────────────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n☞병역판정검사장 오시는 길☜\n\"약도\"\n───────────────────────────────────────────────────────────────────\n210㎜×297㎜[백상지(80g/㎡) 또는 중질지(80g/㎡)]\n\n\n\n\n(뒤 쪽)\n─────────────────────────────────────────────────────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n재병역판정검사 대상자가 알아야할 사항\n─────────────────────────────────────────────────────────────\n○ 재병역판정검사 시 지참물을 안내하여 드립니다.\n──────────────────────────┬──────────────────────────────────\n대상자                                            │내용\n──────────────────────────┼──────────────────────────────────\n대상자 전원                                       │? 주민등록증, 여권 등 신분증명서\n│ (국가기관이 발행한 것으로 사진이 첨부된 것)\n│? 나라사랑카드(병역판정검사시 발급 받으신 것)\n──────────────────────────┼──────────────────────────────────\n기술자격 또는 면허를 취득한 사람                  │? 기술자격증 또는 면허증 사본 (병역판정검사 이후 신규 취득 사\n(국가자격증 또는 국가공인민간자격증만 해당합니다) │항)\n──────────────────────────┼──────────────────────────────────\n질병을 앓거나 치료받은 사실이 있는 사람           │? 병무용진단서\n(희망자만 해당합니다)                             │? 수술 등 기록지 사본\n│? 최근 촬영한 의료영상자료(방사선필름 등) 등\n──────────────────────────┴──────────────────────────────────\n\n○ 다음의 경우에는 「병역법」에 의하여 엄중한 처벌과 입영의무의 연장 등 불이익을 받습니다.\n? 재병역판정검사 통지서를 받은 사람이 정당한 사유없이 그 일자에 재병역판정검사를 받지 아니한 사람\n? 재병역판정검사를 받을 사람을 대리하여 재병역판정검사를 받은 사람\n? 전입신고를 정당한 사유없이 하지 아니하거나 거짓으로 신고한 사람\n? 병역의무를 기피하거나 감면받을 목적으로 도망가거나 행방을 감춘 경우 또는 신체를 손상하거나 속임수를 쓴 사람\n\n○ 기타 안내사항\n? 징집 또는 소집의 입영연기나 입영일자 연기중인 경우에도 재병역판정검사 대상이 됩니다.\n? 재병역판정검사 결과 현역입영대상 또는 보충역으로 병역처분을 받은 사람이 국외체재, 학생 등의 입영연기 사유가 있\n거나 질병 등의 입영일자 연기 사유가 있는 경우에는 입영(일자)연기가 가능합니다.\n\n─────────────────────────────────────────────────────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n여비지급 안내\n─────────────────────────────────────────────────────────────\n○ 재병역판정검사 여비는 나라사랑카드로 입금 됩니다.(따라서 병역판정검사시 발급받은 나라사랑카드 반드시 지참 필요)\n? 단, 다른 금융계좌로 여비수령을 희망하실 경우, 본인의 금융 계좌번호를 준비하시고 병역판정검사장에 오시기 바랍니\n다.\n─────────────────────────────────────────────────────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n재병역판정검사 연기 대상자\n─────────────────────────────────────────────────────────────\n○ 아래와 같은 사유가 있는 사람은 재병역판정검사가 연기되며, 확인을 위한 관련서류는 다음과 같습니다.\n──────────────────────────┬──────────────────────────────────\n사  유                                            │관 련 서 류\n──────────────────────────┼──────────────────────────────────\n국외에 체재 또는 거주하고 있는 사람               │? 재외공관장, 법무부 출입국관리사무소의 장의 사실 확인에 의하여\n│직권으로 연기함\n──────────────────────────┼──────────────────────────────────\n국외를 왕래하는 선박에 승선하고 있는 선원         │? 별도 신청 없이 국외여행허가자 명부 또는 출국자 명부에 의하여\n│직권으로 연기함\n──────────────────────────┼──────────────────────────────────\n구속 또는 형의 집행 중에 있는 사람                │? 구속 확인서, 판결문 사본 또는 재소증명서\n──────────────────────────┴──────────────────────────────────\n? 24세 이전에 출국한 사람은 25세가 되는 해의 1월 15일까지 지방병무청(병무지청)장의 국외여행허가를 받아야 합니다.\n─────────────────────────────────────────────────────────────\n\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758399",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758393",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758399",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:재병역판정검사규정#BJ0006",
+      "filename": "별지6_재병역판정검사 통지서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "별지",
+      "title": "재병역판정검사 통지서 수령증",
+      "enforcement_date": "",
+      "content": "\n■ 재병역판정검사 규정 [별지 제7호서식] <2019. 1.25.>\n\n재병역판정검사 통지서 수령증\n\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n통지번호\n───────────────────────────────────────────────────\n\n─────┬──────┬──────────────────────────────────────\n대상자  │성명        │생년월일\n├──────┴──────────────────────────────────────\n│주소\n─────┴─────────────────────────────────────────────\n\n─────┬─────────────────────────────────────────────\n통지내용│재병역판정검사 일시\n├─────────────────────────────────────────────\n│재병역판정검사 장소\n─────┴─────────────────────────────────────────────\n\n─────┬───────┬─────────────────────────────────────\n수령인  │성명          │전화번호\n├───────┴─────────────────────────────────────\n│주소\n─────┴─────────────────────────────────────────────\n\n\n위 사람의 재병역판정검사 통지서를 받았습니다.\n\n년          월          일\n\n수령인:                         (서명 또는 인)\n(의무자와의 관계:            )\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n──────┬────────────────────────────────────────────\n유의사항  │  ㅇ 다음의 경우에는 「병역법」 제85조에 따른 처벌을 받게 됩니다.\n│    - 통지서의 수령을 거부하거나 통지서를 대리로 받아 본인에게 전달하지 않은 경우\n│    - 통지서의 전달을 지체하여 지정된 재병역판정검사 일시에 검사를 받지 못하게 된 경우\n──────┴────────────────────────────────────────────\n210㎜×297㎜[백상지 80g/㎡]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758405",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758401",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758405",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:재병역판정검사규정#BJ0007",
+      "filename": "별지7_재병역판정검사 통지서 수령증.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0008",
+      "branch": "00",
+      "kind": "별지",
+      "title": "우선·실거주지 재병역판정검사 신청서",
+      "enforcement_date": "",
+      "content": "\n■ 재병역판정검사 규정 [별지 제8호서식]\n\n우선·실거주지 재병역판정검사 신청서\n\n*  [  ]에는 해당되는 곳에 ∨표를 합니다.\n────────┬─────────────────────────────────────────────\n구    분      │    [   ]우선 재병역판정검사                [   ]실거주지 재병역판정검사\n────────┴─────────────────────────────────────────────\n\n────────┬──────┬──────────────────────────────────────\n인적사항      │성명        │생년월일\n├──────┴──────────────────────────────────────\n│주소\n├──────┬──────────────────────────────────────\n│일반전화번호│휴대전화번호\n├──────┴──────────────────────────────────────\n│최종 병역처분 사항\n│                      년       급  [   ]현역       [   ]보충역\n────────┴─────────────────────────────────────────────\n\n────────┬─────────────────────────────────────────────\n우선          │1차 희망일자\n재병역판정검사│                             년       월       일\n신청 희망일자 ├─────────────────────────────────────────────\n및 사유       │2차 희망일자\n│                             년       월       일\n├─────────────────────────────────────────────\n│신청 사유\n────────┴─────────────────────────────────────────────\n\n────────┬─────────────────────────────────────────────\n실거주지      │신청구분\n재병역판정검  │          [   ]우선 재병역판정검사 희망자         [   ]재병역판정검사 통지서 수\n사            │령자\n├─────────────────────────────────────────────\n│신청사유\n│          [   ]학생            [   ]학원수강생           [   ]직장인\n├─────────────────────────────────────────────\n│증빙서류\n│          [   ]재학증명서      [   ]학원수강증명서       [   ]재직증명서\n├────┬────────────────────────────────────────\n│증빙서류│소재지\n│발급기관├────────────────────────────────────────\n│        │연락전화\n────────┴────┴────────────────────────────────────────\n\n\n위 본인은 재병역판정검사 대상으로 위와 같은 사유로 정해진 일자보다 빨리 또는 실거주지 병역판\n정검사장에서 재병역판정검사를 받고자 신청서를 제출하며, 이에 따라 발생할 수 있는 역종변경 등의\n상황도 감수하겠습니다.\n\n년         월         일\n\n신청인 :                          (서명 또는 인)\n(의무자와의 관계 :            )\n\n○○지방병무청(병무지청)장 귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n안내사항\n──────────────────────────────────────────────────────\n1. 실거주지 관할 지방병무청(병무지청) 병역판정검사 일정 등에 따라 본 신청서가 처리되지 않을 수 있습니다.\n2. 재병역판정검사 실시 후 신체등급 및 역종이 변경될 수 있습니다.\n3. 신청서 제출시 별도의 수수료는 없습니다.\n──────────────────────────────────────────────────────\n210㎜×297㎜[백상지 80g/㎡]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758411",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758407",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758411",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:재병역판정검사규정#BJ0008",
+      "filename": "별지8_우선·실거주지 재병역판정검사 신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0009",
+      "branch": "00",
+      "kind": "별지",
+      "title": "현역병 입영대상자 처분 명부",
+      "enforcement_date": "",
+      "content": "\n■ 재병역판정검사 규정 [별지 제9호서식]\n\n현역병 입영대상자 처분 명부\n\n\n────────────────────────────────────\n(               )지방병무청(병무지청)  00년도 재병역판정검사\n────────────────────────────────────\n\n━━━┯━━━┯━━━━┯━━━┯━━━━━┯━━━━━━━┯━━━━━\n연번│성  명│병적번호│주  소│학력      │신체등급      │비  고\n│      │        │      │          ├───┬───┤\n│      │        │      │          │검사후│검사전│\n───┼───┼────┼───┼─────┼───┼───┼─────\n│      │        │      │          │      │      │\n───┼───┼────┼───┼─────┼───┼───┼─────\n│      │        │      │          │      │      │\n───┼───┼────┼───┼─────┼───┼───┼─────\n│      │        │      │          │      │      │\n───┼───┼────┼───┼─────┼───┼───┼─────\n│      │        │      │          │      │      │\n───┼───┼────┼───┼─────┼───┼───┼─────\n│      │        │      │          │      │      │\n───┼───┼────┼───┼─────┼───┼───┼─────\n│      │        │      │          │      │      │\n───┼───┼────┼───┼─────┼───┼───┼─────\n│      │        │      │          │      │      │\n───┼───┼────┼───┼─────┼───┼───┼─────\n│      │        │      │          │      │      │\n───┼───┼────┼───┼─────┼───┼───┼─────\n│      │        │      │          │      │      │\n───┼───┼────┼───┼─────┼───┼───┼─────\n│      │        │      │          │      │      │\n───┼───┼────┼───┼─────┼───┼───┼─────\n│      │        │      │          │      │      │\n───┼───┼────┼───┼─────┼───┼───┼─────\n│      │        │      │          │      │      │\n━━━┷━━━┷━━━━┷━━━┷━━━━━┷━━━┷━━━┷━━━━━\n※ 비고란에는 재병역판정검사 직전의 자원구분 기재: 현역, 보충역 등\n────────────────────────────────────\n297㎜×210㎜[백상지 80g/㎡]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758417",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758413",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758417",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:재병역판정검사규정#BJ0009",
+      "filename": "별지9_현역병 입영대상자 처분 명부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0010",
+      "branch": "00",
+      "kind": "별지",
+      "title": "보충역 처분 명부",
+      "enforcement_date": "",
+      "content": "\n■ 재병역판정검사 규정 [별지 제10호서식]\n\n보충역 처분 명부\n\n\n────────────────────────────────────\n(               )지방병무청(병무지청)  00년도 재병역판정검사\n────────────────────────────────────\n\n━━━┯━━━┯━━━━┯━━━┯━━━━━┯━━━━━━━┯━━━━━\n연번│성  명│병적번호│주  소│학력      │신체등급      │비  고\n│      │        │      │          ├───┬───┤\n│      │        │      │          │검사후│검사전│\n───┼───┼────┼───┼─────┼───┼───┼─────\n│      │        │      │          │      │      │\n───┼───┼────┼───┼─────┼───┼───┼─────\n│      │        │      │          │      │      │\n───┼───┼────┼───┼─────┼───┼───┼─────\n│      │        │      │          │      │      │\n───┼───┼────┼───┼─────┼───┼───┼─────\n│      │        │      │          │      │      │\n───┼───┼────┼───┼─────┼───┼───┼─────\n│      │        │      │          │      │      │\n───┼───┼────┼───┼─────┼───┼───┼─────\n│      │        │      │          │      │      │\n───┼───┼────┼───┼─────┼───┼───┼─────\n│      │        │      │          │      │      │\n───┼───┼────┼───┼─────┼───┼───┼─────\n│      │        │      │          │      │      │\n───┼───┼────┼───┼─────┼───┼───┼─────\n│      │        │      │          │      │      │\n───┼───┼────┼───┼─────┼───┼───┼─────\n│      │        │      │          │      │      │\n───┼───┼────┼───┼─────┼───┼───┼─────\n│      │        │      │          │      │      │\n───┼───┼────┼───┼─────┼───┼───┼─────\n│      │        │      │          │      │      │\n━━━┷━━━┷━━━━┷━━━┷━━━━━┷━━━┷━━━┷━━━━━\n※ 비고란에는 재병역판정검사 직전의 자원구분 기재: 현역, 보충역 등\n────────────────────────────────────\n297㎜×210㎜[백상지 80g/㎡]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758423",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758419",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758423",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:재병역판정검사규정#BJ0010",
+      "filename": "별지10_보충역 처분 명부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0011",
+      "branch": "00",
+      "kind": "별지",
+      "title": "전시근로역ㆍ병역면제 처분 명부",
+      "enforcement_date": "",
+      "content": "\n■ 재병역판정검사 규정 [별지 제11호서식]\n\n전시근로역ㆍ병역면제 처분 명부\n\n\n────────────────────────────────────\n(               )지방병무청(병무지청)  00년도 재병역판정검사\n────────────────────────────────────\n\n━━━┯━━━┯━━━━┯━━━┯━━━━━┯━━━━┯━━━┯━━━━\n연번│성  명│병적번호│주  소│학  력    │신체등급│병  명│비  고\n───┼───┼────┼───┼─────┼────┼───┼────\n│      │        │      │          │        │      │\n───┼───┼────┼───┼─────┼────┼───┼────\n│      │        │      │          │        │      │\n───┼───┼────┼───┼─────┼────┼───┼────\n│      │        │      │          │        │      │\n───┼───┼────┼───┼─────┼────┼───┼────\n│      │        │      │          │        │      │\n───┼───┼────┼───┼─────┼────┼───┼────\n│      │        │      │          │        │      │\n───┼───┼────┼───┼─────┼────┼───┼────\n│      │        │      │          │        │      │\n───┼───┼────┼───┼─────┼────┼───┼────\n│      │        │      │          │        │      │\n───┼───┼────┼───┼─────┼────┼───┼────\n│      │        │      │          │        │      │\n───┼───┼────┼───┼─────┼────┼───┼────\n│      │        │      │          │        │      │\n───┼───┼────┼───┼─────┼────┼───┼────\n│      │        │      │          │        │      │\n───┼───┼────┼───┼─────┼────┼───┼────\n│      │        │      │          │        │      │\n───┼───┼────┼───┼─────┼────┼───┼────\n│      │        │      │          │        │      │\n━━━┷━━━┷━━━━┷━━━┷━━━━━┷━━━━┷━━━┷━━━━\n※ 비고란에는 재병역판정검사 직전의 신체등급 기재\n────────────────────────────────────\n297㎜×210㎜[백상지 80g/㎡]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758429",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758425",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758429",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:재병역판정검사규정#BJ0011",
+      "filename": "별지11_전시근로역ㆍ병역면제 처분 명부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0012",
+      "branch": "00",
+      "kind": "별지",
+      "title": "7급 재신체검사대상 처분 명부",
+      "enforcement_date": "",
+      "content": "\n■ 재병역판정검사 규정 [별지 제12호서식]\n\n7급 재신체검사대상 처분 명부\n\n\n──────────────────────────────────────────\n(               )지방병무청(병무지청)  00년도 재병역판정검사\n──────────────────────────────────────────\n\n━━━┯━━━┯━━━━┯━━━┯━━━━━┯━━┯━━━━┯━━━━━━┯━━━━\n연번│성  명│병적번호│주  소│검사일자  │병명│치유기간│재검사예정일│비  고\n───┼───┼────┼───┼─────┼──┼────┼──────┼────\n│      │        │      │          │    │        │            │\n───┼───┼────┼───┼─────┼──┼────┼──────┼────\n│      │        │      │          │    │        │            │\n───┼───┼────┼───┼─────┼──┼────┼──────┼────\n│      │        │      │          │    │        │            │\n───┼───┼────┼───┼─────┼──┼────┼──────┼────\n│      │        │      │          │    │        │            │\n───┼───┼────┼───┼─────┼──┼────┼──────┼────\n│      │        │      │          │    │        │            │\n───┼───┼────┼───┼─────┼──┼────┼──────┼────\n│      │        │      │          │    │        │            │\n───┼───┼────┼───┼─────┼──┼────┼──────┼────\n│      │        │      │          │    │        │            │\n───┼───┼────┼───┼─────┼──┼────┼──────┼────\n│      │        │      │          │    │        │            │\n───┼───┼────┼───┼─────┼──┼────┼──────┼────\n│      │        │      │          │    │        │            │\n───┼───┼────┼───┼─────┼──┼────┼──────┼────\n│      │        │      │          │    │        │            │\n───┼───┼────┼───┼─────┼──┼────┼──────┼────\n│      │        │      │          │    │        │            │\n───┼───┼────┼───┼─────┼──┼────┼──────┼────\n│      │        │      │          │    │        │            │\n━━━┷━━━┷━━━━┷━━━┷━━━━━┷━━┷━━━━┷━━━━━━┷━━━━\n※ 비고란에는 재병역판정검사 직전의 신체등급 기재\n──────────────────────────────────────────\n297㎜×210㎜[백상지 80g/㎡]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758435",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758431",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758435",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:재병역판정검사규정#BJ0012",
+      "filename": "별지12_7급 재신체검사대상 처분 명부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0013",
+      "branch": "00",
+      "kind": "별지",
+      "title": "재병역판정검사 미수검자 명부",
+      "enforcement_date": "",
+      "content": "\n■ 재병역판정검사 규정 [별지 제13호서식]\n\n재병역판정검사 미수검자 명부\n\n\n──────────────────────────────────\n(               )지방병무청(병무지청)  00년도 재병역판정검사\n──────────────────────────────────\n\n━━━┯━━━┯━━━━┯━━━┯━━━━━┯━━━━┯━━━━━━\n연번│성  명│병적번호│주  소│검사일자  │자원구분│비  고\n───┼───┼────┼───┼─────┼────┼──────\n│      │        │      │          │        │\n───┼───┼────┼───┼─────┼────┼──────\n│      │        │      │          │        │\n───┼───┼────┼───┼─────┼────┼──────\n│      │        │      │          │        │\n───┼───┼────┼───┼─────┼────┼──────\n│      │        │      │          │        │\n───┼───┼────┼───┼─────┼────┼──────\n│      │        │      │          │        │\n───┼───┼────┼───┼─────┼────┼──────\n│      │        │      │          │        │\n───┼───┼────┼───┼─────┼────┼──────\n│      │        │      │          │        │\n───┼───┼────┼───┼─────┼────┼──────\n│      │        │      │          │        │\n───┼───┼────┼───┼─────┼────┼──────\n│      │        │      │          │        │\n───┼───┼────┼───┼─────┼────┼──────\n│      │        │      │          │        │\n───┼───┼────┼───┼─────┼────┼──────\n│      │        │      │          │        │\n───┼───┼────┼───┼─────┼────┼──────\n│      │        │      │          │        │\n━━━┷━━━┷━━━━┷━━━┷━━━━━┷━━━━┷━━━━━━\n※ 기재요령\n1. 자원구분: 현역, 보충역 등    2. 비고: 신체등급\n──────────────────────────────────\n297㎜×210㎜[백상지 80g/㎡]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758441",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758437",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758441",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:재병역판정검사규정#BJ0013",
+      "filename": "별지13_재병역판정검사 미수검자 명부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0014",
+      "branch": "00",
+      "kind": "별지",
+      "title": "재병역판정검사 연기자 명부",
+      "enforcement_date": "",
+      "content": "\n■ 재병역판정검사 규정 [별지 제14호서식]\n\n재병역판정검사 연기자 명부\n\n\n────────────────────────────────────────────\n(               )지방병무청(병무지청)  00년도 재병역판정검사\n────────────────────────────────────────────\n\n━━━┯━━━┯━━━━┯━━━┯━━━━━┯━━━━┯━━━━┯━━━━┯━━━━━━\n연번│성  명│병적번호│주  소│학력      │수검일자│연기사유│연기기간│비  고\n───┼───┼────┼───┼─────┼────┼────┼────┼──────\n│      │        │      │          │        │        │        │\n───┼───┼────┼───┼─────┼────┼────┼────┼──────\n│      │        │      │          │        │        │        │\n───┼───┼────┼───┼─────┼────┼────┼────┼──────\n│      │        │      │          │        │        │        │\n───┼───┼────┼───┼─────┼────┼────┼────┼──────\n│      │        │      │          │        │        │        │\n───┼───┼────┼───┼─────┼────┼────┼────┼──────\n│      │        │      │          │        │        │        │\n───┼───┼────┼───┼─────┼────┼────┼────┼──────\n│      │        │      │          │        │        │        │\n───┼───┼────┼───┼─────┼────┼────┼────┼──────\n│      │        │      │          │        │        │        │\n───┼───┼────┼───┼─────┼────┼────┼────┼──────\n│      │        │      │          │        │        │        │\n───┼───┼────┼───┼─────┼────┼────┼────┼──────\n│      │        │      │          │        │        │        │\n───┼───┼────┼───┼─────┼────┼────┼────┼──────\n│      │        │      │          │        │        │        │\n───┼───┼────┼───┼─────┼────┼────┼────┼──────\n│      │        │      │          │        │        │        │\n───┼───┼────┼───┼─────┼────┼────┼────┼──────\n│      │        │      │          │        │        │        │\n━━━┷━━━┷━━━━┷━━━┷━━━━━┷━━━━┷━━━━┷━━━━┷━━━━━━\n※ 기재요령\n1. 연기사유: ‘병역판정검사’와 같음.        2. 비고: 자원구분[현역, 보충역 등]\n────────────────────────────────────────────\n297㎜×210㎜[백상지 80g/㎡]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758447",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758443",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758447",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:재병역판정검사규정#BJ0014",
+      "filename": "별지14_재병역판정검사 연기자 명부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0015",
+      "branch": "00",
+      "kind": "별지",
+      "title": "재병역판정검사 통지취소자 명부",
+      "enforcement_date": "",
+      "content": "\n■ 재병역판정검사 규정 [별지 제15호서식]\n\n재병역판정검사 통지취소자 명부\n\n\n──────────────────────────────────────────\n(               )지방병무청(병무지청)  00년도 재병역판정검사\n──────────────────────────────────────────\n\n━━━┯━━━┯━━━━┯━━━┯━━━━━┯━━━━┯━━━━┯━━━━┯━━━━\n연번│성  명│병적번호│주  소│학력      │수검일자│취소사유│자원구분│비  고\n───┼───┼────┼───┼─────┼────┼────┼────┼────\n│      │        │      │          │        │        │        │\n───┼───┼────┼───┼─────┼────┼────┼────┼────\n│      │        │      │          │        │        │        │\n───┼───┼────┼───┼─────┼────┼────┼────┼────\n│      │        │      │          │        │        │        │\n───┼───┼────┼───┼─────┼────┼────┼────┼────\n│      │        │      │          │        │        │        │\n───┼───┼────┼───┼─────┼────┼────┼────┼────\n│      │        │      │          │        │        │        │\n───┼───┼────┼───┼─────┼────┼────┼────┼────\n│      │        │      │          │        │        │        │\n───┼───┼────┼───┼─────┼────┼────┼────┼────\n│      │        │      │          │        │        │        │\n───┼───┼────┼───┼─────┼────┼────┼────┼────\n│      │        │      │          │        │        │        │\n───┼───┼────┼───┼─────┼────┼────┼────┼────\n│      │        │      │          │        │        │        │\n───┼───┼────┼───┼─────┼────┼────┼────┼────\n│      │        │      │          │        │        │        │\n───┼───┼────┼───┼─────┼────┼────┼────┼────\n│      │        │      │          │        │        │        │\n───┼───┼────┼───┼─────┼────┼────┼────┼────\n│      │        │      │          │        │        │        │\n━━━┷━━━┷━━━━┷━━━┷━━━━━┷━━━━┷━━━━┷━━━━┷━━━━\n※ 기재요령\n1. 취소사유: ① 추가입영대상   ② 병적편입   ③ 사망   ④ 기타\n2. 자원구분: 현역, 보충역 등\n──────────────────────────────────────────\n297㎜×210㎜[백상지 80g/㎡]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758453",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758449",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758453",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:재병역판정검사규정#BJ0015",
+      "filename": "별지15_재병역판정검사 통지취소자 명부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0016",
+      "branch": "00",
+      "kind": "별지",
+      "title": "재병역판정검사 기피자 명부",
+      "enforcement_date": "",
+      "content": "\n■ 재병역판정검사 규정 [별지 제16호서식]\n\n재병역판정검사 기피자 명부\n\n\n───────────────────────────────────────\n(               )지방병무청(병무지청)  00년도 재병역판정검사\n───────────────────────────────────────\n\n━━━┯━━━┯━━━━┯━━━━━━━━┯━━┯━━━━┯━━━━┯━━━━\n연번│성  명│병적번호│주  소          │학력│수검일자│신체등급│비  고\n│      │        │                │    │        │(수검전)│\n───┼───┼────┼────────┼──┼────┼────┼────\n│      │        │                │    │        │        │\n───┼───┼────┼────────┼──┼────┼────┼────\n│      │        │                │    │        │        │\n───┼───┼────┼────────┼──┼────┼────┼────\n│      │        │                │    │        │        │\n───┼───┼────┼────────┼──┼────┼────┼────\n│      │        │                │    │        │        │\n───┼───┼────┼────────┼──┼────┼────┼────\n│      │        │                │    │        │        │\n───┼───┼────┼────────┼──┼────┼────┼────\n│      │        │                │    │        │        │\n───┼───┼────┼────────┼──┼────┼────┼────\n│      │        │                │    │        │        │\n───┼───┼────┼────────┼──┼────┼────┼────\n│      │        │                │    │        │        │\n───┼───┼────┼────────┼──┼────┼────┼────\n│      │        │                │    │        │        │\n───┼───┼────┼────────┼──┼────┼────┼────\n│      │        │                │    │        │        │\n───┼───┼────┼────────┼──┼────┼────┼────\n│      │        │                │    │        │        │\n───┼───┼────┼────────┼──┼────┼────┼────\n│      │        │                │    │        │        │\n━━━┷━━━┷━━━━┷━━━━━━━━┷━━┷━━━━┷━━━━┷━━━━\n※ 비고란에는 자원구분 기재: 현역, 보충역 등\n───────────────────────────────────────\n297㎜×210㎜[백상지 80g/㎡]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758459",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758455",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758459",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:재병역판정검사규정#BJ0016",
+      "filename": "별지16_재병역판정검사 기피자 명부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0017",
+      "branch": "00",
+      "kind": "별지",
+      "title": "현역병 입영대상 처분 현황",
+      "enforcement_date": "",
+      "content": "\n■ 재병역판정검사 규정 [별지 제17호서식]\n\n현역병 입영대상 처분 현황\n\n\n───────────────────────────────────────────────────────────────────\n(               )지방병무청(병무지청)                                    00년도 재병역판정검사\n───────────────────────────────────────────────────────────────────\n\n━━━━━━━┯━━━━━━━━━━┯━━━━━━━━━━┯━━━━━━━━━━┯━━━━━━━━━━┯━━━━━━━━━━┯━━━━\n수검후      │계                  │대  학              │고  졸              │고  퇴              │중  졸              │비  고\n수검전      ├─┬──┬──┬──┼─┬──┬──┬──┼─┬──┬──┬──┼─┬──┬──┬──┼─┬──┬──┬──┤\n│계│1급 │2급 │3급 │계│1급 │2급 │3급 │계│1급 │2급 │3급 │계│1급 │2급 │3급 │계│1급 │2급 │3급 │\n────┬──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼────\n계    │계  │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │\n├──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼────\n│1급 │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │\n├──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼────\n│2급 │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │\n├──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼────\n│3급 │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │\n├──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼────\n│4급 │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │\n────┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼────\n대 학 │계  │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │\n├──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼────\n│1급 │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │\n├──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼────\n│2급 │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │\n├──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼────\n│3급 │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │\n├──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼────\n│4급 │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │\n────┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼────\n고 졸 │계  │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │\n├──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼────\n│1급 │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │\n├──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼────\n│2급 │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │\n├──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼────\n│3급 │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │\n├──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼────\n│4급 │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │\n────┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼────\n고 퇴 │계  │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │\n├──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼────\n│1급 │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │\n├──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼────\n│2급 │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │\n├──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼────\n│3급 │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │\n├──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼────\n│4급 │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │\n────┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼────\n중 졸 │계  │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │\n├──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼────\n│1급 │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │\n├──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼────\n│2급 │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │\n├──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼────\n│3급 │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │\n├──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼─┼──┼──┼──┼────\n│4급 │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │  │    │    │    │\n────┴──┴─┴──┴──┴──┴─┴──┴──┴──┴─┴──┴──┴──┴─┴──┴──┴──┴─┴──┴──┴──┴────\n담당자: 직급                성명                (서명 또는 인)\n보좌관: 직급                성명                (서명 또는 인)\n병역판정관: 직급                성명                (서명 또는 인)\n───────────────────────────────────────────────────────────────────\n297㎜×210㎜[백상지 80g/㎡]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758465",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758461",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758465",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:재병역판정검사규정#BJ0017",
+      "filename": "별지17_현역병 입영대상 처분 현황.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0018",
+      "branch": "00",
+      "kind": "별지",
+      "title": "보충역 처분 현황",
+      "enforcement_date": "",
+      "content": "\n■ 재병역판정검사 규정 [별지 제18호서식]\n\n보충역 처분 현황\n\n\n────────────────────────────────────────────────────────────────────\n(               )지방병무청(병무지청)                                          00년도 재병역판정검사\n────────────────────────────────────────────────────────────────────\n\n━━━━━━━┯━━━━━━━━━━━┯━━━━━━━━━━━┯━━━━━━━━━━━┯━━━━━━━━━━━┯━━━━━━━━━━━━\n수검후      │계                    │대    학              │고    졸              │고    퇴              │중     졸\n수검전      ├─┬──┬───┬──┼─┬──┬───┬──┼─┬──┬───┬──┼─┬──┬───┬──┼─┬──┬───┬───\n│계│4급 │전ㆍ공│기타│계│4급 │전ㆍ공│기타│계│4급 │전ㆍ공│기타│계│4급 │전ㆍ공│기타│계│4급 │전ㆍ공│기타\n│  │    │상    │    │  │    │상    │    │  │    │상    │    │  │    │상    │    │  │    │상    │\n───┬───┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼───\n계  │계    │  │    │      │    │  │    │      │    │  │    │      │    │  │    │      │    │  │    │      │\n├───┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼───\n│1∼3급│  │    │      │    │  │    │      │    │  │    │      │    │  │    │      │    │  │    │      │\n├───┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼───\n│4급   │  │    │      │    │  │    │      │    │  │    │      │    │  │    │      │    │  │    │      │\n───┼───┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼───\n대학│계    │  │    │      │    │  │    │      │    │  │    │      │    │  │    │      │    │  │    │      │\n├───┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼───\n│1∼3급│  │    │      │    │  │    │      │    │  │    │      │    │  │    │      │    │  │    │      │\n├───┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼───\n│4급   │  │    │      │    │  │    │      │    │  │    │      │    │  │    │      │    │  │    │      │\n───┼───┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼───\n고졸│계    │  │    │      │    │  │    │      │    │  │    │      │    │  │    │      │    │  │    │      │\n├───┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼───\n│1∼3급│  │    │      │    │  │    │      │    │  │    │      │    │  │    │      │    │  │    │      │\n├───┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼───\n│4급   │  │    │      │    │  │    │      │    │  │    │      │    │  │    │      │    │  │    │      │\n───┼───┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼───\n고퇴│계    │  │    │      │    │  │    │      │    │  │    │      │    │  │    │      │    │  │    │      │\n├───┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼───\n│1∼3급│  │    │      │    │  │    │      │    │  │    │      │    │  │    │      │    │  │    │      │\n├───┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼───\n│4급   │  │    │      │    │  │    │      │    │  │    │      │    │  │    │      │    │  │    │      │\n───┼───┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼───\n중졸│계    │  │    │      │    │  │    │      │    │  │    │      │    │  │    │      │    │  │    │      │\n├───┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼───\n│1∼3급│  │    │      │    │  │    │      │    │  │    │      │    │  │    │      │    │  │    │      │\n├───┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼──┼─┼──┼───┼───\n│4급   │  │    │      │    │  │    │      │    │  │    │      │    │  │    │      │    │  │    │      │\n───┴───┼─┴──┴───┴──┼─┴──┴───┴──┼─┴──┴───┴──┼─┴──┴───┴──┼─┴──┴───┴───\n기타 사유   │                      │                      │                      │                      │\n───────┴───────────┴───────────┴───────────┴───────────┴────────────\n담당자: 직급                성명                (서명 또는 인)\n보좌관: 직급                성명                (서명 또는 인)\n병역판정관: 직급                성명                (서명 또는 인)\n────────────────────────────────────────────────────────────────────\n297㎜×210㎜[백상지 80g/㎡]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758471",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758467",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758471",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:재병역판정검사규정#BJ0018",
+      "filename": "별지18_보충역 처분 현황.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0019",
+      "branch": "00",
+      "kind": "별지",
+      "title": "전시근로역 처분 병류별 현황",
+      "enforcement_date": "",
+      "content": "\n■ 재병역판정검사 규정 [별지 제19호서식] <개정 2021. 2.15.>\n\n전시근로역 처분 병류별 현황\n\n\n─────────────────────────────────────────────────────\n(               )지방병무청(병무지청)                00년도 재병역판정검사\n─────────────────────────────────────────────────────\n\n━━━━━━━━━━┯━┯━━┯━━┯━━┯━━━━━┯━━━┯━━━━━┯━━━┯━━━━┯━━┯━━━\n병류별            │계│내과│외과│안과│이비인후과│피부과│비뇨의학과│신경과│정신건강│치과│기타\n학력      신체등급│  │    │    │    │          │      │          │      │의학과  │    │\n────┬─────┼─┼──┼──┼──┼─────┼───┼─────┼───┼────┼──┼───\n계    │1∼3급    │  │    │    │    │          │      │          │      │        │    │\n├─────┼─┼──┼──┼──┼─────┼───┼─────┼───┼────┼──┼───\n│4급       │  │    │    │    │          │      │          │      │        │    │\n────┼─────┼─┼──┼──┼──┼─────┼───┼─────┼───┼────┼──┼───\n대 학 │1∼3급    │  │    │    │    │          │      │          │      │        │    │\n├─────┼─┼──┼──┼──┼─────┼───┼─────┼───┼────┼──┼───\n│4급       │  │    │    │    │          │      │          │      │        │    │\n────┼─────┼─┼──┼──┼──┼─────┼───┼─────┼───┼────┼──┼───\n고 졸 │1∼3급    │  │    │    │    │          │      │          │      │        │    │\n├─────┼─┼──┼──┼──┼─────┼───┼─────┼───┼────┼──┼───\n│4급       │  │    │    │    │          │      │          │      │        │    │\n────┼─────┼─┼──┼──┼──┼─────┼───┼─────┼───┼────┼──┼───\n고 퇴 │1∼3급    │  │    │    │    │          │      │          │      │        │    │\n├─────┼─┼──┼──┼──┼─────┼───┼─────┼───┼────┼──┼───\n│4급       │  │    │    │    │          │      │          │      │        │    │\n────┼─────┼─┼──┼──┼──┼─────┼───┼─────┼───┼────┼──┼───\n중 졸 │1∼3급    │  │    │    │    │          │      │          │      │        │    │\n├─────┼─┼──┼──┼──┼─────┼───┼─────┼───┼────┼──┼───\n│4급       │  │    │    │    │          │      │          │      │        │    │\n────┴─────┴─┴──┴──┴──┴─────┴───┴─────┴───┴────┴──┴───\n담당자: 직급                성명                (서명 또는 인)\n보좌관: 직급                성명                (서명 또는 인)\n병역판정관: 직급                성명                (서명 또는 인)\n─────────────────────────────────────────────────────\n297㎜×210㎜[백상지 80g/㎡]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758477",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758473",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758477",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:재병역판정검사규정#BJ0019",
+      "filename": "별지19_전시근로역 처분 병류별 현황.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0020",
+      "branch": "00",
+      "kind": "별지",
+      "title": "병역면제 처분 병류별 현황",
+      "enforcement_date": "",
+      "content": "\n■ 재병역판정검사 규정 [별지 제20호서식] <개정 2021. 2.15.>\n\n병역면제 처분 병류별 현황\n\n\n─────────────────────────────────────────────────────\n(               )지방병무청(병무지청)                00년도 재병역판정검사\n─────────────────────────────────────────────────────\n\n━━━━━━━━━━┯━┯━━┯━━┯━━┯━━━━━┯━━━┯━━━━━┯━━━┯━━━━┯━━┯━━━\n병류별            │계│내과│외과│안과│이비인후과│피부과│비뇨의학과│신경과│정신건강│치과│기타\n학력      신체등급│  │    │    │    │          │      │          │      │의학과  │    │\n────┬─────┼─┼──┼──┼──┼─────┼───┼─────┼───┼────┼──┼───\n계    │1∼3급    │  │    │    │    │          │      │          │      │        │    │\n├─────┼─┼──┼──┼──┼─────┼───┼─────┼───┼────┼──┼───\n│4급       │  │    │    │    │          │      │          │      │        │    │\n────┼─────┼─┼──┼──┼──┼─────┼───┼─────┼───┼────┼──┼───\n대 학 │1∼3급    │  │    │    │    │          │      │          │      │        │    │\n├─────┼─┼──┼──┼──┼─────┼───┼─────┼───┼────┼──┼───\n│4급       │  │    │    │    │          │      │          │      │        │    │\n────┼─────┼─┼──┼──┼──┼─────┼───┼─────┼───┼────┼──┼───\n고 졸 │1∼3급    │  │    │    │    │          │      │          │      │        │    │\n├─────┼─┼──┼──┼──┼─────┼───┼─────┼───┼────┼──┼───\n│4급       │  │    │    │    │          │      │          │      │        │    │\n────┼─────┼─┼──┼──┼──┼─────┼───┼─────┼───┼────┼──┼───\n고 퇴 │1∼3급    │  │    │    │    │          │      │          │      │        │    │\n├─────┼─┼──┼──┼──┼─────┼───┼─────┼───┼────┼──┼───\n│4급       │  │    │    │    │          │      │          │      │        │    │\n────┼─────┼─┼──┼──┼──┼─────┼───┼─────┼───┼────┼──┼───\n중 졸 │1∼3급    │  │    │    │    │          │      │          │      │        │    │\n├─────┼─┼──┼──┼──┼─────┼───┼─────┼───┼────┼──┼───\n│4급       │  │    │    │    │          │      │          │      │        │    │\n────┴─────┴─┴──┴──┴──┴─────┴───┴─────┴───┴────┴──┴───\n담당자: 직급                성명                (서명 또는 인)\n보좌관: 직급                성명                (서명 또는 인)\n병역판정관: 직급                성명                (서명 또는 인)\n─────────────────────────────────────────────────────\n297㎜×210㎜[백상지 80g/㎡]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758483",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758479",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758483",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:재병역판정검사규정#BJ0020",
+      "filename": "별지20_병역면제 처분 병류별 현황.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0021",
+      "branch": "00",
+      "kind": "별지",
+      "title": "전시근로역 처분 사유별 현황",
+      "enforcement_date": "",
+      "content": "\n■ 재병역판정검사 규정 [별지 제21호서식]\n\n전시근로역 처분 사유별 현황\n\n\n─────────────────────────────────────────────────\n(               )지방병무청(병무지청)                    00년도 재병역판정검사\n─────────────────────────────────────────────────\n\n━━━━━━━━━━┯━┯━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━\n사유              │계│신체등급        │자    질\n학력      신체등급│  ├──┬──┬──┼──┬────┬──┬──┬──┬───┬──┬───\n│  │소계│5급 │7급 │소계│생계곤란│고령│수형│고아│혼혈아│귀화│기타\n────┬─────┼─┼──┼──┼──┼──┼────┼──┼──┼──┼───┼──┼───\n계    │1∼3급    │  │    │    │    │    │        │    │    │    │      │    │\n├─────┼─┼──┼──┼──┼──┼────┼──┼──┼──┼───┼──┼───\n│4급       │  │    │    │    │    │        │    │    │    │      │    │\n────┼─────┼─┼──┼──┼──┼──┼────┼──┼──┼──┼───┼──┼───\n대 학 │1∼3급    │  │    │    │    │    │        │    │    │    │      │    │\n├─────┼─┼──┼──┼──┼──┼────┼──┼──┼──┼───┼──┼───\n│4급       │  │    │    │    │    │        │    │    │    │      │    │\n────┼─────┼─┼──┼──┼──┼──┼────┼──┼──┼──┼───┼──┼───\n고 졸 │1∼3급    │  │    │    │    │    │        │    │    │    │      │    │\n├─────┼─┼──┼──┼──┼──┼────┼──┼──┼──┼───┼──┼───\n│4급       │  │    │    │    │    │        │    │    │    │      │    │\n────┼─────┼─┼──┼──┼──┼──┼────┼──┼──┼──┼───┼──┼───\n고 퇴 │1∼3급    │  │    │    │    │    │        │    │    │    │      │    │\n├─────┼─┼──┼──┼──┼──┼────┼──┼──┼──┼───┼──┼───\n│4급       │  │    │    │    │    │        │    │    │    │      │    │\n────┼─────┼─┼──┼──┼──┼──┼────┼──┼──┼──┼───┼──┼───\n중 졸 │1∼3급    │  │    │    │    │    │        │    │    │    │      │    │\n├─────┼─┼──┼──┼──┼──┼────┼──┼──┼──┼───┼──┼───\n│4급       │  │    │    │    │    │        │    │    │    │      │    │\n────┴─────┴─┴──┴──┴──┴──┴────┴──┴──┴──┴───┴──┴───\n담당자: 직급                성명                (서명 또는 인)\n보좌관: 직급                성명                (서명 또는 인)\n병역판정관: 직급                성명                (서명 또는 인)\n─────────────────────────────────────────────────\n297㎜×210㎜[백상지 80g/㎡]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758489",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758485",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758489",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:재병역판정검사규정#BJ0021",
+      "filename": "별지21_전시근로역 처분 사유별 현황.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0022",
+      "branch": "00",
+      "kind": "별지",
+      "title": "삭제",
+      "enforcement_date": "",
+      "content": "■ 재병역판정검사 규정 [별지 제22호서식] <삭제2016. 1. 7>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758495",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758491",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758495",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:재병역판정검사규정#BJ0022",
+      "filename": "별지22_삭제.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0023",
+      "branch": "00",
+      "kind": "별지",
+      "title": "재병역판정검사 일자 및 장소 본인선택(취소ㆍ변경) 신청서",
+      "enforcement_date": "",
+      "content": "\n■ 재병역판정검사 규정 [별지 제23호서식] <개정 2019. 1.25, 2021. 2.15.>\n\n재병역판정검사 일자 및 장소 본인선택(취소ㆍ변경) 신청서\n\n※ [  ]에는 해당되는 곳에 √표를 합니다.\n──────────┬───────────────────────────────────────────\n구    분          │    [   ] 신청         [   ] 취소        [   ] 변경\n──────────┴───────────────────────────────────────────\n\n──────────┬────┬──────────────────────────────────────\n병역의무자        │성명    │생년월일\n인적사항          ├────┼──────────────────────────────────────\n│전화번호│휴대전화번호\n├────┴──────────────────────────────────────\n│E-mail\n├───────────────────────────────────────────\n│주소\n├───────────────────────────────────────────\n│최종 병역처분 사항\n│년       급    [    ] 현역       [     ]보충역\n──────────┼───────────────────────────────────────────\n통지서 등         │본인이 등록한 E-mail과 휴대전화번호(모바일 앱)로 병역판정검사 통지서 등 병역의무부과\n동의여부         │통지서를 수령하시겠습니까? 예[    ],  아니오[    ]\n──────────┴───────────────────────────────────────────\n\n──────────┬───────────────────────────────────────────\n기존 본인선택     │기존 본인선택 일자\n일자 및 장소      │                            년    월    일/ [  ]오전반(08:00)  [  ]오후반(13:00)\n※ 본인선택 취소  ├───────────────────────────────────────────\n또는 변경하는     │기존 본인선택 장소\n경우 기재합니다.  │                         (                )병역판정검사장\n──────────┼───────────────────────────────────────────\n변경 희망일자     │검사 일자\n및 장소           │                            년    월    일/ [  ]오전반(08:00)  [  ]오후반(13:00)\n※ 변경하는  경우 ├───────────────────────────────────────────\n기재합니다.       │검사 장소\n│                         (                )병역판정검사장\n──────────┼───────────────────────────────────────────\n본인선택          │병적지 관할 지방병무청에서 검사를 받고자 하는 사람  ⇒  [  ]일자선택\n(취소ㆍ변경)      ├───────────────────────────────────────────\n사유              │병적지 관할 지방병무청에서 연중 검사를 실시하지 않을 경우 인근 지방병무청에서 검사를\n※ 본인선택 취소  │받고자 하는 사람  ⇒  (           )지방병무청\n또는 변경하는     ├───────────────────────────────────────────\n경우 기재합니다.  │병적지와 실제 거주지가 다른 경우 실제 거주지 관할 병무청에서 검사를 받고자 하는 사람\n├──────────────────────┬────────────────────\n│[  ]대학(원)생  * 학교 소재지에서 검사      │○ 학교명\n│[  ]제2캠퍼스  * 학교캠퍼스 소재지에서 검사 │  - 학년(재학, 휴학, 자퇴)\n│[  ]고교생     * 고등학교 소재지에서 검사   │  - 전공학과\n│                                            │○ 학교소재지\n├──────────────────────┼────────────────────\n│[  ]직장인     * 직장 소재지에서 검사       │○ 직장(학원)명\n│[  ]학원생     * 학원 소재지에서 검사       │○ 직장(학원)소재지\n├──────────────────────┼────────────────────\n│[  ]가족, 형제자매 거주지에서 검사          │○ 가족, 형제자매 거주지\n──────────┴──────────────────────┴────────────────────\n\n──────────────────────────────────────────────────────\n\n\n위와 같이 재병역판정검사 일자 및 장소를 신청(취소 ㆍ 변경)합니다.\n\n년          월          일장\n\n신청인                                          (서명 또는 인)\n\n○○지방병무청(병무지청)장 귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n* 신청서 제출시 별도의 수수료는 없습니다.\n──────────────────────────────────────────────────────\n210mm×297mm[백상지 80g/㎡]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758501",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758497",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160758501",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:재병역판정검사규정#BJ0023",
+      "filename": "별지23_재병역판정검사 일자 및 장소 본인선택(취소ㆍ변경) 신청서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "제2176호(재병역판정검사 규정).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=160757689",
+      "file_store_url": "",
+      "filename": "제2176호(재병역판정검사 규정).pdf"
+    },
+    {
+      "name": "제2176호(재병역판정검사 규정).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=160757685",
+      "file_store_url": "",
+      "filename": "제2176호(재병역판정검사 규정).hwpx"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 73,
+    "by_category": {
+      "법령": 19,
+      "행정규칙": 32,
+      "별지": 22
+    },
+    "by_relation_type": {
+      "citation": 34,
+      "appendix_ref": 22,
+      "internal_ref": 17
+    },
+    "articles_total": 27,
+    "articles_with_relations": 22,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 18,
+    "appendices_count": 24,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/재병역판정검사 규정"
+  },
+  "provision_id": "admrul:재병역판정검사규정#DOC"
+}
