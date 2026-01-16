@@ -1,0 +1,822 @@
+{
+  "law_id": "2100000273170",
+  "mst": "2100000273170",
+  "law_name": "소음지도의 작성방법",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000273170",
+  "promulgation_no": "2026-19",
+  "promulgation_date": "20260116",
+  "enforcement_date": "20260116",
+  "revision_date": "20260116",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "기후에너지환경부(생활환경과)",
+    "담당자명": "신상훈",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "소음지도의 작성방법",
+    "발령일자": "20260116",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "기후에너지환경부",
+    "전화번호": "044-201-6799",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1482000",
+    "생성일자": "20260120",
+    "행정규칙ID": "37478",
+    "시행일자": "20260116",
+    "담당부서기관코드": "1482064",
+    "발령번호": "2026-19",
+    "행정규칙일련번호": "2100000273170",
+    "상위부처명": "기후에너지환경부"
+  },
+  "amendment_text": "",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 18,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 고시는 「소음ㆍ진동관리법」(이하 \"법\"이라 한다) 제4조의2 및 같은 법 시행규칙 제7조의2제4항에 따라 기후에너지환경부장관 또는 시ㆍ도지사가 소음지도(騷音地圖)를 작성하는데 필요한 사항을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제4조의2",
+            "line_text": "",
+            "target_law_name": "소음ㆍ진동관리법",
+            "target_article_no": "제4조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소음ㆍ진동관리법/제4조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소음지도의작성방법#JO0001",
+            "reference_id": "law:소음진동관리법#JO0004_02"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행규칙",
+            "line_text": "",
+            "target_law_name": "소음ㆍ진동관리법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소음ㆍ진동관리법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소음지도의작성방법#JO0001",
+            "reference_id": "law:소음진동관리법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제7조의2제4항",
+            "line_text": "",
+            "target_law_name": "소음ㆍ진동관리법 시행규칙",
+            "target_article_no": "제7조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소음ㆍ진동관리법 시행규칙/제7조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소음지도의작성방법#JO0001",
+            "reference_id": "law:소음진동관리법시행규칙#JO0007_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:소음지도의작성방법#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) 이 고시에서 \"소음지도\"란 일정지역을 대상으로 도로ㆍ건물 등 정보와 측정 또는 예측된 소음도를 등음선이나 색을 이용하여 시각화한 지도를 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:소음지도의작성방법#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "적용대상",
+        "chapter": "",
+        "content": "제3조(적용대상) 이 고시에서 정하는 소음지도의 대상소음원은 다음 각 호와 같다.1. 도로소음2. 철도소음3. 공장소음, 사업장소음 등 기타 소음② 도로소음 및 철도소음 등이 복합적으로 영향을 미치는 지역에 대해서는 각각의 소음지도와 복합소음지도를 함께 작성한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:소음지도의작성방법#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "소음지도의 작성계획 수립 등",
+        "chapter": "",
+        "content": "제4조(소음지도의 작성계획 수립 등) ① 법 시행규칙 제7조의2제1항 단서에 따른 소음지도 작성계획에는 같은조 같은항 각 호의 사항 외에 다음의 사항이 포함되어야 한다.1. 소음지도의 작성 목적2. 소음지도의 운영계획3. 소음지도의 작성 소요예산",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "법 시행규칙",
+            "line_text": "",
+            "target_law_name": "소음ㆍ진동관리법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소음ㆍ진동관리법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소음지도의작성방법#JO0004",
+            "reference_id": "law:소음진동관리법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "제7조의2제1항",
+            "line_text": "",
+            "target_law_name": "소음ㆍ진동관리법 시행규칙",
+            "target_article_no": "제7조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소음ㆍ진동관리법 시행규칙/제7조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소음지도의작성방법#JO0004",
+            "reference_id": "law:소음진동관리법시행규칙#JO0007_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:소음지도의작성방법#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "소음지도의 작성 등",
+        "chapter": "",
+        "content": "제5조(소음지도의 작성 등) ① 소음지도의 작성은 별표 1에서 정한 절차에 따른다.② 소음지도의 작성방법은 별표 2와 같다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "소음지도의 작성방법",
+            "target_article_no": "별표1",
+            "target_article_title": "소음지도의 작성절차(제5조제1항 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000273170&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소음지도의작성방법#JO0005",
+            "reference_id": "admrul:소음지도의작성방법#BYL0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "소음지도의 작성방법",
+            "target_article_no": "별표2",
+            "target_article_title": "소음지도의 작성방법(제5조제2항 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000273170&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소음지도의작성방법#JO0005",
+            "reference_id": "admrul:소음지도의작성방법#BYL0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:소음지도의작성방법#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "소음지도의 검증 등",
+        "chapter": "",
+        "content": "제6조(소음지도의 검증 등) ① 시ㆍ도지사는 소음지도 작성일로부터 2월 이내에 소음지도가 별표 2에 따라 적정하게 작성되었는지 확인하기 위하여 제12조에 따른 소음지도자문협의회의 검증을 받아야 한다.② 시ㆍ도지사는 제1항에 따라 소음지도를 검증한 결과 보완 등이 필요한 경우 이를 수정ㆍ보완하고 소음지도자문협의회의 검증을 다시 받아야 한다. 다만, 단순 자료 오류 등 경미한 사항으로 판단하는 경우 소음지도자문협의회의 검증을 받지 아니할 수 있다.③ 시ㆍ도지사는 제1항 및 제2항에 따라 소음지도에 대한 검증이 완료된 경우 이를 확정한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "소음지도의 작성방법",
+            "target_article_no": "별표2",
+            "target_article_title": "소음지도의 작성방법(제5조제2항 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000273170&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소음지도의작성방법#JO0006",
+            "reference_id": "admrul:소음지도의작성방법#BYL0002"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "제12조",
+            "line_text": "",
+            "target_law_name": "소음지도의 작성방법",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/소음지도의 작성방법/제12조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소음지도의작성방법#JO0006",
+            "reference_id": "admrul:소음지도의작성방법#JO0012"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:소음지도의작성방법#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "소음지도에 대한 의견수렴",
+        "chapter": "",
+        "content": "제7조(소음지도에 대한 의견수렴) 시ㆍ도지사는 소음지도가 작성된 경우 제6조에 따른 소음지도의 검증 이전에 다음 각호의 자료를 갖추어 기후에너지환경부장관, 국립환경과학원장 및 한국환경공단이사장의 의견을 미리 들을 수 있다.1. 지형정보를 생성하여 등고선 적용 및 건물의 높이을 확인할 수 있는 자료2. 소음지도 작성 시 적용한 각종 영향인자 값(일반사항, 소음원 관련 사항 등)을 확인할 수 있는 자료3. 측정한 값을 확인할 수 있는 수음점(단일 수음점, 건물외벽 소음도 등)에서 예측된 소음도 정보 및 평면 소음지도(grid noise map), 높이별 외벽 소음지도(facade noise map)",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "소음지도의 작성방법",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/소음지도의 작성방법/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소음지도의작성방법#JO0007",
+            "reference_id": "admrul:소음지도의작성방법#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:소음지도의작성방법#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "소음지도의 제출 등",
+        "chapter": "",
+        "content": "제8조(소음지도의 제출 등) ① 시ㆍ도지사는 제6조제3항에 따라 소음지도를 확정한 경우 이를 기후에너지환경부장관, 국립환경과학원장 및 한국환경공단 이사장에게 제출하여야 한다. 이 경우 다음 각호의 사항을 포함한다.1. 소음지도 작성 추진사항2. 소음환경기준 또는 교통소음관리기준 초과지역과 정온시설 현황3. 환경기준 또는 교통소음관리기준 초과지역 현황4. 소음지도자문협의회의 소음지도 검증내역 등 회의결과5. 기후에너지환경부, 국립환경과학원, 한국환경공단의 검토의견에 대한 조치내용② 시ㆍ도지사는 제6조제3항에 따라 소음지도가 확정된 경우 1월 이내에 이를 도로, 철도, 주택, 도시계획, 지적 등 관련부서에 통보하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "제6조제3항",
+            "line_text": "",
+            "target_law_name": "소음지도의 작성방법",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/소음지도의 작성방법/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소음지도의작성방법#JO0008",
+            "reference_id": "admrul:소음지도의작성방법#JO0006"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제2항",
+            "link_text": "제6조제3항",
+            "line_text": "",
+            "target_law_name": "소음지도의 작성방법",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/소음지도의 작성방법/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소음지도의작성방법#JO0008",
+            "reference_id": "admrul:소음지도의작성방법#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:소음지도의작성방법#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "활용계획의 제출",
+        "chapter": "",
+        "content": "제9조(활용계획의 제출) 시ㆍ도지사는 소음지도를 확정한 후 1년 이내에 다음 각 호의 계획을 기후에너지환경부장관에게 제출하여야 한다.1. 소음환경기준 또는 교통소음관리기준 초과지역과 정온시설 현황2. 방음시설 설치 등 소음저감대책 추진현황 및 향후계획3. 도시계획, 대규모 개발사업 등에 대한 소음지도 활용계획4. 그 밖에 환경소음측정망 확대계획 등 활용계획",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:소음지도의작성방법#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "소음지도의 보완 등",
+        "chapter": "",
+        "content": "제10조(소음지도의 보완 등) 시ㆍ도지사는 다음 각 호의 어느 하나에 해당하는 경우 소음지도를 보완하거나 다시 작성할 수 있다. 다만, 소음지도가 확정된 후 5년마다 소음지도의 재작성 여부를 검토하여야 한다.1. 도로나 철도가 개설 또는 폐쇄된 경우2. 교통량 및 차속이 현격히 변화된 경우3. 대단위 주거지역이 개발되는 경우4. 지리정보가 다시 작성된 경우5. 기타 시ㆍ도지사가 필요하다고 판단하는 경우",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:소음지도의작성방법#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "소음지도 작성기관",
+        "chapter": "",
+        "content": "제11조(소음지도 작성기관) ① 소음지도를 작성할 수 있는 기관(이하 \"소음지도 작성기관\"이라 한다)은 다음 각 호와 같다.1. 「보건환경연구원법」 제2조에 따른 보건환경연구원2. 「환경영향평가법」에 의한 환경영향평가대행자3. 「환경분야 시험ㆍ검사 등에 관한 법률」에 의한 소음ㆍ진동측정대행업자4. 「환경기술개발 및 지원에 관한 법률」에 의한 소음ㆍ진동방지시설업자5. 「기술사법」에 의한 소음진동기술사 사무소6. 「엔지니어링기술 진흥법」에 의한 소음ㆍ진동분야 엔지니어링 활동주체7. 「산업교육진흥 및 산학협력촉진에 관한 법률」에 의한 산학협력단8. 그 밖에 기후에너지환경부장관이 인정하는 기관② 제1항제2호에서 제8호까지에 해당하는 기관이 갖추어야 하는 기술인력 및 장비기준은 별표 3과 같다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "「보건환경연구원법」",
+            "line_text": "",
+            "target_law_name": "보건환경연구원법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/보건환경연구원법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소음지도의작성방법#JO0011",
+            "reference_id": "law:보건환경연구원법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "보건환경연구원법",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/보건환경연구원법/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소음지도의작성방법#JO0011",
+            "reference_id": "law:보건환경연구원법#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "「환경영향평가법」",
+            "line_text": "",
+            "target_law_name": "환경영향평가법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/환경영향평가법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소음지도의작성방법#JO0011",
+            "reference_id": "law:환경영향평가법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "「환경분야 시험ㆍ검사 등에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "환경분야 시험ㆍ검사 등에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/환경분야 시험ㆍ검사 등에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소음지도의작성방법#JO0011",
+            "reference_id": "law:환경분야시험검사등에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "「환경기술개발 및 지원에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "환경기술개발 및 지원에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/환경기술개발 및 지원에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소음지도의작성방법#JO0011",
+            "reference_id": "law:환경기술개발및지원에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "「기술사법」",
+            "line_text": "",
+            "target_law_name": "기술사법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/기술사법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소음지도의작성방법#JO0011",
+            "reference_id": "law:기술사법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "「엔지니어링기술 진흥법」",
+            "line_text": "",
+            "target_law_name": "엔지니어링기술 진흥법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/엔지니어링기술 진흥법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소음지도의작성방법#JO0011",
+            "reference_id": "law:엔지니어링기술진흥법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "「산업교육진흥 및 산학협력촉진에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "산업교육진흥 및 산학협력촉진에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/산업교육진흥 및 산학협력촉진에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소음지도의작성방법#JO0011",
+            "reference_id": "law:산업교육진흥및산학협력촉진에관한법률#DOC"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제2항",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "소음지도의 작성방법",
+            "target_article_no": "별표3",
+            "target_article_title": "소음지도 작성기관의 기술인력 및 장비기준(제11조제2항 관련)",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000273170&bylNo=0003&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소음지도의작성방법#JO0011",
+            "reference_id": "admrul:소음지도의작성방법#BYL0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:소음지도의작성방법#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "소음지도자문협의회",
+        "chapter": "",
+        "content": "제12조(소음지도자문협의회) ① 시ㆍ도지사는 다음 각 호의 사항에 대한 자문을 듣기 위하여 10명 이내의 위원으로 소음지도자문협의회(이하 \"협의회\"라 한다)를 구성할 수 있다. 다만, 시ㆍ도에 협의회와 성격 및 기능이 유사한 위원회가 설치되어 있는 경우 해당 지방자치단체의 조례로 정하는 바에 따라 그 위원회가 협의회의 기능을 대신할 수 있다.1. 소음지도의 검증(평가, 수정 및 보완 등을 말한다)2. 소음저감대책의 적정성3. 소음지도 중장기대책의 방향 및 추진상황 점검4. 기타 소음지도 작성에 관하여 필요한 사항② 협의회의 위원은 다음 각 호의 어느 하나에 해당하는 사람 중에서 시ㆍ도지사가 위촉한다. 다만, 필요하다고 인정하는 경우 국립환경과학원장에게 위원 추천을 요청할 수 있다1. 「고등교육법」에 따른 학교에서 소음ㆍ진동에 관련된 학문을 가르치는 조교수 이상의 직에 있거나 있었던 사람2. 「기술사법」에 의한 소음ㆍ진동기술사3. 도로, 철도, 교통, 주택, 도시계획 등 관련 부서에 근무한 경험이 있는 사람4. 소음ㆍ진동에 대한 전문지식 및 소음지도를 작성한 경험이 풍부하다고 시ㆍ도지사가 인정하는 사람③ 협의회의 운영 등에 관하여 필요한 사항은 시ㆍ도지사가 정한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제2항",
+            "link_text": "「고등교육법」",
+            "line_text": "",
+            "target_law_name": "고등교육법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/고등교육법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소음지도의작성방법#JO0012",
+            "reference_id": "law:고등교육법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제2항",
+            "link_text": "「기술사법」",
+            "line_text": "",
+            "target_law_name": "기술사법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/기술사법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소음지도의작성방법#JO0012",
+            "reference_id": "law:기술사법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:소음지도의작성방법#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "소음지도전문위원회",
+        "chapter": "",
+        "content": "제13조(소음지도전문위원회) 국립환경과학원장은 다음 각 호의 사항에 대한 자문을 받기 위하여 소음ㆍ진동에 대한 전문지식 및 소음지도를 작성한 경험이 풍부한 사람 등으로 소음지도전문위원회를 둘 수 있다.1. 소음지도 작성기법 및 방법 개발2. 소음지도의 평가기법 개발3. 소음지도 중장기대책 및 발전방향 수립4. 시ㆍ도에서 작성한 소음지도에 대한 검토5. 기타 소음지도에 관하여 필요하다고 인정되는 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:소음지도의작성방법#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "교육",
+        "chapter": "",
+        "content": "제14조(교육) ① 기후에너지환경부장관은 소음지도 담당 공무원 등의 전문성 향상을 위하여 국립환경인력개발원, 한국환경공단 등을 통한 교육과정의 운영을 지원할 수 있다.② 소음지도 작성기관의 책임자 또는 실무자는 필요에 따라 국립환경인력개발원 또는 한국환경공단 등에서 실시하는 소음지도 작성교육을 받을 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:소음지도의작성방법#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "공개",
+        "chapter": "",
+        "content": "제15조(공개) ① 시ㆍ도지사는 소음지도가 확정된 경우 소음지도를 공개할 수 있다. 이 경우 기후에너지환경부장관에게 미리 알려야 한다.② 기후에너지환경부장관은 필요하다고 인정하는 경우 시ㆍ도지사에게 소음지도의 공개를 권고할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:소음지도의작성방법#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "소음측정망 연계 검토",
+        "chapter": "",
+        "content": "제16조(소음측정망 연계 검토) ① 한국환경공단이사장은 시ㆍ도지사로부터 제8조제1항에 따라 소음지도를 제출받은 경우 3월 이내에 환경소음측정망 운영과 연계하여 다음 각 호의 사항을 검토하고 그 결과를 기후에너지환경부장관에게 제출하여야 한다.1. 소음지도와 환경소음측정망 소음도 비교 및 분석2. 환경소음측정망의 측정지점 적정성 및 개선 필요사항",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제1항",
+            "link_text": "제8조제1항",
+            "line_text": "",
+            "target_law_name": "소음지도의 작성방법",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/소음지도의 작성방법/제8조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소음지도의작성방법#JO0016",
+            "reference_id": "admrul:소음지도의작성방법#JO0008"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:소음지도의작성방법#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "소음지도 작성기법 개발 등",
+        "chapter": "",
+        "content": "제17조(소음지도 작성기법 개발 등) ① 국립환경과학원장은 소음지도의 작성 모델 및 예측기법 등 기술을 개발하고 소음지도의 관리 및 활용방안을 마련하여야 하며, 작성된 소음지도의 통합방안을 강구하여야 한다.② 국립환경과학원장은 제1항의 역할을 수행하기 위하여 소음지도 지원센터를 운영할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:소음지도의작성방법#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제18조(재검토기한) 기후에너지환경부장관은 이 고시에 대하여 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2026년 7월 1일 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제18조",
+            "source_clause": "제18조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:소음지도의작성방법#JO0018",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:소음지도의작성방법#JO0018"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20100701",
+      "promulgation_no": "2010-72",
+      "content": "부칙 <제2010-72호,2010. 7. 1.>이 고시는 2010년 7월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20191017",
+      "promulgation_no": "2019-190",
+      "content": "부칙 <제2019-190호,2019. 10. 17.>이 고시는 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20210318",
+      "promulgation_no": "2021-54",
+      "content": "부칙 <제2021-54호, 2021. 3. 18.>이 고시는 고시한 날부터 15일 이후에 시행한다."
+    },
+    {
+      "promulgation_date": "20260116",
+      "promulgation_no": "2026-19",
+      "content": "부칙 <제2026-19호, 2026. 1. 16.>이 고시는 공포한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "소음지도의 작성절차(제5조제1항 관련)",
+      "enforcement_date": "",
+      "content": "[별표 1]\n소음지도의 작성절차(제5조제1항 관련)\n┌─────────────────────────────────────────────────┐\n│                                                                                                  │\n│┌───────────┐┌─────────────────────┐                          │\n││작성계획 수립 및 협의 ││? 작성기간, 범위, 작성 및 운용방법,      │                          │\n││                      ├┤활용계획                                  │                          │\n││                      ││                                          │                          │\n│└───────────┘└─────────────────────┘                          │\n│  ??                                                                                            │\n│┌───────────┐┌─────────────────────┐                          │\n││작성계획 결정ㆍ고시   ││ ? 소음지도 최초작성일 3개월 전          │                          │\n││                      ├┤                                          │                          │\n││                      ││                                          │                          │\n│└───────────┘└─────────────────────┘                          │\n│  ??                                                                                            │\n│┌───────────┐┌─────────────────────┐                          │\n││기초자료 수집         ││ ? 지형도(종이지도), 지리정보시스템 자료 │                          │\n││                      ├┤(GIS Data)                                │                          │\n││                      ││ ? 디지털 수치지도                       │                          │\n││                      ││ ? 지형지물 정보                         │                          │\n│└───────────┘└─────────────────────┘                          │\n│                                                                                                  │\n│  ??                                                                                            │\n│┌──────────┐┌─────────────────┐                                    │\n││소음원 설정 및 계산 ││ ? 소음원별 예측식 선택          │                                    │\n││                    ├┤ ? 통행량, 속력 등의 인자 설정   │                                    │\n││                    ││ ? 수음 지점별 계산              │                                    │\n│└──────────┘└─────────────────┘                                    │\n│  ??                                                                                            │\n│┌──────────┐┌─────────────────┐                                    │\n││계산결과 확인       ││ ? 예측소음도 확인               │                                    │\n││                    ├┤ ? 기준 및 실측값과의 비교·검증 │                                    │\n││                    ││                                  │                                    │\n│└──────────┘└─────────────────┘                                    │\n│  ??                                                                                            │\n│┌──────────┐┌─────────────────┐                                    │\n││소음지도 작성       ││ ? 소음분포의 3차원 도식화       │                                    │\n││                    ├┤                                  │                                    │\n││                    ││                                  │                                    │\n│└──────────┘└─────────────────┘                                    │\n│                                                                                                  │\n│                                                                                                  │\n│  ??                                                                                            │\n│┌──────────────┐┌───────────────────────────────┐│\n││소음지도의 검증 및 확정     ││ ? 소음지도자문협의회의 검증을 받아 확정                     ││\n││                            ├┤                                                              ││\n││                            ││                                                              ││\n│└──────────────┘└───────────────────────────────┘│\n│  * 소음지도의 검증 전(前) 기후에너지환경부, 국립환경과학원 및 한국환경공단의 의견수렴 및 반영    │\n│  여부 결정                                                                                       │\n│                                                                                                  │\n│  ??                                                                                            │\n│┌──────────────┐  ┌──────────────────────────────┐│\n││소음지도 결과 통보 및 제출  │  │ ? 기관내 관련 부서 통보 및 기후에너지                     ││\n││                            ├─┤환경부장관에게 제출                                         ││\n││                            │  │                                                            ││\n│└──────────────┘  └──────────────────────────────┘│\n│  ??                                                                                            │\n│┌──────────────┐  ┌──────────────────────────────┐│\n││소음지도 활용계획 제출      │  │ ? 소음지도 확정 후 1년 이내에 기후                        ││\n││                            ├─┤에너지환경부장관에게 소음지도 활용                          ││\n││                            │  │계획 제출                                                   ││\n│└──────────────┘  └──────────────────────────────┘│\n│                                                                                                  │\n└─────────────────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000273170&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161052991",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161052987",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161052991",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:소음지도의작성방법#BYL0001",
+      "filename": "별표1_소음지도의 작성절차(제5조제1항 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "소음지도의 작성방법(제5조제2항 관련)",
+      "enforcement_date": "",
+      "content": "[별표 2]\n소음지도의 작성방법(제5조제2항 관련)\n1. 소음지도 작성 프로그램\n소음지도 작성 프로그램은 다음 각 호의 조건을 충족해야 한다.\n가. 지도파일 및 그림파일에 등고선, 건물 높이 등의 지형ㆍ지물정보를 입력하고 대상지역을 3차원으로 표현할 수 있다.\n나. 도로소음, 철도소음에 대하여 교통량, 속력 등의 영향인자를 입력하여 소음원을 생성할 수 있다.\n다. 다음에 제시된 예측식 및 예측조건 등을 설정할 수 있다.\n2 입력자료의 구축\n측정지점 선정 및 교통소음원 입력 자료의 타당성을 확인하여야 한다.\n가. 측정지점 선정시 지리정보시스템에서의 도로, 철도 유무를 확인한다.\n나. 교통량 보고서 등의 교통량 자료를 확인한다.\n다. 지리정보자료와 최신 위성사진 자료와의 비교를 통하여 건물, 도로, 철도, 방음시설 등의 자료를 확인하며 측지기준계(GRS80)의 적합성 유무를 확인한다.\n3. 소음원별 예측식\n소음지도의 예측식은 다음 표에 따르며, 그 외 예측식에 대해서는 국립환경과학원의 검증을 거쳐 사용할 수 있다.\n<소음원별 예측식>\n┌───┬────────────┬────────────┐\n│소음원│도로                    │철도                    │\n┝━━━┿━━━━━━━━━━━━┿━━━━━━━━━━━━┥\n│예측식│CRTN, RLS, NMPB,        │Schall03, CRN, Nord 2000│\n│      │Nord 2000, ASJ RTN Model│                        │\n└───┴────────────┴────────────┘\n※ 예측식은 최신 버전을 사용하는 것을 원칙으로 한다.\n4. 지도의 축척\n소음지도의 작성에는 축척이 1:1,000 이상의 비율을 가지는 지도를 사용하는 것을 원칙으로 하며, 이러한 축척의 지도가 없을 경우 그 이하의 비율을 가진 축척지도를 사용할 수 있다.\n5. 기상조건\n예측식에서 기상자료를 사용할 경우 기상조건은 그 지역의 최근 5년간 연평균(기온, 습도, 기압, 풍향, 풍속 등)을 사용한다.\n6. 지형조건\n지형조건을 생성할 때 등고선의 입력은 최소한 주곡선 및 계곡선의 정보를 입력하여 소음전파를 계산한다.\n7. 계산 격자\n주요 소음원을 중심으로 평면 소음지도(grid noise map)를 계산하고 주요 소음원 주변에 주거지역이 있을 때는 주거건물에 대한 높이별 외벽 소음지도(facade noise map)를 계산한다.\n평면 소음지도 계산 시 격자는 10×10m이하의 단위로 작성하고, 격자의 높이는 지면으로부터 1.5m를 원칙으로 한다.\n높이별 소음도의 계산은 층별 소음도를 확인한다.\n8. 계산 관련 영향인자 설정\n아스팔트 포장 등의 도심지에서의 지면 흡음률은 \"0\"으로 한다. 다만, 녹지나 산 등의 지면 흡음을 특별히 고려해야 하는 지역인 경우 평균적인 지면흡음률(KS I ISO 9613-1 및 KS I ISO 9613-2)을 적용한다. 기타 전달감쇠와 관련된 영향인자는 KS I ISO 9613-1 및 KS I ISO 9613-2에 따라 적용할 수 있다.\n반사차수는 3차 이상, 영향 소음원의 거리는 2,000 m 이상, 수음점에서의 소음계산 각도는 360°로 하는 것을 원칙으로 한다. 다만, 반사차수, 소음원 거리 등은 예측지점의 주변 환경을 고려하여 변경할 수 있다.\n9. 기타 소음원\n공사장, 사업장 등의 기타 소음원에 대하여 예측 또는 현황조사가 가능한 경우에는 그 소음영향을 반영할 수 있다.\n10. 시간대 및 평가단위\n소음지도는 주간(06:00∼22:00), 야간(22:00∼06:00)의 시간대에 따라 각각 작성하며 소음평가단위는 등가소음도(Leq, dB(A))로 한다.\n11. 작성범위 및 계산범위\n가. 지도의 작성범위는 지방자치단체 행정구역을 기본으로 하며, 소음노출정도, 소음환경기준 또는 교통소음관리기준의 초과수준을 파악할 수 있어야 한다.\n나. 소음지도의 계산범위를 충분히 하여 지방자치단체 행정구역 경계에서의 음원, 수음점 등의 모델링 오차를 최소화하여야 한다.\n12. 도로교통소음원 관련 영향인자\n도로교통 소음원과 관련된 영향인자에 대한 사항은 다음 각 호와 같이 설정한다.\n가. 교통량 : 주ㆍ야간 시간대의 교통량 평균을 기준으로 하며 연평균 교통량을 원칙으로 한다. 연평균자료가 없을 경우 최신의 통계 자료 또는 측정한 값을 기준으로 한다.\n나. 속력 : 현재의 속력을 측정하거나 취득할 수 있는 지역에서는 주ㆍ야간시간대의 1시간 이상의 평균속력을 기준으로 하며 속력의 측정이 어려울 때는 도로의 제한속도를 사용할 수 있다.\n다. 대형차 및 소형차의 혼입비율 : 대형차 및 소형차의 구분은 예측식에 따라 다음 표와 같이 구분한다.\n<적용 예측식별 자동차의 구분>\n┌────┬───────┬───────────────────────┐\n│구 분   │국내 차량구분 │도로교통소음 예측 적용                        │\n│        │              ├──┬───┬──┬─────┬───────┤\n│        │              │CRTN│RLS   │NMPB│Nord 2000 │ASJ RTN Model │\n┝━━━━┿━━━━━━━┿━━┿━━━┿━━┿━━━━━┿━━━━━━━┥\n│승 용   │승용,         │소형│소형  │소형│소형      │소형1         │\n│        │15인 미만 승합│    │      │    │          │              │\n├────┼───────┼──┤      │    │          │              │\n│소형트럭│2.5톤 미만    │대형│      │    │          │              │\n├────┼───────┤    │      │    ├─────┼───────┤\n│중형트럭│2.5톤이상∼   │    │      │    │중형      │소형2         │\n│        │3.5톤 미만    │    │      │    │          │              │\n├────┼───────┤    ├───┤    │          ├───────┤\n│중형버스│15인승 이상∼ │    │대형1)│    │          │중형          │\n│        │25인승 미만   │    │      │    │          │              │\n├────┼───────┤    │      ├──┼─────┼───────┤\n│대형트럭│3.5톤 이상    │    │      │대형│대형      │대형          │\n├────┼───────┤    │      │    │          │              │\n│대형버스│25인승 이상   │    │      │    │          │              │\n└────┴───────┴──┴───┴──┴─────┴───────┘\n1) 적용 예측식별 자동차 구분 중 RLS 예측식에 대하여 트레일러가 없는 경우 대형1로 적용하고, 트레일러가 있는 경우 대형2로 적용함\n※ \"환경친화적 자동차의 개발 및 보급 촉진에 관한 법률\" 제2조에 따른 ‘전기자동차’, ‘태양광자동차’, ‘수소전기자동차’는 소형으로 적용함\n라. 도로교통소음원 : 도로는 주행방향 각 차선별로 도로교통소음원으로 설정하는 것을 원칙으로 한다. 다만, 예측지점의 주변환경을 고려하여 변경할 수 있다.\n마. 도로종단구배 및 도로표면 : 도로종단구배가 있을 때는 도로종단구배를 적용하여 예측한다. 도로포장은 아스팔트와 콘크리트를 구분하고 저감효과가 검증된 저소음포장에 대해서만 보정값을 적용할 수 있다.\n13. 철도소음원 관련 영향인자\n철도소음원과 관련된 영향인자에 대한 사항은 다음 각 호와 같이 설정한다.\n가. 통행량 : 주간시간대는 주간시간대의 연평균 열차통행량을 사용하며 야간시간대는 운행시간대를 고려하여 연평균 열차 통행량을 사용한다.\n나. 속력 : 현재의 속력을 측정할 수 있는 지역에서는 운행속력이 바뀌는 구간마다 1시간 이상의 평균속력을 기준으로 한다. 다만 열차의 구분에 따라 평균속력을 다르게 적용하여야 한다.\n다. 열차의 구분 : 사용되는 예측식에 따라 열차 길이, 속력 등을 고려하여 열차의 구분을 적용한다. 다음 표의 열차 구분을 적용하는 것을 고려할 수 있다. 다만 변경 시 검증된 결과 및 자료를 활용하여 예측한다.\n<국내 적용 예측식별 열차 구분>\n┌─────┬──────────────────┬─────────┬─────────┬───────────┐\n│국내열차  │Schall03(2012년 이후 버전)          │Schall03          │CRN               │Nord2000              │\n│          ├────────┬────┬────┤(2012년 이전 버전)│                  │                      │\n│          │예측식          │차륜축  │열차길이│                  │                  │                      │\n│          │                │개수    │(m)     │                  │                  │                      │\n┝━━━━━┿━━━━━━━━┿━━━━┿━━━━┿━━━━━━━━━┿━━━━━━━━━┿━━━━━━━━━━━┥\n│KTX       │Fz1+Fz2×18+Fz1 │46      │388     │ICE               │Eurostar          │Sweden-1a             │\n├─────┼────────┼────┼────┤                  │                  │                      │\n│KTX       │Fz1+Fz2×8+Fz1  │26      │201     │                  │                  │                      │\n│-산천1),  │                │        │        │                  │                  │                      │\n│SRT1)     │                │        │        │                  │                  │                      │\n├─────┼────────┼────┼────┼─────────┼─────────┼───────────┤\n│KTX-이음  │Fz3+Fz3+...+Fz3 │24      │151     │-                 │-                 │Norway-1a-2d-3c       │\n├─────┼────────┼────┼────┤                  │                  │                      │\n│KTX-청룡  │Fz3+Fz3+...+Fz3 │32      │199     │                  │                  │                      │\n├─────┼────────┼────┼────┼─────────┼─────────┼───────────┤\n│ITX 계열  │Fz5+Fz5+...+Fz5 │2)      │6)      │-                 │-                 │-                     │\n├─────┼────────┼────┼────┤                  │                  │                      │\n│GTX 계열  │Fz5+Fz5+...+Fz5 │32      │156     │                  │                  │                      │\n├─────┼────────┼────┼────┼─────────┼─────────┼───────────┤\n│새마을    │Fz7+Fz9+...+Fz9 │3)      │7)      │Nahverkehrszug    │Class466EMU       │Denmark-F4            │\n│(전기)    │                │        │        │(2000)            │                  │                      │\n├─────┼────────┼────┼────┤                  │                  │                      │\n│새마을    │Fz8+Fz9+...+Fz9 │3)      │7)      │                  │                  │                      │\n│(디젤)    │                │        │        │                  │                  │                      │\n├─────┼────────┼────┼────┼─────────┼─────────┼───────────┤\n│무궁화    │Fz7+Fz9+...+Fz9 │3)      │7)      │Nahverkehrszug    │Class465EMU       │Denmark-F2 & F3       │\n│(전기)    │                │        │        │(1988)            │                  │                      │\n├─────┼────────┼────┼────┤                  │                  │                      │\n│무궁화    │Fz8+Fz9+...+Fz9 │3)      │7)      │                  │                  │                      │\n│(디젤)    │                │        │        │                  │                  │                      │\n├─────┼────────┼────┼────┼─────────┼─────────┼───────────┤\n│화물열차  │Fz7+Fz10+...+Fz │4)      │8)      │Erzug(Nahv)       │Merry go coal     │Sweden-4a 또는        │\n│(전기)    │10              │        │        │                  │hopper HA         │Sweden-4b             │\n├─────┼────────┼────┼────┤                  │                  │                      │\n│화물열차  │Fz8+Fz10+...+Fz │4)      │8)      │                  │                  │                      │\n│(디젤)    │10              │        │        │                  │                  │                      │\n├─────┼────────┼────┼────┼─────────┼─────────┼───────────┤\n│지하철    │Fz23            │5)      │9)      │U-bahn            │Underground stock │Denmark-Øeresundstog │\n└─────┴────────┴────┴────┴─────────┴─────────┴───────────┘\n비고\n1) 중련 편성(2대 열차 연결)인 경우 1편성을 열차(KTX-산천 또는 SRT) 2대 운행으로 봄\n2) 차량 개수×4(개)\n3) 동력차량 개수×6(개)+객차 개수×4(개)\n4) 동력차량 개수×6(개)+화차 개수×4(개)\n5) 객차 개수×4(개)\n6) ITX-청춘 : 162(m), ITX-새마을 : 143(m),\nITX-마음 : (4량) 96.7(m), (6량) 143.7(m)\n7) 차량 개수 × 23.5(m)\n8) 차량 개수 × 15.5(m)\n9) 차량 개수 × 19.5(m)\n※ 차량 길이 변동이 있는 경우 실제 차량 길이를 적용할 수 있다.\n┌──┬──────────────┬──┬───────────┐\n│구분│철도종류                    │구분│철도종류              │\n├──┼──────────────┼──┼───────────┤\n│Fz1 │고속 전기기관차(동력집중식) │Fz2 │고속 객차             │\n├──┼──────────────┼──┼───────────┤\n│Fz3 │고속 전기동차(동력분산식)   │Fz5 │전기동차(동력분산식)  │\n├──┼──────────────┼──┼───────────┤\n│FZ7 │전기기관차(동력집중식)      │Fz8 │디젤기관차(동력집중식)│\n├──┼──────────────┼──┼───────────┤\n│Fz9 │객차                        │Fz10│화차(화물 운송차량)   │\n├──┼──────────────┼──┼───────────┤\n│Fz23│도시지하철                  │    │                      │\n└──┴──────────────┴──┴───────────┘\n※ (참고) 다음의 Fz1, Fz2 ... 등은 철도차량 종류를 나타냄\n라. 열차 특성 입력 : 열차의 길이는 열차구분에 따라 실제 열차의 길이와 차축 개수를 적용해야 하며, 변경 시 검증된 결과 및 자료를 활용하여 예측한다.\n마. 선로조건 : 선로의 도상은 일반적으로 자갈 도상으로, 받침목은 콘크리트 받침목을 적용하는 것을 원칙으로 한다. 곡선반경은 300m 이상 구간, 500m이상 구간에 대하여 구분하여 적용하고, 교량구간일 때는 교량 보정값(두께, 폭, 높이)을 적용할 수 있다.\n14. 전파경로 관련 영향인자\n전파경로와 관련된 영향인자에 대한 사항은 다음 각 호와 같이 설정한다.\n가. 방음벽의 반사 : 도로나 철도 양쪽에 반사구조가 있는 경우 다중반사 효과를 고려해야 한다. 단, 흡음형 방음벽이 있을 경우 방음벽의 흡음률을 적용할 수 있다.\n나. 건물의 반사 : 대상지역의 소음전파에 영향을 미치는 건물이 있는 경우, 그 건물은 완전반사체로 가정하며 흡음률을 ‘0’으로 설정한다. 다만, 건물 벽면의 흡음률을 알고 있거나 반사의 영향이 크게 우려되지 않는 경우 흡음률은 조정할 수 있다.\n다. 건물의 높이 : 건물의 높이는 가능하면 실제 높이로 하여야 한다. 다만, 건물이 소음의 전달경로에 크게 영향(예: 반사회절 등)을 미치지 않거나 실제 측정이 불가능한 경우에는 건물의 층수를 조사하여, 단독주택은 2.8 m × 층수, 공동주택은 2.8 m × 층수, 상가는 3.6 m × 층수로 하여 높이를 산정할 수 있다.\n라. 건물 높이별 소음예측 : 건물외벽의 높이별 소음을 예측하기 위한 조건으로는 건물에서 소음원 방향으로 1.0m 떨어진 거리에서의 소음을 예측하여야 하며, 건물의 반사음까지 예측에 포함한다.\n15. 작성된 지도의 검토\n지도의 검증은 소음지도에서의 계산된 소음도 결과와 실측값을 비교하여 오차의 평균 ±3dB, 표준편차 3을 초과하지 않는 것을 원칙으로 한다. 지점별로 오차가 ±5dB 이상인 지점은 지점별 원인분석을 실시한다.\n실측값은 현재 운영 중인 환경소음측정망(도로변 지역에 한함), 철도소음측정망의 측정값을 활용할 수 있다. 그 외에 1시간 교통량이 1,000대 이상인 도로, 1시간 통행량이 10대 이상인 철도당 한 지점이상에서 측정해야 하며, 교통소음한도를 초과하는 건물이나 공동주택 단지의 50%이상의 지점에서 측정한다.",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000273170&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161053007",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161052993",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161053007",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:소음지도의작성방법#BYL0002",
+      "filename": "별표2_소음지도의 작성방법(제5조제2항 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "소음지도 작성기관의 기술인력 및 장비기준(제11조제2항 관련)",
+      "enforcement_date": "",
+      "content": "[별표 3]\n소음지도 작성기관의 기술인력 및 장비기준(제11조제2항 관련)\n1. 인력기준\n┌───┬────────────────────────────────┬──┐\n│구 분 │자 격 요 건                                                     │인원│\n├───┼────────────────────────────────┼──┤\n│책임자│가. 다음 어느 하나에 해당하는 사람일 것                         │1인 │\n│      │  1) 소음진동기술사                                             │이상│\n│      │  2) 소음ㆍ진동 분야 박사학위 소지자                            │    │\n│      │  3) 대학에서 소음ㆍ진동 관련분야를 전공하여 석사 이상의 학위를 │    │\n│      │취득한 자로서 실무경력이 3년 이상인 자                          │    │\n│      │  4) 대학에서 소음ㆍ진동 관련분야를 전공하여 학사 이상의 학위를 │    │\n│      │취득한 자로서 소음ㆍ진동 분야의 실무경력이 5년 이상인 자        │    │\n│      │또는 소음·진동 관련분야 기사로서 실무경력 3년 이상인 자로      │    │\n│      │서 최근 3년 이내에 국립환경인재개발원 또는 한국환경공단 등      │    │\n│      │에서 실시하는 소음지도 작성교육을 이수한 자                     │    │\n│      │  5) 전문대학에서 소음ㆍ진동 관련분야를 전공하여 전문학사 이상  │    │\n│      │의 학위를 취득한 자로서 소음ㆍ진동 분야의 실무경력이 7년        │    │\n│      │이상인 자 또는 소음·진동 관련분야 산업기사로서 실무경력 6      │    │\n│      │년 이상인 자로서  최근 3년 이내에 국립환경인재개발원 또는       │    │\n│      │한국환경공단 등에서 실시하는 소음지도 작성교육을 이수한 자      │    │\n├───┼────────────────────────────────┼──┤\n│실무자│나. 다음 어느 하나에 해당하는 사람일 것                         │3인 │\n│      │  1) 대학에서 소음ㆍ진동 관련분야 석사학위 이상을 취득한 자     │이상│\n│      │  2) 소음진동기사                                               │    │\n│      │  3) 소음ㆍ진동 관련분야 산업기사로서 실무경력이 2년 이상인 자  │    │\n│      │  4) 대학에서 소음ㆍ진동 관련분야를 전공하여 학사학위를 취득한  │    │\n│      │자로서 소음ㆍ진동 관련분야 실무경력이 1년 이상인 자             │    │\n│      │  5) 전문대학에서 소음?진동 관련분야를 전공하여 전문학사 이상  │    │\n│      │의 학위를 취득한 자로서 소음ㆍ진동 관련분야 실무경력이 2년      │    │\n│      │이상인 자                                                       │    │\n│      │  6) 고등학교 이상 졸업자로서 관련 실무경력이 3년 이상인 자     │    │\n└───┴────────────────────────────────┴──┘\n2. 장비기준\n┌───────────────────────────────────┬────┐\n│장     비                                                             │수량    │\n├───────────────────────────────────┼────┤\n│가. KS C-IEC61672-1에서 정한 클래스2의 소음계 또는 동등 이상의 성능을 │1대 이상│\n│가진 장비                                                             │        │\n├───────────────────────────────────┼────┤\n│나. 주파수 분석기                                                     │1대 이상│\n├───────────────────────────────────┼────┤\n│다. 표준음 발생기                                                     │1대 이상│\n├───────────────────────────────────┼────┤\n│라. 삼각대 등 측정에 필요한 장비                                      │1대 이상│\n├───────────────────────────────────┼────┤\n│마. 예측용 상용프로그램(주변도로상황 및 주변지형 등의 조건을 입력하여 │1식 이상│\n│소음도를 예측할 수 있는 예측프로그램)                                 │        │\n└───────────────────────────────────┴────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000273170&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161053013",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161053009",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161053013",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:소음지도의작성방법#BYL0003",
+      "filename": "별표3_소음지도 작성기관의 기술인력 및 장비기준(제11조제2항 관련).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "★소음지도의 작성방법(기후에너지환경부고시 제2026-19호) 일부 개정(전문).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=161052303",
+      "file_store_url": "",
+      "filename": "★소음지도의 작성방법(기후에너지환경부고시 제2026-19호) 일부 개정(전문).hwpx"
+    },
+    {
+      "name": "★소음지도의 작성방법(기후에너지환경부고시 제2026-19호) 일부 개정(전문).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=161052307",
+      "file_store_url": "",
+      "filename": "★소음지도의 작성방법(기후에너지환경부고시 제2026-19호) 일부 개정(전문).pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 25,
+    "by_category": {
+      "법령": 15,
+      "별표": 4,
+      "행정규칙": 6
+    },
+    "by_relation_type": {
+      "citation": 16,
+      "appendix_ref": 4,
+      "internal_ref": 5
+    },
+    "articles_total": 18,
+    "articles_with_relations": 10,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 4,
+    "appendices_count": 3,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/소음지도의 작성방법"
+  },
+  "provision_id": "admrul:소음지도의작성방법#DOC"
+}
