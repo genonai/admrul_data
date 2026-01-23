@@ -1,0 +1,635 @@
+{
+  "law_id": "2100000274008",
+  "mst": "2100000274008",
+  "law_name": "전자태그의 부착 및 RFID 물품관리시스템의 이용에 관한 규정",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000274008",
+  "promulgation_no": "2026-18",
+  "promulgation_date": "20260123",
+  "enforcement_date": "20260123",
+  "revision_date": "20260123",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "조달청(물품관리과)",
+    "담당자명": "오대원",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "전자태그의 부착 및 RFID 물품관리시스템의 이용에 관한 규정",
+    "발령일자": "20260123",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "조달청",
+    "전화번호": "042-724-7374",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1230000",
+    "생성일자": "20260202",
+    "행정규칙ID": "24543",
+    "시행일자": "20260123",
+    "담당부서기관코드": "1230497",
+    "발령번호": "2026-18",
+    "행정규칙일련번호": "2100000274008",
+    "상위부처명": "조달청"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n정부조직법 개정(‘25.10.1.)\n◇ 주요내용\n정부조직법 개정에 따라 중앙관서 명칭 \"기획재정부장관\"을 \"재정경제부장관\"으로 변경",
+  "body": {
+    "format": "articles",
+    "article_count": 16,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규정은 「물품관리법 시행령」 제29조제2항 및 제3항에서 위임한 사항과 RFID 물품관리시스템의 이용에 필요한 사항을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「물품관리법 시행령」",
+            "line_text": "",
+            "target_law_name": "물품관리법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/물품관리법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0001",
+            "reference_id": "law:물품관리법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제29조제2항 및 제3항",
+            "line_text": "",
+            "target_law_name": "물품관리법 시행령",
+            "target_article_no": "제29조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/물품관리법 시행령/제29조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0001",
+            "reference_id": "law:물품관리법시행령#JO0029"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) 이 규정에서 사용하는 용어의 정의는 다음과 같다.1. \"전자태그(RFID Tag: Radio Frequency Identification Tag)\"란 사물의 정보를 무선주파수로 전송ㆍ처리하기 위하여 물품에 부착하는 반도체 소자가 포함된 태그를 말한다.2. \"RFID 물품관리시스템\"이란 「물품관리법 시행령」 제15조제7항 및 같은 법 시행규칙 제55조제1항에 따라 조달청장이 물품관리 업무를 전자적으로 처리하기 위하여 구축ㆍ운용하는 정보시스템을 말한다.3. \"디지털예산회계시스템\"이란 「국가재정법」 제97조의2제1항에 따라 재정경제부장관이 개발하여 각 중앙관서의 장이 사용하는 정보통신매체 및 프로그램 등을 말한다.4. \"국가종합전자조달시스템\"이란 「전자조달의 이용 및 촉진에 관한 법률 」 제12조에 따라 조달청장이 조달업무를 전자적으로 처리하기 위하여 구축ㆍ운용하는 정보시스템을 말한다.5. \"이용기관\"이란 RFID 물품관리시스템(이하 \"물품관리시스템\"이라 한다)을 이용하는 기관을 말한다.6. \"전자태그번호\"란 전자태그, 리더기, 발행기 등 물품관리용 RFID 기기(이하 \"RFID 기기\"라 한다)를 활용하여 전자태그 기반으로 물품을 관리할 수 있도록 제6조에 따라 물품관리시스템을 이용하여 개별물품에 부여하는 번호를 말한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「물품관리법 시행령」",
+            "line_text": "",
+            "target_law_name": "물품관리법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/물품관리법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0002",
+            "reference_id": "law:물품관리법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제15조제7항",
+            "line_text": "",
+            "target_law_name": "물품관리법 시행령",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/물품관리법 시행령/제15조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0002",
+            "reference_id": "law:물품관리법시행령#JO0015"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "같은 법 시행규칙",
+            "line_text": "",
+            "target_law_name": "물품관리법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/물품관리법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0002",
+            "reference_id": "law:물품관리법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제55조제1항",
+            "line_text": "",
+            "target_law_name": "물품관리법 시행규칙",
+            "target_article_no": "제55조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/물품관리법 시행규칙/제55조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0002",
+            "reference_id": "law:물품관리법시행규칙#JO0055"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「국가재정법」",
+            "line_text": "",
+            "target_law_name": "국가재정법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가재정법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0002",
+            "reference_id": "law:국가재정법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제97조의2제1항",
+            "line_text": "",
+            "target_law_name": "국가재정법",
+            "target_article_no": "제97조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가재정법/제97조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0002",
+            "reference_id": "law:국가재정법#JO0097_02"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「전자조달의 이용 및 촉진에 관한 법률 」",
+            "line_text": "",
+            "target_law_name": "전자조달의 이용 및 촉진에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전자조달의 이용 및 촉진에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0002",
+            "reference_id": "law:전자조달의이용및촉진에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제12조",
+            "line_text": "",
+            "target_law_name": "전자조달의 이용 및 촉진에 관한 법률",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전자조달의 이용 및 촉진에 관한 법률/제12조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0002",
+            "reference_id": "law:전자조달의이용및촉진에관한법률#JO0012"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "전자태그의 부착 및 RFID 물품관리시스템의 이용에 관한 규정",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/전자태그의 부착 및 RFID 물품관리시스템의 이용에 관한 규정/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0002",
+            "reference_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "이용대상",
+        "chapter": "",
+        "content": "제3조(이용대상) 물품관리시스템을 이용할 수 있는 기관은 「조달사업에 관한 법률」(이하 \"조달사업법\"이라 한다) 제2조제5호에서 정한 수요기관으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「조달사업에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "조달사업에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/조달사업에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0003",
+            "reference_id": "law:조달사업에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제2조제5호",
+            "line_text": "",
+            "target_law_name": "조달사업에 관한 법률",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/조달사업에 관한 법률/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0003",
+            "reference_id": "law:조달사업에관한법률#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "물품관리시스템의 관리 및 운영",
+        "chapter": "",
+        "content": "제4조(물품관리시스템의 관리 및 운영) ① 조달청장은 물품관리제도를 담당하는 부서의 장을 물품관리시스템의 관리 및 운영을 담당하는 관리자(이하 \"물품관리시스템 관리자\"라 한다)로 지정한다.② 물품관리시스템 관리자는 이용기관에서 물품관리시스템을 효율적으로 이용할 수 있도록 관리하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "등록",
+        "chapter": "",
+        "content": "제5조(등록) 물품관리시스템을 이용하고자 하는 자는 다음 각호에 따라 디지털예산회계시스템 또는 국가종합전자조달시스템의 이용자로 등록하여야 한다.1. 「조달사업법」 제2조제5호가목에 따른 이용자 : 디지털예산회계시스템2. 「조달사업법」 제2조제5호나목 또는 같은 호 다목에 따른 이용자 : 국가종합전자조달시스템",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「조달사업법」 제2조",
+            "line_text": "제5조(등록) 물품관리시스템을 이용하고자 하는 자는 다음 각호에 따라 디지털예산회계시스템 또는 국가종합전자조달시스템의 이용자로 등록하여야 한다.1. 「조달사업법」 제2조제5호가목에 따른 이용자 : 디지털예산회계시스템2. 「조달사업법」 제2조제5호나목 또는 같은 호 다목에 따른 이용자 : 국가종합전자조달시스템",
+            "target_law_name": "조달사업에 관한 법률",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/조달사업에 관한 법률/제2조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0005",
+            "reference_id": "law:조달사업에관한법률#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「조달사업법」 제2조",
+            "line_text": "제5조(등록) 물품관리시스템을 이용하고자 하는 자는 다음 각호에 따라 디지털예산회계시스템 또는 국가종합전자조달시스템의 이용자로 등록하여야 한다.1. 「조달사업법」 제2조제5호가목에 따른 이용자 : 디지털예산회계시스템2. 「조달사업법」 제2조제5호나목 또는 같은 호 다목에 따른 이용자 : 국가종합전자조달시스템",
+            "target_law_name": "조달사업에 관한 법률",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/조달사업에 관한 법률/제2조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0005",
+            "reference_id": "law:조달사업에관한법률#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "전자태그번호의 체계 및 부여방법",
+        "chapter": "",
+        "content": "제6조(전자태그번호의 체계 및 부여방법) ① 물품관리시스템에서 사용하는 전자태그번호의 체계와 형태는 별표를 따른다.② 제1항에 따른 전자태그번호는 조달청장이 물품관리시스템을 이용하여 부여한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "전자태그의 발행 및 입력항목",
+        "chapter": "",
+        "content": "제7조(전자태그의 발행 및 입력항목) ① 이용기관의 장은 물품관리시스템과 발행기를 이용하여 보유물품에 부착할 전자태그를 발행하여야 한다.② 제1항에 따라 발행되는 전자태그에 입력되는 항목은 다음 각 호와 같다.1. 전자태그번호2. 취득(납품)일자3. 취득(납품)단가4. 품명5. 품목6. 기타 물품관리에 필요한 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "전자태그의 부착",
+        "chapter": "",
+        "content": "제8조(전자태그의 부착) 이용기관의 장은 물품의 검사ㆍ검수를 완료한 날로부터 15일 이내에 제7조제1항에 따라 발행한 전자태그를 해당물품에 부착하여야 한다. 다만, 「조달사업법」 제27조제1항에 따른 혁신제품의 시범구매인 경우에는 시범사용 완료 후 시범사용기관에 관리전환하거나 양여할 때까지는 해당 혁신제품의 전자태그 발행 및 부착하지 않을 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "제7조제1항",
+            "line_text": "",
+            "target_law_name": "전자태그의 부착 및 RFID 물품관리시스템의 이용에 관한 규정",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/전자태그의 부착 및 RFID 물품관리시스템의 이용에 관한 규정/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0008",
+            "reference_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0007"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "「조달사업법」 제27조",
+            "line_text": "제8조(전자태그의 부착) 이용기관의 장은 물품의 검사ㆍ검수를 완료한 날로부터 15일 이내에 제7조제1항에 따라 발행한 전자태그를 해당물품에 부착하여야 한다. 다만, 「조달사업법」 제27조제1항에 따른 혁신제품의 시범구매인 경우에는 시범사용 완료 후 시범사용기관에 관리전환하거나 양여할 때까지는 해당 혁신제품의 전자태그 발행 및 부착하지 않을 수 있다.",
+            "target_law_name": "조달사업에 관한 법률",
+            "target_article_no": "제27조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/조달사업에 관한 법률/제27조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0008",
+            "reference_id": "law:조달사업에관한법률#JO0027"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "전자태그의 부착대상",
+        "chapter": "",
+        "content": "제9조(전자태그의 부착대상) 이용기관의 장은 디지털예산회계시스템의 물품관리대장에 등재된 모든 물품에 전자태그를 부착하여야 한다. 다만 부착하기 곤란한 물품의 경우 전자태그를 발행하여 별도로 관리하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "전자태그의 부착에 대한 협의",
+        "chapter": "",
+        "content": "제10조(전자태그의 부착에 대한 협의) 이용기관의 장은 다음 각호의 사항에 대하여 조달청장과 협의할 수 있다.1. 전자태그의 부착대상 및 제외대상에 관한 사항2. 전자태그의 규격 및 기술표준 등에 관한 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "전자태그의 부착방법",
+        "chapter": "",
+        "content": "제11조(전자태그의 부착방법) 이용기관의 장은 다음 각호를 고려하여 전자태그를 부착하여야 한다.1. 물품의 사용이나 보관에 제한이 없도록 부착2. 리더기로 쉽게 인식할 수 있는 위치에 부착3. 물품의 재질이나 사용장소 등을 고려하여 전자태그의 종류를 선정하여 부착",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "전자태그의 폐기",
+        "chapter": "",
+        "content": "제12조(전자태그의 폐기) 이용기관의 장은 물품을 불용결정한 경우 해당 물품에 발행된 전자태그를 폐기하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "RFID 기기의 이용 및 관리",
+        "chapter": "",
+        "content": "제13조(RFID 기기의 이용 및 관리) ① 조달청장은 물품관리시스템과 연동하여 물품관리에 필요한 성능과 기능을 갖춘 RFID 기기를 물품관리시스템을 통해 공개한다.② 이용기관의 장은 제1항에 따른 RFID 기기를 이용하여 물품의 취득, 보관, 사용 및 재물조사 등의 물품관리업무를 수행하여야 한다.③ 이용기관의 장은 제2항에 따라 이용하는 RFID 기기 중에서 리더기는 물품관리시스템에 등록하여야 한다.④ 이용기관의 장은 제3항에 따라 물품관리시스템에 등록한 리더기에 도난, 분실, 훼손이 발생하거나 더 이상 리더기를 사용하지 않는 경우에는 조달청장에게 이를 통보하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "전자태그관리지침",
+        "chapter": "",
+        "content": "제14조(전자태그관리지침) ① 조달청장은 전자태그의 종류, 부착 방법 및 절차, RFID 기기 등 전자태그의 부착 및 물품관리시스템의 이용에 대한 세부사항을 RFID 전자태그관리지침으로 정하여 운영한다.② 이용기관의 장은 전자태그의 부착 및 물품관리시스템의 이용에 대한 세부사항에 대해서는 제1항에 따른 RFID 전자태그관리지침을 따라야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "국가종합전자조달시스템의 준용",
+        "chapter": "",
+        "content": "제15조(국가종합전자조달시스템의 준용) 이 규정 이외에 물품관리시스템의 운영 및 관리에 관한 다음 각 호의 사항은 「국가종합전자조달시스템 구축 및 운용에 관한 규정」을 준용한다.1. 물품관리시스템 구축사업 관리2. 물품관리시스템 운영관리3. 물품관리시스템의 운영 중단4. 물품관리시스템의 구축ㆍ운영관리의 위탁",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제15조",
+            "source_clause": "제15조",
+            "link_text": "「국가종합전자조달시스템 구축 및 운용에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "국가종합전자조달시스템 구축 및 운용에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국가종합전자조달시스템 구축 및 운용에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0015",
+            "reference_id": "admrul:국가종합전자조달시스템구축및운용에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제16조(재검토기한) 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 규정에 대하여 2026년 1월 1일 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제16조",
+            "source_clause": "제16조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0016",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#JO0016"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20080205",
+      "promulgation_no": "2008-1",
+      "content": "부칙 <제2008-1호,2008. 2. 5.>이 규정은 고시한 날부터 시행한다.  다만, 제8조제2항, 제14조, 제15조는 고시한 날부터 6개월 후에 적용한다."
+    },
+    {
+      "promulgation_date": "20100414",
+      "promulgation_no": "2010-16",
+      "content": "부칙 <제2010-16호,2010. 4. 14.>이 규정은 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20201228",
+      "promulgation_no": "2020-70",
+      "content": "부칙 <제2020-70호,2020. 12. 28.>제1조(시행일)이 고시는 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20220701",
+      "promulgation_no": "2022-13",
+      "content": "부칙 <제2022-13호, 2022. 7. 1.>제1조(시행일)이 규정은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20251203",
+      "promulgation_no": "2025-38",
+      "content": "부칙 <제2025-38호, 2025. 12. 3.>제1조(시행일) 이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20260123",
+      "promulgation_no": "2026-18",
+      "content": "부칙 <제2026-18호, 2026. 1. 23.>제1조(시행일) 이 고시는 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "전자태그번호 체계(제6조제1항 관련)",
+      "enforcement_date": "",
+      "content": "[별표]\n전자태그번호 체계(제6조제1항 관련)\n전자태그번호의 체계는 행정안전부 장관이 고시하는 「행정ㆍ공공기관 RFID표준코드 관리지침」을 준용한다.\n□ 전자태그번호 체계 : KKR(3자리) + KKR기관코드(2자리) + 고유식별번호(16자리)\nㅇ KKR : 3자리 문자열(고정값)\n- RFID를 이용할 때 대한민국 행정ㆍ공공기관용으로 국제표준화기구에 의하여 할당된 값으로서 전자태그번호 체계의 맨 앞에 적는 고정된 문자\nㅇ KKR기관코드 : 물품 구분을 위한 2자리 문자열(PA, PB, PG 등 총 3가지 종류)\n────┬──────────────────────\n코드값│코드값 설명\n────┼──────────────────────\nPA    │전자태그 발행기관 유형이 국가기관임을 의미\n────┼──────────────────────\nPB    │전자태그 발행기관 유형이 공공기관임을 의미\n────┼──────────────────────\nPG    │전자태그 부착 물품이 미술품임을 의미\n────┴──────────────────────\nㅇ 고유식별번호 : 물품을 식별하기 위해 발급되는 16자리 숫자열이며, KKR기관코드에 따라 다르게 구성되어 있음\n① KKR기관코드 PAㆍPB : 물품식별번호1)(8자리) + 일련번호2)(8자리)\n┌─────────────────────────────────────────┐\n│1) 물품식별번호 : 「물품목록정보의 관리 및 이용에 관한 법률」에 따른 물품식별번호 │\n│2) 일련번호 : 동일한 물품식별번호를 가진 물품에 대하여 순차적으로 부여되는 번호   │\n└─────────────────────────────────────────┘\n※ 전자태그번호 예시\nㆍ 국가기관 보유물품 : KKR-PA-12345678-23568910\nㆍ 공공기관 보유물품 : KKR-PB-23456789-36521468\n② KKR기관코그 PG : 숫자열1)(8자리) + 미술품구분2)(2자리) + 연도3)(2자리) + 일련번호(4자리)\n┌─────────────────────────────────────────┐\n│1) 숫자열 : 숫자 ‘0’을 8개 나열한 숫자열(고정값임)                              │\n│2) 미술품구분 : 01 한국화 / 02 문인화 / 03 서예 / 04 서양화 / 05 판화 / 06 조각 / │\n│07 뉴미디어및설치 / 08 공예 / 09 사진 / 99 기타                                   │\n│3) 연도 : RFID 물품관리시스템의 미술품대장에 미술품을 등록한 연도(2자리 숫자열)   │\n└─────────────────────────────────────────┘\n※ 전자태그번호 예시\nㆍ 미술품 : KKR-PG-00000000-03230112",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161367759",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161367755",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161367759",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#BYL0000",
+      "filename": "별표0_전자태그번호 체계(제6조제1항 관련).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "전자태그의 부착 및 RFID 물품관리시스템의 이용에 관한 규정(조달청고시 제2026-18호)(개정전문).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=161367263",
+      "file_store_url": "",
+      "filename": "전자태그의 부착 및 RFID 물품관리시스템의 이용에 관한 규정(조달청고시 제2026-18호)(개정전문).hwp"
+    },
+    {
+      "name": "전자태그의 부착 및 RFID 물품관리시스템의 이용에 관한 규정(조달청고시 제2026-18호)(개정전문).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=161367267",
+      "file_store_url": "",
+      "filename": "전자태그의 부착 및 RFID 물품관리시스템의 이용에 관한 규정(조달청고시 제2026-18호)(개정전문).pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 19,
+    "by_category": {
+      "법령": 15,
+      "행정규칙": 4
+    },
+    "by_relation_type": {
+      "citation": 17,
+      "internal_ref": 2
+    },
+    "articles_total": 16,
+    "articles_with_relations": 7,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 6,
+    "appendices_count": 1,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/전자태그의 부착 및 RFID 물품관리시스템의 이용에 관한 규정"
+  },
+  "provision_id": "admrul:전자태그의부착및RFID물품관리시스템의이용에관한규정#DOC"
+}
