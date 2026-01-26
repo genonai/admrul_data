@@ -1,0 +1,945 @@
+{
+  "law_id": "2100000273684",
+  "mst": "2100000273684",
+  "law_name": "국립과학수사연구원 정보공개운영 규정",
+  "law_abbr": "",
+  "law_type": "예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000273684",
+  "promulgation_no": "586",
+  "promulgation_date": "20260126",
+  "enforcement_date": "20260126",
+  "revision_date": "20260126",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국립과학수사연구원(행정지원과)",
+    "담당자명": "우수혜",
+    "행정규칙종류코드": "B0002",
+    "행정규칙명": "국립과학수사연구원 정보공개운영 규정",
+    "발령일자": "20260126",
+    "행정규칙종류": "예규",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국립과학수사연구원",
+    "전화번호": "033-902-5124",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1741000",
+    "생성일자": "20260211",
+    "행정규칙ID": "2086409",
+    "시행일자": "20260126",
+    "담당부서기관코드": "1741598",
+    "발령번호": "586",
+    "행정규칙일련번호": "2100000273684",
+    "상위부처명": "행정안전부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정이유\n현행 규정의 용어를 정비함으로써 조문 체계의 명확성 및 일관성을 확보하고자 함\n◇ 주요내용\n○ \"개의\"를 \"개의(開議)\"로 변경하여 용어 의미의 명확성을 제고함(제16조)",
+  "body": {
+    "format": "articles",
+    "article_count": 28,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조(목적) 이 규정은 「공공기관의 정보공개에 관한 법률」(이하 \"법\"이라 한다), 같은 법 시행령(이하 \"시행령\"이라 한다), 같은 법 시행규칙(이하 \"시행규칙\"이라 한다), 「행정안전부 정보공개운영규정」에 따라서 국립과학수사연구원(이하 \"연구원\"이라 한다) 및 지방과학수사연구소(이하 \"지방연구소\"라 한다)의 행정정보 공개에 필요한 사항을 규정함을 목적으로 한다. <개정 2022. 1. 3.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "공공기관의 정보공개에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0001",
+            "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행규칙",
+            "line_text": "",
+            "target_law_name": "공공기관의 정보공개에 관한 법률 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0001",
+            "reference_id": "law:공공기관의정보공개에관한법률시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「행정안전부 정보공개운영규정」",
+            "line_text": "",
+            "target_law_name": "행정안전부 정보공개운영규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/행정안전부 정보공개운영규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0001",
+            "reference_id": "admrul:행정안전부정보공개운영규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "제1장 총칙",
+        "content": "제2조(정의) 이 규정에서 사용하는 용어의 뜻은 다음과 같다.1. \"운영부서\"란 정보공개운영을 총괄하는 부서를 말한다2. \"처리부서\"란 해당정보를 실질적으로 취급하는 과 단위 부서를 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "정보공개의 원칙",
+        "chapter": "제1장 총칙",
+        "content": "제3조(정보공개의 원칙) 연구원에서 보유ㆍ관리하는 정보는 국민의 알권리 보장 및 행정의 투명성 확보 등을 위하여 법 제3조 및 이 규정에서 정하는 바에 따라 적극적으로 공개하여야 한다. <개정 2022. 1. 3.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "공공기관의 정보공개에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0003",
+            "reference_id": "law:공공기관의정보공개에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제3조",
+            "line_text": "",
+            "target_law_name": "공공기관의 정보공개에 관한 법률",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0003",
+            "reference_id": "law:공공기관의정보공개에관한법률#JO0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "적용범위",
+        "chapter": "제1장 총칙",
+        "content": "제4조(적용범위) 이 규정은 연구원에 처리하는 모든 행정에 관하여 적용한다. <개정 2022. 1. 3.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "정보공개책임관 지정 및 임무 등",
+        "chapter": "제1장 총칙",
+        "content": "제5조(정보공개책임관 지정 및 임무 등) ① 국립과학수사연구원장(이하 \"원장\"이라 한다)은 행정지원과장 및 지방연구소 소장을 정보공개책임관으로 지정하고, 부서별 정보공개업무를 총괄하기 위하여 법의학부장ㆍ법과학부장ㆍ법공학부장 및 지방연구소는 각 연구소의 행정운영과장을 정보공개담당관으로 지정한다. <개정 2020. 4. 14., 2022. 1. 3.>② 정보공개책임관은 본원 및 지방연구소 정보공개업무를 총괄한다.③ 정보공개담당관은 소관 부서별로 생산된 모든 문서가 체계적으로 관리되도록 지도ㆍ감독하며, 정보공개운영을 확인ㆍ점검하고, 원활하게 이루어질 수 있도록 필요한 조치를 취할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "방문민원 접수창구",
+        "chapter": "제1장 총칙",
+        "content": "제6조(방문민원 접수창구) ① 연구원 정보공개 관련 정보공개 전담 창구는 접수실로 한다. 다만, 외부인의 청사출입에 따른 불편 해소와 민원인의 편의 제공을 위하여 별도장소를 이용할 수 있다. <개정 2022. 1. 3.>② 방문 민원인의 상담요청이 있는 경우에는 친절하고 명료하게 응대한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "공표목록의 작성",
+        "chapter": "제2장 행정정보 목록의 공표 등",
+        "content": "제7조(공표목록의 작성) ① 원장은 법 제7조 제1항에 따라 사전 공표할 대상 정보를 정하고 사전정보공표목록(사전공표정보를 포함한다. 이하 같다)을 작성하여야 하며 홈페이지와 정보공개포털 등에 게시한다. 이때 공표정보의 구체적 범위와 공개 주기ㆍ시기 및 방법 등을 미리 정하여 공표한다. <개정 2022. 1. 3.>② 사전정보공표목록은 다음과 같이 구분하여 공표한다. 다만, 접근 편의성 향상 등 분류방식의 개선이 필요하다고 판단된 때에는 달리 정할 수 있다.1. 국민생활에 매우 큰 영향을 미치는 정책에 관한 정보2. 국가 시책으로 시행하는 공사 등 대규모 예산이 투입되는 사업에 관한 정보3. 예산집행의 내용과 사업평가 결과 등 행정감시를 위하여 필요한 정보4. 그 밖에 공공기관의 장이 정하는 정보③ 공표의 대상이 되는 정보의 공개실시는 당해 정보를 보유ㆍ관리하는 처리부서에서 수행한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "공공기관의 정보공개에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0007",
+            "reference_id": "law:공공기관의정보공개에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "공공기관의 정보공개에 관한 법률",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0007",
+            "reference_id": "law:공공기관의정보공개에관한법률#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "의무적 공표정보",
+        "chapter": "제2장 행정정보 목록의 공표 등",
+        "content": "제8조(의무적 공표정보) ① 원장은 사전정보공표목록을 작성할 때에는 회계ㆍ재정, 감사결과, 식품ㆍ위생, 의료, 건강, 교육 등 행정의 투명성을 담보하거나, 국민의 일상생활과 관련된 정보 등 국민에게 알려야 할 필요가 있는 정보를 공개하여야 한다.② 의무적 공표정보를 공개할 때, 그 정보의 중요도 또는 접근 편의성 등을 감안하여 사전정보공표목록에 포함하지 않고 별도의 메뉴에 의하여 공표할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "현행화 및 결과 제출",
+        "chapter": "제2장 행정정보 목록의 공표 등",
+        "content": "제9조(현행화 및 결과 제출) ① 처리부서는 다음사항에 대하여 현행화 하여야 한다.1. 제7조제1항에 의한 사전정보공표목록 정보 <개정 2022. 1. 3.>2. 제8조제2항에 의한 사전정보공표목록 정보 <개정 2022. 1. 3.>3. 정보공개시스템에 실무급 사용자 등록 및 전ㆍ출입자 등록 정보② 제1항제1호에 의하여 사전공표정보목록을 현행화한 경우, 그 결과를 운영부서에 제출하여야 한다. <개정 2022. 1. 3.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제1항",
+            "link_text": "제7조제1항",
+            "line_text": "",
+            "target_law_name": "공공기관의 정보공개에 관한 법률",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률/제7조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0009",
+            "reference_id": "law:공공기관의정보공개에관한법률#JO0007"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제1항",
+            "link_text": "제8조제2항",
+            "line_text": "",
+            "target_law_name": "국립과학수사연구원 정보공개운영 규정",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 정보공개운영 규정/제8조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0009",
+            "reference_id": "admrul:국립과학수사연구원정보공개운영규정#JO0008"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "비공개 대상정보의 세부기준",
+        "chapter": "제3장 비공개 대상정보의 세부기준 등",
+        "content": "제10조(비공개 대상정보의 세부기준) ① 법 제9조제1항 비공개 대상 정보에 의한 행정안전부 비공개대상정보의 세부기준을 별표에 따라 정한다. 이에 해당하는 정보에 대해서는 공개하지 아니할 수 있다. <개정 2022. 1. 3.>② 별표의 기준을 적용함에 있어 당해 정보를 공개함으로써 얻게 되는 국민의 알권리 보장과 비공개함으로서 보호되는 다른 법익과의 조화가 이루어질 수 있도록 공개여부를 적법하고 공정하게 판단하여야 한다. <개정 2022. 1. 3.>③ 원장은 법 제9조제1항 각호의 어느 하나에 해당하는 정보가 기간의 경과 등으로 인하여 비공개의 필요성이 없어진 경우에는 법 제9조제2항에 따라 그 정보를 공개하여야 한다. <개정 2022. 1. 3.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "공공기관의 정보공개에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0010",
+            "reference_id": "law:공공기관의정보공개에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "제9조제1항",
+            "line_text": "",
+            "target_law_name": "공공기관의 정보공개에 관한 법률",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률/제9조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0010",
+            "reference_id": "law:공공기관의정보공개에관한법률#JO0009"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제3항",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "공공기관의 정보공개에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0010",
+            "reference_id": "law:공공기관의정보공개에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제3항",
+            "link_text": "제9조제1항",
+            "line_text": "",
+            "target_law_name": "공공기관의 정보공개에 관한 법률",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률/제9조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0010",
+            "reference_id": "law:공공기관의정보공개에관한법률#JO0009"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제3항",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "공공기관의 정보공개에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0010",
+            "reference_id": "law:공공기관의정보공개에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제3항",
+            "link_text": "제9조제2항",
+            "line_text": "",
+            "target_law_name": "공공기관의 정보공개에 관한 법률",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률/제9조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0010",
+            "reference_id": "law:공공기관의정보공개에관한법률#JO0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "행정정보의 임의공개 금지",
+        "chapter": "제3장 비공개 대상정보의 세부기준 등",
+        "content": "제11조(행정정보의 임의공개 금지) 행정정보는 법에 의하여 공개하여야 하며 임의로 공개해서는 아니 된다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "법",
+            "line_text": "제11조(행정정보의 임의공개 금지) 행정정보는 법에 의하여 공개하여야 하며 임의로 공개해서는 아니 된다.",
+            "target_law_name": "공공기관의 정보공개에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0011",
+            "reference_id": "law:공공기관의정보공개에관한법률#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "심의회 구성",
+        "chapter": "제4장 정보공개심의회 구성ㆍ운영",
+        "content": "제12조(심의회 구성) ① 법 제12조 및 시행령 제11조에 따라 연구원 정보공개심의회(이하 \"심의회\"라 한다)를 5명으로 구성하며, 위원장 1명과 내부위원 2명, 민간위원 2명으로 한다. <개정 2022. 1. 3.>② 위원장은 법의학부장, 법과학부장 또는 법공학부장으로, 내부위원은 심의회를 개최할 때마다 과장급이상으로 정보공개책임관이 별도 선정하고, 민간위원은 법 제12조제3항에 의해 원장이 위촉하는 외부전문가로 한다. <개정 2022. 1. 3.>③ 심의회의 사무를 처리하기 위하여 간사 1명을 두되, 간사는 행정지원과 서무지원팀장으로 한다. <개정 2022. 1. 3., 2022. 1. 27.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "제12조",
+            "line_text": "",
+            "target_law_name": "공공기관의 정보공개에 관한 법률",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률/제12조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0012",
+            "reference_id": "law:공공기관의정보공개에관한법률#JO0012"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "시행령",
+            "line_text": "",
+            "target_law_name": "공공기관의 정보공개에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0012",
+            "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "제11조",
+            "line_text": "",
+            "target_law_name": "공공기관의 정보공개에 관한 법률 시행령",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률 시행령/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0012",
+            "reference_id": "law:공공기관의정보공개에관한법률시행령#JO0011"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제2항",
+            "link_text": "제12조제3항",
+            "line_text": "",
+            "target_law_name": "공공기관의 정보공개에 관한 법률",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률/제12조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0012",
+            "reference_id": "law:공공기관의정보공개에관한법률#JO0012"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "심의회의 성격",
+        "chapter": "제4장 정보공개심의회 구성ㆍ운영",
+        "content": "제13조(심의회의 성격) ① 본 심의회는 자문기구이다.② 원장은 심의회의 의결사항이 정보공개 여부에 대한 판단에 적극 반영될 수 있도록 노력한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "심의회의 기능",
+        "chapter": "제4장 정보공개심의회 구성ㆍ운영",
+        "content": "제14조(심의회의 기능) 심의회는 다음 각 호의 1에 해당하는 사항 등에 대하여 심의ㆍ의결한다.1. 정보의 공개여부를 결정하기 곤란한 사항2. 이의신청 및 제3자의 비공개요청에 대한 공개여부 결정에 관한사항3. 처리부서의 장이 심의 요청한 사항4. 정보공개제도의 운영에 관한 사항5. 기타 위원장이 심의ㆍ의결이 필요하다고 인정한 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "위원장의 직무",
+        "chapter": "제4장 정보공개심의회 구성ㆍ운영",
+        "content": "제15조(위원장의 직무) ① 위원장은 심의회를 대표하며, 심의회의 운영을 통할한다.② 위원장이 부득이한 사유로 직무를 수행할 수 없을 때에는 출석위원 과반수이상의 동의에 의하여 호선하여 그 직무를 대행한다. 선출이 어려울 때에는 내부위원 중에서 직제 순에 의한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "회의 및 의결정족수",
+        "chapter": "제4장 정보공개심의회 구성ㆍ운영",
+        "content": "제16조(회의 및 의결정족수) ① 심의회는 소집에 의한 대면심의를 원칙으로 한다. 다만, 안건의 내용이 경미한 경우, 긴급한 사유로 위원이 출석하는 회의를 개최할 시간적 여유가 없는 경우, 천재지변이나 그 밖의 부득이한 사유로 인하여 위원의 출석에 의한 의결정족수를 채우기 어려운 경우, 위원장이 불가피하다고 판단하는 경우에는 서면 심의로 할 수 있다.② 심의회는 위원장을 포함한 재적위원 과반수의 출석으로 개의(開議)하고 출석위원 과반수의 찬성으로 의결한다. <개정 2026. 01. 26.>③ 간사는 심의회의 의결서 및 회의록을 작성하여야 한다. 다만, 처리부서의 장이 요구하여 심의회가 개최된 경우에는 처리부서에서 회의록을 작성하고 사본 1부를 운영부서로 제출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "심의회의 개최 요구",
+        "chapter": "제4장 정보공개심의회 구성ㆍ운영",
+        "content": "제17조(심의회의 개최 요구) ① 처리부서에서 제14조 각호의 어느 하나에 해당된다고 판단되는 경우에는 심의회 개최를 요구할 수 있다.② 심의회 개최요구를 할 때에는 별지 서식에 의한 심의회 개최요구서 및 심의안건, 기타 필요한 자료를 첨부하여 운영부서에 제출하여야 한다. <개정 2022. 1. 3.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제1항",
+            "link_text": "제14조",
+            "line_text": "",
+            "target_law_name": "행정 효율과 협업 촉진에 관한 규정",
+            "target_article_no": "제14조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/행정 효율과 협업 촉진에 관한 규정/제14조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0017",
+            "reference_id": "admrul:행정효율과협업촉진에관한규정#JO0014"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "운영부서의 역할",
+        "chapter": "제4장 정보공개심의회 구성ㆍ운영",
+        "content": "제18조(운영부서의 역할) ① 운영부서는 제12조에 의한 심의회의 위원 구성 및 운영을 담당한다. <개정 2022. 1. 3.>② 심의회 개최ㆍ의결한 후에는 그 결과를 처리부서에 통보하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제1항",
+            "link_text": "제12조",
+            "line_text": "",
+            "target_law_name": "공공기관의 정보공개에 관한 법률",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률/제12조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0018",
+            "reference_id": "law:공공기관의정보공개에관한법률#JO0012"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "심의회 대응 및 조치",
+        "chapter": "제4장 정보공개심의회 구성ㆍ운영",
+        "content": "제19조(심의회 대응 및 조치) ① 처리부서는 심의회에 참석하여 의견을 개진할 수 있다. 불가피한 사유로 참석할 수 없는 경우 서면으로 검토의견을 제출할 수 있다.② 간사는 심의 의결서를 포함한 심의결과를 처리부서에 통보하여야 한다.③ 처리부서는 심의 의결결과를 검토하여 공개여부를 청구인 또는 이의 신청인에게 통지하여야 한다. 기각 또는 부분인용 결정 통지할 경우에는 비공개 법적근거ㆍ결정이유, 불복방법 및 절차를 구체적으로 명시하여야 한다.④ 처리부서는 운영부서로부터 심의회와 관련한 이행사항, 조치ㆍ요청사항을 통보 받은 경우, 이를 적극 이행ㆍ조치하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "위원의 제척 ㆍ 기피 ㆍ 회피",
+        "chapter": "제4장 정보공개심의회 구성ㆍ운영",
+        "content": "제20조(위원의 제척 ㆍ 기피 ㆍ 회피) ① 심의회 위원 중 다음 각 호의 어느 하나에 해당하는 위원은 그 안건의 심의ㆍ의결에서 제척된다.1. 이해당사자 또는 유관자로부터 청탁, 물리적 외압, 심리적 압박을 받아 적법한 심의를 하기 어려운 때2. 위원이 이해당사자 이거나, 사건 또는 이익에 상당한 관련성이 있다고 인정된 때3. 위원이 신체적ㆍ정신적으로 정상적인 위원활동을 지속하기 어려운 때4. 위원이 금고이상의 형을 받거나 1년 이상의 집행유예 선고를 받은 때5. 기타 사유로 합법적이고 공정하고 객관적인 판단이 어렵다고 위원 과반수가 인정한 때6. 위원이 당해 사안에 관하여 증언ㆍ감정을 한 경우 또는 감사ㆍ수사ㆍ조사에 관여한 경우② 위원회 심의ㆍ의결의 이해당사자는 위원에게 공정을 기대하기 어려운 특별한 사정이 있는 경우에는 기피신청을 할 수 있다.③ 위원이 제1항 또는 제2항의 사유에 해당하는 경우에는 스스로 그 안건의 심의ㆍ의결에서 회피할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "위원의 개인정보 수집 및 활용",
+        "chapter": "제4장 정보공개심의회 구성ㆍ운영",
+        "content": "제21조(위원의 개인정보 수집 및 활용) ① 원장은 위원의 위촉, 위원의 활동, 각종 수당ㆍ여비의 지급 등에 필요한 성명, 주민등록번호, 주소, 전화번호, 이메일 주소, 은행 계좌번호, 개인의 이력 등의 개인정보를 수집할 수 있다. 이때 위원은 개인정보 수집 및 활용 동의에 적극 응하여야 한다.② 위원으로부터 수집한 개인정보는 정보공개제도 운영에 활용하여야 하며 목적이외에 사용해서는 아니 된다.③ 운영부서는 위원으로부터 수집한 개인정보를 보관ㆍ관리할 수 있으며 수당지급 등에 필요한 경우 처리부서에 제공할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "위원의 비밀준수 의무 등",
+        "chapter": "제4장 정보공개심의회 구성ㆍ운영",
+        "content": "제22조(위원의 비밀준수 의무 등) ① 위원은 심의안건을 심의ㆍ의결하는 등 위원활동 과정에 알게 된 사항이나 각종 비공개 정보 및 비밀을 사적인 이익 등을 위하여 이용하거나, 누설하여서는 아니 된다.② 제1항의 규정을 위반한 위원에 대하여는 원장이 직권으로 해촉할 수 있으며, 관계법령에 따라 책임을 진다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "수당 및 경비지급",
+        "chapter": "제4장 정보공개심의회 구성ㆍ운영",
+        "content": "제23조(수당 및 경비지급) 공무원이 아닌 외부위원에게는 운영부서에서 수당ㆍ여비 등 기타 필요한 경비를 지급할 수 있다. <개정 2022. 1. 3.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "공개방법",
+        "chapter": "제5장 감정ㆍ행정정보 공개방법 등",
+        "content": "제24조(공개방법) ① 청구인이 다수이거나 행정기관이 정례적 또는 수시 공표하는 행정정보는 홈페이지와 정보공개포털 등 국민의 접근이 용이한 각종 매체를 통하여 공개할 수 있다.② 통합정보공개시스템을 통하여 정보공개 여부 결정 통지를 할 경우 「행정 효율과 협업 촉진에 관한 규정」 제14조 규정에도 불구하고 전자이미지 관인 및 서명을 생략할 수 있다. 다만 청구인이 원할 경우 관인 날인 및 서명을 하여 교부한다.③ 청구된 정보의 공개를 실시함에 있어 현재 보유ㆍ관리하고 있는 정보를 대상으로 하여야 하며, 그 정보의 일부를 발췌ㆍ요약하는 등 별도의 가공된 형태로 공개하여서는 아니 된다.④ 청구인이 사본 또는 복제물의 교부를 요청하였으나 청구량이 과다하여 정상적인 업무수행에 큰 지장을 줄 우려가 있다고 판단되는 경우에는 청구인과의 사전협의를 통해 일정기간별로 나누어 교부하거나 열람을 먼저 시킨 후 사본이 필요한 정보를 선별하여 복사하는 방법으로 교부할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제24조",
+            "source_clause": "제24조제2항",
+            "link_text": "「행정 효율과 협업 촉진에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "행정 효율과 협업 촉진에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/행정 효율과 협업 촉진에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0024",
+            "reference_id": "law:행정효율과협업촉진에관한규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제24조",
+            "source_clause": "제24조제2항",
+            "link_text": "제14조",
+            "line_text": "",
+            "target_law_name": "행정 효율과 협업 촉진에 관한 규정",
+            "target_article_no": "제14조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/행정 효율과 협업 촉진에 관한 규정/제14조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0024",
+            "reference_id": "law:행정효율과협업촉진에관한규정#JO0014"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "업무능력 강화",
+        "chapter": "제5장 감정ㆍ행정정보 공개방법 등",
+        "content": "제25조(업무능력 강화) 원장은 정보공개제도 운영의 활성화를 위하여 소속공무원에 대하여 정보공개 소집교육 또는 강사 초청, 워크숍 등을 연1회 이상 실시하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0025"
+      },
+      {
+        "article_no": "제26조",
+        "article_title": "정보공개제도 운영실태 점검",
+        "chapter": "제5장 감정ㆍ행정정보 공개방법 등",
+        "content": "제26조(정보공개제도 운영실태 점검) 원장은 각 부서(지방연구소)별 정보공개제도 운영실태를 연 1회 이상 지도점검 할 수 있다. 이 경우 사전에 점검의 취지와 내용을 각 부서(지방연구소)에 통보하여야 한다. <개정 2022. 1. 3.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0026"
+      },
+      {
+        "article_no": "제27조",
+        "article_title": "운영세칙",
+        "chapter": "제5장 감정ㆍ행정정보 공개방법 등",
+        "content": "제27조(운영세칙) 이 규정에서 정하지 아니한 정보공개업무처리에 관한 사항은 법, 시행령, 시행규칙, 「행정안전부 정보공개운영규정」 등을 따른다. <개정 2022. 1. 3.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제27조",
+            "source_clause": "제27조",
+            "link_text": "「행정안전부 정보공개운영규정」",
+            "line_text": "",
+            "target_law_name": "행정안전부 정보공개운영규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/행정안전부 정보공개운영규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0027",
+            "reference_id": "admrul:행정안전부정보공개운영규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제27조",
+            "source_clause": "제27조",
+            "link_text": "시행규칙",
+            "line_text": "제27조(운영세칙) 이 규정에서 정하지 아니한 정보공개업무처리에 관한 사항은 법, 시행령, 시행규칙, 「행정안전부 정보공개운영규정」 등을 따른다. <개정 2022. 1. 3.>",
+            "target_law_name": "공공기관의 정보공개에 관한 법률 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률 시행규칙",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0027",
+            "reference_id": "law:공공기관의정보공개에관한법률시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제27조",
+            "source_clause": "제27조",
+            "link_text": "시행령",
+            "line_text": "제27조(운영세칙) 이 규정에서 정하지 아니한 정보공개업무처리에 관한 사항은 법, 시행령, 시행규칙, 「행정안전부 정보공개운영규정」 등을 따른다. <개정 2022. 1. 3.>",
+            "target_law_name": "공공기관의 정보공개에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률 시행령",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0027",
+            "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0027"
+      },
+      {
+        "article_no": "제28조",
+        "article_title": "재검토기한",
+        "chapter": "제5장 감정ㆍ행정정보 공개방법 등",
+        "content": "제28조(재검토기한) 원장은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 규정에 대하여 2017년 9월 1일 기준으로 매3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제28조",
+            "source_clause": "제28조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0028",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립과학수사연구원정보공개운영규정#JO0028"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20171010",
+      "promulgation_no": "234",
+      "content": "부칙 <제234호,2017. 10. 10.>이 규정은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20180316",
+      "promulgation_no": "256",
+      "content": "부칙 <제256호,2018. 3. 16.>이 규정은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20200306",
+      "promulgation_no": "316",
+      "content": "부칙 <제316호,2020. 3. 6.>이 규정은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20200414",
+      "promulgation_no": "337",
+      "content": "부칙 <제337호,2020. 4. 14.>이 규정은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20220103",
+      "promulgation_no": "409",
+      "content": "부칙 <제409호, 2022. 1. 3.>이 규정은 2022년 1월 3일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20220127",
+      "promulgation_no": "466",
+      "content": "부칙 <제466호, 2022. 1. 27.>이 규정은 2022년 1월 27일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20260126",
+      "promulgation_no": "586",
+      "content": "부칙 <제586호, 2026. 1. 26.>이 규정은 2026년 1월 26일부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "비공개 대상정보 세부기준",
+      "enforcement_date": "",
+      "content": "[별표] <개정 2022. 1. 3.>\n\n비공개 대상정보 세부기준\n\n┌──┬─────────────────────────────────────────┐\n│    │법 제9조제1항제1호                                                                │\n├──┼─────────────────────────────────────────┤\n│조문│  다른 법률 또는 법률이 위임한 명령(국회규칙ㆍ대법원규칙ㆍ  헌법재판소            │\n│내용│규칙ㆍ중앙선거관리위원회규칙ㆍ대통령령 및 조례로 한정한다)에 따라 비밀            │\n│    │또는 비공개 사항으로 규정된 정보                                                  │\n├──┼─────────────────────────────────────────┤\n│적용│ 1. 공무원징계령 제20조의 규정에 의한 징계위원회 회의 및 공직자윤리법 제14조      │\n│사례│및 제14조의3의 규정에 의한 재산등록사항, 금융거래자료. 다만, 법률에 의하여        │\n│    │공개하도록 규정한 사항은 제외한다.                                                │\n│    ├─────────────────────────────────────────┤\n│    │ 2. 민원사무처리에 관한 법률 제26조에 의하여 민원사무 처리와 관련하여 민원인의    │\n│    │권익이 침해되는 정보                                                              │\n│    ├─────────────────────────────────────────┤\n│    │ 3. 지방세법 제69조의 규정에 의한 납세자가 납세의무를 이행하기 위하여  제출한     │\n│    │자료나 지방세법의 부과 또는 징수를 목적으로 직무상 취득한 자료. 다만, 당해 법률에 │\n│    │의하여 공개하도록 규정된 사항은 제외한다.                                         │\n│    ├─────────────────────────────────────────┤\n│    │ 4. 행정감사규정 제28조의 규정에 의하여 감사에 종사한 공무원은 정당한 사유        │\n│    │없이 감사로 인하여 알게 된 행정상의 기밀 또는 타인의 비밀누설 금지                │\n│    ├─────────────────────────────────────────┤\n│    │ 5. 그 밖에 법률 또는 법률에 의한 명령에 의하여 개별적ㆍ구체적으로 비밀 또는      │\n│    │비공개하도록 규정된 정보 (”법률에 의한 명령”은 내부지침ㆍ예규ㆍ훈령ㆍ지시       │\n│    │등 “비법규 사항”을 제외함)                                                      │\n└──┴─────────────────────────────────────────┘\n┌──┬─────────────────────────────────────────┐\n│    │법 제9조제1항제2호                                                                │\n├──┼─────────────────────────────────────────┤\n│조문│ 국가안전보장ㆍ국방ㆍ통일ㆍ외교관계 등에 관한 사항으로서 공개될 경우 국가의       │\n│내용│중대한 이익을 현저히 해칠 우려가 있다고 인정되는 정보                             │\n├──┼─────────────────────────────────────────┤\n│적용│ 1. 대통령ㆍ국무총리 등 국무위원이 참석하는 주요행사 계획에 관한 사항으로 공개될  │\n│사례│경우 대통령 등의 안전을 위협하거나 행사목적을 부당하게 침해할 수 있는 정보        │\n│    ├─────────────────────────────────────────┤\n│    │ 2. 을지 연습, 직장예비군ㆍ민방위대 편성표, 비밀취급 인가자 명단, 대 테러대비     │\n│    │전략, 충무계획, 국가기반체계보호 단계별 대응매뉴얼, 가상시나리오에 의한           │\n│    │모의훈련 등 국가안보와 관련되는 정보                                              │\n│    ├─────────────────────────────────────────┤\n│    │ 3. 정보통신망 구성도, 정보보호시스템 현황, 정보보호를 위한 내부대책과 전략 등    │\n│    │공개될 경우 해킹ㆍ사이버 테러 등 국가행정정보의 보호에 지장을 줄 수 있는 정보     │\n│    ├─────────────────────────────────────────┤\n│    │ 4. 국가안보ㆍ국방ㆍ통일ㆍ외교관계에 관한 사항으로서 국가정보원 등 관계기관       │\n│    │으로부터 비공개 요청을 받은 정보                                                  │\n│    ├─────────────────────────────────────────┤\n│    │ 5. 국가안전보장 등과 관련한 직무를 담당하는 직위의 직무기술서                    │\n└──┴─────────────────────────────────────────┘\n┌──┬───────────────────────────────────────┐\n│    │법 제9조제1항제3호                                                            │\n├──┼───────────────────────────────────────┤\n│조문│ 공개될 경우 국민의 생명ㆍ신체 및 재산의 보호에 현저한 지장을 초래할          │\n│내용│우려가 있다고 인정되는 정보                                                   │\n├──┼───────────────────────────────────────┤\n│적용│ 1. 방화ㆍ실화 등 우범자 단속계획 등 국민에게 불안감을 줄 수 있는 정보        │\n│사례├───────────────────────────────────────┤\n│    │ 2. 인감업무ㆍ주민등록 관리에 관한 사항으로서 공개될 경우 위ㆍ변조, 범죄목적  │\n│    │사용 등으로 인하여 공공의 이익을 해할 우려가 있는 정보                        │\n└──┴───────────────────────────────────────┘\n┌──┬─────────────────────────────────────────┐\n│    │법 제9조제1항제4호                                                                │\n├──┼─────────────────────────────────────────┤\n│조문│ 진행 중인 재판에 관련된 정보와 범죄의 예방, 수사, 공소의 제기 및 유지, 형의      │\n│내용│집행, 교정(矯正), 보안처분에 관한 사항으로서 공개될 경우 그 직무수행을 현         │\n│    │저히 곤란하게 하거나 형사피고인의 공정한 재판을 받을 권리를 침해한다고            │\n│    │인정할 만한 상당한 이유가 있는 정보                                               │\n├──┼─────────────────────────────────────────┤\n│적용│ 1. 행정소송ㆍ헌법소원 등 재판과 관련된 소장, 답변서, 소송 진행상황 등에 관한 정보│\n│사례├─────────────────────────────────────────┤\n│    │ 2. 진행 중인 재판과 직접ㆍ구체적으로 관련되는 정보로서 공개될 경우 재판의 심     │\n│    │리 또는 재판결과에 영향을 미칠 구체적인 위험성이 있는 정보                        │\n└──┴─────────────────────────────────────────┘\n┌──┬───────────────────────────────────────┐\n│    │법 제9조제1항제5호                                                            │\n├──┼───────────────────────────────────────┤\n│조문│ 감사ㆍ감독ㆍ검사ㆍ시험ㆍ규제ㆍ입찰계약ㆍ기술개발ㆍ인사관리에 관한 사         │\n│내용│항이나 의사결정 과정 또는 내부검토 과정에 있는 사항 등으로서 공개될           │\n│    │경우 업무의 공정한 수행이나 연구ㆍ개발에 현저한 지장을 초래한다고 인          │\n│    │정할 만한 상당한 이유가 있는 정보. 다만, 의사결정 과정 또는 내부검토          │\n│    │과정을 이유로 비공개할 경우에는 제13조제5항에 따라 통지를 할 때 의사          │\n│    │결정 과정 또는 내부검토 과정의 단계 및 종료 예정일을 함께 안내하여야          │\n│    │하며, 의사결정 과정 및 내부검토 과정이 종료되면 제10조에 따른 청구인          │\n│    │에게 이를 통지하여야 한다.                                                    │\n├──┼───────────────────────────────────────┤\n│적용│ 1. 감사ㆍ조사ㆍ단속ㆍ직무감찰 계획 등에 관한 사항으로서 공개될 경우, 증거인  │\n│사례│멸 등 감사 등의 목적이 실현될 수 없다고 인정되는 정보                         │\n│    ├───────────────────────────────────────┤\n│    │ 2. 문답서ㆍ확인서 등 감사ㆍ조사활동 중 생산된 문서, 개인 비위자료 등 감사ㆍ조│\n│    │사결과 처분지시서, 인사신문고ㆍ공무원전용비리신고방 신고 및 처리서류 등       │\n│    │공개될 경우 공정한 업무수행을 저해할 수 있는 정보                             │\n│    ├───────────────────────────────────────┤\n│    │ 3. 공무원의 임용시험에 관한 사항으로서 시험문제 은행관리, 시험출제관리, 시험 │\n│    │위원 위촉, 시험 관리관 선정, 시험시행에 관한 내부계획, 채점 및 합격자         │\n│    │결정 과정 등 당해 시험의 공정한 관리를 저해할 수 있는 정보와 공무원 채용      │\n│    │ㆍ 충원 ㆍ 교육훈련 ㆍ 공무원처우개선 ㆍ 공무원연금제도 개선사항 등 각종      │\n│    │제도 ㆍ정책수립을 위한 내부검토 협의자료로 공개될 경우 업무의 공정한 수행을   │\n│    │저해할 수 있는 정보                                                           │\n└──┴───────────────────────────────────────┘\n┌──┬───────────────────────────────────────────┐\n│    │법 제9조제1항제5호                                                                    │\n├──┼───────────────────────────────────────────┤\n│적용│ 4. 공무원 인사 등에 관한 사항으로서 공무원의 임용, 심사, 인사교류, 교육훈련,         │\n│사례│연금, 휴직근무, 역량평가 검증 등의 내부 검토ㆍ협의ㆍ결정 등 공개될 경우               │\n│    │내부 인사기밀 등이 노출되거나 외부의 부당한 개입 등으로 인한 인사의 공정성            │\n│    │등을 저해할 수 있는 정보와 공무원 인사관련제도 및 법령 개선 등 각종 제도              │\n│    │ㆍ정책수립을 위한 내부검토 ㆍ 협의 ㆍ 결정자료로 공개될 경우 업무의 공정              │\n│    │한 수행을 저해할 수 있는 정보                                                         │\n│    ├───────────────────────────────────────────┤\n│    │ 5. 입찰예정가격을 예측할 수 있는 단가, 계약완료 전에 입찰자를 식별할 수 있는         │\n│    │정보 등 공정한 계약을 저해할 수 있는 정보                                             │\n│    ├───────────────────────────────────────────┤\n│    │ 6. 정부조직관리에 관한 사항으로서 정부조직 개편, 직제관리 등 내부 검토ㆍ협           │\n│    │의ㆍ결정 등 공개될 경우 외부의 부당한 개입으로 인한 정부조직관리의 공정               │\n│    │성을 저해할 수 있는 정보                                                              │\n│    ├───────────────────────────────────────────┤\n│    │ 7. 법령이 정한 바에 따라 정책ㆍ제도ㆍ사업 등의 수행을 위하여 추진되는 각종 평        │\n│    │가ㆍ진단ㆍ승인ㆍ심사ㆍ선정, 정책결정에 관한 사항으로서 다음 각 호의 1에 해당          │\n│    │하는 사항                                                                             │\n│    │                                                                                      │\n│    │    가. 당해 평가 등의 수행자ㆍ지표ㆍ방법 등에 관한 사항으로서 그 특성상 미리 공개될  │\n│    │경우 평가 등의 목적이 실현되기 어렵다고 인정되는 계획에 관한 정보                     │\n│    │    나. 당해 평가 등이 진행 중이거나 검토과정에 관한 정보                             │\n│    │    다. 진행이 종료된 정보라 하더라도 그 공개로 인하여 향후 당해 업무의 공정한        │\n│    │수행에 명백한 지장을 줄 수 있는 정보                                                  │\n│    │       - 정보공개운영실태 평가 관련 평가위원별 평정점수 등 기관별 세부평가 집계       │\n│    │내역                                                                                  │\n│    ├───────────────────────────────────────────┤\n│    │ 8. 공익사업선정위원회, 정보공개심의위원회 등의 회의에 관한 사항으로서 다음 각 호의   │\n│    │1에 해당하는 사항                                                                     │\n│    │    가. 회의의 내용이 대부분 개인의 신상ㆍ재산 등 사생활의 비밀과 관련되어 있         │\n│    │는 정보                                                                               │\n│    │    나. 회의의 내용이 공개로 인하여 외부의 부당한 압력 등 업무의 공정성을 저해할      │\n│    │우려가 있는 정보                                                                      │\n│    │    다. 참석자의 심리적 부담으로 인하여 솔직하고 자유로운 의사교환이 이루어           │\n│    │질 수 없다고 인정되는 정보                                                            │\n│    │    라. 심사 중에 있는 사건의 의결에 참여할 위원의 명단                               │\n│    ├───────────────────────────────────────────┤\n│    │ 9. 공무원 노조관련 업무 등에 관한 사항으로서 행정안전부의 협상력 저하 또는 노무관리  │\n│    │등의 전략이 노출될 우려가 있는 정보                                                   │\n│    ├───────────────────────────────────────────┤\n│    │ 10. 각종 제도개선 추진과 관련하여 부처, 기관, 지방자치단체 등과의 협의사항, 자체     │\n│    │검토사항 등 공개될 경우 국민들에게 혼선을 야기하거나 업무수행에 명백한                │\n│    │지장을 줄 수 있는 정보                                                                │\n└──┴───────────────────────────────────────────┘\n┌──┬─────────────────────────────────────────┐\n│적용│ 11. 공무원 성과평가 등에 관한 규정 제9조 및 제12조의 규정에 의한 공무원의        │\n│사례│근무성적평정 결과와 동 규정 제28조의 규정에 의한 다면평가 결과                    │\n│    ├─────────────────────────────────────────┤\n│    │ 12. 공무원이 직무수행과 관련하여 연구ㆍ검토한 사항으로서 기관의 공식적인 의사로  │\n│    │볼 수 없는 정보                                                                   │\n│    ├─────────────────────────────────────────┤\n│    │ 13. 공무원단체 불법행위 대응관련 서류 일체, 퇴직공직자의 취업제한ㆍ취업승인      │\n│    │검토의견서 [정부공직자윤리위원회 비공개 서면의결(‘07.4월) 및 업무의 공정성       │\n│    │차원]                                                                             │\n│    ├─────────────────────────────────────────┤\n│    │ 14. 광역경제권 및 지역협력사업 관련ㆍ온천개발ㆍ이용에 관한 제도 연구ㆍ개         │\n│    │선 및 운영관련ㆍ전원회귀 거점 중소도시 육성 관련ㆍ정보보호시스템 현               │\n│    │황 등 관련ㆍ참 살기 좋은 마을가꾸기 관련 관계기관 등에 내부의견수렴               │\n│    │및 의사결정과정 등 진행 중이거나 검토 중인 자료, 지방물가 관리 실적               │\n│    │평가 관련 및 지역 경제 활성화 추진 관련 내부 심사 관련자료, 확정되지              │\n│    │않은 낙후ㆍ특수지역 등 정책관련 계획ㆍ보고서 및 개발 지원 사업 추진               │\n│    │상황 점검ㆍ평가자료, 균특회계 시도예산안 사전검토 연구용역 관련 자료,             │\n│    │균형 발전 통합관리시스템 구축 관련 정보통신망 구성도, 낙후ㆍ특수지역              │\n│    │등 개발 지원사업 추진상황 점검ㆍ평가자료 중 평가위원별 평가점수 등 자             │\n│    │료                                                                                │\n│    ├─────────────────────────────────────────┤\n│    │ 15. 당해연도 자치단체별 특별교부세 배정 세부내역                                 │\n└──┴─────────────────────────────────────────┘\n┌──┬─────────────────────────────────────┐\n│    │법 제9조제1항제6호                                                        │\n├──┼─────────────────────────────────────┤\n│조문│ 해당 정보에 포함되어 있는 성명ㆍ주민등록번호 등 「개인정보 보호법」      │\n│내용│제2조제1호에 따른 개인정보로서 공개될 경우 사생활의 비밀 또는 자유를      │\n│    │침해할 우려가 있다고 인정되는 정보. 다만, 다음 각 목에 열거한 사항은      │\n│    │제외한다.                                                                 │\n│    │  가. 법령에서 정하는 바에 따라 열람할 수 있는 정보                       │\n│    │  나. 공공기관이 공표를 목적으로 작성하거나 취득한 정보로서 사생활의      │\n│    │비밀 또는 자유를 부당하게 침해하지 아니하는 정보                          │\n│    │  다. 공공기관이 작성하거나 취득한 정보로서 공개하는 것이 공익이나 개     │\n│    │인의 권리 구제를 위하여 필요하다고 인정되는 정보                          │\n│    │  라. 직무를 수행한 공무원의 성명ㆍ직위                                   │\n│    │  마. 공개하는 것이 공익을 위하여 필요한 경우로서 법령에 따라 국가 또는   │\n│    │지방자치단체가 업무의 일부를 위탁 또는 위촉한 개인의 성명ㆍ직업           │\n├──┼─────────────────────────────────────┤\n│적용│ 1. 진정ㆍ탄원ㆍ질의 등 각종 민원을 제기한 개인 등의 인적사항. 이 경우 민 │\n│사례│원내용 또는 처리결과의 공개만으로도 당해 민원인의 식별이 가능한 경우      │\n│    │그 민원내용 등과 또한 각종 민원처리 자료중 개인인적사항 등 공개될 경우    │\n│    │명예ㆍ신용ㆍ경제적 이익 등 사생활을 침해할 수 있는 정보. 다만, 당해 민    │\n│    │원인이 본인의 인적 사항이나 민원내용 등의 공개에 동의하는 경우에는        │\n│    │제외한다.                                                                 │\n└──┴─────────────────────────────────────┘\n┌──┬───────────────────────────────────────────┐\n│    │법 제9조제1항제6호                                                                    │\n├──┼───────────────────────────────────────────┤\n│적용│ 2. 특정 공무원 및 각종 위원회 위원의 자택주소 및 전화번호 ㆍ 학력 ㆍ 주민등          │\n│사례│록번호ㆍ 사회경력 등 공적 업무 수행과 관련이 없는 정보. 다만, 특정 공무원             │\n│    │및 위원을 식별할 수 없도록 통계목적 등으로 활용되는 경우는 제외한다.                  │\n│    ├───────────────────────────────────────────┤\n│    │ 3. 채용후보자의 개인 식별 가능 정보 및 의사 결정과정이 포함된 문서와                 │\n│    │인사교류신청, 채용후보자 명부, 교육훈련 관리, 징계심의ㆍ의결ㆍ결정통지,               │\n│    │신원조사, 퇴직사실 확인 등 인사관리 과정에서 생산ㆍ취득한 공무원의                    │\n│    │개인에 관한 사항으로서 공개될 경우 공무원의 명예ㆍ신용ㆍ경제적 이                     │\n│    │익 등 사생활을 침해할 수 있는 정보. 다만, 특정 공무원을 식별할 수 없도                │\n│    │록 통계 목적 등으로 활용되는 경우는 제외한다.                                         │\n│    ├───────────────────────────────────────────┤\n│    │ 4. 재산등록의무자의 재산신고, 위원회 운영, 유공자 포상, 지방세 심사제도 운           │\n│    │영 등 각종 업무수행과 관련하여 취득한 개인의 인적사항 또는 재산상황                   │\n│    │등의 정보                                                                             │\n│    ├───────────────────────────────────────────┤\n│    │ 5. 시험원서 ㆍ 답안지, 합격자대장 등에 포함되어 있는 수험생의 성적 ㆍ 학             │\n│    │력 ㆍ주소 ㆍ 주민등록번호 등 개인정보                                                 │\n│    ├───────────────────────────────────────────┤\n│    │ 6. 그 밖에 공공기관의 개인정보보호에 관한 법령 등 다른 법령에 개인정보의             │\n│    │공개여부에 대해 규정된 경우 그 법령에 따른다.                                         │\n│    │                                                                                      │\n│    │    ※ 개인이 권리 구제ㆍ행사를 위한 입증자료로 활용하기 위하여 본인의 개인정보를 요구│\n│    │하는 경우에는 다른 법률에 특별한 규정이 있는 경우를 제외하고는 공개할 수 있음         │\n│    ├───────────────────────────────────────────┤\n│    │ 7. 공무원 징계혐의 관련 문서 일체, 특별 사면자 인적사항, 비위면직자의                │\n│    │인적사항 및 비위면직사항, 재산등록의무자의 재산신고, 위원회운영 등                    │\n│    │업무수행과 관련하여  취득한 개인의 인적사항 또는 재산상황 등의 정보                   │\n│    ├───────────────────────────────────────────┤\n│    │ 8. 표준인사시스템에 수록된 공직자에 대한 정보                                        │\n└──┴───────────────────────────────────────────┘\n┌──┬─────────────────────────────────────┐\n│    │ 법 제9조제1항제7호                                                       │\n├──┼─────────────────────────────────────┤\n│조문│ 법인ㆍ단체 또는 개인(이하 “법인등”이라 한다)의 경영상ㆍ영업상 비밀에   │\n│내용│관한 사항으로서 공개될 경우 법인등의 정당한 이익을 현저히 해칠 우려       │\n│    │가 있다고 인정되는 정보. 다만, 다음 각 목에 열거한 정보는 제외한다.       │\n│    │  가. 사업활동에 의하여 발생하는 위해(危害)로부터 사람의 생명ㆍ신체       │\n│    │또는 건강을 보호하기 위하여 공개할 필요가 있는 정보                       │\n│    │  나. 위법ㆍ부당한 사업활동으로부터 국민의 재산 또는 생활을 보호하기      │\n│    │위하여 공개할 필요가 있는 정보                                            │\n├──┼─────────────────────────────────────┤\n│적용│ 1. 국가보조금 지원을 받는 민간단체 또는 정부가 허가한 비영리 사단법인    │\n│사례│    관련사항 중 그 단체의 자금ㆍ인사 등 내부관리에 관한 정보              │\n│    ├─────────────────────────────────────┤\n│    │ 2. 각종 용역수행 민간업체가 제출한 사항으로서 당해 업체의 기존 기술ㆍ    │\n│    │신공법ㆍ시공실적ㆍ내부관리 등에 관한 정보                                 │\n│    ├─────────────────────────────────────┤\n│    │ 3. 각종 용역수행과 관련한 제안업체(개인ㆍ법인ㆍ단체 등)에 대한 기술평가  │\n│    │결과 등 특정업체의 정당한 이익을 현저히 해할 우려가 있다고 인정되는 정보  │\n└──┴─────────────────────────────────────┘\n┌──┬────────────────────────────────────┐\n│    │법 제9조제1항제8호                                                      │\n├──┼────────────────────────────────────┤\n│조문│ 공개될 경우 부동산투기ㆍ매점매석 등으로 특정인에게 이익 또는 불이익을  │\n│내용│ 줄 우려가 있다고 인정되는 정보                                         │\n├──┼────────────────────────────────────┤\n│적용│ 1. 온천원 보호지구 또는 온천공 보호구역의 지정고시 전의 관련 정보      │\n│사례│                                                                        │\n└──┴────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161589417",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161589403",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161589417",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립과학수사연구원정보공개운영규정#BYL0000",
+      "filename": "별표0_비공개 대상정보 세부기준.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별지",
+      "title": "정보공개 심의회 개최요구서",
+      "enforcement_date": "",
+      "content": "■ 국립과학수사연구원 정보공개운영규정 [별지]\n정보공개 심의회 개최요구서\n1. 이의신청인\n○ 성명 :\n○ 생년월일 :\n2. 이의신청 요지\n○\n○\n3. 정보공개처리 경과\n○\n○\n4. 검토의견\n○ 청구사항에 대한 비공개 결정 근거ㆍ사유 등(자세히 작성)\n-\n○ 이의신청에 대한 처리방향 검토\n-\n210mm×297mm[백상지(80g/㎡)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161589423",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161589419",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161589423",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립과학수사연구원정보공개운영규정#BJ0000",
+      "filename": "별지0_정보공개 심의회 개최요구서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "260126 원예규 제586호 국립과학수사연구원 정보공개운영 규정 개정전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=161243695",
+      "file_store_url": "",
+      "filename": "260126 원예규 제586호 국립과학수사연구원 정보공개운영 규정 개정전문.hwpx"
+    },
+    {
+      "name": "260126 원예규 제586호 국립과학수사연구원 정보공개운영 규정 개정전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=161243859",
+      "file_store_url": "",
+      "filename": "260126 원예규 제586호 국립과학수사연구원 정보공개운영 규정 개정전문.pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 28,
+    "by_category": {
+      "법령": 23,
+      "행정규칙": 5
+    },
+    "by_relation_type": {
+      "citation": 27,
+      "internal_ref": 1
+    },
+    "articles_total": 28,
+    "articles_with_relations": 12,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 7,
+    "appendices_count": 2,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/국립과학수사연구원 정보공개운영 규정"
+  },
+  "provision_id": "admrul:국립과학수사연구원정보공개운영규정#DOC"
+}
