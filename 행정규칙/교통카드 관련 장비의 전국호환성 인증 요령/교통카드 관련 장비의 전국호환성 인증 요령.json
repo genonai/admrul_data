@@ -1,0 +1,1008 @@
+{
+  "law_id": "2100000275282",
+  "mst": "2100000275282",
+  "law_name": "교통카드 관련 장비의 전국호환성 인증 요령",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000275282",
+  "promulgation_no": "2026-111",
+  "promulgation_date": "20260227",
+  "enforcement_date": "20260227",
+  "revision_date": "20260227",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국토교통부(생활교통복지과)",
+    "담당자명": "김지훈",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "교통카드 관련 장비의 전국호환성 인증 요령",
+    "발령일자": "20260227",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국토교통부",
+    "전화번호": "044-201-3870",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1613000",
+    "생성일자": "20260303",
+    "행정규칙ID": "2031853",
+    "시행일자": "20260227",
+    "담당부서기관코드": "1613671",
+    "발령번호": "2026-111",
+    "행정규칙일련번호": "2100000275282",
+    "상위부처명": "국토교통부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정이유 및 주요내용\n「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」제7조에 따라 유효기간을 ‘2026년 3월 2일’에서 ‘2029년 3월 2일’로 연장하고자 함",
+  "body": {
+    "format": "articles",
+    "article_count": 18,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 요령은 국토교통부장관이 교통카드ㆍ단말기 등 관련 장비(이하 \"교통카드 관련 장비\"라 한다)의 전국호환성을 확보하기 위하여, 「대중교통의 육성 및 이용 촉진에 관한 법률」(이하 \"법률\"이라 한다) 제10조의7에 따라 인증업무를 수행하는 데 필요한 세부사항을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「대중교통의 육성 및 이용 촉진에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "대중교통의 육성 및 이용 촉진에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대중교통의 육성 및 이용 촉진에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0001",
+            "reference_id": "law:대중교통의육성및이용촉진에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제10조의7",
+            "line_text": "",
+            "target_law_name": "대중교통의 육성 및 이용 촉진에 관한 법률",
+            "target_article_no": "제10조의7",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대중교통의 육성 및 이용 촉진에 관한 법률/제10조의7",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0001",
+            "reference_id": "law:대중교통의육성및이용촉진에관한법률#JO0010_07"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) 이 요령에서 사용하는 용어의 정의는 다음과 같다.1. \"교통카드\"란 교통서비스 이용대가를 전자적으로 지불ㆍ결제하는데 사용되는 카드나 그 밖의 매체를 의미한다.2. \"지불보안응용모듈(SAM)\"이란 소형 인증서버 역할을 수행하는 칩으로서, 지불단말기에 장착되어 암호 알고리즘 및 인증 알고리즘을 활용하여 지불거래 발생 시마다 교통카드의 데이터를 처리하는 장치를 말한다.3. 지불단말기 : 교통카드의 인식 및 교통요금의 결제를 수행하는 장치를 말한다.4. \"전국호환성\"이란 교통카드 관련 장비가 전국의 대중교통수단ㆍ시설에서 결제 및 정산 수단으로 기능할 수 있는 것을 말한다.5. \"전국호환성 인증\"이란 교통카드 관련 장비가 전국호환성 인증기준을 준수한 장비임을 확인하는 행위를 말한다.6. \"적합성시험\"이란 교통카드 관련 장비가 전국호환성 인증기준을 준수하였는지 여부를 검증하는 시험을 말한다.7. \"동일모델\"이란 장비별로 다음 각 목에 해당하는 경우를 말한다.가. 교통카드 : 크기나 외관 또는 형태(폐쇄형 또는 개방형)에 관계없이 같은 교통카드 프로토콜을 탑재한 제품(단, 플레이트 카드 제품인 경우 같은 칩 및 같은 운영체계버전에 같은 프로토콜을 탑재한 제품)나. 지불보안응용모듈 : 크기나 외관 또는 형태(폐쇄형 또는 개방형)에 관계없이 동일 칩 및 동일 운영체계버전에 동일한 지불보안응용모듈 프로토콜을 탑재한 제품다. 지불단말기 : 크기나 외관에 관계 없이 동일한 지불단말기 프로토콜을 탑재한 제품8. \"인증대행기관\"이란 전국호환성 인증 업무의 효율적 추진을 위하여 법률 제10조의7제2항에 따라 국토교통부장관이 행하는 인증업무를 대행하도록 지정받은 기관이나 단체를 말한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "법률",
+            "line_text": "",
+            "target_law_name": "대중교통의 육성 및 이용 촉진에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대중교통의 육성 및 이용 촉진에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0002",
+            "reference_id": "law:대중교통의육성및이용촉진에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제10조의7제2항",
+            "line_text": "",
+            "target_law_name": "대중교통의 육성 및 이용 촉진에 관한 법률",
+            "target_article_no": "제10조의7",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대중교통의 육성 및 이용 촉진에 관한 법률/제10조의7",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0002",
+            "reference_id": "law:대중교통의육성및이용촉진에관한법률#JO0010_07"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "인증대상",
+        "chapter": "",
+        "content": "제3조(인증대상) ① 이 요령이 정하는 전국호환성 인증을 받아야 하는 교통카드 관련 장비는 다음 각 호와 같다.1. 교통카드2. 지불보안응용모듈3. 지불단말기② 전국호환성 인증은 제1항 각 호 장비의 동일모델별로 받아야 하며, 외관 및 구조ㆍ기능 등이 유사한 장비라도 동일모델에 해당하지 않는 경우에는 별도의 전국호환성 인증을 받아야 한다.③ 국토교통부장관이 법률 제10조의5 및 제10조의7 규정에 따른 전국호환성 확보를 위하여 필요하다고 인정하는 경우에는 인증대상을 확대할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제3항",
+            "link_text": "법률",
+            "line_text": "",
+            "target_law_name": "대중교통의 육성 및 이용 촉진에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대중교통의 육성 및 이용 촉진에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0003",
+            "reference_id": "law:대중교통의육성및이용촉진에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제3항",
+            "link_text": "제10조의5 및 제10조의7",
+            "line_text": "",
+            "target_law_name": "대중교통의 육성 및 이용 촉진에 관한 법률",
+            "target_article_no": "제10조의5",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대중교통의 육성 및 이용 촉진에 관한 법률/제10조의5",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0003",
+            "reference_id": "law:대중교통의육성및이용촉진에관한법률#JO0010_05"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제3항",
+            "link_text": "제10조의5 및 제10조의7",
+            "line_text": "",
+            "target_law_name": "대중교통의 육성 및 이용 촉진에 관한 법률",
+            "target_article_no": "제10조의7",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대중교통의 육성 및 이용 촉진에 관한 법률/제10조의7",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0003",
+            "reference_id": "law:대중교통의육성및이용촉진에관한법률#JO0010_07"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "인증기준",
+        "chapter": "",
+        "content": "제4조(인증기준) 제3조제1항의 인증대상 장비에 대한 전국호환성 인증기준(이하 \"인증기준\"이라 한다)은 별표1과 같다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제3조제1항",
+            "line_text": "",
+            "target_law_name": "교통카드 관련 장비의 전국호환성 인증 요령",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/교통카드 관련 장비의 전국호환성 인증 요령/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0004",
+            "reference_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "별표1",
+            "line_text": "",
+            "target_law_name": "교통카드 관련 장비의 전국호환성 인증 요령",
+            "target_article_no": "별표1",
+            "target_article_title": "인증대상별 전국호환성 인증기준",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000275282&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0004",
+            "reference_id": "admrul:교통카드관련장비의전국호환성인증요령#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "인증대행기관의 요건",
+        "chapter": "",
+        "content": "제5조(인증대행기관의 요건) ① 「대중교통의 육성 및 이용 촉진에 관한 법률 시행령」제11조의4제1호에 따라 인증대행기관이 갖추어야 하는 인력의 기준은 다음 각 호와 같다.1. 책임자 : 교통ㆍ정보통신 등 관련 분야의 특급기술자(다음 각 목 중 어느 하나의 경우를 말한다)로서, 시스템보안ㆍ통제ㆍ시험인증 등 관련 분야의 경력이 4년 이상인 자가. 기술자격기준 : 기사 자격 소지 후 경력 10년 이상(이하 동일 기준), 산업기사 13년 이상나. 학력경험기준 : 박사 학위 소지 후 경력 3년 이상(이하 동일 기준), 석사 9년 이상, 학사 12년 이상2. 실무자(1인 이상) : 교통ㆍ정보통신 등 관련 분야의 중급기술자(다음 각 목 중 어느 하나의 경우를 말한다)로서, 시스템보안ㆍ통제ㆍ시험인증 등 관련 분야의 경력이 2년 이상인 자가. 기술자격기준 : 기사 자격 소지 후 경력 4년 이상(이하 동일 기준), 산업기사 7년 이상나. 학력경험기준 : 석사 학위 소지 후 경력 3년 이상(이하 동일 기준), 학사 6년 이상② 「대중교통의 육성 및 이용 촉진에 관한 법률 시행령」제11조의4제2호에 따라 인증대행기관이 갖추어야 하는 적합성시험 장비의 기준은 별표2와 같다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "「대중교통의 육성 및 이용 촉진에 관한 법률 시행령」",
+            "line_text": "",
+            "target_law_name": "대중교통의 육성 및 이용 촉진에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대중교통의 육성 및 이용 촉진에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0005",
+            "reference_id": "law:대중교통의육성및이용촉진에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "제11조의4제1호",
+            "line_text": "",
+            "target_law_name": "대중교통의 육성 및 이용 촉진에 관한 법률 시행령",
+            "target_article_no": "제11조의4",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대중교통의 육성 및 이용 촉진에 관한 법률 시행령/제11조의4",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0005",
+            "reference_id": "law:대중교통의육성및이용촉진에관한법률시행령#JO0011_04"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "「대중교통의 육성 및 이용 촉진에 관한 법률 시행령」",
+            "line_text": "",
+            "target_law_name": "대중교통의 육성 및 이용 촉진에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대중교통의 육성 및 이용 촉진에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0005",
+            "reference_id": "law:대중교통의육성및이용촉진에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "제11조의4제2호",
+            "line_text": "",
+            "target_law_name": "대중교통의 육성 및 이용 촉진에 관한 법률 시행령",
+            "target_article_no": "제11조의4",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/대중교통의 육성 및 이용 촉진에 관한 법률 시행령/제11조의4",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0005",
+            "reference_id": "law:대중교통의육성및이용촉진에관한법률시행령#JO0011_04"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "별표2",
+            "line_text": "",
+            "target_law_name": "교통카드 관련 장비의 전국호환성 인증 요령",
+            "target_article_no": "별표2",
+            "target_article_title": "인증대행기관의 적합성시험 장비 기준",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000275282&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0005",
+            "reference_id": "admrul:교통카드관련장비의전국호환성인증요령#BYL0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "인증대행기관의 지정",
+        "chapter": "",
+        "content": "제6조(인증대행기관의 지정) ① 인증대행기관으로 지정받으려는 자는 별지 제1호 서식에 따른 신청서에 다음 각 호의 서류를 첨부하여 국토교통부장관에게 신청하여야 한다.1. 법인등기부 등본(신청인이 법인 또는 법인의 부설기관인 경우에 한정한다)2. 제5조에 따른 인력 및 장비 확보를 증명하는 서류3. 인증업무 수행계획서(인증업무의 효율적 추진 및 공정성ㆍ보안성 확보 방안을 포함해야 한다)4. 인증대행기관 운영에 관한 업무규정② 국토교통부장관이 제1항에 따라 인증대행기관 지정 신청을 받은 경우에는 인력 및 장비 현황, 사업계획 등을 종합적으로 심사한 후 그 지정여부를 결정한다.③ 국토교통부장관은 인증대행기관 지정 내용을 별도 고시하며, 인증대행기관에 대해서는 별지 제2호 서식에 따른 지정서를 교부한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "별지 제1호 서식",
+            "line_text": "",
+            "target_law_name": "교통카드 관련 장비의 전국호환성 인증 요령",
+            "target_article_no": "별지1",
+            "target_article_title": "인증대행기관 지정 신청서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162036589",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0006",
+            "reference_id": "admrul:교통카드관련장비의전국호환성인증요령#BJ0001"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "제5조",
+            "line_text": "",
+            "target_law_name": "교통카드 관련 장비의 전국호환성 인증 요령",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/교통카드 관련 장비의 전국호환성 인증 요령/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0006",
+            "reference_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0005"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제3항",
+            "link_text": "별지 제2호 서식",
+            "line_text": "",
+            "target_law_name": "교통카드 관련 장비의 전국호환성 인증 요령",
+            "target_article_no": "별지2",
+            "target_article_title": "인증대행기관 지정서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162036595",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0006",
+            "reference_id": "admrul:교통카드관련장비의전국호환성인증요령#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "인증업무처리규정 등",
+        "chapter": "",
+        "content": "제7조(인증업무처리규정 등) ① 인증대행기관은 이 요령의 내용에 따라 전국호환성 인증의 절차를 세부적으로 정한 인증업무처리규정을 제정ㆍ공고하여야 한다.② 인증대행기관은 인증대상 장비별 적합성시험의 방법과 절차를 세부적으로 정한 적합성시험규정을 제정ㆍ공고하여야 한다.③ 인증대행기관이 인증업무처리규정 및 적합성시험규정을 제ㆍ개정하는 경우에는 국토교통부장관의 승인을 얻어야 한다.④ 인증대행기관은 교통카드 전국호환에 필요한 기술적 사항에 대한 추가 규정 등을 국토교통부장관의 승인을 얻어 제정ㆍ공고할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "인증대행기관의 비밀보호 의무",
+        "chapter": "",
+        "content": "제8조(인증대행기관의 비밀보호 의무) ① 인증대행기관은 인증 및 적합성시험 업무 과정에서 알게 된 영업상 비밀에 해당하는 정보를 공개하거나 업무수행 목적 외에 이용할 수 없다.② 인증대행기관은 인증 및 적합성시험 업무의 보안대책을 수립하여 국토교통부장관에게 보고하고 이를 실행하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "인증대행기관에 대한 관리",
+        "chapter": "",
+        "content": "제9조(인증대행기관에 대한 관리) ① 국토교통부장관이 인증업무의 적정성을 확보하기 위해 필요하다고 인정하는 경우에는 인증대행기관에 대한 지도ㆍ감독을 실시할 수 있다.② 인증대행기관은 인증업무와 관련된 문서 및 자료를 비치ㆍ보존하여야 한다.③ 인증대행기관은 명칭, 소재지, 책임자 등 인증업무에 중대한 영향을 미치는 사항의 변경이 있는 경우에는 즉시 국토교통부장관에게 그 사실을 통지하고 변경내용을 증명하는 서류를 제출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "인증대행기관 지정의 취소",
+        "chapter": "",
+        "content": "제10조(인증대행기관 지정의 취소) 다음 각 호의 어느 하나에 해당하는 사유가 있는 경우에는 국토교통부장관이 인증대행기관 지정을 취소할 수 있다.1. 거짓ㆍ부정한 방법으로 지정을 받은 경우2. 제5조의 인증대행기관 요건에 적합하지 아니하게 된 경우3. 인증의 기준 및 절차 등 이 요령의 중요내용을 위반한 경우4. 정당한 사유 없이 인증업무를 중지하거나 인증을 거부한 경우",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "제5조",
+            "line_text": "",
+            "target_law_name": "교통카드 관련 장비의 전국호환성 인증 요령",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/교통카드 관련 장비의 전국호환성 인증 요령/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0010",
+            "reference_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "인증업무자문위원회",
+        "chapter": "",
+        "content": "제11조(인증업무자문위원회) ① 국토교통부장관은 인증업무의 공정성 및 전문성을 기하기 위하여 인증업무자문위원회(이하 \"자문위원회\"라 한다)를 구성하여 다음 각 호의 사항에 대한 자문을 의뢰할 수 있다.1. 제6조에 따른 인증대행기관 지정 여부의 심사2. 제7조에 따른 인증업무처리규정 및 적합성시험규정의 승인3. 제9조에 따른 인증대행기관에 대한 관리4. 제10조에 따른 인증대행기관 지정의 취소5. 제15조에 따른 인증여부 판정에 대한 이의신청 심사6. 제17조에 따른 인증 취소여부 심사7. 기타 인증업무의 공정성 및 전문성을 확보하기 위해 국토교통부장관이 필요하다고 인정하는 사항② 자문위원회는 국토교통부장관이 위원으로 위촉하는 5인 이상의 교통카드 관련 전문가로 구성하며, 위원장은 국토교통부장관이 위원 중에서 지명한다.③ 자문위원회 위원장이 제1항에 따라 자문하기 위하여 필요하다고 인정하는 경우에는 인증대행기관 또는 그 지정 신청자에 대하여 자료제출을 요구하거나 현장실사를 실시할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "교통카드 관련 장비의 전국호환성 인증 요령",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/교통카드 관련 장비의 전국호환성 인증 요령/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0011",
+            "reference_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0006"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "교통카드 관련 장비의 전국호환성 인증 요령",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/교통카드 관련 장비의 전국호환성 인증 요령/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0011",
+            "reference_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0007"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "제9조",
+            "line_text": "",
+            "target_law_name": "교통카드 관련 장비의 전국호환성 인증 요령",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/교통카드 관련 장비의 전국호환성 인증 요령/제9조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0011",
+            "reference_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0009"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "제10조",
+            "line_text": "",
+            "target_law_name": "교통카드 관련 장비의 전국호환성 인증 요령",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/교통카드 관련 장비의 전국호환성 인증 요령/제10조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0011",
+            "reference_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0010"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "제15조",
+            "line_text": "",
+            "target_law_name": "교통카드 관련 장비의 전국호환성 인증 요령",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/교통카드 관련 장비의 전국호환성 인증 요령/제15조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0011",
+            "reference_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0015"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "제17조",
+            "line_text": "",
+            "target_law_name": "교통카드 관련 장비의 전국호환성 인증 요령",
+            "target_article_no": "제17조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/교통카드 관련 장비의 전국호환성 인증 요령/제17조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0011",
+            "reference_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0017"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "인증의 신청",
+        "chapter": "",
+        "content": "제12조(인증의 신청) ① 대중교통운영자, 교통카드사업자 등 이 요령에 따라 전국호환성 인증을 받고자 하는 자(이하 \"인증신청자\"라 한다)는 인증대행기관에 인증을 신청하여야 한다.② 인증신청자는 별지 제3호 서식에 따른 신청서와 인증업무처리규정이 정하는 구비서류 및 자료를 인증대행기관에 제출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제2항",
+            "link_text": "별지 제3호 서식",
+            "line_text": "",
+            "target_law_name": "교통카드 관련 장비의 전국호환성 인증 요령",
+            "target_article_no": "별지3",
+            "target_article_title": "전국호환성 인증 신청서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162036601",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0012",
+            "reference_id": "admrul:교통카드관련장비의전국호환성인증요령#BJ0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "인증수수료",
+        "chapter": "",
+        "content": "제13조(인증수수료) 인증신청자가 인증을 신청하는 경우에는 국토교통부장관이 별도로 고시하는 인증수수료를 인증대행기관에 납부하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "인증의 절차 등",
+        "chapter": "",
+        "content": "제14조(인증의 절차 등) ① 인증대행기관은 다음 각 호의 절차에 따라 전국호환성 인증업무를 수행한다.1. 인증 신청의 접수2. 적합성시험 및 시험결과의 판정3. 인증 결과의 통보4. 인증서 교부② 인증대행기관은 적합성시험 결과에 따라 전국호환성 인증여부를 판정하며, 대상 장비가 인증에 적합하다고 인정하는 경우에는 인증신청자에게 국토교통부장관이 발행하는 별지 제4호 서식에 따른 전국호환성 인증서를 교부한다.③ 국토교통부 장관 또는 국토교통부 장관이 지정한 기관은 전국호환교통카드 인증로고를 체계적으로 관리하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제2항",
+            "link_text": "별지 제4호 서식",
+            "line_text": "",
+            "target_law_name": "교통카드 관련 장비의 전국호환성 인증 요령",
+            "target_article_no": "별지4",
+            "target_article_title": "전국호환성 인증서",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162036607",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0014",
+            "reference_id": "admrul:교통카드관련장비의전국호환성인증요령#BJ0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "이의신청",
+        "chapter": "",
+        "content": "제15조(이의신청) ① 제14조에 따른 인증여부 판정에 대하여 이의가 있는 인증신청자는 인증대행기관에 재심사를 신청할 수 있다.② 인증신청자가 재심사를 신청한 경우에는 인증수수료를 인증대행기관에 납부하여야 한다. 단, 이의신청 대상이 된 인증여부 판정에 대하여 인증대행기관에 과실이 있는 경우에는 재심사에 대한 인증수수료를 감면한다.③ 인증여부 판정에 대해 분쟁이 있는 경우에 인증대행기관의 장은 그 판정의 당부에 대해 자문위원회에 자문을 의뢰할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제1항",
+            "link_text": "제14조",
+            "line_text": "",
+            "target_law_name": "교통카드 관련 장비의 전국호환성 인증 요령",
+            "target_article_no": "제14조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/교통카드 관련 장비의 전국호환성 인증 요령/제14조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0015",
+            "reference_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0014"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "인증의 유효기간",
+        "chapter": "",
+        "content": "제16조(인증의 유효기간) 전국호환성 인증의 유효기간은 인증서를 교부한 날로부터 5년으로 하며 유효기간 경과 후에는 동일모델이라도 다시 인증을 받아야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "인증에 대한 사후관리",
+        "chapter": "",
+        "content": "제17조(인증에 대한 사후관리) ① 국토교통부장관은 다음 각 호의 하나에 해당하는 사유가 있는 경우에는 인증대행기관의 요청 또는 자문위원회의 자문을 받아 전국호환성 인증을 취소할 수 있다.1. 인증의 근거나 전제가 되는 주요한 내용이 변경된 경우2. 인증 신청 시 제공된 중요 자료가 거짓으로 판명된 경우3. 인증 받은 장비와 동일모델이라 할 수 없는 장비를 전국호환성 인증을 받은 장비로 제작ㆍ공급ㆍ설치한 사실이 있는 경우4. 정당한 이유 없이 제2항에 따른 자료제출 요구를 계속하여 거부하는 경우② 인증대행기관은 제17조제1항제1호 내지 제3호에 해당하는 사실이 있는지 확인하기 위하여 인증신청자에게 필요한 자료의 제출 등을 요구할 수 있다.③ 제1항에 따라 전국호환성 인증이 취소된 경우 인증신청자는 제14조제2항에 따른 인증서를 인증대행기관에 즉시 반납하여야 하며 인증에 관련된 용어 및 명칭 등의 사용을 중지하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제3항",
+            "link_text": "제14조제2항",
+            "line_text": "",
+            "target_law_name": "교통카드 관련 장비의 전국호환성 인증 요령",
+            "target_article_no": "제14조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/교통카드 관련 장비의 전국호환성 인증 요령/제14조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0017",
+            "reference_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0014"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "유효기간",
+        "chapter": "",
+        "content": "제18조(유효기간) 이 고시는 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시를 발령한 후의 법령이나 현실 여건의 변화 등을 검토해야 하는 2029년 3월 2일까지 효력을 가진다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제18조",
+            "source_clause": "제18조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0018",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:교통카드관련장비의전국호환성인증요령#JO0018"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20100406",
+      "promulgation_no": "2010-180",
+      "content": "부칙 <제2010-180호,2010. 4. 6.>이 요령은 고시한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20130730",
+      "promulgation_no": "2013-465",
+      "content": "부칙 <제2013-465호,2013. 7. 30.>이 요령은 고시한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20140303",
+      "promulgation_no": "2014-110",
+      "content": "부칙 <제2014-110호,2014. 3. 3.>이 요령은 고시한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20150308",
+      "promulgation_no": "2015-136",
+      "content": "부칙 <제2015-136호,2015. 3. 8.>이 요령은 고시한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20170302",
+      "promulgation_no": "2017-124",
+      "content": "부칙 <제2017-124호,2017. 3. 2.>제1조(시행일) 이 지침은 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20200302",
+      "promulgation_no": "2020-238",
+      "content": "부칙 <제2020-238호,2020. 3. 2.>제1조(시행일) 이 지침은 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20210330",
+      "promulgation_no": "2021-281",
+      "content": "부칙 <제2021-281호, 2021. 3. 30.>제1조(시행일) 이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20230213",
+      "promulgation_no": "2023-87",
+      "content": "부칙 <제2023-87호, 2023. 2. 13.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20260227",
+      "promulgation_no": "2026-111",
+      "content": "부칙 <제2026-111호, 2026. 2. 27.>이 고시는 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "인증대상별 전국호환성 인증기준",
+      "enforcement_date": "",
+      "content": "[별표 1] 인증대상별 전국호환성 인증기준\n제1장 교통카드 전국호환성 인증기준\n제1부 : 기본 구조\n1. 적용범위  교통카드(교통서비스 이용대가를 전자적으로 지불ㆍ결제하는 데 사용되는 카드나 그 밖의 매체)\n2. 인용표준  KS X 6924-1에 따른다.\n3. 용어와 정의   KS X 6924-1에 따른다.\n4. 기호 및 약어  KS X 6924-1에 따른다.\n5. 교통카드의 기능\n5.1. 환경 조건  KS X 6924-1에 따른다.\n5.2. 교통카드의 최소 요구 사항  KS X 6924-1에 따른다.\n6. 특성\n6.1 통신 방식  KS X ISO/IEC 14443-2에 따른다.\n6.2 통신 거리  KS X ISO/IEC 14443-2에 따른다.\n6.3 충돌 방지  KS X ISO/IEC 14443-3에 따른다.\n7. 데이터\n7.1 데이터 종류 KS X 6924-1에 따른다.\n7.2 IDSAM KS X 6924-1에 따른다.\n7.3 NTSAM KS X 6924-1에 따른다.\n7.4 MPDA KS X 6924-1에 따른다.\n7.5 MMAX KS X 6924-1에 따른다.\n7.6 NTEP KS X 6924-1에 따른다.\n7.7 IDEP KS X 6924-1에 따른다.\n7.8 IDCENTER KS X 6924-1에 따른다.\n7.9 ALGEP KS X 6924-1에 따른다.\n7.10 VKDP_KEY KS X 6924-1에 따른다.\n7.11 BALEP KS X 6924-1에 따른다.\n8. 파일 요구 사항\n\"교통카드\"에서는 각사와의 호환사용을 위하여 다음 파일요구사항을 만족하여야 한다.\n카드내의 파일에는 전용파일(DF) 및 요소파일(EF)이 있으며, 다음과 같은 디렉토리 구조의 계층구조(Tree Structure)를 가진다.\n┌─────┬────────────────────────┐\n│필수 파일 │                                                │\n│          │  ┌──────────┐                      │\n│          │  │MF / OPEN           │                      │\n├─────┘  │                    │                      │\n│              │                    │                      │\n│              └───────┬──┘                      │\n│                              │                            │\n│            ┌────────┴───┐                    │\n│            │                        │                    │\n│┌─────┴──────┐      ┌─┴─────────┐│\n││CONFIG DF               │      │교통호환 AID          ││\n││AID : 인증대행기관 관리 │      │AID : 각 사의 교통 AID││\n│└┬───────────┘      └─┬─────────┘│\n│  │                                  │                    │\n│  │        ┌──────┐          │┌────────┐│\n│  │        │EFCONFIG    │          ││부가정보        ││\n│  ├────┤            │          ├┤                ││\n│  │        │            │          ││                ││\n│  │        └──────┘          │└────────┘│\n│  │                                  │                    │\n└─┼─────────────────┼──────────┘\n│                                  │\n┌─┴───┬─────────────┼──────────┐\n│선택 파일 │                          │                    │\n│          │                          │┌────────┐│\n│          │                          ││개인 정보       ││\n├─────┘                          ├┤                ││\n│                                      ││                ││\n│                                      │└────────┘│\n│                                      │                    │\n│                                      │┌────────┐│\n│                                      ││로그 정보       ││\n│                                      ├┤                ││\n│                                      ││                ││\n│                                      │└────────┘│\n│                                      │                    │\n│                                      │┌────────┐│\n│                                      ││Etc.            ││\n│                                      └┤                ││\n│                                        │                ││\n│                                        └────────┘│\n│                                                            │\n└──────────────────────────────┘\n‘선택파일’은 KS X 6924에서 정의된 명령어 및 거래에 필요한 파일이며, 이는 각 전자화폐사의 고유 규격에 따른다.\n8.1 MF(Master File) 또는 OPEN\n폐쇄형 카드에서는 Root Directory에 해당하는 Master File(이하 MF)이 최상위에 존재하며 개방형에서는 Open Platform Environment (이하 OPEN)이 최상위에 위치한다.\n8.2 CONFIG DF\n\"교통카드\"에서는 각 사와의 호환사용을 위하여 존재하는 ADF이며 \"교통 카드\"의 교통 호환 ADF의 정보를 저장하고 있다. 교통 호환 ADF의 정보를 외부에 제공하는 역할을 하며 최초의 거래시 필수적으로 CONFIG DF를 선택하여야 한다.\nCONFIG DF의 AID는 아래와 같다.\n┏━━┯━━━━━━━━━┓\n┃AID │인증대행기관 관리 ┃\n┗━━┷━━━━━━━━━┛\nConfigDF 아래에는 EFCONFIG와 EFCONFIG2가 있으며 EFCONFIG는 교통 호환 정보를 저장하고 있다.\nConfigDF 선택 시 응답으로 EFCONFIG의 내용을 응답하는 경우 아래의 형태를 따른다.\nFCI(File Control Information)\n┏━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃파일 구조                       │Lf                                                  ┃\n┠────────────────┼──────────────────────────┨\n┃파일 크기                       │                                                    ┃\n┠───┬───────┬───┬┴─────────────┬──────┬──┬──┨\n┃레코드│Tag           │Length│항목                        │Value       │비고│조건┃\n┃번호  │              │      │                            │            │    │    ┃\n┠───┼─┬─┬───┼───┼──────────────┼──────┼──┼──┨\n┃1     │6F│  │      │      │ FCI Template               │            │    │필수┃\n┃      ├─┼─┼───┼───┼──────────────┼──────┼──┼──┨\n┃      │  │84│      │      │ DF Name                    │            │    │필수┃\n┃      │  ├─┼───┼───┼──────────────┼──────┼──┼──┨\n┃      │  │A5│      │      │ FCI Proprietary Template   │            │    │필수┃\n┃      │  ├─┼───┼───┼──────────────┼──────┼──┼──┨\n┃      │  │  │ 50   │2     │ 카드 규격 및 선후불 구분   │01 00(선불) │    │필수┃\n┃      │  │  │      │      │                            │11 00(후불) │    │    ┃\n┃      │  │  ├───┼───┼──────────────┼──────┼──┼──┨\n┃      │  │  │ 47   │2     │ 지원 항목                  │            │    │필수┃\n┃      │  │  ├───┼───┼──────────────┼──────┼──┼──┨\n┃      │  │  │ 43   │1     │ IDCENTER                   │            │    │필수┃\n┃      │  │  ├───┼───┼──────────────┼──────┼──┼──┨\n┃      │  │  │ 11   │5     │ 잔액 조회 명령(선불 필수)  │            │    │선택┃\n┃      │  │  ├───┼───┼──────────────┼──────┼──┼──┨\n┃      │  │  │ 4F   │5~16  │ 교통 호환 ADF AID          │            │    │필수┃\n┃      │  │  ├───┼───┼──────────────┼──────┼──┼──┨\n┃      │  │  │ 9F10 │3*N   │ 부가 Data File 정보        │            │    │필수┃\n┃      │  │  ├───┼───┼──────────────┼──────┼──┼──┨\n┃      │  │  │ 45   │1     │ 카드 소지자(카드타입) 정보 │            │    │선택┃\n┃      │  │  ├───┼───┼──────────────┼──────┼──┼──┨\n┃      │  │  │ 5F24 │2     │ 유효기간                   │            │    │필수┃\n┃      │  │  ├───┼───┼──────────────┼──────┼──┼──┨\n┃      │  │  │ 12   │8     │ 카드일련번호               │            │    │필수┃\n┃      │  │  ├───┼───┼──────────────┼──────┼──┼──┨\n┃      │  │  │ 13   │8     │ 카드관리번호               │            │    │선택┃\n┃      │  │  ├───┼───┼──────────────┼──────┼──┼──┨\n┃      │  │  │      │Var   │ FCI Issuer Discretionary   │            │    │선택┃\n┃      │  │  │BF0C  │      │Data                        │            │    │    ┃\n┗━━━┵─┴─┴───┴───┴──────────────┴──────┴──┴──┚\n8.3 EFCONFIG\nCONFIG DF 하위에 존재하며 실제 교통 호환용 Application 에 대한 정보를 저장하고 있다. Read Record 명령으로 파일 내용의 정보가 조회 가능하다.\nEFCONFIG를 통하여 얻을 수 있는 정보는 아래와 같다.\n카드가 지원하는 \"호환 카드\"규격 버전\n\"호환 카드\" 규격 중 카드가 지원하는 항목\n교통 호환 ADF의 AID\n교통 호환 ADF에서의 존재하는 부가정보 파일의 정보\n카드 소지자에 대한 정보 (선택 사항)\n각 교통 호환 카드 사업자의 임의의 정보\n카드 유효기간\n잔액 조회 명령 (선택 사항)\nEFCONFIG 파일은 1개이상의 레코드로 구성되어 있으며 1번 레코드는 필수 항목이며 교통 호환을 위한 정보를 저장하고 있다. 2번 이하의 레코드는 선택 사항으로 발급사가 임의의 데이터를 저장할 수 있다. DF Select시 FCI로 조회하는 방법과 하위 EF파일을 조회하는 방법이 있다. FCI응답으로 EFCONFIG 파일의 1번 레코드의 데이터를 포함하는 경우 FCI Proprietary Template Tag인 ‘A5' Tag에 포함 되어야한다.┏━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃파일 구조                   │Lf 또는 Lv                                              ┃\n┠──────────────┼────────────────────────────┨\n┃파일 크기                   │Var.                                                    ┃\n┠──────────────┼────────────────────────────┨\n┃SFI                         │01                                                      ┃\n┠──────────────┼────────────────────────────┨\n┃읽기 권한                   │Free                                                    ┃\n┠──────────────┼────────────────────────────┨\n┃쓰기 권한                   │(주)                                                    ┃\n┠───┬─────┬───┬┴────────────┬────┬───────┬──┨\n┃레코드│Tag       │Length│항   목                   │Value   │비고          │조건┃\n┃번호  │          │      │                          │        │              │    ┃\n┠───┼─┬───┼───┼─────────────┼────┼───────┼──┨\n┃1     │87│      │      │ Config Data Template     │        │교통호환 정보 │필수┃\n┃      ├─┼───┼───┼─────────────┼────┼───────┼──┨\n┃      │  │ 50   │2     │ 카드 규격 및 선후불 구분 │01      │              │필수┃\n┃      │  │      │      │                          │00(선불)│              │    ┃\n┃      │  │      │      │                          │11      │              │    ┃\n┃      │  │      │      │                          │00(후불)│              │    ┃\n┃      ├─┼───┼───┼─────────────┼────┼───────┼──┨\n┃      │  │ 47   │2     │ 지원 항목                │        │              │필수┃\n┃      ├─┼───┼───┼─────────────┼────┼───────┼──┨\n┃      │  │ 43   │1     │ IDCENTER                 │        │              │필수┃\n┃      ├─┼───┼───┼─────────────┼────┼───────┼──┨\n┃      │  │11    │5     │잔액 조회 명령(선불 필수) │        │              │선택┃\n┃      ├─┼───┼───┼─────────────┼────┼───────┼──┨\n┃      │  │ 4F   │5~16  │ 교통 호환 ADF AID        │        │              │필수┃\n┃      ├─┼───┼───┼─────────────┼────┼───────┼──┨\n┃      │  │ 9F10 │3*N   │ 부가 정보 파일           │        │              │필수┃\n┃      ├─┼───┼───┼─────────────┼────┼───────┼──┨\n┃      │  │ 45   │1     │ 카드소지자(카드타입) 정보│        │              │선택┃\n┃      ├─┼───┼───┼─────────────┼────┼───────┼──┨\n┃      │  │ 5F24 │2     │ 유효기간                 │        │              │필수┃\n┃      ├─┼───┼───┼─────────────┼────┼───────┼──┨\n┃      │  │12    │8     │ 카드일련번호             │        │              │필수┃\n┃      ├─┼───┼───┼─────────────┼────┼───────┼──┨\n┃      │  │13    │8     │ 카드관리번호             │        │              │선택┃\n┃      ├─┼───┼───┼─────────────┼────┼───────┼──┨\n┃      │  │ BF0C │Var   │ 카드 사업자 임의의 정보  │        │              │선택┃\n┗━━━┷━┷━━━┷━━━┷━━━━━━━━━━━━━┷━━━━┷━━━━━━━┷━━┛\n8.3.1 EFCONFIG 구성\n(주) 이 파일의 쓰기 권한은 각 교통 호환 사업자가 결정하며 16바이트 이상의 키에 의해서 보호 되거나 금지 되어 있어야 한다.\n카드는 위의 정보의 항목을 상기의 순서로 저장하도록 권고 하며 카드의 정보 파악을 위해서 위의 순서로 정보가 정렬되어 있다고 간주해서는 않된다.\nEFCONFIG의 정보는 CONFIG DF 선택시 FCI로 응답 할 수 있다.\n8.3.2 교통호환 정보\n교통호환 정보는 EFCONFIG 파일의 1번 레코드에 저장 되며 필수 항목이다. 교통 호환을 위한 데이터를 저장하고 있다.\n카드 규격 및 선후불 구분\n카드가 지원하는 호환 카드의 규격의 버전 및 선후불 구분 코드를 저장한다. 최상위 4비트는 선불 및 후불 구분 코드로 사용되며 0의 경우 선불, 1의 경우 후불 카드를 나타낸다. 상위 바이트의 하위 4비트로 메이져 버전을 하위 바이트로 마이너 버전을 표시한다. 현재의 규격이 1.0이므로 선불카드의 경우 01 00의 값을 갖고 후불카드의 경우 11 00의 값을 갖는다.\n지원 항목\n카드가 규격의 일부만을 지원하는 경우 이를 표시하는 영역이다.\n┏━━━━┯━━━━━━━━━┓\n┃비트    │사업자            ┃\n┠────┼─────────┨\n┃b0      │ISO 14443-3의 준수┃\n┠────┼─────────┨\n┃b1      │ISO 14443-4의 준수┃\n┠────┼─────────┨\n┃b2      │CONFIG DF의 준수  ┃\n┠────┼─────────┨\n┃b3      │Hipass의 지원 여부┃\n┠────┼─────────┨\n┃b4 ~ b15│예비 영역         ┃\n┖────┴─────────┚\n각 항목을 지원하는 경우 각 비트에 ‘1’의 값을 지원하지 않는 경우에는 ‘0’의 값을 설정한다.\nIDCENTER\nIDCENTER는 국가기술표준원에서 지정한 교통 사업자의 고유 번호이다. 교통호환 사업자는 고유의 IDCENTER값을 가지고 있으며 이를 표시하는 영역이다. 자세한 사항은 국가기술표준원 (http://www.kats.go.kr/) 또는 IDCENTER 관리기관의 전자화폐 고유 식별번호를 참조한다.\n┏━━━━┯━━━━━━━━━━━━━┓\n┃IDCENTER│사업자                    ┃\n┠────┼─────────────┨\n┃0x00    │Reserved                  ┃\n┠────┼─────────────┨\n┃0x01    │금융결제원                ┃\n┠────┼─────────────┨\n┃0x02    │에이캐시                  ┃\n┠────┼─────────────┨\n┃0x03    │마이비                    ┃\n┠────┼─────────────┨\n┃0x04    │Reserved                  ┃\n┠────┼─────────────┨\n┃0x05    │브이캐시                  ┃\n┠────┼─────────────┨\n┃0x06    │몬덱스코리아              ┃\n┠────┼─────────────┨\n┃0x07    │한국도로공사              ┃\n┠────┼─────────────┨\n┃0x08    │한국스마트카드            ┃\n┠────┼─────────────┨\n┃0x09    │코레일네트웍스            ┃\n┠────┼─────────────┨\n┃0x21    │한국철도공사              ┃\n┠────┼─────────────┨\n┃0x0A    │Reserved                  ┃\n┠────┼─────────────┨\n┃0x0B    │이비카드                  ┃\n┠────┼─────────────┨\n┃0x0C    │서울특별시버스운송사업조합┃\n┠────┼─────────────┨\n┃0x0D    │카드넷                    ┃\n┗━━━━┷━━━━━━━━━━━━━┛\n잔액 조회 명령\n단말기에서 카드의 잔액을 조회하기 위해 사용할 명령이다. 잔액 조회 명령에 표시 될수 있는 명령은 Case 2 명령으로 제한한다. 잔액 조회의 명령에 서명값 등 상수로 표현이 불가능한 경우에는 표시를 하지 않으며 또한 카드에서 잔액을 조회 할 수 있는 명령이 없는 경우 표시 하지 않는다. 또한 응답의 구조는 4바이트 이하의 16진수 값만이 가능하다.\n교통 호환 ADF AID\n교통 호환 사업자 별 고유의 ADF의 AID이다. 교통 호환 ADF를 선택하기 위해서 사용한다.\n부가 정보 파일\n교통 호환 사업자가 부가 서비스를 하기위하여 기록하는 부가 정보 파일의 정보를 가지고 있다. 부가 정보 파일의 종류, SFI 및 저장 가능한 최대 길이에 관한 정보를 나타낸다. 부가 정보 파일이 레코드 파일의 경우에는 길이에 Tag Length를 포함한 저장 가능한 최대 길이를 표시한다. 이 항목의 구성은 아래와 같다.\n┏━━┯━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃Tag │Length    │Value                                                     ┃\n┠──┼─────┼─────────────────────────────┨\n┃    │‘03’ * N│File Type(3bit) || SFI(5bit) || Max Length(2byte) ||      ┃\n┃    │          │[ File Type(3bit) || SFI(5bit) || Max Length(2byte) ].... ┃\n┖──┴─────┴─────────────────────────────┚\n부가 정보 파일은 1개 이상 존재해야 하며, 파일 하나당 3바이트로 표현한다. 교통 사업자는 이 중 어떤 파일에 호환 정보를 기록 하여도 상관없으나 일관된 파일을 사용하여 정보를 조회 및 기록해야한다. 또한, 호환카드 규격 상 필요한 최대길이 이상을 포함한 정보 파일이 1개 이상 존재해야 한며 카드 발급 시 처음 기록된 부가 정보 파일에 이를 표시하도록 권고한다.\n\n(주)File Type이 Record의 경우 Max Length는 Tag Length를 포함한 저장 가능한 순수 데이터의 길이를 나타낸다.\n부가 정보 파일은 아래의 파일 구조 중 하나를 지원해야 한다.\n┌─────┬───────┬──────┐\n│ b8 b7 b6 │ File Type    │지원 명령   │\n├─────┼───────┼──────┤\n│0  0  0   │ RFU          │-           │\n├─────┼───────┼──────┤\n│0  0  1   │Transparent   │Read Binary │\n├─────┼───────┼──────┤\n│0  1  0   │RFU           │-           │\n├─────┼───────┼──────┤\n│0  1  1   │RFU           │-           │\n├─────┼───────┼──────┤\n│1  0  0   │RFU           │-           │\n├─────┼───────┼──────┤\n│1  0  1   │RFU           │-           │\n├─────┼───────┼──────┤\n│1  1  0   │RFU           │-           │\n├─────┼───────┼──────┤\n│1  1  1   │Cyclic Record │Read Record │\n└─────┴───────┴──────┘\n소지자 정보\n카드를 소지하고 있는 사람의 정보를 표시하며 자세한 사항은 아래와 같다.\n┏━━━┯━━━━┯━━━┯━━━━┓\n┃Value │설 명   │Value │설 명   ┃\n┠───┼────┼───┼────┨\n┃01    │일   반 │11    │버  스  ┃\n┠───┼────┼───┼────┨\n┃02    │어 린 이│12    │화 물 차┃\n┠───┼────┼───┼────┨\n┃03    │청 소 년│13    │        ┃\n┠───┼────┼───┼────┨\n┃04    │경   로 │14    │        ┃\n┠───┼────┼───┼────┨\n┃05    │장 애 인│15    │        ┃\n┗━━━┷━━━━┷━━━┷━━━━┛\n유효기간\n카드 유효기간 정보를 표시하며, 형식은 ‘YYMM'으로 한다.\n카드일련번호\n키 변형시 사용되는 카드번호 데이터 8자리를 기록한다. 거래 초기화시에 나오는 정보와 동일해야 한다.\n카드관리번호\n카드일련번호와 동일할 수도 동일하지 않을 수도 있으며 사업자가 관리하는 카드번호이다.\n8.5 교통 호환 DF(Dedicated File)\n교통 호환 카드 Application 으로 Config DF 에 기록된 정보와 일치하여야 한다.\n┌──────┬────────┐\n│교통호환 ADF│ 각 사의 교통AID│\n└──────┴────────┘\n8.5.1 부가정보파일\n이 파일의 목적은 환승정보, 입구정보 등 거래 시 필요한 부가정보를 저장한다. 이 파일은 CONFIG DF에서 정의된 구조와 일치해야한다. 부가정보파일에 대한 조회에 관한 권한은 Free이며 기록에 관한 권한은 거래 프로토콜에서 정의한 절차에 의해서 가능하다. 그 외의 기록 권한은 16바이트의 키 이상의 보안 알고리즘으로 보호되어야 한다. 하지만 거래 프로토콜에 의한 기록 절차 이외에 기록 권한을 금지시킬 것을 권고한다.\n각각의 부가 정보는 (레코드 파일의 경우 Tag Length 필드를 포함한) 순수 데이터의 길이가 최소 52바이트까지 저장 가능하여야 하며 레코드 형태의 파일 권고한다.\n8.5.2 부가 정보 파일 구조\nTransparent\n┏━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃파일 구조 │Transparent File                                                      ┃\n┠─────┼──┬────────────────────────────────┨\n┃접근조건  │조회│Free                                                            ┃\n┃          ├──┼────────────────────────────────┨\n┃          │기록│지불 거래 시                                                    ┃\n┠─────┼──┴────────────────────────────────┨\n┃설 명     │-Transparent 파일은 Read Binary 명령으로 조회할 수 있다.              ┃\n┃          │-저장은 지불 거래 시에 부가정보 처리로써 가능하며 잔액차감과 부가정보 ┃\n┃          │기록은 일원화되어야 한다.                                             ┃\n┃          │-한 개의 부가정보를 기록 가능하다.                                    ┃\n┃          │-조회 시 Offset 0으로 조회한다                                        ┃\n┗━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\nRecord 파일 구조\n┏━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃파일 구조 │Cyclic Record File                                                      ┃\n┠─────┼───┬────────────────────────────────┨\n┃접근조건  │조 회 │Free                                                            ┃\n┃          ├───┼────────────────────────────────┨\n┃          │기 록 │지불 거래 시                                                    ┃\n┠─────┼───┴────────────────────────────────┨\n┃설 명     │-Record파일은 Read Record 명령으로 조회할 수 있다.                      ┃\n┃          │-저장은 지불 거래 시에 부가정보 처리로써 가능하며 잔액차감과 부가정보   ┃\n┃          │기록은 일원화되어야 한다.                                               ┃\n┃          │-여러 개의 부가정보가 기록 가능하다.                                    ┃\n┃          │-최근의 부가 정보는 1번 레코드에 저장되며 레코드 번호가 증가 함에 따라  ┃\n┃          │더 오래된 부가 정보도 조회 가능하다.                                    ┃\n┃          │-새로운 부가 정보를 기록하여 기존의 부가 정보를 유지 할 수 없는 경우    ┃\n┃          │가장 오래된 정보를 삭제한다.                                            ┃\n┗━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n8.5.3 부가 정보 파일 데이터 구조\n부가 정보 파일의 데이터 구조는 각 교통 사업자가 필요한 정보를 임의로 기록할 수 있다.\n8.5.4 부가 정보의 기록\n부가 정보 파일이 Transparent 구조의 경우 부가 정보 파일에 기록할 데이터를 거래 명령에 추가 하여 보낸다. 부가 정보 파일이 Record 구조의 경우 부가 정보 파일에 기록할 데이터에 Tag와 Length 필드를 포함하여 거래 명령에 추가 하여 보낸다.\n거래 명령에 부가 정보가 포함되는 경우에 APDU의 P2로 부가정보 파일을 지정하여야 한다. 이 때 Application은 P2의 정보가 내부에서 관리하는 부가정보 파일과 일치하는 경우에 부가정보를 기록하다.\nTag의 구성\n부가 정보 파일에 기록할 Tag의 경우 부가 정보 파일의 기록 주체를 확인할 수 있도록 거래 시 아래의 규칙에 따라 Tag를 구성한다. 또한 교통 호환 Application은 부가 정보 파일의 Tag를 값을 확인하거나 조작하지 않는다. 다만, Tag의 구성을 선택으로 한다. 해당 태그 값은 국토교통부 또는 국토교통부 지정기관에서 관리한다. 태그값은 요청자가 관리기관에 등록한다.\n┏━┯━┯━┯━┯━┯━┯━┯━┯━━━┓\n┃B8│B7│B6│B5│B4│B3│B2│B1│내용  ┃\n┠─┼─┼─┼─┼─┼─┼─┼─┼───┨\n┃X │X │X │X │X │X │X │X │등록값┃\n┗━┷━┷━┷━┷━┷━┷━┷━┷━━━┛\nLength 및 데이터의 기록\n카드는 부가 정보 기록 시에 Length의 경우 조작을 하지 않고 그대로 기록하거나 필드의 최대 길이로 Length를 조작하여 기록한다. Length를 조작하여 기록하는 경우에는 추가적으로 기록되는 데이터는 00으로 기록한다.\n제2부 : 명령어 및 프로토콜\n1. 적용범위  교통카드(교통서비스 이용대가를 전자적으로 지불ㆍ결제하는 데 사용되는 카드나 그 밖의 매체)\n2. 인용표준  KS X 6924-2를 따른다\n3. 용어와 정의  KS X 6924-2를 따른다\n4. 기호  KS X 6924-2를 따른다\n5. 명령어\n5.1 관리 명령어\n5.1.1 Select File  KS X 6924-2를 따른다\n5.1.2 Read Record  KS X 6924-2를 따른다\n5.1.3 Get Response  KS X 6924-2를 따른다\n5.2 거래 명령어\n5.2.1 Initialize Card(선불/후불)  KS X 6924-2를 따른다\n5.2.2 Purchase Card(선불/후불)  KS X 6924-2를 따른다\n6. 프로토콜\n6.1 선불카드 거래 프로토콜  KS X 6924-2를 따른다\n6.2 선불카드 재거래 프로토콜  KS X 6924-2를 따른다\n6.3 선불카드 직전 거래 취소 프로토콜  KS X 6924-2를 따른다\n6.4 후불카드 거래 프로토콜  KS X 6924-2를 따른다\n6.5 후불카드 직전 거래 취소 프로토콜  KS X 6924-2를 따른다\n6.6 Application 정보 조회 프로토콜\n표준호환카드의 모든 거래는 거래 전 다음과 같은 프로토콜을 수행하여 Application 정보를 조회한다. 단 Application의 정보를 알고 있는 경우 생략 할 수도 있다.\n지불SAM                     단말기                 전자화폐 카드(EP)\n\n제2장 지불보안응용모듈(SAM) 전국호환성 인증기준\n제1부 : 지불보안응용모듈(SAM)의 기본 구조\n1. 적용범위  KS X 6923-1에 따른다.\n2. 인용표준  KS X 6923-1에 따른다.\n3. 용어와 정의  KS X 6923-1에 따른다.\n4. 기호 및 약어  KS X 6923-1에 따른다.\n5. 지불 SAM의 기능\n5.1. 환경 조건 KS X 6923-1에 따른다.\n5.2 지불 SAM의 논리적 구조 KS X 6923-1에 따른다.\n5.3 지불 SAM의 최소 요구 사항 KS X 6923-1에 따른다.\n6. 특  성\n6.1 통신 방식 및 통신 속도 KS X 6923-1에 따른다.\n6.2 전송 프로토콜 KS X 6923-1에 따른다.\n6.3 통신상 오류 발생 시 응답 구조 KS X 6923-1에 따른다.\n6.4 지불 SAM의 명령 KS X 6923-1에 따른다.\n6.5 지불 SAM의 응답  KS X 6923-1에 따른다.\n7. 데이터 구조\n7.1 데이터 종류  KS X 6923-1에 따른다.\n7.2 ALGSAM KS X 6923-1에 따른다.\n7.3 AVSAM KS X 6923-1에 따른다.\n7.4 AID(RID + PIX) KS X 6923-1에 따른다.\n7.5 DEXPSAM KS X 6923-1에 따른다.\n7.6 DISSSAM KS X 6923-1에 따른다.\n7.7 IDSAM KS X 6923-1에 따른다.\n7.8 NTSAM KS X 6923-1에 따른다.\n7.9 SCSAM KS X 6923-1에 따른다.\n7.10 TYPESAM KS X 6923-1에 따른다.\n7.11 LCSAM KS X 6923-1에 따른다.\n7.12 MPDA KS X 6923-1에 따른다.\n7.13 NTEP KS X 6923-1에 따른다.\n7.14 IDEP KS X 6923-1에 따른다.\n7.15 IDCENTER  KS X 6923-1에 따른다.\n7.16 ALGEP KS X 6923-1에 따른다.\n7.17 VKXX_KEY  KS X 6923-1에 따른다.\n7.18 BALEP  KS X 6923-1에 따른다.\n7.19 TRT  KS X 6923-1에 따른다.\n7.20 NISAM  KS X 6923-1에 따른다.\n7.21 NCSAM  KS X 6923-1에 따른다.\n7.22 TOTSAM  KS X 6923-1에 따른다.\n7.23 SNSAM  KS X 6923-1에 따른다.\n8. 키 구조\n8.1 키의 종류 KS X 6923-1에 따른다.\n8.2 CTKEY KS X 6923-1에 따른다.\n8.3 MPKEY  KS X 6923-1에 따른다.\n8.4 TMKEY  KS X 6923-1에 따른다.\n8.5 INDKEY  KS X 6923-1에 따른다.\n8.6 CEKEY  KS X 6923-1에 따른다.\n8.7 DPKEY  KS X 6923-1에 따른다.\n제2부 : 명령어 및 프로토콜\n1. 적용범위  KS X 6923-2에 따른다.\n2. 인용표준  KS X 6923-2에 따른다.\n3. 용어와 정의  KS X 6923-2에 따른다.\n4. 기호 및 약어  KS X 6923-2에 따른다.\n5. 명령어\n5.1 Initialize_SAM(선불/후불)  KS X 6923-2에 따른다.\n5.2 Credit_SAM(선불/후불)  KS X 6923-2에 따른다.\n5.3 Re-initialize_SAM  KS X 6923-2에 따른다.\n5.4 Re-credit_SAM  KS X 6923-2에 따른다.\n5.5 Initialize_SAM_for_Cancellation(선불/후불)  KS X 6923-2에 따른다.\n5.6 Cancellation_SAM(선불/후불)  KS X 6923-2에 따른다.\n7. 프로토콜\n7.1 선불카드 거래 프로토콜   KS X 6923-2에 따른다.\n7.2 선불카드 재거래 프로토콜   KS X 6923-2에 따른다.\n7.3 선불카드 직전 거래 취소 프로토콜   KS X 6923-2에 따른다.\n7.4 후불카드 거래 프로토콜  KS X 6923-2에 따른다.\n7.5 후불카드 직전 거래 취소 프로토콜  KS X 6923-2에 따른다.\n부속서 A(참고) 응답 코드\nA.1  응답 코드 KS X 6923-2에 따른다.\n제3장 지불단말기 전국호환성 인증기준\n1. 적용범위  KS X 6925-2에 따른다.\n2. 인용표준  KS X 6925-2에 따른다.\n3. 용어와 정의  KS X 6925-2에 따른다.\n4. 기호  KS X 6925-2에 따른다.\n5. 지불단말기의 특성 및 구조\n5.1 통신 방식  KS X ISO/IEC 14443-2에 따른다.\n5.2 통신 거리  KS X ISO/IEC 14443-2에 따른다.\n5.3 충돌 방지  KS X ISO/IEC 14443-3에 따른다.\n6. 프로토콜\n6.1 선불카드 거래 프로토콜   KS X 6925-2에 따른다.\n6.2 선불카드 재거래 프로토콜   KS X 6925-2에 따른다.\n6.3 선불카드 직전 거래 취소 프로토콜   KS X 6925-2에 따른다.\n6.4 후불카드 거래 프로토콜  KS X 6925-2에 따른다.\n6.5 후불카드 직전 거래 취소 프로토콜  KS X 6925-2에 따른다.\n6.6 Application 정보 조회 프로토콜  제1장 교통카드 전국호환성 인증기준에 따른다.",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000275282&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162036577",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162036553",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162036577",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:교통카드관련장비의전국호환성인증요령#BYL0001",
+      "filename": "별표1_인증대상별 전국호환성 인증기준.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "인증대행기관의 적합성시험 장비 기준",
+      "enforcement_date": "",
+      "content": "[별표 2] 인증대행기관의 적합성시험 장비 기준\n┌───────┬─────────────────────┬──────────┐\n│장비명        │용도 및 목적                              │사양                │\n├───────┼─────────────────────┼──────────┤\n│통신거리측정기│시료의 접촉 각도에 따른 통신거리 검증     │거리: 10cm이내      │\n│              │                                          │각도: 0~90°        │\n├───────┼─────────────────────┼──────────┤\n│충돌방지측정기│복수 개의 시료 존재 시 충돌방지 검증      │Anti-Collision 알고 │\n│              │                                          │리즘 모듈           │\n├───────┼─────────────────────┼──────────┤\n│교통카드      │CONFIG DF 및 EF CONFIG 규격 준수 여       │거래                │\n│프로토콜      │부 검증                                   │적합성시험          │\n│적합성시험    ├─────────────────────┤모듈                │\n│모듈          │거래 프로토콜 준수 여부 검증              │                    │\n│              ├─────────────────────┼──────────┤\n│              │재거래 프로토콜 준수 여부 검증            │재거래              │\n│              │                                          │적합성시험          │\n│              │                                          │모듈                │\n│              ├─────────────────────┼──────────┤\n│              │직전거래취소 프로토콜 준수 여부 검증      │직전거래취소        │\n│              │                                          │적합성시험          │\n│              │                                          │모듈                │\n│              ├─────────────────────┼──────────┤\n│              │거래/재거래/직전거래취소 프로토콜 중 서명 │보안                │\n│              │(MAC) 검증 절차 준수 여부 검증            │적합성시험          │\n│              │                                          │모듈                │\n├───────┼─────────────────────┼──────────┤\n│지불SAM       │거래 프로토콜 준수 여부 검증              │거래                │\n│프로토콜      │                                          │적합성시험          │\n│적합성시험    │                                          │모듈                │\n│모듈          ├─────────────────────┼──────────┤\n│              │재거래 프로토콜 준수 여부 검증            │재거래              │\n│              │                                          │적합성시험          │\n│              │                                          │모듈                │\n│              ├─────────────────────┼──────────┤\n│              │직전거래취소 프로토콜 준수 여부 검증      │직전거래취소        │\n│              │                                          │적합성시험          │\n│              │                                          │모듈                │\n│              ├─────────────────────┼──────────┤\n│              │거래/재거래/직전거래취소 프로토콜 중 서명 │보안                │\n│              │(MAC) 검증 절차 준수 여부 검증            │적합성시험          │\n│              │                                          │모듈                │\n└───────┴─────────────────────┴──────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000275282&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162036583",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162036579",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162036583",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:교통카드관련장비의전국호환성인증요령#BYL0002",
+      "filename": "별표2_인증대행기관의 적합성시험 장비 기준.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "인증대행기관 지정 신청서",
+      "enforcement_date": "",
+      "content": "[별지 제1호 서식] 인증대행기관 지정 신청서\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃인증대행기관 지정 신청서                                                  ┃\n┠─┬────┬┬────────┬────────────────────┨\n┃선│기 관 명││ 사업자등록번호 │                                        ┃\n┃  ├────┼┼────────┼────────────────────┨\n┃청│대표자명││생 년 월 일     │                                        ┃\n┃  ├────┼┴────────┴────────────────────┨\n┃인│소 재 지│                                                            ┃\n┃  ├────┼──────────────────────────────┨\n┃  │전화번호│    TEL                      / FAX                          ┃\n┠─┴────┼──────────────────────────────┨\n┃설 립 목 적 │                                                            ┃\n┠──────┼──────────────────────────────┨\n┃설립 연월일 │                                                            ┃\n┠──────┴──────────────────────────────┨\n┃국토교통부 고시 제0000-000호 교통카드 관련 장비의 전국호환성 인증         ┃\n┃요령에 의거하여 교통카드 관련 장비에 대한 전국호환성 인증대행기관         ┃\n┃지정을 신청합니다.                                                        ┃\n┃                                                                          ┃\n┃년     월     일                                                          ┃\n┃                                       신청인               (서명 또는 인)┃\n┃                                                                          ┃\n┃국토교통부장관 귀하                                                       ┃\n┠─────────────────────────────────────┨\n┃ <구비서류>                                                               ┃\n┃                                                                          ┃\n┃ 1. 법인등기부등본 1 부                                                   ┃\n┃ 2. 인력 및 장비 확보를 증명하는 서류 5부                                 ┃\n┃ 3. 인증업무 수행계획서 5부                                               ┃\n┃ 4. 인증대행기관 운영에 관한 업무규정 5부                                 ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n비고 : \"인증업무 수행계획서\"는 지정신청자의 일반현황, 인증업무의 효율성ㆍ공정성ㆍ보안성 확보방안, 업무수행 일정계획을 포함하여 작성한다.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162036589",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162036585",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162036589",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:교통카드관련장비의전국호환성인증요령#BJ0001",
+      "filename": "별지1_인증대행기관 지정 신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "인증대행기관 지정서",
+      "enforcement_date": "",
+      "content": "[별지 제2호 서식] 인증대행기관 지정서\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                    ┃\n┃ 제         호                                      ┃\n┃                                                    ┃\n┃인증대행기관 지정서                                 ┃\n┃                                                    ┃\n┃                                                    ┃\n┃                                                    ┃\n┃기    관    명  :                                   ┃\n┃                                                    ┃\n┃사업자등록번호  :                                   ┃\n┃                                                    ┃\n┃대  표  자  명  :                                   ┃\n┃                                                    ┃\n┃소    재    지  :                                   ┃\n┃                                                    ┃\n┃국토교통부 고시 제0000-000호 교통카드 관련 장비의   ┃\n┃전국호환성 인증 요령에 따라 위 기관을 교통카드 관련 ┃\n┃장비에 대한 전국호환성 인증대행기관으로 지정합니다. ┃\n┃                                                    ┃\n┃                                                    ┃\n┃년     월     일                                    ┃\n┃                                                    ┃\n┃                                                    ┃\n┃                                                    ┃\n┃국토교통부장관                                      ┃\n┃                                                    ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162036595",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162036591",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162036595",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:교통카드관련장비의전국호환성인증요령#BJ0002",
+      "filename": "별지2_인증대행기관 지정서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "전국호환성 인증 신청서",
+      "enforcement_date": "",
+      "content": "[별지 제3호 서식] 인증신청서\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃전국호환성 인증 신청서                                                ┃\n┠───┬─────┬───────┬───────┬─────────┨\n┃신청인│기 관 명  │              │사업자등록번호│                  ┃\n┃      │(상 호 명)│              │              │                  ┃\n┃      ├─────┼───────┼───────┼─────────┨\n┃      │대표자명  │              │생 년 월 일   │                  ┃\n┃      ├─────┼───────┴───────┴─────────┨\n┃      │소 재 지  │                                                  ┃\n┃      ├─────┼─────────────────────────┨\n┃      │전화번호  │  TEL                   / FAX                     ┃\n┠───┼─────┴─────────────────────────┨\n┃신청  │□ 신규인증               □ 재시험   □ 유효기간 만료에 따   ┃\n┃구분  │                                      른 재인증               ┃\n┠───┼─────┬─────────────────────────┨\n┃신청  │인증대상  │□ 교통카드    □ 지불보안응용모듈    □ 지불단말기┃\n┃장비  │          │□ 기타 (                          )              ┃\n┃      ├─────┼─────────────────────────┨\n┃      │제 품 명  │                                                  ┃\n┃      ├─────┼─────────────────────────┨\n┃      │제품상세  │                                                  ┃\n┃      │(모 델 명)│                                                  ┃\n┠───┴─────┴─────────────────────────┨\n┃국토교통부 고시 제0000-000호 교통카드 관련 장비의 전국호환성 인증요령 ┃\n┃에 의거하여 교통카드 관련 장비의 전국호환성 인증을 신청합니다.        ┃\n┃                                                                      ┃\n┃년      월      일                                                    ┃\n┃                                                                      ┃\n┃              신청인 :                     (서명 또는 날인)           ┃\n┃                                                                      ┃\n┃국토교통부장관 귀하                                                   ┃\n┠───────────────────────────────────┨\n┃<구비서류>                                                            ┃\n┃                                                                      ┃\n┃1. 사업자등록증 사본 1부                                              ┃\n┃2. 인증대상 시료 5대                                                  ┃\n┃3. 시료 설명서 1부                                                    ┃\n┃4. 기타 인증대행기관 요구 자료                                        ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162036601",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162036597",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162036601",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:교통카드관련장비의전국호환성인증요령#BJ0003",
+      "filename": "별지3_전국호환성 인증 신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "전국호환성 인증서",
+      "enforcement_date": "",
+      "content": "[별지 제4호 서식] 인증서\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃전국호환성 인증서                                             ┃\n┃                                                              ┃\n┃                                                              ┃\n┃                                                              ┃\n┃인증대상      :   □교통카드  □지불보안응용모듈  □지불단말기┃\n┃                  □기타(                    )                ┃\n┃                                                              ┃\n┃기 관 명      :                                               ┃\n┃(상 호 명)                                                    ┃\n┃                                                              ┃\n┃대 표 자      :                                               ┃\n┃                                                              ┃\n┃제 품 명      :                                               ┃\n┃                                                              ┃\n┃제품상세      :                                               ┃\n┃(모 델 명)                                                    ┃\n┃                                                              ┃\n┃인증번호      :                                               ┃\n┃                                                              ┃\n┃인증연월일    :                                               ┃\n┃                                                              ┃\n┃인증유효기간  :                                               ┃\n┃                                                              ┃\n┃                                                              ┃\n┃「대중교통의 육성·이용촉진에 관한 법률」제10조의7의 규정 및  ┃\n┃「교통카드 관련 장비의 전국호환성 인증 요령」에 의하여 위와   ┃\n┃같이 교통카드 등 관련 장비를 인증합니다.                      ┃\n┃                                                              ┃\n┃년   월  일                                                   ┃\n┃                                                              ┃\n┃                                                              ┃\n┃ 국토교통부장관                                               ┃\n┃                                                              ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162036607",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162036603",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162036607",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:교통카드관련장비의전국호환성인증요령#BJ0004",
+      "filename": "별지4_전국호환성 인증서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "교통카드 관련 장비의 전국호환성 인증 요령(국토교통부고시)(제2026-111호)(20260227).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=162036359",
+      "file_store_url": "",
+      "filename": "교통카드 관련 장비의 전국호환성 인증 요령(국토교통부고시)(제2026-111호)(20260227).hwp"
+    },
+    {
+      "name": "교통카드 관련 장비의 전국호환성 인증 요령(국토교통부고시)(제2026-111호)(20260227).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=162036363",
+      "file_store_url": "",
+      "filename": "교통카드 관련 장비의 전국호환성 인증 요령(국토교통부고시)(제2026-111호)(20260227).pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 29,
+    "by_category": {
+      "법령": 11,
+      "행정규칙": 12,
+      "별표": 2,
+      "별지": 4
+    },
+    "by_relation_type": {
+      "citation": 12,
+      "internal_ref": 11,
+      "appendix_ref": 6
+    },
+    "articles_total": 18,
+    "articles_with_relations": 13,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 9,
+    "appendices_count": 6,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/교통카드 관련 장비의 전국호환성 인증 요령"
+  },
+  "provision_id": "admrul:교통카드관련장비의전국호환성인증요령#DOC"
+}
