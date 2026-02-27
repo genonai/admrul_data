@@ -1,0 +1,550 @@
+{
+  "law_id": "2100000276032",
+  "mst": "2100000276032",
+  "law_name": "조달청 정보화업무 처리규정",
+  "law_abbr": "",
+  "law_type": "훈령",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000276032",
+  "promulgation_no": "2364",
+  "promulgation_date": "20260227",
+  "enforcement_date": "20260227",
+  "revision_date": "20260227",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "조달청(디지털조달총괄과)",
+    "담당자명": "신재욱",
+    "행정규칙종류코드": "B0001",
+    "행정규칙명": "조달청 정보화업무 처리규정",
+    "발령일자": "20260227",
+    "행정규칙종류": "훈령",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "조달청",
+    "전화번호": "042-724-7516",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1230000",
+    "생성일자": "20260323",
+    "행정규칙ID": "37232",
+    "시행일자": "20260227",
+    "담당부서기관코드": "1230569",
+    "발령번호": "2364",
+    "행정규칙일련번호": "2100000276032",
+    "상위부처명": "조달청"
+  },
+  "amendment_text": "",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 21,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조(목적) 이 규정은 조달청 정보화업무(이하 \"정보화업무\"이라 한다)에 관한 제반사항을 정함으로써 정보화업무 처리의 효율화를 기함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:조달청정보화업무처리규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적용범위",
+        "chapter": "제1장 총칙",
+        "content": "제2조(적용범위) 조달청 정보화와 관련된 조직과 직원, 업무계획 수립, 예산편성과 집행, 정보화사업 추진, 전산설비 및 장비 운영ㆍ관리 등에 관하여 따로 정하는 경우를 제외하고는 이 규정이 정하는 바에 의한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:조달청정보화업무처리규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "용어의 정의",
+        "chapter": "제1장 총칙",
+        "content": "제3조(용어의 정의) 이 규정에서 사용하는 언어의 정의는 다음과 같다.1. \"정보\"라 함은 조달업무 수행과정에서 작성 또는 취득한 자료로서 전자적 방식으로 처리하여 부호ㆍ문자ㆍ음향ㆍ영상 등으로 표현된 모든 종류의 자료 또는 지식을 말한다.2. \"조달정보화\"라 함은 원활한 조달행정 업무추진을 위하여 정보를 수집ㆍ생산하고 체계적으로 가공ㆍ축적하여 이를 전산자원을 통하여 유통 또는 활용함으로써 조달행정의 효율성을 제고하는 것을 말한다.3. \"정보시스템\"이라 함은 조달정보화와 관련된 정보의 수집ㆍ가공ㆍ저장ㆍ검색ㆍ송신ㆍ수신 및 그 활용과 관련된 전산자원 등이 상호 유기적으로 결합된 집합체를 말한다.4. \"정보자원\"이라 함은 정보시스템 및 정보시스템의 구축에 적용되는 정보기술(관련 산출물을 포함한다), 정보화 예산 및 인력 등을 말한다.5. \"정보기술아키텍처\"라 함은 업무, 응용, 데이터, 기술, 보안 등 정보화 구성요소들 간의 관계를 구조적으로 정리한 것을 말한다.6. \"소관부서\"이라 함은 조달청과 그 소속기관 직제 시행규칙에서 정한 조달청과 그 소속기관의 보조기관ㆍ보좌기관으로 소관 정보화사업을 추진하는 부서를 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:조달청정보화업무처리규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "조달정보화 기본원칙",
+        "chapter": "제1장 총칙",
+        "content": "제4조(조달정보화 기본원칙) 정보화업무는 조달행정의 비전과 전략목표를 달성할 수 있도록 조직, 인력, 예산, 정보시스템 등의 정보자원을 최대한 활용하여 정보화 추진성과가 극대화될 수 있도록 추진한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:조달청정보화업무처리규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "정보화책임관",
+        "chapter": "제2장 정보화 조직",
+        "content": "제5조(정보화책임관) ① 조달청의 정보화사업과 정보자원을 종합적으로 기획ㆍ조정 및 총괄 관리하기 위하여 정보화책임관을 둔다.② 제1항의 규정에 따라 정보화책임관은 디지털공정조달국장으로 한다.③ 정보화책임관이 수행하여야 할 임무는 다음 각 호와 같다.1. 조달정보화 시책의 수립ㆍ시행2. 조달정보화 사업의 총괄조정, 지원 및 평가3. 조달정보화 정책과 기관 내 다른 정책ㆍ계획 등과의 연계ㆍ조정4. 정보기술을 이용한 행정업무의 지원5. 정보자원의 획득ㆍ배분ㆍ이용 등의 종합조정 및 체계적 관리와 정보공동활용방안의 수립6. 정보시스템의 구축ㆍ운영ㆍ관리에 관한 사항7. 조달행정업무의 정보화 촉진 및 표준화에 관한 사항8. 「전자정부법」 제46조에 따른 정보기술아키텍처의 도입ㆍ활용9. 조달정보화에 대한 교육 및 훈련④ 정보화책임관은 제3항 각호의 임무를 수행하기 위하여 본청 각 국장(기획조정관, 혁신조달기획관 포함. 이하 ‘각 국장’이라고 한다.) 또는 소속기관의 장에게 필요한 조치를 요구할 수 있다. 이 경우 각 부서 및 소속기관의 장은 특별한 사유가 없는 한 이에 따라야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제3항",
+            "link_text": "「전자정부법」",
+            "line_text": "",
+            "target_law_name": "전자정부법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전자정부법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:조달청정보화업무처리규정#JO0005",
+            "reference_id": "law:전자정부법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제3항",
+            "link_text": "제46조",
+            "line_text": "",
+            "target_law_name": "전자정부법",
+            "target_article_no": "제46조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전자정부법/제46조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:조달청정보화업무처리규정#JO0005",
+            "reference_id": "law:전자정부법#JO0046"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:조달청정보화업무처리규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "정보화 추진",
+        "chapter": "제2장 정보화 조직",
+        "content": "제6조(정보화 추진) 조달정보화의 원활한 추진을 위하여 다음 각 호의 사무에 대해 디지털조달총괄과장은 정보화책임관을 보좌한다.1. 조달정보화 추진계획 수립ㆍ조정 및 평가2. 조달정보화와 관련된 제반 법령 및 규정 제ㆍ개정3. 조달정보화와 관련된 제도개선4. 조달정보화 예산의 편성, 조정 및 집행5. 조달정보화 사업 발주6. 조달정보화에 대한 교육 및 훈련에 관한 사항7. 정보화추진심의위원회에 관한 사항8. 기타 조달정보화와 관련된 업무에 관한 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:조달청정보화업무처리규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "정보시스템 통합관리",
+        "chapter": "제2장 정보화 조직",
+        "content": "제7조(정보시스템 통합관리) 조달정보시스템을 효율적으로 통합 관리하고 다음 각 호의 사무에 대해 디지털조달관리과장은 정보화책임관을 보좌한다.1. 조달정보시스템의 설계 및 개발2. 정보자원을 포함한 조달정보시스템의 운영ㆍ관리3. 조달정보시스템 추진에 대한 타당성 검토4. 정보기술아키텍처의 도입 및 운영ㆍ관리5. 조달정보시스템 관련 적용기술 및 표준화에 대한 사항6. 기타 정보시스템 유지관리에 필요한 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:조달청정보화업무처리규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "전산관리 전문요원 지정",
+        "chapter": "제2장 정보화 조직",
+        "content": "제8조(전산관리 전문요원 지정) ① 본청 각 국장, 소속기관의 장은 정보시스템의 효율적인 관리를 위하여 전산관리 전문요원을 지정ㆍ운영하여야 한다.② 본청 각 국장, 소속기관의 장은 전산직 또는 전산업무에 전문지식이 있는 일반직 공무원 중에서 가장 적합하다고 인정되는 자를 전산관리 전문요원으로 지정하여야 한다.③ 본청 각 국장 및 소속기관의 장은 제2항에 따라 소속 공무원을 전산관리전문요원으로 지정하고자 할 경우에는 미리 정보화책임관과 협의하여야 한다.④ 본청 각 국장 또는 소속기관의 장은 전산관리전문요원을 지정 또는 변경하는 경우에는 정보화책임관에게 통보하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:조달청정보화업무처리규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "정보화사업추진반 구성",
+        "chapter": "제2장 정보화 조직",
+        "content": "제9조(정보화사업추진반 구성) ① 본청 각 국장, 소속기관의 장은 정보시스템을 효율적으로 구축하기 위하여 해당 사업의 담당공무원과 디지털공정조달국 소속 관련 공무원 등으로 정보화사업추진반을 구성ㆍ운영할 수 있다.② 본청 각 국장 및 소속기관의 장은 정보화사업추진반을 구성ㆍ운영할 경우에는 미리 정보화책임관과 협의하여야 한다.③ 정보화사업추진반은 다음 각 호의 업무를 지원한다.1. 사용자 요구사항을 수렴 및 자체 정보화사업계획 수립2. 정보시스템 구축과 관련한 계약관리3. 정보기술아키텍처의 도입ㆍ활용에 관한 사항4. 정보시스템 시범운영5. 기타 정보화사업 추진과 관련한 업무",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:조달청정보화업무처리규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "위원회 구성",
+        "chapter": "제3장 정보화추진심의위원회",
+        "content": "제10조(위원회 구성) ① 조달정보화 효율적 추진과 정보화 시책의 협의 등을 위하여 정보화추진심의위원회(이하 \"위원회\"라 한다.)를 둔다.② 위원회는 위원장 1인을 포함하여 7인 이상 10인 이내의 위원으로 구성한다.③ 위원장은 정보화책임관이 되며 위원은 다음 각 호의 자로 한다.1. 디지털조달총괄과장2. 디지털조달관리과장3. 기획재정담당관4. 전략비축물자과장5. 구매총괄과장6. 시설총괄과장7. 기술서비스총괄과장8. 혁신조달정책과장9. 외부 전문가 또는 5급이상 공무원 등 위원장이 필요하다고 인정하는 자④ 위원회에 부의할 의안의 정리, 배부, 심의결과의 통보, 회의록의 작성ㆍ비치 등 위원회의 사무를 처리하기 위하여 간사 1인을 두되, 간사는 디지털조달총괄과 소속 일반직 공무원으로 정보화책임관이 지정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:조달청정보화업무처리규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "위원장의 직무",
+        "chapter": "제3장 정보화추진심의위원회",
+        "content": "제11조(위원장의 직무) ① 위원장은 위원회를 대표하며, 위원회 업무를 총괄한다.② 위원장은 위원회를 소집하고 회의를 주관한다.③ 위원장이 궐위되었을 때에는 정보화책임관을 보좌하는 디지털조달총괄과장이 그 직무를 대행하고, 위원이 사고가 있을 때에는 해당 소속 5급 이상 공무원으로 하여금 회의에 출석하여 대행하게 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:조달청정보화업무처리규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "위원회의 기능",
+        "chapter": "제3장 정보화추진심의위원회",
+        "content": "제12조(위원회의 기능) 위원회는 다음 각 호의 사항을 심의한다.1. 정보화 추진계획 수립 및 변경에 관한 사항2. 정보화 추진사업의 우선순위 결정3. 정보시스템의 도입 및 구축 계획4. 정보기술아키텍처에 관한 사항5. 정보자원의 체계적 관리 및 표준화에 관한 사항6. 그 밖에 위원장이 필요하다고 인정하는 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:조달청정보화업무처리규정#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "회의",
+        "chapter": "제3장 정보화추진심의위원회",
+        "content": "제13조(회의) ① 위원회 회의는 위원장이 직접 소집하거나 2인 이상의 위원소집 요구로 위원장이 소집한다.② 회의는 위원장 포함 재적위원 과반수의 출석으로 개의하고 출석위원 과반수의 찬성으로 의결한다.③ 위원장은 필요한 경우에는 서면으로 심의ㆍ의결할 수 있다.④ 위원장이 위원회를 개최하고자 할 경우에는 개최일 3일전 까지 일시ㆍ장소 및 부의 사항을 각 위원에게 통지하여야 한다. 다만, 긴급을 요하거나 부득이한 사유가 있는 경우에는 그러하지 아니하다.⑤ 위원장이 필요하다고 인정하는 경우에는 관계공무원 및 외부전문가 등을 출석하게 하여 의견을 듣거나 관련 자료를 제출하게 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:조달청정보화업무처리규정#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "위원회의 위원수당 등",
+        "chapter": "제3장 정보화추진심의위원회",
+        "content": "제14조(위원회의 위원수당 등) 위원회에 출석한 위원 및 외부 전문가에게는 예산의 범위 내에서 수당 등 필요한 경비를 지급할 수 있다. 다만, 공무원인 위원이 소관 업무와 관련하여 참석한 경우에는 그러하지 아니한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:조달청정보화업무처리규정#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "정보화 추진 계획",
+        "chapter": "제4장 정보화 추진계획 수립",
+        "content": "제15조(정보화 추진 계획) ① 본청 각 국장은 매년 1월 10일까지 다음 각 호의 사항을 포함한 정보화 추진계획을 정보화책임관에게 제출하여야 한다. 다만, 소속기관의 장은 소관 업무를 담당하는 본청 각 국장에게 제출하고 해당 국장은 이를 검토한 후 적정하다고 인정되는 경우에는 자체 정보화 추진계획에 반영하여 제출하여야 한다.② 정보화책임관은 제1항에 따라 제출된 자료를 근거하여 매년 1월말까지 정보화 추진계획을 수립하여야 한다.③ 정보화 추진계획에는 다음 사항은 포함하여야 한다.1. 당해연도 정보화 추진계획2. 다음연도 정보화 추진계획3. 기타 정보화 추진과 관련한 협조 및 건의사항④ 정보화책임관은 위원회의 심의를 거쳐 정보화 추진계획을 확정한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:조달청정보화업무처리규정#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "정보화 추진계획 이행",
+        "chapter": "제4장 정보화 추진계획 수립",
+        "content": "제16조(정보화 추진계획 이행) ① 본청 각 국장은 다음연도 정보화 추진계획에 반영된 사업별 예산요구서를 매년 4월말까지 정보화책임관에게 제출하여야 한다. 소속기관의 장은 제15조 제1항의 단서조항을 준용한다.② 정보화책임관은 본청 각 국장이 제출한 사업별 예산요구서를 검토하고 적정하다고 인정되는 사업에 대해 조달정보화 사업의 예산요구서를 작성하여 예산편성 담당부서에 제출한다.③ 본청 각 국장, 소속기관의 장은 정보화 추진계획의 시행에 필요한 예산을 확보할 수 있도록 최대한 노력하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제1항",
+            "link_text": "제15조",
+            "line_text": "",
+            "target_law_name": "조달청 정보화업무 처리규정",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/조달청 정보화업무 처리규정/제15조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:조달청정보화업무처리규정#JO0016",
+            "reference_id": "admrul:조달청정보화업무처리규정#JO0015"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:조달청정보화업무처리규정#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "정보화사업 발주",
+        "chapter": "제5장 정보화사업 발주 및 운영ㆍ관리",
+        "content": "제17조(정보화사업 발주) ① 본청 각 국장, 각 소속기관의 장은 제15조제4항에 의한 정보화 추진계획과 당해연도 예산에 계상된 정보시스템 구축 또는 개선사업을 추진하고자 하는 경우에는 다음 각 호의 자료를 첨부하여 디지털조달총괄과장에게 발주의뢰를 요청하여야 한다. 또한 법령 및 제도개선 등으로 수시 발생하는 1천만원 이상 정보시스템 구축 또는 개선사업도 이에 준한다.1. 제안요청서 또는 세부 규격서2. 세부 산출내역서3. 기타 필요한 참고자료② 디지털조달총괄과장은 제1항의 규정에 따른 요청을 받은 후 다음 각 호의 어느 하나에 해당되는 경우에는 소관부서의 장과 협의하여 이를 조정할 수 있다.1. 수의계약으로 요청하는 경우2. 제안요청서, 산출내역서 등이 명확하지 아니한 경우3. 특정규격 또는 모델 등으로 작성되어 있는 경우4. 입찰참가자격을 부당하게 제한하는 경우5. 기타 디지털조달총괄과장이 협의가 필요하다고 인정하는 경우③ 디지털조달총괄과장은 정보자원의 효과적인 관리를 위하여 제1항의 발주 의뢰요청서가 정보기술아키텍처에서 정한 아키텍처 표준 및 원칙에 적정 여부, 사업의 타당성 및 소요 예산의 적정성 등을 디지털조달관리과장에게 검토 의뢰할 수 있다.④ 디지털조달총괄과장은 디지털조달관리과장의 검토의견과 당해연도 예산 등을 감안하여 추진여부를 결정하고 그 결과를 해당부서에 통보하여야 한다.⑤ 디지털조달총괄과장은 효율적인 정보화 추진을 위하여 여러 정보화사업을 통합하여 발주할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제1항",
+            "link_text": "제15조제4항",
+            "line_text": "",
+            "target_law_name": "조달청 정보화업무 처리규정",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/조달청 정보화업무 처리규정/제15조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:조달청정보화업무처리규정#JO0017",
+            "reference_id": "admrul:조달청정보화업무처리규정#JO0015"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:조달청정보화업무처리규정#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "정보화 예산 조정",
+        "chapter": "제5장 정보화사업 발주 및 운영ㆍ관리",
+        "content": "제18조(정보화 예산 조정) ① 본청 각 국장은 당해연도 예산서에 계상되지 않은 사업을 법령 개정 등 불가피한 사유로 시급히 추진하고자 하는 경우에는 정보화책임관에게 정보시스템 구축 또는 개선사업을 발주의뢰 요청할 수 있다.② 정보화책임관은 제1항에 의한 요청사업에 대해 사업의 적합성, 당해연도 예산 및 사업의 우선순위 등을 고려하여 사업의 추진여부를 결정한다.③ 본청 각 국장은 제15조제4항에 의해 확정된 정보화 추진계획에 반영된 사업 또는 당해연도 예산서에 계상된 사업을 철회하거나 사업범위를 축소 조정이 필요한 경우에는 이를 정보화책임관에게 통보하여야 한다.④ 정보화책임관은 제1항 내지 제3항의 사유가 발생한 경우에는 당해연도 정보화 추진계획을 조정할 수 있다.⑤ 소속기관의 장이 제1항의 사항을 요청하고자 하는 경우에는 제15조 제1항의 단서조항을 준용한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제3항",
+            "link_text": "제15조제4항",
+            "line_text": "",
+            "target_law_name": "조달청 정보화업무 처리규정",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/조달청 정보화업무 처리규정/제15조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:조달청정보화업무처리규정#JO0018",
+            "reference_id": "admrul:조달청정보화업무처리규정#JO0015"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제5항",
+            "link_text": "제15조",
+            "line_text": "",
+            "target_law_name": "조달청 정보화업무 처리규정",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/조달청 정보화업무 처리규정/제15조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:조달청정보화업무처리규정#JO0018",
+            "reference_id": "admrul:조달청정보화업무처리규정#JO0015"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:조달청정보화업무처리규정#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "정보화사업 계약관리",
+        "chapter": "제5장 정보화사업 발주 및 운영ㆍ관리",
+        "content": "제19조(정보화사업 계약관리) ① 본청 각 국장, 소속기관의 장은 효율적인 정보화사업 추진을 위해 제9조 제1항에서 정한 정보화사업추진반을 구성하고 동 추진반으로 하여금 제9조 제3항에서 정한 업무를 수행하게 할 수 있다.② 디지털조달관리과장은 정보시스템 구축을 효율적으로 추진하기 위하여 정보화사업추진반에게 다음 각 호의 사항을 협조 요청할 수 있으며, 동 추진반은 이에 대해 검토하고 적절한 조치를 취한 후 그 조치결과를 디지털조달관리과장에게 통보하여야 한다.1. 정보시스템 구축에 따른 계약이행 중간 점검 및 보완 요구2. 정보시스템의 조달청 정보기술아키텍처 적정성 유지 요구3. 계약이행 점검 및 검수ㆍ검사(\"시운전\"을 포함)에 관한 기술 지원③ 계약관리를 담당하는 소관부서의 장은 계약이행의 지체 또는 불이행하거나 납품검사ㆍ검수가 완료되면 지체없이 디지털조달총괄과장과 디지털조달관리과장에게 통보하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제1항",
+            "link_text": "제9조",
+            "line_text": "",
+            "target_law_name": "조달청 정보화업무 처리규정",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/조달청 정보화업무 처리규정/제9조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:조달청정보화업무처리규정#JO0019",
+            "reference_id": "admrul:조달청정보화업무처리규정#JO0009"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제1항",
+            "link_text": "제9조",
+            "line_text": "",
+            "target_law_name": "조달청 정보화업무 처리규정",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/조달청 정보화업무 처리규정/제9조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:조달청정보화업무처리규정#JO0019",
+            "reference_id": "admrul:조달청정보화업무처리규정#JO0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:조달청정보화업무처리규정#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "정보시스템 통합관리",
+        "chapter": "제5장 정보화사업 발주 및 운영ㆍ관리",
+        "content": "제20조(정보시스템 통합관리) ① 디지털조달관리과장은 제17조 및 제18조에 따라 정보시스템을 인수한 후에는 안정적으로 운영하여야 한다.② 디지털조달관리과장은 원활한 정보시스템 운영 및 유지보수업무를 위하여 외부기관이나 업체에 위탁할 수 있다.③ 정보화책임관은 본청 각 국장 또는 소속기관의 장이 정보시스템을 운영ㆍ관리하는 것이 효율적이라고 인정되는 경우에는 본청 각 국장 또는 소속기관의 장에게 동 시스템에 대한 운영ㆍ관리를 위임할 수 있다. 운영ㆍ관리를 위임 받은 자는 제21조에서 정한 대로 동 시스템을 안정적으로 운영하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제1항",
+            "link_text": "제17조 및 제18조",
+            "line_text": "",
+            "target_law_name": "조달청 정보화업무 처리규정",
+            "target_article_no": "제17조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/조달청 정보화업무 처리규정/제17조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:조달청정보화업무처리규정#JO0020",
+            "reference_id": "admrul:조달청정보화업무처리규정#JO0017"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제1항",
+            "link_text": "제17조 및 제18조",
+            "line_text": "",
+            "target_law_name": "조달청 정보화업무 처리규정",
+            "target_article_no": "제18조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/조달청 정보화업무 처리규정/제18조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:조달청정보화업무처리규정#JO0020",
+            "reference_id": "admrul:조달청정보화업무처리규정#JO0018"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제3항",
+            "link_text": "제21조",
+            "line_text": "",
+            "target_law_name": "조달청 정보화업무 처리규정",
+            "target_article_no": "제21조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/조달청 정보화업무 처리규정/제21조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:조달청정보화업무처리규정#JO0020",
+            "reference_id": "admrul:조달청정보화업무처리규정#JO0021"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:조달청정보화업무처리규정#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "정보시스템의 안정적 운영",
+        "chapter": "제5장 정보화사업 발주 및 운영ㆍ관리",
+        "content": "제21조(정보시스템의 안정적 운영) ① 전산기기 등이 설치된 전산실 관리업무를 담당하는 디지털조달관리과장 또는 소관부서의 장은 다음 각 호의 사항을 준수하여야 한다.1. 침수위험ㆍ직사광선ㆍ열기ㆍ습기ㆍ유해가스 등으로부터 보호될 수 있도록 유지ㆍ관리2. 출입문 보안장치 설치 등 외부로부터의 주ㆍ야간 위해 방지3. 소화설비, 항온ㆍ항습설비 및 무정전 전원장치 등을 설치4. 정보시스템을 관리하는 관리책임자 지정ㆍ운영② 정보시스템을 개발ㆍ운영ㆍ관리업무를 담당하는 디지털조달관리과장 또는 소관부서의 장은 다음과 같은 사항을 조치를 취하여야 한다.1. 정보시스템의 장애예방, 용량 등을 적정하게 유지ㆍ관리2. 정보시스템이 장애가 발생한 경우에는 정보화책임관에게 즉시 그 사실을 보고하고 장애복구 조치3. 개발 또는 운용하고 있는 프로그램의 업무분석서, 관리ㆍ운영지침서, 프로그램 설명서, 정보시스템의 구성도 등을 서면과 보조기억매체로 저장하여 보관ㆍ관리4. 이미 개발하였거나 보유중인 정보시스템 또는 프로그램이 지적재산권으로 보호되어야 할 필요가 있다고 인정되는 경우에는 「특허법」, 「저작권법」 등에 따라 등록ㆍ관리③ 제1항 제4호에 의해 지정받은 관리책임자는 중요 전산장비에 대하여 이력카드, 장비 규격서, 장비운영 지침서 등을 작성ㆍ비치하고 다음 각 호의 사항을 준수하여야 한다.1. 장비 및 인원의 출입통제를 포함한 전산실 관리 및 통제 업무2. 전산실관리 상태점검 및 관련설비의 유지 보수 업무3. 재난, 재해에 대비한 비상계획 수립 및 사전준비 활동 수행4. 전산실에 반입ㆍ반출된 장비에 대해서는 다음 사항을 기록하고 관리하여야 한다.가. 전산장비 반ㆍ출입 일시나. 반ㆍ출입 장비 항목다. 반ㆍ출입 담당자의 인적사항 및 연락처",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제21조",
+            "source_clause": "제21조제2항",
+            "link_text": "「특허법」",
+            "line_text": "",
+            "target_law_name": "특허법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/특허법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:조달청정보화업무처리규정#JO0021",
+            "reference_id": "law:특허법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제21조",
+            "source_clause": "제21조제2항",
+            "link_text": "「저작권법」",
+            "line_text": "",
+            "target_law_name": "저작권법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/저작권법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:조달청정보화업무처리규정#JO0021",
+            "reference_id": "law:저작권법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:조달청정보화업무처리규정#JO0021"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20151019",
+      "promulgation_no": "1716",
+      "content": "부칙 <제1716호,2015. 10. 19.>제1조 이 규정은 발령한 날로부터 시행한다.제2조 이 규정 시행과 동시에 「조달청 정보화업무 처리규정」(조달청 훈령 제1548호, 2012. 8. 23.)은 폐지한다."
+    },
+    {
+      "promulgation_date": "20170327",
+      "promulgation_no": "1779",
+      "content": "부칙 <제1779호,2017. 3. 27.>제1조 이 규정은 2017. 2. 28.부터 시행한다."
+    },
+    {
+      "promulgation_date": "20210805",
+      "promulgation_no": "2004",
+      "content": "부칙 <제2004호, 2021. 8. 5.>제1조(시행일) 이 규정은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20230721",
+      "promulgation_no": "2135",
+      "content": "부칙 <제2135호, 2023. 7. 21.>제1조(시행일) 이 규정은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20260227",
+      "promulgation_no": "2364",
+      "content": "부칙 <제2364호, 2026. 2. 27.>이 규정은 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "(개정전문)조달청 정보화업무 처리규정(조달청훈령 제2364호¸ 20260227).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=162488817",
+      "file_store_url": "",
+      "filename": "(개정전문)조달청 정보화업무 처리규정(조달청훈령 제2364호¸ 20260227).pdf"
+    },
+    {
+      "name": "(개정전문)조달청 정보화업무 처리규정(조달청훈령 제2364호¸ 20260227).hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=162488813",
+      "file_store_url": "",
+      "filename": "(개정전문)조달청 정보화업무 처리규정(조달청훈령 제2364호¸ 20260227).hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 13,
+    "by_category": {
+      "법령": 4,
+      "행정규칙": 9
+    },
+    "by_relation_type": {
+      "citation": 4,
+      "internal_ref": 9
+    },
+    "articles_total": 21,
+    "articles_with_relations": 7,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 5,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/조달청 정보화업무 처리규정"
+  },
+  "provision_id": "admrul:조달청정보화업무처리규정#DOC"
+}
