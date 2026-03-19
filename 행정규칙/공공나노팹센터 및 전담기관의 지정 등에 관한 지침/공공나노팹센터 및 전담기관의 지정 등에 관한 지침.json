@@ -1,0 +1,842 @@
+{
+  "law_id": "2100000276092",
+  "mst": "2100000276092",
+  "law_name": "공공나노팹센터 및 전담기관의 지정 등에 관한 지침",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000276092",
+  "promulgation_no": "2026-14",
+  "promulgation_date": "20260319",
+  "enforcement_date": "20260319",
+  "revision_date": "20260319",
+  "revision_type": "제정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "과학기술정보통신부(원천기술과)",
+    "담당자명": "조현우",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "공공나노팹센터 및 전담기관의 지정 등에 관한 지침",
+    "발령일자": "20260319",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200401",
+    "조문형식여부": "Y",
+    "소관부처명": "과학기술정보통신부",
+    "전화번호": "044-202-4545",
+    "제개정구분명": "제정",
+    "소관부처코드": "1721000",
+    "생성일자": "20260320",
+    "행정규칙ID": "96472",
+    "시행일자": "20260319",
+    "담당부서기관코드": "1725748",
+    "발령번호": "2026-14",
+    "행정규칙일련번호": "2100000276092",
+    "상위부처명": "과학기술정보통신부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제정 이유\n「나노기술개발촉진법」(법률 제20728호, 2025. 8. 1 시행) 제11조제2항과 제11조의2제3항 및 동법 시행령 제11조제1항과 제12조제2항에 따라, 공공나노팹센터 및 전담기관의 지정 요건, 지정 절차 및 관리 등에 관한 세부사항을 규정하기 위해 「공공나노팹센터 및 전담기관의 지정 등에 관한 지침」을 제정하고자 함.\n\n◇ 주요내용\n가. 공공나노팹센터와 전담기관 지정에 있어 목적, 지침의 적용범위, 정의 등(제1조~제3조)\n나. 공공나노팹센터와 전담기관 지정 관련 평가심의위원회 구성 및 운영(제4조~제8조)\n다. 공공나노팹센터 지정(제9조~제12조)\n라. 전담기관 지정(제13조~제16조)",
+  "body": {
+    "format": "articles",
+    "article_count": 17,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 지침은 나노기술개발촉진법 제11조제2항과 제11조의2제3항, 나노기술개발촉진법 시행령 제11조제1항과 제12조제2항에 따른 공공나노팹센터 및 전담기관의 지정 요건, 지정 절차 및 관리 등에 관한 세부사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "나노기술개발촉진법 제11조",
+            "line_text": "제1조(목적) 이 지침은 나노기술개발촉진법 제11조제2항과 제11조의2제3항, 나노기술개발촉진법 시행령 제11조제1항과 제12조제2항에 따른 공공나노팹센터 및 전담기관의 지정 요건, 지정 절차 및 관리 등에 관한 세부사항을 규정함을 목적으로 한다.",
+            "target_law_name": "나노기술개발촉진법",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/나노기술개발촉진법/제11조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0001",
+            "reference_id": "law:나노기술개발촉진법#JO0011"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「나노기술개발촉진법」 제11조의2",
+            "line_text": "제1조(목적) 이 지침은 나노기술개발촉진법 제11조제2항과 제11조의2제3항, 나노기술개발촉진법 시행령 제11조제1항과 제12조제2항에 따른 공공나노팹센터 및 전담기관의 지정 요건, 지정 절차 및 관리 등에 관한 세부사항을 규정함을 목적으로 한다.",
+            "target_law_name": "나노기술개발촉진법",
+            "target_article_no": "제11조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/나노기술개발촉진법/제11조의2",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0001",
+            "reference_id": "law:나노기술개발촉진법#JO0011_02"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "나노기술개발촉진법 시행령 제11조",
+            "line_text": "제1조(목적) 이 지침은 나노기술개발촉진법 제11조제2항과 제11조의2제3항, 나노기술개발촉진법 시행령 제11조제1항과 제12조제2항에 따른 공공나노팹센터 및 전담기관의 지정 요건, 지정 절차 및 관리 등에 관한 세부사항을 규정함을 목적으로 한다.",
+            "target_law_name": "나노기술개발촉진법 시행령",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/나노기술개발촉진법 시행령/제11조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0001",
+            "reference_id": "law:나노기술개발촉진법시행령#JO0011"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「나노기술개발촉진법 시행령」 제12조",
+            "line_text": "제1조(목적) 이 지침은 나노기술개발촉진법 제11조제2항과 제11조의2제3항, 나노기술개발촉진법 시행령 제11조제1항과 제12조제2항에 따른 공공나노팹센터 및 전담기관의 지정 요건, 지정 절차 및 관리 등에 관한 세부사항을 규정함을 목적으로 한다.",
+            "target_law_name": "나노기술개발촉진법 시행령",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/나노기술개발촉진법 시행령/제12조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0001",
+            "reference_id": "law:나노기술개발촉진법시행령#JO0012"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) 이 지침에서 사용하는 용어의 정의는 다음과 같다.1. \"공공나노팹센터\"라 함은 나노팹을 운영하는 기관 중 과학기술정보통신부장관이 「나노기술개발촉진법」(이하 \"법\"이라 한다) 제11조제2항 및 같은 법 시행령(이하 \"영\"이라 한다) 제11조제2항 각 호의 사업을 수행하도록 지정한 기관을 말한다.2. \"전담기관\"이라 함은 법 제11조의2제3항 및 영 제 12조제4항 각 호의 사업을 수행하도록 지정한 기관을 말한다.3. \"공공나노팹센터 신청기관\"이라 함은 공공나노팹센터로 지정받기 위해 이 지침 제10조에 따른 지정신청서와 제반 서류를 제출한 기관을 말한다.4. \"전담기관 신청기관\"이라 함은 전담기관으로 지정받기 위해 제14조에 따른 지정신청서와 제반 서류를 제출한 기관을 말한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제11조제2항",
+            "line_text": "",
+            "target_law_name": "나노기술개발촉진법",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/나노기술개발촉진법/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0002",
+            "reference_id": "law:나노기술개발촉진법#JO0011"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "나노기술개발촉진법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/나노기술개발촉진법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0002",
+            "reference_id": "law:나노기술개발촉진법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제11조제2항",
+            "line_text": "",
+            "target_law_name": "나노기술개발촉진법 시행령",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/나노기술개발촉진법 시행령/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0002",
+            "reference_id": "law:나노기술개발촉진법시행령#JO0011"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제11조의2제3항",
+            "line_text": "",
+            "target_law_name": "나노기술개발촉진법",
+            "target_article_no": "제11조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/나노기술개발촉진법/제11조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0002",
+            "reference_id": "law:나노기술개발촉진법#JO0011_02"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「나노기술개발촉진법」 제10조",
+            "line_text": "제2조(정의) 이 지침에서 사용하는 용어의 정의는 다음과 같다.1. \"공공나노팹센터\"라 함은 나노팹을 운영하는 기관 중 과학기술정보통신부장관이 「나노기술개발촉진법」(이하 \"법\"이라 한다) 제11조제2항 및 같은 법 시행령(이하 \"영\"이라 한다) 제11조제2항 각 호의 사업을 수행하도록 지정한 기관을 말한다.2. \"전담기관\"이라 함은 법 제11조의2제3항 및 영 제 12조제4항 각 호의 사업을 수행하도록 지정한 기관을 말한다.3. \"공공나노팹센터 신청기관\"이라 함은 공공나노팹센터로 지정받기 위해 이 지침 제10조에 따른 지정신청서와 제반 서류를 제출한 기관을 말한다.4. \"전담기관 신청기관\"이라 함은 전담기관으로 지정받기 위해 제14조에 따른 지정신청서와 제반 서류를 제출한 기관을 말한다.",
+            "target_law_name": "나노기술개발촉진법",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/나노기술개발촉진법/제10조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0002",
+            "reference_id": "law:나노기술개발촉진법#JO0010"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제14조",
+            "line_text": "제2조(정의) 이 지침에서 사용하는 용어의 정의는 다음과 같다.1. \"공공나노팹센터\"라 함은 나노팹을 운영하는 기관 중 과학기술정보통신부장관이 「나노기술개발촉진법」(이하 \"법\"이라 한다) 제11조제2항 및 같은 법 시행령(이하 \"영\"이라 한다) 제11조제2항 각 호의 사업을 수행하도록 지정한 기관을 말한다.2. \"전담기관\"이라 함은 법 제11조의2제3항 및 영 제 12조제4항 각 호의 사업을 수행하도록 지정한 기관을 말한다.3. \"공공나노팹센터 신청기관\"이라 함은 공공나노팹센터로 지정받기 위해 이 지침 제10조에 따른 지정신청서와 제반 서류를 제출한 기관을 말한다.4. \"전담기관 신청기관\"이라 함은 전담기관으로 지정받기 위해 제14조에 따른 지정신청서와 제반 서류를 제출한 기관을 말한다.",
+            "target_law_name": "공공나노팹센터 및 전담기관의 지정 등에 관한 지침",
+            "target_article_no": "제14조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/공공나노팹센터 및 전담기관의 지정 등에 관한 지침/제14조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0002",
+            "reference_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0014"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "적용범위",
+        "chapter": "",
+        "content": "제3조(적용범위) 공공나노팹센터 및 전담기관의 지정ㆍ관리ㆍ운영 및 평가 업무 등에 관한 제반사항 중 법령에서 따로 정한 것 이외에는 이 지침을 적용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "위원회의 구성",
+        "chapter": "",
+        "content": "제4조(위원회의 구성) ① 과학기술정보통신부장관은 공공나노팹센터 및 전담기관의 지정과 관리에 관한 업무를 효율적으로 수행하기 위하여 평가심의위원회(이하 \"위원회\"라 한다)를 둘 수 있다.② 위원회는 위원장 1명을 포함한 7인의 위원으로 구성한다.③ 위원장은 위원 중에서 호선한다.④ 위원은 관련 분야의 학식과 경험이 풍부한 사람과 관계 공무원 중에서 과학기술정보통신부장관이 위촉 또는 임명한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "위원회의 역할",
+        "chapter": "",
+        "content": "제5조(위원회의 역할) 위원회는 다음 각 호의 사항에 대하여 심의ㆍ의결한다.1. 공공나노팹센터 및 전담기관 지정에 관한 사항2. 공공나노팹센터 및 전담기관 지정 취소에 관한 사항3. 그 밖에 공공나노팹센터 및 전담기관 지정 및 관리ㆍ취소 등에 관하여 필요한 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "위원회의 운영",
+        "chapter": "",
+        "content": "제6조(위원회의 운영) ① 위원장은 제5조에 따른 사항의 심의ㆍ의결이 필요하다고 인정하는 경우 회의를 소집할 수 있다.② 위원장은 회의를 소집하려는 경우 회의 안건ㆍ일시ㆍ장소 등을 회의 개최 7일 전까지 위원에게 통지하여야 한다. 다만, 긴급 또는 부득이한 사유가 있는 경우에는 그러하지 아니하다.③ 위원회는 위원 과반수의 출석으로 개의하며, 출석한 위원 과반수의 찬성으로 의결한다.④ 위원회는 심의한 내용에 관하여 결과보고서를 작성하여 과학기술정보통신부장관에게 제출하여야 한다.⑤ 제2항부터 제4항까지의 사항 이외에 위원회의 구성 및 운영에 필요한 사항은 위원회의 의결을 거쳐 위원장이 정한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제5조",
+            "line_text": "제6조(위원회의 운영) ① 위원장은 제5조에 따른 사항의 심의ㆍ의결이 필요하다고 인정하는 경우 회의를 소집할 수 있다.② 위원장은 회의를 소집하려는 경우 회의 안건ㆍ일시ㆍ장소 등을 회의 개최 7일 전까지 위원에게 통지하여야 한다. 다만, 긴급 또는 부득이한 사유가 있는 경우에는 그러하지 아니하다.③ 위원회는 위원 과반수의 출석으로 개의하며, 출석한 위원 과반수의 찬성으로 의결한다.④ 위원회는 심의한 내용에 관하여 결과보고서를 작성하여 과학기술정보통신부장관에게 제출하여야 한다.⑤ 제2항부터 제4항까지의 사항 이외에 위원회의 구성 및 운영에 필요한 사항은 위원회의 의결을 거쳐 위원장이 정한다.",
+            "target_law_name": "공공나노팹센터 및 전담기관의 지정 등에 관한 지침",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/공공나노팹센터 및 전담기관의 지정 등에 관한 지침/제5조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0006",
+            "reference_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "간사",
+        "chapter": "",
+        "content": "제7조(간사) 위원회의 사무를 처리하기 위하여 위원회에 간사 1명을 두며, 과학기술정보통신부 소속 공무원 중에서 과학기술정보통신부장관이 임명한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "비밀 준수 의무",
+        "chapter": "",
+        "content": "제8조(비밀 준수 의무) 위원회 참여자는 업무를 수행함에 있어 알게 된 사항이나 비밀을 타인에게 누설하거나 직무상 목적 외로 사용하여서는 안 된다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "공공나노팹센터 신청공고",
+        "chapter": "",
+        "content": "제9조(공공나노팹센터 신청공고) 과학기술정보통신부장관은 공공나노팹센터 지정신청을 공고할 때 지정신청서 양식, 신청 절차, 접수 및 평가 관련 사항 등의 내용을 과학기술정보통신부 인터넷 홈페이지에 게시한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "공공나노팹센터 지정신청",
+        "chapter": "",
+        "content": "제10조(공공나노팹센터 지정신청) 공공나노팹센터 신청기관은 제9조의 공고에 따라 별지 제1호 서식의 지정신청서에 다음 각호의 서류를 첨부하여 과학기술정보통신부장관에게 제출하여야 한다.1. 정관 사본2. 평가수행을 위한 사업계획서(별지 제2호 서식)3. 상시로 고용된 전문인력 및 조직 등 적합성 평가 수행을 위한 업무 체계에 관한 설명자료 및 그 증빙자료 등 첨부자료(필요시)",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "제9조",
+            "line_text": "제10조(공공나노팹센터 지정신청) 공공나노팹센터 신청기관은 제9조의 공고에 따라 별지 제1호 서식의 지정신청서에 다음 각호의 서류를 첨부하여 과학기술정보통신부장관에게 제출하여야 한다.1. 정관 사본2. 평가수행을 위한 사업계획서(별지 제2호 서식)3. 상시로 고용된 전문인력 및 조직 등 적합성 평가 수행을 위한 업무 체계에 관한 설명자료 및 그 증빙자료 등 첨부자료(필요시)",
+            "target_law_name": "공공나노팹센터 및 전담기관의 지정 등에 관한 지침",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/공공나노팹센터 및 전담기관의 지정 등에 관한 지침/제9조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0010",
+            "reference_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "공공나노팹센터의 지정 등",
+        "chapter": "",
+        "content": "제11조(공공나노팹센터의 지정 등) ① 과학기술정보통신부장관은 별지 제1호 서식의 지정신청서 및 별지 제2호 서식의 사업계획서와 첨부서류(이하 \"지정신청서등\"이라 한다)를 제출한 기관 중 다음 각 호 및 별표1에 따른 기준에 적합한 기관을 대상으로 위원회의 심의ㆍ의결을 거쳐 공공나노팹센터로 지정할 수 있다.1. 사업 수행에 필요한 인력 및 업무수행체계를 갖추고 있을 것2. 나노기술 분야에 관한 전문적 연구 실적이 있을 것② 과학기술정보통신부장관은 제1항에 따라 제출된 서류의 검토를 위해 필요한 경우 공공나노팹센터 신청기관에 대해 현장 실사를 할 수 있다. 이 경우 현장 실사 7일 전까지 해당 신청기관에 그 사실을 서면으로 알려야 한다.③ 과학기술정보통신부장관은 공공나노팹센터를 지정한 경우에는 영 제11조제1항에 따라 고시한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제3항",
+            "link_text": "영",
+            "line_text": "",
+            "target_law_name": "나노기술개발촉진법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/나노기술개발촉진법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0011",
+            "reference_id": "law:나노기술개발촉진법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제3항",
+            "link_text": "제11조제1항",
+            "line_text": "",
+            "target_law_name": "나노기술개발촉진법 시행령",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/나노기술개발촉진법 시행령/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0011",
+            "reference_id": "law:나노기술개발촉진법시행령#JO0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "공공나노팹센터 운영실적 및 사업계획 평가",
+        "chapter": "",
+        "content": "제12조(공공나노팹센터 운영실적 및 사업계획 평가) ① 지정된 공공나노팹센터는 영 제11조제3항에 따라 전년도 운영실적과 해당 연도의 사업계획을 매년 1월 31일까지 과학기술정보통신부장관에게 보고하여야 한다.② 과학기술정보통신부장관은 영 제11조제4항에 따라 공공나노팹센터의 운영 실적을 매년 평가할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "영",
+            "line_text": "",
+            "target_law_name": "나노기술개발촉진법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/나노기술개발촉진법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0012",
+            "reference_id": "law:나노기술개발촉진법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "제11조제3항",
+            "line_text": "",
+            "target_law_name": "나노기술개발촉진법 시행령",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/나노기술개발촉진법 시행령/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0012",
+            "reference_id": "law:나노기술개발촉진법시행령#JO0011"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제2항",
+            "link_text": "영",
+            "line_text": "",
+            "target_law_name": "나노기술개발촉진법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/나노기술개발촉진법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0012",
+            "reference_id": "law:나노기술개발촉진법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제2항",
+            "link_text": "제11조제4항",
+            "line_text": "",
+            "target_law_name": "나노기술개발촉진법 시행령",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/나노기술개발촉진법 시행령/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0012",
+            "reference_id": "law:나노기술개발촉진법시행령#JO0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "전담기관 신청공고",
+        "chapter": "",
+        "content": "제13조(전담기관 신청공고) 과학기술정보통신부장관은 전담기관 지정신청을 공고할 때 지정신청서 양식, 신청 절차, 접수 및 평가 관련 사항 등의 내용을 과학기술정보통신부 인터넷 홈페이지에 게시한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "전담기관 지정신청",
+        "chapter": "",
+        "content": "제14조(전담기관 지정신청) 전담기관 신청기관은 제13조의 공고에 따라 별지 제3호 서식의 지정신청서에 다음 각호의 서류를 첨부하여 과학기술정보통신부장관에게 제출하여야 한다.1. 정관 사본2. 평가수행을 위한 사업계획서(별지 제4호 서식)3. 상시로 고용된 전문인력 및 조직 등 적합성 평가 수행을 위한 업무 체계에 관한 설명자료 및 그 증빙자료 등 첨부자료(필요시)",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제14조",
+            "source_clause": "제14조",
+            "link_text": "제13조",
+            "line_text": "제14조(전담기관 지정신청) 전담기관 신청기관은 제13조의 공고에 따라 별지 제3호 서식의 지정신청서에 다음 각호의 서류를 첨부하여 과학기술정보통신부장관에게 제출하여야 한다.1. 정관 사본2. 평가수행을 위한 사업계획서(별지 제4호 서식)3. 상시로 고용된 전문인력 및 조직 등 적합성 평가 수행을 위한 업무 체계에 관한 설명자료 및 그 증빙자료 등 첨부자료(필요시)",
+            "target_law_name": "공공나노팹센터 및 전담기관의 지정 등에 관한 지침",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/공공나노팹센터 및 전담기관의 지정 등에 관한 지침/제13조",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0014",
+            "reference_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0013"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "전담기관의 지정 등",
+        "chapter": "",
+        "content": "제15조(전담기관의 지정 등) ① 과학기술정보통신부장관은 별지 제3호 서식의 지정신청서 및 별지 제4호 서식의 사업계획서와 첨부서류(이하 \"지정신청서등\"이라 한다)를 제출한 기관 중 다음 각호 및 별표2에 따른 기준에 적합한 기관을 대상으로 위원회의 심의ㆍ의결을 거쳐 전담기관으로 지정할 수 있다.1. 사업 수행에 필요한 인력 및 업무수행체계를 갖추고 있을 것2. 나노팹 분야에 대한 전문성을 갖추고 있을 것② 과학기술정보통신부장관은 제1항에 따라 제출된 서류의 검토를 위해 필요한 경우 전담기관 신청기관에 대해 현장 실사를 할 수 있다. 이 경우 현장 실사 7일 전까지 해당 신청기관에 그 사실을 서면으로 알려야 한다.③ 과학기술정보통신부장관은 전담기관을 지정한 경우에는 이를 고시한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "전담기관 운영실적 및 사업계획 평가",
+        "chapter": "",
+        "content": "제16조(전담기관 운영실적 및 사업계획 평가) ①  지정된 전담기관은 영 제12조제5항에 따라 전년도 운영실적과 해당 연도의 사업계획을 매년 1월 31일까지 과학기술정보통신부장관에게 보고하여야 한다.② 과학기술정보통신부장관은 영 제12조제6항에 따라 전담기관의 운영 실적을 매년 평가할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제1항",
+            "link_text": "영",
+            "line_text": "",
+            "target_law_name": "나노기술개발촉진법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/나노기술개발촉진법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0016",
+            "reference_id": "law:나노기술개발촉진법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제1항",
+            "link_text": "제12조제5항",
+            "line_text": "",
+            "target_law_name": "나노기술개발촉진법 시행령",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/나노기술개발촉진법 시행령/제12조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0016",
+            "reference_id": "law:나노기술개발촉진법시행령#JO0012"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제2항",
+            "link_text": "영",
+            "line_text": "",
+            "target_law_name": "나노기술개발촉진법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/나노기술개발촉진법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0016",
+            "reference_id": "law:나노기술개발촉진법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제2항",
+            "link_text": "제12조제6항",
+            "line_text": "",
+            "target_law_name": "나노기술개발촉진법 시행령",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/나노기술개발촉진법 시행령/제12조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0016",
+            "reference_id": "law:나노기술개발촉진법시행령#JO0012"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제17조(재검토기한) 과학기술정보통신부장관은 이 고시에 대하여 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2026년 7월 1일 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제17조",
+            "source_clause": "제17조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0017",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#JO0017"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20260319",
+      "promulgation_no": "2026-14",
+      "content": "부칙 <제2026-14호, 2026. 3. 19.>제1조(시행일) 이 지침은 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "공공나노팹센터 지정 세부 평가항목",
+      "enforcement_date": "",
+      "content": "■ 공공나노팹센터 및 전담기관의 지정 등에 관한 지침 [별표 1]\n공공나노팹센터 지정 세부 평가항목\n┌──────────────┬──────────────────────────────────┐\n│평가사항                    │세부 평가항목                                                       │\n├──────────────┼──────────────────────────────────┤\n│ 1. 산업계·학계·연구계의  │ 1.1 공공나노팹 시설·장비, 지원체계 구축 현황                      │\n│나노팹 공동활용지원 역량    ├──────────────────────────────────┤\n│                            │ 1.2 장비 가동률 및 산·학·연 별 공동활용 지원 성과                │\n│                            ├──────────────────────────────────┤\n│                            │ 1.3 최근 3년 이용자 만족도                                         │\n│                            ├──────────────────────────────────┤\n│                            │ 1.4 향후 공동활용 지원 강화 계획                                   │\n├──────────────┼──────────────────────────────────┤\n│ 2. 나노기술 분야 전문인력의│ 2.1 교육과정 운영 체계 및 계획                                     │\n│양성 역량                   ├──────────────────────────────────┤\n│                            │ 2.2 교육생 규모, 수료율, 역량상승지표, 나노분야 잔류 현황 등 자료  │\n│                            ├──────────────────────────────────┤\n│                            │ 2.3 수료생의 교육만족도 및 활용기관의 수료생에 대한 만족도         │\n│                            ├──────────────────────────────────┤\n│                            │ 2.4 향후 전문인력 양성 강화 계획                                   │\n├──────────────┼──────────────────────────────────┤\n│ 3. 나노기술 분야 연구성과의│ 3.1 나노기술 관련 기업에 대한 기술지원 체계 및 성과                │\n│실용화 역량                 ├──────────────────────────────────┤\n│                            │ 3.2 나노기술 분야 산·학·연 간 기술이전 중계·지원 성과           │\n│                            ├──────────────────────────────────┤\n│                            │ 3.3 향후 연구성과 실용화 지원 강화 계획                            │\n├──────────────┼──────────────────────────────────┤\n│ 4. 나노기술 관련 기업의    │ 4.1 나노기술 분야 창업 지원 체계 및 성과                           │\n│창업 지원 역량              ├──────────────────────────────────┤\n│                            │ 4.2 향후 창업 기업 지원 강화 계획                                  │\n├──────────────┼──────────────────────────────────┤\n│ 5. 그 밖의 기타 사항       │ 5.1. 국내외 나노기술 분야 전문인력과의 교류·협력의 성과 및 계획   │\n│                            ├──────────────────────────────────┤\n│                            │ 5.2. 산업계·학계·연구계 간 나노기술 공동연구 지원의 성과 및 계획 │\n│                            ├──────────────────────────────────┤\n│                            │ 5.3. 나노기술 관련 기업 기술지원과 입주환경 조성의 성과 및 계획    │\n│                            ├──────────────────────────────────┤\n│                            │ 5.4. 나노기술의 육성·확산을 위한 기반 구축의 성과 및 계획         │\n└──────────────┴──────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000276092&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162621477",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162621473",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162621477",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#BYL0001",
+      "filename": "별표1_공공나노팹센터 지정 세부 평가항목.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "전담기관 지정 세부 평가항목",
+      "enforcement_date": "",
+      "content": "■ 공공나노팹센터 및 전담기관의 지정 등에 관한 지침 [별표 2]\n전담기관 지정 세부 평가항목\n┌───────────┬──────────────────────────────┐\n│평가사항              │세부 평가항목                                               │\n├───────────┼──────────────────────────────┤\n│ 1. 나노팹 운영기관 간│ 1.1 국내 나노팹 운영기관과 교류 및 협력 수준               │\n│연계ㆍ협력 지원       ├──────────────────────────────┤\n│                      │ 1.2 해외 나노팹 운영기관과 교류 및 협력 수준               │\n│                      ├──────────────────────────────┤\n│                      │ 1.3 국내외 나노팹 운영기관 간 교류ㆍ협력 강화 방안         │\n├───────────┼──────────────────────────────┤\n│ 2. 나노팹 통합정보   │ 2.1 통합정보시스템 운영 서비스 역량                        │\n│시스템의 운영         ├──────────────────────────────┤\n│                      │ 2.2 통합정보시스템 운영을 위한 인력 확보 현황              │\n│                      ├──────────────────────────────┤\n│                      │ 2.3 통합정보시스템 운영 개선을 위한 기술력 확보 현황       │\n│                      ├──────────────────────────────┤\n│                      │ 2.4 통합정보시스템 개선을 위한 기획 역량                   │\n├───────────┼──────────────────────────────┤\n│ 3. 나노팹 운영기관의 │ 3.1 국내 나노팹 운용기관에 대한 성과 측정 방안             │\n│성과 향상과           ├──────────────────────────────┤\n│성과 확산을 위한 지원 │ 3.2 국내 나노팹 운영기관 간 성과 공유 방안                 │\n│                      ├──────────────────────────────┤\n│                      │ 3.3 국내 나노팹 운영기관 성과 향상ㆍ확산 개선 역량         │\n├───────────┼──────────────────────────────┤\n│ 4. 나노팹 운영기관 간│ 4.1 나노팹 관련 시설ㆍ장비에 대한 이해도ㆍ전문성 수준      │\n│시설ㆍ장비 공동활용   ├──────────────────────────────┤\n│활성화를 위한 지원    │ 4.2 나노팹 관련 시설ㆍ장비 공동활용 확대를 위한 방안       │\n├───────────┼──────────────────────────────┤\n│ 5. 공공나노팹센터 간 │ 5.1 공공나노팹센터에 대한 거버넌스 정립 및 리더십 확보 전략│\n│기능 조정 및          ├──────────────────────────────┤\n│발전방향 설정         │ 5.2 공공나노팹센터 간 기능 조정 시스템ㆍ절차ㆍ운영 방안    │\n│                      ├──────────────────────────────┤\n│                      │ 5.3 공공나노팹센터 발전방향 기획 역량                      │\n├───────────┼──────────────────────────────┤\n│ 6. 공공나노팹센터의  │ 6.1 공공나노팹센터 연구개발지원 실적 관리 방안             │\n│연구개발 지원         ├──────────────────────────────┤\n│실적관리 및 안전관리  │ 6.2 공공나노팹센터 연구개발지원 안전 관리 방안             │\n├───────────┼──────────────────────────────┤\n│ 7. 그 밖에 나노팹의  │ 7.1 공공나노팹센터의 공동활용 수준 측정 방안               │\n│공동활용 촉진을       ├──────────────────────────────┤\n│위하여 필요한 업무    │ 7.2 공공나노팹센터 공동활용 수준 개선을 위한 전략          │\n└───────────┴──────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000276092&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162621483",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162621479",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162621483",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#BYL0002",
+      "filename": "별표2_전담기관 지정 세부 평가항목.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "공공나노팹센터 지정신청서",
+      "enforcement_date": "",
+      "content": "\n■ 공공나노팹센터 및 전담기관의 지정 등에 관한 지침 [별지 제1호서식]\n\n\n공공나노팹센터 지정신청서\n\n※ 바탕색이 어두운 칸은 신청인이 작성하지 않습니다.\n─────────────────┬──────────────┬────────────\n접수번호                        │접수일                      │처리기간\n─────────────────┴──────────────┴────────────\n\n────────┬──────┬─────────┬──────┬────────────\n신청인        │단체명(법인명)│                  │법인등록번호│\n├──────┼─────────┴──────┴────────────\n│대표자 성명 │\n├──────┼─────────┬──────┬────────────\n│전 화 번 호 │                  │팩 스 번 호 │\n├──────┼─────────┴──────┴────────────\n│주       소 │\n────────┴──────┴─────────────────────────────\n「나노기술개발촉진법」 제11조제2항 및 같은 법 시행령 제11조제1항에 따른 공공나노팹센\n터의 지정을 신청합니다.\n\n년      월      일\n\n신청인                    (서명 또는 인)\n\n과학기술정보통신부장관 귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n───────┬────────────────────────────────┬────\n신청인      │ 1. 정관사본                                                    │수수료\n제출서류    │ 2. 사업계획서(별지 제2호서식)                                  │없 음\n│ 3. 기타 첨부서류 (필요시, 추가설명 또는 증빙 등)               │\n───────┼────────────────────────────────┤\n담당 공무원 │  법인 등기사항증명서                                           │\n확인사항    │                                                                │\n───────┴────────────────────────────────┴────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n처리절차\n─────────────────────────────────────────────\n\n┌───────┐    ┌─────┐    ┌───┐    ┌───────┐    ┌───┐\n│신청서 작성   │  ?│접 수     │  ?│심 의 │  ?│평가 및 결정  │  ?│고 시 │\n│              ├─  │          ├─  │      ├─  │              ├─  │      │\n│              │    │          │    │      │    │              │    │      │\n└───────┘    └─────┘    └───┘    └───────┘    └───┘\n신청인                과학기술정보통신부\n\n\n─────────────────────────────────────────────\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162621489",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162621485",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162621489",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#BJ0001",
+      "filename": "별지1_공공나노팹센터 지정신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "공공나노팹센터 운영 사업계획서",
+      "enforcement_date": "",
+      "content": "■ 공공나노팹센터 및 전담기관의 지정 등에 관한 지침 [별지 제2호서식]\n┌───────────────┐\n│공공나노팹센터 운영 사업계획서│\n└───────────────┘\nⅠ. 일반현황\n1. 신청기관 일반현황\n┏━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━┯━━━┓\n┃구      분          │내    용                                    │비  고┃\n┠──────────┼──────────────────────┼───┨\n┃기  관  명          │                                            │      ┃\n┠──────────┼──────────────────────┼───┨\n┃사업자(법인)등록번호│                                            │      ┃\n┠──────────┼──────────────────────┼───┨\n┃대 표 자 명         │                                            │      ┃\n┠──────────┼──────────────────────┼───┨\n┃기 관 설 립 근 거   │                                            │      ┃\n┠──────────┼──────────────────────┼───┨\n┃기 관 형 태         │                                            │      ┃\n┠──────────┼──────────────────────┼───┨\n┃설 립 년 월 일      │                                            │      ┃\n┠──────────┼──────────────────────┼───┨\n┃재무 상태           │┌───┬─────┬────┬───┐    │      ┃\n┃(백만원)            ││구 분 │전전전년도│전전년도│전년도│    │      ┃\n┃                    │├───┼─────┼────┼───┤    │      ┃\n┃                    ││총자산│          │        │      │    │      ┃\n┃                    │├───┼─────┼────┼───┤    │      ┃\n┃                    ││자본  │          │        │      │    │      ┃\n┃                    │└───┴─────┴────┴───┘    │      ┃\n┠──────────┼──────────────────────┼───┨\n┃전 체 인 력         │                                            │상근  ┃\n┃(명)                │                                            │      ┃\n┠──────────┼──────────────────────┼───┨\n┃주 사업 분야1)      │                                            │      ┃\n┠──────────┼──────────────────────┼───┨\n┃나노팹분야 연구과제 │┌─────┬─────┬────┬───┐│      ┃\n┃등 사업 수행 규모   ││구 분     │전전전년도│전전년도│전년도││      ┃\n┃(백만원)            │├─────┼─────┼────┼───┤│      ┃\n┃                    ││건수      │          │        │      ││      ┃\n┃                    │├─────┼─────┼────┼───┤│      ┃\n┃                    ││규모(백만 │          │        │      ││      ┃\n┃                    ││원)       │          │        │      ││      ┃\n┃                    │└─────┴─────┴────┴───┘│      ┃\n┠──────────┼──────────────────────┼───┨\n┃나노팹분야          │                                            │      ┃\n┃주요 추진 성과      │                                            │      ┃\n┗━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━┷━━━┛\n1) 정관 또는 사업자 등록증 상 신청기관의 주 사업 분야를 기재\n2. 총괄책임자\n┏━━━━━┯━━━━┯━━━━┯━━━━━━━┓\n┃성      명│        │생년월일│              ┃\n┠─────┼┬──┬┴┬───┼───────┨\n┃부  서  명││직위│  │전화  │              ┃\n┠─────┼┴──┴─┴───┴───────┨\n┃해당분야  │ ? 2023.  .  . ∼  2023.  .  .   ┃\n┃경    력  │ ? 2020.  .  . ∼  2022.  .  .   ┃\n┃          │ ? 2019  .  . ∼  2020.  .  .    ┃\n┃          │ ? 2017.  .  . ∼  2019.  .  .   ┃\n┠─────┼──────────┬──────┨\n┃주요실적  │관 련 내 용         │수행기간    ┃\n┃및 업적   ├──────────┼──────┨\n┃          │ ?                 │            ┃\n┃          ├──────────┼──────┨\n┃          │ ?                 │            ┃\n┃          ├──────────┼──────┨\n┃          │ ?                 │            ┃\n┃          ├──────────┼──────┨\n┃          │ ?                 │            ┃\n┃          ├──────────┼──────┨\n┃          │ ?                 │            ┃\n┗━━━━━┷━━━━━━━━━━┷━━━━━━┛\n3. 조직 및 인력 현황\n가. 조직 및 인력 현황\n┏━━━━┯━━━━━━┯━━━━━━━┓\n┃부 서 명│담 당 업 무 │인 원 수 (명) ┃\n┠────┼──────┼───────┨\n┃        │            │              ┃\n┠────┼──────┼───────┨\n┃        │            │              ┃\n┠────┴──────┼───────┨\n┃합  계                │0             ┃\n┗━━━━━━━━━━━┷━━━━━━━┛\n\n나. 전문인력 보유 현황\n┏━━┯━━━━━━━━━━━━━┯━━━━━┯━━┯━━┓\n┃구분│가                        │나        │합계│기타┃\n┃    ├──┬──┬───┬───┼─────┤    │    ┃\n┃    │박사│석사│기술사│변호사│나노팹분야│    │    ┃\n┃    │    │    │      │      │5년 경력자│    │    ┃\n┠──┼──┼──┼───┼───┼─────┼──┼──┨\n┃인원│1   │1   │1     │      │3         │6   │    ┃\n┗━━┷━━┷━━┷━━━┷━━━┷━━━━━┷━━┷━━┛\n다. 전문인력 세부 현황 (최대 10명)\n┏━━┯━━━┯━━━━━━┯━━━━━┯━━━━━━━━━━┯━━━━┯━━┓\n┃번호│성명  │최종학력    │자격사항  │나노팹 및 유사      │총 경력 │비고┃\n┃    │      │/전공       │(취득년도)│분야 경력           │기간    │    ┃\n┠──┼───┼──────┼─────┼──────────┼────┼──┨\n┃1   │홍길동│석사/전산학 │기술사    │xx기업 ㅇㅇ업무(3년)│5년     │    ┃\n┃    │      │            │(2015)    │                    │        │    ┃\n┠──┼───┼──────┼─────┼──────────┼────┼──┨\n┃2   │      │            │          │                    │        │    ┃\n┠──┼───┼──────┼─────┼──────────┼────┼──┨\n┃3   │      │            │          │                    │        │    ┃\n┠──┼───┼──────┼─────┼──────────┼────┼──┨\n┃4   │      │            │          │                    │        │    ┃\n┗━━┷━━━┷━━━━━━┷━━━━━┷━━━━━━━━━━┷━━━━┷━━┛\nⅡ. 사업 추진 계획\n1. 사업 추진 개요 및 전략\n? 관련 내용을 개조식으로 기술 (문단위 8pt)\n- 상세 내용을 개조식으로 기술 (문단위 6pt)\n※ 참고 내용을 기술 (문단위 3pt)\n2. 산업계ㆍ학계ㆍ연구계 나노팹 공동활용의 지원 역량\n3. 나노기술 분야 전문인력의 양성 역량\n4. 나노기술 분야 연구성과의 실용화 역량\n5. 나노기술 관련 기업의 창업 지원 역량\n6. 그 밖의 기타 사항\nⅢ. 나노팹 관련 연구실적 및 성과 (자유양식)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162621499",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162621491",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162621499",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#BJ0002",
+      "filename": "별지2_공공나노팹센터 운영 사업계획서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "공공나노팹센터 전담기관 지정신청서",
+      "enforcement_date": "",
+      "content": "\n■ 공공나노팹센터 및 전담기관의 지정 등에 관한 지침 [별지 제3호서식]\n\n\n공공나노팹센터 전담기관 지정신청서\n\n※ 바탕색이 어두운 칸은 신청인이 작성하지 않습니다.\n─────────────────┬──────────────┬────────────\n접수번호                        │접수일                      │처리기간\n─────────────────┴──────────────┴────────────\n\n────────┬──────┬─────────┬──────┬────────────\n신청인        │단체명(법인명)│                  │법인등록번호│\n├──────┼─────────┴──────┴────────────\n│대표자 성명 │\n├──────┼─────────┬──────┬────────────\n│전 화 번 호 │                  │팩 스 번 호 │\n├──────┼─────────┴──────┴────────────\n│주       소 │\n────────┴──────┴─────────────────────────────\n「나노기술개발촉진법」제11조의2제3항 및 같은 법 시행령 제12조제2항에 따른 공공나노팹센\n터 전담기관의 지정을 신청합니다.\n\n년      월      일\n\n신청인                    (서명 또는 인)\n\n과학기술정보통신부장관 귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n───────┬────────────────────────────────┬────\n신청인      │ 1. 정관사본                                                    │수수료\n제출서류    │ 2. 사업계획서(별지 제4호서식)                                  │없 음\n│ 3. 기타 첨부서류 (필요시, 추가설명 또는 증빙 등)               │\n───────┼────────────────────────────────┤\n담당 공무원 │  법인 등기사항증명서                                           │\n확인사항    │                                                                │\n───────┴────────────────────────────────┴────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n처리절차\n─────────────────────────────────────────────\n\n┌───────┐    ┌─────┐    ┌───┐    ┌───────┐    ┌───┐\n│신청서 작성   │  ?│접 수     │  ?│심 의 │  ?│평가 및 결정  │  ?│고 시 │\n│              ├─  │          ├─  │      ├─  │              ├─  │      │\n│              │    │          │    │      │    │              │    │      │\n└───────┘    └─────┘    └───┘    └───────┘    └───┘\n신청인                과학기술정보통신부\n\n\n─────────────────────────────────────────────\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162621505",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162621501",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162621505",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#BJ0003",
+      "filename": "별지3_공공나노팹센터 전담기관 지정신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "공공나노팹센터 전담기관 운영 사업계획서",
+      "enforcement_date": "",
+      "content": "■ 공공나노팹센터 및 전담기관의 지정 등에 관한 지침 [별지 제4호서식]\n┌────────────────────┐\n│공공나노팹센터 전담기관 운영 사업계획서 │\n└────────────────────┘\nⅠ. 일반현황\n1. 신청기관 일반현황\n┏━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━┯━━━┓\n┃구      분          │내    용                                    │비  고┃\n┠──────────┼──────────────────────┼───┨\n┃기  관  명          │                                            │      ┃\n┠──────────┼──────────────────────┼───┨\n┃사업자(법인)등록번호│                                            │      ┃\n┠──────────┼──────────────────────┼───┨\n┃대 표 자 명         │                                            │      ┃\n┠──────────┼──────────────────────┼───┨\n┃기 관 설 립 근 거   │                                            │      ┃\n┠──────────┼──────────────────────┼───┨\n┃기 관 형 태         │                                            │      ┃\n┠──────────┼──────────────────────┼───┨\n┃설 립 년 월 일      │                                            │      ┃\n┠──────────┼──────────────────────┼───┨\n┃재무 상태           │┌───┬─────┬────┬───┐    │      ┃\n┃(백만원)            ││구 분 │전전전년도│전전년도│전년도│    │      ┃\n┃                    │├───┼─────┼────┼───┤    │      ┃\n┃                    ││총자산│          │        │      │    │      ┃\n┃                    │├───┼─────┼────┼───┤    │      ┃\n┃                    ││자본  │          │        │      │    │      ┃\n┃                    │└───┴─────┴────┴───┘    │      ┃\n┠──────────┼──────────────────────┼───┨\n┃전 체 인 력         │                                            │상근  ┃\n┃(명)                │                                            │      ┃\n┠──────────┼──────────────────────┼───┨\n┃주 사업 분야1)      │                                            │      ┃\n┠──────────┼──────────────────────┼───┨\n┃나노팹분야 연구과제 │┌─────┬─────┬────┬───┐│      ┃\n┃등 사업 수행 규모   ││구 분     │전전전년도│전전년도│전년도││      ┃\n┃(백만원)            │├─────┼─────┼────┼───┤│      ┃\n┃                    ││건수      │          │        │      ││      ┃\n┃                    │├─────┼─────┼────┼───┤│      ┃\n┃                    ││규모(백만 │          │        │      ││      ┃\n┃                    ││원)       │          │        │      ││      ┃\n┃                    │└─────┴─────┴────┴───┘│      ┃\n┠──────────┼──────────────────────┼───┨\n┃나노팹분야          │                                            │      ┃\n┃주요 추진 성과      │                                            │      ┃\n┗━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━┷━━━┛\n1) 정관 또는 사업자 등록증 상 신청기관의 주 사업 분야를 기재\n2. 총괄책임자\n┏━━━━━┯━━━━┯━━━━┯━━━━━━━┓\n┃성      명│        │생년월일│              ┃\n┠─────┼┬──┬┴┬───┼───────┨\n┃부  서  명││직위│  │전화  │              ┃\n┠─────┼┴──┴─┴───┴───────┨\n┃해당분야  │ ? 2023.  .  . ∼  2023.  .  .   ┃\n┃경    력  │ ? 2020.  .  . ∼  2022.  .  .   ┃\n┃          │ ? 2019.  .  . ∼  2020.  .  .   ┃\n┃          │ ? 2017.  .  . ∼  2019.  .  .   ┃\n┠─────┼──────────┬──────┨\n┃주요실적  │관 련 내 용         │수행기간    ┃\n┃및 업적   ├──────────┼──────┨\n┃          │ ?                 │            ┃\n┃          ├──────────┼──────┨\n┃          │ ?                 │            ┃\n┃          ├──────────┼──────┨\n┃          │ ?                 │            ┃\n┃          ├──────────┼──────┨\n┃          │ ?                 │            ┃\n┃          ├──────────┼──────┨\n┃          │ ?                 │            ┃\n┗━━━━━┷━━━━━━━━━━┷━━━━━━┛\n3. 조직 및 인력 현황\n가. 조직 및 인력 현황\n┏━━━━┯━━━━━━┯━━━━━━━┓\n┃부 서 명│담 당 업 무 │인 원 수 (명) ┃\n┠────┼──────┼───────┨\n┃        │            │              ┃\n┠────┼──────┼───────┨\n┃        │            │              ┃\n┠────┴──────┼───────┨\n┃합  계                │0             ┃\n┗━━━━━━━━━━━┷━━━━━━━┛\n\n나. 전문인력 보유 현황\n┏━━┯━━━━━━━━━━━━━┯━━━━━┯━━┯━━┓\n┃구분│가                        │나        │합계│기타┃\n┃    ├──┬──┬───┬───┼─────┤    │    ┃\n┃    │박사│석사│기술사│변호사│나노팹분야│    │    ┃\n┃    │    │    │      │      │5년 경력자│    │    ┃\n┠──┼──┼──┼───┼───┼─────┼──┼──┨\n┃인원│1   │1   │1     │      │3         │6   │    ┃\n┗━━┷━━┷━━┷━━━┷━━━┷━━━━━┷━━┷━━┛\n다. 전문인력 세부 현황 (최대 10명)\n┏━━┯━━━┯━━━━━━┯━━━━━┯━━━━━━━━━━┯━━━━┯━━┓\n┃번호│성명  │최종학력    │자격사항  │나노팹 및 유사      │총 경력 │비고┃\n┃    │      │/전공       │(취득년도)│분야 경력           │기간    │    ┃\n┠──┼───┼──────┼─────┼──────────┼────┼──┨\n┃1   │홍길동│석사/전산학 │기술사    │xx기업 ㅇㅇ업무(3년)│5년     │    ┃\n┃    │      │            │(2015)    │                    │        │    ┃\n┠──┼───┼──────┼─────┼──────────┼────┼──┨\n┃2   │      │            │          │                    │        │    ┃\n┠──┼───┼──────┼─────┼──────────┼────┼──┨\n┃3   │      │            │          │                    │        │    ┃\n┠──┼───┼──────┼─────┼──────────┼────┼──┨\n┃4   │      │            │          │                    │        │    ┃\n┗━━┷━━━┷━━━━━━┷━━━━━┷━━━━━━━━━━┷━━━━┷━━┛\nⅡ. 사업 추진 계획\n1. 사업 추진 개요 및 전략\n? 관련 내용을 개조식으로 기술 (문단위 8pt)\n- 상세 내용을 개조식으로 기술 (문단위 6pt)\n※ 참고 내용을 기술 (문단위 3pt)\n2. 나노팹 운영기관 간 연계ㆍ협력 지원 방안\n3. 나노팹 통합정보시스템의 운영 방안\n4. 나노팹 운영기관의 성과 향상 및 성과 확산을 위한 지원 방안\n5. 나노팹 운영기관 간 시설ㆍ장비 공동활용 활성화를 위한 지원 방안\n6. 공공나노팹센터 간 기능 조정 및 발전지원 방안\n7. 공공나노팹센터의 연구개발 지원 실적 관리 및 안전관리 방안\n8. 기타 추진방향 제안\nⅢ. 나노팹 관련 연구실적 및 성과 (자유양식)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162621515",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162621507",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162621515",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#BJ0004",
+      "filename": "별지4_공공나노팹센터 전담기관 운영 사업계획서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "(과학기술정보통신부 고시 제2026-14호) 「공공나노팹센터 및 전담기관의 지정 등에 관한 지침」.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=162620981",
+      "file_store_url": "",
+      "filename": "(과학기술정보통신부 고시 제2026-14호) 「공공나노팹센터 및 전담기관의 지정 등에 관한 지침」.hwpx"
+    },
+    {
+      "name": "(과학기술정보통신부 고시 제2026-14호) 「공공나노팹센터 및 전담기관의 지정 등에 관한 지침」.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=162620985",
+      "file_store_url": "",
+      "filename": "(과학기술정보통신부 고시 제2026-14호) 「공공나노팹센터 및 전담기관의 지정 등에 관한 지침」.pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 24,
+    "by_category": {
+      "법령": 19,
+      "행정규칙": 5
+    },
+    "by_relation_type": {
+      "citation": 20,
+      "internal_ref": 4
+    },
+    "articles_total": 17,
+    "articles_with_relations": 9,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 6,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/공공나노팹센터 및 전담기관의 지정 등에 관한 지침"
+  },
+  "provision_id": "admrul:공공나노팹센터및전담기관의지정등에관한지침#DOC"
+}
