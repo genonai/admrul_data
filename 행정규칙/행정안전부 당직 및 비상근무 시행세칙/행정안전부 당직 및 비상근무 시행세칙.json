@@ -1,0 +1,722 @@
+{
+  "law_id": "2100000277046",
+  "mst": "2100000277046",
+  "law_name": "행정안전부 당직 및 비상근무 시행세칙",
+  "law_abbr": "",
+  "law_type": "훈령",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000277046",
+  "promulgation_no": "433",
+  "promulgation_date": "20260403",
+  "enforcement_date": "20260403",
+  "revision_date": "20260403",
+  "revision_type": "전부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "행정안전부(운영지원과)",
+    "담당자명": "정주찬",
+    "행정규칙종류코드": "B0001",
+    "행정규칙명": "행정안전부 당직 및 비상근무 시행세칙",
+    "발령일자": "20260403",
+    "행정규칙종류": "훈령",
+    "제개정구분코드": "200402",
+    "조문형식여부": "Y",
+    "소관부처명": "행정안전부",
+    "전화번호": "044-205-1263",
+    "제개정구분명": "전부개정",
+    "소관부처코드": "1741000",
+    "생성일자": "20260429",
+    "행정규칙ID": "29543",
+    "시행일자": "20260403",
+    "담당부서기관코드": "1741000",
+    "발령번호": "433",
+    "행정규칙일련번호": "2100000277046",
+    "상위부처명": "행정안전부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n○ 본부와 소속기관의 당직 및 비상근무 기준을 일원화하고, 재택당직 등 변화된 환경에 맞는 근거 마련 등을 위해 시행세칙을 개정하고자 함.\n◇ 주요내용\n가. 적용범위 확대 및 소속기관에 자율성 부여\n○ (적용범위 확대) 기존 ‘행정안전부 본부’ → 변경 ‘본부 및 소속기관’\n○ (위임규정 신설) 소속기관이 기능 및 실정을 고려, 당직 근무 실시 여부 및 당직근무의 편성 방법 등 세부 운영 사항을 따로 정할 수 있도록 함\n나. 재택당직 근거 및 운영기준 마련\n○ (근거 마련) 당직의 범위에 재택당직을 포함\n○ (운영기준 명문화) 재택 전환 전 1시간 사무실 대기, 비상연락체계 유지, 긴급사태 시 정해진 시간 내 응소 의무 등을 규정\n다. 당직근무자 임무 등 상위법령 준수 및 체계 정비\n○ (당직근무자 임무 등) 일반과 긴급사태 시로 이원화하고, 종전 본부 당직근무자의 시ㆍ도 당직 상황 확인 의무 삭제하는 등 법령간 정합성 확보\n○ (당직 면제 등 편성기준) 신규 임용 및 전입자 배려*, 모성 보호 강화(임신 중이거나 출산 후 1년 미만) 등을 명문화\n* 신규임용자: (기존 7일 → 변경 6개월), 전입자: (기존 7일 → 변경 1개월) 당직 유예\n라. 비상근무 편성 및 운영체계 정비\n○ (비상근무의 종류와 기준)「국가공무원 복무규칙」에 맞춰 재정비\n○ (지휘체계 단순화) 비상근무 제1호~제3호 발령 시 기존의 ‘당직 보강’방식에서 ‘당직 중지’ 방식으로 전환하여 비상근무 지휘계통 일원화",
+  "body": {
+    "format": "articles",
+    "article_count": 22,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조(목적) 이 시행세칙은 「국가공무원 복무규정」제5조,「국가공무원 복무규칙」제3장제2절에 따라 행정안전부의 당직 및 비상근무에 관한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「국가공무원 복무규정」",
+            "line_text": "",
+            "target_law_name": "국가공무원 복무규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가공무원 복무규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0001",
+            "reference_id": "law:국가공무원복무규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제5조",
+            "line_text": "",
+            "target_law_name": "국가공무원 복무규정",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가공무원 복무규정/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0001",
+            "reference_id": "law:국가공무원복무규정#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「국가공무원 복무규칙」",
+            "line_text": "",
+            "target_law_name": "국가공무원 복무규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가공무원 복무규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0001",
+            "reference_id": "law:국가공무원복무규칙#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적용범위",
+        "chapter": "제1장 총칙",
+        "content": "제2조(적용범위) 이 시행세칙의 적용 대상 기관은 행정안전부 본부(이하 \"본부\"라 한다)와 그 소속기관으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "업무관장",
+        "chapter": "제1장 총칙",
+        "content": "제3조(업무관장) ① 본부의 당직 및 비상근무 업무는 행정안전부장관(이하 \"장관\"이라 한다)의 지휘를 받아 본부의 복무 사무를 담당하는 부서의 장(이하 \"본부 당직 주관 부서의 장\"이라 한다)이 관장한다.② 소속기관의 당직 및 비상근무 업무는 해당 소속기관의 장이 관장한다. 이 경우 소속기관의 장은 당직 업무를 총괄하는 부서의 장(이하 \"소속기관 당직 주무 부서의 장\"이라 한다)으로 하여금 그 실무를 수행하게 할 수 있다.③ 제1항 및 제2항에 따른 본부 당직 주관 부서의 장과 소속기관 당직 주무 부서의 장을 이 시행세칙에서 \"당직 부서장\"이라 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "다른 규정과의 관계",
+        "chapter": "제1장 총칙",
+        "content": "제4조(다른 규정과의 관계) 이 시행세칙에서 정한 사항 외에는 다음 각 호의 관련 규칙 및 지침에 따른다.1. 「국가공무원 복무규칙」2. 「국가공무원 복무ㆍ징계 관련 예규」",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「국가공무원 복무규칙」",
+            "line_text": "",
+            "target_law_name": "국가공무원 복무규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가공무원 복무규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0004",
+            "reference_id": "law:국가공무원복무규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「국가공무원 복무ㆍ징계 관련 예규」",
+            "line_text": "",
+            "target_law_name": "국가공무원 복무ㆍ징계 관련 예규",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국가공무원 복무ㆍ징계 관련 예규",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0004",
+            "reference_id": "admrul:국가공무원복무징계관련예규#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "당직의 구분",
+        "chapter": "제2장 당직근무",
+        "content": "제5조(당직의 구분) ① 당직(재택당직을 포함한다. 이하 같다)은 일직과 숙직으로 구분한다.② 일직은 토요일과 공휴일에 두며, 그 근무시간은 정상근무일의 근무시간에 준한다.③ 숙직근무시간은 정상근무시간 또는 일직근무시간이 끝난 때부터 다음 날의 정상근무 또는 일직근무가 시작될 때까지로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "당직실 위치 및 구역",
+        "chapter": "제2장 당직근무",
+        "content": "제6조(당직실 위치 및 구역) ① 각급 기관의 장은 청사 내 당직업무를 수행하기 적합한 위치에 당직실을 설치ㆍ운영해야 한다. 다만, 재택당직근무를 실시하거나 당직근무를 하지 않는 경우에는 당직실을 설치하지 않을 수 있다.② 당직구역은 각급 기관이 사용하는 모든 사무실과 부대시설로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "당직편성ㆍ운영",
+        "chapter": "제2장 당직근무",
+        "content": "제7조(당직편성ㆍ운영) ① 본부의 당직근무자는 5급 이하  공무원 1명 이상으로 한다.② 본부 당직 주관 부서의 장은 연말연시, 연휴, 비상근무 등 당직기능을 보강할 필요가 있는 경우에는 행정안전부차관의 승인을 받아 당직인원을 증원하거나 직급을 상향 조정하여 운영할 수 있다.③ 본부 당직 주관 부서의 장은 설날ㆍ추석 등 명절 또는 연휴 기간의 당직근무자를 편성하는 경우에는 복무ㆍ보안점검 결과 지적된 사람을 우선적으로 편성할 수 있다.④ 소속기관의 장은 해당 기관의 기능 및 실정을 고려하여 제1항부터 제3항까지의 규정을 준용하여 당직근무자를 편성ㆍ운영할 수 있다.⑤ 소속기관의 장은 당직근무 실시 여부 또는 당직근무의 편성 방법이 변경된 경우에는 본부 당직 주관 부서의 장에게 그 내용을 지체 없이 통보해야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0007"
+      },
+      {
+        "article_no": "제7조의2",
+        "article_title": "재택당직",
+        "chapter": "제2장 당직근무",
+        "content": "제7조의2(재택당직) ① 각급 기관의 장은 「국가공무원 복무규칙」 제21조제5항에 따른 보완대책을 마련한 경우에는 당직근무자로 하여금 재택당직근무를 하게 할 수 있다.② 재택당직근무는 정상근무시간이 끝난 때부터 1시간 동안 당직실에서 대기근무를 한 후 재택당직근무로 전환한다. 다만, 토요일과 공휴일에는 당직실 대기근무를 면제할 수 있다.③ 재택당직근무자는 근무시간 중 비상연락체계를 항상 유지해야 하며, 전화민원 응대 및 업무 연락에 대하여 필요한 조치를 해야 한다.④ 재택당직근무자는 긴급한 사태 발생 통보를 받았을 때에는 당직 부서장이 정하는 시간 이내에 제6조에 따른 당직실에 도착하여 필요한 조치를 해야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조의2",
+            "source_clause": "제7조의2제1항",
+            "link_text": "「국가공무원 복무규칙」",
+            "line_text": "",
+            "target_law_name": "국가공무원 복무규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가공무원 복무규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0007_02",
+            "reference_id": "law:국가공무원복무규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조의2",
+            "source_clause": "제7조의2제1항",
+            "link_text": "제21조제5항",
+            "line_text": "",
+            "target_law_name": "국가공무원 복무규칙",
+            "target_article_no": "제21조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가공무원 복무규칙/제21조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0007_02",
+            "reference_id": "law:국가공무원복무규칙#JO0021"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제7조의2",
+            "source_clause": "제7조의2제4항",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "행정안전부 당직 및 비상근무 시행세칙",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/행정안전부 당직 및 비상근무 시행세칙/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0007_02",
+            "reference_id": "admrul:행정안전부당직및비상근무시행세칙#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0007_02"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "당직근무 면제 및 당직변경",
+        "chapter": "제2장 당직근무",
+        "content": "제8조(당직근무 면제 및 당직변경) ① 당직 부서장은 다음 각 호의 어느 하나에 해당하는 사유가 있는 경우에는 그 기간 중 당직근무를 면제하거나 유예할 수 있다.1. 신규임용된 날로부터 6개월 또는 전입한 날부터 1개월이 지나지 않은 경우2. 출장 중인 경우(출장 전날부터 귀청하는 날까지를 말한다)3. 휴가(연가, 병가, 공가 포함) 또는 그 밖의 부득이한 사유로 출근하지 못하는 기간4. 임신 중이거나 출산한 날부터 1년이 지나지 않은 경우5. 그 밖에 당직 부서장이 필요하다고 인정하는 경우② 당직근무 명령을 받은 사람이 제1항제2호 또는 제3호에 해당하거나 그 밖의 사유로 당직근무를 할 수 없는 경우에는 당직근무 전날까지 전화 등으로 당직근무 변경을 당직 부서장에게 신청하고 승인을 받아야 한다. 이 경우 담당자와 전화 등으로 협의하여 확인을 받은 경우에는 당직 부서장의 승인을 받은 것으로 본다.③ 제2항에 따른 당직근무 변경을 전자인사관리시스템(이하 \"e사람\"이라 한다)으로 신청한 경우에는 당직 부서장의 승인을 받은 것으로 본다.④ 소속기관의 장은 해당 기관의 기능 및 실정에 따라 당직근무 면제 및 변경에 관한 세부 사항을 따로 정하여 운영할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "당직신고 및 인계ㆍ인수",
+        "chapter": "제2장 당직근무",
+        "content": "제9조(당직신고 및 인계ㆍ인수) ① 당직근무명령을 받은 사람은 당직근무 시작 30분 전까지 당직 부서장에게 당직신고를 해야 한다. 다만, 토요일과 공휴일에는 그 직전의 정상근무일에 당직신고를 해야 한다.② 당직근무자는 제1항에 따른 당직신고를 하기 전에 당직 부서로부터 당직근무일지(온나라 당직관리시스템 당직근무일지를 포함한다)와 그 밖에 필요한 당직용 비품을 인계받아 확인해야 하고, 당직근무를 마친 때에는 당직 부서에 인계해야 한다.③ 당직 종료일이 토요일과 공휴일인 경우에는 일직근무자와 숙직근무자 상호간에 인수ㆍ인계한다. 다만, 재택당직근무자는 당직근무를 하기 전 정상근무일에 당직 부서로부터 당직용 비품을 인계받고, 전화 등으로 당직근무사항을 당직근무자간 인계ㆍ인수해야 하며, 당직 근무를 마치고 난 다음 정상근무일에 당직 부서에 비품을 인계한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0009"
+      },
+      {
+        "article_no": "제9조의2",
+        "article_title": "당직근무자의 임무 등",
+        "chapter": "제2장 당직근무",
+        "content": "제9조의2(당직근무자의 임무 등) ① 당직근무자는 모든 사고의 발생을 미리 방지하기 위하여 다음 각 호의 일반 임무를 성실히 수행해야 한다. 다만, 당직 부서장은 해당 기관의 기능 및 실정에 따라 임무의 내용을 조정할 수 있다.1. 방범ㆍ방호ㆍ방화 및 그 밖의 보안상태의 순찰ㆍ점검. 다만, 각급 기관의 장이 필요하다고 인정하는 경우에만 상시적으로 실시한다.2. 경비원이나 그 밖에 정상근무시간 외의 근무자에 대한 복무상태의 점검3. 문서의 접수ㆍ발송ㆍ인계 또는 관리4. 전화민원의 응대(인공지능 등 정보통신기술을 이용한 전화민원 시스템을 활용한 응대를 포함한다)5. 안보팩스 송수신 및 비상근무 발령 시 소속 공무원 비상소집 등의 조치② 당직근무자는 화재, 외부 침입 등 긴급사태가 발생한 경우 지체 없이 다음 각 호의 임무를 수행해야 한다.1. 화재 발생 시: 관할 소방관서에 연락, 청사내의 화재 경보 및 자체 소화시설을 이용한 진화작업2. 외부 침입 시: 관할 경찰서에 연락, 무기고 등 중요시설의 경비강화③ 당직근무자는 제2항의 경우와 그 밖의 긴급한 사태가 발생한 경우에는 그 상황에 따라 각급 기관의 장이나 상급기관의 당직근무자, 당직총사령에게 지체 없이 이를 보고하고, 그의 지시를 받아 필요한 조치를 해야 한다. 다만, 특히 긴급한 조치가 필요하여 지시를 기다릴 시간적 여유가 없는 때에는 긴급사태 발생 보고와 함께 필요한 조치를 한 후 지체 없이 그 경과를 보고해야 한다.④ 당직근무자는 당직 부서장이 당직실(당직실을 설치운영하지 않는 경우에는 \"당직 부서\"를 말한다)에 갖추어 두는 당직근무자의 긴급사태시 행동요령을 숙지해야 한다.⑤ 본부 당직근무자는 소속기관의 당직상황을 수시로 확인하여야 하며, 특이 상황이 발생했을 때에는 본부 당직 주관 부서의 장에게 지체 없이 보고하고 지시를 받아 처리해야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0009_02"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "당직일지",
+        "chapter": "제2장 당직근무",
+        "content": "제10조(당직일지) 당직근무자는 당직근무상황을 당직근무일지(별지 제1호서식)에 작성하여 제출해야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "행정안전부 당직 및 비상근무 시행세칙",
+            "target_article_no": "별지1",
+            "target_article_title": "당직근무일지",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163184289",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0010",
+            "reference_id": "admrul:행정안전부당직및비상근무시행세칙#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "당직근무자의 준수사항",
+        "chapter": "제2장 당직근무",
+        "content": "제11조(당직근무자의 준수사항) 당직근무자는 근무상의 공무가 아닌 용무로 근무구역(재택당직근무처를 포함한다)을 이탈해서는 안 되며, 당직자로서의 품위를 손상하거나 당직근무에 지장이 있는 행위를 해서는 안 된다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "당직근무 태만자 등에 대한 조치",
+        "chapter": "제2장 당직근무",
+        "content": "제12조(당직근무 태만자 등에 대한 조치) 당직점검 또는 감사를 실시한 자는 당직근무자가 당직근무와 관련하여「국가공무원 복무규칙」을 위반한 사항을 발견한 때에는 당직 부서장에게 보고해야 하며, 보고를 받은 당직 부서장은 각급 기관의 장에게 그 사실을 통지하고 해당 위반사항과 관련된 공무원 등에 대하여 징계의결 요구 또는 그 밖의 조치를 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조",
+            "link_text": "「국가공무원 복무규칙」",
+            "line_text": "",
+            "target_law_name": "국가공무원 복무규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가공무원 복무규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0012",
+            "reference_id": "law:국가공무원복무규칙#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "보안점검 및 순찰",
+        "chapter": "제2장 당직근무",
+        "content": "제13조(보안점검 및 순찰) ① 본부 및 그 소속기관의 각 부서의 장은 보안점검을 효율적으로 수행하기 위하여 사무실별로 e사람의 보안점검 기능을 이용하거나 보안점검표(별지 제2호서식)를 갖추어 두어야 한다.② 본부 및 그 소속기관의 각 부서의 장은 소관 사무실의 최종퇴청자가 방화 및 보안상태를 순찰ㆍ점검하고 e사람에 등록하거나 보안점검표(별지 제2호서식)를 제출한 후 퇴청하도록 해야 한다.③ 당직근무자는 층별로 2개 내지 3개 부서를 임의로 선정하여 보안점검을 실시해야 한다.④ 당직근무자는 일직 2회(11:00, 15:00,) 숙직 2회(22:00, 04:00) 당직구역을 순찰하고 방화ㆍ방호 상태 등을 점검해야 한다.⑤ 각급 기관의 장은 재택당직을 실시하는 경우 해당 기관의 기능 및 실정에 따라 제3항 및 제4항에 따른 점검 및 순찰 사항을 조정할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제1항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "행정안전부 당직 및 비상근무 시행세칙",
+            "target_article_no": "별지2",
+            "target_article_title": "보안점검표",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163184295",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0013",
+            "reference_id": "admrul:행정안전부당직및비상근무시행세칙#BJ0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제2항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "행정안전부 당직 및 비상근무 시행세칙",
+            "target_article_no": "별지2",
+            "target_article_title": "보안점검표",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163184295",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0013",
+            "reference_id": "admrul:행정안전부당직및비상근무시행세칙#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "당직임무 등의 게시",
+        "chapter": "제2장 당직근무",
+        "content": "제14조(당직임무 등의 게시) ① 당직 부서장은 당직근무자의 임무, 긴급사태시 조치요령, 비상연락체계도 등 당직근무에 필요한 사항을 작성하여 당직실에 게시하고 갖추어 두어야 한다.② 당직근무자는 제1항에 따른 당직근무자의 임무 등을 숙지해야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "대기차량",
+        "chapter": "제2장 당직근무",
+        "content": "제15조(대기차량) 당직 부서장은 필요하다고 인정하는 경우에는 당직대기차량 및 운전자의 근무를 서면 또는 구두로 명령하여 대기하도록 명할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "비상근무의 종류 및 근무조 편성",
+        "chapter": "제3장 비상근무",
+        "content": "제16조(비상근무의 종류 및 근무조 편성) ① 비상근무의 종류는「국가공무원 복무규칙」제38조에 따른다.② 각급 기관의 장은 비상근무 발령 중에는 청사 등 중요 시설물에 대한 경계ㆍ경비를 강화해야 하고, 부득이한 경우를 제외하고는 출장을 억제하고 소속 공무원의 소재를 항상 파악해야 하며, 비상근무의 종류별로「국가공무원 복무규칙」제40조에 따른 기준에 따라 소속 직원을 비상근무 하도록 해야 한다.③ 본부의 비상근무조는 각 실, 국(관), 단의 주무과장(이하 \"주무과장\"이라 한다)이 해당 소속 직원을 대상으로 편성한다. 다만, 본부 4급과장 이상 공무원의 비상종류별 근무조를 별도로 편성해야 할 필요가 있을 때에는 본부 당직 주관 부서의 장이 편성한다.④ 주무과장은 제2항과 제3항에 따라 비상근무조를 편성할 때에는 비상근무 인원이 일부 부서 또는 일부 직급에 편중되지 아니하도록 부서별 인원ㆍ직급ㆍ업무의 성질 및 기관의 실정 등을 고려하여 비상근무를 명함으로써 비상근무기간 중 업무 수행의 계속성이 유지되고 비상근무의 목적이 달성될 수 있도록 하여야 한다. 이 경우 비상근무 인원에는 비상대비업무 담당자, 문서 접수자ㆍ처리자, 통신ㆍ정보화 요원 등 사무보조에 필요한 인원이 포함되도록 해야 한다.⑤ 주무과장은 제3항에 따라 편성된 비상근무조의 변동이 있을 때에는 즉시 정비하여 본부 당직 주관 부서의 장에게 제출해야 하며, 소속직원이 언제라도 비상근무가 가능하도록 점검해야 한다.⑥ 소속기관의 장은 제1항부터 5항까지의 규정에 준하여 비상근무조를 편성한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제1항",
+            "link_text": "「국가공무원 복무규칙」",
+            "line_text": "",
+            "target_law_name": "국가공무원 복무규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가공무원 복무규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0016",
+            "reference_id": "law:국가공무원복무규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제1항",
+            "link_text": "제38조",
+            "line_text": "",
+            "target_law_name": "국가공무원 복무규칙",
+            "target_article_no": "제38조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가공무원 복무규칙/제38조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0016",
+            "reference_id": "law:국가공무원복무규칙#JO0038"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제2항",
+            "link_text": "「국가공무원 복무규칙」",
+            "line_text": "",
+            "target_law_name": "국가공무원 복무규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가공무원 복무규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0016",
+            "reference_id": "law:국가공무원복무규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제2항",
+            "link_text": "제40조",
+            "line_text": "",
+            "target_law_name": "국가공무원 복무규칙",
+            "target_article_no": "제40조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가공무원 복무규칙/제40조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0016",
+            "reference_id": "law:국가공무원복무규칙#JO0040"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "비상소집 및 근무요령",
+        "chapter": "제3장 비상근무",
+        "content": "제17조(비상소집 및 근무요령) ① 비상소집 전파는 정상근무시간에는 당직 부서장이, 정상근무시간 외에는 당직근무자가 담당한다② 비상근무 제1호 및 제2호가 발령되었을 때에는 모든 공무원을 소집해야 하며, 제3호 또는 제4호가 발령되었을 때에는 비상근무명령 발령자 또는 장관의 명에 따라 필요한 인원을 소집할 수 있다③ 비상소집에 응소한 공무원은 비상소집 응소자 명부에 서명한 후 소속 부서에서 별도 명령이 있을 때까지 대기하거나 근무에 임해야 한다.④ 비상소집이 완료된 후에는 비상근무 발령권자 또는 장관의 명에 따라 제16조제1항에 따른 비상근무 종류별 근무 대상자 외의 공무원을 귀가하게 하거나 휴식을 취하게 할 수 있다.⑤ 비상근무기간이 계속되어 제16조에 따른 근무 대상만으로는 정상적인 비상근무가 어렵다고 판단되는 경우에는 주무과장은 각 관ㆍ단별, 본부별 비상근무반을 재편성하여 교대로 근무하게 할 수 있으며, 이 경우 근무자 명단을 당직 부서장에게 통보해야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제4항",
+            "link_text": "제16조제1항",
+            "line_text": "",
+            "target_law_name": "행정안전부 당직 및 비상근무 시행세칙",
+            "target_article_no": "제16조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/행정안전부 당직 및 비상근무 시행세칙/제16조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0017",
+            "reference_id": "admrul:행정안전부당직및비상근무시행세칙#JO0016"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제5항",
+            "link_text": "제16조",
+            "line_text": "",
+            "target_law_name": "행정안전부 당직 및 비상근무 시행세칙",
+            "target_article_no": "제16조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/행정안전부 당직 및 비상근무 시행세칙/제16조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0017",
+            "reference_id": "admrul:행정안전부당직및비상근무시행세칙#JO0016"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "비상근무기간 중의 당직",
+        "chapter": "제3장 비상근무",
+        "content": "제18조(비상근무기간 중의 당직) ① 각급 기관이 비상근무 제1호부터 제3호까지에 따라 비상근무 중일 때에는 해당 기관(그 소속기관이 비상근무 중일 때에는 그 기관을 포함한다)의 당직근무를 중지한다. 다만, 정상근무 위치가 아닌 곳에서 비상근무를 하는 기관은 당직근무를 계속한다.② 당직근무자가 당직근무 중 비상근무가 발령되어 제1항에 따라 당직근무를 중지할 때에는 당직 부서에 당직근무일지 등을 인계해야 한다.③ 당직 부서장은 정상근무시간이 아닌 때에 비상근무가 해제되었을 때에는 지체 없이 당직근무를 하도록 조치해야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "차량대기",
+        "chapter": "제3장 비상근무",
+        "content": "제19조(차량대기) 당직 부서장은 비상근무 기간 중 비상대기차량을 지정하여 운영할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "위임규정",
+        "chapter": "제4장 보칙",
+        "content": "제20조(위임규정) 소속기관의 장은 이 시행세칙에 따라 기관별 기능 및 실정을 고려하여 당직 및 비상근무에 관한 세부 사항을 따로 정하여 운영할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:행정안전부당직및비상근무시행세칙#JO0020"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20260403",
+      "promulgation_no": "433",
+      "content": "부칙 <제433호, 2026. 4. 3.>이 훈령은 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "삭제",
+      "enforcement_date": "",
+      "content": "[별표 1] <삭 제>",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000277046&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163184421",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163184297",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163184421",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:행정안전부당직및비상근무시행세칙#BYL0001",
+      "filename": "별표1_삭제.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "당직근무일지",
+      "enforcement_date": "",
+      "content": "■ 행정안전부 당직 및 비상근무 시행세칙 [별지 제1호서식]\n당직근무일지\n\n(앞쪽)\n┏━━┯━━━━━┯━━━━━━┓\n.    .    .(    요일            숙[ ]   직)   ┃결재│          │            ┃\n┃    ├─────┼──────┨\n일[ ]         ┃    │          │            ┃\n┏━━┯━━┯━━┯━━━┯━━┯━━┯━━━━━┹──┴─────┴──────┨\n┃당직│당직│소속│직위  │성명│서명│문서처리 상황                             ┃\n┃자  │명  │    │(직급)│    │    │                                          ┃\n┃    ├──┼──┼───┼──┼──┼──┬─────────┬──┬──┬──┨\n┃    │    │    │      │    │    │종류│발송              │접수│인계│비고┃\n┃    │    │    │      │    │    │    ├──┬───┬──┤    │    │    ┃\n┃    │    │    │      │    │    │    │문서│수신처│제목│    │    │    ┃\n┃    │    │    │      │    │    │    │번호│      │    │    │    │    ┃\n┃    ├──┼──┼───┼──┼──┼──┼──┼───┼──┼──┼──┼──┨\n┃    │    │    │      │    │    │    │    │      │    │    │    │    ┃\n┠──┼──┴──┼───┼──┴──┼──┼──┼───┼──┼──┼──┼──┨\n┃지시│          │조치  │          │    │    │      │    │    │    │    ┃\n┃받은│          │사항  │          ├──┼──┼───┼──┼──┼──┼──┨\n┃사항│          │      │          │    │    │      │    │    │    │    ┃\n┃    │          │      │          ├──┼──┼───┼──┼──┼──┼──┨\n┃    │          │      │          │    │    │      │    │    │    │    ┃\n┠──┼─────┼───┼─────┼──┴──┴───┴──┴──┴──┴──┨\n┃지시│          │조치  │          │특근자 현황                               ┃\n┃한  │          │결과  │          ├──────┬──────┬───────┨\n┃사항│          │확인  │          │소속ㆍ부서  │근무자      │특근시간      ┃\n┃    │          │      │          ├──────┼──────┼───────┨\n┃    │          │      │          │            │외   명     │              ┃\n┃    │          │      │          ├──────┼──────┼───────┨\n┃    │          │      │          │            │외   명     │              ┃\n┠──┼─────┼───┼─────┼──────┼──────┼───────┨\n┃보고│          │인계  │1.물품    │            │외   명     │              ┃\n┃사항│          │사항  │2.문서    ├──────┼──────┼───────┨\n┃    │          │      │3.기타    │            │외   명     │              ┃\n┃    │          │      │          ├──────┼──────┼───────┨\n┃    │          │      │          │            │외   명     │              ┃\n┗━━┷━━━━━┷━━━┷━━━━━┷━━━━━━┷━━━━━━┷━━━━━━━┛\n\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163184289",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163184285",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163184289",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:행정안전부당직및비상근무시행세칙#BJ0001",
+      "filename": "별지1_당직근무일지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "보안점검표",
+      "enforcement_date": "",
+      "content": "■ 행정안전부 당직 및 비상근무 시행세칙 [별지 제2호서식]\n보안점검표\n\n년도                       실ㆍ과명:\n┏━━━┯━━━━┯━━━━━┯━━━━━┯━━━━┯━━━━━━┯━━┯━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃구분  │①      │②        │③        │④      │⑤          │⑥  │점검시각 및 점검자│결재                                              ┃\n┃점검일│서류보관│청소 상태 │소등 상태 │화기단속│문단속 상태 │비고│(최종퇴청자)      │                                                  ┃\n┃      │상태    │          │          │상태    │            │    ├────┬────┤                                                  ┃\n┃      │        │          │          │        │            │    │점검시각│성명    │                                                  ┃\n┠───┼────┼─────┼─────┼────┼──────┼──┼────┼────┼─────────────────────────┨\n┃      │        │          │          │        │            │    │        │        │                                                  ┃\n┠───┼────┼─────┼─────┼────┼──────┼──┼────┼────┼─────────────────────────┨\n┃      │        │          │          │        │            │    │        │        │                                                  ┃\n┠───┼────┼─────┼─────┼────┼──────┼──┼────┼────┼─────────────────────────┨\n┃      │        │          │          │        │            │    │        │        │                                                  ┃\n┠───┼────┼─────┼─────┼────┼──────┼──┼────┼────┼─────────────────────────┨\n┃      │        │          │          │        │            │    │        │        │                                                  ┃\n┠───┼────┼─────┼─────┼────┼──────┼──┼────┼────┼─────────────────────────┨\n┃      │        │          │          │        │            │    │        │        │                                                  ┃\n┠───┼────┼─────┼─────┼────┼──────┼──┼────┼────┼─────────────────────────┨\n┃      │        │          │          │        │            │    │        │        │                                                  ┃\n┠───┼────┼─────┼─────┼────┼──────┼──┼────┼────┼─────────────────────────┨\n┃      │        │          │          │        │            │    │        │        │                                                  ┃\n┠───┼────┼─────┼─────┼────┼──────┼──┼────┼────┼─────────────────────────┨\n┃      │        │          │          │        │            │    │        │        │                                                  ┃\n┠───┼────┼─────┼─────┼────┼──────┼──┼────┼────┼─────────────────────────┨\n┃      │        │          │          │        │            │    │        │        │                                                  ┃\n┠───┼────┼─────┼─────┼────┼──────┼──┼────┼────┼─────────────────────────┨\n┃      │        │          │          │        │            │    │        │        │                                                  ┃\n┠───┼────┼─────┼─────┼────┼──────┼──┼────┼────┼─────────────────────────┨\n┃      │        │          │          │        │            │    │        │        │                                                  ┃\n┗━━━┷━━━━┷━━━━━┷━━━━━┷━━━━┷━━━━━━┷━━┷━━━━┷━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━┛\n※ 비고\n1. 서류보관상태: 책상 위 서류 방치 여부와 캐비닛, 책상 등의 잠금 여부\n2. 화기단속상태: 컴퓨터ㆍ프린터ㆍ복사기ㆍ선풍기 및 전열기(커피포트ㆍ전기히터 등)의 전원스위치의 차단 여부와 배선 주변에 인화물질이 있는지 여부\n\n\n\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163184295",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163184291",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163184295",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:행정안전부당직및비상근무시행세칙#BJ0002",
+      "filename": "별지2_보안점검표.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "「행정안전부 당직 및 비상근무 시행세칙」 전부개정안 전문.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=163180479",
+      "file_store_url": "",
+      "filename": "「행정안전부 당직 및 비상근무 시행세칙」 전부개정안 전문.hwpx"
+    },
+    {
+      "name": "「행정안전부 당직 및 비상근무 시행세칙」 전부개정안 전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=163180483",
+      "file_store_url": "",
+      "filename": "「행정안전부 당직 및 비상근무 시행세칙」 전부개정안 전문.pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 18,
+    "by_category": {
+      "법령": 11,
+      "행정규칙": 4,
+      "별지": 3
+    },
+    "by_relation_type": {
+      "citation": 12,
+      "internal_ref": 3,
+      "appendix_ref": 3
+    },
+    "articles_total": 22,
+    "articles_with_relations": 8,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 3,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/행정안전부 당직 및 비상근무 시행세칙"
+  },
+  "provision_id": "admrul:행정안전부당직및비상근무시행세칙#DOC"
+}
