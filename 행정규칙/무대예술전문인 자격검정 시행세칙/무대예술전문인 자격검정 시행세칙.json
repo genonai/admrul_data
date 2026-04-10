@@ -1,0 +1,1704 @@
+{
+  "law_id": "2100000277164",
+  "mst": "2100000277164",
+  "law_name": "무대예술전문인 자격검정 시행세칙",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000277164",
+  "promulgation_no": "2026-1",
+  "promulgation_date": "20260410",
+  "enforcement_date": "20260410",
+  "revision_date": "20260410",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국립중앙극장(무대기술팀)",
+    "담당자명": "박지영",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "무대예술전문인 자격검정 시행세칙",
+    "발령일자": "20260410",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국립중앙극장",
+    "전화번호": "02-2280-4082",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1371000",
+    "생성일자": "20260416",
+    "행정규칙ID": "79235",
+    "시행일자": "20260410",
+    "담당부서기관코드": "1371468",
+    "발령번호": "2026-1",
+    "행정규칙일련번호": "2100000277164",
+    "상위부처명": "문화체육관광부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정이유\n○ 자격검정시험 및 경력인정의 규정 세분화를 통하여 자격검정 운영업무 기준 명확화\n○ 법제처 행정규칙 정비과제에 따른 다자녀 가구 구성원에 대한\n자격검정시험 응시수수료 관련 근거조항 필요\n\n◇ 주요내용\n○ 개정 대상\n- 「무대예술전문인 자격검정시행세칙」 제12조(공연장 종사경력의 산정), 제19조(시험방법), 제24조(응시수수료 등), 별표\n○ 변경 내용\n- 자격검정시험 및 경력인정 규정 세분화 명시(제12조, 제19조)\n- 다자녀 가구 구성원에 대한 응시수수료 면제(제24조)\n- 별표 조문정비 및 국가기술 자격종목 현행화",
+  "body": {
+    "format": "articles",
+    "article_count": 31,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총 칙",
+        "content": "제1조(목적) 이 세칙은 「공연법 시행령」(이하 \"영\"이라 한다) 제15조에 따른 무대예술전문인 자격검정위원회 운영 및 「공연법 시행규칙」(이하 \"규칙\"이라 한다) 제6조의11에 따른 무대예술전문인 자격검정시행에 필요한 세부사항에 대해 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「공연법 시행령」",
+            "line_text": "",
+            "target_law_name": "공연법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공연법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0001",
+            "reference_id": "law:공연법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제15조",
+            "line_text": "",
+            "target_law_name": "공연법 시행령",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공연법 시행령/제15조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0001",
+            "reference_id": "law:공연법시행령#JO0015"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「공연법 시행규칙」",
+            "line_text": "",
+            "target_law_name": "공연법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공연법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0001",
+            "reference_id": "law:공연법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제6조의11",
+            "line_text": "",
+            "target_law_name": "공연법 시행규칙",
+            "target_article_no": "제6조의11",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공연법 시행규칙/제6조의11",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0001",
+            "reference_id": "law:공연법시행규칙#JO0006_11"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "용어의 정의",
+        "chapter": "제1장 총 칙",
+        "content": "제2조(용어의 정의) 이 세칙에서 사용하는 용어의 정의는 다음과 같다.1. \"실무경력인정\"이라 함은 등급별 자격검정시험에 응시하기 위한 실무경력인정을 말한다.2. \"검정합격인정\"이라 함은 공연법 부칙 제7991호",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제3조",
+            "line_text": "",
+            "target_law_name": "무대예술전문인 자격검정 시행세칙",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무대예술전문인 자격검정 시행세칙/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0002",
+            "reference_id": "admrul:무대예술전문인자격검정시행세칙#JO0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "무대예술관련 실무경력자에 대한 경과조치",
+        "chapter": "제1장 총 칙",
+        "content": "제3조(무대예술관련 실무경력자에 대한 경과조치)에 따른 경력을 인정받아 자격검정에 합격한 것으로 인정하는 것을 말한다.\n제3조(적용범위) 검정시행과 관리에 관하여 법령 및 시행규칙으로 정한 것을 제외하고는 이 세칙에 따른다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "설치",
+        "chapter": "제2장 자격검정위원회",
+        "content": "제4조(설치) 영 제15조에 따라 자격검정에 관한 사항을 심의하기 위하여 검정기관 내에 무대예술전문인 자격검정위원회(이하 \"검정위원회\"라 한다)를 둔다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "영",
+            "line_text": "",
+            "target_law_name": "공연법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공연법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0004",
+            "reference_id": "law:공연법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제15조",
+            "line_text": "",
+            "target_law_name": "공연법 시행령",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공연법 시행령/제15조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0004",
+            "reference_id": "law:공연법시행령#JO0015"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "구성 및 임기",
+        "chapter": "제2장 자격검정위원회",
+        "content": "제5조(구성 및 임기) ① 검정위원회는 위원장을 포함한 10인 이내의 위원으로 구성한다.② 위원은 무대예술분야에 전문지식이 있는 자 중에서 검정기관의 장이 추천하여 문화체육관광부장관이 위촉하되, 특정 성별이 위촉직 위원수의 10분의 6을 초과 하지 아니하도록 한다.③ 검정기관 내의 자격검정 소관업무 담당부서의 장은 당연직 위원이 된다.④ 위원장은 재적위원 과반수의 무기명 투표에서 출석위원 과반수의 득표에 의해 선출한다.⑤ 부위원장은 위원의 추천을 받아 위원장이 지명한다.⑥ 위원의 임기는 2년으로 하되, 연임할 수 있다.⑦ 보궐위원의 임기는 전임자의 잔여기간으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "수당",
+        "chapter": "제2장 자격검정위원회",
+        "content": "제6조(수당) 위원에 대하여는 예산의 범위 안에서 수당 등을 지급할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "기능",
+        "chapter": "제2장 자격검정위원회",
+        "content": "제7조(기능) 검정위원회는 다음 각 호의 사항을 심의한다.1. 자격검정의 방향 설정 및 시행계획에 관한 사항2. 자격검정시험에 관한 사항3. 무대예술전문인 교육에 관한 사항4. 실무경력 인정 및 검정합격 인정과 관련된 사항5. 자격검정 관련 조사ㆍ연구에 관한 사항6. 기타 위원장이 부의하는 자격검정에 관한 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "위원장의 직무",
+        "chapter": "제2장 자격검정위원회",
+        "content": "제8조(위원장의 직무) ① 위원장은 검정위원회의 회무를 통할하고, 검정위원회를 대표한다.② 위원장이 사고 등의 사유로 그 직무를 수행할 수 없을 때에는 부위원장이 그 직무를 대행한다.③ 위원장과 부위원장이 사고 등의 사유로 그 직무를 수행할 수 없을 때에는 출석 위원 중에서 호선을 통하여 선출된 자가 그 직무를 대행한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "회의",
+        "chapter": "제2장 자격검정위원회",
+        "content": "제9조(회의) ① 검정위원회 회의는 검정기관의 장이 필요하다고 인정할 때, 또는 위원 3분의 1 이상의 요구가 있을 때에 검정기관의 장이 소집하고, 위원장은 그 의장이 된다.② 검정위원회의 회의는 재적위원 과반수 출석과 출석위원 과반수의 찬성으로 의결한다.③ 의장은 표결권이 없으며, 표결결과 가부동수인 경우에는 결정권을 가진다.④ 검정위원회 회의에서 경력인정심의 시 신청인이 인정받고자 하는 해당분야의 증빙서류가 불분명할 경우 재심의로 의결한다.⑤ 제4항에 따른 신청인이 심의결과를 통지 받은 때에는 통지 받은 날로부터 60일 이내에 관련 증빙서류를 보완하여 제출해야한다. 기한 내에 보완하지 못할 경우, 60일 이후 개최되는 첫 번째 회의에서 신청인의 신청경력을 불인정 한다.⑥ 검정위원회는 회의 개최 시 회의결과를 작성하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "전문위원 등",
+        "chapter": "제2장 자격검정위원회",
+        "content": "제10조(전문위원 등) 자격검정에 관한 전문적인 사항을 조사ㆍ연구하기 위하여 검정위원회에 전문위원과 연구원을 둘 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "간사",
+        "chapter": "제2장 자격검정위원회",
+        "content": "제11조(간사) ① 검정위원회의 사무처리를 위하여 자격검정 소관업무 부서에 간사 1인을 두며, 검정기관의 소속직원 중에서 검정기관의 장이 지명한다.② 간사는 검정위원회 회의에 출석하여 발언할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "공연장 종사경력의 산정",
+        "chapter": "제3장 공연장 및 공연업경력의 산정",
+        "content": "제12조(공연장 종사경력의 산정) ① 「공연법」(이하 \"법\"이라 한다)에서 정한 등록된 공연장에서 등록일 이후에 종사한 근무기간만을 실무경력으로 인정한다.② 공연장 근무기간 중 해당분야 근무경력만을 실무경력으로 인정하며 복수의 분야에 근무한 경우에는 당해 자격신청분야의 근무경력만을 실무경력으로 인정한다. 다만, 휴직기간은 제외한다.③ 실습생(또는 연수생), 인턴사원 등으로 근무한 기간은 실제 근무기간의 2분의 1을 실무경력으로 인정한다.④ 공연장 재직기간 중 공연장 등록일 이전 경력기간은 제13조에 따른 기준으로 산정한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제4항",
+            "link_text": "제13조",
+            "line_text": "",
+            "target_law_name": "공연법 시행령",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공연법 시행령/제13조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0012",
+            "reference_id": "law:공연법시행령#JO0013"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "공연업 종사경력의 산정",
+        "chapter": "제3장 공연장 및 공연업경력의 산정",
+        "content": "제13조(공연업 종사경력의 산정) 공연업 종사자가 영 별표2 제2호에 따라 제작에 참여한 작품의 수로 실무경력인정을 받을 수 있는 공연작품의 기준은 다음과 같다.① 법 제2조 제1호에서 정한 공연으로 한다. 다만, 다음 각 호의 어느 하나에 해당하는 경우 공연작품으로 인정하지 아니한다.1. 미스코리아 선발대회, 패션쇼 등 공연예술로 볼 수 없는 경연대회2. 방송이 목적인 쇼 프로그램, 콘서트 등의 방송제작물3. 선교를 목적으로 하는 행사 및 이에 부수한 공연4. 공연장 건축 ㆍ 무대설비 등 건축시설 설비공사와 관련된 경력② 신청인이 1년간 5개 이상의 공연작품 제작에 참여한 경우, 실무경력 1년으로 산정한다. 다만, 연속된 12개월을 1년으로 산정하며, 처음 참여한 작품의 공연시작일과 마지막에 참여한 작품의 공연종료일까지의 기간이 8개월 이상이어야 한다.③ 신청인이 제작에 참여한 이전 공연작품의 공연종료일로부터 연속하여 참여한 공연작품의 공연시작일까지의 공백기간이 6개월 이상인 경우, 1년으로 인정하지 않으며 공백기간 이후에 처음으로 참여한 공연작품부터 재산정한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조",
+            "link_text": "영",
+            "line_text": "",
+            "target_law_name": "공연법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공연법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0013",
+            "reference_id": "law:공연법시행령#DOC"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제13조",
+            "source_clause": "제13조",
+            "link_text": "별표2",
+            "line_text": "",
+            "target_law_name": "공연법 시행령",
+            "target_article_no": "별표2",
+            "target_article_title": "",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": false,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공연법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0013",
+            "reference_id": "law:공연법시행령#BYL0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제1항",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "공연법",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공연법/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0013",
+            "reference_id": "law:공연법#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "국가기술자격종목 가산",
+        "chapter": "제3장 공연장 및 공연업경력의 산정",
+        "content": "제14조(국가기술자격종목 가산) 검정합격인정기준 및 자격검정 등급별 응시기준에 의한 실무경력인정시 「국가기술자격법」에 따른 기계ㆍ전기ㆍ전자ㆍ건축ㆍ안전관리ㆍ통신직무분야의 자격증 소지자에게 가산되는 자격종목은 별표5와 같다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조",
+            "link_text": "「국가기술자격법」",
+            "line_text": "",
+            "target_law_name": "국가기술자격법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가기술자격법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0014",
+            "reference_id": "law:국가기술자격법#DOC"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제14조",
+            "source_clause": "제14조",
+            "link_text": "별표5",
+            "line_text": "",
+            "target_law_name": "무대예술전문인 자격검정 시행세칙",
+            "target_article_no": "별표5",
+            "target_article_title": "직무관련 자격종목 (제14조 관련)",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000277164&bylNo=0005&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0014",
+            "reference_id": "admrul:무대예술전문인자격검정시행세칙#BYL0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "인정 대상 업무분야",
+        "chapter": "제3장 공연장 및 공연업경력의 산정",
+        "content": "제15조(인정 대상 업무분야) ① 무대기계공연을 위한 무대기계의 조작ㆍ관리 및 무대장치제작ㆍ설치ㆍ전환ㆍ해체 분야이어야 한다.② 무대조명공연을 위한 무대조명의 조작ㆍ관리ㆍ설치ㆍ전환ㆍ해체 분야이어야 한다.③ 무대음향 공연을 위한 무대음향의 조작ㆍ관리ㆍ설치ㆍ전환ㆍ해체 분야이어야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "실무경력 인정신청 제출서류",
+        "chapter": "제4장 실무경력 인정",
+        "content": "제16조(실무경력 인정신청 제출서류) ① 규칙 제6조의7과 영 부칙 19798호 제2항에 따라 실무경력을 인정받아 자격검정시험에 응시하고자 하는 자는 당해연도 필기시험 응시원서 접수일로부터 30일 전까지 서류를 제출해야 하며, 제출서류는 별표3과 같다.② 제1항에 따른 제출서류에도 불구하고 해당분야의 담당업무가 불분명할 경우 검정위원회는 담당업무 확인이 가능한 보완서류를 요구할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제1항",
+            "link_text": "규칙",
+            "line_text": "",
+            "target_law_name": "공연법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공연법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0016",
+            "reference_id": "law:공연법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제1항",
+            "link_text": "제6조의7",
+            "line_text": "",
+            "target_law_name": "공연법 시행규칙",
+            "target_article_no": "제6조의7",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공연법 시행규칙/제6조의7",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0016",
+            "reference_id": "law:공연법시행규칙#JO0006_07"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제1항",
+            "link_text": "별표3",
+            "line_text": "",
+            "target_law_name": "무대예술전문인 자격검정 시행세칙",
+            "target_article_no": "별표3",
+            "target_article_title": "실무경력 인정신청 제출서류",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000277164&bylNo=0003&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0016",
+            "reference_id": "admrul:무대예술전문인자격검정시행세칙#BYL0003"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조",
+            "link_text": "영",
+            "line_text": "제16조(실무경력 인정신청 제출서류) ① 규칙 제6조의7과 영 부칙 19798호 제2항에 따라 실무경력을 인정받아 자격검정시험에 응시하고자 하는 자는 당해연도 필기시험 응시원서 접수일로부터 30일 전까지 서류를 제출해야 하며, 제출서류는 별표3과 같다.② 제1항에 따른 제출서류에도 불구하고 해당분야의 담당업무가 불분명할 경우 검정위원회는 담당업무 확인이 가능한 보완서류를 요구할 수 있다.",
+            "target_law_name": "공연법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공연법 시행령",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0016",
+            "reference_id": "law:공연법시행령#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "검정합격인정의 공연장과 공연업 종사경력 합산기준",
+        "chapter": "제5장 검정합격 인정",
+        "content": "제17조(검정합격인정의 공연장과 공연업 종사경력 합산기준) ① 법 부칙<제7991호, 2006. 9.27>제3조에 따른 경과조치 대상에 해당하는 자가 공연장 종사경력과 공연업 종사경력을 함께 신청하는 경우 제12조 및 제13조에 의하여 실무경력을 합산하여 산정한다.② 별표2 제2호에 따라 1급 또는 2급으로 검정합격인정신청을 하였을 경우 신청 급수별 공연장 객석수에 따른 실무경력은 다음 아래의 기준으로 산정한다.1. 1급으로 검정합격인정 신청하는 경우가. 500석 이상 공연장에서 근무한 경력 산정나. 10년에서 가호에 따라 산정된 공연장 실무경력의 년 단위를 제외하고 남은 기간 산정다. 나호에 따라 산정된 기간을 연간 5개씩 공연작품에 참여한 것으로 갈음하여 공연작품수 산정라. 공연업 종사경력 중 500석 이상의 공연장에서 참여한 공연작품수가 다호에 따라 산정된 공연작품수와 같거나 그 이상일 경우 참여한 것으로 인정2. 2급으로 검정합격인정 신청하는 경우가. 300석 이상 공연장에서 근무한 경력 산정나. 7년에서 가호에 따라 산정된 공연장 실무경력의 년 단위를 제외하고 남은 기간 산정다. 나호에 따라 산정된 기간을 연간 5개씩 공연작품에 참여한 것으로 갈음하여 공연작품수 산정라. 공연업 종사경력 중 300석 이상의 공연장에서 참여한 공연작품수가 다호에 따라 산정된 공연작품수와 같거나 그 이상일 경우 참여한 것으로 인정",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제1항",
+            "link_text": "제3조",
+            "line_text": "",
+            "target_law_name": "무대예술전문인 자격검정 시행세칙",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무대예술전문인 자격검정 시행세칙/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0017",
+            "reference_id": "admrul:무대예술전문인자격검정시행세칙#JO0003"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제1항",
+            "link_text": "제12조 및 제13조",
+            "line_text": "",
+            "target_law_name": "무대예술전문인 자격검정 시행세칙",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무대예술전문인 자격검정 시행세칙/제12조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0017",
+            "reference_id": "admrul:무대예술전문인자격검정시행세칙#JO0012"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제1항",
+            "link_text": "제12조 및 제13조",
+            "line_text": "",
+            "target_law_name": "공연법 시행령",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공연법 시행령/제13조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0017",
+            "reference_id": "law:공연법시행령#JO0013"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제2항",
+            "link_text": "별표2",
+            "line_text": "",
+            "target_law_name": "무대예술전문인 자격검정 시행세칙",
+            "target_article_no": "별표2",
+            "target_article_title": "공연법 및 공연법 시행령 경과조치에 의한 종전규정 적용사항",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000277164&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0017",
+            "reference_id": "admrul:무대예술전문인자격검정시행세칙#BYL0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "검정합격 인정신청 제출서류",
+        "chapter": "제5장 검정합격 인정",
+        "content": "제18조(검정합격 인정신청 제출서류) ① 법 부칙 제7991호, 별표2 제2호에 따라 검정합격인정을 받고자 하는 자가 제출해야 하는 서류는 별표4와 같다.② 검정기관은 신청인의 소속기관 또는 해당업무책임자에게 경력확인을 요청 할 수 있으며, 제1항의 제출서류에도 불구하고, 담당업무가 불분명할 경우 담당업무 확인이 가능한 보완서류를 요구할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제1항",
+            "link_text": "별표2",
+            "line_text": "",
+            "target_law_name": "무대예술전문인 자격검정 시행세칙",
+            "target_article_no": "별표2",
+            "target_article_title": "공연법 및 공연법 시행령 경과조치에 의한 종전규정 적용사항",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000277164&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0018",
+            "reference_id": "admrul:무대예술전문인자격검정시행세칙#BYL0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제1항",
+            "link_text": "별표4",
+            "line_text": "",
+            "target_law_name": "무대예술전문인 자격검정 시행세칙",
+            "target_article_no": "별표4",
+            "target_article_title": "검정합격 인정신청 제출서류",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000277164&bylNo=0004&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0018",
+            "reference_id": "admrul:무대예술전문인자격검정시행세칙#BYL0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제18조",
+            "source_clause": "제18조",
+            "link_text": "법",
+            "line_text": "제18조(검정합격 인정신청 제출서류) ① 법 부칙 제7991호, 별표2 제2호에 따라 검정합격인정을 받고자 하는 자가 제출해야 하는 서류는 별표4와 같다.② 검정기관은 신청인의 소속기관 또는 해당업무책임자에게 경력확인을 요청 할 수 있으며, 제1항의 제출서류에도 불구하고, 담당업무가 불분명할 경우 담당업무 확인이 가능한 보완서류를 요구할 수 있다.",
+            "target_law_name": "공연법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공연법",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0018",
+            "reference_id": "law:공연법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "시험방법",
+        "chapter": "제6장 자격검정시험의 시행",
+        "content": "제19조(시험방법) ① 영 제13조에 따른 자격검정은 필기시험과 실기시험으로 하며, 필기시험은 선택형을 원칙으로 하되 필요에 따라 기입형을 혼용할 수 있다.② 실기시험은 해당 응시 분야의 전문기술 수행능력을 평가하며, 작업형 실기와 주관식 필기형을 병합하여 출제 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제1항",
+            "link_text": "영",
+            "line_text": "",
+            "target_law_name": "공연법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공연법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0019",
+            "reference_id": "law:공연법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제1항",
+            "link_text": "제13조",
+            "line_text": "",
+            "target_law_name": "공연법 시행령",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공연법 시행령/제13조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0019",
+            "reference_id": "law:공연법시행령#JO0013"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "검정시기",
+        "chapter": "제6장 자격검정시험의 시행",
+        "content": "제20조(검정시기) 자격검정의 실시는 영 제13조에 따르되, 그 시행 시기는 검정기관의 장이 정한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제20조",
+            "source_clause": "제20조",
+            "link_text": "영",
+            "line_text": "",
+            "target_law_name": "공연법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공연법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0020",
+            "reference_id": "law:공연법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제20조",
+            "source_clause": "제20조",
+            "link_text": "제13조",
+            "line_text": "",
+            "target_law_name": "공연법 시행령",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공연법 시행령/제13조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0020",
+            "reference_id": "law:공연법시행령#JO0013"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "검정시행공고",
+        "chapter": "제6장 자격검정시험의 시행",
+        "content": "제21조(검정시행공고) 검정기관의 장은 자격검정을 시행하고자 할 때에는 영 제13조 제1항에 따라 검정 시행일 90일전에 자격검정의 일시, 장소, 검정과목, 검정방법, 검정의 종목 및 등급, 응시자격, 제출서류, 응시수수료, 기타 검정에 관한 사항을 공고문 게시, 신문 공고 등의 방법에 의하여 공고하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제21조",
+            "source_clause": "제21조",
+            "link_text": "영",
+            "line_text": "",
+            "target_law_name": "공연법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공연법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0021",
+            "reference_id": "law:공연법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제21조",
+            "source_clause": "제21조",
+            "link_text": "제13조",
+            "line_text": "",
+            "target_law_name": "공연법 시행령",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공연법 시행령/제13조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0021",
+            "reference_id": "law:공연법시행령#JO0013"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "응시서류",
+        "chapter": "제6장 자격검정시험의 시행",
+        "content": "제22조(응시서류) ① 자격검정을 받고자 하는 자(이하 \"응시자\"라 한다)는 다음 각 호의 서류를 검정기관에 제출(정보통신망에 의한 제출을 포함한다)하여야 한다.1. 무대예술전문인 자격검정 응시원서(별지 제6호 서식)2. 무대예술전문인 지정 교육기관 수료증 사본(해당자에 한함)3. 고등학교 이상의 최종학력 졸업(졸업예정)증명서(해당자에 한함)4. 영 별표2 제1호에 따른 직무분야의 자격증 사본(해당자에 한함)5. 사진(3개월 이내에 촬영한 동일원판의 탈모 상반신 사진 3.5cm×4.5cm, 자격검정응시원서 부착용)② 외국에서 취득한 학력을 제출하고자 하는자(외국인 포함한다)는 한국어로 번역 공증된 다음 각 호의 어느 하나에 해당되는 서류를 첨부하여야 한다.1. 졸업증명서 원본과 외국공문서에 대한 인증의 요구를 폐지하는 협약 가입국이 협약에 따라 발행한 아포스티유(APOSTILLE) 확인서2. 1호에 해당되지 않는 국가에서 외국학력을 취득하거나 수행한 경우, 졸업학교가 소재하고 있는 지역을 관할하는 공관에서 재외공관공증법령에 따라 한국어로 번역공증(공관의 공증)을 받은 졸업증명서 원본",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제1항",
+            "link_text": "별지 제6호 서식",
+            "line_text": "",
+            "target_law_name": "무대예술전문인 자격검정 시행세칙",
+            "target_article_no": "별지6",
+            "target_article_title": "무대예술전문인 자격검정 응시원서",
+            "appendix_no": "6",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541437",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0022",
+            "reference_id": "admrul:무대예술전문인자격검정시행세칙#BJ0006"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제1항",
+            "link_text": "영",
+            "line_text": "",
+            "target_law_name": "공연법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공연법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0022",
+            "reference_id": "law:공연법시행령#DOC"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제1항",
+            "link_text": "별표2",
+            "line_text": "",
+            "target_law_name": "공연법 시행령",
+            "target_article_no": "별표2",
+            "target_article_title": "",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": false,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공연법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0022",
+            "reference_id": "law:공연법시행령#BYL0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "원서접수",
+        "chapter": "제6장 자격검정시험의 시행",
+        "content": "제23조(원서접수) ① 원서접수 및 응시수수료 수납업무는 온라인 원서접수 기간내에 한함을 원칙으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "응시수수료 등",
+        "chapter": "제6장 자격검정시험의 시행",
+        "content": "제24조(응시수수료 등) ① 법 제15조 제2항에 따른 수수료는 별표1과 같으며, 정부수입인지로 납부하여야 한다. 다만, 정보통신망으로 응시원서를 제출하는 경우에는 검정기관의 장이 정하는 방법으로 수수료를 납부하여야 한다.② 검정을 받으려는 사람이 이미 납부한 수수료는 다음 각 호의 어느 하나에 해당하는 경우를 제외하고는 반환하지 아니한다. 다만, 제2호 또는 제3호의 경우에는 수수료의 전부를, 제4호의 경우에는 수수료의 2분의 1을 반환한다.1. 수수료를 과오납한 경우 과오납한 금액분2. 원서접수기간 내에 접수를 취소하는 경우3. 검정시행기관의 귀책사유로 검정에 응하지 못한 경우4. 검정 시행일 10일 전까지 접수를 취소하는 경우③ 응시수수료 반환신청은 인터넷으로만 신청가능하며 신청일로부터 30일 이내에 반환한다.④ 검정기관의 장은 제1항에도 불구하고 원서접수 당시 「국민기초생활 보장법」에     따른 수급자 또는 「한부모가족지원법」에 따른 보호대상자인 사람, 2명 이상의 미성년 자녀가 있는 사람에 대해서 는 검정기관의 장이 정하는 바에 따라 응시수수료를 면제할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제24조",
+            "source_clause": "제24조제1항",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "공연법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공연법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0024",
+            "reference_id": "law:공연법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제24조",
+            "source_clause": "제24조제1항",
+            "link_text": "제15조",
+            "line_text": "",
+            "target_law_name": "공연법",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공연법/제15조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0024",
+            "reference_id": "law:공연법#JO0015"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제24조",
+            "source_clause": "제24조제1항",
+            "link_text": "별표1",
+            "line_text": "",
+            "target_law_name": "무대예술전문인 자격검정 시행세칙",
+            "target_article_no": "별표1",
+            "target_article_title": "자격검정시험 응시 수수료 및 자격증 발급 수수료 기준표(제24조 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000277164&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0024",
+            "reference_id": "admrul:무대예술전문인자격검정시행세칙#BYL0001"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제24조",
+            "source_clause": "제24조제4항",
+            "link_text": "「국민기초생활 보장법」",
+            "line_text": "",
+            "target_law_name": "국민기초생활 보장법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0024",
+            "reference_id": "law:국민기초생활보장법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제24조",
+            "source_clause": "제24조제4항",
+            "link_text": "「한부모가족지원법」",
+            "line_text": "",
+            "target_law_name": "한부모가족지원법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/한부모가족지원법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0024",
+            "reference_id": "law:한부모가족지원법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "사후 환불",
+        "chapter": "제6장 자격검정시험의 시행",
+        "content": "제25조(사후 환불) 시험당일 불가피한 사유로 응시하지 못한 경우 각호에 따라 수수료의 2분의 1을 반환한다.1. 본인 또는 직계가족이 시험일로부터 7일 전까지 사망2. 본인의 사고 및 질병 입원(의료기관의 입원확인서 첨부)3. 국가가 인정하는 격리가 필요한 전염병 발생(국가(공공기관) 및 의료기관 발급의 확인서 첨부)4. 국가 위기단계로 휴가, 외출 등이 금지되어(금지 기간에 시험일이 포함)시 험에 응시하지 못한 군인 및 군무원 수험자(중대장 이상 발급 확인서 첨부)5. 검정기관의 부서장이 위원회와 협의를 거쳐 천재지변으로 결정 한 경우",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0025"
+      },
+      {
+        "article_no": "제26조",
+        "article_title": "수당",
+        "chapter": "제6장 자격검정시험의 시행",
+        "content": "제26조(수당) 검정시행을 위하여 지명된 위원 또는 직원에게는 예산범위 내에서 수당을 지급할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0026"
+      },
+      {
+        "article_no": "제27조",
+        "article_title": "최종합격자 발표 등",
+        "chapter": "제6장 자격검정시험의 시행",
+        "content": "제27조(최종합격자 발표 등) ① 검정기관의 장은 시험평가위원의 사정을 거쳐 최종합격자를 결정하고 시험시행 후 30일 이내에 명단을 게시하여야 한다.② 합격자 명단은 등급별로 합격자의 응시번호, 분야, 성명, 생년월일 등이 명시되어야 한다.③ 제1항과 제2항에도 불구하고 정보통신망으로 최종합격자를 발표하는 경우, 응시자 개인별로 합격여부를 확인하도록 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0027"
+      },
+      {
+        "article_no": "제28조",
+        "article_title": "시험자료 등의 관리",
+        "chapter": "제6장 자격검정시험의 시행",
+        "content": "제28조(시험자료 등의 관리) ① 검정기관의 장은 답안지 및 채점관련 자료 등을 최종합격자 발표일로부터 5년간 보관한다.② 자격검정 종료 후 문제, 답안지 및 채점관련 자료 등은 비공개를 원칙으로 하며, 필기시험의 경우 이의신청기간 동안 문제 및 답안 공개를 할 수 있다.③ 감사 및 수사상 필요에 의하여 관련기관의 요구가 있을 경우에는 공개 할   수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0028"
+      },
+      {
+        "article_no": "제29조",
+        "article_title": "자격증 교부",
+        "chapter": "제7장 무대예술전문인 자격증 교부",
+        "content": "제29조(자격증 교부) 검정기관의 장은 자격검정에 합격한 자에 대하여 법 제14조 및 영 제16조에 따라 별지 제9호 서식의 자격증교부신청서를 제출받고 검정기관은 문화체육관광부장관으로부터 무대예술전문인 자격증을 발급 받아 해당자에게 교부한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제29조",
+            "source_clause": "제29조",
+            "link_text": "제14조",
+            "line_text": "",
+            "target_law_name": "공연법",
+            "target_article_no": "제14조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공연법/제14조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0029",
+            "reference_id": "law:공연법#JO0014"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제29조",
+            "source_clause": "제29조",
+            "link_text": "영",
+            "line_text": "",
+            "target_law_name": "공연법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공연법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0029",
+            "reference_id": "law:공연법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제29조",
+            "source_clause": "제29조",
+            "link_text": "제16조",
+            "line_text": "",
+            "target_law_name": "공연법 시행령",
+            "target_article_no": "제16조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공연법 시행령/제16조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0029",
+            "reference_id": "law:공연법시행령#JO0016"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제29조",
+            "source_clause": "제29조",
+            "link_text": "별지 제9호 서식",
+            "line_text": "",
+            "target_law_name": "무대예술전문인 자격검정 시행세칙",
+            "target_article_no": "별지9",
+            "target_article_title": "무대예술전문인 자격증 교부 신청서",
+            "appendix_no": "9",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541459",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0029",
+            "reference_id": "admrul:무대예술전문인자격검정시행세칙#BJ0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0029"
+      },
+      {
+        "article_no": "제30조",
+        "article_title": "확인서 발급",
+        "chapter": "제7장 무대예술전문인 자격증 교부",
+        "content": "제30조(확인서 발급) 기관제출용 목적으로 필요 시 자격취득내역 등에 대하여, 검정기관은 별지 제10호 서식의 확인서 발급신청서를 제출받고 별지 제11호 서식의 확인서를 발급할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제30조",
+            "source_clause": "제30조",
+            "link_text": "별지 제10호 서식",
+            "line_text": "",
+            "target_law_name": "무대예술전문인 자격검정 시행세칙",
+            "target_article_no": "별지10",
+            "target_article_title": "확인서 발급 신청서",
+            "appendix_no": "10",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541465",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0030",
+            "reference_id": "admrul:무대예술전문인자격검정시행세칙#BJ0010"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제30조",
+            "source_clause": "제30조",
+            "link_text": "별지 제11호 서식",
+            "line_text": "",
+            "target_law_name": "무대예술전문인 자격검정 시행세칙",
+            "target_article_no": "별지11",
+            "target_article_title": "확인서",
+            "appendix_no": "11",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541471",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0030",
+            "reference_id": "admrul:무대예술전문인자격검정시행세칙#BJ0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0030"
+      },
+      {
+        "article_no": "제31조",
+        "article_title": "반환의 제한",
+        "chapter": "제8장 보칙",
+        "content": "제31조(반환의 제한) 이미 접수된 제출서류는 일체 반환하지 아니한다. 단, 공연업 종사자의 제출서류 중 공연프로그램 원본은 별지 제12호 서식의 증빙자료 반환 신청서를 제출받고 반환할 수 있으며, 반환 비용 발생 시 신청인이 부담할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제31조",
+            "source_clause": "제31조",
+            "link_text": "별지 제12호 서식",
+            "line_text": "",
+            "target_law_name": "무대예술전문인 자격검정 시행세칙",
+            "target_article_no": "별지12",
+            "target_article_title": "증빙자료 반환 신청서",
+            "appendix_no": "12",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541477",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0031",
+            "reference_id": "admrul:무대예술전문인자격검정시행세칙#BJ0012"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:무대예술전문인자격검정시행세칙#JO0031"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20210125",
+      "promulgation_no": "2021-1",
+      "content": "부칙 <제2021-1호, 2021. 1. 25.>이 무대예술전문인자격검정시행 세칙은 2021년  1월  25일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20260410",
+      "promulgation_no": "2026-1",
+      "content": "부칙 <제2026-1호, 2026. 4. 10.>이 무대예술전문인자격검정시행 세칙은 2026년  4월  10일부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "자격검정시험 응시 수수료 및 자격증 발급 수수료 기준표(제24조 관련)",
+      "enforcement_date": "",
+      "content": "■ 무대예술전문인 자격검정 시행세칙 [별표 1]\n자격검정시험 응시 수수료 및 자격증 발급 수수료 기준표(제24조 관련)\n┌───────────┬──┬──┬──┐\n│수수료 부과대상       │3급 │2급 │1급 │\n├───────────┼──┴──┴──┤\n│자격검정 합격인정 신청│7,000원         │\n├───────────┼────────┤\n│실무경력인정 신청     │7,000원         │\n├───────────┼────────┤\n│필기시험 전형         │13,000원        │\n├───────────┼────────┤\n│실기시험 전형         │15,000원        │\n├───────────┼────────┤\n│자격증 발급           │4,000원         │\n├───────────┼────────┤\n│자격증 재발급         │4,000원         │\n└───────────┴────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000277164&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541255",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541251",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541255",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:무대예술전문인자격검정시행세칙#BYL0001",
+      "filename": "별표1_자격검정시험 응시 수수료 및 자격증 발급 수수료 기준표(제24조 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "공연법 및 공연법 시행령 경과조치에 의한 종전규정 적용사항",
+      "enforcement_date": "",
+      "content": "■ 무대예술전문인 자격검정 시행세칙 [별표 2]\n공연법 및 공연법 시행령 경과조치에 의한 종전규정 적용사항\n\n1. 등급별 응시 기준\n\n무대예술전문인 자격검정의 등급별 응시기준\n┏━━┯━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃구분│교육과정 이수자                         │교육과정 미이수자                               ┃\n┠──┼────────────────────┼────────────────────────┨\n┃1급 │1. 교육과정을 이수하고 검정기관이 인정하│1. 검정기관이 인정하는 해당분야 실무경력이 5년  ┃\n┃    │는 해당분야 실무경력이 4년 이상인 자    │이상인자                                        ┃\n┃    │2. 해당분야 무대예술전문인 2급 자격증 소│2. 해당분야 무대예술전문인 2급 자격증 소지자    ┃\n┃    │지자                                    │                                                ┃\n┠──┼────────────────────┼────────────────────────┨\n┃2급 │1. 교육과정을 이수하고 검정기관이 인정하│1. 검정기관이 인정하는 해당분야 실무경력이 3년  ┃\n┃    │는 해당분야 실무경력이 2년 이상인 자    │이상인 자                                       ┃\n┃    │2. 해당분야 무대예술전문인 3급 자격증 소│2. 해당분야 무대예술전문인 3급 자격증 소지자    ┃\n┃    │지자                                    │                                                ┃\n┠──┼────────────────────┼────────────────────────┨\n┃3급 │교육과정을 이수한 자                    │검정기관이 인정하는 해당분야 실무경력이 2년 이  ┃\n┃    │                                        │상인자                                          ┃\n┠──┴────────────────────┴────────────────────────┨\n┃ 비고: 문화관광부령이 정하는 인정기준에 따라, 검정기관이 인정하는 실무경력 1년 이상인 자        ┃\n┃에 대하여 고등교육법에 의한 전문대학?대학 또는 대학원(외국의 전문대학?대학?대학원을          ┃\n┃포함한다)에서 검정기관이 인정하는 무대예술 또는 기계?전기?건축 등 관련분야를 이수한           ┃\n┃경우 그 이수기간의 2분의 1을 해당분야 실무경력에 산입한다.                                      ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n2. 자격검정 합격 인정 기준\n\n무대예술전문인의 검정합격 인정기준\n┏━━┯━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━┓\n┃등급│공연장 종사자                           │공연업 종사자                               ┃\n┠──┼────────────────────┼──────────────────────┨\n┃1급 │해당분야 실무경력 15년 이상인 자로서 객 │해당분야 실무경력 15년 이상인 자로서 객석   ┃\n┃    │석 500석 이상인 공연장 근무경력이 10년  │500석 이상인 공연장에서 공연된 50개 이상    ┃\n┃    │이상인 자                               │의 작품에 참여한 자                         ┃\n┠──┼────────────────────┼──────────────────────┨\n┃2급 │해당분야 실무경력 10년 이상인 자로서 객 │해당분야 실무경력 10년 이상인 자로서 객석   ┃\n┃    │석 300석 이상인 공연장 근무경력이 7년   │300석 이상인 공연장에서 공연된 35개 이상    ┃\n┃    │이상인 자                               │의 작품에 참여한 자                         ┃\n┠──┼────────────────────┼──────────────────────┨\n┃3급 │해당분야 실무경력 7년 이상인 자         │해당분야 실무경력 7년 이상인 자             ┃\n┠──┴────────────────────┴──────────────────────┨\n┃ 비 고 : 검정합격 인정 시 국가기술자격법에 의한 기계·전기·전자·건축·안전관리·통신 직무 ┃\n┃분야의 기능사자격증을 소지한 자에 대하여는 검정합격인정 기준의 실무경력 기준기간            ┃\n┃에서 1년을, 산업기사 자격증을 소지한 자에 대하여는 실무경력 기준기간에서 2년을,             ┃\n┃기사 이상의 자격증을 소지한 자에 대하여는 실무경력 기준기간에서 3년을 각각 감한다.          ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000277164&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541381",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541257",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541381",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:무대예술전문인자격검정시행세칙#BYL0002",
+      "filename": "별표2_공연법 및 공연법 시행령 경과조치에 의한 종전규정 적용사항.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "실무경력 인정신청 제출서류",
+      "enforcement_date": "",
+      "content": "■ 무대예술전문인 자격검정 시행세칙 [별표 3]\n실무경력 인정신청 제출서류\n공연장 종사자\n┏━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━┓\n┃제출서류                                      ┃별표2 제1호에 의한 제출서류<신설>             ┃\n┣━━━━━━━━━━━━━━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━━━━━┫\n┃(1) 실무경력인정 신청서                       ┃(1) 실무경력인정 신청서(별지 제7호서식)       ┃\n┃    (규칙 별지 제13호의 5서식)                ┃(2) 신청인의 이력서                           ┃\n┃(2) 신청인의 이력서                           ┃(3) 무대예술분야 또는 기계, 전기, 건축 등 관련┃\n┃(3) 영 별표2 제1호에 따른 국가기술자격법에    ┃분야 졸업을 증명할 수 있는 졸업증명서와       ┃\n┃의한 직무관련분야 자격증                      ┃성적증명서(해당자에 한함)                     ┃\n┃    (해당자에 한함)                           ┃(4) 무대예술전문인 지정교육기관 수료증(해당   ┃\n┃(4) 삭제<2021.1.1.>                           ┃자에 한함)                                    ┃\n┃(5) 삭제<2021.1.1.>                           ┃(5) 실무경력을 증명할 수 있는 근무부서와 담당 ┃\n┃(6) 실무경력을 증명할 수 있는 근무부서와 담당 ┃    업무, 근무기간(휴직기간 별도 표시)이 명   ┃\n┃업무, 근무기간이 명시된 경력(재직)증명서      ┃시된 경력(재직)증명서                         ┃\n┃(7) 삭제<2021.1.1.>                           ┃(6) 공연장 등록증 사본                        ┃\n┃(8) 공연장 등록증 사본                        ┃(7) 공연장 폐쇄의 경우 재직을 입증할 수 있는  ┃\n┃(9) 삭제<2016. 1. 13>                         ┃    서류                                      ┃\n┃(10) 공연장 폐쇄의 경우 재직을 입증할 수 있는 ┃                                              ┃\n┃서류                                          ┃                                              ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━┛\n2. 공연업 종사자\n┏━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃제출서류                                      ┃별표2 제1호에 의한 제출서류<신설>                 ┃\n┣━━━━━━━━━━━━━━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃(1) 실무경력인정 신청서(규칙별지 제13의 5서   ┃(1) 실무경력인정 신청서(별지 제7호서식)           ┃\n┃식)                                           ┃(2) 신청인의 이력서                               ┃\n┃(2) 신청인의 이력서                           ┃(3) 무대예술분야 또는 기계, 전기, 건축 등 관      ┃\n┃(3) 영 별표2 제1호에 따른 국가기술자격법에    ┃    련 분야 졸업을 증명할 수 있는 졸업증명서      ┃\n┃의한 직무관련분야 자격증                      ┃와 성적증명서(해당자에 한함)                      ┃\n┃    (해당자에 한함)                           ┃(4) 무대예술전문인 지정교육기관 수료증(해당       ┃\n┃(4) 해당분야에서 제작에 참여한 공연목록을 작성┃자에 한함)                                        ┃\n┃한 후 전자메일로 발송 (별지 제3호서식)        ┃(5) 해당분야에서 제작에 참여한 공연목록을 작성한  ┃\n┃(5) 실무경력을 증명할 수 있는 문화체육관광부  ┃후 전자메일로 발송 (별지 제3호서식)               ┃\n┃지침에 따른 공연예술표준계약서                ┃(6) 실무경력을 증명할 수 있는 문화체육관광부      ┃\n┃    단, 계약서가 없을 경우 다음의 서류를      ┃지침에 따른 공연예술표준계약서                    ┃\n┃    제출                                      ┃    단, 계약서가 없을 경우 다음의 서류를          ┃\n┃  참여한 작품에 대한 해당업무 책임자 명의의   ┃    제출                                          ┃\n┃공연사실확인서(별지 제5호서식)                ┃  참여한 작품에 대한 해당업무 책임자 명의의       ┃\n┃  공연 참여를 입증할 수 있는 본인 또는 업     ┃공연사실확인서(별지 제5호서식)                    ┃\n┃무책임자의 성명과 담당업무가 인쇄된 공연      ┃  공연 참여를 입증할 수 있는 본인 또는 업         ┃\n┃프로그램                                      ┃무책임자의 성명과 담당업무가 인쇄된 공연          ┃\n┃                                              ┃프로그램                                          ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000277164&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541387",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541383",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541387",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:무대예술전문인자격검정시행세칙#BYL0003",
+      "filename": "별표3_실무경력 인정신청 제출서류.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별표",
+      "title": "검정합격 인정신청 제출서류",
+      "enforcement_date": "",
+      "content": "■ 무대예술전문인 자격검정 시행세칙 [별표 4] <신설 2021. 1. 25.>\n검정합격 인정신청 제출서류\n공연장 종사자\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃제출서류                                                                                        ┃\n┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃(1) 검정합격인정 신청서 (별지 제8호서식)                                                        ┃\n┃(2) 신청인의 이력서                                                                             ┃\n┃(3) 별표5 에 의한 국가기술자격법에 의한 직무관련분야의 자격증 사본(해당자에 한함)               ┃\n┃(4) 영 별표2 제2호에 따른(2007년1월1일 이전 해당분야 실무경력 기간이 포함된) 실무경력을 증명    ┃\n┃할 수 있는 업무분야와 담당업무내용이 명시된 경력(재직)증명서(휴직기간 별도 표시)                ┃\n┃(5) 재직기간 중 해당분야 근무를 입증할 수 있는 인사책임자 및 공연장 대표의 날인이 확인되고 해당 ┃\n┃부서 직원 명단 전체가 확인되는 업무분장 사본                                                    ┃\n┃(6) 공연장 등록증 사본                                                                          ┃\n┃(7) 삭제<2016. 1. 13>                                                                           ┃\n┃(8) 공연장 폐쇄의 경우 재직을 입증할 수 있는 서류(해당자에 한함)                                ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n2. 공연업 종사자\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃제출서류                                                                                    ┃\n┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃(1) 검정합격인정 신청서 (별지 제8호서식)                                                    ┃\n┃(2) 신청인의 이력서                                                                         ┃\n┃(3) 별표5 에 의한 국가기술자격법에 의한 직무관련분야의 자격증 사본(해당자에 한함)           ┃\n┃(4) 해당분야에서 제작에 참여한 공연목록을 작성한 후 전자메일로 발송 (별지 제3호서식)        ┃\n┃(5) 영 별표2 제2호에 따른 실무경력을 증명할 수 있는 다음 각 호의 서류                       ┃\n┃  참여한 작품에 대한 공연단체장(주최, 제작, 기획사 대표 혹은 공연장 대표)과 해당업무 책임자 ┃\n┃명의의 공연사실확인서 (별지 제4,5호서식)                                                    ┃\n┃  공연참여를 입증할 수 있는 본인 또는 해당 업무책임자의 성명과 담당업무가 인쇄된 공연프로   ┃\n┃그램 또는 공연기간과 담당업무가 명시 된 계약서                                              ┃\n┃    (단, 2007년1월1일 이전에 참여한 작품은 본인성명과 담당업무가 확인되는 공연프로그램 또는 ┃\n┃계약서를 한 작품이상 포함하여 제출)                                                         ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000277164&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541393",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541389",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541393",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:무대예술전문인자격검정시행세칙#BYL0004",
+      "filename": "별표4_검정합격 인정신청 제출서류.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별표",
+      "title": "직무관련 자격종목 (제14조 관련)",
+      "enforcement_date": "",
+      "content": "■ 무대예술전문인 자격검정 시행세칙 [별표 5]\n직무관련 자격종목 (제14조 관련)\n┏━━━━┳━━━━━━┯━━━━━━┯━━━━━━┯━━━━┯━━━━━┯━━━━━┓\n┃무대예술┃등급        │기술사      │기능장      │기사    │산업기사  │기능사    ┃\n┃분야    ┃직무분야    │            │            │        │          │          ┃\n┣━━━━╇━━━━━━┿━━━━━━┿━━━━━━┿━━━━┿━━━━━┿━━━━━┫\n┃무대기계│1. 기계     │기계        │            │        │          │          ┃\n┃분야    │            │            │            │        │          │          ┃\n┃        │            │            │기계가공    │        │          │          ┃\n┃        │            │            │            │        │          │          ┃\n┃        │            │            │            │        │자동화설비│자동화설비┃\n┃        │            │            │            │        │          │          ┃\n┃        │            │            │            │기계설계│기계설계  │          ┃\n┠────┼──────┼──────┼──────┼────┼─────┼─────┨\n┃무대기계│4. 전기     │발송배전    │            │        │          │          ┃\n┃무대조명│            │            │            │        │          │          ┃\n┃분야    │            │            │전기        │전기    │전기      │전기      ┃\n┃        │            │            │            │        │          │          ┃\n┃        │            │건축전기설비│            │        │          │          ┃\n┠────┼──────┼──────┼──────┼────┼─────┼─────┨\n┃무대음향│5. 전자     │산업계측제어│            │        │          │          ┃\n┃분야    │            │            │            │        │          │          ┃\n┃        │            │전자응용    │            │        │          │          ┃\n┃        │            │            │            │        │          │          ┃\n┃        │            │            │전자        │        │          │전자      ┃\n┠────┼──────┼──────┼──────┼────┼─────┼─────┨\n┃무대음향│6. 통신     │정보통신    │            │정보통신│정보통신  │          ┃\n┃분야    │            │            │            │        │          │          ┃\n┃        │            │            │통신설비    │        │          │          ┃\n┃        │            │            │            │        │          │          ┃\n┃        │            │            │            │무선설비│무선설비  │무선설비  ┃\n┠────┼──────┼──────┼──────┼────┼─────┼─────┨\n┃무대기계│10. 건축    │건축구조    │            │        │          │          ┃\n┃분야    │            │            │            │        │          │          ┃\n┃        │            │            │            │        │          │전산응용  ┃\n┃        │            │            │            │        │          │건축제도  ┃\n┃        │            │            │            │        │          │          ┃\n┃        │            │건축기계설비│            │        │          │          ┃\n┃        │            │            │            │        │          │          ┃\n┃        │            │            │            │        │          │          ┃\n┃        │            │            │            │        │          │          ┃\n┃        │            │건축시공    │            │        │          │          ┃\n┃        │            │            │            │        │          │          ┃\n┃        │            │            │건축일반시공│        │          │          ┃\n┃        │            │            │            │        │          │          ┃\n┃        │            │            │            │건축    │건축      │          ┃\n┠────┼──────┼──────┼──────┼────┼─────┼─────┨\n┃무대기계│19. 안전관리│기계안전    │            │        │          │          ┃\n┃무대조명│            │            │            │        │          │          ┃\n┃무대음향│            │            │            │산업안전│산업안전  │          ┃\n┃분야    │            │            │            │        │          │          ┃\n┃        │            │화공안전    │            │        │          │          ┃\n┃        │            │            │            │        │          │          ┃\n┃        │            │전기안전    │            │        │          │          ┃\n┃        │            │            │            │        │          │          ┃\n┃        │            │건설안전    │            │        │          │          ┃\n┃        │            │            │            │        │          │          ┃\n┃        │            │소방        │            │        │          │          ┃\n┗━━━━┷━━━━━━┷━━━━━━┷━━━━━━┷━━━━┷━━━━━┷━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000277164&bylNo=0005&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541399",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541395",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541399",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:무대예술전문인자격검정시행세칙#BYL0005",
+      "filename": "별표5_직무관련 자격종목 (제14조 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "삭제",
+      "enforcement_date": "",
+      "content": "■ 무대예술전문인 자격검정 시행세칙 [별지 제1호서식]  <삭제 2021. 1. 25.>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541405",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541401",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541405",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:무대예술전문인자격검정시행세칙#BJ0001",
+      "filename": "별지1_삭제.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "삭제",
+      "enforcement_date": "",
+      "content": "■ 무대예술전문인 자격검정 시행세칙 [별지 제2호서식] <삭제 2016. 1. 13>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541411",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541407",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541411",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:무대예술전문인자격검정시행세칙#BJ0002",
+      "filename": "별지2_삭제.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "공연목록",
+      "enforcement_date": "",
+      "content": "\n■ 무대예술전문인 자격검정 시행세칙 [별지 제3호서식] <개정 2021. 1. 25.>\n\n공 연 목 록\n┌──┬───┬────┬────┬──┬──┬───┬───┬────────────────────────────┐\n│번호│공연명│공연기간│공연장소│주최│담당│공연  │업무  │비고                                                    │\n│    │      │        │        │    │업무│단체장│책임자│                                                        │\n├──┼───┼────┼────┼──┼──┼───┼───┼────────────────────────────┤\n│    │      │        │        │    │    │      │      │                                                        │\n├──┼───┼────┼────┼──┼──┼───┼───┼────────────────────────────┤\n│    │      │        │        │    │    │      │      │                                                        │\n├──┼───┼────┼────┼──┼──┼───┼───┼────────────────────────────┤\n│    │      │        │        │    │    │      │      │                                                        │\n├──┼───┼────┼────┼──┼──┼───┼───┼────────────────────────────┤\n│    │      │        │        │    │    │      │      │                                                        │\n├──┼───┼────┼────┼──┼──┼───┼───┼────────────────────────────┤\n│    │      │        │        │    │    │      │      │                                                        │\n├──┼───┼────┼────┼──┼──┼───┼───┼────────────────────────────┤\n│    │      │        │        │    │    │      │      │                                                        │\n├──┼───┼────┼────┼──┼──┼───┼───┼────────────────────────────┤\n│    │      │        │        │    │    │      │      │                                                        │\n├──┼───┼────┼────┼──┼──┼───┼───┼────────────────────────────┤\n│    │      │        │        │    │    │      │      │                                                        │\n├──┼───┼────┼────┼──┼──┼───┼───┼────────────────────────────┤\n│    │      │        │        │    │    │      │      │                                                        │\n└──┴───┴────┴────┴──┴──┴───┴───┴────────────────────────────┘\n위 사항이 사실임을 증명합니다.\n\n년       월       일\n\n작성자                               (서명 또는 인)\n\n국립중앙극장장  귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n─────────────────────────────────────────────────────────────\n※ 입증자료가 자격검정 시행세칙 제6조에 의하여 허위작성(위조, 변조 등)한 사실이 발견될 경우, 공?사문서의 위조, 변조와\n관련된 관계법령에 의하여 처벌을 받을 수 있습니다.\n※ “공연목록”은 전자메일(stafflist@ntok.go.kr)로 발송하여 주시기 바랍니다.(공연목록 수신만 가능)\n─────────────────────────────────────────────────────────────\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541417",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541413",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541417",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:무대예술전문인자격검정시행세칙#BJ0003",
+      "filename": "별지3_공연목록.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "공연사실 확인서(공연단체장 확인용)",
+      "enforcement_date": "",
+      "content": "\n■ 무대예술전문인 자격검정 시행세칙 [별지 제4호서식] <개정 2021. 1. 25.>\n\n공연사실 확인서(공연단체장 확인용)\n────┬──────────────┬─────────────────────────────────────────────\n신청인│ 성  명                     │ 생년월일\n│                            │                         .        .       .\n────┴──────────────┴─────────────────────────────────────────────\n\n─────┬─────┬────┬───┬────┬───────────────────────────────────────\n공연명  │공연기간  │공연장소│주최  │담당업무│비고\n─────┼─────┼────┼───┼────┼───────────────────────────────────────\n│          │        │      │        │\n─────┼─────┼────┼───┼────┼───────────────────────────────────────\n│          │        │      │        │\n─────┼─────┼────┼───┼────┼───────────────────────────────────────\n│          │        │      │        │\n─────┼─────┼────┼───┼────┼───────────────────────────────────────\n│          │        │      │        │\n─────┼─────┼────┼───┼────┼───────────────────────────────────────\n│          │        │      │        │\n─────┴─────┴────┴───┴────┴───────────────────────────────────────\n본 사실확인서는 공연법에 의한 무대예술전문인 자격검정 실무경력 심의에 필요한 경력입증자료임을\n인지하고, 위 공연 사실을 확인합니다.\n\n년       월       일\n\n입증인 (공연단체장)   단체명\n\n주소\n\n연락처\n\n법인번호\n\n사업자등록번호\n\n단체장 성명     ┏━━┓\n┃직인┃\n┗━━┛\n\n국립중앙극장장  귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n─────────────────────────────────────────────────────────────────\n※ 입증자료가 자격검정 시행세칙 제7조에 의하여 허위작성(위조, 변조 등)한 사실이 발견될 경우, 공?사문서의 위조, 변조와 관련된\n관계법령에 의하여 처벌을 받을 수 있습니다.\n─────────────────────────────────────────────────────────────────\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]\n\n\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541423",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541419",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541423",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:무대예술전문인자격검정시행세칙#BJ0004",
+      "filename": "별지4_공연사실 확인서(공연단체장 확인용).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별지",
+      "title": "공연사실 확인서(해당업무책임자 확인용)",
+      "enforcement_date": "",
+      "content": "\n■ 무대예술전문인 자격검정 시행세칙 [별지 제5호서식] <개정 2021. 1. 25.>\n\n공연사실 확인서(해당업무책임자 확인용)\n────┬─────────────────────┬──────────────────────────────────────\n신청인│ 성  명                                   │ 생년월일\n│                                          │                         .        .       .\n────┴─────────────────────┴──────────────────────────────────────\n\n─────┬────────┬────┬───────┬────┬────────────────────────────────\n공연명  │공연기간        │공연장소│주최          │담당업무│비고\n─────┼────────┼────┼───────┼────┼────────────────────────────────\n│                │        │              │        │\n─────┼────────┼────┼───────┼────┼────────────────────────────────\n│                │        │              │        │\n─────┼────────┼────┼───────┼────┼────────────────────────────────\n│                │        │              │        │\n─────┼────────┼────┼───────┼────┼────────────────────────────────\n│                │        │              │        │\n─────┴────────┴────┴───────┴────┴────────────────────────────────\n본 사실확인서는 공연법에 의한 무대예술전문인 자격검정 실무경력 심의에 필요한 경력입증자료임을\n인지하고, 아래의 업무책임자에 해당하는 입증인으로서 위 사람의 공연 참여 사실을 확인합니다.\n\n년       월       일\n\n입증인 (해당업무책임자)   성명                       (서명 또는 인)\n\n생년월일\n\n연락처\n\n현 근무처(소속/부서/직위)\n\n확인대상기간 중의 근무처\n(소속/부서/직위)\n─────────────────────────────────────────────────────────────────\n<개인정보수집?이용 동의 여부>\n입증인 본인은 귀 기관이 위와 같이 본인의 개인정보를 수집하는 것에 동의합니다. 동의를 거부하실\n수 있으며, 다만, 동의하지 않으시는 경우 입증 서류제출이 불가합니다.\n\n( 동의함□    동의하지 않음□ )\n─────────────────────────────────────────────────────────────────\n국립중앙극장장  귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n─────────────────────────────────────────────────────────────────\n※ 해당업무책임자\n- 무대기계분야 업무 책임자 : 무대기술감독, 무대기계감독, 장치디자이너\n- 무대조명분야 업무 책임자 : 무대기술감독, 무대조명감독, 조명디자이너\n- 무대음향분야 업무 책임자 : 무대기술감독, 무대음향감독, 음향디자이너\n※ 단, 그 외에 동등한 업무를 수행한 자로 자격검정위원회가 인정하는 경우\n※ 입증자료가 자격검정 시행세칙 제7조에 의하여 허위작성(위조, 변조 등)한 사실이 발견될 경우, 공?사문서의 위조, 변조와 관련된\n관계법령에 의하여 처벌을 받을 수 있습니다.\n─────────────────────────────────────────────────────────────────\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]\n\n\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541429",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541425",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541429",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:무대예술전문인자격검정시행세칙#BJ0005",
+      "filename": "별지5_공연사실 확인서(해당업무책임자 확인용).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별지",
+      "title": "무대예술전문인 자격검정 응시원서",
+      "enforcement_date": "",
+      "content": "■ 무대예술전문인 자격검정 시행세칙 [별지 제6호서식]\n무대예술전문인 자격검정 응시원서\n┏━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━┓\n┃           년도    제      회             │※ 수험번호               │                                  ┃\n┠───┬────┬───┬────────┼─────────────┼─────────────────┨\n┃성 명 │한 글   │      │주민등록번호    │                          │3개월 이내 촬영한 동일원판의      ┃\n┃      ├────┼───┼────────┼─────────────┤탈모상반신 사진 부착 (3.5×4.5cm) ┃\n┃      │한 자   │      │성    별        │남 ? 여                  │                                  ┃\n┠───┴────┼───┴────────┴─────────────┤                                  ┃\n┃응시분야        │□ 무대기계    □ 무대조명    □ 무대음향           │                                  ┃\n┃                │(해당 응시분야에 V표시)                             │                                  ┃\n┠────────┼──────────────────────────┤                                  ┃\n┃응시급수        │□ 3급     □ 2급     □ 1급                        │                                  ┃\n┃                │(해당 응시급수에 V표시)                             │                                  ┃\n┠────────┼──────────────────────────┤                                  ┃\n┃응시전형        │□ 필기전형     □ 실기전형                         │                                  ┃\n┃                │(해당 응시전형에 V표시)                             │                                  ┃\n┠────────┼──────────────────────────┴─────────────────┨\n┃주소            │ (            )                                                                         ┃\n┃                │                                                                                        ┃\n┃                │                                                                                        ┃\n┃                ├──┬─┬───────┬────────────┬─────┬────────────┨\n┃                │전화│  │휴대폰        │                        │E-mail    │                        ┃\n┠────┬───┼──┴─┴───────┴────────────┴─────┴────────────┨\n┃근무    │소속  │                                                                                        ┃\n┃처      │(직위)│                                                                                        ┃\n┃        ├───┼──┬──┬──────┬────────────┬───┬──────────────┨\n┃        │연락처│전화│    │팩스        │                        │E-mail│                            ┃\n┠────┴───┼──┴──┴──────┼────────────┼───┴───┬──────────┨\n┃ 실무경력인정   │실무경력 인정내역       │년     월               │인정번호      │                    ┃\n┃(해당자만 기재) │                        │                        │              │                    ┃\n┠────────┼────────────┼────────────┼───────┼──────────┨\n┃자격취득        │자격검정 합격(인정) 내역│    급                  │합격(인정)번호│                    ┃\n┃(해당자만 기재) │                        │                        │              │                    ┃\n┠────────┼────────────┴────────────┴───────┴──────────┨\n┃경과조치        │□ 경과조치 대상자          □ 경과조치 미대상자                                        ┃\n┃대상여부        │(해당 항목에 V표시)                                                                     ┃\n┠────────┼────────────┬────┬────────────┬─────────────┨\n┃학력사항        │학 교 명                │입학년도│졸업년도                │전공                      ┃\n┃(해당자만 기재) ├────────────┼────┼────────────┼─────────────┨\n┃                │(졸업, 졸업예정)        │        │                        │                          ┃\n┠────────┼────────────┼────┴────────────┼─────────────┨\n┃ 자격사항       │자격증명                │취득일                            │시행기관                  ┃\n┃(해당자만 기재) ├────────────┼─────────────────┼─────────────┨\n┃                │                        │                                  │                          ┃\n┠────────┴────────────┼────────────┬────┴─────────────┨\n┃대한민국정부수입인지 부착란               │필기전형 합격확인       │            분야     급             ┃\n┃(필기시험:13,000원?실기시험:15,000원)    │(실기전형 응시자에 한함)│                                    ┃\n┃                                          ├────────────┼──────────────────┨\n┃                                          │필기시험 합격일자       │         년    월    일             ┃\n┠─────────────────────┴────────────┴──────────────────┨\n┃                                                                                                          ┃\n┃                                                                      년       월       일                ┃\n┃                                                                                                          ┃\n┃                                                           신청자                   (서명 또는 인)        ┃\n┃                                                                                                          ┃\n┃ 위 기재사항이 사실과 틀림없음을 확인함.                                                                  ┃\n┃                                                                                                          ┃\n┃ 국립중앙극장장 귀하                                                                                      ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n<수험표 >\n┌─────────────────────────────────────────────────────┐\n│년도   제      회                                                                                         │\n│무대예술전문인 자격검정 시험 수험표                                                                       │\n│┏━━━━━━┳━━━━━━━━━┱──┬──────────────┬────────────────┐│\n│┃※ 수험번호 ┃                  ┃성명│                            │                                ││\n│┡━━━━━━╇━━━━━━━━━╃──┼┬┬┬┬┬┬────────┤                                ││\n││응시전형    │□ 필기   □ 실기 │주민│││││││～              │사   진                         ││\n││            │                  │등록├┼┼┼┼┼┼────────┤3개월 이내 촬영한               ││\n││            │                  │번호│││││││                │동일원판의                      ││\n│├──────┼─────────┼──┴┴┴┴┴┴┴────────┤탈모상반신 사진 부착            ││\n││응시분야    │                  │                     년   월   일 │(3.5*4.5cm)                     ││\n│├──────┼─────────┤                                  │                                ││\n││응시급수    │               급 │ 국 립 중 앙 극 장 장             │                                ││\n│├──────┴─────────┴─────────────────┴────────────────┤│\n││주    의    사    항                                                                                  ││\n││                                                                                                      ││\n││1. 수험표를 받는 즉시 응시번호와 사진위의 철압인 날인여부를 확인하여야 합니다.                        ││\n││2. 수험표를 분실하였을 때는 사진 1매를 가지고 시험일 당일까지 고사장에 오시면 재교부 받을 수 있습니다.││\n││3. 시험당일은 수험표, 신분증 등을 지참하고 9시 20분까지 시험장소에 집결하여야 합니다.                 ││\n│└───────────────────────────────────────────────────┘│\n└─────────────────────────────────────────────────────┘\n<응시원서 기재 시 유의사항>\n┌────────────────────────────────────────────────────────┐\n│1.응시원서는 흑?청색 볼펜 또는 만년필로 해당 사항을 빠짐없이 정확하게 기재하여야 하고 잘못 기재하였을 경우에는 │\n│두 줄을 긋고 정정한 후 응시원서에 날인한 응시자의 동일한 인장으로 날인하며 칼로 긁거나, 약품으로 지우거나 덧붙  │\n│이지 마십시오.                                                                                                  │\n│2.응시원서의 ※ 표시는 검정기관에서 기재하는 난이므로 응시자가 기재해서는 안 됩니다.                            │\n│3. 사진은 최근 3개월 이내에 촬영한 동일 원판의 사진(3.5×4.5cm 탈모 상반신)을 부착하여야 합니다.                │\n│4.응시원서는 기재 시 작성오류, 기재사항 누락, 판독 불능 등이 없도록 각별히 유의하여 기재하여야 하며 응시원서의  │\n│기재착오, 누락 등으로 인하여 본인에게 불이익이 발생하더라도 검정기관에서는 책임지지 않습니다.                   │\n└────────────────────────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541437",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541431",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541437",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:무대예술전문인자격검정시행세칙#BJ0006",
+      "filename": "별지6_무대예술전문인 자격검정 응시원서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "별지",
+      "title": "무대예술전문인 실무경력 인정신청서",
+      "enforcement_date": "",
+      "content": "\n■ 무대예술전문인 자격검정 시행세칙[별지 제7호서식] <개정 2021. 1. 25.>\n\n무대예술전문인 실무경력 인정신청서\n\n※ 뒤쪽의 작성방법을 읽고 작성하시기 바라며, □에는 해당되는 곳에 √표를 합니다.   (앞 쪽)\n\n───────────────────────────────────────────────────────────\n처리기간   30일\n────┬────────────────────────┬─────────────────────────────\n신청인│① 성명                                         │② 주민등록번호\n│                                 (□ 남, □ 여) │\n├────────────────────────┴─────────────────────────────\n│③ 주소\n│\n│                                                             (연락처 :                                  )\n────┴──────────────────────────────────────────────────────\n\n────────────┬──────────────────────────────────────────────\n④ 교육과정 이수여부  │□ 이수    □ 미이수\n────────────┴──────────────────────────────────────────────\n\n────┬───────┬───────────┬──────┬───┬───────────────────────\n신청  │⑤ 인정신청   │자격종목              │            │등급  │\n내역  │   자격별     │                      │            │      │\n├───────┼───────────┴─────┬┴───┴───────────────────────\n│⑥ 인정신청   │공연장 종사경력                   │년      개월\n│   실무경력   ├─────┬────┬──────┴────────────────────────────\n│              │공연업    │구분    │연도별 제작 및 설치 참여 건수\n│              │종사경력  │        │(※최근부터 필요한 기간 연도의 실적만 기재)\n│              │          │        ├─┬────┬─┬──┬───────┬───────────────\n│              │          │        │년│년      │년│년  │년            │년\n│              │          ├────┼─┼────┼─┼──┼───────┼───────────────\n│              │          │공연제작│  │        │  │    │              │\n│              │          │(작품수)│  │        │  │    │              │\n│              │          ├────┼─┼────┼─┼──┼───────┼───────────────\n│              │          │기기설치│  │        │  │    │              │\n│              │          │(공사수)│  │        │  │    │              │\n├───────┼─────┼────┴─┼────┼─┼──┼───────┴───────────────\n│⑦ 관련학과   │대학(원)명│            │관련    │  │교육│\n│   이수내역   │          │            │학과명  │  │기간│\n────┴───────┴─────┴──────┴────┴─┴──┴───────────────────────\n공연법 제14조, 동법 시행령 부칙 제2항 및 시행규칙 제6조의5제1항의 규정에 의하여 위와 같이\n무대예술전문인 자격검정에 응시하고자 실무경력인정을 신청합니다.\n\n년       월       일\n\n신청인                                             (서명 또는 인)\n\n검정기관의 장  귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n───────────────────────────────────────────────────────────\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]\n\n\n\n\n\n(뒤 쪽)\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n─────┬────────────────────────────────────────┬────────────\n첨부서류│ ※ 다음 각호의 서류 중 해당 서류만 제출하시면 됩니다.                          │수수료\n│ 1. 신청인의 이력서 1부                                                         │검정기관이\n│ 2. 교육기관 수료증 사본 1부                                                    │문화체육관광부장관의\n│ 3. 실무경력을 증명할 수 있는 서류 각 1부                                       │승인을 얻어 정한 금액\n│ 4. 관련분야 교육이수를 증명할 수 있는 서류 각 1부                              │\n─────┴────────────────────────────────────────┴────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n작성방법\n───────────────────────────────────────────────────────────\nㅇ 공연장 종사자의 실무경력은 공연장 근무기간으로 하고, 공연업 종사자의 실무경력은 검정기관 이 정하여 고시하는 기준에\n따라 연간 공연작품 5개의 제작이나 장치설치(공사 포함)에 참여한 경우 실무경력 1년으로 합니다. 실무경력 인정대상이 되\n는 작품의 세부기준은 검정기관이 정한 자격검정시행세칙을 참고하시기 바랍니다.\nㅇ 공연장 종사자 및 공연업 종사자가 실무경력으로 인정받을 수 있는 업무분야는 자격종류별로 다음과 같습니다.\n- 무대기계 : 무대기계 또는 설비의 조작?운영, 무대장치의 설치?전환\n- 무대조명 : 조명기 또는 특수조명기의 설치?조작?운영, 조명제어\n- 무대음향 : 음향기기 또는 특수음향기기의 설치?조작?운영\nㅇ 그 밖에 실무경력 인정에 관하여 필요한 사항은 검정기관이 정한 자격검정시행세칙을 참고하시기 바랍니다.\n───────────────────────────────────────────────────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n처리절차\n───────────────────────────────────────────────────────────\n\n┌──────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌─────────┐\n│신청서 작성 │?│접 수               │?│인정여부            │?│인증서 작성         │?│인정서 교부       │\n│            │  │                    │  │결정ㆍ 결재         │  │                    │  │                  │\n└──────┘  └──────────┘  └──────────┘  └──────────┘  └─────────┘\n신청인            검정기관(무대예술전       검정기관(무대예술전       검정기관(무대예술전       신청인\n문인 자격검정위원회)      문인 자격검정위원회)      문인 자격검정위원회)\n\n\n───────────────────────────────────────────────────────────\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541445",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541439",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541445",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:무대예술전문인자격검정시행세칙#BJ0007",
+      "filename": "별지7_무대예술전문인 실무경력 인정신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0008",
+      "branch": "00",
+      "kind": "별지",
+      "title": "무대예술전문인 검정합격인정 신청서",
+      "enforcement_date": "",
+      "content": "\n■ 무대예술전문인 자격검정 시행세칙[별지 제8호서식] <개정 2021. 1. 25.>\n\n무대예술전문인 검정합격인정 신청서\n\n※ 뒤쪽의 작성방법을 읽고 작성하시기 바라며, □에는 해당되는 곳에 √표를 합니다.   (앞 쪽)\n─────────────────────────────────────────────────\n처리기간   30일\n────┬─────────────────┬──────────────────────────\n신청인│① 성명                           │② 주민등록번호\n│                                  │\n│(□ 남, □ 여)                    │\n├─────────────────┴──────────────────────────\n│③ 주소\n│\n│                                          (연락처 :                                  )\n────┴────────────────────────────────────────────\n\n────┬────────┬────────┬─┬──┬─────────────────────\n신청  │④ 응시자격별   │자격종목        │  │등급│\n내역  ├────────┼────────┼─┴──┴─────────────────────\n│⑤ 실무경력     │공연장 종사경력 │년            개월\n│                ├────────┼──────────────────────────\n│                │공연업 종사경력 │개 (작품)\n├────────┼────────┼──────────────────────────\n│⑥ 소지자격증   │발급번호        │\n│                ├────────┼──────────────────────────\n│                │분야            │\n│                ├────────┼─┬──┬─────────────────────\n│                │자격종목        │  │등급│\n────┴────────┴────────┴─┴──┴─────────────────────\n공연법 부칙 제3조 규정에 의하여 위와 같이 무대예술전문인 검정합격인정을 신청합니다.\n\n\n\n\n\n\n\n년       월       일\n\n신청인                                         (서명 또는 인)\n\n검정기관의 장  귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n─────────────────────────────────────────────────\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]\n\n\n\n\n\n(뒤 쪽)\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n─────┬──────────────────────────────────────┬────────────\n첨부서류│ ※ 다음 각호의 서류 중 해당서류만 제출하시면 됩니다.                       │수수료\n│    1. 신청인의 이력서 1부                                                  │검정기관이\n│    2. 실무경력을 증명할 수 있는 서류 1부                                   │문화체육관광부장관의\n│    3. 관련자격증 사본 1부                                                  │승인을 얻어 정한 금액\n─────┴──────────────────────────────────────┴────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n작성방법\n─────────────────────────────────────────────────────────\n※ 아래 사항에 유의하시기 바랍니다.\n가. 실무경력은 다음과 같이 산정합니다.\nㅇ 공연장 종사자의 실무경력은 공연장 근무기간으로 하고, 공연업 종사자의 실무경력은 검정기관이 정하여 고시하는 기준에 해당\n하는 공연작품 5개의 제작에 참여한 경우 실무경력 1년으로 합니다. 실무경력 인정대상이 되는 작품의 세부기준은 검정기관\n이 정한 자격검정시행세칙을 참고하시기 바랍니다.\nㅇ 공연장 종사자 및 공연업 종사자가 실무경력으로 인정받을 수 있는 업무분야는 자격종류별로 다음과 같습니다.\n- 무대기계 : 무대기계 또는 설비의 조작?운영, 무대장치의 설치?전환\n- 무대조명 : 조명기 또는 특수조명기의 설치?조작?운영, 조명제어\n- 무대음향 : 음향기기 또는 특수음향기기의 설치?조작?운영\nㅇ 기타 실무경력 인정에 관하여 필요한 사항은 검정기관이 정한 자격검정시행세칙을 참고하시기 바랍니다.\n나. 위 실무경력에 의한 자격검정 합격인정기준은 다음과 같습니다.\n┌──┬───────────────────────────┬───────────────────────────┐\n│등급│공연장 종사자                                         │공연업 종사자                                         │\n├──┼───────────────────────────┼───────────────────────────┤\n│1급 │해당분야 실무경력 15년 이상인 자로서 객석 500석이상인 │해당분야 실무경력 15년 이상인 자로서 객석 500석이상인 │\n│    │공연장 근무경력이 10년 이상인 자                      │공연장에서 공연된 50개 이상의 작품에 참여한 자        │\n├──┼───────────────────────────┼───────────────────────────┤\n│2급 │해당분야 실무경력 10년 이상인 자로서 객석 300석이상인 │해당분야 실무경력 10년 이상인 자로서 객석             │\n│    │공연장 근무경력이 7년 이상인 자                       │300석이상인 공연장에서 공연된 35개 이상의 작품에      │\n│    │                                                      │참여한 자                                             │\n├──┼───────────────────────────┼───────────────────────────┤\n│3급 │해당분야 실무경력 7년 이상인 자                       │해당분야 실무경력 7년 이상인 자                       │\n└──┴───────────────────────────┴───────────────────────────┘\n─────────────────────────────────────────────────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n처리절차\n─────────────────────────────────────────────────────────\n\n┌──────┐  ┌────────┐  ┌──────────┐  ┌──────────┐  ┌─────────┐\n│신청서 작성 │?│접 수           │?│인정여부 결정ㆍ결재 │?│자격증 작성ㆍ발급   │?│자격증 교부       │\n│            │  │                │  │ㆍ발급의뢰          │  │                    │  │                  │\n└──────┘  └────────┘  └──────────┘  └──────────┘  └─────────┘\n신청인            검정기관              검정기관                  문화체육관광부            검정기관\n(무대예술전문인       (무대예술전문인           (공연예술 담당부서)       (무대예술전문인\n자격검정위원회)       자격검정위원회)                                     자격검정위원회)\n\n\n─────────────────────────────────────────────────────────\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541453",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541447",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541453",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:무대예술전문인자격검정시행세칙#BJ0008",
+      "filename": "별지8_무대예술전문인 검정합격인정 신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0009",
+      "branch": "00",
+      "kind": "별지",
+      "title": "무대예술전문인 자격증 교부 신청서",
+      "enforcement_date": "",
+      "content": "\n■ 무대예술전문인 자격검정 시행세칙 [별지 제9호서식] <신설 2021. 1. 25.>\n\n무대예술전문인 자격증 교부 신청서\n\n※ 색상이 어두운 난은 신청인이 적지 않습니다.\n※ □ 에는 해당하는 곳에 √표를 합니다.\n────────┬───────────┬────────────────────\n자격증        │성명(한글)            │성명(한자)\n본인          ├───────────┼────────────────────\n│생년월일              │성별        □ 남   □ 여\n├───────────┴────────────────────\n│주소(자격증 기재)\n│\n│\n├────────────────────────────────\n│연락처\n│\n├───────────┬────────────────────\n│현직(소속)            │직위\n────────┼───────────┼────────────────────\n대리신청일    │성명                  │생년월일\n경우          ├───────────┴────────────────────\n│연락처(휴대폰)\n※해당시 작성 │\n────────┼────────────────────────────────\n분 야         │□ 무대기계   □ 무대조명   □ 무대음향\n────────┼────────────────────────────────\n등 급         │□ 3급        □ 2급         □ 1급\n────────┼──────────┬─────────────────────\n수령방법      │ 우편   □          │수령지 주소  (             )\n│                    │\n├──────────┴┬────────────────────\n│ 방문   □            │※ 검정기관 기입란\n────────┼───────────┼──────┬─────────────\n자격취득 내역 │자격검정 시험합격  □ │합격일자    │년      월     일\n├───────────┼──────┼─────────────\n│자격검정 합격인정  □ │합격인정일자│년      월     일\n────────┴───────────┴──────┴─────────────\n위와 같이 자격증 교부를 신청합니다.\n\n년       월       일\n\n신청인                                   (서명 또는 인)\n\n국립중앙극장장  귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n─────┬──────────────────────┬────────────\n첨부서류│ 사진 1매(2.5*3.0cm) 1매, 신분증 사본 1부   │자격증 발급\n│                                            │ 수수료 4,000원\n│                                            │(대한민국정부수입인지)\n─────┴──────────────────────┴────────────\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541459",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541455",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541459",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:무대예술전문인자격검정시행세칙#BJ0009",
+      "filename": "별지9_무대예술전문인 자격증 교부 신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0010",
+      "branch": "00",
+      "kind": "별지",
+      "title": "확인서 발급 신청서",
+      "enforcement_date": "",
+      "content": "\n■ 무대예술전문인 자격검정 시행세칙 [별지 제10호서식] <신설 2021. 1. 25.>\n\n확인서 발급 신청서\n─────┬─────┬───────────────────────────\n신청인  │성명(한글)│성명(한자)\n├─────┼───────────────────────────\n│생년월일  │연락처\n├─────┴───────────────────────────\n│주소(우편 수령지)\n─────┴─────────────────────────────────\n\n─────┬─────────────────────────────────\n확인요청│\n내용    │\n─────┴─────────────────────────────────\n\n─────┬─────────────────────────────────\n사용용도│\n─────┴─────────────────────────────────\n위와 같이 확인서 발급을 신청합니다.\n\n년       월       일\n\n신청인                 (서명 또는 인)\n\n국립중앙극장장  귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n210㎜×297㎜[백상지(120g/㎡) 또는 백상지(80g/㎡)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541465",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541461",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541465",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:무대예술전문인자격검정시행세칙#BJ0010",
+      "filename": "별지10_확인서 발급 신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0011",
+      "branch": "00",
+      "kind": "별지",
+      "title": "확인서",
+      "enforcement_date": "",
+      "content": "\n■ 무대예술전문인 자격검정 시행세칙 [별지 제11호서식] <신설 2021. 1. 25.>\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                                          ┃\n┃                                                                          ┃\n┃                                                                          ┃\n┃                                                                          ┃\n┃확 인 서                                                                  ┃\n┃                                                                          ┃\n┃  1. 성    명:                                                            ┃\n┃  2. 생년월일:                                                            ┃\n┃  3. 현주소:                                                              ┃\n┃  4. 확인내역                                                             ┃\n┃    ㅇ                                                                    ┃\n┃    ㅇ                                                                    ┃\n┃                                                                          ┃\n┃                                                                          ┃\n┃                                                                          ┃\n┃                                                                          ┃\n┃                                                                          ┃\n┃                                                                          ┃\n┃                                                                          ┃\n┃                                                                          ┃\n┃                                                                          ┃\n┃   위의 사실을 확인합니다.                                                ┃\n┃                                                                          ┃\n┃    년       월       일                                                  ┃\n┃                                                                          ┃\n┃                                                                          ┃\n┃                ┏━━┓                                                  ┃\n┃  국립중앙극장장┃직인┃                                                  ┃\n┃                ┗━━┛                                                  ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210mm×297mm[백상지 150g/㎡]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541471",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541467",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541471",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:무대예술전문인자격검정시행세칙#BJ0011",
+      "filename": "별지11_확인서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0012",
+      "branch": "00",
+      "kind": "별지",
+      "title": "증빙자료 반환 신청서",
+      "enforcement_date": "",
+      "content": "\n■ 무대예술전문인 자격검정 시행세칙 [별지 제12호서식] <신설 2021. 1. 25.>\n\n증빙자료 반환 신청서\n─────┬─────────────────────────────────\n신청인  │성명(한글)\n├────┬────────────────────────────\n│생년월일│연락처\n├────┴────────────────────────────\n│주소(우편 수령지)\n─────┴─────────────────────────────────\n\n─────┬─────────────────────────────────\n신청분야│□ 무대기계   □ 무대조명   □ 무대음향\n─────┼─────────────────────────────────\n신청등급│□ 3급        □ 2급         □ 1급\n─────┴─────────────────────────────────\n위와 같이 증빙서류 반환을 신청합니다.\n\n년       월       일\n\n신청인               (서명 또는 인)\n\n국립중앙극장장  귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n210㎜×297㎜[백상지(120g/㎡) 또는 백상지(80g/㎡)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541477",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541473",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163541477",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:무대예술전문인자격검정시행세칙#BJ0012",
+      "filename": "별지12_증빙자료 반환 신청서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "무대예술전문인 자격검정 시행세칙 일부개정 전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=163352401",
+      "file_store_url": "",
+      "filename": "무대예술전문인 자격검정 시행세칙 일부개정 전문.pdf"
+    },
+    {
+      "name": "무대예술전문인 자격검정 시행세칙 일부개정 전문.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=163352397",
+      "file_store_url": "",
+      "filename": "무대예술전문인 자격검정 시행세칙 일부개정 전문.hwp"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 45,
+    "by_category": {
+      "법령": 29,
+      "행정규칙": 3,
+      "별표": 8,
+      "별지": 5
+    },
+    "by_relation_type": {
+      "citation": 29,
+      "internal_ref": 3,
+      "appendix_ref": 13
+    },
+    "articles_total": 31,
+    "articles_with_relations": 17,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 2,
+    "appendices_count": 17,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/무대예술전문인 자격검정 시행세칙"
+  },
+  "provision_id": "admrul:무대예술전문인자격검정시행세칙#DOC"
+}
