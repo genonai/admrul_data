@@ -1,0 +1,940 @@
+{
+  "law_id": "2100000279730",
+  "mst": "2100000279730",
+  "law_name": "명승 종합정비계획 수립 및 시행에 관한 지침",
+  "law_abbr": "",
+  "law_type": "훈령",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000279730",
+  "promulgation_no": "57",
+  "promulgation_date": "20260517",
+  "enforcement_date": "20260517",
+  "revision_date": "20260517",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국가유산청(명승전통조경과)",
+    "담당자명": "김동관",
+    "행정규칙종류코드": "B0001",
+    "행정규칙명": "명승 종합정비계획 수립 및 시행에 관한 지침",
+    "발령일자": "20260517",
+    "행정규칙종류": "훈령",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국가유산청",
+    "전화번호": "042-481-7679",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1833100",
+    "생성일자": "20260526",
+    "행정규칙ID": "62892",
+    "시행일자": "20260517",
+    "담당부서기관코드": "1833143",
+    "발령번호": "57",
+    "행정규칙일련번호": "2100000279730",
+    "상위부처명": "국가유산청"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정이유\n「국가유산기본법」 개정(‘26.5.17. 시행)에 근거해 문화유산위원회, 자연유산위원회 및 무형유산위원회를 각각 폐지하는 대신 국가유산위원회를 설치ㆍ운영함에 따라 국가유산청 소관 행정규칙의 위원회 명칭을 일괄로 정비하려는 것임\n◇ 주요내용\nㅇ 위원회 명칭 등 변경\n- (현행) 문화유산위원회 → (개정) 국가유산위원회\n- (현행) 무형유산위원회 → (개정) 국가유산위원회\n- (현행) 자연유산위원회 → (개정) 국가유산위원회\n- (현행) 시ㆍ도문화유산위원회 → (개정) 시ㆍ도유산위원회\n- (현행) 시ㆍ도무형유산위원회 → (개정) 시ㆍ도유산위원회\n- (현행) 시ㆍ도자연유산위원회 → (개정) 시ㆍ도유산위원회\n[그림]\n",
+  "body": {
+    "format": "articles",
+    "article_count": 23,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총 칙",
+        "content": "제1조(목적) 이 지침은 「자연유산의 보존 및 활용에 관한 법률」 제37조에 따라 국가유산청장이 지정한 명승에 대하여 같은 법 시행령 제41조에 따른 명승 종합정비계획 수립 및 시행하는데 필요한 사항을 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제37조",
+            "line_text": "",
+            "target_law_name": "자연유산의 보존 및 활용에 관한 법률",
+            "target_article_no": "제37조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연유산의 보존 및 활용에 관한 법률/제37조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0001",
+            "reference_id": "law:자연유산의보존및활용에관한법률#JO0037"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "자연유산의 보존 및 활용에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연유산의 보존 및 활용에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0001",
+            "reference_id": "law:자연유산의보존및활용에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제41조",
+            "line_text": "",
+            "target_law_name": "자연유산의 보존 및 활용에 관한 법률 시행령",
+            "target_article_no": "제41조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연유산의 보존 및 활용에 관한 법률 시행령/제41조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0001",
+            "reference_id": "law:자연유산의보존및활용에관한법률시행령#JO0041"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "용어의 정의",
+        "chapter": "제1장 총 칙",
+        "content": "제2조(용어의 정의) 이 지침에서 사용하는 용어의 정의는 다음 각 호와 같다.1. \"종합정비계획\"(이하 \"정비계획\"이라 한다)이란 정비계획 수립의 주체가 명승의 지정가치를 효율적으로 보존ㆍ관리하고 국민이 향유할 수 있도록 정비계획의 목적과 범위를 정하고, 자연유산의 고증 및 학술조사, 보수ㆍ복원과 관리ㆍ운영 등에 관하여 종합적으로 계획하는 것을 말한다.2. \"자문위원\"이란 「자연유산의 보존 및 활용에 관한 법률 시행령」(이하 \"영\"이라 한다.) 제16조제1항에 해당하는 자를 말한다.3. \"명승 유형\"이란 명승의 효율적 보존ㆍ관리 및 활용을 위한 분류상의 구분을 말하며, 명승 유형의 구분은 별표 1과 같다.4. \"조망점\"이란 자연유산구역 내외에서 조망대상을 조망할 수 있는 위치를 말한다.5. \"조망대상\"이란 자연유산구역 내 역사적 가치가 있거나 자연경관이 우수한 경관자원을 말한다.6. \"자연경관자원\"이란 자연경관이 아름답고 학술적 예술적 가치가 있는 자연물을 말한다.7. \"역사경관자원\"이란 역사적 사건과 인물의 배경이 되거나 전설 및 유래가 깃들어져 있는 자연적, 인공적 대상물을 말한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「자연유산의 보존 및 활용에 관한 법률 시행령」",
+            "line_text": "",
+            "target_law_name": "자연유산의 보존 및 활용에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연유산의 보존 및 활용에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0002",
+            "reference_id": "law:자연유산의보존및활용에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제16조제1항",
+            "line_text": "",
+            "target_law_name": "자연유산의 보존 및 활용에 관한 법률 시행령",
+            "target_article_no": "제16조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연유산의 보존 및 활용에 관한 법률 시행령/제16조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0002",
+            "reference_id": "law:자연유산의보존및활용에관한법률시행령#JO0016"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "명승 종합정비계획 수립 및 시행에 관한 지침",
+            "target_article_no": "별표1",
+            "target_article_title": "명승 유형 구분(제2조제3호 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000279730&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0002",
+            "reference_id": "admrul:명승종합정비계획수립및시행에관한지침#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "구역 및 적용범위",
+        "chapter": "제1장 총 칙",
+        "content": "제3조(구역 및 적용범위) ① 이 지침은 관리단체가 영 제41조에 따른 정비계획을 수립 및 시행하는 데 적용한다.② 정비계획의 기준연도는 자연유산 현황 등 기초조사를 시작하는 연도를 말하며, 계획 수립에 관한 목표연도는 기준연도로부터 10년까지로 한다. 다만, 5년마다 정비계획의 타당성 및 주변 여건 변화를 파악하여 수립된 정비계획을 재수립 또는 변경할 수 있다.③ 정비계획의 공간적 범위는 기준연도에 고시된 명승 자연유산지정구역과 자연유산보호구역(이하 자연유산지정구역과 자연유산보호구역을 포함한 구역을 \"자연유산구역\"으로 한다)을 범위로 하며, 관리단체와 협의하여 역사문화환경 보존지역까지 확대하여 적용할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "영",
+            "line_text": "",
+            "target_law_name": "자연유산의 보존 및 활용에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연유산의 보존 및 활용에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0003",
+            "reference_id": "law:자연유산의보존및활용에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "제41조",
+            "line_text": "",
+            "target_law_name": "자연유산의 보존 및 활용에 관한 법률 시행령",
+            "target_article_no": "제41조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연유산의 보존 및 활용에 관한 법률 시행령/제41조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0003",
+            "reference_id": "law:자연유산의보존및활용에관한법률시행령#JO0041"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "다른 법령과의 관계",
+        "chapter": "제1장 총 칙",
+        "content": "제4조(다른 법령과의 관계) ① 정비계획 수립 시행에 관하여 다른 법령에 특별한 규정이 있는 경우를 제외하고는 이 지침에서 정하는 바에 따른다.② 자연유산구역의 적정성 검토는 「자연유산의 보존 및 활용에 관한 법률」(이하 \"법\"이라 한다.) 제13조 및 영 제22조에 따른다.③ 역사문화환경 보존지역 내 건축행위 등의 허용기준(이하 \"허용기준\"이라 한다) 및 구역의 적정성 검토는「역사문화환경 보존지역 내 건축행위 등에 관한 허용기준 작성 지침」에 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "제13조",
+            "line_text": "",
+            "target_law_name": "자연유산의 보존 및 활용에 관한 법률",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연유산의 보존 및 활용에 관한 법률/제13조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0004",
+            "reference_id": "law:자연유산의보존및활용에관한법률#JO0013"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "영",
+            "line_text": "",
+            "target_law_name": "자연유산의 보존 및 활용에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연유산의 보존 및 활용에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0004",
+            "reference_id": "law:자연유산의보존및활용에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "제22조",
+            "line_text": "",
+            "target_law_name": "자연유산의 보존 및 활용에 관한 법률 시행령",
+            "target_article_no": "제22조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연유산의 보존 및 활용에 관한 법률 시행령/제22조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0004",
+            "reference_id": "law:자연유산의보존및활용에관한법률시행령#JO0022"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제3항",
+            "link_text": "「역사문화환경 보존지역 내 건축행위 등에 관한 허용기준 작성 지침」",
+            "line_text": "",
+            "target_law_name": "역사문화환경 보존지역 내 건축행위 등에 관한 허용기준 작성 지침",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/역사문화환경 보존지역 내 건축행위 등에 관한 허용기준 작성 지침",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0004",
+            "reference_id": "admrul:역사문화환경보존지역내건축행위등에관한허용기준작성지침#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "정비계획 수립의 주체",
+        "chapter": "제2장 정비계획의 추진체계",
+        "content": "제5조(정비계획 수립의 주체) 정비계획은 법 제27조에 따라 국가유산청장이 지정한 해당 자연유산의 관리단체가 수립한다. 다만, 관리단체가 법인ㆍ단체ㆍ개인 등이 지정되어 정비계획을 수립하기 어려운 경우에는 해당 자연유산의 소재지를 관할하는 지방자치단체의 장이 수립할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "자연유산의 보존 및 활용에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연유산의 보존 및 활용에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0005",
+            "reference_id": "law:자연유산의보존및활용에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제27조",
+            "line_text": "",
+            "target_law_name": "자연유산의 보존 및 활용에 관한 법률",
+            "target_article_no": "제27조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연유산의 보존 및 활용에 관한 법률/제27조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0005",
+            "reference_id": "law:자연유산의보존및활용에관한법률#JO0027"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "정비계획 수립의 기본원칙",
+        "chapter": "제2장 정비계획의 추진체계",
+        "content": "제6조(정비계획 수립의 기본원칙) 정비계획의 기본 원칙은 다음 각 호와 같다1. 자연유산의 원형유지를 기본원칙으로 하며 학술연구와 고증을 통하여 자연유산의 진정성 및 가치가 유지되도록 하여야 하며 무분별한 과잉복원과 정비는 지양한다.2. 미래의 변화를 예측하고 친환경적으로 수립하며, 지속가능한 명승 보존 및 활용이 될 수 있도록 구체적인 실천 계획을 수립한다.3. 법 제6조의 자연유산 보호계획의 수립과 법 제7조의 자연유산 보호 시행계획 수립에 부합되도록 작성하여야 하며, 해당 지방자치단체의 도시계획 등 상위계획, 관련 법령, 주변 상황, 발굴조사 및 재정여건 등 제반 상황을 종합적으로 고려하여 상호 유기적이며 효율적인 정비계획이 수립 시행되도록 한다.4. 자연유산구역 내 신규 건축물 또는 시설물의 설치에 관한 사항은 고증자료와 자문위원의 검토를 거쳐 수립하여야 하며 고증자료가 없을 경우에 설치를 지양한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "자연유산의 보존 및 활용에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연유산의 보존 및 활용에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0006",
+            "reference_id": "law:자연유산의보존및활용에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "자연유산의 보존 및 활용에 관한 법률",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연유산의 보존 및 활용에 관한 법률/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0006",
+            "reference_id": "law:자연유산의보존및활용에관한법률#JO0006"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "자연유산의 보존 및 활용에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연유산의 보존 및 활용에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0006",
+            "reference_id": "law:자연유산의보존및활용에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "자연유산의 보존 및 활용에 관한 법률",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연유산의 보존 및 활용에 관한 법률/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0006",
+            "reference_id": "law:자연유산의보존및활용에관한법률#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "정비계획의 수립 방법",
+        "chapter": "제2장 정비계획의 추진체계",
+        "content": "제7조(정비계획의 수립 방법) ① 관리단체는 자체인력으로 정비계획을 수립할 수 있으며, 전문적이고 충실한 정비계획 수립을 위하여 외부 전문기관에 위탁하거나 연구용역을 실시할 수 있다.② 관리단체는 정비계획 수립 중 국가유산청장과 협의하여 3명 이상의 자문위원을 선정하여 중간 및 최종 보고회를 개최하여야 하며, 전문가의 자문의견은 국가유산청장과 협의하여 정비계획 수립에 반영하여야 한다.③ 관리단체는 정비계획 수립에 필요한 인력구성을 관계전문가(고고학, 서지학, 한문학, 전적, 역사지리, 생태, 동ㆍ식물, 지형지질, 조경, 건축, 도시계획, 관광 등)로 구성할 수 있도록 지도ㆍ감독하여야 하며, 명승 유형 특성에 맞는 조사연구와 정비 계획이 마련되도록 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "정비계획의 수립절차 및 작성",
+        "chapter": "제2장 정비계획의 추진체계",
+        "content": "제8조(정비계획의 수립절차 및 작성) 영 제41조에 따른 수립절차와 방법은 다음과 같다.[그림]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "영",
+            "line_text": "",
+            "target_law_name": "자연유산의 보존 및 활용에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연유산의 보존 및 활용에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0008",
+            "reference_id": "law:자연유산의보존및활용에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "제41조",
+            "line_text": "",
+            "target_law_name": "자연유산의 보존 및 활용에 관한 법률 시행령",
+            "target_article_no": "제41조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연유산의 보존 및 활용에 관한 법률 시행령/제41조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0008",
+            "reference_id": "law:자연유산의보존및활용에관한법률시행령#JO0041"
+          }
+        ],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164487243",
+            "seq": "164487243"
+          }
+        ],
+        "provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "정비계획의 작성내용 등",
+        "chapter": "제2장 정비계획의 추진체계",
+        "content": "제9조(정비계획의 작성내용 등) 정비계획의 수립주체는 다음 각 호의 사항을 포함하여 작성하여야 한다.1. 추진개요 및 기본구상 수립2. 기초조사 및 분석3. 부문별 계획 수립4. 시행 및 점검5. 기타 계획수립에 필요한 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "정비계획의 수립 시 유의사항",
+        "chapter": "제2장 정비계획의 추진체계",
+        "content": "제10조(정비계획의 수립 시 유의사항) ① 정비계획을 수립하는 자가 지켜야 하는 유의사항은 다음 각 호와 같다.1. 명승 유형 특성과 현황을 고려하여 조사항목과 계획수립에 있어 누락이 없도록 작성한다.2. 명승 유형별, 시대별, 지역별 특성 및 성격 등에 맞게 자연유산별 가치의 고유성과 우수성이 표출되도록 작성한다.3. 역사적 사실과 연구 고증을 토대로 작성한다.4. 고증자료는 공식적으로 발표된 자료가 있을 경우에 우선하여 인용하고 고증자료가 없을 경우에는 관계전문가의 자문을 받아 작성할 수 있다. 고문헌 및 원문이 있을 경우에는 원문과 함께 번역본, 해석본을 함께 작성한다.5. 현황자료의 조사 및 분석 시 신뢰성 확보를 위하여 인용한 자료는 출처를 명시하며, 가능한 최신자료를 사용한다.6. 명승의 자연유산적 가치 보존과 제반 여건, 활용 가능성 등을 종합적으로 검토하여 정비계획의 적정성과 타당성 및 실효성을 확보한다.7. 정비계획의 수립에 있어 관계전문가 및 지역주민의 의견이 검토ㆍ반영될 수 있도록 절차적 합리성을 강구한다.8. 정비계획의 수립에 있어 별도의 법령 및 규정이 있을 경우에는 이를 함께 검토하여 계획수립에 법적ㆍ행정적 충돌이 없도록 하여야 한다.9. 기초조사 및 계획수립에 관하여 다량의 자료와 증빙 데이터가 있을 경우에는 부록으로 별도 작성할 수 있다.② 정비계획의 수립에 참여하는 담당공무원, 수행자 및 자문위원은 학술적 근거를 바탕으로 합리적ㆍ객관적 사고와 판단을 하여야 한다.③ 관리단체는 정비계획의 수립 시 생성된 창작 데이터 및 사진, 그림 등의 저작물이 「저작권법」\n제24조의2(공공저작물의 자유이용)에 따라 공공저작물로서 자유이용이 가능하도록 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제3항",
+            "link_text": "「저작권법」",
+            "line_text": "",
+            "target_law_name": "저작권법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/저작권법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0010",
+            "reference_id": "law:저작권법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제3항",
+            "link_text": "제24조의2",
+            "line_text": "",
+            "target_law_name": "저작권법",
+            "target_article_no": "제24조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/저작권법/제24조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0010",
+            "reference_id": "law:저작권법#JO0024_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "정비계획의 협의 및 승인",
+        "chapter": "제2장 정비계획의 추진체계",
+        "content": "제11조(정비계획의 협의 및 승인) ① 관리단체는 정비계획을 수립하려는 경우 미리 국가유산청장과 협의하여야 한다.② 관리단체는 정비계획을 수립한 경우 국가유산청장에게 해당 정비계획을 제출하여 승인을 받아야 한다. 정비계획을 변경하는 경우에도 또한 같다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "정비계획의 추진개요",
+        "chapter": "제3장 정비계획의 추진개요 및 기본구상",
+        "content": "제12조(정비계획의 추진개요) 관리단체는 정비계획의 배경 및 목적, 정비계획의 성격과 범위, 정비계획의 기본방향 등을 바탕으로 추진개요를 작성한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "정비계획의 기본구상",
+        "chapter": "제3장 정비계획의 추진개요 및 기본구상",
+        "content": "제13조(정비계획의 기본구상) 관리단체는 제6조를 준수하여 다음 각 호의 사항을 고려하여 계획에 관한 기본구상을 작성한다.1. 명승의 지정 가치 보존과 명승 유형별 특성을 고려할 것2. 자연유산구역과 주변 환경이 어울리도록 할 것3. 정비계획 목표연도의 미래상이 명승 보존 및 활용에 타당할 것4. 명승 활용계획 수립에 있어 자연유산 주변에 거주하는 지역주민의 생활환경을 반영할 것",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "자연유산의 보존 및 활용에 관한 법률",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연유산의 보존 및 활용에 관한 법률/제6조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0013",
+            "reference_id": "law:자연유산의보존및활용에관한법률#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "기초조사의 목적",
+        "chapter": "제4장 정비계획의 기초조사 및 분석",
+        "content": "제14조(기초조사의 목적) 기초조사는 정비계획 수립을 위한 자료수집, 현황조사 및 분석방법, 결과의 적용 등에 관하여 필요한 사항을 규정하는 것을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "기초조사의 방법",
+        "chapter": "제4장 정비계획의 기초조사 및 분석",
+        "content": "제15조(기초조사의 방법) ① 기초조사는 자연유산에 대한 그 간 변화 양상과 기준연도의 현황을 파악할 수 있도록 작성한다.② 기초조사는 해당 자연유산구역 및 주변 환경의 역사문화ㆍ자연환경ㆍ경관적 특성을 파악하기 위하여 직접조사와 간접조사의 방법으로 작성한다. 이 경우 직접조사는 기술과 인력을 현장에 투입하여 자료를 실측ㆍ수집ㆍ분석하는 것을 말하며, 간접조사는 공식적으로 발표한 데이터, 통계자료, 문헌자료 등을 활용하여 자료정리, 도표화, 도면화하여 인용하는 것을 말한다.③ 기초조사는 기준연도를 중심으로 조사하되, 기준연도의 자료를 취득하는 것이 어려울 경우 과거자료로부터 추정하여 활용할 수 있다.④ 기초조사는 표준 규격과 단위로 작성하여야 하며, 데이터베이스 구축 등을 통해 기록화하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "기초조사의 항목 및 내용",
+        "chapter": "제4장 정비계획의 기초조사 및 분석",
+        "content": "제16조(기초조사의 항목 및 내용) ① 기초조사의 항목은 자연유산환경조사, 인문환경조사, 자연환경조사, 경관조사, 사례조사, 종합분석 등으로 구분한다.② 정비계획을 수립하는 자는 별표 2의 기초조사 항목 및 작성내용에 따라 기초조사 및 분석을 시행한다. 다만, 해당 명승 유형 특성과 현재 자연유산 보존 상태에 따라 관리단체와 협의하여 조사항목을 조정 또는 생략할 수 있다.③ 각 조사항목의 분석을 통해 정비계획에 반영하기 위한 계획요소를 도출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제2항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "명승 종합정비계획 수립 및 시행에 관한 지침",
+            "target_article_no": "별표2",
+            "target_article_title": "명승 기초조사의 항목 및 작성내용(제16조제2항 본문 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000279730&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0016",
+            "reference_id": "admrul:명승종합정비계획수립및시행에관한지침#BYL0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "부문별 계획 수립의 목적",
+        "chapter": "제5장 부문별 계획의 수립",
+        "content": "제17조(부문별 계획 수립의 목적) 부문별 계획의 수립은 단계별, 연차별 구체적인 실행을 위한 부문별 계획 수립 등에 관하여 필요한 사항을 규정하는 것을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "부문별 계획 수립의 방법",
+        "chapter": "제5장 부문별 계획의 수립",
+        "content": "제18조(부문별 계획 수립의 방법) ① 부문별 계획에 관한 목표와 기본방향을 수립한다.② 계획수립 대상을 보존ㆍ복원ㆍ보수ㆍ교체ㆍ신설 등으로 구분하여 작성한다.③ 계획수립 대상에 대한 소요예산과 소요기간, 적용시점을 고려하여 작성한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "부문별 계획 수립의 항목 및 내용",
+        "chapter": "제5장 부문별 계획의 수립",
+        "content": "제19조(부문별 계획 수립의 항목 및 내용) ① 부문별 계획의 항목은 자연유산 보존계획, 인문환경 조성계획, 자연환경 조성계획, 경관계획, 관리운영계획, 종합추진계획의 항목으로 구분한다.② 정비계획을 수립하는 자는 별표 3의 부문별 계획의 항목 및 작성내용에 따라 부문별 계획을 수립한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제2항",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "명승 종합정비계획 수립 및 시행에 관한 지침",
+            "target_article_no": "별표3",
+            "target_article_title": "명승 부문별 계획의 수립 항목 및 작성 내용(제19조제2항 관련)",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000279730&bylNo=0003&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0019",
+            "reference_id": "admrul:명승종합정비계획수립및시행에관한지침#BYL0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "정비계획의 공표",
+        "chapter": "제6장 정비계획의 시행 및 점검",
+        "content": "제20조(정비계획의 공표) 관리단체는 제8조에 따라 확정된 정비계획에 대하여 지방자치단체의 홈페이지 또는 게시판 등에 공표하여야 하며, 정비계획을 변경하는 경우 또한 같다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제20조",
+            "source_clause": "제20조",
+            "link_text": "제8조",
+            "line_text": "",
+            "target_law_name": "명승 종합정비계획 수립 및 시행에 관한 지침",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/명승 종합정비계획 수립 및 시행에 관한 지침/제8조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0020",
+            "reference_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0008"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "정비계획의 시행",
+        "chapter": "제6장 정비계획의 시행 및 점검",
+        "content": "제21조(정비계획의 시행) ① 관리단체는 수립된 종합계획에 따라 국가유산청장과 협의하여 연차별로 정비사업을 추진하여야 한다.② 관리단체는 해당 자연유산의 소재지를 관할하는 지방자치단체의 장과 협의를 거쳐 정비 조직과 추진 체계를 마련하고, 정비사업 착수와 시행에 필요한 추진 전략을 수립하여야 한다.③ 국가유산청장은 명승의 효율적인 보존ㆍ관리 및 활용을 위하여 정비사업의 타당성과 실효성을 검토한 후 법\n제58조(보조금)에 따라 경비의 전부나 일부를 지원할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제21조",
+            "source_clause": "제21조제3항",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "자연유산의 보존 및 활용에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연유산의 보존 및 활용에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0021",
+            "reference_id": "law:자연유산의보존및활용에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제21조",
+            "source_clause": "제21조제3항",
+            "link_text": "제58조",
+            "line_text": "",
+            "target_law_name": "자연유산의 보존 및 활용에 관한 법률",
+            "target_article_no": "제58조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/자연유산의 보존 및 활용에 관한 법률/제58조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0021",
+            "reference_id": "law:자연유산의보존및활용에관한법률#JO0058"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "추진상황의 점검",
+        "chapter": "제6장 정비계획의 시행 및 점검",
+        "content": "제22조(추진상황의 점검) ① 관리단체는 정비계획 및 정비사업의 추진 상황에 대하여 매년 2월까지 전년도 사업을 자체 점검ㆍ평가하여 정비 사업이 정상적으로 추진될 수 있도록 노력하여야 한다.② 국가유산청장은 해당 자연유산의 소재지를 관할하는 지방자치단체의 장에게 정비계획의 추진 상황에 관한 자료를 요청할 수 있으며, 종합정비사업의 추진을 지도하고 감독할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "재검토 기한",
+        "chapter": "제6장 정비계획의 시행 및 점검",
+        "content": "제23조(재검토 기한) 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 훈령에 대하여 2018년 7월 1일 기준으로 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제23조",
+            "source_clause": "제23조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0023",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:명승종합정비계획수립및시행에관한지침#JO0023"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20180514",
+      "promulgation_no": "457",
+      "content": "부칙 <제457호,2018. 5. 14.>제1조 이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20240517",
+      "promulgation_no": "2",
+      "content": "부칙(국가유산체제 전환 및 정부조직개편에 따른 「(문화재청) 국가보호종 보존협의회 구성 및 운영에 관한 규정」 등의 정비에 관한 훈령) <제2호, 2024. 5. 17.>이 훈령은 2024년 5월 17일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20241008",
+      "promulgation_no": "14",
+      "content": "부칙 <제14호, 2024. 10. 8.>이 훈령은 2024년 10월 8일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20260517",
+      "promulgation_no": "57",
+      "content": "부칙 <제57호, 2026. 5. 17.>제1조(시행일) 이 훈령은 2026년 5월 17일부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "명승 유형 구분(제2조제3호 관련)",
+      "enforcement_date": "",
+      "content": "[별표 1]\n명승 유형 구분(제2조제3호 관련)\nㅇ 자연명승 : 자연유산구역 내 핵심경관자원이 자연물일 경우에 해당\nㅇ 역사문화명승 : 자연유산구역 내 핵심경관자원이 인간 행동양식의 전승적 가치를 포함하고 있을 경우에 해당\n┏━━━━━━━━━━┯━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━┓\n┃유형 분류           │핵심경관요소                  │인간의 행동양식                         ┃\n┣━━┯━━━━━━━┿━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━┫\n┃자연│산악형        │산, 봉우리, 산등성이, 고산    │                                        ┃\n┃명승│              │평원, 기암괴석 및 바위 등     │                                        ┃\n┃    ├───────┼───────────────┼────────────────────┨\n┃    │도서해안형    │섬, 해안, 바닷길, 연안습지,   │                                        ┃\n┃    │              │만, 바닷길, 해안 폭포,        │                                        ┃\n┃    │              │해안형 대, 해안형 기암괴석    │                                        ┃\n┃    │              │및 바위 등                    │                                        ┃\n┃    ├───────┼───────────────┼────────────────────┨\n┃    │하천?계곡형  │일정한 물길을 가지는 강,      │                                        ┃\n┃    │              │감입곡류, 시내, 호수, 연못,   │                                        ┃\n┃    │              │유역, 습지, 하천, 계곡, 폭포, │                                        ┃\n┃    │              │구곡 등                       │                                        ┃\n┠──┼───────┼───────────────┼────────────────────┨\n┃역사│마을숲?      │마을숲, 정원, 원림            │ㅇ 마을 비보를 위해 숲을 형성하는 양식  ┃\n┃문화│정원형        │정자, 원 등                   │ㅇ 경치 좋은 곳을 주택, 별서, 누, 정 등 ┃\n┃명승│              │                              │에서 조망할 수 있도록 조성하여 자       ┃\n┃    │              │                              │연과 풍류를 향유하고 경영하는 양식      ┃\n┃    ├───────┼───────────────┼────────────────────┨\n┃    │사찰형        │사찰, 암자 등                 │ㅇ 경치 좋은 곳에 사찰 및 암자를        ┃\n┃    │              │                              │조영하는 양식                           ┃\n┃    ├───────┼───────────────┼────────────────────┨\n┃    │산업기반형    │옛길, 죽방렴, 다랑이논,       │ㅇ다양한 산업, 어업, 농업, 임업         ┃\n┃    │              │저수지와 둑방 등              │등과 관련된 행동 양식                   ┃\n┗━━┷━━━━━━━┷━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000279730&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164487569",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164487565",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164487569",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:명승종합정비계획수립및시행에관한지침#BYL0001",
+      "filename": "별표1_명승 유형 구분(제2조제3호 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "명승 기초조사의 항목 및 작성내용(제16조제2항 본문 관련)",
+      "enforcement_date": "",
+      "content": "[별표 2]\n명승 기초조사의 항목 및 작성내용(제16조제2항 본문 관련)\n┏━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃항 목                   │작 성 내 용                                                 ┃\n┠─────┬──────┼──────────────────────────────┨\n┃자연유산  │명승 개요   │o해당 명승의 지정번호, 명칭(국문,한문,영문), 지정일,        ┃\n┃환경조사  │            │소재지, 자연유산지정구역면적, 보호구역면적, 지정가          ┃\n┃          │            │치(관보 고시문 또는 국가유산위원회 심의 시 작성된           ┃\n┃          │            │내용), 관리단체 등을 작성                                   ┃\n┃          │            │o 다만 변경 사항이 있을 경우 주요 연혁을 연도별로           ┃\n┃          │            │사유와 함께 작성하며 필요시 도표와 도면을 병기              ┃\n┃          ├──────┼──────────────────────────────┨\n┃          │명승의      │o 명승의 조성자 또는 작정자가 있을 경우에는 그 인물에       ┃\n┃          │역사적 배경 │대한 소개, 조성에 대한 의도, 조성시기 등을 작성             ┃\n┃          │            │o 명승과 관련한 인물, 사건, 장소 등에 관한 고문헌,          ┃\n┃          │            │고서화, 고시문, 고지도 등을 토대로 작성, 다만 경관          ┃\n┃          │            │관련 사항은 구분하여 별도 작성                              ┃\n┃          │            │o 명승과 관련한 전설 및 유래, 구전설화, 세시풍속, 민        ┃\n┃          │            │속 행사 등에 관한 사항을 작성                               ┃\n┃          │            │o 고건물의 현판 및 주련과 산과 하천의 암각자 등의           ┃\n┃          │            │원문, 번역본, 해석본을 작성                                 ┃\n┃          ├──────┼──────────────────────────────┨\n┃          │명승 내     │o 지정?비지정자연유산으로 구분하여 자연유산 유형,          ┃\n┃          │자연유산    │규모와 양식, 보존 및 훼손 상태를 조사하여 작성              ┃\n┃          │현황        │                                                            ┃\n┃          ├──────┼──────────────────────────────┨\n┃          │현상변경    │o 기준연도의 전년도 말일(12.31.)로부터 최근 5년까지의       ┃\n┃          │허가사항    │기간 동안 해당 자연유산구역, 보호구역, 역사문화환           ┃\n┃          │            │경 보존지역에서 발생된 현상변경 허가 처리 실적을            ┃\n┃          │            │구분하여 작성하고 현상변경의 주된 요소와 원인,              ┃\n┃          │            │문제점을 분석                                               ┃\n┃          │            │o 작성 내용은 신청소재지, 허용기준 구역, 신청내용,          ┃\n┃          │            │허가결과, 허가내용, 허가조건 등으로 함                      ┃\n┃          ├──────┼──────────────────────────────┨\n┃          │역사문화환경│o 기준연도에 고시된 허용기준과 상위 법령 및 관련            ┃\n┃          │보존지역    │법령, 도시관리계획, 토지이용현황, 최근 5년간 현상           ┃\n┃          │            │변경 허가사항 현황 분석 등을 토대로 허용기준과              ┃\n┃          │            │구역의 적정성 및 타당성을 조사ㆍ분석                        ┃\n┠─────┼──────┼──────────────────────────────┨\n┃인문      │상위계획 및 │o자연유산기본계획, 자연유산 보존 시행계획과 국토계          ┃\n┃환경      │관련법령    │획, 도시관리계획, 시도관리계획 등에 관한 상위계획           ┃\n┃조사      │            │에 따른 관련 법령의 제한사항과 도시계획조례 등을            ┃\n┃          │            │토대로 자연유산과 관계성을 고려하여 작성                    ┃\n┃          │            │o 관련법령에는 해당된 주관부처를 병기                       ┃\n┃          │            │o 자연유산 인근에 개발계획이나 택지개발계획이 있을          ┃\n┃          │            │경우에는 추가하여 작성                                      ┃\n┃          │            │o 상위계획 및 관련법령이 자연유산에 미치는 영향이           ┃\n┃          │            │나 잠재력 등의 개연성을 분석                                ┃\n┃          ├──────┼──────────────────────────────┨\n┃          │교통 및     │o 관할 행정구역도에 위치를 표시                             ┃\n┃          │동선현황    │o 자연유산이 위치한 소재지의 광역도로, 지방도로 등 접       ┃\n┃          │            │근 교통동선을 파악하고 대중교통을 이용한 접근방             ┃\n┃          │            │법을 조사하여 작성                                          ┃\n┃          │            │o 자연유산구역 내 차량 및 보행을 구분하고 건축물            ┃\n┃          │            │및 시설물의 배치 현황, 주동선과 보조동선 등을 파악          ┃\n┃          │            │하여 자연유산구역 내부의 “동선흐름 현황도”를 작성         ┃\n┃          ├──────┼──────────────────────────────┨\n┃          │토지이용    │o 도시계획 결정 조서에 고시된 용도지역과 용도지구           ┃\n┃          │현황        │등의 규제 및 제한 사항을 조사                               ┃\n┃          │            │o ‘역사문화환경 보존지역’ 내 건축행위 등의 허용기준과     ┃\n┃          │            │비교 분석                                                   ┃\n┃          │            │o 자연유산구역과 그에 영향을 미칠 것으로 판단되는           ┃\n┃          │            │범위 내 토지를 구분하여 이에 대한 지번, 지목, 지            ┃\n┃          │            │적면적, 지정면적, 소유자 등을 작성                          ┃\n┃          ├──────┼──────────────────────────────┨\n┃          │공개구역    │o 자연유산구역 내 비공개구역과 공개구역의 현황을 작         ┃\n┃          │현황        │성                                                          ┃\n┃          │            │o 비공개구역이 있을 경우에는 비공개사유를 작성              ┃\n┃          │            │o 비공개구역의 고시문이 있을 경우 부록으로 첨부             ┃\n┃          ├──────┼──────────────────────────────┨\n┃          │건축물 및   │o 비고란의 건축물 및 시설물 현황조사 대상 구분에            ┃\n┃          │ 시설물     │따라 작성                                                   ┃\n┃          │설치 현황   │o 주요 작성 내용은 명칭, 규모, 구조, 양식, 재질, 소유자 및  ┃\n┃          │            │관리자, 훼손 정도, 수리보수 이력, 주요 연혁 등을 작성       ┃\n┃          │            │o 규모와 구조는 공식적으로 발표된 자료를 인용하여           ┃\n┃          │            │작성하되 기존 자료가 없을 경우에는 조사자가 간이            ┃\n┃          │            │실측을 시행하여 배치도, 평면도, 입면도, 단면도 등           ┃\n┃          │            │을 작성하며 건축물 및 시설물의 전경, 정면, 측면,            ┃\n┃          │            │내부 등의 현황사진을 촬영하여 작성                          ┃\n┃          │            │o 주요 연혁은 창건, 중건, 수리, 복원에 관한 문헌기록        ┃\n┃          │            │과 수리 보수 공사에 관련된 과거의 사진, 도면 등             ┃\n┃          │            │을 수집하여 기준연도와의 차이를 분석                        ┃\n┃          │            │o 훼손정도는 조사자가 전체파손, 일부파손, 유실 및           ┃\n┃          │            │탈락, 균열과 마모, 이완, 풍화상태 등에 대해 육안            ┃\n┃          │            │으로 개략 조사하여 정비범위(보존, 복원, 보수, 교            ┃\n┃          │            │체, 신설 등)를 작성                                         ┃\n┃          │            │o 건축물에 편액과 주련이 있을 경우에는 수량과 위치          ┃\n┃          │            │를 도면에 표시하고 상세 촬영 사진                           ┃\n┃          ├──────┼──────────────────────────────┨\n┃          │이용자      │o 명승 방문객을 대상으로 설문조사 등을 시행하거나           ┃\n┃          │현황        │기존 조사 자료를 활용하여 작성                              ┃\n┃          │            │o 작성 내용은 관람객의 이용시간(동?하절기), 관람의         ┃\n┃          │            │목적, 관람의 빈도, 관람의 유형, 관람의 만족도, 관           ┃\n┃          │            │람의 요구사항, 계절별 이용 성수기와 최대 이용 피            ┃\n┃          │            │크시간 등을 조사하여 작성                                   ┃\n┃          │            │o 조사된 자료를 통해 방문 이용 행태와 이용자 특성과         ┃\n┃          │            │추이를 파악하여 작성                                        ┃\n┃          ├──────┼──────────────────────────────┨\n┃          │수입현황    │o 관리단체가 관람객에게 징수하는 관람료 및 이 외에          ┃\n┃          │            │발생되는 수입 징수 현황을 작성                              ┃\n┃          │            │o 수입료에 대한 수익자의 부담률 등 사용현황을 작성          ┃\n┃          ├──────┼──────────────────────────────┨\n┃          │관리운영    │o 관리단체가 자연유산구역의 관리를 직영 또는 위탁           ┃\n┃          │현황        │방식으로 하는지의 여부와 함께 관리조직, 인원수              ┃\n┃          │            │등을 조사 작성                                              ┃\n┃          │            │o 자연유산구역 내 부대시설(주차장, 전시관, 매점 등)         ┃\n┃          │            │의 운영방식이 다를 경우 별도로 조사하여 작성                ┃\n┃          ├──────┼──────────────────────────────┨\n┃          │방재현황    │o 자연유산과 가장 가까운 소방서, 경찰서, 응급기관 등        ┃\n┃          │            │의 위치와 도달시간, 비상연락망 등을 조사하여 작             ┃\n┃          │            │성                                                          ┃\n┃          │            │o 해당 자연유산의 재난 및 화재, 응급구조상황 등이           ┃\n┃          │            │발생되었을 경우 기관별 업무분담 및 행동 요령 등을 작성      ┃\n┃          │            │o 소화 및 안전방재시설물 현황을 조사할 경우에는 관련        ┃\n┃          │            │법령을 토대로 미설치 사항을 포함하여 조사 작성              ┃\n┃          ├──────┼──────────────────────────────┨\n┃          │자연유산    │o 해당 자연유산의 주변에 분포된 중요 도시기반시설 및 상     ┃\n┃          │ 주변현황   │가 등 주변 중점 시설현황을 파악하여 작성                    ┃\n┃          │            │o 지역활성화기반 조성을 위해 관할 행정구역 내 자연          ┃\n┃          │            │유산, 관광자원 등을 조사하여 지형도면에 작성                ┃\n┃          ├──────┼──────────────────────────────┨\n┃          │관련행사    │o 해당 자연유산구역 내 민속행사 등 지방자치단체 행사        ┃\n┃          │            │와 관할 행정구역 내 지역축제, 지역 특산품 등을              ┃\n┃          │            │조사하여 작성                                               ┃\n┃          ├──────┼──────────────────────────────┨\n┃          │자연유산    │o 지방자치단체의 누리집, 관광사업소 등 자연유산정보가 홍    ┃\n┃          │홍보        │보되어 있는 현황과 수록 내용을 작성                         ┃\n┃          ├──────┼──────────────────────────────┨\n┃          │현안 및     │o 자연유산지역 내외 지역 거주민 및 소유자를 비롯한          ┃\n┃          │쟁점        │이해관계자, 방문객의 이용 불만 등 의견을 수렴하여           ┃\n┃          │            │자연유산 보존 관리 및 활용에 영향을 미치는 현안             ┃\n┃          │            │및 문제점을 조사 작성                                       ┃\n┠─────┼──────┼──────────────────────────────┨\n┃자연      │기상환경    │o 자연유산구역 및 주변에 미치는 연평균기온, 최고기          ┃\n┃환경      │            │온, 최저기온, 평균풍속, 계절별 풍향, 강수량, 평균습         ┃\n┃조사      │            │도, 강설량, 풍향, 천기일수 등을 표 또는 그래프로 작         ┃\n┃          │            │성                                                          ┃\n┃          │            │o 다만 필요시 열섬현상, 특징적 기상현상, 안개발생지, 바     ┃\n┃          │            │람길 등 미기후가 있을 경우에는 포함하여 작성                ┃\n┃          ├──────┼──────────────────────────────┨\n┃          │지질        │o 지질도를 바탕으로 지질분포, 암석노출부 등을 표시하        ┃\n┃          │            │고 현장조사를 통하여 기암괴석 등 특이한 지질을 도           ┃\n┃          │            │면에 표시하여 작성                                          ┃\n┃          ├──────┼──────────────────────────────┨\n┃          │지형?지세  │o 지형도를 통해 자연유산구역 내 지형?지세를 파악           ┃\n┃          │            │하고 위성사진 또는 항공사진 등을 통하여 보전해야            ┃\n┃          │            │할 중요한 지형을 분석하여 작성                              ┃\n┃          │            │o 지형분석도는 산악지?구릉지?평탄지?저습지? 수          ┃\n┃          │            │면 등으로 구분하여 도면을 작성                              ┃\n┃          │            │o 수치지형도의 지리정보체계(GIS) 분석을 통하여 표           ┃\n┃          │            │고분석, 경사도 분석을 작성                                  ┃\n┃          ├──────┼──────────────────────────────┨\n┃          │토양        │o 정밀토양도를 활용하여 토양도를 작성                       ┃\n┃          │            │o 수목 훼손 등으로 인해 필요할 경우에는 토양분석을          ┃\n┃          │            │전문기관에 의뢰하여 조사할 수 있음                          ┃\n┃          ├──────┼──────────────────────────────┨\n┃          │수계        │o 수원으로부터 이어지는 수계 상에 있는 하천의 명칭과        ┃\n┃          │ 및         │하천 등급, 하천의 연장과 유역 면적, 퇴적지, 침식지          ┃\n┃          │ 수문       │등 하천의 전반적 내용을 조사하여 작성                       ┃\n┃          │            │o 자연유산구역 내 하천?계곡?호수?연지 등이 있을          ┃\n┃          │            │경우 특성, 수량, 홍수위, 저수위, 길이, 폭(평균, 최          ┃\n┃          │            │대, 최소), 평균수심을 조사하여 작성                         ┃\n┃          │            │o 자연유산 주변에 수계에 영향을 미칠 수 있는 댐, 저         ┃\n┃          │            │수지 등은 도면에 표기하여 작성                              ┃\n┃          │            │o 하천, 호소, 호수의 수량과 수질에 대한 정보, 호안의        ┃\n┃          │            │상태, 선착장의 시설 등을 조사하여 작성                      ┃\n┃          │            │o 연못의 입?출수구의 보존상태, 개수로와 암거의 상          ┃\n┃          │            │태 등을 조사하여 작성                                       ┃\n┃          ├──────┼──────────────────────────────┨\n┃          │식생        │o 기 제작된 수치임상도, 현존 식생도 등을 활용하여 개        ┃\n┃          │            │략적 식생현황을 파악하여 작성                               ┃\n┃          │            │o 정밀식생조사가 필요할 경우에 한하여 천연기념물(식         ┃\n┃          │            │물), 경관목, 우수임상군락, 희귀식물, 보호수, 보호식         ┃\n┃          │            │물, 침입성 외래수종 등을 표시한 식생분포도를 작성           ┃\n┃          ├──────┼──────────────────────────────┨\n┃          │동물상      │o 기존자료의 활용 또는 현장조사에 의하여 주요 야생          ┃\n┃          │            │동물 및 천연기념물(동물), 법정보호종, 멸종위기종            ┃\n┃          │            │등에 대한 집단 서식지, 산란처, 도래지, 이동경로             ┃\n┃          │            │등을 조사하여 야생동물분포도를 작성                         ┃\n┃          │            │o 명승 구역 내 포유류, 조류, 어류 등 서식하는 동물          ┃\n┃          │            │의 종류와 분포지 및 서식 환경 등을 이해할 수 있             ┃\n┃          │            │도록 동물상에 대한 현황을 작성                              ┃\n┃          │            │o 현황을 토대로 종다양성, 우점종, 향토 희귀종, 토착 동물    ┃\n┃          │            │등에 대해 분석하여 보호할 대상의 동물 등을 제시             ┃\n┃          │            │o 보호할 동물의 서식 및 생육에 필요한 사항을 함께 작성      ┃\n┠─────┼──────┼──────────────────────────────┨\n┃경관      │경관        │o 역사경관자원과 자연경관자원에 대한 주요 조망점과          ┃\n┃조사      │자원        │조망대상을 조사하여 작성                                    ┃\n┃          │            │o 작성내용은 경관적 가치, 분포 위치(좌표), 표고, 조망거리,  ┃\n┃          │            │조망범위 등을 조사하여 도표화 및 도면화하여 작성            ┃\n┃          ├──────┼──────────────────────────────┨\n┃          │경관        │o 주요 경관자원의 조망을 저해하거나 침해하는 지물의         ┃\n┃          │저해물      │위치와 규모, 침해 상태 등을 조사하여 작성                   ┃\n┃          │            │o 경관 저해물로 제거 대상, 경관 저해물에 대한 차폐 등       ┃\n┃          │            │에 대한 분석결과를 도표화 및 도면화하여 작성                ┃\n┃          ├──────┼──────────────────────────────┨\n┃          │가시권      │o 자연유산 구역 내에서 가시 빈도 및 가시 강도가 높          ┃\n┃          │            │은 주요 조망점을 선정하여 가시등급을 반영한 “자            ┃\n┃          │            │연유산구역 내 가시권도”를 작성                             ┃\n┃          │            │o 가시등급은 숫자가 작을수록 색상이 짙을수록 가시           ┃\n┃          │            │효과가 높도록 작성                                          ┃\n┃          ├──────┼──────────────────────────────┨\n┃          │외부        │o 자연유산구역 외에서 명승을 조망할 수 있는 조망점          ┃\n┃          │조망점      │을 선정하여 명승과의 거리, 명승 조망범위 등을 조            ┃\n┃          │            │사하여 주변 지역활성화에 필요한 계획요소를 도출             ┃\n┠─────┴──────┼──────────────────────────────┨\n┃사례조사                │o 동일 또는 유사한 유형의 명승을 포함하여 국내?외          ┃\n┃                        │에 현존하는 자연유산을 사례지로 선정하여 직접조             ┃\n┃                        │사 또는 간접조사 등을 통하여 계획에 필요한 시사             ┃\n┃                        │점을 정리하여 작성                                          ┃\n┃                        │o 다만 동일 또는 유사 사례가 없을 경우에는 생략 가능        ┃\n┠────────────┼──────────────────────────────┨\n┃종합분석                │o 분석 결과(자연유산환경, 인문환경, 자연환경, 경관조        ┃\n┃                        │사, 사례조사 등)를 토대로 명승의 잠재적 가치를 비           ┃\n┃                        │롯하여 계획수립의 장점과 단점을 파악하고 기회와             ┃\n┃                        │위험요소를 검토하여 정비 및 개선을 위한 주요 점             ┃\n┃                        │검항목을 도출하여 작성                                      ┃\n┃                        │o 종합분석을 통해 보존?정비(복원?보수?교체?신           ┃\n┃                        │설) 및 활용방안에 대한 계획요소를 도출하여 정비             ┃\n┃                        │계획의 기본방향을 작성                                      ┃\n┗━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n비고\n‘인문환경조사’ 중 ‘건축물 및 시설물’의 현황조사 대상은 아래 표와 같다.\n<건축물 및 시설물 현황조사 대상>\n┏━━━━━━━┯━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━┓\n┃구 분         │내 용                         │현황조사 대상                               ┃\n┣━━━━━━━┿━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━┫\n┃역사적 건축물 │역사적 인물, 사건 및 유래와   │고건물, 전통석축, 전통담장, 성벽, 연        ┃\n┃ 및 시설물    │관련이 있는 건축물과 시설물   │지, 영지, 탑, 조형물, 괴석 , 석교, 목교 등  ┃\n┠───────┼───────────────┼──────────────────────┨\n┃일반건축물    │명승 내 보존관리, 방문객의    │관리소, 매표소, 매점, 전시관, 홍보관,       ┃\n┃ 및 시설물    │편의 및 관람을 목적으로 활    │화장실, 판매점, 일반음식점, 석축,           ┃\n┃              │용되는 건축물과 시설물        │담장, 연못, 조형물, 음수대, 조명기구,       ┃\n┃              │                              │방송시설, 전기시설, 안내판, 이정표 등       ┃\n┠───────┼───────────────┼──────────────────────┨\n┃소방 및 안전  │명승 보호 및 유지관리를 위한  │CCTV, 소화전, 소화기 등 방범설              ┃\n┃방재시설물    │기반시설물                    │비와 소방 설비, 보호휀스, 낙석방            ┃\n┃              │                              │지망 등 보호책 등                           ┃\n┠───────┼───────────────┼──────────────────────┨\n┃포장 및       │건축물 및 시설물 보존 및      │탐방로 및 진입로 포장, 정화조,              ┃\n┃지하구조물    │유지관리를 위한 기반시설물    │오수처리시설, 하수관, 수도관, 전            ┃\n┃              │                              │기 및 가스관 등의 지하시설물의              ┃\n┃              │                              │현황과 공중화장실과 취사장 등               ┃\n┗━━━━━━━┷━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000279730&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164487585",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164487571",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164487585",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:명승종합정비계획수립및시행에관한지침#BYL0002",
+      "filename": "별표2_명승 기초조사의 항목 및 작성내용(제16조제2항 본문 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "명승 부문별 계획의 수립 항목 및 작성 내용(제19조제2항 관련)",
+      "enforcement_date": "",
+      "content": "[별표 3]\n명승 부문별 계획의 수립 항목 및 작성 내용(제19조제2항 관련)\n┏━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃항 목                 │작 성 내 용                                             ┃\n┠────┬──────┼────────────────────────────┨\n┃자연유산│자연유산구역│o 자연유산구역의 적정성과 타당성을 검토하여 조정        ┃\n┃보존    │정비계획    │(안)을 반영한 “자연유산구역도”를 작성                 ┃\n┃계획    │            │o 특별한 여건이나 주변 환경의 변화가 없을 경우에는      ┃\n┃        │            │구역을 축소 조정하지 않으며 변경 사항이 없을 경우       ┃\n┃        │            │에는 생략 가능                                          ┃\n┃        │            │o 자연유산구역 내 훼손 및 보존 상태를 감안하여 비       ┃\n┃        │            │공개구역으로 전환이 필요한 경우 비공개구역의 위         ┃\n┃        │            │치, 면적과 비공개의 명확한 사유를 작성                  ┃\n┃        │            │o 자연유산구역의 조정이 필요한 경우 제척이나 편입       ┃\n┃        │            │될 구역은 우선순위를 결정하여 토지매입계획을 수립하여   ┃\n┃        │            │작성                                                    ┃\n┃        ├──────┼────────────────────────────┨\n┃        │자연유산    │o 정확한 문헌 및 고증자료를 토대로 해당 자연유산의      ┃\n┃        │복원/       │복원, 보수, 발굴, 보존처리 등에 관한 “자연유산보       ┃\n┃        │정비계획    │수정비계획” 또는 “자연유산복원계획”을 작성           ┃\n┠────┼──────┼────────────────────────────┨\n┃인문    │건축물      │o “건축물 및 시설물 정비계획”은 현황조사 대상별로 수립┃\n┃환경    │및 시설물   │하되 보수, 증축, 개축, 신축, 이전 설치, 철거 등을 작성  ┃\n┃조성    │정비계획    │                                                        ┃\n┃계획    ├──────┼────────────────────────────┨\n┃        │관람환경    │o 자연유산 보존에 적합한 연간 적정 방문객 수용량,       ┃\n┃        │개선계획    │자연유산 관람유형, 설문조사 시 개선사항, 이용자 만      ┃\n┃        │            │족도 증진을 위한 사항, 명승의 접근성 제고를 위한        ┃\n┃        │            │교통체계 개선 등을 토대로 작성                          ┃\n┃        ├──────┼────────────────────────────┨\n┃        │동선계획    │o 옛길, 진입로, 탐방로의 현황조사 및 경관분석(역사      ┃\n┃        │            │경관자원, 자연경관자원)을 토대로 보행동선, 차량동선,    ┃\n┃        │            │관리 동선을 분리하여 보수와 신설구간을 구분하여 작성    ┃\n┃        │            │o 동선의 흐름이 원활히 순환되도록 작성                  ┃\n┃        │            │o 동선의 포장 상태 및 훼손 등을 고려하여 작성           ┃\n┃        ├──────┼────────────────────────────┨\n┃        │활용 및     │o 주변 자연유산과 연계방안, 지역 축제 및 민속행사       ┃\n┃        │홍보 계획   │활용방안, 특산품 개발 및 홍보 등 작성                   ┃\n┃        │            │o 외부 조망점과 연계한 관광 활용 등 연계방안 작성       ┃\n┠────┼──────┼────────────────────────────┨\n┃자연    │지형정비    │o 지질?지형?지세 분석을 통해 필요한 성?절토 사       ┃\n┃환경    │계획        │항을 반영한 “지형 정지계획도”를 작성                  ┃\n┃조성    │            │o 기존 지형의 변화에 미치는 영향이 최소화되도록 작성    ┃\n┃계획    ├──────┼────────────────────────────┨\n┃        │수계정비    │o 수문(입수?퇴수구 등), 수계 분석을 통해 자연유산구역  ┃\n┃        │계획        │내에 적정 유량 보존 등을 위한 “수계정비계획도”를 작성 ┃\n┃        │            │o 기존 수문ㆍ수계에 미치는 영향이 적도록 작성           ┃\n┃        │            │o 자연유산 구역 내 하천, 연지 등 정비에 관한 사항 작성  ┃\n┃        ├──────┼────────────────────────────┨\n┃        │토양개선계획│o 수목 생육환경 개선을 위해 토양개량 등을 작성          ┃\n┃        ├──────┼────────────────────────────┨\n┃        │식생정비    │o 식생분석을 통한 “식생정비 및 식재 계획도”를 작성    ┃\n┃        │계획        │o 수목 솎아베기, 수림 갱신, 경관 저해목 및 고사목의     ┃\n┃        │            │제거, 가지치기 등 수목 정비에 관한 사항 작성            ┃\n┃        │            │o 후계림 조성, 산림 복원, 수목이식 및 보식 등 수목      ┃\n┃        │            │식재에 관한 사항 작성                                   ┃\n┃        │            │o 장기적으로 수목 천이가 필요한 경우에는 “장기적       ┃\n┃        │            │수목 교체계획”을 작성                                  ┃\n┃        ├──────┼────────────────────────────┨\n┃        │동물보존    │o 동물상 분석을 통해 동물 생육에 필요한 사항을 반영     ┃\n┃        │계획        │하여 “동물보존관리계획“을 작성                        ┃\n┠────┼──────┼────────────────────────────┨\n┃경관    │경관정비    │o 주요 경관자원의 위치와 규모를 파악하여 명승에 대      ┃\n┃계획    │계획        │한 경관 향유 방법, 조망 기회 확대 방안, 경관 저해       ┃\n┃        │            │시설 제거 또는 차폐 방법(수목 및 시설물에 대한          ┃\n┃        │            │복원, 보수, 철거, 신설 등)에 대한 “경관정비계획        ┃\n┃        │            │도” 작성                                               ┃\n┃        │            │o 명승 경관의 우수성을 재평가 할 수 있는 새로운         ┃\n┃        │            │조망점을 발굴하여 기존 조망점과 연계하여 작성           ┃\n┃        ├──────┼────────────────────────────┨\n┃        │경관탐방    │o 자연유산구역 내에서 우수경관 자원을 조망할 수 있      ┃\n┃        │계획        │는 포토존 등을 반영한 “경관탐방계획도”를 작성         ┃\n┠────┼──────┼────────────────────────────┨\n┃관리    │운영        │o 중앙정부, 지자체, 공공기관, 민간기관, 소유주 등의     ┃\n┃운영    │관리        │관리 주체에 대한 운영효과, 조직의 규모, 전문성          ┃\n┃계획    │계획        │등을 종합적으로 검토하여 자연유산구역 내 보존관         ┃\n┃        │            │리 방식을 직영 또는 위탁방식 등으로 작성                ┃\n┃        ├──────┼────────────────────────────┨\n┃        │방재        │o 주기적ㆍ상시적 관리로 구분하여 관련 법령의 점검       ┃\n┃        │관리        │주기와 점검내용에 따라 “연간점검계획표”를 작성        ┃\n┃        │계획        │- 자연유산과 시설물의 안전점검 및 운영                  ┃\n┃        │            │- 소화 방재시설 등 안전점검                             ┃\n┃        │            │o 안전점검 주기는 자연유산이 소재하는 지역의 기상       ┃\n┃        │            │변화 및 여건을 분석하여 해빙기, 장마기간 종료 후        ┃\n┃        │            │등은 필히 점검하도록 함                                 ┃\n┃        │            │o 도발적 훼손이 발생되었을 경우에 점검사항과 보고       ┃\n┃        │            │내용 등에 대한 행동요령과 보고양식을 작성               ┃\n┃        │            │o 사고 조치 후 결과에 대한 점검 주기와 점검 내용을 작성 ┃\n┃        ├──────┼────────────────────────────┨\n┃        │수목        │o 병충해 예방 관리계획은 자연유산 구역 내 분포하는      ┃\n┃        │관리        │수목과 임상 보존에 필요한 병충해 방제에 대한 시         ┃\n┃        │계획        │기와 방제량, 방제방법 등에 대하여 작성                  ┃\n┃        │            │o 고사목, 고사지 제거, 잡초 및 잡풀 제거 등 수목 생     ┃\n┃        │            │육에 필요한 연간 유지 관리사항을 작성                   ┃\n┠────┼──────┼────────────────────────────┨\n┃종합    │사업        │o 명승 정비계획에 소요되는 사업을 단계별로 연도별       ┃\n┃추진    │추진        │중장기적으로 작성                                       ┃\n┃계획    │계획        │o 정비계획 실행을 위한 추진체계와 운영조직을 작성       ┃\n┃        ├──────┼────────────────────────────┨\n┃        │재원        │o 정비계획은 자연유산 보존 및 관리에 중점을 두고 실     ┃\n┃        │조달        │현 가능성과 재원 확보 방안을 고려하여 우선순위를        ┃\n┃        │계획        │결정                                                    ┃\n┃        │            │o 재원조달계획은 「자연유산의 보존 및 활용에 관한       ┃\n┃        │            │법률」, 「보조금의 예산 및 관리에 관한 법률」,          ┃\n┃        │            │「국가균형발전 특별법」 등을 다각적으로 검토하          ┃\n┃        │            │여 국ㆍ도비 지원, 지자체 자체 재원 마련 등을 구         ┃\n┃        │            │분하여 작성                                             ┃\n┗━━━━┷━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000279730&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164487595",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164487587",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164487595",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:명승종합정비계획수립및시행에관한지침#BYL0003",
+      "filename": "별표3_명승 부문별 계획의 수립 항목 및 작성 내용(제19조제2항 관련).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "12. 명승 종합정비계획 수립 및 시행에 관한 지침.zip",
+      "url": "http://law.go.kr/flDownload.do?flSeq=164468051",
+      "file_store_url": "",
+      "filename": "12. 명승 종합정비계획 수립 및 시행에 관한 지침.zip"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 29,
+    "by_category": {
+      "법령": 23,
+      "별표": 3,
+      "행정규칙": 3
+    },
+    "by_relation_type": {
+      "citation": 25,
+      "appendix_ref": 3,
+      "internal_ref": 1
+    },
+    "articles_total": 23,
+    "articles_with_relations": 14,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 4,
+    "appendices_count": 3,
+    "attachments_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/명승 종합정비계획 수립 및 시행에 관한 지침"
+  },
+  "provision_id": "admrul:명승종합정비계획수립및시행에관한지침#DOC"
+}
