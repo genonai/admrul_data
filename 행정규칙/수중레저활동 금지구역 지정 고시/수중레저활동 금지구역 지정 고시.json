@@ -1,42 +1,42 @@
 {
-  "law_id": "2100000186526",
-  "mst": "2100000186526",
+  "law_id": "2100000279762",
+  "mst": "2100000279762",
   "law_name": "수중레저활동 금지구역 지정 고시",
   "law_abbr": "",
   "law_type": "고시",
   "doc_target": "admrul",
   "doc_kind": "행정규칙",
-  "adm_uid": "admrul:2100000186526",
-  "promulgation_no": "2020-7",
-  "promulgation_date": "20200122",
-  "enforcement_date": "20200122",
-  "revision_date": "20200122",
+  "adm_uid": "admrul:2100000279762",
+  "promulgation_no": "2026-7",
+  "promulgation_date": "20260522",
+  "enforcement_date": "20260522",
+  "revision_date": "20260522",
   "revision_type": "제정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
     "현행여부": "Y",
-    "담당부서기관명": "해양수산부(해양레저관광과)",
-    "담당자명": "김재윤",
+    "담당부서기관명": "해양경찰청(수상레저과)",
+    "담당자명": "정지현",
     "행정규칙종류코드": "B0003",
     "행정규칙명": "수중레저활동 금지구역 지정 고시",
-    "발령일자": "20200122",
+    "발령일자": "20260522",
     "행정규칙종류": "고시",
     "제개정구분코드": "200401",
     "조문형식여부": "Y",
-    "소관부처명": "해양수산부",
-    "전화번호": "051-773-5256, 6186",
+    "소관부처명": "해양경찰청",
+    "전화번호": "032-835-2551",
     "제개정구분명": "제정",
-    "소관부처코드": "1192000",
-    "생성일자": "20220207",
-    "행정규칙ID": "70813",
-    "시행일자": "20200122",
-    "담당부서기관코드": "1192542",
-    "발령번호": "2020-7",
-    "행정규칙일련번호": "2100000186526",
-    "상위부처명": "해양수산부"
+    "소관부처코드": "1532000",
+    "생성일자": "20260526",
+    "행정규칙ID": "97305",
+    "시행일자": "20260522",
+    "담당부서기관코드": "1532583",
+    "발령번호": "2026-7",
+    "행정규칙일련번호": "2100000279762",
+    "상위부처명": "해양경찰청"
   },
   "amendment_text": "",
-  "revision_reason": "◇ 제·개정 이유\n공군 사격훈련장으로 사용 중인 전북 군산시 직도 인근 해상(반경 3해리*)을 수중레저활동자의 사고 예방 및 안전확보를 위하여 수중레저활동 금지구역으로 지정\n* 공군 사격훈련 시 반경 약 3해리까지 피해발생 가능\n◇ 주요내용\n가. 「수중레저활동의 안전 및 활성화 등에 관한 법률」 제14조 제1항에 따른 수중레저활동 금지구역 지정\n나. 금지구역의 범위\n- 전북 군산시 직도 서방 끝단(북위 35도 53분 17.69초, 동경 126도 04분 17.77초)으로부터 반경 3해리 해역",
+  "revision_reason": "◇ 제정 이유\n「수중레저활동의 안전 및 활성화 등에 관한 법률」 개정(’25. 4. 22.)에 따라 수중레저활동의 안전 및 활성화를 위한 업무 중 안전관리 분야가 해양수산부장관 소관에서 해양경찰청장 소관으로 이관됨에 따라, 기존 해양수산부 고시인 「수중레저활동 금지구역 지정 고시」를 폐지하고 해양경찰청 고시로 제정하려는 것임\n◇ 주요내용\n가.「수중레저법」제14조제1항에 따른 수중레저활동 금지구역 지정하는 것을 목적으로 규정(안 제1조)\n나. 수중레저활동이 금지되는 범위 규정(안 제2조)\n다. 재검토기한 소관부처 명칭(해양수산부장관[그림]→해양경찰청장) 변경(안 제3조)",
   "body": {
     "format": "articles",
     "article_count": 3,
@@ -45,9 +45,44 @@
         "article_no": "제1조",
         "article_title": "목적",
         "chapter": "",
-        "content": "제1조(목적) 이 고시는 「수중레저활동의 안전 및 활성화 등에 관한 법률」(이하 \"수중레저법\"이라 한다) 제14조제1항에 따른 수중레저활동 금지구역을 지정하는 것을 목적으로 한다.",
+        "content": "제1조(목적) 이 고시는 「수중레저활동의 안전 및 활성화 등에 관한 법률」 제14조제1항에 따른 수중레저활동 금지구역을 지정하는 것을 목적으로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「수중레저활동의 안전 및 활성화 등에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "수중레저활동의 안전 및 활성화 등에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수중레저활동의 안전 및 활성화 등에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수중레저활동금지구역지정고시#JO0001",
+            "reference_id": "law:수중레저활동의안전및활성화등에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제14조제1항",
+            "line_text": "",
+            "target_law_name": "수중레저활동의 안전 및 활성화 등에 관한 법률",
+            "target_article_no": "제14조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수중레저활동의 안전 및 활성화 등에 관한 법률/제14조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수중레저활동금지구역지정고시#JO0001",
+            "reference_id": "law:수중레저활동의안전및활성화등에관한법률#JO0014"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:수중레저활동금지구역지정고시#JO0001"
       },
@@ -55,9 +90,44 @@
         "article_no": "제2조",
         "article_title": "금지구역 범위",
         "chapter": "",
-        "content": "제2조(금지구역 범위) 「수중레저활동의 안전 및 활성화 등에 관한 법률」(이하 \"수중레저법\"이라 한다) 제2조제2호에 따라 수중레저활동이 금지되는 범위는 다음 각 호와 같다.1. 전북 군산시 직도 서방 끝단(북위 35도 53분 17.69초, 동경 126도 04분 17.77초)으로부터 반경 3해리 해역",
+        "content": "제2조(금지구역 범위) 「수중레저활동의 안전 및 활성화 등에 관한 법률」 제14조제1항에 따라 수중레저활동이 금지되는 범위는 전북특별자치도 군산시 직도 서방 끝단(북위 35도 53분 17.69초, 동경 126도 04분 17.77초)으로부터 반경 3해리 내의 해역으로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「수중레저활동의 안전 및 활성화 등에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "수중레저활동의 안전 및 활성화 등에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수중레저활동의 안전 및 활성화 등에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수중레저활동금지구역지정고시#JO0002",
+            "reference_id": "law:수중레저활동의안전및활성화등에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제14조제1항",
+            "line_text": "",
+            "target_law_name": "수중레저활동의 안전 및 활성화 등에 관한 법률",
+            "target_article_no": "제14조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수중레저활동의 안전 및 활성화 등에 관한 법률/제14조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수중레저활동금지구역지정고시#JO0002",
+            "reference_id": "law:수중레저활동의안전및활성화등에관한법률#JO0014"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:수중레저활동금지구역지정고시#JO0002"
       },
@@ -65,9 +135,27 @@
         "article_no": "제3조",
         "article_title": "재검토기한",
         "chapter": "",
-        "content": "제3조 (재검토기한) 해양수산부장관은 「훈령·예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2020년 7월 1일을 기준으로 매3년이 되는 시점(매 3년째의 6월 30일까지를 말한다) 마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "content": "제3조(재검토기한) 해양경찰청장은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2026년 7월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다) 마다 그 타당성을 검토하여 개선 등의 조치를 해야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수중레저활동금지구역지정고시#JO0003",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "admrul:수중레저활동금지구역지정고시#JO0003"
       }
@@ -75,13 +163,54 @@
   },
   "addenda": [
     {
-      "promulgation_date": "20200122",
-      "promulgation_no": "2020-7",
-      "content": "부칙 <제2020-7호,2020. 1. 22.>이 고시는 발령한 날로부터 시행한다."
+      "promulgation_date": "20260522",
+      "promulgation_no": "2026-7",
+      "content": "부칙 <제2026-7호, 2026. 5. 22.>이 고시는 발령한 날부터 시행한다."
     }
   ],
-  "appendices": [],
-  "attachments": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "수중레저활동 금지구역 범위(제2조 관련)",
+      "enforcement_date": "",
+      "content": "【별표 1】\n수중레저활동 금지구역 범위(제2조 관련)\n1. 전북특별자치도 군산시 직도 서방 끝단*으로부터 반경 3해리 내의 해역 (그림 1 참조)\n* 북위 35도 53분 17.69초, 동경 126도 04분 17.77초\n직도\n\n\n┌─────────────────────────────────────┐\n│                                                                          │\n└─────────────────────────────────────┘\n[그림 1] 전북특별자치도 군산시 직도 수중레저활동 금지구역 범위(해상사격장)\n",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000279762&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164514367",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164514363",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164514367",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수중레저활동금지구역지정고시#BYL0001",
+      "filename": "별표1_수중레저활동 금지구역 범위(제2조 관련).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "(행정규칙 전문) 수중레저활동 금지구역 지정 고시.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=164514313",
+      "file_store_url": "",
+      "filename": "(행정규칙 전문) 수중레저활동 금지구역 지정 고시.hwpx"
+    },
+    {
+      "name": "(행정규칙 전문) 수중레저활동 금지구역 지정 고시.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=164514317",
+      "file_store_url": "",
+      "filename": "(행정규칙 전문) 수중레저활동 금지구역 지정 고시.pdf"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
     "relations_total": 5,
@@ -104,6 +233,5 @@
   "source": {
     "source_url": "https://www.law.go.kr/행정규칙/수중레저활동 금지구역 지정 고시"
   },
-  "provision_id": "admrul:수중레저활동금지구역지정고시#DOC",
-  "is_future": false
+  "provision_id": "admrul:수중레저활동금지구역지정고시#DOC"
 }
