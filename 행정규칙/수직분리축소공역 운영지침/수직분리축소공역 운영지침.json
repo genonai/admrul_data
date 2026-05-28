@@ -1,0 +1,651 @@
+{
+  "law_id": "2100000279564",
+  "mst": "2100000279564",
+  "law_name": "수직분리축소공역 운영지침",
+  "law_abbr": "",
+  "law_type": "훈령",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000279564",
+  "promulgation_no": "1947",
+  "promulgation_date": "20260528",
+  "enforcement_date": "20260528",
+  "revision_date": "20260528",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국토교통부(항공교통과)",
+    "담당자명": "김하영",
+    "행정규칙종류코드": "B0001",
+    "행정규칙명": "수직분리축소공역 운영지침",
+    "발령일자": "20260528",
+    "행정규칙종류": "훈령",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국토교통부",
+    "전화번호": "044-201-4296",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1613000",
+    "생성일자": "20260528",
+    "행정규칙ID": "31645",
+    "시행일자": "20260528",
+    "담당부서기관코드": "1613000",
+    "발령번호": "1947",
+    "행정규칙일련번호": "2100000279564",
+    "상위부처명": "국토교통부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n가. 인천 비행정보구역(FIR) 내 항공교통량 급증에 따라 수용량 증대를 위한 수직분리축소(RVSM) 공역의 범위 확대\n* 수직분리축소공역(Reduced Vertical Separation Minimum) : 고도 29,000피트에서 41,000피트 이내에서 수직분리 최소치를 2,000피트에서 1,000피트로 축소가능한 공역\n나. 국제민간항공기구 권고에 따른 고도이탈(LHD)* 감시절차와 아태지역 회의시 의결된 개선사항 및 고도이탈 분류체계 반영\n* LHD(Large Height Deviation): 항공기가 비행할 것으로 예상되는 고도에서 300피트(90미터)이상 수직으로 이탈하는 경우\n◇ 주요내용\n가. \"수직분리축소공역\"의 범위가 인천 FIR 내 항공로에서 전 구역으로 확대됨에 따라 정의를 변경(안 제2조제3호)\n나. ICAO의 한국과 중국간 LHD 교환체계 강화 권고에 따라, LHD 보고서 제출을 월 1회에서 2회로 확대하여 절차를 개선함(안 별표1)\n다. 회원국의 위성항법시스템 전파간섭 관련 LHD 발생 원인 항목(Category R)을 추가 관리하기로 의결함에 따라, 분류표 개정(안 별표3)\n라. ICAO 회의 결과에 따라 인적오류(Category E)에 해당하는 고도이탈의 보고 기준과 서식을 명확히 함(안 제4조제1항 및 제2항, 별지1호 및 제2호)",
+  "body": {
+    "format": "articles",
+    "article_count": 8,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규정은 항공교통업무기관의 종사자가「항공안전법」제75조제1항 및 항공교통업무기준 제38조제6항에 따른 수직분리축소공역을 효율적으로 운영하고 동 구역을 운항하는 항공기의 안전을 확보하기 위하여 필요한 업무를 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「항공안전법」",
+            "line_text": "",
+            "target_law_name": "항공안전법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공안전법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수직분리축소공역운영지침#JO0001",
+            "reference_id": "law:항공안전법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제75조제1항",
+            "line_text": "",
+            "target_law_name": "항공안전법",
+            "target_article_no": "제75조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공안전법/제75조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수직분리축소공역운영지침#JO0001",
+            "reference_id": "law:항공안전법#JO0075"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제38조제6항",
+            "line_text": "",
+            "target_law_name": "항공교통업무기준",
+            "target_article_no": "제38조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/항공교통업무기준/제38조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:수직분리축소공역운영지침#JO0001",
+            "reference_id": "admrul:항공교통업무기준#JO0038"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수직분리축소공역운영지침#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "용어정의",
+        "chapter": "",
+        "content": "제2조(용어정의) 이 규정에서 사용하는 용어의 뜻은 다음과 같다.1. \"고도이탈(LHD: Large Height Deviation)\"이란 항공기가 비행할 것으로 예상되는 고도에서 300피트(90미터)이상 수직으로 이탈하는 경우를 말한다. 이 경우는 운영상 오류(관제사가 예상치 못한 위치/시간에 항공기 위치) 또는 기술적인 요인의 결과를 포함한다.2. \"고도이탈보고서\"란 국제민간항공협약 부속서 표준에 따라 수행하는 고도감시 프로그램의 일환으로 고도이탈이 발생한 경우에 기록하는 보고서를 말한다.3. \"수직분리축소공역(RVSM: Reduced Vertical Separation Minimum)\"이란 인천 비행정보구역 내 고도 29,000피트 이상 41,000피트 이하의 공역을 말한다.4. \"수직분리축소공역 운항승인\"이란 항공기의 탑재장비, 운항기술 등이 국토교통부장관이 고시한 운항기술기준에 적합하여 해당 항공기의 수직분리축소공역 운항을 승인한 것을 말한다.5. \"지역감시기구(RMA: Regional Monitoring Agency)\"란 수직분리축소공역 내의 항공운항 안전성을 확보하기 위하여 국제민간항공기구(ICAO)의 협정에 따라 지역단위로 지정된 기구를 말하며, 항공기 고도유지성능 감시, 운항승인 데이터베이스 유지 관리, 안전성 평가 등의 역할을 수행한다.6. \"교통량샘플자료(TSD: Traffic Sample Data)\"란 국제민간항공협약 부속서 표준에 따라 수행하는 고도감시 프로그램의 일환으로 수직분리축소공역 안전성 평가를 위하여 정해진 양식에 따라 수집되는 수직분리축소공역 내 항공기 운항에 관한 자료를 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수직분리축소공역운영지침#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "관련근거 및 국제기준",
+        "chapter": "",
+        "content": "제3조(관련근거 및 국제기준) 이 규정의 수립근거와 기준은 다음 각 호와 같다.1. 삭제2. 국제민간항공협약 부속서 제11권(Air Traffic Services)3. 국제민간항공협약 Doc 9574(Manual on Implementation of a 300m (1000feet) Vertical Separation Minimum Between FL290 and FL410 Inclusive)4. 국제민간항공협약 Doc 7030(Regional Supplementary Procedures)5. 항공교통업무기준 제3장(항공교통관제업무)",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수직분리축소공역운영지침#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "고도감시 등",
+        "chapter": "",
+        "content": "제4조(고도감시 등) ① 항공교통본부장은 수직분리축소공역에서 고도이탈 발생 내역을 별지 제1호 서식에 따라 매월 10일까지 국토교통부장관(항공운항과장, 항공교통과장)에게 보고하여야 하고, 해당 사항을 매월 15일까지 지역감시기구에 통보하여야 한다. 이 경우, 별지 제1호 서식 중 발생원인(Cause of deviation)은 별표 3의 고도이탈 발생원인 분류표에 따른다.② 항공교통본부장은 별표 3의 고도이탈 발생원인 분류 중 ‘E’에 해당하고, 고도이탈이 300피트(90미터) 미만인 경우 또는 인수 관제기관이 사전에 이를 인지한 경우에는 별지 제2호서식에 따라 매월 10일까지 국토교통부장관(항공교통과장)에게 보고하여야 한다. 이 경우 해당 사항을 매월 15일까지 지역감시기구에 통보하여야 한다.③ 항공교통본부장은 관할 구역 내에서 발생한 제1항 및 제2항의 고도이탈 사례를 분석하여 관제사에 의하여 발생된 경우에는 동일사례가 재발되지 않도록 조치하고, 그 결과를 국토교통부장관(항공교통과장)에게 보고하여야 한다.④ 항공교통본부장은 매년 12월(31일분)의 교통량샘플자료를 별지 제3호 서식에 따라 작성하여 다음 해 1월 25일까지 국토교통부장관(항공운항과장, 항공교통과장)에게 보고하고 1월 31일까지 지역감시기구에 통보하여야 한다.⑤ 고도이탈(LHD) 발생 시 세부적인 업무처리 절차는 별표 1을 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "별지 제1호 서식",
+            "line_text": "",
+            "target_law_name": "수직분리축소공역 운영지침",
+            "target_article_no": "별지1",
+            "target_article_title": "LHD 지역감시기구 보고서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164350945",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수직분리축소공역운영지침#JO0004",
+            "reference_id": "admrul:수직분리축소공역운영지침#BJ0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "별지 제1호 서식",
+            "line_text": "",
+            "target_law_name": "수직분리축소공역 운영지침",
+            "target_article_no": "별지1",
+            "target_article_title": "LHD 지역감시기구 보고서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164350945",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수직분리축소공역운영지침#JO0004",
+            "reference_id": "admrul:수직분리축소공역운영지침#BJ0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "수직분리축소공역 운영지침",
+            "target_article_no": "별표3",
+            "target_article_title": "고도이탈(LHD) 발생원인 분류(제4조 관련)",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000279564&bylNo=0003&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수직분리축소공역운영지침#JO0004",
+            "reference_id": "admrul:수직분리축소공역운영지침#BYL0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "수직분리축소공역 운영지침",
+            "target_article_no": "별표3",
+            "target_article_title": "고도이탈(LHD) 발생원인 분류(제4조 관련)",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000279564&bylNo=0003&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수직분리축소공역운영지침#JO0004",
+            "reference_id": "admrul:수직분리축소공역운영지침#BYL0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "수직분리축소공역 운영지침",
+            "target_article_no": "별지2",
+            "target_article_title": "Category E로 인한 고도이탈 보고서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164350951",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수직분리축소공역운영지침#JO0004",
+            "reference_id": "admrul:수직분리축소공역운영지침#BJ0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제4항",
+            "link_text": "별지 제3호 서식",
+            "line_text": "",
+            "target_law_name": "수직분리축소공역 운영지침",
+            "target_article_no": "별지3",
+            "target_article_title": "교통량샘플자료(TSD)",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164350961",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수직분리축소공역운영지침#JO0004",
+            "reference_id": "admrul:수직분리축소공역운영지침#BJ0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제5항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "수직분리축소공역 운영지침",
+            "target_article_no": "별표1",
+            "target_article_title": "고도이탈(LHD) 발생 시 업무처리 절차(상해 FIR 외, 상해 FIR)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000279564&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수직분리축소공역운영지침#JO0004",
+            "reference_id": "admrul:수직분리축소공역운영지침#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수직분리축소공역운영지침#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "운항승인이 없는 항공기의 비행제한",
+        "chapter": "",
+        "content": "제5조(운항승인이 없는 항공기의 비행제한) ① 관제사는 다음 각 호의 경우를 제외하고 수직분리축소공역 운항승인이 없는 항공기가 수직분리축소공역으로 진입하는 것을 제한하여야 한다.1. 신규로 항공기를 도입하는 경우2. 고장난 항공기를 정비하기 위하여 해당 항공기를 정비 장소까지 운항하는 경우3. 운항승인을 받은 항공기가 날개 아래에 여분의 엔진을 탑재하여 수송하는 경우4. 항공기 사고ㆍ재난 등으로 수색구조를 위하여 긴급하게 항공기를 운항하는 경우5. 군ㆍ세관 또는 경찰업무에 사용되는 국가항공기를 운항하는 경우. 단, 미합중국 군용항공기도 국가항공기로 간주한다.6. 수평비행을 하지 않고 수직분리축소공역을 가로질러 상승 또는 강하하는 경우② 접근관제소 또는 관제탑은 제1항 각 호의 어느 하나에 해당하는 항공기가 수직분리축소공역을 비행하고자 하는 경우, 관련 정보를 지역관제소(대구·인천ACC)에 통보하여야 한다.③ 관제사는 수직분리축소공역 운항승인 여부 확인을 위해 비행계획서(FPL) 운항승인 여부 확인란에 \"W\" 문자가 기재되어 있는지 확인하여야 한다.④ 관제사는 관제장비의 고장으로 수직분리축소공역 운항승인 여부를 확인할 수 없을 경우, 해당 항공기 조종사에게 수직분리축소공역 운항승인 여부를 확인한 후, 비행진행기록지(STRIP) 해당 항목에 수직분리축소공역 운항승인을 받은 항공기의 경우 \"W\" 문자를, 수직분리축소공역 운항승인을 받지 않은 항공기의 경우 \"NON\" 문자를 기입한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수직분리축소공역운영지침#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "순항고도 배정",
+        "chapter": "",
+        "content": "제6조(순항고도 배정) ① 관제사는 수직분리축소공역 내에서 순항고도를 배정할 때에는 운항승인이 없는 항공기보다 운항승인을 받은 항공기에 우선권을 부여할 수 있다.② 순항고도는「항공안전법」시행규칙 별표 21 제2호에 따라 배정하여야 한다.③ 제2항에 따라 순항고도 배정 시 운항승인을 받은 항공기 간에는 1,000피트, 운항승인을 받은 항공기와 운항승인을 받지 않은 항공기 간에는 2,000피트 이상의 수직분리기준을 적용하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "별표 21",
+            "line_text": "",
+            "target_law_name": "수직분리축소공역 운영지침",
+            "target_article_no": "별표21",
+            "target_article_title": "",
+            "appendix_no": "21",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": false,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000279564&bylNo=&bylBrNo=",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수직분리축소공역운영지침#JO0006",
+            "reference_id": "admrul:수직분리축소공역운영지침#BYL0021"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「항공안전법」 시행규칙",
+            "line_text": "제6조(순항고도 배정) ① 관제사는 수직분리축소공역 내에서 순항고도를 배정할 때에는 운항승인이 없는 항공기보다 운항승인을 받은 항공기에 우선권을 부여할 수 있다.② 순항고도는「항공안전법」시행규칙 별표 21 제2호에 따라 배정하여야 한다.③ 제2항에 따라 순항고도 배정 시 운항승인을 받은 항공기 간에는 1,000피트, 운항승인을 받은 항공기와 운항승인을 받지 않은 항공기 간에는 2,000피트 이상의 수직분리기준을 적용하여야 한다.",
+            "target_law_name": "항공안전법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/항공안전법 시행규칙",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:수직분리축소공역운영지침#JO0006",
+            "reference_id": "law:항공안전법시행규칙#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수직분리축소공역운영지침#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "우발상황 발생시 관제절차",
+        "chapter": "",
+        "content": "제7조(우발상황 발생시 관제절차) ① 관제사는 수직분리축소공역을 운항하는 항공기로부터 다음 각 호의 상황을 보고 받은 경우 별표 2의 비정상 상황 시나리오에 따라 업무를 수행한다.1. 장비고장으로 인하여 수직분리축소공역 운항기준의 준수가 불가능한 경우2. 한 개 이상의 고도측정시스템이 기능을 상실한 경우3. 비행고도 유지에 영향을 주는 난기류를 조우하였을 경우② 관제사는 제1항제3호의 내용을 접수받은 경우 해당지역을 비행하는 항공기에 난기류 정보를 제공하고, 2,000피트 이상의 수직분리기준을 적용하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "수직분리축소공역 운영지침",
+            "target_article_no": "별표2",
+            "target_article_title": "비정상 상황 시나리오(제7조 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000279564&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수직분리축소공역운영지침#JO0007",
+            "reference_id": "admrul:수직분리축소공역운영지침#BYL0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수직분리축소공역운영지침#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "유효기간",
+        "chapter": "",
+        "content": "제8조(유효기간) 이 지침은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 훈령을 발령한 후의 법령이나 현실 여건의 변화 등을 검토하여야 하는 2029년 5월 27일까지 효력을 가진다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수직분리축소공역운영지침#JO0008",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수직분리축소공역운영지침#JO0008"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20160411",
+      "promulgation_no": "697",
+      "content": "부칙 <제697호,2016. 4. 11.>제1조(시행일) 이 훈령은 발령한 날부터 시행한다.제2조(기존 훈령의 폐지) 수직분리축소공역 운영지침(국토교통부 훈령 제72호, 2013. 4. 16.)은 이를 폐지한다."
+    },
+    {
+      "promulgation_date": "20170609",
+      "promulgation_no": "887",
+      "content": "부칙 (항공안전 의무보고 운영에 관한 규정 등 38개 국토교통부 훈령 일괄개정) <제887호,2017. 6. 9.>이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20171207",
+      "promulgation_no": "947",
+      "content": "부칙(항공교통안전관리시스템 운영매뉴얼 등 6개 국토교통부 훈령 일괄개정) <제947호,2017. 12. 7.>이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20190412",
+      "promulgation_no": "1181",
+      "content": "부칙 <제1181호,2019. 4. 12.>이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20210809",
+      "promulgation_no": "1417",
+      "content": "부칙 <제1417호, 2021. 8. 9.>이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20240723",
+      "promulgation_no": "1783",
+      "content": "부칙 <제1783호, 2024. 7. 23.>이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20241028",
+      "promulgation_no": "1813",
+      "content": "부칙 <제1813호, 2024. 10. 28.>이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20260528",
+      "promulgation_no": "1947",
+      "content": "부칙 <제1947호, 2026. 5. 28.>이 훈령은 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "고도이탈(LHD) 발생 시 업무처리 절차(상해 FIR 외, 상해 FIR)",
+      "enforcement_date": "",
+      "content": "■ 수직분리축소공역 운영지침 [별표 1]\n고도이탈(LHD) 발생 시 업무처리 절차(상해 FIR 외)\n고도이탈(LHD) 발생 시 업무처리 절차(상해 FIR)",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000279564&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164350921",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164350915",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164350921",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수직분리축소공역운영지침#BYL0001",
+      "filename": "별표1_고도이탈(LHD) 발생 시 업무처리 절차(상해 FIR 외, 상해 FIR).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "비정상 상황 시나리오(제7조 관련)",
+      "enforcement_date": "",
+      "content": "■ 수직분리축소공역 운영지침 [별표 2]\n비정상 상황 시나리오(제7조 관련)\n1. 모든 자동 고도제어시스템 고장 시 (예. 자동고도 유지 장치)\n┌────────────────────────────────────┐\n│항공교통관제기관 조치                                                   │\n├────────────────────────────────────┤\n│조종사의 의도를 파악하고 중요 교통정보를 제공한다.                      │\n├────────────────────────────────────┤\n│ 1) 조종사가 계속적으로 RVSM 공역내를 운항하기를 원할 경우, 상황을 판단 │\n│하여  횡적분리, 종적분리 또는 기존의 2,000피트 수직분리기준을 제공하    │\n│여 항공기를 처리할 수 있는지를 결정하고 가능할 경우 적절한 분리기준     │\n│을 적용한다.                                                            │\n├────────────────────────────────────┤\n│ 2) RVSM 공역을 벗어나기 위하여 조종사가 허가를 요청할 경우 가능한 신속 │\n│히 요구사항을 허가한다.                                                 │\n├────────────────────────────────────┤\n│ 3) 인접 항공교통관제기관/섹터에 상황을 통보한다.                       │\n└────────────────────────────────────┘\n2. 주 고도계 시스템의 중복성능(redundancy) 손실\n┌──────────────────────────────┐\n│항공교통관제기관 조치                                       │\n├──────────────────────────────┤\n│상황을 인지하였음을 통보하고 계속적으로 감시절차를 수행한다.│\n└──────────────────────────────┘\n3. 모든 고도측정장비가 신뢰할 수 없거나 고장이라고 예상될 경우\n┌────────────────────────────────────┐\n│항공교통관제기관 조치                                                   │\n├────────────────────────────────────┤\n│조종사의 의도를 파악하여 중요 교통정보를 제공한다.                      │\n├────────────────────────────────────┤\n│ 1) 조종사가 계속적으로 RVSM 공역내를 운항하기를 원할 경우, 상황을 판단 │\n│하여  횡적분리, 종적분리 또는 기존의 2,000피트 수직분리기준을 제공하    │\n│여 항공기를 처리할 수 있는지를 결정하고 가능할 경우 적절한 분리기준을   │\n│적용한다.                                                               │\n├────────────────────────────────────┤\n│ 2) RVSM 공역을 벗어나기 위하여 조종사가 허가를 요청할 경우 가능한 신속 │\n│히 요구사항을 허가한다.                                                 │\n├────────────────────────────────────┤\n│ 3) 인접 항공교통관제기관/섹터에 상황을 통보한다.                       │\n└────────────────────────────────────┘\n4. 조종사가 항공기의 비행고도를 유지하는데 영향을 받을 것이라 판단하는 심한 난기류(greater than moderate turbulence) 조우할 경우\n┌─────────────────────────────────────┐\n│항공교통관제기관 조치                                                     │\n├─────────────────────────────────────┤\n│ 1) 조종사가 계속적으로 RVSM 공역내를 운항하기를 원할 경우, 상황을 판단하 │\n│여  횡적분리, 종적분리 또는 기존의 2,000피트 수직분리기준을 제공하여      │\n│항공기를 처리할 수 있는지를 결정하고 가능할 경우 적절한 분리기준을 적     │\n│용한다.                                                                   │\n├─────────────────────────────────────┤\n│ 2) RVSM 공역을 벗어나기 위하여 조종사가 허가를 요청할 경우 가능한 신속   │\n│히 요구사항을 허가한다.                                                   │\n├─────────────────────────────────────┤\n│ 3) 인접 항공교통관제기관/섹터에 상황을 통보한다.                         │\n└─────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000279564&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164350929",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164350923",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164350929",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수직분리축소공역운영지침#BYL0002",
+      "filename": "별표2_비정상 상황 시나리오(제7조 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "고도이탈(LHD) 발생원인 분류(제4조 관련)",
+      "enforcement_date": "",
+      "content": "■ 수직분리축소공역 운영지침 [별표 3] <개정 2026. 5. 28.>\n고도이탈(LHD) 발생원인 분류(제4조 관련)\n┌──┬──────────────────────────────────────────┐\n│분류│LHD 발생원인                                                                        │\n├──┴──────────────────────────────────────────┤\n│운영적 에러                                                                               │\n├──┬──────────────────────────────────────────┤\n│A   │조종사가 허가받은 고도로 상승 또는 강하하지 않은 경우                               │\n│    │                                                                                    │\n│    │예시: FL 300에서 FL 360을 배정받은 A항공기가 FL364을 통과하며 CLAM 경고가 발        │\n│    │생하였고, mode C 고도보고는 FL360으로 강하하기 전 FL365을 나타냈다.                 │\n├──┼──────────────────────────────────────────┤\n│B   │ATC 허가 없이 상승 또는 강하한 경우                                                 │\n│    │                                                                                    │\n│    │예시: A항공기는 06:48에 FL340을 떠난다고 보고하였다. 관제기관의 최종 고도 허        │\n│    │가는 06:23분에 표준계기도착 절차 허가와 동시에 발부되었고 이때 항공기는 FL340       │\n│    │을 유지하도록 허가되었다. A 항공기가 강하한 시간은 A항공기와 첫 번째 조우항공       │\n│    │기와 분리되고 또 다른 항공기와도 분리가 이루어지기에 충분한 시간이었다.             │\n├──┼──────────────────────────────────────────┤\n│C   │항공기 장비의 부적절한 운영 또는 이해 : FMS 장비의 부적절한 운영, 관제기관          │\n│    │의 허가나 재허가의 부적절한 전송, 관제기관 허가가 아닌 비행계획서의 이행, 변        │\n│    │경된 허가가 아닌 원래 허가의 이행 등                                                │\n│    │                                                                                    │\n│    │예시: 항공기가 전이고도에서 고도계를 재세팅하지 않고 비행함으로 FL350을 배정받았으  │\n│    │나 4분이 초과하도록 FL346를 유지한 사례                                             │\n├──┼──────────────────────────────────────────┤\n│D   │ATC 시스템 루프 에러 : 관제기관의 잘못된 허가 발부 또는 조종사의 허가 메시지        │\n│    │오해. 복명복창 오류의 결과를 포함한 운영 정보의 ATC 전달 지연, 부정확, 불완전       │\n│    │으로 분리 손실을 초래할 수 있는 상황 포함.                                          │\n│    │                                                                                    │\n│    │예시: 관제기관과 항공기간 HF를 이용한 제3자 전달방법으로 통신중, 1번 항공기         │\n│    │는 FL360을 유지하면서 FL380을 요구하였다. 관제기관은 다음 지점에서 높은 고도        │\n│    │배정을 계획하며 FL370의 허가를 발부하였다. 그다음 2번 항공기에게 FL390으로 상       │\n│    │승하라는 허가가 발부되었다. 이것은 HF 운영자에 의해 정확하게 복창되었으나 그것      │\n│    │은 2번이 아닌 1번 항공기에게 발부되었다. 1번 항공기가 FL390을 유지하고 있다고       │\n│    │보고되었을 때 에러가 발견되었다.                                                    │\n├──┼──────────────────────────────────────────┤\n│E   │인적오류의 결과로 관제기관들 사이의 관제이양 협조 오류 : 늦은 협조 또는 협조        │\n│    │가 이루어지지 않는 경우, 또는 합의 된 사항과 불일치된 잘못된 예상시간/실제시        │\n│    │간, 비행 고도, ATS 항로 등                                                          │\n│    │                                                                                    │\n│    │예시1: A 섹터 관제사는 B섹터로터 1번 항공기를 FL380으로 협조 받았으나 실제          │\n│    │그 항공기의 고도는 FL400이었다.                                                     │\n│    │                                                                                    │\n│    │예시2: A 섹터 관제사가 B 섹터로부터  X 픽스에서 1번 항공기를 FL370으로 협조하였으   │\n│    │나, 05:04에 1번 항공기는 X 픽스에서 FL350에서 FL370을 요구하였다.                   │\n├──┼──────────────────────────────────────────┤\n│F   │장비 고장 또는 기술적 문제의 결과로 관제기관들 간 관제이양 또는 책임 협조 오류      │\n│    │                                                                                    │\n│    │예시: A FIR에 있는 관제사가 FL320 항공기의 관제이양협조를 AIDC 메시지로 보내는      │\n│    │것을 시도했으나, 메시지는 성공하지 못했고 전화통화도 실패하여, 협조되지 않은 상     │\n│    │태로 항공기가 인접 FIR에 교신하는 경우                                              │\n├──┴──────────────────────────────────────────┤\n│항공기 우발상황                                                                           │\n├──┬──────────────────────────────────────────┤\n│G   │갑자기 배정된 고도를 유지하기 어렵게 만드는 항공기 비상 상황에 의한 이탈 : 여       │\n│    │압고장, 엔진고장 등                                                                 │\n│    │                                                                                    │\n│    │예시: 1번 항공기가 여압문제로 FL400에서 FL300으로 강하하였다.                       │\n├──┼──────────────────────────────────────────┤\n│H   │의도되지 않거나 탐지되지 않은 비행고도의 변경을 야기하는 탑재 장비 고장에 의한      │\n│    │이탈                                                                                │\n│    │                                                                                    │\n│    │예시: 1번 항공기가 FL380을 유지하던 중 관제사는 항공기가 FL383을 통과한다는 경보    │\n│    │를 수신했다. 조종사는 자동조종장치로 원래 고도로 복귀하고 있으며 항법장비 오        │\n│    │류를 통보했다.                                                                      │\n├──┴──────────────────────────────────────────┤\n│기상현상에 의한 이탈                                                                      │\n├──┬──────────────────────────────────────────┤\n│I   │요란 또는 기타 기상과 관련 원인에 의한 이탈                                         │\n│    │                                                                                    │\n│    │예시: FL400으로 순항 중 심각한 요란을 조우하여 항공기가 허가 없이 1,000피트 강하한  │\n│    │경우                                                                                │\n├──┴──────────────────────────────────────────┤\n│TCAS RA에 의한 이탈                                                                       │\n├──┬──────────────────────────────────────────┤\n│J   │TCAS 회피 조언에 따른 이탈, 조종사가 회피조언을 정확히 수행한 경우                  │\n│    │                                                                                    │\n│    │예시: 1번 항공기가 FL350으로 순항하고 있었다. 조종사는 TCAS로부터 교통경보를 받     │\n│    │고 거의 동시에 RA 상승 지시가 뒤따랐다. 조종사는 대응하였고 1번 항공기는 TCAS       │\n│    │지시에 따라 거의 FL353까지 상승하였다. TCAS 화면에 반대방향에서 오는 2번 항공       │\n│    │기가 거의 FL345까지 강하하여 1번 항공기 아래로 지나갔음을 표시하였다.               │\n├──┼──────────────────────────────────────────┤\n│K   │TCAS 회피 조언에 따른 이탈, 조종사가 회피조언을 부적절하게 수행한 경우              │\n├──┼──────────────────────────────────────────┤\n│L   │RVSM 분리를 적용받은 항공기가 RVSM 승인을 받지 않은 경우 : 비행계획서는 RVSM        │\n│    │승인으로 되어 있으나 항공기가 승인되지 않은 경우, 관제기관이 비행계획서를 잘못 적용 │\n│    │한 경우                                                                             │\n│    │                                                                                    │\n│    │예시1: 원 상세 비행계획서는 1번 항공기가 RVSM 미승인으로 FIR A에서 출항하는 것      │\n│    │으로 제출되었다. FIR B에 제출된 다음 비행계획서는 1번 항공기가 RVSM 승인된 것       │\n│    │으로 되어 있었다. FIR A 관제사는 항공기가 FIR A에 진입하자마자 바로 확인을 하       │\n│    │였고 조종사는 미승인 RVSM이라고 말하였다.                                           │\n│    │                                                                                    │\n│    │예시2: 2번 항공기가 FL320으로 X섹터 관제사에게 이양되었는데 그는 2번 항공기가       │\n│    │RVSM 승인고도로 비행중임을 인지하고 있다. X섹터 관제사는 전날 그 항공기를 관제      │\n│    │했었는데 당시 그 항공기는 미승인항공기였다. 관제사는 미승인 항공기라고 보고했던     │\n│    │조종사에게 2번 항공기의 승인여부를 질의하였다.                                      │\n├──┼──────────────────────────────────────────┤\n│M   │기타 : 아래의 상황을 포함한다.                                                      │\n│    │1) 항공기간 표준 분리를 유지하거나 분리에 실패한 경우                               │\n│    │2) 조종사가 책임있는 항공교통기관과 정상적 공대지 통신을 할 수 없는 공역에서        │\n│    │운항하는 상황(상승/강하를 포함)                                                     │\n│    │                                                                                    │\n│    │예시: 1번 항공기가 FL350으로 순항 중 XX:XX에 장비 고장으로 RVSM 불가를 통보하였     │\n│    │는데 이때 10분 이내에 상호 수렴하여 FL360으로 통과하는 2번 항공기가 있는 경우       │\n├──┴──────────────────────────────────────────┤\n│GNSS 교란에 의한 이탈                                                                     │\n├──┬──────────────────────────────────────────┤\n│R   │GNSS RFI(무선 주파수 교란)에 따른 이탈이 발생한 경우로 아래 두 가지 유형으로 구분   │\n│    │                                                                                    │\n│    │ 1) 재밍(jamming): 의도적으로 전파 간섭을 일으켜 GNSS 수신기가 위성 신호를          │\n│    │포착하지 못 하게 하여 시스템을 무력화하거나 성능을 저하시키는 경우                  │\n│    │ 2) 스푸핑(spoofing): 위조된 위성 신호를 송출하여 GNSS 수신기를 속이고 잘못된       │\n│    │위치, 항법, 시간 정보를 계산하게 만드는 경우                                        │\n│    │예시: FL300으로 순항고도를 배정받은 항공기가 위조된 위성 신호를 수신하여 의도       │\n│    │치 않게 FL310으로 비행하는 경우                                                     │\n└──┴──────────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000279564&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164350937",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164350931",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164350937",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수직분리축소공역운영지침#BYL0003",
+      "filename": "별표3_고도이탈(LHD) 발생원인 분류(제4조 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "LHD 지역감시기구 보고서",
+      "enforcement_date": "",
+      "content": "■ 수직분리축소공역 운영지침 [별지 제1호서식] <개정 2026. 5. 28.>\n(앞쪽)\nLHD 지역감시기구 보고서\n(뒤쪽)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164350945",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164350939",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164350945",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수직분리축소공역운영지침#BJ0001",
+      "filename": "별지1_LHD 지역감시기구 보고서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "Category E로 인한 고도이탈 보고서",
+      "enforcement_date": "",
+      "content": "■ 수직분리축소공역 운영지침 [별지 제2호서식] <개정 2026. 05. 28.>\nCategory E로 인한 고도이탈 보고서",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164350951",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164350947",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164350951",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수직분리축소공역운영지침#BJ0002",
+      "filename": "별지2_Category E로 인한 고도이탈 보고서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "교통량샘플자료(TSD)",
+      "enforcement_date": "",
+      "content": "■ 수직분리축소공역 운영지침 [별지 제3호서식] <개정 2024. 10. 28.>\n교 통 량 샘 플 자 료(TSD)\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┑\n┃MANDATORY FIELDS(필수)                                                                                                                                        │CONDITIONAL FIELDS(선택)                                      │\n┠───────────────┬───────────────────────────────────────────────────────────────┴───────────────────────────────┤\n┃FIR IDENTIFICATION :          │PROGRESSING IN RVSM AIRSPACE                                                                                                                                                                  │\n┃RKRR                          │                                                                                                                                                                                              │\n┠────┬─────┬────┼────┬─────┬────┬────┬────┬───┬────┬───┬────┬────┬────┬────┬────┬───┬───┬──┬──┬───┬───┬──┬──┬───┤\n┃DATE    │CALLSIG   │AIRCRAF │ITEM 10 │SUR/TAG   │AIRCRAF │ORIGIN  │DESTINA │ENTRY │TIME AT │FL AT │ROUTE   │EXIT FIX│TIME AT │FL AT   │ROUTE   │FIX 1 │TIME  │FL  │ROUT│FIX 2 │TIME  │FL  │ROUT│FIX 3 │\n┃        │N         │T       │OF THE  │IN ITEM   │T TYPE  │AERODR  │TION    │FIX   │ENTRY   │ENTRY │AFTER   │        │EXIT FIX│EXIT FIX│BEFORE  │      │AT    │AT  │E   │      │AT    │AT  │E   │      │\n┃        │          │REGISTR │FLIGHT  │18 OF     │        │OME     │AERODR  │      │FIX     │FIX   │ENTRY   │        │        │        │EXIT    │      │FIX1  │FIX1│AFTE│      │FIX2  │FIX2│AFTE│      │\n┃        │          │ATION   │PLAN    │THE       │        │        │OME     │      │        │      │FIX     │        │        │        │FIX     │      │      │    │R   │      │      │    │R   │      │\n┃        │          │        │        │FLIGHT    │        │        │        │      │        │      │        │        │        │        │        │      │      │    │FIX1│      │      │    │FIX2│      │\n┃        │          │        │        │PLAN      │        │        │        │      │        │      │        │        │        │        │        │      │      │    │    │      │      │    │    │      │\n┡━━━━┿━━━━━┿━━━━┿━━━━┿━━━━━┿━━━━┿━━━━┿━━━━┿━━━┿━━━━┿━━━┿━━━━┿━━━━┿━━━━┿━━━━┿━━━━┿━━━┿━━━┿━━┿━━┿━━━┿━━━┿━━┿━━┿━━━┥\n│01/12/17│KAL9525(1)│HL1234  │SDE1E2  │SUR/RS    │B77L    │RKSI    │VVNB    │BOPTA │04:32   │320   │Z51     │LAMEN   │05:31   │320     │A593    │MOXI  │04:34 │320 │Y711│PONI  │05:00 │320 │A593│···│\n│        │          │        │E3FGHIJ │P180      │        │        │        │      │        │      │        │        │        │        │        │D     │      │    │    │K     │      │    │    │      │\n│        │          │        │4P2RWY  │          │        │        │        │      │        │      │        │        │        │        │        │      │      │    │    │      │      │    │    │      │\n│        │          │        │/LB1D1  │          │        │        │        │      │        │      │        │        │        │        │        │      │      │    │    │      │      │    │    │      │\n├────┼─────┼────┼────┼─────┼────┼────┼────┼───┼────┼───┼────┼────┼────┼────┼────┼───┼───┼──┼──┼───┼───┼──┼──┼───┤\n│01/12/17│AAV704(2) │HL1234  │SDE1E2  │SUR/RS    │A320    │RPVK    │RKSI    │ATOTI │03:48   │350   │B576    │OLMEN   │04:45   │350     │Y722    │CJU   │04:14 │350 │Y722│     │     │   │   │···│\n│        │          │        │E3FGHIJ │P180      │        │        │        │      │        │      │        │        │        │        │        │      │      │    │    │      │      │    │    │      │\n│        │          │        │4P2RWY  │          │        │        │        │      │        │      │        │        │        │        │        │      │      │    │    │      │      │    │    │      │\n│        │          │        │/LB1D1  │          │        │        │        │      │        │      │        │        │        │        │        │      │      │    │    │      │      │    │    │      │\n├────┼─────┼────┼────┼─────┼────┼────┼────┼───┼────┼───┼────┼────┼────┼────┼────┼───┼───┼──┼──┼───┼───┼──┼──┼───┤\n│01/12/17│CCA783(3) │HL1234  │SDE1E2  │SUR/RS    │B789    │ZBAA    │NZAA    │AGAVO │11:20   │316   │Y644    │BESNA   │12:00   │316     │Y781    │SOT   │11:41 │316 │A582│TGU   │11:50 │316 │Y781│···│\n│        │          │        │E3FGHIJ │P180      │        │        │        │      │        │      │        │        │        │        │        │      │      │    │    │      │      │    │    │      │\n│        │          │        │4P2RWY  │          │        │        │        │      │        │      │        │        │        │        │        │      │      │    │    │      │      │    │    │      │\n│        │          │        │/LB1D1  │          │        │        │        │      │        │      │        │        │        │        │        │      │      │    │    │      │      │    │    │      │\n├────┼─────┼────┼────┼─────┼────┼────┼────┼───┼────┼───┼────┼────┼────┼────┼────┼───┼───┼──┼──┼───┼───┼──┼──┼───┤\n│01/12/17│KAL1200(4)│HL1234  │SDE1E2  │SUR/RS    │B737    │RKPC    │RKSS    │GUKSU │02:06   │290   │Y722    │SEL     │03:06   │290     │Y685    │PEBRI │02:10 │290 │Z52 │     │     │   │   │···│\n│        │          │        │E3FGHIJ │P180      │        │        │        │      │        │      │        │        │        │        │        │      │      │    │    │      │      │    │    │      │\n│        │          │        │4P2RWY  │          │        │        │        │      │        │      │        │        │        │        │        │      │      │    │    │      │      │    │    │      │\n│        │          │        │/LB1D1  │          │        │        │        │      │        │      │        │        │        │        │        │      │      │    │    │      │      │    │    │      │\n└────┴─────┴────┴────┴─────┴────┴────┴────┴───┴────┴───┴────┴────┴────┴────┴────┴───┴───┴──┴──┴───┴───┴──┴──┴───┘\n* (1)국제선 출발, (2)국제선 도착, (3)통과비행, (4)국내선\n※ 자료수집 및 작성 시 참고 사항\nㅇ 항목구성\n- 필수항목(Mandatory) : 항공기 호출부호/등록부호/비행계획 10·18항목/기종, 출발공항, 목적공항, 진입 지점/시간/고도, 항공로, 이탈 지점/시간/고도\n- 선택항목(Optional) : 픽스 1, 2, 3에 대한 명칭/시간/비행고도\nㅇ 일자 및 시간표기\n- 일자 : DD/MM/YY 또는 MM/DD/YY\n- 시간(UTC) : HH:MM 또는 HHMM\nㅇ 수집 자료는 스프레드시트(엑셀) 양식으로 작성하여 제출\n┌───────────┬──────────────────┬────────────┬─────┐\n│항목                  │설명                                │예시                    │필수/선택 │\n├───────────┼──────────────────┼────────────┼─────┤\n│DATE                  │숫자형식 날짜 입력                  │for  February 01, 2004  │필수      │\n│                      │dd/mm/yyyy                          │enter 01/02/2004.       │          │\n├───────────┼──────────────────┼────────────┼─────┤\n│CALL SIGN             │공백 및 하이튼(-) 없이 최대 7자의   │BAW10,  QFA08,          │필수      │\n│                      │영문자 입력                         │SIA123                  │          │\n├───────────┼──────────────────┼────────────┼─────┤\n│AIRCRAFT              │항공기의 국적 또는 등록부호         │HSAAA,  9MABC,          │필수      │\n│REGISTRATION          │                                    │BLDA                    │          │\n├───────────┼──────────────────┼────────────┼─────┤\n│ITEM 10 OF THE        │\"W\"는 운영자와 항공기가 RVSM        │SDE1E2E3FGHIJ4P2RWY     │필수      │\n│FLIGHT PLAN           │승인을 받았음을 나타내며, 적절한    │/LB1D1                  │          │\n│                      │\"P\" 코드는 특정 RCP에 대한 승인을   │                        │          │\n│                      │나타냅니다. \"P2\"는 RCP240에 대한    │                        │          │\n│                      │승인을 나타냄.                      │                        │          │\n├───────────┼──────────────────┼────────────┼─────┤\n│SUR/TAG IN            │항목 18 내의 \"SUR/*\"에는 운영자와   │SUR/RSP180              │필수      │\n│ITEM18 OF THE         │항공기가 특정 RSP에 대해            │                        │          │\n│FLIGHT PLAN           │승인되었다는 표시가 포함될 수       │                        │          │\n│                      │있음.                               │                        │          │\n│                      │\"SUR/RSP180\"은 RSP180에 대한        │                        │          │\n│                      │승인을 나타냅니다(이 코드는 지역에  │                        │          │\n│                      │따라 다름). RSP는 이 필드 내에서    │                        │          │\n│                      │다양한 순서로 다른 감시 기능과      │                        │          │\n│                      │함께 포함될 수 있음                 │                        │          │\n├───────────┼──────────────────┼────────────┼─────┤\n│AIRCRAFT TYPE         │Doc 8643 에 포함된 ICAO             │for  Airbus A320-211    │필수      │\n│                      │지정자(designators)를 사용          │enter A320; for Boeing  │          │\n│                      │                                    │B747-438 enter B744     │          │\n├───────────┼──────────────────┼────────────┼─────┤\n│ORIGIN                │Doc 7910 나열된 ICAO 4문자          │VDPP,  VHHH, VTBD       │필수      │\n│AERODROME             │코드사용                            │                        │          │\n├───────────┼──────────────────┼────────────┼─────┤\n│DESTINATION           │Doc 7910 나열된 ICAO 4문자          │WSSS,  WMKK, WIII       │필수      │\n│AERODROME             │코드사용                            │                        │          │\n├───────────┼──────────────────┼────────────┼─────┤\n│ENTRY FIX INTO        │최대 5자 영문자의 RVSM 공역진입     │IBOBI,  DOLOX,          │필수      │\n│RVSM AIRSPACE         │픽스/웨이포인트 명칭                │KABAM                   │          │\n├───────────┼──────────────────┼────────────┼─────┤\n│TIME (UTC) AT         │UTC 기준, hh:mm 형식의 숫자 사용    │for  01 hour and 09     │필수      │\n│ENTRY FIX             │                                    │minutes enter 01:09;    │          │\n│                      │                                    │for 12 hours and 23     │          │\n│                      │                                    │minutes enter 12:23     │          │\n├───────────┼──────────────────┼────────────┼─────┤\n│FL AT ENTRY FIX       │100피트 단위의 진입 픽스의          │for  FL290 enter 290;   │필수      │\n│                      │고도입력                            │for FL310 enter 310     │          │\n├───────────┼──────────────────┼────────────┼─────┤\n│ROUTE AFTER           │진입 픽스를 떠난 후 항공로 명칭     │L642,  M771, L628       │필수      │\n│ENTRY FIX             │                                    │                        │          │\n├───────────┼──────────────────┼────────────┼─────┤\n│EXIT FIX FROM         │최대 5자 영문자의 RVSM 공역진출     │KABAM,  VEPAM,          │필수      │\n│RVSM AIRSPACE         │픽스/웨이포인트 명칭                │ENREP                   │          │\n├───────────┼──────────────────┼────────────┼─────┤\n│TIME (UTC) AT         │UTC 기준, hh:mm 형식의 숫자 사용    │for  08 hours and 07    │필수      │\n│EXIT FIX              │                                    │minutes enter 08:07;    │          │\n│                      │                                    │for 00 hour and 48      │          │\n│                      │                                    │minutes enter 00:48     │          │\n├───────────┼──────────────────┼────────────┼─────┤\n│FL AT EXIT FIX        │100피트 단위의 진출 픽스의          │for  FL330 enter 330;   │필수      │\n│                      │고도입력                            │for FL350 enter 350     │          │\n├───────────┼──────────────────┼────────────┼─────┤\n│ROUTE BEFORE          │진출 픽스를 떠나기 전 항공로 명칭   │L642,  M771, L628       │필수      │\n│EXIT FIX              │                                    │                        │          │\n├───────────┴──────────────────┴────────────┼─────┤\n│  비행 고도 및/또는 경로 변경이 이루어진 진입 및 진출 픽스 수정 사이의 경로를         │선택      │\n│따라 수정이 있는 경우 발생한 모든 변경에 대해 다음 \"FIX/TIME/FL/ROUTE\" 필드를         │          │\n│완료하십시오.                                                                         │          │\n│  RVSM공역 진입 및 진출 비행경로 사이에 비행고도 및/또는 경로의 변경이 있는           │          │\n│픽스가 있는 경우 입력                                                                 │          │\n├───────────┬──────────────────┬────────────┼─────┤\n│FIX 1, 2, …, N       │비행고도 및/또는 경로 변경이 있는   │상동                    │선택      │\n│                      │최대 5자 영문자의 픽스이름          │                        │          │\n├───────────┼──────────────────┼────────────┼─────┤\n│TIME (UTC) AT FIX     │FIX 1, 2, …, N에서의 hh:mm         │상동                    │선택      │\n│1, 2, …, N           │형식의 UTC기준 숫자 입력            │                        │          │\n├───────────┼──────────────────┼────────────┼─────┤\n│FL AT FIX 1, 2, …, N │100피트 단위의 비행고도             │상동                    │선택      │\n├───────────┼──────────────────┼────────────┼─────┤\n│ROUTE AFTER FIX       │픽스를 이탈하기 전 항공로 명칭      │상동                    │선택      │\n│1, 2, …, N           │                                    │                        │          │\n└───────────┴──────────────────┴────────────┴─────┘\nㅇ 교통량 샘플자료 항목별 설명\nㅇ 교통량 샘플자료 도해",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164350961",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164350953",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164350961",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수직분리축소공역운영지침#BJ0003",
+      "filename": "별지3_교통량샘플자료(TSD).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "★수직분리축소공역 운영지침_국토교통부훈령 제1947호(2026.5.28).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=164350833",
+      "file_store_url": "",
+      "filename": "★수직분리축소공역 운영지침_국토교통부훈령 제1947호(2026.5.28).hwpx"
+    },
+    {
+      "name": "★수직분리축소공역 운영지침_국토교통부훈령 제1947호(2026.5.28).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=164350837",
+      "file_store_url": "",
+      "filename": "★수직분리축소공역 운영지침_국토교통부훈령 제1947호(2026.5.28).pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 14,
+    "by_category": {
+      "법령": 3,
+      "행정규칙": 2,
+      "별지": 4,
+      "별표": 5
+    },
+    "by_relation_type": {
+      "citation": 5,
+      "appendix_ref": 9
+    },
+    "articles_total": 8,
+    "articles_with_relations": 5,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 8,
+    "appendices_count": 6,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/수직분리축소공역 운영지침"
+  },
+  "provision_id": "admrul:수직분리축소공역운영지침#DOC"
+}
