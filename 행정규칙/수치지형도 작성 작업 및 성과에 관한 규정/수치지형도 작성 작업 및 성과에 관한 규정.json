@@ -1,0 +1,864 @@
+{
+  "law_id": "2100000280186",
+  "mst": "2100000280186",
+  "law_name": "수치지형도 작성 작업 및 성과에 관한 규정",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000280186",
+  "promulgation_no": "2026-2524",
+  "promulgation_date": "20260528",
+  "enforcement_date": "20260528",
+  "revision_date": "20260528",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국토지리정보원(지리정보과)",
+    "담당자명": "이종신",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "수치지형도 작성 작업 및 성과에 관한 규정",
+    "발령일자": "20260528",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국토지리정보원",
+    "전화번호": "031-210-2723",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1613000",
+    "생성일자": "20260602",
+    "행정규칙ID": "37114",
+    "시행일자": "20260528",
+    "담당부서기관코드": "1613441",
+    "발령번호": "2026-2524",
+    "행정규칙일련번호": "2100000280186",
+    "상위부처명": "국토교통부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n축척별 상이하던 수치지형도의 표준코드를 하나로 통일함으로써 상호 호환성 향상 및 자동 변환을 효율적으로 추진하기 위함\n\n◇ 주요내용\n가. 1/5,000 수치지형도 기반으로 시스템을 통해 자동생산되는 1/25,000 수치지형도의 표현 기준 등 명시(제13조)\n나. 수치지형도 레이어 속성정보를 축척별, 종류별로 연계하여 상호 호환 및 자동 변환이 가능하도록 개선(별표 2)",
+  "body": {
+    "format": "articles",
+    "article_count": 18,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조(목적) 이 규정은 「수치지도 작성 작업규칙」에 따라 수치지형도(Digital Topographic Map) 작성에 관한 세부사항을 규정하여 규격 등을 표준화하고, 정확도를 확보하는데 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「수치지도 작성 작업규칙」",
+            "line_text": "",
+            "target_law_name": "수치지도 작성 작업규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수치지도 작성 작업규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0001",
+            "reference_id": "law:수치지도작성작업규칙#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "용어의 정의",
+        "chapter": "제1장 총칙",
+        "content": "제2조(용어의 정의) 이 규정에서 사용하는 용어의 정의는 다음 각 호와 같다.1. \"수치지형도\"란 측량 결과에 따라 지표면 상의 위치와 지형 및 지명 등 여러 공간정보를 일정한 축척에 따라 기호나 문자, 속성 등으로 표시하여 정보시스템에서 분석, 편집 및 입력ㆍ출력할 수 있도록 제작된 것(정사영상지도는 제외한다)을 말한다.2. \"수치지형도 작성\"이란 각종 지형공간정보를 취득하여 전산시스템에서 처리할 수 있는 형태로 제작하거나 변환하는 일련의 과정을 말한다.3. \"정위치편집\"이란 기 구축 공간정보 수집, 지리조사 및 현지측량에서 얻어진 자료를 이용하여 도화 데이터 또는 지도입력 데이터를 수정ㆍ보완하는 작업을 말한다.4. \"구조화편집\"이란 데이터 간의 지리적 상관관계를 파악하기 위하여 지형ㆍ지물을 기하학적 형태로 구성하는 작업을 말한다.5. \"제품사양서\"란 국가표준 KS X ISO 19131 지리정보-제품사양에서 정한 기준에 따라 데이터 제품의 내용 및 구조, 메타데이터, 품질 등의 규격을 정한 문서를 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "적용",
+        "chapter": "제1장 총칙",
+        "content": "제3조(적용) ① 수치지형도 데이터의 생산, 품질, 성과품 등과 관련된 사항은 국토지리정보원 기관표준 \"기본공간정보 메타데이터\", \"기본공간정보 데이터 품질\"을 우선 적용한다.② 항공사진촬영, 지상기준점측량, 사진기준점측량, 세부도화 및 수정도화작업은 「항공사진측량 작업 및 성과에 관한 규정」에 의한다.③ MMS의 디지털카메라를 이용한 영상취득 작업은 「정밀도로지도 구축 및 갱신 등에 관한 규정」에 따른다.④ 본 규정에 명시되지 않은 신기술을 이용한 수치지형도 작성은 다른 법령에 별도의 규정이 없는 경우, 발주처와 협의하여 작업방법을 결정할 수 있으며, 품질검증은 최종성과물인 수치지형도(기본측량성과)에 대하여 실시한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "「항공사진측량 작업 및 성과에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "항공사진측량 작업 및 성과에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/항공사진측량 작업 및 성과에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0003",
+            "reference_id": "admrul:항공사진측량작업및성과에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "좌표계 등",
+        "chapter": "제1장 총칙",
+        "content": "제4조(좌표계 등) ① 좌표계 및 좌표의 기준은 「수치지도 작성 작업규칙」(이하 \"규칙\"이라 한다.) 제4조를 따른다. 다만, 단일평면직각좌표계의 경우는 투영원점의 수치를 X(N) 2,000,000m, Y(E) 1,000,000m로 하며, 좌표계 X축상에서의 축척계수는 0.9996으로 한다.② 좌표는 m단위로 하고 세부도화, 정위치편집 및 구조화편집의 좌표값은 소수점 이하 3자리까지 기록하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "「수치지도 작성 작업규칙」",
+            "line_text": "",
+            "target_law_name": "수치지도 작성 작업규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수치지도 작성 작업규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0004",
+            "reference_id": "law:수치지도작성작업규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "수치지도 작성 작업규칙",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/수치지도 작성 작업규칙/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0004",
+            "reference_id": "law:수치지도작성작업규칙#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "사용장비",
+        "chapter": "제1장 총칙",
+        "content": "제5조(사용장비) ① 「공간정보의 구축 및 관리 등에 관한 법률」제92조의 규정에 따라 성능검사를 필한 장비를 사용한다.② 사용하는 장비는 요구되는 각종 축척 및 정확도를 유지할 수 있는 성능을 가져야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "「공간정보의 구축 및 관리 등에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "공간정보의 구축 및 관리 등에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공간정보의 구축 및 관리 등에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0005",
+            "reference_id": "law:공간정보의구축및관리등에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "제92조",
+            "line_text": "",
+            "target_law_name": "공간정보의 구축 및 관리 등에 관한 법률",
+            "target_article_no": "제92조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공간정보의 구축 및 관리 등에 관한 법률/제92조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0005",
+            "reference_id": "law:공간정보의구축및관리등에관한법률#JO0092"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "성과품",
+        "chapter": "제2장 성과물 데이터",
+        "content": "제6조(성과품) ① 수치지형도의 성과는 다음 각 호와 같으며, 이 규정에 따라 산출되는 기본 데이터 항목 및 속성은 별표 1, 별표 2와 같다. 다만, 목적에 따라 일부 항목 및 속성을 추가할 수 있다.1. 수치도화2. 현황측량3. 지리조사4. 수치지형도5. 메타데이터 및 관리파일6. 품질검사 보고서7. 용역결과 보고서② 수치지형도 작성 작업자는 제3조제1항에 따라 적용한 표준의 성과를 확인하기 위하여 다음 각 호에 대한 표준적용 확인서를 별지 2, 별지 3 서식으로 작성하여 성과물과 함께 국토지리정보원장에게 제출하여야 한다.1. 제7조에 따른 메타데이터2. 제17조에 따른 데이터 품질",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "수치지형도 작성 작업 및 성과에 관한 규정",
+            "target_article_no": "별표1",
+            "target_article_title": "수치지형도 지형지물 표준코드",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000280186&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0006",
+            "reference_id": "admrul:수치지형도작성작업및성과에관한규정#BYL0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "수치지형도 작성 작업 및 성과에 관한 규정",
+            "target_article_no": "별표2",
+            "target_article_title": "수치지형도 지형·지물 속성목록(제15조 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000280186&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0006",
+            "reference_id": "admrul:수치지형도작성작업및성과에관한규정#BYL0002"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "제3조제1항",
+            "line_text": "",
+            "target_law_name": "수치지형도 작성 작업 및 성과에 관한 규정",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수치지형도 작성 작업 및 성과에 관한 규정/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0006",
+            "reference_id": "admrul:수치지형도작성작업및성과에관한규정#JO0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "별지 2",
+            "line_text": "",
+            "target_law_name": "수치지형도 작성 작업 및 성과에 관한 규정",
+            "target_article_no": "별지2",
+            "target_article_title": "표준적용 확인서(메타데이터)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164725469",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0006",
+            "reference_id": "admrul:수치지형도작성작업및성과에관한규정#BJ0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "별지 3",
+            "line_text": "",
+            "target_law_name": "수치지형도 작성 작업 및 성과에 관한 규정",
+            "target_article_no": "별지3",
+            "target_article_title": "표준적용 확인서(데이터품질)",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164725477",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0006",
+            "reference_id": "admrul:수치지형도작성작업및성과에관한규정#BJ0003"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "수치지형도 작성 작업 및 성과에 관한 규정",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수치지형도 작성 작업 및 성과에 관한 규정/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0006",
+            "reference_id": "admrul:수치지형도작성작업및성과에관한규정#JO0007"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "제17조",
+            "line_text": "",
+            "target_law_name": "수치지형도 작성 작업 및 성과에 관한 규정",
+            "target_article_no": "제17조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수치지형도 작성 작업 및 성과에 관한 규정/제17조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0006",
+            "reference_id": "admrul:수치지형도작성작업및성과에관한규정#JO0017"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "메타데이터",
+        "chapter": "제2장 성과물 데이터",
+        "content": "제7조(메타데이터) 수치지형도의 체계적 관리 및 서비스를 위하여 기관표준에 따라 다음 각 호의 사항이 포함된 메타데이터를 작성하여야 한다.1. 식별정보2. 데이터 품질 정보3. 참조체계정보4. 배포정보5. 범위정보6. 참조자료 및 담당자 정보",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "제품사양서",
+        "chapter": "제2장 성과물 데이터",
+        "content": "제8조(제품사양서) 국토지리정보원장은 수치지형도 작성에 활용할 수 있도록 다음 각 호의 사항이 포함된 제품사양서를 작성하여 배포할 수 있다.1. 식별정보2. 내용 및 구조(데이터모델, 어플리케이션 스키마, 포맷 등을 포함)3. 참조체계정보4. 품질5. 유지관리6. 메타데이터7. 배포정보 등",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "작업계획서 제출",
+        "chapter": "제3장 작업방법",
+        "content": "제9조(작업계획서 제출) 작업기관은 각 작업별로 다음사항을 포함한 계획서를 작성하여 제출하여야 한다.1. 투입장비현황(품명, 규격, 성능, 고유번호)2. 작업지역(모델)색인도3. 작업예정공정표4. 참여기술자 명단(자격증사본 등 포함)5. 보안관리계획",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "좌표변환",
+        "chapter": "제3장 작업방법",
+        "content": "제10조(좌표변환) 좌표변환은 국토지리정보원에서 제공한 도곽좌표값을 사용하되 정확히 일치되어야 하며, 도곽 4개의 모서리지점은 작업이 완료된 후에도 삭제하여서는 안 된다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "지리조사 대상 및 범위",
+        "chapter": "제3장 작업방법",
+        "content": "제11조(지리조사 대상 및 범위) 영상자료(항공사진, MMS사진 등), 도화성과, 수치지형도 등의 자료를 이용하여 실ㆍ내외 조사를 수행한다. 조사 당시 나타난 지형ㆍ지물과 이에 관련되는 지명ㆍ명칭을 그 대상으로 하며, 그 범위는 별표 2를 기준으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "수치지형도 작성 작업 및 성과에 관한 규정",
+            "target_article_no": "별표2",
+            "target_article_title": "수치지형도 지형·지물 속성목록(제15조 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000280186&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0011",
+            "reference_id": "admrul:수치지형도작성작업및성과에관한규정#BYL0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "조사기준",
+        "chapter": "제3장 작업방법",
+        "content": "제12조(조사기준) ① 조사는 항공사진촬영 당시를 기준으로 하되, 항공사진의 사각지대 또는 단순 변경된 독립 주택 등 조사측량이 가능한 경우는 보완하여 반영하고, 대규모 공사지역 등은 공사명칭(기간) 및 완공일 등을 조사하여 표기하여야 한다.② 수치지형도 상 반영하지 못하는 변경된 지형ㆍ지물 및 주기에 대하여는 그 지역 및 주기임을 확인 할 수 있는 사진을 촬영하여 첨부하여야 한다.③ 시ㆍ군(구)ㆍ읍(동)ㆍ면 경계 또는 기본도와 다른 지명(고시지명 기준), 지형ㆍ지물의 변경사항 등을 적색으로 정리 기록하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "정위치편집",
+        "chapter": "제3장 작업방법",
+        "content": "제13조(정위치편집) ① 각 지형ㆍ지물의 정위치 편집은 다음 방법에 의하고, 공간정보의 분류체계는 규칙을 따르며, 세부 지형ㆍ지물의 표준코드는 별표 1에 따른다.1. 국가기준점(삼각점, 수준점, 통합기준점)은 성과표에 따라 모두 입력하여야 한다.2. 숲 또는 장애물 등으로 항공사진 판독이 불가능한 지역은 지리조사 성과를 이용하여 수정 또는 보완하여야 하며, 모니터 상에서 직접 수정이 어려운 부분은 현지보완측량 성과를 이용하여 입력하여야 한다.3. 숲 또는 장애물 등으로 인한 등고선의 불합리한 부분은 산지에 한하여 주곡선 간격의 1/3범위 이내에서 수정할 수 있다.4. 항공사진 촬영과 지리조사 시점의 차이로 단순 변경된 독립주택 등은 지리조사 성과 또는 조사측량 된 성과를 이용하여 입력 또는 수정하여야 한다.5. 도로, 철도, 교량, 제방, 댐 등 각종 지형ㆍ지물의 제원은 지리조사에서 얻은 자료를 이용하여 정확히 수정 또는 입력하여야 한다.6. 지류는 축척 1/1,000의 경우 필지별 경지계로 개별 폐합하고, 1/2,500 및 1/5,000의 경우에는 같은 지류집단 외곽을 지류계로 폐합한 후 필지별 경지계로 분할, 계단식 등 둑의 폭이 큰 경우는 지류계로 단독폐합 방법에 따라 편집하여야 한다.7. 도로와 하천 폭이 축척 1/1,000에서는 0.6m 이상, 1/2,500에서는 1.5m 이상, 1/5,000에서는 3m 이상, 1/25,000에서는 6m 이상은 실폭으로 표현하여야 한다.8. 축척별 실폭도로에는 도로중심선을 생성하고, 국가하천, 지방하천은 제방과 제방 사이를 중심으로 하천중심선을 생성하여야 한다.9. 철도, 도로, 도로중심선, 하천, 하천중심선이 고가부, 교량 등과 교차할 경우에는 통과하여 연결하여야 한다.10. 모든 데이터의 분기점은 일치되어야 한다.11. 연속되는 모든 선형데이터는 연결되어야 한다.12. 등고선, 표고점, 삼각점, 수준점, 통합기준점에는 높이값(3차원 데이터)을 정확히 입력하여야 한다.13. 등고선은 단락시키지 않게 연결해야 한다. 단, 축척 1/1,000인 경우는 건물, 교량에서 단락시켜 입력하여야 한다.14. 등고선 수치는 등고선을 단락시키지 않고 등고선 상에 입력하여야 한다.15. 지류기호는 한필지에 하나씩 해당지류의 중앙에 표시하는 것을 원칙으로 한다.16. 수시수정으로 변경된 도로, 철도 등의 지형지물이 주변 지형(등고선을 포함한다)과 불일치하더라도, 기존 지형 및 등고선을 수정하지 않고 향후 항공사진촬영 성과 등을 이용하여 일괄 수정한다.② 수치지형도의 모든 지형ㆍ지물 및 내용물은 각각 별도의 독립적인 의미를 가지므로 같은 위치에 여러 선이 겹치더라도 삭제하거나 임의로 전위할 수 없다.③ 해안선 및 등심선은 국립해양조사원에서 제작한 해도에서 추출하여 다음 각 호의 방법으로 표시하되, 자료가 부족하거나 오류 등으로 인하여 표시할 수 없는 경우에는 생략할 수 있다.1. 해안선은 약최고고조면을 기준으로 입력한다. 다만, 해도 제작 시점의 차이로 지형지물 변동사항이 발생하여 해안선이 다를 경우 항공사진 및 지리조사 등을 통해 보완한다.2. 등심선은 약최저저조면을 기준으로 입력한다. 다만, 자료의 부족 등으로 등심선이 단락된 경우, 해도에 있는 대로 표시한다.④ 정위치편집 성과의 위치정확도는 평균제곱근오차(RMSE)로 계산하며, 다음과 같다.(95% 신뢰구간에서 평면위치 정확도=1.7308×RMSExy, 수직위치 정확도=1.9600×RMSEh)[그림]⑤ 1/1,000 수치지형도의 경우 지자체별 상황과 특성에 따라 별표 1 지형지물 표준코드를 가감할 수 있다.⑥ 1/25,000 수치지형도가 1/5,000을 기반으로 자동 생산될 때는 지형ㆍ지물 객체의 일반화, 단순화, 군집화 과정 등을 통해 1/5,000 수치지형도와 다르게 표현할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제1항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "수치지형도 작성 작업 및 성과에 관한 규정",
+            "target_article_no": "별표1",
+            "target_article_title": "수치지형도 지형지물 표준코드",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000280186&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0013",
+            "reference_id": "admrul:수치지형도작성작업및성과에관한규정#BYL0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제5항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "수치지형도 작성 작업 및 성과에 관한 규정",
+            "target_article_no": "별표1",
+            "target_article_title": "수치지형도 지형지물 표준코드",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000280186&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0013",
+            "reference_id": "admrul:수치지형도작성작업및성과에관한규정#BYL0001"
+          }
+        ],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164724275",
+            "seq": "164724275"
+          }
+        ],
+        "provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "주기의 입력",
+        "chapter": "제3장 작업방법",
+        "content": "제14조(주기의 입력) ① 주기는 한글, 영어, 숫자로 입력하되 유니코드체계를 사용하여야 한다.② 지리조사 시 조사확인된 주기를 입력하여야 한다.③ 크기, 글자 간격, 배열방법은 지도도식규칙에서 정한 바에 의하되 선상주기의 배열은 직선으로 표현하여야 하며, 가능한 한 선상과 일치하여야 한다.④ 주기를 입력시키기 위해 다른 지형ㆍ지물을 삭제하여서는 안 된다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "구조화편집",
+        "chapter": "제3장 작업방법",
+        "content": "제15조(구조화편집) ① 각 지형ㆍ지물의 구조화 편집은 다음 방법에 의하고, 공간정보의 분류체계는 규칙을 따르며, 세부 지형ㆍ지물의 표준코드 및 속성목록은 별표 2에 따른다.1. 기존의 정위치편집이 완료된 수치지형도의 레이어를 구조화편집 레이어와 일치하도록 레이어를 변환하여야 하며, 불필요한 레이어는 삭제 하여야 한다.2. 모든 도형정보는 점ㆍ선ㆍ면의 기하학적 구조를 갖도록 편집하고 각 도형정보에 대한 속성정보를 입력하여야 한다.3. 도로 또는 하천이 분리되는 부분에 대하여 교차면을 생성하고, 도로가 교차되는 부분의 객체와 도로경계선, 도로중심선이 교차하는 부분은 분리하여 노드를 생성하여야 한다.4. 면 구조의 계층에 대한 구조화 작업 시 지형ㆍ지물간의 상관관계에 대한 위치 및 연결 구조를 확인 후 작업을 실시하여야 한다.5. 속성입력은 지리조사 및 관련 자료를 참조하여 입력하되, 동일객체에 대하여 같은 필드에 속성항목이 다를 경우 객체를 분리하여 입력을 수행한다.6. 행정경계의 면처리시 해안의 경우 행정경계와 해안선을 연결하여 면 처리하며, 도서의 경우 해안선만으로 면처리하여 행정구역을 표현한다.7. 구조화편집 시 표현 레이어, 색상, 폰트 등은 규정에 따라 작성하며, Table의 순서에 주의하여 작성하여야 한다.② 1/1,000 수치지형도의 경우 지자체별 상황과 특성에 따라 별표 2 지형지물 속성 목록을 가감할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제1항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "수치지형도 작성 작업 및 성과에 관한 규정",
+            "target_article_no": "별표2",
+            "target_article_title": "수치지형도 지형·지물 속성목록(제15조 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000280186&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0015",
+            "reference_id": "admrul:수치지형도작성작업및성과에관한규정#BYL0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제2항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "수치지형도 작성 작업 및 성과에 관한 규정",
+            "target_article_no": "별표2",
+            "target_article_title": "수치지형도 지형·지물 속성목록(제15조 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000280186&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0015",
+            "reference_id": "admrul:수치지형도작성작업및성과에관한규정#BYL0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "품질요소",
+        "chapter": "제4장 품질관리",
+        "content": "제16조(품질요소) 수치지형도 작성 성과는 국토지리정보원 기관표준\"기본공간정보 데이터 품질\" 따른 다음 각 호의 품질요소를 만족하여야 한다.1. 정보 완전성2. 논리 일관성3. 위치 정확성4. 주제 정확성5. 시간 품질",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "품질관리",
+        "chapter": "제4장 품질관리",
+        "content": "제17조(품질관리) ① 수치지형도 제작 성과의 품질관리를 위하여 제17조에 따라 별지 1 서식의 품질관리표를 작성하여 공정별 품질관리를 수행하여야 한다.② 작업이 완료되면 상호 인접되는 데이터를 지형ㆍ지물의 표현상 모순이 없도록 수정하여 일치시켜야 한다. 또한 다른 좌표계와의 인접지역은 동일좌표계로 치환하여 일치시킨 후 원래 좌표계로 전환시켜야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제1항",
+            "link_text": "별지 1",
+            "line_text": "",
+            "target_law_name": "수치지형도 작성 작업 및 성과에 관한 규정",
+            "target_article_no": "별지1",
+            "target_article_title": "품질관리표",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164725451",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0017",
+            "reference_id": "admrul:수치지형도작성작업및성과에관한규정#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "재검토기한",
+        "chapter": "제4장 품질관리",
+        "content": "제18조(재검토기한) 국토지리정보원장은 「행정규제기본법」 및 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2025년 1월 1일을 기준으로 매3년이 되는 시점(매3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제18조",
+            "source_clause": "제18조",
+            "link_text": "「행정규제기본법」",
+            "line_text": "",
+            "target_law_name": "행정규제기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/행정규제기본법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0018",
+            "reference_id": "law:행정규제기본법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제18조",
+            "source_clause": "제18조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0018",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수치지형도작성작업및성과에관한규정#JO0018"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20091214",
+      "promulgation_no": "2009-946",
+      "content": "부칙 <제2009-946호,2009. 12. 14.>제1조(시행일) 이 고시는 2009년 12월 14일부터 시행한다.제2조(종전 규정의 폐지) 종전 수치지도 작성작업내규(국토지리정보원고시 제2009-590호 2009. 8. 18.)는 폐지한다."
+    },
+    {
+      "promulgation_date": "20101230",
+      "promulgation_no": "2010-981",
+      "content": "부칙 <제2010-981호,2010. 12. 30.>제1조(시행일) 이 고시는 2011년 1월 29일부터 시행한다.제2조(종전 규정의 폐지) 종전 수치지형도 작성 작업규정(국토지리정보원고시 제2009-946호 2009. 12. 14.)는 폐지한다."
+    },
+    {
+      "promulgation_date": "20111229",
+      "promulgation_no": "2011-1085",
+      "content": "부칙 <제2011-1085호,2011. 12. 29.>제1조(시행일) 이 고시는 2012년 2월 1일부터 시행한다.제2조(종전 규정의 폐지) 종전 수치지도 작성작업내규(국토지리정보원고시 제2010-981호 2010. 12. 30.)는 폐지한다."
+    },
+    {
+      "promulgation_date": "20130801",
+      "promulgation_no": "2013-1265",
+      "content": "부칙 <제2013-1265호,2013. 8. 1.>제1조(시행일) 이 고시는 발령한 날 부터 시행한다."
+    },
+    {
+      "promulgation_date": "20150723",
+      "promulgation_no": "2015-1530",
+      "content": "부칙 (공간정보 3법 시행 및 규제 재검토기한 재설정 등에 따른 국토지리정보원 행정규칙) <제2015-1530호,2015. 7. 23.>제1조(시행일) 이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20190522",
+      "promulgation_no": "2019-145",
+      "content": "부칙 <제2019-145호,2019. 5. 22.>제1조(시행일) 이 고시는 2019년 7월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20220826",
+      "promulgation_no": "2022-3600",
+      "content": "부칙 <제2022-3600호, 2022. 8. 26.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20241128",
+      "promulgation_no": "2024-5915",
+      "content": "부칙 <제2024-5915호, 2024. 11. 28.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20260528",
+      "promulgation_no": "2026-2524",
+      "content": "부칙 <제2026-2524호, 2026. 5. 28.>이 고시는 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "수치지형도 지형지물 표준코드",
+      "enforcement_date": "",
+      "content": "[별표 1] 수치지형도 지형지물 표준코드는 엑셀파일로 관리되므로 상단 메뉴 \"\"버튼을 이용하십시오.\n\"\" 버튼 클릭 후 하단 파일명 참조\n[별표1] 수치지형도 지형지물 표준코드.xlsx",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000280186&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164725433",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164725429",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164725433",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수치지형도작성작업및성과에관한규정#BYL0001",
+      "filename": "별표1_수치지형도 지형지물 표준코드.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "수치지형도 지형·지물 속성목록(제15조 관련)",
+      "enforcement_date": "",
+      "content": "[별표2] 수치지형도 지형ㆍ지물 속성목록(제15조 관련)은 엑셀파일로 관리되므로 상단 메뉴 \"\"버튼을 이용하십시오.\n\"\" 버튼 클릭 후 하단 파일명 참조\n수치지형도 작성 작업 및 성과에 관한 규정.zip",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000280186&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164725439",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164725435",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164725439",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수치지형도작성작업및성과에관한규정#BYL0002",
+      "filename": "별표2_수치지형도 지형·지물 속성목록(제15조 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "품질관리표",
+      "enforcement_date": "",
+      "content": "[별지 1] 품질관리표\n┌────────────────────────────────────┐\n│도화 O차 자체검수                                                       │\n├────┬───────────────────────────────┤\n│사업명  │                                                              │\n├────┼───────────┬───────┬───────────┤\n│업체명  │                      │용역수행대리인│                      │\n├────┼───────────┼───────┼───────────┤\n│작업기간│‘21.7.00 ∼ ’21.7.00│검수기간      │‘21.7.00 ∼ ’21.8.00│\n├────┼───────────┼───────┼───────────┤\n│작업량  │OO도엽                │누계 / 총 도엽│OO / OOO도엽          │\n├────┴───────────┴───────┴───────────┤\n│                                                                        │\n│ ㅇ 참여기술자                                                          │\n│┌───┬─────┬───┬───┬──────┐                    │\n││이름  │기술등급  │작업량│검수량│작업기간    │                    │\n│├───┼─────┼───┼───┼──────┤                    │\n││홍길동│고급기술자│OO도엽│OO도엽│7.00 ∼ 8.00│                    │\n│├───┼─────┼───┼───┼──────┤                    │\n││      │          │      │      │            │                    │\n│├───┼─────┼───┼───┼──────┤                    │\n││      │          │      │      │            │                    │\n│└───┴─────┴───┴───┴──────┘                    │\n│                                                                        │\n│ ㅇ 검사기준                                                            │\n│                                                                        │\n│  (1) 위치 정확성                                                       │\n│┌───┬──────┬──────┬───────┐                  │\n││      │평면        │등고        │표고          │                  │\n││      ├──┬───┼──┬───┼───┬───┤                  │\n││      │RMSE│최대값│RMSE│최대값│RMSE  │최대값│                  │\n│├───┼──┼───┼──┼───┼───┼───┤                  │\n││∼이내│0.2m│0.4m  │0.3m│0.6m  │0.15m │0.3m  │                  │\n│└───┴──┴───┴──┴───┴───┴───┘                  │\n│                                                                        │\n│  (2) 정보완전성                                                        │\n│┌────┬───────┬────┐                                  │\n││        │적합          │부적합  │                                  │\n│├────┼───────┼────┤                                  │\n││오류율  │10% 미만      │10% 이상│                                  │\n│├────┼───────┼────┤                                  │\n││보완방법│오류 사항 보완│재도화  │                                  │\n│└────┴───────┴────┘                                  │\n│                                                                        │\n│ ㅇ 검사결과                                                            │\n│                                                                        │\n│  (1) 위치 정확성 (OO도엽 적합 / OO도엽 부적합)                         │\n│┌───┬──────┬──────┬──────┬───┐            │\n││도엽명│평면        │등고        │표고        │비고  │            │\n││      ├──┬───┼──┬───┼──┬───┤      │            │\n││      │RMSE│최대값│RMSE│최대값│RMSE│최대값│      │            │\n│├───┼──┼───┼──┼───┼──┼───┼───┤            │\n││      │OOm │OOm   │OOm │OOm   │OOm │OOm   │적합/ │            │\n││      │    │      │    │      │    │      │부적합│            │\n│└───┴──┴───┴──┴───┴──┴───┴───┘            │\n│  - 전수검사를 원칙으로 하고, 도화검수 프로그램을 이용하여 한 도엽      │\n│당 평면 20점, 표고 20점, 등고 20점에 대해 실시하고 심사표를 첨부        │\n│                                                                        │\n│  (2) 정보 완전성 (OO도엽 적합 / OO도엽 부적합)                         │\n│                                                                        │\n│  ㅇ 도엽별 검사 결과                                                   │\n│┌───┬─────┬─────┬────────┬──────┐      │\n││도엽명│전체객체수│오류객체수│오류율          │비고        │      │\n│├───┼─────┼─────┼────────┼──────┤      │\n││      │          │          │오류객체수/전체 │적합/부적합 │      │\n││      │          │          │객체수 X 100    │            │      │\n│└───┴─────┴─────┴────────┴──────┘      │\n│   - 전수검사를 원칙으로 하며, 도엽마다 검수 결과에 대해 표 작성        │\n│                                                                        │\n│  ㅇ 오류 내용                                                          │\n│┌───┬──────┬────┬─┬─┬──┐                        │\n││도엽명│오류종류    │오류내역│X │Y │비고│                        │\n│├───┼──────┼────┼─┼─┼──┤                        │\n││      │누락, 초과, │        │  │  │    │                        │\n││      │묘사오류    │        │  │  │    │                        │\n│└───┴──────┴────┴─┴─┴──┘                        │\n│   - 정보 완전성 검사에서 나타난 오류에 대해 모두 기입                  │\n│                                                                        │\n│  ㅇ 주요 오류 사항                                                     │\n│┌───┬────┬────┬─────┐                              │\n││도엽명│수정 전 │수정 후 │오류 사항 │                              │\n│├───┼────┼────┼─────┤                              │\n││      │        │        │OOO 누락  │                              │\n│└───┴────┴────┴─────┘                              │\n│   - 주요 오류에 대해 캡쳐하여 표 작성                                  │\n│                                                                        │\n└────────────────────────────────────┘\n┌──────────────────────────────────────────┐\n│정위치 O차 자체검수                                                                 │\n├────┬─────────────────────────────────────┤\n│사업명  │                                                                          │\n├────┼───────────┬───────┬─────────────────┤\n│업체명  │                      │용역수행대리인│                                  │\n├────┼───────────┼───────┼─────────────────┤\n│작업기간│‘21.7.00 ∼ ’21.7.00│검수기간      │‘21.7.00 ∼ ’21.8.00            │\n├────┼───────────┼───────┼─────────────────┤\n│작업량  │OO도엽                │누계 / 총 도엽│OO / OOO도엽                      │\n├────┴───────────┴───────┴─────────────────┤\n│                                                                                    │\n│ ㅇ 참여기술자                                                                      │\n│┌───┬─────┬───┬───┬──────┐                                │\n││이름  │기술등급  │작업량│검수량│작업기간    │                                │\n│├───┼─────┼───┼───┼──────┤                                │\n││홍길동│고급기술자│OO도엽│OO도엽│7.00 ∼ 8.00│                                │\n│├───┼─────┼───┼───┼──────┤                                │\n││      │          │      │      │            │                                │\n│└───┴─────┴───┴───┴──────┘                                │\n│                                                                                    │\n│ ㅇ 검사기준(오류율)                                                                │\n│┌───┬─────┬─────┬─────┐                                      │\n││      │주제정확성│정보완전성│논리일관성│                                      │\n│├───┼─────┼─────┼─────┤                                      │\n││적합  │10% 미만  │10% 미만  │10% 미만  │                                      │\n│├───┼─────┼─────┼─────┤                                      │\n││부적합│10% 이상  │10% 이상  │10% 이상  │                                      │\n│└───┴─────┴─────┴─────┘                                      │\n│                                                                                    │\n│                                                                                    │\n│ ㅇ 검사결과                                                                        │\n│                                                                                    │\n│  (1) 도엽별 검사 결과 (OO도엽 적합 / OO도엽 부적합)                                │\n│┌───┬───┬────────────────────┬───────┬───┐│\n││도엽명│전체  │오류 객체수                             │오류율        │비고  ││\n││      │객체수├─────┬─────┬─────┬──┤              │      ││\n││      │      │주제정확성│정보완전성│논리일관성│총합│              │      ││\n│├───┼───┼─────┼─────┼─────┼──┼───────┼───┤│\n││      │      │          │          │          │    │오류총합/전체 │적합/ ││\n││      │      │          │          │          │    │객체수 X 100  │부적합││\n│└───┴───┴─────┴─────┴─────┴──┴───────┴───┘│\n│    - 전수검사를 원칙으로 하며, 도엽마다 검수 결과에 대해 표 작성                   │\n│                                                                                    │\n│ ㅇ 오류 내용                                                                       │\n│┌───┬────┬────┬─┬─┬──┐                                        │\n││도엽명│오류종류│오류내역│X │Y │비고│                                        │\n│├───┼────┼────┼─┼─┼──┤                                        │\n││      │        │        │  │  │    │                                        │\n│└───┴────┴────┴─┴─┴──┘                                        │\n│   - 정보 완전성 검사에서 나타난 오류에 대해 모두 기입                              │\n│                                                                                    │\n│ ㅇ 주요 오류 사항                                                                  │\n│┌───┬────┬────┬─────┐                                          │\n││도엽명│수정 전 │수정 후 │오류 사항 │                                          │\n│├───┼────┼────┼─────┤                                          │\n││      │        │        │OOO 누락  │                                          │\n│└───┴────┴────┴─────┘                                          │\n│   - 주요 오류에 대해 캡쳐하여 표 작성                                              │\n└──────────────────────────────────────────┘\n┌──────────────────────────────────────────┐\n│구조화 O차 자체검수                                                                 │\n├────┬─────────────────────────────────────┤\n│사업명  │                                                                          │\n├────┼───────────┬───────┬─────────────────┤\n│업체명  │                      │용역수행대리인│                                  │\n├────┼───────────┼───────┼─────────────────┤\n│작업기간│‘21.7.00 ∼ ’21.7.00│검수기간      │‘21.7.00 ∼ ’21.8.00            │\n├────┼───────────┼───────┼─────────────────┤\n│작업량  │OO도엽                │누계 / 총 도엽│OO / OOO도엽                      │\n├────┴───────────┴───────┴─────────────────┤\n│                                                                                    │\n│ ㅇ 참여기술자                                                                      │\n│┌───┬─────┬───┬───┬──────┐                                │\n││이름  │기술등급  │작업량│검수량│작업기간    │                                │\n│├───┼─────┼───┼───┼──────┤                                │\n││홍길동│고급기술자│OO도엽│OO도엽│7.00 ∼ 8.00│                                │\n│├───┼─────┼───┼───┼──────┤                                │\n││      │          │      │      │            │                                │\n│└───┴─────┴───┴───┴──────┘                                │\n│                                                                                    │\n│ ㅇ 검사기준(오류율)                                                                │\n│┌───┬─────┬─────┬─────┐                                      │\n││      │주제정확성│정보완전성│논리일관성│                                      │\n│├───┼─────┼─────┼─────┤                                      │\n││적합  │10% 미만  │10% 미만  │10% 미만  │                                      │\n│├───┼─────┼─────┼─────┤                                      │\n││부적합│10% 이상  │10% 이상  │10% 이상  │                                      │\n│└───┴─────┴─────┴─────┘                                      │\n│                                                                                    │\n│                                                                                    │\n│ ㅇ 검사결과                                                                        │\n│                                                                                    │\n│  (1) 도엽별 검사 결과 (OO도엽 적합 / OO도엽 부적합)                                │\n│┌───┬───┬────────────────────┬───────┬───┐│\n││도엽명│전체  │오류 객체수                             │오류율        │비고  ││\n││      │객체수├─────┬─────┬─────┬──┤              │      ││\n││      │      │주제정확성│정보완전성│논리일관성│총합│              │      ││\n│├───┼───┼─────┼─────┼─────┼──┼───────┼───┤│\n││      │      │          │          │          │    │오류총합/전체 │적합/ ││\n││      │      │          │          │          │    │객체수 X 100  │부적합││\n│└───┴───┴─────┴─────┴─────┴──┴───────┴───┘│\n│    - 전수검사를 원칙으로 하며, 도엽마다 검수 결과에 대해 표 작성                   │\n│                                                                                    │\n│ ㅇ 오류 내용                                                                       │\n│┌───┬────┬────┬─┬─┬──┐                                        │\n││도엽명│오류종류│오류내역│X │Y │비고│                                        │\n│├───┼────┼────┼─┼─┼──┤                                        │\n││      │        │        │  │  │    │                                        │\n│└───┴────┴────┴─┴─┴──┘                                        │\n│   - 정보 완전성 검사에서 나타난 오류에 대해 모두 기입                              │\n│                                                                                    │\n│ ㅇ 주요 오류 사항                                                                  │\n│┌───┬────┬────┬─────┐                                          │\n││도엽명│수정 전 │수정 후 │오류 사항 │                                          │\n│├───┼────┼────┼─────┤                                          │\n││      │        │        │OOO 누락  │                                          │\n│└───┴────┴────┴─────┘                                          │\n│   - 주요 오류에 대해 캡쳐하여 표 작성                                              │\n└──────────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164725451",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164725441",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164725451",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수치지형도작성작업및성과에관한규정#BJ0001",
+      "filename": "별지1_품질관리표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "표준적용 확인서(메타데이터)",
+      "enforcement_date": "",
+      "content": "[별지 2] 표준적용 확인서(메타데이터)\n(4쪽 중 제1쪽)\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━┓\n┃항목                                                        │작성 내용 ┃\n┠──────────┬───────────────────┼─────┨\n┃1. 메타데이터 연락정│담당(기관)유형                        │          ┃\n┃보                  │(role)                                │          ┃\n┃   (contact)        ├───────────────────┼─────┨\n┃                    │담당(기관)이름                        │          ┃\n┃                    │(name)                                │          ┃\n┃                    ├───────────────────┼─────┨\n┃                    │서비스시간                            │          ┃\n┃                    │(houseOfService)                      │          ┃\n┃                    ├───────────────────┼─────┨\n┃                    │연락지침                              │          ┃\n┃                    │(contactInstruction)                  │          ┃\n┃                    ├───────────────────┼─────┨\n┃                    │전화번호                              │          ┃\n┃                    │(number)                              │          ┃\n┃                    ├───────────────────┼─────┨\n┃                    │상세주소                              │          ┃\n┃                    │(deliveryPoint)                       │          ┃\n┃                    ├───────────────────┼─────┨\n┃                    │행정구역                              │          ┃\n┃                    │(administrativeArea)                  │          ┃\n┃                    ├───────────────────┼─────┨\n┃                    │우편번호                              │          ┃\n┃                    │(postalCode)                          │          ┃\n┃                    ├───────────────────┼─────┨\n┃                    │국가                                  │          ┃\n┃                    │(country)                             │          ┃\n┃                    ├───────────────────┼─────┨\n┃                    │이메일주소                            │          ┃\n┃                    │(electronicMailAddress)               │          ┃\n┃                    ├───────────────────┼─────┨\n┃                    │온라인 지원 URL                       │          ┃\n┃                    │(linkage)                             │          ┃\n┃                    ├───────────────────┼─────┨\n┃                    │온라인지원 기능                       │          ┃\n┃                    │(function)                            │          ┃\n┃                    ├───────────────────┼─────┨\n┃                    │담당부서                              │          ┃\n┃                    │(positionName)                        │          ┃\n┠──────────┼───────────────────┼─────┨\n┃2. 메타데이터 일자정│일자                                  │          ┃\n┃보                  │(date)                                │          ┃\n┃   (dateInfo)       ├───────────────────┼─────┨\n┃                    │일자 유형                             │          ┃\n┃                    │(dateType)                            │          ┃\n┠──────────┼────────┬──────────┼─────┨\n┃3. 데이터 식별정보  │사용된 언어     │언어코드            │          ┃\n┃(identificationInfo)│(defaultLocale) │(language)          │          ┃\n┃                    │                ├──────────┼─────┨\n┃                    │                │국가코드            │          ┃\n┃                    │                │(country)           │          ┃\n┃                    │                ├──────────┼─────┨\n┃                    │                │문자인코딩          │          ┃\n┃                    │                │(characterEncoding) │          ┃\n┃                    ├────────┼──────────┼─────┨\n┃                    │데이터 참조     │데이터이름          │          ┃\n┃                    │(citation)      │(title)             │          ┃\n┃                    │                ├────┬─────┼─────┨\n┃                    │                │참조일자│일자      │          ┃\n┃                    │                │(date)  │(date)    │          ┃\n┃                    │                │        ├─────┼─────┨\n┃                    │                │        │일자유형  │          ┃\n┃                    │                │        │(dateType)│          ┃\n┃                    │                ├────┴─────┼─────┨\n┃                    │                │데이터 표현형태     │          ┃\n┃                    │                │(presentationForm)  │          ┃\n┗━━━━━━━━━━┷━━━━━━━━┷━━━━━━━━━━┷━━━━━┛\n(4쪽 중 제2쪽)\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━┓\n┃항목                                                                                      │작성 내용 ┃\n┠───────────┬──────────┬──────────────────────┼─────┨\n┃3. 데이터 식별정보    │데이터 참조         │기타 참조 정보                              │          ┃\n┃(identificationInfo)  │(citation)          │(otherCitedDetails)                         │          ┃\n┃                      ├──────────┴──────────────────────┼─────┨\n┃                      │온라인 자원                                                       │          ┃\n┃                      │(onlineResource)                                                  │          ┃\n┃                      ├─────────────────────────────────┼─────┨\n┃                      │데이터 요약                                                       │          ┃\n┃                      │(abstract)                                                        │          ┃\n┃                      ├──────────┬──────────────────────┼─────┨\n┃                      │데이터관련 연락처   │담당(기관)유형                              │          ┃\n┃                      │(pointOfContact)    │(role)                                      │          ┃\n┃                      │                    ├──────────────────────┼─────┨\n┃                      │                    │담당(기관)이름                              │          ┃\n┃                      │                    │(name)                                      │          ┃\n┃                      ├──────────┴──────────────────────┼─────┨\n┃                      │데이터 공간표현유형                                               │          ┃\n┃                      │(spatialRepresentationType)                                       │          ┃\n┃                      ├──────────┬──────────────────────┼─────┨\n┃                      │데이터 공간해상도   │축척의 분모                                 │          ┃\n┃                      │(spatialResolution) │(denominator)                               │          ┃\n┃                      ├──────────┴──────────────────────┼─────┨\n┃                      │데이터 활용 주제                                                  │          ┃\n┃                      │(topicCategory)                                                   │          ┃\n┃                      ├──────────┬──────────┬───────────┼─────┨\n┃                      │데이터의            │지리적 요소         │서쪽끝 경도좌표       │          ┃\n┃                      │시공간적 범위       │(geographicElement) │(westBoundLongtitude) │          ┃\n┃                      │(extent)            │                    ├───────────┼─────┨\n┃                      │                    │                    │동쪽끝 경도좌표       │          ┃\n┃                      │                    │                    │(eastBoundLongtitude) │          ┃\n┃                      │                    │                    ├───────────┼─────┨\n┃                      │                    │                    │남쪽끝 위도좌표       │          ┃\n┃                      │                    │                    │(southBoundLatitude)  │          ┃\n┃                      │                    │                    ├───────────┼─────┨\n┃                      │                    │                    │북쪽끝 위도좌표       │          ┃\n┃                      │                    │                    │(nouthBoundLatitude)  │          ┃\n┃                      │                    ├──────────┼───────────┼─────┨\n┃                      │                    │시간적 요소         │시작일자              │          ┃\n┃                      │                    │(temporalElement)   │(beginPosition)       │          ┃\n┃                      │                    │                    ├───────────┼─────┨\n┃                      │                    │                    │종료일자              │          ┃\n┃                      │                    │                    │(endPosition)         │          ┃\n┠───────────┼──────────┴──────────┴───────────┼─────┨\n┃4. 메타데이터 제약    │접근제약                                                          │          ┃\n┃(metadataConstraints) │(accessConstraints)                                               │          ┃\n┃                      ├─────────────────────────────────┼─────┨\n┃                      │사용제약                                                          │          ┃\n┃                      │(useConstraints)                                                  │          ┃\n┃                      ├─────────────────────────────────┼─────┨\n┃                      │기타제약                                                          │          ┃\n┃                      │(otherConstraints)                                                │          ┃\n┗━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━┛\n(4쪽 중 제3쪽)\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━┓\n┃항목                                                                    │작성 내용 ┃\n┠───────────┬────────────────────────┼─────┨\n┃5. 메타데이터 유지관  │유지관리 및 갱신 주기                           │          ┃\n┃리                    │(maintenanceAndUpdateFrequency)                 │          ┃\n┃(metadataMaintenance) ├─────────┬──────────────┼─────┨\n┃                      │유지관리 일자     │일자                        │          ┃\n┃                      │(maintennaceDate) │(date)                      │          ┃\n┃                      │                  ├──────────────┤          ┃\n┃                      │                  │일자유형                    │          ┃\n┃                      │                  │(dateType)                  │          ┃\n┃                      ├─────────┴──────────────┼─────┨\n┃                      │유지관리노트                                    │          ┃\n┃                      │(maintenanceNote)                               │          ┃\n┠───────────┼─────────┬──────────────┼─────┨\n┃6. 참조체계정보       │참조체계 식별자   │코드                        │          ┃\n┃(referenceSystemInfo) │(referenceSystemI │(code)                      │          ┃\n┃                      │dentifier)        ├──────────────┼─────┨\n┃                      │                  │코드 스페이스               │          ┃\n┃                      │                  │(codeSpace)                 │          ┃\n┃                      │                  ├──────────────┼─────┨\n┃                      │                  │식별자 버전                 │          ┃\n┃                      │                  │(version)                   │          ┃\n┃                      │                  ├──────────────┼─────┨\n┃                      │                  │참조체계 식별자에 대한 설명 │          ┃\n┃                      │                  │(description)               │          ┃\n┃                      ├─────────┴──────────────┼─────┨\n┃                      │참조체계 유형                                   │          ┃\n┃                      │(referenceSystemType)                           │          ┃\n┠───────────┼────────────────────────┼─────┨\n┃7. 내용정보           │부합코드                                        │          ┃\n┃(contentInfo)         │(complianceCode)                                │          ┃\n┃                      ├─────────┬──────────────┼─────┨\n┃                      │사용된 언어       │언어코드                    │          ┃\n┃                      │(locale)          │(language)                  │          ┃\n┃                      │                  ├──────────────┼─────┨\n┃                      │                  │국가코드                    │          ┃\n┃                      │                  │(country)                   │          ┃\n┃                      │                  ├──────────────┼─────┨\n┃                      │                  │문자인코딩                  │          ┃\n┃                      │                  │(characterEncoding)         │          ┃\n┃                      ├─────────┴──────────────┼─────┨\n┃                      │데이터셋 포함여부                               │          ┃\n┃                      │(includeWithDataset)                            │          ┃\n┃                      ├─────────┬──────────────┼─────┨\n┃                      │피처 카탈로드     │참조제목                    │          ┃\n┃                      │참조자료          │(title)                     │          ┃\n┃                      │(featureCatalogue ├────┬─────────┼─────┨\n┃                      │Citation)         │참조일자│일자              │          ┃\n┃                      │                  │(date)  │(date)            │          ┃\n┃                      │                  │        ├─────────┼─────┨\n┃                      │                  │        │일자유형          │          ┃\n┃                      │                  │        │(dateType)        │          ┃\n┃                      │                  ├────┴─────────┼─────┨\n┃                      │                  │데이터 표현형태             │          ┃\n┃                      │                  │(presentationForm)          │          ┃\n┃                      │                  ├──────────────┼─────┨\n┃                      │                  │온라인 자원                 │          ┃\n┃                      │                  │(onlineResource)            │          ┃\n┗━━━━━━━━━━━┷━━━━━━━━━┷━━━━━━━━━━━━━━┷━━━━━┛\n(4쪽 중 제4쪽)\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━┓\n┃항목                                                                │작성 내용 ┃\n┠───────────┬──────────┬───────────┼─────┨\n┃8. 배포정보           │배포자              │담당(기관)이름        │          ┃\n┃(distributionInfo)    │(distributor)       │(name)                │          ┃\n┃                      │                    ├───────────┼─────┨\n┃                      │                    │담당(기관)유형        │          ┃\n┃                      │                    │(role)                │          ┃\n┃                      │                    ├───────────┼─────┨\n┃                      │                    │전화번호              │          ┃\n┃                      │                    │(number)              │          ┃\n┃                      ├──────────┼───────────┼─────┨\n┃                      │배포포맷            │참조제목              │          ┃\n┃                      │(distributionFormat)│(title)               │          ┃\n┃                      │                    ├───────────┤          ┃\n┃                      │                    │기타인용자료          │          ┃\n┃                      │                    │(otherCitationDetails)│          ┃\n┠───────────┼──────────┴───────────┼─────┨\n┃9. 공간표현정보       │위상레벨                                    │          ┃\n┃(spatialRepresentation│(topologyLevel)                             │          ┃\n┃Info)                 ├──────────┬───────────┼─────┨\n┃                      │기하 객체           │기하객체유형          │          ┃\n┃                      │(geometricObjects)  │(geometricObjectType) │          ┃\n┃                      │                    ├───────────┼─────┨\n┃                      │                    │기하객체개수          │          ┃\n┃                      │                    │(geometricObjectCount)│          ┃\n┠───────────┼──────────┼───────────┼─────┨\n┃10 묘화               │묘화 카탈로그       │참조제목              │          ┃\n┃(portrayal)           │참조자료            │(title)               │          ┃\n┃                      │(portrayalCatalogu  ├────┬──────┼─────┨\n┃                      │eCitation)          │참조일자│일자        │          ┃\n┃                      │                    │(date)  │(date)      │          ┃\n┃                      │                    │        ├──────┼─────┨\n┃                      │                    │        │일자유형    │          ┃\n┃                      │                    │        │(dateType)  │          ┃\n┃                      │                    ├────┴──────┼─────┨\n┃                      │                    │데이터 표현형태       │          ┃\n┃                      │                    │(presentationForm)    │          ┃\n┃                      │                    ├───────────┼─────┨\n┃                      │                    │온라인 자원           │          ┃\n┃                      │                    │(onlineResource)      │          ┃\n┗━━━━━━━━━━━┷━━━━━━━━━━┷━━━━━━━━━━━┷━━━━━┛\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n메타데이터에 대한 표준적용 확인서 작성 방법\n─────────────────────────────────────────────────────────────────────────────\n메타데이터의 연락정보(contact)\n담당(기관) 유형은 메타데이터를 제공하는 기관의 유형을 기재합니다.\n담당(기관) 이름은 메타데이터를 제공하는 기관의 이름을 기재합니다.\n서비스시간은 메타데이터를 제공하는 기관의 업무시간을 기재합니다.\n연락지침은 메타데이터의 제공기관에 연락할 경우 참고해야하는 사항을 기재합니다.\n전화번호는 메타데이터를 제공하는 기관의 연락처를 기재합니다.\n상세주소는 메타데이터를 제공하는 기관의 주소를 기재합니다.\n행정구역은 메타데이터를 제공하는 기관이 소재하는 행정구역을 기재합니다.\n우편번호는 메타데이터를 제공하는 기관의 우편번호를 기재합니다.\n국가는 메타데이터를 제공하는 기관이 소재하는 국가를 기재합니다.\n이메일주소는 메타데이터를 제공하는 기관(또는 담당자)의 이메일 주소로, 이메일 주소 형태로 자유롭게 기재합니\n다.\n온라인자원 URL은 메타데이터를 제공하는 기관의 웹페이지를 기재합니다.\n온라인자원 기능은 상기 메타데이터 제공 URL의 목적을 기재합니다.\n담당 부서는 메타데이터를 제공하는 기관 내 부서의 이름을 기재합니다. 문자열 형태로 자유롭게 기입하되, 해당\n상항이 없는 경우 기재하지 않습니다.\n\n메타데이터 일자정보(dateInfo)\n일자는 메타데이터를 생성한 일자(검수일자)를 기재합니다. YYYY-MM-DD 형식으로 작성합니다.\n일자 유형은 상기 기입된 메타데이터 작성 일자의 유형을 기재합니다.\n\n데이터 식별정보(identificationInfo)\n사용된 언어 중 언어코드는 데이터가 한국어로 기술된 내용을 포함하고 있는 경우, 사용된 언어의 코드를 문자열\n로 기재합니다.\n사용된 언어 중 국가코드는 데이터가 한국어로 기술된 내용을 포함하고 있는 경우, 사용된 언어에 대한 국가코드\n(정수)를 기재합니다.\n사용된 언어 중 문자인코딩은 데이터가 한국어로 기술된 내용을 포함하고 있는 경우, 사용된 언어의 인코딩 값을\n기재합니다.\n데이터 참조 중 데이터 이름은 데이터의 이름으로, 문자열 형식으로 자유롭게 기재합니다.\n데이터 참조 중 참조일자의 일자는 데이터 구축 일자를 기재합니다. YYYY-MM-DD 형식으로 작성합니다.\n데이터 참조 중 참조일자의 일자유형은 상기 날짜의 유형을 기재합니다.\n데이터 참조 중 데이터 표현형태는 구축된 데이터가 표현되는 형태로서, 다음 사항에서 선택합니다.\n디지털 문서 (documentDigital), 인쇄 문서 (documentHardcopy), 디지털 영상 (imageDigital), 인쇄 영상\n(imageHardcopy), 디지털 지도 (mapDigital), 종이지도 (mapHardcopy), 디지털 모델 (modelDigital), 하드카피\n모델 (modelHardcopy), 디지털 종단면 (profileDigial), 하드카피 종단면 (profileHardcopy), 디지털 표\n(tableDigital), 하드카피 표 (tableHardcopy), 디지털 비디오 (videoDigital), 하드카피 비디오\n(videoHardcopy), 디지털 오디오 (audioDigital), 하드카피 오디오 (audioHardcopy), 디지털 멀티미디어\n(multimediaDigital), 하드카피 멀티미디어 (multimediaHardcopy), 물리적 객체 (physicalObject), 디지털\n도식그림 (diagramDigital), 하드카피 도식그림 (diagram hardcopy)\n데이터 참조 중 데이터 기타 참조 정보는 구축된 데이터에 대한 기타 참조정보를 기재합니다. 문자열 형태로 자유\n롭게 기재하되, 해당 사항이 없는 경우 작성하지 않습니다.\n온라인 자원은 데이터를 제공하는 웹서시스에 대한 정보를 작성합니다.\n데이터 요약은 데이터에 대한 요약사항을 기재합니다. 문자열 형태로 자유롭게 기재합니다.\n데이터 참조 중 담당(기관) 유형은 구축된 데이터에 대한 책임자의 유형을 기재합니다.\n데이터 참조 중 담당(기관) 이름은 구축된 데이터의 책임 기관 이름을 기재합니다.\n데이터 공간표현유형은 데이터에서 공간표현을 위해 사용하는 유형을 기재합니다.\n데이터 공간해상도를 축척으로 표현한 값을 작성합니다.\n데이터 활용 주제는 데이터를 활용할 수 있는 주제 및 분야로서, 다음 사항에서 선택합니다.\n농업 (farming), 생태 (biota), 경계 (boundaries), 기후기상대기 (climatologyMeteorologyAtmosphere),\n경제 (economy), 고도 (elevation), 환경 (environment), 지구과학정보 (geoscienticInformation), 건강\n(health),\n영상기본도지구관측 (imageryBaseMapsEarthCover), 군사정보 (IntelligenceMilitary), 담수 (inlandWaters),\n위치 (location), 해양 (oceans), 토지계획 (planningCadastre)\n데이터의 시공간적 범위 중 지리적 요소의 서쪽끝 경도좌표는 데이터의 지리적인 범위 중 서쪽 끝의 경도좌표를\n기재합니다. -180~180 사이의 소수로 작성합니다.\n데이터의 시공간적 범위 중 지리적 요소의 동쪽끝 경도좌표는 데이터의 지리적인 범위 중 동쪽 끝의 경도좌표를\n기재합니다. -180~180 사이의 소수로 작성합니다.\n데이터의 시공간적 범위 중 지리적 요소의 남쪽끝 위도좌표는 데이터의 지리적인 범위 중 남쪽 끝의 위도좌표를\n기재합니다. -90~90 사이의 소수로 작성합니다.\n데이터의 시공간적 범위 중 지리적 요소의 북쪽끝 위도좌표는 데이터의 지리적인 범위 중 북쪽 끝의 위도좌표를\n기재합니다. -90~90 사이의 소수로 작성합니다.\n데이터의 시공간적 범위 중 시간적 요소의 시작일자는 데이터 구축 시작 일자를 기재합니다. YYYY-MM-DD 형식으로\n작성합니다.\n데이터의 시공간적 범위 중 시간적 요소의 종료일자는 데이터 구축 종료 일자를 기재합니다. YYYY-MM-DD 형식으로\n작성합니다.\n\n\n메타데이터 제약(metadataConstraints)\n데이터 제약 중 접근제약은 데이터에 대한 접근제약의 내용으로, 다음 목록에서 선택합니다.\n제한되지 않음 (unrestricted), 기타제한 (otherRestrictions), 비공개(private)\n데이터 제약 중 사용제약은 데이터에 대한 사용제약의 내용으로, 다음 목록에서 선택합니다.\n제한되지 않음 (unrestricted), 기타제한 (otherRestrictions), 비공개(private)\n데이터 제약 중 기타제약은 기타제약 내용을 자유롭게 작성합니다.\n\n메타데이터 유지관리(metadataMaintenance)\n유지관리 및 갱신 주기는 데이터의 유지관리 및 갱신주기로, 다음 목록에서 선택합니다.\n지속적 (continual), 매일 (daily), 주간 (weekly), 2주간 (fornightly), 매월 (monthly), 분기 (quaterly),\n연2회 (biannually), 연간 (yearly), 필요시 (asNeeded), 불규칙 (irregularly), 무계획 (notplanned),\n알려지지않음 (unknown), 주기적 (periodic), 월2회 (semimonthly), 격년 (biennially)\n유지관리 일자 중 일자는 데이터의 유지관리 및 갱신이 이뤄지는 일자를 기재합니다. YYYY-MM-DD 형식으로 작성합\n니다.\n유지관리 일자 중 일자 유형은 상기 데이터의 유지관리 날짜의 유형을 기재합니다.\n유지관리 노트는 기타 메타데이터 유지관리에 대한 내용을 자유롭게 작성합니다.\n\n참초체계정보(spatialRepresentationInfo)\n참조체계 식별자 중 코드는 데이터가 따르고 있는 참조체계의 식별자로써, 다음 목록에서 선택합니다.\nEPSG:4737 (Korea 2000), EPSG:5185 (Korea 2000 Korea West Belt 2010), EPSG:5186 (Korea 2000 Korea Central\nBelt 2010), EPSG:5187 (Korea 2000 Korea East Belt 2010), EPSG:5188 (Korea 2000 Korea East Sea Belt 2010),\nEPSG:102080 (Korea 2000 Korea Unified Coordinate System), EPSG:102081 (Korea 2000 Korea West Belt 2010),\nEPSG:102082 (Korea 2000 Korea Central Belt 2010), EPSG:102083 (Korea 2000 Korea East Belt 2010),\nEPSG:102084 (Korea 2000 Korea East Sea Belt 2010)\n참조체계 식별자 중 코드 스페이스는 데이터가 따르고 있는 참조체계의 코드 스페이스로써, 문자열 형태로 기재하\n되, 해당 사항이 없는 경우 작성하지 않습니다.\n참조체계 식별자 중 식별자 버전은 데이터가 따르고 있는 참조체계 식별자의 버전으로, 문자열 형태로 자유롭게\n기입하되, 해당 사항이 없는 경우 작성하지 않습니다.\n참조체계 식별자 중 참조체계 식별자에 대한 설명은 데이터가 따르고 있는 참조체계에 대한 기타 설명으로, 문자\n열 형태로 자유롭게 기재하되, 해당 사항이 없는 경우 작성하지 않습니다.\n참조체계 유형은 데이터가 따르고 있는 참조체계의 유형으로써, 다음 목록에서 선택합니다.\n공학파라메트릭합성 (compoundEngineeringParametric), 공학파라메트릭시간합성\n(compoundEngineeringParametricTemporal), 공학시간합성 (compoundEngineeringTemporal), 공학수직합성\n(compoundEngineeringVertical), 공학수직시간합성 (compoundEngineeringVerticalTemporal),\n지리2D파라매트릭합성 (compoundGeographic2DParametric), 지리2D파라매트릭시간합성\n(compoundGeographic2DParametricTemporal), 지리2D시간합성 (compoundGeographic2DTemporal), 지리2D수직합성\n(compoundGeographic2DVertical), 지리2D수직시간합성 (compoundGeographic2DVerticalTemporal), 지리3D시간합성\n(compoundGeographic3DTemporal), 투영2D파라매트릭합성 (compoundProjected2DParametric),\n투영2D파라매트릭시간합성 (compoundProjected2DParametricTemporal), 투영시간합성\n(compoundProjectedTemporal), 투영수직합성 (compoundProjectedVertical), 투영수직시간합성\n(compoundProjectedVerticalTemporal), 공학 (engineering), 공학설계 (engineeringDesign), 공학영상\n(engineeringImage), 측지지구중심 (geodeticGeocentric), 측지지리2D (geodeticGeographic2D), 측지지리3D\n(geodeticGeographic3D), 공간식별자 (geographicIdentifier), 선형 (linear), 파라매트릭 (parametric), 투영\n(projected), 시간 (temporal), 수직 (vertical)\n\n내용정보(contentInfo)\n부합코드는 피처 카탈로그의 ISO 19110 부합여부를 선택합니다.\n사용된 언어 중 언어코드는 데이터가 한국어로 기술된 내용을 포함하고 있는 경우, 사용된 언어의 코드를 문자열\n로 기재합니다.\n사용된 언어 중 국가코드는 데이터가 한국어로 기술된 내용을 포함하고 있는 경우, 사용된 언어에 대한 국가코드\n(정수)를 기재합니다.\n사용된 언어 중 문자인코딩은 데이터가 한국어로 기술된 내을 포함하고 있는 경우, 사용된 언어의 인코딩 값을 기\n재합니다.\n데이터셋 포함여부는 피처 카탈로그가 데이터셋과 함께 포함되는지 여부를 선택합니다.\n피처 카탈로그 참조자료 중 참조제목은 피처 카탈로그의 제목을 작성합니다.\n피처 카탈로그 참조자료 중 일자는 참조되는 피처 카탈로그와 관련된 일자 정보를 작성합니다.\n피처 카탈로그 참조자료 중 일자유형은 참조일자의 유형을 선택합니다.\n피처 카탈로그 참조자료 중 표현형태는 참조자료가 표현되는 형태로서 주어진 목록에서 선택합니다.\n디지털 문서 (documentDigital), 인쇄 문서 (documentHardcopy), 디지털 영상 (imageDigital), 인쇄 영상\n(imageHardcopy), 디지털 지도 (mapDigital), 종이지도 (mapHardcopy), 디지털 모델 (modelDigital), 하드카피\n모델 (modelHardcopy), 디지털 종단면 (profileDigial), 하드카피 종단면 (profileHardcopy), 디지털 표\n(tableDigital), 하드카피 표 (tableHardcopy), 디지털 비디오 (videoDigital), 하드카피 비디오\n(videoHardcopy), 디지털 오디오 (audioDigital), 하드카피 오디오 (audioHardcopy), 디지털 멀티미디어\n(multimediaDigital), 하드카피 멀티미디어 (multimediaHardcopy), 물리적 객체 (physicalObject), 디지털\n도식그림 (diagramDigital), 하드카피 도식그림 (diagram hardcopy)\n온라인 자원은 데이터를 제공하는 웹서시스에 대한 정보를 작성합니다.\n\n배포정보(distributionInfo)\n배포자 중 담당(기관) 이름은 데이터를 배포하는 담당기관의 이름을 기재합니다.\n배포자 중 담당(기관) 유형은 상기 데이터 배포 기관의 유형을 기재합니다.\n배포자 중 전화번호는 데이터를 배포하는 기관에 대한 연락처를 기재합니다.\n배포포맷 중 참조제목은 데이터의 포맷을 기술하는 관련자료의 제목을 기재합니다. 데이터 포맷이름을 기입할 수 있습니다. 문자열 형태로 자유롭게 작성합니다.\n배포포맷 중 기타인용자료는 데이터의 포못에 대한 정보를 간략하게 작성합니다.\n\n공간표현정보(spatialRepresentationInfo)\n위상레벨은 데이터의 공간적 관계의 복잡성 정도를 선택합니다.\n단순기하(geometryOnly), 1차원위상(topology1D), 평면그래프(PlanarGraph), 전체평면그래프(fullPlanarGraph)\n면그래프(surfaceGraph), 전체면그래프(fullSurfaceGraph), 3차원위상(topology3D),\n3차원전체위상(fullTopology3D), 추상(abstract)\n기하객체 중 기하객체유형은 데이터에 사용하는 객체의 유형을 목록에서 선택합니다.\n복합체(complex), 합성체(composite), 곡선(curve), 점(point), 입방체(solid), 표면(surface)\n기하객체 중 기하객체개수는 데이터 내에 포함되어 있는 상기 객체 유형의 총 수를 작성합니다.\n묘화 카탈로그 참조자료 중 참조제목은 묘화 카탈로그의 제목을 작성합니다.\n묘화 카탈로그 참조자료 중 일자는 참조되는 묘화 카탈로그와 관련된 일자 정보를 작성합니다.\n묘화 카탈로그 참조자료 중 일자유형은 참조일자의 유형을 선택합니다.\n묘화 카탈로그 참조자료 중 표현형태는 참조자료가 표현되는 형태로서 주어진 목록에서 선택합니다.\n디지털 문서 (documentDigital), 인쇄 문서 (documentHardcopy), 디지털 영상 (imageDigital), 인쇄 영상\n(imageHardcopy), 디지털 지도 (mapDigital), 종이지도 (mapHardcopy), 디지털 모델 (modelDigital), 하드카피\n모델 (modelHardcopy), 디지털 종단면 (profileDigial), 하드카피 종단면 (profileHardcopy), 디지털 표\n(tableDigital), 하드카피 표 (tableHardcopy), 디지털 비디오 (videoDigital), 하드카피 비디오\n(videoHardcopy), 디지털 오디오 (audioDigital), 하드카피 오디오 (audioHardcopy), 디지털 멀티미디어\n(multimediaDigital), 하드카피 멀티미디어 (multimediaHardcopy), 물리적 객체 (physicalObject), 디지털\n도식그림 (diagramDigital), 하드카피 도식그림 (diagram hardcopy)\n온라인 자원은 데이터를 제공하는 웹서시스에 대한 정보를 작성합니다.\n─────────────────────────────────────────────────────────────────────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164725469",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164725453",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164725469",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수치지형도작성작업및성과에관한규정#BJ0002",
+      "filename": "별지2_표준적용 확인서(메타데이터).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "표준적용 확인서(데이터품질)",
+      "enforcement_date": "",
+      "content": "[별지 3] 표준적용 확인서(데이터품질)\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━┓\n┃항목                                                                            │작성 내용 ┃\n┠──────────┬─────────────────────────────┼─────┨\n┃1. 데이터 품질 범위 │레벨                                                      │          ┃\n┃   (scope)          │(level)                                                   │          ┃\n┃                    ├─────────────────────────────┼─────┨\n┃                    │레벨설명                                                  │          ┃\n┃                    │(levelDescription)                                        │          ┃\n┠──────────┼────────┬──────────┬─────────┼─────┨\n┃2-1. 품질 보고서    │품질측정항목    │측정항목 식별자     │코드              │          ┃\n┃     (report)       │(measure)       │(measureIdentifier) │(code)            │          ┃\n┃                    │                │                    ├─────────┼─────┨\n┃                    │                │                    │코드값에 대한 설명│          ┃\n┃                    │                │                    │(description)     │          ┃\n┃                    │                ├──────────┴─────────┼─────┨\n┃                    │                │측정항목이름                            │          ┃\n┃                    │                │(name)                                  │          ┃\n┃                    │                ├────────────────────┼─────┨\n┃                    │                │항목명                                  │          ┃\n┃                    │                │(elementName)                           │          ┃\n┃                    │                ├────────────────────┼─────┨\n┃                    │                │항목정의                                │          ┃\n┃                    │                │(definition)                            │          ┃\n┃                    │                ├────────────────────┼─────┨\n┃                    │                │항목유형                                │          ┃\n┃                    │                │(valueType)                             │          ┃\n┃                    │                ├────────────────────┼─────┨\n┃                    │                │참조정보                                │          ┃\n┃                    │                │(SourceReference)                       │          ┃\n┃                    │                ├───────────┬────────┼─────┨\n┃                    │                │측정인자              │인자이름        │          ┃\n┃                    │                │(parameter)           │(name)          │          ┃\n┃                    │                │                      ├────────┼─────┨\n┃                    │                │                      │인자정의        │          ┃\n┃                    │                │                      │(definition)    │          ┃\n┃                    │                │                      ├────────┼─────┨\n┃                    │                │                      │인자유형        │          ┃\n┃                    │                │                      │(valuType)      │          ┃\n┃                    ├────────┼───────────┴────────┼─────┨\n┃                    │품질평가방법    │품질평가일자                            │          ┃\n┃                    │(evaluationMeth │(dateTime)                              │          ┃\n┃                    │od)             ├────────────────────┼─────┨\n┃                    │                │품질평가방법설명                        │          ┃\n┃                    │                │(evaluationMethodDescription)           │          ┃\n┃                    │                ├────────────────────┼─────┨\n┃                    │                │품질평가절차                            │          ┃\n┃                    │                │(evaluationProcedure)                   │          ┃\n┃                    │                ├────────────────────┼─────┨\n┃                    │                │품질평가 참조문서                       │          ┃\n┃                    │                │(referenceDoc)                          │          ┃\n┃                    │                ├────────────────────┼─────┨\n┃                    │                │품질평가방법유형                        │          ┃\n┃                    │                │(evaluationMethodType)                  │          ┃\n┃                    ├────────┼────────────────────┼─────┨\n┃                    │품질측정결과    │유효일자                                │          ┃\n┃                    │(result)        │(dataTime)                              │          ┃\n┃                    │                ├────────────────────┼─────┨\n┃                    │                │결과의 범위                             │          ┃\n┃                    │                │(resultScope)                           │          ┃\n┃                    │                ├────────────────────┼─────┨\n┃                    │                │적합여부                                │          ┃\n┃                    │                │(pass)                                  │          ┃\n┃                    │                ├────────────────────┼─────┨\n┃                    │                │참조정보                                │          ┃\n┃                    │                │(specification)                         │          ┃\n┃                    │                ├────────────────────┼─────┨\n┃                    │                │적합성 여부결과 설명                    │          ┃\n┃                    │                │(description)                           │          ┃\n┗━━━━━━━━━━┷━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━┷━━━━━┛\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n데이터품질에 대한 표준적용 확인서 작성 방법\n────────────────────────────────────────────────────────\n데이터의 품질 범위(scope)\n레벨은 데이터를 구성하는 형태 및 특성으로, 다음 목록에서 선택합니다.\n속성 (attribute), 속성 유형 (attributeType), 자료취득 기기 (collectionHardware), 자료취득 영역\n(collectionSession), 데이터 셋 (dataset), 데이터 시리즈 (series), 지리정보가 아닌 데이터 셋\n(nonGeographicDataset), 차원 그룹 (dimensionGroup), 지형지물 (feature), 지형지물 타입 (featureType),\n속성값 타입 (propertyType), 필드 영역 (fieldSession), 소프트웨어 (software), 서비스 (service), 모형\n(model), 타일 (tile), 메타데이터 (metadata), 프로젝트 추진동력 (initiative), 샘플, 예제 (sample), 문서\n(document), 등록소 (repository), 집합 (aggregate), 제품 (product), 모음 (collection), 커버리지 (coverage),\n응용시스템 (application)\n레벨설명은 Y/N만 기재합니다.\n\n품질 보고서(report)\n품질측정항목 중 측정항목 식별자의 코드는 측정항목을 식별하기 위한 식별번호 또는 인덱스 번호를 작성합니다.\n품질측정항목 중 측정항목 식별자의 코드값에 대한 설명은 상기 식별코드를 설명하기 위한 정보를 작성합니다.\n품질측정항목 중 측청항목이름은 데이터 품질을 구성하는 요소를 이용하여 데이터 품질 측정의 이름을 작성합니다.\n완전성, 논리적일관성, 위치정확성, 주제정확성, 시간정확성\n품질측정항목 중 항목명은 데이터 품질의 세부 측정항목의 이름을 작성합니다.\n초과, 누락, 묘사, 개념일관성, 도메인일관성, 포맷일관성, 위상일관성, 절대적 또는 외적 정확성, 분류정확성\n비정량적 속성정확성, 정량적 속성정확성, 시간 측정 정확성\n품질측정항목 중 항목정의는 상기 세부 측정항목을 측정하는 방법에 대한 정의를 작성합니다.\n품질측정항목 중 항목유형은 상기 세부 측정항목의 측정결과가 제시되는 값의 유형을 작성합니다.\n품질측정항목 중 측정인자의 인자이름은 데이터의 품질 측정에 사용되는 변수(인자)의 이름을 작성합니다.\n품질측정항목 중 측정인자의 인자정의는 데이터 품질 측정에 사용되는 변수(인자)의 정의를 작성합니다.\n품질측정항목 중 측정인자의 인자유형은 데이터 품질 측정에 사용되는 변수(인자) 값의 유형을 작성합니다.\n품질평가방법 중 품질평가일자는 상기 측정 항목의 평가를 수행한 일자를 YYYY-MM-DD 형식으로 작성합니다.\n품질평가방법 중 품질평가방법설명은 측정 항목의 평가 방법에 대한 설명을 작성합니다.\n품질평가방법 중 품질평가절차는 측정 항목의 평가 절차를 작성합니다.\n품질평가방법 중 품질평가 참조문서는 측정 항목의 평가방법에 참조할 수 있는 자료를 작성합니다.\n품질평가방법 중 품질평가방법유형은 측정 항목의 평가방법 유형을 목록에서 선택합니다.\n내부직접 품질측정(DirectInternal), 외부직접 품질측정(DirectExternal), 간접측정(indirect)\n품질측정결과 중 결과값은 측정 항목의 평가결과를 정량적 수치로 작성합니다.\n품질측정결과 중 측정값단위는 상기 정량적 수치의 단위를 작성합니다.\n품질측정결과 중 적합여부는 측정 항목의 평가결과가 적합한지를 선택합니다. 적합하면 1, 적합하지 않는다면 0을\n선택합니다.\n품질측정결과 중 참조정보의 참조이름은 측정항목의 평가결과와 관련하여 참조할 수 있는 자료를 작성합니다.\n────────────────────────────────────────────────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164725477",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164725471",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164725477",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수치지형도작성작업및성과에관한규정#BJ0003",
+      "filename": "별지3_표준적용 확인서(데이터품질).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "수치지형도 작성 작업 및 성과에 관한 규정.zip",
+      "url": "http://law.go.kr/flDownload.do?flSeq=164686441",
+      "file_store_url": "",
+      "filename": "수치지형도 작성 작업 및 성과에 관한 규정.zip"
+    },
+    {
+      "name": "[별표1] 수치지형도 지형지물 표준코드.xls",
+      "url": "http://law.go.kr/flDownload.do?flSeq=164725289",
+      "file_store_url": "",
+      "filename": "[별표1] 수치지형도 지형지물 표준코드.xls"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 21,
+    "by_category": {
+      "법령": 6,
+      "행정규칙": 5,
+      "별표": 7,
+      "별지": 3
+    },
+    "by_relation_type": {
+      "citation": 8,
+      "appendix_ref": 10,
+      "internal_ref": 3
+    },
+    "articles_total": 18,
+    "articles_with_relations": 10,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 9,
+    "appendices_count": 5,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/수치지형도 작성 작업 및 성과에 관한 규정"
+  },
+  "provision_id": "admrul:수치지형도작성작업및성과에관한규정#DOC"
+}
