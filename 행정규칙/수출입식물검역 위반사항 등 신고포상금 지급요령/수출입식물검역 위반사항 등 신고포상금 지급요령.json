@@ -1,0 +1,698 @@
+{
+  "law_id": "2100000280538",
+  "mst": "2100000280538",
+  "law_name": "수출입식물검역 위반사항 등 신고포상금 지급요령",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000280538",
+  "promulgation_no": "2026-23",
+  "promulgation_date": "20260610",
+  "enforcement_date": "20260610",
+  "revision_date": "20260610",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "농림축산검역본부(식물검역과)",
+    "담당자명": "임재빈",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "수출입식물검역 위반사항 등 신고포상금 지급요령",
+    "발령일자": "20260610",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "농림축산검역본부",
+    "전화번호": "054-912-0614",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1543000",
+    "생성일자": "20260611",
+    "행정규칙ID": "22718",
+    "시행일자": "20260610",
+    "담당부서기관코드": "1543075",
+    "발령번호": "2026-23",
+    "행정규칙일련번호": "2100000280538",
+    "상위부처명": "농림축산식품부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정이유\n재검토 기한 도래에 따라 효율적인 신고포상금 지급을 위해 일부 조항을 개정하여 개선ㆍ보완하려는 것임\n◇ 주요내용\n가. 자구 정비(제2조제3항)\n○ 한글맞춤범에 따른 의존명사 띄어쓰기 정비\n나. 신고자 1인 연간 포상금 지급액 상한 기준 마련(제4조)\n○ 1인 연간 지급 한도 기준이 없어 과다 수령 등을 방지하고 포상금 제도의 건전한 운영과 예산 집행 효율성을 위해 기준 신설\n- 신고포상금 운영 타 기관(식약처, 환경부 등) 포상금 제도에 연간 지급 상한 기준을 두고 있음\n* 부당한 환경성 표시ㆍ광고 행위 신고포상금 지급 기준(환경부 고시 제2025-165호) 제6조제3항, 수입식품 신고포상금 지급에 관한 규정(식약처 고시 제2026-10호) 제4조제3항, 불법어업 신고자 등에 대한 포상금 지급 규정(해양수산부 고시 제2025-89호) 제7조제5항 등\n다. 사건 금액 산정이 어려운 경우 포상금 지급 기준 마련(제4조)\n○ 현행 사건금액을 범칙물품 가격 또는 벌금형 처분 금액으로 산정하고 있으나, 법률상 중한 처분인 징역형의 경우 범칙물품 가격 산정이 어려울 시 기준이 없어 지급 기준 신설",
+  "body": {
+    "format": "articles",
+    "article_count": 9,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 요령은 「식물방역법」 제43조 및 같은 법 시행령 제5조에 따라 식물방역법 위반 등을 신고한 자의 포상금에 관한 사항과 그 시행에 필요한 세부적인 지침 및 절차를 정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제43조",
+            "line_text": "",
+            "target_law_name": "식물방역법",
+            "target_article_no": "제43조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법/제43조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0001",
+            "reference_id": "law:식물방역법#JO0043"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "식물방역법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0001",
+            "reference_id": "law:식물방역법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제5조",
+            "line_text": "",
+            "target_law_name": "식물방역법 시행령",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법 시행령/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0001",
+            "reference_id": "law:식물방역법시행령#JO0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) 이 요령에서 사용하는 용어의 뜻은 다음과 같다.1. \"식물검역기관\"이란 식물검역대상물품의 검역업무를 담당하는 농림축산검역본부 소속의 지역본부 및 사무소를 말한다.2. \"신고 또는 고발\"이란 식물검역기관 또는 수사기관의 직원이 아닌 민간인이 수출입식물검역 위반사항이나 병해충 발생 사실을 전화ㆍ서면ㆍ전자문서 또는 그 밖의 방법으로 식물검역기관이나 수사기관에 알리는 것을 말한다.3. \"사건금액\"이란 과태료 부과금액 또는 검찰 송치 시 등의 금액으로서 다음 각 목의 어느 하나에 해당하는 금액을 말한다.가. 식물방역법의 경우 해당 사건의 범칙물품의 국내도매가격나. 식물방역법 해당사건의 범칙물품의 도매가격이 없는 경우 국내 유통시장에서의 통상적인 판매가격다. 범칙물품의 도매가격 또는 판매가격 산정이 어려운 경우 벌금형 처분 금액라. 과태료 부과건의 과태료 금액4. \"범칙물품\"이란 신고한 식물검역대상물품이 식물검역기관에 신고하지 아니하고 불법수입한 사실이 확인되어 폐기 처분된 물품 또는 부정한 방법으로 검역을 받아 통관하여 유통하는 물품을 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "포상금의 지급",
+        "chapter": "",
+        "content": "제3조(포상금의 지급) ① 농림축산검역본부장(이하 \"검역본부장\"이라 한다)은 식물방역법 제43조에 따라 식물검역기관이나 수사기관 등에 신고하거나 고발한 자(외국인을 포함한다)에게 다음 각 호의 어느 하나에 해당하는 때에 포상금을 지급할 수 있다.1. 송치사건의 경우 검사의 지휘를 받아 기소의견으로 송치한 때2. 과태료 부과건의 경우 과태료 부과 사실이 확인된 때3. 신고한 병해충이 외국에서 유입된 것으로 금지병해충 또는 관리병해충으로 판정된 때4. 피의자의 인적사항이 확인되지 아니한 범칙물품만 적발한 사건(이하 \"불상사건\"이라 한다) 또는 식물검역기관에 신고하지 아니한 범칙물품이 불법수입한 사실로 확인되어 폐기 결정 등의 처분이 있은 때② 다음 각 호의 어느 하나에 해당하는 경우에는 포상금을 지급하지 아니한다.1. 동일 사항으로 다른 기관으로부터 포상금을 지급받은 경우2. 이미 조사가 진행 중인 사항에 대해 신고한 경우3. 익명(정확한 인적사항을 기재하지 아니한 경우를 포함한다) 또는 다른 사람의 이름으로 신고한 경우4. 「식물방역법」의 규정에 따라 검역, 예찰, 역학조사 및 방제 업무를 수행하는 공무원이 신고한 경우5. 「식물방역법」 제29조의2의 규정에 따라 검역, 예찰 및 방제 업무를 수행하는 식물검사원, 같은 법 제33조의 규정에 따라 예찰 업무를 수행하는 예찰조사원 및 같은 법 제42조의 규정에 따라 식물검역 질서와 병해충 방제에 대한 감시업무를 수행하는 명예식물감시원 등이 업무수행 중에 발견하여 신고한 경우(수당을 지급받은 경우에 한한다)6. 기타 「농림축산검역본부 공무직근로자 및 기간제근로자 관리규정」에 따라 농림축산검역본부에서 식물검역 관련 업무를 수행하는 근로자 및 농림축산검역본부로부터 식물검역 관련 업무를 위탁받은 자 등이 업무수행 중에 발견하여 신고한 경우",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "제43조",
+            "line_text": "",
+            "target_law_name": "식물방역법",
+            "target_article_no": "제43조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법/제43조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0003",
+            "reference_id": "law:식물방역법#JO0043"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "「식물방역법」",
+            "line_text": "",
+            "target_law_name": "식물방역법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0003",
+            "reference_id": "law:식물방역법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "「식물방역법」",
+            "line_text": "",
+            "target_law_name": "식물방역법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0003",
+            "reference_id": "law:식물방역법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "제29조의2",
+            "line_text": "",
+            "target_law_name": "식물방역법",
+            "target_article_no": "제29조의2",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법/제29조의2",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0003",
+            "reference_id": "law:식물방역법#JO0029_02"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "같은 법",
+            "line_text": "",
+            "target_law_name": "식물방역법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0003",
+            "reference_id": "law:식물방역법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "제33조",
+            "line_text": "",
+            "target_law_name": "식물방역법",
+            "target_article_no": "제33조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법/제33조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0003",
+            "reference_id": "law:식물방역법#JO0033"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "같은 법",
+            "line_text": "",
+            "target_law_name": "식물방역법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0003",
+            "reference_id": "law:식물방역법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "제42조",
+            "line_text": "",
+            "target_law_name": "식물방역법",
+            "target_article_no": "제42조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법/제42조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0003",
+            "reference_id": "law:식물방역법#JO0042"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "「농림축산검역본부 공무직근로자 및 기간제근로자 관리규정」",
+            "line_text": "",
+            "target_law_name": "농림축산검역본부 공무직근로자 및 기간제근로자 관리규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/농림축산검역본부 공무직근로자 및 기간제근로자 관리규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0003",
+            "reference_id": "admrul:농림축산검역본부공무직근로자및기간제근로자관리규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "포상금의 지급기준",
+        "chapter": "",
+        "content": "제4조(포상금의 지급기준) ① 사건금액에 따른 포상금의 지급기준은 별표와 같다.② 신고자 1인당 포상금의 연간(1월 1일부터 12월 31일까지를 말한다) 지급 금액은 200만원을 초과할 수 없다.③ 제2조제3호에 따른 사건금액을 산정하기 어려운 경우 징역형(집행유예의 선고를 포함한다)의 선고 형량에 따라 다음 각 호의 구분에 따른 금액의 포상금을 지급한다.1. 징역 1년 이상인 경우: 200만원2. 징역 1년 미만인 경우: 150만원④ 신청된 포상금은 당해 연도 포상금 예산의 범위 내에서 지급한다. 다만, 해당 연도 예산이 부족하여 미지급된 포상금은 다음 연도 예산에서 지급할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제3항",
+            "link_text": "제2조제3호",
+            "line_text": "",
+            "target_law_name": "수출입식물검역 위반사항 등 신고포상금 지급요령",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수출입식물검역 위반사항 등 신고포상금 지급요령/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0004",
+            "reference_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "포상금의 지급신청",
+        "chapter": "",
+        "content": "제5조(포상금의 지급신청) ① 포상대상자에 대한 포상금 지급신청은 제3조제1항의 신고 또는 고발한 서류와 별지 제1호서식의 개인정보 수집 및 이용ㆍ제공서를 접수한 부서의 장이 별지 제2호서식의 지급신청서를 작성하여 포상업무 부서의 장에게 제출한다.② 포상금은 그 지급원인이 발생한 날(제3조제1항 각 호의 하나에 해당하는 때)로부터 2년 이내에 신청하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "제3조제1항",
+            "line_text": "",
+            "target_law_name": "수출입식물검역 위반사항 등 신고포상금 지급요령",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수출입식물검역 위반사항 등 신고포상금 지급요령/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0005",
+            "reference_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "수출입식물검역 위반사항 등 신고포상금 지급요령",
+            "target_article_no": "별지1",
+            "target_article_title": "신고포상금 지급자 개인정보 등 수집·이용 및 제공 동의서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164901509",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0005",
+            "reference_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#BJ0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "수출입식물검역 위반사항 등 신고포상금 지급요령",
+            "target_article_no": "별지2",
+            "target_article_title": "수출입식물검역 위반사항 등 신고포상금 지급신청서(제5조관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164901515",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0005",
+            "reference_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#BJ0002"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "제3조제1항",
+            "line_text": "",
+            "target_law_name": "수출입식물검역 위반사항 등 신고포상금 지급요령",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수출입식물검역 위반사항 등 신고포상금 지급요령/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0005",
+            "reference_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "포상금의 지급 절차 및 방법",
+        "chapter": "",
+        "content": "제6조(포상금의 지급 절차 및 방법) ① 제5조에 따라 지급신청서를 접수한 경우 포상업무 부서의 장은 반기별(6월, 12월)로 포상금 지급안을 마련하여 이를 제8조에 따른 포상금심의위원회에 상정하며,  포상금심의위원회에서는 이를 심의하여 지급여부, 지급액 등을 결정한다.② 포상금은 지급신청서에 기재된 은행 계좌에 입금한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "제5조",
+            "line_text": "",
+            "target_law_name": "식물방역법 시행령",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법 시행령/제5조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0006",
+            "reference_id": "law:식물방역법시행령#JO0005"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "제8조",
+            "line_text": "",
+            "target_law_name": "수출입식물검역 위반사항 등 신고포상금 지급요령",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수출입식물검역 위반사항 등 신고포상금 지급요령/제8조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0006",
+            "reference_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0008"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "비밀의 보장",
+        "chapter": "",
+        "content": "제7조(비밀의 보장) 식물검역기관 또는 수사기관은 신고 또는 고발한 자의 신변보호를 위하여 모든 비밀을 보장하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "포상금심의위원회",
+        "chapter": "",
+        "content": "제8조(포상금심의위원회) ① 포상금 지급에 관한 사항을 심의하기 위하여 포상금심의위원회를 둔다.② 포상금심의위원회의 구성과 운영은 「식물검역심의위원회 규정」을 준용한다.③ 포상금심의위원회의 포상금 제도 운영 지속 여부와 포상금 상향, 예산 증액 등에 대한 심의 결과를 운영방식 개선과 예산안 심사 자료로 활용한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제2항",
+            "link_text": "「식물검역심의위원회 규정」",
+            "line_text": "",
+            "target_law_name": "식물검역심의위원회 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/식물검역심의위원회 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0008",
+            "reference_id": "admrul:식물검역심의위원회규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제9조(재검토기한) 농림축산검역본부장은 이 고시에 대하여 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2026년 1월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0009",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#JO0009"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20050115",
+      "promulgation_no": "2005-5",
+      "content": "부칙 <제2005-5호,2005. 1. 15.>이 요령은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20090320",
+      "promulgation_no": "2009-20",
+      "content": "부칙 <제2009-20호,2009. 3. 20.>제1조(시행일) 이 요령은 2009년 3월 22일부터 시행한다.제2조(경과조치) 이 요령 시행 전 신고 또는 고발한 경우에는 종전의 요령에 따른다."
+    },
+    {
+      "promulgation_date": "20110615",
+      "promulgation_no": "2011-60",
+      "content": "부칙 <제2011-60호,2011. 6. 15.>제1조(시행일) 이 고시는 2011. 6. 15.부터 시행한다.제2조(재검토기한) 이 고시는 2014년6월14일까지 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제248호) 제7조제3항제2호에 따라 재검토하여야 한다."
+    },
+    {
+      "promulgation_date": "20111121",
+      "promulgation_no": "2011-183",
+      "content": "부칙 <제2011-183호,2011. 11. 21.>제1조(시행일) 이 고시는 공포일로부터 시행한다.제2조(재검토기한) 이 고시는 2014년11월20일까지 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제248호) 제7조제3항제2호에 따라 재검토하여야 한다."
+    },
+    {
+      "promulgation_date": "20120113",
+      "promulgation_no": "2012-12",
+      "content": "부칙 <제2012-12호,2012. 1. 13.>제1조(시행일) 이 고시는 2012. 1. 15.부터 시행한다.제2조(고시 등의 폐지) 이 고시 제정과 농림수산식품부 검역정책과-201(2012. 1. 13.)호에 따라 농림수산식품부 고시 제2011-183(2011. 11. 21.)호는 폐지한다.제3조(재검토기한) 이 고시는 2015년1월14일까지 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제248호) 제7조제3항제2호에 따라 재검토하여야 한다."
+    },
+    {
+      "promulgation_date": "20120326",
+      "promulgation_no": "2012-87",
+      "content": "부칙 <제2012-87호,2012. 3. 26.>제1조(시행일) 이 고시는 2012. 3. 26.부터 시행한다.제2조(재검토기한) 이 고시는 2015년3월25일까지 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제248호) 제7조제3항제2호에 따라 재검토하여야 한다."
+    },
+    {
+      "promulgation_date": "20120517",
+      "promulgation_no": "2012-124",
+      "content": "부칙 <제2012-124호,2012. 5. 17.>제1조(시행일) 이 고시는 2012. 5. 17.부터 시행한다.제2조(재검토기한) 이 고시는 2015년5월16일까지 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제248호) 제7조제3항제2호에 따라 재검토하여야 한다."
+    },
+    {
+      "promulgation_date": "20130323",
+      "promulgation_no": "2013-53",
+      "content": "부칙 <제2013-53호,2013. 3. 23.>제1조(시행일) 이 고시는 2013. 3. 23.부터 시행한다.제2조(재검토기한) 이 고시는 2016년3월22일까지 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제248호) 제7조제3항제2호에 따라 재검토하여야 한다."
+    },
+    {
+      "promulgation_date": "20141229",
+      "promulgation_no": "2014-38",
+      "content": "부칙 <제2014-38호,2014. 12. 29.>제1조(시행일) 이 고시는 2014. 12. 29.부터 시행한다.제2조(재검토기한) 이 고시는 2017년 12월 28일까지 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제248호) 제7조제3항제2호에 따라 재검토하여야 한다."
+    },
+    {
+      "promulgation_date": "20171130",
+      "promulgation_no": "2017-45",
+      "content": "부칙 <제2017-45호,2017. 11. 30.>제1조 (시행일) 이 고시는 2017년 12월 3일부터 시행한다.제2조 (재검토기한) 농림축산검역본부장은 이 고시에 대하여 2018년 1월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다."
+    },
+    {
+      "promulgation_date": "20200519",
+      "promulgation_no": "2020-22",
+      "content": "부칙 <제2020-22호,2020. 5. 19.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20230530",
+      "promulgation_no": "2023-17",
+      "content": "부칙 <제2023-17호, 2023. 5. 30.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20260610",
+      "promulgation_no": "2026-23",
+      "content": "부칙 <제2026-23호, 2026. 6. 10.>이 고시는 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "사건금액에 따른 포상금 지급 기준(제4조제1항관련)",
+      "enforcement_date": "",
+      "content": "\n[별 표]\n\n\n사건금액에 따른 포상금 지급 기준(제4조제1항관련)\n\n┏━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━┓\n┃ 1. 식물방역법 위반사범 사건금액  │포상금액                        ┃\n┃                                  │(만원)                          ┃\n┠─────────────────┼────────────────┨\n┃① 10～50만원미만                 │30                              ┃\n┃                                  │                                ┃\n┃② 50만원 ～ 100만원 미만         │50                              ┃\n┃                                  │                                ┃\n┃③ 100만원 ～ 500만원 미만        │70                              ┃\n┃                                  │                                ┃\n┃④ 500만원 ～ 1000만원 미만       │100                             ┃\n┃                                  │                                ┃\n┃⑤ 1,000만원 ～ 5,000만원 미만    │150                             ┃\n┃                                  │                                ┃\n┃⑥ 5,000만원 이상                 │200                             ┃\n┠─────────────────┼────────────────┨\n┃ 2.  병해충의 종류                │                                ┃\n┃                                  │                                ┃\n┃  ① 관리병해충                   │30                              ┃\n┃                                  │                                ┃\n┃  ② 금지병해충                   │70                              ┃\n┠─────────────────┴────────────────┨\n┃ 주1) 동일한 병해충의 신고가 제한된 지역에서 다수 접수될 경우 최초  ┃\n┃신고자에게만 지급 한다                                              ┃\n┃ 주2) 불상사건의 경우 포상금액의 50% 이내에서 포상금을 차등 지급하  ┃\n┃되, 200만원을 초과하여 지급할 수 없다.                              ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164901503",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164901499",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164901503",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#BYL0000",
+      "filename": "별표0_사건금액에 따른 포상금 지급 기준(제4조제1항관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "신고포상금 지급자 개인정보 등 수집·이용 및 제공 동의서",
+      "enforcement_date": "",
+      "content": "\n[별지 제1호서식]\n┌─────────────────────────────────────────────────┐\n│신고포상금 지급자 개인정보 등 수집?이용 및 제공 동의서                                           │\n├─────┬┬────┬─────────────────────────────────────┤\n│성   명   ││생년월일│                                                                          │\n├─────┼┴────┴─────────────────────────────────────┤\n│주   소   │                                     (휴대전화 :                )                     │\n├─────┴───────────────────────────────────────────┤\n│ 개인정보 보호법 등의 관련 법률에 따라 신고포상금 지급을 원활히 하기 위해 상기 본                 │\n│인의 개인정보 및 고유식별정보를 귀 기관에서 수집?이용 및 제공하는데 동의합니다.                  │\n│                                                                                                  │\n│20   년     월     일                                                                             │\n│                                                                                                  │\n│신청인                      (서명 또는 직인)                                                      │\n│                                                                                                  │\n│농림축산검역본부  ○○지역본부 귀하                                                               │\n├─────────────────────────────────────────────────┤\n│개인정보 등 수집·이용 및 제공 목적, 수집 항목, 보유 및 이용기간, 동의 거부사항 등                │\n├─────────────────────────────────────────────────┤\n│  1. 개인정보 및 고유식별정보 수집·이용 및 제공 목적                                             │\n│    ○ 개인정보보호법에 따라 수출입식물검역 위반사항 등 신고포상금 지출을 위해 필요한 개인정보    │\n│등을 수집·활용하며,동의한 내용 외의 다른 목적으로 활용하거나, 귀하의 동의 없이 개인정            │\n│보를 제3자에게 제공하지 않습니다.                                                                 │\n│  2. 수집하려는 개인정보 및 고유식별정보 항목                                                     │\n│    ○ 성명, 주민등록번호(외국인 등록번호), 주소, 연락처, 은행 계좌번호로 신고포상금의 지급 등의  │\n│업무처리에 활용되는 개인정보                                                                      │\n│  3. 개인정보 보유 및 이용기간                                                                    │\n│    ○ 수집된 개인정보는 신고포상금 지급 완료 시 까지 이용·보관하며, 문서 보관 기간이 종료       │\n│되면 개인정보를 지체없이 파기합니다.                                                              │\n│  4. 개인정보 제공의 동의 거부를 할 수 있으며, 이 경우 신고포상금 지급이 제한될 수 있습니다.      │\n└─────────────────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164901509",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164901505",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164901509",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#BJ0001",
+      "filename": "별지1_신고포상금 지급자 개인정보 등 수집·이용 및 제공 동의서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "수출입식물검역 위반사항 등 신고포상금 지급신청서(제5조관련)",
+      "enforcement_date": "",
+      "content": "\n[별지 제2호서식]\n\n\n수출입식물검역 위반사항 등 신고포상금 지급신청서(제5조관련)\n\n\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃ (□ 수출입식물검역 위반사항,  □ 과태료 부과사항, □ 병해충 발생사실)을 신고한 건에 대       ┃\n┃하여 아래와 같이 포상금 지급을 신청합니다.                                                    ┃\n┃                                                                                              ┃\n┃ 신청기관명 :                                                                                 ┃\n┃                                                                                              ┃\n┃ 농림축산검역본부장 귀하                                                                      ┃\n┠───┬────┬┬───────┬─────────────────────────────┨\n┃①    │성  명  ││주민등록번호  │                                                          ┃\n┃지급  ├────┼┴───────┴─────────────────────────────┨\n┃대상자│주  소  │(전화 :     )                                                               ┃\n┃      ├────┼──────────────────────────────────────┨\n┃      │지급계좌│계좌번호 :               (OO은행)                                           ┃\n┠───┼────┼┬──────┬──────────────────────────────┨\n┃②    │성  명  ││주민등록번호│                                                            ┃\n┃지급  ├────┼┴──────┴──────────────────────────────┨\n┃대상자│주  소  │(전화 :     )                                                               ┃\n┃      ├────┼──────────────────────────────────────┨\n┃      │지급계좌│계좌번호 :               (OO은행)                                           ┃\n┠───┼────┼──────────────────────────────────────┨\n┃포상금│기준금액│                                                                            ┃\n┃      ├────┼──────────────────────────────────────┨\n┃      │산출근거│ 범칙물량 × 도매금액 또는 유통 판매가격                                    ┃\n┃      ├────┼──────────────────────────────────────┨\n┃      │병해충명│                                                                            ┃\n┠───┴────┼──────────────────────────────────────┨\n┃포상금 배분비율 │① (     )% ② (     )%                                                     ┃\n┠────────┴──────────────────────────────────────┨\n┃ 첨부서류                                                                                     ┃\n┃ 1. 신고한 사실을 요약한 확인서 1부                                                           ┃\n┃ 2. 수출입식물검역 위반사항 건은 송치 의견서 또는 범칙물품 폐기처분 등 관련 증빙자료 사본 1부 ┃\n┃ 3. 과태료 부과사항 건은 과태료 부과 또는 수납기관의 납부 확인서류 사본 1부                   ┃\n┃ 4. 병해충 발생사실 건은 분류동정 의견서 또는 관련 공문 사본 1부                              ┃\n┃ 5. 포상금 배분 합의서(지급대상자가 2인 이상으로 균등하게 지급하지 아니하는 경우 1부)         ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164901515",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164901511",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164901515",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#BJ0002",
+      "filename": "별지2_수출입식물검역 위반사항 등 신고포상금 지급신청서(제5조관련).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "「수출입식물검역 위반사항 등 신고포상금 지급요령」 고시 전문 1부.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=164901269",
+      "file_store_url": "",
+      "filename": "「수출입식물검역 위반사항 등 신고포상금 지급요령」 고시 전문 1부.hwpx"
+    },
+    {
+      "name": "「수출입식물검역 위반사항 등 신고포상금 지급요령」 고시 전문 1부.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=164901273",
+      "file_store_url": "",
+      "filename": "「수출입식물검역 위반사항 등 신고포상금 지급요령」 고시 전문 1부.pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 21,
+    "by_category": {
+      "법령": 12,
+      "행정규칙": 7,
+      "별지": 2
+    },
+    "by_relation_type": {
+      "citation": 15,
+      "internal_ref": 4,
+      "appendix_ref": 2
+    },
+    "articles_total": 9,
+    "articles_with_relations": 7,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 13,
+    "appendices_count": 3,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/수출입식물검역 위반사항 등 신고포상금 지급요령"
+  },
+  "provision_id": "admrul:수출입식물검역위반사항등신고포상금지급요령#DOC"
+}
