@@ -1,0 +1,482 @@
+{
+  "law_id": "2100000280804",
+  "mst": "2100000280804",
+  "law_name": "국립나주병원 비급여수가규정",
+  "law_abbr": "",
+  "law_type": "예규",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000280804",
+  "promulgation_no": "448",
+  "promulgation_date": "20260616",
+  "enforcement_date": "20260616",
+  "revision_date": "20260616",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국립나주병원(서무과)",
+    "담당자명": "고윤경",
+    "행정규칙종류코드": "B0002",
+    "행정규칙명": "국립나주병원 비급여수가규정",
+    "발령일자": "20260616",
+    "행정규칙종류": "예규",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국립나주병원",
+    "전화번호": "061-330-4111",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1352000",
+    "생성일자": "20260618",
+    "행정규칙ID": "64389",
+    "시행일자": "20260616",
+    "담당부서기관코드": "1352766",
+    "발령번호": "448",
+    "행정규칙일련번호": "2100000280804",
+    "상위부처명": "보건복지부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정이유\n국립나주병원 비급여 수가운영위원회에서 결정한 약제 비급여 수가를 규정에 반영하여 관리하기 위함.\n◇ 주요내용\n비급여 의약품에 대한 약제 수가 신설(안 별표1)\n- 삐콤정 등 10개 의약품 항목 추가 및 수가 신설",
+  "body": {
+    "format": "articles",
+    "article_count": 6,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규정은 「국립나주병원 기본운영규정」제8조의 규정에 의한 비급여수가의 선정기준, 제정절차 등에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「국립나주병원 기본운영규정」",
+            "line_text": "",
+            "target_law_name": "국립나주병원 기본운영규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립나주병원 기본운영규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립나주병원비급여수가규정#JO0001",
+            "reference_id": "admrul:국립나주병원기본운영규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제8조",
+            "line_text": "",
+            "target_law_name": "국립나주병원 기본운영규정",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립나주병원 기본운영규정/제8조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립나주병원비급여수가규정#JO0001",
+            "reference_id": "admrul:국립나주병원기본운영규정#JO0008"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립나주병원비급여수가규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) \"비급여수가\"라 함은 「국민건강보험법」 및 「의료급여법」에 따라 요양급여대상에서 제외 되는 사항의 진료비용을 말한다.<개정 2019. 9. 25.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「국민건강보험법」",
+            "line_text": "",
+            "target_law_name": "국민건강보험법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국민건강보험법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립나주병원비급여수가규정#JO0002",
+            "reference_id": "law:국민건강보험법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「의료급여법」",
+            "line_text": "",
+            "target_law_name": "의료급여법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/의료급여법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립나주병원비급여수가규정#JO0002",
+            "reference_id": "law:의료급여법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립나주병원비급여수가규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "항목 선정",
+        "chapter": "",
+        "content": "제3조(항목 선정) ① 비급여수가 항목 선정기준은 「국민건강보험요양급여의 기준에 관한 규칙」제9조의 규정에 의한다.② 신의료기술 등을 비급여수가 항목으로 추가하고자 할 때에는 「국민건강보험 요양급여의 기준에 관한 규칙」제10조의 규정에 의한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "「국민건강보험요양급여의 기준에 관한 규칙」",
+            "line_text": "",
+            "target_law_name": "국민건강보험요양급여의 기준에 관한 규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국민건강보험요양급여의 기준에 관한 규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립나주병원비급여수가규정#JO0003",
+            "reference_id": "law:국민건강보험요양급여의기준에관한규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "제9조",
+            "line_text": "",
+            "target_law_name": "국민건강보험요양급여의 기준에 관한 규칙",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국민건강보험요양급여의 기준에 관한 규칙/제9조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립나주병원비급여수가규정#JO0003",
+            "reference_id": "law:국민건강보험요양급여의기준에관한규칙#JO0009"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "「국민건강보험 요양급여의 기준에 관한 규칙」",
+            "line_text": "",
+            "target_law_name": "국민건강보험 요양급여의 기준에 관한 규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국민건강보험 요양급여의 기준에 관한 규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립나주병원비급여수가규정#JO0003",
+            "reference_id": "law:국민건강보험요양급여의기준에관한규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "제10조",
+            "line_text": "",
+            "target_law_name": "국민건강보험 요양급여의 기준에 관한 규칙",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국민건강보험 요양급여의 기준에 관한 규칙/제10조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립나주병원비급여수가규정#JO0003",
+            "reference_id": "law:국민건강보험요양급여의기준에관한규칙#JO0010"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립나주병원비급여수가규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "수가운영위원회",
+        "chapter": "",
+        "content": "제4조(수가운영위원회) ① 비급여 수가를 효율적으로 제정ㆍ운영하기 위하여\"국립나주병원 비급여수가운영위원회(이하\"위원회\"라 한다)\"를 구성ㆍ운영 한다.② 위원회는 위원장 1인을 포함한 5인 이상 7인 이하의 위원으로 구성한다.③ 위원장은 의료부장으로 하며, 위원은 회의개최 시 마다 과장 중에서 위원장이 지명하되 기획운영과장은 당연직으로 한다.④ 위원회의 사무 처리를 위하여 간사 1인을 두되, 기획운영과 원무심사팀장으로 한다.⑤ 위원회의 임무는 다음 각 호와 같다.1. 비급여수가 항목의 선정에 관한 사항2. 비급여수가 항목의 적정성에 관한 사항3. 진료항목 수가의 적정성 심의4. 기타 위원회의 운영에 필요한 사항⑥ 위원회의 회의는 병원장이 요구할 때와 위원장이 필요하다고 인정할 때 위원장이 소집한다.⑦ 위원회의 회의는 재적위원 과반수의 출석과 출석위원 과반수의 찬성으로 의결하며, 긴급을 요하거나 부득이한 사정이 있을 경우 서면에 의하여 의결할 수 있다.⑧ 위원장은 위원회에서 결정된 사항에 관하여 지체 없이 병원장에게 보고  하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립나주병원비급여수가규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "수가 제정",
+        "chapter": "",
+        "content": "제5조(수가 제정) ① 비급여수가 항목으로 제정이 필요하다고 판단되는 경우 위원회에서 타당성 여부를 결정한다.② 위원회에서 의결된 비급여 수가에 대하여는 병원장이 최종 결정하고 그  결과를 공람하여야한다.③ 제정된 수가는 적절한 방법으로 환자 등에게 적극 홍보하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국립나주병원비급여수가규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "보칙",
+        "chapter": "",
+        "content": "제6조(보칙) ① 제2조에 따른 요양급여대상에서 제외 되는 비급여 항목 및 금액은\"별표1\",\"별표2\"와 같다. <신설 2019. 9. 25.>② 이 규정에 정하지 아니한 수가에 관한 사항은 「국민건강보험법」 및 「의료급여법」에 의한 진료수가 기준에 따른다.<개정 2019. 9. 25.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "국립나주병원 비급여수가규정",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국립나주병원 비급여수가규정/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립나주병원비급여수가규정#JO0006",
+            "reference_id": "admrul:국립나주병원비급여수가규정#JO0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "별표1",
+            "line_text": "",
+            "target_law_name": "국립나주병원 비급여수가규정",
+            "target_article_no": "별표1",
+            "target_article_title": "비급여 항목 및 금액",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000280804&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립나주병원비급여수가규정#JO0006",
+            "reference_id": "admrul:국립나주병원비급여수가규정#BYL0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "별표2",
+            "line_text": "",
+            "target_law_name": "국립나주병원 비급여수가규정",
+            "target_article_no": "별표2",
+            "target_article_title": "제증명 수수료",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000280804&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립나주병원비급여수가규정#JO0006",
+            "reference_id": "admrul:국립나주병원비급여수가규정#BYL0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "「국민건강보험법」",
+            "line_text": "",
+            "target_law_name": "국민건강보험법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국민건강보험법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립나주병원비급여수가규정#JO0006",
+            "reference_id": "law:국민건강보험법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "「의료급여법」",
+            "line_text": "",
+            "target_law_name": "의료급여법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/의료급여법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국립나주병원비급여수가규정#JO0006",
+            "reference_id": "law:의료급여법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국립나주병원비급여수가규정#JO0006"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20180418",
+      "promulgation_no": "346",
+      "content": "부칙 <제346호,2018. 4. 18.>이 규정은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20190925",
+      "promulgation_no": "362",
+      "content": "부칙 <제362호,2019. 9. 25.>이 규정은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20220328",
+      "promulgation_no": "387",
+      "content": "부칙 <제387호, 2022. 3. 28.>이 규정은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20230522",
+      "promulgation_no": "415",
+      "content": "부칙 <제415호, 2023. 5. 22.>이 규정은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20240226",
+      "promulgation_no": "423",
+      "content": "부칙 <제423호, 2024. 2. 26.>이 규정은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20240909",
+      "promulgation_no": "431",
+      "content": "부칙 <제431호, 2024. 9. 9.>이 규정은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20241126",
+      "promulgation_no": "434",
+      "content": "부칙 <제434호, 2024. 11. 26.>이 규정은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20250514",
+      "promulgation_no": "439",
+      "content": "부칙 <제439호, 2025. 5. 14.>이 규정은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20260616",
+      "promulgation_no": "448",
+      "content": "부칙 <제448호, 2026. 6. 16.>이 규정은 공포한 날로부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "비급여 항목 및 금액",
+      "enforcement_date": "",
+      "content": "[별표1] 비급여 항목 및 금액\n┏━━━━━┯━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━┯━━┓\n┃구 분     │비급여 항목                               │금 액         │비고┃\n┠─────┼─────────────────────┼───────┼──┨\n┃심리검사  │숫자 따라하기  검사(Digit Span Test)      │5,000         │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │시각 단기기억 검사(Visual Span Test)      │5,000         │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │언어지속 검사                             │5,000         │    ┃\n┃          │(Auditory Continuous Performance Test)    │              │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │시각지속 검사                             │5,000         │    ┃\n┃          │(Visual Continuous Performance Test)      │              │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │조건 언어지속 검사                        │5,000         │    ┃\n┃          │(Auditory Controlled CPT)                 │              │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │조건 시각지속 검사                        │5,000         │    ┃\n┃          │(Visual Controlled CPT)                   │              │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │단어?색채 검사                           │5,000         │    ┃\n┃          │(Stroop Test(Word-Color Test)             │              │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │선로잇기 검사(Trail-Making Test)          │5,000         │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │카드분류 검사                             │5,000         │    ┃\n┃          │(Wisconsin Card Sorting Test)             │              │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │언어기억 검사                             │5,000         │    ┃\n┃          │(Verbal Learning (Memory) Test)           │              │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │전산화 신경 인지기능 검사(SCNT)           │50,000        │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │기억평가검사(Memory Assessment Scale;MAS) │40,000        │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │성격평가척도검사                          │20,000        │    ┃\n┃          │(Personality Assessment Inventroy;PAI)    │              │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │뉴로 피드백  검사                         │20,000        │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │한국판 캘리포니아                         │50,000        │    ┃\n┃          │언어학습검사(k-CVLT)                      │              │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │종합인지기능검사(CAS)                     │50,000        │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │스트룹아동 색상 단어검사(STOROOP)         │10,000        │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │힌국판 치매 평가검사(K-DRS)               │40,000        │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │종합 주의력 검사                          │120,000       │    ┃\n┃          │(Comprehensive Attention Teat ; CAT)      │              │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │단순선택주의력(시각)                      │20,000        │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │단순선택주의력(청각)                      │20,000        │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │간섭선택주의력                            │20,000        │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │억제선택주의력                            │20,000        │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │분할주의력                                │20,000        │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │작업기억력(주의력)                        │20,000        │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │웩슬러 기억 평정 척도(K-WMS)              │150,000       │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │성인용Rey-Kim 기억검사                    │50,000        │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │영유아 언어발달 검사                      │30,000        │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │심리적 재활중재치료(개인)                 │20,000        │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │심리적 재활중재치료(집단)                 │12,000        │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │심리적 재활중재치료(집단세트)             │50,000        │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │성인용 Kims 전두엽관리기능 신경심리검사Ⅱ │50,000        │    ┃\n┠─────┼─────────────────────┼───────┼──┨\n┃뇌파검사  │자율신경계검사(HRV)-G                     │15,000        │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │자율신경계검사(HRV)                       │5,000         │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │경두개자극술(TMS)                         │25,000        │    ┃\n┠─────┼─────────────────────┼───────┼──┨\n┃병리검사  │마약정성검사(10종)                        │50,000        │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │인플루엔자 A?B바이러스 항원검사          │15,000        │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │COVID-19 신속항원검사                     │13,000        │    ┃\n┠─────┼─────────────────────┼───────┼──┨\n┃기타검사  │체성분검사                                │5,000         │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │옴니핏(외래 초검)                         │30,000        │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │옴니핏(외래 재검)                         │20,000        │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │옴니핏(직장인 초검)                       │40,000        │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │옴니핏(직장인 재검)                       │35,000        │    ┃\n┠─────┼─────────────────────┼───────┼──┨\n┃치과 처치 │불소도포                                  │10,000        │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │레진                                      │50,000～80,000│    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │스켈링(간단)                              │30,000        │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │구치부 금관 치관                          │400,000       │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │전치부 금속  도재관                       │300,000       │    ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │치과치료대(POST)                          │100,000       │    ┃\n┠─────┼─────────────────────┼───────┼──┨\n┃약제      │삐콤정                                    │18            │신설┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │메이킨큐장용정                            │160           │”  ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │그린관장약30ml                            │320           │”  ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │안티푸라민에스로션100ml                   │2,520         │”  ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │파메콘정                                  │55            │”  ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │액티페린정                                │80            │”  ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │후시딘연고10g                             │5,440         │”  ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │아비나파스타(오라메디연고)                │2,106         │”  ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │메디락디에스장용캡슐                      │32            │”  ┃\n┃          ├─────────────────────┼───────┼──┨\n┃          │타미락신연고50g                           │1,460         │”  ┃\n┗━━━━━┷━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━┷━━┛\n(단위: 원)",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000280804&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=165060435",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=165060429",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=165060435",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립나주병원비급여수가규정#BYL0001",
+      "filename": "별표1_비급여 항목 및 금액.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "제증명 수수료",
+      "enforcement_date": "",
+      "content": "[별표2] 제증명 수수료\n┏━━━┯━━━━━━━━━━━━━━━━┯━━━━━━━━━━┯━━━━┓\n┃구 분 │비급여 항목                     │금 액               │비고    ┃\n┃      │                                ├────┬─────┤        ┃\n┃      │                                │1매당   │추가1매당 │        ┃\n┠───┼────────────────┼────┼─────┼────┨\n┃진단서│일반진단서                      │10,000  │1,000     │        ┃\n┃      ├────────────────┼────┼─────┼────┨\n┃      │병무용진단서                    │20,000  │1,000     │        ┃\n┃      ├────────────────┼────┼─────┼────┨\n┃      │상해진단서(3주 미만)            │50,000  │1,000     │        ┃\n┃      ├────────────────┼────┼─────┼────┨\n┃      │장애진단서(정신, 뇌전증장애)    │15,000  │1,000     │        ┃\n┃      ├────────────────┼────┼─────┼────┨\n┃      │장애진단서(지적장애, 자폐성장애)│40,000  │1,000     │        ┃\n┃      ├────────────────┼────┼─────┼────┨\n┃      │사망진단서                      │10,000  │1,000     │        ┃\n┃      ├────────────────┼────┼─────┼────┨\n┃      │정신, 신체감정서                │400,000 │1,000     │        ┃\n┃      ├────────────────┼────┼─────┼────┨\n┃      │근로능력평가용 진단서           │10,000  │1,000     │        ┃\n┃      ├────────────────┼────┼─────┼────┨\n┃      │국민연금장애심사용 진단서       │15,000  │1,000     │        ┃\n┃      ├────────────────┼────┼─────┼────┨\n┃      │공무원연금장해 진단서           │15,000  │1,000     │        ┃\n┃      ├────────────────┼────┼─────┼────┨\n┃      │진료기록감정서                  │600,000 │1,000     │        ┃\n┠───┼────────────────┼────┼─────┼────┨\n┃소견서│의사소견서                      │5,000   │500       │        ┃\n┃      ├────────────────┼────┼─────┼────┨\n┃      │뇌전증장애소견서                │5,000   │500       │        ┃\n┠───┼────────────────┼────┼─────┼────┨\n┃확인서│진료사실 확인서                 │1,000   │200       │입원 중 ┃\n┃      │                                │        │          │무료    ┃\n┃      ├────────────────┼────┼─────┼────┨\n┃      │입원 및 치료확인서              │1,000   │200       │입원 중 ┃\n┃      │                                │        │          │무료    ┃\n┃      ├────────────────┼────┼─────┼────┨\n┃      │통원치료 확인서                 │1,000   │200       │        ┃\n┠───┼────────────────┼────┼─────┼────┨\n┃기타  │의무기록사본(1～5매)/(6매 이상) │1,000   │100       │        ┃\n┃      ├────────────────┼────┼─────┼────┨\n┃      │영상자료 CD 사본(1장 기준)      │5,000   │-         │        ┃\n┗━━━┷━━━━━━━━━━━━━━━━┷━━━━┷━━━━━┷━━━━┛\n(단위: 원)",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000280804&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=165060441",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=165060437",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=165060441",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국립나주병원비급여수가규정#BYL0002",
+      "filename": "별표2_제증명 수수료.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "국립나주병원 비급여수가규정 전문(예규 제448호).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=165059707",
+      "file_store_url": "",
+      "filename": "국립나주병원 비급여수가규정 전문(예규 제448호).hwpx"
+    },
+    {
+      "name": "국립나주병원 비급여수가규정 전문(예규 제448호).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=165059711",
+      "file_store_url": "",
+      "filename": "국립나주병원 비급여수가규정 전문(예규 제448호).pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 13,
+    "by_category": {
+      "행정규칙": 3,
+      "법령": 8,
+      "별표": 2
+    },
+    "by_relation_type": {
+      "citation": 10,
+      "internal_ref": 1,
+      "appendix_ref": 2
+    },
+    "articles_total": 6,
+    "articles_with_relations": 4,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 9,
+    "appendices_count": 2,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/국립나주병원 비급여수가규정"
+  },
+  "provision_id": "admrul:국립나주병원비급여수가규정#DOC"
+}
