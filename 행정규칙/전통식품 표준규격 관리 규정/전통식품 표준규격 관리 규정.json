@@ -1,0 +1,484 @@
+{
+  "law_id": "2100000280950",
+  "mst": "2100000280950",
+  "law_name": "전통식품 표준규격 관리 규정",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000280950",
+  "promulgation_no": "2026-10",
+  "promulgation_date": "20260617",
+  "enforcement_date": "20260617",
+  "revision_date": "20260617",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국립농산물품질관리원(품질검사과)",
+    "담당자명": "홍미리",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "전통식품 표준규격 관리 규정",
+    "발령일자": "20260617",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국립농산물품질관리원",
+    "전화번호": "054-429-4122",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1543000",
+    "생성일자": "20260709",
+    "행정규칙ID": "52829",
+    "시행일자": "20260617",
+    "담당부서기관코드": "1543149",
+    "발령번호": "2026-10",
+    "행정규칙일련번호": "2100000280950",
+    "상위부처명": "농림축산식품부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n○ 고시 내용과 상위 법령(시행규칙)이 일치하지 않아 현장에서 혼선 발생의 우려가 있어 상위법과 규정을 통일하고자 함\n◇ 주요내용\n○ 제3조(표준규격의 제정) 제3항 및 제5조(표준규격의 적부확인) 제2항\n- 「식품산업진흥법 시행규칙」 제14조에 따르면 전통식품 품질인증 대상품목의 표준규격 제정 등을 한국식품연구원, 한국농촌경제연구원, 공공기관, 농림축산식품부장관이 인정하는 연구기관에 의뢰할 수 있다고 규정\n- 「전통식품 표준규격 관리규정(고시)」에는 전통식품 표준규격의 제정 및 적부확인 등을 ‘한국식품연구원’에만 의뢰할 수 있도록 규정하고 있어, 시행규칙과 고시 규정을 일치",
+  "body": {
+    "format": "articles",
+    "article_count": 6,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총 칙",
+        "content": "제1조(목적) 이 규정은 「식품산업진흥법」제22조, 제34조 및 같은 법 시행령 제28조, 제39조제4항제10호에 따라 전통식품 표준규격의 제정ㆍ개정 및 폐지 등 관리에 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제22조",
+            "line_text": "",
+            "target_law_name": "식품산업진흥법",
+            "target_article_no": "제22조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식품산업진흥법/제22조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전통식품표준규격관리규정#JO0001",
+            "reference_id": "law:식품산업진흥법#JO0022"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제34조",
+            "line_text": "",
+            "target_law_name": "식품산업진흥법",
+            "target_article_no": "제34조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식품산업진흥법/제34조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전통식품표준규격관리규정#JO0001",
+            "reference_id": "law:식품산업진흥법#JO0034"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "식품산업진흥법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식품산업진흥법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전통식품표준규격관리규정#JO0001",
+            "reference_id": "law:식품산업진흥법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제28조",
+            "line_text": "",
+            "target_law_name": "식품산업진흥법 시행령",
+            "target_article_no": "제28조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식품산업진흥법 시행령/제28조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전통식품표준규격관리규정#JO0001",
+            "reference_id": "law:식품산업진흥법시행령#JO0028"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제39조제4항제10호",
+            "line_text": "",
+            "target_law_name": "식품산업진흥법 시행령",
+            "target_article_no": "제39조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식품산업진흥법 시행령/제39조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전통식품표준규격관리규정#JO0001",
+            "reference_id": "law:식품산업진흥법시행령#JO0039"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:전통식품표준규격관리규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "제1장 총 칙",
+        "content": "제2조(정의) 이 규정에서 사용하는 용어의 정의는 다음 각 호와 같다.1. \"표준규격화\"라 함은 전통식품 품질인증 대상품목에 대하여 그 표준규격을 제정ㆍ개정 하거나 폐지하는 절차와 고시를 말한다.2. \"규격 적부(適否)확인\"이라 함은 표준규격과의 맞음과 맞지 아니함을 주기적으로 확인ㆍ수정하고 개정ㆍ확인ㆍ폐지 또는 고시하는 것을 말한다.3. \"이해관계자\"라 함은 생산업체ㆍ협회 등의 생산자단체, 소비자단체, 관련 행정기관ㆍ공공기관, 학계 등의 전문가 및 관련자를 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:전통식품표준규격관리규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "표준규격의 제정",
+        "chapter": "제2장 표준규격의 제정 등",
+        "content": "제3조(표준규격의 제정) ① 국립농산물품질관리원장(이하 \"농관원장\"이라 한다)은 전통식품 품질인증 대상품목에 대하여 이해관계자의 요청 또는 제정 수요 등을 고려하여 표준규격을 제정할 수 있다.② 농관원장은 전통식품 표준규격의 제정안 작성을 위하여 관련 자료조사, 생산현장 실태조사, 유통제품 수거 및 분석, 이해관계자 의견조사, 전문가협의 등을 거쳐야 한다.③ 농관원장은 표준규격 제정의 효율적인 추진을 위해 「농림축산식품부 소관 식품산업진흥법 시행규칙」제14조에 규정된 기관에 표준규격 제정 등에 관한 사항을 의뢰할 수 있다.④ 제2항의 세부적인 사항 및 작성서식은 [별표 1] 및 [별표 2]와 같다.⑤ 농관원장은 식품산업진흥심의회의 심의를 거쳐 제정안을 확정ㆍ고시한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제3항",
+            "link_text": "「농림축산식품부 소관 식품산업진흥법 시행규칙」",
+            "line_text": "",
+            "target_law_name": "농림축산식품부 소관 식품산업진흥법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/농림축산식품부 소관 식품산업진흥법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전통식품표준규격관리규정#JO0003",
+            "reference_id": "law:농림축산식품부소관식품산업진흥법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제3항",
+            "link_text": "제14조",
+            "line_text": "",
+            "target_law_name": "농림축산식품부 소관 식품산업진흥법 시행규칙",
+            "target_article_no": "제14조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/농림축산식품부 소관 식품산업진흥법 시행규칙/제14조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전통식품표준규격관리규정#JO0003",
+            "reference_id": "law:농림축산식품부소관식품산업진흥법시행규칙#JO0014"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제4항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "전통식품 표준규격 관리 규정",
+            "target_article_no": "별표1",
+            "target_article_title": "전통식품 표준규격화 업무흐름도",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000280950&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전통식품표준규격관리규정#JO0003",
+            "reference_id": "admrul:전통식품표준규격관리규정#BYL0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제4항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "전통식품 표준규격 관리 규정",
+            "target_article_no": "별표2",
+            "target_article_title": "전통식품 표준규격의 구성 및 작성방법",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000280950&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전통식품표준규격관리규정#JO0003",
+            "reference_id": "admrul:전통식품표준규격관리규정#BYL0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:전통식품표준규격관리규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "표준규격의 개정 및 폐지",
+        "chapter": "제2장 표준규격의 제정 등",
+        "content": "제4조(표준규격의 개정 및 폐지) 농관원장이 전통식품 표준규격을 개정 및 폐지할 때에는 제3조를 준용한다. 다만 필요에 따라 [별표 1]의 절차를 일부 생략할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제3조",
+            "line_text": "",
+            "target_law_name": "전통식품 표준규격 관리 규정",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/전통식품 표준규격 관리 규정/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전통식품표준규격관리규정#JO0004",
+            "reference_id": "admrul:전통식품표준규격관리규정#JO0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "전통식품 표준규격 관리 규정",
+            "target_article_no": "별표1",
+            "target_article_title": "전통식품 표준규격화 업무흐름도",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000280950&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전통식품표준규격관리규정#JO0004",
+            "reference_id": "admrul:전통식품표준규격관리규정#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:전통식품표준규격관리규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "표준규격의 적부확인",
+        "chapter": "제2장 표준규격의 제정 등",
+        "content": "제5조(표준규격의 적부확인) ① 농관원장은 제정 등을 확정ㆍ고시한 날로부터 5년마다 전통식품 표준규격의 적부확인을 실시하고 부적합한 경우에는 식품산업진흥심의회에 심의를 거쳐 표준규격을 개정 또는 폐지하고 이를 고시하여야 한다.② 농관원장은 필요하다고 판단하는 경우 표준규격 적부확인을 「농림축산식품부 소관 식품산업진흥법 시행규칙」제14조에 규정된 기관에 의뢰할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "「농림축산식품부 소관 식품산업진흥법 시행규칙」",
+            "line_text": "",
+            "target_law_name": "농림축산식품부 소관 식품산업진흥법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/농림축산식품부 소관 식품산업진흥법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전통식품표준규격관리규정#JO0005",
+            "reference_id": "law:농림축산식품부소관식품산업진흥법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "제14조",
+            "line_text": "",
+            "target_law_name": "농림축산식품부 소관 식품산업진흥법 시행규칙",
+            "target_article_no": "제14조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/농림축산식품부 소관 식품산업진흥법 시행규칙/제14조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전통식품표준규격관리규정#JO0005",
+            "reference_id": "law:농림축산식품부소관식품산업진흥법시행규칙#JO0014"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:전통식품표준규격관리규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "재검토 기한",
+        "chapter": "제2장 표준규격의 제정 등",
+        "content": "제6조(재검토 기한) 국립농산물품질관리원장은 이 고시에 대하여 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2026년 1월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:전통식품표준규격관리규정#JO0006",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:전통식품표준규격관리규정#JO0006"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20080808",
+      "promulgation_no": "2008-14",
+      "content": "부칙 <제2008-14호,2008. 8. 8.>제1조(시행일) 이 규정은 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20160530",
+      "promulgation_no": "2016-17",
+      "content": "부칙 <제2016-17호,2016. 5. 30.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.제2조(재검토 기한) 국립농산물품질관리원장은 이 고시에 대하여 2016년 7월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다."
+    },
+    {
+      "promulgation_date": "20200219",
+      "promulgation_no": "2020-1",
+      "content": "부칙 <제2020-1호,2020. 2. 19.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20231211",
+      "promulgation_no": "2023-14",
+      "content": "부칙 <제2023-14호, 2023. 12. 11.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20260617",
+      "promulgation_no": "2026-10",
+      "content": "부칙 <제2026-10호, 2026. 6. 17.>이 고시는 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "전통식품 표준규격화 업무흐름도",
+      "enforcement_date": "",
+      "content": "[별표 1]\n전통식품 표준규격화 업무흐름도\n┌───────────────────────────────────────┐\n│자료 조사                                                                     │\n├───────────────────────────────────────┤\n│학술자료, 국내외 관련 규격, 기술정보, 제조업체 현황 등                        │\n└───────────────────────────────────────┤\n↓                                                                            │\n┌───────────────────────────────────────┤\n│생산현장 실태 및 의견 조사                                                    │\n├───────────────────────────────────────┤\n│규격초안 작성을 위한 생산현장의 관리 실태 및 이해관계자의 의견 조사 등        │\n└───────────────────────────────────────┤\n↓                                                                            │\n┌───────────────────────────────────────┤\n│유통제품 현황 조사 및 분석                                                    │\n├───────────────────────────────────────┤\n│제품의 특성(형태, 종류, 등급 등), 표시사항 및 성분분석 등에 의한 품질지표 및  │\n│기준?규격 도출                                                               │\n└───────────────────────────────────────┤\n↓                                                                            │\n┌───────────────────────────────────────┤\n│초안 작성                                                                     │\n├───────────────────────────────────────┤\n│자료 조사, 생산현장 실태 조사, 이해관계자의 의견 조사 및 제품의 품질평가 등을 │\n│토대로 규격 초안 작성                                                         │\n└───────────────────────────────────────┤\n↓                                                                            │\n┌───────────────────────────────────────┤\n│이해관계자 의견조사(1)                                                        │\n├───────────────────────────────────────┤\n│규격초안에 대한 이해관계자 의견 수렴                                          │\n└───────────────────────────────────────┤\n↓                                                                            │\n┌───────────────────────────────────────┤\n│전문가 협의                                                                   │\n├───────────────────────────────────────┤\n│관련 전문가 협의를 통한 규격초안 검토 및 수정                                 │\n└───────────────────────────────────────┤\n↓                                                                            │\n┌───────────────────────────────────────┤\n│ 분과위원회 의결                                                              │\n├───────────────────────────────────────┤\n│전통식품 분과위원회 상정 및 의결                                              │\n└───────────────────────────────────────┤\n↓                                                                            │\n┌───────────────────────────────────────┤\n│ 식품산업진흥심의회 심의                                                      │\n├───────────────────────────────────────┤\n│의결된 규격안 최종 심의 및 확정                                               │\n└───────────────────────────────────────┤\n↓                                                                            │\n┌───────────────────────────────────────┤\n│규격 확정 고시                                                                │\n└───────────────────────────────────────┘\n(1) \"생산현장 실태 및 의견 조사\" 단계로 대체 가능",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000280950&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166082865",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166082861",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166082865",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:전통식품표준규격관리규정#BYL0001",
+      "filename": "별표1_전통식품 표준규격화 업무흐름도.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "전통식품 표준규격의 구성 및 작성방법",
+      "enforcement_date": "",
+      "content": "[별표 2]\n전통식품 표준규격의 구성 및 작성방법\n1. 규격의 구성\n┌───────────────────────────────┐\n│      가. 규격명칭 및 규격번호             사. 시험방법       │\n│      나. 적용범위                         아. 제조?가공기준 │\n│      다. 용어의 정의                      자. 표시           │\n│      라. 원료                             차. 검사           │\n│      마. 종류                             차. 명판           │\n│      바. 품질                                                │\n└───────────────────────────────┘\n2. 규격의 작성방법\n가. 규격명칭 및 규격번호\n(1) 규격서 첫 번째 쪽의 상단에 규격명칭 및 규격번호를 명시한다.(규격번호는 제정순서에 따른 일련번호를 3자리 숫자로 표시)      ┌─────────────────┐\n│                                  │\n│  ┌──────┐                │\n│  │규 격 명 칭 │                │\n│  └──────┘                │\n│                                  │\n│                                  │\n│                  규격번호 T000   │\n│                                  │\n│                                  │\n\n\n(2) 국문명칭은 간단?명료하여야 하며, 식품의 통상적 이름(common name) 또는 한 개 이상의 식품에 적용되는 경우에는 이를 모두 포괄할 수 있는 이름(generic name) 으로 한다.\n나. 적용범위\n(1) 규격이 적용 가능한 식품 또는 식품군에 대하여 명확하게 정의한다.\n(2) 제품의 원료, 주요공정 등이 기술되어야 하며, 필요한 경우 제품형태, 섭취방법 및 포장 등에 대해서도 규정할 수 있다.\n다. 용어의 정의\n규격에 사용되는 특정 용어의 이해를 위한 선택적 구성요소이며, 제품의 원료, 제조공정, 종류 및 형태 등 제품의 특성을 기술할 수 있다.\n라. 원료\n(1) 해당 식품을 제조?가공하기 위해 필요한 원료들을 기술하되, 국내산이 요구되는 원료와 그러하지 아니한 원료로 구분하여 기술하고, 특정 원료를 제품명으로 사용하는 경우에는 국내산을 사용하도록 규정하여야 한다.\n(2) 원산지의 구분은 제품의 특성, 배합비율, 원료의 수급상황 및 식량자급률 등을 고려하여 규정한다.\n마. 종류\n규정하는 제품(또는 방법)을 사용목적(또는 사용방법) 등에 따라 분류할 필요가 있는 경우에는 종류를 구분하거나, 요구사항의 수준에 따라 등급으로 구분하여 규정한다.\n바. 품질\n(1) 규격명칭, 적용범위, 정의, 종류 등의 요구사항을 명확하게 나타낼 수 있도록 객관적으로 분석 및 평가 가능한 품질 기준을 ‘항목’으로 설정한다.\n(2) ‘항목’은 관능적, 이화학적 및 미생물학적 항목 등으로 구분할 수 있으며, 해당 ‘항목’에서 요구되는 특성의 한계값은 해당 제품의 특성을 대표할 수 있도록 충분한 설정 시험을 통하여 결정한다.\n사. 시험방법\n(1) ‘품질’의 기준을 과학적으로 입증하는 것으로 품질기준의 항목별 순서에 따라 기술하여야 한다.\n(2) 별도의 ‘방법규격’에서 해당 규격의 시험방법을 규정하고 있는 경우에는 규격번호, 규격명칭 및 해당 시험항목을 인용한다.\n(3) 별도의 샘플링 조건 및 방법, 시료의 전처리, 보관 및 보존 방법 등을 규정할 수 있다.\n아. 제조?가공기준\n(1) ‘원료 등의 구비?사용요건’, ‘식품첨가물’, ‘주요 공정기준’ 및 ‘제조설비’의 4개 항목으로 구분하여 규정하되, 필요에 따라 ‘기타 요구사항’을 추가하여 5개 항목으로 구성할 수 있다.\n(2) ‘원료 등의 구비?사용요건’ 항목은 원료 구비 및 사용함에 있어 요구되는 사항들을 기술하여야 한다.\n(3) ‘식품첨가물’ 항목은 첨가물의 사용을 기본적으로 사용할 수 없도록 규정하되, 제품의 특성에 따라 식품첨가물의 사용하지 않고 제품 생산 및 유통 등이 불가한 경우에는 일부 허용할 수 있다\n(4) ‘주요 공정기준’ 항목은 원재료의 전처리부터 최종 제품의 포장 단계까지 공정순서대로 기술한다.\n(5) ‘제조설비‘ 항목은 단위 공정별로 소요되는 제조설비를 공정순서에 따라 기술한다.\n(6) ‘기타 요구사항’ 항목은 선택적 구성요소이며, 제품의 필수공정, 유통방법, 저장방법 등 특정 제품에서 요구되는 기타사항들을 규정할 수 있다.\n자. 표시\n(1) 제품규격에 한하여 해당 제품의 표시에 관한 사항을 ‘T010(전통식품의 일반표시기준)에 따라 표시하여야 한다.’는 문구로 기술 한다.\n(2) 개별규격에서 요구하는 사항이 있을 경우에는 ‘표시기준’ 및 ‘기타 표시기준’으로 구분하여 기술한다.\n차. 검사\n해당 규격의 ‘시험방법’에 따라 시험하고 ‘품질기준’ 및 ‘표시’에 적합하도록 기술한다.\n카. 명판\n규격서 마지막 쪽의 하단에 다음과 같이 기재한다.\n\n│                                                                      │\n│                                                                      │\n│┌─────────────────────────────────┐│\n││제  정 : 국립농산물품질관리원                                     ││\n││제정일 : 2016년 9월 12일  국립농산물품질관리원 고시 제2016-33호   ││\n││개정일 : 2025년 12월 5일  국립농산물품질관리원 공고 제2025-120호  ││\n││원안 작성 협력자 : ㅇㅇㅇㅇ기관                                   ││\n││연락처 : 국립농산물품질관리원 품질검사과(054-429-4122)            ││\n│└─────────────────────────────────┘│\n│                                                                      │\n└───────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000280950&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166082875",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166082867",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166082875",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:전통식품표준규격관리규정#BYL0002",
+      "filename": "별표2_전통식품 표준규격의 구성 및 작성방법.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "「전통식품 표준규격 관리규정」 고시 개정(전문) 1부.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=166080941",
+      "file_store_url": "",
+      "filename": "「전통식품 표준규격 관리규정」 고시 개정(전문) 1부.hwpx"
+    },
+    {
+      "name": "「전통식품 표준규격 관리규정」 고시 개정(전문) 1부.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=166080945",
+      "file_store_url": "",
+      "filename": "「전통식품 표준규격 관리규정」 고시 개정(전문) 1부.pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 14,
+    "by_category": {
+      "법령": 9,
+      "별표": 3,
+      "행정규칙": 2
+    },
+    "by_relation_type": {
+      "citation": 10,
+      "appendix_ref": 3,
+      "internal_ref": 1
+    },
+    "articles_total": 6,
+    "articles_with_relations": 5,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 5,
+    "appendices_count": 2,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/전통식품 표준규격 관리 규정"
+  },
+  "provision_id": "admrul:전통식품표준규격관리규정#DOC"
+}
