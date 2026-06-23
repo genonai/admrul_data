@@ -1,0 +1,1789 @@
+{
+  "law_id": "2100000281090",
+  "mst": "2100000281090",
+  "law_name": "수출식물의 검역요령",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000281090",
+  "promulgation_no": "2026-24",
+  "promulgation_date": "20260623",
+  "enforcement_date": "20260623",
+  "revision_date": "20260623",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "농림축산검역본부(수출지원과)",
+    "담당자명": "최지영",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "수출식물의 검역요령",
+    "발령일자": "20260623",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "농림축산검역본부",
+    "전화번호": "054-912-0624",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1543000",
+    "생성일자": "20260625",
+    "행정규칙ID": "2045710",
+    "시행일자": "20260623",
+    "담당부서기관코드": "1543074",
+    "발령번호": "2026-24",
+    "행정규칙일련번호": "2100000281090",
+    "상위부처명": "농림축산식품부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정 이유\n- 해당 고시의 재검토 기한이 도래함에 따라 검토 후 효율적인 수출검역업무 추진을 위해 일부 조항을 개정하고자 함\n◇ 주요 내용\n가. 수출검역증의 발급일자 표기형식에 맞춰 재발급 시 수출검역증의 부기사항에 기재하는 일자 표기형식 변경(안 제5조제12항)\n나. 실험실정밀검역 결과보고서 발급을 위한 법적근거 및 서식 마련(안 제5조제15항 및 별지 제18호서식)\n다. 수출용 종자 사전검역신청서 기입사항 보완(별지 제8호서식)\n라. 행정규칙 속 어려운 용어 정비(안 제3조제1항, 별표 1)",
+  "body": {
+    "format": "articles",
+    "article_count": 15,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 요령은 「식물방역법」, 같은 법 시행령 및 같은 법 시행규칙에서 농림축산검역본부장에게 위임된 사항과 그 시행에 필요한 사항을 정하여 수출식물검역 업무를 일관성 있고 효율적으로 수행하는 것을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "식물방역법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0001",
+            "reference_id": "law:식물방역법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행규칙",
+            "line_text": "",
+            "target_law_name": "식물방역법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0001",
+            "reference_id": "law:식물방역법시행규칙#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수출식물의검역요령#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) 이 요령에서 사용하는 용어의 뜻은 다음과 같다.1. \"대리인\"이란 식물 등을 수출하려는 자를 대신하여 검역신청, 검역입회, 증명서 수령 등의 업무를 수행하는 사람을 말한다.2. \"현장검역\"이란 식물검역관이 검역장소에서 수출물품에 대하여 수입국의 우려병해충 감염 및 금지품 여부 등을 검역하는 것을 말한다.3. \"실험실정밀검역\"이란 식물검역관이 식물검역대상물품에서 채취한 병해충 및 시료에 대하여 실험실에서 현미경 관찰, 배양, 사육, 파쇄, 선충분리 등의 방법에 의해 정밀하게 검사하거나 병해충을 분류동정 하는 것을 말한다.4. \"서류검역\"이란 식물검역관이 현장검역 및 실험실정밀검역을 생략하고 수출검역신청서, 가공공정서 등 관련서류를 확인하는 것을 말한다.5. \"재배지검역\"이란 수입국이 요구하는 검역요건에 따라 식물의 생육기간 중에 수입국의 우려 병해충 발생유무를 검역하는 것을 말한다.6. \"가공품목\"이란 병해충이 서식 또는 잠복할 수 없을 정도로 가공한 제품으로 식물검역대상품목에 해당되지 아니하는 품목을 말한다.7. \"전자식물검역증명서\"란 「국제식물보호협약」에서 정한 표준화된 전자형식에 따라 국가간에 전송되는 검역증명서를 말한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수출식물의검역요령#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "검역신청",
+        "chapter": "",
+        "content": "제3조(검역신청) ① 「식물방역법 시행규칙」(이하 \"규칙\"이라 한다) 제35조제1항의 규정에 의한 수출검역의 신청은 서면, 우편, 팩스 및 정보통신망에 의한다.② 식물 등을 수출하려는 자(이하 \"수출자\"라 한다)는 규칙 별지 제26호서식의 수출식물 검역증명서(이하 \"수출검역증명서\"라 한다)가 2부 이상 필요할 경우에는 검역신청서의 신청인 요구 사항란에 필요한 부수와 목적을 표기하여 신청하여야 한다.③ 수출검역증명서를 대리인이 발급받고자 하는 경우에는 해당 대리인의 성명, 상호 및 전화번호를 검역신청서의 신청인 요구 사항란에 기재하여야 한다.④ 수입국이 수출검역증명서 또는 전자식물검역증명서에 재배지검역 결과를 부기하도록 요구하는 품목의 경우 수출자는 검역신청서에 별지 제5호서식의 재배지검역 합격증명서 사본을 첨부하여야 한다. 종자의 경우에는 별지 제6호 서식의 재배지별 종자생산내역서 사본을 추가로 첨부하여야 한다.⑤ 휴대하여 수출하는 식물 등의 경우에는 검역신청서를 제출하지 아니한다. 이 경우 농림축산검역본부 지역본부장 또는 사무소장(이하 \"지역본부장 또는 사무소장\"이라 한다)은 별지 제1호서식의 휴대수출식물검역대장에 검역내용을 기록하여야 한다. 다만, 수출검역증명서 또는 전자식물검역증명서의 발급을 원하는 자는 제1항에 따라 검역신청서를 제출하여야 한다.⑥ 식물검역관은 검역신청서가 제출되면 품명, 수량, 학명, 수입국 등 검역신청서의 기재사항 누락 여부를 확인하여 접수하고 수출검역대상에서 제외되는 식물 등에 해당되는지 여부를 확인한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "「식물방역법 시행규칙」",
+            "line_text": "",
+            "target_law_name": "식물방역법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0003",
+            "reference_id": "law:식물방역법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "제35조제1항",
+            "line_text": "",
+            "target_law_name": "식물방역법 시행규칙",
+            "target_article_no": "제35조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법 시행규칙/제35조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0003",
+            "reference_id": "law:식물방역법시행규칙#JO0035"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "규칙",
+            "line_text": "",
+            "target_law_name": "식물방역법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0003",
+            "reference_id": "law:식물방역법시행규칙#DOC"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "별지 제26호서식",
+            "line_text": "",
+            "target_law_name": "식물방역법 시행규칙",
+            "target_article_no": "별지26",
+            "target_article_title": "",
+            "appendix_no": "26",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": false,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0003",
+            "reference_id": "law:식물방역법시행규칙#BJ0026"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제4항",
+            "link_text": "별지 제5호서식",
+            "line_text": "",
+            "target_law_name": "수출식물의 검역요령",
+            "target_article_no": "별지5",
+            "target_article_title": "재배지검역합격증명서",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211707",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0003",
+            "reference_id": "admrul:수출식물의검역요령#BJ0005"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제4항",
+            "link_text": "별지 제6호 서식",
+            "line_text": "",
+            "target_law_name": "수출식물의 검역요령",
+            "target_article_no": "별지6",
+            "target_article_title": "재배지별 종자생산내역서",
+            "appendix_no": "6",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211713",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0003",
+            "reference_id": "admrul:수출식물의검역요령#BJ0006"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제5항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "수출식물의 검역요령",
+            "target_article_no": "별지1",
+            "target_article_title": "휴대 수출식물 검역대장",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211671",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0003",
+            "reference_id": "admrul:수출식물의검역요령#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수출식물의검역요령#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "수출검역",
+        "chapter": "",
+        "content": "제4조(수출검역) ① 식물검역관은 수출자가 신청하는 일시 및 장소에서 가능한 수출검역을 실시하되, 수출자가 원하는 일시 및 장소에서 검역을 할 수 없을 경우에는 그 사유를 사전에 수출자에게 통지하여야 한다. 다만, 신선도 유지가 요구되지 않고 소량인 경우에는 농림축산검역본부 지역본부 또는 사무소에서 검역을 받도록 할 수 있다.② 식물검역관은 규칙 제2조제2항 및 제18조의 가공품목 또는 서류검역 대상물품에 대해서는 현장검역을 생략할 수 있다. 해당 가공품목 및 서류검역 대상물품에 대한 수출검역 방법은 다음 각 호와 같다.1. 식물검역관은 수출검역 신청된 물품이 농림축산검역본부고시 「가공품 품목의 예」에 해당된다고 판단되는 경우 가공공정서 등의 서류검역만으로 수출검역증명서 또는 전자식물검역증명서를 발급ㆍ전송할 수 있으며 이전에 검역한 건과 품목, 수출자가 동일한 경우에는 서류확인을 생략할 수 있다.2. 식물검역관은 별표3의 수출식물 중 서류검역 대상식물에 해당하는 품목이 이전에 검역한 건과 품목, 수출자가 동일한 경우 현장검역을 생략하고 수출검역증명서 또는 전자식물검역증명서를 발급ㆍ전송할 수 있다.3. 식물검역관은 수출하려는 가공품목 또는 서류검역 대상식물에서 상대국 우려병해충 검출이 의심되는 등 필요한 경우에는 현장검역과 실험실정밀검역을 실시할 수 있다.③ 수입국 식물검역기관과의 약정에 따라 이루어지는 수출검역은 그 약정한 내용을 따르며, 수입국이 특별히 요구하는 검역방법이 없는 경우에는 농림축산검역본부장이 정한 「식물별 현장검역 방법과 실험실 정밀검사의 방법」을 따른다.④ 실험실정밀검역 시료채취기준 보다 적은 양이 수출되는 경우, 실험실정밀검역에 필요한 최소량을 현장검역에서 채취할 수 있다.⑤ 차량 및 기계류에 대한 수출검역은 별표4의 수출검역요령에 따라 실시할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "규칙",
+            "line_text": "",
+            "target_law_name": "식물방역법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0004",
+            "reference_id": "law:식물방역법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "제2조제2항 및 제18조",
+            "line_text": "",
+            "target_law_name": "식물방역법 시행규칙",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법 시행규칙/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0004",
+            "reference_id": "law:식물방역법시행규칙#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "제2조제2항 및 제18조",
+            "line_text": "",
+            "target_law_name": "식물방역법 시행규칙",
+            "target_article_no": "제18조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법 시행규칙/제18조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0004",
+            "reference_id": "law:식물방역법시행규칙#JO0018"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "「가공품 품목의 예」",
+            "line_text": "",
+            "target_law_name": "가공품 품목의 예",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/가공품 품목의 예",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0004",
+            "reference_id": "admrul:가공품품목의예#DOC"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "별표3",
+            "line_text": "",
+            "target_law_name": "수출식물의 검역요령",
+            "target_article_no": "별표3",
+            "target_article_title": "수출식물 중 서류검역 대상식물(제4조제2항 관련)",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281090&bylNo=0003&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0004",
+            "reference_id": "admrul:수출식물의검역요령#BYL0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제5항",
+            "link_text": "별표4",
+            "line_text": "",
+            "target_law_name": "수출식물의 검역요령",
+            "target_article_no": "별표4",
+            "target_article_title": "차량 및 기계류에 대한 수출검역 요령(제4조제5항 관련)",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281090&bylNo=0004&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0004",
+            "reference_id": "admrul:수출식물의검역요령#BYL0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「식물별 현장검역 방법과 실험실 정밀검사의 방법」",
+            "line_text": "제4조(수출검역) ① 식물검역관은 수출자가 신청하는 일시 및 장소에서 가능한 수출검역을 실시하되, 수출자가 원하는 일시 및 장소에서 검역을 할 수 없을 경우에는 그 사유를 사전에 수출자에게 통지하여야 한다. 다만, 신선도 유지가 요구되지 않고 소량인 경우에는 농림축산검역본부 지역본부 또는 사무소에서 검역을 받도록 할 수 있다.② 식물검역관은 규칙 제2조제2항 및 제18조의 가공품목 또는 서류검역 대상물품에 대해서는 현장검역을 생략할 수 있다. 해당 가공품목 및 서류검역 대상물품에 대한 수출검역 방법은 다음 각 호와 같다.1. 식물검역관은 수출검역 신청된 물품이 농림축산검역본부고시 「가공품 품목의 예」에 해당된다고 판단되는 경우 가공공정서 등의 서류검역만으로 수출검역증명서 또는 전자식물검역증명서를 발급ㆍ전송할 수 있으며 이전에 검역한 건과 품목, 수출자가 동일한 경우에는 서류확인을 생략할 수 있다.2. 식물검역관은 별표3의 수출식물 중 서류검역 대상식물에 해당하는 품목이 이전에 검역한 건과 품목, 수출자가 동일한 경우 현장검역을 생략하고 수출검역증명서 또는 전자식물검역증명서를 발급ㆍ전송할 수 있다.3. 식물검역관은 수출하려는 가공품목 또는 서류검역 대상식물에서 상대국 우려병해충 검출이 의심되는 등 필요한 경우에는 현장검역과 실험실정밀검역을 실시할 수 있다.③ 수입국 식물검역기관과의 약정에 따라 이루어지는 수출검역은 그 약정한 내용을 따르며, 수입국이 특별히 요구하는 검역방법이 없는 경우에는 농림축산검역본부장이 정한 「식물별 현장검역 방법과 실험실 정밀검사의 방법」을 따른다.④ 실험실정밀검역 시료채취기준 보다 적은 양이 수출되는 경우, 실험실정밀검역에 필요한 최소량을 현장검역에서 채취할 수 있다.⑤ 차량 및 기계류에 대한 수출검역은 별표4의 수출검역요령에 따라 실시할 수 있다.",
+            "target_law_name": "식물별 현장검역 방법과 실험실 정밀검사의 방법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물별 현장검역 방법과 실험실 정밀검사의 방법",
+            "resolve_method": "text_parse",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0004",
+            "reference_id": "law:식물별현장검역방법과실험실정밀검사의방법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수출식물의검역요령#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "수출검역증명서 또는 전자식물검역증명서의 발급",
+        "chapter": "",
+        "content": "제5조(수출검역증명서 또는 전자식물검역증명서의 발급) ① 식물검역관은 검역결과 수입국의 검역요건에 적합하다고 판단되는 경우에는 수출자에게  현장에서 수출검역증명서를 발급하거나 또는 전자식물검역증명서를 전송한다.② 전자식물검역증명서의 전송을 요청한 건에 대해서는 수출검역증명서를 발급하지 않는 것을 원칙으로 한다. 다만, 전송과정에서 송신상의 문제가 발생하거나 상대국에서 요청할 경우에는 수출검역증명서를 발급할 수 있다. 또한, 전자식물검역증명서와 수출검역증명서가 함께 발급된 경우 전자증명서를유효한 식물검역증명서로 우선 인정한다.③ 휴대 또는 우편으로 수출되는 경우에는 규칙 별지 제17호서식의 합격증인이 날인된 별지 제12호서식의 식물검역합격증표를 발급할 수 있다. 다만, 다음 각 호의 하나에 해당하는 경우에는 수출식물검역증명서 또는 전자식물검역증명서를 발급ㆍ전송하여야 한다.1. 양국 간의 합의된 별도의 규정에 따라 수출되는 식물2. 상대국의 수입요건에 따라 수출검역증명서 발급이 필요한 경우3. 소독처리, 실험실 정밀검역결과 등 부기사항의 기재가 필요한 경우④ 수출검역증명서 또는 전자식물검역증명서에는 기재사항을 영문으로 기재하여 발급ㆍ전송한다. 다만, 학명의 경우 여러 가지 식물이 복합적으로 구성되는 등 학명의 기재가 적절하지 아니한 경우에는 학명 기재란에 \"Not applicable\" 또는 \"N/A\"라고 기재한다.⑤ 수출검역증명서는 검역신청서별로 2부를 발급하여 그 중 1부는 수출자에게 발급하고 나머지 1부는 별도 보관한다.⑥ 수출검역증명서는 현장검역 출장시 식물검역관이 현장에서 발급하는 것을 원칙으로 한다. 다만, 기재내용의 변동 등의 사유가 있을 경우에는 귀청하여 발급할 수 있다.⑦ 전자식물검역증명서는 검역 결과 수입국 검역요건에 적합한 경우, 현장검역관은 완결기안 및 전결처리하고 전송한다.⑧ 제3조제2항에 따라 수출자가 2부 이상의 수출검역증명서 발급을 요구하는 경우에는 타당성을 검토하여 수출검역증명서를 발급할 수 있다.⑨ 제3조제3항에 따라 수출검역증명서를 대리인에게 발급하고자 하는 경우에는 보관용 수출검역증명서의 여백에 수령자의 성명, 상호 및 전화번호를 기재하고 서명을 받은 후 발급한다.⑩ 수출자가 본인의 비용부담으로 수출검역증명서의 택배송부를 요청하는 경우에는 택배로 송부하고 보관용 수출검역증명서 여백에 \"택배(상호)\"라고 기재한다.⑪ 수입국이 특정사항을 수출검역증명서 또는 전자식물검역증명서에 부기하도록 요구하는 경우에는 다음 각 호에 따른다.1. 제10조에 따른 재배지검역 결과는 수출검역증명서 또는 전자식물검역증명서 부기란에 다음의 예와 같이 기재한다.예) 해당 식물은 재배지검역 결과 병해충 학명에 감염되지 않았음2. 제4조제3항에 따른 실험실정밀검역 결과는 수출검역증명서 또는 전자식물검역증명서 부기란에 다음의 예와 같이 기재한다.예) 해당 식물은 실험실정밀검역 결과 병해충 학명에 감염되지 않았음3. 수입국의 우려병해충이 검출되지 않은 수출품목을 여러 차례로 나누어 수출하려는 경우에는 기존의 재배지검역 또는 실험실정밀검역 결과를 부기할 수 있다.4. 재배지검역 또는 실험실정밀검역을 받지 아니한 경우에도 국내에 분포하지 아니한 병해충에 대하여는 해당 병해충이 없음을 부기할 수 있다. 다만, 해외채종 수출용종자는 실험실정밀검역 결과에 따라 해당 병해충이 없음을 부기한다.5. 그 밖에 수입국의 검역요건에 따른 부기사항은 해당 요건을 따른다.⑫ 수출자가 수출검역증명서 또는 전자식물검역증명서의 재발급ㆍ재전송을 요청하는 경우에는 다음 각 호와 같이 재발급ㆍ재전송한다. 이 경우 민원처리 기간은 2일 이내로 한다.1. 수출검역증명서 또는 전자식물검역증명서의 기재사항 변경, 오기 수정, 분실 등으로 재발급ㆍ재전송을 요청하는 경우에는 타당성을 검토하여 재발급ㆍ재전송하되 새로 발행하는 수출검역증명서 또는 전자식물검역증명서의 부기란에 \"이 증명서는 ○년○월○일자로 발급한 증명서(번호포함)를 대체함(This certificate is to supercede the certificate No.____ on mm/dd/yyyy)\"이라고 기재한다. 이 경우 이전에 발급한 수출검역증명서의 회수가 가능한 경우에는 회수하여 관련 검역신청서와 함께 보관한다.2. 수출검역증명서 또는 전자식물검역증명서를 재발급ㆍ재전송하는 경우에는 당초 검역한 식물검역관이 재발급ㆍ재전송함을 원칙으로 한다. 다만, 교육ㆍ출장 등으로 당초 검역한 식물검역관에 의한 발행이 불가능한 때에는 수출검역업무 담당주무 또는 동 주무의 직속상급자 명의로 발행할 수 있다.3. 특정사항에 대한 부기가 누락되어 재발급ㆍ재전송을 요청하는 경우에는 당초 검역결과의 내용 또는 제11항의 단서에 따른 사항을 부기할 수 있다.⑬ 식물검역관은 수출검역증명서의 위조 또는 도용(盜用)을 방지하기 위하여 필요하다고 인정되는 경우에는 수출검역증명서의 부기란에 화물의 컨테이너번호와 봉인번호를 기재하여 발급할 수 있다.⑭ 식물검역관은 「식물방역법」 제2조제3호의 식물검역대상물품에 해당되지 않으나 수입국이 수출검역증명서 또는 전자식물검역증명서를 요구하는 경우에는 현장검역을 생략하고 서류검역에 근거하여 수출검역증명서 또는 전자식물검역증명서를 발급ㆍ전송할 수 있다.⑮ 수입국이 수출검역증명서 또는 전자식물검역증명서와 함께 실험실정밀검역 결과서를 요구하는 경우, 별지 제18호서식의 실험실정밀검역 결과보고서 또는 수입국에서 요구하는 별도의 서식으로 실험실정밀검역 결과서를 발급한다.<16> 검역결과 대상식물을 불합격 처리한 때에는 발행한 수출검역증명서 2부를 검역신청서와 함께 보관하고 정보시스템의 합격수량은 불합격수량(반송)으로 수정하여 등록한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제3항",
+            "link_text": "규칙",
+            "line_text": "",
+            "target_law_name": "식물방역법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0005",
+            "reference_id": "law:식물방역법시행규칙#DOC"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제3항",
+            "link_text": "별지 제17호서식",
+            "line_text": "",
+            "target_law_name": "식물방역법 시행규칙",
+            "target_article_no": "별지17",
+            "target_article_title": "",
+            "appendix_no": "17",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": false,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0005",
+            "reference_id": "law:식물방역법시행규칙#BJ0017"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제3항",
+            "link_text": "별지 제12호서식",
+            "line_text": "",
+            "target_law_name": "수출식물의 검역요령",
+            "target_article_no": "별지12",
+            "target_article_title": "식물검역합격증표",
+            "appendix_no": "12",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211749",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0005",
+            "reference_id": "admrul:수출식물의검역요령#BJ0012"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제8항",
+            "link_text": "제3조제2항",
+            "line_text": "",
+            "target_law_name": "수출식물의 검역요령",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수출식물의 검역요령/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0005",
+            "reference_id": "admrul:수출식물의검역요령#JO0003"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제9항",
+            "link_text": "제3조제3항",
+            "line_text": "",
+            "target_law_name": "수출식물의 검역요령",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수출식물의 검역요령/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0005",
+            "reference_id": "admrul:수출식물의검역요령#JO0003"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제11항",
+            "link_text": "제10조",
+            "line_text": "",
+            "target_law_name": "수출식물의 검역요령",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수출식물의 검역요령/제10조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0005",
+            "reference_id": "admrul:수출식물의검역요령#JO0010"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제11항",
+            "link_text": "제4조제3항",
+            "line_text": "",
+            "target_law_name": "수출식물의 검역요령",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수출식물의 검역요령/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0005",
+            "reference_id": "admrul:수출식물의검역요령#JO0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제14항",
+            "link_text": "제2조제3호",
+            "line_text": "",
+            "target_law_name": "식물방역법",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0005",
+            "reference_id": "law:식물방역법#JO0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제15항",
+            "link_text": "별지 제18호서식",
+            "line_text": "",
+            "target_law_name": "수출식물의 검역요령",
+            "target_article_no": "별지18",
+            "target_article_title": "(실험실정밀검역 결과보고서) Laboratory Report",
+            "appendix_no": "18",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211785",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0005",
+            "reference_id": "admrul:수출식물의검역요령#BJ0018"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수출식물의검역요령#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "재수출검역증명서의 발급",
+        "chapter": "",
+        "content": "제6조(재수출검역증명서의 발급) 수입통관되지 아니하였거나(중계무역의 경우 또는 자유무역지역에 반입된 경우 등을 말한다) 수입통관된 후 재수출되는 식물 등이 검역결과 수입국의 요건에 부합되는 경우에는 다음 각 호와 같이 수출검역증명서 또는 전자식물검역증명서를 발급ㆍ전송한다.1. 병해충의 감염이나 오염에 노출되지 아니한 상태에서 저장, 분할, 조합 또는 재포장된 식물 등의 경우에는 생산국의 식물검역증명서 원본 또는 증명된 사본을 확인한 후 동 원본 또는 사본과 함께 규칙 별지 제27호서식의 재수출검역증명서 또는 전자식물검역증명서를 발급ㆍ전송한다. 이 경우 원산지(Place of origin) 란에는 생산국(Country of origin)을 표기한다.2. 병해충의 감염이나 오염에 노출되었거나 식물 본래의 형태나 특성이 변하도록 가공된 식물 등의 경우에는 수출검역증명서 또는 전자식물검역증명서를 발급ㆍ전송한다. 이 경우 원산지(Place of origin)란에는 생산국(Country of origin)을 표기한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "규칙",
+            "line_text": "",
+            "target_law_name": "식물방역법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0006",
+            "reference_id": "law:식물방역법시행규칙#DOC"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "별지 제27호서식",
+            "line_text": "",
+            "target_law_name": "식물방역법 시행규칙",
+            "target_article_no": "별지27",
+            "target_article_title": "",
+            "appendix_no": "27",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": false,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0006",
+            "reference_id": "law:식물방역법시행규칙#BJ0027"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수출식물의검역요령#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "인공 번식된 멸종위기종의 국제거래 협약（CITES） 대상식물의 증명 등",
+        "chapter": "",
+        "content": "제7조(인공 번식된 멸종위기종의 국제거래 협약（CITES） 대상식물의 증명 등) ① 「야생생물 보호 및 관리에 관한 법률 시행령」 제12조제2항에 따라 환경부장관이 고시(수출허가 면제대상 국제적멸종위기종 식물종)한 다음 각 호 어느 하나의 과ㆍ속 또는 종에 해당하는 식물에 대하여 수출검역증명서 또는 전자식물검역증명서를 발급ㆍ전송하고자 하는 때에는 해당 식물이 인공 번식된 식물인지 여부를 확인한 후 인공 번식되었다고 인정되는 경우 부기란에 \"인공 번식된 식물\"을 부기하여 발급ㆍ전송한다.1. 선인장과(Cactaceae)2. 소철과(Cycadaceae)3. 알로에속(Aloe spp.)4. 난초과(Orchidaceae) 중 온시디움속(Oncidium spp.) 및 팔레놉시스속(Phalaenopsis spp.)② 지역본부장 또는 사무소장은 제1항에 따라 전년도에 수출한 실적을 별지 제2호서식에 따라 작성하여 매년 1.15일까지 농림축산검역본부장에게 보고하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "「야생생물 보호 및 관리에 관한 법률 시행령」",
+            "line_text": "",
+            "target_law_name": "야생생물 보호 및 관리에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/야생생물 보호 및 관리에 관한 법률 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0007",
+            "reference_id": "law:야생생물보호및관리에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "제12조제2항",
+            "line_text": "",
+            "target_law_name": "야생생물 보호 및 관리에 관한 법률 시행령",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/야생생물 보호 및 관리에 관한 법률 시행령/제12조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0007",
+            "reference_id": "law:야생생물보호및관리에관한법률시행령#JO0012"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "수출식물의 검역요령",
+            "target_article_no": "별지2",
+            "target_article_title": "EXPORTS/RE-EXPORTS",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211689",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0007",
+            "reference_id": "admrul:수출식물의검역요령#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수출식물의검역요령#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "재배시설의 등록 및 관리",
+        "chapter": "",
+        "content": "제8조(재배시설의 등록 및 관리) ① 수입국이 농림축산검역본부에 재배시설 등록을 요구하는 경우 재배시설 대표자는 별지 제14호서식의 재배시설등록(변경) 신청서와 별지 제15호서식의 개인정보 이용 동의서를 관할 지역본부장 또는 사무소장에게 수출 20일 전까지 제출하여야 한다.② 재배시설 등록 신청을 받은 지역본부장 또는 사무소장은 10일 이내에 현지 확인을 실시한 후 상대국 요건에 적합하다고 판단되는 경우, 해당 재배지에 대해 지정번호를 부여하고 별지 제16호서식의 재배시설 등록증을 재배시설 대표자에게 교부 후 별지 제17호서식의 재배시설 등록대장에 등록하여야 한다.③ 재배시설 확인 결과 상대국 수입요건에 적합하지 않은 경우 관할 지역본부장 또는 사무소장은 해당 재배시설 대표자에게 보완조치 후 재확인 받도록 조치하여야 한다.④ 재배시설 대표자는 재배시설 등록증 내용에 변동사항이 있을 경우 별지 제14호서식의 재배시설등록(변경) 신청서를 작성하여 관할 지역본부장 또는 사무소장에게 제출하여야 한다.⑤ 지역본부장 또는 사무소장은 수입국의 검역요건에서 요구하는 경우, 수입국의 검역요건에 따라 재배시설 및 재배시설 내의 상대국 우려 병해충 관리 여부를 확인하여야 한다.⑥ 재배시설 등록 및 관리에 관해 수입국의 검역요건이 있는 경우 수입국의 검역요건에 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "별지 제14호서식",
+            "line_text": "",
+            "target_law_name": "수출식물의 검역요령",
+            "target_article_no": "별지14",
+            "target_article_title": "재배시설 등록(변경) 신청서",
+            "appendix_no": "14",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211761",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0008",
+            "reference_id": "admrul:수출식물의검역요령#BJ0014"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "별지 제15호서식",
+            "line_text": "",
+            "target_law_name": "수출식물의 검역요령",
+            "target_article_no": "별지15",
+            "target_article_title": "수출식물 재배시설 등록을 위한 개인정보 수집 및 이용ㆍ제공 동의서",
+            "appendix_no": "15",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211767",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0008",
+            "reference_id": "admrul:수출식물의검역요령#BJ0015"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제2항",
+            "link_text": "별지 제16호서식",
+            "line_text": "",
+            "target_law_name": "수출식물의 검역요령",
+            "target_article_no": "별지16",
+            "target_article_title": "재배시설 등록증",
+            "appendix_no": "16",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211773",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0008",
+            "reference_id": "admrul:수출식물의검역요령#BJ0016"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제2항",
+            "link_text": "별지 제17호서식",
+            "line_text": "",
+            "target_law_name": "수출식물의 검역요령",
+            "target_article_no": "별지17",
+            "target_article_title": "재배시설 등록대장",
+            "appendix_no": "17",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211779",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0008",
+            "reference_id": "admrul:수출식물의검역요령#BJ0017"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제4항",
+            "link_text": "별지 제14호서식",
+            "line_text": "",
+            "target_law_name": "수출식물의 검역요령",
+            "target_article_no": "별지14",
+            "target_article_title": "재배시설 등록(변경) 신청서",
+            "appendix_no": "14",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211761",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0008",
+            "reference_id": "admrul:수출식물의검역요령#BJ0014"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수출식물의검역요령#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "재배시설의 등록취소",
+        "chapter": "",
+        "content": "제9조(재배시설의 등록취소) ① 관할 지역본부장 또는 사무소장은 재배시설을 등록한 자가 다음 각 호의 어느 하나에 해당하는 경우에는 그 등록을 취소할 수 있다.1. 재배시설이 장기간 방치되거나 타 용도로 사용되는 경우2. 재배시설 대표자로부터 재배시설 지정취소 요청이 있는 경우② 관할 지역본부장 또는 사무소장은 등록을 취소한 경우 재배시설 대표자에게 취소 사실과 그 사유를 서면으로 통보하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수출식물의검역요령#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "재배지검역",
+        "chapter": "",
+        "content": "제10조(재배지검역) ① 수출 상대국의 검역요건에 따라 생육기간 중에 수입국의 우려병해충의 발생유무를 검역하는 재배지검역에 대한 신청, 검역방법, 합격 및 관리기준은 별표1과 같다.② 수출 상대국에서 특별한 검역요건을 요구하지 않는 품목의 경우에도 농림축산검역본부장의 검토결과 검역적 안전성과 검사의 효율성이 인정되는 경우 별표 1의 요령에 따라 재배지검역을 실시할 수 있다.③ 격리재배검역 중인 식물(또는 그 수확물)을 수출하고자 하는 경우에는 농림축산검역본부 고시「격리재배검사요령」에 따라 재배지검역을 병행하여 실시할 수 있다.④ 수출자는 수출 상대국의 검역요건에 따른 재배지검역 대상에 해당하지 않는 병해충에 대하여 기타 다른 목적으로 재배지검역을 신청할 수 없다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "별표1",
+            "line_text": "",
+            "target_law_name": "수출식물의 검역요령",
+            "target_article_no": "별표1",
+            "target_article_title": "재배지검역 요령(제10조제1항 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281090&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0010",
+            "reference_id": "admrul:수출식물의검역요령#BYL0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제2항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "수출식물의 검역요령",
+            "target_article_no": "별표1",
+            "target_article_title": "재배지검역 요령(제10조제1항 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281090&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0010",
+            "reference_id": "admrul:수출식물의검역요령#BYL0001"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제3항",
+            "link_text": "「격리재배검사요령」",
+            "line_text": "",
+            "target_law_name": "격리재배검사요령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/격리재배검사요령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0010",
+            "reference_id": "admrul:격리재배검사요령#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수출식물의검역요령#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "수출용 종자에 대한 사전검역",
+        "chapter": "",
+        "content": "제11조(수출용 종자에 대한 사전검역) 수출자가 사전에 상대국 우려병해충에 대한 검역을 받아 종자를 여러 차례로 나누어 수출하기 위한 수출용 종자에 대한 사전검역 요령은 별표2와 같다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "별표2",
+            "line_text": "",
+            "target_law_name": "수출식물의 검역요령",
+            "target_article_no": "별표2",
+            "target_article_title": "수출용 종자에 대한 사전검역 요령(제11조 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281090&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0011",
+            "reference_id": "admrul:수출식물의검역요령#BYL0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수출식물의검역요령#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "지방자치단체 식물검역관의 수출검역",
+        "chapter": "",
+        "content": "제12조(지방자치단체 식물검역관의 수출검역) 규칙 제35조제1항 단서에 따라 지방자치단체의 장에게 수출검역 신청을 할 수 있는 식물 및 물품은 다음 각 호의 어느 하나와 같다.1. 수입국이 수출검역증명서에 특정사항을 부기하도록 요구하는 식물과 실험실 정밀검역을 실시하여야 하는 식물을 제외한 모든 수출 식물2. 제5조제12항에 따라 현장검역을 생략하고 서류검역에 근거하여 수출검역증명서를 발급하는 물품",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조",
+            "link_text": "규칙",
+            "line_text": "",
+            "target_law_name": "식물방역법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0012",
+            "reference_id": "law:식물방역법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조",
+            "link_text": "제35조제1항",
+            "line_text": "",
+            "target_law_name": "식물방역법 시행규칙",
+            "target_article_no": "제35조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법 시행규칙/제35조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0012",
+            "reference_id": "law:식물방역법시행규칙#JO0035"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제12조",
+            "source_clause": "제12조",
+            "link_text": "제5조제12항",
+            "line_text": "",
+            "target_law_name": "수출식물의 검역요령",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/수출식물의 검역요령/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0012",
+            "reference_id": "admrul:수출식물의검역요령#JO0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수출식물의검역요령#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "지방자치단체 식물검역관의 검역서류 송부",
+        "chapter": "",
+        "content": "제13조(지방자치단체 식물검역관의 검역서류 송부) 지방자치단체 소속 식물검역관은 월단위로 수출검역 관련 서류의 사본을 익월 5일까지 관할 지역의 지역본부장 또는 사무소장에게 송부하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:수출식물의검역요령#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "근무시간 외 및 공휴일 수출식물검역",
+        "chapter": "",
+        "content": "제14조(근무시간 외 및 공휴일 수출식물검역) ① 식물방역법 제28조 및 규칙 제36조에 따른 수출식물의 검역은 근무시간 외(이하 \"시간 외\"라 한다) 또는 토요일 및 공휴일(이하 \"공휴일\"이라 한다)에도 실시할 수 있다. 이 경우 「국가공무원 복무규정」제11조를 준용한다.② 시간 외 또는 공휴일에 식물검역을 받고자 하는 자는 근무시간 내에 지역본부장 또는 사무소장에게 검역신청을 하여야 한다.③ 지역본부장 또는 사무소장은 접수 즉시 신청내용을 검토하여 검역실시의 여부를 신청인에게 통지하고, 시간 외 또는 공휴일의 검역처리가 필요하다고 인정되는 경우에는 근무자를 배치하여야 한다.④ 공휴일에 상시적으로 수출검역이 이루어지는 지역본부 또는 사무소에서는 월단위로 근무자를 지정하여 운영할 수 있다.⑤ 시간 외 식물검역은 일출 시점부터 일몰 시점까지만 실시함을 원칙으로 한다. 다만, 검역장소가 조명 및 방충시설이 갖추어진 창고 등으로 검역적 안전성이 확보되고 수출검역에 지장이 없는 경우에는 예외로 검역을 실시할 수 있다.⑥ 공휴일의 식물검역은 수출 화물의 선적지 항구 또는 공항에서 실시함을 원칙으로 한다. 다만, 지역본부장 또는 사무소장이 검역처리의 필요성을 인정하는 경우에는 예외로 생산지에서 수출검역을 실시할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제1항",
+            "link_text": "제28조",
+            "line_text": "",
+            "target_law_name": "식물방역법",
+            "target_article_no": "제28조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법/제28조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0014",
+            "reference_id": "law:식물방역법#JO0028"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제1항",
+            "link_text": "규칙",
+            "line_text": "",
+            "target_law_name": "식물방역법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법 시행규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0014",
+            "reference_id": "law:식물방역법시행규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제1항",
+            "link_text": "제36조",
+            "line_text": "",
+            "target_law_name": "식물방역법 시행규칙",
+            "target_article_no": "제36조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/식물방역법 시행규칙/제36조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0014",
+            "reference_id": "law:식물방역법시행규칙#JO0036"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제1항",
+            "link_text": "「국가공무원 복무규정」",
+            "line_text": "",
+            "target_law_name": "국가공무원 복무규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가공무원 복무규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0014",
+            "reference_id": "law:국가공무원복무규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제1항",
+            "link_text": "제11조",
+            "line_text": "",
+            "target_law_name": "국가공무원 복무규정",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가공무원 복무규정/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0014",
+            "reference_id": "law:국가공무원복무규정#JO0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수출식물의검역요령#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제15조(재검토기한) 농림축산검역본부장은 이 고시에 대하여 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 2026년 1월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제15조",
+            "source_clause": "제15조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:수출식물의검역요령#JO0015",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:수출식물의검역요령#JO0015"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20130323",
+      "promulgation_no": "2013-80",
+      "content": "부칙 <제2013-80호,2013. 3. 23.>제1조(시행일) 이 고시는 2013년 3월 23일부터 시행한다.제2조(고시의폐지) 이 고시의 시행과 동시에 기존의 농림수산검역검사본부고시 제2012-89(2012. 3. 26.)호는 폐지한다.제3조(재검토기한) 이 고시는 2016년 3월 22일까지 \"「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제248호)\" 제7조제3항 제2호에 따라 재검토하여야 한다."
+    },
+    {
+      "promulgation_date": "20151118",
+      "promulgation_no": "2015-34",
+      "content": "부칙 <제2015-34호,2015. 11. 18.>제1조(시행일) 이 고시는 2015년 11월 18일부터 시행한다.제2조(재검토기한) 농림축산검역본부장은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2016년 1월 1일 기준으로 매3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다."
+    },
+    {
+      "promulgation_date": "20160921",
+      "promulgation_no": "2016-92",
+      "content": "부칙 <제2016-92호,2016. 9. 21.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.제2조(재검토기한) 농림축산식품부장관은 이 고시에 대하여 2017년 1월 1일을 기준으로 매 3년이 되는 시점(매 3년째의12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다."
+    },
+    {
+      "promulgation_date": "20171114",
+      "promulgation_no": "2017-44",
+      "content": "부칙 <제2017-44호,2017. 11. 14.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.제2조(재검토기한) 농림축산검역본부장은 이 고시에 대하여 2018년 1월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다."
+    },
+    {
+      "promulgation_date": "20181119",
+      "promulgation_no": "2018-31",
+      "content": "부칙 <제2018-31호,2018. 11. 19.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20191024",
+      "promulgation_no": "2019-71",
+      "content": "부칙 <제2019-71호,2019. 10. 24.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20210326",
+      "promulgation_no": "2021-19",
+      "content": "부칙 <제2021-19호, 2021. 3. 26.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20211221",
+      "promulgation_no": "2021-65",
+      "content": "부칙 <제2021-65호, 2021. 12. 21.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20230208",
+      "promulgation_no": "2023-4",
+      "content": "부칙 <제2023-4호, 2023. 2. 8.>이 고시는 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20260623",
+      "promulgation_no": "2026-24",
+      "content": "부칙 <제2026-24호, 2026. 6. 23.>이 고시는 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "재배지검역 요령(제10조제1항 관련)",
+      "enforcement_date": "",
+      "content": "[별표 1]\n재배지검역 요령(제10조제1항 관련)\n1. 재배지검역 신청\n가. 재배지검역을 받고자 하는 자(수출자, 선과장의 소유자 또는 관리인 등)는 제10조에 따라 특정 유해병해충이 없다는 사실을 수출검역증명서에 부기하기를 희망하는 경우 별지 제3호서식의 재배지검역 신청서를 재배지 관할 지역본부장 또는 사무소장에게 제출하여야 한다.\n나. 재배지검역 신청서를 제출받은 재배지 관할 지역본부장 또는 사무소장은 제2호가목에 따라 적정시기에 재배지검역을 실시하여야 한다. 다만, 재배지검역 대상 병해충의 검역시기 및 실험실정밀검역방법 등을 검토한 결과 재배지검역을 받고자 하는 자가 희망하는 일자에 재배지검역을 받을 수 없는 경우에는 그 사유와 재배지검역이 가능한 예상 일자 등을 서면으로 통지하여야 한다.\n다. 특정병해충에 대한 재배지검역 시기나 횟수 등이 수입국의 검역요건에 명시되어 있는 경우에는 해당 요건에 따라야 한다.\n라. 가목에 따른 재배지검역을 신청하는 자는 검역단위(품목별ㆍ품종별ㆍ재배자별ㆍ재배지별 등)로 구분하여 관리하여야 하고, 수입국이 재배지 관리에 관하여 특정한 요구를 하는 경우에는 그 요구에 따라 관리하여야 한다.\n2. 재배지검역 방법\n가. 재배지검역은 검역단위(품목별ㆍ품종별ㆍ재배자별ㆍ재배지별 등)별로 구분하여 현장검역 및 실험실 정밀검역을 실시한다.\n1) 현장검역\n① 검역시기 및 검역횟수: 개화전ㆍ후 또는 해당 병해충의 발현이 높다고 판단되는 시기에 1회 실시하며, 특정병해충이 2종 이상인 경우로서 그 발현시기가 다른 경우에는 발현시기별로 각 1회 실시한다. 다만, 수입국의 검역요건에 다음의 예와 같이 검역시기 및 횟수 등이 명시되어 있는 경우에는 그 요건에 따라 검역한다.\n예) \"수출전 3개월 동안에 최소 월 1회 이상의 공식적인 재배지검역이 실시되어야 하고 국화 흰녹병이 없어야 함\"\n② 검역방법: 수입국이 우려하는 병해충의 감염여부를 육안으로 검역하고 감염혐의가 있거나 실험실정밀검역이 필요한 경우 시료를 채취한다.\n2) 실험실정밀검역\n① 실험실정밀검역의 방법 및 절차는 농림축산검역본부장이 정한「식물별 서류ㆍ현장검역방법 및 실험실정밀검역방법」에 따른다.\n나. 재배지검역 결과 수입국의 우려병해충이 발견되었으나 수출자가 이병주(병든 식물) 제거 또는 병해충 방제 등을 조건으로 재검역을 요청하는 경우에는 조치 이후 1회에 한하여 재검역을 실시할 수 있다.\n다. 가목 및 나목에 따른 재배지검역 결과의 기록은 별지 제4호 서식에 따른다.\n3. 재배지검역 결과처리\n가. 식물검역관은 제2호에 따라 검역한 결과 수입국의 요구에 적합한 경우 별지 제5호 서식의 재배지검역합격증명서를 재배지검역신청인에게 발급한다. 동일한 재배지에 신청인이 추가된 경우, 재배지검역을 생략하고 기존의 재배지검역합격증명서를 추가 발급할 수 있다.\n나. 식물검역관은 재배지검역에 불합격된 품목에 대해서는 검역종료 후 2일 이내에 그 사유를 재배지검역신청인에게 서면ㆍ전화 또는 구두로 통지하여야 한다.\n4. 재배지검역에 합격된 종자의 관리\n가. 수출자는 재배지검역에 합격된 식물에서 종자를 수확한 경우에는 지체없이 별지 제6호서식의 재배지별종자생산내역서를 재배지 관할 지역본부장 또는 사무소장에게 제출하여야 한다.\n나. 재배지를 관할하는 지역본부장 또는 사무소장은 나목의 재배지별종자생산내역서가 제출된 경우 해당 종자에 대하여 포장(包裝)단위별로 규칙 별지 제17호서식의 합격증인을 날인하고 수출자로 하여금 병해충에 재감염이 되지 않도록 안전한 장소에서 관리하도록 한다.\n다. 수출자는 재배지검역에 합격된 종자의 관리자를 지정하여야 한다. 관리자는 재배지검역에 합격된 종자의 보관장소에 별지 제7호 서식의 재배지검역 합격종자 출고대장을 비치하고 수출 시 식물검역관의 확인을 받아야 한다. 다만, 수출검역증명서에 부기사항 없이 수출되거나 국내 판매되는 경우에는 관리자가 별지 제7호 서식에 출고 내역을 기록하여야 한다.\n라. 재배지검역에 합격한 종자를 타 지역으로 이동하고자 하는 경우에는 수출자가 재배지의 관할 지역본부장 또는 사무소장에게 종자의 이동을 요청하여야 하며, 요청을 받은 재배지 관할 지역본부장 또는 사무소장은 별지 제4호 서식의 재배지검역결과서, 별지 제5호 서식의 재배지검역합격증명서 및 별지 제6호 서식의 재배지별종자생산내역서를 첨부하여 이동한 지역의 지역본부장 또는 사무소장에게 이관한다.",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281090&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211641",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211633",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211641",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수출식물의검역요령#BYL0001",
+      "filename": "별표1_재배지검역 요령(제10조제1항 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "수출용 종자에 대한 사전검역 요령(제11조 관련)",
+      "enforcement_date": "",
+      "content": "[별표 2]\n수출용 종자에 대한 사전검역 요령(제11조 관련)\n1. 사전검역 신청\n가. 수출예정종자에 대하여 사전에 검역을 받으려는 자는 당해 종자의 보관장소를 관할하는 지역본부장 또는 사무소장에게 별지 제8호 서식에 의한 수출용 종자 사전검역신청서를 제출하여야 한다.\n2. 사전검역\n가. 수출용 종자 사전검역신청서를 받은 지역본부장 또는 사무소장은 다음 사항에 대한 적합여부를 확인하고 수입국의 식물검역요건에 적합한지의 여부를 검역한다.\n1) 보관장소가 당해 수출예정종자를 별도로 보관할 수 있는 시설인지 여부\n2) 신청서에 기재된 더미 번호별로 구분적재 되어 있는지 여부\n3. 사전검역 결과조치\n가. 지역본부장 또는 사무소장은 사전 검역결과 수입국의 식물검역요건에 적합하고 보관관리에도 문제가 없다고 판단되는 경우에는 별지 제9호 서식에 의한 수출용 종자 사전검역 합격증명서를 신청자에게 교부한다.\n나. 지역본부장 또는 사무소장은 검역결과 수입국의 식물검역요건에 적합하지 아니하거나 보관관리에 문제가 있어 불합격한 때에는 검역종료 2일 이내에 신청인에게 그 사유를 통지한다.\n4. 사전검역 종자의 관리 및 점검\n가. 사전검역 합격증명서를 받은 자는 사전검역 합격된 종자의 관리자를 지정하여야 한다.\n나. 가목에 따라 지정된 관리자는 당해 종자가 수출될 때까지 지정된 보관장소에 더미 번호별로 구분 적재하여 보관하여야 하고, 더미별로 별지 제10호 서식에 의한 표찰을 부착하여 관리하여야 하며, 별지 제11호 서식에 의한 사전검역에 합격된 수출용 종자 관리대장을 비치하여야 한다.\n다. 지역본부장 또는 사무소장은 사전검역에 합격된 수출용 종자의 보관ㆍ관리 상황을 분기별로 점검하여야 한다.\n라. 제3호가목의 규정에도 불구하고 다목의 규정에 의한 점검결과 다음 각호의 1에 해당하는 때에는 수출되지 않고 남아 있는 종자에 대한 사전검역 합격을 취소한다.\n1) 수입국의 검역요건에 부적합한 경우\n2) 나목의 규정에 의한 보관ㆍ관리를 이행하지 아니한 경우\n5. 사전검역 합격증명서의 유효기간\n사전검역 합격증명서의 유효기간은 발행일부터 12개월로 한다.\n6. 사전검역 종자의 수출검역\n가. 사전검역 합격증명을 받은 종자를 수출하고자 하는 자는 규칙 별지 제25호서식의 수출식물 검역신청서에 ‘수출용 종자 사전검역 합격증명서’ 및 ‘사전검역에 합격된 수출용 종자 관리대장’ 사본을 첨부하여 보관장소를 관할하는 지역본부장 또는 사무소장에게 검역신청하여야 한다.\n나. 가목의 수출검역 신청이 있는 경우 사전검역을 근거로 수출검역은 생략하고 수출검역합격증명서를 교부할 수 있다.\n7. 사전검역에 불합격된 종자의 재검역\n사전검역에 불합격하였더라도 소독을 하거나 품목별, 품종별, 생산자별 또는 생산지별로 선별한 후 규칙 별지 제25호서식의 수출식물 검역신청서를 제출한 경우에는 검역신청된 품목 및 수량에 대하여 재검역을 실시하고 그 결과에 따라 처리할 수 있다.",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281090&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211649",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211643",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211649",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수출식물의검역요령#BYL0002",
+      "filename": "별표2_수출용 종자에 대한 사전검역 요령(제11조 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "수출식물 중 서류검역 대상식물(제4조제2항 관련)",
+      "enforcement_date": "",
+      "content": "[별표 3]\n수출식물 중 서류검역 대상식물─────┬────┬─────────────────────────────\n구 분   │상 태   │대상 식물\n━━━━━┿━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n곡  류  │분말    │밀가루, 엿기름가루, 찹쌀가루, 백미가루, 콩가루, 녹두가\n(23품   │(15)    │루, 감자전분, 고구마전분, 메밀가루, 옥수수전분, 고구마\n목)     │        │분말, 감자분말, 귀리분말, 보리가루, 메주가루\n├────┼─────────────────────────────\n│냉동(8) │냉동강낭콩, 냉동리마콩, 냉동완두, 냉동콩, 냉동팥, 냉동\n│        │얌, 냉동카사바, 냉동스위트콘\n─────┼────┼─────────────────────────────\n과실류  │분말    │도토리가루, 아사이베리분말, 산딸기분말, 석류분말, 참다\n(94품   │(12)    │래분말, 크랜베리분말, 사과분말, 비타민나무열매분말, 마\n목)     │        │퀴베리분말, 아로니아분말, 바나나분말, 노니분말\n├────┼─────────────────────────────\n│건조    │건살구, 건양벚, 건블루베리, 건자두, 건포도, 건크랜베\n│(22)    │리, 건사차인치, 건마카다미아넛, 건브라질넛, 건캔들넛,\n│        │건구아바, 건두리안, 건망고, 건무화과, 건바나나, 건참다\n│        │래, 건코코넛, 건파인애플, 건파파야, 건대추, 건사과, 건\n│        │대추야자\n├────┼─────────────────────────────\n│냉동    │냉동감귤, 냉동자몽, 냉동라임, 냉동레몬, 냉동유자, 냉동\n│(51)    │포멜로, 냉동감, 냉동곶감, 냉동대추, 냉동무화과, 냉동복\n│        │숭아, 냉동살구, 냉동석류, 냉동앵두, 냉동양벚, 냉동양앵\n│        │두, 냉동오디, 냉동블루베리, 냉동자두, 냉동포도, 냉동크\n│        │랜베리, 냉동구즈베리, 냉동허니베리, 냉동밤, 냉동은행,\n│        │냉동잣, 냉동가시여지, 냉동구아바, 냉동두리안, 냉동람부\n│        │탄, 냉동롱간, 냉동망고, 냉동망고스틴, 냉동바나나, 냉동\n│        │사포딜라, 냉동슈가애플, 냉동스타애플, 냉동아보카도, 냉\n│        │동참다래, 냉동여지, 냉동체리모야, 냉동커스타드애플, 냉\n│        │동코코넛, 냉동타마린드, 냉동잭후르츠, 냉동파인애플, 냉\n│        │동파파야, 냉동패션후르트, 냉동레드커런트, 냉동노니, 냉\n│        │동용과\n├────┼─────────────────────────────\n│기타(9) │개암, 은행, 잣, 피칸, 호두(탈각), 깐밤, 피스타치오(탈\n│        │각), 혼합견과, 피스타치오(미탈각),\n─────┼────┼─────────────────────────────\n채소류  │분말    │고춧가루, 쑥가루, 비트분말, 토마토분말, 치커리분말, 파\n(96품   │(12)    │슬리분말, 파프리카분말, 시금치분말, 곤약분말, 마늘분\n목)     │        │말, 양파분말, 딸기분말\n├────┼─────────────────────────────\n│건조    │건가지, 건딸기, 건박, 건호박, 건구약(건곤약), 건대파,\n│(21)    │건브로콜리, 건시금치, 건양배추, 건청경채, 건취나물, 건\n│        │당근, 건도라지, 건마늘, 무말랭이, 건양파, 건우엉, 건표\n│        │고버섯후레이크, 고추플레이크, 건고추잎, 건미역취나물\n├────┼─────────────────────────────\n│냉동    │냉동갈랑갈, 냉동숙주나물, 냉동딸기, 냉동메론, 냉동수\n│(55)    │박, 냉동여주, 냉동오크라, 냉동풋콩, 냉동호박, 냉동풋옥\n│        │수수, 냉동고사리, 냉동근대, 냉동꽃양배추, 냉동냉이, 냉\n│        │동대파, 냉동들깨잎, 냉동마늘종, 냉동배추, 냉동브로콜\n│        │리, 냉동부추, 냉동셀러리, 냉동시금치, 냉동쑥, 냉동아스\n│        │파라거스, 냉동아욱, 냉동양배추, 냉동죽순, 냉동쪽파, 냉\n│        │동케일, 냉동콜라비, 냉동무시래기, 냉동유채, 냉동루바\n│        │브, 냉동청경채, 냉동고추냉이, 냉동당근, 냉동더덕, 냉동\n│        │마, 냉동마늘, 냉동무, 냉동생강, 냉동양고추냉이. 냉동양\n│        │파, 냉동연근, 냉동우엉, 냉동토란, 냉동토란줄기, 냉동느\n│        │타리버섯, 냉동송이버섯, 냉동양송이버섯, 냉동표고버섯,\n│        │냉동그물버섯, 냉동능이버섯, 냉동버섯기타, 냉동삶은옥수\n│        │수\n├────┼─────────────────────────────\n│기타(8) │콩나물, 숙주나물, 깐더덕, 깐도라지, 깐마늘, 마늘종(꽃\n│        │봉오리 제거), 깐양파, 깐우엉,\n─────┼────┼─────────────────────────────\n화훼류  │건조(9) │갈대건화, 국화건화, 라벤더건화, 백합건화, 별꽃건화, 아\n(9품목) │        │고니스건화, 연꽃건화, 쟈스민건화, 장미건화\n─────┼────┼─────────────────────────────\n특작류  │분말    │고추냉이가루, 알로에분말, 건박하잎분말, 강황가루, 계피\n(58품   │(22)    │분말, 바닐라분말, 인삼가루, 참깨가루, 카레분말, 커민분\n목)     │        │말, 코코아분말, 울금분말, 시서스분말, 차전자피분말, 모\n│        │링가잎분말, 마카분말, 들깨가루, 생강분말, 타이거넛분\n│        │말, 헤나파우더, 스테비아가루(분말상태로 가공된 것), 후\n│        │추분말\n├────┼─────────────────────────────\n│건조    │해바라기씨, 호박씨, 건고추냉이, 건꽃박하, 건로즈마리,\n│(33)    │바닐라두, 건바질잎, 건월계수잎, 커민, 건파슬리, 호프,\n│        │건고수풀, 카카오배유, 건로즈힙, 건페퍼민트, 건타임, 건\n│        │캐모마일, 건샤프란, 타이거넛, 은행엽, 깐마인, 면설, 우\n│        │롱차, 깐호박씨, 홍삼, 건겨자, 건한약재(건조후 분쇄되어\n│        │밀봉포장), 엽연초(자체훈증소독후 비닐포장 및 골판지상\n│        │자로 이중포장), 녹차, 홍차, 산초, 단삼, 둥글레\n├────┼─────────────────────────────\n│냉동(3) │냉동사탕수수, 냉동파슬리, 냉동바질\n─────┼────┼─────────────────────────────\n사료류  │분말    │땅콩박, 옥수수전분박, 올리브박, 완두전분박, 참깨박, 코\n(10품   │(10)    │프라박, 유채박, 아마박, 맥주보리박, 발효대두박,\n목)     │        │\n─────┼────┼─────────────────────────────\n기타류  │분말(2) │송화가루, 마가루\n(15품   ├────┼─────────────────────────────\n목)     │건조(4) │가공용복숭아씨(복숭아핵), 수숫대, 건살구핵, 톱발펠렛\n├────┼─────────────────────────────\n│기타(9) │건조김, 건미역, 건다시마, 유자청, 염장다시마, 마늘오\n│        │일, 원사, 솜, 베니어합판\n─────┴────┴─────────────────────────────\n(제4조제2항 관련)",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281090&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211657",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211651",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211657",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수출식물의검역요령#BYL0003",
+      "filename": "별표3_수출식물 중 서류검역 대상식물(제4조제2항 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별표",
+      "title": "차량 및 기계류에 대한 수출검역 요령(제4조제5항 관련)",
+      "enforcement_date": "",
+      "content": "[별표 4]\n차량 및 기계류에 대한 수출검역 요령(제4조제5항 관련)\n1. 적용대상 및 목적\n가. 이 요령은 수입국이 수출검역증명서 또는 전자식물검역증명서를 발급ㆍ전송을 요구하는 차량 및 기계류(이하 \"차량ㆍ기계류\"라 한다.)에 적용한다.\n나. 이 요령은 식물방역법 제28조의2에 따라 차량ㆍ기계류의 수출검역 절차를 정하는데 목적이 있다.\n2. 세척처리\n가. 수입국에서 차량ㆍ기계류에 세척을 요구하는 경우, 수출자는 차량ㆍ기계류의 내부 및 외부에 흙, 병해충, 잡초종자, 식물성 잔재물 등이 없도록 세척하여야 한다.\n나. 수출자는 세척을 완료한 이후, 별지 제13호서식의 세척증명서를 발급할 수 있다.\n다. 세척처리 이후, 수출자는 차량ㆍ기계류가 수출되기 이전까지 흙, 병해충, 잡초종자, 식물성 잔재물 등에 재오염되지 않도록 조치하여야 한다.\n3. 소독처리\n가. 수입국에서 차량ㆍ기계류에 소독처리를 요구하는 경우, 수출자는 농림축산검역본부고시 「수출입식물검역소독처리규정」 제11조에 따라 소독을 실시하여야 한다.\n나. 소독방법은 수입국이 요구하는 소독처리기준을 우선 적용하고, 수입국이 특정한 소독처리기준을 요구하지 않은 경우에는 「수출입식물검역소독처리규정」 소독처리기준(T500-5.가.)을 적용한다.\n다. 소독처리 이후, 수출자는 차량ㆍ기계류가 수출되기 이전까지 병해충에 재감염되지 않도록 조치하여야 한다.\n4. 수출검역 신청\n가. 수출자는 수출검역증명서 또는 전자식물검역증명서를 발급ㆍ전송받기 위해서 제3조에 따라 관할 지역본부 및 사무소에 수출검역을 신청하여야 한다.\n나. 수출검역증명서 또는 전자식물검역증명서에 소독처리사항을 부기하기 위해서는 수출자가 농림축산검역본부고시 「수출입식물검역소독처리규정」 별지 제3호서식의 훈증소독작업결과서를 검역신청서에 첨부하여야 한다.\n다. 수출검역증명서 또는 전자식물검역증명서에 세척사항을 부기하기 위해서는 수출자가 별지 제13호서식의 세척증명서를 검역신청서에 첨부하여야 한다.\n5. 수출검역\n가. 식물검역관은 검역신청서 및 첨부서류 등을 검토하고 제4조에 따라 수출검역을 실시하여야 한다.\n나. 식물검역관은 검역결과 수입국의 검역요건에 적합하다고 판단되는 경우, 제5조에 따라 수출검역증명서 또는 전자식물검역증명서를 발급ㆍ전송하여야 한다.\n다. 식물검역관은 검역결과 수입국의 검역요건에 부적합하다고 판단되는 경우, 수출자에게 재소독 및 재세척을 요구하여야 한다.",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281090&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211665",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211659",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211665",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수출식물의검역요령#BYL0004",
+      "filename": "별표4_차량 및 기계류에 대한 수출검역 요령(제4조제5항 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "휴대 수출식물 검역대장",
+      "enforcement_date": "",
+      "content": "[별지 제1호서식]\n휴대 수출식물 검역대장\n\n○ 검역일자       년   월   일\n:\n┏━━━━━━━━┯━━━┓┏┯┯┯┯━┓\n○ 검 역 관 ┃성 명(코드번호) │서 명 ┃┃││││결┃\n:           ┃                │      ┃┃││││재┃\n┠────────┼───┨┠┼┼┼┤  ┃\n┃      (     )   │      ┃┃││││  ┃\n┠────────┼───┨┃││││  ┃\n┃      (     )   │      ┃┃││││  ┃\n┠────────┼───┨┃││││  ┃\n┃      (     )   │      ┃┃││││  ┃\n┗━━━━━━━━┷━━━┛┗┷┷┷┷━┛\n┏━━┯━━━━┯━━━━━━━━┯━━━┯━━━┯━━┯━━┯━━━━━━━┯━━━┯━━━━┓\n┃번호│선(편)명│수출자          │수출국│식물명│단위│검역│검  사  결  과│불합격│합격증표┃\n┃    │        ├──┬─────┤      │      │    │수량├──┬────┤사  유│번호    ┃\n┃    │        │성명│주소      │      │      │    │    │합격│불합격  │      │        ┃\n┃    │        │    │(또는     │      │      │    │    │    │        │      │        ┃\n┃    │        │    │생년월일) │      │      │    │    │    │        │      │        ┃\n┣━━┿━━━━┿━━┿━━━━━┿━━━┿━━━┿━━┿━━┿━━┿━━━━┿━━━┿━━━━┫\n┃    │        │    │          │      │      │    │    │    │        │      │        ┃\n┠──┼────┼──┼─────┼───┼───┼──┼──┼──┼────┼───┼────┨\n┃    │        │    │          │      │      │    │    │    │        │      │        ┃\n┠──┼────┼──┼─────┼───┼───┼──┼──┼──┼────┼───┼────┨\n┃    │        │    │          │      │      │    │    │    │        │      │        ┃\n┠──┼────┼──┼─────┼───┼───┼──┼──┼──┼────┼───┼────┨\n┃    │        │    │          │      │      │    │    │    │        │      │        ┃\n┠──┼────┼──┼─────┼───┼───┼──┼──┼──┼────┼───┼────┨\n┃    │        │    │          │      │      │    │    │    │        │      │        ┃\n┠──┼────┼──┼─────┼───┼───┼──┼──┼──┼────┼───┼────┨\n┃    │        │    │          │      │      │    │    │    │        │      │        ┃\n┠──┼────┼──┼─────┼───┼───┼──┼──┼──┼────┼───┼────┨\n┃    │        │    │          │      │      │    │    │    │        │      │        ┃\n┠──┼────┼──┼─────┼───┼───┼──┼──┼──┼────┼───┼────┨\n┃    │        │    │          │      │      │    │    │    │        │      │        ┃\n┠──┼────┼──┼─────┼───┼───┼──┼──┼──┼────┼───┼────┨\n┃    │        │    │          │      │      │    │    │    │        │      │        ┃\n┗━━┷━━━━┷━━┷━━━━━┷━━━┷━━━┷━━┷━━┷━━┷━━━━┷━━━┷━━━━┛\n주) 본 서식은 횡 서식임",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211671",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211667",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211671",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수출식물의검역요령#BJ0001",
+      "filename": "별지1_휴대 수출식물 검역대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "EXPORTS/RE-EXPORTS",
+      "enforcement_date": "",
+      "content": "[별지 제2호서식]\nEXPORTS/RE-EXPORTS\nFLORA\n┏━━━━┯━━━━┯━━━━━━┯━━━━┯━━━━━━┯━━━━━━━┯━━━━━━┯━━━━┯━━━┯━━━━┓\n┃Appendix│Species │Description │Quantity│Country of  │Number of     │Country of  │Purpose │Source│Remarks ┃\n┃        │        │            │        │destination │export permit │origin of   │        │      │        ┃\n┃        │        │            │        │            │or re-export  │re-export   │        │      │        ┃\n┃        │        │            │        │            │certificate   │            │        │      │        ┃\n┃①      │②      │③          │④      │⑤          │⑥            │⑦          │⑧      │⑨    │⑩      ┃\n┠────┴────┴──────┴────┴──────┴───────┴──────┴────┴───┴────┨\n┃Cactaceae(선인장과)                                                                                               ┃\n┠────┬────┬──────┬────┬──────┬───────┬──────┬────┬───┬────┨\n┃        │        │            │        │            │              │            │        │      │        ┃\n┠────┴────┴──────┴────┴──────┴───────┴──────┴────┴───┴────┨\n┃Cycadaceae(소철과)                                                                                                ┃\n┠────┬────┬──────┬────┬──────┬───────┬──────┬────┬───┬────┨\n┃        │        │            │        │            │              │            │        │      │        ┃\n┠────┴────┴──────┴────┴──────┴───────┴──────┴────┴───┴────┨\n┃Aloe spp(알로에속)                                                                                                ┃\n┠────┬────┬──────┬────┬──────┬───────┬──────┬────┬───┬────┨\n┃        │        │            │        │            │              │            │        │      │        ┃\n┠────┴────┴──────┴────┴──────┴───────┴──────┴────┴───┴────┨\n┃Orchidaceae(난초과)                                                                                               ┃\n┠────┬────┬──────┬────┬──────┬───────┬──────┬────┬───┬────┨\n┃        │        │            │        │            │              │            │        │      │        ┃\n┗━━━━┷━━━━┷━━━━━━┷━━━━┷━━━━━━┷━━━━━━━┷━━━━━━┷━━━━┷━━━┷━━━━┛\n※ 아래 세부 작성요령을 참고하여 엑셀문서로 작성\n[참고사항 : 세부 작성요령]\n□ 보고서 양식 상단에 표본이 속한 분류군의 명칭을 기재하고, 분류군이 다른 경우에는 표를 바꾸거나 구분하여 기재\n① Appendix(부속서) : 부속서 Ⅱ를 표시\n② Species(종)\n○ 알파벳순으로 기재\n○ 학명 표기시 속명(genus name)은 첫글자만 영문 대문자로 기재\n- 사향노루, Moshus(속명) moshiferus(종명)\n○ 속명 등 상위 분류명(higher taxa name)만으로 실제 거래되는 종을 확인하기 어렵기 때문에 가능한 속명(genus)＋종명(species) 혹은 속명(genus)＋종명(species)＋아종(subspecies)을 기재\n※ 다만, 아래의 경우에는 예외를 적용할 수 있음\n- 난초류(orchid) : 부속서Ⅱ에 속한 인공 재배종의 경우에는 결의문 Conf.11.17에 의거 종명(species)까지 표기하며, 이러한 어려운 경우에는 속명(genus)을 기재하되, 야생과 인공재배 여부를 명확히 밝힐 것\n③ Description(표본상태)\n○「붙임」 1항에 제시된 표기약어에 따라 표본의 상태를 기재하되, 제시되지 않은 표본 상태일 경우에는 다른 적절한 기재도 가능함\n※ 동 표기상태의 기재내용을 허가서(CITES permit)에서 반드시 똑같이 사용하여야 하는 것은 아니며, 허가서상 표기상태의 기재는 가능한 정확하고 명확하게 하는 것이 중요함\n④ Quantity(수량)\n○「붙임」 1항에 제시된 표본의 적정한 형태에 따라 개수, 질량, 무게, 표면적, 용적 등 제시된 표기약어에 따라 기재\n○ 표기 단위는 가능한 \"권장단위(Preferred unit)\"를 사용하되, \"대체가능 단위(Alternative unit)\"도 사용할 수 있음\n※ 권장단위, 대체가능단위를 사용할 수 없을 경우, 가능한 미터단위를 표시할 것. 단위가 표기되지 않을 경우 「그램(g)」단위 거래가 「킬로그램(㎏)」단위로 오해될 수 있음\n- 상자(boxes, cartons) 또는 짐짝(bales) 같은 비표준 단위기록은 불가\n⑤, ⑦ Country of export/origin/destination(수출국/원산지/수입국)\n○ ISO 국가코드에 따라 영문 대문자로 기재,「붙임」 4항의 국가코드(Country Code) 참고\n⑥ Permit or Certificate number(허가서 또는 증명서 번호)\n○ 수출/재수출인 경우에는 해당기관에서 발급된 허가번호(증명서번호)를 기재\n※ 주의 : 수입국의 허가번호를 기재해서는 안됨\n⑧ Purpose(거래목적)\n○「붙임」 2항에 제시된 코드에 따라 기재, 거래목적이 제시되지 않은 경우에는 거래목적란을 공란으로 두고 비고(remarks)란에 설명을 기재\n⑨ Source(표본 출처)\n○「붙임」 3항에 제시된 코드에 따라 표본 취득 당시의 상태 또는 표본이 취득된 출처를 기재\n⑩ Remarks(비고)\n○ 어떤 항을 공란으로 두었을 때 이를 설명하거나, 다른 항의 내용을 보충하기 위하여 사용하며, 특히 다음 사항은 가급적 기재 요망\n- 공란이 된 항의 설명 (예 : 원산지 국가명이 없는 경우 그 사유)\n- 분별 표시(Identification markings, 예: tag 또는 링번호) 기재\n[붙임]\n1. 표본의 상태 및 수량단위\n┏━━━━━━┯━━━━┯━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━┓\n┃표본상태    │표기약어│단 위 Unit                        │설    명                      ┃\n┃Description │Code    ├────────┬────────┤Explanation                   ┃\n┃            │        │권장단위        │대체가능단위    │                              ┃\n┃            │        │Preferred unit  │Alternative unit│                              ┃\n┣━━━━━━┿━━━━┿━━━━━━━━┿━━━━━━━━┿━━━━━━━━━━━━━━━┫\n┃culture     │CUL     │no. of flasks,  │                │인공 재배된 식물의 배양체     ┃\n┃            │        │etc             │                │(culture)                     ┃\n┠──────┼────┼────────┼────────┼───────────────┨\n┃graft       │GRS     │no.             │                │접목한 식물                   ┃\n┃rootstock   │        │                │                │                              ┃\n┠──────┼────┼────────┼────────┼───────────────┨\n┃live        │LIV     │no.             │kg              │살아있는 동?식물             ┃\n┠──────┼────┼────────┼────────┼───────────────┨\n┃leaf        │LVS     │kg              │no.             │잎                            ┃\n┠──────┼────┼────────┼────────┼───────────────┨\n┃root        │ROO     │no.             │kg              │뿌리, 구근, 괴경 등           ┃\n┠──────┼────┼────────┼────────┼───────────────┨\n┃seed        │SEE     │kg              │                │씨앗, 종자                    ┃\n┠──────┼────┼────────┼────────┼───────────────┨\n┃stem        │STE     │no.             │kg              │식물줄기                      ┃\n┠──────┼────┼────────┼────────┼───────────────┨\n┃whole       │WHO     │kg              │no.             │죽거나 살아 있는 동?식물 전체┃\n┗━━━━━━┷━━━━┷━━━━━━━━┷━━━━━━━━┷━━━━━━━━━━━━━━━┛\n※ 단위(Unit)\ng= grams\nkg= kilograms\nl= liters\n㎤= cubic centimeters\n㎖= milliliters\nm= meters\n㎡= square meters\n㎥= cubic meters\nno.= number of specimens\n2. 거래 목적(Purpose of trade)\n┏━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━┓\n┃코드 (Code) │설 명 (Description)                         ┃\n┣━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━┫\n┃M           │생약연구용                                  ┃\n┠──────┼──────────────────────┨\n┃G           │식물원용                                    ┃\n┠──────┼──────────────────────┨\n┃B           │인공사육, 인공재배용                        ┃\n┠──────┼──────────────────────┨\n┃Q           │서커스와 순회전시용                         ┃\n┠──────┼──────────────────────┨\n┃T           │상업/거래용                                 ┃\n┠──────┼──────────────────────┨\n┃E           │교육용                                      ┃\n┠──────┼──────────────────────┨\n┃L           │압류물/집행용(법원에서 증거, 교육용 표본 등)┃\n┠──────┼──────────────────────┨\n┃H           │사냥기념물                                  ┃\n┠──────┼──────────────────────┨\n┃P           │개인용품                                    ┃\n┠──────┼──────────────────────┨\n┃N           │야생으로 방생, 되돌려 보냄                  ┃\n┠──────┼──────────────────────┨\n┃S           │과학연구용                                  ┃\n┠──────┼──────────────────────┨\n┃Z           │동물원용                                    ┃\n┗━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━┛\n3. 표본 출처(Source of specimens)\n┏━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃코드(Code)│설 명(Description)                                                  ┃\n┣━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃D         │협약 제7조제4항의 규정에 의거 수출된 상업적 목적으로 포획 되어      ┃\n┃          │번식된 부속서Ⅰ에 포함된 동물종, 상업적 목적으로 인공 번식된        ┃\n┃          │부속서Ⅰ에 포함된 식물종(그 부분 및 파생물 포함)                    ┃\n┠─────┼──────────────────────────────────┨\n┃A         │협약 제7조제5항의 규정의 의거 수출되고, 총회 결의문 9.19(a)에       ┃\n┃          │의하여 인공 번식된 식물(artificially propagated plant), 그 부분 및  ┃\n┃          │파생물(비상업적 목적으로 인공 번식된 부속서Ⅰ종과 부속서Ⅱ, Ⅲ에    ┃\n┃          │포함된 종의 표본)                                                   ┃\n┗━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n4. 국가코드(Country Code)\n┏━━┯━━━━━━━━━━━━━━━┳━━┯━━━━━━━━━━━━━━━━━━━┓\n┃Code│Name                          ┃Code│Name                                  ┃\n┣━━┿━━━━━━━━━━━━━━━╋━━┿━━━━━━━━━━━━━━━━━━━┫\n┃AF  │Afghanistan                   ┃CL  │Chile                                 ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃AL  │Albania                       ┃CN  │China                                 ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃DZ  │Algeria                       ┃CX  │Christmas Island                      ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃AS  │American Samoa                ┃CC  │Cocos (Keeling) Islands               ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃AD  │Andorra                       ┃CO  │Colombia                              ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃AO  │Angola                        ┃KM  │Comoros                               ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃AI  │Anguilla                      ┃CG  │Congo                                 ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃AQ  │Antarctica                    ┃CK  │Cook Islands                          ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃AG  │Antigua and Barbuda           ┃CR  │Costa Rica                            ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃AR  │Argentina                     ┃CI  │Cote d'lvoire                         ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃AM  │Armenia                       ┃HR  │Croatia                               ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃AW  │Aruba                         ┃CU  │Cuba                                  ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃AU  │Australia                     ┃CY  │Cyprus                                ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃AT  │Austria                       ┃CZ  │Czech Republic                        ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃AZ  │Azerbaijan                    ┃KP  │Democratic People's Republic of Korea ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃BS  │Bahamas                       ┃CD  │Democratic Republic of the Congo      ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃BH  │Bahrain                       ┃DK  │Denmark                               ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃BD  │Bangladesh                    ┃DJ  │Djibouti                              ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃BB  │Barbados                      ┃DM  │Dominica                              ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃BY  │Belarus                       ┃DO  │Dominican Republic                    ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃BE  │Belgium                       ┃TP  │East Timor                            ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃BZ  │Belize                        ┃EC  │Ecuador                               ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃BJ  │Benin                         ┃EG  │Egypt                                 ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃BM  │Bermuda                       ┃SV  │El Salvador                           ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃BT  │Bhutan                        ┃GQ  │Equatorial Guinea                     ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃BO  │Bolivia                       ┃ER  │Eritrea                               ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃BA  │Bosnia and Herzegovina        ┃EE  │Estonia                               ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃BW  │Botswana                      ┃ET  │Ethiopia                              ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃BV  │Bouvet Island                 ┃FK  │Falkland Islands (Malvinas)           ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃BR  │Brazil                        ┃FO  │Faroe Islands                         ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃IO  │British Indian Ocean Territory┃FJ  │Fiji                                  ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃VG  │British Virgin Islands        ┃FI  │Finland                               ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃BN  │Brunei Darussalam             ┃FR  │France                                ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃BG  │Bulgaria                      ┃GF  │French Guiana                         ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃BF  │Burkina Faso                  ┃PF  │French Polynesia                      ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃BI  │Burundi                       ┃TF  │French Southern Territories           ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃KH  │Cambodia                      ┃GA  │Gabon                                 ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃CM  │Cameroon                      ┃GM  │Gambia                                ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃CA  │Canada                        ┃GE  │Georgia                               ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃CV  │Cape Verde                    ┃DE  │Germany                               ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃KY  │Cayman Islands                ┃GH  │Ghana                                 ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃CF  │Central African Republic      ┃GI  │Gibraltar                             ┃\n┠──┼───────────────╂──┼───────────────────┨\n┃TD  │Chad                          ┃GR  │Greece                                ┃\n┗━━┷━━━━━━━━━━━━━━━┻━━┷━━━━━━━━━━━━━━━━━━━┛\n┏━━┯━━━━━━━━━━━━━━━━━┳━━┯━━━━━━━━━━━━━━━━┓\n┃Code│Name                              ┃Code│Name                            ┃\n┣━━┿━━━━━━━━━━━━━━━━━╋━━┿━━━━━━━━━━━━━━━━┫\n┃GL  │Greenland                         ┃LT  │Lithuania                       ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃GD  │Grenada                           ┃LU  │Luxembourg                      ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃GP  │Guadeloupe                        ┃MO  │Macau                           ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃GU  │Guam                              ┃MG  │Madagascar                      ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃GT  │Guatemala                         ┃MW  │Malawi                          ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃GN  │Guinea                            ┃MY  │Malaysia                        ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃GW  │Guinea-Bissau                     ┃MV  │Maldives                        ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃GY  │Guyana                            ┃ML  │Mali                            ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃HT  │Haiti                             ┃MT  │Malta                           ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃HM  │Heard Island and Mcdonald Islands ┃MH  │Marshall Islands                ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃VA  │Holy See                          ┃MQ  │Martinique                      ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃HN  │Honduras                          ┃MR  │Mauritania                      ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃HK  │Hong Kong                         ┃MU  │Mauritius                       ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃HU  │Hungary                           ┃YT  │Mayotte                         ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃IS  │Iceland                           ┃MX  │Mexico                          ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃IN  │India                             ┃FM  │Micronesia (Federated states of)┃\n┠──┼─────────────────╂──┼────────────────┨\n┃ID  │Indonesia                         ┃MD  │Moldova, Republic of            ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃IR  │Iran (Islamic Republic of)        ┃MC  │Monaco                          ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃IQ  │Iraq                              ┃MN  │Mongolia                        ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃IE  │Ireland                           ┃MS  │Montserrat                      ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃IL  │Israel                            ┃MA  │Morocco                         ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃IT  │Italy                             ┃MZ  │Mozambique                      ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃JM  │Jamaica                           ┃MM  │Myanmar                         ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃JP  │Japan                             ┃NA  │Namibia                         ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃JO  │Jordan                            ┃NR  │Nauru                           ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃KZ  │Kazakhstan                        ┃NP  │Nepal                           ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃KE  │Kenya                             ┃NL  │Netherlands                     ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃KI  │Kiribati                          ┃AN  │Netherlands Antilles            ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃KW  │Kuwait                            ┃NT  │Neutral Zone                    ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃KG  │Kyrgyzstan                        ┃NC  │New Caledonia                   ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃LA  │Lac People's Democratic Republic  ┃NZ  │New Zealand                     ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃LV  │Latvia                            ┃NU  │Niue                            ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃LB  │Lebanon                           ┃NF  │Norfolk Island                  ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃LS  │Lesotho                           ┃MP  │Northern Mariana Islands        ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃LR  │Liberia                           ┃NO  │Norway                          ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃LY  │Libyan Arab Jamahiriya            ┃OM  │Oman                            ┃\n┠──┼─────────────────╂──┼────────────────┨\n┃LI  │Liechtenstein                     ┃PK  │Pakistan                        ┃\n┗━━┷━━━━━━━━━━━━━━━━━┻━━┷━━━━━━━━━━━━━━━━┛\n┏━━┯━━━━━━━━━━━━━━━┳━━┯━━━━━━━━━━━━━━━━━━━━━┓\n┃Code│Name                          ┃Code│Name                                      ┃\n┣━━┿━━━━━━━━━━━━━━━╋━━┿━━━━━━━━━━━━━━━━━━━━━┫\n┃PW  │Palau                         ┃SD  │Sudan                                     ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃PA  │Panama                        ┃SR  │Suriname                                  ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃PG  │Papua New Guinea              ┃SJ  │Svalbard and Jan Mayen Islands            ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃PY  │Paraguay                      ┃SZ  │Swaziland                                 ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃PE  │Peru                          ┃SE  │Sweden                                    ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃PH  │Phillippines                  ┃CH  │Switzerland                               ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃PN  │Pitcairn Islands              ┃SY  │Syrian Arab Republic                      ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃PL  │Poland                        ┃TW  │Taiwan, Province of China                 ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃PT  │Portugal                      ┃MK  │The former Yugoslav Republic of Macedonia ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃PR  │Puerto rico                   ┃TG  │Togo                                      ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃QA  │Qatar                         ┃TK  │Tokelau                                   ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃KR  │Republic of Korea             ┃TO  │Tonga                                     ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃RE  │Reunion                       ┃TT  │Trinidad and Tobago                       ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃RO  │Romania                       ┃TM  │Tunisia                                   ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃RU  │Russian Federation            ┃TR  │Turkey                                    ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃RW  │Rwanda                        ┃TM  │Turkmenistan                              ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃SH  │Saint Helena and Dependencies ┃TC  │Turks and Caicos Islands                  ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃KN  │Saint Kitto and Nevis         ┃GV  │Tuvalu                                    ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃LC  │Saint lucia                   ┃UM  │United States Minor Outlying Islands      ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃PM  │Saint Pierre and Miquelon     ┃UG  │Uganda                                    ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃VC  │Saint Vincent & the Grenadines┃UA  │Ukraine                                   ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃WS  │Samoa                         ┃AE  │United Arab Emirates                      ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃SM  │San Marino                    ┃GB  │United Kingdom                            ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃ST  │Sao Tome and Principe         ┃TZ  │United Republic of Tanzania               ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃SA  │Saudi Arabia                  ┃US  │United States of America                  ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃SN  │Senegal                       ┃UY  │Uruguay                                   ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃SC  │Seychelles                    ┃UZ  │Uzbekistan                                ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃SL  │Sierra Leone                  ┃VY  │Vanuatu                                   ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃SG  │Singapore                     ┃VE  │Venezuela                                 ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃SK  │Siovakia                      ┃VN  │Viet Nam                                  ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃SI  │Slovenia                      ┃VI  │Virgin Islands of the United States       ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃SB  │Solomon Islands               ┃WF  │Wallis and Futuna Islands                 ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃SO  │Somalia                       ┃EH  │Western Sahara                            ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃ZA  │South Africa                  ┃YE  │Yemen                                     ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃GS  │South Georgia and the South   ┃ZM  │Zambia                                    ┃\n┃    │Sandwich Islands              ┃    │                                          ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃ES  │Spain                         ┃ZW  │Zimbabwe                                  ┃\n┠──┼───────────────╂──┼─────────────────────┨\n┃LK  │Sri Lanka                     ┃    │                                          ┃\n┗━━┷━━━━━━━━━━━━━━━┻━━┷━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211689",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211673",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211689",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수출식물의검역요령#BJ0002",
+      "filename": "별지2_EXPORTS_RE-EXPORTS.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "재배지검역신청서",
+      "enforcement_date": "",
+      "content": "[별지 제3호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃재배지검역신청서                                                            ┃\n┠─┬──┬────────────┬─────┬──────────────┨\n┃신│성명│                        │생년월일  │                            ┃\n┃청├──┼────────────┼─────┼──────────────┨\n┃인│주소│                        │상호      │                            ┃\n┃  │    │                        │(전화번호 │                            ┃\n┃  │    │                        │)         │                            ┃\n┠─┴──┼─────┬──────┼─────┴──────────────┨\n┃수입국의│국가명    │식물명(학명)│부기대상 병해충명(학명)                 ┃\n┃검역요건├─────┼──────┼────────────────────┨\n┃        │          │            │                                        ┃\n┠────┼─────┼──────┼──────┬─────────────┨\n┃재배지  │재배자    │            │재배면적(㎡)│                          ┃\n┃정보    ├─────┼──────┼──────┼─────────────┨\n┃        │검역희망일│            │생산예산량  │                          ┃\n┃        ├─────┼──────┴──────┴─────────────┨\n┃        │주 소     │                                                      ┃\n┠────┴─────┴───────────────────────────┨\n┃                                                                            ┃\n┃   식물방역법 제28조의 규정에 의하여 수출식물에 대한 재배지검역을 위와 같이 ┃\n┃신청합니다.                                                                 ┃\n┃                                                                            ┃\n┃붙임 1. 수입국 검역요건 사본 1부(별첨)                                      ┃\n┃     2. 재배지정보 목록(재배지가 2개소 이상인 경우) 1부(별첨)               ┃\n┃                                                                            ┃\n┃                                                                            ┃\n┃년   월   일                                                                ┃\n┃      신청인              (서명 또는 인)                                    ┃\n┃                                                                            ┃\n┃농림축산검역본부       지역본부(       사무소)장 귀하                       ┃\n┃                                                                            ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211695",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211691",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211695",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수출식물의검역요령#BJ0003",
+      "filename": "별지3_재배지검역신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "재배지검역결과서",
+      "enforcement_date": "",
+      "content": "[별지 제4호서식]\n재배지검역결과서\n┏━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━┓\n┃검역상황                        │검역결과                ┃\n┠───┬────┬───┬───┼─────┬───┬──┨\n┃재배자│재배면적│식물명│생산  │수입국    │감염율│판정┃\n┃      │(㎡)    │(학명)│예상량│우려병해충│(%)   │결과┃\n┣━━━┿━━━━┿━━━┿━━━┿━━━━━┿━━━┿━━┫\n┃      │        │      │      │          │      │    ┃\n┃      │        │      │      │          │      │    ┃\n┃      │        │      │      │          │      │    ┃\n┃      │        │      │      │          │      │    ┃\n┃      │        │      │      │          │      │    ┃\n┃      │        │      │      │          │      │    ┃\n┃      │        │      │      │          │      │    ┃\n┃      │        │      │      │          │      │    ┃\n┃      │        │      │      │          │      │    ┃\n┃      │        │      │      │          │      │    ┃\n┃      │        │      │      │          │      │    ┃\n┃      │        │      │      │          │      │    ┃\n┃      │        │      │      │          │      │    ┃\n┃      │        │      │      │          │      │    ┃\n┃      │        │      │      │          │      │    ┃\n┃      │        │      │      │          │      │    ┃\n┃계    │        │      │      │          │      │    ┃\n┗━━━┷━━━━┷━━━┷━━━┷━━━━━┷━━━┷━━┛\n검역일자 :    .    .    .\n검역관 : 식물검역관              (서명 또는 인)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211701",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211697",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211701",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수출식물의검역요령#BJ0004",
+      "filename": "별지4_재배지검역결과서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별지",
+      "title": "재배지검역합격증명서",
+      "enforcement_date": "",
+      "content": "[별지 제5호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃ 제   호                                                                ┃\n┃재배지검역합격증명서                                                    ┃\n┃                                                                        ┃\n┠───┬────┬───┬─────┬─────────────────┨\n┃신청인│성   명 │      │생년월일  │                                  ┃\n┃      ├────┼───┼─────┼─────────────────┨\n┃      │주    소│      │상  호    │                                  ┃\n┃      │        │      │(전화번호)│                                  ┃\n┠───┼────┼───┼─────┼────┬────────────┨\n┃재배자│재배면적│식물명│생산      │검역결과│수출국                  ┃\n┃      │(㎡)    │(학명)│예상량    │        │                        ┃\n┠───┼────┼───┼─────┼────┼────────────┨\n┃      │        │      │          │        │                        ┃\n┠───┼────┼───┼─────┼────┼────────────┨\n┃      │        │      │          │        │                        ┃\n┠───┼────┼───┼─────┼────┼────────────┨\n┃      │        │      │          │        │                        ┃\n┠───┼────┼───┼─────┼────┼────────────┨\n┃      │        │      │          │        │                        ┃\n┠───┼────┼───┼─────┼────┼────────────┨\n┃      │        │      │          │        │                        ┃\n┠───┼────┼───┼─────┼────┼────────────┨\n┃      │        │      │          │        │                        ┃\n┠───┼────┼───┼─────┼────┼────────────┨\n┃      │        │      │          │        │                        ┃\n┠───┼────┼───┼─────┼────┼────────────┨\n┃      │        │      │          │        │                        ┃\n┠───┼────┼───┼─────┼────┼────────────┨\n┃      │        │      │          │        │                        ┃\n┠───┼────┼───┼─────┼────┼────────────┨\n┃      │        │      │          │        │                        ┃\n┠───┼────┴───┴─────┴────┴────────────┨\n┃증명  │ 제5조제8항의 기재사항 또는 제8조제2항에 따른 기타 증명 내용    ┃\n┃내용  │                                                                ┃\n┠───┴────────────────────────────────┨\n┃   식물방역법 제28조의 규정에 의하여 재배지검역을 실시한 결과 위와 같이 ┃\n┃합격하였음을 증명합니다.                                                ┃\n┃                                                                        ┃\n┃    .   .   .                                                           ┃\n┃                                                                        ┃\n┃농림축산검역본부       지역본부(       사무소)장                        ┃\n┃                                                                        ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211707",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211703",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211707",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수출식물의검역요령#BJ0005",
+      "filename": "별지5_재배지검역합격증명서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별지",
+      "title": "재배지별 종자생산내역서",
+      "enforcement_date": "",
+      "content": "[별지 제6호서식]\n재배지별 종자생산내역서\n┏━━━┯━━━┯━━━┯━━┯━━┯━━━┯━━━┯━━┓\n┃식물명│재배지│재배자│주소│면적│생산량│필지수│비고┃\n┃(품종)│번  호│      │    │(㎡)│(kg)  │      │    ┃\n┣━━━┿━━━┿━━━┿━━┿━━┿━━━┿━━━┿━━┫\n┃      │      │      │    │    │      │      │    ┃\n┠───┼───┼───┼──┼──┼───┼───┼──┨\n┃      │      │      │    │    │      │      │    ┃\n┠───┼───┼───┼──┼──┼───┼───┼──┨\n┃      │      │      │    │    │      │      │    ┃\n┠───┼───┼───┼──┼──┼───┼───┼──┨\n┃      │      │      │    │    │      │      │    ┃\n┠───┼───┼───┼──┼──┼───┼───┼──┨\n┃      │      │      │    │    │      │      │    ┃\n┠───┼───┼───┼──┼──┼───┼───┼──┨\n┃      │      │      │    │    │      │      │    ┃\n┠───┼───┼───┼──┼──┼───┼───┼──┨\n┃      │      │      │    │    │      │      │    ┃\n┠───┼───┼───┼──┼──┼───┼───┼──┨\n┃      │      │      │    │    │      │      │    ┃\n┠───┼───┼───┼──┼──┼───┼───┼──┨\n┃      │      │      │    │    │      │      │    ┃\n┠───┼───┼───┼──┼──┼───┼───┼──┨\n┃      │      │      │    │    │      │      │    ┃\n┠───┼───┼───┼──┼──┼───┼───┼──┨\n┃      │      │      │    │    │      │      │    ┃\n┠───┼───┼───┼──┼──┼───┼───┼──┨\n┃      │      │      │    │    │      │      │    ┃\n┠───┼───┼───┼──┼──┼───┼───┼──┨\n┃      │      │      │    │    │      │      │    ┃\n┠───┼───┼───┼──┼──┼───┼───┼──┨\n┃      │      │      │    │    │      │      │    ┃\n┠───┼───┼───┼──┼──┼───┼───┼──┨\n┃      │      │      │    │    │      │      │    ┃\n┠───┼───┼───┼──┼──┼───┼───┼──┨\n┃      │      │      │    │    │      │      │    ┃\n┠───┼───┼───┼──┼──┼───┼───┼──┨\n┃      │      │      │    │    │      │      │    ┃\n┗━━━┷━━━┷━━━┷━━┷━━┷━━━┷━━━┷━━┛\n년   월   일\n제 출 자 :               (서명 또는 인)\n농림축산검역본부       지역본부(       사무소)장 귀하",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211713",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211709",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211713",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수출식물의검역요령#BJ0006",
+      "filename": "별지6_재배지별 종자생산내역서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "별지",
+      "title": "재배지검역 합격 종자 출고대장",
+      "enforcement_date": "",
+      "content": "[별지 제7호서식]\n재배지검역 합격 종자 출고대장\n○ 재배지검역합격증명서 발급기관, 번호 및 일자 :\n○ 보관책임자 :\n(단위 : kg)\n┏━━━━━┯━━━┯━━━━┯━━━┯━━━┯━━━┯━━━━━━━┓\n┃품명(품종)│생산량│수출일자│수출국│수출량│잔  량│식물검역관    ┃\n┃          │(A)   │        │      │(B)   │(A-B) ├────┬──┨\n┃          │      │        │      │      │      │확인일자│서명┃\n┣━━━━━┿━━━┿━━━━┿━━━┿━━━┿━━━┿━━━━┿━━┫\n┃          │      │        │      │      │      │        │    ┃\n┠─────┼───┼────┼───┼───┼───┼────┼──┨\n┃          │      │        │      │      │      │        │    ┃\n┠─────┼───┼────┼───┼───┼───┼────┼──┨\n┃          │      │        │      │      │      │        │    ┃\n┠─────┼───┼────┼───┼───┼───┼────┼──┨\n┃          │      │        │      │      │      │        │    ┃\n┠─────┼───┼────┼───┼───┼───┼────┼──┨\n┃          │      │        │      │      │      │        │    ┃\n┠─────┼───┼────┼───┼───┼───┼────┼──┨\n┃          │      │        │      │      │      │        │    ┃\n┠─────┼───┼────┼───┼───┼───┼────┼──┨\n┃          │      │        │      │      │      │        │    ┃\n┠─────┼───┼────┼───┼───┼───┼────┼──┨\n┃          │      │        │      │      │      │        │    ┃\n┠─────┼───┼────┼───┼───┼───┼────┼──┨\n┃          │      │        │      │      │      │        │    ┃\n┠─────┼───┼────┼───┼───┼───┼────┼──┨\n┃          │      │        │      │      │      │        │    ┃\n┠─────┼───┼────┼───┼───┼───┼────┼──┨\n┃          │      │        │      │      │      │        │    ┃\n┠─────┼───┼────┼───┼───┼───┼────┼──┨\n┃          │      │        │      │      │      │        │    ┃\n┠─────┼───┼────┼───┼───┼───┼────┼──┨\n┃          │      │        │      │      │      │        │    ┃\n┠─────┼───┼────┼───┼───┼───┼────┼──┨\n┃          │      │        │      │      │      │        │    ┃\n┗━━━━━┷━━━┷━━━━┷━━━┷━━━┷━━━┷━━━━┷━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211719",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211715",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211719",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수출식물의검역요령#BJ0007",
+      "filename": "별지7_재배지검역 합격 종자 출고대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0008",
+      "branch": "00",
+      "kind": "별지",
+      "title": "수출용 종자 사전검역신청서",
+      "enforcement_date": "",
+      "content": "[별지 제8호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━┓\n┃                                                  │처리기한                  ┃\n┃수출용 종자 사전검역신청서                        ├─────────────┨\n┃                                                  │5일                       ┃\n┠───┬───┬───────────┬────┬┴─────────────┨\n┃수출자│성  명│                      │상    호│                            ┃\n┃      ├───┼───────────┼────┼──────────────┨\n┃      │주  소│                      │전화번호│                            ┃\n┠───┴───┼───────────┴────┴──────────────┨\n┃보관창고      │                                                              ┃\n┃주소          │                                                              ┃\n┠─────┬─┴──┬───┬───┬────┬───┬─────┬─────┨\n┃더미 번호 │식물명  │원산지│수입국│수량(kg)│포장수│수출 예정 │비고      ┃\n┃          │(품종명)│      │      │        │      │기간      │          ┃\n┠─────┼────┼───┼───┼────┼───┼─────┼─────┨\n┃          │        │      │      │        │      │          │          ┃\n┠─────┼────┼───┼───┼────┼───┼─────┼─────┨\n┃          │        │      │      │        │      │          │          ┃\n┠─────┼────┼───┼───┼────┼───┼─────┼─────┨\n┃          │        │      │      │        │      │          │          ┃\n┠─────┼────┼───┼───┼────┼───┼─────┼─────┨\n┃          │        │      │      │        │      │          │          ┃\n┠─────┼────┼───┼───┼────┼───┼─────┼─────┨\n┃          │        │      │      │        │      │          │          ┃\n┠─────┼────┼───┼───┼────┼───┼─────┼─────┨\n┃          │        │      │      │        │      │          │          ┃\n┠─────┴────┴───┴───┴────┴───┴─────┴─────┨\n┃ 상기 수출용 종자에 대하여 사전검역을 신청합니다.                             ┃\n┃                                                                              ┃\n┃ 붙임 : 1. 수입국의 요구사항(수입국이 식물위생증명서에 추가기재사항을 요구    ┃\n┃하는 경우에 한한다.)                                                          ┃\n┃        2. 재배지검역합격증명서 사본 1부.(재배지검역에 합격한 종자에 한함)    ┃\n┃                                                                              ┃\n┃년   월   일                                                                  ┃\n┃                                                                              ┃\n┃신청인          (서명 또는 인)                                                ┃\n┃농림축산검역본부       지역본부(       사무소)장 귀하                         ┃\n┠───────────────────────────────────────┨\n┃* 유의사항                                                                    ┃\n┃ - ‘수입국’이라 함은 수출상대국을 말한다.                                   ┃\n┃ - ‘품종명’은 필요한 경우에만 기재한다.                                     ┃\n┃ - ‘더미’는 검역받고자 하는 식물명별(품종명별)?수입국별로 구분하여  구성하 ┃\n┃여야 하고 ‘더미 번호’란에는 일련 번호를 부여한다.                           ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211725",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211721",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211725",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수출식물의검역요령#BJ0008",
+      "filename": "별지8_수출용 종자 사전검역신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0009",
+      "branch": "00",
+      "kind": "별지",
+      "title": "수출용 종자 사전검역 합격증명서",
+      "enforcement_date": "",
+      "content": "[별지 제9호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃제  호                                                                            ┃\n┃수출용 종자 사전검역 합격증명서                                                   ┃\n┃                                                                                  ┃\n┠───┬───┬──────────┬────┬─────────────────┨\n┃수출자│성  명│                    │상    호│                                  ┃\n┃      ├───┼──────────┼────┼─────────────────┨\n┃      │주  소│                    │전화번호│                                  ┃\n┠───┴───┼──────────┴────┴─────────────────┨\n┃지정 보관장소 │                                                                  ┃\n┠─────┬─┴──┬──────┬────┬───┬──────────────┨\n┃더미 번호 │식물명  │수출 상대국 │수량(kg)│포장수│비  고                      ┃\n┃          │(품종명)│            │        │      │                            ┃\n┠─────┼────┼──────┼────┼───┼──────────────┨\n┃          │        │            │        │      │                            ┃\n┠─────┼────┼──────┼────┼───┼──────────────┨\n┃          │        │            │        │      │                            ┃\n┠─────┼────┼──────┼────┼───┼──────────────┨\n┃          │        │            │        │      │                            ┃\n┠─────┼────┼──────┼────┼───┼──────────────┨\n┃          │        │            │        │      │                            ┃\n┠─────┼────┼──────┼────┼───┼──────────────┨\n┃          │        │            │        │      │                            ┃\n┠─────┼────┼──────┼────┼───┼──────────────┨\n┃          │        │            │        │      │                            ┃\n┠─────┼────┼──────┼────┼───┼──────────────┨\n┃          │        │            │        │      │                            ┃\n┠─────┼────┼──────┼────┼───┼──────────────┨\n┃          │        │            │        │      │                            ┃\n┠─────┼────┼──────┼────┼───┼──────────────┨\n┃          │        │            │        │      │                            ┃\n┠─────┼────┼──────┼────┼───┼──────────────┨\n┃          │        │            │        │      │                            ┃\n┠─────┴────┴──────┴────┴───┴──────────────┨\n┃  상기 식물은 사전검역결과 수출 상대국의 식물검역요건에 적합함을                  ┃\n┃ 증명합니다.                                                                      ┃\n┃                                                                                  ┃\n┃년   월   일                                                                      ┃\n┃                                                                                  ┃\n┃농림축산검역본부       지역본부(       사무소)장                                  ┃\n┠─────────────────────────────────────────┨\n┃ * 조치 사항                                                                      ┃\n┃  - 상기물품은 지정된 보관장소에 구분적재하고 해당 더미에는 표찰(별지 제10        ┃\n┃호 서식)을 부착하여 관리하여야 한다.                                              ┃\n┃  - 신청자는 ‘사전검역에 합격된 수출용 종자 관리대장’(별지 제11호 서식)을 기록?┃\n┃비치해야 한다.                                                                    ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211731",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211727",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211731",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수출식물의검역요령#BJ0009",
+      "filename": "별지9_수출용 종자 사전검역 합격증명서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0010",
+      "branch": "00",
+      "kind": "별지",
+      "title": "사전검역 합격증명서",
+      "enforcement_date": "",
+      "content": "[별지 제10호서식]\n┏━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━┓\n┃사전검역 합격증명서 번호│                                            ┃\n┠────────────┼──────────────────────┨\n┃더미 번호               │                                            ┃\n┠────────────┼──────────────────────┨\n┃식 물 명                │                                            ┃\n┃(품종명)                │                                            ┃\n┠────────────┼──────────────────────┨\n┃수 출 국                │                                            ┃\n┠──────┬─────┼──────────────────────┨\n┃합격수량    │kg        │                          (                )┃\n┃(더미 수량) ├─────┼──────────────────────┨\n┃            │포장수    │                          (                )┃\n┠──────┼─────┼┬┬┬┬──────────────────┨\n┃잔    량    │출고일자  │││││                                    ┃\n┃            ├─────┼┼┼┼┼──────────────────┨\n┃            │kg        │││││                                    ┃\n┃            ├─────┼┼┼┼┼──────────────────┨\n┃            │포장수    │││││                                    ┃\n┗━━━━━━┷━━━━━┷┷┷┷┷━━━━━━━━━━━━━━━━━━┛\n※ 기재방법\n- 하나의 더미 번호에 속하는 물품을 여러 개의 더미로 나누어 적재한 경우에는 ‘해당 더미 번호-1’, ‘해당 더미 번호-2’와 같이 ‘더미 번호’란에 일련번호를 추가로 기재하고 당해 더미별 수량은 합격 수량란의 (  )안에 기재한다.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211737",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211733",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211737",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수출식물의검역요령#BJ0010",
+      "filename": "별지10_사전검역 합격증명서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0011",
+      "branch": "00",
+      "kind": "별지",
+      "title": "사전검역에 합격된 수출용 종자 관리대장",
+      "enforcement_date": "",
+      "content": "[별지 제11호서식]\n사전검역에 합격된 수출용 종자 관리대장\n○ 수출용 종자 사전검역 합격증명서 번호 :\n○ 보관책임자 :\n(단위 : kg)\n┏━━━┯━━━┯━━┯━━━┯━━━━━━━━┯━━━━━━━━┯━━━┓\n┃더미  │식물명│수량│수출국│수출(출고)      │식물검역관      │비 고 ┃\n┃번호  │      │    │      ├──┬──┬──┼────┬───┤      ┃\n┃      │      │    │      │일자│수량│잔량│확인일자│서  명│      ┃\n┣━━━┿━━━┿━━┿━━━┿━━┿━━┿━━┿━━━━┿━━━┿━━━┫\n┃      │      │    │      │    │    │    │        │      │      ┃\n┃      │      │    │      ├──┼──┼──┼────┼───┤      ┃\n┃      │      │    │      │    │    │    │        │      │      ┃\n┃      │      │    │      ├──┼──┼──┼────┼───┤      ┃\n┃      │      │    │      │    │    │    │        │      │      ┃\n┃      │      │    │      ├──┼──┼──┼────┼───┤      ┃\n┃      │      │    │      │    │    │    │        │      │      ┃\n┃      │      │    │      ├──┼──┼──┼────┼───┤      ┃\n┃      │      │    │      │    │    │    │        │      │      ┃\n┠───┼───┼──┼───┼──┼──┼──┼────┼───┼───┨\n┃      │      │    │      │    │    │    │        │      │      ┃\n┃      │      │    │      ├──┼──┼──┼────┼───┤      ┃\n┃      │      │    │      │    │    │    │        │      │      ┃\n┃      │      │    │      ├──┼──┼──┼────┼───┤      ┃\n┃      │      │    │      │    │    │    │        │      │      ┃\n┃      │      │    │      ├──┼──┼──┼────┼───┤      ┃\n┃      │      │    │      │    │    │    │        │      │      ┃\n┃      │      │    │      ├──┼──┼──┼────┼───┤      ┃\n┃      │      │    │      │    │    │    │        │      │      ┃\n┠───┼───┼──┼───┼──┼──┼──┼────┼───┼───┨\n┃      │      │    │      │    │    │    │        │      │      ┃\n┃      │      │    │      ├──┼──┼──┼────┼───┤      ┃\n┃      │      │    │      │    │    │    │        │      │      ┃\n┃      │      │    │      ├──┼──┼──┼────┼───┤      ┃\n┃      │      │    │      │    │    │    │        │      │      ┃\n┃      │      │    │      ├──┼──┼──┼────┼───┤      ┃\n┃      │      │    │      │    │    │    │        │      │      ┃\n┃      │      │    │      ├──┼──┼──┼────┼───┤      ┃\n┃      │      │    │      │    │    │    │        │      │      ┃\n┠───┼───┼──┼───┼──┼──┼──┼────┼───┼───┨\n┃      │      │    │      │    │    │    │        │      │      ┃\n┃      │      │    │      ├──┼──┼──┼────┼───┤      ┃\n┃      │      │    │      │    │    │    │        │      │      ┃\n┃      │      │    │      ├──┼──┼──┼────┼───┤      ┃\n┃      │      │    │      │    │    │    │        │      │      ┃\n┃      │      │    │      ├──┼──┼──┼────┼───┤      ┃\n┃      │      │    │      │    │    │    │        │      │      ┃\n┃      │      │    │      ├──┼──┼──┼────┼───┤      ┃\n┃      │      │    │      │    │    │    │        │      │      ┃\n┗━━━┷━━━┷━━┷━━━┷━━┷━━┷━━┷━━━━┷━━━┷━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211743",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211739",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211743",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수출식물의검역요령#BJ0011",
+      "filename": "별지11_사전검역에 합격된 수출용 종자 관리대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0012",
+      "branch": "00",
+      "kind": "별지",
+      "title": "식물검역합격증표",
+      "enforcement_date": "",
+      "content": "[별지 제12호서식]\n※ 기재방법\n가. No. 식물검역합격증표 발급 일련번호 기재\n나. 품명: 수출식물 등의 품명 기재\n다. 수량: 수출식물 등의 수량 기재\n라. 합격증인 내-상단:     년     월    일을 기재\n마. 합격증인 내-하단: 농림축산검역본부 지역본부 및 사무소 코드 표시\n예시) 김해공항사무소의 코드가 35인 경우 3-5",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211749",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211745",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211749",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수출식물의검역요령#BJ0012",
+      "filename": "별지12_식물검역합격증표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0013",
+      "branch": "00",
+      "kind": "별지",
+      "title": "세척증명서(CERTIFICATE OF CLEANING)",
+      "enforcement_date": "",
+      "content": "[별지 제13호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                                                        ┃\n┃세척증명서(CERTIFICATE OF CLEANING)                                                     ┃\n┃                                                                                        ┃\n┃ 본인(수출자)은, 아래의 기계류 및 차량의 내·외부가 완전히 세척되었음을 증명합니다.     ┃\n┃ I (The exporter) certify the machinery and vehicles listed below have been thoroughly  ┃\n┃cleaned externally and internally.                                                      ┃\n┠────────────────────────────────────────────┨\n┃                                                                                        ┃\n┃화물정보(DESCRIPTION OF CONSIGNMENT)                                                    ┃\n┃                                                                                        ┃\n┃수출자 성명 및 주소(Name and address of exporter) :                                     ┃\n┃                                                                                        ┃\n┃수하인 성명 및 주소(Name and address of consignee) :                                    ┃\n┃                                                                                        ┃\n┃원산지(Place of origin) :                                                               ┃\n┃도착항(Declared point of entry) :                                                       ┃\n┃품명(Name of product) :                                                                 ┃\n┃수량(Quantity of product) :                                                             ┃\n┃                                                                                        ┃\n┠────────────────────────────────────────────┨\n┃                                                                                        ┃\n┃세척정보(DESCRIPTION OF CLEANING)                                                       ┃\n┃                                                                                        ┃\n┃세척일시(Cleaning date) :                                                               ┃\n┃세척회사명 및 주소(Name and address of cleaning company) :                              ┃\n┃                                                                                        ┃\n┃추가정보(Additional information) :                                                      ┃\n┃세척자 성명(Name of cleaner) :             서명(Signature) :                            ┃\n┠────────────────────────────────────────────┨\n┃                                                                                        ┃\n┃본인(수출자)은 상기 언급된 기계류 및 차량의 수입검사에서 발생하는 모든 문제는           ┃\n┃수출자에게 책임이 있음을 인정합니다.                                                    ┃\n┃I (The exporter) acknowledge that the responsibility for any problems identified during ┃\n┃the import inspection on the machinery or vehicles listed above lies with the exporter. ┃\n┃                                                                                        ┃\n┃                                                                                        ┃\n┃수출자 성명(Name of exporter) :            서명(Signature)                              ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211755",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211751",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211755",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수출식물의검역요령#BJ0013",
+      "filename": "별지13_세척증명서(CERTIFICATE OF CLEANING).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0014",
+      "branch": "00",
+      "kind": "별지",
+      "title": "재배시설 등록(변경) 신청서",
+      "enforcement_date": "",
+      "content": "[별지 제14호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃┏━━━━━━━━━━━━━━┓                                ┃\n┃┃ 재배시설 등록(변경) 신청서 ┃                                ┃\n┃┗━━━━━━━━━━━━━━┛                                ┃\n┃                                                                ┃\n┃ 대표자 : (국문)                                                ┃\n┃         (영문)                                                 ┃\n┃                                                                ┃\n┃ 생년월일 :                                                     ┃\n┃                                                                ┃\n┃ 연락처 :                                                       ┃\n┠─────┬──┬────┬──┬────┬───┬──────┨\n┃재배시설명│주소│재배시설│품목│재배면적│수출국│비고        ┃\n┃          │    │형태    │    │(주수)  │      │            ┃\n┠─────┼──┼────┼──┼────┼───┼──────┨\n┃(국문)    │    │        │    │        │      │            ┃\n┃(영문)    │    │        ├──┼────┼───┼──────┨\n┃          │    │        │    │        │      │            ┃\n┃          │    │        ├──┼────┼───┼──────┨\n┃          │    │        │    │        │      │            ┃\n┠─────┴──┴────┴──┴────┴───┴──────┨\n┃                                                                ┃\n┃재배시설 등록(변경)을 위와 같이 신청합니다.                     ┃\n┃                                                                ┃\n┃                         년     월     일                       ┃\n┃                                                                ┃\n┃                                 신청자 :         (서명 또는 인)┃\n┃                                                                ┃\n┃농림축산검역본부  지역본부(사무소)장 귀하                       ┃\n┃                                                                ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211761",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211757",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211761",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수출식물의검역요령#BJ0014",
+      "filename": "별지14_재배시설 등록(변경) 신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0015",
+      "branch": "00",
+      "kind": "별지",
+      "title": "수출식물 재배시설 등록을 위한 개인정보 수집 및 이용ㆍ제공 동의서",
+      "enforcement_date": "",
+      "content": "[별지 제15호서식]\n수출식물 재배시설 등록을 위한\n개인정보 수집 및 이용ㆍ제공 동의서\n┌────────────────┬──────────────────────────────┐\n│1. 개인정보 수집 및 이용 목적   │① 수출용 식물의 재배시설 등록                              │\n│                                │② 등록된 재배지에 대한 재배지검역                          │\n│                                │③ 수출 농산물에 대한 역추적성 확보                         │\n├────────────────┼──────────────────────────────┤\n│2. 수집하려는 개인정보 항목     │재배시설 대표자명, 주소, 연락처(등록서류에 포함된 개인정보) │\n├────────────────┼──────────────────────────────┤\n│3. 개인정보의 보유 및 이용 기간 │① 보유기간 : 준영구                                        │\n│                                │② 이용기간 : 상기 보유기간과 같음                          │\n├────────────────┼──────────────────────────────┤\n│4. 제공받는 기관                │수출대상 국가의 검역 당국                                   │\n└────────────────┴──────────────────────────────┘\n○ 개인정보 수집 및 이용\n동의 □    미동의 □\n┌───────────────┬────────────────────────────────────┐\n│1. 개인정보 제공기관          │① 농산물 수출과 관련된 농림축산식품부, 그 산하기관 또는 단체(국립농산물│\n│                              │품질관리원, 농촌진흥청, 한국농수산식품유통공사, 한국농림식품수출입조합  │\n│                              │등) 및 지방자치단체                                                     │\n│                              │② 수입국의 정부기관(식물검역기관 및 한국 주재 대사관)                  │\n├───────────────┼────────────────────────────────────┤\n│2. 개인정보 제공의 목적       │① 수출재배시설 병해충 예찰, 재배지검역, 안전성 검사, 수출컨설팅, 농약  │\n│                              │안전사용지도 및 수출 지원 등                                            │\n│                              │② 수입국 도착지에서 식물검역문제 발생 시 역추적 자료로 활용            │\n├───────────────┼────────────────────────────────────┤\n│3. 제공하려는 개인정보 항목   │재배시설 대표자명, 주소, 연락처(등록서류에 포함된 개인정보)             │\n├───────────────┼────────────────────────────────────┤\n│4. 개인정보의 보유 및 이용기간│① 보유기간 : 준영구                                                    │\n│                              │② 이용기간 : 상기 보유기간과 같음                                      │\n└───────────────┴────────────────────────────────────┘\n○ 개인정보의 제3자 제공\n동의 □    미동의 □\n○ 동의 거부 권리 및 동의 거부에 따른 불이익\n귀하는 상기의 개인 정보 수집 및 이용 ㆍ 제공 동의를 거부할 권리가 있으며, 동의 거부 시 특정  농산물의 특정국가로의 수출이 제한됩니다.\n개인정보 보호법 등의 관련 법률에 의거하여 상기 본인은 위와 같이 개인정보 수집 및 이용 ㆍ 제공에 동의합니다.\n20     년     월     일\n\n* 동의인 주소:                                    성명:                 (서명 또는 인)\n* 동의한 내용 외의 다른 목적으로 활용하거나, 귀하의 동의 없이 개인정보를 제3자에게 제공하지 않습니다.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211767",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211763",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211767",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수출식물의검역요령#BJ0015",
+      "filename": "별지15_수출식물 재배시설 등록을 위한 개인정보 수집 및 이용ㆍ제공 동의서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0016",
+      "branch": "00",
+      "kind": "별지",
+      "title": "재배시설 등록증",
+      "enforcement_date": "",
+      "content": "[별지 제16호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃제   호                                                             ┃\n┃No.                                                                 ┃\n┃재배시설 등록증                                                     ┃\n┃                                                                    ┃\n┃                                                                    ┃\n┃1. 재배시설 등록번호 :                                              ┃\n┃                                                                    ┃\n┃                                                                    ┃\n┃                                                                    ┃\n┃2. 재배시설명 :                                                     ┃\n┃                                                                    ┃\n┃                                                                    ┃\n┃                                                                    ┃\n┃3. 재배시설 주소 :                                                  ┃\n┃                                                                    ┃\n┃                                                                    ┃\n┃                                                                    ┃\n┃4. 대표자 성명 :                                                    ┃\n┃                                                                    ┃\n┃                                                                    ┃\n┃                                                                    ┃\n┃5. 대표자 생년월일 :                                                ┃\n┃                                                                    ┃\n┃                                                                    ┃\n┃                                                                    ┃\n┃상기 재배시설은 농림축산검역본부에 등록된 시설임을 증명합니다.      ┃\n┃                                                                    ┃\n┃                                                                    ┃\n┃                                                                    ┃\n┃                           년     월     일                         ┃\n┃                           Date.                                    ┃\n┃                                                                    ┃\n┃농림축산검역본부  지역본부(사무소)장  (인)                          ┃\n┃                     APQA OO Regional (District) office (Signature) ┃\n┃                                                                    ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211773",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211769",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211773",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수출식물의검역요령#BJ0016",
+      "filename": "별지16_재배시설 등록증.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0017",
+      "branch": "00",
+      "kind": "별지",
+      "title": "재배시설 등록대장",
+      "enforcement_date": "",
+      "content": "[별지 제17호서식]\n\n재배시설 등록대장\n\n┏━━━━┯━━━━━┯━━━━━━━┯━━━━━━━━┯━━┯━━┓\n┃등록일자│재배시설  │재배시설명    │재배시설  주소  │품목│면적┃\n┃        │번호      │(국문 및 영문)│                │    │    ┃\n┠────┼─────┼───────┼────────┼──┼──┨\n┃        │          │(국문)        │                │    │    ┃\n┃        │          │(영문)        │                │    │    ┃\n┠────┼─────┼───────┼────────┼──┼──┨\n┃        │          │              │                │    │    ┃\n┠────┼─────┼───────┼────────┼──┼──┨\n┃        │          │              │                │    │    ┃\n┠────┼─────┼───────┼────────┼──┼──┨\n┃        │          │              │                │    │    ┃\n┠────┼─────┼───────┼────────┼──┼──┨\n┃        │          │              │                │    │    ┃\n┠────┼─────┼───────┼────────┼──┼──┨\n┃        │          │              │                │    │    ┃\n┠────┼─────┼───────┼────────┼──┼──┨\n┃        │          │              │                │    │    ┃\n┠────┼─────┼───────┼────────┼──┼──┨\n┃        │          │              │                │    │    ┃\n┗━━━━┷━━━━━┷━━━━━━━┷━━━━━━━━┷━━┷━━┛\n* 품목은 상대국 요건상 품목명(학명 등) 기재(학명으로 요구하지 않는 경우 다육식물묘 등으로 기재)\n* 재배시설번호는 지역본부ㆍ사무소 검역지코드에 등록일련번호(연번)를 기재\n(예 : 중부지역본부 식물검역과 경우 20 - ○○○)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211779",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211775",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211779",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수출식물의검역요령#BJ0017",
+      "filename": "별지17_재배시설 등록대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0018",
+      "branch": "00",
+      "kind": "별지",
+      "title": "(실험실정밀검역 결과보고서) Laboratory Report",
+      "enforcement_date": "",
+      "content": "[별지 제18호서식]\n(검역신청번호) Application No.\n[(실험실정밀검역 결과보고서) Laboratory Report]\n□ (화물정보) Details of Consignment\n┏━━━━━━━━━┯┯━━━━━━━━━┯┓\n┃(수출자)          ││(수입자)          │┃\n┃Name of Exporter  ││Name of Consignee │┃\n┠─────────┼┴─────────┴┨\n┃(실험실명 및      │                      ┃\n┃주소)             │                      ┃\n┃Name and Address  │                      ┃\n┃of Laboratory     │                      ┃\n┠─────────┼┬────────┬─┨\n┃[품목명(학명)]    ││(검사일자)      │  ┃\n┃Name of Item      ││Date of testing │  ┃\n┃(Scientific name) ││                │  ┃\n┗━━━━━━━━━┷┷━━━━━━━━┷━┛\n□ (실험결과) Tests Results\n┏━━━━━━━━━┯━━━━━━┯━━━━━┓\n┃(검사대상 병원체) │(검사방법)  │(검사결과)┃\n┃Pathogen          │Type of test│Result    ┃\n┣━━━━━━━━━┿━━━━━━┿━━━━━┫\n┃                  │            │          ┃\n┠─────────┼──────┼─────┨\n┃                  │            │          ┃\n┠─────────┼──────┼─────┨\n┃                  │            │          ┃\n┠─────────┼──────┼─────┨\n┃                  │            │          ┃\n┗━━━━━━━━━┷━━━━━━┷━━━━━┛\n(검사자명) Name of inspector            (서명, Signature)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211785",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211781",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166211785",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:수출식물의검역요령#BJ0018",
+      "filename": "별지18_(실험실정밀검역 결과보고서) Laboratory Report.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "「수출식물의 검역요령」 (농림축산검역본부 고시 2026-24호).hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=166209907",
+      "file_store_url": "",
+      "filename": "「수출식물의 검역요령」 (농림축산검역본부 고시 2026-24호).hwpx"
+    },
+    {
+      "name": "「수출식물의 검역요령」 (농림축산검역본부 고시 2026-24호).pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=166209911",
+      "file_store_url": "",
+      "filename": "「수출식물의 검역요령」 (농림축산검역본부 고시 2026-24호).pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 48,
+    "by_category": {
+      "법령": 21,
+      "별지": 14,
+      "행정규칙": 8,
+      "별표": 5
+    },
+    "by_relation_type": {
+      "citation": 24,
+      "appendix_ref": 19,
+      "internal_ref": 5
+    },
+    "articles_total": 15,
+    "articles_with_relations": 12,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 10,
+    "appendices_count": 22,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/수출식물의 검역요령"
+  },
+  "provision_id": "admrul:수출식물의검역요령#DOC"
+}
