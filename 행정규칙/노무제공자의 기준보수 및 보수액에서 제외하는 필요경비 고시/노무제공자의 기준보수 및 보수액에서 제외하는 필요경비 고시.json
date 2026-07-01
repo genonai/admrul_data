@@ -1,0 +1,192 @@
+{
+  "law_id": "2100000280688",
+  "mst": "2100000280688",
+  "law_name": "노무제공자의 기준보수 및 보수액에서 제외하는 필요경비 고시",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000280688",
+  "promulgation_no": "2026-46",
+  "promulgation_date": "20260615",
+  "enforcement_date": "20260701",
+  "revision_date": "20260615",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "고용노동부(고용보험기획과)",
+    "담당자명": "변상균",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "노무제공자의 기준보수 및 보수액에서 제외하는 필요경비 고시",
+    "발령일자": "20260615",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "N",
+    "소관부처명": "고용노동부",
+    "전화번호": "044-202-7964",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1492000",
+    "생성일자": "20260701",
+    "행정규칙ID": "78114",
+    "시행일자": "20260701",
+    "담당부서기관코드": "1494581",
+    "발령번호": "2026-46",
+    "행정규칙일련번호": "2100000280688",
+    "상위부처명": "고용노동부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n가. 노무제공자의 보수액은 \"소득세법상 사업소득(소득세법 제19조)과 기타소득(제21조)에서 비과세 소득, 경비 등을 제외한 금액\"이며, 보수액에서 제외하는 경비는 고용노동부장관이 고시하도록 규정함\n나. ’26.6월말에 기존 고시의 유효기간 만료가 예정되어 있으므로, 국세청 기준경비율 등을 반영하여 고용보험 적용 노무제공자 직종별 필요경비 공제율을 현행화할 필요가 있음\n◇ 주요내용\n올해 고시된 국세청 기준경비율과 직종 실태조사 결과를 반영해 고용보험이 적용되는 노무제공자의 직종별 필요경비 공제율을 정함",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "1. 노무제공자의 기준보수「고용보험법」 제77조의6에 따른 노무제공자의 월단위 기준보수액: 월 1,330,000원 2. 노무제공자의 보수액에서 제외하는 필요경비가. 공제 산식: {(사업소득 또는 기타소득) - (사업소득 또는 기타소득 중 「소득세법」 제12조제2호 또는 제5호에 따른 비과세소득)} × (직종별 공제율)나. 직종별 공제율[그림][그림] 3. 행정사항가. 시행일이 고시는 2026년 7월 1일부터 시행한다.나. 유효기간이 고시는 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 시행일부터 2027년 6월 30일까지 효력을 가진다.다. 이 고시는 노동시장 여건 변화 등에 따라 유효기간 중 변경될 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "「고용보험법」",
+            "line_text": "",
+            "target_law_name": "고용보험법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/고용보험법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:노무제공자의기준보수및보수액에서제외하는필요경비고시#DOC",
+            "reference_id": "law:고용보험법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "제77조의6",
+            "line_text": "",
+            "target_law_name": "고용보험법",
+            "target_article_no": "제77조의6",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/고용보험법/제77조의6",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:노무제공자의기준보수및보수액에서제외하는필요경비고시#DOC",
+            "reference_id": "law:고용보험법#JO0077_06"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "「소득세법」",
+            "line_text": "",
+            "target_law_name": "소득세법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소득세법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:노무제공자의기준보수및보수액에서제외하는필요경비고시#DOC",
+            "reference_id": "law:소득세법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "제12조제2호 또는 제5호",
+            "line_text": "",
+            "target_law_name": "소득세법",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/소득세법/제12조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:노무제공자의기준보수및보수액에서제외하는필요경비고시#DOC",
+            "reference_id": "law:소득세법#JO0012"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "전문",
+            "source_clause": "전문",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:노무제공자의기준보수및보수액에서제외하는필요경비고시#DOC",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164994471",
+            "seq": "164994471"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164994473",
+            "seq": "164994473"
+          }
+        ],
+        "provision_id": "admrul:노무제공자의기준보수및보수액에서제외하는필요경비고시#DOC"
+      }
+    ]
+  },
+  "addenda": [],
+  "appendices": [],
+  "attachments": [
+    {
+      "name": "(고용노동부고시 제2026-46호)노무제공자의 기준보수 및 보수액에서 제외하는 필요경비 고시.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=164994223",
+      "file_store_url": "",
+      "filename": "(고용노동부고시 제2026-46호)노무제공자의 기준보수 및 보수액에서 제외하는 필요경비 고시.hwpx"
+    },
+    {
+      "name": "(고용노동부고시 제2026-46호)노무제공자의 기준보수 및 보수액에서 제외하는 필요경비 고시.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=164994227",
+      "file_store_url": "",
+      "filename": "(고용노동부고시 제2026-46호)노무제공자의 기준보수 및 보수액에서 제외하는 필요경비 고시.pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 5,
+    "by_category": {
+      "법령": 4,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 5
+    },
+    "articles_total": 1,
+    "articles_with_relations": 1,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 0,
+    "appendices_count": 0,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/노무제공자의 기준보수 및 보수액에서 제외하는 필요경비 고시"
+  },
+  "provision_id": "admrul:노무제공자의기준보수및보수액에서제외하는필요경비고시#DOC"
+}
