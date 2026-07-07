@@ -1,0 +1,2021 @@
+{
+  "law_id": "2100000281760",
+  "mst": "2100000281760",
+  "law_name": "간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준",
+  "law_abbr": "",
+  "law_type": "고시",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000281760",
+  "promulgation_no": "2026-3",
+  "promulgation_date": "20260707",
+  "enforcement_date": "20260707",
+  "revision_date": "20260707",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국립전파연구원(기술기준과)",
+    "담당자명": "김현기",
+    "행정규칙종류코드": "B0003",
+    "행정규칙명": "간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준",
+    "발령일자": "20260707",
+    "행정규칙종류": "고시",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "국립전파연구원",
+    "전화번호": "061-338-4623",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1721000",
+    "생성일자": "20260708",
+    "행정규칙ID": "2055206",
+    "시행일자": "20260707",
+    "담당부서기관코드": "1721141",
+    "발령번호": "2026-3",
+    "행정규칙일련번호": "2100000281760",
+    "상위부처명": "과학기술정보통신부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 제ㆍ개정 이유\n「전파법 시행령」(대통령령 제35408호, 2025. 4. 1.)의 개정으로 무선국 허가 또는 신고 대상 지구국 중 일부가 허가받은 것으로 보는 무선국으로 전환됨에 따라 해당 무선설비의 적합성평가 대상 적용을 위해 관련된 고시의 기술기준 등의 사항을 정비\n◇ 주요내용\n가. 현행의 일부 조문과 국제표준을 수용하여 지구국 공통조건으로 재편(제6조제2호가목)\n나. 허가받은 것으로 보는 무선국으로 전환된 지구국 무선설비가 전파 혼신을 주지 않도록 국제표준 또는 국제적으로 통용되는 기준을 수용하여 송ㆍ수신 세부 기준을 규정(제6조제2호사목)\n다. 해당 무선설비의 적합성평가 적용을 위한 다른 고시 동시 개정, 기 허가 또는 신고된 지구국의 권리 보호를 위한 경과규정 및 적용례를 규정(부칙)",
+  "body": {
+    "format": "articles",
+    "article_count": 23,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 고시는 「전파법」제45조 및 「전파법 시행령」(이하 ‘영’이라 한다) 제123조제1항제1의7호에 따라 간이무선국ㆍ우주국ㆍ지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제45조",
+            "line_text": "",
+            "target_law_name": "전파법",
+            "target_article_no": "제45조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전파법/제45조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0001",
+            "reference_id": "law:전파법#JO0045"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「전파법 시행령」",
+            "line_text": "",
+            "target_law_name": "전파법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전파법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0001",
+            "reference_id": "law:전파법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제123조제1항",
+            "line_text": "",
+            "target_law_name": "전파법 시행령",
+            "target_article_no": "제123조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전파법 시행령/제123조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0001",
+            "reference_id": "law:전파법시행령#JO0123"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적용범위",
+        "chapter": "",
+        "content": "제2조(적용범위) 이 고시에서 정하는 기술기준은 간이무선국ㆍ우주국ㆍ지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비(신고하지 아니하고 개설할 수 있는 무선국의 무선설비는 제외한다)에 대하여 이를 적용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제3조(정의) ① 이 고시에서 사용하는 용어의 정의는 다음과 같다.1. \"인접채널 누설전력\"이란 변조된 신호의 전파발사로 인하여 기본파의 상하로 인접해 있는 채널의 필요주파수대폭 내에 누설되는 전력을 말한다.2. \"일반업무용 간이무선국\"이란 국가기관, 국영기업체, 법인, 단체 및 개인사업자, 개인이 간단한 업무연락을 위하여 사용할 목적으로 개설하는 무선국을 말한다.3. \"마을 공지사항 안내용 간이무선국\"이란 읍ㆍ면ㆍ동사무소 또는 마을이장이 간단한 행정안내 및 마을 공지사항 전달을 목적으로 개설하는 무선국을 말한다.4. \"산업 및 공공용 무선설비\"란 산업체, 공공기관 등이 음성통신 또는 데이터통신을 목적으로 주파수를 지정받아 사용하는 무선국용 무선설비를 말한다.5. \"통합공공망용 무선설비\"란 재난안전통신망, 철도통합무선통신망 및 해상초고속무선통신망 등 공공기관에서 운영하는 통합공공망 전용주파수를 사용하는 무선국용 무선설비를 말한다.6. \"점유주파수대폭 또는 점유주파수대역폭\"이란 변조의 결과로 생기는 주파수대폭의 하한주파수 미만의 부분과 상한주파수를 초과하는 부분에서 각각 발사되는 평균전력이 따로 정하는 경우를 제외하고 각각 0.5%와 같은 주파수대폭을 말한다.7. \"지능형교통시스템용 무선설비\"란 국가기관, 공공기관 등이 도로 주변에 통신시스템을 설치하여 차량이용자에게 제공하는 차량안전 및 교통정보 서비스(긴급 상황 지원, 교차로 안전 서비스 등)에 이용되는 무선설비를 말한다.8. \"드론탐지레이다\"란 전파를 발사하고 반사 신호를 받아 드론 활용의 촉진 및 기반조성에 관한 법률 제2조제1항제1호 및 국가표준(KSW9000) 5.1에서 정한 드론에 대한 표적정보(거리, 위치, 이동속도 등)를 확인하는 무선설비를 말한다.② 이 고시에서 사용하는 용어의 뜻은 제1항에서 정하는 것을 제외하고는 「전파법」,「전파법 시행령」및「무선설비규칙」이 정하는 바에 따른다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "제2조제1항제1호",
+            "line_text": "",
+            "target_law_name": "간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준/제2조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0003",
+            "reference_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "「전파법 시행령」",
+            "line_text": "",
+            "target_law_name": "전파법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전파법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0003",
+            "reference_id": "law:전파법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "「무선설비규칙」",
+            "line_text": "",
+            "target_law_name": "무선설비규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0003",
+            "reference_id": "admrul:무선설비규칙#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "간이무선국의 무선설비",
+        "chapter": "",
+        "content": "제4조(간이무선국의 무선설비) ① 146 ㎒ 주파수대역, 222 ㎒ 주파수대역, 422 ㎒ 주파수대역(마을 공지사항 안내용 간이무선국 제외), 423 ㎒ 주파수대역 및 444 ㎒ 주파수대역의 간이무선국의 무선설비 기술기준은 다음 각 호와 같다.1. 공통조건가. 통신방식이 단신방식 또는 단향통신방식일 것나. 안테나공급전력은 5 W 이하일 것다. 송신안테나(수평면이 지향성을 가지고 있는 것을 제외한다)의 높이가 지상으로부터 30 m를 초과하지 아니할 것라. 주파수, 전파형식 및 안테나공급전력은 별표 1과 같을 것2. 디지털 시분할 다중접속방식을 사용하는 간이무선국의 무선설비의 기술기준은 다음 각 호와 같다.가. 전파형식은 F1D, F1E일 것나. 주파수허용편차는 ±1.5 x [그림] 이내일 것다. 점유주파수대폭은 8.5 ㎑ 이하일 것라. 스퓨리어스영역에서의 불요발사는 50+10log(PY) 또는 70 dBc 중 덜 엄격 한 값 이내일 것마. 인접채널 누설전력은 인접채널 대역 내에 누설되는 전력이 반송파 전력보다 60 dB 이상 낮은 값일 것3. 디지털 주파수분할 다중접속방식을 사용하는 간이무선국의 무선설비의 기술기준은 다음 각 호와 같다.가. 전파형식은 F1D, F1E일 것나. 주파수허용편차는 ±1.5 x [그림] 이내일 것다. 점유주파수대폭은 4 ㎑ 이하일 것라. 스퓨리어스발사의 허용치는 다음 조건을 만족할 것(1) 9 ㎑ 이상 1 ㎓ 미만의 주파수에서 100 ㎑ 분해대역폭으로 측정한 경우 -36 dBm 이하일 것(2) 1 ㎓ 이상 4 ㎓ 미만의 주파수에서 1 ㎒ 분해대역폭으로 측정한 경우 -30 dBm 이하일 것마. 인접채널 누설전력은 반송파 전력보다 다음 값 이상 낮은 값일 것(1) 지정주파수로부터 ±6.25 ㎑ 떨어진 주파수에서 100 ㎐ 분해대역폭으로 측정한 경우 60 dB(2) 지정주파수로부터 ±12.5 ㎑ 떨어진 주파수에서 100㎐ 분해대역폭으로 측정한 경우 70 dB② 422 MHz 주파수대역의 마을 공지사항 안내용 간이무선국의 무선설비 기술기준은 다음 각 호와 같다.1. 기기의 형태는 외부안테나를 사용하는 고정형일 것2. 송신시작 10분경과 후에 자동으로 송신을 종료시킬 수 있는 송신 시간 제한장치를 갖추고 자동으로 송신이 되지 않도록 하여 연속송신이 되지 아니할 것3. 통신방식이 단향통신방식일 것4. 안테나공급전력은 5 W 이하일 것5. 송신안테나(수평면이 지향성을 가지고 있는 것을 제외한다)의 높이가 지상으로부터 30 m를 초과하지 아니할 것6. 주파수, 전파형식 및 안테나공급전력은 별표 1의2와 같을 것7. 디지털 시분할 다중접속방식을 사용하는 무선설비는 제1항제2호의 조건을 만족할 것8. 디지털 주파수분할 다중접속방식을 사용하는 무선설비는 제1항제3호의 조건을 만족할 것",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준",
+            "target_article_no": "별표1",
+            "target_article_title": "간이무선국의 주파수·전파형식 및 안테나공급전력(제4조 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281760&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0004",
+            "reference_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#BYL0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "별표 1의2",
+            "line_text": "",
+            "target_law_name": "간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준",
+            "target_article_no": "별표1의2",
+            "target_article_title": "마을 공지사항 안내용 간이무선국의 주파수·전파형식 및 안테나공급전력(제4조제2항 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "2",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281760&bylNo=0001&bylBrNo=02",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0004",
+            "reference_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#BYL0001_02"
+          }
+        ],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166822893",
+            "seq": "166822893"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166822895",
+            "seq": "166822895"
+          }
+        ],
+        "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "고정점대점통신용 무선기기",
+        "chapter": "",
+        "content": "제5조(고정점대점통신용 무선기기) 71∼76 ㎓, 81∼86 ㎓ 주파수대역의 전파를 사용하는 고정점대점통신용 무선기기는 다음 조건에 적합하여야 한다.1. 안테나공급전력은 3W 이하, 등가등방복사전력은 55 ㏈W 이하, 전력밀도는 150 ㎽/100 ㎒ 이하 일 것2. 안테나 절대이득은 최소 43 ㏈i 이상이고 안테나 빔폭의 반치각은 1.2 ° 이내일 것3. 주파수허용편차는 ±150 x [그림] 이하일 것4. 점유주파수대폭은 5 ㎓ 이내일 것5. 각 주파수 대역에서 1 ㎒ 분해대역폭으로 측정한 불요발사는 다음의 기준 값 이하일 것[그림]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166822897",
+            "seq": "166822897"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166822899",
+            "seq": "166822899"
+          }
+        ],
+        "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "우주국 및 지구국 등의 무선설비",
+        "chapter": "",
+        "content": "제6조(우주국 및 지구국 등의 무선설비) 우주국 및 지구국의 무선설비, 우주무선통신 업무용과 같은 주파수를 이용하는 지상업무용 무선국 무선설비의 기술기준은 다음 각 호와 같다.1. 우주국가. 궤도, 전파발사 정지 등 위성운용에 관한 사항(1) 우주국은 관제설비에서 원격조작에 의하여 전파발사를 즉시 정지할 수 있는 기능을 보유할 것(2) 우주국의 설치장소(궤도위치)는 관제설비에서 원격조작에 의하여 변경할 수 있을 것. 다만, 비정지궤도위성에 대해서는 그러하지 아니한다.(3) 국제혼신 조정 등에 의해 필요하다고 인정되는 경우에는 안테나공급전력의 저감장치를 부착할 것나. 전력속밀도의 허용치(1) 우주국 송신 신호에 의한 지표면에서의 전력속밀도의 허용치는 별표 3과 같아야 하며, 비정지궤도위성의 경우는 전파규칙 등 관련 국제 협약에 따를 것(2) 8025∼8400 ㎒ 주파수대역의 지구탐사위성 업무용 비정지궤도 위성에 따라 고정위성업무용 또는 기상위성업무용 정지궤도 위성에 발생하는 최대 전력속밀도는 임의의 4 kHz 폭에서 -174 dB(W/㎡)를 초과하지 않을 것(3) 8025∼8400 ㎒ 주파수대역의 지구탐사위성 업무용 정지궤도 위성의 송신 신호에 의한 지표면에서의 전력속밀도는 임의의 1 MHz 폭에서 다음의 값을 초과하지 않을 것-135 dB(W/m2) (0 ≤ φ < 5˚)-135 + 0.5 (φ-5) dB(W/m2) (5 ≤ φ < 25˚)-135 dB(W/m2) (25 ≤ φ ≤ 25˚)φ: 위성 송신신호와 수평면 사이의 각다. 궤도의 유지(1) 고정위성업무 또는 방송위성업무에 분배된 주파수를 사용하는 정지궤도상의 우주국(실험국 제외)은 그 위치를 공칭경도의 ±0.1 ° 이내로 유지할 것(2) ⑴의 우주국 이외의 것으로서 정지궤도에 설치된 것은 그 위치를 공칭경도의 ±0.5 ° 이내로 위치를 유지할 것(3) 정지궤도상의 우주국이 남북 방향의 궤도 위치 유지 기능을 수행하지 않는 경우, 해당 우주국과 지구국은 다음 사항을 준수하여야 한다.(가) 지구 표면상의 위성 안테나 빔 패턴과 위성의 지정된 서비스 지역을 계속 유지하기 위하여 위성 자세를 교정하여야 한다.(나) 사전 허가된 위성 경도 위치 유지 범위를 만족하기 위한 동서 방향의 궤도 유지 기능은 계속 수행하여야 한다.(다) 남북 방향의 궤도 위치 유지 기능을 수행할 때 보다 타 위성망에 더 큰 간섭을 주지 않아야 하며, 타 위성망으로부터 더 큰 보호도 요구할 수 없다. 다만, 국제전기통신연합의 전파규칙에서 정하는 조정절차에 따라 해당 위성망의 관련 주관청으로부터 동의를 획득한 경우에는 예외로 한다.라. 정지궤도위성 송신안테나의 지향 정밀도: 정지궤도위성에 설치된 우주국 송신 안테나의 지구지향 정밀도는 최대복사 지향 방향이(1) 반전력 빔폭의 10 %가 공칭 지향 방향 내에 있거나(2) 공칭 지향 방향에 대해서 0.3 ° 이내로 유지될 것. 이 경우 두 조건의 각도가 다를 경우에는 큰 것을 적용한다.2. 지구국가. 공통조건1) 지구국 송신안테나의 최대복사방향과 수평면이 이루는 각(이하 ‘앙각’이라 한다)은 각각 다음과 같을 것가) 지구로부터의 거리가 2×[그림] ㎞이상의 심우주와 관계있는 우주연구업무인 과학 또는 기술에 관한 연구나 조사를 위한 우주무선통신업무를 수행할 경우에는 10 ° 이상나) 가)의 우주연구업무외의 우주연구업무를 행할 경우에는 5 ° 이상다) 우주연구업무외의 우주무선통신업무를 행할 경우에는 3 ° 이상2) 지구국의 수평면에 대한 등가등방복사전력의 허용치는 별표 4와 같을 것3) 「전파법 시행령」 제21조제2호에 따른 지구국으로서 고정위성업무 주파수 대역에서 운용하는 지구국은 다음의 조건을 갖출 것가) 이동형지구국은 통신 상대 우주국 또는 「전기통신사업법」에 따른 국경 간 공급 승인을 받은 외국 위성을 자동으로 추적이 가능할 것, 다만, 이동형지구국이 위성을 자동으로 추적할 수 없는 경우에는 즉시 송신을 정지할 것나) 다른 일반지구국 또는 다른 국가에 설치된 설비(「전기통신사업법」에 따른 국경 간 공급 승인을 받은 외국 위성을 이용하는 경우에 한함)로부터 주파수 및 복사하는 전력이 설정되는 등 제어를 받는 지구국은 제어 신호가 수신된 경우에만 송신할 것, 다만, 지구국이 제어 신호를 정상적으로 수신할 수 없는 경우에는 송신을 정지할 것다) 지구국은 고장을 검출하여야 하며 고장을 검출한 경우에는 1초 이내에 송신을 정지할 것4) 해상이동형지구국의 경우 별표 4의2의 등가등방복사전력을 초과하지 않을 것5) 항공이동형지구국의 경우 별표 4의3의 전력속밀도를 초과하지 않을 것나. 지구국의 기준방사도고정위성업무를 수행하는 지구국의 경우, 다음을 만족할 것G = 29 - 25 Log (φ) dBi    (α ≤ φ ≤ 7 ˚)G =              +8 dBi    (7 ˚ < φ ≤ 9.2 ˚)G = 32 - 25 Log (φ) dBi    (9.2 ˚ < φ ≤ 48 ˚)G =             -10 dBi    (48 ˚ < φ ≤ 180 ˚)다만, D/λ가 50 이하 일 경우에는 다음을 만족할 것G = 32 - 25 Log (φ) dBi    (α < φ ≤ 48 ˚)G = -10 dBi    (48 ˚ < φ ≤ 180˚)[그림]다. 삭제라. 24.65∼24.75 GHz를 이용하는 위성업무용 지구국의 안테나 지름은 4.5 m 이상이어야 한다.마. 가목에서 라목에도 불구하고 고도 650 ㎞ 이하의 고정위성업무용으로 분배된 주파수대역에서 운용되는 비정지궤도 위성과 통신하기 위하여 14∼14.5 ㎓ 주파수대역에서 송신하고 10.7∼12.7 ㎓ 주파수대역에서 수신하는 지구국의 조건은 다음과 같다.(1) 일반 조건(가) 지구국은 통신 상대 우주국 또는 「전기통신사업법」에 따른 국경 간 공급 승인을 받은 외국 위성을 자동으로 추적이 가능하여야 한다. 다만, 지구국이 위성을 자동으로 추적할 수 없는 경우에는 즉시 송신을 정지하여야 한다.(나) 다른 일반지구국 또는 다른 국가에 설치된 설비(「전기통신사업법」에 따른 국경 간 공급 승인을 받은 외국 위성을 이용하는 경우에 한함)로부터 주파수 및 복사하는 전력이 설정되는 등 제어를 받는 지구국은 제어 신호가 수신된 경우에만 송신하여야 한다. 다만, 지구국이 제어 신호를 정상적으로 수신할 수 없는 경우에는 송신을 정지하여야 한다.(다) 지구국은 고장을 검출하여야 하며 고장을 검출한 경우에는 1초 이내에 송신을 정지하여야 한다.(2) 송ㆍ수신장치의 조건(가) 전파형식은 D7W 또는 G7W일 것(나) 점유주파수대역폭은 62.5 ㎒ 이내일 것(다) 송신설비의 최대 등가등방복사전력 스펙트럼 밀도는 0.2 ㏈W/4 ㎑를 초과하지 아니하고, 송신 안테나 복사방향의 최저 앙각은  25° 이상 일 것(라) 불요발사의 평균전력은 다음 조건을 만족할 것1) 송신 점유주파수대역폭 내에서 4 ㎑ 대역폭으로 측정된 평균전력과 채널 중심주파수로부터 점유주파수대역폭의 50 % 초과 100 %까지의 구간에서 임의의 4 ㎑ 측정 대역폭 내에 발사되는 평균전력의 차이: 25 ㏈ 이상2) 송신 점유주파수대역폭 내에서 4 ㎑ 대역폭으로 측정된  평균전력과 채널 중심주파수로부터 점유주파수대역폭의 100 % 초과 250 %까지의 구간에서 임의의 4 ㎑ 측정 대역폭 내에 발사되는 평균전력의 차이: 35 ㏈ 이상3) 송신 점유주파수대역폭 내에서 4 ㎑ 대역폭으로 측정된 평균전력과 채널 중심주파수로부터 점유주파수대역폭의 250% 초과 주파수대역에서 임의의 4 ㎑ 측정대역폭 내에 발사되는 평균전력의 차이: 43 ㏈ + 10log(4 ㎑당 평균송신전력(W)) 이상(마) 주파수허용편차는 「무선설비규칙」 제5조에 의한 조건에 적합할 것(바) 부차적 전파발사는 송신 불가 상태(반송파 송신 비활성화 상태)에서 아래 표의 등가등방복사전력 스펙트럼 밀도를 초과하지 않을 것[그림](사) 송신안테나의 빔 중심으로부터 이격각별 40 ㎑ 대역폭 당 등가등방복사전력은 아래의 표를 만족할 것[그림](아) 국립전파연구원장은 (가) 부터 (사)를 만족함에도 불구하고 지구국이 다른 무선국 통신에 전파 간섭을 주거나 전파 간섭이 발생할 우려가 있는 경우에 전파 간섭이 발생하지 않도록 송ㆍ수신장치의 기준을 변경하거나 추가할 수 있다.바. 가목에서 마목에도 불구하고 고도 1,100 ㎞ 이상 1,300 ㎞ 이하의 고정위성업무용으로 분배된 주파수대역에서 운용되는 비정지궤도 위성과 통신하기 위하여 14∼14.5 ㎓ 주파수대역에서 송신하고 10.7∼12.7 ㎓ 주파수대역에서 수신하는 지구국의 조건은 다음과 같다.(1) 일반 조건(가) 지구국은 통신 상대 우주국 또는 「전기통신사업법」에 따른 국경 간 공급 승인을 받은 외국 위성을 자동으로 추적이 가능하여야 한다. 다만, 지구국이 위성을 자동으로 추적할 수 없는 경우에는 즉시 송신을 정지하여야 한다.(나) 다른 일반지구국 또는 다른 국가에 설치된 설비(「전기통신사업법」에 따른 국경 간 공급 승인을 받은 외국 위성을 이용하는 경우에 한함)로부터 주파수 및 복사하는 전력이 설정되는 등 제어를 받는 지구국은 제어 신호가 수신된 경우에만 송신하여야한다. 다만, 지구국이 제어 신호를 정상적으로 수신할 수 없는 경우에는 송신을 정지하여야 한다.(다) 지구국은 고장을 검출하여야 하며 고장을 검출한 경우에는 1초 이내에 송신을 정지하여야 한다.(2) 송ㆍ수신장치의 조건(가) 전파형식은 D7W 또는 G7W일 것(나) 반송파 점유주파수대역폭은 20 MHz 이내이고, 전체 점유주파수대역폭은 40 MHz 이내일 것(다) 송신설비의 최대 등가등방복사전력 스펙트럼 밀도는 0.5 dBW/4 ㎑를 초과하지 아니하고, 송신안테나 복사방향의 최저 앙각은 35° 이상 일 것(라) 불요발사의 평균전력은 다음 조건을 만족할 것1) 송신 점유주파수대역폭 내에서 4 ㎑ 대역폭으로 측정된 평균전력과 채널 중심주파수로부터 점유주파수대역폭의 50 % 초과 100 %까지의 구간에서 임의의 4 ㎑ 측정 대역폭 내에 발사되는 평균전력의 차이: 25 ㏈ 이상2) 송신 점유주파수대역폭 내에서 4 ㎑ 대역폭으로 측정된  평균전력과 채널 중심주파수로부터 점유주파수대역폭의 100 % 초과 250 %까지의 구간에서 임의의 4 ㎑ 측정 대역폭 내에 발사되는 평균전력의 차이: 35 ㏈ 이상3) 송신 점유주파수대역폭 내에서 4 ㎑ 대역폭으로 측정된 평균전력과 채널 중심주파수로부터 점유주파수대역폭의 250% 초과 주파수대역에서 임의의 4 ㎑ 측정대역폭 내에 발사되는 평균전력의 차이: 43 ㏈ + 10log(4 ㎑당 평균송신전력(W)) 이상(마) 주파수허용편차는 「무선설비규칙」 제5조에 의한 조건에 적합할 것(바) 부차적 전파발사는 송신 불가 상태(반송파 송신 비활성화 상태)에서 아래 표의 등가등방복사전력 스펙트럼 밀도를 초과하지 않을 것[그림](사) 송신안테나의 빔 중심으로부터 이격각별 40㎑ 대역폭 당 등가등방복사전력은 아래의 표를 만족할 것[그림](아) 국립전파연구원장은 (가) 부터 (사)를 만족함에도 불구하고 지구국이 다른 무선국 통신에 전파 간섭을 주거나 전파 간섭이 발생할 우려가 있는 경우에 전파 간섭이 발생하지 않도록 송ㆍ수신장치의 기준을 변경하거나 추가할 수 있다.사. 마목과 바목을 제외한 「전파법 시행령」 제21조제2호에 따른 지구국으로서 고정위성업무 주파수 대역에서 운용하는 지구국의 조건1) 최소 및 최대 주파수, 전파형식, 점유주파수대역폭, 최대 등가등방복사전력은 「전파법」 제10조에 따른 주파수 할당 또는 「전기통신사업법」 제86조 및 제87조에 따른 국경 간 공급 협정에서 승인된 위성망과 통신하기 위한 상향링크의 제원을 만족할 것2) 불요발사는 다음 조건을 만족할 것가) 송신 점유주파수대역의 가장자리 양쪽 끝부터 점유주파수대역폭의 200 %까지의 임의의 구간에서 4 ㎑ 대역폭으로 측정된 평균전력밀도가 4 ㎑ 대역폭으로 측정된 점유주파수대역폭내의 평균전력밀도의 최대값보다 40 × log(F/50 + 1) ㏈ 이상 작을 것. 여기서 F는 점유주파수대역폭 양쪽 끝에서부터 이격된 주파수로, 점유주파수대역폭의 백분율로 표시함나) 송신 점유주파수대역의 가장자리 양쪽 끝부터 점유주파수대역폭의 200 % 초과 주파수 임의의 구간에서 4 ㎑ 대역폭으로 측정된 평균전력밀도가 4 ㎑ 대역폭으로 측정된 점유주파수대역폭내의 평균전력밀도의 최대값보다 40 ㏈ 이상 작을 것3) 주파수허용편차는 「무선설비규칙」제5조에 의한 조건에 적합할 것4) 부차적 전파발사는 송신 불가 상태(반송파 송신 비활성화 상태)에서 별표 4의4의 등가등방복사전력 스펙트럼 밀도를 초과하지 않을 것5) 축외(off-axis) 등가등방복사전력밀도는 별표 4의5의 스펙트럼 밀도를 초과하지 않을 것6) 나목에도 불구하고 지구국의 안테나 이득은 별표 4의6을 초과하지 않아야 하며 정지궤도 위성과 통신하는 지구국에만 적용할 것3. 지상업무용 무선국의 송신 출력제한 : 우주무선통신업무용과 동등한 사용 순위를 가지고 있는 주파수대역에서 운용하는 지상업무용 무선국은 아래사항을 준수해야 한다.가. 1∼10 ㎓ 주파수대역(1) 최대 등가등방 복사전력은 55 ㏈W를 초과하지 않을 것(2) 안테나에 공급되는 최대안테나공급전력은 13 ㏈W를 초과하지 않을 것(3) (1)에도 불구하고 송신안테나의 최대복사 방향이 정지궤도로부터 0.5도 이내의 범위일 경우에는 최대 등가등방복사전력이 47 dBW를 초과하지 않아야하며, 정지궤도로부터 0.5도에서 1.5도의 범위일 경우에는 최대 등가등방복사전력이 55 - 8ㆍ(1.5 - X) dBW (여기서 X는 정지궤도로부터 이격된 각도)를 초과하지 않을 것나. 10∼18.6 ㎓ 및 18.8 ㎓ 초과 주파수대역(1) 최대 등가등방복사전력은 55 ㏈W를 초과하지 않을 것(2) 안테나에 공급되는 최대 안테나공급전력은 10 ㏈W를 초과하지 않을 것(3) 21.4∼22 GHz 대역을 이용하는 지상업무용 무선국 송신신호의 전력속밀도는 인접 국가 국경의 지상 3 m 높이에서 -120.4 dB (W/(㎡/MHz))를 초과하지 않을 것다. 18.6∼18.8 ㎓ 주파수대역(1) 최대 등가등방복사전력은 55 ㏈W를 초과하지 않을 것(2) 안테나에 공급되는 최대 안테나공급전력은 -3 dBW 를 초과하지 않을 것4. 본 고시에 포함되어 있지 않는 사항은 국제전기통신연합의 전파규칙 등 관련 국제협약에 따를 것",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준",
+            "target_article_no": "별표3",
+            "target_article_title": "우주국의 전력속밀도의 허용치(제6조제1호나목 관련)",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281760&bylNo=0003&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0006",
+            "reference_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#BYL0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "별표 4",
+            "line_text": "",
+            "target_law_name": "간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준",
+            "target_article_no": "별표4",
+            "target_article_title": "지구국의 등가등방복사전력의 허용치(제6조제2호가목2세호 관련)",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281760&bylNo=0004&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0006",
+            "reference_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#BYL0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「전파법 시행령」",
+            "line_text": "",
+            "target_law_name": "전파법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전파법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0006",
+            "reference_id": "law:전파법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제21조제2호",
+            "line_text": "",
+            "target_law_name": "전파법 시행령",
+            "target_article_no": "제21조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전파법 시행령/제21조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0006",
+            "reference_id": "law:전파법시행령#JO0021"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「전기통신사업법」",
+            "line_text": "",
+            "target_law_name": "전기통신사업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전기통신사업법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0006",
+            "reference_id": "law:전기통신사업법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「전기통신사업법」",
+            "line_text": "",
+            "target_law_name": "전기통신사업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전기통신사업법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0006",
+            "reference_id": "law:전기통신사업법#DOC"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "별표 4의2",
+            "line_text": "",
+            "target_law_name": "간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준",
+            "target_article_no": "별표4의2",
+            "target_article_title": "해상이동형지구국의 등가등방복사전력(제6조제2호가목4세호 관련)",
+            "appendix_no": "4",
+            "appendix_branch": "2",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281760&bylNo=0004&bylBrNo=02",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0006",
+            "reference_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#BYL0004_02"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "별표 4의3",
+            "line_text": "",
+            "target_law_name": "간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준",
+            "target_article_no": "별표4의3",
+            "target_article_title": "항공이동형지구국의 전력속밀도(Power Flux Density)(제6조제2호가목5세호 관련)",
+            "appendix_no": "4",
+            "appendix_branch": "3",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281760&bylNo=0004&bylBrNo=03",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0006",
+            "reference_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#BYL0004_03"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「전기통신사업법」",
+            "line_text": "",
+            "target_law_name": "전기통신사업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전기통신사업법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0006",
+            "reference_id": "law:전기통신사업법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「전기통신사업법」",
+            "line_text": "",
+            "target_law_name": "전기통신사업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전기통신사업법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0006",
+            "reference_id": "law:전기통신사업법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「무선설비규칙」",
+            "line_text": "",
+            "target_law_name": "무선설비규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0006",
+            "reference_id": "admrul:무선설비규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제5조",
+            "line_text": "",
+            "target_law_name": "무선설비규칙",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0006",
+            "reference_id": "admrul:무선설비규칙#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「전기통신사업법」",
+            "line_text": "",
+            "target_law_name": "전기통신사업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전기통신사업법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0006",
+            "reference_id": "law:전기통신사업법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「전기통신사업법」",
+            "line_text": "",
+            "target_law_name": "전기통신사업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전기통신사업법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0006",
+            "reference_id": "law:전기통신사업법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「무선설비규칙」",
+            "line_text": "",
+            "target_law_name": "무선설비규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0006",
+            "reference_id": "admrul:무선설비규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제5조",
+            "line_text": "",
+            "target_law_name": "무선설비규칙",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0006",
+            "reference_id": "admrul:무선설비규칙#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「전파법 시행령」",
+            "line_text": "",
+            "target_law_name": "전파법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전파법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0006",
+            "reference_id": "law:전파법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제21조제2호",
+            "line_text": "",
+            "target_law_name": "전파법 시행령",
+            "target_article_no": "제21조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전파법 시행령/제21조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0006",
+            "reference_id": "law:전파법시행령#JO0021"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제10조",
+            "line_text": "",
+            "target_law_name": "전파법",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전파법/제10조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0006",
+            "reference_id": "law:전파법#JO0010"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「전기통신사업법」",
+            "line_text": "",
+            "target_law_name": "전기통신사업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전기통신사업법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0006",
+            "reference_id": "law:전기통신사업법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제86조 및 제87조",
+            "line_text": "",
+            "target_law_name": "전기통신사업법",
+            "target_article_no": "제86조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전기통신사업법/제86조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0006",
+            "reference_id": "law:전기통신사업법#JO0086"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제86조 및 제87조",
+            "line_text": "",
+            "target_law_name": "전기통신사업법",
+            "target_article_no": "제87조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전기통신사업법/제87조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0006",
+            "reference_id": "law:전기통신사업법#JO0087"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「무선설비규칙」",
+            "line_text": "",
+            "target_law_name": "무선설비규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0006",
+            "reference_id": "admrul:무선설비규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제5조",
+            "line_text": "",
+            "target_law_name": "무선설비규칙",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0006",
+            "reference_id": "admrul:무선설비규칙#JO0005"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "별표 4의4",
+            "line_text": "",
+            "target_law_name": "간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준",
+            "target_article_no": "별표4의4",
+            "target_article_title": "부차적 전파발사 등가등방복사전력밀도(제6조제2호사목4세호 관련)",
+            "appendix_no": "4",
+            "appendix_branch": "4",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281760&bylNo=0004&bylBrNo=04",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0006",
+            "reference_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#BYL0004_04"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "별표 4의5",
+            "line_text": "",
+            "target_law_name": "간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준",
+            "target_article_no": "별표4의5",
+            "target_article_title": "축외(off-axis) 등가등방복사전력밀도(제6조제2호사목5세호 관련)",
+            "appendix_no": "4",
+            "appendix_branch": "5",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281760&bylNo=0004&bylBrNo=05",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0006",
+            "reference_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#BYL0004_05"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "별표 4의6",
+            "line_text": "",
+            "target_law_name": "간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준",
+            "target_article_no": "별표4의6",
+            "target_article_title": "안테나 이득(제6조제2호사목6세호 관련)",
+            "appendix_no": "4",
+            "appendix_branch": "6",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281760&bylNo=0004&bylBrNo=06",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0006",
+            "reference_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#BYL0004_06"
+          }
+        ],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824129",
+            "seq": "166824129"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824131",
+            "seq": "166824131"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824137",
+            "seq": "166824137"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166822949",
+            "seq": "166822949"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824139",
+            "seq": "166824139"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166822951",
+            "seq": "166822951"
+          }
+        ],
+        "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "무선탐지업무용 무선설비",
+        "chapter": "",
+        "content": "제7조(무선탐지업무용 무선설비) 138∼174 ㎒ 주파수대역의 전파를 사용하는 무선탐지업무용 무선설비의 기술기준은 다음 각 호와 같다.1. 송신설비에서 발사되는 전파의 형식은 F(G)1D, F(G)2D 전파를 사용하는 것일 것2. 점유주파수대폭은 8.5 ㎑ 이내일 것3. 주파수허용편차는 다음과 같을 것가. 무선탐지육상국 : 지정주파수의 ±2.5 x [그림] 이내나. 무선탐지이동국 : 지정주파수의 ±5 x [그림] 이내4. 최대 주파수편이는 ±2.5 ㎑를 초과하지 않을 것5. 불요발사는 기본주파수의 첨두포락선전력보다 다음 값 이상 감쇠될 것가. 지정주파수로부터 4.25 ㎑ 이하 떨어진 주파수에서 100 ㎐ 분해대역폭으로 측정한 경우 0 ㏈나. 지정주파수로부터 4.25 ㎑ 초과 12.5 ㎑ 이하 떨어진 주파수에서 100 ㎐ 분해대역폭으로 측정한 경우 7.27(F-2.88 ㎑) ㏈(F : 4.25 ㎑ 초과 12.5 ㎑ 이하의 각 주파수 단위 ㎑)다. 지정주파수로부터 12.5 ㎑ 초과 50 ㎑ 이하 떨어진 주파수에서 100 ㎐ 분해대역폭으로 측정한 경우 50＋10log(P) ㏈(P : 반송파전력. 단위 W)라. 지정주파수로부터 50 ㎑ 초과한 주파수로부터 측정주파수 1 ㎓ 이하에서 10 ㎑ 분해대역폭으로 측정한 경우 50＋10log(P) ㏈마. 측정주파수 1 ㎓를 초과하는 주파수에서 1 ㎒ 분해대역폭으로  측정한 경우 50＋10log(P) ㏈6. 무선탐지이동국의 안테나의 절대이득은 2.15 ㏈i 이하일 것",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824181",
+            "seq": "166824181"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824141",
+            "seq": "166824141"
+          }
+        ],
+        "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "무선조정국용 무선설비",
+        "chapter": "",
+        "content": "제8조(무선조정국용 무선설비) 무선조정업무를 행하는 무선조정국의 무선설비로서 영 제25조 제2호 및 제4호에 해당하지 아니하는 것의 기술기준은 다음 각 호와 같다.1. 용도모형비행기, 모형보트, 무선조종용 발진기, 무선원격조정장치 또는 도난경보장치로서 사용하는 것2. 기술[그림]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "영",
+            "line_text": "",
+            "target_law_name": "전파법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전파법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0008",
+            "reference_id": "law:전파법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "제25조",
+            "line_text": "",
+            "target_law_name": "전파법 시행령",
+            "target_article_no": "제25조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전파법 시행령/제25조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0008",
+            "reference_id": "law:전파법시행령#JO0025"
+          }
+        ],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824183",
+            "seq": "166824183"
+          }
+        ],
+        "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "산업 및 공공용 무선설비",
+        "chapter": "",
+        "content": "제9조(산업 및 공공용 무선설비) 29.7 MHz∼50 MHz, 72 MHz∼76 MHz, 138 MHz∼174 MHz, 216 MHz∼223 MHz, 335.4 MHz∼470 MHz 주파수대역의 산업 및 공공용 무선설비의 기술기준은 다음 각 호와 같다. 다만, 실험국, 주파수공용무선전화의 무선국, 허가받지 아니하고 개설할 수 있는 무선국, 마을 공지사항 안내용 간이무선국을 제외한다.1. 공통조건가. 점유주파수대폭의 허용치는 별표 5와 같을 것나. 무선설비에는 사용하는 전파의 주파수가 표시되지 않아야 하고, 사용 주파수는 외부 주파수 입력장치를 통해서만 입력이 가능하여야 하며, 무선설비에서는 입력된 주파수 외 다른 주파수로 변경할 수 없을 것2. 주파수변조방식 또는 위상변조방식을 사용하는 무선설비가. 전파형식은 F1D, G1D, F2D, G2D, F3E, G3E 중 하나 이상을 사용하는 것일 것나. 변조주파수는 3000 Hz를 초과하지 아니할 것다. 주파수편이는 점유주파수대폭이 16 kHz인 송신장치의 경우 ±5 kHz를 초과하지 아니하고, 점유주파수대폭이 8.5 kHz인 송신장치의 경우 ±2.5 kHz를 초과하지 아니할 것라. 송신장치에는 \"다\"호의 주파수편이가 규정된 값을 초과하는 것을 방지하는 자동제어회로를 갖출 것. 다만, 안테나공급전력 2 W 이하의 송신장치에 대하여는 예외로 한다.마. \"라\"호의 자동제어장치와 변조기 사이에는 3㎑ 이상 15㎑ 이하의 각 주파수(F)에 대한 감쇠량이 1㎑에 의한 감쇠량보다 40log10(F/3) dB 이상인 저역여파기를 가지고 있을 것. 다만, 138 ㎒ 이상 174 ㎒ 이하 또는 335.4㎒ 이상 470 ㎒ 이하의 주파수대역의 전파를 사용하는 송신장치에 있어서는 60log10(F/3) dB 이상인 저역여파기를 가지고 있어야 한다.바. 인접채널 누설전력은 인접채널 대역 내에 누설되는 전력이 반송파 전력보다 60 dB 이상 낮은 값일 것3. 디지털 시분할 다중접속방식을 사용하는 무선설비가. 전파형식은 F1D, F1E, F7D, G7D, F7E, G7E 중 하나 이상을 사용하는 것일 것나. 안테나공급전력은 다음의 조건에 적합할 것(1) 기지국, 이동중계국 및 육상이동국은 25 W 이하일 것(2) 육상이동국 중 휴대용무선기기는 5 W 이하일 것다. 주파수허용편차는 ±1.5 x [그림] 이내일 것라. 점유주파수대폭의 허용치는 8.5 kHz 이하일 것마. 스퓨리어스영역에서의 불요발사는 50+10log10(PY) 또는 70 dBc 중 덜 엄격한 값 이내일 것바. 인접채널 누설전력은 인접채널 대역 내에 누설되는 전력이 반송파 전력보다 60 dB 이상 낮은 값일 것4. 디지털 주파수분할 다중접속방식을 사용하는 무선설비가. 전파형식은 F1D, F1E, F7D, F7E 중 하나 이상을 사용하는 것일 것나. 주파수허용편차는 ±1.5 x [그림] 이내일 것다. 점유주파수대폭은 4 kHz 이하일 것라. 스퓨리어스발사의 허용치는 다음 조건을 만족할 것(1) 9 kHz 이상 1 GHz 미만의 주파수에서 100 kHz 분해대역폭으로 측정한 경우 -36 dBm 이하일 것(2) 1 GHz 이상 4 GHz 미만의 주파수에서 1 MHz 분해대역폭으로 측정한 경우 -30 dBm 이하일 것마. 인접채널 누설전력은 반송파 전력보다 다음 값 이상 낮은 값일 것(1) 지정주파수로부터 ±6.25 kHz 떨어진 주파수에서 100 ㎐ 분해대역폭으로 측정한 경우 ±2 kHz 대역내에서 누설되는 전력이 60 dB(2) 지정주파수로부터 ±12.5 kHz 떨어진 주파수에서 100 ㎐ 분해대역폭으로 측정한 경우 ±2 kHz 대역내에서 누설되는 전력이 70 dB",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "별표 5",
+            "line_text": "",
+            "target_law_name": "간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준",
+            "target_article_no": "별표5",
+            "target_article_title": "점유주파수대폭의 허용치(제9조제1호가목 관련)",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281760&bylNo=0005&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0009",
+            "reference_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#BYL0005"
+          }
+        ],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824143",
+            "seq": "166824143"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824145",
+            "seq": "166824145"
+          }
+        ],
+        "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "단측파대를 사용하는 무선설비",
+        "chapter": "",
+        "content": "제10조(단측파대를 사용하는 무선설비) 단측파대를 사용하는 무선설비의 기술기준은 다음 각 호와 같다.1. R3E전파ㆍH3E전파 또는 J3E전파의 28 ㎒ 이하의 주파수를 사용하는 단일통신로의 송신장치는 다음표에 정한 조건에 적합할 것 다만, 항공이동업무의 무선국과 아마추어국의 송신장치에 있어서는 예외로 한다.[그림]2. 린콤팩스장치(음성을 주파수 부분과 억양 부분의 두 개의 성분으로 분리하여 주파수 부분은 SSB 변조하고 억양부분은 주파수변조한 후 이 2개의 신호를 복합하여 송신하는 장치와 이 복합 신호를 분리하여 수신, 복조하여 합성함으로서 충실도가 높은 음성을 재현하는 장치를 말한다)를 구비하는 송신장치는 다음표의 조건에 적합할 것[그림]3. 선택호출장치를 부착하는 송신장치는 선택호출신호를 송신하는 경우에 반송파를 첨가할 수 있을 것4. R3E전파ㆍH3E전파 및 J3E전파의 28 ㎒ 이하의 주파수를 사용하는 단일통신로의 수신 장치(항공이동업무의 무선국과 아마추어국의 것을 제외한다)는 다음표에 정한 조건에 적합할 것. 다만, 안테나공급전력 1 W 이하의 송신설비를 사용하는 무선국의 수신 장치에 있어서는 예외로 한다.[그림]5. 제4호의 수신 장치에서 린콤팩스 장치를 설치하는 것은 다음 표의 조건에 적합할 것[그림]6. 제5호의 수신장치에서 선택호출장치를 설치하는 것은 선택호출신호를 수신하는 경우에 반송파를 첨가한 해당 신호를 수신할 수 있을 것",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824147",
+            "seq": "166824147"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824149",
+            "seq": "166824149"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824151",
+            "seq": "166824151"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824153",
+            "seq": "166824153"
+          }
+        ],
+        "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "기상원조용 무선설비",
+        "chapter": "",
+        "content": "제11조(기상원조용 무선설비) ① 기상원조용 라디오존데의 기기는 다음 각 호와 같다.1. 400 ㎒ 주파수대역의 전파를 사용하는 경우 그 전파형식은 F9D 또는 F9X이고, 1680 ㎒ 주파수대역의 전파를 사용하는 경우 그 전파형식은 K2A 또는 K2B 일 것2. 해당기기의 전용안테나를 구비하여야 하며 안테나공급전력은 10 W 이하일 것3. 점유주파수대폭, 스퓨리어스영역에서의 불요발사는 「무선설비규칙」 제4조 및 제5조에 의한 조건에 적합할 것4. 주파수허용편차는 다음과 같을 것가. 400 ㎒ 주파수대역의 전파를 사용하는 경우 아날로그방식은 ±800 ㎑ 이하, 디지털방식은 ±20 ㎑ 이하일 것나. 1680 ㎒ 주파수대역의 전파를 사용하는 경우 아날로그방식은 ±4 ㎒ 이하, 디지털방식은 ±1 ㎒ 이하일 것② 기상원조용 라디오로보트 기기의 기술기준은 다음 각 호와 같다.1. 400 ㎒ 주파수대역의 전파를 사용하는 경우 그 전파형식은 A2A, A2B일 것2. 해당 기기의 전용안테나를 구비하여야 하며 안테나공급전력은 1 W 이하 일 것3. 주파수허용편차, 점유주파수대폭, 스퓨리어스영역에서의 불요발사는 「무선설비규칙」제3조부터 제5조까지에 의한 조건에 적합할 것",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "「무선설비규칙」",
+            "line_text": "",
+            "target_law_name": "무선설비규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0011",
+            "reference_id": "admrul:무선설비규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "제4조 및 제5조",
+            "line_text": "",
+            "target_law_name": "무선설비규칙",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0011",
+            "reference_id": "admrul:무선설비규칙#JO0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "제4조 및 제5조",
+            "line_text": "",
+            "target_law_name": "무선설비규칙",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0011",
+            "reference_id": "admrul:무선설비규칙#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제2항",
+            "link_text": "「무선설비규칙」",
+            "line_text": "",
+            "target_law_name": "무선설비규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0011",
+            "reference_id": "admrul:무선설비규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제2항",
+            "link_text": "제3조부터 제5조",
+            "line_text": "",
+            "target_law_name": "무선설비규칙",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0011",
+            "reference_id": "admrul:무선설비규칙#JO0003"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제2항",
+            "link_text": "제3조부터 제5조",
+            "line_text": "",
+            "target_law_name": "무선설비규칙",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0011",
+            "reference_id": "admrul:무선설비규칙#JO0003"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제2항",
+            "link_text": "제3조부터 제5조",
+            "line_text": "",
+            "target_law_name": "무선설비규칙",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0011",
+            "reference_id": "admrul:무선설비규칙#JO0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제2항",
+            "link_text": "제3조부터 제5조",
+            "line_text": "",
+            "target_law_name": "무선설비규칙",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0011",
+            "reference_id": "admrul:무선설비규칙#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제2항",
+            "link_text": "제3조부터 제5조",
+            "line_text": "",
+            "target_law_name": "무선설비규칙",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0011",
+            "reference_id": "admrul:무선설비규칙#JO0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "무선호출용 무선설비",
+        "chapter": "",
+        "content": "제12조(무선호출용 무선설비) 26.1∼50 ㎒, 72∼76 ㎒, 138∼143.6 ㎒, 146∼174 ㎒, 273∼328.6 ㎒, 335.4∼470 ㎒, 923.55∼924.45625 ㎒ 주파수대역의 전파 중 자가통신용으로 지정받아 설치하는 무선호출용 무선설비의 기술기준은 다음 각 호와 같다.1. 공통조건가. 무선호출을 위한 신호방식은 다음과 같을 것(1) 투톤방식 : 변조주파수는 502.5∼2000 ㎐ 이내로서 별표 6의 투톤방식의 변조주파수 조합표와 같을 것(2) 디지털코드방식 : 전송속도는 200 bps 이상일 것나. 무선호출로써 음성통신을 행하고자 할 경우에는 해당 기기의 무선호출신호를 송출한 후에 음성신호를 전송할 것다. 통신방식은 단향통신방식, 단신방식 또는 복신방식일 것라. 전파형식은 A1(2)D, F(G)1D, F(G)2D, F(G)1E, F(G)2E, A3E,  F(G)3E중 1 이상을 사용하는 것일 것2. 기지국 송신장치의 조건가. 안테나공급전력은 5 W 이하일 것나. 주파수허용편차는 「무선설비규칙」 제3조를 따른다.다. 점유주파수대폭은 16 ㎑ 이하일 것라. 디지털코드방식을 사용하는 경우 주파수편이는 ± 5 ㎑ 이내일 것마. 스퓨리어스영역에서의 불요발사는 다음과 같을 것(1) 안테나공급전력이 25 W를 초과하는 경우: 1 ㎽ 이하이고 기본주파수의 평균전력보다 70 ㏈ 낮은 값(2) 안테나공급전력이 25 W 이하일 경우: 2.5 ㎼ 이하바. 디지털코드방식을 사용하는 경우 인접채널 누설전력은 변조신호의 송신속도와 동일한 송신속도의 표준부호화 시험신호로 변조하였을 때 반송주파수로부터 25 ㎑ 떨어진 주파수의 ± 8 ㎑ 대역 내에 복사되는 전력이 2.5 ㎼ 이하일 것",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제12조",
+            "source_clause": "제12조",
+            "link_text": "별표 6",
+            "line_text": "",
+            "target_law_name": "간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준",
+            "target_article_no": "별표6",
+            "target_article_title": "투톤방식의 변조주파수 조합표(제12조제1호가목 관련)",
+            "appendix_no": "6",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281760&bylNo=0006&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0012",
+            "reference_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#BYL0006"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제12조",
+            "source_clause": "제12조",
+            "link_text": "「무선설비규칙」",
+            "line_text": "",
+            "target_law_name": "무선설비규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0012",
+            "reference_id": "admrul:무선설비규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제12조",
+            "source_clause": "제12조",
+            "link_text": "제3조",
+            "line_text": "",
+            "target_law_name": "무선설비규칙",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0012",
+            "reference_id": "admrul:무선설비규칙#JO0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "주파수공용통신용 무선설비",
+        "chapter": "",
+        "content": "제13조(주파수공용통신용 무선설비) 300 ㎒ 주파수대역의 전파를 사용하는 주파수공용통신용 무선설비의 기술기준은 다음 각 호와 같으며, 800 ㎒ 주파수대역의 전파를 사용하는 주파수공용통신용 무선설비는 전기통신사업용 무선설비 기술기준 제9조의 기술기준을 준용한다.1. 아날로그 통신방식의 주파수공용통신용 무선설비가. 공통조건(1) 통신방식은 단신, 반복신 또는 복신방식일 것(2) 송신에 사용되는 전파형식은 F1D, G1D, F2D, G2D, F3E, G3E, F9W, G9W중 1 이상을 사용하는 것일 것나. 송신장치의 조건(1) 주파수허용편차는 지정주파수의 ±2.5×[그림] 이내일 것(2) 점유주파수대폭은 8.5 ㎑ 이내일 것(3) 급전선(전파에너지를 전송하기 위하여 송신장치 또는 수신장치와 안테나 사이를 연결하는 선)에 공급되는 주파수마다의 스퓨리어스영역에서의 불요발사는 평균전력이 1 ㎽ 이하이고, 기본주파수의 평균전력보다 60 ㏈ 이상 낮은 값일 것(4) 인접채널 누설전력은 지정주파수로부터 ±12.5 ㎑ 떨어진 주파수의 ±4.25 ㎑ 대역 내에서 복사되는 전력이 기본주파수의 평균전력보다 60 ㏈ 이상 낮은 값일 것(5) 변조주파수는 3000 ㎐ 이내일 것(6) 주파수편이는 무변조 반송파의 주파수보다 ±2.5 ㎑ 이내일 것(7) 주파수편이가 (6)에 의한 값을 초과하는 것을 방지하는 자동제어장치를 구비할 것. 다만, 송신출력이 2 W 이하이거나 음성신호를 송신하지 않는 경우에는 예외로 한다.(8) 변조기의 앞쪽에 3 ㎑ 부터 15 ㎑의 각 주파수 (F : 단위 ㎑)에 대한 감쇠량이 1 ㎑에 의한 감쇠량보다 60log(F/3) ㏈ 이상인 저역여파기를 구비할 것. 다만, 음성신호를 송신하지 않는 경우에는 예외로 한다.(9) 이동중계국의 종합왜와 잡음은 1000 ㎐의 주파수로 최대주파수 편이의 70 %를 변조한 경우에 송신장치의 전력과 그 중에 포함되는 불요성분의 비가 20 ㏈ 이상일 것다. 변조부가 없는 이동중계국의 송신장치는 나목(1)부터 (4)까지의 조건에 적합할 것2. 디지털 통신방식의 주파수공용통신용 무선설비가. 공통조건(1) 통신방식은 반복신 또는 복신방식일 것(2) 송신에 사용되는 전파형식은 D1(C,D,E), D2(C,D,E), F1(C,D,E), F2(C,D,E), G1(C,D,E), G2(C,D,E), D7W, F7W, G7W, W7W중 1 이상을 사용하는 것일 것나. 송신장치의 조건(1) 주파수허용편차는 다음과 같을 것(가) 채널간격이 25 ㎑인 설비1) 이동중계국 : 지정주파수의 ±3×[그림] 이내2) 기지국ㆍ이동국 : 지정주파수의 ±4×[그림] 이내(나) 채널간격이 12.5 ㎑인 설비1) 이동중계국 : 지정주파수의 ±1.5×[그림] 이내2) 기지국ㆍ이동국 : 지정주파수의 ±2.5×[그림] 이내(2) 점유주파수대폭은 다음과 같을 것(가) 채널간격이 25 ㎑인 것 : 23 ㎑ 이내(나) 채널간격이 12.5 ㎑인 주파수분할 다중접속방식 및 시분할 다중접속방식 : 11.25 ㎑ 이내(3) 급전선에 공급되는 주파수마다의 불요발사는 다음과 같을 것. 다만, 다수의 주파수를 급전선에 공급할 수 있는 경우에는 조합이 가능한 단수 및 복수의 주파수에 대해서 다음의 기준을 적용하되, 조합이 복수의 주파수인 경우에는 제일 낮은 주파수의 왼쪽과 제일 높은 주파수의 오른쪽에 대해서 적용한다.(가) 채널간격이 25 ㎑인 주파수분할 다중접속방식 및 시분할 다중접속방식은 무변조 반송파의 평균전력보다 다음 값 이상 감쇠될 것1) 지정주파수로부터 12.5 ㎑ 이상 50 ㎑ 이하 떨어진 주파수에서 300 ㎐ 분해대역폭으로 측정한 경우 116log10(F/6.1) ㏈ (F : 10㎑ 이상 50 ㎑ 이하의 각 주파수 단위 ㎑), 50+10log10(P) ㏈(P : 반송파전력 단위 W) 또는 70 ㏈ 중 적은 감쇠2) 지정주파수로부터 50 ㎑ 초과하여 떨어진 주파수에서 30 ㎑ 분해대역폭으로 측정한 경우 43+10log10(P) ㏈(나) 채널간격이 25 ㎑인 주파수도약 다중접속방식은 기본주파수의 첨두포락선전력보다 다음 값 이상 감쇠될 것1) 지정주파수로부터 12.5 ㎑ 이상 50 ㎑ 이하 떨어진 주파수에서 300 ㎐ 분해대역폭으로 측정한 경우 116log10(F/6.1) ㏈ (F: 12.5 ㎑ 이상 50 ㎑ 이하의 각 주파수 단위 ㎑), 50+10log10(P) ㏈(P: 첨두포락선전력 단위 W) 또는 80 ㏈ 중 적은 감쇠2) 지정주파수로부터 50 ㎑ 초과하여 떨어진 주파수에서 30 ㎑ 분해대역폭으로 측정한 경우 43+10log10(P) ㏈(다) 채널간격이 12.5 ㎑인 주파수분할 다중접속방식 및 시분할 다중접속방식은 기본주파수의 첨두포락선전력보다 다음 값 이상 감쇠될 것1) 지정주파수로부터 5.625 ㎑ 이하 떨어진 주파수에서 100 ㎐ 분해대역폭으로 측정한 경우 0 ㏈2) 지정주파수로부터 5.625 ㎑ 초과 12.5 ㎑ 이하 떨어진 주파수에서 100 ㎐ 분해대역폭으로 측정한 경우 7.27(F-2.88㎑) ㏈(F : 5.625 ㎑ 초과 12.5 ㎑ 이하의 각 주파수. 단위 ㎑)3) 지정주파수로부터 12.5 ㎑ 초과 55.625 ㎑ 이하 떨어진 주파수에서 100 ㎐ 분해대역폭으로 측정한 경우 50+10log10(P) ㏈ (P : 첨두포락선전력. 단위 W) 또는 70 ㏈ 중 적은 감쇠4) 지정주파수로부터 55.625 ㎑ 초과한 주파수부터 측정주파수 1 ㎓ 이하에서 10 ㎑ 분해대역폭으로 측정한 경우 50+10log10(P) ㏈ 또는 70 ㏈ 중 적은 감쇠5) 측정주파수 1 ㎓를 초과하는 주파수에서 1 ㎒ 분해대역폭으로 측정한 경우 50+10log10(P) ㏈ 또는 70 ㏈ 중 적은 감쇠다. 변조부가 없는 이동중계국의 송신장치는 나목의 (1)(가)1), (1)(나)1), (2) 및 (3)의 조건에 적합할 것",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제13조",
+            "source_clause": "제13조",
+            "link_text": "제9조",
+            "line_text": "",
+            "target_law_name": "기술기준",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/기술기준/제9조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0013",
+            "reference_id": "admrul:기술기준#JO0009"
+          }
+        ],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166827073",
+            "seq": "166827073"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824155",
+            "seq": "166824155"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824157",
+            "seq": "166824157"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824231",
+            "seq": "166824231"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824233",
+            "seq": "166824233"
+          }
+        ],
+        "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "방송제작 및 공연 지원용 무선설비",
+        "chapter": "",
+        "content": "제14조(방송제작 및 공연 지원용 무선설비) 470∼698 ㎒ 주파수대의 전파를 사용하는 무선마이크 및 음향신호전송 등 방송제작 및 공연 지원용 무선설비의 기술기준은 다음 각 호와 같다.1. 아날로그 통신방식가. 실효복사전력은 250 mW 이하일 것나. 점유주파수대폭은 200 ㎑ 이하일 것다. 주파수허용편차는 ±20 x [그림] 이하일 것라. 최대주파수편이는 ±75 ㎑ 이하일 것마. 불요발사는 다음과 같을 것(1) 반송파의 주파수로부터 70 ㎑ 이상 떨어진 주파수에서 1 ㎑ 분해대역폭으로 측정한 경우 반송파의 평균전력에 비하여 20 dB 이상 낮을 것(2) 반송파의 주파수로부터 100 ㎑ 이상 떨어진 주파수에서 1 ㎑ 분해대역폭으로 측정한 경우 반송파의 평균전력에 비하여 60 dB 이상 낮을 것(3) 반송파의 주파수로부터 200 ㎑ 이상 떨어진 주파수에서 1 ㎑ 분해대역폭으로 측정한 경우 반송파의 평균전력에 비하여 80 dB 이상 낮을 것(4) 반송파의 주파수로부터 1 ㎒ 이상 떨어진 주파수에서 1 ㎑ 분해대역폭으로 측정한 경우 반송파의 평균전력에 비하여 90 dB 이상 낮을 것(5) 스퓨리어스 영역에서의 불요발사는 다음의 기준 값 이하일 것[그림](6) 송신 대기 상태의 부차적 전파발사는 다음의 기준 값 이하일 것[그림]바. 사용자 설명서에 \"이 기기는 전파법에 따라 과학기술정보통신부장관의 허가를 받고 운용하여야 합니다\"라는 문구를 명시할 것2. 디지털 하이브리드 통신방식을 포함한 디지털 통신방식가. 실효복사전력은 250 mW 이하일 것나. 점유주파수대폭은 200 ㎑ 이내일 것다. 주파수허용편차는 ±20 x [그림] 이하일 것라. 불요발사는 다음과 같을 것(1) 반송파 주파수로부터 100 ㎑ 이상 떨어진 주파수에서 1 ㎑ 분해대역폭으로 측정한 경우 반송파의 평균전력에 비하여 30 dB 이상 낮을 것(2) 반송파 주파수로부터 350 ㎑  이상 떨어진 주파수에서 1 ㎑ 분해대역폭으로 측정한 경우 반송파의 평균전력에 비하여 80 dB 이상 낮을 것(3) 반송파 주파수로부터 1 ㎒ 이상 떨어진 주파수에서 1 ㎑ 분해대역폭으로 측정한 경우 반송파의 평균전력에 비하여 90 dB 이상 낮을 것(4) 제1호 마목 (5)과 (6)에 적합할 것마. 사용자 설명서 기재사항은 제1호 바 목의 규정을 준용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166827075",
+            "seq": "166827075"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824237",
+            "seq": "166824237"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824239",
+            "seq": "166824239"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166826989",
+            "seq": "166826989"
+          }
+        ],
+        "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "비상통신 보조용 무선설비",
+        "chapter": "",
+        "content": "제15조(비상통신 보조용 무선설비) 917 MHz∼922.1 MHz 주파수대역의 비상통신 보조용 무선설비의 기술기준은 다음 각 호와 같다.1. 전파형식은 F2E, F7D, G7D, F7E, G7E 중 하나 이상을 사용하는 것일 것2. 실효복사전력은 1 W 이하일 것3. 주파수허용편차는 ±20 x [그림] 이하일 것4. 호핑 채널당 점유주파수대폭은 50 kHz 이하일 것5. 호핑 채널은 중첩되지 않는 20개 이상일 것6. 하나의 호핑 채널에서의 체류시간(Dwell Time)은 0.4초 이내 일 것7. 인접채널 누설전력은 반송파 주파수로부터 25 kHz 이상 떨어진 주파수에서 1 kHz 분해대역폭으로 측정한 경우 반송파의 평균전력에 비하여 55 dB 이상 낮은 값일 것",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166827077",
+            "seq": "166827077"
+          }
+        ],
+        "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "해양경비안전망용 무선설비",
+        "chapter": "",
+        "content": "제16조(해양경비안전망용 무선설비) 897.90 MHz∼897.93 MHz 주파수대역의 해양경비안전망용 무선설비의 기술기준은 다음 각 호와 같다.1. 전파형식은 F(G)1C, F(G)1D, F(G)2C, F(G)2D, F(G)7W 중 하나 이상을 사용하는 것일 것2. 안테나공급전력은 3 W 이하일 것3. 주파수의 허용편차는 지정주파수의 ±1 x [그림] 이내일 것4. 점유주파수대폭의 허용치는 10 kHz 이하일 것5. 송신장치에서 방사되는 전력은 무변조 기본파의 평균전력보다 다음 값 이상 감쇠될 것(Fd는 점유주파수대폭의 중심주파수로부터 측정주파수 간의 간격만큼 떨어진 변위(變位) 주파수로 단위는 kHz이고 P는 반송파전력으로 단위는 W임)가. 점유주파수대폭의 중심주파수로부터 2.5 kHz 이상 6.25 kHz 미만 떨어진 주파수에서 300 Hz 분해대역폭으로 측정한 경우 53log10(Fd/2.5) dB나. 점유주파수대폭의 중심주파수로부터 6.25 kHz 이상 9.5 kHz 미만 떨어진 주파수에서 300 Hz 분해대역폭으로 측정한 경우 103log10(Fd/3.9) dB다. 점유주파수대폭의 중심주파수로부터 9.5 kHz 이상 50 kHz 미만 떨어진 주파수에서 300 Hz 분해대역폭으로 측정한 경우 157log10(Fd/5.3) dB, 50+10log10(P) dB 또는 70 dB 중 작은 값라. 점유주파수대폭의 중심주파수로부터 50 kHz 이상 떨어진 주파수에서 43+10log10(P) dB. 단, 1 GHz 미만에서는 100 kHz 분해대역폭을 1 GHz 이상에서는 1 MHz 분해대역폭을 적용함",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824241",
+            "seq": "166824241"
+          }
+        ],
+        "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "통합공공망용 무선설비",
+        "chapter": "",
+        "content": "제17조(통합공공망용 무선설비) 718 ㎒∼728 ㎒ 및 773 ㎒∼783 ㎒ 주파수 대역의 전파를 사용하는 통합공공망용 무선설비의 기술기준은 다음 각 호와 같다.1. 공통조건가. 통신방식은 단말기 방향은 직교주파수분할다중접속방식(OFDMA)이고, 기지국 방향은 단일반송파 주파수분할 다중접속방식(SC-FDMA)인 주파수분할 복신방식 일 것 (단, 이동국의 핸드오프(통화채널 자동전환기능)를 위해 기지국에 부가적으로 설치하는 장치는 시분할 단향통신 방식을 사용할 수 있다)나. 점유주파수대역폭은 10 ㎒ 이내일 것(단, 사물인터넷 단말기는 1.4 ㎒ 이내일 것)다. 전파형식은 G7D, D7D, D7W, G7W 또는 W7W 중 하나 이상을 사용하는 것일 것2. 기지국 또는 육상국 송신장치의 조건가. 주파수허용편차는 다음 조건을 만족할 것(1) 기본주파수의 평균전력이 24 ㏈m 초과인 경우, 지정주파수의 ±(지정주파수×5×[그림]+12 ㎐) 이내일 것(2) 기본주파수의 평균전력이 20 ㏈m 초과 24 ㏈m 이하인 경우, 지정주파수의 ±(지정주파수×1×[그림]+12 ㎐) 이내일 것(3) 기본주파수의 평균전력이 20 ㏈m 이하인 경우, 지정주파수의 ±(지정주파수×2.5×[그림]+12 ㎐) 이내일 것나. 안테나공급전력은 80 W 이하일 것다. 불요발사는 다음 조건을 만족할 것(1) 기본주파수의 평균전력이 24 ㏈m초과인 경우(가) 지정주파수로부터 ±5.05 ㎒ 이상 ±10.05 ㎒ 미만 떨어진 주파수에서 100 ㎑ 분해대역폭으로 측정한 평균전력이 [-5.5 - 7/5×(△f-5.05)] ㏈m 이하일 것(나) 지정주파수로부터 ±10.05 ㎒ 이상 ±15.05 ㎒ 미만 떨어진 주파수에서 100 ㎑ 분해대역폭으로 측정한 평균전력이 -12.5 ㏈m 이하일 것(다) 718 ㎒ 이상 728 ㎒ 이하의 주파수에서 100 ㎑ 분해대역폭으로 측정한 평균전력이 -96 ㏈m 이하일 것(라) 753 ㎒ 이상 771 ㎒ 이하의 주파수에서 100 ㎑ 분해대역폭으로 측정한 평균전력이 -48.3 ㏈m 이하일 것(2) 기본주파수의 평균전력이 20 ㏈m초과 24 ㏈m 이하인 경우(가) 지정주파수로부터 ±5.05 ㎒ 이상 ±10.05 ㎒ 미만 떨어진 주파수에서 100 ㎑ 분해대역폭으로 측정한 평균전력이 [-28.5 - 7/5×(△f-5.05)] ㏈m 이하일 것(나) 지정주파수로부터 ±10.05 ㎒ 이상 ±15.05 ㎒ 미만 떨어진 주파수에서 100㎑ 분해대역폭으로 측정한 평균전력이 -35.5 ㏈m 이하일 것(다) 718 ㎒ 이상 728 ㎒ 이하의 주파수에서 100 ㎑ 분해대역폭으로 측정한 평균전력이 -88 ㏈m 이하일 것(라) 753 ㎒ 이상 771 ㎒ 이하의 주파수에서 100 ㎑ 분해대역폭으로 측정한 평균전력이 -48.3 ㏈m 이하일 것(3) 기본주파수의 평균전력이 20 ㏈m 이하인 경우(가) 지정주파수로부터 ±5.05 ㎒ 이상 ±10.05 ㎒ 미만 떨어진 주파수에서 100 ㎑ 분해대역폭으로 측정한 평균전력이 [-34.5 - 6/5×(△f-5.05)] ㏈m 이하일 것(나) 지정주파수로부터 ±10.05 ㎒ 이상 ±15.05 ㎒ 미만 떨어진 주파수에서 100 ㎑ 분해대역폭으로 측정한 평균전력이 -40.5 ㏈m 이하일 것(다) 718 ㎒ 이상 728 ㎒ 이하의 주파수에서 100 ㎑ 분해대역폭으로 측정한 평균전력이 -88 ㏈m 이하일 것(라) 753 ㎒ 이상 771 ㎒ 이하의 주파수에서 100 ㎑ 분해대역폭으로 측정한 평균전력이 -48.3 ㏈m 이하일 것(4) 지정주파수로부터 ±15.05 ㎒ 이상 떨어진 주파수대역에서 불요발사는 다음의 공통 조건을 만족할 것(단. 718 ㎒ 이상 728 ㎒ 이하의 주파수대역은 제외한다)(가) 30 ㎒ 이상 1 ㎓ 미만의 주파수에서 100 ㎑ 분해대역폭으로 측정한 평균전력이 -36 ㏈m 이하일 것(나) 1 ㎓ 이상 12.75 ㎓ 미만의 주파수에서 1 ㎒ 분해대역폭으로 측정한 평균전력이 -30 ㏈m 이하일 것(다) 753 ㎒ 이상 771 ㎒ 이하의 주파수에서 100 ㎑ 분해대역폭으로 측정한 평균전력이 -48.3 ㏈m 이하일 것라. 인접채널 누설전력은 지정주파수로부터 ±10 ㎒ 떨어진 주파수의 경우 9 ㎒ 대역 내에 복사되는 전력이 기본 주파수의 평균전력보다 44.2 ㏈ 이상 낮은 값일 것3. 기지국 또는 육상국 수신장치의 조건가. 부차적 전파 발사 조건(1) 30 ㎒ 이상 1 ㎓ 미만의 주파수에서 100 ㎑ 분해대역폭으로 측정한 평균전력이 -57 ㏈m 이하일 것(2) 1 ㎓ 이상 12.75 ㎓ 미만의 주파수에서 1 ㎒ 분해대역폭으로 측정한 평균전력이 -47 ㏈m 이하일 것나. 수신 선택도는 698 ㎒ 이상 710 ㎒ 이하에서 76 ㏈ 이상일 것4. 육상이동국 또는 이동국의 송신장치의 조건가. 주파수허용편차는 ±(기지국으로부터 수신된 주파수 x 1 x [그림] + 15 Hz)이내일 것나. 안테나공급전력은 2 W 이하일 것다. 불요발사는 다음 조건을 만족할 것(1) 지정주파수로부터 ±5 ㎒ 이상 ±6 ㎒ 미만 떨어진 주파수에서 30 ㎑ 분해대역폭으로 측정한 평균전력이 -16.5 ㏈m 이하일 것(2) 지정주파수로부터 ±6 ㎒ 이상 ±10 ㎒ 미만 떨어진 주파수에서 1 ㎒ 분해대역폭으로 측정한 평균전력이 -8.5 ㏈m 이하일 것(3) 지정주파수로부터 ±10 ㎒ 이상 ±15 ㎒ 미만 떨어진 주파수에서 1 ㎒ 분해대역폭으로 측정한 평균전력이 -11.5 ㏈m 이하일 것(단, 708 ㎒ 이상 710 ㎒ 이하의 주파수에서 6 ㎒ 분해대역폭으로 측정한 평균전력은 -26.2 ㏈m 이하일 것)(4) 지정주파수로부터 ±15 ㎒ 이상 ±20 ㎒ 미만 떨어진 주파수에서 1 ㎒ 분해대역폭으로 측정한 평균전력이 -23.5 ㏈m 이하일 것 (단, 703 ㎒ 이상 708 ㎒ 이하의 주파수에서 6 ㎒ 분해대역폭으로 측정한 평균전력은 -26.2 ㏈m 이하일 것)(5) 지정주파수로부터 ±20 ㎒ 이상 떨어진 주파수대역에서 불요발사는 다음의 공통 조건을 만족할 것(단, 470 ㎒ 이상 703 ㎒ 이하의 주파수에서 6 ㎒ 분해대역폭으로 측정한 평균전력이 -26.2 ㏈m 이하이고, 758 ㎒ 이상 773 ㎒ 이하의 주파수에서 1 ㎒ 분해대역폭으로 측정한 평균전력이 -32 ㏈m 이하이며, 773 ㎒ 이상 803 ㎒ 이하의 주파수에서 1 ㎒ 분해대역폭으로 측정한 평균전력이 -50 ㏈m 이하일 것)(가) 30 ㎒ 이상 1 ㎓ 미만의 주파수에서 100 ㎑ 분해대역폭으로 측정한 평균전력이 -36 ㏈m 이하일 것(나) 1 ㎓ 이상 12.75 ㎓ 미만의 주파수에서 1 ㎒ 분해대역폭으로 측정한 평균전력이 -30 ㏈m 이하일 것라. 인접채널 누설전력은 지정주파수로부터 ±10 ㎒ 떨어진 주파수의 경우 9 ㎒ 대역 내에 복사되는 전력이 기본주파수의 평균전력보다 29.2 ㏈ 이상 낮은 값일 것5. 육상이동국 또는 이동국 수신장치의 조건가. 부차적 전파 발사 조건(1) 30 ㎒ 이상 1 ㎓ 미만의 주파수에서 100 ㎑ 분해대역폭으로 측정한 평균전력이 -57 ㏈m 이하일 것(2) 1 ㎓ 이상 12.75 ㎓ 미만의 주파수에서 1 ㎒ 분해대역폭으로 측정한 평균전력이 -47 ㏈m 이하일 것나. 수신 선택도는 753 ㎒ 이상 771 ㎒ 이하에서 53 dB 이상일 것6. 기지국 또는 육상국 송신장치와 육상이동국 또는 이동국 송신장치를 중계하는 송신장치가. 주파수허용편차는 단말기 방향의 경우 제2호 가목의 조건을 만족하고, 기지국 방향은 제4호 가목의 조건을 만족할 것나. 안테나공급전력은 단말기 방향의 경우 제2호 나목의 조건을 만족하고, 기지국 방향은 제4호 나목의 조건을 만족할 것다. 송신장치의 불요발사는 단말기 방향의 경우 제2호 다목의 조건을 만족하고, 기지국 방향은 제4호 다목의 조건을 만족할 것라. 송신장치의 인접채널 누설전력은 단말기 방향의 경우 제2호 라목의 조건을 만족하고, 기지국 방향은 제4호 라목의 조건을 만족할 것7. 사물인터넷 단말기 송신장치 조건가. 안테나공급전력은 340 ㎽ 이하일 것나. 점유주파수대역폭은 1.4 ㎒ 이하일 것다. 주파수허용편차 ±(기지국으로부터 수신된 주파수 × 1 × [그림] + 15㎐) 이내일  것라. 대역외 발사는 다음 조건을 만족할 것[그림]마. 스퓨리어스발사는 다음 조건을 만족할 것[그림]바. 제7호라목 및 마목의 조건에도 불구하고 다음의 추가적인 불요발사 조건을 만족할 것[그림]사. 인접채널 누설전력은 지정주파수로부터 ±10 ㎒ 떨어진 주파수의 경우 9 ㎒ 대역 내에 복사되는 전력이 기본주파수의 평균전력보다 29.2 ㏈ 이상 낮은 값일 것8. 사물인터넷 단말기 수신장치의 부차적 전파 발사 조건은 다음 조건을 만족할 것[그림]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824303",
+            "seq": "166824303"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824301",
+            "seq": "166824301"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824305",
+            "seq": "166824305"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824307",
+            "seq": "166824307"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824185",
+            "seq": "166824185"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824187",
+            "seq": "166824187"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824317",
+            "seq": "166824317"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824319",
+            "seq": "166824319"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824323",
+            "seq": "166824323"
+          }
+        ],
+        "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "해상 조난자위치발신용 무선설비",
+        "chapter": "",
+        "content": "제18조(해상 조난자위치발신용 무선설비) 924.645∼924.655 ㎒ 및 924.695∼924.705 ㎒ 주파수의 전파를 사용하는 해상 조난자위치발신용 무선설비의 기술기준은 다음 각 호와 같다.1. 전파형식은 F(G)1D, F(G)2D, F(G)1E, F(G)2E, F(G)7W중 하나 이상을 사용하는 것일 것2. 안테나공급전력은 5 W 이하일 것3. 주파수의 허용편차는 지정주파수의 ±1×[그림] 이내일 것4. 점유주파수대역폭의 허용치는 10 ㎑ 이하일 것5. 송신장치에서 방사되는 전력은 무변조 기본파의 평균전력보다 다음 값 이상 감쇠될 것(Fd는 점유주파수대역폭의 중심주파수로 부터 측정주파수 간의 간격만큼 떨어진 변위 주파수로 단위는 ㎑이고, P는 반송파전력으로 단위는 W임)가. 점유주파수대역폭의 중심주파수로부터 2.5 ㎑ 이상 6.25 ㎑ 미만 떨어진 주파수에서 300 ㎐ 분해대역폭으로 측정한 경우 53log10(Fd/2.5) ㏈나. 점유주파수대역폭의 중심주파수로부터 6.25 ㎑ 이상 9.5 ㎑ 미만 떨어진 주파수에서 300 ㎐ 분해대역폭으로 측정한 경우 103log10(Fd/3.9) ㏈다. 점유주파수대역폭의 중심주파수로부터 9.5 ㎑ 이상 50 ㎑ 미만 떨어진 주파수에서 300 ㎐ 분해대역폭으로 측정한 경우 157log10(Fd/5.3) ㏈, 50+10log10(P) ㏈, 또는 70 ㏈ 중 작은 값라. 점유주파수대역폭의 중심주파수로부터 50 ㎑ 이상 떨어진 주파수에서 43+10log10(P) ㏈. 다만, 1 ㎓ 미만에서는 100 ㎑ 분해대역폭을, 1 ㎓ 이상에서는 1 ㎒ 분해대역폭을 적용함.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824337",
+            "seq": "166824337"
+          }
+        ],
+        "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "지능형교통시스템용 무선설비",
+        "chapter": "",
+        "content": "제19조(지능형교통시스템용 무선설비) 5855∼5875 ㎒ 주파수 대역의 전파를 사용하는 지능형교통시스템용 무선설비의 기술기준은 다음 각 호와 같다.1. 점유주파수대역폭은 20 ㎒ 이하일 것2. 변조방식은 디지털변조, 접속방식은 직교주파수분할다중접속방식(OFDMA)일 것3. 발사하는 전파의 중심주파수는 5865 ㎒일 것4. 안테나공급전력은 200 ㎽ 이하, 등가등방복사전력은 4 W 이하일 것5. 주파수허용편차는 중심주파수의 ±0.1×[그림] 이내일 것6. 불요발사는 다음의 기준값 이하일 것가. 대역외발사[그림]나. 스퓨리어스발사[그림]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824339",
+            "seq": "166824339"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824341",
+            "seq": "166824341"
+          },
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166824343",
+            "seq": "166824343"
+          }
+        ],
+        "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "5G 이동통신용（일정한 구역（건물 등） 내에서만 무선국을 구축ㆍ운영하는 경우） 무선설비",
+        "chapter": "",
+        "content": "제20조(5G 이동통신용（일정한 구역（건물 등） 내에서만 무선국을 구축ㆍ운영하는 경우） 무선설비) ① 시분할 복신방식을 사용하는 28 ㎓ 대역 이동통신용(일정한 구역(건물 등) 내에서만 무선국을 구축ㆍ운영하는 경우) 무선설비의 기술기준은 다음 각 호와 같다.1. 28.9 ㎓ ∼ 29.5 ㎓ 주파수대역을 사용하는 이동통신용(일정한 구역(건물 등) 내에서만 무선국을 구축ㆍ운영하는 경우) 무선설비는 「전기통신사업용 무선설비의 기술기준」제4조제9항을 준용할 것② 시분할 복신방식을 사용하는 4.7 ㎓ 대역 이동통신용(일정한 구역(건물 등) 내에서만 무선국을 구축ㆍ운영하는 경우) 무선설비의 기술기준은 다음 각 호와 같다.1. 4720 ㎒ ∼ 4820 ㎒ 주파수대역을 사용하는 이동통신용(일정한 구역(건물 등) 내에서만 무선국을 구축ㆍ운영하는 경우) 무선설비는 「전기통신사업용 무선설비의 기술기준」제4조제10항을 준용할 것",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제1항",
+            "link_text": "「전기통신사업용 무선설비의 기술기준」",
+            "line_text": "",
+            "target_law_name": "전기통신사업용 무선설비의 기술기준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/전기통신사업용 무선설비의 기술기준",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0020",
+            "reference_id": "admrul:전기통신사업용무선설비의기술기준#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제1항",
+            "link_text": "제4조제9항",
+            "line_text": "",
+            "target_law_name": "전기통신사업용 무선설비의 기술기준",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/전기통신사업용 무선설비의 기술기준/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0020",
+            "reference_id": "admrul:전기통신사업용무선설비의기술기준#JO0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제2항",
+            "link_text": "「전기통신사업용 무선설비의 기술기준」",
+            "line_text": "",
+            "target_law_name": "전기통신사업용 무선설비의 기술기준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/전기통신사업용 무선설비의 기술기준",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0020",
+            "reference_id": "admrul:전기통신사업용무선설비의기술기준#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제2항",
+            "link_text": "제4조제10항",
+            "line_text": "",
+            "target_law_name": "전기통신사업용 무선설비의 기술기준",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/전기통신사업용 무선설비의 기술기준/제4조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0020",
+            "reference_id": "admrul:전기통신사업용무선설비의기술기준#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "드론탐지레이다용 무선설비",
+        "chapter": "",
+        "content": "제21조(드론탐지레이다용 무선설비) 국가중요시설 보호를 위한 8.5～8.6 ㎓, 15.7～17.2 ㎓ 주파수대역에서 운용하는 드론탐지레이다의 기술기준은 다음 각 호와 같다.1. 공통조건가. 스퓨리어스발사는 안테나공급전력 최댓값(P)에 대해 43+10log(P) [dB] 또는 60 dB 중 덜 엄격한 값 이하일 것나. 하나의 송신장치에서 여러 주파수의 전파를 발사하여 탐지하는 레이다의 경우 개별 주파수 모두에 대해 조건을 만족할 것다. 점유주파수대역폭은 무선설비규칙 제6조제2항에서 정하는 바에 따라 필요주파수대역폭을 적용하며, 그 너비는 안테나공급전력 최댓값 보다 20 dB 낮은 지점 사이의 폭으로 한다.2. 8.5～8.6 ㎓ 주파수 대역에서 주파수 변조 펄스파를 발사하는 무선설비가. 전파형식은 Q1N, Q3N, V1N, V3N 중 하나 이상을 사용하는 것일 것나. 안테나공급전력은 첨두전력 200 W 이하일 것. 다만, 안테나 절대이득이 23 dBi를 초과한 경우에는 그 값만큼 저감시킨 것이어야 하며, 23 dBi 미만인 경우에는 그 값만큼 증가시킬 수 있다.다. 최대 주파수 편이는 33 ㎒ 이내일 것라. 점유주파수대역폭은 최대 주파수 편이의 300 % 이내일 것마. -40 dB 대역폭은 최대 주파수 편이의 500 % 이내일 것바. 대역외발사는 첨두포락선전력에 대해 40+20log(2ΔF/B(-40))[dB]   이하일 것(ΔF는 주파수 이격, B(-40)은 －40 dB 대역폭)3. 8.5～8.6 ㎓ 주파수 대역에서 주파수 변조 연속파를 발사하는 무선설비가. 전파형식은 F1N, F3N, FXN 중 하나 이상을 사용하는 것일 것나. 안테나공급전력은 평균 40 W 이하일 것. 다만, 안테나 절대이득이 26 dBi를 초과한 경우에는 그 값만큼 저감시킨 것이어야 하며, 26 dBi 미만인 경우에는 그 값만큼 증가시킬 수 있다.다. 최대 주파수 편이는 42 ㎒ 이내일 것라. 점유주파수대역폭은 최대 주파수 편이의 220 % 이내일 것마. -40 dB 대역폭은 최대 주파수 편이의 240 % 이내일 것바. 대역외발사는 첨두포락선전력에 대해 40+20log(2ΔF/B(-40))[dB]   이하일 것(ΔF는 주파수 이격, B(-40)은 －40 dB 대역폭)4. 15.7～17.2 ㎓ 주파수 대역에서 주파수 변조 연속파를 발사하는 무선설비가. 전파형식은 F1N, F3N, FXN 중 하나 이상을 사용하는 것일 것나. 안테나공급전력은 평균 40 W 이하일 것. 다만, 안테나 절대이득이 29 dBi를 초과한 경우에는 그 값만큼 저감시킨 것이어야 하며, 29 dBi 미만인 경우에는 그 값만큼 증가시킬 수 있다.다. 최대 주파수 편이는 200 ㎒ 이내일 것라. 점유주파수대역폭은 최대 주파수 편이의 240 % 이내일 것마. -40 dB 대역폭은 최대 주파수 편이의 260 % 이내일 것바. 대역외발사는 첨두포락선전력에 대해 40+20log(2ΔF/B(-40))[dB]   이하일 것(ΔF는 주파수 이격, B(-40)은 －40 dB 대역폭)",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제21조",
+            "source_clause": "제21조",
+            "link_text": "제6조제2항",
+            "line_text": "",
+            "target_law_name": "무선설비규칙",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/무선설비규칙/제6조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0021",
+            "reference_id": "admrul:무선설비규칙#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "재검토기한",
+        "chapter": "",
+        "content": "제22조(재검토기한) 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2018년 11월 7일을 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제22조",
+            "source_clause": "제22조",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0022",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "규제의 재검토",
+        "chapter": "",
+        "content": "제23조(규제의 재검토) 「행정규제기본법」에 따라 이 고시에 대하여 2026년 7월 1일을 기준으로 매 5년이 되는 시점(매 5년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제23조",
+            "source_clause": "제23조",
+            "link_text": "「행정규제기본법」",
+            "line_text": "",
+            "target_law_name": "행정규제기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/행정규제기본법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0023",
+            "reference_id": "law:행정규제기본법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#JO0023"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20121228",
+      "promulgation_no": "2012-28",
+      "content": "부칙 <제2012-28호,2012. 12. 28.>제1조(시행일) 이 고시는 2013년 1월 1일부터 시행한다.제2조(다른 기준에 의한 적용례) 이 고시에서 특별히 정한 사항외의 기술기준의 일반적 조건은 「무선설비규칙」에서 정한 사항을 준용한다.제3조(경과조치) 이 고시 시행 당시 종전의 규정에 따라 적합성평가를 받았거나 무선국 개설 허가를 받아 운영 중인 무선설비는 이 고시에 의해 적합한 것으로 본다.제4조(주파수지정방식 간이무선국에 대한 경과조치) ① 별표 1의 전파형식 중  F7D, G7D, F7E, G7E, FXD, GXD, FXE 및 GXE는 2014년 1월 1일부터 시행한다.② 별표 1의 222㎒ 주파수 대역의 점유주파수대폭 8.5㎑는 2011년 7월 1일부터 시행하고, 점유주파수대폭 16㎑는 2013년 12월 31일까지만 적용한다. 다만, 점유주파수대폭을 16㎑로 사용하는 무선국의 허가ㆍ신고(신규 및 변경 포함)는 기존 시설자에게만 적용하고, 수명만료 시까지 사용을 허용한다.③ 별표 1의 222㎒ 주파수 대역의 점유주파수대폭이 16㎑ 전용 무전기는 2011년 6월 30일까지 적합인증을 허용하고, 점유주파수대폭이 8.5㎑와 16㎑ 겸용 무전기는 2011년 7월 1일부터 2013년 12월 31일까지 적합인증을 허용한다.④ 별표 1의 주파수 422.0000∼422.0500㎒(5파), 422.9625∼423.0625㎒(9파)는 2014년 1월 1일부터 시행한다.제5조(주파수공용방식 간이무선국에 대한 경과조치) 제4조제2항은 2013년 12월 31일까지 효력을 가진다. 다만, 주파수공용방식 간이무선국의 신규 개설은 기존 시설자에게만 허용한다.제6조(무선국의 적합인증에 관한 경과조치) ① 제9조제1호 중 216㎒~223㎒ 주파수 대역에서 점유주파수대폭이 8.5㎑인 무선국의 적합인증은 2012년 7월 1일부터 적용한다.② 제9조제1호 중 216㎒~223㎒ 주파수 대역에서 점유주파수대폭이 16㎑인 무선국의 적합인증 종료는 2012년 6월 30일까지(기존 시설자에 한하여 2013년 12월 31일까지 무선국의 허가ㆍ신고(신규 및 변경 포함)할 수 있다) 적용하고 점유주파수대폭이 8.5㎑와 16㎑ 겸용 무선국은 2012년 7월 1일부터 2013년 12월 31일까지 적합인증을 허용하며 해당 무선설비는 기존 시설자가 재허가 받아서 수명 만료시까지 사용을 허용한다."
+    },
+    {
+      "promulgation_date": "20130607",
+      "promulgation_no": "2013-2",
+      "content": "부칙 <제2013-2호,2013. 6. 7.>제1조(시행일) 이 고시는 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20131021",
+      "promulgation_no": "2013-11",
+      "content": "부칙 <제2013-11호,2013. 10. 21.>제1조(시행일) 이 고시는 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20131218",
+      "promulgation_no": "2013-18",
+      "content": "부칙 <제2013-18호,2013. 12. 18.>제1조(시행일) 이 고시는 2014년 1월 1일부터 시행한다.제2조(경과조치) 이 고시 시행 당시 종전의 규정에 따라 적합성평가를 받았거나 무선국 개설허가를 받아 운영 중인 무선설비는 이 고시에 의해 적합한 것으로 본다.제3조(간이무선국에 대한 경과조치) 이 고시 시행 당시 종전의 규정에 따라 제4조의 전파형식 중 FXD 및 FXE에 해당되는 무선설비는 전파형식이 F1D 및 F1E로 변경됨에 따라 동 전파형식과 동일하게 적용한다."
+    },
+    {
+      "promulgation_date": "20140529",
+      "promulgation_no": "2014-7",
+      "content": "부칙 <제2014-7호,2014. 5. 29.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.제2조(경과조치) 이 고시 시행 당시 종전의 규정에 따라 적법하게 적합성평가를 받았거나 무선국 개설허가를 받아 운영 중인 무선설비는 이 고시에 의해 적합한 것으로 본다.제3조(마을 공지사항 안내용 간이무선국에 대한 경과조치) 2013년 12월 31일 이전에 적법하게 적합성평가를 받은 간이무선국의 무선설비는 2015년 6월 30일까지만 마을 공지사항 안내용 간이무선국으로 허가ㆍ신고(신규 및 변경 포함)를 할 수 있으며, 수명만료 시 까지 사용을 허용한다.제4조(다른 고시의 개정) 「방송통신기자재등의 적합성평가에 관한 고시」별표 1중 16.간이무선국용 무선설비의 기기란을 다음과 같이 한다.[그림]┌──────────────────────┬────────────┐│대상 기자재                                 │적합성평가기준 적용분야 ││                                            ├──┬──┬──┬───┤│                                            │전자│무선│유선│SAR   ││                                            │파적│    │    │      ││                                            │합성│    │    │      │├─────────┬────────────┼──┼──┼──┼───┤│16.간이무선국용   │가.일반업무용           │○  │○  │    │○    ││   무선설비의 기  ├────────────┼──┼──┼──┼───┤│기                │나.마을 공지사항 안내용 │○  │○  │    │      │└─────────┴────────────┴──┴──┴──┴───┘"
+    },
+    {
+      "promulgation_date": "20140702",
+      "promulgation_no": "2014-12",
+      "content": "부칙 <제2014-12호,2014. 7. 2.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.제2조(경과조치) ① 이 고시 시행 당시 종전의 규정에 따라 적합성평가를 받았거나 무선국 개설허가를 받아 운영 중인 무선설비는 이 고시에 의해 적합한 것으로 본다.② 「전자파강도 및 전자파흡수율 측정대상 기자재」고시 제2조제12호에 해당하는 간이무선국ㆍ우주국ㆍ지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준 제9조제2항 및 제3항 규정이 각각 제15조(비상통신보조용 무선설비), 제16조(해양경비안전망용 무선설비)로 분리됨에 따라 「전자파강도 및 전자파흡수율 측정대상 기자재」고시가 개정되기 전까지는 종전 규정에 따라 전자파 흡수율 측정대상 기자재로 본다.제3조(제4조 및 제9조 무선설비에 대한 경과조치) ① 이 고시 시행 당시 종전의 규정에 따라 전파형식 중 FXD 및 FXE에 해당되는 무선설비는 전파형식이 F1D 및 F1E로 변경됨에 따라 동 전파형식과 동일하게 적용한다.② 간이무선국(일반업무용, 마을 공지사항 안내용) 주파수대역 및 138 MHz∼174 MHz, 216 MHz∼223 MHz, 335.4 MHz∼470 MHz 주파수 대역에서 전파형식이 F3E(G3E)인 무선설비 또는 F3E(G3E)와 F1E겸용인 무선설비의 적합인증은 2015년 12월 31일까지 허용하고, 무선국의 허가ㆍ신고(신규 및 변경 포함)는 2018년 12월 31일까지 허용하며, 기존 허가ㆍ신고 받아 사용하고 있는 시설자의 무선국은 재허가를 받을 경우 수명 만료 시까지 사용을 허용한다.제4조(다른 고시의 개정) 「방송통신기자재등의 적합성평가에 관한 고시」 별표 1중 19. 간이무선국ㆍ우주국ㆍ지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준 제9조에 따른 무선설비의 기기 란을 다음과 같이한다.[그림]┌───────────────────────┬───────────────┐│대상 기자재                                   │적합성평가기준 적용분야       ││                                              ├──────┬──┬──┬──┤│                                              │전자파적합성│무선│유선│SAR │├───────────────────────┼──────┼──┼──┼──┤│19. 간이무선국ㆍ우주국ㆍ지구국의 무선설비 및  │○          │○  │    │○  ││전파탐지용 무선설비 등 그 밖의 업무용         │            │    │    │    ││무선설비의 기술기준 제9조, 제15조, 제16       │            │    │    │    ││조에 따른 무선설비의 기기                     │            │    │    │    │└───────────────────────┴──────┴──┴──┴──┘"
+    },
+    {
+      "promulgation_date": "20150224",
+      "promulgation_no": "2015-1",
+      "content": "부칙 <제2015-1호,2015. 2. 24.>제1조(시행일) 이 고시는 발령한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20150617",
+      "promulgation_no": "2015-15",
+      "content": "부칙 <제2015-15호,2015. 6. 17.>제1조(시행일) 이 고시는 고시한 날부터 시행한다.제2조(경과조치) 이 고시 시행 당시 종전의 규정에 따라 별표 1의 주파수를 사용하는 무선설비를 개정된 별표 1의 주파수로 변경하는 경우에는 이 고시에 의해 적합한 것으로 본다."
+    },
+    {
+      "promulgation_date": "20151123",
+      "promulgation_no": "2015-25",
+      "content": "부칙 <제2015-25호,2015. 11. 23.>이 고시는 고시한 날부터 시행한다. 다만, 제17조제2호다목(1)의(라), (2)의(라), (3)의(라), (4)의(다), 같은 조 제3호나목 및 제5호나목의 개정규정은 2016년 7월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20151231",
+      "promulgation_no": "2015-30",
+      "content": "부칙 <제2015-30호,2015. 12. 31.>이 고시는 발령한 날부터 시행한다. 다만, 제4조, 제5조, 제6조, 제7조, 제9조, 제10조, 제11조, 제12조, 제16조, 제18조의 개정규정은 2016년 6월 2일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20160930",
+      "promulgation_no": "2016-21",
+      "content": "부칙 <제2016-21호,2016. 9. 30.>제1조(시행일) 이 고시는 고시한 날부터 시행한다.제2조(다른 고시의 개정) ① 「방송통신기자재등의 적합성평가에 관한 고시」 일부를 다음과 같이 개정한다.별표 1에 53. 지능형교통시스템용 무선설비를 다음과 같이 신설한다.[그림]┌─────────────────────────┬────────────┐│대상 기자재                                       │적합성평가기준 적용분야 ││                                                  ├───┬──┬──┬──┤│                                                  │전자파│무선│유선│SAR ││                                                  │적합성│    │    │    │┝━━━━━━━━━━┯━━━━━━━━━━━━━━┿━━━┿━━┿━━┿━━┥│53.지능형교통시스템 │가. 기지국의 송수신장치     │○    │○  │    │    ││용 무선설비         ├──────────────┤      │    │    │    ││                    │나. 육상이동국의 송수신장치 │      │    │    │    │└──────────┴──────────────┴───┴──┴──┴──┘별표 7 제1호에 53. 지능형교통시스템용 무선설비를 다음과 같이 신설한다.[그림]┌───────────────────────────────┬────┐│대상 기자재                                                   │기기부호│┝━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┿━━━━┥│53. 지능형교통시스템용 무선설비 │가. 기지국의 송수신장치     │ITS1    ││                                ├──────────────┼────┤│                                │나. 육상이동국의 송수신장치 │ITS2    │└────────────────┴──────────────┴────┘② 「방송통신기자재등 시험기관의 지정 및 관리에 관한 고시」 일부를 다음과 같이 개정한다.별표 1 나호 2. 무선에 262를 다음과 같이 신설한다.262 지능형교통시스템용 무선설비"
+    },
+    {
+      "promulgation_date": "20170828",
+      "promulgation_no": "2017-8",
+      "content": "부칙(정부조직 개편에 따른 부처명칭 변경을 위한 정보통신표준 개발ㆍ운영 지침 등 고시 일괄개정) <제2017-8호,2017. 8. 28.>이 고시는 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20181113",
+      "promulgation_no": "2018-26",
+      "content": "부칙 <제2018-26호,2018. 11. 13.>제1조(시행일) 이 고시는 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20211012",
+      "promulgation_no": "2021-16",
+      "content": "부칙 <제2021-16호, 2021. 10. 12.>제1조(시행일) 이 고시는 고시한 날부터 시행한다.제2조(다른 고시의 개정) ①「방송통신기자재등의 적합성평가에 관한 고시」중 일부를 다음과 같이 개정한다.[별표1]의 3. 간이무선국ㆍ우주국ㆍ지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기기에 하.부터 거.까지를 각각 다음과 같이 신설하고, [별표7]의 2. 형식표시에 관한 지정항목에 64.부터 65.까지를 각각 다음과 같이 신설한다.[그림][별표 1]적합성평가 대상기자재(제3조 관련)3. 간이무선국ㆍ우주국ㆍ지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기기┌─────────────────┬────────────────┬───────┬───┬───┐│대상기자재                        │적합성평가기준 적용분야         │적합성평가    │기기  │기타  ││                                  │                                │유형          │부호  │사항  ││                                  ├───┬──┬──┬──────┼──┬────┤      │      ││                                  │전자파│무선│유선│전자파      │적합│적합등록│      │      ││                                  │적합성│    │    │인체보호    │인증│        │      │      ││                                  │      │    │    ├───┬──┤    ├─┬──┤      │      ││                                  │      │    │    │전자파│전자│    │지│자  │      │      ││                                  │      │    │    │흡수율│파  │    │정│기  │      │      ││                                  │      │    │    │      │강도│    │시│시  │      │      ││                                  │      │    │    │      │    │    │험│험  │      │      ││                                  │      │    │    │      │    │    │기│    │      │      ││                                  │      │    │    │      │    │    │관│    │      │      │┝━━━━━━━━┯━━━━━━━━┿━━━┿━━┿━━┿━━━┿━━┿━━┿━┿━━┿━━━┿━━━┥│하.5G 이동통신용│1) 육상이동국의 │○    │○  │    │      │○  │○  │  │    │FVG51 │      ││(일정한 구역    │송수신장치      │      │    │    │      │    │    │  │    │      │      ││(건물 등) 내에  ├────────┼───┼──┼──┼───┼──┼──┼─┼──┼───┼───┤│서만 무선국을   │2) 기지국의     │○    │○  │    │      │    │○  │  │    │FVG52 │      ││구축·운영하는  │송수신장치 및   │      │    │    │      │    │    │  │    │      │      ││경우) 무선설비  │중계장치        │      │    │    │      │    │    │  │    │      │      ││의 기기(28 ㎓   ├────────┼───┼──┼──┼───┼──┼──┼─┼──┼───┼───┤│대역)           │3) 기 타        │○    │○  │    │      │    │○  │  │    │FVG53 │      │├────────┼────────┼───┼──┼──┼───┼──┼──┼─┼──┼───┼───┤│거.5G 이동통신용│1) 육상이동국의 │○    │○  │    │○    │    │○  │  │    │FVG61 │      ││(일정한 구역    │송수신장치      │      │    │    │      │    │    │  │    │      │      ││(건물 등) 내에  ├────────┼───┼──┼──┼───┼──┼──┼─┼──┼───┼───┤│서만 무선국을   │2) 기지국의     │○    │○  │    │      │    │○  │  │    │FVG62 │      ││구축·운영하는  │송수신장치 및   │      │    │    │      │    │    │  │    │      │      ││경우) 무선설비  │중계장치        │      │    │    │      │    │    │  │    │      │      ││의 기기(4.7 ㎓  ├────────┼───┼──┼──┼───┼──┼──┼─┼──┼───┼───┤│대역)           │3) 기 타        │○    │○  │    │      │    │○  │  │    │FVG63 │      │└────────┴────────┴───┴──┴──┴───┴──┴──┴─┴──┴───┴───┘[그림][별표 7]방송통신기자재등의 형식기호 표시방법(제5조제5항, 제8조제5항, 제11조제2항 관련)2. 형식표시에 관한 지정항목┌───────────────────────────┬─┬─┬─┬─┬─┬─┐│                                                      │기│주│송│전│전│채││                               항  목                 │  │  │ㆍ│  │  │  ││                                                      │  │  │수│  │파│  ││                                                      │자│파│신│  │  │  ││  구   분                                             │  │  │의│  │형│  ││                                                      │  │  │구│  │  │  ││                                                      │재│수│별│력│식│널│┝━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━┿━┿━┿━┿━┿━┥│64.5G 이동통신용(일정한 구역(건물 등) 내에서만 무선   │○│○│○│○│○│  ││국을 구축·운영하는 경우) 무선설비의 기기(28 ㎓       │  │  │  │  │  │  ││대역)                                                 │  │  │  │  │  │  ││   (단순 중계기에 한해서 전파형식표시 생략 가능)      │  │  │  │  │  │  ││(※ 별표1 제3호 및 제4호에 해당하는 기자재 공통 적용) │  │  │  │  │  │  │├───────────────────────────┼─┼─┼─┼─┼─┼─┤│65.5G 이동통신용(일정한 구역(건물 등) 내에서만 무선국 │○│○│○│○│○│  ││을 구축·운영하는 경우) 무선설비의 기기(4.7 ㎓ 대     │  │  │  │  │  │  ││역)                                                   │  │  │  │  │  │  ││   (단순 중계기에 한해서 전파형식표시 생략 가능)      │  │  │  │  │  │  ││(※ 별표1 제3호 및 제4호에 해당하는 기자재 공통 적용) │  │  │  │  │  │  │└───────────────────────────┴─┴─┴─┴─┴─┴─┘※ 비고1. 34. ∼ 40., 64., 65.에 해당하는 무선기자재 중 육상이동국의 송수신장치는 형식표시 지정항목 중 기자재 외의 항목을 적용하지 않는다.②「방송통신기자재등 시험기관의 지정 및 관리에 관한 고시」중 일부를 다음과 같이 개정한다.[별표 1] 의 나. 시험분야별 세부 시험항목 분류에 269-1, 269-2, 269-3, 270-1, 270-2, 270-3, 348-3, 349-5, 349-6, 522, 606을 각각 다음과 같이 신설한다.[그림][별표 1]시험분야별 시험항목에 관한 사항(제3조 관련)나. 시험분야별 세부 시험항목 분류┌────────┬────────────────────────────────────┐│시험 분야       │시험항목                                                                │┝━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┥│2. 무선         │269-1 5G 이동통신용(일정한 구역(건물 등) 내에서만 무선국을 구축·운영하 ││                │는 경우) 무선설비의 기기(28 ㎓ 대역)(이동국)                            ││                │269-2 5G 이동통신용(일정한 구역(건물 등) 내에서만 무선국을 구축·운영하 ││                │는 경우) 무선설비의 기기(28 ㎓ 대역)(기지국)                            ││                │269-3 5G 이동통신용(일정한 구역(건물 등) 내에서만 무선국을 구축·운영하 ││                │는 경우) 무선설비의 기기(28 ㎓ 대역)(중계장치)                          ││                │270-1 5G 이동통신용(일정한 구역(건물 등) 내에서만 무선국을 구축·운영하 ││                │는 경우) 무선설비의 기기(4.7 ㎓ 대역)(이동국)                           ││                │270-2 5G 이동통신용(일정한 구역(건물 등) 내에서만 무선국을 구축·운영하 ││                │는 경우) 무선설비의 기기(4.7 ㎓ 대역)(기지국)                           ││                │270-3 5G 이동통신용(일정한 구역(건물 등) 내에서만 무선국을 구축·운영하 ││                │는 경우) 무선설비의 기기(4.7 ㎓ 대역)(중계장치)                         │├────────┼────────────────────────────────────┤│3. 전자파적합성 │348-3  KN 301 489-50(5G 이동통신(일정한 구역(건물 등) 내에서만 무선국을 ││                │구축·운영하는 경우)의 기지국, 중계기, 보조기기)                        ││                │349-5  KN 301 489-52(5G 이동통신(일정한 구역(건물 등) 내에서만 무선국을 ││                │구축·운영하는 경우)의 단말기, 보조기기)                                ││                │349-6  KN 301 489-52(5G 이동통신(일정한 구역(건물 등) 내에서만 무선국을 ││                │구축·운영하는 경우)의 단말기, 보조기기/음압시험 제외)                  │├────────┼────────────────────────────────────┤│4. 전자파흡수율 │522 5G 이동통신용(일정한 구역(건물 등) 내에서만 무선국을 구축·운영하는 ││                │경우) 무선설비의 기기(4.7 ㎓ 대역)                                      │├────────┼────────────────────────────────────┤│5. 전자파강도   │606 5G 이동통신용(일정한 구역(건물 등) 내에서만 무선국을 구축·운영하는 ││                │경우) 무선설비의 기기(28 ㎓ 대역)(이동국)                               │└────────┴────────────────────────────────────┘③「전자파강도 및 전자파흡수율 측정대상 기자재」에 관한 고시 중 일부를 다음과 같이 개정한다.제1조제3항제2호 및 제2조제18호를 다음과 같이 각각 신설한다.제1조(전자파강도 측정대상 기자재) ③ 2. 간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준 제20조의 5G 이동통신용(일정한 구역(건물 등) 내에서만 무선국을 구축·운영하는 경우) 무선설비제2조(전자파흡수율 측정대상 기자재) 18. 간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준 제20조의 5G 이동통신용(일정한 구역(건물 등) 내에서만 무선국을 구축·운영하는 경우) 무선설비"
+    },
+    {
+      "promulgation_date": "20211228",
+      "promulgation_no": "2021-35",
+      "content": "부칙 <제2021-35호, 2021. 12. 28.>이 고시는 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20230403",
+      "promulgation_no": "2023-5",
+      "content": "부칙 <제2023-5호, 2023. 4. 3.>제1조(시행일) 이 고시는 고시한 날부터 시행한다.제2조(경과조치) ① 이 고시 시행 당시 종전의 규정에 따라 적합성평가를 받은 무선설비는 이 규정에 적합한 것으로 본다. 다만, 발사하는 중심주파수는 이 규정에 따라야 하고, 이 고시 시행 전에 개설허가를 받은 무선국은 2024년 12월 31일까지 종전의 규정에 따라 운용할 수 있다.② 이 고시 시행 당시 접수되어 처리 중에 있는 적합성평가 신청 건에 대하여는 이 규정을 따른다.제3조(표시에 관한 사항) 제19조에 따른 무선설비를 제조하는 자 또는 판매자는 해당 기기 또는 사용자 설명서에 \"주파수 대역은 정부의 지능형교통시스템 정책 및 주파수 분배ㆍ회수ㆍ재배치 정책 등의 조치에 따라 변경될 수 있음\"을 명시하여 운용자 및 사용자에게 충분히 알려야 한다.제4조(다른 고시의 개정) ① 「신고하지 아니하고 개설할 수 있는 무선국용 무선기기」(과학기술정보통신부고시 제2022-21호, 2022. 5. 10.) 제4조 제12호를 다음과 같이 개정한다.[그림]┌───────┬───────────────┬────────────────────┐│주파수        │안테나공급전력                │비고                                    │├───────┼───────────────┼────────────────────┤│5855∼5875 ㎒ │200 ㎽ 이하                   │「간이무선국ㆍ우주국ㆍ지구국의 무선설   ││              │(등가등방복사전력은 4 W 이하) │비 및 전파탐지용 무선설비 등 그 밖의    │├───────┼───────────────┤업무용 무선설비의 기술기준」 제19조의 규││5895∼5925 ㎒ │100 ㎽ 이하                   │정에 따라 지능형교통시스템 서비스를 목  ││              │(등가등방복사전력은 2 W 이하) │적으로  설치되는 육상이동국             │└───────┴───────────────┴────────────────────┘부   칙 (「신고하지 아니하고 개설할 수 있는 무선국용 무선기기」)제1조(경과조치) ① 이 고시 시행 당시 종전의 규정에 따라 적합성평가를 받은 무선기기는 이 규정에 적합한 것으로 본다. 다만, 발사하는 중심주파수는 이 규정에 따라야 하고, 기 운용 중인 무선국은 2024년 12월 31일까지 종전의 규정에 따라 운용할 수 있다.② 이 고시 시행 당시 접수되어 처리 중에 있는 적합성평가 신청 건에 대하여는 이 규정을 따른다.제2조(표시에 관한 사항) 제4조제12호에 따른 무선기기를 제조하는 자  또는 판매자는 해당 기기 또는 사용자 설명서에 \"주파수 대역은 정부의 지능형교통시스템 정책 및 주파수 분배ㆍ회수ㆍ재배치 정책 등의 조치에 따라 변경될 수 있음\"을 명시하여 운용자 및 사용자에게 충분히 알려야 한다.②「방송통신기자재등의 적합성평가에 관한 고시」(국립전파연구원고시 제2023-3호, 2023. 2. 3.) 중 [별표 1]의 제3호 파목 및 제5호 라목 제12호를 다음과 같이 개정한다.[그림][별표 1]3. 간이무선국ㆍ우주국ㆍ지구국의 무선설비 및 전파탐지용 무선설비 등       그 밖의 업무용 무선설비의 기기┌───────────────────┬─────────────────┬────────┬───┬─────┐│대상기자재                            │적합성평가기준 적용분야           │적합성평가      │기기  │기타 사항 ││                                      │                                  │유형            │부호  │          ││                                      ├───┬──┬──┬───────┼──┬─────┤      │          ││                                      │전자파│무선│유선│전자파        │적합│적합등록  │      │          ││                                      │적합성│    │    │인체보호      │인증│          │      │          ││                                      │      │    │    ├───┬───┤    ├──┬──┤      │          ││                                      │      │    │    │전자파│전자파│    │지정│자기│      │          ││                                      │      │    │    │흡수율│강도  │    │시험│시험│      │          ││                                      │      │    │    │      │      │    │기관│    │      │          │┝━━━━━━━━┯━━━━━━━━━━┿━━━┿━━┿━━┿━━━┿━━━┿━━┿━━┿━━┿━━━┿━━━━━┥│파.지능형교통   │1) 기지국의 송수신장│○    │○  │    │      │      │○  │    │    │ITSRL │          ││시스템용        │치(5855∼5875㎒)    │      │    │    │      │      │    │    │    │      │          ││무선설비        ├──────────┼───┼──┼──┼───┼───┼──┼──┼──┼───┼─────┤│                │2) 기지국의 송수신장│○    │○  │    │      │      │○  │    │    │ITSRW │          ││                │치(5895∼5925㎒)    │      │    │    │      │      │    │    │    │      │          │└────────┴──────────┴───┴──┴──┴───┴───┴──┴──┴──┴───┴─────┘5. 신고하지 아니하고 개설할 수 있는 무선국용 무선설비의 기기┌─────────────────┬─────────────────┬────────┬───┬───┐│대상기자재                        │적합성평가기준 적용분야           │적합성평가      │기기  │기타  ││                                  │                                  │유형            │부호  │사항  ││                                  ├───┬──┬──┬───────┼──┬─────┤      │      ││                                  │전자파│무선│유선│전자파        │적합│적합등록  │      │      ││                                  │적합성│    │    │인체보호      │인증│          │      │      ││                                  │      │    │    ├───┬───┤    ├──┬──┤      │      ││                                  │      │    │    │전자파│전자파│    │지정│자기│      │      ││                                  │      │    │    │흡수율│강도  │    │시험│시험│      │      ││                                  │      │    │    │      │      │    │기관│    │      │      │┝━━━━━━━━━┯━━━━━━━┿━━━┿━━┿━━┿━━━┿━━━┿━━┿━━┿━━┿━━━┿━━━┥│12)               │가) 5855-5875 │○    │○  │    │      │      │○  │    │    │ITSOL │      ││지능형교통시스템용│㎒의 무선기   │      │    │    │      │      │    │    │    │      │      ││무선기기          │기            │      │    │    │      │      │    │    │    │      │      ││                  ├───────┼───┼──┼──┼───┼───┼──┼──┼──┼───┼───┤│                  │나) 5895-5925 │○    │○  │    │      │      │○  │    │    │ITSO  │      ││                  │㎒의 무선기   │      │    │    │      │      │    │    │    │W     │      ││                  │기            │      │    │    │      │      │    │    │    │      │      │└─────────┴───────┴───┴──┴──┴───┴───┴──┴──┴──┴───┴───┘"
+    },
+    {
+      "promulgation_date": "20240705",
+      "promulgation_no": "2024-10",
+      "content": "부칙 <제2024-10호, 2024. 7. 5.>제1조(시행일) 이 고시는 고시한 날부터 시행한다.제2조(다른 고시의 개정) ① 「신고하지 아니하고 개설할 수 있는 무선국용 무선기기」(과학기술정보통신부고시 제2024-23호, 2024. 5. 30.) 제4조제12호를 다음과 같이 개정한다.[그림]┌───────┬───────────────┬────────────────────┐│주파수        │안테나공급전력                │비고                                    │├───────┼───────────────┼────────────────────┤│5855∼5875 ㎒ │200 ㎽ 이하                   │「간이무선국ㆍ우주국ㆍ지구국의 무선설   ││              │(등가등방복사전력은 4 W 이하) │비 및 전파탐지용 무선설비 등 그 밖의    ││              │                              │업무용 무선설비의 기술기준」 제19조의 규││              │                              │정에 따라 지능형교통시스템 서비스를 목  ││              │                              │적으로 설치되는 육상이동국              │└───────┴───────────────┴────────────────────┘②「방송통신기자재등의 적합성평가에 관한 고시(국립전파연구원고시 제2023-24호, 2023. 12. 29.)」중 [별표 1] 적합성평가 대상기자재의 제3호 파목 및 제5호 라목 12)를 다음과 같이 개정한다.[별표 1]3. 간이무선국ㆍ우주국ㆍ지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기기[그림]┌───────────────┬─────────────────┬────────┬───┬─────┐│대상기자재                    │적합성평가기준 적용분야           │적합성평가      │기기  │기타 사항 ││                              │                                  │유형            │부호  │          ││                              ├───┬──┬──┬───────┼──┬─────┤      │          ││                              │전자파│무선│유선│전자파        │적합│적합등록  │      │          ││                              │적합성│    │    │인체보호      │인증│          │      │          ││                              │      │    │    ├───┬───┤    ├──┬──┤      │          ││                              │      │    │    │전자파│전자파│    │지정│자기│      │          ││                              │      │    │    │흡수율│강도  │    │시험│시험│      │          ││                              │      │    │    │      │      │    │기관│    │      │          │┝━━━━━━━━━━━━━━━┿━━━┿━━┿━━┿━━━┿━━━┿━━┿━━┿━━┿━━━┿━━━━━┥│파.지능형교통시스템용 무선설비│○    │○  │    │      │      │○  │    │    │ITSRL │          ││   (기지국의 송수신장치)      │      │    │    │      │      │    │    │    │      │          │└───────────────┴───┴──┴──┴───┴───┴──┴──┴──┴───┴─────┘5. 신고하지 아니하고 개설할 수 있는 무선국용 무선설비의 기기[그림]┌──────────────────────┬─────────────────┬────────┬───┬─────┐│대상기자재                                  │적합성평가기준 적용분야           │적합성평가      │기기  │기타 사항 ││                                            │                                  │유형            │부호  │          ││                                            ├───┬──┬──┬───────┼──┬─────┤      │          ││                                            │전자파│무선│유선│전자파        │적합│적합등록  │      │          ││                                            │적합성│    │    │인체보호      │인증│          │      │          ││                                            │      │    │    ├───┬───┤    ├──┬──┤      │          ││                                            │      │    │    │전자파│전자파│    │지정│자기│      │          ││                                            │      │    │    │흡수율│강도  │    │시험│시험│      │          ││                                            │      │    │    │      │      │    │기관│    │      │          │┝━━━━━━┯━━━━━━━━━━━━━━━┿━━━┿━━┿━━┿━━━┿━━━┿━━┿━━┿━━┿━━━┿━━━━━┥│라.         │12) 지능형교통시스템용 무선기 │○    │○  │    │      │      │○  │    │    │ITSOL │          ││특정소출력  │기                            │      │    │    │      │      │    │    │    │      │          ││무선기기    │   (육상이동국의 송수신장     │      │    │    │      │      │    │    │    │      │          ││            │치)                           │      │    │    │      │      │    │    │    │      │          │└──────┴───────────────┴───┴──┴──┴───┴───┴──┴──┴──┴───┴─────┘제3조(지능형교통시스템용 무선설비에 관한 적용례) 이 고시는 이 고시 시행 후 적합성평가를 신청하는 경우부터 적용한다.제4조(지능형교통시스템용 무선설비에 관한 경과조치) 이 고시 시행 당시 종전의 규정 제19조제2항에 따라 운용 중 이거나 기구축된 무선국은 제19조의 개정에도 불구하고 이 고시 시행일로부터 2027년 6월 30일까지 운용할 수 있다."
+    },
+    {
+      "promulgation_date": "20250425",
+      "promulgation_no": "2025-2",
+      "content": "부칙 <제2025-2호, 2025. 4. 25.>제1조(시행일) 이 고시는 고시한 날부터 시행한다.제2조(다른 고시의 개정) ① 「방송통신기자재등의 적합성평가에 관한 고시(국립전파연구원고시)」중 [별표 1] 적합성평가 대상기자재(제3조 관련)의 제3호나목부터 거목까지를 각각 다목부터 너목까지로 하고, 같은 호에 나목을 다음과 같이 신설하며, [별표 7]  제2호 형식표시에 관한 지정항목에 67을 다음과 같이 신설한다.[별표 1]3. 간이무선국ㆍ우주국ㆍ지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기기[그림]┌──────────┬─────────────────┬────────┬──┬────┐│대상기자재          │적합성평가기준 적용분야           │적합성평가 유형 │기기│기타사항││                    ├───┬──┬──┬───────┼──┬──┬──┤부호│        ││                    │전자파│무선│유선│전자파        │적합│적합│자기│    │        ││                    │적합성│    │    │인체보호      │인증│등록│적합│    │        ││                    │      │    │    ├───┬───┤    │    │확인│    │        ││                    │      │    │    │전자파│전자파│    │    │    │    │        ││                    │      │    │    │흡수율│강도  │    │    │    │    │        │├──────────┼───┼──┼──┼───┼───┼──┼──┼──┼──┼────┤│나. 저궤도 위성통신 │○    │○  │    │      │      │○  │    │    │LEOS│        ││지구국 무선설비     │      │    │    │      │      │    │    │    │    │        ││의 기기             │      │    │    │      │      │    │    │    │    │        │└──────────┴───┴──┴──┴───┴───┴──┴──┴──┴──┴────┘[별표 7]2. 형식표시에 관한 지정항목[그림]┌────────────────────┬─┬─┬─┬─┬─┬─┐│             항   목                    │기│주│송│전│전│채││                                        │  │  │·│  │  │  ││                                        │  │  │수│  │파│  ││                                        │자│파│신│  │  │  ││    구   분                             │  │  │의│  │형│  ││                                        │  │  │구│  │  │  ││                                        │재│수│별│력│식│널│├────────────────────┼─┼─┼─┼─┼─┼─┤│67. 저궤도 위성통신 지구국 무선설비의 기│○│○│○│○│○│  ││기                                      │  │  │  │  │  │  │└────────────────────┴─┴─┴─┴─┴─┴─┘② 「방송통신기자재등 시험기관의 지정 및 관리에 관한 고시(국립전파연구원 고시)」중 [별표 1] 지정분야별 시험항목에 관한 사항(제3조 관련)의 나호에 2. 무선 지정분야 시험항목과 3. 전자파적합성 지정분야 시험항목을 다음과 같이 신설한다.[별표 1]나. 지정분야별 세부 시험항목 분류[그림]┌────────┬──────────────────┐│지정분야        │시험항목                            │├────────┼──────────────────┤│2. 무선         │272 저궤도 위성통신 지구국 무선설비 │├────────┼──────────────────┤│3. 전자파적합성 │352 고정위성업무 지구국 전자파적합성│└────────┴──────────────────┘"
+    },
+    {
+      "promulgation_date": "20250507",
+      "promulgation_no": "2025-4",
+      "content": "부칙 <제2025-4호, 2025. 5. 7.>제1조(시행일) 이 고시는 발령된 날로부터 시행한다.제2조(다른 고시의 개정) ①「방송통신기자재등의 적합성평가에 관한 고시(국립전파연구원고시)」중 [별표 1] 적합성평가 대상기자재의 제3호 타목을 다음과 같이 개정한다.[별표 1]3. 간이무선국ㆍ우주국ㆍ지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기기[그림]┌──────────────────────┬─────────────────┬────────┬──┬─────┐│대상기자재                                  │적합성평가기준 적용분야           │적합성평가 유형 │기기│기타 사항 ││                                            ├───┬──┬──┬───────┼──┬─────┤부호│          ││                                            │전자파│무선│유선│전자파        │적합│적합등록  │    │          ││                                            │적합성│    │    │인체보호      │인증│          │    │          ││                                            │      │    │    ├───┬───┤    ├──┬──┤    │          ││                                            │      │    │    │전자파│전자파│    │지정│자기│    │          ││                                            │      │    │    │흡수율│강도  │    │시험│시험│    │          ││                                            │      │    │    │      │      │    │기관│    │    │          │┝━━━━━━━━┯━━━━━━━━━━━━━┿━━━┿━━┿━━┿━━━┿━━━┿━━┿━━┿━━┿━━┿━━━━━┥│타.통합공공망용 │1)이동국의 송수신장치     │○    │○  │    │○    │      │○  │    │    │IPN │          ││무선설비        ├─────────────┼───┼──┼──┼───┼───┼──┼──┼──┼──┼─────┤│                │2)육상국의 송수신장치     │○    │○  │    │      │      │○  │    │    │IPN1│          ││                │및 중계장치               │      │    │    │      │      │    │    │    │    │          ││                ├─────────────┼───┼──┼──┼───┼───┼──┼──┼──┼──┼─────┤│                │3)핸드오프용 채널변환 장  │○    │○  │    │      │      │○  │    │    │IPN4│          ││                │치                        │      │    │    │      │      │    │    │    │    │          ││                ├─────────────┼───┼──┼──┼───┼───┼──┼──┼──┼──┼─────┤│                │4) 사물인터넷 단말기 송수 │○    │○  │    │○    │      │○  │    │    │IPN5│          ││                │신장치                    │      │    │    │      │      │    │    │    │    │          ││                ├─────────────┼───┼──┼──┼───┼───┼──┼──┼──┼──┼─────┤│                │5)기 타                   │○    │○  │    │      │      │○  │    │    │IPN9│          │└────────┴─────────────┴───┴──┴──┴───┴───┴──┴──┴──┴──┴─────┘②「방송통신기자재등 시험기관의 지정 및 관리에 관한 고시(국립전파연구원고시)」중 [별표 1] 시험분야별 시험항목에 관한 사항(제3조 관련)의 나호에 2. 무선 시험분야 시험항목을 다음과 같이 신설한다.[별표 1]나. 시험분야별 세부 시험항목 분류[그림]┌────┬────────────────────────────┐│시험분야│시험항목                                                │├────┼────────────────────────────┤│2. 무선 │259-4 통합공공망용 무선설비의 기기(사물인터넷 단말기)   │└────┴────────────────────────────┘제3조(제9조 무선설비에 대한 경과조치) 국립전파연구원고시 제2014-12호(2014. 7. 2.) 부칙 제3조제2항에도 불구하고 335.4 MHz∼470 MHz 주파수 대역에서 전파형식이 F3E(G3E) 또는 F3E(G3E)와 F1E겸용인 무선설비의 적합인증과 허가ㆍ신고는 조선소에서 크레인을 사용하는 경우와 같이 안전상 문제가 있는 경우에 한하여 이 고시 시행일부터 허용한다."
+    },
+    {
+      "promulgation_date": "20250526",
+      "promulgation_no": "2025-5",
+      "content": "부칙 <제2025-5호, 2025. 5. 26.>제1조(시행일) 이 고시는 고시한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20260707",
+      "promulgation_no": "2026-3",
+      "content": "부칙 <제2026-3호, 2026. 7. 7.>제1조(시행일) 이 고시는 발령한 날부터 시행한다.제2조(다른 고시의 개정) ① 「방송통신기자재등의 적합성평가에 관한 고시(국립전파연구원고시)」중 [별표 1] 적합성평가 대상기자재의 제3호 나목과 [별표 7] 제2호 형식표시에 관한 지정항목의 67을 다음과 같이 한다.[별표 1]3. 간이무선국ㆍ우주국ㆍ지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기기[그림]┌───────────┬────────────────┬────────┬──┬──┐│대상기자재            │적합성평가기준 적용분야         │적합성평가 유형 │기기│기타││                      ├───┬──┬──┬──────┼──┬──┬──┤부호│사항││                      │전자파│무선│유선│전자파      │적합│적합│자기│    │    ││                      │적합성│    │    │인체        │인증│등록│적합│    │    ││                      │      │    │    │보호        │    │    │확인│    │    ││                      │      │    │    ├───┬──┤    │    │    │    │    ││                      │      │    │    │전자파│전자│    │    │    │    │    ││                      │      │    │    │흡수율│파강│    │    │    │    │    ││                      │      │    │    │      │도  │    │    │    │    │    │├───────────┼───┼──┼──┼───┼──┼──┼──┼──┼──┼──┤│나. 「전파법 시행령」 │O     │O   │    │      │    │O   │    │    │FSSE│    ││제21조제2호에 따      │      │    │    │      │    │    │    │    │S   │    ││른 고정위성업무 지    │      │    │    │      │    │    │    │    │    │    ││구국용 무선설비의     │      │    │    │      │    │    │    │    │    │    ││기기                  │      │    │    │      │    │    │    │    │    │    │└───────────┴───┴──┴──┴───┴──┴──┴──┴──┴──┴──┘[별표 7]2. 형식표시에 관한 지정항목[그림]┌────────────────────────┬─┬─┬─┬─┬─┬─┐│           항   목                              │기│주│송│전│전│채││                                                │  │  │·│  │  │  ││                                                │  │  │수│  │파│  ││                                                │자│파│신│  │  │  ││  구   분                                       │  │  │의│  │형│  ││                                                │  │  │구│  │  │  ││                                                │재│수│별│력│식│널│├────────────────────────┼─┼─┼─┼─┼─┼─┤│67.「전파법 시행령」 제21조제2호에 따른 고정위성│O │O │O │O │O │  ││업무 지구국용 무선설비의 기기                   │  │  │  │  │  │  │└────────────────────────┴─┴─┴─┴─┴─┴─┘② 「방송통신기자재등 시험기관의 지정 및 관리에 관한 고시(국립전파연구원 고시)」중 [별표 1] 지정분야별 시험항목에 관한 사항(제3조 관련)의 나목에 2. 무선 지정분야 시험항목의 \"272 저궤도 위성통신 지구국 무선설비\"를 \"272 「전파법 시행령」 제21조제2호에 따른 고정위성업무용 지구국 무선설비의 기기\"로 한다.제3조(제6조제2호 무선설비에 대한 경과조치) 이 고시 시행 전에 영 제21조제2호에 해당하는 지구국으로서 「전파법」 제19조에 따라 허가를 받았거나 같은 법 제19조의2에 따라 개설신고 되었던 무선국 기자재(동일 모델 및 「방송통신기자재등의 적합성평가에 관한 고시」 제17조제2항 및 제3항에 따른 적합성평가 기준과 관련되지 아니한 파생모델에 한한다)는 이 개정 고시에 따라 적합한 것으로 본다. 이 경우 전단에 해당하는 무선국 기자재는 「전파법」 제58조의2에 따른 방송통신기자재등의 적합성평가를 받은 것으로 본다.제4조(제6조제2호 무선설비에 대한 적용례) 제6조제2호의 개정규정은 이 고시 시행 이후 전파법 제58조의2에 따른 방송통신기자재등의 적합성평가를 신청하는 기자재와 전파법 제19조 및 제19조의2에 따라 허가 및 신고를 신청하는 무선국부터 적용한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "간이무선국의 주파수·전파형식 및 안테나공급전력(제4조 관련)",
+      "enforcement_date": "",
+      "content": "[별표 1]\n간이무선국의 주파수ㆍ전파형식 및 안테나공급전력\n(제4조 관련)\n┌──────┬─────┬───────┬──┐\n│주파수(㎒)  │전파형식  │안테나공급전력│비고│\n├──────┼─────┼───────┼──┤\n│146.5125    │8K50F(G)2D│5W 이하       │    │\n│146.5250    │8K50F(G)3E│              │    │\n│146.5375    │8K50F1D   │              │    │\n│146.5500    │8K50F1E   │              │    │\n│146.5625    │          │              │    │\n│146.5750    │          │              │    │\n│146.5875    │          │              │    │\n├──────┼─────┼───────┼──┤\n│146.51250   │4K00F1D   │5W 이하       │    │\n│146.51875   │4K00F1E   │              │    │\n│146.52500   │          │              │    │\n│146.53125   │          │              │    │\n│146.53750   │          │              │    │\n│146.54375   │          │              │    │\n│146.55000   │          │              │    │\n│146.55625   │          │              │    │\n│146.56250   │          │              │    │\n│146.56875   │          │              │    │\n│146.57500   │          │              │    │\n│146.58125   │          │              │    │\n│146.58750   │          │              │    │\n├──────┼─────┼───────┼──┤\n│222.4500    │8K50F(G)2D│5W 이하       │    │\n│222.4625    │8K50F(G)3E│              │    │\n│222.4750    │8K50F1D   │              │    │\n│222.4875    │8K50F1E   │              │    │\n│222.5000    ├─────┼───────┼──┤\n│222.5125    │8K50F(G)2D│5W 이하       │    │\n│222.5250    │8K50F(G)3E│              │    │\n│222.5375    │8K50F1D   │              │    │\n│222.5500    │8K50F1E   │              │    │\n│222.5625    │          │              │    │\n│222.5750    │          │              │    │\n│222.5875    │          │              │    │\n│222.6000    │          │              │    │\n│222.6125    │          │              │    │\n│222.6250    │          │              │    │\n│222.6375    │          │              │    │\n│222.6500    │          │              │    │\n│222.6625    │          │              │    │\n│222.6750    │          │              │    │\n│222.6875    │          │              │    │\n│222.7000    │          │              │    │\n│222.7125    │          │              │    │\n│222.7250    │          │              │    │\n│222.7375    │          │              │    │\n│222.7500    │          │              │    │\n│222.7625    │          │              │    │\n│222.7750    │          │              │    │\n│222.7875    │          │              │    │\n│222.8000    │          │              │    │\n│222.8125    │          │              │    │\n│222.8250    │          │              │    │\n│222.8375    │          │              │    │\n│222.8500    │          │              │    │\n│222.8625    │          │              │    │\n│222.8750    │          │              │    │\n│222.8875    │          │              │    │\n│222.9000    │          │              │    │\n│222.9125    │          │              │    │\n│222.9250    │          │              │    │\n│222.9375    │          │              │    │\n│222.9500    │          │              │    │\n│222.9625    │          │              │    │\n│222.9750    │          │              │    │\n├──────┼─────┼───────┼──┤\n│222.45000   │4K00F1D   │5W 이하       │    │\n│222.45625   │4K00F1E   │              │    │\n│222.46250   ├─────┼───────┼──┤\n│222.46875   │4K00F1D   │5W 이하       │    │\n│222.47500   │4K00F1E   │              │    │\n│222.48125   │          │              │    │\n│222.48750   │          │              │    │\n│222.49375   │          │              │    │\n│222.50000   │          │              │    │\n│222.50625   │          │              │    │\n│222.51250   │          │              │    │\n│222.51875   │          │              │    │\n│222.52500   │          │              │    │\n│222.53125   │          │              │    │\n│222.53750   │          │              │    │\n│222.54375   │          │              │    │\n│222.55000   │          │              │    │\n│222.55625   │          │              │    │\n│222.56250   │          │              │    │\n│222.56875   │          │              │    │\n│222.57500   │          │              │    │\n│222.58125   │          │              │    │\n│222.58750   │          │              │    │\n│222.59375   │          │              │    │\n│222.60000   │          │              │    │\n│222.60625   │          │              │    │\n│222.61250   │          │              │    │\n│222.61875   │          │              │    │\n│222.62500   │          │              │    │\n│222.63125   │          │              │    │\n│222.63750   │          │              │    │\n│222.64375   │          │              │    │\n│222.65000   │          │              │    │\n│222.65625   │          │              │    │\n│222.66250   │          │              │    │\n│222.66875   │          │              │    │\n│222.67500   │          │              │    │\n│222.68125   │          │              │    │\n│222.68750   │          │              │    │\n│222.69375   │          │              │    │\n│222.70000   │          │              │    │\n│222.70625   │          │              │    │\n│222.71250   │          │              │    │\n│222.71875   │          │              │    │\n│222.72500   │          │              │    │\n│222.73125   │          │              │    │\n│222.73750   │          │              │    │\n│222.74375   │          │              │    │\n│222.75000   │          │              │    │\n│222.75625   │          │              │    │\n│222.76250   │          │              │    │\n│222.76875   │          │              │    │\n│222.77500   │          │              │    │\n│222.78125   │          │              │    │\n│222.78750   │          │              │    │\n│222.79375   │          │              │    │\n│222.80000   │          │              │    │\n│222.80625   │          │              │    │\n│222.81250   │          │              │    │\n│222.81875   │          │              │    │\n│222.82500   │          │              │    │\n│222.83125   │          │              │    │\n│222.83750   │          │              │    │\n│222.84375   │          │              │    │\n│222.85000   │          │              │    │\n│222.85625   │          │              │    │\n│222.86250   │          │              │    │\n│222.86875   │          │              │    │\n│222.87500   │          │              │    │\n│222.88125   │          │              │    │\n│222.88750   │          │              │    │\n│222.89375   │          │              │    │\n│222.90000   │          │              │    │\n│222.90625   │          │              │    │\n│222.91250   │          │              │    │\n│222.91875   │          │              │    │\n│222.92500   │          │              │    │\n│222.93125   │          │              │    │\n│222.93750   │          │              │    │\n│222.94375   │          │              │    │\n│222.95000   │          │              │    │\n│222.95625   │          │              │    │\n│222.96250   │          │              │    │\n│222.96875   │          │              │    │\n│222.97500   │          │              │    │\n├──────┼─────┼───────┼──┤\n│422.4750    │8K50F(G)2D│5W 이하       │    │\n│422.4875    │8K50F(G)3E│              │    │\n│422.5000    │8K50F1D   │              │    │\n│422.5125    │8K50F1E   │              │    │\n│422.5250    │          │              │    │\n│422.5375    │          │              │    │\n│422.5500    │          │              │    │\n│422.5625    │          │              │    │\n│422.5750    │          │              │    │\n│422.5875    │          │              │    │\n│422.6000    │          │              │    │\n│422.6125    │          │              │    │\n│422.6250    │          │              │    │\n│422.6375    │          │              │    │\n│422.6500    │          │              │    │\n│422.6625    │          │              │    │\n│422.6750    │          │              │    │\n│422.6875    │          │              │    │\n│422.7000    │          │              │    │\n│422.7125    │          │              │    │\n│422.7250    │          │              │    │\n│422.7375    │          │              │    │\n│422.7500    │          │              │    │\n│422.7625    │          │              │    │\n│422.7750    │          │              │    │\n│422.7875    │          │              │    │\n│422.8000    │          │              │    │\n│422.8125    │          │              │    │\n│422.8250    │          │              │    │\n│422.8375    │          │              │    │\n│422.8500    │          │              │    │\n│422.8625    │          │              │    │\n│422.8750    │          │              │    │\n│422.8875    │          │              │    │\n│422.9000    │          │              │    │\n│422.9125    │          │              │    │\n│422.9250    │          │              │    │\n│422.9375    │          │              │    │\n│422.9500    │          │              │    │\n├──────┼─────┼───────┼──┤\n│423.0750    │8K50F(G)2D│5W 이하       │    │\n│423.0875    │8K50F(G)3E│              │    │\n│423.1000    │8K50F1D   │              │    │\n│423.1125    │8K50F1E   │              │    │\n│423.1250    ├─────┼───────┼──┤\n│423.1375    │8K50F(G)2D│5W 이하       │    │\n│423.1500    │8K50F(G)3E│              │    │\n│423.1625    │8K50F1D   │              │    │\n│423.1750    │8K50F1E   │              │    │\n│423.1875    │          │              │    │\n│423.2000    │          │              │    │\n│423.2125    │          │              │    │\n│423.2250    │          │              │    │\n│423.2375    │          │              │    │\n│423.2500    │          │              │    │\n│423.2625    │          │              │    │\n│423.2750    │          │              │    │\n│423.2875    │          │              │    │\n│423.3000    │          │              │    │\n│423.3125    │          │              │    │\n│423.3250    │          │              │    │\n│423.3375    │          │              │    │\n│423.3500    │          │              │    │\n│423.3625    │          │              │    │\n│423.3750    │          │              │    │\n│423.3875    │          │              │    │\n│423.4000    │          │              │    │\n│423.4125    │          │              │    │\n│423.4250    │          │              │    │\n│423.4375    │          │              │    │\n│423.4500    │          │              │    │\n│423.4625    │          │              │    │\n│423.4750    │          │              │    │\n│423.4875    │          │              │    │\n│423.5000    │          │              │    │\n│423.5125    │          │              │    │\n│423.5250    │          │              │    │\n│423.5375    │          │              │    │\n│423.5500    │          │              │    │\n│423.5625    │          │              │    │\n│423.5750    │          │              │    │\n│423.5875    │          │              │    │\n│423.6000    │          │              │    │\n│423.6125    │          │              │    │\n│423.6250    │          │              │    │\n│423.6375    │          │              │    │\n│423.6500    │          │              │    │\n│423.6625    │          │              │    │\n│423.6750    │          │              │    │\n│423.6875    │          │              │    │\n│423.7000    │          │              │    │\n│423.7125    │          │              │    │\n│423.7250    │          │              │    │\n│423.7375    │          │              │    │\n│423.7500    │          │              │    │\n│423.7625    │          │              │    │\n│423.7750    │          │              │    │\n│423.7875    │          │              │    │\n│423.8000    │          │              │    │\n│423.8125    │          │              │    │\n│423.8250    │          │              │    │\n│423.8375    │          │              │    │\n│423.8500    │          │              │    │\n│423.8625    │          │              │    │\n│423.8750    │          │              │    │\n│423.8875    │          │              │    │\n│423.9000    │          │              │    │\n│423.9125    │          │              │    │\n│423.9250    │          │              │    │\n│423.9375    │          │              │    │\n│423.9500    │          │              │    │\n│423.9625    │          │              │    │\n│423.9750    │          │              │    │\n│423.9875    │          │              │    │\n├──────┼─────┼───────┼──┤\n│422.47500   │4K00F1D   │5W 이하       │    │\n│422.48125   │4K00F1E   │              │    │\n│422.48750   ├─────┼───────┼──┤\n│422.49375   │4K00F1D   │5W 이하       │    │\n│422.50000   │4K00F1E   │              │    │\n│422.50625   │          │              │    │\n│422.51250   │          │              │    │\n│422.51875   │          │              │    │\n│422.52500   │          │              │    │\n│422.53125   │          │              │    │\n│422.53750   │          │              │    │\n│422.54375   │          │              │    │\n│422.55000   │          │              │    │\n│422.55625   │          │              │    │\n│422.56250   │          │              │    │\n│422.56875   │          │              │    │\n│422.57500   │          │              │    │\n│422.58125   │          │              │    │\n│422.58750   │          │              │    │\n│422.59375   │          │              │    │\n│422.60000   │          │              │    │\n│422.60625   │          │              │    │\n│422.61250   │          │              │    │\n│422.61875   │          │              │    │\n│422.62500   │          │              │    │\n│422.63125   │          │              │    │\n│422.63750   │          │              │    │\n│422.64375   │          │              │    │\n│422.65000   │          │              │    │\n│422.65625   │          │              │    │\n│422.66250   │          │              │    │\n│422.66875   │          │              │    │\n│422.67500   │          │              │    │\n│422.68125   │          │              │    │\n│422.68750   │          │              │    │\n│422.69375   │          │              │    │\n│422.70000   │          │              │    │\n│422.70625   │          │              │    │\n│422.71250   │          │              │    │\n│422.71875   │          │              │    │\n│422.72500   │          │              │    │\n│422.73125   │          │              │    │\n│422.73750   │          │              │    │\n│422.74375   │          │              │    │\n│422.75000   │          │              │    │\n│422.75625   │          │              │    │\n│422.76250   │          │              │    │\n│422.76875   │          │              │    │\n│422.77500   │          │              │    │\n│422.78125   │          │              │    │\n│422.78750   │          │              │    │\n│422.79375   │          │              │    │\n│422.80000   │          │              │    │\n│422.80625   │          │              │    │\n│422.81250   │          │              │    │\n│422.81875   │          │              │    │\n│422.82500   │          │              │    │\n│422.83125   │          │              │    │\n│422.83750   │          │              │    │\n│422.84375   │          │              │    │\n│422.85000   │          │              │    │\n│422.85625   │          │              │    │\n│422.86250   │          │              │    │\n│422.86875   │          │              │    │\n│422.87500   │          │              │    │\n│422.88125   │          │              │    │\n│422.88750   │          │              │    │\n│422.89375   │          │              │    │\n│422.90000   │          │              │    │\n│422.90625   │          │              │    │\n│422.91250   │          │              │    │\n│422.91875   │          │              │    │\n│422.92500   │          │              │    │\n│422.93125   │          │              │    │\n│422.93750   │          │              │    │\n│422.94375   │          │              │    │\n│422.95000   │          │              │    │\n├──────┼─────┼───────┼──┤\n│423.07500   │4K00F1D   │5W 이하       │    │\n│423.08125   │4K00F1E   │              │    │\n│423.08750   ├─────┼───────┼──┤\n│423.09375   │4K00F1D   │5W 이하       │    │\n│423.10000   │4K00F1E   │              │    │\n│423.10625   ├─────┼───────┼──┤\n│423.11250   │4K00F1D   │5W 이하       │    │\n│423.11875   │4K00F1E   │              │    │\n│423.12500   ├─────┼───────┼──┤\n│423.13125   │4K00F1D   │5W 이하       │    │\n│423.13750   │4K00F1E   │              │    │\n│423.14375   │          │              │    │\n│423.15000   │          │              │    │\n│423.15625   │          │              │    │\n│423.16250   │          │              │    │\n│423.16875   │          │              │    │\n│423.17500   │          │              │    │\n│423.18125   │          │              │    │\n│423.18750   │          │              │    │\n│423.19375   │          │              │    │\n│423.20000   │          │              │    │\n│423.20625   │          │              │    │\n│423.21250   │          │              │    │\n│423.21875   │          │              │    │\n│423.22500   │          │              │    │\n│423.23125   │          │              │    │\n│423.23750   │          │              │    │\n│423.24375   │          │              │    │\n│423.25000   │          │              │    │\n│423.25625   │          │              │    │\n│423.26250   │          │              │    │\n│423.26875   │          │              │    │\n│423.27500   │          │              │    │\n│423.28125   │          │              │    │\n│423.28750   │          │              │    │\n│423.29375   │          │              │    │\n│423.30000   │          │              │    │\n│423.30625   │          │              │    │\n│423.31250   │          │              │    │\n│423.31875   │          │              │    │\n│423.32500   │          │              │    │\n│423.33125   │          │              │    │\n│423.33750   │          │              │    │\n│423.34375   │          │              │    │\n│423.35000   │          │              │    │\n│423.35625   │          │              │    │\n│423.36250   │          │              │    │\n│423.36875   │          │              │    │\n│423.37500   │          │              │    │\n│423.38125   │          │              │    │\n│423.38750   │          │              │    │\n│423.39375   │          │              │    │\n│423.40000   │          │              │    │\n│423.40625   │          │              │    │\n│423.41250   │          │              │    │\n│423.41875   │          │              │    │\n│423.42500   │          │              │    │\n│423.43125   │          │              │    │\n│423.43750   │          │              │    │\n│423.44375   │          │              │    │\n│423.45000   │          │              │    │\n│423.45625   │          │              │    │\n│423.46250   │          │              │    │\n│423.46875   │          │              │    │\n│423.47500   │          │              │    │\n│423.48125   │          │              │    │\n│423.48750   │          │              │    │\n│423.49375   │          │              │    │\n│423.50000   │          │              │    │\n│423.50625   │          │              │    │\n│423.51250   │          │              │    │\n│423.51875   │          │              │    │\n│423.52500   │          │              │    │\n│423.53125   │          │              │    │\n│423.53750   │          │              │    │\n│423.54375   │          │              │    │\n│423.55000   │          │              │    │\n│423.55625   │          │              │    │\n│423.56250   │          │              │    │\n│423.56875   │          │              │    │\n│423.57500   │          │              │    │\n│423.58125   │          │              │    │\n│423.58750   │          │              │    │\n│423.59375   │          │              │    │\n│423.60000   │          │              │    │\n│423.60625   │          │              │    │\n│423.61250   │          │              │    │\n│423.61875   │          │              │    │\n│423.62500   │          │              │    │\n│423.63125   │          │              │    │\n│423.63750   │          │              │    │\n│423.64375   │          │              │    │\n│423.65000   │          │              │    │\n│423.65625   │          │              │    │\n│423.66250   │          │              │    │\n│423.66875   │          │              │    │\n│423.67500   │          │              │    │\n│423.68125   │          │              │    │\n│423.68750   │          │              │    │\n│423.69375   │          │              │    │\n│423.70000   │          │              │    │\n│423.70625   │          │              │    │\n│423.71250   │          │              │    │\n│423.71875   │          │              │    │\n│423.72500   │          │              │    │\n│423.73125   │          │              │    │\n│423.73750   │          │              │    │\n│423.74375   │          │              │    │\n│423.75000   │          │              │    │\n│423.75625   │          │              │    │\n│423.76250   │          │              │    │\n│423.76875   │          │              │    │\n│423.77500   │          │              │    │\n│423.78125   │          │              │    │\n│423.78750   │          │              │    │\n│423.79375   │          │              │    │\n│423.80000   │          │              │    │\n│423.80625   │          │              │    │\n│423.81250   │          │              │    │\n│423.81875   │          │              │    │\n│423.82500   │          │              │    │\n│423.83125   │          │              │    │\n│423.83750   │          │              │    │\n│423.84375   │          │              │    │\n│423.85000   │          │              │    │\n│423.85625   │          │              │    │\n│423.86250   │          │              │    │\n│423.86875   │          │              │    │\n│423.87500   │          │              │    │\n│423.88125   │          │              │    │\n│423.88750   │          │              │    │\n│423.89375   │          │              │    │\n│423.90000   │          │              │    │\n│423.90625   │          │              │    │\n│423.91250   │          │              │    │\n│423.91875   │          │              │    │\n│423.92500   │          │              │    │\n│423.93125   │          │              │    │\n│423.93750   │          │              │    │\n│423.94375   │          │              │    │\n│423.95000   │          │              │    │\n│423.95625   │          │              │    │\n│423.96250   │          │              │    │\n│423.96875   │          │              │    │\n│423.97500   │          │              │    │\n│423.98125   │          │              │    │\n│423.98750   │          │              │    │\n├──────┼─────┼───────┼──┤\n│444.0250    │8K50F(G)2D│5W 이하       │    │\n│444.0375    │8K50F(G)3E│              │    │\n│444.0500    │8K50F1D   │              │    │\n│444.0625    │8K50F1E   │              │    │\n│444.0750    │          │              │    │\n│444.0875    │          │              │    │\n│444.1000    │          │              │    │\n│444.1125    │          │              │    │\n│444.1250    │          │              │    │\n│444.1375    │          │              │    │\n│444.1500    │          │              │    │\n├──────┼─────┼───────┼──┤\n│444.02500   │4K00F1D   │5W 이하       │    │\n│444.03125   │4K00F1E   │              │    │\n│444.03750   │          │              │    │\n│444.04375   │          │              │    │\n│444.05000   │          │              │    │\n│444.05625   │          │              │    │\n│444.06250   │          │              │    │\n│444.06875   │          │              │    │\n│444.07500   │          │              │    │\n│444.08125   │          │              │    │\n│444.08750   │          │              │    │\n│444.09375   │          │              │    │\n│444.10000   │          │              │    │\n│444.10625   │          │              │    │\n│444.11250   │          │              │    │\n│444.11875   │          │              │    │\n│444.12500   │          │              │    │\n│444.13125   │          │              │    │\n│444.13750   │          │              │    │\n│444.14375   │          │              │    │\n│444.15000   │          │              │    │\n└──────┴─────┴───────┴──┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281760&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166836987",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166836963",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166836987",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#BYL0001",
+      "filename": "별표1_간이무선국의 주파수·전파형식 및 안테나공급전력(제4조 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "02",
+      "kind": "별표",
+      "title": "마을 공지사항 안내용 간이무선국의 주파수·전파형식 및 안테나공급전력(제4조제2항 관련)",
+      "enforcement_date": "",
+      "content": "[별표 1의2]\n마을 공지사항 안내용 간이무선국의 주파수ㆍ전파형식 및 안테나공급전력\n(제4조제2항 관련)\n┌──────┬─────┬───────┬─────────┐\n│주파수(MHz) │전파형식  │안테나공급전력│비고              │\n├──────┼─────┼───────┼─────────┤\n│422.0000    │8K50F(G)2D│5 W 이하      │                  │\n│422.0125    │8K50F(G)3E│              │                  │\n│422.0250    ├─────┤              ├─────────┤\n│422.0375    │8K50F1D   │              │제4조제2항제7호관 │\n│422.0500    │8K50F1E   │              │련                │\n├──────┼─────┼───────┼─────────┤\n│421.996875  │4K00F1D   │5 W 이하      │제4조제2항제8호관 │\n│422.003125  │4K00F1E   │              │련                │\n│422.009375  │          │              │                  │\n│422.015625  │          │              │                  │\n│422.021875  │          │              │                  │\n│422.028125  │          │              │                  │\n│422.034375  │          │              │                  │\n│422.040625  │          │              │                  │\n│422.046875  │          │              │                  │\n│422.053125  │          │              │                  │\n└──────┴─────┴───────┴─────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281760&bylNo=0001&bylBrNo=02",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166836993",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166836989",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166836993",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#BYL0001_02",
+      "filename": "별표1의2_마을 공지사항 안내용 간이무선국의 주파수·전파형식 및 안테나공급전력(제4조제2항 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "삭제",
+      "enforcement_date": "",
+      "content": "[별표 2] 삭제 <2013.12.18>",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281760&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166836999",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166836995",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166836999",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#BYL0002",
+      "filename": "별표2_삭제.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "우주국의 전력속밀도의 허용치(제6조제1호나목 관련)",
+      "enforcement_date": "",
+      "content": "[별표 3]\n우주국의 전력속밀도의 허용치\n┌───────┬──────────────────────────────────────┬───┐\n│주파수대      │수평면위의 도래각(δ) 및 전력속밀도의 한계값(㏈W/m2)                        │기  준│\n│              ├───┬──────────────┬───────────────────┤대역폭│\n│              │0°-5 │5°-25°                    │25°-90°                             │      │\n│              │°    │                            │                                      │      │\n├───────┼───┴──────────────┴───────────────────┼───┤\n│1670-1700㎒   │-133 (기상보조업무와 공유의 경우 적용)                                      │1.5㎒ │\n├───────┼───┬──────────────┬───────────────────┼───┤\n│1525-1530㎒   │-154  │-154+0.5(δ-5)              │-144                                  │4㎑   │\n│1670-1710㎒   │      │                            │                                      │      │\n│2025-2110㎒   │      │                            │                                      │      │\n│2200-2300㎒   │      │                            │                                      │      │\n├───────┼───┼──────────────┼───────────────────┼───┤\n│2500-2690㎒   │-152  │-152+0.75(δ-5)             │-137                                  │4㎑   │\n├───────┼───┼──────────────┼───────────────────┼───┤\n│3500-4200㎒   │-152  │-152+0.5(δ-5)              │-142                                  │4㎑   │\n│4500-4800㎒   │      │                            │                                      │      │\n│5670-5725㎒   │      │                            │                                      │      │\n│7250-7850㎒   │      │                            │                                      │      │\n├───────┼───┴──────────────┴───────────────────┼───┤\n│5150-5216㎒   │-164                                                                        │4㎑   │\n├───────┼───┬──────────────┬───────────────────┼───┤\n│6700-6825㎒   │-137  │-137+0.5(δ-5)              │-127                                  │1㎒   │\n├───────┼───┼──────────────┼───────────────────┼───┤\n│6825-7075㎒   │-154  │-154+0.5(δ-5)              │-144                                  │4㎑   │\n│              ├───┼──────────────┼───────────────────┼───┤\n│              │-134  │-134+0.5(δ-5)              │-124                                  │1㎒   │\n├───────┼───┼──────────────┼───────────────────┼───┤\n│8025-8500㎒   │-150  │-150+0.5(δ-5)              │-140                                  │4㎑   │\n├───────┼───┼──────────────┼───────────────────┼───┤\n│10.7-11.7㎓   │-150  │-150+0.5(δ-5)              │-140                                  │4㎑   │\n├───────┼───┼──────────────┼───────────────────┼───┤\n│12.2-12.75㎓  │-148  │-148+0.5(δ-5)              │-138                                  │4㎑   │\n├───────┼───┼─────┬────────┼────┬─────────┬────┼───┤\n│15.43-15.63㎓ │-127  │5°-20°  │20°-25°       │25°-29 │29°-31°         │31°-90 │1㎒   │\n│              │      │          │                │°      │                  │°      │      │\n│              │      ├─────┼────────┼────┼─────────┼────┤      │\n│              │      │-127      │-127+0.56       │-113    │-136.9+25log(δ-2 │-111    │      │\n│              │      │          │(δ-20)         │        │0)                │        │      │\n├───────┼───┼─────┴────────┼────┴─────────┴────┼───┤\n│17.7-19.3㎓   │-115  │-115+0.5(δ-5)              │-105                                  │1㎒   │\n├───────┼───┼──────────────┼───────────────────┼───┤\n│19.3-19.7㎓   │-115  │-115+0.5(δ-5)              │-105                                  │1㎒   │\n│21.4-22.0㎓   │      │                            │                                      │      │\n│22.55-23.55㎓ │      │                            │                                      │      │\n│24.45-24.75㎓ │      │                            │                                      │      │\n│25.25-27.501  │      │                            │                                      │      │\n│㎓            │      │                            │                                      │      │\n├───────┼───┼──────────────┼───────────────────┼───┤\n│31.0-31.3㎓   │-115  │-115+0.5(δ-5)              │-105                                  │1㎒   │\n├───────┼───┼──────────────┼───────────────────┼───┤\n│31.8-32.3㎓   │-120  │-120+0.75(δ-5)             │-105                                  │1㎒   │\n├───────┼───┼──────────────┼───────────────────┼───┤\n│32.3-33㎓     │-135  │-135+(δ-5)                 │-115                                  │1㎒   │\n├───────┼───┼─────┬────────┼───────────────────┼───┤\n│37.5-40㎓     │-127  │5°-20°  │20°-25°       │-105                                  │1㎒   │\n│              │      ├─────┼────────┤                                      │      │\n│              │      │-127+(4/3)│-107+0.4 (δ-20)│                                      │      │\n│              │      │(δ-5)    │                │                                      │      │\n├───────┼───┼─────┴────────┼───────────────────┼───┤\n│40-40.5㎓     │-115  │-115+0.5(δ-5)              │-105                                  │1㎒   │\n├───────┼───┼─────┬────────┼───────────────────┼───┤\n│40.5-42㎓     │-120  │5°-15°  │15°-25°       │-105                                  │1㎒   │\n│              │      ├─────┼────────┤                                      │      │\n│              │      │-120+(δ-5│-110+0.5 (δ-15)│                                      │      │\n│              │      │)         │                │                                      │      │\n├───────┼───┼─────┼────────┼───────────────────┼───┤\n│42-42.5㎓     │-127  │5°-20°  │20°-25°       │-105                                  │1㎒   │\n│              │      ├─────┼────────┤                                      │      │\n│              │      │-127+(4/3)│-107+0.4 (δ-20)│                                      │      │\n│              │      │(δ-5)    │                │                                      │      │\n└───────┴───┴─────┴────────┴───────────────────┴───┘\n(제6조제1호나목 관련)",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281760&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166837005",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166837001",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166837005",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#BYL0003",
+      "filename": "별표3_우주국의 전력속밀도의 허용치(제6조제1호나목 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별표",
+      "title": "지구국의 등가등방복사전력의 허용치(제6조제2호가목2세호 관련)",
+      "enforcement_date": "",
+      "content": "[별표 4]\n지구국의 등가등방복사전력의 허용치\n(제6조제2호가목2세호 관련)\n┌──────┬─────┬─────┬────────┐\n│주파수대(㎓)│대  역  폭│앙  각(θ)│등가등방복사전력│\n├──────┼─────┼─────┼────────┤\n│1∼15       │4㎑       │≤0°     │40㏈W           │\n│            │          ├─────┼────────┤\n│            │          │0＜θ≤5°│40+3θ㏈W       │\n├──────┼─────┼─────┼────────┤\n│15 초과     │1㎒       │≤0°     │64㏈W           │\n│            │          ├─────┼────────┤\n│            │          │0＜θ≤5°│64+3θ㏈W       │\n└──────┴─────┴─────┴────────┘\n1) 1∼15㎓ 주파수대역에서 심우주의 우주연구 업무용으로 사용하는 경우에는 최대등가등방 복사전력은 기준대역폭 4㎑에서 +55㏈W로 한다.\n2) 15㎓ 초과 주파수대역으로 심우주의 우주연구 업무용으로 사용하는 경우에는 최대 등가등방 복사전력은 기준대역폭 1㎒에서 +79㏈W로 한다.\n3) 1W를 0㏈W로 한다.",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281760&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166837011",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166837007",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166837011",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#BYL0004",
+      "filename": "별표4_지구국의 등가등방복사전력의 허용치(제6조제2호가목2세호 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "02",
+      "kind": "별표",
+      "title": "해상이동형지구국의 등가등방복사전력(제6조제2호가목4세호 관련)",
+      "enforcement_date": "",
+      "content": "[별표 4의2]\n해상이동형지구국의 등가등방복사전력\n(제6조제2호가목4세호 관련)\n┌──────────┬─────────┬────────┐\n│송신 주파수 대역(㎓)│수평면 최대       │수평면 최대     │\n│                    │등가등방복사전력  │등가등방복사전력│\n│                    │스펙트럼밀도      │                │\n├──────────┼─────────┼────────┤\n│5.925~6.425         │17 dBW/MHz        │20.8 dBW        │\n├──────────┼─────────┼────────┤\n│14~14.5             │12.5 dBW/MHz      │16.3 dBW        │\n├──────────┼─────────┼────────┤\n│27.5~30             │ 24.44 dBW/14MHz  │-               │\n└──────────┴─────────┴────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281760&bylNo=0004&bylBrNo=02",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166837017",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166837013",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166837017",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#BYL0004_02",
+      "filename": "별표4의2_해상이동형지구국의 등가등방복사전력(제6조제2호가목4세호 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "03",
+      "kind": "별표",
+      "title": "항공이동형지구국의 전력속밀도(Power Flux Density)(제6조제2호가목5세호 관련)",
+      "enforcement_date": "",
+      "content": "[별표 4의3]\n항공이동형지구국의 전력속밀도(Power Flux Density)\n(제6조제2호가목5세호 관련)\n┌──────────┬───────────┬──────────┐\n│송신 주파수 대역(㎓)│지표면 최대 전력속밀도│전파 도달각(θ)     │\n│                    │(dB(W/m2·MHz))       │                    │\n├──────────┼───────────┼──────────┤\n│14~14.5             │-122                  │θ ≤ 5°           │\n│                    ├───────────┼──────────┤\n│                    │-127 + θ             │5° < θ ≤ 40°    │\n│                    ├───────────┼──────────┤\n│                    │-87                   │40° < θ ≤ 90°   │\n├──────────┼───────────┼──────────┤\n│27.5~30             │-127.7                │θ ≤ 1°           │\n│                    ├───────────┼──────────┤\n│                    │-127.7 + 18logθ      │1° < θ ≤ 12.4°  │\n│                    ├───────────┼──────────┤\n│                    │-108                  │12.4° < θ ≤ 90° │\n└──────────┴───────────┴──────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281760&bylNo=0004&bylBrNo=03",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166837023",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166837019",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166837023",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#BYL0004_03",
+      "filename": "별표4의3_항공이동형지구국의 전력속밀도(Power Flux Density)(제6조제2호가목5세호 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "04",
+      "kind": "별표",
+      "title": "부차적 전파발사 등가등방복사전력밀도(제6조제2호사목4세호 관련)",
+      "enforcement_date": "",
+      "content": "[별표 4의4]\n부차적 전파발사 등가등방복사전력밀도\n(제6조제2호사목4세호 관련)\n1. 5.850 GHz~7.075 GHz 대역 송신\n┌────────┬──────────┬──────────┬─────┐\n│주파수대역(GHz) │부빔(7° 초과) 방향 │주빔(7° 이하) 방향 │측정대역폭│\n│                │등가등방복사전력    │등가등방복사전력    │          │\n│                │(dBW)               │(dBW)               │          │\n├────────┼──────────┼──────────┼─────┤\n│2.0 ~ 5.850     │-72                 │-                   │100 ㎑    │\n├────────┼──────────┼──────────┤          │\n│5.850 ~ 7.075   │-72                 │-21                 │          │\n├────────┼──────────┼──────────┤          │\n│7.075 ~ 10.7    │-72                 │-                   │          │\n├────────┼──────────┼──────────┤          │\n│10.7 ~ 21.2     │-66                 │-                   │          │\n├────────┼──────────┼──────────┤          │\n│21.2 ~ 40       │-60                 │-                   │          │\n└────────┴──────────┴──────────┴─────┘\n2. 13.75 GHz~14.8 GHz 대역 송신\n┌────────┬──────────┬──────────┬─────┐\n│주파수대역(GHz) │부빔(7° 초과) 방향 │주빔(7° 이하) 방향 │측정대역폭│\n│                │등가등방복사전력    │등가등방복사전력    │          │\n│                │(dBW)               │(dBW)               │          │\n├────────┼──────────┼──────────┼─────┤\n│2.0 ~ 10.7      │-72                 │-                   │100 ㎑    │\n├────────┼──────────┼──────────┤          │\n│10.7 ~ 13.75    │-66                 │-                   │          │\n├────────┼──────────┼──────────┤          │\n│13.75 ~ 14.8    │-66                 │-21                 │          │\n├────────┼──────────┼──────────┤          │\n│14.8 ~ 21.2     │-66                 │-                   │          │\n├────────┼──────────┼──────────┤          │\n│21.2 ~ 40       │-60                 │-                   │          │\n└────────┴──────────┴──────────┴─────┘\n3. 27 GHz~31 GHz 대역 송신\n┌────────┬──────────┬──────────┬─────┐\n│주파수대역(GHz) │부빔(7° 초과) 방향 │주빔(7° 이하) 방향 │측정대역폭│\n│                │등가등방복사전력    │등가등방복사전력    │          │\n│                │(dBW)               │(dBW)               │          │\n├────────┼──────────┼──────────┼─────┤\n│1.0 ~ 2.0       │-78                 │-                   │100 ㎑    │\n├────────┼──────────┼──────────┤          │\n│2.0 ~ 10.7      │-72                 │-                   │          │\n├────────┼──────────┼──────────┤          │\n│10.7 ~ 21.2     │-66                 │-                   │          │\n├────────┼──────────┼──────────┤          │\n│21.2 ~ 27       │-60                 │-                   │          │\n├────────┼──────────┼──────────┤          │\n│27 ~ 31         │-60                 │-21                 │          │\n├────────┼──────────┼──────────┤          │\n│31 ~ 40         │-60                 │-                   │          │\n└────────┴──────────┴──────────┴─────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281760&bylNo=0004&bylBrNo=04",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166837029",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166837025",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166837029",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#BYL0004_04",
+      "filename": "별표4의4_부차적 전파발사 등가등방복사전력밀도(제6조제2호사목4세호 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "05",
+      "kind": "별표",
+      "title": "축외(off-axis) 등가등방복사전력밀도(제6조제2호사목5세호 관련)",
+      "enforcement_date": "",
+      "content": "[별표 4의5]\n축외(off-axis) 등가등방복사전력밀도\n(제6조제2호사목5세호 관련)\n1. 5.850 GHz~7.075 GHz 대역 송신\n┌──────┬───────┬─────────┬──────┬──────────┐\n│전송방식    │전송 편파     │정지궤도위성에    │등가등방    │안테나 최대복사방향 │\n│            │              │접하는 방향       │복사전력밀도│(0°)으로부터의     │\n│            │              │                  │(dBW/4kHz)  │이격각(φ)          │\n├──────┼───────┼─────────┼──────┼──────────┤\n│최대 200    │동편파        │수평              │29.5-25logφ│1.5°≤ φ ≤ 7°   │\n│kHz 협대역  │(co-polarizat │(tangent plane)   ├──────┼──────────┤\n│아날로그(또 │ion)          │                  │8.5         │7° < φ ≤ 9.2°   │\n│는 대역     │              │                  ├──────┼──────────┤\n│가장자리의  │              │                  │32.5-25logφ│9.2° < φ ≤ 48°  │\n│명령        │              │                  ├──────┼──────────┤\n│캐리어의    │              │                  │-9.5        │48° < φ ≤ 180°  │\n│경우 최대   │              ├─────────┼──────┼──────────┤\n│1MHz) 전송  │              │수직              │32.5-25logφ│3° ≤φ ≤ 48°    │\n│            │              │(perpendicular    ├──────┼──────────┤\n│            │              │plane)            │-9.5        │48° <φ ≤ 180°   │\n│            ├───────┼─────────┼──────┼──────────┤\n│            │교차편파      │수평 및 수직      │19.5-25logφ│1.5° ≤ φ ≤ 7°  │\n│            │(cross-polari │(tangent plane    │            │                    │\n│            │zation)       │and perpendicula  │            │                    │\n│            │              │plane)            │            │                    │\n├──────┼───────┼─────────┼──────┼──────────┤\n│디지털 전송 │동편파        │수평              │26.3-25logφ│1.5° ≤ φ ≤ 7°  │\n│            │(co-polarizat │(tangent plane)   ├──────┼──────────┤\n│            │ion)          │                  │5.3         │7° < φ ≤ 9.2°   │\n│            │              │                  ├──────┼──────────┤\n│            │              │                  │29.3-25logφ│9.2° < φ ≤ 48    │\n│            │              │                  ├──────┼──────────┤\n│            │              │                  │-12.7       │48° < φ ≤ 180°  │\n│            │              ├─────────┼──────┼──────────┤\n│            │              │수직              │29.3-25logφ│3° ≤ φ ≤ 48°   │\n│            │              │(perpendicular    ├──────┼──────────┤\n│            │              │plane)            │-12.7       │48° < φ ≤ 180°  │\n│            ├───────┼─────────┼──────┼──────────┤\n│            │교차편파      │수평 및 수직      │16.3-25logφ│1.5° ≤ φ ≤ 7°  │\n│            │(cross-polari │(tangent plane    │            │                    │\n│            │zation)       │and perpendicula  │            │                    │\n│            │              │plane)            │            │                    │\n└──────┴───────┴─────────┴──────┴──────────┘\n2. 14 GHz~14.8 GHz 대역 송신\n┌──────┬───────┬─────────┬──────┬──────────┐\n│전송방식    │전송 편파     │정지궤도위성에    │등가등방    │안테나 최대복사방향 │\n│            │              │접하는 방향       │복사전력밀도│(0°)으로부터의     │\n│            │              │                  │(dBW/4kHz)  │이격각(φ)          │\n├──────┼───────┼─────────┼──────┼──────────┤\n│최대 200    │동편파        │수평              │21-25logφ  │1.5° ≤ φ ≤ 7°  │\n│kHz 협대역  │(co-polarizat │(tangent plane)   ├──────┼──────────┤\n│아날로그(또 │ion)          │                  │0           │7° < φ ≤ 9.2°   │\n│는 대역     │              │                  ├──────┼──────────┤\n│가장자리의  │              │                  │24-25logφ  │9.2° < φ ≤       │\n│명령        │              │                  │            │19.1°              │\n│캐리어의    │              │                  ├──────┼──────────┤\n│경우 최대   │              │                  │-8          │19.1° < φ ≤      │\n│1MHz) 전송  │              │                  │            │180°               │\n│            │              ├─────────┼──────┼──────────┤\n│            │              │수직              │24-25logφ  │3° ≤ φ ≤ 19.1° │\n│            │              │(perpendicular    ├──────┼──────────┤\n│            │              │plane)            │-8          │19.1° < φ ≤      │\n│            │              │                  │            │180°               │\n│            ├───────┼─────────┼──────┼──────────┤\n│            │교차편파      │수평 및 수직      │11-25logφ  │1.5° ≤ φ ≤ 7°  │\n│            │(cross-polari │(tangent plane    │            │                    │\n│            │zation)       │and perpendicula  │            │                    │\n│            │              │plane)            │            │                    │\n├──────┼───────┼─────────┼──────┼──────────┤\n│디지털 전송 │동편파        │수평              │15-25logφ  │1.5° ≤ φ ≤ 7°  │\n│            │(co-polarizat │(tangent plane)   ├──────┼──────────┤\n│            │ion)          │                  │-6          │7° < φ ≤ 9.2°   │\n│            │              │                  ├──────┼──────────┤\n│            │              │                  │18-25logφ  │9.2° < φ ≤       │\n│            │              │                  │            │19.1°              │\n│            │              │                  ├──────┼──────────┤\n│            │              │                  │-14         │19.1° < φ ≤      │\n│            │              │                  │            │180°               │\n│            │              ├─────────┼──────┼──────────┤\n│            │              │수직              │18-25logφ  │3° ≤ φ ≤ 19.1° │\n│            │              │(perpendicular    ├──────┼──────────┤\n│            │              │plane)            │-14         │19.1° < φ ≤      │\n│            │              │                  │            │180°               │\n│            ├───────┼─────────┼──────┼──────────┤\n│            │교차편파      │수평 및 수직      │5-25logφ   │1.5° ≤ φ ≤ 7°  │\n│            │(cross-polari │(tangent plane    │            │                    │\n│            │zation)       │and perpendicula  │            │                    │\n│            │              │plane)            │            │                    │\n└──────┴───────┴─────────┴──────┴──────────┘\n3. 13.75 GHz~14 GHz 대역 송신\n┌──────┬───────┬─────────┬──────┬──────────┐\n│전송방식    │전송 편파     │정지궤도위성에    │등가등방    │안테나 최대복사방향 │\n│            │              │접하는 방향       │복사전력밀도│(0°)으로부터의     │\n│            │              │                  │(dBW/4kHz)  │이격각(φ)          │\n├──────┼───────┼─────────┼──────┼──────────┤\n│최대 200    │동편파        │수평              │21-25logφ  │1.5° ≤ φ ≤ 7°  │\n│kHz 협대역  │(co-polarizat │(tangent plane)   ├──────┼──────────┤\n│아날로그(또 │ion)          │                  │0           │7° < φ ≤ 9.2°   │\n│는 대역     │              │                  ├──────┼──────────┤\n│가장자리의  │              │                  │24-25logφ  │9.2° < φ ≤ 48°  │\n│명령        │              │                  ├──────┼──────────┤\n│캐리어의    │              │                  │-18         │48° < φ ≤ 180°  │\n│경우 최대   │              ├─────────┼──────┼──────────┤\n│1MHz) 전송  │              │수직              │24-25logφ  │3° ≤ φ ≤ 48°   │\n│            │              │(perpendicular    ├──────┼──────────┤\n│            │              │plane)            │-18         │48° < φ ≤ 180°  │\n│            ├───────┼─────────┼──────┼──────────┤\n│            │교차편파      │수평 및 수직      │11-25logφ  │1.5° ≤ φ ≤ 7°  │\n│            │(cross-polari │(tangent plane    │            │                    │\n│            │zation)       │and perpendicula  │            │                    │\n│            │              │plane)            │            │                    │\n├──────┼───────┼─────────┼──────┼──────────┤\n│디지털 전송 │동편파        │수평              │15-25logφ  │1.5° ≤ φ ≤ 7°  │\n│            │(co-polarizat │(tangent plane)   ├──────┼──────────┤\n│            │ion)          │                  │-6          │7° < φ ≤ 9.2°   │\n│            │              │                  ├──────┼──────────┤\n│            │              │                  │18-25logφ  │9.2° < φ ≤ 48°  │\n│            │              │                  ├──────┼──────────┤\n│            │              │                  │-24         │48° < φ ≤ 180°  │\n│            │              ├─────────┼──────┼──────────┤\n│            │              │수직              │18-25logφ  │3° ≤ φ ≤ 48°   │\n│            │              │(perpendicular    ├──────┼──────────┤\n│            │              │plane)            │-24         │48° < φ ≤ 180°  │\n│            ├───────┼─────────┼──────┼──────────┤\n│            │교차편파      │수평 및 수직      │5-25logφ   │1.5° ≤ φ ≤ 7°  │\n│            │(cross-polari │(tangent plane    │            │                    │\n│            │zation)       │and perpendicula  │            │                    │\n│            │              │plane)            │            │                    │\n└──────┴───────┴─────────┴──────┴──────────┘\n4. 27 GHz~31 GHz 대역 송신\n┌──────┬───────┬─────────┬──────┬──────────┐\n│전송방식    │전송 편파     │정지궤도위성에    │등가등방    │안테나 최대복사방향 │\n│            │              │접하는 방향       │복사전력밀도│(0°)으로부터의     │\n│            │              │                  │(dBW/MHz)   │이격각(φ)          │\n├──────┼───────┼─────────┼──────┼──────────┤\n│디지털 전송 │동편파        │수평              │32.5-25logφ│2° ≤ φ ≤ 7°    │\n│            │(co-polarizat │(tangent plane)   ├──────┼──────────┤\n│            │ion)          │                  │11.5        │7° < φ ≤ 9.2°   │\n│            │              │                  ├──────┼──────────┤\n│            │              │                  │35.5-25logφ│9.2° < φ ≤       │\n│            │              │                  │            │19.1°              │\n│            │              │                  ├──────┼──────────┤\n│            │              │                  │3.5         │19.1° < φ ≤      │\n│            │              │                  │            │180°               │\n│            │              ├─────────┼──────┼──────────┤\n│            │              │수직              │35.5-25logφ│3.5° ≤ φ ≤ 7°  │\n│            │              │(perpendicular    ├──────┼──────────┤\n│            │              │plane)            │14.4        │7° < φ ≤ 9.2°   │\n│            │              │                  ├──────┼──────────┤\n│            │              │                  │38.5-25logφ│9.2° < φ ≤       │\n│            │              │                  │            │19.1°              │\n│            │              │                  ├──────┼──────────┤\n│            │              │                  │6.5         │19.1° < φ ≤      │\n│            │              │                  │            │180°               │\n│            ├───────┼─────────┼──────┼──────────┤\n│            │교차편파      │수평 및 수직      │22.5-25logφ│2° < φ ≤ 7°     │\n│            │(cross-polari │(tangent plane    │            │                    │\n│            │zation)       │and perpendicula  │            │                    │\n│            │              │plane)            │            │                    │\n└──────┴───────┴─────────┴──────┴──────────┘\n5. 동편파(co-polarization) 공통 사항\n가. 정지궤도위성에 수평으로 접하는 경우: ±(7~180)° 범위의 최대 10% 구간에서는 최대 3dB까지 초과될 수 있으며, 주 반사판을 벗어나 누설되는 전파가 발생하는 각도 영역(스필 오버 에너지 영역)에서 최대 6dB까지 초과될 수 있음\n나. 정지궤도위성에 수직으로 접하는 경우: 주 반사판을 벗어나 누설되는 전파가 발생하는 각도 영역(스필 오버 에너지 영역)에서 최대 6dB까지 초과될 수 있으며, 해당 영역을 제외한 나머지 각도 범위에서는 최대 10% 구간에 대해 최대 6dB까지 초과될 수 있음",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281760&bylNo=0004&bylBrNo=05",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166837041",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166837031",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166837041",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#BYL0004_05",
+      "filename": "별표4의5_축외(off-axis) 등가등방복사전력밀도(제6조제2호사목5세호 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "06",
+      "kind": "별표",
+      "title": "안테나 이득(제6조제2호사목6세호 관련)",
+      "enforcement_date": "",
+      "content": "[별표 4의6]\n안테나 이득\n(제6조제2호사목6세호 관련)\n1. 동편파(co-polarization) 전송의 경우\n┌────────────┬────────┬──────┬──────────┐\n│송신 주파수 대역        │정지궤도위성에  │안테나 이득 │안테나 최대복사방향 │\n│                        │접하는 방향     │(dBi)       │(0°)으로부터의     │\n│                        │                │            │이격각(φ)          │\n├────────────┼────────┼──────┼──────────┤\n│ 14 GHz~14.8 GHz 또는   │수평            │29-25logφ  │1.5° ≤ φ ≤ 7°  │\n│27 GHz~31 GHz 대역에서  │(tangent plane) ├──────┼──────────┤\n│운용하지 않는 경우      │                │8           │7° < φ ≤ 9.2°   │\n│                        │                ├──────┼──────────┤\n│                        │                │32-25logφ  │9.2° < φ ≤ 48°  │\n│                        │                ├──────┼──────────┤\n│                        │                │-10         │48° < φ ≤ 180°  │\n│                        ├────────┼──────┼──────────┤\n│                        │수직            │32-25logφ  │3° < φ ≤ 48°    │\n│                        │(perpendicular  ├──────┼──────────┤\n│                        │plane)          │-10         │48° < φ ≤ 180°  │\n├────────────┼────────┼──────┼──────────┤\n│14 GHz~14.8 GHz 대역    │수평            │29-25logφ  │1.5° ≤ φ ≤ 7°  │\n│운용                    │(tangent plane) ├──────┼──────────┤\n│                        │                │8           │7° < φ ≤ 9.2°   │\n│                        │                ├──────┼──────────┤\n│                        │                │32-25logφ  │9.2° < φ ≤ 19.1°│\n│                        │                ├──────┼──────────┤\n│                        │                │0           │19.1° < φ ≤ 180°│\n│                        ├────────┼──────┼──────────┤\n│                        │수직            │32-25logφ  │3° < φ ≤ 19.1°  │\n│                        │(perpendicular  ├──────┼──────────┤\n│                        │plane)          │0           │19.1° < φ ≤ 180°│\n├────────────┼────────┼──────┼──────────┤\n│ 27 GHz~31 GHz          │수평            │29-25logφ  │2° ≤ φ ≤ 7°    │\n│대역에서 운용           │(tangent plane) ├──────┼──────────┤\n│                        │                │8           │7° < φ ≤ 9.2°   │\n│                        │                ├──────┼──────────┤\n│                        │                │32-25logφ  │9.2° < φ ≤ 19.1°│\n│                        │                ├──────┼──────────┤\n│                        │                │0           │19.1° < φ ≤ 180°│\n│                        ├────────┼──────┼──────────┤\n│                        │수직            │32-25logφ  │3.5° ≤ φ ≤ 7°  │\n│                        │(perpendicular  ├──────┼──────────┤\n│                        │plane)          │10.9        │7° < φ ≤ 9.2°   │\n│                        │                ├──────┼──────────┤\n│                        │                │35-25logφ  │9.2° < φ ≤ 19.1°│\n│                        │                ├──────┼──────────┤\n│                        │                │3           │19.1° < φ ≤ 180°│\n└────────────┴────────┴──────┴──────────┘\n2. 교차편파(cross-polarization) 전송의 경우\n┌────────────┬─────────┬──────┬──────────┐\n│송신 주파수 대역        │정지궤도위성에    │안테나 이득 │안테나 최대복사방향 │\n│                        │접하는 방향       │(dBi)       │(0°)으로부터의     │\n│                        │                  │            │이격각(φ)          │\n├────────────┼─────────┼──────┼──────────┤\n│27 GHz~31 GHz 대역에서  │수평              │19-25logφ  │1.8° < φ ≤ 7°   │\n│운용하지 않는 경우      │(tangent plane)   │            │                    │\n│                        ├─────────┼──────┼──────────┤\n│                        │수직              │19-25logφ  │3° < φ ≤ 7°     │\n│                        │(perpendicular    │            │                    │\n│                        │plane)            │            │                    │\n├────────────┼─────────┼──────┼──────────┤\n│27 GHz~31 GHz 대역에서  │수평 및 수직      │19-25logφ  │2° < φ ≤ 7°     │\n│운용                    │(tangent plane    │            │                    │\n│                        │and perpendicula  │            │                    │\n│                        │plane)            │            │                    │\n└────────────┴─────────┴──────┴──────────┘\n3. 동편파(co-polarization) 공통사항\n가. 정지궤도에 수평으로 접하는 경우: ±(7~180)° 범위의 최대 10% 구간에서는 최대 3dB까지 초과될 수 있으며, 주 반사판을 벗어나 누설되는 전파가 발생하는 각도 영역(스필 오버 에너지 영역)에서 최대 6dB까지 초과될 수 있음\n나. 정지궤도에 수직으로 접하는 경우: ±(3~180)° 범위의 최대 10% 구간에서는 최대 6dB까지 초과될 수 있으며, 주 반사판을 벗어나 누설되는 전파가 발생하는 각도 영역(스필 오버 에너지 영역)에서 최대 6dB까지 초과될 수 있음",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281760&bylNo=0004&bylBrNo=06",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166837049",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166837043",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166837049",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#BYL0004_06",
+      "filename": "별표4의6_안테나 이득(제6조제2호사목6세호 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별표",
+      "title": "점유주파수대폭의 허용치(제9조제1호가목 관련)",
+      "enforcement_date": "",
+      "content": "[별표 5]\n점유주파수대폭의 허용치\n(제9조제1호가목 관련)\n┌───────┬───────────────────────┬─────┐\n│점유주파수대폭│무선설비                                      │전파형식  │\n│의 허용치     │                                              │          │\n├───────┼───────────────────────┼─────┤\n│4 kHz         │주파수 29.7 MHz 이상 50 MHz 이하, 72 MHz      │F1D,      │\n│              │이상 76 MHz 이하, 138 MHz 이상 174 MHz 이하,  │F1E,      │\n│              │216 MHz 이상 223 MHz 이하, 335.4 MHz 이       │F7D,      │\n│              │상 470 MHz 이하의 전파를 사용하는 무선국      │F7E       │\n│              │의 무선설비(방송중계를 하는 것, 아마추어국    │          │\n│              │및 해상이동업무를 하는 무선국을 제외한다)     │          │\n├───────┼───────────────────────┼─────┤\n│8.5 kHz       │1. 주파수 29.7 MHz 이상 50 MHz 이하의         │F3E,  G3E │\n│              │전파를 사용하는 무선국의 무선설비(방          │          │\n│              │송중계를 하는 것, 해상이동업무를 하는         │          │\n│              │무선국을 제외한다)                            │          │\n│              ├───────────────────────┼─────┤\n│              │2. 주파수 138 MHz 이상 174 MHz 이하, 216      │F1D,  G1D,│\n│              │MHz 이상 223 MHz 이하, 335.4 MHz 이상         │F1E,      │\n│              │470 MHz 이하의 전파를 사용하는 무선국         │F2D,  G2D,│\n│              │의 무선설비(방송중계를 하는 것, 아마추어      │F3E,  G3E,│\n│              │국 및 해상이동업무를 하는 무선국을 제외       │F7D,  G7D,│\n│              │한다)                                         │F7E,  G7E,│\n├───────┼───────────────────────┼─────┤\n│16 kHz        │주파수 29.7 MHz 이상 50 MHz 이하, 72          │F2D,  G2D,│\n│              │MHz 이상 76 MHz 이하의 전파를 사용하          │F3E,  G3E │\n│              │는 무선국의 무선설비                          │          │\n└───────┴───────────────────────┴─────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281760&bylNo=0005&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166837055",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166837051",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166837055",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#BYL0005",
+      "filename": "별표5_점유주파수대폭의 허용치(제9조제1호가목 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별표",
+      "title": "투톤방식의 변조주파수 조합표(제12조제1호가목 관련)",
+      "enforcement_date": "",
+      "content": "[별표 6]\n투톤방식의 변조주파수 조합표\n(제12조제1호가목 관련)\n1. 변조주파수\n┌─────────┬─────────┬─────────┬─────────┐\n│  A군             │B군               │C군               │D군               │\n├─┬───────┼─┬───────┼─┬───────┼─┬───────┤\n│번│변조주파수(㎐)│번│변조주파수(㎐)│번│변조주파수(㎐)│번│변조주파수(㎐)│\n│호│              │호│              │호│              │호│              │\n├─┼───────┼─┼───────┼─┼───────┼─┼───────┤\n│ 0│562.5         │0 │712.5         │0 │862.5         │0 │1012.5        │\n│ 1│577.5         │1 │727.5         │1 │877.5         │1 │1027.5        │\n│ 2│592.5         │2 │742.5         │2 │892.5         │2 │1042.5        │\n│ 3│607.5         │3 │757.5         │3 │907.5         │3 │1057.5        │\n│ 4│622.5         │4 │772.5         │4 │922.5         │4 │1072.5        │\n│ 5│637.5         │5 │787.5         │5 │937.5         │5 │1087.5        │\n│ 6│652.5         │6 │802.5         │6 │952.5         │6 │1102.5        │\n│ 7│667.5         │7 │817.5         │7 │967.5         │7 │1117.5        │\n│ 8│682.5         │8 │832.5         │8 │982.5         │8 │1132.5        │\n│ 9│697.5         │9 │847.5         │9 │997.5         │9 │1147.5        │\n└─┴───────┴─┴───────┴─┴───────┴─┴───────┘\n2. 호출신호번호 및 변조주파수 조합표\n가. 100번째의 것\n┌────────┬─────┬─────────┬─────┐\n│출신호부호      │변조주파수│호출신호부호      │변조주파수│\n├──┬─────┼─┬───┼───┬─────┼──┬──┤\n│군번│일련번호  │F1│F2    │군번호│일련번호  │F1  │F2  │\n│호  │          │  │      │      │          │    │    │\n├──┼─────┼─┼───┼───┼─────┼──┼──┤\n│ 0  │  1∼ 100 │ A│ A    │  8   │801∼900  │  A │C   │\n│ 1  │101∼ 200 │ B│ B    │  9   │ 901∼1000│  D │ D  │\n│ 2  │201∼ 300 │ B│ A    │ 10   │1001∼1100│  D │ C  │\n│ 3  │301∼ 400 │ A│ B    │ 11   │1101∼1200│  D │ B  │\n│ 4  │401∼ 500 │ C│ C    │ 12   │1201∼1300│  D │ A  │\n│ 5  │501∼ 600 │ C│ B    │ 13   │1301∼1400│  C │ D  │\n│ 6  │601∼ 700 │ C│ A    │ 14   │1401∼1500│  B │ D  │\n│ 7  │701∼ 800 │ B│ C    │ 15   │1501∼1600│  A │ D  │\n└──┴─────┴─┴───┴───┴─────┴──┴──┘\n(주) F1은 최초의 1음의 주파수, F2는 다음 1음의 주파수일 것\n나. 각 군의 1번부터 100번까지의 것\n┌────┬────────────────────────────────┐\n│구   분 │F1의 변조주파수의 번호                                          │\n│        ├────────────────────────────────┤\n│        │ 0     1     2     3      4      5      6      7      8      9  │\n├──┬─┼────────────────────────────────┤\n│F2  │0 │  1     3     7     13     21     31     43     57     73     91│\n│의  │1 │  2     4     8     14     22     32     44     58     74     92│\n│변  │2 │  5     6     9     15     23     33     45     59     75     93│\n│조  │3 │ 10    11    12     16     24     34     46     60     76     94│\n│주  │4 │ 17    18    19     20     25     35     47     61     77     95│\n│파  │5 │ 26    27    28     29     30     36     48     62     78     96│\n│수  │6 │ 37    38    39     40     41     42     49     63     79     97│\n│의  │7 │ 50    51    52     53     54     55     56     64     80     98│\n│번  │8 │ 65    66    67     68     69     70     71     72     81     99│\n│호  │9 │ 82    83    84     85     86     87     88     89     90    100│\n└──┴─┴────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000281760&bylNo=0006&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166837063",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166837057",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166837063",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#BYL0006",
+      "filename": "별표6_투톤방식의 변조주파수 조합표(제12조제1호가목 관련).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "개정 전문_「간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준」_수정.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=166819631",
+      "file_store_url": "",
+      "filename": "개정 전문_「간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준」_수정.pdf"
+    },
+    {
+      "name": "개정 전문_「간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준」_수정.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=166819627",
+      "file_store_url": "",
+      "filename": "개정 전문_「간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준」_수정.hwpx"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 58,
+    "by_category": {
+      "법령": 21,
+      "행정규칙": 26,
+      "별표": 11
+    },
+    "by_relation_type": {
+      "citation": 46,
+      "internal_ref": 1,
+      "appendix_ref": 11
+    },
+    "articles_total": 23,
+    "articles_with_relations": 13,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 21,
+    "appendices_count": 12,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준"
+  },
+  "provision_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#DOC"
+}
