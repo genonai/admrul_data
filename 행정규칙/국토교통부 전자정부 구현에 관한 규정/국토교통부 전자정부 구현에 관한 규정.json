@@ -1,0 +1,1896 @@
+{
+  "law_id": "2100000282294",
+  "mst": "2100000282294",
+  "law_name": "국토교통부 전자정부 구현에 관한 규정",
+  "law_abbr": "",
+  "law_type": "훈령",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000282294",
+  "promulgation_no": "1967",
+  "promulgation_date": "20260708",
+  "enforcement_date": "20260708",
+  "revision_date": "20260708",
+  "revision_type": "타법개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "국토교통부(정보화통계담당관)",
+    "담당자명": "이은정",
+    "행정규칙종류코드": "B0001",
+    "행정규칙명": "국토교통부 전자정부 구현에 관한 규정",
+    "발령일자": "20260708",
+    "행정규칙종류": "훈령",
+    "제개정구분코드": "200409",
+    "조문형식여부": "Y",
+    "소관부처명": "국토교통부",
+    "전화번호": "044-201-3272",
+    "제개정구분명": "타법개정",
+    "소관부처코드": "1613000",
+    "생성일자": "20260714",
+    "행정규칙ID": "34865",
+    "시행일자": "20260708",
+    "담당부서기관코드": "1613012",
+    "발령번호": "1967",
+    "행정규칙일련번호": "2100000282294",
+    "상위부처명": "국토교통부"
+  },
+  "amendment_text": "",
+  "revision_reason": "◇ 개정 이유\nㅇ 특정 부처에 집중된 기능과 권한을 분산ㆍ재배치하여 권한 집중에 관한 우려를 해소하고 업무 고유의 전문성을 강화하며, 기후위기 등 행정 환경의 변화에 능동적으로 대응할 수 있도록 정부 조직체계를 재설계하고, 국가 데이터 및 지식재산 관련 행정 역량을 강화하기 위하여 국무총리 소속 부처 체계를 재조정하는 등의 내용으로 「정부조직법」이 개정됨에 따라, 행정기관의 변경된 명칭 등 정부조직 개편 사항을 반영하기 위하여 개정하려는 것임.\n◇ 주요내용\nㅇ 기획재정부를 기획예산처, 재정경제부로 개정(제2조 및 제33조)",
+  "body": {
+    "format": "articles",
+    "article_count": 68,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총 칙",
+        "content": "제1조(목적) 이 규정은「전자정부법」및 같은 법 시행령, 「지능정보화 기본법」및 같은 법 시행령에 따라 국토교통부 소관 정보화업무 수행에 필요한 기본원칙과 업무범위 및 추진방법 등의 세부절차를 정하는 것을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "전자정부법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전자정부법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0001",
+            "reference_id": "law:전자정부법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "지능정보화 기본법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/지능정보화 기본법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0001",
+            "reference_id": "law:지능정보화기본법시행령#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "용어의 정의",
+        "chapter": "제1장 총 칙",
+        "content": "제2조(용어의 정의) 이 규정에서 사용하는 용어의 정의는 다음 각 호와 같다1. \"전자정부\"란 정보기술을 활용하여 행정기관의 사무를 전자화함으로써 행정기관 상호간 또는 국민에 대한 행정업무를 효율적으로 수행하는 정부를 말한다.2. \"정보\"란 광(光) 또는 전자적 방식으로 처리되는 부호, 문자, 음성, 음향 및 영상 등으로 표현된 모든 종류의 자료 또는 지식을 말한다.3. \"행정정보\"란 행정기관이 직무를 위하여 작성 또는 취득하여 관리하고 있는 정보자료를 말한다.4. \"공공데이터\"란 데이터베이스, 전자화된 파일 등 공공기관이 법령 등에서 정하는 목적을 위하여 생성 또는 취득하여 관리하고 있는 광(光) 또는 전자적 방식으로 처리된 자료 또는 정보를 말한다.5. \"제공\"이란 공공기관이 이용자로 하여금 기계 판독이 가능한 형태의 공공데이터에 접근할 수 있게 하거나 이를 다양한 방식으로 전달하는 것을 말한다.6. \"전산장비\"란 주전산기, 부대장비, 정보통신망에 연결된 PC 등 정보시스템 운용에 필요한 장비를 말한다.7. \"정보자원\"이란 행정기관등이 보유하고 있는 행정정보, 전자적 수단에 의하여 행정정보의 수집ㆍ가공ㆍ검색을 하기 쉽게 구축한 정보시스템, 정보시스템의 구축에 적용되는 정보기술, 정보화예산 및 정보화인력 등을 말한다8. \"정보시스템\"이란 정보의 수집ㆍ가공ㆍ저장ㆍ검색ㆍ송신ㆍ수신 및 그 활용과 관련되는 기기와 소프트웨어의 조직화된 체계를 말한다.9. \"정보통신망\"이란 전기통신기본법 제2조제2호에 따른 전기통신설비를 활용하거나 전기통신설비와 컴퓨터 및 컴퓨터의 이용기술을 활용하여 정보를 수집ㆍ가공ㆍ저장ㆍ검색ㆍ송신 또는 수신하는 정보통신체제를 말한다.10. \"정보기술아키텍처(EA)\"란 일정한 기준과 절차에 따라 업무, 응용, 데이터, 기술, 보안 등 조직 전체의 정보화 구성요소들을 통합적으로 분석한 뒤, 이들 간의 관계를 구조적으로 정리한 체제 및 이를 바탕으로 정보시스템을 효율적으로 구성하기 위한 방법을 말한다.11. \"정보화투자성과관리시스템\"이란 국토교통부의 정보화사업에 대해 예산관리, 계획수립, 사업추진 관리, 사업평가 및 환류 등 정보화 투자ㆍ성과를 종합적으로 관리하는 시스템을 말한다.12. \"정보자원관리시스템\"이란 국토교통부의 정보화 사업 및 예산을 통해 도입된 응용시스템, 기반시스템, H/W, S/W 등 정보자원의 등록, 유지보수, 폐기의 전 과정을 관리하는 시스템을 말한다.13. \"정보화프로젝트관리시스템\"이란 정보화사업의 효율적 관리를 위하여 일정관리, 인력관리, 산출문서관리, 위험관리, 품질관리 등 사업진행과 관련된 일련의 절차를 관리하는 시스템을 말한다.14. \"국토교통 EA시스템\"이란 국토교통부에서 운영하는 \"정보화투자성과관리시스템\", \"정보자원관리시스템\", \"정보화프로젝트관리시스템\"을 관리하는 통합 시스템을 말한다.15. \"웹 사이트\"란 행정기관 등에서 제공하는 정보 및 서비스에 대하여 웹 기반기술을 이용하여 수요자에게 제공하는 인터넷상의 가상의 공간을 말한다.16. \"홈페이지\"란 행정기관 등에서 생성되는 정보 및 서비스를 수요자에게 직접적으로 제공하기 위한 목적으로 구축된 웹사이트로 대표홈페이지, 특수목적홈페이지 등으로 분류한다.17. \"정보화\"란 정보를 수집ㆍ생산하고 체계적으로 가공ㆍ축적하여 이를 유통 또는 활용함으로써 업무를 효율화 하는 것을 말한다.18. \"지능정보화\"란 정보의 생산ㆍ유통 또는 활용을 기반으로 지능정보 기술이나 그 밖의 다른 기술을 적용ㆍ융합하여 사회 각 분야의 활동을 가능하게 하거나 그러한 활동을 효율화ㆍ고도화하는 것을 말한다.19. \"지능정보사회\"란 지능정보화를 통하여 산업ㆍ경제, 사회ㆍ문화, 행정 등 모든 분야에서 가치를 창출하고 발전을 이끌어 가는 사회를 말한다.20. \"모바일 앱(App)\"이란 모바일 기기 운영체계(OS)에 최적화되어 단독으로 실행될 수 있도록 개발된 애플리케이션(Application)을 말한다.21. \"정보화사업\"이란 업무의 효율성을 도모하고 업무 각 분야 간 상호연계를 통한 시너지효과를 창출하기 위하여 예산과 인력을 투입하는 일련의 사업을 말한다.22. \"사업주관부서\"란 실ㆍ국 또는 소속기관에서 정보화사업을 기획하여 추진하며 정보화사업의 성과품을 활용하는 주된 부서를 말한다.23. \"사업관리\"란 정보화업무를 추진하기 위한 계획 수립 및 계약, 진도관리, 산출물관리, 품질관리, 감리, 검수, 결과보고, 정산, 결과의 대외표시 등의 일련의 절차를 수행하는 것을 말한다.24. \"지능정보화책임관\"이란 정보화사업과 정보자원을 행정기관의 전체적인 목표와 발전전략, 행정혁신과 연계하여 종합적으로 기획ㆍ조정ㆍ관리하는 책임자로서, 최고의사결정과정에 참여하며 기관장에게 직접 조언할 수 있는 지위에 있는 고위관리자를 말한다.25. \"관리책임자\"란 정보시스템을 운영 또는 관리하는 실무책임자로서 해당부서의 장이 지정한 자를 말한다.26. \"소속기관\"이란 국토교통부와 그 소속기관 직제 제2조에 따른 소속기관을 말한다.27. \"산하기관\"이란 법령에 따라 설립되어 업무상 국토교통부장관의 지도ㆍ감독을 받는 공사 또는 공단 및 한국부동산원 등을 말한다.28. \"국토교통넷(솔넷)\"이란 국토교통부 공통행정정보시스템을 활용할 수 있는 기본 인프라 제공 및 체계화된 행정지원 포털(이하 \"솔넷\"이라 한다)을 말한다.29. \"정보화예산\"이란 기획예산처 예산체계에서 정보화사업을 추진하기 위하여 특정 세부사업에 계상한 예산을 말한다.30. \"일반예산\"이란 기획예산처 예산체계에서 정보화예산 이외의 예산을 말한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2조제2호",
+            "line_text": "",
+            "target_law_name": "이란 전기통신기본법",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/이란 전기통신기본법/제2조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0002",
+            "reference_id": "law:이란전기통신기본법#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "전기통신기본법",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전기통신기본법/제2조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0002",
+            "reference_id": "law:전기통신기본법#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "적용범위",
+        "chapter": "제1장 총 칙",
+        "content": "제3조(적용범위) ① 이 규정은 국토교통부(이하 \"본부\"라 한다)와 그 소속기관에 대하여 적용한다.② 산하기관의 경우에는 국토교통부문 정보화 표준 및 정보자원의 공동 활용이 필요한 경우에 한하여 이 규정을 적용할 수 있다.③ 본부 및 소속기관의 정보화업무를 위임 또는 위탁받은 기관ㆍ법인ㆍ단체(이하 \"위탁기관\"이라 한다)의 경우에는 위임 또는 위탁받은 업무전반에 대한 사항 및 정보자원 공동활용에 필요한 사항에 대하여 이 규정을 적용한다.④ 제3항에도 불구하고 위탁기관이 국가정보자원관리원인 경우에는 적용을 제외한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "지능정보화책임관 등의 지정",
+        "chapter": "제1절 지능정보화책임관",
+        "content": "제4조(지능정보화책임관 등의 지정) ① 국토교통부장관(이하 \"장관\"이라 한다)은 「지능정보화 기본법」 제11조에 따라 기획조정실장을 지능정보화책임관으로 지정한다.② 본부 각 실ㆍ국 및 소속기관의 장은 소관 정보화업무를 총괄하는 부서의 장을 지능정보화분임책임관으로 지정한다.③ 산하기관의 장은 해당 기관에서 정보화시책의 효율적인 수립 시행과 정보화사업 등의 업무를 총괄하는 자를 해당 기관의 지능정보화책임관으로 지정한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "「지능정보화 기본법」",
+            "line_text": "",
+            "target_law_name": "지능정보화 기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/지능정보화 기본법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0004",
+            "reference_id": "law:지능정보화기본법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "제11조",
+            "line_text": "",
+            "target_law_name": "지능정보화 기본법",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/지능정보화 기본법/제11조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0004",
+            "reference_id": "law:지능정보화기본법#JO0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "지능정보화책임관의 임무 등",
+        "chapter": "제1절 지능정보화책임관",
+        "content": "제5조(지능정보화책임관의 임무 등) ① 지능정보화책임관이 수행하여야 할 임무는 다음 각 호와 같다.1. 국토교통분야 정보화와 관련된 정책 및 법령ㆍ제도의 개선2. 국토교통분야 정보화기본계획의 수립ㆍ조정3. 국토교통분야 정보화사업의 타당성 검토 및 종합 조정4. 국토교통부소관 정보화 예산계획 수립 및 조정5. 국토교통부소관 정보화사업의 추진실적 평가6. 국토교통부소관 정보자원의 체계적인 조정ㆍ관리7. 국토교통분야 정보통신 보안정책 수립ㆍ조정8. 정책ㆍ계획 등의 수립ㆍ추진 시 정보화업무 연계 및 정보 공동 활용 추진9. 국토교통분야 정보화솔루션 해외진출 추진10. 국토교통부 정보화 수준향상 및 역량강화 지원11. 지능정보화분임책임관에 대한 협조 및 지도감독12. <삭 제>13. 기타 국토교통 정보화업무와 관련된 사항② 장관은 지능정보화책임관이 제1항 각 호의 임무를 효율적으로 수행할 수 있도록 필요한 조치를 하여야 한다.③ 장관은 국토교통 정보화업무를 효율적으로 추진하기 위하여 필요한 경우 지능정보화책임관을 보좌할 임시조직을 둘 수 있다.④ 지능정보화책임관은 제1항 각 호의 임무를 수행하기 위하여 본부 실ㆍ국장과 소속기관 및 산하기관(이하 \"관계기관\"이라 한다)의 장에게 필요한 조치를 요구할 수 있다. 이 경우 실ㆍ국장 또는 관계기관의 장은 특별한 사유가 없는 한 이에 따라야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "지능정보화분임책임관의 임무 등",
+        "chapter": "제1절 지능정보화책임관",
+        "content": "제6조(지능정보화분임책임관의 임무 등) ① 지능정보화분임책임관이 수행하여야 할 임무는 해당 기관의 업무와 관련하여 제5조제1항을 준용한다.② 관계기관의 장은 지능정보화분임책임관이 제1항에 따른 사항을 효율적으로 수행할 수 있도록 필요한 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "제5조제1항",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국토교통부 전자정부 구현에 관한 규정/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0006",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#JO0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "국토교통 지능정보화책임관협의회 구성",
+        "chapter": "제2절 국토교통 지능정보화책임관 협의회",
+        "content": "제7조(국토교통 지능정보화책임관협의회 구성) ① 본부와 관계기관의 효율적인 정보화 추진과 실효성 있는 대응방안 모색 및 정보교류를 촉진하기 위하여 국토교통 지능정보화책임관협의회(이하 \"협의회\"라 한다)를 구성한다.② 협의회 위원장은 기획조정실장이 되며, 위원은 정책기획관을 포함하여 본부 각 실ㆍ국의 정책관과 산하기관의 지능정보화책임관으로 구성한다.③ 협의회의 원활한 운영을 위하여 간사 1인을 두되, 간사는 정보화통계담당관이 된다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "위원장의 직무",
+        "chapter": "제2절 국토교통 지능정보화책임관 협의회",
+        "content": "제8조(위원장의 직무) ① 위원장은 협의회 회의를 소집하고 그 회의를 주관한다. 다만, 위원장이 회의를 주관할 수 없는 경우에는 정책기획관이 직무를 대행한다.② 위원장은 제9조와 관련하여 협의할 사안이 발생할 경우, 정책기획관을 포함하여 협의할 사안과 관련된 실ㆍ국의 정책관 및 산하기관의 지능정보화책임관을 위원으로 참여하도록 하여 협의한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제2항",
+            "link_text": "제9조",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국토교통부 전자정부 구현에 관한 규정/제9조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0008",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#JO0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "협의회의 기능",
+        "chapter": "제2절 국토교통 지능정보화책임관 협의회",
+        "content": "제9조(협의회의 기능) 협의회는 다음의 사항을 협의한다.1. 국토교통 정보화관련 중요정책2. 국토교통 정보화관련 주요사업3. 정보자원관리 및 정보의 공동이용4. 여러 실ㆍ국ㆍ소속기관 또는 산하기관과 관련된 정보화사업 조정5. 그 밖에 위원장이 필요하다고 인정하는 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "협의회 운영",
+        "chapter": "제2절 국토교통 지능정보화책임관 협의회",
+        "content": "제10조(협의회 운영) ① 협의회를 소집하는 경우에는 별지 제1호서식에 의하여 회의일시ㆍ장소 및 협의안건을 각 위원에게 통지하여야 한다.② 회의는 재적위원 과반수의 출석으로 개의하고 출석위원 과반수의 찬성으로 의결한다.③ 협의회의 협의결과는 별지 제2호서식에 의한다.④ 위원장은 필요한 경우 회의를 소집하지 아니하고 서면으로 협의할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "별지1",
+            "target_article_title": "국토교통 지능정보화책임관 협의회 협의안건",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002845",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0010",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#BJ0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제3항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "별지2",
+            "target_article_title": "국토교통 지능정보화책임관 협의회",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002851",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0010",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "보고",
+        "chapter": "제2절 국토교통 지능정보화책임관 협의회",
+        "content": "제11조(보고) 위원장은 제9조의 사항을 협의하기 위하여 필요할 경우에는 해당 정보화사업을 관장하는 실ㆍ국장, 관계기관의 장 또는 관련책임자로 하여금 세부사항을 보고하게 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "제9조",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국토교통부 전자정부 구현에 관한 규정/제9조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0011",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#JO0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "관계전문가 등의 협조 지원",
+        "chapter": "제2절 국토교통 지능정보화책임관 협의회",
+        "content": "제12조(관계전문가 등의 협조 지원) ① 위원장은 효율적인 업무수행을 위하여 전문적인 지식과 경험이 있는 관계전문가로부터 조언을 받거나 관계기관 등에 필요한 자료 또는 의견의 제출 등 협조를 요청할 수 있다.② 제1항의 협조요청을 받은 관계기관 등에서는 협의회에서 신속하고 정확하게 검토가 이루어질 수 있도록 적극 협조 및 지원하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "실무협의회 구성",
+        "chapter": "제3절 국토교통 정보화추진 실무협의회",
+        "content": "제13조(실무협의회 구성) ① 협의회의 효율적인 운영을 위하여 국토교통 정보화추진실무협의회(이하 \"실무협의회\"라 한다)를 운영할 수 있다.② 실무협의회의 의장은 정책기획관이 되며, 의원은 별표 1의 국토교통 정보화사업 분야별 총괄부서장 및 주요 정보화업무 부서장으로 한다. 다만, 의장이 필요하다고 인정하는 경우에는 관계기관의 정보화분임책임관을 실무협의회의 의원으로 추가할 수 있다.③ 의장이 직무를 수행할 수 없는 경우에는 정보화통계담당관이 의장의 직무를 대행한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제2항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "별표1",
+            "target_article_title": "국토교통 정보화사업 분야별 총괄부서 및 역할·기능(제13조제2항 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000282294&bylNo=0001&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0013",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "실무협의회의 임무",
+        "chapter": "제3절 국토교통 정보화추진 실무협의회",
+        "content": "제14조(실무협의회의 임무) ① 실무협의회는 협의회로부터 위임받은 사항 또는 협의회 위원장의 지시사항을 수행한다.② 실무협의회는 제1항의 업무를 수행하기 위하여 필요하다고 인정하는 때에는 관계전문가에게 조언을 받을 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "기본계획의 수립",
+        "chapter": "제1절 국토교통 정보화계획 수립",
+        "content": "제15조(기본계획의 수립) ① 정보화책임관은 국토교통분야의 정보화를 추진하기 위하여 지능정보사회 종합계획 및 전자정부기본계획 등을 고려한 국토교통정보화 기본계획(이하 \"기본계획\"이라 한다)을 5년 단위로 수립하여야 한다.② 기본계획에는 다음 각 호의 사항을 포함하여야 한다.1. 정보화계획의 기본방향2. 정보화목표와 전략3. 정보화사업 추진방안 및 추진체계에 관한 사항4. 소요예산에 관한사항5. 정보 공동 활용 및 연계활용을 위한 표준화 추진에 관한 사항6. 새로운 정보기술에 관한 사항7. 기타 정보화추진을 위하여 필요한 사항8. 삭제9. 삭제10. 삭제③ 지능정보화책임관은 제1항에 따른 기본계획을 수립할 때에는 실ㆍ국장 또는 관계기관의 장이 제출한 부문별 기본계획을 종합ㆍ조정하고, 최종결과를 장관에게 보고하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "기본계획의 변경",
+        "chapter": "제1절 국토교통 정보화계획 수립",
+        "content": "제16조(기본계획의 변경) ① 지능정보화책임관은 제15조제1항에 따른 기본계획을 1년 단위로 검토한 후 타당성 여부 및 정책환경 변화를 반영하여 변경할 수 있다.② 실ㆍ국장 또는 관계기관의 장이 소관 정보화사업에 대한 기본계획을 변경하고자 하는 경우에는 지능정보화책임관에게 요청하여야 한다.③ 지능정보화책임관은 제1항의 변경 대상이 단순 자료누락, 계산오류 또는 자구ㆍ도표ㆍ그림의 부분 수정 등 기본계획의 요지에 변화를 주지 않는 경미한 사항이라고 판단될 경우에는 해당 내용을 직권으로 수정할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제1항",
+            "link_text": "제15조제1항",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국토교통부 전자정부 구현에 관한 규정/제15조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0016",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#JO0015"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "실행계획의 수립ㆍ시행 등",
+        "chapter": "제1절 국토교통 정보화계획 수립",
+        "content": "제17조(실행계획의 수립ㆍ시행 등) ① 실ㆍ국장 또는 소속기관의 장은 제15조제1항에 따라 수립된 기본계획을 토대로 다음연도 국토교통 정보화실행계획(이하 \"실행계획\"이라 한다)을 수립하여 지능정보화책임관에게 제출한다.② 제1항의 실행계획은 국토교통EA시스템을 활용하여 사업간 중복성여부, 표준화 및 상호운용성 검토를 실시한 후 작성하여야 하며, 이 경우 지능정보화책임관은 실행계획 제출시한을 포함한 실행계획 작성지침을 별도 통보하여야 한다.③ 지능정보화책임관은 제1항에 따라 제출한 실행계획을 다음연도 예산편성과 연계하여 수립하여야 한다.④ 지능정보화책임관은 제3항의 실행계획의 추진에 필요한 재원이 우선적으로 확보되도록 노력하여야 한다.⑤ 지능정보화책임관은 국토교통정보화사업의 종합적인 검토를 위하여 필요한 경우 산하기관의 장에게 제1항의 실행계획의 제출을 요청할 수 있으며, 이 경우 산하기관의 장은 관련 자료를 제출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제1항",
+            "link_text": "제15조제1항",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국토교통부 전자정부 구현에 관한 규정/제15조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0017",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#JO0015"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "정보화사업의 발굴",
+        "chapter": "제2절 정보화사업 추진 및 조정",
+        "content": "제18조(정보화사업의 발굴) 실ㆍ국장 및 소속기관의 장은 소관 국토교통업무에 대한 정보화 추진과제를 적극 발굴하고, 발굴한 과제를 제16조제2항에 따라 기본계획에 반영하도록 조치하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제18조",
+            "source_clause": "제18조",
+            "link_text": "제16조제2항",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "제16조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국토교통부 전자정부 구현에 관한 규정/제16조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0018",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#JO0016"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "사업주관부서 지정 등",
+        "chapter": "제2절 정보화사업 추진 및 조정",
+        "content": "제19조(사업주관부서 지정 등) ① 정보화사업은 실ㆍ국 및 소속기관별로 추진하는 것을 원칙으로 하며, 이 경우 정보화사업의 주관부서는 실ㆍ국 및 소속기관의 소관업무를 담당하는 부서 또는 기관으로 한다.② 제1항에도 불구하고 정보화사업을 추진하는(추진하고자 하는 경우를 포함한다) 실ㆍ국 또는 소속기관이 다수인 경우에는 사업부서간 상호협의를 통하여 사업주관부서 또는 기관을 정하여 추진한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "정보화사업의 조정",
+        "chapter": "제2절 정보화사업 추진 및 조정",
+        "content": "제20조(정보화사업의 조정) ① 실ㆍ국장 및 소속기관의 장은 사업주관부서의 조정이 어려운 경우 또는 다른 부서의 정보화사업으로 인하여 추진 중인 정보화사업에 지장을 초래할 우려가 있는 경우 지능정보화책임관에게 조정을 신청할 수 있다.② 지능정보화책임관은 제1항에 따라 조정 신청한 내용을 검토하여 자체 조정하거나 조정하기 어려운 경우에는 제9조제5호에 따라 협의회에 조정을 요청할 수 있다.③ 실ㆍ국장 및 소속기관의 장은 제2항에 따라 조정한 사항에 대하여 이를 수용하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제2항",
+            "link_text": "제9조제5호",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국토교통부 전자정부 구현에 관한 규정/제9조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0020",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#JO0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "정보화사업의 사전협의",
+        "chapter": "제2절 정보화사업 추진 및 조정",
+        "content": "제21조(정보화사업의 사전협의) ① 사업주관부서의 장(제3조제3항에 따른 정보화업무를 위탁받은 경우 위탁받은 기관의 장을 포함한다)은 소관분야의 정보화사업(일반예산으로 추진하는 정보화사업을 포함한다)을 추진하고자 할 경우에는 EA시스템을 이용하여 지능정보화책임관과 사전협의하여 추진하여야 하며, 사전협의 요청은 해당사업 발주 전에 하여야 한다.② 지능정보화책임관은 국토교통분야 정보화의 체계적인 개발에 필요하다고 인정할 경우 국토교통부 산하기관의 장에게 제1항의 사전협의를 요청할 수 있다.③ 제1항의 사전협의 요청 시에는 사업주관부서별로 별표 2의 분야별 정보화사업 예시를 고려하여 중복개발여부 및 정보자원의 공동 활용여부에 대하여 사전에 국토교통 EA시스템을 활용하여 검토한 후 지능정보화책임관에게 협의를 요청하여야 한다.④ 제1항에 따라 사전협의 요청받은 사업이 제5항제8호의 내용이 포함된 사업일 경우 지능정보화책임관은 홍보담당관과 협의하여야 하며 그 결과를 관련부서에 통보하여야 한다.⑤ 제1항에 따라 사전협의할 사항은 다음 각 호와 같으며, 사업주관부서의 장은 별지 제3호서식에 따라 정보화통계담당관에게 제출한다.1. 개발대상사업의 구체적인 내용2. 제도개선 검토여부3. 정보의 공동 활용 및 표준화에 관한 사항4. 하드웨어, 소프트웨어, 네트워크장비 등 정보자원 활용 및 구입내용5. 정보통신망 및 시스템 구성계획6. 개인정보보호 및 보안대책7. 개발완료 후 운영방안8. 웹서비스(홈페이지) 구축이 포함된 사업인 경우 웹 호환성 및 접근성 등 웹사이트 품질에 관한 사항9. 정보기술아키텍처(EA) 현행화 및 이용에 관련사항10. 소요예산 및 확보예산(’SW사업 대가산정 가이드‘ 및 ‘네트워크 구축을 위한 장비 규모 산정 지침’을 준수)11. 사업수행방법12. 공공데이터 관리 및 제공에 관한 사항13. 공공 모바일 앱(App) 구축이 포함된 경우 필요성, 민간중복성, 보안성 등에 관한 사항14. 기타 용역수행 등에 관한 사항⑥ 지능정보화책임관 및 분야별 총괄부서장은 사전협의의 전문성 확보를 위하여 관계전문가로 구성된 실무반을 구성하여 운영할 수 있다.⑦ 지능정보화책임관은 매년 1월 말까지 당해연도 사전협의대상 사업을 정보화사업 주관부서의 장에게 통보하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제21조",
+            "source_clause": "제21조제1항",
+            "link_text": "제3조제3항",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국토교통부 전자정부 구현에 관한 규정/제3조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0021",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#JO0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제21조",
+            "source_clause": "제21조제3항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "별표2",
+            "target_article_title": "국토교통정보화 분야별 정보화사업 예시 (제21조제3항 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000282294&bylNo=0002&bylBrNo=00",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0021",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#BYL0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제21조",
+            "source_clause": "제21조제5항",
+            "link_text": "별지 제3호서식",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "별지3",
+            "target_article_title": "정보화사업 사전협의 신청서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002857",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0021",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#BJ0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "사전협의 간소화",
+        "chapter": "제2절 정보화사업 추진 및 조정",
+        "content": "제22조(사전협의 간소화) ① 제21조에도 불구하고 다음 각 호의 어느 하나에 해당하는 사업의 경우에는 사업 발주 전 제21조제5항의 자료를 EA시스템에 등록하는 것만으로 사전협의를 대신할 수 있다.1. 총 사업 규모가 3억원 미만인 단순 운영ㆍ유지보수 사업(정보시스템의 기능을 추가하는 사업은 제외)2. 노후장비 교체, 단순 하드웨어ㆍ소프트웨어 구매사업, 회선 증설ㆍ추가 등의 통신 기반 구축사업3. 다년도에 걸쳐 계속되는 사업으로서, 사업개발 당시 사전협의를 완료한 후 사업내용의 변동 없이 계속 추진하는 사업4. 기타 지능정보화책임관이 사전협의 간소화가 필요하다고 인정하는 사업② 지능정보화책임관은 제1항의 사전협의 간소화 대상에 대하여도 법ㆍ제도 및 보안사항 준수 여부 등 정보화사업 수행에 필요한 사항에 대하여 점검하여 시정을 요구할 수 있으며, 대상 사업주관부서의 장은 사업에 이를 반영하여 추진하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제1항",
+            "link_text": "제21조",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "제21조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국토교통부 전자정부 구현에 관한 규정/제21조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0022",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#JO0021"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제1항",
+            "link_text": "제21조제5항",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "제21조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국토교통부 전자정부 구현에 관한 규정/제21조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0022",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#JO0021"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "사전협의 결과 및 누락에 대한 조치",
+        "chapter": "제2절 정보화사업 추진 및 조정",
+        "content": "제23조(사전협의 결과 및 누락에 대한 조치) ① 사업주관부서의 장은 특별한 사유가 없는 한 제21조에 따른 사전협의 결과를 해당사업에 반영하여 추진하여야 하며, 그 결과를 정보화통계담당관에게 제출하여야 한다.② 지능정보화책임관 및 분야별 총괄부서장은 사전협의 결과의 반영여부를 점검할 수 있으며, 이 경우 사업주관부서의 장은 점검확인 요구에 협조하여야 한다.③ 지능정보화책임관은 사전협의 누락을 방지하기 위하여 매년 12월까지 사전협의 누락사업현황을 파악하고, 그 결과를 해당 분야별 총괄부서장 및 사업주관부서의 장에게 통보하여 재발방지 조치를 요구할 수 있으며, 익년도 사업예산 편성에서 불이익을 주는 등 재발방지 조치를 취할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제23조",
+            "source_clause": "제23조제1항",
+            "link_text": "제21조",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "제21조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국토교통부 전자정부 구현에 관한 규정/제21조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0023",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#JO0021"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "정보화예산 등의 사전협의",
+        "chapter": "제3절 정보화 예산",
+        "content": "제24조(정보화예산 등의 사전협의) 사업주관부서의 장은 국토교통정보화의 체계적인 추진을 위하여 정보화예산에 대해 정보화통계담당관과 사전협의를 하여야 한다. 이 경우 사업주관부서의 장은 국토교통EA시스템을 통해 중복성 검토를 실시하고 다음 각 호의 내용이 포함된 EA기반의 익년도 정보화예산요구서를 국토교통EA시스템에 등록한 후 정보화통계담당관에게 제출한다.1. 정보화사업 개요ㆍ목적ㆍ내용ㆍ기간2. 정보화사업 추진현황, 추진상의 문제점 및 대책3. 세부추진일정, 추진조직4. 목표시스템 구성도, 시스템 구축내용5. 서비스 개선 및 기대효과6. 예산 편성의 세부내역(’SW사업 대가산정 가이드‘ 및 ‘네트워크 구축을 위한 장비 규모 산정 지침’을 준수)7. 기타 정보화 예산검토에 필요한 사항",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "정보화예산의 타당성 검토 및 조정",
+        "chapter": "제3절 정보화 예산",
+        "content": "제25조(정보화예산의 타당성 검토 및 조정) ① 정보화통계담당관은 제24조에 따른 사전협의 요청에 대하여 국토교통EA시스템을 활용하여 다음 각 호를 검토하여야 한다.1. 정보화사업의 타당성, 중복성, 상호운용성2. 정보화사업 소요예산의 적정성3. 국토교통 부문별 정보화기본계획과의 연계 여부4. 전년도 정보화사업 평가결과 및 지적사항 반영여부5. 기타 예산 검토에 필요한 사항② 정보화통계담당관은 제1항의 타당성 검토결과에 따라 사업주관부서에서 요청한 예산을 가감하여 조정할 수 있다.③ 정보화통계담당관은 필요시 내ㆍ외부의 관련분야 전문가의 자문을 받을 수 있다.④ 정보화통계담당관은 제1항 및 제2항에 따라 검토한 결과를 사업주관부서의 장 및 재정담당관에게 통보하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제25조",
+            "source_clause": "제25조제1항",
+            "link_text": "제24조",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "제24조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국토교통부 전자정부 구현에 관한 규정/제24조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0025",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#JO0024"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0025"
+      },
+      {
+        "article_no": "제26조",
+        "article_title": "표준화",
+        "chapter": "제1절 정보자원의 공동활용",
+        "content": "제26조(표준화) ① 사업주관부서의 장은 정보화사업을 추진하는 과정에서 프로그램ㆍ자료 등의 공동 활용이 가능하도록 업무의 표준화를 추진하여야 한다.② 사업주관부서는 이미 개발되었거나 현재 추진 중인 정보화업무와의 호환성 확보를 위하여 표준화가 필요한 경우 지능정보화책임관과 사전에 협의하여야 한다. 사용 중인 정보화업무를 변경하고자 하는 경우에도 또한 같다.③ 지능정보화책임관은 표준화와 관련된 협의결과를 사업주관부서에 통보하여야 하며, 사업주관부서의 장은 제1항에 따라 표준화된 자료를 사용하여 정보시스템을 설치ㆍ운영하여야 한다.④ 표준화대상 업무는 다음 각 호와 같다.1. 전자문서2. 행정정보의 공동 활용에 필요한 각종 코드3. 정보시스템 간 연계에 필요한 시스템, 응용 S/W, 데이터베이스, 자료전송체계 등4. 통계자료 산출을 위한 통계표준 정보5. 그밖에 사무처리의 표준화를 위하여 필요한 사항⑤ 지능정보화책임관은 관계기관에서 추진하는 정보화사업에 대하여 정보의 공동 활용을 위하여 표준화가 필요하다고 인정할 경우 제2항에 따라 사전협의를 요청할 수 있다. 이 경우 관계기관의 장은 지능정보화책임관의 사전협의 요청에 응하여야 하며 협의결과에 대하여는 제3항을 준용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0026"
+      },
+      {
+        "article_no": "제27조",
+        "article_title": "공동사업단의 구성",
+        "chapter": "제1절 정보자원의 공동활용",
+        "content": "제27조(공동사업단의 구성) ① 지능정보화책임관은 국토교통부 및 다른 행정기관, 관계기관에서 생산하는 자료의 공동이용을 위하여 정보시스템 개발이 필요하다고 인정하는 경우, 자료를 생산ㆍ활용하는 관련 국토교통부 실ㆍ국 및 관련 행정기관, 관계기관과 공동으로 정보화사업 추진을 위한 공동사업단을 구성하여 운영할 수 있다.② 실ㆍ국장 및 관계기관의 장은 소관업무와 관련된 정보화를 추진하는 경우에는 담당직원을 공동사업단의 정보화사업 추진과정에 참여시킬 수 있다.③ 실ㆍ국장 및 관계기관의 장은 지능정보화책임관으로부터 해당 기관 업무와 관련한 협조요청이 있을 경우 특별한 사유가 없는 한 이에 응하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0027"
+      },
+      {
+        "article_no": "제28조",
+        "article_title": "정보자원의 공동이용",
+        "chapter": "제1절 정보자원의 공동활용",
+        "content": "제28조(정보자원의 공동이용) ① 실ㆍ국장 또는 관계기관의 장은 행정정보를 공동 이용할 수 있도록 필요한 조치를 취하여야 한다. 다만, 보안 및 개인정보보호 등 다른 법령에서 공동이용을 제한하고 있는 정보에 대하여는 그러하지 아니한다.② 공동 이용되는 정보를 제공하는 실ㆍ국장 또는 관계기관의 장은 정보의 무결성을 유지하여야 하며, 정보의 생성주기에 맞추어 최신정보로 갱신하여야 한다.③ 지능정보화책임관은 실ㆍ국장 및 관계기관의 장이 정보자원을 효과적으로 공동 이용할 수 있도록 국토교통EA시스템 교육, 기술지원 등 필요한 조치를 취하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0028"
+      },
+      {
+        "article_no": "제29조",
+        "article_title": "사업관리",
+        "chapter": "제2절 정보화사업 관리",
+        "content": "제29조(사업관리) ① 사업주관부서의 장은 정보화사업을 추진함에 있어 사업계획 수립, 발주, 기술성 평가, 계약, 일정관리, 산출물관리, 품질관리, 감리, 검수 등의 각 단계에 대하여 정보화사업관련 법령 및 규정(소관 법령 및 규정의 제정 또는 개정된 경우에도 또한 같다)이 정한 바에 따라 사업관리를 철저히 하여 대내ㆍ외 고객서비스에 차질이 없도록 하여야 한다.② 사업주관부서의 장은 제1항의 단계별 사업추진상황 및 성과물을 국토교통EA시스템에 등록하여 활용하여야 한다.③ 지능정보화책임관은 관계기관의 장이 운영하는 모바일 앱(App), 웹(Web) 사이트에 대하여 공공성, 보안성, 활용성 관점에서 운영실태 점검을 할 수 있으며, 점검 결과 보완ㆍ통합ㆍ폐지 등 개선이 필요하다고 판단되면 개선을 요구할 수 있다. 이 경우 사업주관부서의 장은 특별한 사유가 없는 한 이에 응하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0029"
+      },
+      {
+        "article_no": "제30조",
+        "article_title": "기술성 평가",
+        "chapter": "제2절 정보화사업 관리",
+        "content": "제30조(기술성 평가) 사업주관부서의 장은 정보화사업자 선정을 위한 기술성 평가 추진 시 평가위원 선정, 통보, 평가시행 및 평가결과의 확인 등 각 절차가 최대한 공정하게 진행될 수 있도록 관리감독을 철저히 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0030"
+      },
+      {
+        "article_no": "제31조",
+        "article_title": "구축시스템의 검수ㆍ운영",
+        "chapter": "제2절 정보화사업 관리",
+        "content": "제31조(구축시스템의 검수ㆍ운영) ① 사업주관부서의 장은 정보화사업이 완료되어 운영을 개시하고자 할 경우(기존 운영시스템을 개편하거나 갱신하는 경우를 포함한다)에는 운영 개시 전 공공데이터 제공 목록 및 계획을 수립하고, 오프라인 상태에서 철저히 검수하고 사전 시연을 거쳐 문제점을 추출하여 보완하여야 하며, 보완이 완료된 후 온라인 상태에서 일정기간을 정하여 시범적으로 운영하면서 문제점을 검증한 후 정식 운영이 되도록 하여야 한다.② 제1항의 시범운영을 할 때에는 해당 시스템의 일반 사용자 화면에 다음 각 호의 내용을 기재한 화면 또는 별도의 팝업창을 작성하여 공지하여야 한다.1. 시범운영기간 및 정식서비스 개시일2. 사용자로부터 해당 시스템의 오류사항을 등록하거나 시스템의 개선 및 보완의견을 받을 수 있는 게시판 또는 전자우편 주소3. 공공데이터 제공 목록 및 계획4. 운영담당부서명 및 담당자 연락처③ 사업주관부서에서는 제1항의 정식서비스를 시작하기 전에 사용자매뉴얼 및 운영자매뉴얼을 작성하여 업무에 차질이 없도록 대비하여야 한다. 기존의 운영시스템을 개편하거나 갱신하는 경우에도 또한 같다.④ 사업주관부서에서는 제1항의 공공데이터 개방 목록을 공공데이터포털에 등록하여 서비스되도록 조치하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0031"
+      },
+      {
+        "article_no": "제32조",
+        "article_title": "산출물의 등록 등",
+        "chapter": "제2절 정보화사업 관리",
+        "content": "제32조(산출물의 등록 등) ① 사업주관부서의 장은 용역개발, 위탁개발 또는 자체개발에 의해 추진한 정보화사업이 완료되었을 경우, 최종 사업완료보고서를 국토교통EA시스템에 전자파일로 등록하여야 한다.② 지능정보화책임관은 필요시 정보화사업에 대한 성과물 또는 산출물의 추가 제출을 요청할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0032"
+      },
+      {
+        "article_no": "제33조",
+        "article_title": "성과물 관리",
+        "chapter": "제2절 정보화사업 관리",
+        "content": "제33조(성과물 관리) 사업주관부서의 장은 다음 각 호에서 허용한 범위를 제외하고는 개발 프로그램, 분석정보, 콘텐츠 및 산출물 등의 사업결과물을 무단으로 이용(\"추가개발ㆍ개작ㆍ복제ㆍ배포 및 상업적 활용\"을 포함한다)할 수 없도록 조치하여야 한다.1. 저작권법, 용역계약일반조건(재정경제부 계약예규), 전자정부지원사업관리지침(행정안전부예규) 등의 저작권 및 소유권 관련 규정에 따라 사업결과물의 이용 권리를 확보한 경우2. 보안관련 법령 또는 지식재산관련 법령에서 이용을 허용한 분야3. 사업주관부서의 장이 이용을 허용한 분야",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0033"
+      },
+      {
+        "article_no": "제34조",
+        "article_title": "정보시스템 위탁운영",
+        "chapter": "제3절 위탁 관리",
+        "content": "제34조(정보시스템 위탁운영) ① 정보시스템의 위탁운영기관을 선정하고자 할 경우에는 정보통신 보안, 개인정보 보호, 운영효율 향상, 예산절감 및 업무수행의 적절성 등을 종합적으로 검토하여 국가정보자원관리원에 위탁하는 것을 원칙으로 한다.② 제1항에도 불구하고 다음 각 호의 사항에 해당될 때에는 다른 기관에 위탁운영할 수 있으나 이 경우에도 국가정보자원관리원에 위탁운영할 수 있도록 적극 노력하여야 한다.1. 해당 정보시스템이 위탁기관으로 법령에서 정한 경우2. 이미 위탁중인 사업으로 위탁기관 및 장소의 변경이 없이 계속하여 위탁운영하는 시스템의 경우③ 제2항의 각 호가 아닌 사유로 다른 기관에 위탁하고자 하는 경우에는 다음 각 호의 사항에 대하여 지능정보화책임관의 사전 검토 및 동의를 받아야 한다.1. 위탁개요(시스템 내용, 이용대상, 이용빈도, 위탁기관ㆍ근거ㆍ비용ㆍ기간, 운영인력 등)2. 국가정보자원관리원이 아닌 타 기관으로의 위탁사유3. 정보통신망 구성현황 및 보안대책(보안체계의 세부내역 포함)4. 위탁시스템의 개인정보 보유현황 및 보호대책5. 운영효율 향상 및 서비스 개선방안(기반시스템 공동활용, 서비스 수준협약서 등)6. 위탁운영비 세부산출 내역7. 위탁시스템에 대한 향후 추진계획(시스템 고도화 등)8. 기타 지능정보화책임관이 요청하는 자료",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0034"
+      },
+      {
+        "article_no": "제35조",
+        "article_title": "위탁사업 및 시스템에 대한 점검",
+        "chapter": "제3절 위탁 관리",
+        "content": "제35조(위탁사업 및 시스템에 대한 점검) ① 지능정보화책임관은 국가기관 및 지방자치단체에서 운영하는 기관 이외의 기관에 위탁운영 중인 정보시스템 및 정보화사업(출연예산 등 국토교통부에서 예산을 투입하는 모든 정보화사업 및 정보화시스템을 포함한다)에 대하여 다음 각 호의 사항에 대하여 실사 점검을 할 수 있다.1. 국가기관 또는 지방자치단체가 아닌 해당기관 위탁 필요성2. 위탁시스템에 대한 정보통신 보안 및 개인정보보호 관리 실태3. 기반시스템 공동 활용현황, 서비스수준협약서 준수사항 등 효율적 운영 및 서비스 개선상태4. 기타 위탁계약의 이행사항 등 위탁에 따른 전반적인 사항② 제1항의 실사 점검은 매 2년마다 실시함을 원칙으로 하되, 지능정보화책임관이 필요하다고 판단할 경우에는 수시 또는 서면으로 점검할 수 있다.③ 지능정보화책임관은 제1항의 실사 점검을 위하여 내ㆍ외부전문가로 구성된 위탁운영점검반을 운영할 수 있다.④ 관계기관의 장, 위탁사업 및 시스템 주관부서의 장은 위탁운영점검반이 위탁기관에 방문하여 실사 점검할 경우 필요한 조치를 취하여야 하며, 위탁기관은 위탁운영점검반의 요구자료 제출 등 실사점검에 적극 협조하여야 한다.⑤ 위탁운영점검반은 위탁운영 점검결과를 종합적으로 분석하여 지능정보화책임관에게 보고하여야 하며, 이를 토대로 지능정보화책임관은 우수사례의 확산, 미흡한 사항에 대한 개선 및 위탁기관 변경 요청 등의 조치를 취하여야 한다.⑥ 제5항에 따른 지능정보화책임관의 조치에 대하여 위탁사업 및 정보시스템 주관부서의 장은 특별한 사유가 없는 한 수용하여야 한다.⑦ 지능정보화책임관은 위탁사업 및 정보시스템에 대해 객관적인 평가가 이루어 질 수 있도록 평가기준 설정 등 체계정립에 노력하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0035"
+      },
+      {
+        "article_no": "제36조",
+        "article_title": "성과관리시행계획 및 성과계획서 조정",
+        "chapter": "제1절 자체평가 시행 및 평가 지원",
+        "content": "제36조(성과관리시행계획 및 성과계획서 조정) 지능정보화책임관은 국토교통부에서 작성하는 연도별 성과관리시행계획과 성과계획서 중 정보화부문의 관리과제에 대하여 해당 사업부서의 장과 협의하여 다음 각 호의 사항을 조정한다.1. 성과지표의 수정2. 성과지표 목표치의 조정3. 기타 성과관리시행계획 내용",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0036"
+      },
+      {
+        "article_no": "제37조",
+        "article_title": "정보화사업 자체평가 실시 및 결과 제출",
+        "chapter": "제1절 자체평가 시행 및 평가 지원",
+        "content": "제37조(정보화사업 자체평가 실시 및 결과 제출) ① 성과관리시행계획 및 성과계획서의 정보화부문 사업주관부서의 장은 당해 연도에 추진한 정보화사업에 대하여 자체평가를 실시하고 그 결과를 지능정보화책임관에게 제출하여야 한다.② 제1항의 자체평가를 위한 평가지표, 평가일정, 평가항목 및 배점기준 등 자체평가 실시에 필요한 사항은 정부업무평가 주관부처에서 제시하는 당해 연도의 정부업무평가지침에 따른다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0037"
+      },
+      {
+        "article_no": "제38조",
+        "article_title": "기타 정보화사업의 평가",
+        "chapter": "제1절 자체평가 시행 및 평가 지원",
+        "content": "제38조(기타 정보화사업의 평가) ① 사업부서의 장 및 소속기관의 장은 제37조의 자체평가대상 정보화사업에 해당되지 않는 정보화사업 및 소속기관의 정보화사업에 대하여 자체평가를 실시할 수 있다.② 제1항의 자체평가 실시에 필요한 사항은 제37조의 제2항을 준용하되, 필요하다고 판단될 경우에는 평가지표, 평가항목 및 배점기준을 조정하여 시행할 수 있다.③ 지능정보화책임관은 제1항의 자체평가를 지원하기 위하여 사업부서의 장 및 소속기관의 장에게 제2항의 정보화평가지침을 작성하여 제시할 수 있다.④ 소관 정보화사업에 대하여 자체평가를 실시한 사업부서의 장 및 소속기관의 장은 자체평가결과를 지능정보화책임관에게 제출한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제38조",
+            "source_clause": "제38조제1항",
+            "link_text": "제37조",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "제37조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국토교통부 전자정부 구현에 관한 규정/제37조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0038",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#JO0037"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제38조",
+            "source_clause": "제38조제2항",
+            "link_text": "제37조",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "제37조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국토교통부 전자정부 구현에 관한 규정/제37조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0038",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#JO0037"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0038"
+      },
+      {
+        "article_no": "제39조",
+        "article_title": "산하기관 정보화사업의 평가 지원",
+        "chapter": "제1절 자체평가 시행 및 평가 지원",
+        "content": "제39조(산하기관 정보화사업의 평가 지원) ① 지능정보화책임관은 산하기관의 장이 소관 정보화사업에 대한 자체평가를 실시하기 위하여 지능정보화책임관에게 지원을 요청하는 하는 경우 최대한 지원하여야 한다.② 산하기관의 장은 지능정보화책임관이 제1항의 자체평가 지원을 위하여 관련정보, 자료, 자원 및 인력 등의 지원 요청이 있을 경우 최대한 협조하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0039"
+      },
+      {
+        "article_no": "제40조",
+        "article_title": "평가결과의 심의 및 확정",
+        "chapter": "제2절 평가결과 활용",
+        "content": "제40조(평가결과의 심의 및 확정) ① 제37조에 따라 사업주관부서의 장이 실시한 소관 정보화사업 자체평가 결과는 국토교통부 자체평가위원회 재정성과소위원회(이하 \"소위원회\"라 한다)의 심의를 거친 후 정부업무평가 주관부처로부터 확인ㆍ점검을 거쳐 확정한다. 다만, 정부업무평가 주관부처의 확인ㆍ점검절차가 생략될 경우에는 국토교통부 자체평가위원회 소위원회의 심의ㆍ조정결과로 확정한다.② 제38조에 따라 실시한 기타 정보화사업 및 소속기관 정보화사업의 자체평가결과는 지능정보화책임관이 확인ㆍ점검하며, 지능정보화책임관의 확인 점검결과에 대하여 국토교통부 자체평가위원회 소위원회의 심의로 확정한다.③ 지능정보화책임관은 제2항의 확인ㆍ점검에 필요하다고 판단될 경우에는 제출한 서류 외에 직접 실사하여 점검할 수 있으며, 이 경우 국토교통부 내ㆍ외부 관계자 및 전문가의 지원을 받아 합동으로 점검할 수 있다.④ 지능정보화책임관은 제3항의 확인ㆍ점검결과에 대하여 1월 이내에 확인점검결과보고서를 작성하고 국토교통부 자체평가위원회 소위원회에 상정하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제40조",
+            "source_clause": "제40조제1항",
+            "link_text": "제37조",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "제37조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국토교통부 전자정부 구현에 관한 규정/제37조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0040",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#JO0037"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제40조",
+            "source_clause": "제40조제2항",
+            "link_text": "제38조",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "제38조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국토교통부 전자정부 구현에 관한 규정/제38조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0040",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#JO0038"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0040"
+      },
+      {
+        "article_no": "제41조",
+        "article_title": "평가결과의 환류",
+        "chapter": "제2절 평가결과 활용",
+        "content": "제41조(평가결과의 환류) ① 사업주관부서의 장은 제40조제1항의 평가결과 지적된 사항을 정보화사업 추진시 반영하여야 한다.② 산하기관의 장은 제40조제2항의 자체평가결과 지적된 사항에 대하여 정보화사업 추진시 우선적으로 반영하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제41조",
+            "source_clause": "제41조제1항",
+            "link_text": "제40조제1항",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "제40조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국토교통부 전자정부 구현에 관한 규정/제40조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0041",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#JO0040"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제41조",
+            "source_clause": "제41조제2항",
+            "link_text": "제40조제2항",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "제40조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국토교통부 전자정부 구현에 관한 규정/제40조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0041",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#JO0040"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0041"
+      },
+      {
+        "article_no": "제42조",
+        "article_title": "평가결과의 예산연계",
+        "chapter": "제2절 평가결과 활용",
+        "content": "제42조(평가결과의 예산연계) ① 지능정보화책임관은 제40조의 자체평가 확정결과 및 제41조의 평가결과 지적사항 환류결과를 다음 연도 정보화사업 예산과 연계하여야 한다.② 지능정보화책임관은 제1항의 확인결과, 하위 30퍼센트에 해당하는 사업에 대하여는, 국토교통부 전체의 정보화사업예산 규모를 고려하여 해당 정보화사업의 다음연도 요구예산을 일정범위 내에서 삭감할 수 있다.③ 지능정보화책임관은 제1항의 확인결과, 상위 30퍼센트에 해당하는 사업에 대하여는, 국토교통부 전체의 정보화사업예산 규모를 고려하여 해당 정보화사업의 다음연도 요구예산을 최우선적으로 반영할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제42조",
+            "source_clause": "제42조제1항",
+            "link_text": "제40조",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "제40조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국토교통부 전자정부 구현에 관한 규정/제40조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0042",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#JO0040"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제42조",
+            "source_clause": "제42조제1항",
+            "link_text": "제41조",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "제41조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국토교통부 전자정부 구현에 관한 규정/제41조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0042",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#JO0041"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0042"
+      },
+      {
+        "article_no": "제43조",
+        "article_title": "국토교통EA시스템 운영",
+        "chapter": "제6장 정보기술아키텍처(EA) 관리",
+        "content": "제43조(국토교통EA시스템 운영) ① 지능정보화책임관은 국토교통부 소관 정보자원을 효율적으로 관리하기 위하여 EA시스템을 운영한다.② 국토교통EA시스템은 정보화통계담당관이 운영한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0043"
+      },
+      {
+        "article_no": "제44조",
+        "article_title": "관리책임자의 지정ㆍ운영",
+        "chapter": "제6장 정보기술아키텍처(EA) 관리",
+        "content": "제44조(관리책임자의 지정ㆍ운영) 사업주관부서의 장은 정보시스템의 품질을 관리하고 최신정보가 유지될 수 있도록 각각의 시스템에 대한 관리책임자를 지정하는 등 필요한 조치를 취하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0044"
+      },
+      {
+        "article_no": "제45조",
+        "article_title": "EA 현행화",
+        "chapter": "제6장 정보기술아키텍처(EA) 관리",
+        "content": "제45조(EA 현행화) 사업주관부서의 관리책임자는 정보자원의 신규발생, 변경 및 소멸 등 정보자원의 변동사항이 발생했을 경우, 즉시 국토교통EA시스템에 반영하여 최신정보를 유지하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0045"
+      },
+      {
+        "article_no": "제46조",
+        "article_title": "정보자원의 등록 및 관리",
+        "chapter": "제6장 정보기술아키텍처(EA) 관리",
+        "content": "제46조(정보자원의 등록 및 관리) ① 사업주관부서는 개발된 프로그램의 관리를 위하여 업무분석서, 시스템관리방법 및 절차서, 관리지침서, 운영지침서, 프로그램설명서, 구축시스템의 구성도 등을 문서화한 후 보조기억매체로 저장하여 별도 보관ㆍ관리하고, 국토교통EA시스템에도 등록하여야 한다.② 사업주관부서의 장은 이미 개발되었거나 보유중인 프로그램이 저작권으로 보호되어야 할 필요가 있다고 인정하는 경우 컴퓨터프로그램보호법 등 관련규정에 따라 등록ㆍ관리하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0046"
+      },
+      {
+        "article_no": "제47조",
+        "article_title": "정보자료의 제공 및 협의",
+        "chapter": "제6장 정보기술아키텍처(EA) 관리",
+        "content": "제47조(정보자료의 제공 및 협의) ① 사업주관부서의 장은 소관업무와 관련된 서식이나 코드체계 등을 변경할 경우에는 기존 정보자원과의 호환성 확보 및 지속적인 자료축적을 위하여 사전에 지능정보화책임관과 협의하여야 한다.② 사업주관부서의 장은 타부서에서 보유 또는 관리하고 있는 정보자원을 활용하고자 할 때에는 해당자원을 보유하고 있는 기관의 장에게 정보자원의 제공을 요청할 수 있다.③ 제2항에 따라 정보자원의 제공을 요청받은 기관의 장은 특별한 사유가 없는 한 요청한 정보자원을 제공하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0047"
+      },
+      {
+        "article_no": "제48조",
+        "article_title": "산하기관 협의 및 지원",
+        "chapter": "제6장 정보기술아키텍처(EA) 관리",
+        "content": "제48조(산하기관 협의 및 지원) ① 지능정보화책임관 또는 국토교통부 산하기관의 장은 국토교통분야 EA의 체계적인 구축ㆍ운영 및 발전에 필요하다고 판단할 경우 상호 협의를 요청할 수 있다.② 지능정보화책임관 또는 산하기관의 장은 제1항의 협의요청이 있을 경우 이에 응하여야 하며, 정보ㆍ기술ㆍ인력 및 자료 등의 정보자원을 적극 지원하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0048"
+      },
+      {
+        "article_no": "제49조",
+        "article_title": "EA관련 규정 제정",
+        "chapter": "제6장 정보기술아키텍처(EA) 관리",
+        "content": "제49조(EA관련 규정 제정) ① 정보화책임관은 본 규정과는 별도로 EA관련 상세한 지침 또는 규정을 제정하여 운용할 수 있다.② 제1항의 지침 또는 규정을 제정하였을 경우에는 해당지침 또는 규정을 우선하여 적용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0049"
+      },
+      {
+        "article_no": "제50조",
+        "article_title": "보안대책 수립 및 시행",
+        "chapter": "제7장 정보통신 보안",
+        "content": "제50조(보안대책 수립 및 시행) 본부, 소속기관 및 산하기관의 정보화사업 주관부서의 장은 정보화관련 시설을 설치ㆍ운영하는 경우 「국토교통부 보안업무규칙」,「국토교통부정보보안업무규정」 등 국토교통부 보안관련 제 규정이 정하는 바에 따라 정보화관련 시설 및 정보자료의 보안 관리에 대한 계획을 수립하여 시행하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제50조",
+            "source_clause": "제50조",
+            "link_text": "「국토교통부 보안업무규칙」",
+            "line_text": "",
+            "target_law_name": "국토교통부 보안업무규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국토교통부 보안업무규칙",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0050",
+            "reference_id": "admrul:국토교통부보안업무규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제50조",
+            "source_clause": "제50조",
+            "link_text": "「국토교통부정보보안업무규정」",
+            "line_text": "",
+            "target_law_name": "국토교통부정보보안업무규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국토교통부정보보안업무규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0050",
+            "reference_id": "admrul:국토교통부정보보안업무규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0050"
+      },
+      {
+        "article_no": "제51조",
+        "article_title": "정보자료의 보안",
+        "chapter": "제7장 정보통신 보안",
+        "content": "제51조(정보자료의 보안) ① 사업주관부서의 장은 정보통신망을 통하여 주요 정보자료를 송ㆍ수신할 경우에는 자료의 유출 방지대책을 강구하여야 한다.② 사업주관부서의 장은 자료유실, 파손 또는 변조에 대비하여 자료의 백업계획을 수립하고, 필요한 제반절차에 따라 자료를 백업하여 별도 관리하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0051"
+      },
+      {
+        "article_no": "제52조",
+        "article_title": "유지보수 및 관리",
+        "chapter": "제7장 정보통신 보안",
+        "content": "제52조(유지보수 및 관리) 사업주관부서의 장은 전산장비 및 프로그램 등에 대하여는 유지보수 계약을 체결하여 항상 정상적으로 유지ㆍ관리하여야 한다. 다만 국가정보자원관리원에서 설치ㆍ운영하는 전산장비는 제외한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0052"
+      },
+      {
+        "article_no": "제53조",
+        "article_title": "보안관련 규정 제정",
+        "chapter": "제7장 정보통신 보안",
+        "content": "제53조(보안관련 규정 제정) ① 본 규정과는 별도로, 사이버침해 예방 및 대책, 개인정보보호, 정보통신망의 설치, 네트워크 관리 등 정보통신 보안의 전 부문이 포함된 정보보안관련 상세한 지침 또는 규정을 제정하여 운용할 수 있다.② 제1항의 지침 또는 규정을 제정하였을 경우에는 해당 지침 또는 규정을 우선하여 적용한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0053"
+      },
+      {
+        "article_no": "제54조",
+        "article_title": "운영관리 대상",
+        "chapter": "제8장 공통행정정보시스템 운영",
+        "content": "제54조(운영관리 대상) 국토교통부 공통행정정보시스템은 국토교통부 홈페이지, 솔넷, 온-나라시스템, 지식관리시스템, 전자우편시스템, 메신저, 행정전자서명(GPKI) 및 원격업무처리(GVPN), 공통행정정보 콜센터 운영관리로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0054"
+      },
+      {
+        "article_no": "제55조",
+        "article_title": "홈페이지 운영",
+        "chapter": "제8장 공통행정정보시스템 운영",
+        "content": "제55조(홈페이지 운영) ① 국토교통부 홈페이지는 국토교통부 본부 및 소속기관의 대표홈페이지로 한다.② 국토교통부장관은 제1항의 홈페이지 외에 특정계층이나 특정분야 또는 특정업무에 대하여 특화된 서비스가 필요가 있다고 판단할 경우에는 홈페이지를 추가 개발하여 운영할 수 있다.③ 국토교통부 홈페이지와 관련된 정책, 제도, 장기발전계획 수립, 평가 및 지도 점검 등 홈페이지 구축ㆍ운영 전반에 관한 사항은 홍보담당관이 총괄한다.④ 본부의 실ㆍ국 또는 소속기관의 장은 제1항의 대표홈페이지 외에 해당 실ㆍ국 및 기관의 특정업무와 관련된 홈페이지를 독자적으로 구축하여 서비스할 수 있다. 이 경우 제21조제4항에 따라 사전에 홍보담당관과 협의하여야 한다.⑤ 제1항, 제2항 및 제4항과 관련하여 홈페이지 또는 웹사이트를 구축하거나 기존 운영 중인 홈페이지를 확장, 변경 또는 통ㆍ폐합하여 개발하고자 할 경우에는 「장애인ㆍ고령자 등의 정보 접근 및 이용 편의 증진을 위한 고시(과학기술정보통신부)」, 「행정기관 및 공공기관 정보시스템 구축ㆍ운영 지침(행정안전부)」 및 「전자정부 웹사이트 품질관리 지침(행정안전부)」등 웹사이트 접근성 강화 및 웹 표준화와 관련된 규정을 준수하여 개발하여야 한다.⑥ 홍보담당관은 본 규정과는 별도로 홈페이지의 구축 및 운영과 관련하여 상세한 지침 또는 규정을 제정하여 운용할 수 있다.⑦ 제5항의 지침 또는 규정을 제정하였을 경우에는 해당 지침 또는 규정을 우선하여 적용한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제55조",
+            "source_clause": "제55조제4항",
+            "link_text": "제21조제4항",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "제21조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국토교통부 전자정부 구현에 관한 규정/제21조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0055",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#JO0021"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0055"
+      },
+      {
+        "article_no": "제56조",
+        "article_title": "민원관련 홈페이지 운영",
+        "chapter": "제8장 공통행정정보시스템 운영",
+        "content": "제56조(민원관련 홈페이지 운영) ① 민원관련 홈페이지는 국토교통부 대표홈페이지에 연결된 민원마당과 민원정보시스템으로 한다.(홈페이지 개편 등에 따라 민원마당의 명칭이 변경될 경우에는 변경된 명칭을 민원홈페이지로 본다.)② 민원관련 홈페이지 및 제55조제1항의 대표홈페이지의 장관과의 대화코너는 고객만족센터의 장이 운영한다.③ 감사담당관은 민원관련 홈페이지(장관과의 대화를 포함한다)로 접수된 민원을 전자적으로 신속하게 처리하기 위하여 건별로 처리부서 및 처리 소속기관을 지정하고 그 처리여부 등을 확인하여야 한다.④ 전자민원 담당자 등은 직무상 알게 된 민원내용에 대하여 누설하거나 타인에게 제공하는 등 임의로 사용하여서는 안 된다.⑤ 민원관련 홈페이지의 운영과 관련하여 규정 또는 지침 등을 제정하고자 할 경우에는 제55조제6항 및 제7항을 준용한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제56조",
+            "source_clause": "제56조제5항",
+            "link_text": "제55조제6항 및 제7항",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "제55조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국토교통부 전자정부 구현에 관한 규정/제55조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0056",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#JO0055"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0056"
+      },
+      {
+        "article_no": "제57조",
+        "article_title": "공통행정정보시스템 사용신청",
+        "chapter": "제8장 공통행정정보시스템 운영",
+        "content": "제57조(공통행정정보시스템 사용신청) ① 솔넷 또는 온-나라시스템을 사용 또는 수정하고자 할 경우에는 별지 제4호서식의 \"국토교통정보망(솔넷ㆍ온-나라)사용신청서\"를 정보화통계담당관에게 제출하여야 한다. 다만 솔넷 또는 온-나라시스템에 이미 등록된 직원으로서 인사발령에 따라 등록정보를 수정하여야 할 경우에는 해당 인사발령이 솔넷 또는 온-나라시스템을 통하여 공지하였을 경우에 한하여 \"국토교통정보망(솔넷ㆍ온-나라)사용신청서\"에 갈음하여 정보화통계담당관이 직접 수정할 수 있다.② 솔넷을 사용하지 않는 타 기관으로 파견된 직원이 솔넷을 사용하고자 할 경우에는 별지 제5호서식의 \"국토교통정보망(솔넷ㆍ온-나라)사용신청서(파견자)\"를 정보화통계담당관에게 제출한다.③ 온-나라시스템 사용자의 사용권한을 신설ㆍ변경ㆍ취소 또는 삭제하거나 또는 경미한 수정이 필요한 경우에는 공문 없이 요청할 수 있다.④ 행정전자서명(GPKI)을 사용하고자 할 경우에는 별지 제6호서식의 \"행정전자서명신청서(개인용)\"를 정보화통계담당관에게 제출한다.⑤ 행정기관의 정보통신망이 아닌 외부 통신망을 이용하여 원격으로 접속하여 업무를 처리하고자 할 경우에는 GVPN 홈페이지에서 온라인으로 신청한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제57조",
+            "source_clause": "제57조제1항",
+            "link_text": "별지 제4호서식",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "별지4",
+            "target_article_title": "국토교통정보망(솔넷·온-나라) 사용신청서",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002863",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0057",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#BJ0004"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제57조",
+            "source_clause": "제57조제2항",
+            "link_text": "별지 제5호서식",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "별지5",
+            "target_article_title": "국토교통정보망(솔넷·온-나라) 사용신청서(파견자)",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002869",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0057",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#BJ0005"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제57조",
+            "source_clause": "제57조제4항",
+            "link_text": "별지 제6호서식",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "별지6",
+            "target_article_title": "행정전자서명 신청서(개인용)",
+            "appendix_no": "6",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002877",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0057",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#BJ0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0057"
+      },
+      {
+        "article_no": "제58조",
+        "article_title": "솔넷 운영",
+        "chapter": "제8장 공통행정정보시스템 운영",
+        "content": "제58조(솔넷 운영) ① 솔넷에 코너를 신설하거나 기존코너를 변경하거나, 통합ㆍ조정 또는 폐지하고자할 경우 및 솔넷을 수정하고자 할 경우에는 별지 제9호서식의 \"솔넷 콘텐츠 신설ㆍ변경요청서\"에 신설ㆍ변경내용을 기재하여 정보화통계담당관에게 공문으로 제출하여야 한다.② 정보화통계담당관은 제1항의 요청내역에 대하여 검토한 후, 조치 가능여부, 대체방안, 조치시한, 소요예산 및 기타 선결요건 등을 포함한 검토결과를 요청부서에 즉시 통보하여야 한다.③ 정보화통계담당관은 제1항의 요청에 대한 효율적인 방안을 마련하기 위하여 요청부서와 상호 협의하여 요청내용을 조정할 수 있다.④ 정보화통계담당관은 제2항 및 제3항의 요청사항 조치와 관련하여 예산이 소요될 경우에는 요청부서에 관련 비용을 요구할 수 있다.⑤ 정보화통계담당관은 제1항의 수정할 내용이 다음 각 호와 같이 단순ㆍ경미하거나 즉시 수정할 필요가 있다고 판단할 경우에는 별지서식의 제출 없이 즉시 수정할 수 있다.1. 오류정정2. 링크사이트의 추가ㆍ변경ㆍ삭제3. 아이콘의 신설 또는 디자인ㆍ색상ㆍ위치 등의 변경4. 이용편리를 위한 단순 유지보수5. 긴급공지 등 긴급한 조치가 필요한 사항6. 기타 운영담당자(담당계장)가 경미하다고 판단하는 사항 등",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제58조",
+            "source_clause": "제58조제1항",
+            "link_text": "별지 제9호서식",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "별지9",
+            "target_article_title": "솔넷 콘텐츠 신설(변경) 요청서",
+            "appendix_no": "9",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002883",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0058",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#BJ0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0058"
+      },
+      {
+        "article_no": "제59조",
+        "article_title": "팝업창 작성 및 서비스",
+        "chapter": "제8장 공통행정정보시스템 운영",
+        "content": "제59조(팝업창 작성 및 서비스) ① 정보화통계담당관은 전 직원의 솔넷 이용편리성 및 접근성 확보를 위하여 솔넷 초기화면에서의 팝업창서비스를 지양하여야 한다.② 정보화통계담당관은 제1항에도 불구하고 솔넷 팝업창 작성 및 서비스 요청이 있을 경우에는 다음 각 호의 내용을 검토하여 서비스 여부를 결정할 수 있다.1. 팝업서비스의 필요성2. 솔넷 서비스 속도의 영향여부3. 팝업서비스 기간의 적정성4. 기타 팝업서비스와 연결된 사이트와의 관계 등③ 정보화통계담당관은 제2항의 검토결과 2개 이상의 팝업서비스가 중첩될 경우에 우선순위를 조정하여 서비스하거나, 서비스 기간을 단축, 연장 또는 변경하거나 팝업서비스를 유보 또는 삭제할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0059"
+      },
+      {
+        "article_no": "제60조",
+        "article_title": "지식마일리지 관리 및 평가",
+        "chapter": "제8장 공통행정정보시스템 운영",
+        "content": "제60조(지식마일리지 관리 및 평가) ① 지식마일리지는 직원별ㆍ부서별로 관리되며, 부서마일리지는 소속직원이 인사이동 되어도 변하지 아니한다.② 등록지식에 대한 평가는 개인별로 한다. 다만, 필요한 경우 부서별 및 지식별로 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0060"
+      },
+      {
+        "article_no": "제61조",
+        "article_title": "공통행정정보 콜센터 운영",
+        "chapter": "제8장 공통행정정보시스템 운영",
+        "content": "제61조(공통행정정보 콜센터 운영) ① 정보화통계담당관은 공통행정정보시스템 전반의 효율적 운영, 장애조치 및 신속한 서비스를 위하여 외부의 전문 인력으로 구성된 공통행정정보 콜센터(이하 \"콜센터\"라 한다)를 운영할 수 있다.② 정보화통계담당관은 콜센터 직원이 제1항의 업무를 수행할 수 있도록 최대한 지원하여야 하며 보안에 유의하도록 지도ㆍ관리ㆍ감독한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0061"
+      },
+      {
+        "article_no": "제62조",
+        "article_title": "운영내역 유지관리",
+        "chapter": "제8장 공통행정정보시스템 운영",
+        "content": "제62조(운영내역 유지관리) ① 정보화통계담당관은 제54조의 공통행정정보시스템 운영(제55조의 국토교통부 홈페이지 및 제56조의 민원관련 홈페이지는 제외한다)과 관련하여 신설ㆍ변경한 내역, 장애조치 및 백업내역 등 각 시스템별 운영관리이력을 시스템 또는 대장에 기록ㆍ관리하여야 한다.② 홍보담당관 및 감사담당관은 제1항을 준용하여 소관 시스템의 운영관리이력을 기록ㆍ관리하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제62조",
+            "source_clause": "제62조제1항",
+            "link_text": "제54조",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "제54조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국토교통부 전자정부 구현에 관한 규정/제54조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0062",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#JO0054"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제62조",
+            "source_clause": "제62조제1항",
+            "link_text": "제55조",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "제55조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국토교통부 전자정부 구현에 관한 규정/제55조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0062",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#JO0055"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제62조",
+            "source_clause": "제62조제1항",
+            "link_text": "제56조",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "제56조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국토교통부 전자정부 구현에 관한 규정/제56조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0062",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#JO0056"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0062"
+      },
+      {
+        "article_no": "제63조",
+        "article_title": "정보화교육계획 수립",
+        "chapter": "제9장 정보화 교육",
+        "content": "제63조(정보화교육계획 수립) 지능정보화책임관은 전자정부법 제53조제1항 정보화인력 개발계획에 따라 직원의 정보화 역량 향상 등을 도모하기 위하여 자체 정보화교육계획을 수립ㆍ시행한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제63조",
+            "source_clause": "제63조",
+            "link_text": "제53조제1항",
+            "line_text": "",
+            "target_law_name": "전자정부법",
+            "target_article_no": "제53조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/전자정부법/제53조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0063",
+            "reference_id": "law:전자정부법#JO0053"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0063"
+      },
+      {
+        "article_no": "제64조",
+        "article_title": "정보화교육 실시",
+        "chapter": "제9장 정보화 교육",
+        "content": "제64조(정보화교육 실시) ① 정보화교육은 본부 및 소속기관의 직원을 대상으로 실시하는 것을 원칙으로 하며, 필요시 다음 각 호와 같이 구분하여 실시할 수 있다.1. 신규 및 전입자를 대상으로 하는 기초 적응훈련 교육2. 정보화업무의 활성화를 위한 실무자 및 간부 교육3. 정보처리시스템 등의 이용기법 향상과 숙달을 위한 기술훈련 교육4. 기타 정보화 관련기술 및 정책소개를 위한 소양 교육② 정보화교육은 근무에 지장이 없는 범위 내에서 실시함을 원칙으로 하며, 불가피할 경우에는 외부 교육장을 이용하거나 정보통신망을 통한 사이버교육으로 대체할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0064"
+      },
+      {
+        "article_no": "제65조",
+        "article_title": "교육의 실효성 확보",
+        "chapter": "제9장 정보화 교육",
+        "content": "제65조(교육의 실효성 확보) ① 지능정보화책임관은 정보화교육의 실효성 확보를 위하여 필요할 경우에는 평가를 실시할 수 있으며, 평가결과 성적이 저조할 경우에는 재교육을 실시할 수 있다.② 지능정보화책임관은 교육 대상자가 납득할만한 사유 없이 교육에 불참하거나 교육시간 중 이석하는 등 교육수강 자세가 불성실하다고 판단될 경우에는 교육대상자의 해당 교육과정을 직권으로 취소할 수 있으며, 이 경우 해당 교육대상자 개인 및 해당 교육대상자가 속한 부서에 대하여 일정기간 동안 교육 참여기회를 박탈하는 등의 불이익을 줄 수 있다.③ 지능정보화책임관은 부서별 정보화교육 참여 실적을 평가하여 적극적으로 성실하게 교육을 이수한 부서에 대하여는 교육생 선발시 해당부서 직원을 우선 선발하는 등의 인센티브를 부여할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0065"
+      },
+      {
+        "article_no": "제66조",
+        "article_title": "강사 선임 및 평가",
+        "chapter": "제9장 정보화 교육",
+        "content": "제66조(강사 선임 및 평가) ① 강사는 직원 중 적임자를 선발하여 실시하거나 외부에서 전문 인력을 초빙하여 실시한다.② 지능정보화책임관은 강사의 강의수준을 높이고 강의에 적극적으로 임하도록 유도하기 위하여 필요시 교육수강생을 대상으로 강사평가를 실시할 수 있다.③ 지능정보화책임관은 제2항의 강사평가 결과가 미흡하다고 판단될 경우에는 해당 강사를 즉시 교체하여야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0066"
+      },
+      {
+        "article_no": "제67조",
+        "article_title": "정보화사업 포상",
+        "chapter": "제10장 포상",
+        "content": "제67조(정보화사업 포상) 국토교통부장관은 국토교통정보화의 창의적 발전, 정보화사업의 품질제고, 추진주체의 사기진작 및 정보화사업의 활성화를 위하여 다음 각 호의 경우에 해당 기관ㆍ업체 및 유공자에 대하여 포상을 할 수 있다.1. 제38조에 따른 정보화 평가결과 우수사업2. 정보화콘텐츠 해외진출 등 국토교통정보화 발전에 기여한 사업3. 정보화사업관련 외국 또는 외부기관과의 협력활동 기여4. 외부기관에서 주관하는 각종 정보화 경진대회 참여 등을 통한 부처 위상 제고5. 정보화관련 표준화 추진으로 다수부처 또는 기관의 정보화 시너지효과 창출에 기여6. 기타 국토교통부장관이 국토교통정보화 발전 및 품질향상에 현저한 공이 있다고 인정되는 부내ㆍ외 기관 및 업체 또는 관계자",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제67조",
+            "source_clause": "제67조",
+            "link_text": "제38조",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "제38조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국토교통부 전자정부 구현에 관한 규정/제38조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0067",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#JO0038"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0067"
+      },
+      {
+        "article_no": "제68조",
+        "article_title": "포상 특전",
+        "chapter": "제10장 포상",
+        "content": "제68조(포상 특전) ① 제67조 각 호에 따른 포상 대상자에 대하여는 국내ㆍ외 정보화 신기술 연수 등의 특전을 부여할 수 있으며, 포상대상 사업에 대하여는 다음 연도 정보화 평가시 관련 평가항목에 대하여 가점을 부여할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제68조",
+            "source_clause": "제68조제1항",
+            "link_text": "제67조",
+            "line_text": "",
+            "target_law_name": "국토교통부 전자정부 구현에 관한 규정",
+            "target_article_no": "제67조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국토교통부 전자정부 구현에 관한 규정/제67조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0068",
+            "reference_id": "admrul:국토교통부전자정부구현에관한규정#JO0067"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:국토교통부전자정부구현에관한규정#JO0068"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20161223",
+      "promulgation_no": "791",
+      "content": "부칙 <제791호,2016. 12. 23.>이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20180724",
+      "promulgation_no": "1053",
+      "content": "부칙 <제1053호,2018. 7. 24.>이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20200730",
+      "promulgation_no": "1311",
+      "content": "부칙 <제1311호,2020. 7. 30.>이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20201221",
+      "promulgation_no": "1347",
+      "content": "부칙 <제1347호,2020. 12. 21.>이 훈령은 발령한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20260708",
+      "promulgation_no": "1967",
+      "content": "부칙(정부조직 개편 사항 반영을 위한 39개 훈령의 일부개정에 관한 국토교통부훈령) <제1967호, 2026. 7. 8.>이 훈령은 발령한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "국토교통 정보화사업 분야별 총괄부서 및 역할·기능(제13조제2항 관련)",
+      "enforcement_date": "",
+      "content": "[별표 1] 국토교통 정보화사업 분야별 총괄부서 및 역할ㆍ기능(제13조제2항 관련)\n──────┬───────┬─────────────────────┬───\n분야      │총괄부서      │역할 및 기능                              │비고\n──────┼───────┼─────────────────────┼───\n지능정보화│기획조정실장  │ㆍ 국토교통부 정보화 총괄                 │\n책임관    │              │ㆍ 국토교통지능정보화책임관협의회 의장    │\n──────┼───────┼─────────────────────┼───\n│정책기획관    │ㆍ 지능정보화책임관 지원 및 보조          │\n│              │ㆍ 국토교통정보화추진실무협의회 의장      │\n├───────┼─────────────────────┼───\n공통행정  │정보화통계    │ㆍ 국토교통부 정보화 총괄·조정           │\n│담당관        │? 국토교통부 전체차원의 정보화 전략 및   │\n│              │Master Plan 수립                          │\n│              │ㆍ 분야별 정보화 전략 검토·조정          │\n│              │? 정보화예산 총괄·조정, 정보화평가 및   │\n│              │예산 환류                                 │\n│              │ㆍ 내부 및 산하기관 시스템간 연계 검토    │\n│              │? H/W, S/W 등 도입계획 및 도입관련       │\n│              │적정성 검토                               │\n│              │ㆍ 국토교통지능정보화책임관협의회 간사    │\n──────┼───────┼─────────────────────┼───\n국토도시  │국토정책과    │ㆍ 국토도시분야 정보화추진계획 수립ㆍ시   │\n│              │행                                        │\n│              │ㆍ 국토도시분야 정보화 추진시 사전 검     │\n│              │토                                        │\n│              │ㆍ 코드 및 항목 표준화, DB통합 검토       │\n│              │ㆍ 기 개발사업간 중복성 검토ㆍ조정 등     │\n│              │ㆍ 국토도시 정보화 관점의 사업계획에 대   │\n│              │한 적정성 검토 의뢰(정보화)               │\n──────┼───────┼─────────────────────┼───\n│국토정보정책관│ㆍ 주택토지분야 정보화사업 총괄 조정      │\n├───────┼─────────────────────┼───\n주택토지  │국토정보정책과│ㆍ 주택토지분야 정보화추진계획 수립ㆍ시   │\n│              │행                                        │\n│              │ㆍ 주택토지분야 정보화 추진시 사전 검     │\n│              │토                                        │\n│              │ㆍ 코드 및 항목 표준화, DB통합 검토       │\n│              │ㆍ 기 개발사업간 중복성 검토ㆍ조정 등     │\n│              │ㆍ 주택토지 정보화 관점의 사업계획에 대   │\n│              │한 적정성 검토 의뢰(정보화)               │\n──────┼───────┼─────────────────────┼───\n건설      │건설정책과    │ㆍ 건설분야 정보화추진계획 수립·시행     │\n│              │ㆍ 건설분야 정보화 사전 검토              │\n│              │ㆍ 코드 및 항목 표준화, DB통합 검토       │\n│              │ㆍ 기 개발사업간 중복성 검토ㆍ조정 등     │\n│              │? 건설 정보화 관점의 사업계획에 대한     │\n│              │적정성 검토 의뢰(정보화)                  │\n──────┼───────┼─────────────────────┼───\n교통물류  │교통정책총괄과│ㆍ 교통물류분야 정보화추진계획 수립ㆍ시행 │\n│              │ㆍ 교통물류분야 정보화추진시 사전검토     │\n│              │ㆍ 코드 및 항목 표준화, DB통합 검토       │\n│              │ㆍ 기 개발사업간 중복성 검토ㆍ조정 등     │\n│              │ㆍ 교통물류정보화 관점의 사업계획에 대    │\n│              │한 적정성 검토 의뢰(정보화)               │\n──────┼───────┼─────────────────────┼───\n항공      │항공정책과    │ㆍ 항공분야 정보화추진계획 수립·시행     │\n│              │ㆍ 항공분야 정보화 사전 검토              │\n│              │ㆍ 코드 및 항목 표준화, DB통합 검토       │\n│              │ㆍ 기 개발사업간 중복성 검토ㆍ조정 등     │\n│              │? 항공 정보화 관점의 사업계획에 대한     │\n│              │적정성 검토 의뢰(정보화)                  │\n──────┼───────┼─────────────────────┼───\n철도      │철도정책과    │ㆍ 철도분야 정보화추진계획 수립·시행     │\n│              │ㆍ 철도분야 정보화 사전 검토              │\n│              │ㆍ 코드 및 항목 표준화, DB통합 검토       │\n│              │ㆍ 기 개발사업간 중복성 검토ㆍ조정 등     │\n│              │? 철도 정보화 관점의 사업계획에 대한     │\n│              │적정성 검토 의뢰(정보화)                  │\n──────┼───────┼─────────────────────┼───\n도로      │도로정책과    │ㆍ 도로분야 정보화추진계획 수립·시행     │\n│              │ㆍ 도로분야 정보화 사전 검토              │\n│              │ㆍ 코드 및 항목 표준화, DB통합 검토       │\n│              │ㆍ 기 개발사업간 중복성 검토ㆍ조정 등     │\n│              │? 도로 정보화 관점의 사업계획에 대한     │\n│              │적정성 검토 의뢰(정보화)                  │\n──────┴───────┴─────────────────────┴───",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000282294&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002833",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002827",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002833",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국토교통부전자정부구현에관한규정#BYL0001",
+      "filename": "별표1_국토교통 정보화사업 분야별 총괄부서 및 역할·기능(제13조제2항 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "국토교통정보화 분야별 정보화사업 예시 (제21조제3항 관련)",
+      "enforcement_date": "",
+      "content": "[별표 2]  국토교통정보화 분야별 정보화사업 예시 (제21조제3항 관련)\n─────┬─────────────────────┬────────\n분야    │정보화 사업 예시                          │비고\n─────┼─────────────────────┼────────\n국토도시│ ① 국토이용정보체계                      │국토도시분야\n│ ② 건축정보시스템 구축 및 운영           │정보화사업\n│ ③ 국가건물에너지관리시스템              │\n│ ④ 하천관리지리정보시스템 운영           │\n─────┼─────────────────────┼────────\n주택토지│ ① 주택행정정보시스템 운영               │주택토지분야\n│ ② 토지종합정보시스템 운영               │정보화사업\n│ ③ 부동산종합정보시스템 운영             │\n│ ④ 국가공간정보공동활용체계 구축 및 운영 │\n│ ⑤ 국가공간기반조성                      │\n│ ⑥ 지하시설물 전산화                     │\n│ ⑦ 국토지형관리                          │\n─────┼─────────────────────┼────────\n건설    │ ① 건설사업정보시스템 운영               │건설분야\n│ ② SOC안전정보시스템 운영                │정보화사업\n│ ③ 건설산업종합정보망 구축 및 운영       │\n─────┼─────────────────────┼────────\n교통물류│① 교통안전정보관리시스템 운영            │교통물류분야\n│② 국가교통DB시스템 운영                  │정보화사업\n│③ 교통영향평가자료DB시스템 운영          │\n│④ 교통카드빅데이터통합정보시스템 구축    │\n│⑤ 자동차전산망 운영                      │\n│⑥ 유가보조금관리시스템 운영              │\n│⑦ 국가물류통합정보센터 운영              │\n│⑧ 위험물질운송안전관리시스템 운영        │\n│⑨ 화물운송실적관리시스템 운영            │\n─────┼─────────────────────┼────────\n항공    │ ① 통합항공안전정보시스템 운영           │항공분야\n│ ② 항공물류정보시스템 운영               │정보화사업\n│ ③ 항공정보포털시스템 운영               │\n│ ④ 항공협정DB관리시스템 운영             │\n│ ⑤ 항공보안정보화시스템 운영             │\n│ ⑥ 항공전자민원처리시스템 운영           │\n│ ⑦ 항공안전IT시스템 운영                 │\n─────┼─────────────────────┼────────\n철도    │ ① 철도산업정보센터 운영                 │철도분야\n│ ② 철도안전정보종합관리시스템 구축       │정보화사업\n│ ③ 철도시설이력관리종합정보시스템 구축   │\n│ ④ 철도경찰범죄관리시스템 구축           │\n─────┼─────────────────────┼────────\n도로    │ ① 국가교통정보센터 운영                 │도로분야\n│ ② 도로관리통합시스템 운영               │정보화사업\n─────┼─────────────────────┼────────\n공통행정│① 국토교통 행정정보시스템 구축           │공통행정분야\n│② 국토교통 정보보호체계 구축 및 운영     │정보화사업\n─────┴─────────────────────┴────────",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2100000282294&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002839",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002835",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002839",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국토교통부전자정부구현에관한규정#BYL0002",
+      "filename": "별표2_국토교통정보화 분야별 정보화사업 예시 (제21조제3항 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "국토교통 지능정보화책임관 협의회 협의안건",
+      "enforcement_date": "",
+      "content": "■ 국토교통부 전자정부구현에 관한 규정 [별지 제1호서식] (제정 2016.  .   )\n┏━━━━━━┯━━━━━━┓┏━━━━┓\n┃협의 연월일 │20  .  .  . ┃┃협의사항┃\n┗━━━━━━┷━━━━━━┛┗━━━━┛\n┏━━━━━━━━━━━━━━━━━━━━━┓\n┃국토교통 지능정보화책임관 협의회 협의안건 ┃\n┗━━━━━━━━━━━━━━━━━━━━━┛\n20  .  .  .\n┏━━━━━━━━━━━━━━━━━━━━┓\n┃제 출 자                                ┃\n┠────────────────────┨\n┃국토교통 지능정보화책임관 협의회 위원장 ┃\n┗━━━━━━━━━━━━━━━━━━━━┛\n┏━━━━━━━━━━━━━━━━━━━━┓\n┃국토교통 지능정보화책임관 협의회 협의서 ┃\n┗━━━━━━━━━━━━━━━━━━━━┛\n1. 협의 주문\n2. 제안 사유\n3. 근 거\n4. 그 밖의 필요사항\n━━━━━━━━━━━━━━━━\n210mm×297mm[백상지(80g/㎡)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002845",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002841",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002845",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국토교통부전자정부구현에관한규정#BJ0001",
+      "filename": "별지1_국토교통 지능정보화책임관 협의회 협의안건.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "국토교통 지능정보화책임관 협의회",
+      "enforcement_date": "",
+      "content": "■ 국토교통부 전자정부구현에 관한 규정 [별지 제2호서식] (제정 2016.  .   )\n국토교통 지능정보화책임관 협의회\n년도(안건내용) 협의안건에 대하여 붙임과 같이 결정한다.\n20    .   .   .\n국토교통 지능정보화책임관 협의회 위원장\n━━━━┯━━━┯━━━┯━━━━━━━┯━━━┯━━━\n구  분│직  위│성  명│심의의견      │서  명│비고\n│      │      ├───┬───┤      │\n│      │      │가(可)│부(否)│      │\n━━━━┿━━━┿━━━┿━━━┿━━━┿━━━┿━━━\n위원장│      │      │      │      │      │\n────┼───┼───┼───┼───┼───┼───\n위원  │      │      │      │      │      │\n├───┼───┼───┼───┼───┼───\n│      │      │      │      │      │\n├───┼───┼───┼───┼───┼───\n│      │      │      │      │      │\n├───┼───┼───┼───┼───┼───\n│      │      │      │      │      │\n├───┼───┼───┼───┼───┼───\n│      │      │      │      │      │\n├───┼───┼───┼───┼───┼───\n│      │      │      │      │      │\n├───┼───┼───┼───┼───┼───\n│      │      │      │      │      │\n├───┼───┼───┼───┼───┼───\n│      │      │      │      │      │\n├───┼───┼───┼───┼───┼───\n│      │      │      │      │      │\n├───┼───┼───┼───┼───┼───\n│      │      │      │      │      │\n├───┼───┼───┼───┼───┼───\n│      │      │      │      │      │\n├───┼───┼───┼───┼───┼───\n│      │      │      │      │      │\n├───┼───┼───┼───┼───┼───\n│      │      │      │      │      │\n├───┼───┼───┼───┼───┼───\n│      │      │      │      │      │\n────┼───┼───┼───┼───┼───┼───\n간사  │      │      │      │      │      │\n━━━━┷━━━┷━━━┷━━━┷━━━┷━━━┷━━━\n━━━━━━━━━━━━━━━━\n210mm×297mm[백상지(80g/㎡)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002851",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002847",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002851",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국토교통부전자정부구현에관한규정#BJ0002",
+      "filename": "별지2_국토교통 지능정보화책임관 협의회.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "정보화사업 사전협의 신청서",
+      "enforcement_date": "",
+      "content": "■ 국토교통부 전자정부구현에 관한 규정 [별지 제3호서식] (제정 2016.  .   )\n정보화사업 사전협의 신청서\n────────┬───────────────────────────┬──┬─────────\n구 분         │내   용                                               │확인│첨부자료\n━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━┿━━━━━━━━━\n사업명        │예) 국토교통EA시스템 구축 사업                        │공통│사업계획서,\n────────┼───────────────────────────┤    │세부산출내역서,\n사업코드(명)  │분야-부문-프로그램-단위사업-세부사업                  │    │과업지시서,\n│예) 120(교통및물류)-126(물류등기타)-4200(국토교통정보화)-│    │제안요청서\n│    4249(국토교통행정정보화)-521(국토교통행정정보시스템구축)│    │(경쟁입찰)\n────────┼───────────────────────────┤    │\n사업비        │OOO원(\\OOO천원)                                       │    │\n────────┼─────────┬─────────────────┤    │\n사전협의 유형 │국토교통부        │행정안전부(전자정부사업)          │    │\n├─────────┼─────────────────┤    │\n│∨                │                                  │    │\n────────┼────┬───┬┴──────┬───┬──────┤    │\n사업유형      │BPR/ISP │SW개발│운영·유지보수│DB구축│전산장비구매│    │\n├────┼───┼───────┼───┼──────┤    │\n│        │∨    │              │      │∨          │    │\n├────┴───┴───────┴───┴──────┤    │\n│* 1억 원 이상의 IT네트워크장비 운영·유지보수 및 구축 등 관련 사업인 경우│    │\n│별지 제10호서식의 ‘네트워크 구축을 위한 장비 규모 산정서’를 제출│    │\n────────┼───────────────────────────┤    │\n사업기간      │총사업기간 : yyyy ∼ yyyy(x년)                        │    │\n├───────────────────────────┤    │\n│당해연도기간 : yy.mm.dd ∼ yy.mm.dd(xx일)             │    │\n────────┼───────────────────────────┤    │\n연계시스템    │예) 기연계 : 온-나라시스템, 솔넷                      │    │\n│    향후연계 : 범정부 EA시스템(‘20년)                │    │\n────────┼───────────────────────────┤    │\n사업수행시    │예) 우리부 : 본부 및 전소속기관                       │    │\n협조기관(부서)│    유관기관 : 행정안전부, 한국정보화진흥원           │    │\n────────┼───────────────────────────┤    │\n시스템        │예) H/W : 국가정보자원관리원(광주)                    │    │\n운영형태      │    S/W : 직접운영                                    │    │\n────────┼───────────────────────────┼──┼─────────\n이용고객      │내부직원                                              │    │\n├───────────────────────────┼──┼─────────\n│대국민(URL 작성)                                      │    │\n├───────────────────────────┼──┼─────────\n│내부직원 및 대국민(URL 작성)                          │    │\n├───────────────────────────┼──┼─────────\n│기타(                          )                      │    │\n────────┼───────────────────────────┼──┼─────────\n계약방법      │경쟁입찰(협상에 의한 계약)                            │    │\n├───────────────────────────┼──┼─────────\n│수의계약                                              │    │\n────────┼───────────────────────────┼──┼─────────\n평가          │정보화사업 평가대상                                   │    │평가결과\n(최근2년)     ├───────────────────────────┼──┤(최근2년)\n│기타(                          )                      │    │\n────────┼───────────────────────────┼──┼─────────\n감사          │우리부 내부감사(‘xx년 x월)                           │    │지적사항\n(최근2년)     ├───────────────────────────┼──┤(최근2년)\n│외부감사(‘xx년 x월)                                  │    │\n────────┼───────────────────────────┼──┼─────────\n보안성 검토   │유(有)                                                │    │관련자료\n대상 유무     │                                                      │    │(신청 및 결과)\n├───────────────────────────┼──┼─────────\n│무(無)                                                │    │\n────────┼───────────────────────────┼──┼─────────\n보유(처리)    │비밀(비공개 포함), 대외비(공개제한 포함)              │    │\n자료성격      ├───────────────────────────┼──┼─────────\n│개인정보보유(약 xxx건)                                │    │\n├───────────────────────────┼──┼─────────\n│공개정보(순수 공개자료만 해당)                        │    │\n├───────────────────────────┼──┼─────────\n│기타(                         )                       │    │\n────────┼───────────────────────────┼──┼─────────\n특이사항      │                                                      │    │\n────────┴───────────────────────────┴──┴─────────\n\n* 각 영역별 해당 사항에 대해서는 \"확인\"란에 √ 하시고 해당 협의자료 제출\n━━━━━━━━━━━━━━━━\n210mm×297mm[백상지(80g/㎡)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002857",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002853",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002857",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국토교통부전자정부구현에관한규정#BJ0003",
+      "filename": "별지3_정보화사업 사전협의 신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "국토교통정보망(솔넷·온-나라) 사용신청서",
+      "enforcement_date": "",
+      "content": "■ 국토교통부 전자정부구현에 관한 규정 [별지 제4호서식] (제정 2016.  .   )\n─────────────────────────────────────────────────────────────\n국토교통정보망(솔넷ㆍ온-나라) 사용신청서\n━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n기  관  명      │\n─────────┼┬─────┬────────────────────────────────────────────\n부  서  명      ││직    위  │\n─────────┼┼─────┼────────────────────────────────────────────\n직      급      ││생년월일  │\n─────────┼┼─────┼────────────────────────────────────────────\n성      명      ││성    별  │[  ] 남성   [  ] 여성\n─────────┼┴─────┴────────────────────────────────────────────\n연락처(휴대폰)  │\n─────────┼───────────────────────────────────────────────────\nE-mail          │※ 첫자는 영문자, 이후 문자는 영문 또는 숫자를 조합하여 6∼10자로 작성\n│   소문자로 일괄 등록되며 중복되는 계정이 있을 경우 ①, ②순으로 부여됨.\n│   [주의] 한번 설정한 Email은 변경이 불가하므로 신중하게 작성하여 주세요.\n│          특히 주민번호 및 생년월일의 숫자는 가급적 사용하지 마십시오.\n├───────────────────────────────────────────────────\n│ ①                      @molit.go.kr\n├───────────────────────────────────────────────────\n│ ②\n━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n온-나라시스템   [  ]사용   [  ]미사용\n─────────┬┬─────┬────────────────────────────────────────────\n사무실전화번호* ││사무실FAX*│\n─────────┼┴─────┴────────────────────────────────────────────\n사 무 실 주 소* │(온-나라시스템 사용 시 필수입력)\n━━━━━━━━━┷┱──────────────────────────────────────────────────\n사진              ┃발송용 서명(과장급이상)\n──────────╂──────────────────────────────────────────────────\n┃\n┃\n────────┬─┺━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n비밀번호      │ ※ 신규등록 시 초기 비밀번호는 생년월일 + “0000000” 13자리\n────────┼────────────────────────────────────────────────────\n개인정보 취급 │ [  ] 필수항목 동의         [  ] 선택항목 동의\n────────┴────────────────────────────────────────────────────\n[개인정보 취급관련]\n1. 수집목적 : 사용자 식별\n2. 수집항목\n* 필수항목 : 성명,생년월일,성별,소속,직급(직위),연락처,이메일,사무실전화번호/FAX/주소\n* 선택항목 : 사진, 발송용 서명(과장급이상)\n3. 보유기간 : 등록일로부터 퇴사 시까지\n4. 정보의 제공 : 국토교통부 행정정보시스템(메일, 메신저, EA, 홈페이지, 민원정보, 기록물관리, 도서\n관리, 통계관리 등)에 사용자 식별을 위해 보유목적 종료 시 까지 수집항목이 제공됨\n* 위 사항에 대하여 동의를 거부할 권리가 있으며 동의 거부 시에는 회원으로 가입하여야 제공되는 내용에 대해서는 이용\n이 불가능함\n\n위와 같이 국토교통정보망 사용을 신청합니다.\n\n년    월    일\n신청인 :                (서명  또는  인)\n확인부서장 :             (서명  또는  인)\n─────────────────────────────────────────────────────────────\n1. 국토교통정보망 사용신청서는 공통행정정보시스템(솔넷)에 온라인으로 신청하시기 바랍니다. 단. 공무원이 아닌 직원의 온-나라시스템 사용신청서는 반드시 공문으로 신청하시기 바랍니다.\n2. 직원조회에 사진이 등록되지 않은 경우 또는 사진변경 희망시에는 사진을 부착\n3. 발송용서명은 문서 시행 시에 사용할 직인으로, 과장급 이상만 필요합니다.\n반드시 한글로 표시하되 검은색 굵은 사인펜으로 네모안에 꽉차게 작성 또는 고무인을 찍어서 작성\n※ (사진부착은 선택)이며, 해당자는 서명을 기재합니다.\n사진 및 서명은 jpg파일로 스캐닝, 파일명은 한글이름으로 하여 각각의 파일을 솔넷 관리자 메일로 보내주시기 바랍니다.          예) 홍길동사진.jpg, 홍길동서명.jpg\n━━━━━━━━━━━━━━━━\n210mm×297mm[백상지(80g/㎡)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002863",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002859",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002863",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국토교통부전자정부구현에관한규정#BJ0004",
+      "filename": "별지4_국토교통정보망(솔넷·온-나라) 사용신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별지",
+      "title": "국토교통정보망(솔넷·온-나라) 사용신청서(파견자)",
+      "enforcement_date": "",
+      "content": "■ 국토교통부 전자정부구현에 관한 규정 [별지 제5호서식] (제정 2016.  .   )\n──────────────────────────────────────────────────────────────────\n국토교통정보망(솔넷ㆍ온-나라) 사용신청서(파견자)\n━━━━━━━━━┯━┯━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n기  관  명      │  │原 소속기관/부서        │\n─────────┼─┼────────────┼─────────────────────────────────────────\n부  서  명      │  │시스템사용기간          │∼\n─────────┼─┼────────────┼─────────────────────────────────────────\n직급 (직위)     │  │생년월일                │\n─────────┼─┼────────────┼─────────────────────────────────────────\n성      명      │  │성    별                │[  ] 남성   [  ] 여성\n─────────┼─┴────────────┴─────────────────────────────────────────\n연락처 (휴대폰) │\n─────────┼────────────────────────────────────────────────────────\nEmail           │※ 첫자는 영문자, 이후 문자는 영문 또는 숫자를 조합하여 6∼10자로 작성\n│   소문자로 일괄 등록되며 중복되는 계정이 있을 경우 ①, ②순으로 부여됨.\n│   [주의] 한번 설정한 Email은 변경이 불가하므로 신중하게 작성하여 주세요.\n│          특히 주민번호 및 생년월일의 숫자는 가급적 사용하지 마십시오.\n├────────────────────────────────────────────────────────\n│ ①                       @molit.go.kr\n├────────────────────────────────────────────────────────\n│ ②\n━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n온-나라시스템   [  ]사용   [  ]미사용\n─────────┬─┬────────────┬─────────────────────────────────────────\n사무실전화번호* │  │사무실FAX*              │\n─────────┼─┴────────────┴─────────────────────────────────────────\n사 무 실 주 소* │(온-나라시스템 사용 시 필수입력)\n━━━━━━━━━┷┱────────────┬──────────────────────────────────────────\n사진              ┃발송용 서명(과장급이상) │\n──────────╂────────────┤\n┃                        │\n────────┬─┺━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n비밀번호      │ ※ 신규등록시 초기 비밀번호는 생년월일 + “0000000” 13자리\n────────┼─────────────────────────────────────────────────────────\n개인정보 취급 │ [  ] 필수항목 동의         [  ] 선택항목 동의\n────────┴─────────────────────────────────────────────────────────\n[개인정보 취급관련]\n1. 수집목적 : 사용자 식별\n2. 수집항목\n* 필수항목 : 성명,생년월일,성별,소속,직급(직위),연락처,이메일,사무실전화번호/FAX/주소\n* 선택항목 : 사진, 발송용 서명(과장급이상)\n3. 보유기간 : 등록일로부터 퇴사 시까지\n4. 정보의 제공 : 국토교통부 행정정보시스템(메일, 메신저, EA, 홈페이지, 민원정보, 기록물관리, 도\n서관리, 통계관리 등)에 사용자 식별을 위해 보유목적 종료 시 까지 수집항목이 제\n공됨\n* 위 사항에 대하여 동의를 거부할 권리가 있으며 동의 거부 시에는 회원으로 가입하여야 제공되는 내용에 대해서는 이용이 불가능함\n\n위와 같이 국토교통정보망 사용을 신청합니다.\n\n년    월    일\n신청인 :                (서명  또는  인)\n확인부서장 :             (서명  또는  인)\n──────────────────────────────────────────────────────────────────\n1. 공무원이 아닌 외부기관 파견자의 온-나라 시스템 사용은 반드시 공문으로 신청하시기 바랍니다. (단, 기간제 계약근무자는 온-나라시스템 사용이 불가능합니다.)\n2. 직원조회에 사진이 등록되지 않은 경우 또는 사진변경 희망시에는 사진을 부착\n3. 발송용서명은 문서 시행 시에 사용할 직인으로, 과장급 이상만 필요합니다.\n반드시 한글로 표시하되 검은색 굵은 사인펜으로 네모안에 꽉차게 작성 또는 고무인을 찍어서 작성\n※ (사진부착은 선택)이며, 해당자는 서명을 기재합니다.\n사진 및 서명은 jpg파일로 스캐닝, 파일명은 한글이름으로 하여 각각의 파일을 솔넷 관리자 메일로 보내주시기 바랍니다.\n예) 홍길동사진.jpg, 홍길동서명.jpg\n━━━━━━━━━━━━━━━━\n210mm×297mm[백상지(80g/㎡)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002869",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002865",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002869",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국토교통부전자정부구현에관한규정#BJ0005",
+      "filename": "별지5_국토교통정보망(솔넷·온-나라) 사용신청서(파견자).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별지",
+      "title": "행정전자서명 신청서(개인용)",
+      "enforcement_date": "",
+      "content": "■ 국토교통부 전자정부구현에 관한 규정 [별지 제6호서식] (제정 2016.  .   )                                (앞 쪽)\n\n┌────┬┐\n│접수번호││\n└────┴┘\n\n──────────────────────────────────────────────────────────행정전자서명 신청서(개인용)\n□ 개인정보 수집 및 이용에 관한 사항\n○ 개인정보 수집 및 이용 목적\n- 인증서 신청자의 정보를 조회 하여 행정전자서명인증서 등록ㆍ발급 등의 업무처리 시 이용\n○ 수집 및 이용 항목 : 소속, 이름, 주민등록번호, 이메일, 휴대폰번호\n○ 개인정보의 보유 및 이용 기간\n- 신청서에 기입된 정보 : 소속, 이름, 주민등록번호, 이메일, 휴대폰번호\n- 보유기간 : 10년 (전자정부법 시행령 제33조)\n- 전자문서가 아닌 신청서(등기 등) 보존기간 : 신청서 접수 후 즉시 파기\n○ 동의거부 권리 및 불이익 내용\n- 위 개인정보에 대한 수집·이용에 관한 동의를 거부할 권리가 있으나, 행정전자서명인증서 등록ㆍ발급 등을 위해\n동의하셔야만 관련 서비스 이용이 가능합니다.\n\n☞ 개인정보 수집 및 이용에 대한 동의 : (동의함 [  ]  동의하지 않음 [  ])\n※ 고유식별정보(주민등록번호) 수집 및 이용에 관한 안내\n○ 행정전자서명 인증관리센터는 전자정부법 시행령 제90조에 근거, 행정전자서명의 인증에 관한 업무 수행을 목적으로\n고유식별번호(주민등록번호)를 처리하고 있습니다.\n\n귀하로부터 취득한 개인정보는 개인정보보호법 제15조 및 24조에서 정하는 바에 따라\n처리 목적 이외에는 사용되지 않으며 변경 시에는 사전 동의를 구할 것입니다.\n\n────────┬─────────────────────────────────────────────────────────────────\n*소        속 │※ 예시 : 기관명부터 부서명까지 상세 기재\n────────┼─────────────┬───────┬───────────────────────────────────────────\n*이        름 │                          │*주민등록번호 │\n────────┼─────────────┼───────┼───────────────────────────────────────────\n*이   메   일 │                          │*휴대폰번호   │\n────────┼────────┬────┴───────┴───────────────────────────────────────────\n│신청 사유       │[  ] 신  규          [  ] 재발급        [  ] 폐  지\n*신 청 구 분  ├────────┼────────────────────────────────────────────────────────\n│재발급 사유     │[  ] 인증정보 노출               [  ] 소속기관 변경\n│                │[  ] 저장매체파손 또는 비밀번호 분실   [   ] 기타 (                )\n├────────┼────────────────────────────────────────────────────────\n│활용업무시스템  │[  ] 행정정보공동이용        [  ] 전자문서유통시스템\n│(공공기관사용자)│[  ] 디브레인                [  ] 나라e음\n│                │[  ] 기타 (                              )\n────────┴────────┴────────────────────────────────────────────────────────\n상기와 같이 행정전자서명인증서비스를 신청합니다. 행정전자서명인증업무 지침을 준수\n하며, 본 신청서 관련정보를 개인정보 수집·이용 및 인증업무에 활용하는 것에 동의합니다.\n신청인 :                서명 또는 (인)\n──────────────────────────────────────────────────────────────────────────\n위와 같이 행정전자서명 인증서 신청을 확인합니다.\n년      월      일\n\n확인부서장 :                  (서명  또는  인)\n\n국토교통부장관  귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n210mm×297mm[백상지(80g/㎡)]\n\n─────────────────────────────────────────────\n(뒤 쪽)\n\n【작성요령】\n\n① 접수번호 : 행정전자서명 신청 접수번호이며 기재하지 않는다.\n② 소속(기관명) : 기관명부터 부서명까지 상세하게 기재한다.\n[예] 국토교통부 기획조정실 정보화통계담당관실\n③ E-Mail : 등록기관에서 사용자ID 및 인증코드 등을 송신시 사용하는 전자우편\n주소임.\n[예] abc@korea.kr(반드시 공직자통합메일주소 입력)\n④ 휴대폰번호 : 등록처리 완료 및 임시비밀번호 단문자 전송을 위해 반드시 기재한다.\n⑤ 신청구분 : 신청사유의 신규와 재발급 중 선택한 후 재발급을 신청할 경우 재발급 사유\n항목을 선택하여 ‘∨’를 표시한다.\n- 인증정보노출 : 가입자 행정전자서명생성키가 노출, 분실 등\n- 소속기관변경 : 부처간 인사이동이 있는 경우 기존 부처에서 인증서를 폐지, 신규\n부처에서 신규 발급 신청을 해야한다.\n- 저장매체파손 및 비밀번호 분실 : 행정전자서명키가 저장매체 파손, 인증서 사용\n비밀번호 분실 등으로 행정전자서명키를 인식할\n수 없는 경우\n- 기타 : 인증서 유효기간 만료 등 기타 사유를 기재\n- 활용업무시스템 : 공공기관 사용자인 경우 사용하는 시스템을 선택하여  ‘∨’를\n표시한다.\n⑥ 확인부서장 서명을 받는다.\n⑦ 행정전자서명 신청서는 공통행정정보시스템(솔넷)을 통해 온라인으로  신청하시면\n됩니다.\n- 외부 파견직원 및 기타직 직원들은 공문과 함께 신청하셔야 합니다.\n─────────────────────────────────────────────\n210mm×297mm[백상지(80g/㎡)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002877",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002871",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002877",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국토교통부전자정부구현에관한규정#BJ0006",
+      "filename": "별지6_행정전자서명 신청서(개인용).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0009",
+      "branch": "00",
+      "kind": "별지",
+      "title": "솔넷 콘텐츠 신설(변경) 요청서",
+      "enforcement_date": "",
+      "content": "■ 국토교통부 전자정부구현에 관한 규정 [별지 제9호 서식] (제정 2016.  .   )\n─────────────────────────────\n솔넷 콘텐츠 신설(변경) 요청서\n─────────┬┬─────┬────────────\n기  관  명   ││요청부서명│\n─────────┼┼─────┼────────────\n직급 (직위)     ││성      명│\n─────────┼┼─────┼────────────\n전 화 번 호     ││FAX       │∼\n─────────┼┴─────┴────────────\n기존 현황       │\n─────────┼───────────────────\n요청사유        │\n(문제점)        │\n─────────┼───────────────────\n신설(변경)      │\n요청 내용       │\n─────────┼───────────────────\n붙임자료        │\n─────────┼───────────────────\n콘텐츠(개발코너)│\n활성화 방안     │\n─────────┴───────────────────\n위와 같이 솔넷 콘텐츠에 대한 신설(변경)을 요청합니다.\n\n\n년     월    일\n\n\n신청인 :             (서명  또는  인)\n\n부서장 :             (서명  또는  인)\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n210mm×297mm[백상지(80g/㎡)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002883",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002879",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002883",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국토교통부전자정부구현에관한규정#BJ0009",
+      "filename": "별지9_솔넷 콘텐츠 신설(변경) 요청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0010",
+      "branch": "00",
+      "kind": "별지",
+      "title": "네트워크 구축을 위한 장비 규모 산정서",
+      "enforcement_date": "",
+      "content": "■ 국토교통부 전자정부구현에 관한 규정 [별지 제10호서식] (제정 2020.  .   )\n네트워크 구축을 위한 장비 규모 산정서\n─────────┬──┬───┬───┬───┬───┬───┬─────────┬────────\n유 형           │수량│단가  │합계  │벤더명│기종명│국산  │설치장소          │첨부자료\n│    │(천원)│      │      │      │여부  │                  │\n━━━━┯━━━━┿━━┿━━━┿━━━┿━━━┿━━━┿━━━┿━━━━━━━━━┿━━━━━━━━\n스위치│ L2     │2   │1,000 │2,000 │      │      │국산/ │국가정보자원관리원│사업계획서,\n│        │    │      │      │      │      │외산  │(대전/광주/대구)/ │세부산출내역서\n│        │    │      │      │      │      │      │소속·산하기관    │\n│        │    │      │      │      │      │      │(기관명)/         │\n│        │    │      │      │      │      │      │기관내부          │\n├────┼──┼───┼───┼───┼───┼───┼─────────┤\n│ L3     │3   │500   │1,500 │      │      │      │                  │\n├────┼──┼───┼───┼───┼───┼───┼─────────┤\n│ L4     │    │      │      │      │      │      │                  │\n├────┼──┼───┼───┼───┼───┼───┼─────────┤\n│ L7     │    │      │      │      │      │      │                  │\n├────┼──┼───┼───┼───┼───┼───┼─────────┤\n│ 기타   │    │      │      │      │      │      │                  │\n────┴────┼──┼───┼───┼───┼───┼───┼─────────┤\n라우터         │    │      │      │      │      │      │                  │\n├──┼───┼───┼───┼───┼───┼─────────┤\n│    │      │      │      │      │      │                  │\n├──┼───┼───┼───┼───┼───┼─────────┤\n│    │      │      │      │      │      │                  │\n─────────┼──┼───┼───┼───┼───┼───┼─────────┤\n전송장비       │    │      │      │      │      │      │                  │\n├──┼───┼───┼───┼───┼───┼─────────┤\n│    │      │      │      │      │      │                  │\n├──┼───┼───┼───┼───┼───┼─────────┤\n│    │      │      │      │      │      │                  │\n─────────┼──┼───┼───┼───┼───┼───┼─────────┤\n무선장비       │    │      │      │      │      │      │                  │\n├──┼───┼───┼───┼───┼───┼─────────┤\n│    │      │      │      │      │      │                  │\n├──┼───┼───┼───┼───┼───┼─────────┤\n│    │      │      │      │      │      │                  │\n─────────┼──┼───┼───┼───┼───┼───┼─────────┤\n기타            │    │      │      │      │      │      │                  │\n(기타내용 기재) ├──┼───┼───┼───┼───┼───┼─────────┤\n│    │      │      │      │      │      │                  │\n├──┼───┼───┼───┼───┼───┼─────────┤\n│    │      │      │      │      │      │                  │\n─────────┴──┴───┴───┴───┴───┴───┴─────────┴────────\n* 세부산출내역서는 ‘네트워크 구축을 위한 장비 규모 산정 지침(한국정보통신기술협회)’에 의한 근거자료 제출\n━━━━━━━━━━━━━━━━\n210mm×297mm[백상지(80g/㎡)]\n",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002889",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002885",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167002889",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:국토교통부전자정부구현에관한규정#BJ0010",
+      "filename": "별지10_네트워크 구축을 위한 장비 규모 산정서.hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "17. 국토교통부 전자정부 구현에 관한 규정.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=167002753",
+      "file_store_url": "",
+      "filename": "17. 국토교통부 전자정부 구현에 관한 규정.pdf"
+    },
+    {
+      "name": "17. 국토교통부 전자정부 구현에 관한 규정.hwpx",
+      "url": "http://law.go.kr/flDownload.do?flSeq=167002749",
+      "file_store_url": "",
+      "filename": "17. 국토교통부 전자정부 구현에 관한 규정.hwpx"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 45,
+    "by_category": {
+      "법령": 7,
+      "행정규칙": 29,
+      "별지": 7,
+      "별표": 2
+    },
+    "by_relation_type": {
+      "citation": 9,
+      "internal_ref": 27,
+      "appendix_ref": 9
+    },
+    "articles_total": 68,
+    "articles_with_relations": 29,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 5,
+    "appendices_count": 10,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/국토교통부 전자정부 구현에 관한 규정"
+  },
+  "provision_id": "admrul:국토교통부전자정부구현에관한규정#DOC"
+}
