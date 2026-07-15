@@ -1,0 +1,936 @@
+{
+  "law_id": "2100000282596",
+  "mst": "2100000282596",
+  "law_name": "옴부즈만 제도 운영에 관한 규정",
+  "law_abbr": "",
+  "law_type": "훈령",
+  "doc_target": "admrul",
+  "doc_kind": "행정규칙",
+  "adm_uid": "admrul:2100000282596",
+  "promulgation_no": "973",
+  "promulgation_date": "20260715",
+  "enforcement_date": "20260715",
+  "revision_date": "20260715",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "basic_info": {
+    "현행여부": "Y",
+    "담당부서기관명": "방위사업청(공직감사담당관)",
+    "담당자명": "한석봉",
+    "행정규칙종류코드": "B0001",
+    "행정규칙명": "옴부즈만 제도 운영에 관한 규정",
+    "발령일자": "20260715",
+    "행정규칙종류": "훈령",
+    "제개정구분코드": "200403",
+    "조문형식여부": "Y",
+    "소관부처명": "방위사업청",
+    "전화번호": "02-2079-6119",
+    "제개정구분명": "일부개정",
+    "소관부처코드": "1690000",
+    "생성일자": "20260716",
+    "행정규칙ID": "34272",
+    "시행일자": "20260715",
+    "담당부서기관코드": "1690244",
+    "발령번호": "973",
+    "행정규칙일련번호": "2100000282596",
+    "상위부처명": "방위사업청"
+  },
+  "amendment_text": "",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 23,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조(목적) 이 규정은 방위사업 수행에 있어 투명성과 공정성을 높이기 위하여 「방위사업법」 제6조, 같은 법 시행령 제5조부터 제7조에 따른 옴부즈만의 운영에 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "방위사업법",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/방위사업법/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:옴부즈만제도운영에관한규정#JO0001",
+            "reference_id": "law:방위사업법#JO0006"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "방위사업법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/방위사업법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:옴부즈만제도운영에관한규정#JO0001",
+            "reference_id": "law:방위사업법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제5조부터 제7조",
+            "line_text": "",
+            "target_law_name": "방위사업법 시행령",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/방위사업법 시행령/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:옴부즈만제도운영에관한규정#JO0001",
+            "reference_id": "law:방위사업법시행령#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제5조부터 제7조",
+            "line_text": "",
+            "target_law_name": "방위사업법 시행령",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/방위사업법 시행령/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:옴부즈만제도운영에관한규정#JO0001",
+            "reference_id": "law:방위사업법시행령#JO0006"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제5조부터 제7조",
+            "line_text": "",
+            "target_law_name": "방위사업법 시행령",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/방위사업법 시행령/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:옴부즈만제도운영에관한규정#JO0001",
+            "reference_id": "law:방위사업법시행령#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:옴부즈만제도운영에관한규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적용범위",
+        "chapter": "제1장 총칙",
+        "content": "제2조(적용범위) 이 규정의 적용범위는 다음 각 호와 같다.1. 방위사업청 및 그 소속기관2. 국방과학연구소3. 국방기술품질원4. 그 밖에 이 규정에서 정하는 업무와 관련이 있는 기관 및 단체",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:옴부즈만제도운영에관한규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "위촉 및 임기",
+        "chapter": "제2장 구성 및 위촉절차 등",
+        "content": "제3조(위촉 및 임기) ① 옴부즈만은 3명으로 구성한다.② 방위사업청장은 옴부즈만이 「방위사업법 시행령」(이하 \"영\"이라 한다) 제5조제1항에 따라 옴부즈만을 위촉하거나 영 제5조제3항 단서 및 그 밖의 사유로 해촉되는 등으로 새로이 옴부즈만을 위촉하여야 하는 때에는 제4조에 따른 선발심사위원회의 의결을 거쳐 지체 없이 새로운 옴부즈만을 위촉하여야 한다.③ 제1항에 의해 새롭게 위촉된 옴부즈만의 임기는 위촉된 날로부터 2년으로 한다.④ 방위사업청장은 옴부즈만을 위촉한 경우에 청렴서약서를 제출하도록 하여야 하며, 옴부즈만으로 위촉된 자가 청렴서약서 내용을 지키지 않은 경우 해촉하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "「방위사업법 시행령」",
+            "line_text": "",
+            "target_law_name": "방위사업법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/방위사업법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:옴부즈만제도운영에관한규정#JO0003",
+            "reference_id": "law:방위사업법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "제5조제1항",
+            "line_text": "",
+            "target_law_name": "방위사업법 시행령",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/방위사업법 시행령/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:옴부즈만제도운영에관한규정#JO0003",
+            "reference_id": "law:방위사업법시행령#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "영",
+            "line_text": "",
+            "target_law_name": "방위사업법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/방위사업법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:옴부즈만제도운영에관한규정#JO0003",
+            "reference_id": "law:방위사업법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "제5조제3항",
+            "line_text": "",
+            "target_law_name": "방위사업법 시행령",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/방위사업법 시행령/제5조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:옴부즈만제도운영에관한규정#JO0003",
+            "reference_id": "law:방위사업법시행령#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "방위사업법 시행령",
+            "target_article_no": "제4조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/방위사업법 시행령/제4조",
+            "resolve_method": "text_supplement",
+            "source_provision_id": "admrul:옴부즈만제도운영에관한규정#JO0003",
+            "reference_id": "law:방위사업법시행령#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:옴부즈만제도운영에관한규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "선발심사위원회",
+        "chapter": "제2장 구성 및 위촉절차 등",
+        "content": "제4조(선발심사위원회) ① 방위사업청장은 옴부즈만 위촉후보자를 선발하기 위해 위원장을 포함한 5명의 위원으로 구성하는 선발심사위원회를 둔다.② 선발심사위원회 위원장은 차장으로 하고, 위원은 청장이 지명하는 국ㆍ부장 4명으로 구성하며, 간사는 공직감사담당관으로 한다.③ 옴부즈만 위촉후보자 선발 심사는 [별지 제1호] 서식의 자격심사표와 선발심사표에 의하며, 심사기준은 다음 각 호와 같다.1. 감사, 조사 분야 관련지식 및 활동실적2. 방위사업관련 전문지식 및 활동실적3. 투명성분야 활동실적4. 방위사업청 옴부즈만으로서의 활동계획과 자세5. 그 밖의 학식과 덕망",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제3항",
+            "link_text": "별지 제1호",
+            "line_text": "",
+            "target_law_name": "옴부즈만 제도 운영에 관한 규정",
+            "target_article_no": "별지1",
+            "target_article_title": "옴부즈만 자격심사표",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167120919",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:옴부즈만제도운영에관한규정#JO0004",
+            "reference_id": "admrul:옴부즈만제도운영에관한규정#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:옴부즈만제도운영에관한규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "대표옴부즈만",
+        "chapter": "제2장 구성 및 위촉절차 등",
+        "content": "제5조(대표옴부즈만) ① 방위사업청 옴부즈만 제도의 효율적인 운영을 위하여 대표옴부즈만을 둔다.② 대표옴부즈만의 임기는 옴부즈만 임기 내로 한다.③ 그 밖의 대표옴부즈만 임명 등에 대하여는 영 제6조에 의한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제3항",
+            "link_text": "영",
+            "line_text": "",
+            "target_law_name": "방위사업법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/방위사업법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:옴부즈만제도운영에관한규정#JO0005",
+            "reference_id": "law:방위사업법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제3항",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "방위사업법 시행령",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/방위사업법 시행령/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:옴부즈만제도운영에관한규정#JO0005",
+            "reference_id": "law:방위사업법시행령#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:옴부즈만제도운영에관한규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "비밀열람 및 보관",
+        "chapter": "제3장 옴부즈만 군사기밀자료의 보관 및 관리",
+        "content": "제6조(비밀열람 및 보관) ① 방위사업청장은 옴부즈만 업무를 위한 군사기밀문서 등 비밀자료의 관리가 필요할 경우 옴부즈만 사무실에 군사기밀자료보관함(이하\"비밀보관함\"이라 한다)을 설치한다.② 비밀보관함에는 옴부즈만이 민원조사를 위하여 생산 또는 접수한 비밀자료를 보관한다.③ 비밀보관함의 관리책임은 옴부즈만 운영담당이 맡는다.④ 비밀자료와 관련하여 옴부즈만 운영담당의 임무는 다음 각 호와 같다.1. 비밀자료의 관리2. 비밀관리기록부 등 각종 서식의 비치 및 기록유지3. 비밀자료의 열람 등에 관한 사항4. 옴부즈만이 비밀보관함 운영과 관련하여 요구한 사항에 대한 협조⑤ 옴부즈만 운영담당은 비밀자료의 효율적 관리를 위하여 매월 말 기준으로 비밀자료의 현황과 비밀자료의 계속 보관 여부 등을 파악하여 필요한 조치를 하여야 한다.⑥ 옴부즈만이 비밀자료를 열람할 경우에는 비밀이력카드에 소정의 사항을 기록하고 서명한 후에 옴부즈만 운영담당의 입회하에 열람하여야 한다.⑦ 소관부서장은 옴부즈만에게 설명하거나 열람시킨 비밀자료는 즉시 회수하여야 한다.⑧ 옴부즈만이 비밀자료를 복제ㆍ복사할 때에는 감사관실 분임보안담당관의 승인을 받아야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:옴부즈만제도운영에관한규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "서류열람 등",
+        "chapter": "제3장 옴부즈만 군사기밀자료의 보관 및 관리",
+        "content": "제7조(서류열람 등) ① 옴부즈만이 「방위사업법」 제6조제8항에 따라 민원조사를 위하여 해당 사항에 대한 설명, 관계 서류의 열람 또는 현장 확인 등을 요구한 경우 소관부서장은 이에 응하여야 한다. 다만 관계 서류 등이「공공기관의 정보공개에 관한 법률」 제9조제1항제2호 및 제5호에 해당되어 열람할 수 없는 경우 소관부서장은 의견진술이나 설명을 할 수 있다.② 소관부서장은 비밀 설명시 시작할 때와 끝날 때에 그 ‘비밀등급’과 ‘본 자료는 방위사업상 관련 없는 자에게 누설하거나 전파할 수 없음’이라고 경고하여야 한다.③ 옴부즈만은 현장에서 문서의 원본이나 사본을 요구하여 인수한 경우 [별지 제2호] 서식의 문서인수 확인서를 작성하여 소관부서장에게 제출하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "「방위사업법」",
+            "line_text": "",
+            "target_law_name": "방위사업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/방위사업법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:옴부즈만제도운영에관한규정#JO0007",
+            "reference_id": "law:방위사업법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "제6조제8항",
+            "line_text": "",
+            "target_law_name": "방위사업법",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/방위사업법/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:옴부즈만제도운영에관한규정#JO0007",
+            "reference_id": "law:방위사업법#JO0006"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "「공공기관의 정보공개에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "공공기관의 정보공개에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:옴부즈만제도운영에관한규정#JO0007",
+            "reference_id": "law:공공기관의정보공개에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "제9조제1항제2호 및 제5호",
+            "line_text": "",
+            "target_law_name": "공공기관의 정보공개에 관한 법률",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률/제9조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:옴부즈만제도운영에관한규정#JO0007",
+            "reference_id": "law:공공기관의정보공개에관한법률#JO0009"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제3항",
+            "link_text": "별지 제2호",
+            "line_text": "",
+            "target_law_name": "옴부즈만 제도 운영에 관한 규정",
+            "target_article_no": "별지2",
+            "target_article_title": "문서인수 확인서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167120925",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:옴부즈만제도운영에관한규정#JO0007",
+            "reference_id": "admrul:옴부즈만제도운영에관한규정#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:옴부즈만제도운영에관한규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "직무수행방법",
+        "chapter": "제4장 직무수행방법",
+        "content": "제8조(직무수행방법) ① 옴부즈만은 담당 민원사항에 대해 직접 조사하고, 그 결과를 옴부즈만 전체회의에서 협의하여야 한다.② 옴부즈만은 제기된 민원을 접수한 날로부터 2개월 이내에 처리하되, 부득이한 사유로 정해진 기간에 처리하지 못할 경우 민원처리 지연사유와 처리계획을 민원인에게 통지하여야 한다③ 옴부즈만이 처리한 업무는 그 문서에 옴부즈만의 서명을 사용하여 옴부즈만이 처리하였음을 표시하여야 한다.④ 옴부즈만은 민원조사 과정에서 민원인이나 업무 관련자 등을 면담할 때에는 옴부즈만 운영담당을 참석시켜야 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:옴부즈만제도운영에관한규정#JO0008"
+      },
+      {
+        "article_no": "제8조의2",
+        "article_title": "옴부즈만의 제척ㆍ기피ㆍ회피",
+        "chapter": "제4장 직무수행방법",
+        "content": "제8조의2(옴부즈만의 제척ㆍ기피ㆍ회피) ① 옴부즈만은 다음 각 호의 어느 하나에 해당하는 경우에는 그 사안의 직무수행 과정에서 제척된다.1. 옴부즈만이 해당 사안에 대하여 법률상 특수 관계 등으로 직접적인 이해관계가 있는 사항2. 옴부즈만 본인의 친족관계에 있거나 있었던 사람과 관련되는 사항3. 옴부즈만이 당해 사안에 관하여 증언, 감정, 법률자문 또는 손해사정을 한 경우4. 옴부즈만이 되기 전에 당해 사안에 대하여 감사, 수사 또는 조사에 관여한 사항5. 옴부즈만이 당해 사안에 관하여 당사자의 대리인으로 관여하거나 관여하였던 경우 등② 민원조사 당사자는 옴부즈만에게 공정을 기대하기 어려운 특별한 사정이 있는 경우에는 기피신청을 할 수 있다.③ 옴부즈만 본인이 제1항 또는 제2항의 사유에 해당하는 경우에는 스스로 그 사안의 직무수행을 회피할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:옴부즈만제도운영에관한규정#JO0008_02"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "회의의 종류",
+        "chapter": "제5장 옴부즈만 회의",
+        "content": "제9조(회의의 종류) ① 옴부즈만 회의는 전체회의와 수시회의로 구분한다.② 옴부즈만 회의의 간사는 옴부즈만 운영담당이 하며, 옴부즈만 활동에 필요한 사항을 지원하기 위해 공직감사담당관이 참석할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:옴부즈만제도운영에관한규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "전체회의",
+        "chapter": "제5장 옴부즈만 회의",
+        "content": "제10조(전체회의) ① 전체회의에는 옴부즈만 모두가 참석하며, 그 개최시기는 옴부즈만의 합의로 결정한다.② 전체회의에서는 옴부즈만의 운영 및 민원처리에 관한 전반적인 사항과 영 제7조에 따른 시정 또는 감사요구 사항 등을 결정한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제2항",
+            "link_text": "영",
+            "line_text": "",
+            "target_law_name": "방위사업법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/방위사업법 시행령",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:옴부즈만제도운영에관한규정#JO0010",
+            "reference_id": "law:방위사업법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제2항",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "방위사업법 시행령",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/방위사업법 시행령/제7조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:옴부즈만제도운영에관한규정#JO0010",
+            "reference_id": "law:방위사업법시행령#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:옴부즈만제도운영에관한규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "수시회의",
+        "chapter": "제5장 옴부즈만 회의",
+        "content": "제11조(수시회의) 수시회의는 옴부즈만 2인 이상으로 개최되며 제기된 민원사항의 조사 및 이에 관한 행정적 지원 등에 관하여 논의가 필요하다고 인정될 때에 해당민원을 담당하는 옴부즈만의 요구에 의하여 소집된다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:옴부즈만제도운영에관한규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "회의시 보안대책",
+        "chapter": "제5장 옴부즈만 회의",
+        "content": "제12조(회의시 보안대책) ① 회의는 옴부즈만 사무실에서 하는 것을 원칙으로 하되 옴부즈만 사무실 이외의 장소에서 회의를 하는 경우에는 불필요한 인원의 접근을 차단하여야 한다.② 옴부즈만 운영담당은 회의 안건에 비밀사항이 포함된 경우「보안업무 규정(방위사업청훈령)」의 ‘비밀회의 시 보안대책’에 따른 적절한 조치를 취하여야 한다.③ 옴부즈만 운영담당은 비밀내용이 포함된 회의 자료를 회의 참석자에게 배부할 때에는 사본번호를 부여하고, 회의 종료와 동시에 회수하여 파기하여야 하며, 접수용 비밀관리기록부에 등재된 원본의 비고란에 사본부수(사본번호) 및 파기근거를 기록하여야한다",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:옴부즈만제도운영에관한규정#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "시정 및 감사요구",
+        "chapter": "제6장 민원조사 처리절차",
+        "content": "제13조(시정 및 감사요구) 옴부즈만은 민원 조사결과 처분 등이 위법ㆍ부당하다고 인정할 만한 상당한 이유가 있는 경우에는 시정 및 감사요구를 할 수 있다",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:옴부즈만제도운영에관한규정#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "개선권고 및 의견표명",
+        "chapter": "제6장 민원조사 처리절차",
+        "content": "제14조(개선권고 및 의견표명) 옴부즈만은 민원사항에 대한 조사결과 시정 또는 감사요구를 하여야 할 정도에 이르지 아니하나, 제도나 정책 등의 개선이 필요하다고 인정되는 경우에는 이에 대한 합리적인 개선을 권고하거나 의견을 표명할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:옴부즈만제도운영에관한규정#JO0014"
+      },
+      {
+        "article_no": "제14조의2",
+        "article_title": "기각 및 조정",
+        "chapter": "제6장 민원조사 처리절차",
+        "content": "제14조의2(기각 및 조정) ① 옴부즈만은 민원사항에 대한 조사결과 민원인의 주장이 타당하지 못하다고 판단될 경우 민원인에게 ‘기각’을 통보할 수 있다.②옴부즈만은 민원 조사 과정에서 당사자간 의견을 조정하거나 합의를 권고하는 등 원만한 해결을 위하여 필요한 조치를 할수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:옴부즈만제도운영에관한규정#JO0014_02"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "민원의 각하 및 종결",
+        "chapter": "제6장 민원조사 처리절차",
+        "content": "제15조(민원의 각하 및 종결) ① 옴부즈만은 「방위사업법」 제6조제7항 각호의 어느 하나에 해당하는 사항에 대하여 각하 하여야 한다.② 옴부즈만은 민원이 다음 각 호의 어느 하나에 해당한다고 인정되는 경우에는 조사 없이 종결할 수 있다.1. 민원의 내용이 거짓이거나 정당한 사유가 없다고 인정되는 경우2. 옴부즈만이 각하한 민원을 그 사유의 해소 없이 다시 제기한 경우3. 옴부즈만이 이미 처리한 민원과 동일한 내용의 민원을 다시 제기한 경우4. 사인간의 권리관계 또는 공무원의 인사행정상의 행위에 관한 사항",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제1항",
+            "link_text": "「방위사업법」",
+            "line_text": "",
+            "target_law_name": "방위사업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/방위사업법",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:옴부즈만제도운영에관한규정#JO0015",
+            "reference_id": "law:방위사업법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제1항",
+            "link_text": "제6조제7항",
+            "line_text": "",
+            "target_law_name": "방위사업법",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/방위사업법/제6조",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:옴부즈만제도운영에관한규정#JO0015",
+            "reference_id": "law:방위사업법#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:옴부즈만제도운영에관한규정#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "민원조사 결과 통보 등",
+        "chapter": "제6장 민원조사 처리절차",
+        "content": "제16조(민원조사 결과 통보 등) ① 대표옴부즈만은 민원조사 결과를 민원인 및 관련부서 또는 감사관에 통보하여야 한다.② 대표옴부즈만으로부터 민원조사 결과 후속조치가 필요하다는 통보를 받은 관련부서 또는 감사관은 이를 존중하여야 한다.③ 제1항에 따라 시정권고 또는 개선권고, 의견표명, 조정 등을 통보받은 관련부서는 통보받은 날로부터 30일 이내에 조치결과를 [별지 제4호]의 서식에 따라 대표옴부즈만에게 통보하여야 한다. 다만, 기간 내에 조치가 제한될 경우에는 조치계획을 먼저 통보하고 조치가 완료되면 그 결과를 통보하여야 한다.④ 관련부서는 민원조사 결과를 수용하는 것이 제한될 경우 조치결과 통보 전에 옴부즈만에 의견을 제시하고, 필요시 옴부즈만과 검토회의를 실시할수 있다.⑤ 제 1항에 따라 감사요구를 통보받은 감사관은 다음 각 호와 같이 처리하여야 한다.1. 감사관은 감사요구를 받은 날로부터 30일 이내에 감사계획을 수립하여 대표옴부즈만에게 통보하여야 한다.2. 감사관은 제1호의 감사계획에 따라 감사를 실시하고, 관련부서의 장에게 감사결과를 통보하여야 한다.3. 감사결과를 통보받은 관련부서의 장은 감사결과에 따른 조치계획을 수립하여 필요한 조치를 하고 그 결과를 감사관실에 통보하여야 한다.4. 감사관은 제3호의 조치결과를 대표옴부즈만에게 통보하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제3항",
+            "link_text": "별지 제4호",
+            "line_text": "",
+            "target_law_name": "옴부즈만 제도 운영에 관한 규정",
+            "target_article_no": "별지4",
+            "target_article_title": "옴부즈만 민원 후속조치 결과(계획)",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167120937",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:옴부즈만제도운영에관한규정#JO0016",
+            "reference_id": "admrul:옴부즈만제도운영에관한규정#BJ0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:옴부즈만제도운영에관한규정#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "사무지원",
+        "chapter": "제7장 기 타",
+        "content": "제17조(사무지원) ① 방위사업청장은 옴부즈만의 원활한 활동을 위하여 옴부즈만 운영담당 인력과 사무실 등을 지원한다.② 옴부즈만 운영담당은 옴부즈만 회의 개최 시 회의안건 준비 및 회의록 작성, 관리 등 필요한 사항을 준비, 지원하여야 한다.③ 옴부즈만 운영담당은 옴부즈만의 민원조사 활동 등 이 규정에서 정한 경우 및 필요한 경우 참석하여야 하며, 참석이 불가능한 경우 방위사업청장은 감사관실 직원 중에서 옴부즈만 운영담당을 대리하여 참석하게 할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:옴부즈만제도운영에관한규정#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "수당 등",
+        "chapter": "제7장 기 타",
+        "content": "제18조(수당 등) ① 방위사업청장은 예산의 범위에서 「예산편성 및 기금운용계획 집행지침」에 따라 옴부즈만에게 회의참석 수당을 지급할 수 있다.② 방위사업청장은 옴부즈만의 조사활동 및 그 밖의 옴부즈만 자격으로 행하는 활동에 대해서는 예산의 범위에서 「예산편성 및 기금운용계획 집행지침」에 따라 국가업무 조력자 사례금 등을 지급 할 수 있다.③ 방위사업청장은 옴부즈만이 민원조사 등을 위한 출장 시 「공무원 여비 규정(대통령령)」에 따라 출장비를 별도로 지급한다. 이 경우 「공무원 여비 규정」 별표 1의 여비 지급 구분표 중 ‘제1호 라목’에 해당하는 여비를 지급한다.④ 옴부즈만이 민원조사와 회의참석 등을 위해 근무지 외에서 참석하는 경우 방위사업청장은 예산의 범위 내에서 해당 여비를 지급할 수 있다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제3항",
+            "link_text": "「공무원 여비 규정」",
+            "line_text": "",
+            "target_law_name": "공무원 여비 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공무원 여비 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:옴부즈만제도운영에관한규정#JO0018",
+            "reference_id": "law:공무원여비규정#DOC"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제3항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "공무원 여비 규정",
+            "target_article_no": "별표1",
+            "target_article_title": "",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": false,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공무원 여비 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:옴부즈만제도운영에관한규정#JO0018",
+            "reference_id": "law:공무원여비규정#BYL0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:옴부즈만제도운영에관한규정#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "활동실적 제출",
+        "chapter": "제7장 기 타",
+        "content": "제19조(활동실적 제출) ① 대표옴부즈만은 반기별 활동실적을 7월말과 다음연도 1월말까지 방위사업청장에게 제출하여야 한다.② 방위사업청장은 옴부즈만이 제출한 활동실적을 토대로 연임여부를 판단할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:옴부즈만제도운영에관한규정#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "접수민원 배분",
+        "chapter": "제7장 기 타",
+        "content": "제20조(접수민원 배분) 대표옴부즈만은 접수된 민원에 대해 차례를 정하여 옴부즈만에게 공평하게 배분한다. 다만, 민원의 성격과 옴부즈만의 전문분야 등을 고려할 때 조정할 필요가 있다고 판단하는 경우 옴부즈만의 동의를 얻어 배분 차례를 조정할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "admrul:옴부즈만제도운영에관한규정#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "재검토기한",
+        "chapter": "제7장 기 타",
+        "content": "제21조(재검토기한) ① 청장은 「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」(대통령훈령 제334호)에 따라 이 훈령에 대하여 2020년 1월 1일 기준으로 매3년이 되는 시점(매 3년째의 12월 31일까지를 말한다)마다 그 타당성을 검토하여 개선 등의 조치를 하여야 한다.",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제21조",
+            "source_clause": "제21조제1항",
+            "link_text": "「훈령ㆍ예규 등의 발령 및 관리에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/훈령ㆍ예규 등의 발령 및 관리에 관한 규정",
+            "resolve_method": "html",
+            "source_provision_id": "admrul:옴부즈만제도운영에관한규정#JO0021",
+            "reference_id": "admrul:훈령예규등의발령및관리에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "admrul:옴부즈만제도운영에관한규정#JO0021"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20060619",
+      "promulgation_no": "24",
+      "content": "부칙 <제24호,2006. 6. 19.>이 지침은 2006. 6. 19.부터 시행한다."
+    },
+    {
+      "promulgation_date": "20090805",
+      "promulgation_no": "103",
+      "content": "부칙 <제103호,2009. 8. 5.>이 훈령은 발령한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20111230",
+      "promulgation_no": "168",
+      "content": "부칙 <제168호,2011. 12. 30.>이 훈령은 2012. 1. 1.부터 시행한다."
+    },
+    {
+      "promulgation_date": "20121026",
+      "promulgation_no": "194",
+      "content": "부칙 <제194호,2012. 10. 26.>이 훈령은 발령한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20140204",
+      "promulgation_no": "259",
+      "content": "부칙 <제259호,2014. 2. 4.>제1조(시행일) 이 규정은 발령한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20190724",
+      "promulgation_no": "515",
+      "content": "부칙 <제515호,2019. 7. 24.>제1조(시행일) 이 규정은 발령한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20240501",
+      "promulgation_no": "850",
+      "content": "부칙 <제850호, 2024. 5. 1.>제1조(시행일) 이 규정은 발령한 날로부터 시행한다.제2조(경과조치) 이 규정의 개정에도 불구하고 시행일 이전에 옴부즈만이 접수한 지체상금 관련 민원은 종전 규정에 따라 처리한다."
+    },
+    {
+      "promulgation_date": "20260715",
+      "promulgation_no": "973",
+      "content": "부칙 <제973호, 2026. 7. 15.>제1조(시행일) 이 규정은 발령한 날로부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "옴부즈만 자격심사표",
+      "enforcement_date": "",
+      "content": "[별지 제1호 서식]\n┌──────┬──────┬─────────┬───┐\n│구분        │방위사업법  │방위사업법        │합 격 │\n│(지원자)    │제6조제6항  │제6조제6항 단서   │여 부 │\n│            │해당자격사항│및 제9항 해당여부 │      │\n├──────┼──────┼─────────┼───┤\n│            │            │                  │      │\n├──────┼──────┼─────────┼───┤\n│            │            │                  │      │\n├──────┼──────┼─────────┼───┤\n│            │            │                  │      │\n├──────┼──────┼─────────┼───┤\n│            │            │                  │      │\n├──────┼──────┼─────────┼───┤\n│            │            │                  │      │\n├──────┼──────┼─────────┼───┤\n│            │            │                  │      │\n├──────┼──────┴─────────┴───┤\n│심 사 위 원 │   성 명                   (서명)       │\n└──────┴────────────────────┘\n옴부즈만 자격심사표\n-----------------------------------------------------------------------\n┌──────┬┐\n│지원자 성명 ││\n└──────┴┘\n옴부즈만 선발심사표\n┌────────────────────────┬───────────┐\n│심   사   요   소                               │심  사  결  과        │\n│                                                ├───┬───┬───┤\n│                                                │우수  │보통  │미흡  │\n│                                                │(2점) │(1점) │(0점) │\n├────────────────────────┼───┼───┼───┤\n│ 가. 감사분야 관련지식 및 활동실적              │      │      │      │\n├────────────────────────┼───┼───┼───┤\n│ 나. 방위사업관련 전문지식 및 활동실적          │      │      │      │\n├────────────────────────┼───┼───┼───┤\n│ 다. 투명성분야 활동실적                        │      │      │      │\n├────────────────────────┼───┼───┼───┤\n│ 라. 방위사업청 옴부즈만으로서의 활동계획과 자세│      │      │      │\n├────────────────────────┼───┼───┼───┤\n│ 마. 그 밖의 학식과 덕망                        │      │      │      │\n├────────────────────────┼───┼───┼───┤\n│계                                              │개    │개    │개    │\n├────────────────────────┼───┼───┼───┤\n│점 수                                           │점    │점    │점    │\n├────────────────────────┼───┴───┴───┤\n│총 점                                           │점                    │\n├───────┬────────────────┴───────────┤\n│심  사  위  원│   성 명 :                         (서명)               │\n└───────┴────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167120919",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167120915",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167120919",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:옴부즈만제도운영에관한규정#BJ0001",
+      "filename": "별지1_옴부즈만 자격심사표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "문서인수 확인서",
+      "enforcement_date": "",
+      "content": "[별지 제2호 서식]\n문서인수 확인서\n○ 일 시 :\n○ 장 소 :\n○ 소관부서 :\n○ 문서 인계자 :\n○ 문서 형태 : (원본 또는 사본)\n○ 문서 내용 :\n위와 같이 옴부즈만이 해당 문서를 인수하였음을 확인함.\n방위사업청 옴부즈만    성 명 :             (서명)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167120925",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167120921",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167120925",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:옴부즈만제도운영에관한규정#BJ0002",
+      "filename": "별지2_문서인수 확인서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "옴부즈만 민원조사 처리절차",
+      "enforcement_date": "",
+      "content": "[별지 제3호]\n옴부즈만 민원조사 처리절차\n┌┐\n││\n└┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167120931",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167120927",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167120931",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:옴부즈만제도운영에관한규정#BJ0003",
+      "filename": "별지3_옴부즈만 민원조사 처리절차.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "옴부즈만 민원 후속조치 결과(계획)",
+      "enforcement_date": "",
+      "content": "[별지 제4호 서식]\n┌──────────────────────────────────┐\n│━━━━━━━━━━━━━━━━━━━━━━━━                    │\n│  (제00-0호) 옴부즈만 민원 후속조치 결과(계획)                      │\n│━━━━━━━━━━━━━━━━━━━━━━━━                    │\n│                                                                    │\n│□ 일반사항                                                         │\n│                                                                    │\n│  ? 민원내용 : 000 요청                                            │\n│  ? 관련부서 : 000                                                 │\n│  ? 민원조사결과 및 의견 접수일 : ‘00, 00. 00.(0)                 │\n│                                                                    │\n│                                                                    │\n│□ 옴부즈만 조사결과 및 의견                                        │\n│  ? 000에 대한 ~ 시정권고                                          │\n│  ? 000에 대한 ~ 개선권고                                          │\n│  ? 000에 대한 ~ 의견표명                                          │\n│                                                                    │\n│                                                                    │\n│□ 수용여부                                                         │\n│  ? 000에 대한 ~ 시정권고 : 수용 or 수용제한                       │\n│  ? 000에 대한 ~ 개선권고 : 수용 or 수용제한                       │\n│  ? 000에 대한 ~ 의견표명 : 수용 or 수용제한                       │\n│                                                                    │\n│                                                                    │\n│□ 조치결과(or 조치계획)                                            │\n│                                                                    │\n│  ? 000에 대한 ~ 시정권고에 대해서 000 조치 완료                   │\n│     * 세부조치 결과 별도 첨부 (양식은 부서별 판단)                 │\n│                                                                    │\n│  ? 000에 대한 ~ 개선권고에 대해서 000 조치 완료                   │\n│     * 세부조치 결과 별도 첨부 (양식은 부서별 판단)                 │\n│                                                                    │\n│  ? 000에 대한 ~ 의견표명에 대해서 000 조치 완료                   │\n│     * 세부조치 결과 별도 첨부 (양식은 부서별 판단)                 │\n│                                                                    │\n│                                                                    │\n│  ※ 30일 이내 조치가 제한될 경우에는 조치계획을 먼저 통보하고      │\n│     조치가 완료되면 그 결과를 통보                                 │\n│                                                                    │\n│  ※ 수용제한의 경우 수용제한 사유 및 근거 등 제출(필요시 옴부즈만  │\n│     검토회의 일정 포함), 최종 조치결과 통보(청장 결재)             │\n│     * 수용제한 세부 사유 및 근거 별도 첨부 (양식은 부서별 판단)    │\n└──────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167120937",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167120933",
+          "name": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167120937",
+          "name": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "admrul:옴부즈만제도운영에관한규정#BJ0004",
+      "filename": "별지4_옴부즈만 민원 후속조치 결과(계획).hwp",
+      "file_store_url": ""
+    }
+  ],
+  "attachments": [
+    {
+      "name": "옴부즈만 제도 운영에 관한 규정_전문.hwp",
+      "url": "http://law.go.kr/flDownload.do?flSeq=167120761",
+      "file_store_url": "",
+      "filename": "옴부즈만 제도 운영에 관한 규정_전문.hwp"
+    },
+    {
+      "name": "옴부즈만 제도 운영에 관한 규정_전문.pdf",
+      "url": "http://law.go.kr/flDownload.do?flSeq=167120765",
+      "file_store_url": "",
+      "filename": "옴부즈만 제도 운영에 관한 규정_전문.pdf"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 26,
+    "by_category": {
+      "법령": 21,
+      "별지": 3,
+      "별표": 1,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "citation": 22,
+      "appendix_ref": 4
+    },
+    "articles_total": 23,
+    "articles_with_relations": 10,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 8,
+    "appendices_count": 4,
+    "attachments_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/행정규칙/옴부즈만 제도 운영에 관한 규정"
+  },
+  "provision_id": "admrul:옴부즈만제도운영에관한규정#DOC"
+}
